@@ -1,0 +1,740 @@
+{
+    "title": "汽车功能安全", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/qing-feng-96-40-22", 
+        "https://www.zhihu.com/people/juring-90", 
+        "https://www.zhihu.com/people/jjy-92-37", 
+        "https://www.zhihu.com/people/bms513", 
+        "https://www.zhihu.com/people/qi-yue-feng-51-21", 
+        "https://www.zhihu.com/people/huwonder", 
+        "https://www.zhihu.com/people/jianqiangwu821", 
+        "https://www.zhihu.com/people/baymax-lee-26", 
+        "https://www.zhihu.com/people/myd127", 
+        "https://www.zhihu.com/people/xiao-chen-tong-xue-75-31", 
+        "https://www.zhihu.com/people/erin-wang-87", 
+        "https://www.zhihu.com/people/fei-er-75-82", 
+        "https://www.zhihu.com/people/guo-da-xia-16-74", 
+        "https://www.zhihu.com/people/jun-shu-lei", 
+        "https://www.zhihu.com/people/shu-xiao-nong", 
+        "https://www.zhihu.com/people/roman-chen-41", 
+        "https://www.zhihu.com/people/qi-ge-xiao-jie-jie", 
+        "https://www.zhihu.com/people/jerry-10-28", 
+        "https://www.zhihu.com/people/fei-he-15-46", 
+        "https://www.zhihu.com/people/1234567890-41-56", 
+        "https://www.zhihu.com/people/da-hai-33-37", 
+        "https://www.zhihu.com/people/toby-15-38", 
+        "https://www.zhihu.com/people/wo-er-35-14", 
+        "https://www.zhihu.com/people/alex741123", 
+        "https://www.zhihu.com/people/feng-zhong-luo-xie-93", 
+        "https://www.zhihu.com/people/kong-kong-54-19-58", 
+        "https://www.zhihu.com/people/hou-shi-jing-46", 
+        "https://www.zhihu.com/people/mr-z-85-54", 
+        "https://www.zhihu.com/people/you-zhong-feng-19", 
+        "https://www.zhihu.com/people/wwlyfeng", 
+        "https://www.zhihu.com/people/lee-frank-11", 
+        "https://www.zhihu.com/people/ke-shui-tu-ai-shui-jue", 
+        "https://www.zhihu.com/people/nikolasy2008-36", 
+        "https://www.zhihu.com/people/moxilou", 
+        "https://www.zhihu.com/people/wangy-40-92", 
+        "https://www.zhihu.com/people/young-2-1", 
+        "https://www.zhihu.com/people/liang-xin-28-27", 
+        "https://www.zhihu.com/people/jim-2-99", 
+        "https://www.zhihu.com/people/yan-yao-33", 
+        "https://www.zhihu.com/people/mama-72-42", 
+        "https://www.zhihu.com/people/coolxiaogu", 
+        "https://www.zhihu.com/people/sun-hang-86-90", 
+        "https://www.zhihu.com/people/jiangfeng-3", 
+        "https://www.zhihu.com/people/alfrat", 
+        "https://www.zhihu.com/people/mu-yu-cang-tai", 
+        "https://www.zhihu.com/people/aaa-20-28", 
+        "https://www.zhihu.com/people/CireeE", 
+        "https://www.zhihu.com/people/rey-king", 
+        "https://www.zhihu.com/people/an-nuo-lu-sai-ke-si", 
+        "https://www.zhihu.com/people/chen-yan-cheng", 
+        "https://www.zhihu.com/people/rams_eng", 
+        "https://www.zhihu.com/people/xu-da-tou-33", 
+        "https://www.zhihu.com/people/sharon-83-80", 
+        "https://www.zhihu.com/people/yu-xiao-bin-45-30", 
+        "https://www.zhihu.com/people/xu-dong-dong-73-38", 
+        "https://www.zhihu.com/people/pang-niu-27", 
+        "https://www.zhihu.com/people/yun-shang-qing-tian-68", 
+        "https://www.zhihu.com/people/wangdian-83", 
+        "https://www.zhihu.com/people/evan-liuch", 
+        "https://www.zhihu.com/people/gang-41-9", 
+        "https://www.zhihu.com/people/xue-er-bu-yan-63-19", 
+        "https://www.zhihu.com/people/yu-yu-68-20-45", 
+        "https://www.zhihu.com/people/xiao-mi-zhou-98-18", 
+        "https://www.zhihu.com/people/talent-50", 
+        "https://www.zhihu.com/people/zhang-ming-zhe-69-75", 
+        "https://www.zhihu.com/people/meng-ya-2-75", 
+        "https://www.zhihu.com/people/wang-da-lei-2-68", 
+        "https://www.zhihu.com/people/jwzx-28", 
+        "https://www.zhihu.com/people/frank-71-91-70", 
+        "https://www.zhihu.com/people/long-ge-39-19", 
+        "https://www.zhihu.com/people/jasper-69-33", 
+        "https://www.zhihu.com/people/suo-fei-te-14", 
+        "https://www.zhihu.com/people/zhong-chi-xiao-xiao-85", 
+        "https://www.zhihu.com/people/li-hao-98-79-98", 
+        "https://www.zhihu.com/people/wang-bo-dong-36", 
+        "https://www.zhihu.com/people/ivan-94-75", 
+        "https://www.zhihu.com/people/azz-88-39", 
+        "https://www.zhihu.com/people/li-ha-ha-55", 
+        "https://www.zhihu.com/people/chen-min-qing-73", 
+        "https://www.zhihu.com/people/wen-92-35-64", 
+        "https://www.zhihu.com/people/mcudsm", 
+        "https://www.zhihu.com/people/yu-tian-1-89", 
+        "https://www.zhihu.com/people/zhang-jian-29-49-47", 
+        "https://www.zhihu.com/people/tang-wang-xiang", 
+        "https://www.zhihu.com/people/yi-lu-xiang-bei-64-92", 
+        "https://www.zhihu.com/people/xiaoyi-85-18", 
+        "https://www.zhihu.com/people/xiaocangcang", 
+        "https://www.zhihu.com/people/ding-la-44", 
+        "https://www.zhihu.com/people/yu-meng-hang-3-75", 
+        "https://www.zhihu.com/people/nashiing", 
+        "https://www.zhihu.com/people/cong-huo-xing-lai-de-jing-shen-bing", 
+        "https://www.zhihu.com/people/liu-xi-ming-5-97", 
+        "https://www.zhihu.com/people/ci-cong", 
+        "https://www.zhihu.com/people/li-qian-23-65", 
+        "https://www.zhihu.com/people/sha-zhou-han-zhi-64", 
+        "https://www.zhihu.com/people/DrAuto", 
+        "https://www.zhihu.com/people/xl-wan", 
+        "https://www.zhihu.com/people/fen-yin-yue-zhi-ming", 
+        "https://www.zhihu.com/people/sun-ming-tao-86", 
+        "https://www.zhihu.com/people/liugenggeng", 
+        "https://www.zhihu.com/people/lb-chengang", 
+        "https://www.zhihu.com/people/FelixYao77", 
+        "https://www.zhihu.com/people/huojian-43", 
+        "https://www.zhihu.com/people/shi-feng-lue", 
+        "https://www.zhihu.com/people/xu-zuo-zhi-nan-lbj", 
+        "https://www.zhihu.com/people/shi-ji-zhi-ying-75", 
+        "https://www.zhihu.com/people/david-26-93-71", 
+        "https://www.zhihu.com/people/peng-ming-chuang", 
+        "https://www.zhihu.com/people/li-chun-chun-93", 
+        "https://www.zhihu.com/people/joe-37-79-67", 
+        "https://www.zhihu.com/people/dai-qb", 
+        "https://www.zhihu.com/people/zhou-jun-44-19", 
+        "https://www.zhihu.com/people/jthunter", 
+        "https://www.zhihu.com/people/chen-jian-chang-61", 
+        "https://www.zhihu.com/people/derrick-86-70", 
+        "https://www.zhihu.com/people/ling-niu-niu", 
+        "https://www.zhihu.com/people/lang-yue-qing-feng-26-43", 
+        "https://www.zhihu.com/people/meng-de-guang-2", 
+        "https://www.zhihu.com/people/zhou-kai-2-38", 
+        "https://www.zhihu.com/people/shu-yi-hen", 
+        "https://www.zhihu.com/people/su-jin-an-84", 
+        "https://www.zhihu.com/people/shi-jian-xuan-lu-98", 
+        "https://www.zhihu.com/people/feng-feng-feng-43-1", 
+        "https://www.zhihu.com/people/zlm-2-71", 
+        "https://www.zhihu.com/people/vinson-13-33", 
+        "https://www.zhihu.com/people/chhu-14", 
+        "https://www.zhihu.com/people/liu-xuan-zi-83", 
+        "https://www.zhihu.com/people/li-xiao-sheng-71", 
+        "https://www.zhihu.com/people/dino-42-56", 
+        "https://www.zhihu.com/people/yeg-17", 
+        "https://www.zhihu.com/people/xia-yan-59", 
+        "https://www.zhihu.com/people/song-lai-cheng-13", 
+        "https://www.zhihu.com/people/zao-shang-hao-lao-ban-niang", 
+        "https://www.zhihu.com/people/iicha-na-ii", 
+        "https://www.zhihu.com/people/zhan-mo-55", 
+        "https://www.zhihu.com/people/han-dou-ku-liao", 
+        "https://www.zhihu.com/people/wu-shuang-wei-95", 
+        "https://www.zhihu.com/people/fan-kai-wei-84", 
+        "https://www.zhihu.com/people/shao-jie-89", 
+        "https://www.zhihu.com/people/zimu-37-9", 
+        "https://www.zhihu.com/people/daliu-99", 
+        "https://www.zhihu.com/people/bo-ran-55-55", 
+        "https://www.zhihu.com/people/yu-jing-8-73-50", 
+        "https://www.zhihu.com/people/li-hong-lin-59-30", 
+        "https://www.zhihu.com/people/gu-peng-xiang-92", 
+        "https://www.zhihu.com/people/gu-mu-fu-zhu", 
+        "https://www.zhihu.com/people/jessefisher", 
+        "https://www.zhihu.com/people/luo-xin-66-90", 
+        "https://www.zhihu.com/people/feng-shi-rong-48", 
+        "https://www.zhihu.com/people/tao-tao-78-14", 
+        "https://www.zhihu.com/people/xiao-cui-ke", 
+        "https://www.zhihu.com/people/ting-mabu", 
+        "https://www.zhihu.com/people/hopesmile", 
+        "https://www.zhihu.com/people/lorraine-82-30", 
+        "https://www.zhihu.com/people/jin-tian-bushang-ban", 
+        "https://www.zhihu.com/people/feifei-58-33", 
+        "https://www.zhihu.com/people/er-yue-er-41-68", 
+        "https://www.zhihu.com/people/chen-ge-18-1", 
+        "https://www.zhihu.com/people/hans-50-31", 
+        "https://www.zhihu.com/people/ye-cha-4", 
+        "https://www.zhihu.com/people/ma-jiong-22", 
+        "https://www.zhihu.com/people/bai-shui-yiju", 
+        "https://www.zhihu.com/people/kevin-30-66-36", 
+        "https://www.zhihu.com/people/wang-er-de-45", 
+        "https://www.zhihu.com/people/qi-che-ren-82", 
+        "https://www.zhihu.com/people/brianzhang-37", 
+        "https://www.zhihu.com/people/naoya-19", 
+        "https://www.zhihu.com/people/ha-ha-72-88-29", 
+        "https://www.zhihu.com/people/wo-ba-shi-li-gang", 
+        "https://www.zhihu.com/people/senior1983", 
+        "https://www.zhihu.com/people/san-ren-xing-bi-you-wo-shi-77-87", 
+        "https://www.zhihu.com/people/wang-xiao-er-6-60", 
+        "https://www.zhihu.com/people/dummleon", 
+        "https://www.zhihu.com/people/115-83-38", 
+        "https://www.zhihu.com/people/bao-mi-21-98", 
+        "https://www.zhihu.com/people/lu-xi-nan-xiao-yuan-43", 
+        "https://www.zhihu.com/people/wang-ni-ma-61-37", 
+        "https://www.zhihu.com/people/david-68-76", 
+        "https://www.zhihu.com/people/kevin-chen-26", 
+        "https://www.zhihu.com/people/chen-qun-98-41", 
+        "https://www.zhihu.com/people/xinjie-liu", 
+        "https://www.zhihu.com/people/xie-yang-97-85", 
+        "https://www.zhihu.com/people/alisammm-3", 
+        "https://www.zhihu.com/people/bei-da-huang-69", 
+        "https://www.zhihu.com/people/leodyn", 
+        "https://www.zhihu.com/people/cinamman", 
+        "https://www.zhihu.com/people/mol-26-47", 
+        "https://www.zhihu.com/people/zhi-zhi-qi-yi-bu-zhi-qi-er-92", 
+        "https://www.zhihu.com/people/yan-bo-12-61", 
+        "https://www.zhihu.com/people/he-zheng-e", 
+        "https://www.zhihu.com/people/tao-yu-mao", 
+        "https://www.zhihu.com/people/xu-lach", 
+        "https://www.zhihu.com/people/nine-85-48", 
+        "https://www.zhihu.com/people/cheng-zi-71-69-6", 
+        "https://www.zhihu.com/people/power__zx", 
+        "https://www.zhihu.com/people/geng-39-73", 
+        "https://www.zhihu.com/people/bu-tong-ni-yu", 
+        "https://www.zhihu.com/people/lai-ao-53-83", 
+        "https://www.zhihu.com/people/panda_express", 
+        "https://www.zhihu.com/people/joker-91-40", 
+        "https://www.zhihu.com/people/chu-ci-62-50", 
+        "https://www.zhihu.com/people/zuo-yue-you-yang", 
+        "https://www.zhihu.com/people/chaoyang_ecnu", 
+        "https://www.zhihu.com/people/xiang-42-12", 
+        "https://www.zhihu.com/people/sprint1104", 
+        "https://www.zhihu.com/people/xiao-er-42-47", 
+        "https://www.zhihu.com/people/yang-mo-62-11", 
+        "https://www.zhihu.com/people/amanda-45-27", 
+        "https://www.zhihu.com/people/zhang-hong-xiang-21", 
+        "https://www.zhihu.com/people/mao-dan-dan-qiu", 
+        "https://www.zhihu.com/people/meng-bu-jian-xin", 
+        "https://www.zhihu.com/people/alex-80-32-81", 
+        "https://www.zhihu.com/people/he-peng-89-85", 
+        "https://www.zhihu.com/people/shuai-ge-ge-de-52", 
+        "https://www.zhihu.com/people/bu-xing-kde-fc", 
+        "https://www.zhihu.com/people/a-li-84-75-22", 
+        "https://www.zhihu.com/people/yao-yuan-de-si-lu-hua-yu", 
+        "https://www.zhihu.com/people/nocrit", 
+        "https://www.zhihu.com/people/pao-xie-34", 
+        "https://www.zhihu.com/people/jin-chuan-yi-ping", 
+        "https://www.zhihu.com/people/gua-niu-1995-32", 
+        "https://www.zhihu.com/people/answer-89-96", 
+        "https://www.zhihu.com/people/bai-xiao-yu-57", 
+        "https://www.zhihu.com/people/bu-qing-yun-59", 
+        "https://www.zhihu.com/people/mi-shi-de-gao-yang-84-53", 
+        "https://www.zhihu.com/people/zhang-song-38-55", 
+        "https://www.zhihu.com/people/rogerzhao-26", 
+        "https://www.zhihu.com/people/lao-tie-45-24", 
+        "https://www.zhihu.com/people/qi-yue-wanlin", 
+        "https://www.zhihu.com/people/derek888", 
+        "https://www.zhihu.com/people/wang-xian-sheng-80-70", 
+        "https://www.zhihu.com/people/liu-pei-wen-14", 
+        "https://www.zhihu.com/people/che-liang-lin", 
+        "https://www.zhihu.com/people/alleckzhang", 
+        "https://www.zhihu.com/people/lin-can-33-57", 
+        "https://www.zhihu.com/people/zhao-xin-yu-70-12", 
+        "https://www.zhihu.com/people/tracy-29-27", 
+        "https://www.zhihu.com/people/sun-guo-an-29", 
+        "https://www.zhihu.com/people/han-fang-xu-19", 
+        "https://www.zhihu.com/people/kuhn-adenauer", 
+        "https://www.zhihu.com/people/shou-gui-xun", 
+        "https://www.zhihu.com/people/hua-jian-yihu-jiu-16-74", 
+        "https://www.zhihu.com/people/lieblingslolita", 
+        "https://www.zhihu.com/people/xiao-hang-62-34", 
+        "https://www.zhihu.com/people/wang-xiao-yin-61", 
+        "https://www.zhihu.com/people/deng-lu", 
+        "https://www.zhihu.com/people/da-liang-de-niu-niu", 
+        "https://www.zhihu.com/people/guo-kua", 
+        "https://www.zhihu.com/people/bai-tian-de-yan-huo", 
+        "https://www.zhihu.com/people/duan-zui-85", 
+        "https://www.zhihu.com/people/jay-33-90-40", 
+        "https://www.zhihu.com/people/lei-de-nuo-75", 
+        "https://www.zhihu.com/people/gogo-91-76", 
+        "https://www.zhihu.com/people/ling-min", 
+        "https://www.zhihu.com/people/huo-shuai-67", 
+        "https://www.zhihu.com/people/ding-chen-61", 
+        "https://www.zhihu.com/people/richei-chen", 
+        "https://www.zhihu.com/people/chen-shuang-47-6", 
+        "https://www.zhihu.com/people/clsir", 
+        "https://www.zhihu.com/people/lang-tao-sha-27-80", 
+        "https://www.zhihu.com/people/liu-ya-ya-ya-79"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/87377398", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 0, 
+            "title": "浅谈汽车电子功能安全", 
+            "content": "<p>       借机会浅谈一下功能安全。作为应届生做了半年的功能安全，浅谈一下心里的感受，感觉就是累！在校期间有机会接触了这一块，后来找工作自然而然投了这个方向，由于需求大，幸运的被公司收纳。 </p><p>       现在感觉功能安全真的不是谁都能做的了😂😂。感觉要掌握的东西实在太多了，也许不用对其懂得太深但是你得知道是哪回事，才能提需求，感觉就是上层逻辑要看，BSW要看，OS要看，MCAL要看，Safety manual要看，uC要看，SBC要看，Safetlib要看，实在是心累，还有那快800页的标准😂😂。看了也是浅尝辄止，知道有这回事，德国人的英文读起来也是蹩脚。发发牢骚😂。</p><p>       最近看到行业里越来越多的公司，拿到了流程认证，心里为他们高兴，标准至少在流程上能降低bug，是好事，相信约200份的文档的输出也绝非易事。</p><p>      无论如何，只有做一个项目才能真正地更有体会。功能安全是一个系统性地工程，每个阶段都有一些关键点，都做了估计问题不大了。</p><p>      自己要保持学习的心态，跟行业里的大牛多交流学习真的会有很少弯路。</p><p>      敬畏科学，保持学习！</p><p>     盗一张图，做个开心的小刘鸭子。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-66030d5235f741e085e2b2b6979d8c15_b.jpg\" data-rawwidth=\"1894\" data-rawheight=\"1027\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1894\" data-original=\"https://pic2.zhimg.com/v2-66030d5235f741e085e2b2b6979d8c15_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1894&#39; height=&#39;1027&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1894\" data-rawheight=\"1027\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1894\" data-original=\"https://pic2.zhimg.com/v2-66030d5235f741e085e2b2b6979d8c15_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-66030d5235f741e085e2b2b6979d8c15_b.jpg\"/></figure>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "假装啷啵儿兔", 
+                    "userLink": "https://www.zhihu.com/people/97cedb67d72922ce84dd45a777875feb", 
+                    "content": "18版的26262看起来好像更费劲了（狗头）", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "[调皮]是的不过可用性更强了", 
+                            "likes": 0, 
+                            "replyToAuthor": "假装啷啵儿兔"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60853238", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 1, 
+            "title": "AUTOSAR中支持功能安全ISO26262的特性", 
+            "content": "<p>       ISO26262提供了安全相关系统开发的基本指导，包括电力电子以及软件组件的开发等。当然这只是一个通用的概念上的指导，具体怎么实现的这取决于开发者的实现方法。AUTOSAR明确了系统开发中的很多方面，并且定义了一些特性或者特点，可以用在安全相关的系统开发中去以更好的支持ISO26262的开发。</p><p>（一）支持内存的划分</p><p>    支持软件组件SWCs在在不同的内存区域中运行，以避免软件组件之间的相互干扰。这样一个内存区域执行代码或者其他操作都不会影响其他区域，保证了区域之间的独立，防止相关失效的发生。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-c07f871b480c24bfb5486e21179fe724_b.jpg\" data-rawwidth=\"890\" data-rawheight=\"650\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"890\" data-original=\"https://pic1.zhimg.com/v2-c07f871b480c24bfb5486e21179fe724_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;890&#39; height=&#39;650&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"890\" data-rawheight=\"650\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"890\" data-original=\"https://pic1.zhimg.com/v2-c07f871b480c24bfb5486e21179fe724_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c07f871b480c24bfb5486e21179fe724_b.jpg\"/></figure><p>    举个例子，比如进行了内存的划分之后，Partition1识别到了错误，那么Partition1在不影响其他的Partition的条件下，可以进行系列安全相关的操作，比如重启等。</p><p>（二）BSW模块的防御性行为</p><p>        AUTOSAR提供对BSW的保护，不允许未授权的SWC或者其他BSW模块访问BSW，以避免BSW模块去干扰或者损坏安全相关的BSW模块的数据。</p><p>（三）E2E端到端的保护机制</p><p>      AUTOSAR提供了sender和receiver之间的端到端保护机制，在sender端保护数据，并且在receiver端对数据进行错误的探测并处理。在AUTOSAR里面最高支持ASIL D的级别。</p><p>（四）程序流监控</p><p>        程序流监控是一种监控软件是否正确执行的安全机制。如果程序没有按照指定的顺序执行，或者是没有在规定的时间内执行，又或者是程序根本没有执行，那么就会生成一个错误。在ISO26262标准中，程序流监控用来探测处理单元的失效和HW时钟的失效。</p><p>（五）基于时间的特性</p><p>    1）提供同步时基</p><p>    2）异步处理单元的同步处理</p><p>    3）支持应用程序的时间确定性实现</p><p>    4）支持对时间违规的保护</p><p> （六）E-GAS监控相关的特性</p><p>      E-GAS监控概念不是AUTOSAR标准的组成成分。E-GAS监控概念的SW位于复杂的设备驱动程序(CDD)中，在CDD中实现。CDD允许直接访问相关的输入和输出。</p><p>（七）通信堆栈相关特性</p><p>    该特性旨在增强故障检测，以覆盖通信故障模式，并通过冗余提供恢复的可能。为数据序列控制提供机制，使检查信号是否按顺序接收成为可能。</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60248836", 
+            "userName": "白晓宇", 
+            "userLink": "https://www.zhihu.com/people/5d492bf6c46f66870ebe60baadf5a199", 
+            "upvote": 12, 
+            "title": "序章：基于V模型的电子电气系统开发", 
+            "content": "<h2>概要</h2><p>本部分内容主要是简单介绍一下基于V模型开发流程的电子电气系统开发。</p><h2>引言</h2><p>可能有人会问，这个专栏不是解读ISO 26262功能安全标准的么，为什么在第一章就开始跑题。</p><p>我们可以先把上面的这个问题放一放，来看一下ISO 26262中每章的Introduction部分都要提到的这部分内容：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-25f0beeeb3f1cfc1170b9018924a4340_b.jpg\" data-size=\"normal\" data-rawwidth=\"605\" data-rawheight=\"202\" class=\"origin_image zh-lightbox-thumb\" width=\"605\" data-original=\"https://pic1.zhimg.com/v2-25f0beeeb3f1cfc1170b9018924a4340_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;605&#39; height=&#39;202&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"605\" data-rawheight=\"202\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"605\" data-original=\"https://pic1.zhimg.com/v2-25f0beeeb3f1cfc1170b9018924a4340_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-25f0beeeb3f1cfc1170b9018924a4340_b.jpg\"/><figcaption>Cutset - Introduction</figcaption></figure><p>我把其中重点的内容翻译一下：</p><p>1. ISO 26262改编自IEC 61508系列标准，主要强调了对道路车辆电子或（和）电气系统的需求；</p><p>2. 随着科技复杂度、软件内容和机电一体化的不断提升，系统失效与随机硬件失效的发生概率也随之增加，而这些失效便是在功能安全的考虑范畴之内。</p><p>看到这里，我想大家可能会形成一种模糊的认知，就是功能安全，或许和电子电气系统有着某些联系，而具体是什么联系呢，我们接着往下看：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b79fec5eda3fabb59cf4ab085a5d8b9c_b.png\" data-size=\"normal\" data-rawwidth=\"599\" data-rawheight=\"62\" class=\"origin_image zh-lightbox-thumb\" width=\"599\" data-original=\"https://pic1.zhimg.com/v2-b79fec5eda3fabb59cf4ab085a5d8b9c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;599&#39; height=&#39;62&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"599\" data-rawheight=\"62\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"599\" data-original=\"https://pic1.zhimg.com/v2-b79fec5eda3fabb59cf4ab085a5d8b9c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b79fec5eda3fabb59cf4ab085a5d8b9c_b.png\"/><figcaption>Cutset - ISO 26262-1:2018</figcaption></figure><p>上面是ISO 26262-1:2018中对功能安全的定义：</p><p>功能安全是为了消除由于<b>电子电气系统</b>故障所导致的不合理的风险。</p><p>好了，现在我们都知道了，功能安全及其标准的存在，都服务于电子电气系统。那么，什么又是电子电器系统呢？</p><h2>电子电气系统</h2><p>在ISO 26262-1：2018中给出了这样的解释：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-69834be2d800019a2c462dcecc95452e_b.jpg\" data-size=\"normal\" data-rawwidth=\"597\" data-rawheight=\"128\" class=\"origin_image zh-lightbox-thumb\" width=\"597\" data-original=\"https://pic3.zhimg.com/v2-69834be2d800019a2c462dcecc95452e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;597&#39; height=&#39;128&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"597\" data-rawheight=\"128\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"597\" data-original=\"https://pic3.zhimg.com/v2-69834be2d800019a2c462dcecc95452e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-69834be2d800019a2c462dcecc95452e_b.jpg\"/><figcaption>Cutset 2 - ISO 26262-1:2018</figcaption></figure><p>翻译过来就是：</p><p>电气或电子元素，包括可编程电子元素所组成的系统便是电子电气系统。</p><p>而对于系统这个概念：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e5dabc14d9c99585e8309ea43ca5a040_b.png\" data-size=\"normal\" data-rawwidth=\"601\" data-rawheight=\"69\" class=\"origin_image zh-lightbox-thumb\" width=\"601\" data-original=\"https://pic1.zhimg.com/v2-e5dabc14d9c99585e8309ea43ca5a040_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;601&#39; height=&#39;69&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"601\" data-rawheight=\"69\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"601\" data-original=\"https://pic1.zhimg.com/v2-e5dabc14d9c99585e8309ea43ca5a040_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e5dabc14d9c99585e8309ea43ca5a040_b.png\"/><figcaption>Cutset 3 - ISO 26262-1:2018</figcaption></figure><p>标准里的解释为：至少包含一个传感器、控制器和执行器的一系列元件的组成。</p><p>那么把这两个结合起来就是：</p><p><b>由电子或电气元素组成的，至少包含一套完整的控制元件的元素集合。</b></p><p>而对于汽车而言，整个汽车本身就是一个非常复杂的电子电气系统，其中包含了大量的传感器、控制器以及执行器。而这套电子电气系统的主要<b>目的</b>，则是为了<b>实现各种功能</b>，如加速减速（驱动相关）、音乐播放（娱乐相关）、自动泊车（智能驾驶相关）。 </p><p>实际上，随着人们对汽车舒适度，娱乐性以及智能性等需求的不断增加，还有排放等法规标准的不断严苛，汽车电子电气系统也越发复杂。如果没有一个完善合理的流程来支持电子电气系统的开发，则很难保证系统开发的顺利进行。</p><h2>基于V模型的电子电气系统开发流程</h2><p>为了方便理解，我们来一次真正的“实战演习”。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-868bca25f36a3c4b48c758f2c48d5db6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"229\" data-rawheight=\"117\" class=\"content_image\" width=\"229\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;229&#39; height=&#39;117&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"229\" data-rawheight=\"117\" class=\"content_image lazy\" width=\"229\" data-actualsrc=\"https://pic3.zhimg.com/v2-868bca25f36a3c4b48c758f2c48d5db6_b.jpg\"/></figure><p>由于你在平日的工作中，工作十分努力，工作能力与经验都十分出色，现在公司上层正式提拔任命你为新的项目总监，任务是针对目前市场中的空缺，用三年时间开发出一款全新的车型。</p><p>那么，首先要做的事情，就是要找到这一部分空缺的市场。经过调研团队一个多月的市场调研，发现目前市场上的确缺少一款：适合城市内短距离代步的、精致、环保而且智能的纯电微型车，主要面向年轻的城市白领，价格区间5-10万左右。</p><p>现在大的方向已经确定了，接下来需要进一步明确车辆的各种属性，例如：</p><p>1. 因为主要面向城区通行，续航能力不需要太高，结合成本考虑，续航在200-250km，百公里加速6s即可；</p><p>2. 因为主要面向城市白领人群，由于他们对精致生活的追求，车内环境包括影音等方面的素质要相对高一些，例如采用高端品牌的音箱等；</p><p>3. 整车配备L3水平的智能驾驶；</p><p>…</p><p>上面所说的内容，基本上可以认为是一个简易的属性开发，例如提到的续航、加速和智能驾驶等级都可理解为整车属性的一部分，属性基本上是V模型开发的最上层部分。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-fd658917ffbdfeca65f67c6446df9946_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"229\" data-rawheight=\"117\" class=\"content_image\" width=\"229\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;229&#39; height=&#39;117&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"229\" data-rawheight=\"117\" class=\"content_image lazy\" width=\"229\" data-actualsrc=\"https://pic3.zhimg.com/v2-fd658917ffbdfeca65f67c6446df9946_b.jpg\"/></figure><p>现在我们假定属性开发已经完成，属性开发工程师把整车属性需求划分为不同的功能并交给了对应的功能开发工程师来进行进一步的开发。</p><p>随之我们也转变一下角色，变成一名功能开发工程师。</p><p>需要强调的是，我们这里所指的功能，是面向消费者的整车层面的功能，而不是一个小的功能模块（逻辑模块）。例如大家熟悉的自适应巡航功能、自动泊车功能，都是整车层面的功能。</p><p>而作为一名功能开发工程师，其主要的任务便是：</p><p>1. 定义功能（WHAT）；</p><p>2. 设计功能实现（HOW）。</p><p>假设我们现在要开发一个自动雨刷的功能，那么首先，我们就要定义这个功能是什么（WHAT）:</p><p>1. 功能的目的是什么（为了驾驶的便捷性）；</p><p>2. 功能的使用场景是哪些（阴雨天气）；</p><p>3. 功能是怎么样作用的（自动检测雨天并开启对应等级雨刷）；</p><p>…</p><p>当我们完成了对功能的定义之后，就要考虑，怎么去在整车上实现这个功能（HOW）:</p><p>1. 需要谁提供什么样的输入信息（雨天检测）；</p><p>2. 需要谁执行什么样的逻辑（面对不同的雨天，应自动开启什么样的雨刷等级）；</p><p>3. 需要谁提供什么样的输出信息（雨刷控制命令）；</p><p>… </p><p>上面提到的部分，便是一个简易的功能开发介绍，一句话总结就是：</p><p><b>根据属性的要求，完善并设计功能的定义与实现并将对应需求分配给不同的系统开发人员。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-5a27a59cb6ebbef77488781fd2947c32_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"229\" data-rawheight=\"117\" class=\"content_image\" width=\"229\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;229&#39; height=&#39;117&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"229\" data-rawheight=\"117\" class=\"content_image lazy\" width=\"229\" data-actualsrc=\"https://pic3.zhimg.com/v2-5a27a59cb6ebbef77488781fd2947c32_b.jpg\"/></figure><p>接下来我们就到了系统层级，这一层级相对抽象，因为从这一层级开始，我们就看不到整车层级的属性和功能了，有的只是从功能开发人员那里接来的各种功能需求。</p><p>这就好比某个人去五金店里买了一个水龙头和一些管路，作为五金店老板，你是不可能根据顾客的水龙头和管路订单就推测出顾客的家里是几室几厅，什么样的装修风格等信息的。</p><p>我们可以把上面例子中的顾客，想象为功能开发工程师，顾客自己要决定整屋的风格（功能定义）以及装修整屋所需要的所有材料（功能实现），并把所需内容（功能需求）按不同类别分采购。</p><p>而例子中的五金店老板，便可视为一个系统工程师，主要任务便是满足顾客对五金方面的原料采购需求（功能需求）。</p><p>除了五金之外，我们要装修一套房屋，可能还需要去木材店、灯具店、电器店等店铺采购以满足装修需求，而这些店铺也可以理解其他为不同的系统。</p><p>为了方便理解，我再来举个例子。在医院中，我们有不同的科室，如神经、消化、呼吸等，根据不同的病情症状，我们需要去正确的科室才能把病看好。</p><p>相似地，我们也可以把一个汽车的所有模块与组成，按照某种架构定义，划分为不同的系统，如影音娱乐系统、驱动系统、排放系统、安全系统等。</p><p>根据上面的例子，我们可以把系统理解为：</p><p><b>一个虚拟的、具有较强专业性的一系列逻辑模块的集合。</b></p><p>而其中的逻辑模块，主要是这个系统所接收的各种功能需求的优化与整合。</p><p>这里需要强调一点的是，这里所谓的系统，与电子电气系统中的系统，是两个不一样的概念，也处于不一样的层级。</p><p>电子电气系统中的系统，是一套或几套控制单元的集合。当某个电子电气系统较为复杂时，我们需要一套成熟可靠的开发流程来支持开发，V模型流程就是其中的一种，而碰巧的是在V模型开发流程中，我们也引入了一个系统的概念，但这个系统的主要目的是：</p><p><b>承接对应的功能需求，对功能需求进行优化与整合，最终以软件需求的形式传递给对应的软件开发人员。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d11e401b89a4b2f2148a8b07e59bfc8f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"229\" data-rawheight=\"117\" class=\"content_image\" width=\"229\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;229&#39; height=&#39;117&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"229\" data-rawheight=\"117\" class=\"content_image lazy\" width=\"229\" data-actualsrc=\"https://pic4.zhimg.com/v2-d11e401b89a4b2f2148a8b07e59bfc8f_b.jpg\"/></figure><p>在软件开发这一层级，其最终的目的就是：</p><p><b>把对应的系统设计需求，转化为某种软件语言。</b></p><p>由于我对软件开发也没有过多的了解，在这里就不展开了。</p><p>至此为止，我们V模型的左半边就介绍完毕了：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-9d33542a84891b90c572c5c97a832aaf_b.jpg\" data-size=\"normal\" data-rawwidth=\"399\" data-rawheight=\"461\" class=\"content_image\" width=\"399\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;399&#39; height=&#39;461&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"399\" data-rawheight=\"461\" class=\"content_image lazy\" width=\"399\" data-actualsrc=\"https://pic4.zhimg.com/v2-9d33542a84891b90c572c5c97a832aaf_b.jpg\"/><figcaption>V流程开发左半部分</figcaption></figure><p>现在我们再来从整体上看一下V流程的左半边：</p><p>从属性开发开始，按照 属性--&gt;功能--&gt;系统--&gt;软件 的顺序进行开发，环环相扣，层层递进。</p><p><b>其中，属性与功能开发都相对上层，可以理解为偏向整车层级的开发；而到了系统开发，则就进入了一个相对下层而专业的领域；至于软件开发则更像是一种从文字语言到计算机语言的转换。</b></p><p>当我们完成了从属性到软件的开发工作后，随之而来要面临的问题便是：</p><p>我们如何才能知道我们的软件是否与系统需求一致？所有的功能需求是否可以被系统设计所覆盖？整车功能是否可以实现？整车的属性目标是否已经达到？</p><p>为了解决上面所面临的问题，在V流程中，引入了V字的右半边：测试验证。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-af7868d364f98b18896166507c7bb0b2_b.jpg\" data-size=\"normal\" data-rawwidth=\"796\" data-rawheight=\"461\" class=\"origin_image zh-lightbox-thumb\" width=\"796\" data-original=\"https://pic3.zhimg.com/v2-af7868d364f98b18896166507c7bb0b2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;796&#39; height=&#39;461&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"796\" data-rawheight=\"461\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"796\" data-original=\"https://pic3.zhimg.com/v2-af7868d364f98b18896166507c7bb0b2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-af7868d364f98b18896166507c7bb0b2_b.jpg\"/><figcaption>V模型开发流程</figcaption></figure><p>从上图我们可以看到，每个阶段的开发之后，都要有对应的测试验证环节，来确认各个层级的设计是否已经被实现。</p><p>同样由于篇幅与个人经验方面的原因，这一部分就不再做展开，大家只需要明确一点：</p><p><b>测试验证是电子电气系统开发、优化、迭代过程中不可缺少的环节。</b></p><h2>结尾</h2><p>至此为止，基于V模型的电子电气系统开发流程的简单介绍就结束了，如果有什么问题或者我说的不对的地方，欢迎大家留言给我。</p><p>另外，我这里还有两个问题，希望大家可以思考一下：</p><p>1. 为什么我在介绍ISO 26262 之前要先介绍V模型的电子电气开发流程？</p><p>2. 基于V模型的电子电气开发流程，与ISO 26262中功能安全的开发流程之间，到底有着什么样的联系？</p><p>希望大家可以结合下面给出的两个流程，对上面的问题展开思考。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f0bd3335b064d186fdeb20beda838743_b.jpg\" data-size=\"normal\" data-rawwidth=\"502\" data-rawheight=\"217\" class=\"origin_image zh-lightbox-thumb\" width=\"502\" data-original=\"https://pic4.zhimg.com/v2-f0bd3335b064d186fdeb20beda838743_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;502&#39; height=&#39;217&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"502\" data-rawheight=\"217\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"502\" data-original=\"https://pic4.zhimg.com/v2-f0bd3335b064d186fdeb20beda838743_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f0bd3335b064d186fdeb20beda838743_b.jpg\"/><figcaption>ISO 26262 开发流程</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-af7868d364f98b18896166507c7bb0b2_b.jpg\" data-size=\"normal\" data-rawwidth=\"796\" data-rawheight=\"461\" class=\"origin_image zh-lightbox-thumb\" width=\"796\" data-original=\"https://pic3.zhimg.com/v2-af7868d364f98b18896166507c7bb0b2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;796&#39; height=&#39;461&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"796\" data-rawheight=\"461\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"796\" data-original=\"https://pic3.zhimg.com/v2-af7868d364f98b18896166507c7bb0b2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-af7868d364f98b18896166507c7bb0b2_b.jpg\"/><figcaption>V模型开发流程</figcaption></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "汽车开发", 
+                    "tagLink": "https://api.zhihu.com/topics/20012867"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "梦不见心", 
+                    "userLink": "https://www.zhihu.com/people/1f5780f4d0f4875872c578629dbefe89", 
+                    "content": "功能安全的开发体系也是按照v模型进行，即左边为开发，右边为测试验证。<br>您好，有个问题请教，如果一个控制器能够达到asil d，那是否还需要做冗余，如何可以确认是否需要做冗余！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "红蓝", 
+                            "userLink": "https://www.zhihu.com/people/b36273c4a4dd3ada8857aef9ad2cbb4f", 
+                            "content": "如果达到了目标的ASILD等级了，自然不需要了。先确定有目标等级，然后进行安全分析，评估失效率，从而确定是否达到目标安全等级，若没有达到，则需要采取措施，而冗余是一种降低单点失效率常用的safety mechanism。<br>拙见。", 
+                            "likes": 0, 
+                            "replyToAuthor": "梦不见心"
+                        }, 
+                        {
+                            "userName": "村头二狗子", 
+                            "userLink": "https://www.zhihu.com/people/f66257b006489fcd7a218c84602b4ce9", 
+                            "content": "个人看法:冗余是为了将高等级的安全目标降低分解成低等级的。这样分解后的设计更简单化，易实现。", 
+                            "likes": 0, 
+                            "replyToAuthor": "梦不见心"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/59095967", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 1, 
+            "title": "功能安全标准解读之软硬件开发阶段", 
+            "content": "<p><b>硬件阶段开发 </b>  </p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e3df16a51904b50fda14ab8473040d6c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"682\" data-rawheight=\"554\" class=\"origin_image zh-lightbox-thumb\" width=\"682\" data-original=\"https://pic1.zhimg.com/v2-e3df16a51904b50fda14ab8473040d6c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;682&#39; height=&#39;554&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"682\" data-rawheight=\"554\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"682\" data-original=\"https://pic1.zhimg.com/v2-e3df16a51904b50fda14ab8473040d6c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e3df16a51904b50fda14ab8473040d6c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>   系统级开发之后， 硬件级的产品开发也要符合V模型概念。V模型左边的第1个环节是硬件级产品研发的启动。这个过程主要是计划活动， 根据项目的大小<br/></p><p>和复杂程度，来计划和确定这个阶段的活动和支持过程。然后确定硬件安全需求规范，软硬件安全需求规范都是由系统阶段的技术安全需求规范拆分得到</p><p>的。根据硬件安全需求规范，要进行硬件设计，硬件设计包括硬件架构设计和硬件详细设计。</p><p>      硬件架构设计应表示出所有硬件组件及彼此间的关联， 并且要实现规定的硬件安全需求。应该清楚地描述出硬件安全需求和硬件组件之间的关系， 可充分信赖的硬件组件可以考虑复用。在硬件架构设计时，还应考虑安全相关硬件组件失效的非功能因素。比如： 振动、水、尘、EMI等。硬件详细设计是指在电气原理图级别上的设计， 应表示出硬件组件的零部件间的相互关联。</p><p>        接下来是计算硬件的量化指标， 在功能安全开发的过程中有3个指标是可以量化的， 分别是单点故障指标、潜在故障指标和随机硬件失效率。前2个指标</p><p>表示的是所设计的安全功能的能力， 也可以简单理解为安全机制的优劣， 指标越高， 表示所设计的安全机制越好。最后一个指标表示硬件的可靠性， 这个指标越高， 可以简单理解为安全机制越耐用。对于不同ASIL等级的产品， 这3个指标的要求是不同的， 因此在这个阶段需要计算一下量化指标， 看看是否满足相应的ASIL等级要求。</p><p>      在硬件设计的最后阶段就是进行硬件集成与测试， 主要测试设计的硬件是否能够实现预期的功能。</p><p><b>软件阶段开发</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-8057d6b196620b66366a25c6188b29a1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"625\" data-rawheight=\"451\" class=\"origin_image zh-lightbox-thumb\" width=\"625\" data-original=\"https://pic2.zhimg.com/v2-8057d6b196620b66366a25c6188b29a1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;625&#39; height=&#39;451&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"625\" data-rawheight=\"451\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"625\" data-original=\"https://pic2.zhimg.com/v2-8057d6b196620b66366a25c6188b29a1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8057d6b196620b66366a25c6188b29a1_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p> 在硬件级的产品开发的同时， 软件级的产品开发也应符合V模型思想， 软件级产品与传统开发流程相比， 多了软件安全需求规范和验证软件安全需求2个<br/></p><p>环节。软件安全需求规范也是从技术安全需求规范而来， 至于验证软件安全需求这个环节， ISO 26262规定了硬件在环、搭建电子控制器网络环境和实车测试等严格的测试环境的要求。除此之外， 对于软件架构设计、软件单元设计和实现、软件单元测试、软件集成和测试这4个环节， ISO 26262也规定必须要根据具体的ASIL等级选用不同的设计和测试方法。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c97f3437f4a7462dd3bcc18a8880da91_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"576\" data-rawheight=\"640\" class=\"origin_image zh-lightbox-thumb\" width=\"576\" data-original=\"https://pic2.zhimg.com/v2-c97f3437f4a7462dd3bcc18a8880da91_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;576&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"576\" data-rawheight=\"640\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"576\" data-original=\"https://pic2.zhimg.com/v2-c97f3437f4a7462dd3bcc18a8880da91_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c97f3437f4a7462dd3bcc18a8880da91_b.jpg\"/></figure><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "汽车研发", 
+                    "tagLink": "https://api.zhihu.com/topics/20006971"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58815713", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 1, 
+            "title": "功能安全系统阶段标准解读", 
+            "content": "<p></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3884de9f5b9cfa6df50322c572be0897_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"761\" data-rawheight=\"738\" class=\"origin_image zh-lightbox-thumb\" width=\"761\" data-original=\"https://pic4.zhimg.com/v2-3884de9f5b9cfa6df50322c572be0897_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;761&#39; height=&#39;738&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"761\" data-rawheight=\"738\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"761\" data-original=\"https://pic4.zhimg.com/v2-3884de9f5b9cfa6df50322c572be0897_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3884de9f5b9cfa6df50322c572be0897_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>系统级开发可以从安全需求得到技术安全要求规范，系统级开发的过程基于V模型的开发流程。在V模型的左边首先是“系统级产品开发的启动”， 这个环节主要是依据实际情况更新项目计划和安全计划还需要创建测试计划、确认计划和评估计划；接下来要明确技术安全需求规范技术安全需求规范是从功能安全要求和系统或者单元的架构设计中得到的， 在这个规范里主要描述了识别和控制系统自身故障， 以及其它系统故障的机制、安全状态的达到或保持措施、警示和降级方案的措施等。有了技术安全需求规范之后，就进入到了系统设计阶段。系统设计阶段主要完成这几项工作： 上述各项安全措施如何实现、进一步细化系统架构、借助安全分析的安全设计验证（FMEA， FTA）、明确硬件和软件的接口规范等。系统设计之后就进入到了具体的硬件设计和软件设计阶段。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-cdb65c4b36e54d2ae471935e1a5adf52_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"767\" data-rawheight=\"745\" class=\"origin_image zh-lightbox-thumb\" width=\"767\" data-original=\"https://pic3.zhimg.com/v2-cdb65c4b36e54d2ae471935e1a5adf52_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;767&#39; height=&#39;745&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"767\" data-rawheight=\"745\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"767\" data-original=\"https://pic3.zhimg.com/v2-cdb65c4b36e54d2ae471935e1a5adf52_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-cdb65c4b36e54d2ae471935e1a5adf52_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>系统级开发的V模型右边的流程首先是项目集成和测试。这主要是测试所设计的安全功能是否满足技术安全需求， 每个安全需求都应该被验证， 并且要选用ASIL相关的测试方法。系统级开发的V模型右边的流程首先是项目集成和测试。这主要是测试所设计的安全功能是否满足技术安全需求，每个安全需求都应该被验证， 并且要选用ASIL相关的测试方法。项目在集成和测试之后，就要进行安全确认， 安全确认可以由公司内部的研发工程师开展，主要是站在整车层面确认系统设计是否能够完全实现最初的安全目标和安全需求。安全确认之后是安全评估， 安全评估一般是找第三方进行， 通过评估来确认是否所有工作都正确、完整地开展了，并且安全等级是否达到了相应ASIL的要求。安全评估完成之后， 最后一个阶段就是产品发布。在这一阶段需要制定生产和操作计划， 以及对产品的生产、操作、服务和拆解的相关要求。通过这些相关的计划和要求以及规章制度，保证产品在生产和使用环节满足功能安全的要求。</p>", 
+            "topic": [
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "汽车研发", 
+                    "tagLink": "https://api.zhihu.com/topics/20006971"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "William Wang", 
+                    "userLink": "https://www.zhihu.com/people/3ea3e2c3bcbf40c643a382032d551330", 
+                    "content": "翻译的标准还是解读性文章", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "解读的啊🙂", 
+                            "likes": 1, 
+                            "replyToAuthor": "William Wang"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58749256", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 1, 
+            "title": "解读功能安全概念阶段的开发流程", 
+            "content": "<p></p><p>制定道路车辆功能安全标准的目的是使工程师或者用户对安全相关功能有一个好的理解， 并对出现的潜在风险进行解释， 同时为避免这些风险提供了具有可行性的方法和流程。</p><p>    道路车辆功能安全标准ISO 26262共分为10章， 分别从功能安全管理、概念、系统级研发、软硬件的研发、生产和操作等方面对产品的整个生命周期进行了规范和要求， 从而使得产品在各个生命周期都比较完善地考虑了其安全功能。<br/></p><p>    车辆功能安全的开发流程ISO 26262的开发流程首先是从项目定义开始的。项目定义就是对所研发项目的一个描述， 其包括了项目的功能、接口、环境条件、法规要求、危险等内容， 也包括项目的其他相关功能、系统和组件决定的接口、边界条件等。</p><p><b>1、概念开发</b><br/>     根据项目是新产品研发或者既有产品更改决定后续的流程， 称之为安全生命周期初始化。如果是既有产品更改， 就要对产品进行影响分析， 影响分析的结果决定整个生命周期中的哪些流程可以省略，不用考虑。</p><p>      安全生命周期初始化之后， 首先进行危害分析和 风险评估。一个项目的ASIL等级就是通过这个阶段确定下来的。ASIL全称是车辆安全完整性等级， 标准中用A、B、C、D4个级别来规定项目或者单元所需的ISO 26262 要求以及安全措施， 来避免不合理的残余风险， D代表最大严格度， A代表最小严格度。一旦项目的ASIL 等级确定下来， 项目的后续所有开发流程及开发方法都要</p><p>按照相应的ASIL等级要求进行开发， 因此这个阶段在功能安全开发的整个流程中至关重要。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d1fb9c4c98ca934c826bac7ed95fc294_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1064\" data-rawheight=\"550\" class=\"origin_image zh-lightbox-thumb\" width=\"1064\" data-original=\"https://pic1.zhimg.com/v2-d1fb9c4c98ca934c826bac7ed95fc294_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1064&#39; height=&#39;550&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1064\" data-rawheight=\"550\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1064\" data-original=\"https://pic1.zhimg.com/v2-d1fb9c4c98ca934c826bac7ed95fc294_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d1fb9c4c98ca934c826bac7ed95fc294_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>       危害分析和风险评估时， 要充分考虑发生危害时汽车所在驾驶情景的暴露率、交通参与者对事故的可控性以及危害对交通参与者造成伤害的严重程度。通过这3个指标确定项目的ASIL等级， 同时为每一个风险设立安全目标，并根据项目的ASIL等级给安全目标确定合适的ASIL等级。</p><p>   接下来的功能安全概念的环节要考虑系统的基本架构， 将由安全目标得到的整体安全需求分配到项目的元素中去， 同时具体和细化定位到每个项目元素中的功能安全要求。超出边界条件的系统和其他技术可以作为功能安全概念的一部分来考虑。对其他技术的应用和外部措施的要求不在ISO 26262考虑的范围之内。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e3d9a275dd184725259283b1242a7aac_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"387\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-e3d9a275dd184725259283b1242a7aac_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;387&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"387\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-e3d9a275dd184725259283b1242a7aac_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e3d9a275dd184725259283b1242a7aac_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "汽车研发", 
+                    "tagLink": "https://api.zhihu.com/topics/20006971"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58409925", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 0, 
+            "title": "要素共存和需求分解案例解读", 
+            "content": "<p></p><p>共存和分解是系统体系结构设计约束的一部分，在Part6的Clause7，Part5的Clause7以及Part4的Clause6中都有强调。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ebc4400b6100a74c0abe2f57ec504ed3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1022\" data-rawheight=\"470\" class=\"origin_image zh-lightbox-thumb\" width=\"1022\" data-original=\"https://pic4.zhimg.com/v2-ebc4400b6100a74c0abe2f57ec504ed3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1022&#39; height=&#39;470&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1022\" data-rawheight=\"470\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1022\" data-original=\"https://pic4.zhimg.com/v2-ebc4400b6100a74c0abe2f57ec504ed3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ebc4400b6100a74c0abe2f57ec504ed3_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>要素共存Coexistence：</b></p><p>-如果一个ASIL x需求分配给元素1，那么子元素1.1和子元素1.2继承ASIL x。</p><p>-只有满足以下条件，子元素1.2才能在较低的ASIL上开发:</p><p>（1）元素1的至少一个子元素能够满足元素1在ASIL x上的要求(例如子元素1.1);</p><p>（2）子元素1.2不能违反子元素1.1的安全需求；</p><p>（3）满足要素共存的标准：子元素1.1和子元素1.2之间不存在级联失效（free from interference）</p><p><b>需求分解decomposition：</b></p><p>如果将ASIL z需求分配给ECU，则可以在独立硬件元素并冗余硬件元素之间对其进行分解。</p><p>这等价于满足以下的条件：（1）首先，分解要满足分解的公式</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-72cc58be59563d8f9c16ea50a693a9a4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"723\" data-rawheight=\"860\" class=\"origin_image zh-lightbox-thumb\" width=\"723\" data-original=\"https://pic1.zhimg.com/v2-72cc58be59563d8f9c16ea50a693a9a4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;723&#39; height=&#39;860&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"723\" data-rawheight=\"860\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"723\" data-original=\"https://pic1.zhimg.com/v2-72cc58be59563d8f9c16ea50a693a9a4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-72cc58be59563d8f9c16ea50a693a9a4_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（2）元素1满足被分配到的ASIL x(z）的ECU安全需求。</p><p>（3）元素2满足被分配到的ASIL y(z）的ECU安全需求。</p><p>  (4) 元素1和元素2之间是独立的：没有从1到2的级联失效，没有从2到1的级联失效，没有共因失效。</p>", 
+            "topic": [
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "电动汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19561561"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "阿猫在途", 
+                    "userLink": "https://www.zhihu.com/people/8da7594c818360e47d19d3a7f7ee4592", 
+                    "content": "<p>-只有满足以下条件，子元素1.2才能在较低的ASIL上开发:<br>（1）元素1的至少一个子元素能够满足元素1在ASIL x上的要求(例如子元素1.1);<br>（2）子元素1.2不能违反子元素1.1的安全需求；<br>（3）满足要素共存的标准：子元素1.1和子元素1.2之间不存在级联失效（free from interference）</p><p>---这里(2)应该是子元素1.2不能违反子元素1的安全需求吧，不是元素1.1,另外，还是不太理解，从数学上看为何满足(1)(2)(3)就可以降低1.2 ASIL要求呢？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58303603", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 2, 
+            "title": "ISO26262关于故障容忍时间间隔（FTTI）", 
+            "content": "<p>在功能安全里故障容忍时间间隔是一个非常重要的概念，ISO26262第一版中对FTTI进行了定义：<br/>fault tolerant time interval：</p><p>Time-span in which a faultor faults can be present in a system  before a hazardous event occurs</p><p>在危险事件发生之前，系统中出现故障或故障的时间跨度。</p><p>在第二版中对FTTI进行了更详细的解释，相比第一版强调了安全机制未被激活的条件下。</p><p>原文如下：</p><p>minimum time-span from the occurrence of a fault in an item to a possible occurrence of a hazardous event, if the safety mechanisms are not activated</p><p>FTTI：如果安全机制未被激活，则从相关项中故障的发生到危险事件的可能发生的最短时间跨度。<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-daa92f7075c033dcc90f9e21d0725620_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"229\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-daa92f7075c033dcc90f9e21d0725620_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;229&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"229\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-daa92f7075c033dcc90f9e21d0725620_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-daa92f7075c033dcc90f9e21d0725620_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-729753d4ae63b75c71195842c24df6eb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"708\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-729753d4ae63b75c71195842c24df6eb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;708&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"708\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-729753d4ae63b75c71195842c24df6eb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-729753d4ae63b75c71195842c24df6eb_b.jpg\"/></figure><p>第二版标准中做了很多Note性的解释：</p><p>FTTI是对所有危险事件进行评估，取决于危险的特征。</p><p>FTTI是由危害分析得到的安全目标的属性。</p><p>危害事件的发生取决于故障发生的时刻以及车辆所处的场景。举个例子：只有当使用制动踏板的时候，制动系统的失效才会导致危害事件的产生。</p><p>另外关于Time invertal的概念，在第二版里也丰富了不少，例如:</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-01f614e841d73ac5ec36566681cbf1c8_b.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"133\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-01f614e841d73ac5ec36566681cbf1c8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;133&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"133\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-01f614e841d73ac5ec36566681cbf1c8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-01f614e841d73ac5ec36566681cbf1c8_b.png\"/></figure><p>诊断测试时间间隔：安全机制进行在线诊断测试的时间</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f7ba1678883a2633f5c4ee2c1184e1df_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"451\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-f7ba1678883a2633f5c4ee2c1184e1df_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;451&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"451\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-f7ba1678883a2633f5c4ee2c1184e1df_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f7ba1678883a2633f5c4ee2c1184e1df_b.jpg\"/></figure><p>故障探测时间间隔：解读了故障探测时间与诊断测试时间的区别。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-5ce69d826157198c4f8568a31e19306c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"207\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-5ce69d826157198c4f8568a31e19306c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;207&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"207\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-5ce69d826157198c4f8568a31e19306c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-5ce69d826157198c4f8568a31e19306c_b.jpg\"/></figure><p>故障响应时间间隔：由探测到故障到进入安全状态或者到达紧急运行状态的时间跨度。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-02eb6a47481b4a13467f8131d426b5f5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"938\" data-rawheight=\"229\" class=\"origin_image zh-lightbox-thumb\" width=\"938\" data-original=\"https://pic2.zhimg.com/v2-02eb6a47481b4a13467f8131d426b5f5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;938&#39; height=&#39;229&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"938\" data-rawheight=\"229\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"938\" data-original=\"https://pic2.zhimg.com/v2-02eb6a47481b4a13467f8131d426b5f5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-02eb6a47481b4a13467f8131d426b5f5_b.jpg\"/></figure><p>故障解决时间间隔：FHTI=FRTI+FDTI。FHTI是安全机制的属性。</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "电动汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19561561"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58020415", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 5, 
+            "title": "如何写好技术安全需求TSR（三）", 
+            "content": "<p><b>第二种方法:FMEA</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>可以使用FMEA确定技术安全要求的第二种方法。与FTA相比，失效模式效应分析(Failure Mode Effect and Analysis, FMEA)是一种分析故障或故障对系统影响的归纳分析方法</p><p>使用一个用于CAN请求的FMEA结构示例来演示该方法</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1dc721d5b087cb61f7d93c38556c46be_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1050\" data-rawheight=\"634\" class=\"origin_image zh-lightbox-thumb\" width=\"1050\" data-original=\"https://pic3.zhimg.com/v2-1dc721d5b087cb61f7d93c38556c46be_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1050&#39; height=&#39;634&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1050\" data-rawheight=\"634\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1050\" data-original=\"https://pic3.zhimg.com/v2-1dc721d5b087cb61f7d93c38556c46be_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1dc721d5b087cb61f7d93c38556c46be_b.jpg\"/></figure><p>   选择发送模块“发送CAN上的关闭请求”功能作为故障模式分析的功能。下一步是列出潜在的故障及其故障原因。严重程度为9级，其安全相关。推荐的操作基本上是技术安全要求，在本例中是：</p><p>1. 发送模块应实现CAN堆栈软件至少满足ASIL A的要求。</p><p>2.发送模块应实现CAN消息请求门关闭消息的的端到端诊断。</p><p>3.后备箱模块在使用CAN信号之前应该对信息进行rolling counter和checksum的诊断。<br/></p><p>      在识别共因失效时，FMEA是一种很有效的方法。例如：如果电源坏了怎么办?关键是要用任何一种方法来识别所有可能引起危害的单点故障和潜在的双点故障。</p><p>无论使用何种方法，技术安全要求都应符合标准规定的下列特征：</p><p>1. 明确的和可理解的(对意思有共同的理解)<br/>2. 原子性的(在同一级别上不能有多个需求捆绑在一起)<br/>3.内部一致(不包含矛盾)<br/>4. 可行性(可在项目开发的约束下实现)<br/>5. 可验证的(可以在安全生命周期的后期进行测试)</p><p>每个TSR都应该根据这五个特征进行验证。</p><p>所有的安全要求都应该具有以下属性：</p><ol><li>一个惟一的ID，使其在整个安全生命周期中都可跟踪</li><li>一个ASIL评级</li><li>目前的状况-建议、审查、假设或接受  </li></ol><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c929dd5b77063f0d748c4f7b502aa75d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"595\" data-rawheight=\"458\" class=\"origin_image zh-lightbox-thumb\" width=\"595\" data-original=\"https://pic2.zhimg.com/v2-c929dd5b77063f0d748c4f7b502aa75d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;595&#39; height=&#39;458&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"595\" data-rawheight=\"458\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"595\" data-original=\"https://pic2.zhimg.com/v2-c929dd5b77063f0d748c4f7b502aa75d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c929dd5b77063f0d748c4f7b502aa75d_b.jpg\"/></figure><p>ISO26262标准还要求在管理安全要求时确保满足以下特性:</p><p>1 层次结构(需求被安排在几个连续的层次上，并与相应的设计阶段保持一致)</p><p>2 完整性(安全要求完全执行前一级的所有安全要求)</p><p>3 外部一致性(安全需求之间不会相互矛盾)</p><p>4 可维护性(可以在安全生命周期中修改或扩展需求)</p><p>1 2 3 4可以通过软件工具来保证：如(e.g. - DOORS, Polarion etc)</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>解读FTTI</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>安全机制确保在诊断出可能违反安全目标的错误时，项目能够过渡到并保持安全状态。这样做的一个重要方面是能够在分配给相关项的容错时间间隔或FTTI内完成此操作。</p><p>ECU本身的实际可用时间可能远远小于与安全目标相关的车辆级别FTTI。在制定包括单点故障安全机制在内的技术安全要求时，安全工程师对现有硬件和软件的时序约束和能力进行分析和评估是关键。</p><p>需要包含在这个分析中的一些方面包括<br/>•输入信号到达ECU pin (CAN信号，传感器输入)所需时间，<br/>•硬件处理延迟(RC滤波器，信号处理)，<br/>•软件处理延迟(调度、模块间数据传播延迟等)<br/>•输出驱动所需时间(功率级和驱动、CAN信号传播等)</p><p>为了获得FTTI，推荐使用以下的方法</p><p>•基于时序图的分析</p><p>•专家判断</p><p>•在受控条件下的车辆试验</p><p>•仿真和HiL测试</p><p><b>总结</b></p><p>ISO 26262标准第4部分第6条描述了产品安全生命周期中对技术安全要求的需求。编写良好的技术安全要求是确保达到足够的产品安全水平的先决条件。该标准提到了技术安全要求需要达到的特性和特点。然而，该标准并没有阐明提出技术安全要求的任何方法。本文讨论了如何应用于识别可能导致安全相关故障并导致危险的单点故障和多点故障。识别出的最小切割集可用于推导大量的技术安全要求。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "安全", 
+                    "tagLink": "https://api.zhihu.com/topics/19569215"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "沂蒙山跑调", 
+                    "userLink": "https://www.zhihu.com/people/e23f36dd99e37ec6d51e0c978836102c", 
+                    "content": "论文的下载途径能提供吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "SAE官方下载的", 
+                            "likes": 0, 
+                            "replyToAuthor": "沂蒙山跑调"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57960806", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 0, 
+            "title": "功能安全解读之概念阶段", 
+            "content": "<p>       制定道路车辆功能安全标准的目的是使工程师或者用户对安全相关功能有一个好的理解， 并对出现的潜在风险进行解释， 同时为避免这些风险提供了具有可行性的方法和流程。</p><p>    道路车辆功能安全标准ISO 26262共分为10章， 分别从功能安全管理、概念、系统级研发、软硬件的研发、生产和操作等方面对产品的整个生命周期进行了规范和要求， 从而使得产品在各个生命周期都比较完善地考虑了其安全功能。<br/>    车辆功能安全的开发流程ISO 26262的开发流程首先是从项目定义开始的。项目定义就是对所研发项目的一个描述， 其包括了项目的功能、接口、环境条件、法规要求、危险等内容， 也包括项目的其他相关功能、系统和组件决定的接口、边界条件等。</p><p><b>1、概念开发</b><br/>       跟据项目是新产品研发或者既有产品更改决定后续的流程， 称之为安全生命周期初始化。如果是既有产品更改， 就要对产品进行影响分析， 影响分析的结果决定整个生命周期中的哪些流程可以省略，不用考虑。</p><p>      安全生命周期初始化之后， 首先进行危害分析和 风险评估。一个项目的ASIL等级就是通过这个阶段确定下来的。ASIL全称是车辆安全完整性等级， 标准中用A、B、C、D4个级别来规定项目或者单元所需的ISO 26262 要求以及安全措施， 来避免不合理的残余风险， D代表最大严格度， A代表最小严格度。一旦项目的ASIL 等级确定下来， 项目的后续所有开发流程及开发方法都要按照相应的ASIL等级要求进行开发， 因此这个阶段在功能安全开发的整个流程中至关重要。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d1fb9c4c98ca934c826bac7ed95fc294_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1064\" data-rawheight=\"550\" class=\"origin_image zh-lightbox-thumb\" width=\"1064\" data-original=\"https://pic1.zhimg.com/v2-d1fb9c4c98ca934c826bac7ed95fc294_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1064&#39; height=&#39;550&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1064\" data-rawheight=\"550\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1064\" data-original=\"https://pic1.zhimg.com/v2-d1fb9c4c98ca934c826bac7ed95fc294_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d1fb9c4c98ca934c826bac7ed95fc294_b.jpg\"/></figure><p>      危害分析和风险评估时， 要充分考虑发生危害时汽车所在驾驶情景的暴露率、交通参与者对事故的可控性以及危害对交通参与者造成伤害的严重程度。通过这3个指标确定项目的ASIL等级， 同时为每一个风险设立安全目标，并根据项目的ASIL等级给安全目标确定合适的ASIL等级。</p><p>     接下来的功能安全概念的环节要考虑系统的基本架构， 将由安全目标得到的整体安全需求分配到项目的元素中去， 同时具体和细化定位到每个项目元素中的功能安全要求。超出边界条件的系统和其他技术可以作为功能安全概念的一部分来考虑。对其他技术的应用和外部措施的要求不在ISO 26262考虑的范围之内。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e3d9a275dd184725259283b1242a7aac_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"387\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-e3d9a275dd184725259283b1242a7aac_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;387&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"387\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-e3d9a275dd184725259283b1242a7aac_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e3d9a275dd184725259283b1242a7aac_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "概念", 
+                    "tagLink": "https://api.zhihu.com/topics/19574847"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57960557", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 0, 
+            "title": "ISO26262相关失效分析之避免软件要素相互干扰分析", 
+            "content": "<p>     在功能安全中，相关失效分析（DFA，dependent failure analysis）是一项非常重要的工作，标准里提到要保证软件架构要素之间的独立性（independence）和免于干扰（freedom of interference),这对于开发符合功能安全要求的软件来说也是必须要经历的分析过程，难度较大工作量也不小。<br/></p><p>     在第一版的标准里，第六部分附录D里面提到了免于干扰软件要素相关的分析，提供了能引起软件要素(例:不同软件分区中的软件要素)相互干扰的故障示例,也提供了一些可用于预防、探测和减轻所列出的故障的处理机制的示例。</p><p>      标准里基本上将干扰软件要素的可能原因分为三部分：<b>时序和执行；内存；信息交换。</b></p><p><b>时序和执行：</b> </p><p>关于时间限制,每个软件分区中执行的软件要素可考虑如下所列的故障影响:</p><p>—执行阻塞;</p><p>—死锁;</p><p>—活锁;</p><p>—执行时间的不正确分配;</p><p>—软件要素间的不正确同步。</p><p>需要考虑的处理机制如:循环执行调度、固定优先级调度、时间触发调度处理器执行时间监控、程序执行次序监控和到达(发生)率监控。</p><p><b>内存：</b></p><p>关于内存,每个软件分区中执行的软件要素可考虑如下所列的故障影响:</p><p>—内容损坏;</p><p>—对已分配给其他软件要素的内存进行读写访问。</p><p>可使用的处理机制如:内存保护、奇偶校验位、纠错码(ECC)、循环冗余校验(CRC)、冗余存储、内存访问限制、内存访问的静态分析、内存静态分配。</p><p>对内存信息的保护方法诸多，在很多有些是纯硬件可以实现，有些需要软硬件相互结合才能实现，目前符合功能安全的芯片都自带很多安全校验的机制，用户可以自由的配置选择。</p><p><b>信息交换:</b><br/></p><p>针对每个发送方或接收方,可考虑如以下所列各故障的原因或故障的影响:</p><p>—信息重复;</p><p>—信息丢失;</p><p>—信息延迟;</p><p>—信息插入;</p><p>—信息伪装或信息的不正确寻址;</p><p>—信息次序不正确;</p><p>—信息损坏</p><p>—从发送方传送到多个接收方的信息不对称;</p><p>—发送方发送的信息只能被部分接收方接收;</p><p>—通信信道阻塞。</p><p>当然这些故障，也提出一些安全的机制和安全的措施：通信协议、信息重复、信息回送、信息确认、I/O 引脚的适当配置、分离的点到点的单向</p><p>通信对象、明确的双向通信对象、异步数据通信、同步数据通信、事件触发数据总线、带有时间触发访问的事件触发数据总线、时间触发的数据总线、最小时间片和基于优先级的总线仲裁等。</p>", 
+            "topic": [
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19551915"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "William Wang", 
+                    "userLink": "https://www.zhihu.com/people/3ea3e2c3bcbf40c643a382032d551330", 
+                    "content": "主要是软件硬件要分析  系统层面是建议分析", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "系统分析不是软硬件分析的基础？fta在系统阶段只能到一定的阶段，然后再软硬件阶段继续往下分析嘛？硬件的定量分析，不是嘛？", 
+                            "likes": 0, 
+                            "replyToAuthor": "William Wang"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57872729", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 1, 
+            "title": "如何写好技术安全需求TSR（二）-使用FTA法", 
+            "content": "<p><b>Method:故障树分析</b></p><p>故障树分析是一种演绎安全分析方法。对系统进行了系统的自顶向下分析，以找出可能导致顶部事件的故障。这种分析方法是一种有效的工具，可以引出所有可能导致系统中特定的顶层事件(失效)的低层事件(错误或故障及其相互关系)。</p><p>cut set（割集）可以导致顶级事件发生的门和事件。最小割集是导致顶层事件的事件的最小组合。故障树的美妙之处在于，它可以帮助安全工程师识别所有可能导致顶层不安全故障的单点故障和双点故障。安全工程师可以根据项目的ASIL和以割集为代表的事件发生的概率，在指定安全要求和安全机制时确定优先级和重点，以加强项目侧重薄弱点。让我们看看如何为后门模块创建一个FTA，并使用它来推导安全目标的技术安全要求——防止门意外关闭。违反安全目标被指定为不希望发生的顶级事件。在这种情况下，这将是——门的意外关闭。</p><p>下一步是对系统架构进行头脑风暴，以识别可能导致顶级事件的错误和故障。这些错误将构成下一个较低级别的事件。强烈建议在研讨会的气氛中，与相关的利益相关者(来自不同学科系统、软件和硬件的专家)一起进行这项练习。另一种方法可能是参考利益相关者生成的设计文档，因为根据子系统设计正确建模故障是非常重要的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-a45b0b7966ce9be2610f89e838de05fb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"295\" data-rawheight=\"313\" class=\"content_image\" width=\"295\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;295&#39; height=&#39;313&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"295\" data-rawheight=\"313\" class=\"content_image lazy\" width=\"295\" data-actualsrc=\"https://pic4.zhimg.com/v2-a45b0b7966ce9be2610f89e838de05fb_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-529cd644de947887bb8b6554eaba33d1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"433\" data-rawheight=\"197\" class=\"origin_image zh-lightbox-thumb\" width=\"433\" data-original=\"https://pic2.zhimg.com/v2-529cd644de947887bb8b6554eaba33d1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;433&#39; height=&#39;197&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"433\" data-rawheight=\"197\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"433\" data-original=\"https://pic2.zhimg.com/v2-529cd644de947887bb8b6554eaba33d1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-529cd644de947887bb8b6554eaba33d1_b.jpg\"/></figure><p>在这个例子中，我们可以引出以下低级错误：</p><p>1. Incorrect request over CAN</p><p>2. Incorrect request from the hardware switch</p><p>3. Control software errors and</p><p>4. Hardware errors</p><p>下一步是引出可能导致这些错误的实际低级错误。在复杂的系统中，在我们达到最低故障级别之前，可能会有多个级别的错误。在最低的故障级别上，故障树将如下所示。下面的图只是指出树可以变得有多大，有多复杂，并且不希望被读取。下面将详细讨论每个切割集。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-f97ec88e2a164da8b991c70bd7d04186_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"549\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb\" width=\"549\" data-original=\"https://pic3.zhimg.com/v2-f97ec88e2a164da8b991c70bd7d04186_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;549&#39; height=&#39;361&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"549\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"549\" data-original=\"https://pic3.zhimg.com/v2-f97ec88e2a164da8b991c70bd7d04186_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f97ec88e2a164da8b991c70bd7d04186_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>最低级别列举了所有可能违反安全目标的不同类型的故障。下一步将是分离每个切割集，然后为每个最小切割集定义技术安全要求。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-448cd56c4a2938979bb60a4190694ffb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"482\" data-rawheight=\"258\" class=\"origin_image zh-lightbox-thumb\" width=\"482\" data-original=\"https://pic4.zhimg.com/v2-448cd56c4a2938979bb60a4190694ffb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;482&#39; height=&#39;258&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"482\" data-rawheight=\"258\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"482\" data-original=\"https://pic4.zhimg.com/v2-448cd56c4a2938979bb60a4190694ffb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-448cd56c4a2938979bb60a4190694ffb_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-3680c398d4cdcf943ab4d1cad7ac0e26_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"330\" data-rawheight=\"311\" class=\"content_image\" width=\"330\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;330&#39; height=&#39;311&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"330\" data-rawheight=\"311\" class=\"content_image lazy\" width=\"330\" data-actualsrc=\"https://pic3.zhimg.com/v2-3680c398d4cdcf943ab4d1cad7ac0e26_b.jpg\"/></figure><p>     但是，如果任何一个故障仍然是潜在的或未检测到的，并且在稍后的时间点上发生了第二个故障，这将直接违反安全目标。因此，一旦发现双点故障，司机应得到警告，以便在车库采取纠正措施。在故障树中，双点故障表现为割集上由与门连接的两个或多个故障。技术安全概念应力求检测故障树中识别的所有这类双点故障。</p><p>    技术安全要求应包括故障树中识别的所有单点故障。所需的覆盖程度取决于ASIL级别和项目的度量目标。</p><p>使用FTA的技术安全要求的推导可归纳为以下步骤：</p><p>1. 将安全目标违反定义为顶级事件</p><p>2. 把系统专家带到一个单人房间</p><p>3.构造故障树，以识别较低级别的故障和可能导致最高级别事件的故障(违反安全目标)</p><p>4. 确定树的最小割集，这些割集会导致错误，从而违反安全目标。每个事件发生的概率可用于指导应包括哪些错误或错误。</p><p>5. 定义每个最小切割集的技术安全要求</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "汽车安全", 
+                    "tagLink": "https://api.zhihu.com/topics/19639225"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "jiangfeng", 
+                    "userLink": "https://www.zhihu.com/people/cda03cee4a78b855be9cde829275eead", 
+                    "content": "<p>你好，刚接触功能安全，觉得你发布的一系列文章对我帮助很大，能否帮我发一下“如何写好技术安全需求TSR（二）-使用FTA法”这篇文章中的“complete fault tree”这个清晰的图片，谢谢！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "jiangfeng", 
+                    "userLink": "https://www.zhihu.com/people/cda03cee4a78b855be9cde829275eead", 
+                    "content": "<p>如有，请发送我的邮箱runner_jf@126.com,谢谢！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57860595", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 0, 
+            "title": "识别相关失效（DFA）的框架", 
+            "content": "<p>     浏览更多功能安全相关的论文请关注微信公众号：<b>新能源汽车功能安全 </b></p><p>  在ISO26262第二版第一章中提到了概念，DFI（Dependent Failure Analysis）姑且翻译为：相关失效发起者，标准中是这样提到的：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2840e96ee1f6c5f0ed097fda20cd049c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"990\" data-rawheight=\"260\" class=\"origin_image zh-lightbox-thumb\" width=\"990\" data-original=\"https://pic1.zhimg.com/v2-2840e96ee1f6c5f0ed097fda20cd049c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;990&#39; height=&#39;260&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"990\" data-rawheight=\"260\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"990\" data-original=\"https://pic1.zhimg.com/v2-2840e96ee1f6c5f0ed097fda20cd049c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2840e96ee1f6c5f0ed097fda20cd049c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-47eb23f9ac3f4831c2cf7b205e68b996_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1012\" data-rawheight=\"139\" class=\"origin_image zh-lightbox-thumb\" width=\"1012\" data-original=\"https://pic3.zhimg.com/v2-47eb23f9ac3f4831c2cf7b205e68b996_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1012&#39; height=&#39;139&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1012\" data-rawheight=\"139\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1012\" data-original=\"https://pic3.zhimg.com/v2-47eb23f9ac3f4831c2cf7b205e68b996_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-47eb23f9ac3f4831c2cf7b205e68b996_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>由于耦合因素，单个根本原因导致多个element的失效。这里又出现了coupling factor，标准里对此解释：元素element之间的共同的特性或者是共同的关系导致元素之间的失效是相关的。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0c752c083d4c7988dcb1457254fe2e30_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1019\" data-rawheight=\"88\" class=\"origin_image zh-lightbox-thumb\" width=\"1019\" data-original=\"https://pic1.zhimg.com/v2-0c752c083d4c7988dcb1457254fe2e30_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1019&#39; height=&#39;88&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1019\" data-rawheight=\"88\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1019\" data-original=\"https://pic1.zhimg.com/v2-0c752c083d4c7988dcb1457254fe2e30_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0c752c083d4c7988dcb1457254fe2e30_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>针对DFI，标准中指出了耦合因素是相关失效的可能原因，并且相关失效可能是同时发生的，也可能按照一定的次序发生。举几个例子：</p><p>一：<br/></p><p>耦合因素：两个软件单元使用单片机中的同一个RAM区域</p><p>根本原因：第一个单元无意地毁坏了第二个单元使用的数据。</p><p>二：</p><p>耦合因素：两个微控制单元同时使用3.3V稳压电源。</p><p>根本原因：3.3V过压，损坏两个微控制器。</p><p>在ISO26262-9，附录C Framework for Identifying Dependent Failures <br/></p><p>提出了如何识别相关失效的框架。下图对耦合元素进行了分类：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6279c0853abfed6cf8a111b2099265b9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"883\" data-rawheight=\"687\" class=\"origin_image zh-lightbox-thumb\" width=\"883\" data-original=\"https://pic2.zhimg.com/v2-6279c0853abfed6cf8a111b2099265b9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;883&#39; height=&#39;687&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"883\" data-rawheight=\"687\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"883\" data-original=\"https://pic2.zhimg.com/v2-6279c0853abfed6cf8a111b2099265b9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6279c0853abfed6cf8a111b2099265b9_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>接着下面的table3对各个coupling factor子类进行了举例，分别从system level. software level.hardware level.microcontroller level进行了解读，十分详尽。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e398a6395cec2fa240a3bde0627db4fc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"433\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-e398a6395cec2fa240a3bde0627db4fc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;433&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"433\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-e398a6395cec2fa240a3bde0627db4fc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e398a6395cec2fa240a3bde0627db4fc_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "新能源汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19731651"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57859660", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 1, 
+            "title": "如何写好技术安全需求TSR（一）", 
+            "content": "<p>    浏览更多功能安全相关的论文请关注微信公众号：<b>新能源汽车功能安全 </b> </p><p>    分享一篇SAE的论文，是关于如何写好TSR的guide吧，内容比较多，分几次解读，我把它翻译成中文，并剔除了原文中的废话，如果有不对的地方，请大家指点，谢谢。</p><p>    在item的开发过程中，制定合适的TSC是开发符合功能安全标准的一个关键前提。这在系统级的标准产品开发的第4部分中有详细的说明。技术安全要求和技术安全概念构成了导出硬件和软件安全要求的基础，然后由工程团队用于开发安全产品。就像任何其他形式的产品开发一样，对需求进行多次修改是非常不可取的。这主要是由于成本的增加，工作产品中出现不一致的可能性及其对整个项目进度的影响。良好的技术安全要求实际上是有效实施功能安全的基础。目前，ISO 26262标准并没有提供任何直接的指导，以确定某一项目的特定安全目标的技术安全要求的具体方法。本文提供了使用安全分析技术（如FTA或FMEA）提出全面而简明的技术安全要求的指南。本文的目的是支持那些负责开发技术安全概念的安全工程师。此外，本文认识到，在实践中，项目面临着利益相关者利益缺失、多方开发、上游工作产品缺失或不完整等挑战。本文捕捉到了这些现实世界中的挑战，并提出了解决方案。文章最后引用了几种容错时间间隔的方法(FTTI) ，一个关键参数对技术安全概念的有效性至关重要。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>写好TSR的重要性</b></p><p>技术安全要求基本上是安全工程师对需要做什么来确保所涉及的项目或部分项目(如单片机或软件对象)在所需的ASIL级别上达到功能安全的理解。特定的设计方法并非强制要求导出TSR。关键是要用清晰、简洁、明确的语言和符号来书写TSR。</p><p>写的好的TSR能够实现以下的目标：</p><p><b>1. Basis for Safety Concept</b></p><p>技术安全要求及其对相关硬件和软件元素的分配构成该项目的技术安全概念的基础。技术安全要求的薄弱和它们达到预期ASIL水平的能力将削弱安全的实施。</p><p><b>2. Input for Hardware and Software work products</b></p><p>技术安全要求和技术安全概念是系统设计、硬件级产品开发和软件级产品开发的关键输入。 在技术安全要求中出现的任何模糊或错误都有可能渗透到下游工作产品中，如硬件安全要求和软件安全要求。良好的产品质量不是巧合，它来自于强大的工程文化需求。召回和服务升级的成本非常高，可能会抹去产品线的利润。</p><p><b>3. Input for Item integration and testing</b></p><p>ISO26262标准第4部分第8条讨论了项目集成和测试。集成本身是指硬件-软件、系统和车辆等多个层次的集成。每个级别的测试旨在提供足够的置信度，确保技术安全需求能够抢占可能违反安全目标的意外行为。</p><p><b>4. Cost for product development</b></p><p>技术安全概念和技术安全要求的初步草案可以作为一种聪明的项目管理工具，用于估算工作量，从而估算成本。正如产品开发后期变更的任何其他方面一样，技术安全需求中的范围渐变和返工可能导致成本超支并延迟整个项目进度。</p><p><b>5. Customer Confidence</b></p><p>在实践中，技术安全要求可能完全由Tier1供应商制定，或者在Tier1和OEM之间分工。实际的工作划分和工作产品在一个称为DIA(开发接口协议)的ISO工作产品中详细描述。一个编写良好的技术安全概念(TSC)和技术安全要求可以确保相关各方理解该方法，并致力于可行的实现。这总是有助于维护甚至增强客户对供应商能力的信心。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>编写TSR过程中面临的一些困难</b></p><p><b>1 Missing upstream work product</b></p><p>功能安全概念是功能安全要求的规范，包括相关信息，它们对架构元素的分配，以及实现安全目标所必需的交互。根据ISO26262 Part 4 Clause 6.4.1，技术安全要求需要符合概念阶段开发的功能安全概念。然而，一个特定的项目可能会遇到FSC缺失的情况，并且它不在他们的工作职责划分之内。在这种情况下，FSC需要逆向工程或定制，以完成安全案例。另一种情况是，FSC是可用的，但功能安全要求没有得到适当的引出，并导致某种部分工作产品。这两种场景都是不可取的，并且超出了拥有此工作产品的标准的目的。供应商应通过DIA确保上游工作产品由双方一致同意的一方按时交付。</p><p><b>2 Multiparty development</b></p><p>在今天，由多个组织开发的产品并不少见。对于软件开发来说尤其如此。在OEM开发高级应用软件软件、Tier 1提供大部分基础软件、第三方供应商提供CAN堆栈的产品中，经常可以看到这样的情况。在这些情况下，关键是要在DIA中捕获工作分配和进度，并得到各方的同意。再次强调，在项目早期通过DIA确定多方责任和时间表很重要。</p><p><b>3. Challenges with legacy systems</b></p><p>近年来，OEM公司强烈要求越来越多的控制单元达到ISO26262标准。随着车型年更新，车辆中大多数电控单元通常保持现状或变化极小。然而，新的ECU或工程变更的ECU可能会决定采取措施遵守ISO26262。然而，通常情况下，ECU可能从传感器接收到一些输入，或者可能成为安全概念的一部分，从而获得相应的ASIL要求。这驱动ECU或硬件组件发送信号的变化。然而，OEM可能会因为决定移交遗留组件而立即推迟进行这些更改。在这种情况下，系统的缺陷需要在功能安全评估中得到明确的沟通和双方的同意，并形成文件。此外，由于这些缺陷而可能产生的任何法律责任也应予以记录和商定。</p><p><b>4. Critical computer resources</b></p><p>用于ECU硬件的微控制器可能没有足够的资源，比如可用的运行时、内存分区功能、空闲RAM或Flash，以实现满足项目的目标ASIL所需的安全控制策略。有时，如果有这样的选择，可以通过仔细选择安全策略来克服运行时或CPU吞吐量等挑战。例如，与基于定时器中断的反馈相比，选择基于ADC的反馈可能会减少CPU负载。应在报价阶段要求评估用于实施适合该项目的安全概念的预期硬件的适用性。</p><p><b>5. Stakeholder lack of interest</b></p><p>ISO26262的成功实施取决于所有利益相关者的合作和团队合作，包括OEM、Tier1和任何子供应商或第三方。如果OEM的承诺很低，Tier1可能很难开发符合ISO26262的产品。这些挑战从缺少像HARA和FSC这样的安全概念工作产品到无法执行安全验证。正如前面提到的，从项目开始实施的第1点和第2点安全管理依赖于包含DIA的多方，可以帮助缓解这个问题。另一方面，如果ISO26262的实现仅仅是为了供应商的利益，那么供应商可以在内部模拟这些缺失的工作产品和OEM的角色。</p><p><b>编写技术安全概念</b></p><p>      为了讨论和应用该方法，我们将以一个相对简单的项目为例，如后门模块。后置门模块的主要功能是根据驱动程序的有效请求打开或关闭后置门(启动盖)。打开或关闭请求可以来自硬连接的数字输入开关或CAN消息。根据启动盖的当前位置，请求将被解释为打开或关闭。启动盖的运动是通过h桥控制电机实现的。由于控制模块的潜在故障而可能发生的一种危险是，当一个人正在从汽车行李箱中捡东西时，不小心关闭了门。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-593e8d843251e2bc8d7a438c4efba31b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"563\" data-rawheight=\"301\" class=\"origin_image zh-lightbox-thumb\" width=\"563\" data-original=\"https://pic4.zhimg.com/v2-593e8d843251e2bc8d7a438c4efba31b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;563&#39; height=&#39;301&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"563\" data-rawheight=\"301\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"563\" data-original=\"https://pic4.zhimg.com/v2-593e8d843251e2bc8d7a438c4efba31b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-593e8d843251e2bc8d7a438c4efba31b_b.jpg\"/></figure><p>    从上述危害中，我们可以得出安全目标“防止后大门意外关闭”，并被评为ASIL A。该标准提供了五个分类，其中ASIL A是最不严格和要求，而ASIL D恰恰相反，是最严格的。QM分类不需要ISO26262标准的特殊措施，使用适当的行业特定的质量标准就足够了。ASIL级别是根据在概念阶段的危害分析和风险评估中识别的最高ASIL级别的危害确定的。</p><p><b>下期文章将详细介绍使用FTA和FMEA两种方法从安全目标导出TSR。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><i>欢迎关注微信公众号    </i>新能源汽车功能安全 <i>   阅读往期精选文章：</i></b></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483907%26idx%3D1%26sn%3Dca9dbe48448d465a2a23f7463eaca4c1%26chksm%3D97903d2ba0e7b43d2124ef37875a5f2bc8150baccb8b836a046e013c74961ece3b9b00ea853a%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">预期功能安全SOTIF介绍</a></u></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483925%26idx%3D1%26sn%3D2885362a767d787e5185cc45c9715cb2%26chksm%3D97903d3da0e7b42b9bd2ddf72b88a0ff1b547a65f8e05123a6d7dd24998e0f17d1f9e7c330fb%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ISO26262相关失效分析—避免软件要素相互干扰分析</a></u><br/></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483930%26idx%3D1%26sn%3Da2912ad6f3b517f03131b04c56b5c93c%26chksm%3D97903d32a0e7b4246610e56884c57f407a2cea02d430e531816317ce1d97ddf08cd731b588c8%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">功能安全中的Fault/Failure/Error</a></u><br/></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483940%26idx%3D1%26sn%3D67aeee563313f315437a81894c2bbd94%26chksm%3D97903d0ca0e7b41ac48ba2daf9394e726f72875c5ecbfb1a2649b333fa0b1dc71177cd5beab2%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">识别相关失效（DFA）的框架</a></u></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483952%26idx%3D1%26sn%3D341f6872544f597bdba1dc6bcd901a6b%26chksm%3D97903d18a0e7b40eb2cbda95340f102347eeb7786bdf475c5129387fdb3d4c70415399aebfdd%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">关于故障容忍时间间隔（FTTI）</a></u></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483920%26idx%3D1%26sn%3D8db0836ad98d36b4eb3e475bfb6dca2b%26chksm%3D97903d38a0e7b42e21db7c455494599ddc17cf26ab4f7db35e078b7ddbfb4b789684e357e147%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">自动驾驶汽车安全影响因素分析与应对措施研究</a></u><br/></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483866%26idx%3D1%26sn%3Dbf12d1b8b74bc184901b9eb06257a454%26chksm%3D97903ef2a0e7b7e426f65d1398732808474e733c18afbad86bebef5c2b8ee2b980c2070e7b37%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ISO26262第2版新看点</a></u><br/></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483890%26idx%3D1%26sn%3Dd219bd688d27d61f3c422999c4d0a890%26chksm%3D97903edaa0e7b7cc36be77a30b6c682dc3501629ccaab7e8f682b038f754dfc0609789fdfd27%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">智能泊车系统功能安全概念阶段方案研究</a></u><br/></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483862%26idx%3D1%26sn%3Dce47e044c5f2c7782d0a2ea199f6aa08%26chksm%3D97903efea0e7b7e8ba91885cec4a1d6a32fda0590fc676731ad970f8e21be6debc262c9341cd%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">基于ISO26262的新能源电动车电机驱动系统概要设计</a></u><br/></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483852%26idx%3D1%26sn%3D9d30deb8ce90f46364455e435990b20e%26chksm%3D97903ee4a0e7b7f2ab734072242f1c22973b3ce0e99d90e4a52a8f1112bc0f2ede2e465a4e85%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">基于AUTOSAR的电动汽车驱动电机控制系统设计与实现</a></u><br/></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483841%26idx%3D1%26sn%3D8f1ec9d40202da21500341e27bbf23d0%26chksm%3D97903ee9a0e7b7ff772a9d3522af4531564e47a6656f7625c2e3561f2b2eae31b000b11751b2%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">案例分享：符合行业ASILD等级的EPS电控系统方案</a></u><br/></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483836%26idx%3D1%26sn%3D0e6826f3845302e7d2a0b5d3823b60f9%26chksm%3D97903e94a0e7b782d995c27953bb535f90049bf6364ab6f78df8c0bbc17c2f50f28ce0e9073c%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">关于主控芯片（MCU）的FMEDA</a></u><br/></p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzIxNTg4NjQwNw%3D%3D%26mid%3D2247483831%26idx%3D1%26sn%3D13dc2031a438cda45dfb65343b7bccea%26chksm%3D97903e9fa0e7b78962a4cd880fe3c998afb6c86f508434e83992cf59943fec37de20cb7a3470%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">功能安全分析方法之——FTA</a></u></p>", 
+            "topic": [
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "新能源汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19731651"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "六六六", 
+                    "userLink": "https://www.zhihu.com/people/b40e0d6f23243ecd95a9bfd2bea9e7c6", 
+                    "content": "<p>您好，可以发下原文的名字吗</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53408390", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 0, 
+            "title": "浅谈汽车功能安全", 
+            "content": "<p>    很有幸在读书的时候就有机会接触到新能源汽车功能安全这一领域，这里只是以学生的角色分享一下对这一概念的了解和感触。其实高校涉及功能安全的项目并不多，你搜论文看基本上绝大多数都是欧美的OEM尤其是德国的和各种供应商在做的，比如VW，Bosch，ZF，Infineon等等。</p><p>     顾名思义，功能安全是针对汽车电子功能相关而定义的一个名词，即当故障发生时系统能够规避对人造成危害的能力。ISO26262对功能安全在研发阶段的描述基本上是按照V流程来得。</p><p>   下面聊聊自己对各个阶段的看法，针对概念阶段，我觉得就是按照标准中的套路来，这一块有一个前提就是你要对你分析的那个系统比较熟悉，因为相关项的定义需要你很清楚系统的各个功能与其他系统之间的接口等。在HARA分析之后得到ASIL，安全目标以后，需要将安全目标具体化，通常的套路就是将安全目标细化并分配到系统架构中去。</p><p>  概念阶段的下一阶段就是系统阶段了，私以为这个阶段是功能安全里面比较重要的。基本的就是细化系统架构，细化为基本功能、故障诊断和响应机制以及安全冗余，这个阶段可以做的很细，需要懂一些软硬件的东西，尤其是硬件，因为很多安全相关的东西必须保证应该能够实现的前提下你才能设计。当然设计完之后需要进行安全分析，寻找架构涉及的问题并进行完善，ISO26262中推荐使用两种分析方法FMEA和FTA，两套方法分析套路不同，一个是由下而上，另外一个是由上而下，可以互补吧，具体分析也有很多细节需要注意。当然如果可以的话也可以做下相关失效分析DFA。最后，需要做一个软硬件接口HSI的文件，通过这个文件可以看到软件，硬件是如何分配的，个人觉得做出HSI以后，系统的框架和一些具体的细节都会浮出水面了。</p><p>    后面是软硬件阶段了，本人接触的比较少，只能谈谈一些现成的东西，下次就聊聊安全相关的硬件。</p><p>欢迎关注微信公众号   新能源汽车功能安全</p><p></p><p></p><p></p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/50998989", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 3, 
+            "title": "功能安全分析方法之FMEDA（二）", 
+            "content": "<p>上篇介绍了功能安全的基本概念、安全机制以及故障的分类，本篇介绍FMEDA的定量计算公式以及计算过程。</p><p><b>FMEDA计算公式</b></p><p>     FMEDA两种架构度量的计算公式如下所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-91f80286aae93b0b88c7982318b30b3d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"702\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic2.zhimg.com/v2-91f80286aae93b0b88c7982318b30b3d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;702&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"702\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic2.zhimg.com/v2-91f80286aae93b0b88c7982318b30b3d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-91f80286aae93b0b88c7982318b30b3d_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>    从公式中可以看出，单点故障度量（SPFM）和潜伏故障度量（LFM）是没有单位的，是相对值，它体现的是系统设计水平的优良程度，而随机硬件失效率的计算结果是有单位的，是个绝对值，体现的是产品本身的寿命水平。<br/></p><p><b>FMEDA计算过程详解：</b></p><p> 1.首先是根据系统的硬件架构，列出所有的硬件单元，并查询各个硬件的失效率以及不同的故障模式所占的比例。</p><p>   2.根据故障模式分析的流程图及是否会违反安全要求， 逐个确认硬件单元的故障模式是否是安全相关的，是否有相应的安全机制， 直至确认该故障模式 为安全故障、 单点故障或多点故障。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-890af94187b32c0cf1e7c3ff2ac46fc8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1154\" data-rawheight=\"740\" class=\"origin_image zh-lightbox-thumb\" width=\"1154\" data-original=\"https://pic1.zhimg.com/v2-890af94187b32c0cf1e7c3ff2ac46fc8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1154&#39; height=&#39;740&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1154\" data-rawheight=\"740\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1154\" data-original=\"https://pic1.zhimg.com/v2-890af94187b32c0cf1e7c3ff2ac46fc8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-890af94187b32c0cf1e7c3ff2ac46fc8_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>3.参照ISO26262-5附录D的安全机制目录表，确定产品设计过程中所制定的安全机制的诊断覆盖率以用于计算分析。 如果相应的诊断授盖率查不到对应项， 需根据之前的项目设计经验评估出相应诊断稷盖率的值。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4b363e18cddf9614101accec02a9343f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1241\" data-rawheight=\"525\" class=\"origin_image zh-lightbox-thumb\" width=\"1241\" data-original=\"https://pic4.zhimg.com/v2-4b363e18cddf9614101accec02a9343f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1241&#39; height=&#39;525&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1241\" data-rawheight=\"525\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1241\" data-original=\"https://pic4.zhimg.com/v2-4b363e18cddf9614101accec02a9343f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4b363e18cddf9614101accec02a9343f_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>4.根据SPFM、LFM和PMHF的计算公式，计算出硬件架构的各项衡量指标，以评估和计算分析结果是否符合相应安全等级的衡量指标。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-ec47226f9f64ff4d0c8de118fa01341e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"836\" data-rawheight=\"436\" class=\"origin_image zh-lightbox-thumb\" width=\"836\" data-original=\"https://pic3.zhimg.com/v2-ec47226f9f64ff4d0c8de118fa01341e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;836&#39; height=&#39;436&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"836\" data-rawheight=\"436\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"836\" data-original=\"https://pic3.zhimg.com/v2-ec47226f9f64ff4d0c8de118fa01341e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-ec47226f9f64ff4d0c8de118fa01341e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>5.如果设计不满足相应的安全等级的要求，则根据FMEDA的计算结果，针对设计的薄弱环节进行优化，重新迭代分析知道计算结果满足安全等级的要求为止。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</p><p>欢迎关注微信公众号：<b>新能源汽车功能安全</b></p>", 
+            "topic": [
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "汽车电子", 
+                    "tagLink": "https://api.zhihu.com/topics/19697968"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/50921614", 
+            "userName": "王玉", 
+            "userLink": "https://www.zhihu.com/people/505a444cdaf8d5a196840b7140991002", 
+            "upvote": 5, 
+            "title": "功能安全分析方法之FMEDA（一）", 
+            "content": "<p> FMEA, FTA和FMEDA作为 IS026262三种重要的分析技术在产品开发过程中也发挥了重要的作用， 相对于前两种常用的分析技术， FMEDA作为<b>定量分析</b>的核心技术引起了从业者越来越多的关注。由于不同的产品应用导致的危害不同，ISO26262引入了安全等级和量化指标。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-e1498e0705dee035b5b66143b52b0c42_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"549\" data-rawheight=\"296\" class=\"origin_image zh-lightbox-thumb\" width=\"549\" data-original=\"https://pic3.zhimg.com/v2-e1498e0705dee035b5b66143b52b0c42_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;549&#39; height=&#39;296&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"549\" data-rawheight=\"296\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"549\" data-original=\"https://pic3.zhimg.com/v2-e1498e0705dee035b5b66143b52b0c42_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-e1498e0705dee035b5b66143b52b0c42_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p> 产品设计过程中， FMEDA可以同时分析以上三个指标，度量产品的硬件设计是否符合相应的安全要求。产品设计的过程中SPFM 和LFM 可以用来验证硬件构架设计应对随机失效的鲁棒性，PMHF用来评估随机硬件失效率导致违反安全目标的风险已经足够小。</p><p><b>FMEDA介绍</b></p><p>    FMEDA-失效模式影响与诊断分析 (failure mode effect and diagnostic analysis) 是产品设计定量分析的基础，可以用 来分析整个系统也可以用来分析系统的某个模块单元。</p><p> 系统失效的过程往往是从单元（器件） 的异常情况（故 障）开始导致测量值与规定值不符（误差），最终使系统或单元失去执行某项功能的能力（失效）。失效率指系统或零件 在单位时间内失效的概率，其单位通常用fit表示，Ifit=10-9 /h。</p><p><b>安全机制与诊断覆盖率</b></p><p>        安全机制是指某项功能，它由电子I电气器件，或其他技术手段实现，用于探测故障， 或控制失效，以使产品能进入 或保持千安全状态避免不合理的风险。</p><p>        诊断覆盖率是指元器件失效率可以被安全机制诊断出来 的百分比， 典型值：60%、 90%和 99%. 安全机制的覆盖率可以根据产品的实际使用场景进一步的分析和优化。 在产品 设计过程中可以参考 ISO 26262 Part 5 Annex D 的安全机制来提高产品设计的可靠性。图 l 为附录 D 中一个诊断覆盖率 的评估示例， Low-&gt;DC =60%: medium-&gt;90%; High -&gt;99%。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d7c28173cce797d7e18e6a19876ec33e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"836\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb\" width=\"836\" data-original=\"https://pic3.zhimg.com/v2-d7c28173cce797d7e18e6a19876ec33e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;836&#39; height=&#39;369&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"836\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"836\" data-original=\"https://pic3.zhimg.com/v2-d7c28173cce797d7e18e6a19876ec33e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-d7c28173cce797d7e18e6a19876ec33e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>故障分类： </b>  </p><p>   从违反系统输出要求的角度来讲，故障可以分为：单点故障、 残余故障、 两点故障、 潜伏故障和多点故障等。为了减少故障发生率，系统通常增加一些安全机制，或其他技术手段实现，用于探测故障控制失效，以使产 品能进入或保持于安全状态。</p><p><b> 安全故障</b>：指某个故障，它不会显著地增加违反安全目标的概率。</p><p><b>单点故障</b>：单点故障指某个硬件单元中的某个故障，它无法被 “安全机制” 探测到， 并且它会直接导致安全目标的 违反。</p><p><b>残余故障</b>：在某个硬件单元中被诊断的故障的残存部分， 即没有被诊断覆盖（诊断覆盖率&gt;0%)到的那部分故障，井且它会立即导致安全目标的违反。</p><p><b>两点故障</b>： 指某个故障，只有当它和另外一个故障共同作用后，才造成了安全目标的违反。</p><p><b>多点故障</b>：大于两个障共同组合后引起的失效，通常可以忽略。如果 “多点故障” 可以被识别，则应归类为 ”可检测的多点故障”；如果 “多点故障”可以被探知，并且能够被驾驶员控制（如：前灯变暗 的缺陷），则应归类为“可感知的多点故障”。</p><p><b>潜伏故障</b>：多点故障中未被探测到的错误，称为潜伏故障，具有违背安全目标的危险。<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f61504db0e0d688bfa4991eb84c835a7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1063\" data-rawheight=\"446\" class=\"origin_image zh-lightbox-thumb\" width=\"1063\" data-original=\"https://pic4.zhimg.com/v2-f61504db0e0d688bfa4991eb84c835a7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1063&#39; height=&#39;446&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1063\" data-rawheight=\"446\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1063\" data-original=\"https://pic4.zhimg.com/v2-f61504db0e0d688bfa4991eb84c835a7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f61504db0e0d688bfa4991eb84c835a7_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</p><p>欢迎关注微信公众号：新能源汽车功能安全</p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/kURUTHTEbCkTrTAv9xGD\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/kURUTHT</span><span class=\"invisible\">EbCkTrTAv9xGD</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "功能安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20051431"
+                }, 
+                {
+                    "tag": "ISO26262", 
+                    "tagLink": "https://api.zhihu.com/topics/20014152"
+                }, 
+                {
+                    "tag": "汽车电子", 
+                    "tagLink": "https://api.zhihu.com/topics/19697968"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1049245380516163584"
+}

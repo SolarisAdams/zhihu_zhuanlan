@@ -1,0 +1,874 @@
+{
+    "title": "拓扑优化方法及其编程实现", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/liu-tong-86-23", 
+        "https://www.zhihu.com/people/hsr603", 
+        "https://www.zhihu.com/people/hui-hui-85-27-84", 
+        "https://www.zhihu.com/people/cad-61-23", 
+        "https://www.zhihu.com/people/ni-de-jian-jiu-shi-wo-de-jian-10", 
+        "https://www.zhihu.com/people/zhang-yi-47-84-82", 
+        "https://www.zhihu.com/people/yang-ding-ding-86-7", 
+        "https://www.zhihu.com/people/mao-lan-mao-lu", 
+        "https://www.zhihu.com/people/hu-fang-xin-90", 
+        "https://www.zhihu.com/people/sslchi", 
+        "https://www.zhihu.com/people/mu-rongxuan", 
+        "https://www.zhihu.com/people/clous-21", 
+        "https://www.zhihu.com/people/chen-hua-59-90", 
+        "https://www.zhihu.com/people/jin-dou-yun-62", 
+        "https://www.zhihu.com/people/fu-shen-shi-nuan-yang", 
+        "https://www.zhihu.com/people/zhang-chen-62-22", 
+        "https://www.zhihu.com/people/MechCD", 
+        "https://www.zhihu.com/people/ydscn", 
+        "https://www.zhihu.com/people/zhu-jing-zhi-yuan-73-26", 
+        "https://www.zhihu.com/people/cui-ze-sen-9", 
+        "https://www.zhihu.com/people/qiao-nan-4", 
+        "https://www.zhihu.com/people/lynn-56-4", 
+        "https://www.zhihu.com/people/wu-di-xiao-qiang-75", 
+        "https://www.zhihu.com/people/xia-zi-xu-73", 
+        "https://www.zhihu.com/people/zhang-zhe-84-91", 
+        "https://www.zhihu.com/people/mrzhu-li-si", 
+        "https://www.zhihu.com/people/li-zhan-peng-79", 
+        "https://www.zhihu.com/people/lian-hao-jie-20", 
+        "https://www.zhihu.com/people/gui-song-19", 
+        "https://www.zhihu.com/people/so-what-68-64", 
+        "https://www.zhihu.com/people/sam-54-31", 
+        "https://www.zhihu.com/people/zi-wei-34-37", 
+        "https://www.zhihu.com/people/upupgo", 
+        "https://www.zhihu.com/people/freeman-96-88", 
+        "https://www.zhihu.com/people/dan-qu-xun-huan-16-29", 
+        "https://www.zhihu.com/people/tian-ye-79-63-92", 
+        "https://www.zhihu.com/people/wang-ri-xin-32", 
+        "https://www.zhihu.com/people/wang-tao-25-42", 
+        "https://www.zhihu.com/people/enderxiao-59", 
+        "https://www.zhihu.com/people/jingcaiaero", 
+        "https://www.zhihu.com/people/yezishu89", 
+        "https://www.zhihu.com/people/mo-xiao-pang-er", 
+        "https://www.zhihu.com/people/cnworld", 
+        "https://www.zhihu.com/people/hao-ming-hui-23", 
+        "https://www.zhihu.com/people/askmayday", 
+        "https://www.zhihu.com/people/shi-ya-50-63", 
+        "https://www.zhihu.com/people/yi-da-84-47", 
+        "https://www.zhihu.com/people/zhi-zhe-47-76", 
+        "https://www.zhihu.com/people/accnov", 
+        "https://www.zhihu.com/people/jiang-yuan-7-87", 
+        "https://www.zhihu.com/people/jian-dan-55-50", 
+        "https://www.zhihu.com/people/yu-mi-53-20", 
+        "https://www.zhihu.com/people/liu-guang-wei-52", 
+        "https://www.zhihu.com/people/shang-gu-xuan", 
+        "https://www.zhihu.com/people/yang-wen-wei-5", 
+        "https://www.zhihu.com/people/lebron-14-42", 
+        "https://www.zhihu.com/people/zi-wo-cui-mian-zhu-shi", 
+        "https://www.zhihu.com/people/psychokinesis", 
+        "https://www.zhihu.com/people/ma-yuan-zhuo-54", 
+        "https://www.zhihu.com/people/luo-yiming-99", 
+        "https://www.zhihu.com/people/jackmuller-35", 
+        "https://www.zhihu.com/people/shuidao-52", 
+        "https://www.zhihu.com/people/lin-yi-bin-13", 
+        "https://www.zhihu.com/people/yong-zhe-wu-wei-56", 
+        "https://www.zhihu.com/people/ren-peng-fei-56-5", 
+        "https://www.zhihu.com/people/yuan-wei-tong-38", 
+        "https://www.zhihu.com/people/tan-jian-32-22", 
+        "https://www.zhihu.com/people/chen-zhuo-zhuo-zhuo-69", 
+        "https://www.zhihu.com/people/he-zheng-e", 
+        "https://www.zhihu.com/people/zhang-xian-sheng-27-43-88", 
+        "https://www.zhihu.com/people/xiaozhi-97-68", 
+        "https://www.zhihu.com/people/ming-94-29-75", 
+        "https://www.zhihu.com/people/kitshingyim", 
+        "https://www.zhihu.com/people/xia-qiang-76-19", 
+        "https://www.zhihu.com/people/george-44-98", 
+        "https://www.zhihu.com/people/asdzxc1994", 
+        "https://www.zhihu.com/people/thedevils", 
+        "https://www.zhihu.com/people/hongzhi-zhang-53", 
+        "https://www.zhihu.com/people/zhanwh", 
+        "https://www.zhihu.com/people/wu-liao-12138", 
+        "https://www.zhihu.com/people/junky-11", 
+        "https://www.zhihu.com/people/bu-zhuo-bu-cheng", 
+        "https://www.zhihu.com/people/liu-xu-90-35", 
+        "https://www.zhihu.com/people/frankhu", 
+        "https://www.zhihu.com/people/zhan-ke-22", 
+        "https://www.zhihu.com/people/10ng_", 
+        "https://www.zhihu.com/people/ga-zi-10-15", 
+        "https://www.zhihu.com/people/miao-chuang-mu", 
+        "https://www.zhihu.com/people/yu-zhe-51-24", 
+        "https://www.zhihu.com/people/sha-wei-89-55", 
+        "https://www.zhihu.com/people/zhang-song-4-39", 
+        "https://www.zhihu.com/people/zb-wang", 
+        "https://www.zhihu.com/people/peng-peng-33-22-54", 
+        "https://www.zhihu.com/people/yi-zhi-fei-lan-de-ben-zhu", 
+        "https://www.zhihu.com/people/yun-zhong-feng-44", 
+        "https://www.zhihu.com/people/qing-kai-mu-xi", 
+        "https://www.zhihu.com/people/wang-hong-wei-37-79", 
+        "https://www.zhihu.com/people/jiang_xiaojiang", 
+        "https://www.zhihu.com/people/jiang-qing-qing-10-33", 
+        "https://www.zhihu.com/people/acaciayu", 
+        "https://www.zhihu.com/people/david-lee-22", 
+        "https://www.zhihu.com/people/tian-cai-er-tong-5", 
+        "https://www.zhihu.com/people/yang-qi-8", 
+        "https://www.zhihu.com/people/zhu-wu-shuang", 
+        "https://www.zhihu.com/people/eric-41-5-52", 
+        "https://www.zhihu.com/people/ou-yang-12-29", 
+        "https://www.zhihu.com/people/imp-60-76", 
+        "https://www.zhihu.com/people/e-e-e-16-54", 
+        "https://www.zhihu.com/people/lao-dou-fu-ban-suan-nai", 
+        "https://www.zhihu.com/people/zhu-xun-fei-60", 
+        "https://www.zhihu.com/people/yi-shi-du-li-46", 
+        "https://www.zhihu.com/people/ren-xian-sheng-75-86", 
+        "https://www.zhihu.com/people/hhwu-6", 
+        "https://www.zhihu.com/people/zhaohaisen", 
+        "https://www.zhihu.com/people/a-luo-4-31", 
+        "https://www.zhihu.com/people/gua-niu-4", 
+        "https://www.zhihu.com/people/fisher-duke-15", 
+        "https://www.zhihu.com/people/lonelybag-79", 
+        "https://www.zhihu.com/people/li-zeng-jiang-25", 
+        "https://www.zhihu.com/people/xiao-xiao-bu-dong-bu-dong", 
+        "https://www.zhihu.com/people/mei-ki", 
+        "https://www.zhihu.com/people/kongfang1993", 
+        "https://www.zhihu.com/people/honglouyimeng", 
+        "https://www.zhihu.com/people/chuan-luo-20", 
+        "https://www.zhihu.com/people/tian-nan-di-bei-74", 
+        "https://www.zhihu.com/people/pi-pi-xia-ling-jun-52", 
+        "https://www.zhihu.com/people/simon-pun", 
+        "https://www.zhihu.com/people/fan-zhen-zhong-23", 
+        "https://www.zhihu.com/people/lucemia", 
+        "https://www.zhihu.com/people/huhu-hot", 
+        "https://www.zhihu.com/people/you-mou-mou-77", 
+        "https://www.zhihu.com/people/jiang-xiao-hang-36", 
+        "https://www.zhihu.com/people/he-wei-4-61", 
+        "https://www.zhihu.com/people/hitljx", 
+        "https://www.zhihu.com/people/xiao-chen-chen-41-63", 
+        "https://www.zhihu.com/people/ning-hu-86", 
+        "https://www.zhihu.com/people/qie-ting-feng-yin-55-63", 
+        "https://www.zhihu.com/people/ren-xiao-yu-76-29", 
+        "https://www.zhihu.com/people/liang-zu-lei", 
+        "https://www.zhihu.com/people/kong-feng-3", 
+        "https://www.zhihu.com/people/meng-tang-38", 
+        "https://www.zhihu.com/people/gu-du-de-yuan-fang-49", 
+        "https://www.zhihu.com/people/gao-yuan-75-5", 
+        "https://www.zhihu.com/people/zhu-wu-xin-80", 
+        "https://www.zhihu.com/people/mou-an-yu-72", 
+        "https://www.zhihu.com/people/tang-pei-jun-94", 
+        "https://www.zhihu.com/people/xia-xue-jian-39", 
+        "https://www.zhihu.com/people/mechanics-3", 
+        "https://www.zhihu.com/people/biglethz", 
+        "https://www.zhihu.com/people/huang-yong-bin-55", 
+        "https://www.zhihu.com/people/zhao-gen-85", 
+        "https://www.zhihu.com/people/smartmesh", 
+        "https://www.zhihu.com/people/ljh-54-84-68", 
+        "https://www.zhihu.com/people/saw-71", 
+        "https://www.zhihu.com/people/bo-shi-81", 
+        "https://www.zhihu.com/people/01abomb", 
+        "https://www.zhihu.com/people/cristina-1-12", 
+        "https://www.zhihu.com/people/csf-42-67", 
+        "https://www.zhihu.com/people/jin-xin-96-69", 
+        "https://www.zhihu.com/people/zhou-yizhou-98-14", 
+        "https://www.zhihu.com/people/kao-yan-bi-sheng-1", 
+        "https://www.zhihu.com/people/minhua-sheng", 
+        "https://www.zhihu.com/people/liu-xin-67-70-91", 
+        "https://www.zhihu.com/people/wu-di-22-39", 
+        "https://www.zhihu.com/people/zhao-shan-he-32", 
+        "https://www.zhihu.com/people/ning-meng-75-4", 
+        "https://www.zhihu.com/people/hou-jie-67-16", 
+        "https://www.zhihu.com/people/hemeng-48", 
+        "https://www.zhihu.com/people/tian-qin-yu", 
+        "https://www.zhihu.com/people/zzy-64-81", 
+        "https://www.zhihu.com/people/wu-xuan-86-15-25", 
+        "https://www.zhihu.com/people/wu-liight", 
+        "https://www.zhihu.com/people/wan-zi-62-15-64", 
+        "https://www.zhihu.com/people/sun-jian-yu-71"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63518346", 
+            "userName": "可爱的科研宅", 
+            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+            "upvote": 1, 
+            "title": "随笔：到底要不要规定博士生毕业发表论文的基本要求", 
+            "content": "<p>这两天清华关于取消博士生毕业必须发表论文的强制性规定的消息刷遍了朋友圈，我作为一名已经上岸的老PhD，对此有一点点不成熟的想法，写在这里供大家一哂。</p><p>政策的制定不止是要看“ZhengZhi正确”，符合价值观的政策自然得到拥护，但政策不是口号，正常既要兼顾价值观，还要符合国情，能够公平、方便地执行。具体到博士生毕业标准这件事儿来说，我觉得，发表论文不能100%标志着博士生的科研水平，因此不强制要求博士生将发表论文作为毕业的基本条件肯定是“ZhengZhi正确”的，符合精英知识层的价值观，也符合其利益，所以自然有一大群人为这个政策摇旗呐喊。但不可忽视的是，简单地规定发表论文的篇数、期刊的档次，是最符合当前中国国情的博士毕业要求了。</p><p>我自己的感受，中国的学术圈跟西方的还挺不一样的。西方的学者大多会很严肃、单纯地对待其学术活动，而中国社会的人情关系深刻地影响了学术圈的行事方式。因此，在西方可以将博士生的毕业放心地交由其导师来决定，但在中国恐怕至少目前对于某些具体情形来说还是略有困难的。规定了发表论文的基本要求（<b>注意，是基本要求，而不是拔高的要求。</b>据我了解，目前清华大多数院系所规定的的基本要求都是那种努力蹦一蹦还是能达到的高度，而不是那种累死了也达不到的高度。）实际上是以一种最简单、公平的方式要求博士生在毕业前其科研水平至少能够达到发表论文的层次。如果放弃了这个要求，很可能会出现导师送人情的情形，到时候可能连最基本的底线也被跨越了。总的来看，目前中国的研究生培养还是失之于宽，而不是过于严苛，所以在目前的国情下，对毕业要求实行弹性化改革是否合理，可能还得具体情况具体分析。</p><p>这就像最近吵得火热的清华本科生GPA改革一样，所有人都知道百分制评价不合理，因为百分制过于强调了每一分的差异，因此对百分制的改革肯定是“ZhengZhi正确”的。但<b>在目前的国情下，百分制才是最公平、最不会引起争议的评价方式</b>。搞那么花哨的GPA评价体系，还把各种统计学工具引入进来，以为是多么科学的评价体系，最后反而引起本科生的极大反感和强烈的抵触。试想一下，如果将全国的高考成绩评价也搞成A、B、C分档，甚至引入各种素质教育的评价方法，强调个性、特长，不强调每一分的差异，还能保证中西部地区的考生尤其是农村考生的基本公平吗？</p>", 
+            "topic": [
+                {
+                    "tag": "博士", 
+                    "tagLink": "https://api.zhihu.com/topics/19565943"
+                }, 
+                {
+                    "tag": "GPA（平均成绩点）", 
+                    "tagLink": "https://api.zhihu.com/topics/19660692"
+                }, 
+                {
+                    "tag": "清华大学", 
+                    "tagLink": "https://api.zhihu.com/topics/19563245"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/54630934", 
+            "userName": "可爱的科研宅", 
+            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+            "upvote": 29, 
+            "title": "在MATLAB里，怎样更优雅地求B矩阵？", 
+            "content": "<p>众所周知，MATLAB跟别的基本语言（如C，Fortran等）的一个显著差异就在于，其运行效率强烈依赖于编程过程的向量化水平。在有限元、拓扑优化的程序中，有大量的语句在常规语言框架下是通过循环实现的，而在MATLAB框架下，应该设法是其向量化以加快其执行效率。</p><p>这里举一个有限元编程中常见的例子——形成应变-位移矩阵 <img src=\"https://www.zhihu.com/equation?tex=%5Cbm%7BB%7D\" alt=\"\\bm{B}\" eeimg=\"1\"/> 的过程来说明这个问题。</p><hr/><p>以三维八节点单元为例，其<b>单元坐标的插值模型</b>为：</p><p><img src=\"https://www.zhihu.com/equation?tex=x%3D%5Csum_%7Bi%3D1%7D%5E%7B8%7D%7BN_i+x_i%7D%2C%5Cqquad+++++y%3D%5Csum_%7Bi%3D1%7D%5E%7B8%7D%7BN_i+y_i%7D%2C+%5Cqquad+++++z%3D%5Csum_%7Bi%3D1%7D%5E%7B8%7D%7BN_i+z_i%7D\" alt=\"x=\\sum_{i=1}^{8}{N_i x_i},\\qquad     y=\\sum_{i=1}^{8}{N_i y_i}, \\qquad     z=\\sum_{i=1}^{8}{N_i z_i}\" eeimg=\"1\"/> </p><p>这里， <img src=\"https://www.zhihu.com/equation?tex=N_i%3DN_i%28%5Cxi%2C%5Ceta%2C%5Czeta%29\" alt=\"N_i=N_i(\\xi,\\eta,\\zeta)\" eeimg=\"1\"/> 是C3D8单元的<b>形函数</b>，不展开讨论了； <img src=\"https://www.zhihu.com/equation?tex=%28x_i%2Cy_i%2Cz_i%29\" alt=\"(x_i,y_i,z_i)\" eeimg=\"1\"/> 是已知的八个角点的坐标， <img src=\"https://www.zhihu.com/equation?tex=i%3D1%2C2%2C%5Ccdots%2C8\" alt=\"i=1,2,\\cdots,8\" eeimg=\"1\"/> ； <img src=\"https://www.zhihu.com/equation?tex=%28x%2Cy%2Cz%29\" alt=\"(x,y,z)\" eeimg=\"1\"/> 是单元内任意一点的坐标。</p><hr/><p><b>Jacobi矩阵</b>为：</p><p><img src=\"https://www.zhihu.com/equation?tex=++%7B%5Cbm%7BJ%7D%7D%28%5Cxi%2C%5Ceta%2C%5Czeta%29%3D+++%5Cbegin%7Bbmatrix%7D+++++x_%7B%2C%5Cxi%7D+%26+y_%7B%2C%5Cxi%7D+%26+z_%7B%2C%5Cxi%7D+%5C%5C+++++x_%7B%2C%5Ceta%7D+%26+y_%7B%2C%5Ceta%7D+%26+z_%7B%2C%5Ceta%7D+%5C%5C+++++x_%7B%2C%5Czeta%7D+%26+y_%7B%2C%5Czeta%7D+%26+z_%7B%2C%5Czeta%7D+%5C%5C+++%5Cend%7Bbmatrix%7D+++%3D%5Cbm%7BPX%7D+%3D+++%5Cbegin%7Bbmatrix%7D+++++N_%7B1%2C%5Cxi%7D++%26N_%7B2%2C%5Cxi%7D++%26+%5Ccdots++%26+N_%7B8%2C%5Cxi%7D++%5C%5C+++++N_%7B1%2C%5Ceta%7D++%26N_%7B2%2C%5Ceta%7D++%26+%5Ccdots++%26+N_%7B8%2C%5Ceta%7D%5C%5C+++++N_%7B1%2C%5Czeta%7D++%26N_%7B2%2C%5Czeta%7D++%26+%5Ccdots++%26+N_%7B8%2C%5Czeta%7D+++%5Cend%7Bbmatrix%7D%5Cbegin%7Bbmatrix%7D++++++++++++++++++x_1+%26+y_1+%26+z_1+%5C%5C++++++++++++++++++x_2+%26+y_2+%26+z_2+%5C%5C++++++++++++++++++%5Cvdots+%26+%5Cvdots+%26+%5Cvdots+%5C%5C++++++++++++++++++x_8+%26+y_8+%26+z_8++++++++++++++++%5Cend%7Bbmatrix%7D\" alt=\"  {\\bm{J}}(\\xi,\\eta,\\zeta)=   \\begin{bmatrix}     x_{,\\xi} &amp; y_{,\\xi} &amp; z_{,\\xi} \\\\     x_{,\\eta} &amp; y_{,\\eta} &amp; z_{,\\eta} \\\\     x_{,\\zeta} &amp; y_{,\\zeta} &amp; z_{,\\zeta} \\\\   \\end{bmatrix}   =\\bm{PX} =   \\begin{bmatrix}     N_{1,\\xi}  &amp;N_{2,\\xi}  &amp; \\cdots  &amp; N_{8,\\xi}  \\\\     N_{1,\\eta}  &amp;N_{2,\\eta}  &amp; \\cdots  &amp; N_{8,\\eta}\\\\     N_{1,\\zeta}  &amp;N_{2,\\zeta}  &amp; \\cdots  &amp; N_{8,\\zeta}   \\end{bmatrix}\\begin{bmatrix}                  x_1 &amp; y_1 &amp; z_1 \\\\                  x_2 &amp; y_2 &amp; z_2 \\\\                  \\vdots &amp; \\vdots &amp; \\vdots \\\\                  x_8 &amp; y_8 &amp; z_8                \\end{bmatrix}\" eeimg=\"1\"/> </p><p>上式表明，<b>Jacobi矩阵的形成是自然可以向量化的，不用通过循环生成</b>。</p><hr/><p>获得Jacobi矩阵之后，考虑<b>形函数对物理坐标的导数</b>：</p><p><img src=\"https://www.zhihu.com/equation?tex=++%5Cbegin%7Bbmatrix%7D+++++N_%7Bi%2Cx%7D+%5C%5C+++++N_%7Bi%2Cy%7D+%5C%5C+++++N_%7Bi%2Cz%7D+++%5Cend%7Bbmatrix%7D+++%3D+%7B%5Cbm%7BJ%7D%7D%5E%7B-1%7D+++%5Cbegin%7Bbmatrix%7D+++++N_%7Bi%2C%5Cxi%7D+%5C%5C+++++N_%7Bi%2C%5Ceta%7D+%5C%5C+++++N_%7Bi%2C%5Czeta%7D+++%5Cend%7Bbmatrix%7D+++%5Cqquad+++i%3D1%2C2%2C%5Ccdots%2C8\" alt=\"  \\begin{bmatrix}     N_{i,x} \\\\     N_{i,y} \\\\     N_{i,z}   \\end{bmatrix}   = {\\bm{J}}^{-1}   \\begin{bmatrix}     N_{i,\\xi} \\\\     N_{i,\\eta} \\\\     N_{i,\\zeta}   \\end{bmatrix}   \\qquad   i=1,2,\\cdots,8\" eeimg=\"1\"/> </p><p class=\"ztext-empty-paragraph\"><br/></p><p>进而可以考虑<b>应变场</b>：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbm%7B%5Cvarepsilon%7D%28%5Cxi%2C%5Ceta%2C%5Czeta%29%3D+++%5Cbegin%7Bbmatrix%7D+++++%5Cvarepsilon_%7Bxx%7D+%5C%5C+++++%5Cvarepsilon_%7Byy%7D+%5C%5C+++++%5Cvarepsilon_%7Bzz%7D+%5C%5C+++++%5Cgamma_%7Byz%7D+%5C%5C+++++%5Cgamma_%7Bxz%7D+%5C%5C+++++%5Cgamma_%7Bxy%7D+++%5Cend%7Bbmatrix%7D+++%3D%5Cbm%7BB%7D%5Cbm%7Bq%7D%5E%7B%5Ctext%7Be%7D%7D\" alt=\"\\bm{\\varepsilon}(\\xi,\\eta,\\zeta)=   \\begin{bmatrix}     \\varepsilon_{xx} \\\\     \\varepsilon_{yy} \\\\     \\varepsilon_{zz} \\\\     \\gamma_{yz} \\\\     \\gamma_{xz} \\\\     \\gamma_{xy}   \\end{bmatrix}   =\\bm{B}\\bm{q}^{\\text{e}}\" eeimg=\"1\"/> </p><p>这里， <img src=\"https://www.zhihu.com/equation?tex=%5Cbm%7Bq%7D%5E%7B%5Ctext%7Be%7D%7D%3D%5Bu_1%2Cv_1%2Cw_1%2C%5Ccdots%2Cu_8%2Cv_8%2Cw_8%5D%5E%7B%5Ctop%7D\" alt=\"\\bm{q}^{\\text{e}}=[u_1,v_1,w_1,\\cdots,u_8,v_8,w_8]^{\\top}\" eeimg=\"1\"/> 是<b>角点处的位移向量</b>。</p><p><b>应变-位移矩阵</b> <img src=\"https://www.zhihu.com/equation?tex=%5Cbm%7BB%7D\" alt=\"\\bm{B}\" eeimg=\"1\"/> 的表达式为：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbm%7BB%7D%28%5Cxi%2C%5Ceta%2C%5Czeta%29%3D%5B%5Cbm%7BB%7D_1%2C%5Ccdots%2C%5Cbm%7BB%7D_8%5D%5C%5C+%5Cbm%7BB%7D_i%28%5Cxi%2C%5Ceta%2C%5Czeta%29+%3D+++%5Cbegin%7Bbmatrix%7D+++++N_%7Bi%2Cx%7D+%26+0+%26+0+%5C%5C+++++0+%26+N_%7Bi%2Cy%7D+%26+0+%5C%5C+++++0+%26+0+%26+N_%7Bi%2Cz%7D+%5C%5C+++++0+%26+N_%7Bi%2Cz%7D+%26+N_%7Bi%2Cy%7D+%5C%5C+++++N_%7Bi%2Cz%7D+%26+0+%26+N_%7Bi%2Cx%7D+%5C%5C+++++N_%7Bi%2Cy%7D+%26+N_%7Bi%2Cx%7D+%26+0+++%5Cend%7Bbmatrix%7D+++%5Cqquad+++i%3D1%2C2%2C%5Ccdots%2C8\" alt=\"\\bm{B}(\\xi,\\eta,\\zeta)=[\\bm{B}_1,\\cdots,\\bm{B}_8]\\\\ \\bm{B}_i(\\xi,\\eta,\\zeta) =   \\begin{bmatrix}     N_{i,x} &amp; 0 &amp; 0 \\\\     0 &amp; N_{i,y} &amp; 0 \\\\     0 &amp; 0 &amp; N_{i,z} \\\\     0 &amp; N_{i,z} &amp; N_{i,y} \\\\     N_{i,z} &amp; 0 &amp; N_{i,x} \\\\     N_{i,y} &amp; N_{i,x} &amp; 0   \\end{bmatrix}   \\qquad   i=1,2,\\cdots,8\" eeimg=\"1\"/> </p><p>从上式可以看出，<b>常规的有限元程序</b>中应该这么求得 <img src=\"https://www.zhihu.com/equation?tex=%5Cbm%7BB%7D\" alt=\"\\bm{B}\" eeimg=\"1\"/> 矩阵：</p><div class=\"highlight\"><pre><code class=\"language-matlab\"><span class=\"n\">B</span> <span class=\"p\">=</span> <span class=\"nb\">zeros</span><span class=\"p\">(</span><span class=\"mi\">6</span><span class=\"p\">,</span><span class=\"mi\">24</span><span class=\"p\">);</span>\n<span class=\"k\">for</span> <span class=\"n\">k</span> <span class=\"p\">=</span> <span class=\"mi\">1</span><span class=\"p\">:</span><span class=\"mi\">8</span>\n    <span class=\"n\">B</span><span class=\"p\">(:,</span><span class=\"mi\">3</span><span class=\"o\">*</span><span class=\"n\">k</span><span class=\"o\">-</span><span class=\"mi\">2</span><span class=\"p\">:</span><span class=\"mi\">3</span><span class=\"o\">*</span><span class=\"n\">k</span><span class=\"p\">)</span> <span class=\"p\">=</span>  <span class=\"p\">[</span>\n        <span class=\"n\">dNdx</span><span class=\"p\">(</span><span class=\"n\">k</span><span class=\"p\">)</span>  <span class=\"mi\">0</span>       <span class=\"mi\">0</span><span class=\"p\">;</span>\n        <span class=\"mi\">0</span>        <span class=\"n\">dNdy</span><span class=\"p\">(</span><span class=\"n\">k</span><span class=\"p\">)</span> <span class=\"mi\">0</span><span class=\"p\">;</span>\n        <span class=\"mi\">0</span>        <span class=\"mi\">0</span>       <span class=\"n\">dNdz</span><span class=\"p\">(</span><span class=\"n\">k</span><span class=\"p\">)</span>\n        <span class=\"mi\">0</span>        <span class=\"n\">dNdz</span><span class=\"p\">(</span><span class=\"n\">k</span><span class=\"p\">)</span> <span class=\"n\">dNdy</span><span class=\"p\">(</span><span class=\"n\">k</span><span class=\"p\">)</span>\n        <span class=\"n\">dNdz</span><span class=\"p\">(</span><span class=\"n\">k</span><span class=\"p\">)</span>  <span class=\"mi\">0</span>       <span class=\"n\">dNdx</span><span class=\"p\">(</span><span class=\"n\">k</span><span class=\"p\">)</span>\n        <span class=\"n\">dNdy</span><span class=\"p\">(</span><span class=\"n\">k</span><span class=\"p\">)</span>  <span class=\"n\">dNdx</span><span class=\"p\">(</span><span class=\"n\">k</span><span class=\"p\">)</span> <span class=\"mi\">0</span><span class=\"p\">];</span>\n<span class=\"k\">end</span></code></pre></div><p>这是很自然的想法，但要注意，单元 <img src=\"https://www.zhihu.com/equation?tex=%5Cbm%7BB%7D\" alt=\"\\bm{B}\" eeimg=\"1\"/> 矩阵的形成在FEA程序中是需要被超大规模次数地调用，所以程序里每一句的效率都是会影响到全局效率的。另外，注意到，每个单元有多少个节点，上面的循环(for k = 1:8)就需要做多少次，因此对于二阶单元，例如三维二十节点单元，循环就需要执行20次，这是不划算的。</p><p>为了提高 <img src=\"https://www.zhihu.com/equation?tex=%5Cbm%7BB%7D\" alt=\"\\bm{B}\" eeimg=\"1\"/> 矩阵的形成效率，我们把 <img src=\"https://www.zhihu.com/equation?tex=%5Cbm%7BB%7D\" alt=\"\\bm{B}\" eeimg=\"1\"/> 矩阵的表达式写成<b>列向量的形式</b>：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cwidetilde%7B%5Cbm%7BB%7D%7D_i%28%5Cxi%2C%5Ceta%2C%5Czeta%29+%3D++%5Cbegin%7Bbmatrix%7D+N_%7Bi%2Cx%7D%28k%29+%5C%5C+0+++++++%5C%5C+0+++++++%5C%5C+0+++++++%5C%5C+N_%7Bi%2Cz%7D%28k%29+%5C%5C+N_%7Bi%2Cy%7D%28k%29+%5C%5C+0++++++%09%5C%5C+N_%7Bi%2Cy%7D%28k%29+%5C%5C+0+++++++%5C%5C+N_%7Bi%2Cz%7D%28k%29+%5C%5C+0+++++++%5C%5C+N_%7Bi%2Cx%7D%28k%29+%5C%5C+0+++++++%5C%5C+0+++++++%5C%5C+N_%7Bi%2Cz%7D%28k%29+%5C%5C+N_%7Bi%2Cy%7D%28k%29+%5C%5C+N_%7Bi%2Cx%7D%28k%29+%5C%5C+0++++++++%5Cend%7Bbmatrix%7D%2C+++%5Cqquad+++i%3D1%2C2%2C%5Ccdots%2C8\" alt=\"\\widetilde{\\bm{B}}_i(\\xi,\\eta,\\zeta) =  \\begin{bmatrix} N_{i,x}(k) \\\\ 0       \\\\ 0       \\\\ 0       \\\\ N_{i,z}(k) \\\\ N_{i,y}(k) \\\\ 0      \t\\\\ N_{i,y}(k) \\\\ 0       \\\\ N_{i,z}(k) \\\\ 0       \\\\ N_{i,x}(k) \\\\ 0       \\\\ 0       \\\\ N_{i,z}(k) \\\\ N_{i,y}(k) \\\\ N_{i,x}(k) \\\\ 0        \\end{bmatrix},   \\qquad   i=1,2,\\cdots,8\" eeimg=\"1\"/> </p><p>设dNdxyz的每一个行存储的是形函数对物理坐标的导数：</p><p><img src=\"https://www.zhihu.com/equation?tex=dNdxyz%3D%5Cbegin%7Bbmatrix%7D+N_%7B1%2Cx%7D+%26+N_%7B2%2Cx%7D+%26+%5Ccdots+%26+N_%7B8%2Cx%7D%5C%5C+N_%7B1%2Cy%7D+%26+N_%7B2%2Cy%7D+%26+%5Ccdots+%26+N_%7B8%2Cy%7D%5C%5C+N_%7B1%2Cz%7D+%26+N_%7B2%2Cz%7D+%26+%5Ccdots+%26+N_%7B8%2Cz%7D+%5Cend%7Bbmatrix%7D\" alt=\"dNdxyz=\\begin{bmatrix} N_{1,x} &amp; N_{2,x} &amp; \\cdots &amp; N_{8,x}\\\\ N_{1,y} &amp; N_{2,y} &amp; \\cdots &amp; N_{8,y}\\\\ N_{1,z} &amp; N_{2,z} &amp; \\cdots &amp; N_{8,z} \\end{bmatrix}\" eeimg=\"1\"/> </p><p>那么 <img src=\"https://www.zhihu.com/equation?tex=%5Cwidetilde%7B%5Cbm%7BB%7D%7D_i\" alt=\"\\widetilde{\\bm{B}}_i\" eeimg=\"1\"/> 显然可通过矩阵变换的方式得到：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cwidetilde%7B%5Cbm%7BB%7D%7D_1%3D+%5Cbegin%7Bbmatrix%7D+1+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+1+%5C%5C+++++0+%26+1+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+1+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+1+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++1+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+1+%5C%5C+++++0+%26+1+%26+0+%5C%5C+++++1+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5Cend%7Bbmatrix%7D%5Cbegin%7Bbmatrix%7D+N_%7B1%2Cx%7D+%5C%5C+N_%7B1%2Cy%7D+%5C%5C+N_%7B1%2Cz%7D++%5Cend%7Bbmatrix%7D\" alt=\"\\widetilde{\\bm{B}}_1= \\begin{bmatrix} 1 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 1 \\\\     0 &amp; 1 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 1 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 1 \\\\     0 &amp; 0 &amp; 0 \\\\     1 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 1 \\\\     0 &amp; 1 &amp; 0 \\\\     1 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\end{bmatrix}\\begin{bmatrix} N_{1,x} \\\\ N_{1,y} \\\\ N_{1,z}  \\end{bmatrix}\" eeimg=\"1\"/> </p><p>自然地，可以得到 <img src=\"https://www.zhihu.com/equation?tex=%5Cwidetilde%7B%5Cbm%7BB%7D%7D\" alt=\"\\widetilde{\\bm{B}}\" eeimg=\"1\"/> 矩阵的表达式：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cwidetilde%7B%5Cbm%7BB%7D%7D%3D+%5Cbegin%7Bbmatrix%7D+1+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+1+%5C%5C+++++0+%26+1+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+1+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+1+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++1+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+1+%5C%5C+++++0+%26+1+%26+0+%5C%5C+++++1+%26+0+%26+0+%5C%5C+++++0+%26+0+%26+0+%5Cend%7Bbmatrix%7D%5Cbegin%7Bbmatrix%7D+N_%7B1%2Cx%7D+%26+N_%7B2%2Cx%7D+%26+%5Ccdots+%26+N_%7B8%2Cx%7D%5C%5C+N_%7B1%2Cy%7D+%26+N_%7B2%2Cy%7D+%26+%5Ccdots+%26+N_%7B8%2Cy%7D%5C%5C+N_%7B1%2Cz%7D+%26+N_%7B2%2Cz%7D+%26+%5Ccdots+%26+N_%7B8%2Cz%7D+%5Cend%7Bbmatrix%7D\" alt=\"\\widetilde{\\bm{B}}= \\begin{bmatrix} 1 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 1 \\\\     0 &amp; 1 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 1 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 1 \\\\     0 &amp; 0 &amp; 0 \\\\     1 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 1 \\\\     0 &amp; 1 &amp; 0 \\\\     1 &amp; 0 &amp; 0 \\\\     0 &amp; 0 &amp; 0 \\end{bmatrix}\\begin{bmatrix} N_{1,x} &amp; N_{2,x} &amp; \\cdots &amp; N_{8,x}\\\\ N_{1,y} &amp; N_{2,y} &amp; \\cdots &amp; N_{8,y}\\\\ N_{1,z} &amp; N_{2,z} &amp; \\cdots &amp; N_{8,z} \\end{bmatrix}\" eeimg=\"1\"/> </p><p>对 <img src=\"https://www.zhihu.com/equation?tex=%5Cwidetilde%7B%5Cbm%7BB%7D%7D\" alt=\"\\widetilde{\\bm{B}}\" eeimg=\"1\"/> <b>简单地重排</b>一下就可以得到 <img src=\"https://www.zhihu.com/equation?tex=%7B%5Cbm%7BB%7D%7D\" alt=\"{\\bm{B}}\" eeimg=\"1\"/> 矩阵了。</p><p>虽然这一段叙述显得很复杂，<b>实际的编程却超乎想象地简单</b>：</p><div class=\"highlight\"><pre><code class=\"language-text\">J = dNdxietazeta.&#39; * [x,y,z];\ndetJ = det(J);\ndNdxyz = J\\dNdxietazeta.&#39;;\nMat = [\n    1     0     0\n    0     0     0\n    0     0     0\n    0     0     0\n    0     0     1\n    0     1     0\n    0     0     0\n    0     1     0\n    0     0     0\n    0     0     1\n    0     0     0\n    1     0     0\n    0     0     0\n    0     0     0\n    0     0     1\n    0     1     0\n    1     0     0\n    0     0     0];\ntemp = Mat*dNdxyz;\nB = reshape(temp,[6,numel(temp)/6]);</code></pre></div><p>感兴趣的同学可以自行测试一下这两种编程风格对单元刚度矩阵计算效率的影响。</p><hr/><p>总结：本文给出了有限元编程中 <img src=\"https://www.zhihu.com/equation?tex=%5Cbm%7BB%7D\" alt=\"\\bm{B}\" eeimg=\"1\"/> 矩阵在MATLAB环境下向量化编程实现的思路，这种思路对于类似的问题同样适用。总之，在MATLAB环境下，尽量避免循环。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "有限元分析（FEA）", 
+                    "tagLink": "https://api.zhihu.com/topics/19613736"
+                }, 
+                {
+                    "tag": "MATLAB", 
+                    "tagLink": "https://api.zhihu.com/topics/19559252"
+                }, 
+                {
+                    "tag": "拓扑优化（Topology Optimization）", 
+                    "tagLink": "https://api.zhihu.com/topics/20069613"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "MechCD", 
+                    "userLink": "https://www.zhihu.com/people/a39e646f1b5f56a5950837c792e462d0", 
+                    "content": "<p>应力矩阵如何求？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/29363345", 
+            "userName": "可爱的科研宅", 
+            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+            "upvote": 186, 
+            "title": "如何入门拓扑优化研究？", 
+            "content": "<p>%—-2018.10.23更新：发布到专栏———————%</p><p>%----2017.9.17更新：补充数值优化方面的信息----%</p><p>最近有很多人私信我咨询如何入门拓扑优化的研究，为了避免重复劳动，我在这篇文章里做一个统一回复。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>首先必须声明，我自己也是拓扑优化研究领域的新人，因此本文仅代表我作为一个新人的一些浅薄的看法，大家切记不可奉为圭臬。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>一、内功心法：知识体系的构建</b></h2><p>如果你仅仅是想“用”拓扑优化技术解决一个实际的工程问题，那么很显然你并不需要什么知识体系，简单地找一款商业软件（如Optistruct/TOSCA/ABAQUS/ANSYS etc.）然后读一下软件的manual，跟着做几个例子，你就可以出师去干活（搬砖）了。所以如果你是这种情形，那么下面的内容可以不用浪费时间去读了。</p><p>如果你是拓扑优化方向的研究生或者博士生，那夯实知识体系应该是非常重要的一件事情。我认为在学术研究中，内功心法要比招式重要得多。试想一下，一个连“形函数”、“Gauss积分”这种最基本的计算力学概念都不清楚的孩子怎么可能做出很优秀的research。</p><p>拓扑优化是计算力学下的一个分支，而计算力学是力学下的一个分支。所以，作为拓扑优化方向的researcher，大家应该首先把力学和计算力学的基础打好。我自己是直博生，所以有比较充足的时间修习相关的课程体系：</p><ul><li>张量分析、弹塑性力学、固体力学；</li><li>有限元分析与应用、计算固体力学、计算动力学；</li><li>高等固体力学。</li></ul><p>如果是硕士的话，可能没有那么多的时间去修完全部这些课程。作为保底的方案，至少得修《弹性力学》和《有限元分析》这两门课程。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>二、武功招式：自己搭建一个有限元程序库</b></h2><p>我自己的经验，在掌握了前述内功心法之后，应该有能力自己动手写一个完整的有限元软件包了。还是那句话，拓扑优化是计算力学的分支，计算力学就意味着你一定得会编程。因此，自己动手写一个完整的有限元工具箱是锻炼自己编程能力、同时检验自己力学基础的一个绝佳方法。</p><p>在写程序的时候，一般有两种方案：</p><ul><li>以“基本语言”为编程工具，例如Fortran/C/C++ etc. 这种方案的好处是，写好的程序通用性很好，且很容易扩展到计算超大规模的问题，能够解决工程实际问题。缺点是，所花时间较长。</li><li>以“高级语言”为编程工具，如MATLAB。作为一个使用MATLAB多年的老PhD，我强烈推荐大家以MATLAB来入门计算力学。这种方案的好处是，你站在巨人的肩膀上，因此可以避免去写大量的底层程序（例如，Gauss消元法解线性方程组、Lanzcos法求大型稀疏矩阵的特征值，等等）的代码。你只需要专注于有限元计算的基本流程即可，所用到的底层程序MATLAB都已经为你准备好了。这种方案的缺点是，作为解释性语言，MATLAB有太多的trick。如果不掌握这些trick，你所写的程序很可能慢得一塌糊涂，根本算不了大规模问题。但即使是这样，通过MATLAB你也能够掌握一个有限元程序包的基本流程和编程方法。</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>三、登堂入室：正式学习拓扑优化相关技术</b></h2><p>到这里，你就可以轻松入门拓扑优化了。总的说来，拓扑优化方法目前分为两大类：</p><p><b>第一类：变密度方法及其变形。</b></p><p>这一类方法发源于Bendsoe和Kikuchi的均一化方法，后来在Rozvany/Bendsoe/周明/Sigmund/Olhoff等一批人的一系列工作之下，现在意义下的变密度法得以成形。值得注意的是，目前所有商业软件中拓扑优化模块所用的技术都是基于变密度方法的。我在知乎上的另一个问题下的也曾说过，变密度法相对于其余方法的最大优势是：对于任意形状的可行设计域具有普适性。如果想了解变密度法的相关知识，Bendsoe和Sigmund写于2003年的经典教材《Topology Optimization: Theory and Applications》一定是不可错过的。不过就我个人的看法，这本教材的起点较高，不大适合新人入门，更适合于新人入门的是Sigmund大名鼎鼎的99行程序《A 99 line topology optimization code written in MATLAB》。当然，Sigmund的99行程序按照今天的观点来看，有很多地方可以改进。针对99行程序的改进后来又出现了88行程序、针对3D问题的程序、等等。</p><p>[1]. Sigmund O (2001) A 99 line topology optimization code written in Matlab. Structural and Multidisciplinary Optimization</p><p>[2]. Andreassen E, Clausen A, Schevenels M, Lazarov BS, Sigmund O (2010) Efficient topology optimization in MATLAB using 88 lines of code. Structural and Multidisciplinary Optimization doi: 10.1007/s00158-010-0594-7</p><p>[3]. Talischi C, Paulino GH, Pereira A, Menezes IFM (2012) PolyTop: A Matlab implementation of a general topology optimization framework using unstructured polygonal finite element meshes. Structural and Multidisciplinary Optimization 45(3):329-357 doi:<br/>10.1007/s00158-011-0696-x</p><p>[4]. Liu K, Tovar AE (2014) An efficient 3D topology optimization code written inMatlab. Structural and Multidisciplinary Optimization:1175-1196 doi: 10.1007/s00158-014-1107-x</p><p class=\"ztext-empty-paragraph\"><br/></p><p>澳大利亚RMIT的谢亿民老师及其团队提出的ESO/BESO方法中保留了变密度法的一些痕迹，但加入了他们自己的一些新想法。ESO/BESO方法试图解决传统SIMP方法中的灰色单元问题。感兴趣的同学可以参考谢亿民老师的相关文献。特别指出，谢亿民老师出了一本教材专门用来介绍他们的ESO/BESO方法：</p><p>[5]. Huang X, Xie M (2010) Evolutionary topology optimization of continuum structures: Methods and applications: John Wiley &amp; Sons.</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第二类：边界演化方法。</b></p><p>变密度法认为拓扑优化问题是一个<b>材料本构模型的插值问题</b>，与之相反，边界演化方法试图通过<b>显式地控制实边界的演化过程</b>来实现拓扑优化。显然，这两种方法从一开始的出发点就不同，前者相信星星之火可以燎原，主张通过微观层次材料本构参数的变化最终实现宏观层次结构拓扑构形的变化；后者一开始就高屋建瓴抓住拓扑二字的本质，直面边界演化。据我所知，目前边界演化方法里较为成熟的方法包括：</p><p><b>（1）Level-set方法。</b>这一方法由香港中文大学的Michael Yu Wang提出，认为实体的边界可由更高一维的函数的等高面来描述，在每次迭代时通过求解Jacobi扩散方程确定边界的演化过程。当然，现在level-set方法经过大量学者的改进跟王老师最开始提出来的level-set方法已经不太一样了，感兴趣的同学可以自行查阅相关的文献。</p><p>[6]. Wang MY, Wang X, Guo D (2003) A level set method for structural topology optimization. Comput. Methods Appl. Mech. Engrg. 192(1):227-246 doi: 10.1016/S0045-7825(02)00559-5</p><p>[7]. Wang SY, Lim KM, Khoo BC, Wang MY (2007) An extended level set method for shape and topology optimization. Journal of Computational Physics 221(1):395-421</p><p>[8]. van Dijk NP, Maute K, Langelaar M, van Keulen F (2013) Level-set methods for structural topology optimization: A review. Structural and Multidisciplinary Optimization 48(3):437-472</p><p><b>（2）MMC/MMV方法。</b>这一方法由大连理工的郭旭老师的团队提出。该方法认为实体的边界可由显式的函数进行描述，从而将拓扑优化问题转化为<b>拓扑描述函数的基本参数的参数优化问题</b>。很显然，这种思路下，优化问题的计算规模大大缩减了，但随之而来的问题是如何寻找到普适的、能够描述任意复杂形状的拓扑描述函数。郭旭老师近年来十分活跃，有很多很不错的工作，感兴趣的同学可以关注他们的文章：</p><p>[9]. Zhang W, Yang W, Zhou J, Li D, Guo X (2017) Structural topology optimization through explicit boundary evolution. Journal of Applied Mechanics-Transactions of the ASME 84(0110111) doi: 10.1115/1.4034972</p><p>[10].Zhang W, Chen J, Zhu X, Zhou J, Xue D, Lei X, Guo X (2017) Explicit three dimensional<br/>topology optimization via Moving Morphable Void (MMV) approach. Computer Methods in Applied Mechanics and Engineering 322(590-614 doi: 10.1016/j.cma.2017.05.002</p><p>[11].Zhang W, Zhou J, Zhu Y, Guo X (2017) Structural complexity control in topology<br/>optimization via moving morphable component (MMC) approach. Structural and<br/>Multidisciplinary Optimization 56(3):535-552 doi: 10.1007/s00158-017-1736-y</p><p><b>（3）相场（Phase-field）方法。</b>这个方面我了解不多，不太清楚具体情形，感兴趣的同学可以自行查阅文献。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>四、选一把好的装备：优化求解器（optimizer）</b></h2><p>经评论区同学的提醒，我补充上关于数值优化方面的一些基本信息。</p><p>拓扑优化，从名字上就决定了我们本质上是在求解一个优化问题，因此对于数值优化方面的一些基本了解是必不可少的。事实上，能否选一个好的优化求解器将直接决定你在做research的时候的效率以及最终结果的美观性等等。</p><p>拓扑优化问题肯定是一个优化问题，但又不是那么简单的优化问题，拓扑优化本身的一些特点决定了必须十分谨慎小心地选择合适的optimizer:</p><ul><li>问题规模超大。在变密度法中，一个三维问题动辄就是十万、百万规模的设计变量，对于绝大多数优化算法和优化求解器来说，面对如此大规模的问题很可能束手无策。</li><li>在大多数情况下，仅能够获得一阶导数（也就是所谓的灵敏度）信息。这决定了不大可能采用那些强烈依赖于二阶导数（Hessian矩阵）的方法。当然，BFGS提够了另一种思路。</li><li>每次迭代的计算成本很大。每计算一次目标函数/约束条件，就需要<b>完整地执行一次有限元分析</b>，这种计算量是很多只搞数值优化的人所不了解的。</li></ul><p>上述特点反映在拓扑优化研究领域的一个直接后果就是，长期以来，拓扑优化领域的学者不信任通用的数值优化算法。一个在本领域内流行的观点是，通用数值优化算法由于对精度要求过高，在用于求解拓扑优化问题时的迭代次数以及随之而来的计算量是无法接受的。在这种观点的指导下，从上世纪七、八十年代开始，拓扑优化领域的学者就致力于发展适用于本领域的数值优化算法，这其中的佼佼者包括：优化准则法、MMA、CONLIN等等。</p><p>我们现在所处的时代跟我们的老前辈们很不一样，老前辈们当年的一些困难（如内存、CPU计算速度等）在今天很可能已经不是困难了。因此当前的拓扑优化领域内也出现了一种声音，认为现在已经能够将通用数值优化算法直接应用于拓扑优化问题了。在SAMO上最近有越来越多的年轻学者（我也是其中之一）更愿意使用通用优化算法。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>关于通用数值优化算法（如现在比较流行的内点法、SQP方法等等）与拓扑优化领域内长期使用的传统方法之间的对比，在这儿不便展开，我（强烈）推荐下面的文献：</p><p>[12]. Rojas-Labanda S, Stolpe M (2015) Benchmarking optimization solvers for structural topology optimization. Structural and Multidisciplinary Optimization 52(3):527-547</p><p class=\"ztext-empty-paragraph\"><br/></p><p>关于通用数值优化方面的知识，肯定是越多越好，我推荐下面的两本鸿篇巨著，如能通读肯定会浑身通畅，但读的过程可能不会太舒服。</p><p>[13]. Nocedal J, Wright SJ (2006) Numerical optimization: Springer.</p><p>[14]. Boyd S, Vandenberghe L (2004) Convex optimization. Stanford: Cambridge University Press.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>关于本领域内的经典算法MMA，做一些必要的了解是你在这个领域内交流所必不可少的（你的审稿意见中总会出现MMA这个词，所以，你懂的）。MMA在历史上经过了多次改进，大家不妨直接学习最新版：</p><p>[15]. Svanberg K (2007) MMA and GCMMA, versions September 2007</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在做一个拓扑优化的research时，首先是研究问题本身，然后提出数学模型（mathematical formulation）。此后最重要也是最复杂的部分就是推导目标函数和约束条件的灵敏度信息。其实说白了，推导灵敏度就是求一个函数 <img src=\"https://www.zhihu.com/equation?tex=f%3A%5Cmathbb%7BR%7D%5E%7Bn%7D%5Crightarrow%5Cmathbb%7BR%7D\" alt=\"f:\\mathbb{R}^{n}\\rightarrow\\mathbb{R}\" eeimg=\"1\"/> 的一阶导数。如果大家的微积分基础还可以的话，这块应该不是问题。很可能需要补充的是关于矩阵函数求导的知识，这块内容说白了也很简单，就是每个分量分别关于自变量求导。但这一块有很多初学者不知道的黑科技，我推荐以下资源作为参考：</p><p>[16]. <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Matrix_calculus\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Matrix calculus - Wikipedia</a></p><p>[17]. <a href=\"https://link.zhihu.com/?target=http%3A//www.cs.cornell.edu/courses/cs6780/2009fa/materials/matrix_cookbook.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">The Matrix Cookbook</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在读拓扑优化的文献时，大家肯定会遇到一个词叫做“伴随灵敏度分析”（adjoint method），我当时被这个词吓了一大跳，以为是多么高明、高深的东西。其实理解了之后就会发现，本质上和传统的直接微分法(direct differential method)是完全等价的。如果想详细了解这两种分析方法，我推荐杜建镔老师的教材，其中有一章专门讲这个问题：</p><p>[18]. 杜建镔. 结构优化及其在振动和声学设计中的应用[M]. 清华大学出版社, 2015.</p>", 
+            "topic": [
+                {
+                    "tag": "拓扑优化（Topology Optimization）", 
+                    "tagLink": "https://api.zhihu.com/topics/20069613"
+                }, 
+                {
+                    "tag": "有限元分析（FEA）", 
+                    "tagLink": "https://api.zhihu.com/topics/19613736"
+                }, 
+                {
+                    "tag": "固体力学", 
+                    "tagLink": "https://api.zhihu.com/topics/19958652"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "言炎言炎", 
+                    "userLink": "https://www.zhihu.com/people/bc459241cfefaab9d835e260fa25fa5a", 
+                    "content": "我选择搬砖，可怕<br>此拓扑非建模拓扑啊(⊙o⊙)", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "看到郭大侠，来灌一波水，题主写的真好！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "郭大侠是谁？", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "额，我好像猜到了。。。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "午夜游民", 
+                    "userLink": "https://www.zhihu.com/people/56990b431aef0bf342d0f3af277cc278", 
+                    "content": "最后那个问句，非常感兴趣😄", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "透过手机屏幕我都看到了你的八卦表情包。", 
+                            "likes": 0, 
+                            "replyToAuthor": "午夜游民"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "周周", 
+                    "userLink": "https://www.zhihu.com/people/72290791b9f7a30fe0eaa83a7fbb5e32", 
+                    "content": "感谢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "茄子要吃油", 
+                    "userLink": "https://www.zhihu.com/people/491c381798125deb3a8558312751df81", 
+                    "content": "<p>感觉入门的话，数值优化的知识也是必不可少的</p><p></p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "<p>根据你的提醒，我补充的相关的信息，供你参考。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "茄子要吃油"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "王小二", 
+                    "userLink": "https://www.zhihu.com/people/53d775fc0e970137093b5ca979135f7c", 
+                    "content": "我导师说让我用软件去做拓扑优化不研究理论和算法(搬砖)，我都怀疑这样研究生可不可以毕业……", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "鱼之翼", 
+                            "userLink": "https://www.zhihu.com/people/d1d36f05c08e1c5607c71db186548292", 
+                            "content": "论文来了吗，我和你情况相似，不知道要不要学算法，感觉单单的应用不深入", 
+                            "likes": 0, 
+                            "replyToAuthor": "王小二"
+                        }, 
+                        {
+                            "userName": "Lucy Brown", 
+                            "userLink": "https://www.zhihu.com/people/725e3315df514757d9b1d259247345b2", 
+                            "content": "<p>理论方面真的真的就是推导公式，以及你还得想那几千*几千的矩阵是怎么互相乘的，做到你怀疑人生。真的。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王小二"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>有兴趣，请说出你的故事！</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "这个梗正确的打开方式不是，“知乎，说出你刚编的故事”。。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>我是做数学的，也做一些计算力学的课题，接触过不少力学phd，我想你应该和他们一样有趣，说出你的故事，等哪天你成为大牛，我好和学生吹吹！</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "可爱的科研宅"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "深蓝竹", 
+                    "userLink": "https://www.zhihu.com/people/7678068f53fb401e1833ec61c16ad5f6", 
+                    "content": "同拓扑优化直博生", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "孺子蛇", 
+                    "userLink": "https://www.zhihu.com/people/41c54b2ce55eb862be83c8faef15585d", 
+                    "content": "身为做结构优化的深表感谢，在读了很多文献后才把结构性优化这个构架体系理清，如果能更早看到就好了。顺便有个小问题，matlab自带的eigs计算广义特征值，与subspace，lanczos这样的方法有什么区别呀。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "我印象（需查证啊）中eigs是采用的Lanczos法求指定的某几阶特征对。我一直使用eigs的，这个算法还是很可靠的。", 
+                            "likes": 0, 
+                            "replyToAuthor": "孺子蛇"
+                        }, 
+                        {
+                            "userName": "孺子蛇", 
+                            "userLink": "https://www.zhihu.com/people/41c54b2ce55eb862be83c8faef15585d", 
+                            "content": "<p>我在Matlab论坛<a href=\"http://link.zhihu.com/?target=http%3A//www.ilovematlab.cn/thread-161726-1-1.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Matlab中的eigs方法与Implicity Restarted Lanczos Method方法一样吗</a>看到的eigs用的IRAM方法。我计算与ANSYS的block lanczos对比过没啥差别，就是有些担心，毕竟对这类算法不太入门，谢谢解答~</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "可爱的科研宅"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "学习了，谢谢。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "周不扬", 
+                    "userLink": "https://www.zhihu.com/people/48eb09854f1b6cad321b196210cc3d87", 
+                    "content": "<p>关于求导问题我看很多还是借助商用软件来解决的，想问问楼主是自行手动推导数还是借助了类似有限元计算软件和matlab进行耦合计算实现的？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "我在做拓扑优化问题时是使用的analytical sensitivity，也就是解析的灵敏度。", 
+                            "likes": 0, 
+                            "replyToAuthor": "周不扬"
+                        }, 
+                        {
+                            "userName": "周不扬", 
+                            "userLink": "https://www.zhihu.com/people/48eb09854f1b6cad321b196210cc3d87", 
+                            "content": "<p>恩，但是这个解析解是如何求得的呢？借助软件还是有其他办法？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "可爱的科研宅"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "well", 
+                    "userLink": "https://www.zhihu.com/people/cae916397a87eaf973f31608a1083ce0", 
+                    "content": "大佬觉得  均匀化方法在微观复合材料的应用的怎么样？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "微观复合材料的拓扑优化设计一直都是研究热点，我本人并没有涉及该问题的具体研究，不过大概了解相关的情况。均匀化方法在该问题中的应用十分普遍，国际上DTU的Sigmund, 韩国的You Young Kim，中国的院士程耿东等等在这方面都有非常不错的工作。我个人看来，该方向的研究最大的问题可能还是“如何落地”：怎么实现微观结构和宏观结构的同时“打印”。供你参考。", 
+                            "likes": 1, 
+                            "replyToAuthor": "well"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>       题主，请教您一个问题，在工程应用中，有好多关于多目标拓扑优化的文献，如在涉及多个静载工况时，就是最小化多个柔度目标，简单的方法是直接将多个工况的柔度目标进行线性叠加组成一个目标函数，然而有不少文献提到折衷规划法等，将多个目标用加权平方和结合起来等方法，还有研究如何定义各个目标的权值，如基于模糊满意度的方法，正交试验法等等。</p><p>     但是当这些方法和最简单的等权重的线性叠加法相比，并没有什么优势，一是因为拓扑优化的结果并没有什么区别（然而提出上述复杂方法的文献一般都不会给出与线性叠加方法的比较结果），另外每个目标值（如柔度）也不一定比线性叠加更优，二是其他这些复杂的方法需要单独求解每个目标的最优解和最劣解，需要费好多的时间。</p><p>     不知您是怎么看待这个问题的呢？您有没在实际应用中遇到这样的问题？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "一个标准的多目标规划问题原则上必须通过寻找Pareto前沿的方式才能找到严格意义上的“最优解集”。一旦使用了某种加权模型，实际上就意味着你已经潜意识里将一个多目标规划问题转化为了一个单目标规划，至于这种转化过程是否合理，要取决于你自己的判断。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "楼主厉害👍今晚刚听了Michael Wang老师的拓扑优化课讲变密度法。纠正下王煜老师已经离开中大来港科了", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>有兴趣呀，期待！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "plateau", 
+                    "userLink": "https://www.zhihu.com/people/96353e3e43ad0b977290e08647deed83", 
+                    "content": "<p>力学上的拓扑优化和数学上的拓扑学有什么关系，一样吗？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "这两个“拓扑”是完全相同的意思。也就是说，力学里面的“拓扑优化”所追求的也就是某个零部件的空间拓扑构型，这种拓扑构型是通过宏观的“孔洞”来表现的。<br>多说几句，拓扑优化研究领域内也有一种所谓的“拓扑导数”方法，此处的拓扑导数也就是数学中的定义，通过推导目标函数、约束条件关于拓扑构型的导数，确定优化迭代的下一步应该在哪个位置插入一个“孔”。", 
+                            "likes": 2, 
+                            "replyToAuthor": "plateau"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "林yi", 
+                    "userLink": "https://www.zhihu.com/people/1c923312dbe2b8869838093806ad91e9", 
+                    "content": "<p>您好答主，想问一下关于用matlab搭建自己的有限元分析库这一点该如何入手呢</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "find a book and get started. I cannot help too much.", 
+                            "likes": 1, 
+                            "replyToAuthor": "林yi"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "黑魅wisteria", 
+                    "userLink": "https://www.zhihu.com/people/f8fddb6e48eeb6d8ca03df383e9abec1", 
+                    "content": "<p>我今年刚考上研究生，跟了个导师是做这个方向的，想问下这方向研究生毕业后就业情况怎么样啊？</p><p></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "夏学建", 
+                    "userLink": "https://www.zhihu.com/people/c7d0615b71c125f440651c9091af38c2", 
+                    "content": "你好，我是一个小白，但是老师叫我学一学拓扑优化，我想问下拓扑优化是不是都是再求目标函数的最小值？我要做一个使某阶固有频率最小或者使某个零件的频率响应最大是不是不符合拓扑优化的要求啊？我思考这个好久了，看了一些书都是在求最小，我想知道能不能求频率最小响应最大，这个和毕设有关，希望题主帮帮忙解答一下，不行我好说服老师换方向[捂脸]谢谢题主", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "<p>这种考虑是不对的，拓扑优化本质上还是一种优化方法，优化方法既可以极大化目标函数还可以极小化目标函数，这个没有任何差异的。实际上，极大化一个目标函数不就是等价于极小化该函数的相反数吗？手动微笑脸。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "夏学建"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "缥缈", 
+                    "userLink": "https://www.zhihu.com/people/ff6dc8aa5b3b43a8d425d6c4d283dce1", 
+                    "content": "<p>大佬，请问您链传动怎样用拓扑优化，具体的思路和措施，谢谢，</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "<p>我答得太具体了，还要你何用？</p><a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-878d130f7db8314bf8eac78484d68fb3.gif\" data-width=\"\" data-height=\"\">[机智]</a>", 
+                            "likes": 1, 
+                            "replyToAuthor": "缥缈"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "言炎言炎", 
+                    "userLink": "https://www.zhihu.com/people/bc459241cfefaab9d835e260fa25fa5a", 
+                    "content": "我选择搬砖，可怕<br>此拓扑非建模拓扑啊(⊙o⊙)", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "看到郭大侠，来灌一波水，题主写的真好！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "郭大侠是谁？", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "额，我好像猜到了。。。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "午夜游民", 
+                    "userLink": "https://www.zhihu.com/people/56990b431aef0bf342d0f3af277cc278", 
+                    "content": "最后那个问句，非常感兴趣😄", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "透过手机屏幕我都看到了你的八卦表情包。", 
+                            "likes": 0, 
+                            "replyToAuthor": "午夜游民"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "周周", 
+                    "userLink": "https://www.zhihu.com/people/72290791b9f7a30fe0eaa83a7fbb5e32", 
+                    "content": "感谢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "茄子要吃油", 
+                    "userLink": "https://www.zhihu.com/people/491c381798125deb3a8558312751df81", 
+                    "content": "<p>感觉入门的话，数值优化的知识也是必不可少的</p><p></p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "<p>根据你的提醒，我补充的相关的信息，供你参考。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "茄子要吃油"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "王小二", 
+                    "userLink": "https://www.zhihu.com/people/53d775fc0e970137093b5ca979135f7c", 
+                    "content": "我导师说让我用软件去做拓扑优化不研究理论和算法(搬砖)，我都怀疑这样研究生可不可以毕业……", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "鱼之翼", 
+                            "userLink": "https://www.zhihu.com/people/d1d36f05c08e1c5607c71db186548292", 
+                            "content": "论文来了吗，我和你情况相似，不知道要不要学算法，感觉单单的应用不深入", 
+                            "likes": 0, 
+                            "replyToAuthor": "王小二"
+                        }, 
+                        {
+                            "userName": "Lucy Brown", 
+                            "userLink": "https://www.zhihu.com/people/725e3315df514757d9b1d259247345b2", 
+                            "content": "<p>理论方面真的真的就是推导公式，以及你还得想那几千*几千的矩阵是怎么互相乘的，做到你怀疑人生。真的。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王小二"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>有兴趣，请说出你的故事！</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "这个梗正确的打开方式不是，“知乎，说出你刚编的故事”。。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>我是做数学的，也做一些计算力学的课题，接触过不少力学phd，我想你应该和他们一样有趣，说出你的故事，等哪天你成为大牛，我好和学生吹吹！</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "可爱的科研宅"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "深蓝竹", 
+                    "userLink": "https://www.zhihu.com/people/7678068f53fb401e1833ec61c16ad5f6", 
+                    "content": "同拓扑优化直博生", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "孺子蛇", 
+                    "userLink": "https://www.zhihu.com/people/41c54b2ce55eb862be83c8faef15585d", 
+                    "content": "身为做结构优化的深表感谢，在读了很多文献后才把结构性优化这个构架体系理清，如果能更早看到就好了。顺便有个小问题，matlab自带的eigs计算广义特征值，与subspace，lanczos这样的方法有什么区别呀。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "我印象（需查证啊）中eigs是采用的Lanczos法求指定的某几阶特征对。我一直使用eigs的，这个算法还是很可靠的。", 
+                            "likes": 0, 
+                            "replyToAuthor": "孺子蛇"
+                        }, 
+                        {
+                            "userName": "孺子蛇", 
+                            "userLink": "https://www.zhihu.com/people/41c54b2ce55eb862be83c8faef15585d", 
+                            "content": "<p>我在Matlab论坛<a href=\"http://link.zhihu.com/?target=http%3A//www.ilovematlab.cn/thread-161726-1-1.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Matlab中的eigs方法与Implicity Restarted Lanczos Method方法一样吗</a>看到的eigs用的IRAM方法。我计算与ANSYS的block lanczos对比过没啥差别，就是有些担心，毕竟对这类算法不太入门，谢谢解答~</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "可爱的科研宅"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "学习了，谢谢。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "周不扬", 
+                    "userLink": "https://www.zhihu.com/people/48eb09854f1b6cad321b196210cc3d87", 
+                    "content": "<p>关于求导问题我看很多还是借助商用软件来解决的，想问问楼主是自行手动推导数还是借助了类似有限元计算软件和matlab进行耦合计算实现的？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "我在做拓扑优化问题时是使用的analytical sensitivity，也就是解析的灵敏度。", 
+                            "likes": 0, 
+                            "replyToAuthor": "周不扬"
+                        }, 
+                        {
+                            "userName": "周不扬", 
+                            "userLink": "https://www.zhihu.com/people/48eb09854f1b6cad321b196210cc3d87", 
+                            "content": "<p>恩，但是这个解析解是如何求得的呢？借助软件还是有其他办法？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "可爱的科研宅"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "well", 
+                    "userLink": "https://www.zhihu.com/people/cae916397a87eaf973f31608a1083ce0", 
+                    "content": "大佬觉得  均匀化方法在微观复合材料的应用的怎么样？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "微观复合材料的拓扑优化设计一直都是研究热点，我本人并没有涉及该问题的具体研究，不过大概了解相关的情况。均匀化方法在该问题中的应用十分普遍，国际上DTU的Sigmund, 韩国的You Young Kim，中国的院士程耿东等等在这方面都有非常不错的工作。我个人看来，该方向的研究最大的问题可能还是“如何落地”：怎么实现微观结构和宏观结构的同时“打印”。供你参考。", 
+                            "likes": 1, 
+                            "replyToAuthor": "well"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>       题主，请教您一个问题，在工程应用中，有好多关于多目标拓扑优化的文献，如在涉及多个静载工况时，就是最小化多个柔度目标，简单的方法是直接将多个工况的柔度目标进行线性叠加组成一个目标函数，然而有不少文献提到折衷规划法等，将多个目标用加权平方和结合起来等方法，还有研究如何定义各个目标的权值，如基于模糊满意度的方法，正交试验法等等。</p><p>     但是当这些方法和最简单的等权重的线性叠加法相比，并没有什么优势，一是因为拓扑优化的结果并没有什么区别（然而提出上述复杂方法的文献一般都不会给出与线性叠加方法的比较结果），另外每个目标值（如柔度）也不一定比线性叠加更优，二是其他这些复杂的方法需要单独求解每个目标的最优解和最劣解，需要费好多的时间。</p><p>     不知您是怎么看待这个问题的呢？您有没在实际应用中遇到这样的问题？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "一个标准的多目标规划问题原则上必须通过寻找Pareto前沿的方式才能找到严格意义上的“最优解集”。一旦使用了某种加权模型，实际上就意味着你已经潜意识里将一个多目标规划问题转化为了一个单目标规划，至于这种转化过程是否合理，要取决于你自己的判断。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "楼主厉害👍今晚刚听了Michael Wang老师的拓扑优化课讲变密度法。纠正下王煜老师已经离开中大来港科了", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>有兴趣呀，期待！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "plateau", 
+                    "userLink": "https://www.zhihu.com/people/96353e3e43ad0b977290e08647deed83", 
+                    "content": "<p>力学上的拓扑优化和数学上的拓扑学有什么关系，一样吗？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "这两个“拓扑”是完全相同的意思。也就是说，力学里面的“拓扑优化”所追求的也就是某个零部件的空间拓扑构型，这种拓扑构型是通过宏观的“孔洞”来表现的。<br>多说几句，拓扑优化研究领域内也有一种所谓的“拓扑导数”方法，此处的拓扑导数也就是数学中的定义，通过推导目标函数、约束条件关于拓扑构型的导数，确定优化迭代的下一步应该在哪个位置插入一个“孔”。", 
+                            "likes": 2, 
+                            "replyToAuthor": "plateau"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "林yi", 
+                    "userLink": "https://www.zhihu.com/people/1c923312dbe2b8869838093806ad91e9", 
+                    "content": "<p>您好答主，想问一下关于用matlab搭建自己的有限元分析库这一点该如何入手呢</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "find a book and get started. I cannot help too much.", 
+                            "likes": 1, 
+                            "replyToAuthor": "林yi"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "黑魅wisteria", 
+                    "userLink": "https://www.zhihu.com/people/f8fddb6e48eeb6d8ca03df383e9abec1", 
+                    "content": "<p>我今年刚考上研究生，跟了个导师是做这个方向的，想问下这方向研究生毕业后就业情况怎么样啊？</p><p></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "夏学建", 
+                    "userLink": "https://www.zhihu.com/people/c7d0615b71c125f440651c9091af38c2", 
+                    "content": "你好，我是一个小白，但是老师叫我学一学拓扑优化，我想问下拓扑优化是不是都是再求目标函数的最小值？我要做一个使某阶固有频率最小或者使某个零件的频率响应最大是不是不符合拓扑优化的要求啊？我思考这个好久了，看了一些书都是在求最小，我想知道能不能求频率最小响应最大，这个和毕设有关，希望题主帮帮忙解答一下，不行我好说服老师换方向[捂脸]谢谢题主", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "<p>这种考虑是不对的，拓扑优化本质上还是一种优化方法，优化方法既可以极大化目标函数还可以极小化目标函数，这个没有任何差异的。实际上，极大化一个目标函数不就是等价于极小化该函数的相反数吗？手动微笑脸。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "夏学建"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "缥缈", 
+                    "userLink": "https://www.zhihu.com/people/ff6dc8aa5b3b43a8d425d6c4d283dce1", 
+                    "content": "<p>大佬，请问您链传动怎样用拓扑优化，具体的思路和措施，谢谢，</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "<p>我答得太具体了，还要你何用？</p><a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-878d130f7db8314bf8eac78484d68fb3.gif\" data-width=\"\" data-height=\"\">[机智]</a>", 
+                            "likes": 1, 
+                            "replyToAuthor": "缥缈"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/47460568", 
+            "userName": "可爱的科研宅", 
+            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+            "upvote": 19, 
+            "title": "关于《拓扑优化方法及其编程实现》的专栏", 
+            "content": "<p>经过浴血奋战，我已经取得博士学位了，因此有时间把之前想总结的东西整理一下。</p><p>一般认为，拓扑优化是计算力学下的一个分支。要想掌握好拓扑优化技术，至少需要两个方面的知识积累：计算力学、数值优化。从我个人的经历来看，掌握好这两方面的知识并不是一件很容易的事情，因此我想把我自己的一些经验整理出来。</p><p>先挖个大坑：</p><p>（1）有限元的基本流程。</p><p>（2）五种最常见的线性单元的编程实现：C3D8/C3D8I/C3D20/C3D4/C3D10.</p><p>（3）基于变密度思想的拓扑优化方法的基本流程。</p><p>（4）体积约束下极小化静柔度：一个2D的算例、一个3D的算例。</p><p>（5）考虑振动模态的拓扑优化：困难与解决办法。</p><p>（6）考虑稳态谐响应的拓扑优化：困难与解决办法。</p><p>（7）考虑应力的拓扑优化：困难与解决办法。</p><p>（8）towards highly-efficient topology optimization。</p><p>（9）数值优化概述。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>毕业是继续博后还是业界？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "可爱的科研宅", 
+                            "userLink": "https://www.zhihu.com/people/8bafe67ba748a25b793098e6a7d6b6dd", 
+                            "content": "继续博后，", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "hemeng", 
+                    "userLink": "https://www.zhihu.com/people/a195d3afc0224cf384e962dd5e7433fa", 
+                    "content": "<p>这个《拓扑优化方法及其编程实现》的专栏，什么时候可以看到？我也做拓扑优化，刚刚入门，好期待你的这个专栏。</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "黑魅wisteria", 
+                    "userLink": "https://www.zhihu.com/people/f8fddb6e48eeb6d8ca03df383e9abec1", 
+                    "content": "我现在研究生就是研究的拓扑优化，以后工作上用得着吗？", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Holle胖杰", 
+                            "userLink": "https://www.zhihu.com/people/b0b5763fee561a8aa95b80d62832025a", 
+                            "content": "+1", 
+                            "likes": 0, 
+                            "replyToAuthor": "黑魅wisteria"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "lanjieying", 
+                    "userLink": "https://www.zhihu.com/people/e756aa3291a70973aae2f2c123839acc", 
+                    "content": "个人觉得多目标最难", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1037729877717331968"
+}

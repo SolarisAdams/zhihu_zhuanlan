@@ -1,0 +1,95 @@
+{
+    "title": "绿蚁新醅酒，红泥小火炉", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/linkerlin", 
+        "https://www.zhihu.com/people/xpxpx", 
+        "https://www.zhihu.com/people/zhu-forrest", 
+        "https://www.zhihu.com/people/reed-84-49", 
+        "https://www.zhihu.com/people/wang-xu-3-5-34", 
+        "https://www.zhihu.com/people/zhu-hai-long-37", 
+        "https://www.zhihu.com/people/dgjk1010", 
+        "https://www.zhihu.com/people/liu-xiao-sheng-27", 
+        "https://www.zhihu.com/people/miao-ming-93-93", 
+        "https://www.zhihu.com/people/kuang-peng-30", 
+        "https://www.zhihu.com/people/ceng-qiang-16-57", 
+        "https://www.zhihu.com/people/harric", 
+        "https://www.zhihu.com/people/zzx-47-7", 
+        "https://www.zhihu.com/people/wang-you-cheng", 
+        "https://www.zhihu.com/people/snow-fly", 
+        "https://www.zhihu.com/people/shou-yan-zhen-67", 
+        "https://www.zhihu.com/people/lin-xiao-mo-39", 
+        "https://www.zhihu.com/people/wang-kang-78-9", 
+        "https://www.zhihu.com/people/xiangxinriguang", 
+        "https://www.zhihu.com/people/fei-de-geng-gao-2", 
+        "https://www.zhihu.com/people/entanglement", 
+        "https://www.zhihu.com/people/sebastian-gao", 
+        "https://www.zhihu.com/people/feng-xing-long-5", 
+        "https://www.zhihu.com/people/hu-yuan-zheng-92", 
+        "https://www.zhihu.com/people/yin-di-49", 
+        "https://www.zhihu.com/people/huang-rui-75-3", 
+        "https://www.zhihu.com/people/chen-feng-rui-si", 
+        "https://www.zhihu.com/people/juedaiyuer", 
+        "https://www.zhihu.com/people/5onnie", 
+        "https://www.zhihu.com/people/heyang-36", 
+        "https://www.zhihu.com/people/ascenoputing", 
+        "https://www.zhihu.com/people/zhou-ke-yang-78", 
+        "https://www.zhihu.com/people/freeboot", 
+        "https://www.zhihu.com/people/kevinxu-63", 
+        "https://www.zhihu.com/people/kirawxz", 
+        "https://www.zhihu.com/people/chen-ying-zhi-84-37"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61558945", 
+            "userName": "想吃西红柿的番茄", 
+            "userLink": "https://www.zhihu.com/people/b32137d913b51d997964007095734d32", 
+            "upvote": 1, 
+            "title": "【XAI】可解释AI Guidebook《可解释机器学习》翻译计划", 
+            "content": "<p>之前在学习可解释AI（XAI）相关内容，由于XAI方向还比较新，资料很零散，造成了很大的困扰。Molnar在今年2月末在网络上发布了第一版《Interpretable Machine Learning》，全书耗时2年完成，250多页，十分系统的介绍了可解释机器学习。我觉得这本书会成为可解释AI最好的入门书之一，就像花书之于深度学习一样，必看！</p><hr/><p>我打算将这本书‘翻译’成中文，发布到知乎专栏上，方便更多的小伙伴学习XAI技术。我已经邮件询问过作者Molnar，他本人允许并支持分享他的书给更多的人~</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-8f0a0fd2dd5047dcde153d92e6477049_b.jpg\" data-size=\"normal\" data-rawwidth=\"780\" data-rawheight=\"260\" class=\"origin_image zh-lightbox-thumb\" width=\"780\" data-original=\"https://pic2.zhimg.com/v2-8f0a0fd2dd5047dcde153d92e6477049_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;780&#39; height=&#39;260&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"780\" data-rawheight=\"260\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"780\" data-original=\"https://pic2.zhimg.com/v2-8f0a0fd2dd5047dcde153d92e6477049_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8f0a0fd2dd5047dcde153d92e6477049_b.jpg\"/><figcaption>Molnar本人回复</figcaption></figure><hr/><p>‘<b>翻译‘一些：</b></p><ul><li>由于时间有限，一些介绍性的文字就不翻译了，包括书里的小故事，机器学习概念那些也默认大家都掌握了~</li><li>不会严格按照英语一句一句的翻译，可能会有省略。不过我会尽量保证内容的完整性，不影响学习。</li><li>专有名词一些大家都知道的会直接翻译，一些专有名词拿不准的会直接用英语。不过都会标注原有的英语名词，尽量不造成影响~</li><li>暂且就以上……</li></ul><p>本人水平也有限，（PS：尽管一直在努力提高姿势水平QAQ），但我会尽量保证可靠性，不误导。若有错误或者描述不准确的地方，欢迎大佬指正！</p><p>若有能力，还是推荐阅读Molnar的英文原版：<a href=\"https://link.zhihu.com/?target=https%3A//christophm.github.io/interpretable-ml-book/index.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">christophm.github.io/in</span><span class=\"invisible\">terpretable-ml-book/index.html</span><span class=\"ellipsis\"></span></a></p><hr/><p>若有小伙伴有兴趣一起翻译，可以私我，一起搞事情，哈哈哈哈</p>", 
+            "topic": [
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Eric", 
+                    "userLink": "https://www.zhihu.com/people/50a52f1b933ab652e967a3dcad840dd9", 
+                    "content": "请问现在还在翻译吗？[赞同]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30033284", 
+            "userName": "想吃西红柿的番茄", 
+            "userLink": "https://www.zhihu.com/people/b32137d913b51d997964007095734d32", 
+            "upvote": 3, 
+            "title": "将cifar10转成jpg格式", 
+            "content": "<p><a href=\"https://link.zhihu.com/?target=http%3A//www.cs.toronto.edu/~kriz/cifar.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CIFAR-10</a>数据集包括10类共60000个32x32彩色图像，每个类6000个，5000个训练图像和1000个测试图像。大概长下面这样～</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-340f938d1112b3971b4fe6eed34685cd_b.jpg\" data-caption=\"\" data-rawwidth=\"478\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb\" width=\"478\" data-original=\"https://pic2.zhimg.com/v2-340f938d1112b3971b4fe6eed34685cd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;478&#39; height=&#39;369&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"478\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"478\" data-original=\"https://pic2.zhimg.com/v2-340f938d1112b3971b4fe6eed34685cd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-340f938d1112b3971b4fe6eed34685cd_b.jpg\"/></figure><p>cifar10在gan中应用的很多的，虽然像素只有32*32～但是原始的cifar10的数据并不是图片格式，我在撸gan代码的时候还是比较习惯使用图像数据，所以就将cifar10数据转化成jpg的格式喽。</p><p>下载的是python版本的数据，解压后得到5个batch_data，1个test_batch，还有一个batches.meta。这些数据文件是Python的‘pickle’的对象，需要用相应的方法读出来，官网上给出了python3的读取方法。</p><div class=\"highlight\"><pre><code class=\"language-python3\"><span class=\"k\">def</span> <span class=\"nf\">unpickle</span><span class=\"p\">(</span><span class=\"n\">file</span><span class=\"p\">):</span>\n    <span class=\"kn\">import</span> <span class=\"nn\">pickle</span>\n    <span class=\"k\">with</span> <span class=\"nb\">open</span><span class=\"p\">(</span><span class=\"n\">file</span><span class=\"p\">,</span> <span class=\"s1\">&#39;rb&#39;</span><span class=\"p\">)</span> <span class=\"k\">as</span> <span class=\"n\">fo</span><span class=\"p\">:</span>\n        <span class=\"nb\">dict</span> <span class=\"o\">=</span> <span class=\"n\">pickle</span><span class=\"o\">.</span><span class=\"n\">load</span><span class=\"p\">(</span><span class=\"n\">fo</span><span class=\"p\">,</span> <span class=\"n\">encoding</span><span class=\"o\">=</span><span class=\"s1\">&#39;bytes&#39;</span><span class=\"p\">)</span>\n    <span class=\"k\">return</span> <span class=\"nb\">dict</span></code></pre></div><p>然后需要用keys方法看看数据里面长啥样（第一个是meta那个，后面的是batch_data）～</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-4c8e2ed90bd6cc85912340be93541408_b.jpg\" data-caption=\"\" data-rawwidth=\"586\" data-rawheight=\"106\" class=\"origin_image zh-lightbox-thumb\" width=\"586\" data-original=\"https://pic1.zhimg.com/v2-4c8e2ed90bd6cc85912340be93541408_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;586&#39; height=&#39;106&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"586\" data-rawheight=\"106\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"586\" data-original=\"https://pic1.zhimg.com/v2-4c8e2ed90bd6cc85912340be93541408_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4c8e2ed90bd6cc85912340be93541408_b.jpg\"/></figure><p>这里batch_data中的batch_label是数字，通过batches_data中的label_names可以对应到具体是猫还是狗类别中。</p><p>了解完之后通过imsave，numpy的一堆操作就可以把cifar10转成jpg格式了～下面上整体代码，很短很短～～</p><div class=\"highlight\"><pre><code class=\"language-python3\"><span class=\"kn\">import</span> <span class=\"nn\">numpy</span> <span class=\"k\">as</span> <span class=\"nn\">np</span>\n<span class=\"kn\">from</span> <span class=\"nn\">scipy.misc</span> <span class=\"k\">import</span> <span class=\"n\">imsave</span>\n\n<span class=\"k\">def</span> <span class=\"nf\">unpickle</span><span class=\"p\">(</span><span class=\"n\">file</span><span class=\"p\">):</span>\n    <span class=\"kn\">import</span> <span class=\"nn\">pickle</span>\n    <span class=\"k\">with</span> <span class=\"nb\">open</span><span class=\"p\">(</span><span class=\"n\">file</span><span class=\"p\">,</span> <span class=\"s1\">&#39;rb&#39;</span><span class=\"p\">)</span> <span class=\"k\">as</span> <span class=\"n\">fo</span><span class=\"p\">:</span>\n        <span class=\"nb\">dict</span> <span class=\"o\">=</span> <span class=\"n\">pickle</span><span class=\"o\">.</span><span class=\"n\">load</span><span class=\"p\">(</span><span class=\"n\">fo</span><span class=\"p\">,</span> <span class=\"n\">encoding</span><span class=\"o\">=</span><span class=\"s1\">&#39;bytes&#39;</span><span class=\"p\">)</span>\n    <span class=\"k\">return</span> <span class=\"nb\">dict</span>\n\n<span class=\"n\">filename</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;cifar-10-batches-py&#39;</span>\n\n<span class=\"n\">meta</span> <span class=\"o\">=</span> <span class=\"n\">unpickle</span><span class=\"p\">(</span><span class=\"n\">filename</span><span class=\"o\">+</span><span class=\"s1\">&#39;/batches.meta&#39;</span><span class=\"p\">)</span>\n<span class=\"n\">label_name</span> <span class=\"o\">=</span> <span class=\"n\">meta</span><span class=\"p\">[</span><span class=\"sa\">b</span><span class=\"s1\">&#39;label_names&#39;</span><span class=\"p\">]</span>\n\n<span class=\"k\">for</span> <span class=\"n\">i</span> <span class=\"ow\">in</span> <span class=\"nb\">range</span><span class=\"p\">(</span><span class=\"mi\">1</span><span class=\"p\">,</span><span class=\"mi\">6</span><span class=\"p\">):</span>\n\t<span class=\"n\">content</span> <span class=\"o\">=</span> <span class=\"n\">unpickle</span><span class=\"p\">(</span><span class=\"n\">filename</span><span class=\"o\">+</span><span class=\"s1\">&#39;/data_batch_&#39;</span><span class=\"o\">+</span><span class=\"nb\">str</span><span class=\"p\">(</span><span class=\"n\">i</span><span class=\"p\">))</span>\n\t<span class=\"nb\">print</span><span class=\"p\">(</span><span class=\"s1\">&#39;load data...&#39;</span><span class=\"p\">)</span>\n\t<span class=\"nb\">print</span><span class=\"p\">(</span><span class=\"n\">content</span><span class=\"o\">.</span><span class=\"n\">keys</span><span class=\"p\">())</span>\n\t<span class=\"nb\">print</span><span class=\"p\">(</span><span class=\"s1\">&#39;tranfering data_batch&#39;</span> <span class=\"o\">+</span> <span class=\"nb\">str</span><span class=\"p\">(</span><span class=\"n\">i</span><span class=\"p\">))</span>\n\t<span class=\"k\">for</span> <span class=\"n\">j</span> <span class=\"ow\">in</span> <span class=\"nb\">range</span><span class=\"p\">(</span><span class=\"mi\">10000</span><span class=\"p\">):</span>\n\t\t<span class=\"n\">img</span> <span class=\"o\">=</span> <span class=\"n\">content</span><span class=\"p\">[</span><span class=\"sa\">b</span><span class=\"s1\">&#39;data&#39;</span><span class=\"p\">][</span><span class=\"n\">j</span><span class=\"p\">]</span>\n\t\t<span class=\"n\">img</span> <span class=\"o\">=</span> <span class=\"n\">img</span><span class=\"o\">.</span><span class=\"n\">reshape</span><span class=\"p\">(</span><span class=\"mi\">3</span><span class=\"p\">,</span><span class=\"mi\">32</span><span class=\"p\">,</span><span class=\"mi\">32</span><span class=\"p\">)</span>\n\t\t<span class=\"n\">img</span> <span class=\"o\">=</span> <span class=\"n\">img</span><span class=\"o\">.</span><span class=\"n\">transpose</span><span class=\"p\">(</span><span class=\"mi\">1</span><span class=\"p\">,</span><span class=\"mi\">2</span><span class=\"p\">,</span><span class=\"mi\">0</span><span class=\"p\">)</span>\n\t\t<span class=\"n\">img_name</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;train/&#39;</span><span class=\"o\">+</span><span class=\"n\">label_name</span><span class=\"p\">[</span><span class=\"n\">content</span><span class=\"p\">[</span><span class=\"sa\">b</span><span class=\"s1\">&#39;labels&#39;</span><span class=\"p\">][</span><span class=\"n\">j</span><span class=\"p\">]]</span><span class=\"o\">.</span><span class=\"n\">decode</span><span class=\"p\">()</span> <span class=\"o\">+</span> <span class=\"s1\">&#39;/batch_&#39;</span> <span class=\"o\">+</span> <span class=\"nb\">str</span><span class=\"p\">(</span><span class=\"n\">i</span><span class=\"p\">)</span> <span class=\"o\">+</span> <span class=\"s1\">&#39;_num_&#39;</span> <span class=\"o\">+</span> <span class=\"nb\">str</span><span class=\"p\">(</span><span class=\"n\">j</span><span class=\"p\">)</span> <span class=\"o\">+</span><span class=\"s1\">&#39;.jpg&#39;</span>\n\t\t<span class=\"n\">imsave</span><span class=\"p\">(</span><span class=\"n\">img_name</span><span class=\"p\">,</span><span class=\"n\">img</span><span class=\"p\">)</span></code></pre></div><p>最终，将cifar10数据提取到了10个不同类别的文件夹里，然后就可以愉快的玩耍了～</p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "若瑜", 
+                    "userLink": "https://www.zhihu.com/people/cd7ae02e0d200e11fe9ce50ccf1bff10", 
+                    "content": "<p>存储路径如果不存在会报错，建议加入判断语句：</p><p>img_path = 'train/' + label_name[content[b'labels'][j]].decode()<br>img_name = 'train/' + label_name[content[b'labels'][j]].decode() + '/batch_' + str(i) + '_num_' + str(j) +'.jpg'<br>if not os.path.isdir(img_path):<br>    os.makedirs(img_path)</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_109140576"
+}

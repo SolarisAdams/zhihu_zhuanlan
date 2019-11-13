@@ -1,0 +1,529 @@
+{
+    "title": "The Dark Side of the Music", 
+    "description": "音乐与吉他。记录下自己的部分工作而已。", 
+    "followers": [
+        "https://www.zhihu.com/people/feng-xing-zhe-51-23", 
+        "https://www.zhihu.com/people/don-t-40", 
+        "https://www.zhihu.com/people/tang-xue-song-30", 
+        "https://www.zhihu.com/people/viciouuuuuus", 
+        "https://www.zhihu.com/people/xu-hao-tian-13", 
+        "https://www.zhihu.com/people/guo-hai-wen-23", 
+        "https://www.zhihu.com/people/tian-xia-wu-di-zha-xiao-bai", 
+        "https://www.zhihu.com/people/li-ying-13-54-37", 
+        "https://www.zhihu.com/people/xie-xian-63-40", 
+        "https://www.zhihu.com/people/e-e-55-31-78", 
+        "https://www.zhihu.com/people/ninja-84-96", 
+        "https://www.zhihu.com/people/fuxing-liu", 
+        "https://www.zhihu.com/people/xie-te-21", 
+        "https://www.zhihu.com/people/jiang-wen-tao-16-51", 
+        "https://www.zhihu.com/people/haoliva", 
+        "https://www.zhihu.com/people/mo-gou-dan-aaa", 
+        "https://www.zhihu.com/people/song-bo-bo-76", 
+        "https://www.zhihu.com/people/qi-ming-yang-35", 
+        "https://www.zhihu.com/people/shuai-ye-zheng-yi", 
+        "https://www.zhihu.com/people/xu-jia-rui-96", 
+        "https://www.zhihu.com/people/5irecord", 
+        "https://www.zhihu.com/people/hou-xin-zi", 
+        "https://www.zhihu.com/people/gu-dong-67-41", 
+        "https://www.zhihu.com/people/a-jun-55-62", 
+        "https://www.zhihu.com/people/wayne-81-32", 
+        "https://www.zhihu.com/people/espltd", 
+        "https://www.zhihu.com/people/li-yu-xuan-90-17", 
+        "https://www.zhihu.com/people/fei-xing-bao-lei-3", 
+        "https://www.zhihu.com/people/song-ge-64-57", 
+        "https://www.zhihu.com/people/xue-yan-han-22", 
+        "https://www.zhihu.com/people/jimireedblues", 
+        "https://www.zhihu.com/people/sweet--7", 
+        "https://www.zhihu.com/people/miao-zai-miao-zai-88", 
+        "https://www.zhihu.com/people/hou-jun-zhe-94", 
+        "https://www.zhihu.com/people/silvia", 
+        "https://www.zhihu.com/people/sidcover", 
+        "https://www.zhihu.com/people/mo-fa-sen-lin-de-song-shu-xiao-jie", 
+        "https://www.zhihu.com/people/ke-su-lu-de-hu-huan-38", 
+        "https://www.zhihu.com/people/yuan-hang-40", 
+        "https://www.zhihu.com/people/junyi-cai-21", 
+        "https://www.zhihu.com/people/dou-ma-xiong", 
+        "https://www.zhihu.com/people/ching-cho", 
+        "https://www.zhihu.com/people/ossas-97", 
+        "https://www.zhihu.com/people/atleolee", 
+        "https://www.zhihu.com/people/xue-jun-1-63", 
+        "https://www.zhihu.com/people/open-audio", 
+        "https://www.zhihu.com/people/zhang-da-gong", 
+        "https://www.zhihu.com/people/rock-jiang-22", 
+        "https://www.zhihu.com/people/lin-yuan-zui", 
+        "https://www.zhihu.com/people/zhang-qin-ying-91", 
+        "https://www.zhihu.com/people/lan-xi-de", 
+        "https://www.zhihu.com/people/xu-zi-quan-95", 
+        "https://www.zhihu.com/people/qiufengstorm", 
+        "https://www.zhihu.com/people/marilynloveme", 
+        "https://www.zhihu.com/people/leo-81-89", 
+        "https://www.zhihu.com/people/chen-ying-jian-64", 
+        "https://www.zhihu.com/people/archersyx-56", 
+        "https://www.zhihu.com/people/liang-liang-6-16", 
+        "https://www.zhihu.com/people/yxl-26-64", 
+        "https://www.zhihu.com/people/tang-bo-chen", 
+        "https://www.zhihu.com/people/myne3rd", 
+        "https://www.zhihu.com/people/lu-yan-ling-65", 
+        "https://www.zhihu.com/people/wan-zi-jian-14-38", 
+        "https://www.zhihu.com/people/xiao-rong-hua-24", 
+        "https://www.zhihu.com/people/pickedpepper", 
+        "https://www.zhihu.com/people/ace-65-5", 
+        "https://www.zhihu.com/people/wenyan0211", 
+        "https://www.zhihu.com/people/hui-fei-de-wang-tong-xue-52", 
+        "https://www.zhihu.com/people/qi-xiang-62-13", 
+        "https://www.zhihu.com/people/song-shui-de", 
+        "https://www.zhihu.com/people/li-rui-39-8-24", 
+        "https://www.zhihu.com/people/liu-en-liang-80", 
+        "https://www.zhihu.com/people/ya-la-la-29", 
+        "https://www.zhihu.com/people/wang-jing-29-67-23", 
+        "https://www.zhihu.com/people/zhao-rui-29-36", 
+        "https://www.zhihu.com/people/chen-zhang-1-99", 
+        "https://www.zhihu.com/people/lei-luo-55-82", 
+        "https://www.zhihu.com/people/chen-yu-yang-61-47", 
+        "https://www.zhihu.com/people/guai-mao-37", 
+        "https://www.zhihu.com/people/kuang-biao-san-lun-che", 
+        "https://www.zhihu.com/people/fang-xu-hong", 
+        "https://www.zhihu.com/people/qiao-qiao-qiao-69-35", 
+        "https://www.zhihu.com/people/he-chi-9", 
+        "https://www.zhihu.com/people/rickman-jia-de-yu", 
+        "https://www.zhihu.com/people/zhang-yun-long-50-77", 
+        "https://www.zhihu.com/people/hua-se-64", 
+        "https://www.zhihu.com/people/sojingle", 
+        "https://www.zhihu.com/people/lao-ke-ai-liao", 
+        "https://www.zhihu.com/people/shang-yu-zong", 
+        "https://www.zhihu.com/people/chen-di-cd", 
+        "https://www.zhihu.com/people/nziu", 
+        "https://www.zhihu.com/people/shan-jing-67-63", 
+        "https://www.zhihu.com/people/Uevo", 
+        "https://www.zhihu.com/people/whaleintheriver", 
+        "https://www.zhihu.com/people/cowseden", 
+        "https://www.zhihu.com/people/xiaoyue-70-69", 
+        "https://www.zhihu.com/people/dao-chang-39", 
+        "https://www.zhihu.com/people/fei-e-ri-ji", 
+        "https://www.zhihu.com/people/andrew-95", 
+        "https://www.zhihu.com/people/owen-shen-25", 
+        "https://www.zhihu.com/people/su-bo-13", 
+        "https://www.zhihu.com/people/yang-jia-cheng-70-38", 
+        "https://www.zhihu.com/people/qian-tu-51", 
+        "https://www.zhihu.com/people/alahlll", 
+        "https://www.zhihu.com/people/oldnickjin", 
+        "https://www.zhihu.com/people/cai-xin-rui-72", 
+        "https://www.zhihu.com/people/fei-long-dao-ba-zhong-ying", 
+        "https://www.zhihu.com/people/yang-hao-xuan-31", 
+        "https://www.zhihu.com/people/fan-xiao-bu-68", 
+        "https://www.zhihu.com/people/zhang-hao-yuan-33-22", 
+        "https://www.zhihu.com/people/wu-jiang-wei-75", 
+        "https://www.zhihu.com/people/chen-er-gou-49", 
+        "https://www.zhihu.com/people/xie-liang-chen-39-72", 
+        "https://www.zhihu.com/people/yang-zhou-68-76", 
+        "https://www.zhihu.com/people/xiu-cong", 
+        "https://www.zhihu.com/people/yang-tao-yu-30", 
+        "https://www.zhihu.com/people/sun-ruo-wen-99", 
+        "https://www.zhihu.com/people/zhang-yong-cheng-70-72", 
+        "https://www.zhihu.com/people/bboymao", 
+        "https://www.zhihu.com/people/sha-31", 
+        "https://www.zhihu.com/people/fredpata", 
+        "https://www.zhihu.com/people/xi-mao-14"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/35777603", 
+            "userName": "toi sans", 
+            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+            "upvote": 95, 
+            "title": "步入日本音阶的世界：让你的音乐来点异域风情", 
+            "content": "<figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d010bd2c6a0e707b310cc6dc370a176e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"832\" data-rawheight=\"260\" class=\"origin_image zh-lightbox-thumb\" width=\"832\" data-original=\"https://pic3.zhimg.com/v2-d010bd2c6a0e707b310cc6dc370a176e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;832&#39; height=&#39;260&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"832\" data-rawheight=\"260\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"832\" data-original=\"https://pic3.zhimg.com/v2-d010bd2c6a0e707b310cc6dc370a176e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-d010bd2c6a0e707b310cc6dc370a176e_b.jpg\"/></figure><p>为了让自己的音乐创作不落入俗套，为其加入一些异域情调是个不错的方法，埃及风、希腊风、吉普赛风、日本风、甚至中国古风等等等等。</p><p>虽然日本人也爱用五声音阶，也爱用筝。但他们的五声音阶和筝，可和咱们的风格迥异。</p><p>像如下的 Hira joshi、Kumoi ，实际都<b>出自古代日本十三弦筝</b>的调弦法，<b>在17世纪</b>便以形成和广泛使用。本次，小编我为大家介绍五条实用的日本五声音阶。</p><p>相信大家一弹起下面的音阶，脑中就会飞速的闪过「能剧、歌舞伎、幕府、武士、忍者、樱花」等等画面。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-cacaef3524edff6db284591dd6abdfb3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"650\" data-rawheight=\"581\" class=\"origin_image zh-lightbox-thumb\" width=\"650\" data-original=\"https://pic4.zhimg.com/v2-cacaef3524edff6db284591dd6abdfb3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;650&#39; height=&#39;581&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"650\" data-rawheight=\"581\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"650\" data-original=\"https://pic4.zhimg.com/v2-cacaef3524edff6db284591dd6abdfb3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-cacaef3524edff6db284591dd6abdfb3_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>一、 Hira joshi</b></h2><p><b>1 2 b3 5 b6</b></p><p>音程关系：W-H-2-H-2</p><blockquote>备注：W：全音；H：半音；2：两个全音</blockquote><p>Hira，如其名，这是条很标准也很基础的日本音阶。日本风的音乐总给人一种「爱用 xi do、mi fa」的感觉，原因就在这儿。咱如果把这条音阶的 Root（一级音）当做是 la（A），那么这条音阶就成了：6 7 1 3 4... 没错，除了 Root 6，就一直在重复它仅有的 7、1、3、4 了... </p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9959f0b5608d25d591af120e26daaf7e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"364\" data-rawheight=\"235\" class=\"content_image\" width=\"364\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;364&#39; height=&#39;235&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"364\" data-rawheight=\"235\" class=\"content_image lazy\" width=\"364\" data-actualsrc=\"https://pic3.zhimg.com/v2-9959f0b5608d25d591af120e26daaf7e_b.jpg\"/></figure><h2><b>二、Kumoi </b></h2><p><b>1 b2 4 5 b6</b></p><p>音程关系：H-2-W-H-2</p><p>大家都习惯得把这条音阶简称为 Kumoi（雲居）或者 Kumoi joshi（雲居女子）。但这条 Kumoi 音阶更严格的叫法是 Hon Kumoi Shiouzhi，这个称呼出自日本十三弦筝的调弦法，这同时也是最早的 Kumoi ，<b>之后又衍生了更多的 Kumoi 音阶</b>。</p><p>就比如，小编我曾在 Guthrie Govan 的创意吉他课里见过一条 Kumoi 音阶是 1 2 b3 5 6，这条 Kumoi scale 和 Hira joshi scale 很像，就是把 Hira 的第五级音升了半音。</p><p>回来继续说 Hon Kumoi Shiouzhi 。不复杂，拿A调举例，以A为Root的话，便是：A、Bb、D、E、F、A。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-c56d2c7e19d9d75ae9b81e6a62f67c47_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"415\" data-rawheight=\"428\" class=\"content_image\" width=\"415\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;415&#39; height=&#39;428&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"415\" data-rawheight=\"428\" class=\"content_image lazy\" width=\"415\" data-actualsrc=\"https://pic4.zhimg.com/v2-c56d2c7e19d9d75ae9b81e6a62f67c47_b.jpg\"/></figure><h2><b>三、Iwato</b></h2><p><b>1 b2 4 b5 b7</b></p><p>音程关系：H-2-H-2-W</p><p>Iwato scale（岩戸音阶）韵味十分浓厚，非常好听的一条音阶~ 以 A 为 Root 便是：A、Bb、D、Eb、G、A。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ff6d46dbb6920b6eca67126195751f3f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"416\" data-rawheight=\"342\" class=\"content_image\" width=\"416\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;416&#39; height=&#39;342&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"416\" data-rawheight=\"342\" class=\"content_image lazy\" width=\"416\" data-actualsrc=\"https://pic4.zhimg.com/v2-ff6d46dbb6920b6eca67126195751f3f_b.jpg\"/></figure><h2><b>四、由</b> <b>Hira joshi 衍生出的调式音阶</b></h2><p>说到这里，我们要从新巩固一下，Hira joshi 的音程关系是 <b>W-H-2-H-2</b>，而我们刚刚说过的 Iwato 是 <b>H-2-H-2-W</b>。<b>由此可见，Iwato 正是 Hira joshi 的二级调式。</b>Hon Kumoi Shiouzhi是 H-2-W-H-2 ，那么它便<b>是 Hira joshi 的四级调式</b>。 </p><blockquote>怕有人乐理基础太过薄弱，我就再补充一下。这就像是咱们最熟悉的中古调式。比如，现在有个 C Ionian 音阶：CDEFGAB（1 2 3 4 5 6 7 ），它的二级调式 D dorian 是将其第二级音D当做 Root 并把音排列下去：DEFGABC（1 2 3 #4 5 6 7 ）。同理，三级调式 E phrygian，便是从E开始排列出EFGABCD了（1 b2 b3 4 5 b6 b7）。</blockquote><p>那现在，我们就来把 Hira joshi 的这五级调式一一补完。</p><p><b>一级调式：Hira joshi</b></p><p>W-H-2-H-2</p><p>1 2 b3 5 6</p><p><b>二级调式：Iwato</b></p><p>H-2-H-2-W</p><p>1 b2 4 b5 b7</p><p><b>三级调式</b></p><p>2-H-2-W-H</p><p>1 3 4 6 7</p><p><b>四级调式：Hon Kumoi Shiouzhi</b></p><p>H-2-W-H-2</p><p>1 b2 4 5 b6</p><p><b>五级调式</b></p><p>2-W-H-2-H</p><p>1 3 #4 5 7</p><p>因为小编我不知道三级调式和五级调式什么名字...emmm...所以，就只能这样啦~</p><p>但三级和五级也很好听，三级调式虽然结构很简单，但音响效果不错，听起来很幕府很忍者。</p><p>所以说，本篇的内容，本质上来说是 Hira joshi 的各级调式音阶。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-21e7506a480d180bce589e8d31aff7c2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"383\" data-rawheight=\"335\" class=\"content_image\" width=\"383\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;383&#39; height=&#39;335&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"383\" data-rawheight=\"335\" class=\"content_image lazy\" width=\"383\" data-actualsrc=\"https://pic3.zhimg.com/v2-21e7506a480d180bce589e8d31aff7c2_b.jpg\"/></figure><blockquote>三级调式</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-805ccebed7018956bc6935d69ecab1ee_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"377\" data-rawheight=\"252\" class=\"content_image\" width=\"377\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;377&#39; height=&#39;252&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"377\" data-rawheight=\"252\" class=\"content_image lazy\" width=\"377\" data-actualsrc=\"https://pic3.zhimg.com/v2-805ccebed7018956bc6935d69ecab1ee_b.jpg\"/></figure><blockquote>五级调式</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>这些音阶都是很具有日本特色，同时也是日本音乐常用的音阶，希望大家在琴上多多摸索尝试，让创作更加多彩。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>姊妹篇：</p><a href=\"https://zhuanlan.zhihu.com/p/35776448\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-ac08b7a283b40ef4208de97114a6d679_180x120.jpg\" data-image-width=\"1280\" data-image-height=\"720\" class=\"internal\">toi sans：清真味演奏走起！猪肉穿肠过，清真心中留</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "电吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19564815"
+                }, 
+                {
+                    "tag": "钢琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19551861"
+                }, 
+                {
+                    "tag": "乐理", 
+                    "tagLink": "https://api.zhihu.com/topics/19592093"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "空心果", 
+                    "userLink": "https://www.zhihu.com/people/951b938ed84de9990fa717c8d97137c7", 
+                    "content": "很棒", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "toi sans", 
+                            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+                            "content": "<p>谢谢您</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "空心果"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "清竹难书", 
+                    "userLink": "https://www.zhihu.com/people/c821b55c6115f3cf3c9098a3e3e8f5e8", 
+                    "content": "写得好~", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "toi sans", 
+                            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+                            "content": "<p>谢您夸奖~</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "清竹难书"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Albion", 
+                    "userLink": "https://www.zhihu.com/people/27753f8fe4cf93a2a172fba47cbff877", 
+                    "content": "<p>很赞，不过清真那篇看不到了</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "toi sans", 
+                            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+                            "content": "<p>是。我被人举报了。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "Albion"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "toi sans", 
+                    "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+                    "content": "<p>清真篇被举报了。真是严格呢</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "空心果", 
+                            "userLink": "https://www.zhihu.com/people/951b938ed84de9990fa717c8d97137c7", 
+                            "content": "这都能被举报(⑉･̆-･̆⑉)", 
+                            "likes": 0, 
+                            "replyToAuthor": "toi sans"
+                        }, 
+                        {
+                            "userName": "toi sans", 
+                            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+                            "content": "<p>说涉及政治和民族，不友好。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "空心果"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "gou zi", 
+                    "userLink": "https://www.zhihu.com/people/f7404f56d8499ea319f83b89cab9126c", 
+                    "content": "都节调式？哈哈哈不懂不懂", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "学爵士的猹", 
+                    "userLink": "https://www.zhihu.com/people/d4c370b5601f72d0b23f784a06671d03", 
+                    "content": "干货哦。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "toi sans", 
+                            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+                            "content": "(•̀ω•́)✧", 
+                            "likes": 0, 
+                            "replyToAuthor": "学爵士的猹"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "蜥蜴TC", 
+                    "userLink": "https://www.zhihu.com/people/69d341231a291b1042e9d011c960dc38", 
+                    "content": "👍", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "NyanCute", 
+                    "userLink": "https://www.zhihu.com/people/729f935887260975eb72a977a76a29b3", 
+                    "content": "内容不错，很干，有点噎", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Adolf-惜忑乐", 
+                    "userLink": "https://www.zhihu.com/people/8f022857bce7f73cb23139200511026d", 
+                    "content": "现在许多trap都爱搞和风", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "徐超然", 
+                    "userLink": "https://www.zhihu.com/people/81993ec9cd749682001253416280f19f", 
+                    "content": "干货", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "常诚", 
+                    "userLink": "https://www.zhihu.com/people/2f72a28b74c3da8175e5e25488c6495a", 
+                    "content": "和弦应该怎么配呀", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "本猫寺", 
+                    "userLink": "https://www.zhihu.com/people/ee2455579c0491d72d6d01e12679f6c8", 
+                    "content": "我想问一下知道了这些音阶，要如何写成曲子呢", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/35594933", 
+            "userName": "toi sans", 
+            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+            "upvote": 91, 
+            "title": "天天满嘴减音阶，你丫知道减音阶是啥么？", 
+            "content": "<p>逢进吉他群，<b>先</b>甭管自己几斤几两，</p><p>你就满嘴的：<b>扫</b>拨、点弦、减音阶、调式，</p><p>就<b>没</b>错儿，就显得自己很牛逼，</p><p>让众人投来羡慕的目光（<b>大</b>、大佬鼠！）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但也偶有翻车的情况，</p><p>碰着认真的人，就不好装逼了，像下面这样。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-008f9184368ba343861cff963fed4e76_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"432\" data-rawheight=\"1483\" class=\"origin_image zh-lightbox-thumb\" width=\"432\" data-original=\"https://pic3.zhimg.com/v2-008f9184368ba343861cff963fed4e76_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;432&#39; height=&#39;1483&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"432\" data-rawheight=\"1483\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"432\" data-original=\"https://pic3.zhimg.com/v2-008f9184368ba343861cff963fed4e76_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-008f9184368ba343861cff963fed4e76_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>露怯了吧，挣扎也是无力的。</p><p>那倒不如，</p><p><b>除了嘴上</b>，也让<b>手上和脑子</b>里牛逼起来嘛。</p><hr/><p>如果觉得自己的solo越来越平淡无奇，考虑下减音阶是个很好的选择，它能赋予乐句极强的<b>张力与紧张感</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>减音阶虽然能为你的solo创造出离调感，但并不是很fusion的离调感，而是很外星的离调感，像是：solo在此突然突破而<b>冲进另一个维度</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-fb84145f5a3fff6b880f4087a7dd18c0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"650\" data-rawheight=\"650\" class=\"origin_image zh-lightbox-thumb\" width=\"650\" data-original=\"https://pic1.zhimg.com/v2-fb84145f5a3fff6b880f4087a7dd18c0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;650&#39; height=&#39;650&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"650\" data-rawheight=\"650\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"650\" data-original=\"https://pic1.zhimg.com/v2-fb84145f5a3fff6b880f4087a7dd18c0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-fb84145f5a3fff6b880f4087a7dd18c0_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>试试下面的谱例吧，虽然左手跨度大，但值得一试，因为听感效果真的爽的一批，学会了超实用。</p><p class=\"ztext-empty-paragraph\"><br/></p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/967793366025601024\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"\" data-poster=\"https://pic1.zhimg.com/80/v2-bfca7cae5c7214ec7665a5c32e887078_b.jpg\" data-lens-id=\"967793366025601024\"><img class=\"thumbnail\" src=\"https://pic1.zhimg.com/80/v2-bfca7cae5c7214ec7665a5c32e887078_b.jpg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/967793366025601024</span></span></a><blockquote>Lick演示视频，出自 GLENN PROUDFOOT</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-57c4b2b2ea59afa53d2cf58839491070_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"1358\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-57c4b2b2ea59afa53d2cf58839491070_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;1358&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"1358\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-57c4b2b2ea59afa53d2cf58839491070_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-57c4b2b2ea59afa53d2cf58839491070_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>肌肉记忆的部分，大家慢慢熟悉慢慢练。</p><p>现在我要说的是：</p><p><b>关于减音阶本身</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>C大调，C Dm Em F G Am Bdim，C大调的这些和弦我们都知道，它是由C大调音阶 do re mi fa sol la xi 而来（按相应的音程组合出和弦，比如 根音+m3+5）。</p><p>这种称之为顺阶和弦。大部分情况的因果关系也是像这样的「先有的音阶，再有的和弦」，<b>音阶上构建和弦</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>但</b>有没有一些例外的情况呢？比如先有了和弦，再衍生出音阶。有的，我们称之为<b>chord scale</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们现在一起来做个小实验：把和弦中的每个和弦音<b>往上方加二度</b>（可以大二度，可以小二度）试一下，然后把这个延伸音和本来的和弦音，全算作一条音阶里罗列出来。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>先拿Cm7和弦练下手儿，和弦内音1 b3 5 b7，我们给每个和弦音加大二度就是 2 4 6 1，那么把延伸音和本来的和弦内音加起来就是：1 2 b3 4 5 6 b7 1。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>好，这部分理解了吧，延伸音都是以和弦内音为基础加二度。</p><p><b>那现在对减和弦开刀</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Cdim7和弦内音：1 b3 b5  bb7</p><p>大二度延伸音：2  4  b6  7</p><p>小二度延伸音：b2 3  5  b7</p><p>以大二度延伸音凑出的 chord scale 是：1 2 b3 4 b5 b6 bb7 7 1</p><p>以小二度延伸音凑出的 chord scale 是：1 b2 b3 3 b5 5 bb7 b7</p><p class=\"ztext-empty-paragraph\"><br/></p><p>好，我们先告一段落，暂时先回忆一下减音阶是怎么弹的。如果是对减音阶有所接触的朋友，应该知道<b>减音阶分两种</b>，这是两种不同的音程关系，一种是全半减音阶（whole-half tone diminished scale）还有一个半全减音阶（half-whole tone diminished scale）。</p><p>他们的意思很简单，就像字面儿上一样，音阶里的音程关系是以「全半全半」循环，或是以「半全半全」循环。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>OK，说回来，大家现在回头儿看看我在上面列出的两个 Cdim7 chord scale，是不是和减音阶的音程关系<b>完全吻合</b>？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然了，你要说减音阶就是先有的音阶再有的和弦，那我也辩不过你，随意，而且辩这也没多大意义。更重要的是：我们可以通过两种维度来看待减音阶。</p><p>一种就是它表面上呈现的音程关系，whole-half or half-whole，还有一种就是通过 chord scale 这种角度去看待它。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们可以对音阶以及和弦有着更透彻的认知，而不仅仅是最终呈现出来的，音程关系上看起来如何如何，谱例上看起来如何如何。</p><p>意义就在于此，对乐理认知的更深入，也方便自己对各音阶和和弦，有着更为精妙的杂糅运用。比如一些巧妙的和弦替代啦、和弦解决啦、自己构筑一些有趣的音阶啦、看似和此和弦不配套的音阶怎么弹起来还就和谐得配套上了呀？等等等等。</p>", 
+            "topic": [
+                {
+                    "tag": "电吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19564815"
+                }, 
+                {
+                    "tag": "金属乐", 
+                    "tagLink": "https://api.zhihu.com/topics/19596438"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "JimThomson5", 
+                    "userLink": "https://www.zhihu.com/people/501ebd93982290b4bae95c4be6cbf230", 
+                    "content": "大佬牛逼", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "toi sans", 
+                            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+                            "content": "<p>谢谢谢谢</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "JimThomson5"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "楚留香不香", 
+                    "userLink": "https://www.zhihu.com/people/1d948c2f0bff7533787251d868c82bf9", 
+                    "content": "我乐手他们说我唱清嗓唱出了减音阶😬😬😬😬😬😬", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "牛肉丸叔叔", 
+                    "userLink": "https://www.zhihu.com/people/7c0e68e9b41f971877a7c95a066b2657", 
+                    "content": "不是很懂，先点个赞，好东西", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Lebussy", 
+                    "userLink": "https://www.zhihu.com/people/8a3bbdec3007fe54d6be10bbd486eec6", 
+                    "content": "学到了", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34868862", 
+            "userName": "toi sans", 
+            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+            "upvote": 11, 
+            "title": "全球一线录音师的经验：DPA大师班内容分享", 
+            "content": "<p></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4f2f96fae35d921cbf7413c7fa782986_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"381\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-4f2f96fae35d921cbf7413c7fa782986_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;720&#39; height=&#39;381&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"381\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-4f2f96fae35d921cbf7413c7fa782986_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4f2f96fae35d921cbf7413c7fa782986_b.jpg\"/></figure><p>DPA 大师班世界巡讲中国站活动，已在北京圆满结束。</p><p>本次活动以「<b>现代拾音技术</b>」为主题，邀请到：</p><p>音响工程师、录音师金少刚；</p><p>音频工程师、混音师及 Pro Tools 专家（格莱美奖及艾美奖得主）Donal Hodgson；</p><p>DPA 话筒应用专家 Bo Brinck；DPA 亚太区市场拓展经理 Francis Lai。</p><p>带来现代拾音及<b>话筒制造</b>、大型综艺演出<b>现场拾音</b>，以及<b>专业录音拾音</b>应用的，技术交流演讲和实践经验分享等活动。我也去围观了此次活动，所以在此<b>分享一些给大家</b>。</p><blockquote>金少刚老师曾担任「2008年奥运会」、「国庆六十周年天安门焰火晚会」、2016年「G20峰会」等大型演出活动的音响总设计师。与国内外众多著名歌手合作录制专辑，并担任演唱会音响总监，获得多个奖项。《中国新歌声（中国好声音）》等电视综艺节目音响总监。<br/>Donal Hodgson 拥有超过25年录音制作混音经验，擅长录制多种风格的音乐，如乐器独奏、摇滚乐、管弦乐以及电子音乐等。合作艺人包括 Sting, Tina Turner, Arrested Development, Primal Scream, Duran 等知名音乐人。</blockquote><hr/><h2>话筒 &amp; 拾音器：两种方式共同拾音</h2><p>就比如录制原声吉他。我们如果用拾音器来采取<b>线路录音</b>的方式，确实比较方便，但声音中缺失了箱琴独有的一些<b>味道和质感</b>，比如手指擦过琴弦的声音等。</p><p>但我们可以先通过 pickup 来获得乐器整体的一个大概的声音，然后通过话筒来捕捉线路录音所<b>无法获得的</b>细节与质感，来让自己的录音更真实与丰满。</p><p>两种拾音方式共同使用，是很实用的一种录音小技巧。不仅是原声吉他，其他乐器亦如此，如古筝、琵琶等。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>微型话筒：开启另一种拾音思路</h2><p>由于普通的话筒太大，话筒摆位总是有一些局限性，这种<b>设备上的局限性</b>同时也会让我们的思维固化。但微型话筒由于<b>轻便小巧</b>，可以允许你采用往常所无法办到的，各种<b>刁钻和细致</b>的摆位及拾音角度，同时极大的拓展你对于<b>摆位的思路</b>。</p><p>比如现在这次活动现场，就演示了把 DPA 微型话筒顺着 Double Bass 的f孔，把话筒顺到腔内进行拾音。而且去年 Metallica 来中国巡演时，每一只镲片下也是均有一只 DPA 4099 微型话筒。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-75e538751a514727c1d5807177c045ed_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"222\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;222&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"222\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic2.zhimg.com/v2-75e538751a514727c1d5807177c045ed_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2>架子鼓 Overhead：更多的「人味儿」</h2><p>我们可对架子鼓的每一只鼓每一片镲进行精确的拾音，这样听起来虽然让架子鼓的声音很清晰，但是可能清晰的太过了，很机械，有点儿鼓机的感觉。所以可以让 Overhead Mic 保持常开，不要看 overhead 离镲片那么近就以为是拾镲片的，它的目的不是如此。Overhead Mic 是拾的整体感，包围感，让录出来的音色更自然，更能赋予「人味儿」。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>相位的解决妙招</h2><p>比如我们对底鼓拾音，鼓手脚边儿这里架一只话筒（kick in），正对方向的底鼓外面（鼓皮开孔）架一只话筒（kick out），此时的 kick in 和 kick out 相对方向，拾取底鼓，距离较近，发生相位问题。</p><blockquote>怕有人不了解，先补充说明一下，什么是相位问题。举个例子，你为一个吉他弹唱拾音，一支话筒拾取人声，另一支话筒拾取箱琴。此时俩只话筒的拾音产生了串音。又因为俩只话筒的间隔距离的因素，导致箱琴话筒串来的人声儿相较于人声话筒是有延迟的，所以，有两个「人声」混合在一起，一个是直接拾到的声，一个是延迟的串过来的人声。<br/>这就导致人声可能听起来比较古怪，有点「空」。因为发生了频率抵消。从频谱上看，在两个信号频率重合的地方会泛起连续的凹陷，这里就是发生了频率抵消。这种现象称作“「梳状滤波器效应」，由于从频谱上看象是朝下的梳齿。<br/>一般来说，如果两只话筒拾取一个声源时，声源到达两只话筒时间不一致，而它们的信号被混合到一起，就可能产生一些相位抵消。频谱上凹陷的位置，是声波中央频率反相的结果。</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-269e93886957ae738279a075bf763c73_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"613\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"613\" data-original=\"https://pic4.zhimg.com/v2-269e93886957ae738279a075bf763c73_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;613&#39; height=&#39;400&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"613\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"613\" data-original=\"https://pic4.zhimg.com/v2-269e93886957ae738279a075bf763c73_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-269e93886957ae738279a075bf763c73_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>因此，我们都知道了俩只话筒发生了相位问题，会表现为：1、两条波形有偏差，类似于波形进行了前后移动； 2、有频率被抵消，即上面注释所说的「梳状滤波器效应」。</p><p>首先，我们可以从相位问题的源头解决：采用「<b>3：1 原则</b>」<b>，</b>即第二只话筒与第一只话筒的距离，是第一只话筒与声源距离的三倍以上，这是个很基本很通用的方法。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但我们举的例子是底鼓的 kick in 和 kick out 俩只话筒，所以有的时候就会像这样，可能没法采用「3：1原则」。所以，我们可以从相位问题的<b>第一种表现情况</b>入手，即两条波形的时间偏差，我们手动把波形进行前后移调整，改变了<b>波形的延时</b>。</p><p>同样地，我们也可以针对相位问题的<b>第二种表现</b>来采取对策。既然频率产生了冲突抵消，那我们就把这频率让出去，让<b>各自话筒拾取各自不同的部分</b>，比如 kick in 话筒做一个800Hz的低切，kick out 话筒做一个300hz的高切。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>此次活动还在现场做了拾音演示以及音频对比，老师们分享了各自的心路历程，他们与 DPA 话筒所结下的情缘，这行业几十年的发展等很多很多。无法在此一一分享啦，但希望文中的内容能对大家有帮助。</p>", 
+            "topic": [
+                {
+                    "tag": "录音", 
+                    "tagLink": "https://api.zhihu.com/topics/19557371"
+                }, 
+                {
+                    "tag": "电吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19564815"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33326796", 
+            "userName": "toi sans", 
+            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+            "upvote": 3, 
+            "title": "Mooer 005小前级 VS 本尊 EVH 5153 箱头", 
+            "content": "<p></p><p><b>让我们就此揭开Mooer前级的面纱</b></p><p><b>看它学得到底像不像！</b></p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/940276668368183296\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"\" data-poster=\"https://pic2.zhimg.com/80/v2-068e971922dc2c07adbff5fb4db1dbd5_b.jpg\" data-lens-id=\"940276668368183296\"><img class=\"thumbnail\" src=\"https://pic2.zhimg.com/80/v2-068e971922dc2c07adbff5fb4db1dbd5_b.jpg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/940276668368183296</span></span></a><p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av18757204/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">B站链接在此</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>视频中的文案：</p><p>在我刚接触到 Mooer 小前级系列的时候，被它的外表欺骗了，<b>以为它只是个失真单块儿</b>，但当我使用下来发现这确确实实是一款前级，并不是虚假宣传。</p><p>因为你把它用作失真单块来进到音箱的 input 的话，音色很屎、很塑料。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以，接下来我会为大家展示三种不同连接场景的音色。<b>第一种是完全用 5153箱头</b>，进到箱模；第二种是<b>用 005 来代替 5153 的前级部分</b>，也就是说 005 return 进箱头后级，再进箱模；第三种是完全不用箱头，<b>005 直接进箱模</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>通过录制以及传视频的压缩，再由大家的播放设备播出来，你们听到的音质以及细节肯定和我听到的不一样了。</p><p>所以我就说一下我的感受吧，Mooer 005 的丰满度、细腻程度、手感，是不如箱头，<b>但其音色趋向真的是完完全全一样</b>。所以 Mooer 前级的音色表现加上它的价位，可以说是很超值的了。虽然细节和手感有不同，<b>但通过它真的能体验各款经典箱头的音色类型。</b></p><p>关于设备链，我的建议是不把它当做pedal。如果接吉他音箱的话，最好接到 Loop 口，<b>把它当做前级来用</b>。如果没有带 Loop 的吉他箱，那就把 Mooer 小前级连接上带有箱模功能的设备，像是 Mooer Radar、Two notes、还有一堆综合效果器等等。</p>", 
+            "topic": [
+                {
+                    "tag": "电吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19564815"
+                }, 
+                {
+                    "tag": "金属乐", 
+                    "tagLink": "https://api.zhihu.com/topics/19596438"
+                }, 
+                {
+                    "tag": "录音", 
+                    "tagLink": "https://api.zhihu.com/topics/19557371"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "彼岸成佛", 
+                    "userLink": "https://www.zhihu.com/people/9f5ef44dbd0c6014ca9b6df78f2611eb", 
+                    "content": "请问，我的005用猜丁操作只能是干琴和失真音色来回切换。如何通过猜丁把005关掉成为直通？谢谢楼主。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32438389", 
+            "userName": "toi sans", 
+            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+            "upvote": 37, 
+            "title": "True Bypass效果器没你想得那么True", 
+            "content": "<p>现如今，大多数吉他效果器都要挂着「True Bypass」的名号，已然成了标配，就像现在的箱模类产品都要挂着「加载第三方IR」的卖点。</p><p>True Bypass 从一个术语，变成卖点，变成流行词。吉他手听 True Bypass 这个词也很久了，但大家真的有了解它么？</p><p><b>你可能说“不了解不了解呗，反正大家都这么用，就继续用呗。”</b></p><p><b>可是有些时候，它真的会使你的音色变差，</b></p><p><b>True Bypass 未必 True。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0098381bd8c5fd41ad65a83e1b911d90_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"370\" data-rawheight=\"233\" class=\"content_image\" width=\"370\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;370&#39; height=&#39;233&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"370\" data-rawheight=\"233\" class=\"content_image lazy\" width=\"370\" data-actualsrc=\"https://pic1.zhimg.com/v2-0098381bd8c5fd41ad65a83e1b911d90_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2>先放结论：</h2><p>巡演设备这种<b>长效果链</b>，</p><p>主动拾音器还强些，</p><p>但被动拾音器的吉他，你一串 True Bypass，<b>信号会衰的很难听</b>；</p><p>家用练琴这种<b>短效果链</b>，</p><p>一串 True Bypass 效果器配合短吉他线倒问题不大。</p><p>但如果你对音色够讲究，不想要太多信号损耗的话，</p><p>短效果链前放个 Buffer 也是可以考虑的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>下面给大家简单梳理下：</p><p>首先，吉他线路越长，音色越差，不清晰，而且易受干扰产生噪音。</p><blockquote>因为被动拾音器（也就是说大多数吉他）输出的信号是高阻输出的非平衡信号。主动拾音器如EMG则为低阻输出，但主动拾音器用户毕竟少数。我们所说的情况也是基于大部分吉他的高阻情况。</blockquote><p>在最基本的传统效果器链路中，音色不仅受吉他线的影响和衰减，同时信号还要过一个个效果器里的电路，这又有了影响和衰减，且无关效果器打不打开。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-373548c0cf2a9906aa4d0fa49cc74dc6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"350\" data-rawheight=\"526\" class=\"content_image\" width=\"350\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;350&#39; height=&#39;526&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"350\" data-rawheight=\"526\" class=\"content_image lazy\" width=\"350\" data-actualsrc=\"https://pic3.zhimg.com/v2-373548c0cf2a9906aa4d0fa49cc74dc6_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>而 True Bypass 的初衷就是解决这个问题。</b></p><p>在效果器关闭时，True Bypass 的效果器就相当于把它的 In 和 Out 直接连接，中间没有电路了。<b>这样信号就只过了吉他线</b>。</p><blockquote>所以，我们把 True Bypass 效果器的电源线拔出，仍能有声音，链路不断；若是 Buffered Bypass 效果器就会把信号阻断。关于 Buffer，我们下面再说~</blockquote><p><b>听起来很棒，对不对？可是现在连接琴和音箱的，</b></p><p><b>还有一条长长的吉他线呢，这损耗怎么办？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这就需要引申到一些老效果器会用的 Buffered Bypass。它就是小编我之前提的基本的传统效果器，即使效果器关闭，信号依然会过效果器电路。</p><p>比如 Boss 单块。他们在不同型号的效果器里都放着相同的 Buffer 电路。在关闭效果器时，信号虽然没过效果器中的效果电路，但会过 Buffer 电路。<b>它能防止信号的衰减，但也有音染产生，比如会觉得声音不自然</b>。</p><p>Buffered Bypass 效果器的 Buffer 品质如何也成问题。要是品质差会使音色更差，正因如此才诞生了 True Bypass 这种设计。可这不代表 Buffer 被 True Bypass 淘汰了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d7366d1cfe19ed95bc9613ae2c99b198_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"660\" data-rawheight=\"270\" class=\"origin_image zh-lightbox-thumb\" width=\"660\" data-original=\"https://pic1.zhimg.com/v2-d7366d1cfe19ed95bc9613ae2c99b198_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;660&#39; height=&#39;270&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"660\" data-rawheight=\"270\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"660\" data-original=\"https://pic1.zhimg.com/v2-d7366d1cfe19ed95bc9613ae2c99b198_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d7366d1cfe19ed95bc9613ae2c99b198_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>我们都知道 Buffer 是个增幅电路。那就是说先给信号做加法，等到后面线材对信号造成减法时，就大丈夫萌大奶啦，信号又是正常的信号了。</p><p><b>Right？听起来好像没什么问题。诶，有点像 Booster？</b></p><p>看起来类似，但本质并不一样。Buffer 不是 Booster。Buffer 的电流增幅是因为它把吉他的<b>高阻信号转成了低阻</b>而导致的，而低阻信号的抗干扰性和对线材的依赖度都要优于高阻，<b>所以 Buffer 后的信号更不易衰减和产生噪音</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果吉他音色系统稍微复杂，效果器链路很长，再全采用 True Bypass 效果器，True Bypass 是无法拯救你的音色的，信号衰减会特别厉害，一点都不 Ture 了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-bdf4739307f5a624d9adef4bc9b504b4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"518\" data-rawheight=\"195\" class=\"origin_image zh-lightbox-thumb\" width=\"518\" data-original=\"https://pic1.zhimg.com/v2-bdf4739307f5a624d9adef4bc9b504b4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;518&#39; height=&#39;195&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"518\" data-rawheight=\"195\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"518\" data-original=\"https://pic1.zhimg.com/v2-bdf4739307f5a624d9adef4bc9b504b4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-bdf4739307f5a624d9adef4bc9b504b4_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这时，就是 Buffer 登场的时刻了。我们可以在效果器链条一开头放一个单独的 Buffer 效果器（未必是 Boss 那种整合了 Buffer 电路的 Buffer Bypass 效果器，可以是单纯用于 Buffer 功能的效果器，而且这样效果更好）。<b>所以，Buffer 在大演出时出镜率还是蛮高的</b>，有了它，才不怕过长的效果链路。若全用 True Bypass ，它反倒会成为信号衰减的帮凶。</p><p>而且好的 Buffer 效果器在解决长线路信号衰减问题的同时，也要保证音色无音染和 Level 不变，毕竟它不是 Booster。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以总结下来：</p><p>如巡演设备这种长效果链，要在<b>效果链之初</b>放个品质够好的 Buffer ；</p><p>如家用练琴这种短效果链，一串 True Bypass 效果器倒也可以。</p><p>如果你对音色够讲究，不想要太多信号损耗的话，</p><p>短效果链前也加个 Buffer 自然是不错的选择。</p><p><b>可这不代表买了 Buffer 你就又 True 了起来</b>，烂的 Buffer 会让音色和手感都变得很奇怪。（主动拾音器吉他不在此结论范畴内，因为他们大多为低阻输出。）</p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "电吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19564815"
+                }, 
+                {
+                    "tag": "金属乐", 
+                    "tagLink": "https://api.zhihu.com/topics/19596438"
+                }, 
+                {
+                    "tag": "效果器", 
+                    "tagLink": "https://api.zhihu.com/topics/19620824"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Messs", 
+                    "userLink": "https://www.zhihu.com/people/60a9b909edad8aaae879cdd52194619b", 
+                    "content": "<p>有推荐的吗？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "toi sans", 
+                            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+                            "content": "牌子？那抱歉，没有，玩过的牌子不多 爱莫能助。", 
+                            "likes": 0, 
+                            "replyToAuthor": "Messs"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "归根结底就是连多了线太长对吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "toi sans", 
+                            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+                            "content": "<p>是的，因为咱吉他的信号是非平衡信号，这本来就易损失，然后咱还都用被动pickup过一堆效果器还有线，就成了高阻的非平衡信号，信号损失的太大了。前端的音色再怎么美，也让后端给损失走了。而主动和buffer，最起码能让信号低阻，这就已经好不少了，但还要看buffer的品质和主动拾音器的品质，如果比较烂，那也难听。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "空心果", 
+                    "userLink": "https://www.zhihu.com/people/951b938ed84de9990fa717c8d97137c7", 
+                    "content": "完了…我用的还是Line6的那个智能箱子", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "凉了", 
+                            "likes": 0, 
+                            "replyToAuthor": "空心果"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "赵大坑", 
+                    "userLink": "https://www.zhihu.com/people/4f8737e047fdbc914b5681a702110296", 
+                    "content": "是转发么   出处呢", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "toi sans", 
+                            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+                            "content": "知乎真是遍地的正义战士。  我写的。", 
+                            "likes": 0, 
+                            "replyToAuthor": "赵大坑"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "同化", 
+                    "userLink": "https://www.zhihu.com/people/83d3953bafecf9aed6e14a2a5fdc21a0", 
+                    "content": "一张图是我7爷吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30780189", 
+            "userName": "toi sans", 
+            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+            "upvote": 11, 
+            "title": "快速入坑电吉他录音的经典录音「通法」", 
+            "content": "<p>电吉他手们该如何入门录音？</p><p>为何人家录出来的那么凶那么横，我录的这么萎这么假。</p><p>本篇我主要为大家分享一部分关于箱体录音的基础概念。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0f75e4fca62498c80affd9e7815fb3b5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"699\" data-rawheight=\"373\" class=\"origin_image zh-lightbox-thumb\" width=\"699\" data-original=\"https://pic2.zhimg.com/v2-0f75e4fca62498c80affd9e7815fb3b5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;699&#39; height=&#39;373&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"699\" data-rawheight=\"373\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"699\" data-original=\"https://pic2.zhimg.com/v2-0f75e4fca62498c80affd9e7815fb3b5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-0f75e4fca62498c80affd9e7815fb3b5_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>电吉他的历史并不悠久，这些年来，其音色是一直在快速的发展和重塑。随着历史进程的推移，涌现出了像 Jimi Hendrix、Eric Johnson、Eddie Van Halen 等等拥有标志性演奏及音色的大师，他们影响了吉他手们的音色观，甚至影响了电吉他这件乐器本身的发展。</p><p>电吉他的音色到现在仍然有多种多样的可能性，所以面对这有趣多变的乐器，我们可别糟践了不是，那么今儿一起来聊聊怎样<b>科学的步入电吉他录音坑</b>。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-e261c59bfdc7987fa1fd8d4008e4e917_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"398\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-e261c59bfdc7987fa1fd8d4008e4e917_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;398&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"398\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-e261c59bfdc7987fa1fd8d4008e4e917_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e261c59bfdc7987fa1fd8d4008e4e917_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2>录音前的准备</h2><p>不知道大家有没有这样一种体会：箱头那一个个参数旋钮，有一种类似于“临界点”的存在，拧大了不好听拧小了也不好听，我们需要寻找最佳的那个点。这个点我们可以称之为：</p><p><b>sweet pot（甜蜜点）</b></p><p>比如音量钮就明显是这样的，箱头音量开小了音色闷还没动态，开大了太炸，但会拧到一个音色特别舒服的点，不同箱头的点不一样。所以，在录音前一定要细细调节手头现有的设备，发挥其最大潜能。如果你在音箱前听的音色都不满意的话，你直接录出来的音会更加糟糕。</p><blockquote>最好接上 Re-amp Box 来调试设备，这样很有效率。不用单独的 Re-amp Box 的话，用带有 Re-amp 功能的设备也行，可能是声卡可能是效果器，有很多。</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-9317c6239a8778be9d310f3e39c22184_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"700\" data-rawheight=\"385\" class=\"origin_image zh-lightbox-thumb\" width=\"700\" data-original=\"https://pic1.zhimg.com/v2-9317c6239a8778be9d310f3e39c22184_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700&#39; height=&#39;385&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"700\" data-rawheight=\"385\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"700\" data-original=\"https://pic1.zhimg.com/v2-9317c6239a8778be9d310f3e39c22184_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9317c6239a8778be9d310f3e39c22184_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2>音箱的放置问题</h2><p>别把箱体直接撂地板上，尤其一体箱或者 112 箱体，大分体箱倒感觉还好。如果咱打算在家里做些有品质的音色的话，<b>最好还是把箱体垫高</b>，因为直接把箱体落地板上拾音的话，可能会拾到一些糟糕的低频。讲究一些的话，可以在箱子底下垫上声学处理的垫子，比如 Auralex Engineers Pack 这类的。</p><blockquote>其实这和监听音箱一个道理。监听音箱不是买回来往电脑桌上一撂就得了，人家该上垫上垫，该上架上架，都是常识。吉他音箱也会相通。</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4e91ef99e81befdad677a0c7a8e3ea32_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"431\" class=\"origin_image zh-lightbox-thumb\" width=\"580\" data-original=\"https://pic3.zhimg.com/v2-4e91ef99e81befdad677a0c7a8e3ea32_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;580&#39; height=&#39;431&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"431\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"580\" data-original=\"https://pic3.zhimg.com/v2-4e91ef99e81befdad677a0c7a8e3ea32_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4e91ef99e81befdad677a0c7a8e3ea32_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av13689184\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">【叉烧网字幕】电吉他录音的经典技巧_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</a><blockquote>本人译制字幕</blockquote><h2>话筒对喇叭的位置</h2><p>当话筒对准喇叭中心时，音色最具 Power，但也容易炸，如果用动圈话筒就更容易炸。如果话筒向喇叭边缘移动，音色会更加柔和、顺滑。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>话筒与喇叭的距离</h2><p>话筒离箱体越近，拾到越多音箱本来的音色，更少的 Room 声；同理，离得越远获得越多 Room 声。因近讲效应，话筒过于贴近箱体时，低频也会很多，要注意声音不要糊掉，避免浑浊。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>多只话筒拾音</h2><p>首先要注意相位的问题。视频中也讲过了，如果两只话筒拾取一个声源时，声源到达两只话筒时间不一致的话，会发生相位偏移的问题甚至反相形成相位抵消。但如果两只话筒距离声源是等距的，问题就不大了。为了避免在相位上出差错，有一个：</p><p><b>3：1 原则</b></p><p>即第二只话筒与第一只话筒的距离，是第一只话筒与声源距离的三倍以上。</p><h2>话筒摆位</h2><p>最为经典的摆位法在视频里基本展示过了，on-axis、off-axis、有角度的、无角度的等等。除了那些视频提及的，还有一些当今流行的摆位，比如这样：on-axis 和 off-axis 两只话筒很近的贴着来拾取同声源。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4c9e437080993ace1338895b125ec07a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"255\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-4c9e437080993ace1338895b125ec07a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;255&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"255\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-4c9e437080993ace1338895b125ec07a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4c9e437080993ace1338895b125ec07a_b.jpg\"/></figure><p>Meshuggah 的吉他手就很喜欢这么摆。小编甚至还看见还有相关的周边配件。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f2c671b0f2a335d7ff281eccaad8a667_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"198\" data-rawheight=\"270\" class=\"content_image\" width=\"198\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;198&#39; height=&#39;270&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"198\" data-rawheight=\"270\" class=\"content_image lazy\" width=\"198\" data-actualsrc=\"https://pic4.zhimg.com/v2-f2c671b0f2a335d7ff281eccaad8a667_b.jpg\"/></figure><blockquote>传统话筒架要这么做的话，需要两只架子，而且要缠胶布固定住角度。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>小编之前还用过 sE GuitaRF 话筒架，这只架子也蛮有趣的，GuitaRF 也是可以插两只话筒，但它既是话筒架也是声学屏。下图是 Mounments 的吉他手 John Browne 的用法：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-45aa8b5c1a6af76926e1a4db85c427fc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"440\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic1.zhimg.com/v2-45aa8b5c1a6af76926e1a4db85c427fc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;550&#39; height=&#39;440&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"440\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"550\" data-original=\"https://pic1.zhimg.com/v2-45aa8b5c1a6af76926e1a4db85c427fc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-45aa8b5c1a6af76926e1a4db85c427fc_b.jpg\"/></figure><p>John Browne 是用一支<b>心型指向的动圈话筒</b> SM57 横着插，一支<b>8字型指向的铝带话筒</b> SE VR1 竖着插。铝带话筒音色温暖顺滑并且低频表现力好，能弥补 SM57 音色比较炸且低频不多的音色，形成互补。</p><p>对了，小编我在刚看到 sE GuitaRF 的摆位时联想到了 Mid-Side 录音法。这是一种多见于拾取原声乐器的方法：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f14cdbd9201fb2ddc5dfa0d4baccc023_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"213\" data-rawheight=\"288\" class=\"content_image\" width=\"213\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;213&#39; height=&#39;288&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"213\" data-rawheight=\"288\" class=\"content_image lazy\" width=\"213\" data-actualsrc=\"https://pic4.zhimg.com/v2-f14cdbd9201fb2ddc5dfa0d4baccc023_b.jpg\"/></figure><p>Mid 即是上面的那只小振膜话筒，全指、心形、8 字都成；Side 为下面那只大振膜，必须是 8 字型。当然了，这只是看起来有些像，它和 GuitaRF 的录音法还是不同。</p><p>Mid-Side 下面的大振膜需要侧身放置，而且在 DAW 里要把大振膜的信号 Send 到另一条母线上，也就是要形成两轨大振膜，并把第二轨反相，这两轨再 Pan 到极左极右，然后Mid的那支小振膜置中，如此便是三轨了。Room 感十足。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实啊，这些录音经验不过是前人总结出来的<b>「通法」</b>，方便实用且效果符合大多数人的审美。记住，这些只是「通法」，不是录箱体的原则或法则。而且电吉他箱体的录音法，开发程度并不高，没有太庞杂。</p><p>所以，还是视频里的那句话：要时刻铭记尝试与探索。</p><p>在前人的基础上发展出一套自己的录音法才是真的学到了。</p><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av10024668\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">动圈电容铝带三组话筒电吉他拾音对比_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</a><p>延伸内容：动圈、电容、铝带，共计「3 组 5 只」的话筒</p><p>在<b>电吉他拾音时的音色横向对比</b>视频（由本人演奏及录制）</p><blockquote>PS：本视频只是为展示不同款的单只话筒在相同位置的拾音音色而做，所以没有涉及什么特别的录音法。只是把单只话筒一摆，拾音位置和效果链参数还不能变，所以个别话筒的独特个性肯定无法得以发挥。<br/>PS的PS：就比如在录制 SE VR2 时，小编就在想：这只话筒音色真有够 Smooth，但低频量稍多了一些，如果能把拾音位置往喇叭中心移动一点点，或者再配合一只动圈话筒一起拾，音色肯定能好特别多。然而，这视频只是展示话筒音色区别的，不是展示录音法的，所以就只能这样啦~</blockquote>", 
+            "topic": [
+                {
+                    "tag": "电吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19564815"
+                }, 
+                {
+                    "tag": "录音", 
+                    "tagLink": "https://api.zhihu.com/topics/19557371"
+                }, 
+                {
+                    "tag": "金属乐", 
+                    "tagLink": "https://api.zhihu.com/topics/19596438"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28532384", 
+            "userName": "toi sans", 
+            "userLink": "https://www.zhihu.com/people/1c6fa0fba53b1b207f9701ca613fa4f9", 
+            "upvote": 7, 
+            "title": "叉烧网带你科学步入音频坑", 
+            "content": "<blockquote><b>叉烧网</b><br/><b>exound</b><br/>理性测试、告别玄学、分享观点<br/>用数据说话<br/>音频界的“谣言粉碎机”</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>——————————</p><h2>    入门选购</h2><p>——————————</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-797b6f25fd068ba7837ab23424efad15_b.png\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-797b6f25fd068ba7837ab23424efad15_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;180&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-797b6f25fd068ba7837ab23424efad15_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-797b6f25fd068ba7837ab23424efad15_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404136715471214640\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">酱油篇</a></b></h2><p>本文为指南之上的指南</p><p>不谈设备，谈八卦</p><p>让你以打酱油的心态</p><p>面对选购设备时的内心挣扎和尔虞我诈</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-14f1cc9cc471f73d84a526b90f9ebd16_b.png\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-14f1cc9cc471f73d84a526b90f9ebd16_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;180&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-14f1cc9cc471f73d84a526b90f9ebd16_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-14f1cc9cc471f73d84a526b90f9ebd16_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404126155237135552\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">话筒篇</a></b></h2><p>话筒一个个都长得这么像，他们之间真有区别？</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-e7a1616f6442de790c8c9f617508c923_b.png\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-e7a1616f6442de790c8c9f617508c923_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;180&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-e7a1616f6442de790c8c9f617508c923_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e7a1616f6442de790c8c9f617508c923_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404127928584673626\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">耳机/耳放篇</a></b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-b742388cda7cb956037e7508d94e5e0a_b.png\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-b742388cda7cb956037e7508d94e5e0a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;180&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-b742388cda7cb956037e7508d94e5e0a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-b742388cda7cb956037e7508d94e5e0a_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404128019424881620\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">线材篇</a></b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-b0e9f8462e7062d8b4e0757eb5270b8e_b.png\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-b0e9f8462e7062d8b4e0757eb5270b8e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;180&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-b0e9f8462e7062d8b4e0757eb5270b8e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-b0e9f8462e7062d8b4e0757eb5270b8e_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404126974061708852\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">音频接口篇</a></b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-35e8453f0b1cb5593dffac0b7d5f209c_b.png\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic1.zhimg.com/v2-35e8453f0b1cb5593dffac0b7d5f209c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;180&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"900\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic1.zhimg.com/v2-35e8453f0b1cb5593dffac0b7d5f209c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-35e8453f0b1cb5593dffac0b7d5f209c_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404128282437095142\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">监听音箱篇</a></b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>——————————</p><h2>    观点分享</h2><p>——————————</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-87b9dd28387d1810fe40f4aaedb44e08_b.jpg\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"835\" data-original=\"https://pic1.zhimg.com/v2-87b9dd28387d1810fe40f4aaedb44e08_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;835&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"835\" data-original=\"https://pic1.zhimg.com/v2-87b9dd28387d1810fe40f4aaedb44e08_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-87b9dd28387d1810fe40f4aaedb44e08_b.jpg\"/></figure><h2><b>叉烧评测的“音质分类判断”</b></h2><h2>——<a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/2a409c6b-29ef-44d8-aac9-0a7697e8e862\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">音箱篇</a></h2><h2>——<a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/b26bcea6-d82a-4cf0-8002-db2c48a8881f\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">声卡篇</a></h2><p>不考虑外观、技能、价格，只谈声音</p><p>我们来量化音质，把音质“<b>大卸八块</b>”</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-bfa3923036811525ae58dad8ead3d015_b.png\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"835\" data-original=\"https://pic2.zhimg.com/v2-bfa3923036811525ae58dad8ead3d015_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;835&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"835\" data-original=\"https://pic2.zhimg.com/v2-bfa3923036811525ae58dad8ead3d015_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-bfa3923036811525ae58dad8ead3d015_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/37b15663-d62c-4067-9d60-c21bb4288d41\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">专业评测为何没有“主观曲目试听”</a></b></h2><p>越了解，越敬畏，越谦卑</p><p>想通过几首歌的主观听感来描述音箱，真是太小看“音质”了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-f10ae0f55b7ed8c0fd92ff5a8f3e4b62_b.jpg\" data-rawwidth=\"800\" data-rawheight=\"468\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-f10ae0f55b7ed8c0fd92ff5a8f3e4b62_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;468&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"800\" data-rawheight=\"468\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-f10ae0f55b7ed8c0fd92ff5a8f3e4b62_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f10ae0f55b7ed8c0fd92ff5a8f3e4b62_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/984ffe2a-516d-494a-bc42-6e03fbba8162\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">高音到底有多“高”</a></b></h2><p>这么多年来大家讨论的某某歌手唱到<b>多么多么高</b>的“高音”...</p><p><b>但其实这“高音”只是“中频”</b></p><p>对于常规的双分频音箱，</p><p><b>由于分频点常在 2kHz 附近...</b></p><p>“高音”是靠低音单元发出来的....</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-1a5e251497123a2b360056a776b0d952_b.png\" data-rawwidth=\"730\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"730\" data-original=\"https://pic3.zhimg.com/v2-1a5e251497123a2b360056a776b0d952_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;730&#39; height=&#39;400&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"730\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"730\" data-original=\"https://pic3.zhimg.com/v2-1a5e251497123a2b360056a776b0d952_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1a5e251497123a2b360056a776b0d952_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/d0f6ff13-2788-4f44-b2d4-273fbc2f7618\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">你为什么无法忍受这个声音？</a></b></h2><p>其实让人恐惧的大部分声音基本都集中在2000-4000Hz，例如：</p><p>话筒啸叫、泡沫擦玻璃、单车刹车、在光滑地面拖动铁凳子...</p><p>这问题看似简单...但研究它的学者已经...</p><p>拿了诺贝尔奖，不过是“搞笑诺贝尔奖”... </p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-aaece49d5a18e5653bbd41f6aa9a1d4d_b.png\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"835\" data-original=\"https://pic2.zhimg.com/v2-aaece49d5a18e5653bbd41f6aa9a1d4d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;835&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"835\" data-original=\"https://pic2.zhimg.com/v2-aaece49d5a18e5653bbd41f6aa9a1d4d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-aaece49d5a18e5653bbd41f6aa9a1d4d_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/1c723b7c-238e-4ba1-a60f-4d72e1214e98\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">dB小百科</a></b></h2><p>参数表上的单位 dB、dBV、dBu 等等都是啥意思？</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-ed5202cd173b8261bded19e0d8b1b4a8_b.jpg\" data-rawwidth=\"480\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic1.zhimg.com/v2-ed5202cd173b8261bded19e0d8b1b4a8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;480&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"480\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"480\" data-original=\"https://pic1.zhimg.com/v2-ed5202cd173b8261bded19e0d8b1b4a8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ed5202cd173b8261bded19e0d8b1b4a8_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/74d08387-3926-48a6-a733-e1118d1d3079\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">音乐工具史之：元首的话筒</a></b></h2><p>“行业标准” Neumann/纽曼公司，与极少数能挺过二战的老公司一样，它充满了传奇和幸运。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-ec93339261585edab368a781f6ac7976_b.jpg\" data-rawwidth=\"730\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"730\" data-original=\"https://pic3.zhimg.com/v2-ec93339261585edab368a781f6ac7976_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;730&#39; height=&#39;400&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"730\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"730\" data-original=\"https://pic3.zhimg.com/v2-ec93339261585edab368a781f6ac7976_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-ec93339261585edab368a781f6ac7976_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/aee093f7-92d7-4f23-86f1-782789b97fec\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">音响行业：消失的“德味”</a></b></h2><p>发烧/录音圈主要玩这几种“味”：</p><p>德味、美味、日味、英味</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-74db3138a7d349b05e1c5951a3196205_b.png\" data-rawwidth=\"835\" data-rawheight=\"420\" class=\"origin_image zh-lightbox-thumb\" width=\"835\" data-original=\"https://pic2.zhimg.com/v2-74db3138a7d349b05e1c5951a3196205_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;835&#39; height=&#39;420&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"835\" data-rawheight=\"420\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"835\" data-original=\"https://pic2.zhimg.com/v2-74db3138a7d349b05e1c5951a3196205_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-74db3138a7d349b05e1c5951a3196205_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/5d07d763-e665-4087-b4a3-e6a08b1bf4e0\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">0.01% 的失真是多大？有影响吗？</a></b></h2><p>国内玩家慢慢开始谈论动态范围（Dynamic）和信噪比（SNR）等参数</p><p>比起十年前大家不看参数、只吹牛逼要进步太多了</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-f342a4b880d7bb17b47221ee8e600cf7_b.jpg\" data-rawwidth=\"662\" data-rawheight=\"404\" class=\"origin_image zh-lightbox-thumb\" width=\"662\" data-original=\"https://pic4.zhimg.com/v2-f342a4b880d7bb17b47221ee8e600cf7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;662&#39; height=&#39;404&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"662\" data-rawheight=\"404\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"662\" data-original=\"https://pic4.zhimg.com/v2-f342a4b880d7bb17b47221ee8e600cf7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f342a4b880d7bb17b47221ee8e600cf7_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/10141d09-e5ff-44ae-a1f0-bc6b5f86f364\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">三分钟学会看频谱（菜鸟级）</a></b></h2><p>识别真假无损文件</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-0baa57c5ca01bd1add582d5d7911ae4f_b.jpg\" data-rawwidth=\"960\" data-rawheight=\"480\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-0baa57c5ca01bd1add582d5d7911ae4f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;480&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"960\" data-rawheight=\"480\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-0baa57c5ca01bd1add582d5d7911ae4f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0baa57c5ca01bd1add582d5d7911ae4f_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/6eee5afb-8b9a-429f-a981-eaea4f031439\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">为什么我们还需要模拟设备？</a></b></h2><p>数字VS模拟</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-20e41e1f61b7bbf0f48e513b11b0e75c_b.png\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"835\" data-original=\"https://pic1.zhimg.com/v2-20e41e1f61b7bbf0f48e513b11b0e75c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;835&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"835\" data-original=\"https://pic1.zhimg.com/v2-20e41e1f61b7bbf0f48e513b11b0e75c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-20e41e1f61b7bbf0f48e513b11b0e75c_b.png\"/></figure><h2><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/8b37487b-603b-4241-aac8-01ae655ae902\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">什么叫 TM 的叫“模拟模拟插件”？</a></h2><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-948ce86934be1bf6b1b87b6b029935c0_b.jpg\" data-rawwidth=\"1324\" data-rawheight=\"604\" class=\"origin_image zh-lightbox-thumb\" width=\"1324\" data-original=\"https://pic1.zhimg.com/v2-948ce86934be1bf6b1b87b6b029935c0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1324&#39; height=&#39;604&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1324\" data-rawheight=\"604\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1324\" data-original=\"https://pic1.zhimg.com/v2-948ce86934be1bf6b1b87b6b029935c0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-948ce86934be1bf6b1b87b6b029935c0_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/77fdd9b8-d76d-46a9-b9af-31ff2bea6af8\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">当现代 EDM 音乐变成 Launchpad 工程秀，剩下的只有套路….</a></b></h2><p>不是拿着 Launchpad 演个工程就是在创作音乐</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-f398f4be366586ebc50cb5434e1ef95e_b.jpg\" data-rawwidth=\"400\" data-rawheight=\"225\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;225&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"400\" data-rawheight=\"225\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic3.zhimg.com/v2-f398f4be366586ebc50cb5434e1ef95e_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/01db6087-a191-45c3-9095-5b057f6a8728\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">到底什么才是 “EDM”</a></b></h2><p>曾经我们一直把 “EDM” 理解成 “Electronic Dance Music” 的缩写，意指 “电子跳舞音乐”。但是不知从何时开始，网络上突然出现了一群 “EDM Haters”，目标主要在于鄙视榜单（比如Beatport Top 100）中的商业流行音乐。所以笔者邀请了几位朋友一起聊一聊“EDM”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-f0b287beab4d92763b5d2af8f83fdf9d_b.jpg\" data-rawwidth=\"570\" data-rawheight=\"352\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pic2.zhimg.com/v2-f0b287beab4d92763b5d2af8f83fdf9d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;570&#39; height=&#39;352&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"570\" data-rawheight=\"352\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"570\" data-original=\"https://pic2.zhimg.com/v2-f0b287beab4d92763b5d2af8f83fdf9d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-f0b287beab4d92763b5d2af8f83fdf9d_b.jpg\"/></figure><h2><b>吉他拨片：我们几乎顾全了音色的每一步，却在忽视第一步</b></h2><h2><b>——<a href=\"https://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404126508653377757\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">拨片小科普</a></b></h2><p>吉他手们对与音色的调试是把精力都放在效果器、琴、音箱上。这固然也没错，可是我们恰恰忽视了使吉他发声的第一步——拨片触弦</p><p>如果在第一步就做出正确的选择，会在之后做音色的步骤中省不少事儿</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-6bf229ef1a7e540bb02497a85656dfae_b.jpg\" data-rawwidth=\"700\" data-rawheight=\"394\" class=\"origin_image zh-lightbox-thumb\" width=\"700\" data-original=\"https://pic3.zhimg.com/v2-6bf229ef1a7e540bb02497a85656dfae_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700&#39; height=&#39;394&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"700\" data-rawheight=\"394\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"700\" data-original=\"https://pic3.zhimg.com/v2-6bf229ef1a7e540bb02497a85656dfae_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-6bf229ef1a7e540bb02497a85656dfae_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404133483613133335\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">关于吉他琴颈后仰的二三事</a></b></h2><p>一款吉他的设计不仅限于大家耳熟能详的“木材搭配、拾音器型号、配件型号、有效弦长”等。除此之外还有很多设计点虽在配置单上不标明，但却是真真实实的在影响吉他的音色、手感、颜值方方面面。</p><p>琴颈仰角，就是这种最容易被乐手忽视的设计之一。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>——————————</p><h2>    谣言粉碎</h2><p>——————————</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-3a9c9d67c1f52b5aeb8a736a00e6f738_b.jpg\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"835\" data-original=\"https://pic1.zhimg.com/v2-3a9c9d67c1f52b5aeb8a736a00e6f738_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;835&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"835\" data-original=\"https://pic1.zhimg.com/v2-3a9c9d67c1f52b5aeb8a736a00e6f738_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3a9c9d67c1f52b5aeb8a736a00e6f738_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404129499997463248\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">音质本来不该成为重点，以后更不会</a></b></h2><p>今天我们谈论一个同样可能会消失的概念：音质</p><p>对于热爱音乐而不是热爱“器材”的，真正爱好者，</p><p>音质本来不应该成为重点，以后更不会</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-64862b7b0f73a6dcc5dbce8363d7b2b1_b.png\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"835\" data-original=\"https://pic2.zhimg.com/v2-64862b7b0f73a6dcc5dbce8363d7b2b1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;835&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"835\" data-original=\"https://pic2.zhimg.com/v2-64862b7b0f73a6dcc5dbce8363d7b2b1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-64862b7b0f73a6dcc5dbce8363d7b2b1_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/615165f4-b05a-48ac-b228-c541b3295267\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">声卡盲听，真能听出区别吗？</a></b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-9163bf68ff086136e15a8c5b97b8cd78_b.jpg\" data-rawwidth=\"504\" data-rawheight=\"283\" class=\"origin_image zh-lightbox-thumb\" width=\"504\" data-original=\"https://pic1.zhimg.com/v2-9163bf68ff086136e15a8c5b97b8cd78_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;504&#39; height=&#39;283&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"504\" data-rawheight=\"283\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"504\" data-original=\"https://pic1.zhimg.com/v2-9163bf68ff086136e15a8c5b97b8cd78_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9163bf68ff086136e15a8c5b97b8cd78_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404129109901999361\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">到底！什么！他妈的！叫！温暖 ？！！</a></b></h2><p>为什么 Nuendo 听起来比 Cubase 冷 ？</p><p>—— 因为 Nuendo 的 LOGO 是蓝色的，冷色；</p><p>而 Cubase 的 LOGO 是大红色，暖色。</p><p>这就是唯一区别。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-cbe097cb4087511904e40e1bb17d1c31_b.png\" data-rawwidth=\"835\" data-rawheight=\"425\" class=\"origin_image zh-lightbox-thumb\" width=\"835\" data-original=\"https://pic2.zhimg.com/v2-cbe097cb4087511904e40e1bb17d1c31_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;835&#39; height=&#39;425&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"835\" data-rawheight=\"425\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"835\" data-original=\"https://pic2.zhimg.com/v2-cbe097cb4087511904e40e1bb17d1c31_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-cbe097cb4087511904e40e1bb17d1c31_b.png\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/4bb4dd9c-40a3-4501-b8f6-d8cc4e1427f5\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">那些年被手机厂商玩坏的“音质”——小米篇</a></b></h2><p>由于大众对“跑分”和摄像功能的审美疲劳，</p><p>国内的手机厂商们摇身一变就成了 HiFi 厂商！</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-45f8d5d8044d148465dc03091ca6cd93_b.jpg\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"835\" data-original=\"https://pic4.zhimg.com/v2-45f8d5d8044d148465dc03091ca6cd93_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;835&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"835\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"835\" data-original=\"https://pic4.zhimg.com/v2-45f8d5d8044d148465dc03091ca6cd93_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-45f8d5d8044d148465dc03091ca6cd93_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=https%3A//www.exound.com/articles/21827527-f24d-4884-8b13-0a87d7f3a051\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">那些年被手机厂商玩坏的“音质”——锤子篇</a></b></h2><p>它的数据图令小编震惊了！</p><p>如此牛逼的玩法，比上回粮食公司的“以点概面”和“偷梁换柱”更高深！</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-5dd5a879f5f7394f3cfc30b62440d5a6_b.jpg\" data-rawwidth=\"700\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"700\" data-original=\"https://pic3.zhimg.com/v2-5dd5a879f5f7394f3cfc30b62440d5a6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;700&#39; height=&#39;500&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"700\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"700\" data-original=\"https://pic3.zhimg.com/v2-5dd5a879f5f7394f3cfc30b62440d5a6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-5dd5a879f5f7394f3cfc30b62440d5a6_b.jpg\"/></figure><h2><b><a href=\"https://link.zhihu.com/?target=http%3A//weibo.com/ttarticle/p/show%3Fid%3D2309404136689474884510\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">追求不同款 DAW 的音质有意义么？</a></b></h2><p>十分“解毒”，</p><p>虽然这曾是在 FL Studio 地盘的文章，但它的主要目的并不是要吹捧自己的音频引擎多牛B，而是要证明——</p><p>所有工作站的音质都差不多。</p>", 
+            "topic": [
+                {
+                    "tag": "音乐", 
+                    "tagLink": "https://api.zhihu.com/topics/19550453"
+                }, 
+                {
+                    "tag": "音乐制作", 
+                    "tagLink": "https://api.zhihu.com/topics/19567471"
+                }, 
+                {
+                    "tag": "吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19556939"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/Dark-Side-Music"
+}

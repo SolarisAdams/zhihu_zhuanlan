@@ -1,0 +1,612 @@
+{
+    "title": "上校的电子硬件专栏", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/ling-cheng-wen", 
+        "https://www.zhihu.com/people/yang-sheng-95", 
+        "https://www.zhihu.com/people/pin-ruo-54", 
+        "https://www.zhihu.com/people/yun-xia-34-90", 
+        "https://www.zhihu.com/people/mei-0-16", 
+        "https://www.zhihu.com/people/sofn-le", 
+        "https://www.zhihu.com/people/he-wei-4-61", 
+        "https://www.zhihu.com/people/shen-hua-24-43", 
+        "https://www.zhihu.com/people/aaa-aaa-66", 
+        "https://www.zhihu.com/people/ivercun_han", 
+        "https://www.zhihu.com/people/shaoeric", 
+        "https://www.zhihu.com/people/mr-autumn-74", 
+        "https://www.zhihu.com/people/zhang-tong-80-23", 
+        "https://www.zhihu.com/people/bu-qiang-27", 
+        "https://www.zhihu.com/people/li-guan-lin-59-15", 
+        "https://www.zhihu.com/people/ke-le-ge-ge-46", 
+        "https://www.zhihu.com/people/azrael-95", 
+        "https://www.zhihu.com/people/ban-si-de-mao-57", 
+        "https://www.zhihu.com/people/xiao-qiang-88-76-83", 
+        "https://www.zhihu.com/people/vimac", 
+        "https://www.zhihu.com/people/can-er-bu-lan", 
+        "https://www.zhihu.com/people/yedawei", 
+        "https://www.zhihu.com/people/wang-yiding-95", 
+        "https://www.zhihu.com/people/zhi-yixian", 
+        "https://www.zhihu.com/people/xie-fei-51-33", 
+        "https://www.zhihu.com/people/jiang-hao-98-19", 
+        "https://www.zhihu.com/people/lin-shuai-59-33", 
+        "https://www.zhihu.com/people/a-lin-lin-95-63", 
+        "https://www.zhihu.com/people/ya-li-shi-duo-she", 
+        "https://www.zhihu.com/people/chen-qing-lai-39", 
+        "https://www.zhihu.com/people/chen-wo-57", 
+        "https://www.zhihu.com/people/yikai-yihe", 
+        "https://www.zhihu.com/people/chen-lu-24-21-10", 
+        "https://www.zhihu.com/people/ma-xiao-er-56-45", 
+        "https://www.zhihu.com/people/gzdingo", 
+        "https://www.zhihu.com/people/libin-sui", 
+        "https://www.zhihu.com/people/meddi", 
+        "https://www.zhihu.com/people/chen-cheng-kun", 
+        "https://www.zhihu.com/people/tang-shao-97-60", 
+        "https://www.zhihu.com/people/ostree", 
+        "https://www.zhihu.com/people/mr-dinosaur-29-42", 
+        "https://www.zhihu.com/people/liu-kai-64-64", 
+        "https://www.zhihu.com/people/xinyaping", 
+        "https://www.zhihu.com/people/LeO_wqHyw", 
+        "https://www.zhihu.com/people/li-yi-51-65", 
+        "https://www.zhihu.com/people/nt-ccd", 
+        "https://www.zhihu.com/people/dui-ying-du-zhuo-94", 
+        "https://www.zhihu.com/people/cid-cui", 
+        "https://www.zhihu.com/people/anchen-90", 
+        "https://www.zhihu.com/people/xie-chao-44-1", 
+        "https://www.zhihu.com/people/xi11", 
+        "https://www.zhihu.com/people/xxnkxue", 
+        "https://www.zhihu.com/people/xiao-ye-94-93", 
+        "https://www.zhihu.com/people/zhuo-yue-da-qi", 
+        "https://www.zhihu.com/people/dai-ming-xi-21", 
+        "https://www.zhihu.com/people/0668", 
+        "https://www.zhihu.com/people/Dextermi", 
+        "https://www.zhihu.com/people/ha-hu-41-49", 
+        "https://www.zhihu.com/people/ceng-ge-28-73", 
+        "https://www.zhihu.com/people/fu-tu-34-37", 
+        "https://www.zhihu.com/people/lu-zhou-35-80", 
+        "https://www.zhihu.com/people/tingyuguantao", 
+        "https://www.zhihu.com/people/andy2801", 
+        "https://www.zhihu.com/people/seven-5-23-18", 
+        "https://www.zhihu.com/people/nan-ge-51-37", 
+        "https://www.zhihu.com/people/fake-83", 
+        "https://www.zhihu.com/people/john-john-89", 
+        "https://www.zhihu.com/people/shen-xin-ran-26", 
+        "https://www.zhihu.com/people/wood-wood-54", 
+        "https://www.zhihu.com/people/wang-chen-guang-39", 
+        "https://www.zhihu.com/people/comet-red-87", 
+        "https://www.zhihu.com/people/ice-98-21", 
+        "https://www.zhihu.com/people/jiu-tu-94", 
+        "https://www.zhihu.com/people/quan-quan-32-34", 
+        "https://www.zhihu.com/people/da-jiu-da-jiu", 
+        "https://www.zhihu.com/people/tian-ren-wu-fang", 
+        "https://www.zhihu.com/people/imo-l", 
+        "https://www.zhihu.com/people/gang-ge-22", 
+        "https://www.zhihu.com/people/wangningkai", 
+        "https://www.zhihu.com/people/kowalski-99", 
+        "https://www.zhihu.com/people/han-xu-36-16", 
+        "https://www.zhihu.com/people/yicun-zhai-nan", 
+        "https://www.zhihu.com/people/xie-feng-38", 
+        "https://www.zhihu.com/people/joy-31-93-16", 
+        "https://www.zhihu.com/people/xu-yi-hang", 
+        "https://www.zhihu.com/people/tianbao-zhang", 
+        "https://www.zhihu.com/people/wu-si-wu-xiang-74", 
+        "https://www.zhihu.com/people/ci-xin-wu-yu-bai-ou-meng", 
+        "https://www.zhihu.com/people/ddaacn", 
+        "https://www.zhihu.com/people/qiao-shang-73", 
+        "https://www.zhihu.com/people/lufei-li", 
+        "https://www.zhihu.com/people/xian-cheng-qian", 
+        "https://www.zhihu.com/people/1013507826", 
+        "https://www.zhihu.com/people/zou-xiong-62", 
+        "https://www.zhihu.com/people/rold-fin", 
+        "https://www.zhihu.com/people/shan-shan-shan-85-87", 
+        "https://www.zhihu.com/people/hu-yan-yu-52", 
+        "https://www.zhihu.com/people/mu-mu-3-93", 
+        "https://www.zhihu.com/people/tai-yang-yu-71", 
+        "https://www.zhihu.com/people/yizhen-qiu-feng-meng-chu-hui-29", 
+        "https://www.zhihu.com/people/chen-guan-hang-36"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/78603825", 
+            "userName": "汤姆上校", 
+            "userLink": "https://www.zhihu.com/people/f0bee778b4fc9053f8c273ebce072eb0", 
+            "upvote": 577, 
+            "title": "用350块DIY了一台高清便携式显示器", 
+            "content": "<p>在我们的日常办公当中，单纯的使用笔记本，单单的一个屏幕总觉得有些不便。于是乎许多人有了购买显示器的念头。但外接显示器太过庞大不便携带。此时便携式显示器的作用就凸现了出来。而一台普通的15.6寸的便携式显示器在天猫上动则就要七八百，对于我等穷人过于昂贵。（买得起的就不用往下看了 小声BB）</p><p>于是乎今天上校就带大家来DIY属于自己的独一无二的显示器。</p><p>--------------------------------------------------------------</p><p>DIY显示器需要三大件，分别是①屏幕②驱动板③电源适配器</p><p><b>第一步找屏幕面板</b>，百度搜索屏库网：</p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://link.zhihu.com/?target=http%3A//www.panelook.cn/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">panelook.cn/</span><span class=\"invisible\"></span></a><p>下拉找到自己想要的屏幕尺寸，个人建议选择13.3 14 .15.6寸的屏幕，一个是因为太小没有购买价值，第二个是因为太大就失去了便携性。再者这个尺寸大多都是笔记本屏幕，比较适合正常使用。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-24b4fef11792799ba4b26b7d35afe0a5_b.png\" data-rawwidth=\"403\" data-rawheight=\"51\" data-size=\"normal\" data-caption=\"\" class=\"content_image\" width=\"403\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;403&#39; height=&#39;51&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"403\" data-rawheight=\"51\" data-size=\"normal\" data-caption=\"\" class=\"content_image lazy\" width=\"403\" data-actualsrc=\"https://pic2.zhimg.com/v2-24b4fef11792799ba4b26b7d35afe0a5_b.png\"/></figure><p>本文使用的是15.6寸屏。</p><p>点击进去后依次筛选“笔记本”，“1920x1080p”，“IPS硬屏”。</p><p>为什么不选2K or 4K屏呢？首先这么小的尺寸使用1080P，清晰的已经完全足够了，毕竟绝大多数24寸屏幕使用的依然是1080P的屏幕，其次2K 4K的屏幕驱动板也相对贵很多。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4699970e791ec08319af8adf9cbc79bf_b.jpg\" data-rawwidth=\"725\" data-rawheight=\"384\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"725\" data-original=\"https://pic4.zhimg.com/v2-4699970e791ec08319af8adf9cbc79bf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;725&#39; height=&#39;384&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"725\" data-rawheight=\"384\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"725\" data-original=\"https://pic4.zhimg.com/v2-4699970e791ec08319af8adf9cbc79bf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4699970e791ec08319af8adf9cbc79bf_b.jpg\"/></figure><p>检索完，获得了226个适配的型号。点击按量产时间排序，选择产量较大的屏幕，同时尽量选择较新的屏幕，旧的也行，并不影响使用，不过能选新的当然选新的咯。</p><p>通过对比参数后选择适合自己的面板，然后打开万能的淘宝（简直是人类的瑰宝），搜索15.6寸屏幕，开始和各个老板攀谈 扯淡 询问是否有货。可惜我在询问了十几家店的十数个型号甚至还被喷后仍然一无所获 XD。即便是有货的店也过于昂贵，15.6 ips 72色域 高达360一块的价格让囊中羞涩的上校望而却步。而一些老板型号都不愿查，直接给咱通用屏，（即笔记本拆机屏，大多都是五六年前的老屏，就这也卖三百多着实有点黑）。</p><p>预算有限的上校只能奔投闲鱼（人类的瑰宝二号）。搜索15.6寸屏幕后杂七杂八的屏幕一大堆。价格忽高忽低难以分辨，主要差异还是在于面板类型，分辨率，坏点漏光等，切记不可碰以上雷点。廉价屏有很多都是1366x768/1600x900的分辨率，45的色域，虽说依然可以用，然而效果十分感人。</p><p>因而我通过直接依次搜索先前屏库网上的型号寻找屏幕，最终以200的价格捡漏买到了一个用外星人的老哥换下的屏幕，生产时间较新，是18年的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-e698b2f5d1cf639a54753201d1944753_b.jpg\" data-rawwidth=\"540\" data-rawheight=\"960\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic4.zhimg.com/v2-e698b2f5d1cf639a54753201d1944753_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;540&#39; height=&#39;960&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"540\" data-rawheight=\"960\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"540\" data-original=\"https://pic4.zhimg.com/v2-e698b2f5d1cf639a54753201d1944753_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e698b2f5d1cf639a54753201d1944753_b.jpg\"/></figure><p>如果实在找不到便宜的个人用面板，那也只能去商家处购买了。</p><p>有了面板后，咱开始第二步，<b>购买驱动板/适配器/HDMIor其他的接线</b></p><p>这个简单多了，再次打开淘宝，搜索15.6寸屏幕驱动板即可，各家都大同小异。少校选择了一家有个驱动板+屏线＋适配器+按键板+hdmi线打包的套餐，只要80还算实惠。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-e18a33cffddff4d92d986a5d6dfa45c7_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1920\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-e18a33cffddff4d92d986a5d6dfa45c7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1080\" data-rawheight=\"1920\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-e18a33cffddff4d92d986a5d6dfa45c7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e18a33cffddff4d92d986a5d6dfa45c7_b.jpg\"/></figure><p><b>第三步屏幕外壳</b></p><p>选择屏幕外壳有三种方式，最简单的是直接购买，再次打开淘宝，搜索便携显示屏外壳即可。这种外壳优点在于相对稳固，缺点在于傻大黑粗，而且要130块。</p><p>第二种方法是使用亚克力材质的板子自己锯个框出来，只能说技术力过高再加上上校手头实在没有工具，无法完成，仅供大家参考。</p><p>第三种则是通过积木拼接，本文选择的就这这种。再再再次打开淘宝，搜索雅雅益智玩具店，找到销量最高的，购买即可，上校买了5000个富裕了许多。点进评论区还能看到许多大神的杰作，这里给大家分享几张。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-80a15eabebb8596e97c858882b1e16d3_b.jpg\" data-rawwidth=\"864\" data-rawheight=\"1152\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"864\" data-original=\"https://pic4.zhimg.com/v2-80a15eabebb8596e97c858882b1e16d3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;864&#39; height=&#39;1152&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"864\" data-rawheight=\"1152\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"864\" data-original=\"https://pic4.zhimg.com/v2-80a15eabebb8596e97c858882b1e16d3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-80a15eabebb8596e97c858882b1e16d3_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f99e65e535057d7ad3c3d8d21daac7d4_b.jpg\" data-rawwidth=\"1200\" data-rawheight=\"898\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-f99e65e535057d7ad3c3d8d21daac7d4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;898&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1200\" data-rawheight=\"898\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-f99e65e535057d7ad3c3d8d21daac7d4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f99e65e535057d7ad3c3d8d21daac7d4_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b8e22eae4ff4266448f8df5ba318adb9_b.jpg\" data-rawwidth=\"1200\" data-rawheight=\"900\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-b8e22eae4ff4266448f8df5ba318adb9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;900&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1200\" data-rawheight=\"900\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-b8e22eae4ff4266448f8df5ba318adb9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b8e22eae4ff4266448f8df5ba318adb9_b.jpg\"/></figure><p>需要注意的是，积木是三种当中最不稳的方式，我日常带着屏幕放背包里往返，积木角偶尔会掉下一两之类的，虽然之后粘了502上去就再也没掉过了，不过还是要和那些需要天天携带的同学说下，不是很建议这种。以下是我的成品图。（上校这里室内灯光比较暗拍的一般，实际效果好很多）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-604c30c8752dd827f7b66dd763312850_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-604c30c8752dd827f7b66dd763312850_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3016&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-604c30c8752dd827f7b66dd763312850_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-604c30c8752dd827f7b66dd763312850_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-14503377a5835db60919bc8534b2ebc8_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-14503377a5835db60919bc8534b2ebc8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3016&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-14503377a5835db60919bc8534b2ebc8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-14503377a5835db60919bc8534b2ebc8_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4a9739dfefbf334d2199245272383de3_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-4a9739dfefbf334d2199245272383de3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3016&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-4a9739dfefbf334d2199245272383de3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4a9739dfefbf334d2199245272383de3_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-83b208d2e68e343fdc95af59de84fe77_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-83b208d2e68e343fdc95af59de84fe77_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3016&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-83b208d2e68e343fdc95af59de84fe77_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-83b208d2e68e343fdc95af59de84fe77_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-80fc5f46b4609bbafda43f033ad5dd2e_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-80fc5f46b4609bbafda43f033ad5dd2e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3016&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-80fc5f46b4609bbafda43f033ad5dd2e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-80fc5f46b4609bbafda43f033ad5dd2e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>积木拼接还需要注意的是，拼接实在费时间。。。上校拼了足足十来个小时才基本完成了。</p><p><b>实际上手组装：</b></p><p>东西都到手后的拼装其实十分简单，使用积木先略微富裕一些的拼接出屏幕长宽。根据自己喜欢的图片完成背板拼装。完成之后开始堆砌出驱动板的位置，驱动板上有屏线，屏线与屏幕相接后将驱动板固定到背板上，随后积木覆盖。再接着用一些积木固定好屏幕，最后就是完成边边角角的积木添加了。实际上自己摸索一下是十分简单的，不一定要按照上校的步骤来。有一些大神为了美观是全拼装的，完全遮盖了驱动板，通过积木柱和胶水固定屏幕。我个人认为太厚了就没有使用那种方式，不过会稳固很多是真的，可以参考一下。</p><p>：上校简单粗暴的固定方式↓</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7ca85223036c9affebcbf5ec00dbae82_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-7ca85223036c9affebcbf5ec00dbae82_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3016&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3016\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-7ca85223036c9affebcbf5ec00dbae82_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7ca85223036c9affebcbf5ec00dbae82_b.jpg\"/></figure><p><b>零零散散的后续补充</b></p><p>：屏幕底部的PCD板在工作时是十分烫的，能达到80+的程度，这是正常现象，不要去触摸</p><p>：虽说驱动板＋显示屏和适配器就可以使用了，然而最好弄个按键板控制屏幕开关和属性，上校这里买套餐是送按键板的，见上图。</p><p>：屏幕还可以添加喇叭，上校花6块钱购买了一对，后因放进去有些影响美观以及我个人不太需要喇叭就没有装上去了。（毕竟笔记本自带喇叭）这个操作可以适用于哪些组ITX的同学。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>综上，一个简单的便携显示器就做好了，希望本文能对各位有所帮助！</p>", 
+            "topic": [
+                {
+                    "tag": "手工DIY", 
+                    "tagLink": "https://api.zhihu.com/topics/19774266"
+                }, 
+                {
+                    "tag": "电脑 DIY", 
+                    "tagLink": "https://api.zhihu.com/topics/19593257"
+                }, 
+                {
+                    "tag": "屏幕", 
+                    "tagLink": "https://api.zhihu.com/topics/19551697"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "YouNg", 
+                    "userLink": "https://www.zhihu.com/people/4754875661d453ef9858487a3a2c2351", 
+                    "content": "沙发", 
+                    "likes": 5, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "busddd", 
+                    "userLink": "https://www.zhihu.com/people/612cc0ca94bba6add7c4a7b05a3a9fa4", 
+                    "content": "该评论已删除", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "汤姆上校", 
+                            "userLink": "https://www.zhihu.com/people/f0bee778b4fc9053f8c273ebce072eb0", 
+                            "content": "？？？", 
+                            "likes": 6, 
+                            "replyToAuthor": "busddd"
+                        }, 
+                        {
+                            "userName": "busddd", 
+                            "userLink": "https://www.zhihu.com/people/612cc0ca94bba6add7c4a7b05a3a9fa4", 
+                            "content": "难不成你就是贴吧那位？", 
+                            "likes": 0, 
+                            "replyToAuthor": "busddd"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "proxy", 
+                    "userLink": "https://www.zhihu.com/people/787dd6a3bb134955b1426170d14d68ee", 
+                    "content": "请继续。正好有一块屏。考虑怎么做。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "噼里啪啦叭", 
+                    "userLink": "https://www.zhihu.com/people/76562599b769c7220f54747add808d99", 
+                    "content": "积木外壳可还行，15.6寸的大概要多少块积木啊", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "汤姆上校", 
+                            "userLink": "https://www.zhihu.com/people/f0bee778b4fc9053f8c273ebce072eb0", 
+                            "content": "4000上下", 
+                            "likes": 2, 
+                            "replyToAuthor": "噼里啪啦叭"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "北京脆面", 
+                    "userLink": "https://www.zhihu.com/people/5e8cc89d4c3969bb89c08da4fa6b03e8", 
+                    "content": "请问1080p edp接口在咸鱼该咋搜", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "汤姆上校", 
+                            "userLink": "https://www.zhihu.com/people/f0bee778b4fc9053f8c273ebce072eb0", 
+                            "content": "驱动板么，这个建议淘宝搜索就行了，eDP带接口的驱动板会贵点", 
+                            "likes": 0, 
+                            "replyToAuthor": "北京脆面"
+                        }, 
+                        {
+                            "userName": "北京脆面", 
+                            "userLink": "https://www.zhihu.com/people/5e8cc89d4c3969bb89c08da4fa6b03e8", 
+                            "content": "显示器啊，我有驱动板，想买个二手显示器", 
+                            "likes": 0, 
+                            "replyToAuthor": "汤姆上校"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "肖-法兰克", 
+                    "userLink": "https://www.zhihu.com/people/126226bd9a89f7ab8fd4603eb6bd573f", 
+                    "content": "虽然diy很有趣，但便携屏这种产品，diy真不比直接买便宜多少", 
+                    "likes": 9, 
+                    "childComments": [
+                        {
+                            "userName": "iakoay", 
+                            "userLink": "https://www.zhihu.com/people/2ebaa2f9062fa267c5741d6ec151ec15", 
+                            "content": "不仅不便宜，还不方便", 
+                            "likes": 4, 
+                            "replyToAuthor": "肖-法兰克"
+                        }, 
+                        {
+                            "userName": "瑟瑟发抖的圈外人032", 
+                            "userLink": "https://www.zhihu.com/people/a863149d9e75debbdaa4b5596d0db006", 
+                            "content": "直接买的那辣鸡屏还是算了吧", 
+                            "likes": 2, 
+                            "replyToAuthor": "肖-法兰克"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "猫先生", 
+                    "userLink": "https://www.zhihu.com/people/333ae09ec52c70a8a4aeda6c18607589", 
+                    "content": "我也想弄这个~学习一下", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "UniK", 
+                    "userLink": "https://www.zhihu.com/people/e3c4fa651600cb313090ed2e8d76b6b2", 
+                    "content": "太强了，就是感觉积木外壳边框太宽了。能不能把积木外壳做成窄边框", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "江南", 
+                    "userLink": "https://www.zhihu.com/people/482c79c39587875487806dac4fb93a84", 
+                    "content": "🐎一下。。感觉用得上", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "完美全新72色域原生8bit的N156HCE-EN1只要300块，前几天刚用的<br>点亮瞬间被惊艳到了，比我的笔记本屏不知道好多少 <a class=\"comment_sticker\" href=\"https://pic2.zhimg.com/v2-fa420fb01533452e9d5f021c52dc6cc5.gif\" data-sticker-id=\"980770233090535424\"> [超得意]</a>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "鱼鱼", 
+                            "userLink": "https://www.zhihu.com/people/b4d6d797cfcf32420a1447e55fac6406", 
+                            "content": "<p>能问下在哪买的吗</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "某宝", 
+                            "likes": 0, 
+                            "replyToAuthor": "鱼鱼"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "看完以后我收藏了雅雅益智玩具店", 
+                    "likes": 5, 
+                    "childComments": [
+                        {
+                            "userName": "佚名", 
+                            "userLink": "https://www.zhihu.com/people/ce3676347eaa2dd7b3740e3ec789bd8a", 
+                            "content": "我也是啊，真的秀啊，积木外壳，好快乐", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "鼍鼍", 
+                    "userLink": "https://www.zhihu.com/people/3fafec27575669715926d8baf1035191", 
+                    "content": "我也弄过，将ipad5 的9.7寸屏弄成这种小显示器，还带触屏功能，但是因为屏幕是2k屏，所以驱动板的功耗有点大，将近5瓦，所以谈不上方便实用。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "张某某", 
+                    "userLink": "https://www.zhihu.com/people/a69e9cd4d05683df55c531f6aa918542", 
+                    "content": "<p>如果外接触摸的怎么样，可以用触摸来操作吗</p><p></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Tinker", 
+                    "userLink": "https://www.zhihu.com/people/a63be5da34bb6fcc519e23a66a3961a5", 
+                    "content": "不，这一点都不简单，也不便携。你可能对这俩词有啥误解。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "汤姆上校", 
+                            "userLink": "https://www.zhihu.com/people/f0bee778b4fc9053f8c273ebce072eb0", 
+                            "content": "可能理解不同吧，对我来说可以装进背包每天携带就算便捷了", 
+                            "likes": 0, 
+                            "replyToAuthor": "Tinker"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Kali.Z", 
+                    "userLink": "https://www.zhihu.com/people/8dfdd6b5c71b1e1b24bc477e54da2eec", 
+                    "content": "我也做过一个，外壳是自己设计图纸，找店铺切割亚克力做外壳，为了更加便携内置了锂电池供电", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "吃包子的步", 
+                            "userLink": "https://www.zhihu.com/people/332a473ce737121e24aaaa3bb1dcfa2f", 
+                            "content": "我准备用亚克力做外壳。手里有一块别人送的，1080p的屏幕，不过是45色域的，以后准备做副屏，不知道值不值得折腾", 
+                            "likes": 0, 
+                            "replyToAuthor": "Kali.Z"
+                        }, 
+                        {
+                            "userName": "Kali.Z", 
+                            "userLink": "https://www.zhihu.com/people/8dfdd6b5c71b1e1b24bc477e54da2eec", 
+                            "content": "我觉得ok，成本也不高", 
+                            "likes": 0, 
+                            "replyToAuthor": "吃包子的步"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "黑泽斯", 
+                    "userLink": "https://www.zhihu.com/people/4a9215529047365e5a7e0116e91ba653", 
+                    "content": "积木拼外壳这个路子太野了", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Tesla007", 
+                    "userLink": "https://www.zhihu.com/people/df9549c3f1eb536a78d3d73dcd4a917d", 
+                    "content": "<p>就为了大两寸?</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "永远的高三狗", 
+                    "userLink": "https://www.zhihu.com/people/67bb532e64b7f7f25569272fda113ae0", 
+                    "content": "太强了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "三分钟的疯狂", 
+                    "userLink": "https://www.zhihu.com/people/5ca9bbeec0d746dda9a5f4ee2c2e8980", 
+                    "content": "噗  我的昨晚才完工。厚度6层积木。拼的我手疼。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "oz01", 
+                    "userLink": "https://www.zhihu.com/people/771c753daf5625506c787816f6c51bb2", 
+                    "content": "<p>这发热量真的没问题吗</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "YouNg", 
+                    "userLink": "https://www.zhihu.com/people/4754875661d453ef9858487a3a2c2351", 
+                    "content": "沙发", 
+                    "likes": 5, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "busddd", 
+                    "userLink": "https://www.zhihu.com/people/612cc0ca94bba6add7c4a7b05a3a9fa4", 
+                    "content": "该评论已删除", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "汤姆上校", 
+                            "userLink": "https://www.zhihu.com/people/f0bee778b4fc9053f8c273ebce072eb0", 
+                            "content": "？？？", 
+                            "likes": 6, 
+                            "replyToAuthor": "busddd"
+                        }, 
+                        {
+                            "userName": "busddd", 
+                            "userLink": "https://www.zhihu.com/people/612cc0ca94bba6add7c4a7b05a3a9fa4", 
+                            "content": "难不成你就是贴吧那位？", 
+                            "likes": 0, 
+                            "replyToAuthor": "busddd"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "proxy", 
+                    "userLink": "https://www.zhihu.com/people/787dd6a3bb134955b1426170d14d68ee", 
+                    "content": "请继续。正好有一块屏。考虑怎么做。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "噼里啪啦叭", 
+                    "userLink": "https://www.zhihu.com/people/76562599b769c7220f54747add808d99", 
+                    "content": "积木外壳可还行，15.6寸的大概要多少块积木啊", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "汤姆上校", 
+                            "userLink": "https://www.zhihu.com/people/f0bee778b4fc9053f8c273ebce072eb0", 
+                            "content": "4000上下", 
+                            "likes": 2, 
+                            "replyToAuthor": "噼里啪啦叭"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "北京脆面", 
+                    "userLink": "https://www.zhihu.com/people/5e8cc89d4c3969bb89c08da4fa6b03e8", 
+                    "content": "请问1080p edp接口在咸鱼该咋搜", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "汤姆上校", 
+                            "userLink": "https://www.zhihu.com/people/f0bee778b4fc9053f8c273ebce072eb0", 
+                            "content": "驱动板么，这个建议淘宝搜索就行了，eDP带接口的驱动板会贵点", 
+                            "likes": 0, 
+                            "replyToAuthor": "北京脆面"
+                        }, 
+                        {
+                            "userName": "北京脆面", 
+                            "userLink": "https://www.zhihu.com/people/5e8cc89d4c3969bb89c08da4fa6b03e8", 
+                            "content": "显示器啊，我有驱动板，想买个二手显示器", 
+                            "likes": 0, 
+                            "replyToAuthor": "汤姆上校"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "肖-法兰克", 
+                    "userLink": "https://www.zhihu.com/people/126226bd9a89f7ab8fd4603eb6bd573f", 
+                    "content": "虽然diy很有趣，但便携屏这种产品，diy真不比直接买便宜多少", 
+                    "likes": 9, 
+                    "childComments": [
+                        {
+                            "userName": "iakoay", 
+                            "userLink": "https://www.zhihu.com/people/2ebaa2f9062fa267c5741d6ec151ec15", 
+                            "content": "不仅不便宜，还不方便", 
+                            "likes": 4, 
+                            "replyToAuthor": "肖-法兰克"
+                        }, 
+                        {
+                            "userName": "瑟瑟发抖的圈外人032", 
+                            "userLink": "https://www.zhihu.com/people/a863149d9e75debbdaa4b5596d0db006", 
+                            "content": "直接买的那辣鸡屏还是算了吧", 
+                            "likes": 2, 
+                            "replyToAuthor": "肖-法兰克"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "猫先生", 
+                    "userLink": "https://www.zhihu.com/people/333ae09ec52c70a8a4aeda6c18607589", 
+                    "content": "我也想弄这个~学习一下", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "UniK", 
+                    "userLink": "https://www.zhihu.com/people/e3c4fa651600cb313090ed2e8d76b6b2", 
+                    "content": "太强了，就是感觉积木外壳边框太宽了。能不能把积木外壳做成窄边框", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "江南", 
+                    "userLink": "https://www.zhihu.com/people/482c79c39587875487806dac4fb93a84", 
+                    "content": "🐎一下。。感觉用得上", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "完美全新72色域原生8bit的N156HCE-EN1只要300块，前几天刚用的<br>点亮瞬间被惊艳到了，比我的笔记本屏不知道好多少 <a class=\"comment_sticker\" href=\"https://pic2.zhimg.com/v2-fa420fb01533452e9d5f021c52dc6cc5.gif\" data-sticker-id=\"980770233090535424\"> [超得意]</a>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "鱼鱼", 
+                            "userLink": "https://www.zhihu.com/people/b4d6d797cfcf32420a1447e55fac6406", 
+                            "content": "<p>能问下在哪买的吗</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "某宝", 
+                            "likes": 0, 
+                            "replyToAuthor": "鱼鱼"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "看完以后我收藏了雅雅益智玩具店", 
+                    "likes": 5, 
+                    "childComments": [
+                        {
+                            "userName": "佚名", 
+                            "userLink": "https://www.zhihu.com/people/ce3676347eaa2dd7b3740e3ec789bd8a", 
+                            "content": "我也是啊，真的秀啊，积木外壳，好快乐", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "鼍鼍", 
+                    "userLink": "https://www.zhihu.com/people/3fafec27575669715926d8baf1035191", 
+                    "content": "我也弄过，将ipad5 的9.7寸屏弄成这种小显示器，还带触屏功能，但是因为屏幕是2k屏，所以驱动板的功耗有点大，将近5瓦，所以谈不上方便实用。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "张某某", 
+                    "userLink": "https://www.zhihu.com/people/a69e9cd4d05683df55c531f6aa918542", 
+                    "content": "<p>如果外接触摸的怎么样，可以用触摸来操作吗</p><p></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Tinker", 
+                    "userLink": "https://www.zhihu.com/people/a63be5da34bb6fcc519e23a66a3961a5", 
+                    "content": "不，这一点都不简单，也不便携。你可能对这俩词有啥误解。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "汤姆上校", 
+                            "userLink": "https://www.zhihu.com/people/f0bee778b4fc9053f8c273ebce072eb0", 
+                            "content": "可能理解不同吧，对我来说可以装进背包每天携带就算便捷了", 
+                            "likes": 0, 
+                            "replyToAuthor": "Tinker"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Kali.Z", 
+                    "userLink": "https://www.zhihu.com/people/8dfdd6b5c71b1e1b24bc477e54da2eec", 
+                    "content": "我也做过一个，外壳是自己设计图纸，找店铺切割亚克力做外壳，为了更加便携内置了锂电池供电", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "吃包子的步", 
+                            "userLink": "https://www.zhihu.com/people/332a473ce737121e24aaaa3bb1dcfa2f", 
+                            "content": "我准备用亚克力做外壳。手里有一块别人送的，1080p的屏幕，不过是45色域的，以后准备做副屏，不知道值不值得折腾", 
+                            "likes": 0, 
+                            "replyToAuthor": "Kali.Z"
+                        }, 
+                        {
+                            "userName": "Kali.Z", 
+                            "userLink": "https://www.zhihu.com/people/8dfdd6b5c71b1e1b24bc477e54da2eec", 
+                            "content": "我觉得ok，成本也不高", 
+                            "likes": 0, 
+                            "replyToAuthor": "吃包子的步"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "黑泽斯", 
+                    "userLink": "https://www.zhihu.com/people/4a9215529047365e5a7e0116e91ba653", 
+                    "content": "积木拼外壳这个路子太野了", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Tesla007", 
+                    "userLink": "https://www.zhihu.com/people/df9549c3f1eb536a78d3d73dcd4a917d", 
+                    "content": "<p>就为了大两寸?</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "永远的高三狗", 
+                    "userLink": "https://www.zhihu.com/people/67bb532e64b7f7f25569272fda113ae0", 
+                    "content": "太强了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "三分钟的疯狂", 
+                    "userLink": "https://www.zhihu.com/people/5ca9bbeec0d746dda9a5f4ee2c2e8980", 
+                    "content": "噗  我的昨晚才完工。厚度6层积木。拼的我手疼。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "oz01", 
+                    "userLink": "https://www.zhihu.com/people/771c753daf5625506c787816f6c51bb2", 
+                    "content": "<p>这发热量真的没问题吗</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1147106757175402496"
+}

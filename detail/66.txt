@@ -1,0 +1,349 @@
+{
+    "title": "Hello World", 
+    "description": "写了这么多技术文章，好歹也得整理下吧", 
+    "followers": [
+        "https://www.zhihu.com/people/wang-ying-25-85-88", 
+        "https://www.zhihu.com/people/dinghk", 
+        "https://www.zhihu.com/people/guangbao", 
+        "https://www.zhihu.com/people/wu-ying-jie-95", 
+        "https://www.zhihu.com/people/weixiaojia2333333", 
+        "https://www.zhihu.com/people/zuo-mou-7", 
+        "https://www.zhihu.com/people/yonghaohu", 
+        "https://www.zhihu.com/people/kome", 
+        "https://www.zhihu.com/people/halfbloodrock", 
+        "https://www.zhihu.com/people/ampxe", 
+        "https://www.zhihu.com/people/he-han-73-85", 
+        "https://www.zhihu.com/people/yang-xu-16", 
+        "https://www.zhihu.com/people/luo-qi-sheng-2", 
+        "https://www.zhihu.com/people/Raytlty", 
+        "https://www.zhihu.com/people/swordshadow", 
+        "https://www.zhihu.com/people/xiao-ao-long", 
+        "https://www.zhihu.com/people/diu-mao-19", 
+        "https://www.zhihu.com/people/li-lei-45", 
+        "https://www.zhihu.com/people/zhang-zi-cheng-81", 
+        "https://www.zhihu.com/people/xiao-xiao-zi-64-63", 
+        "https://www.zhihu.com/people/parkdifferent", 
+        "https://www.zhihu.com/people/oceanszhou", 
+        "https://www.zhihu.com/people/allen-gan", 
+        "https://www.zhihu.com/people/a-fei-xi-ya-65", 
+        "https://www.zhihu.com/people/AnoxiaTown", 
+        "https://www.zhihu.com/people/xu-feng-nian-54", 
+        "https://www.zhihu.com/people/eatheart", 
+        "https://www.zhihu.com/people/ATXON", 
+        "https://www.zhihu.com/people/donknuth", 
+        "https://www.zhihu.com/people/ning-rain", 
+        "https://www.zhihu.com/people/ming-ri-qing-yun-qu", 
+        "https://www.zhihu.com/people/0xRg", 
+        "https://www.zhihu.com/people/zerg-duan", 
+        "https://www.zhihu.com/people/hujun.qu", 
+        "https://www.zhihu.com/people/1024-10-45", 
+        "https://www.zhihu.com/people/peng-jin-yi", 
+        "https://www.zhihu.com/people/1nuo-jj", 
+        "https://www.zhihu.com/people/nova-chaos", 
+        "https://www.zhihu.com/people/sailfishc", 
+        "https://www.zhihu.com/people/ju-shang-38", 
+        "https://www.zhihu.com/people/Zuckjet", 
+        "https://www.zhihu.com/people/liu-jin-jian-58", 
+        "https://www.zhihu.com/people/daraw", 
+        "https://www.zhihu.com/people/hikaru-utada-41", 
+        "https://www.zhihu.com/people/echolihao", 
+        "https://www.zhihu.com/people/wang-hg", 
+        "https://www.zhihu.com/people/uncle-shushu", 
+        "https://www.zhihu.com/people/pei-sa-36", 
+        "https://www.zhihu.com/people/niris", 
+        "https://www.zhihu.com/people/wanghenshui", 
+        "https://www.zhihu.com/people/detailyang", 
+        "https://www.zhihu.com/people/prettykernel", 
+        "https://www.zhihu.com/people/invathia-ti", 
+        "https://www.zhihu.com/people/zeayes", 
+        "https://www.zhihu.com/people/zhang-san-98", 
+        "https://www.zhihu.com/people/liu-zhong-bo", 
+        "https://www.zhihu.com/people/eta-100a", 
+        "https://www.zhihu.com/people/linuxcpp", 
+        "https://www.zhihu.com/people/chenxq", 
+        "https://www.zhihu.com/people/zhang-duo-bei", 
+        "https://www.zhihu.com/people/liu-xiao-yao-12", 
+        "https://www.zhihu.com/people/timfeirg", 
+        "https://www.zhihu.com/people/zhang-da-ya-5"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60246426", 
+            "userName": "彭哲夫", 
+            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+            "upvote": 31, 
+            "title": "Why SouthEast Asia", 
+            "content": "<p>因为去年来新加坡工作了，过年期间不少朋友来问东南亚的情况，加上我知道今年有不少有头有脸的公司要在坡县开研发中心，某 G 家还因为印度业务大肆在坡县扩招，趁此机会讲讲个人对于东南亚市场的看法。受限于公司 NDA 的要求（你看连透露一个工资范围都被批评了）我不会谈以 Shopee 或者 SEA Group 相关的一些敏感信息，大体上会以市场和个人见闻为主。</p><h2>缘起</h2><p>某种意义上作为一个绕着钱走的工程师，如14年放弃头条 offer 视千万财富如粪土，如小米豆瓣选豆瓣，钱虽然没赚着，但活干得还是挺开心的。有了呱儿子后中年危机的焦虑感让我不得不考虑在 18 年的时候脱离长沙的退休生活，去谋求一个更加长远和稳健的未来，不再以兴趣为导向选择工作了。因此在 17 年年底物色了两家公司，在 18 年过完年之后，拿下了他们的 offer，一家还是头条，一家是现在所在的 SEA Group。</p><p>头条我还算比较熟悉，毕竟基友在那也就不多说了。但对于 SEA Group 而言，还是挺陌生的。于是我在 17 年年末花了两个多月时间环游了东南亚除越南和东帝汶以外的所有国家，这一次旅行提供给我了不少关于东南亚新的看法。综合了其他几个因素之后，选择了 SEA 这边，完成了对头条的 double kill。</p><p>对于一个慈祥的老父亲来说，看着稳固的几百万不要去搏一搏单车变电摩托似乎还是有点冒险，但就目前来看，基本上还在我的预计中。</p><h2>概述</h2><p>东南亚说大不大，说小不小，7亿不到的人口分散在11个国家上，可以看做半个中国的体量。对比大陆而言，语言宗教文化差异是这边互联网公司需要下大力气解决的问题，因此<b>运营</b>非常重要，比如你在南传佛教的国家如泰国缅甸的禁忌，肯定就和穆斯林国家如印尼天主教国家如菲律宾不一样。我司的 Shopee 以短短 3 年的时间做到和隔壁马爸爸全资 lazada 平分东南亚市场甚至略胜一筹，靠的就是差异化的本地运营策略。</p><p>基础设施方面东南亚大体相当于国内 04-05 年的水平，人口头部的那几个国家如印尼缅甸等城市化率还比较低，依然有大量农村人口。受益于科技的发展，移动互联网发展得还挺不错的。有点像中国绕过了传统百货一步到位电子商务一样，东南亚也一步到位移动互联网。我在东南亚如缅甸农村，老挝乡下基本上都有稳定的移动网络。加上 vivo/oppo 的「倾销」，8线农村都能见到不少年轻人拿着中国的手机玩我司代理腾讯出品的王者荣耀或者是吃鸡，接受移动用户体验方面应该比 04-05 年的中国要好不少，用户教育成本低，可观察到的人口红利和低流量成本算是一座还没完全挖掘的宝藏，但同样需要精细化的本地运营才能发挥出最大价值。</p><p>人才方面应该是短板，虽然头部国家如泰国马来印尼有天量高素质华人人口，但没有经历过大陆互联网发展的黄金10年无论是技术上还是运营策略上离第一梯队中美差太多，即便是拥有亚洲第一大学的 NUS 的新加坡也是如此。当然我不是说没有好的小伙子们，但面对大陆兵强马壮人数众多的从业者，性价比实在是不算高。因此这边的互联网产品要么就是中美的舶来品，要么产品质量上参差不齐，技术人员会有一种开荒的感觉。</p><p>因此发展空间个人觉得还是比较大的，开荒赚第一桶金或者卖工具给开荒的人都有利可图，但前提依然是精细化本地运营。前几年国内市场尚未饱和和东南亚基础设施还没跟上这些原因以外，限制东南亚互联网发展的另一个重要原因就是本地化运营确实难，受制于政局语言文化等，强如亚马逊至今没有东南亚本地电商站，个人推测长期以往怕会重现当年中国亚马逊的故事。随着 18 年国内趋于饱和，面对诱人的利益现在下南洋卖猪仔的公司也越来越多了。</p><p>毕竟，美国太远，中国太近。</p><h2>市场</h2><p>就我目前来看，东南亚互联网发展主要集中在头部几个国家，有云得印尼者得东南亚。像印尼这种一家就占了 1/3 人口的东南亚大国，同时拥有非常复杂的社会形态和地狱模式的交通问题，占领它的市场后扩张其他国家的难度就像喝汤一样简单。越南也是非常重要的一环，尤其是在北越市场上，Tiktok 和吃鸡不要太火。因为拥有和中国陆地边境，更容易被国内公司输出产品。这样2个国家几乎就等同于东南亚一半的人口了，因此非常重要。</p><p>同理还有小一号的「印尼」菲律宾，北部天主教为主南部穆斯林为主，人口实打实的一个亿多。在这边最出名的互联网产业就是刑法里面那3条。2年经验的前端包吃住在马尼拉轻松一月50K RMB 到手，至于能不能有命赚有命花，那就是另外一个故事了。</p><p>值得一提的是被忽略的缅甸，也是 17 年底我去东南亚环游时感触最深的一个国家。刚解除高压的社会有着非常强劲的精神以及物质需求，南部这种一个村里没几个会说英文的农村都有 vivo/oppo 的专卖店，观察下来安卓的普及率不算高，但也不低了。闻名东南亚的缅甸大巴已经开始逐步的电子化，体验还不错。毕竟是一个有着 5000W 人口的东南亚大国，还拥有和中国接壤的陆地边境，虽然全国形式上算是刚完成统一不久，未来这个市场也是很重要的一环。</p><p>至于其他的几个国家如泰国马来等，基本上成为了中国游客第一次出国游首选目的地，同时也拥有更好的基础设施来支持其移动互联网，如支付宝微信支付等基本上也站稳了。社交方面还是 FB 为主，微博微信在华人圈中还算用得多的，本地人基本就算了。电商除我司这类 C2C B2C 以外还有一种依托于 Instagram 卖货 KOL 套路，也都还过得挺滋润的。</p><p>以我浅薄的观察来看，东南亚市场基本还处于蓝海阶段，各个方向上有一些头部玩家但又没完全吃下整个蛋糕，因为蛋糕还在变大，没办法，有人就是任性。流量成本也低，能投放的渠道除了 FB 似乎也就线下了。就以我熟悉的电商来说，售前如张大妈海淘XX站中老年妇女种草小红书等还在萌芽阶段或者说根本就没有。售中除头部 shopee lazada 这种综合平台以外各国或多或少有一点专营当地市场的老三如 Tokopedia 但同样垂直如贝贝如网易严选这类的还没出生，有意思的是看数据而言 JD 其实做得还不错，但很低调。售后如二手我知道的基本就只剩一个 Carousell 了。至于像基础设施云一类的，技术产品如数据分析类的，基本没有，AWS 和阿里那个新加坡机房体量还是太小，能干的事，其实还有不少。</p><h2>未来</h2><p>我个人是觉得随着中国国力提升，在东南亚输出的产品将会越来越多。年轻一代虽然上着 FB 社交，玩的或多或少都是腾讯爹或者网易爹输出的东西。加上华人族群数量足够多，以及天量的中国游客。拿中国互联网过去十年成功失败的经验来东南亚重放一次，接受程度也还行，当然本地化运营比国内要更重要一些。</p><p>以我司为例，相对于 lazada 所拥有的资源和资金，SEA 虽然是上市公司，但个人认为其市值是低估的。合理推算全东南亚进入中国 16 - 18 年这一段互联网巅峰期状态之后，同样以电商领头阿里市值为基数，SEA 或者说 Shopee 做到其 1/10 的市值并不是一个天方夜谭，往高的估算 1/2 的市场，1/2 的市场占有率，加运营损耗再 1/2，搏一搏 1/8 的阿里市值也是可能的。这样一个 200E USD+ 的东南亚公司，股价在 60USD 附近，是有机会达到的。</p><p>而我司在我加入的时候全部身家还没超过 40E USD，股价破发了好久，是头条期权价值的几分之一，隔壁马云爸爸让彭蕾过来带的嫁妆就是 40E USD 现金，雪球看我司股票正经讨论都没几条。所以我个人是觉得，东南亚是可以出现百亿美金估值的互联网公司的，电商领域如此，出行领域也如此，隔壁的 Grab 就成功的把 Uber 挤出了东南亚。</p><p>所以，搏一搏单车变电摩托，口里说着坡县养老，身体却诚实的在开荒，大概就是这样吧。最后我开了个公众号「南门口技术指北」，欢迎围观。</p>", 
+            "topic": [
+                {
+                    "tag": "东南亚", 
+                    "tagLink": "https://api.zhihu.com/topics/19657374"
+                }, 
+                {
+                    "tag": "跨境电子商务", 
+                    "tagLink": "https://api.zhihu.com/topics/19949374"
+                }, 
+                {
+                    "tag": "互联网", 
+                    "tagLink": "https://api.zhihu.com/topics/19550517"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "可以分享一下这些互联网巨头在坡县的薪酬待遇吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "彭哲夫", 
+                            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+                            "content": "<p>不好说不好说，P7 是个坎，往下走薪资会比国内高，往上走，平薪或者降薪</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "nandy", 
+                    "userLink": "https://www.zhihu.com/people/c084b79b10e94862d99d0a136661f6b7", 
+                    "content": "<p>不建议只盯着lazada看，建议全局的看，lazada+蚂蚁金服国际化+其他东南亚被阿里收购的公司，集团内部合作还是比较紧密的，这一套组合拳下来，SEA其实压力不小</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "彭哲夫", 
+                            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+                            "content": "<p>就我了解，你这个推论首先就是……不成立的- -蚂蚁金服在东南亚一直是独立运营，当然要说5年后怎样不好说。但就目前来说，lazada 没完成整合，还是单打独斗</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "nandy"
+                        }, 
+                        {
+                            "userName": "nandy", 
+                            "userLink": "https://www.zhihu.com/people/c084b79b10e94862d99d0a136661f6b7", 
+                            "content": "引用36kr的报道，支付方面，Lazada自建的HelloPay被正名为支付宝Alipay。而跨境方面，这两年主要市场的物流都取得了不少进步；而菜鸟也在接触很多利益方进行一些尝试。同时， Lazada加大了对跨境的推广；之前欧洲人在香港主导的招商团队现在变得更加接地气。另外，Lazada还在新加坡设立淘宝专区，对于从中国寄送至新加坡的商品包邮", 
+                            "likes": 0, 
+                            "replyToAuthor": "彭哲夫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Spirit In", 
+                    "userLink": "https://www.zhihu.com/people/72ad34a077480c8cbd8818809c26238d", 
+                    "content": "请问招聘信息哪里有？还有阿里p7+薪资大致对标shopee啥等级？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "彭哲夫", 
+                            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+                            "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//careers.shopee.sg/jobs/%3Fcountry_id%3D1%26dept_id%3D109\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\"> Jobs Positions - Careers | Shopee Singapore</a> 薪资的话 P7 基本平移</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Spirit In"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "何先森", 
+                    "userLink": "https://www.zhihu.com/people/c6d2ec7d5308612ead9d9f4b31cbf6d9", 
+                    "content": "很有趣，谢谢分享。所以，你有买自家公司的股票吗？😂", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "彭哲夫", 
+                            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+                            "content": "<p>我们都是自己发的- -</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "何先森"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "7glass", 
+                    "userLink": "https://www.zhihu.com/people/ddcaabb59a95225b69361ea7e3e3374d", 
+                    "content": "[赞同]追随大神脚步，试着头下shopee", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "风雨无阻", 
+                    "userLink": "https://www.zhihu.com/people/00d1400ae29271fda1f1687d61d9fe88", 
+                    "content": "难怪高级工程师都跑出长沙了[大哭]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "yvonne", 
+                    "userLink": "https://www.zhihu.com/people/ca27440b87f972ecc55f727465ff9cfc", 
+                    "content": "你好，请问shopee深圳职能岗可以去吗？虽然看好shopee前景，但是职能岗感觉还在发展阶段，对于应届小硕来说，是不是一个不大好的选择？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57326062", 
+            "userName": "彭哲夫", 
+            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+            "upvote": 72, 
+            "title": "How Kubernetes Wins", 
+            "content": "<h2>前言</h2><p>前些日子一个阿里高P朋友在不存在的网站推特上问了一句「k8s 也没什么杀手级特性，怎么就干翻了 swarm 和 mesos」，正好看到。虽然简单的跟他说了下，但回想起过去5年容器圈的发展，只能说一个项目的命运，既要靠工程师的努力工作，也需要有一点历史的进程。</p><h2>缘起</h2><p>我们把时间退回到2014年，在2013年有了 docker 这个东西之后，经过一年的尝（chui）试（bi）大部分运维界的 SA 们把它当做一个 sliver bullet 去解决运维自动化的问题，美名其曰 devops。然而现实是残酷的，仅仅只是脚本的包装并不能算是一个杀手级的特性把 SA 们从繁重的工作中解放出来实现真正的自动化。而这时候一小撮原本做云的系统工程师看到无论是容器还是虚拟机，本质上调度和编排才是其拉开对手差距的核心竞争力，由此拉开的调度与编排的 *aaS 的战争大幕。</p><p>而 2014 年上半年的时候，放眼望去除了知道 Google 有个叫 Borg 的系统运行了很多年，很强很牛逼，就是 2009 年就已经存在的 Mesos 似乎能做这件事情。是的，在 2015 之前，Borg 的<a href=\"https://link.zhihu.com/?target=https%3A//pdos.csail.mit.edu/6.824/papers/borg.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">论文</a>并没有公布出来，所有的人只能通过江湖传闻去推测它到底是个怎样的东西。</p><p>由此，Mesos 和其上的 Marathon 占据了先机。与此同时，国内亦有基于其他技术的调度和编排系统，如基于 Yarn 的腾讯 <a href=\"https://link.zhihu.com/?target=https%3A//data.qq.com/article%3Fid%3D2786\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Gaia</a>，如阿里若干个调度编排系统，如我当时在芒果TV的团队做的<a href=\"https://link.zhihu.com/?target=https%3A//www.douban.com/note/424455952/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">NBE</a>。算上运维向的  Docker Compose，堪用的调度编排工具就这么几个。</p><p>没有人知道这种东西该是怎样的，是 PaaS 还是 IaaS 还是介于两者之间，是纯资源调度还是构建整个开发流闭环，都在摸着石头过河。</p><h2>Kubernetes 出世</h2><p>2014 年 6 月，Kubernetes 出世了，打着 Google 的金招牌。虽然野史中 K8s 这个项目本身是 Borg - Omega 体系下失败的竞争者，最早的时候只有 1.5 个全职人力做的项目，但它爹的招牌让它在一出世就吸引了全世界开发者的目光。要注意的是，在 K8s 出来的时候，离 Borg 的论文发布还有 1 年时间。所以无论后世如何把 Kubernetes 往 Borg - Omega 上去（zhao）靠（die），我个人依然认为其最多算整了容的领居家小孩，谈不上正统 Borg 的继承者，所谓第三代调度和编排平台更是无稽之谈。</p><p>人们从 K8s 以为窥视到了 Google 基础设施的全部，而实际上可能只是一小块罢了。从  1 年后的 Borg 论文来看，Borg 给出的是一个超大集群管理的策略，单一个中位数的 cell 大小 10K （ Our median cell size is about 10 k machines after excluding test cells; some are much larger） 就已经超过了目前已知的 K8s 单集群极限 2 倍（5K），这种差距下工程难度和细节天壤之别。当然要说论文最后有一页经验和教训提到了如何通过 Borg 来写 K8s，更像是广告吧。</p><p>当时它的对手们 Marathon 和 Mesos 的组合受制于 Scala 不温不火，长时间运行的容器我没记错的话很久之后才解决，性能也一直是其痛点。Docker Compose 完全就是运维向，更类似于一个 batch jobs 分发工具。这时候的 Docker Swarm 还需要跟其他工具等配合，算是一个自动化工具集。Hashicorp 的 <a href=\"https://link.zhihu.com/?target=https%3A//www.nomadproject.io/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">nomad </a>也得还有 1 年才出生。</p><p>那时候的系统工程师们为了容器落地和使用方 PK 一个容器一个进程还是一个容器多个进程，为了容器网络<a href=\"https://link.zhihu.com/?target=https%3A//github.com/jpetazzo/pipework\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">焦头烂额</a>，为了资源分配和编排绞尽脑汁。K8s 带出来的 Pod 一下子就解决了 2 个问题，即传统多进程结构的业务如何无痛落地容器以及在这种模型下资源尤其是网络怎么办。</p><p>漂亮的一击！</p><p>加上 Google 金字招牌，至少 2014 年年底到 2015 年这个所谓的容器元年 K8s 在业内声势浩大，慢慢的盖过了 Mesos 和 Marathon 的风头。</p><h2>Docker 的反击</h2><p>首先，Docker.Inc 是一家商业公司，基于此我们才能去讨论它在 2015 和 2016 的一些策略，比如 Swarm 合入 Docker daemon （1.12）。</p><p>因为早期 Swarm 的不完善，对竞争对手而言谈不上是个威胁。RedHat 也好，Google 也好，Docker.Inc 也好明面上大家还是在合作做大容器这块蛋糕。但久而久之明眼人都看得出调度和编排才有 to B 变现的可能，仅仅提供一个 daemon 的 docker 更像是富士康那样的血汗工厂，食物链的最底层。旁人不蠢，Docker 公司的人自然也不蠢。于是在 15 到 16 年这段时间内，Docker 开始压宝 Swarm，通过自身当时无与伦比的影响力倾斜了大部分资源在 Swarm 上，势头一时无两。当年选型做调度编排的豆瓣平台组继承者宜信大数据 <a href=\"https://link.zhihu.com/?target=https%3A//laincloud.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">lain</a> 就是选的 Swarm，可见其当时和市场上其他调度编排方案相比，至少是旗鼓相当的。</p><p>再接着，各怀鬼胎的 Redhat，Google 及 Docker 就分道扬镳了，分别在 rkt/docker，cni/cnm，oci 等定义标准的领域斗得你死我活，当然这又是另外一个故事了。至少在当时，Docker 公司坐拥社区声望及事实镜像标准，对抗 Goolge 加红帽明面上不落下风，自家 Swarm 顺风顺水，好不威风。</p><p>渐渐有点飘了的 Docker 公司决定打出最后一张牌，彻底吃下调度和编排的事实标准，那就是 Swarm 合入 Docker，没想到成了压垮骆驼的最后一根稻草。天下苦 docker bug 久已！我不知道当时的他们意识到了没在一个不稳定的 docker daemon 上合并进另外一个不稳定的大系统会给使用者的信心带来多大的打击，一时间<a href=\"https://link.zhihu.com/?target=https%3A//news.ycombinator.com/item%3Fid%3D12364123\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">群情激昂</a>。</p><p>既然已经撕破了脸，红帽和 Google 旋即加大了对旗下各组件的支持程度，Docker 的社区大旗，倒了。这个时候 Mesos 和 Marathon 的组合依然不温不火，Swarm 在其人为高光时刻就是其没落的开始，社区的风向第一次完全吹向了 K8s。CNCF 的出现（和 K8s 1.0 同时宣布）宣告着新一代类似于 OpenStack 联盟的形成，而这个联盟和 Docker 关系已经不大了。</p><h2>尾声</h2><p>事实上在 2016 年我写下 <a href=\"https://link.zhihu.com/?target=https%3A//cmgs.me/life/docker-in-feature\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Docker 的未来</a> 的时候容器战争基本可以预见其最终结果了，回想起来至少是 2017 年这个时间节点上讨论容器调度编排的时候几乎等同于讨论 K8s。</p><p>水能载舟亦能覆舟，谁能想到因为 Docker 公司壮大得那么迅速，同时也败得那么彻底，而引起这一切的仅仅是因为代码质量和一意孤行的市场策略。无论怎样在当前的时空里面，K8s 已经成为了事实标准。它好么？好是好，但离 Borg 还是有一定差距，甚至就纯资源模型上离 Mesos 都很远。它不好么？看看它的对手们，一个只有一条腿的 Mesos，一个风轻云淡的 nomad，一个声名狼藉的 swarm，靠的全是同行的衬托。</p><p>再加上它那个姓谷名歌的二手亲爹，出生的时候躺着就赢了一半了吧。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "互联网", 
+                    "tagLink": "https://api.zhihu.com/topics/19550517"
+                }, 
+                {
+                    "tag": "编程", 
+                    "tagLink": "https://api.zhihu.com/topics/19554298"
+                }, 
+                {
+                    "tag": "云计算", 
+                    "tagLink": "https://api.zhihu.com/topics/19550358"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "没看明白为什么mesos就一条腿了？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "彭哲夫", 
+                            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+                            "content": "没有足够好的上层框架", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "张春雨", 
+                    "userLink": "https://www.zhihu.com/people/40fe14f41a03cbc3148232aa19e87d61", 
+                    "content": "还不开写你的书啊[机智]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "李铭昕", 
+                    "userLink": "https://www.zhihu.com/people/e6e5ded0c8995b75d85fb94caa57e02c", 
+                    "content": "Swarm这么不堪么，我们用着挺好的啊[捂脸]", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "彭哲夫", 
+                            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+                            "content": "并没有…但对手实在太厉害，同时那个年代swarm确实有不足的地方", 
+                            "likes": 0, 
+                            "replyToAuthor": "李铭昕"
+                        }, 
+                        {
+                            "userName": "李铭昕", 
+                            "userLink": "https://www.zhihu.com/people/e6e5ded0c8995b75d85fb94caa57e02c", 
+                            "content": "哦哦", 
+                            "likes": 0, 
+                            "replyToAuthor": "彭哲夫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "swarm的 不稳定（bug多）是公认的吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/55995111", 
+            "userName": "彭哲夫", 
+            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+            "upvote": 32, 
+            "title": "Redis and Cache Cloud", 
+            "content": "<h2><b>前言</b></h2><p>作为 14 年末就已经吃上 Redis cluster 螃蟹的人，大言不惭的说在容器化 Redis cluster 解决方案上也算是国内老司机了，每次换一家公司总会被捉去做类似的 Redis Based Cache Cloud，这次换完公司后也是一样。但我司吧特别正经，无论老司机新司机都得考个科目一，尤其是一些不能说的原因之后不得已和网红 @xiaohanyu 一起做了一整套解决方案的测试。2019 了，希望从此以后不要有人来问这些愚蠢的数据了吧。</p><h2><b>总结</b></h2><ul><li>基准网络测试基于单 Redis Instance，主要对比网络性能差异。物理网络和 SDN（Calico）网络下各 Payload 大小 QPS 几乎一致，SDN 的略低，不过差距不大。Latency 方面 Calico 会带来 1~2 ms 的 overhead，在 Pipeline 模式下更明显，符合预期。</li><ul><li>单 Redis instance  在普通多组 Benchmark 最高可以压到 120K QPS。</li><li>单 Redis instance Pipeline 开启后性能极强，P=20 的时候可以达到 1M QPS 左右，增加 P 值到 160 的时候性能达到峰值 1.8M 不再提升，Latency 随着 P 值增加线性递增，符合预期。</li><li>基准测试下，Redis 单 instance 非 Pipe 100K QPS 左右，pipe 在 1M QPS 左右，为了方便计算，就取为 100K 和 1M。</li><li>基准测试下单 Redis Latency 99.99% 在 2-3ms，Pipeline 模式下略有增加。</li><li>1G 网络下单 Redis Pipeline 测试 100B 数据网卡就会开始跑满（C=300,P=20），吞吐和 latency 明显低于常理值。</li></ul><li> 基于最新的 Codis 3节点基准测试。</li><ul><li>最后一个版本 3.3.2，设置 ncpu （32）似乎是没作用的，高压力下会消耗掉当前机器上所有的 CPU （40 个）。 </li><li>Pipeline 情况下，benchmark 不使用 -r 参数，3 节点只有一个节点的 codis-server 有压力，Payload &gt; 128B 的时候观察到 CPU load 报警，QPS 500K~550K，只有一个 codis-server 明显感到压力，节点 CPU 消耗在 60%。</li><li>Pipeline 情况下，benchmark 使用 -r 会大幅提高 codis 性能，我推测是因为 1024 slots 导致数据均匀度不如原生 Redis Cluster 导致必须使用 r 参数来保证 key 的离散性。使用一个 benchmark 并且设置 r 参数为 100K 的时候，Proxy 能跑到 1.1M QPS 左右，CPU 消耗 70% 左右，3个后端 codis-server 消耗在 40% CPU。此时 redis-benchmark 成为了性能瓶颈。</li><li>Pipeline 情况下，3 benchmark + 使用 random keysize，Proxy 跑满 CPU，QPS 1.5M-1.6M。3个后端CPU 利用率 50%~60%。Proxy 为性能瓶颈。由于 Proxy 到后端走的是 Pipeline，因此根据 2 里面的数字，可以得出 Pipeline 情况下 Codis-proxy 的转发效率在 50% 上下（1.5M/3/1M）。</li><li>Pipeline 情况下，高压力下（&gt;128B Payload）观察到大约万分之一到三的丢包的情况，Latency 会增加一个或者多个 RTO 时间（200ms）。</li><li>非 Pipeline 情况下，Codis 在一个 benchmark 的情况下可以跑到 90K QPS 左右。benchmark 依然是瓶颈。3个 benchmark 可以压满 Proxy，但无论加不加 -r 参数，峰值 QPS 在 175K 左右，无法提高。而这时后端 Codis-server 利用率并不高，Proxy 成为了瓶颈。可以认为以非 pipeline 模式请求 proxy -&gt; codis-server 架构，整体转发率 6%（175K/3/1M）。</li><li>无论哪种模式，Latency 的增加很明显。</li></ul><li>Redis Cluster + Smart Client as proxy，proxy 32 个线程（进程），3个 redis instance 组成集群作为后端，多种 Proxy 对比测试。</li><ul><li>非 Pipeline 情况下 Redis-benchmark 主要是性能瓶颈，单进程最高压力下 Proxy 和后端的 Redis instance 压力都极小，整体 QPS 和单个 Redis instance 差不多，也就是 90K 附近。</li><li>非 Pipeline 情况下多组 Benchmark 可以使得 QPS 提高不少，跑满一种 Proxy 需要 16~24 组 benchmark，此时 QPS 可以达到 1.2M 左右。由于 Proxy 到后端 cluster 走的是 pipeline，可以认为以非 pipeline 模式请求 proxy -&gt; redis-cluster 架构，整体转发效率在 40% 左右（1.2M/3/1M）。</li><li>Pipeline 情况下，单个 benchmark 加不加 r 参数对最终结果影响不大，我推测是因为 16384 个 slots 带来的数据均匀性比 codis 更好。Proxy CPU 消耗在 20% 左右，redis 在 40%。此时 benchmark 为瓶颈，最终 QPS 在 1.1M 左右。</li><li>Pipeline 情况下，3组 benchmark 可以跑满后端的 Redis cluster，最终 QPS 可以达到 2.4M。但此时 Proxy 并未跑满，可以认为 redis cluster 本身成为了瓶颈，此时 proxy 的转发效率可以认为是 80%（2.4M/3/1M）。考虑到 redis cluster gossip 设计带来的额外开销，这种方案在 pipeline 的时候转发效率是极其高效的。</li><li>无论哪种模式 Latency 有显著增加，符合预期，毕竟多一层，但整体上没有 Codis 那么多。</li><li>多种 Proxy 测试结果表明性能上差距不大，至少没有某些开源的 proxy 吹的那么大。</li></ul><li>以上测试如果采用 Docker 绑定 CPU 核应该还会略有提升。</li></ul><h2><b>结论</b></h2><ol><li>考虑到 Codis 已经停止维护，Latency 增加比较明显，并且转发效率并没有那么高，2019 了，该换方案了。</li><li>我们基于 Redis 5.0 源码做了个 patch 使得其增加了一个 proxy 模式做 smart client，省去了自己写协议命令解析和连接管理的部分，对比其他 smart client proxy 可以发现其还有一定的性能提升空间，但各 smart client proxy 的性能差异都比较小。</li><li>Redis Pipeline 模式下性能非常高。</li><li>在大 Payload 并且开启 Pipeline 的情况下网卡容易成为瓶颈。一开始我们在 1G 带宽的机器下做的测试，后来换到了 20G。</li><li>一般来说 Redis instance 越多，Cluster 整体能提供的性能会越高。</li><li>由于 proxy 到 cluster 走的 pipeline，在高压力下 proxy 可以提供不亚于单 redis instance pipeline 的性能。</li></ol><p>看到这里基本就可以关了，如果你对下面的数据不感兴趣的话。</p><h2><b>数据</b></h2><p><b>1. 基准网络测试，分别对比 SDN (Calico) 下和物理网络带来的性能差异，执行 Benchmark 参数为:</b></p><div class=\"highlight\"><pre><code class=\"language-text\">redis-benchmark -h IP -t get,set-c 300 -n 1000000[00] -d$PAYLOAD[-P 20]</code></pre></div><p>执行的机器为 40核，不绑定 CPU，不限制内存数，默认 Snapshot 策略关闭 AOF，1G 带宽。</p><p>注：</p><ul><li>非 Pipeline 情况下测试请求数为 1M。</li><li>Pipeline 情况下测试请求数为 100M。</li></ul><p>可以看到在 1G 带宽下，Pipeline 从 128B 开始跑满整个网卡，SDN （Calico）子网下单个 Instance 平均 Latency 会略高一些，同样 QPS 会略低一些，符合预期。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5096ed4512ceb17be557452886dcc847_b.jpg\" data-size=\"normal\" data-rawwidth=\"1261\" data-rawheight=\"442\" class=\"origin_image zh-lightbox-thumb\" width=\"1261\" data-original=\"https://pic4.zhimg.com/v2-5096ed4512ceb17be557452886dcc847_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1261&#39; height=&#39;442&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1261\" data-rawheight=\"442\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1261\" data-original=\"https://pic4.zhimg.com/v2-5096ed4512ceb17be557452886dcc847_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-5096ed4512ceb17be557452886dcc847_b.jpg\"/><figcaption>单 instance</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-33aa0b8cb2b2ea2b1eb60c38a32e90b8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic1.zhimg.com/v2-33aa0b8cb2b2ea2b1eb60c38a32e90b8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic1.zhimg.com/v2-33aa0b8cb2b2ea2b1eb60c38a32e90b8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-33aa0b8cb2b2ea2b1eb60c38a32e90b8_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-873148dfdfd59d6015acafc41ddaeb9b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-873148dfdfd59d6015acafc41ddaeb9b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-873148dfdfd59d6015acafc41ddaeb9b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-873148dfdfd59d6015acafc41ddaeb9b_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3145e8f6c31600ab2ee61892af2bb32f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-3145e8f6c31600ab2ee61892af2bb32f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-3145e8f6c31600ab2ee61892af2bb32f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3145e8f6c31600ab2ee61892af2bb32f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d57a2b6363cf22e02bc6534a4847539c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic1.zhimg.com/v2-d57a2b6363cf22e02bc6534a4847539c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic1.zhimg.com/v2-d57a2b6363cf22e02bc6534a4847539c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d57a2b6363cf22e02bc6534a4847539c_b.jpg\"/></figure><p><b>2. </b> <b>Codis 基准测试，执行 Benchmark 参数为:</b></p><div class=\"highlight\"><pre><code class=\"language-text\">redis-benchmark -h IP -t get,set-c 300 -n 1000000[0] -r 100000 -d$PAYLOAD[-P 20]</code></pre></div><p>执行的机器为 40核，Codis ncpu 设置为 32，不限制内存数，默认 Snapshot 策略关闭 AOF，1G 带宽。Proxy 单独一台机器，3个 Codis server 分别在 3 台机器上。</p><p>注：</p><ul><li>非 Pipeline 情况下测试请求数为 1M。</li><li>Pipeline 情况下，测试请求数为 10M。</li><li>如果不设置 -r ，Pipeline 情况下 QPS 在 500K~550K 左右。</li></ul><p>Pipeline 情况下从 128B 开始可以观察到 Codis-Proxy 会丢包，最坏 Latency 增加一个 RTO （200ms），大概占比为万分之一到三。同时在这个模式下 Proxy 设置 ncpu 32 但可以观察到 40 个核都有使用。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-c40b7db8073da69242d8b0c828ccafe7_b.jpg\" data-size=\"normal\" data-rawwidth=\"1262\" data-rawheight=\"233\" class=\"origin_image zh-lightbox-thumb\" width=\"1262\" data-original=\"https://pic4.zhimg.com/v2-c40b7db8073da69242d8b0c828ccafe7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1262&#39; height=&#39;233&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1262\" data-rawheight=\"233\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1262\" data-original=\"https://pic4.zhimg.com/v2-c40b7db8073da69242d8b0c828ccafe7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-c40b7db8073da69242d8b0c828ccafe7_b.jpg\"/><figcaption>codis</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-fe13ad3f0229a7ac9f770d4c44728e13_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-fe13ad3f0229a7ac9f770d4c44728e13_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-fe13ad3f0229a7ac9f770d4c44728e13_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-fe13ad3f0229a7ac9f770d4c44728e13_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-71e8aa7f981d9e9f2b2041df621dad7f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-71e8aa7f981d9e9f2b2041df621dad7f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-71e8aa7f981d9e9f2b2041df621dad7f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-71e8aa7f981d9e9f2b2041df621dad7f_b.jpg\"/></figure><p><b>3. </b> <b>Redis Cluster + 已有几种 Smart Client 方案测试，单 Benchmark 执行参数为：</b></p><div class=\"highlight\"><pre><code class=\"language-text\">redis-benchmark -h IP -t get,set-c 300 -n 1000000[0] -r 100000 -d$PAYLOAD[-P 20]</code></pre></div><p>执行的机器为 40核，所有的 Proxy 都设置为 32线程（进程），不限制内存数，默认 Snapshot 策略关闭 AOF，20G 带宽。Proxy 单独一台机器，3个 Redis server 分别在 3 台机器上。</p><p>注：</p><ul><li>非 Pipeline 情况下测试请求数为 1M。</li><li>Pipeline 情况下，测试请求数为 10M。</li></ul><p>在单 Benchmark 的情况下，非 Pipeline Proxy 和 Redis instance 压力均不大，Pipeline 情况下 Redis benchmark 为瓶颈。几种方案并没本质上的性能差距，我们通过改 redis 源码的 proxy 还有一定的优化空间，老牌的 corvus 和 cerberus 表现都很好，predis 的性能表现没宣传得那么漂亮。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c723a6dc0f8cd4551112e976b2cfb191_b.jpg\" data-size=\"normal\" data-rawwidth=\"1261\" data-rawheight=\"865\" class=\"origin_image zh-lightbox-thumb\" width=\"1261\" data-original=\"https://pic2.zhimg.com/v2-c723a6dc0f8cd4551112e976b2cfb191_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1261&#39; height=&#39;865&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1261\" data-rawheight=\"865\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1261\" data-original=\"https://pic2.zhimg.com/v2-c723a6dc0f8cd4551112e976b2cfb191_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c723a6dc0f8cd4551112e976b2cfb191_b.jpg\"/><figcaption>proxies</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6eab9235275dfbd4480329a4394da8bd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-6eab9235275dfbd4480329a4394da8bd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-6eab9235275dfbd4480329a4394da8bd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6eab9235275dfbd4480329a4394da8bd_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-002b02a80b1d4abad104c372d0674b65_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-002b02a80b1d4abad104c372d0674b65_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-002b02a80b1d4abad104c372d0674b65_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-002b02a80b1d4abad104c372d0674b65_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-20165a0f87cc533288b14c4f2046ebaa_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-20165a0f87cc533288b14c4f2046ebaa_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-20165a0f87cc533288b14c4f2046ebaa_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-20165a0f87cc533288b14c4f2046ebaa_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-38785526f82ca789ce2c14e80f92117e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-38785526f82ca789ce2c14e80f92117e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-38785526f82ca789ce2c14e80f92117e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-38785526f82ca789ce2c14e80f92117e_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-38438a29618581b1569161e3c77a1bf3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-38438a29618581b1569161e3c77a1bf3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-38438a29618581b1569161e3c77a1bf3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-38438a29618581b1569161e3c77a1bf3_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-699a526a1d451dfc348c261e761ba8e8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic1.zhimg.com/v2-699a526a1d451dfc348c261e761ba8e8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic1.zhimg.com/v2-699a526a1d451dfc348c261e761ba8e8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-699a526a1d451dfc348c261e761ba8e8_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-98c56bee8844c4bfb8b3d3e1408f6486_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-98c56bee8844c4bfb8b3d3e1408f6486_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-98c56bee8844c4bfb8b3d3e1408f6486_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-98c56bee8844c4bfb8b3d3e1408f6486_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-f7589d54d6282d48d5f2cd79d51e7671_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-f7589d54d6282d48d5f2cd79d51e7671_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-f7589d54d6282d48d5f2cd79d51e7671_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-f7589d54d6282d48d5f2cd79d51e7671_b.jpg\"/></figure><p><b>4. </b> <b>Redis Cluster + 已有几种 Smart Client 方案测试，16 组 Benchmark，</b> <b>执行参数为：</b></p><div class=\"highlight\"><pre><code class=\"language-text\">redis-benchmark -h IP -c 300 -t get,set-d$PAYLOAD-n 3000000 -r 1000000 -p$PORT</code></pre></div><p>执行的机器为 40核，所有的 Proxy 都设置为 32线程（进程），不限制内存数，默认 Snapshot 策略关闭 AOF，20G 带宽。Proxy 单独一台机器，3个 Redis server 分别在 3 台机器上。</p><p>注：</p><ul><li>benchmark/proxy/redis instance CPU 几乎全满。</li><li>非 Pipeline 测试。 </li></ul><p>这个测试可以看到不同方案在接近极限情况下的整体性能。corvus 似乎对非 Pipeline 请求没做过多优化，其他3组都表现不错，QPS 在 800K-1M 左右。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ff49cc3aeb868a56d9c76e15eb7237f4_b.jpg\" data-size=\"normal\" data-rawwidth=\"914\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb\" width=\"914\" data-original=\"https://pic1.zhimg.com/v2-ff49cc3aeb868a56d9c76e15eb7237f4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;914&#39; height=&#39;426&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"914\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"914\" data-original=\"https://pic1.zhimg.com/v2-ff49cc3aeb868a56d9c76e15eb7237f4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ff49cc3aeb868a56d9c76e15eb7237f4_b.jpg\"/><figcaption>16 benchmark</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-37e243b5e1c6308daa00ddb1b1902681_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-37e243b5e1c6308daa00ddb1b1902681_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-37e243b5e1c6308daa00ddb1b1902681_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-37e243b5e1c6308daa00ddb1b1902681_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5ae0abd0bca36531fb5e39944752e219_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-5ae0abd0bca36531fb5e39944752e219_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-5ae0abd0bca36531fb5e39944752e219_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5ae0abd0bca36531fb5e39944752e219_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-436f41686cb2918e8d96d1dc8abce917_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-436f41686cb2918e8d96d1dc8abce917_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-436f41686cb2918e8d96d1dc8abce917_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-436f41686cb2918e8d96d1dc8abce917_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-fa3119314207a51fbc9466ae7f8a5c5d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-fa3119314207a51fbc9466ae7f8a5c5d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-fa3119314207a51fbc9466ae7f8a5c5d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-fa3119314207a51fbc9466ae7f8a5c5d_b.jpg\"/></figure><p>5.<b> Redis Cluster + Redis-proxy vs Codis，多组 Benchmark 目的是达到 Proxy 极限，执行参数为：</b></p><p>redis-benchmark -h IP -t get,set-c 300 -n 1000000 -r 100000 -d$PAYLOAD</p><p>执行的机器为 40核，所有的 Proxy 都设置为 32线程（进程），不限制内存数，默认 Snapshot 策略关闭 AOF，20G 带宽。Proxy 单独一台机器，3个 Backend server 分别在 3 台机器上。</p><p>注：</p><ul><li>1M 非 Pipeline 请求。</li></ul><p>3 Benchmark 的时候 Codis-Proxy 达到 100% CPU，请求数停留在 175K 附近，增加 benchmark 不会带来更高的 QPS。24 Benchmark 的时候 redis-proxy 达到 100% CPU，同时后端 Redis server 达到 100% CPU，峰值 QPS 1M 左右。多 Benchmark 下，Redis-Proxy 的性能优势非常明显，满负载情况下多次测试和单 Redis Pipeline 的 QPS 相差不大。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8284e4f89366089aae536acdf28addb2_b.jpg\" data-size=\"normal\" data-rawwidth=\"912\" data-rawheight=\"273\" class=\"origin_image zh-lightbox-thumb\" width=\"912\" data-original=\"https://pic3.zhimg.com/v2-8284e4f89366089aae536acdf28addb2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;912&#39; height=&#39;273&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"912\" data-rawheight=\"273\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"912\" data-original=\"https://pic3.zhimg.com/v2-8284e4f89366089aae536acdf28addb2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8284e4f89366089aae536acdf28addb2_b.jpg\"/><figcaption>100%</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-3891acd73c7cc1f42d39786ed20f366e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-3891acd73c7cc1f42d39786ed20f366e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic3.zhimg.com/v2-3891acd73c7cc1f42d39786ed20f366e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-3891acd73c7cc1f42d39786ed20f366e_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3be879b088cd23096471a41571811afb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-3be879b088cd23096471a41571811afb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-3be879b088cd23096471a41571811afb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3be879b088cd23096471a41571811afb_b.jpg\"/></figure><p>都看到这了…不给打赏一下？原始数据的话就不给了，各位可以按照我给的参数命令自行复现一下。最后的最后，我司 Cloud 大计刚开始，有兴趣在坡县大展身手的欢迎私信我啊。</p>", 
+            "topic": [
+                {
+                    "tag": "Redis", 
+                    "tagLink": "https://api.zhihu.com/topics/19557280"
+                }, 
+                {
+                    "tag": "信息技术（IT）", 
+                    "tagLink": "https://api.zhihu.com/topics/19556498"
+                }, 
+                {
+                    "tag": "互联网", 
+                    "tagLink": "https://api.zhihu.com/topics/19550517"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "黄光星", 
+                    "userLink": "https://www.zhihu.com/people/1881c69184f69b99a89c4b29c84aade0", 
+                    "content": "刚到garena的来混个脸熟，原来这边redis是这么搞的.", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "彭哲夫", 
+                            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+                            "content": "<p>捂脸，饿了么之前也是这么搞的啊- -</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "黄光星"
+                        }, 
+                        {
+                            "userName": "黄光星", 
+                            "userLink": "https://www.zhihu.com/people/1881c69184f69b99a89c4b29c84aade0", 
+                            "content": "没有用docker，然后用proxy，只不过现在把proxy做到client侧了。", 
+                            "likes": 0, 
+                            "replyToAuthor": "彭哲夫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "0x80", 
+                    "userLink": "https://www.zhihu.com/people/a10fceea8cd04deddc799d582d8f388a", 
+                    "content": "好多人在新加坡啊，举国搬迁[捂脸]", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "彭哲夫", 
+                            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+                            "content": "<p>最近是来了挺多国内的</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "0x80"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "0x80", 
+                    "userLink": "https://www.zhihu.com/people/a10fceea8cd04deddc799d582d8f388a", 
+                    "content": "找机会，一起凑热闹", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "哈啦奎", 
+                    "userLink": "https://www.zhihu.com/people/374bc9fd8ebf936d495eba79522be98e", 
+                    "content": "问下呀，国内garena怎样，知乎上褒贬不一", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "彭哲夫", 
+                            "userLink": "https://www.zhihu.com/people/39b7c956a69d8ca01e3c013ea9a691d1", 
+                            "content": "<p>深圳的 SHOPEE 么</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "哈啦奎"
+                        }, 
+                        {
+                            "userName": "哈啦奎", 
+                            "userLink": "https://www.zhihu.com/people/374bc9fd8ebf936d495eba79522be98e", 
+                            "content": "不是呀，就问上海garena对比国内游戏公司怎样", 
+                            "likes": 0, 
+                            "replyToAuthor": "彭哲夫"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/eureka"
+}

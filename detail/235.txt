@@ -1,0 +1,973 @@
+{
+    "title": "基于梯度的优化：动力系统，控制论", 
+    "description": "介绍对加速梯度算法的解读，从动力系统、微分方程以及控制论等角度看梯度算法，特别是其中的加速机制与原理。不对其中的收敛性证明做具体分析。", 
+    "followers": [
+        "https://www.zhihu.com/people/da-bing-bo-shi-30", 
+        "https://www.zhihu.com/people/sopin", 
+        "https://www.zhihu.com/people/mcmc-1", 
+        "https://www.zhihu.com/people/hong-yao-85-90", 
+        "https://www.zhihu.com/people/KnowThyself", 
+        "https://www.zhihu.com/people/wo-ai-hui-mou-yi-xiao", 
+        "https://www.zhihu.com/people/zhang-chen-62-22", 
+        "https://www.zhihu.com/people/hai-na-bai-chuan-36-24", 
+        "https://www.zhihu.com/people/zhang-yi-72-42-95", 
+        "https://www.zhihu.com/people/zhang-zi-qing-22", 
+        "https://www.zhihu.com/people/dhv5", 
+        "https://www.zhihu.com/people/pao-pao-chen-da-pang", 
+        "https://www.zhihu.com/people/a-meng-1-71", 
+        "https://www.zhihu.com/people/dai-mei-lin", 
+        "https://www.zhihu.com/people/jia-jia-81-7-82", 
+        "https://www.zhihu.com/people/zhang-xiao-kai-93-92", 
+        "https://www.zhihu.com/people/meng-li-san-nian-yi-shi-qiu-1", 
+        "https://www.zhihu.com/people/liu-sheng-91-45", 
+        "https://www.zhihu.com/people/ha-ha-83-14-18", 
+        "https://www.zhihu.com/people/di-la-ke-51", 
+        "https://www.zhihu.com/people/liao-jin-yun", 
+        "https://www.zhihu.com/people/xie-de-quan-33", 
+        "https://www.zhihu.com/people/neospace", 
+        "https://www.zhihu.com/people/wang-da-diao-74", 
+        "https://www.zhihu.com/people/Zweig.S", 
+        "https://www.zhihu.com/people/bei-zhi-95-18", 
+        "https://www.zhihu.com/people/keifon-lee", 
+        "https://www.zhihu.com/people/chen-de-fang", 
+        "https://www.zhihu.com/people/ceng-xiong-92-79", 
+        "https://www.zhihu.com/people/mel-tor", 
+        "https://www.zhihu.com/people/da-qi-wan-cheng-7-6", 
+        "https://www.zhihu.com/people/Ouadriwlor", 
+        "https://www.zhihu.com/people/alimuhamad-50-59", 
+        "https://www.zhihu.com/people/sxb-19", 
+        "https://www.zhihu.com/people/gu-cheng-feng-xue-1", 
+        "https://www.zhihu.com/people/splendiday-12", 
+        "https://www.zhihu.com/people/sha-liao-ba-ji-1hao", 
+        "https://www.zhihu.com/people/devins", 
+        "https://www.zhihu.com/people/freeman-96-88", 
+        "https://www.zhihu.com/people/ray-22-25", 
+        "https://www.zhihu.com/people/wu-kun-yu-81", 
+        "https://www.zhihu.com/people/dx-yan-42", 
+        "https://www.zhihu.com/people/xi-hong-shi-ji-dan-mian-46", 
+        "https://www.zhihu.com/people/cheng-yu-jun-17-4", 
+        "https://www.zhihu.com/people/yu-wei-73-49", 
+        "https://www.zhihu.com/people/yang-ye-79", 
+        "https://www.zhihu.com/people/youngfish42", 
+        "https://www.zhihu.com/people/wei_jin", 
+        "https://www.zhihu.com/people/su-zhi-jun-76", 
+        "https://www.zhihu.com/people/animfanis", 
+        "https://www.zhihu.com/people/healer-listen", 
+        "https://www.zhihu.com/people/shao-nian-2-84", 
+        "https://www.zhihu.com/people/minglu", 
+        "https://www.zhihu.com/people/chirp-11", 
+        "https://www.zhihu.com/people/ha-lou-ng-heng", 
+        "https://www.zhihu.com/people/wang-da-fei-2-66", 
+        "https://www.zhihu.com/people/zhu-forrest", 
+        "https://www.zhihu.com/people/gao-xiao-nan-11", 
+        "https://www.zhihu.com/people/qing-chun-52-89", 
+        "https://www.zhihu.com/people/ke-le-67-17", 
+        "https://www.zhihu.com/people/lxiyin", 
+        "https://www.zhihu.com/people/xiao-fei-23-70-59", 
+        "https://www.zhihu.com/people/liu-jing-chang", 
+        "https://www.zhihu.com/people/chen-zhi-wei-37-90", 
+        "https://www.zhihu.com/people/zou-jian-74", 
+        "https://www.zhihu.com/people/askuyue", 
+        "https://www.zhihu.com/people/tpencil", 
+        "https://www.zhihu.com/people/guang-tai-lang-98", 
+        "https://www.zhihu.com/people/huang-shuai-4", 
+        "https://www.zhihu.com/people/zep-lam-91", 
+        "https://www.zhihu.com/people/zm-guan-hai-yun-yuan", 
+        "https://www.zhihu.com/people/jiapengzhang", 
+        "https://www.zhihu.com/people/he-qiu-ting-98", 
+        "https://www.zhihu.com/people/chen-ni-cai-92", 
+        "https://www.zhihu.com/people/shuang-wu-8", 
+        "https://www.zhihu.com/people/yildhd-wang", 
+        "https://www.zhihu.com/people/yu-feng-83-8", 
+        "https://www.zhihu.com/people/styanddty", 
+        "https://www.zhihu.com/people/scriper-py", 
+        "https://www.zhihu.com/people/zhu-fu-42-34", 
+        "https://www.zhihu.com/people/qing-bo-de-jia-xiang-78", 
+        "https://www.zhihu.com/people/shu-luo-de-yang-guang", 
+        "https://www.zhihu.com/people/anmin-li", 
+        "https://www.zhihu.com/people/qin-fu-luan", 
+        "https://www.zhihu.com/people/ye-xing-29", 
+        "https://www.zhihu.com/people/zuochongyan", 
+        "https://www.zhihu.com/people/shui-wei-he-yan-71", 
+        "https://www.zhihu.com/people/zhao-shi-tao", 
+        "https://www.zhihu.com/people/wang-wei-jun-81-69", 
+        "https://www.zhihu.com/people/vapnik", 
+        "https://www.zhihu.com/people/xsj-18-68", 
+        "https://www.zhihu.com/people/edward-15-1", 
+        "https://www.zhihu.com/people/hei-feng-zhai-de-shan-zei-31", 
+        "https://www.zhihu.com/people/wu-di-20-46", 
+        "https://www.zhihu.com/people/wei-zhi-74-76", 
+        "https://www.zhihu.com/people/liu-yang-46-61-46", 
+        "https://www.zhihu.com/people/ji-xie-ba-ni-guan-zui", 
+        "https://www.zhihu.com/people/cube9700", 
+        "https://www.zhihu.com/people/yu-tou-2-46", 
+        "https://www.zhihu.com/people/findmusic", 
+        "https://www.zhihu.com/people/KungCheng20160413", 
+        "https://www.zhihu.com/people/liu-zi-yang-81", 
+        "https://www.zhihu.com/people/mo-fei-10-41", 
+        "https://www.zhihu.com/people/liu-chao-15", 
+        "https://www.zhihu.com/people/anan-32-53", 
+        "https://www.zhihu.com/people/ma-yu-xiang-4", 
+        "https://www.zhihu.com/people/xiyao-lin", 
+        "https://www.zhihu.com/people/wen-yu-zhi-37", 
+        "https://www.zhihu.com/people/RecursionSheep", 
+        "https://www.zhihu.com/people/a-piece-of-bread", 
+        "https://www.zhihu.com/people/yi-he-shuang-dao-liu", 
+        "https://www.zhihu.com/people/tinythytigerdaddy", 
+        "https://www.zhihu.com/people/sunkworld", 
+        "https://www.zhihu.com/people/Invincible-Spirit", 
+        "https://www.zhihu.com/people/liu-yu-han-58-75-30", 
+        "https://www.zhihu.com/people/johntsemin", 
+        "https://www.zhihu.com/people/bo-shi-81", 
+        "https://www.zhihu.com/people/luozhongbin", 
+        "https://www.zhihu.com/people/bu-wang-chu-xin-11-57", 
+        "https://www.zhihu.com/people/fei-shou-shou-45", 
+        "https://www.zhihu.com/people/tiao-yue-zai-zhang-shang-de-shi-guang", 
+        "https://www.zhihu.com/people/mingminglanglang", 
+        "https://www.zhihu.com/people/echo-27-86", 
+        "https://www.zhihu.com/people/yu-hong-sheng-91", 
+        "https://www.zhihu.com/people/ha-ha-81-13-48", 
+        "https://www.zhihu.com/people/ding-yi-88-84", 
+        "https://www.zhihu.com/people/cheng-long-pku", 
+        "https://www.zhihu.com/people/Leslie1996", 
+        "https://www.zhihu.com/people/li-ying-ru", 
+        "https://www.zhihu.com/people/wei-lai-chen", 
+        "https://www.zhihu.com/people/yao-lai-dian-gu-gu-ma", 
+        "https://www.zhihu.com/people/zq1-89", 
+        "https://www.zhihu.com/people/zhouzhuabin5", 
+        "https://www.zhihu.com/people/wu-zhe-ming", 
+        "https://www.zhihu.com/people/yang-zhi-gang-70-1", 
+        "https://www.zhihu.com/people/beyondthedata", 
+        "https://www.zhihu.com/people/hitljx", 
+        "https://www.zhihu.com/people/zhou-kang-9-28", 
+        "https://www.zhihu.com/people/wang-kuan-57-47", 
+        "https://www.zhihu.com/people/william-43-12-5", 
+        "https://www.zhihu.com/people/zhang-hai-dong-4-39", 
+        "https://www.zhihu.com/people/da-long-mao-25-70", 
+        "https://www.zhihu.com/people/yeu-yang", 
+        "https://www.zhihu.com/people/zhou-er-jin-96", 
+        "https://www.zhihu.com/people/dxws", 
+        "https://www.zhihu.com/people/yang-long-83-54", 
+        "https://www.zhihu.com/people/liao-cao-42-17", 
+        "https://www.zhihu.com/people/tang-long-30-1", 
+        "https://www.zhihu.com/people/shan-xiu-xi-71", 
+        "https://www.zhihu.com/people/shang-ying-zhi-30", 
+        "https://www.zhihu.com/people/nathan-xiong", 
+        "https://www.zhihu.com/people/ma-ji-ke-56", 
+        "https://www.zhihu.com/people/XX.XXXXXXXXXXXXX", 
+        "https://www.zhihu.com/people/thanealex", 
+        "https://www.zhihu.com/people/wang-tian-lu-14", 
+        "https://www.zhihu.com/people/zachary", 
+        "https://www.zhihu.com/people/qiu-zhi-24-3-32", 
+        "https://www.zhihu.com/people/phjinjian", 
+        "https://www.zhihu.com/people/zhang-lei-84-60-65", 
+        "https://www.zhihu.com/people/renxiaobo", 
+        "https://www.zhihu.com/people/zhengnengliang52690", 
+        "https://www.zhihu.com/people/knight5", 
+        "https://www.zhihu.com/people/jeasine-ma", 
+        "https://www.zhihu.com/people/xu-wei-97", 
+        "https://www.zhihu.com/people/liang-wei-93-75", 
+        "https://www.zhihu.com/people/eugene-z", 
+        "https://www.zhihu.com/people/james-13-9", 
+        "https://www.zhihu.com/people/liu-yi-25-9", 
+        "https://www.zhihu.com/people/cao_yue", 
+        "https://www.zhihu.com/people/tao-han-47", 
+        "https://www.zhihu.com/people/sun-wen-92-36", 
+        "https://www.zhihu.com/people/hitiant", 
+        "https://www.zhihu.com/people/jackchou-27", 
+        "https://www.zhihu.com/people/wu-yan-28-99", 
+        "https://www.zhihu.com/people/david-double", 
+        "https://www.zhihu.com/people/scy-70", 
+        "https://www.zhihu.com/people/peng-xu-hao-70", 
+        "https://www.zhihu.com/people/ye-jiu-bai", 
+        "https://www.zhihu.com/people/shuang-kong-xiao-hun-dun", 
+        "https://www.zhihu.com/people/liuyuying-51", 
+        "https://www.zhihu.com/people/sdmlfd1314", 
+        "https://www.zhihu.com/people/she-liang", 
+        "https://www.zhihu.com/people/hai-yang-zhi-xin-23", 
+        "https://www.zhihu.com/people/tang-wei-jie-78", 
+        "https://www.zhihu.com/people/huang-peng-48-2", 
+        "https://www.zhihu.com/people/mo-hen-27-29", 
+        "https://www.zhihu.com/people/zhang-chen-74-99", 
+        "https://www.zhihu.com/people/idionil", 
+        "https://www.zhihu.com/people/ryan-29-68-90", 
+        "https://www.zhihu.com/people/hez-77", 
+        "https://www.zhihu.com/people/xing123-43", 
+        "https://www.zhihu.com/people/ascenoputing", 
+        "https://www.zhihu.com/people/svpersz", 
+        "https://www.zhihu.com/people/ding-run-ze", 
+        "https://www.zhihu.com/people/jerry-zhang-8", 
+        "https://www.zhihu.com/people/pyuxing", 
+        "https://www.zhihu.com/people/qiao-hai-jun", 
+        "https://www.zhihu.com/people/jason-lau-14", 
+        "https://www.zhihu.com/people/wushan-72", 
+        "https://www.zhihu.com/people/gate-tomas", 
+        "https://www.zhihu.com/people/huang-bo-jun-32", 
+        "https://www.zhihu.com/people/zhang-wen-zhi-46-16", 
+        "https://www.zhihu.com/people/qi-che-ren-82", 
+        "https://www.zhihu.com/people/ni-wo-yue-ding-92", 
+        "https://www.zhihu.com/people/lu-zi-long", 
+        "https://www.zhihu.com/people/bonhomiestriker", 
+        "https://www.zhihu.com/people/phillip-60", 
+        "https://www.zhihu.com/people/an-wang-66", 
+        "https://www.zhihu.com/people/luo-di-hu-lu-dong-dong-dong", 
+        "https://www.zhihu.com/people/xu-wen-hua-10", 
+        "https://www.zhihu.com/people/yanleirex", 
+        "https://www.zhihu.com/people/qiu-zhen-8", 
+        "https://www.zhihu.com/people/gin-7-71", 
+        "https://www.zhihu.com/people/duan-xing-99", 
+        "https://www.zhihu.com/people/yang-xiao-meng-51-16", 
+        "https://www.zhihu.com/people/altriaex", 
+        "https://www.zhihu.com/people/AI_CONTROL", 
+        "https://www.zhihu.com/people/chi-ye-zhen-ai-dang", 
+        "https://www.zhihu.com/people/findsixpence", 
+        "https://www.zhihu.com/people/yao-yao-38-49-63", 
+        "https://www.zhihu.com/people/gushan", 
+        "https://www.zhihu.com/people/zhu.hathaway", 
+        "https://www.zhihu.com/people/mzsm-77", 
+        "https://www.zhihu.com/people/lu-fei-15-60", 
+        "https://www.zhihu.com/people/xin-zhuang-xiao-huo", 
+        "https://www.zhihu.com/people/zi-xin-de-yong-sheng", 
+        "https://www.zhihu.com/people/hai-lan-xin", 
+        "https://www.zhihu.com/people/moni-gg", 
+        "https://www.zhihu.com/people/shuyu-cheng", 
+        "https://www.zhihu.com/people/shen-hui-23-5", 
+        "https://www.zhihu.com/people/spqr_sqrt", 
+        "https://www.zhihu.com/people/miao-ni-hui", 
+        "https://www.zhihu.com/people/guan-zhong-fei-wang", 
+        "https://www.zhihu.com/people/michael-47-89", 
+        "https://www.zhihu.com/people/k-moo", 
+        "https://www.zhihu.com/people/si-shi-lou-shi-39", 
+        "https://www.zhihu.com/people/li-jian-qing-53", 
+        "https://www.zhihu.com/people/qian-qiu-xue-16", 
+        "https://www.zhihu.com/people/mosaic-88", 
+        "https://www.zhihu.com/people/tan-jia-zheng", 
+        "https://www.zhihu.com/people/sunqi-15", 
+        "https://www.zhihu.com/people/liu-chang-xin-75", 
+        "https://www.zhihu.com/people/keen-eric", 
+        "https://www.zhihu.com/people/wu-chang-min", 
+        "https://www.zhihu.com/people/shen-yan-4", 
+        "https://www.zhihu.com/people/wang-dong-90-96", 
+        "https://www.zhihu.com/people/chou-suan-xing-zhi", 
+        "https://www.zhihu.com/people/liu-fei-94-95", 
+        "https://www.zhihu.com/people/zhangzhousuper", 
+        "https://www.zhihu.com/people/lingo_", 
+        "https://www.zhihu.com/people/zai-jian-jiang-zhong-zhu-26", 
+        "https://www.zhihu.com/people/zhong-you-dong", 
+        "https://www.zhihu.com/people/xie-zhong-lin-65", 
+        "https://www.zhihu.com/people/boojum", 
+        "https://www.zhihu.com/people/jiang-tao-72", 
+        "https://www.zhihu.com/people/feng-jin-qi", 
+        "https://www.zhihu.com/people/long-gzwen-ran", 
+        "https://www.zhihu.com/people/polyhedra-2", 
+        "https://www.zhihu.com/people/w-www", 
+        "https://www.zhihu.com/people/xia-ming-73-51", 
+        "https://www.zhihu.com/people/max-bay-14-15", 
+        "https://www.zhihu.com/people/huang-dc-88", 
+        "https://www.zhihu.com/people/qin-shi-ming-yue-29"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63473607", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 3, 
+            "title": "基于梯度的优化：CHARLIE BYRNE", 
+            "content": "<p><a href=\"https://link.zhihu.com/?target=http%3A//faculty.uml.edu/cbyrne/cbyrne.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CHARLIE BYRNE</a>退休前任教于University of Massachusetts Lowell，主要研究方向是图像处理和优化算法，发表论文见<a href=\"https://link.zhihu.com/?target=http%3A//faculty.uml.edu/cbyrne/publications.htm\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">faculty.uml.edu/cbyrne/</span><span class=\"invisible\">publications.htm</span><span class=\"ellipsis\"></span></a>。</p><a href=\"https://link.zhihu.com/?target=https%3A//www.researchgate.net/profile/Charles_Byrne\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">researchgate.net/profil</span><span class=\"invisible\">e/Charles_Byrne</span><span class=\"ellipsis\"></span></a><p><a href=\"https://link.zhihu.com/?target=https%3A//www.researchgate.net/publication/269690561_Iterative_Convex_Optimization_Algorithms_Part_One_Using_the_Baillon-Haddad_Theorem\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Iterative Convex Optimization Algorithms; Part One: Using the Baillon–Haddad Theorem</a>，提到Baillon-Haddad定理为不动点方法和迭代优化算法提供了重要的联系。</p><p>Baillon-Haddad定理说一个连续可微的凸函数如果梯度是非扩张的(non-expensive)，那么该梯度一定是严格非扩张的（firmly non-expensive）。</p><p><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/0906.0807\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">The Baillon-Haddad Theorem Revisited</a></p>", 
+            "topic": [
+                {
+                    "tag": "凸优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19602355"
+                }, 
+                {
+                    "tag": "梯度下降", 
+                    "tagLink": "https://api.zhihu.com/topics/19650497"
+                }, 
+                {
+                    "tag": "数学家", 
+                    "tagLink": "https://api.zhihu.com/topics/19558709"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60504966", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 6, 
+            "title": "基于梯度的优化：代理函数与凸化（I）", 
+            "content": "<p>在优化中，代理损失函数（surrogate loss function）作为损失函数的一个替代或近似，往往使不便于计算的损失函数便于计算，非凸函数变为凸函数，主要目的是便于优化，保证计算机能够处理。<a href=\"https://link.zhihu.com/?target=http%3A//sofasofa.io/forum_main_post.php%3Fpostid%3D1000605\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">怎么理解surrogate loss function代理损失函数？</a>给了较好的解释。</p><p>在优化中，许多迭代算法可以看作每次迭代是在优化目标函数的代理函数。在博客<a href=\"https://link.zhihu.com/?target=http%3A//fa.bianp.net/teaching/2018/COMP-652/surrogate.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">A unifying principle: surrogate optimization</a>中，作者称其为优化中的一个统一准则。比如说，梯度下降法就是在优化 <img src=\"https://www.zhihu.com/equation?tex=%5Chat%7Bf%7D%28x%29%3Df%28x%5Ek%29%2B%5Cleft%3C%5Cnabla+f%28x%5Ek%29%2C+x-x%5Ek%5Cright%3E%2B%5Cfrac%7B1%7D%7B2%5Calpha_k%7D%5C%7Cx-x%5Ek%5C%7C%5E2\" alt=\"\\hat{f}(x)=f(x^k)+\\left&lt;\\nabla f(x^k), x-x^k\\right&gt;+\\frac{1}{2\\alpha_k}\\|x-x^k\\|^2\" eeimg=\"1\"/> ，即 <img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D%3D%5Carg%5Cmin_%7Bx%7D%5Chat%7Bf%7D%28x%29%3Dx%5Ek+-+%5Calpha_k+%5Cnabla+f%28x%5Ek%29\" alt=\"x^{k+1}=\\arg\\min_{x}\\hat{f}(x)=x^k - \\alpha_k \\nabla f(x^k)\" eeimg=\"1\"/> ；牛顿法在最小化 <img src=\"https://www.zhihu.com/equation?tex=f%28x%5Ek%29%2B%5Cleft%3C%5Cnabla+f%28x%5Ek%29%2C+x-x%5Ek%5Cright%3E%2B%5Cfrac%7B1%7D%7B2%5Calpha_k%7D%28x-x%5Ek%29H_%7Bx_k%7D%28x-x%5Ek%29\" alt=\"f(x^k)+\\left&lt;\\nabla f(x^k), x-x^k\\right&gt;+\\frac{1}{2\\alpha_k}(x-x^k)H_{x_k}(x-x^k)\" eeimg=\"1\"/> ，即 <img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D%3Dx%5Ek-%5Calpha_k+H_%7Bx_k%7D%5E%7B-1%7D%5Cnabla+f%28x%5Ek%29\" alt=\"x^{k+1}=x^k-\\alpha_k H_{x_k}^{-1}\\nabla f(x^k)\" eeimg=\"1\"/> 其中 <img src=\"https://www.zhihu.com/equation?tex=H_%7Bx_k%7D\" alt=\"H_{x_k}\" eeimg=\"1\"/>是目标函数在 <img src=\"https://www.zhihu.com/equation?tex=x_k\" alt=\"x_k\" eeimg=\"1\"/> 处的Hessian矩阵。</p><p>而拟牛顿法选择了可逆对称矩阵去近似或替代Hessian矩阵。注意到Hessian矩阵一般是正定的。这些替代函数都是关于变量 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 的凸函数：线性函数+平方函数。</p><p>一个自然的想法是平方函数是必须的吗？哪些函数能代替平方函数？镜像梯度和自然梯度法是沿着这条路径的探索。</p><p>如果知道目标函数更高阶导数(higher order derivatives)，能不能构造迭代复杂度更低的算法？论文<a href=\"https://link.zhihu.com/?target=https%3A//www.pnas.org/content/113/47/E7351\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">A variational perspective on accelerated methods in optimization</a>，利用高阶导数信息构造了一种更快的算法，然而却是通过离散Bregman Lagrangian得到的，而不是在代理函数的视角下得到的。</p><p>甚至不利用梯度，能不能找到目标函数的一个替代函数？</p><hr/><p>类似于线性延拓，函数 <img src=\"https://www.zhihu.com/equation?tex=g%28x%29%3AC+%5Crightarrow+%5Cmathbb%7BR%7D+\" alt=\"g(x):C \\rightarrow \\mathbb{R} \" eeimg=\"1\"/> 的x限制在 <img src=\"https://www.zhihu.com/equation?tex=X%5Csubseteq+C\" alt=\"X\\subseteq C\" eeimg=\"1\"/> 上的凸延拓函数 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29\" alt=\"f(x)\" eeimg=\"1\"/> 定义为</p><ul><li><img src=\"https://www.zhihu.com/equation?tex=f%28x%29\" alt=\"f(x)\" eeimg=\"1\"/> 在 <img src=\"https://www.zhihu.com/equation?tex=Conv%28X%29\" alt=\"Conv(X)\" eeimg=\"1\"/> 上是凸函数；</li><li><img src=\"https://www.zhihu.com/equation?tex=f%28x%29%3Dg%28x%29%5Cforall+x%5Cin+X\" alt=\"f(x)=g(x)\\forall x\\in X\" eeimg=\"1\"/> 。</li></ul><p>见<a href=\"https://link.zhihu.com/?target=https%3A//www.mcs.anl.gov/~leyffer/goti/slides/sahinidis.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CONVEX EXTENSIONS</a>。问题的关键在 <img src=\"https://www.zhihu.com/equation?tex=X\" alt=\"X\" eeimg=\"1\"/> 如何选， <img src=\"https://www.zhihu.com/equation?tex=f%28x%29\" alt=\"f(x)\" eeimg=\"1\"/> 如何构造。</p><p>考虑简单的情形 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29%3A%5Cmathbb%7BR%7D%5Cto+%5Cmathbb%7BR%7D\" alt=\"f(x):\\mathbb{R}\\to \\mathbb{R}\" eeimg=\"1\"/> , <img src=\"https://www.zhihu.com/equation?tex=f%28x_1%29%3C+f%28x_2%29%2C+f%28x_3%29%3C+f%28x_2%29%2C+x_1%3Cx_2%3Cx_3\" alt=\"f(x_1)&lt; f(x_2), f(x_3)&lt; f(x_2), x_1&lt;x_2&lt;x_3\" eeimg=\"1\"/> ，很容易构造一个以 <img src=\"https://www.zhihu.com/equation?tex=%EF%BC%88x_2%2Cf%28x_2%29%EF%BC%89\" alt=\"（x_2,f(x_2)）\" eeimg=\"1\"/>为最小点的凸二次函数 <img src=\"https://www.zhihu.com/equation?tex=%5Chat%7Bf%7D%28x%29%3Dax%5E2%2Bbx%2Bc\" alt=\"\\hat{f}(x)=ax^2+bx+c\" eeimg=\"1\"/> 。</p><p>在更一般的情况下，需要先确定所谓的函数的生成集合（<a href=\"https://link.zhihu.com/?target=https%3A//www.mcs.anl.gov/~leyffer/goti/slides/sahinidis.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">THE GENERATING SET OF A FUNCTION</a>），然后利用disjunctive programming技术构造新的函数。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><a href=\"https://link.zhihu.com/?target=https%3A//www.springer.com/la/book/9781402010316\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-3a725e1671713d8530bc75f30aa8b8ec_120x160.jpg\" data-image-width=\"153\" data-image-height=\"232\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Convexification and Global Optimization in Continuous and Mixed-Integer Nonlinear Programming - Theory, Algorithms, Software, and Applications | Mohit Tawarmalani | Springer</a><a href=\"https://link.zhihu.com/?target=https%3A//ascelibrary.org/doi/10.1061/%2528ASCE%2529WR.1943-5452.0000750\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Convexification of Head Loss Equation: Application to Water Distribution System Optimizations</a><a href=\"https://link.zhihu.com/?target=http%3A//projects.laas.fr/vorace/vorace14/acikmese.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">projects.laas.fr/vorace</span><span class=\"invisible\">/vorace14/acikmese.pdf</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=https%3A//lavaei.ieor.berkeley.edu/Power_Flow_Convex_2015.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">lavaei.ieor.berkeley.edu</span><span class=\"invisible\">/Power_Flow_Convex_2015.pdf</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=http%3A//smart.caltech.edu/papers/relaxconvex2parts.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">smart.caltech.edu/paper</span><span class=\"invisible\">s/relaxconvex2parts.pdf</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=https%3A//www.mcs.anl.gov/~leyffer/goti/slides/sahinidis.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">mcs.anl.gov/~leyffer/go</span><span class=\"invisible\">ti/slides/sahinidis.pdf</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=https%3A//www-user.tu-chemnitz.de/~helmberg/workshop04/tawarmalani.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">www-user.tu-chemnitz.de</span><span class=\"invisible\">/~helmberg/workshop04/tawarmalani.pdf</span><span class=\"ellipsis\"></span></a><p></p>", 
+            "topic": [
+                {
+                    "tag": "数值优化", 
+                    "tagLink": "https://api.zhihu.com/topics/20068479"
+                }, 
+                {
+                    "tag": "非凸优化", 
+                    "tagLink": "https://api.zhihu.com/topics/20084164"
+                }, 
+                {
+                    "tag": "运筹学", 
+                    "tagLink": "https://api.zhihu.com/topics/19634329"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//people.eecs.berkeley.edu/%7Ewainwrig/stat241b/lec11.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">people.eecs.berkeley.edu</span><span class=\"invisible\">/~wainwrig/stat241b/lec11.pdf</span><span class=\"ellipsis\"></span></a></p><p><br></p><p><a href=\"http://link.zhihu.com/?target=http%3A//www.cs.huji.ac.il/%7Edaphna/theses/Alon_Cohen_2014.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">cs.huji.ac.il/~daphna/t</span><span class=\"invisible\">heses/Alon_Cohen_2014.pdf</span><span class=\"ellipsis\"></span></a></p><p><br></p><p><a href=\"http://link.zhihu.com/?target=http%3A//dept.stat.lsa.umich.edu/%7Exuanlong/Talks/thesis_talk.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">dept.stat.lsa.umich.edu</span><span class=\"invisible\">/~xuanlong/Talks/thesis_talk.pdf</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//people.cs.umass.edu/%7Eakshay/courses/cs690m/files/lec12.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">people.cs.umass.edu/~ak</span><span class=\"invisible\">shay/courses/cs690m/files/lec12.pdf</span><span class=\"ellipsis\"></span></a></p><p><br></p><p><a href=\"http://link.zhihu.com/?target=http%3A//www.cs.princeton.edu/%7Erlivni/cos511/lectures/lect11.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">cs.princeton.edu/~rlivn</span><span class=\"invisible\">i/cos511/lectures/lect11.pdf</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//www.lix.polytechnique.fr/%7Eliberti/phdthesis.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">lix.polytechnique.fr/~l</span><span class=\"invisible\">iberti/phdthesis.pdf</span><span class=\"ellipsis\"></span></a></p><p><br></p><p><br></p><p><a href=\"http://link.zhihu.com/?target=https%3A//lavaei.ieor.berkeley.edu/Course_IEOR262B_Spring_2018.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">lavaei.ieor.berkeley.edu</span><span class=\"invisible\">/Course_IEOR262B_Spring_2018.html</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//lavaei.ieor.berkeley.edu/Course_IEOR262B_Spring_2019.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">lavaei.ieor.berkeley.edu</span><span class=\"invisible\">/Course_IEOR262B_Spring_2019.html</span><span class=\"ellipsis\"></span></a></p><p><br></p><p>Convexification: Low-rank optimization, conic relaxations, sum-of-squares, hierarchies for mixed-integer problems, etc.</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58826711", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 5, 
+            "title": "基于梯度的优化：松弛(relaxation)、惯性(inertia)与加速", 
+            "content": "<p>在学术界很多方法或概念在不同领域或从不同角度被重复发现或发明，证明它们之间的等价性也是数学家的一大工作。比如，一般的动量法或重球法与Nesterov动力法的之间的区别，在计算数学或其他领域是不是广泛存在的。</p><p>本文将介绍<a href=\"https://link.zhihu.com/?target=http%3A//www.iutzeler.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Franck IUTZELER</a>在这方面的工作，具体见<a href=\"https://link.zhihu.com/?target=http%3A//bipop.inrialpes.fr/people/malick/Docs/15-titan-iutzeler.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">bipop.inrialpes.fr/peop</span><span class=\"invisible\">le/malick/Docs/15-titan-iutzeler.pdf</span><span class=\"ellipsis\"></span></a>，<a href=\"https://link.zhihu.com/?target=http%3A//www.iutzeler.org/pres/osl2017.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">iutzeler.org/pres/osl20</span><span class=\"invisible\">17.pdf</span><span class=\"ellipsis\"></span></a>。目标是就不动点 <img src=\"https://www.zhihu.com/equation?tex=x%3DT%28x%29\" alt=\"x=T(x)\" eeimg=\"1\"/> ，</p><p><img src=\"https://www.zhihu.com/equation?tex=relaxation%3A%5Cbegin%7Bcases%7D+y%5E%7Bk%2B1%7D%3DT%28x%5Ek%29+%5C%5C+x%5E%7Bk%2B1%7D+%3D+y%5E%7Bk%2B1%7D%2B%28%5Cbeta+-1%29%28y%5E%7Bk%2B1%7D-%5Ccolor%7Bred%7D%7Bx%5Ek%7D%29+%5Cend%7Bcases%7D+inertia%3A%5Cbegin%7Bcases%7D+y%5E%7Bk%2B1%7D%3DT%28x%5Ek%29+%5C%5C+x%5E%7Bk%2B1%7D+%3D+y%5E%7Bk%2B1%7D%2B%5Cgamma%28y%5E%7Bk%2B1%7D-%5Ccolor%7Bred%7D%7By%5Ek%7D%29+%5Cend%7Bcases%7D\" alt=\"relaxation:\\begin{cases} y^{k+1}=T(x^k) \\\\ x^{k+1} = y^{k+1}+(\\beta -1)(y^{k+1}-\\color{red}{x^k}) \\end{cases} inertia:\\begin{cases} y^{k+1}=T(x^k) \\\\ x^{k+1} = y^{k+1}+\\gamma(y^{k+1}-\\color{red}{y^k}) \\end{cases}\" eeimg=\"1\"/> </p><p>Nesterov加速梯度法是一种inertia:</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bcases%7D+y%5E%7Bk%2B1%7D%3Dx%5E%7Bk%7D-%5Cmu%5Cnabla+f%28x%5Ek%29%5C%5C+x%5E%7Bk%2B1%7D%3Dy%5E%7Bk%2B1%7D%2B%5Cgamma%28y%5E%7Bk%2B1%7D-y%5Ek%29+%5Cend%7Bcases%7D\" alt=\"\\begin{cases} y^{k+1}=x^{k}-\\mu\\nabla f(x^k)\\\\ x^{k+1}=y^{k+1}+\\gamma(y^{k+1}-y^k) \\end{cases}\" eeimg=\"1\"/> 。</p><p>下列链接对ADMM， FISTA等方法都做松弛(relaxation)或惯性(inertia)的拓展或分析。这是从算子角度来分析其压缩性，不禁想起ADMM中从算子分裂(operator splitting)角度的分析。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://link.zhihu.com/?target=http%3A//bipop.inrialpes.fr/people/malick/Docs/15-titan-iutzeler.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">bipop.inrialpes.fr/peop</span><span class=\"invisible\">le/malick/Docs/15-titan-iutzeler.pdf</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=http%3A//www.iutzeler.org/pres/osl2017.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">iutzeler.org/pres/osl20</span><span class=\"invisible\">17.pdf</span><span class=\"ellipsis\"></span></a><p></p>", 
+            "topic": [
+                {
+                    "tag": "数值优化", 
+                    "tagLink": "https://api.zhihu.com/topics/20068479"
+                }, 
+                {
+                    "tag": "梯度下降", 
+                    "tagLink": "https://api.zhihu.com/topics/19650497"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//blogs.princeton.edu/imabandit/orf523-the-complexities-of-optimization/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">blogs.princeton.edu/ima</span><span class=\"invisible\">bandit/orf523-the-complexities-of-optimization/</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/59282406", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 4, 
+            "title": "基于梯度的优化：投影梯度和牛顿法", 
+            "content": "<p>投影梯度法是求解带有简单约束的连续优化算法，主要是求解 <img src=\"https://www.zhihu.com/equation?tex=%5Cmin_%7Bx%5Cin+S%5Csubset%5Cmathbb%7BR%7D%5Ed%7Df%28x%29\" alt=\"\\min_{x\\in S\\subset\\mathbb{R}^d}f(x)\" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=S\" alt=\"S\" eeimg=\"1\"/> 是凸集。它的基本想法是先沿着下降方向走一步，再判断是否在可行域里，具体迭代公式如下：</p><p><img src=\"https://www.zhihu.com/equation?tex=y%5E%7Bk%2B1%7D%3Dx%5E%7Bk%7D-%5Calpha_k%5Cnabla+f%28x%5E%7Bk%7D%29%5Ctag%7B%E4%B8%8B%E9%99%8D%7D++\" alt=\"y^{k+1}=x^{k}-\\alpha_k\\nabla f(x^{k})\\tag{下降}  \" eeimg=\"1\"/> </p><p><img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D%5Cin%5Carg%5Cmin_%7Bx%5Cin+S%7D%5C%7Cx-y%5E%7Bk%2B1%7D%5C%7C%5E2_2%5Ctag%7B%E6%8A%95%E5%BD%B1%7D\" alt=\"x^{k+1}\\in\\arg\\min_{x\\in S}\\|x-y^{k+1}\\|^2_2\\tag{投影}\" eeimg=\"1\"/> </p><p>投影保证了每次产生的 <img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D\" alt=\"x^{k+1}\" eeimg=\"1\"/> 都在可行域中，而且向凸集的投影是唯一的。</p><p>更多关于投影梯度的理论与算法，不妨看看何炳生教授的讲义<a href=\"https://link.zhihu.com/?target=http%3A//maths.nju.edu.cn/~hebma/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Professor Bingsheng He</a>。</p><p>在投影容易计算时，步长 <img src=\"https://www.zhihu.com/equation?tex=%5Calpha_k\" alt=\"\\alpha_k\" eeimg=\"1\"/> 的选择严重影响收敛速度，在何教授的讲义里有数值算例。</p><p>它也是一种不动点迭代 ,也就是说下一步迭代只与当前步的迭代点有关，与其他迭代点无关：<img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D%3D%5Carg%5Cmin_%7By%5Cin+S%7D%5C%7Cy-%28x%5Ek-%5Calpha_k+%5Cnabla+f%28x%5Ek%29%29%5C%7C%5E2_2%3D%5Cmathbb%7BP%7D_%7BS%7D%28x%5Ek-%5Calpha_k+%5Cnabla+f%28x%5Ek%29%29%E3%80%82\" alt=\"x^{k+1}=\\arg\\min_{y\\in S}\\|y-(x^k-\\alpha_k \\nabla f(x^k))\\|^2_2=\\mathbb{P}_{S}(x^k-\\alpha_k \\nabla f(x^k))。\" eeimg=\"1\"/> </p><p>将Anderson加速应用到该方法上，也应该会有加速的效果。</p><p>在下降步里，没有必要非梯度下降不可，将其替换为牛顿法，就得到了投影牛顿法:</p><blockquote><img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D%3D%5Cmathbb%7BP%7D_%7Bx%5Cin+S%7D%28x%5Ek-%5Calpha_k+H_k%5E%7B-1%7D%5Cnabla+f%28x%5Ek%29%29\" alt=\"x^{k+1}=\\mathbb{P}_{x\\in S}(x^k-\\alpha_k H_k^{-1}\\nabla f(x^k))\" eeimg=\"1\"/> ；</blockquote><p>在投影步里，选择哪种范数或距离，也应该以便于计算为准则。镜像梯度，就是以Bregman散度替换 <img src=\"https://www.zhihu.com/equation?tex=%5C%7C%5Ccdot%5C%7C_2%5E2\" alt=\"\\|\\cdot\\|_2^2\" eeimg=\"1\"/> ，在某些情况下理论上比欧几里得范数的平方要好，比如镜像梯度法( mirror gradient method)。</p><p>结合两者的优点， 可以得到一种广义投影梯度法：</p><blockquote><img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D%3D%5Carg%5Cmin_%7Bx%5Cin+S%7DD_h%28x%2C+x%5Ek-%5Calpha_kH_k%5E%7B-1%7D%5Cnabla+f%28x%5E%7Bk%7D%29%29\" alt=\"x^{k+1}=\\arg\\min_{x\\in S}D_h(x, x^k-\\alpha_kH_k^{-1}\\nabla f(x^{k}))\" eeimg=\"1\"/> 。</blockquote><a href=\"https://link.zhihu.com/?target=http%3A//suvrit.de/papers/sksChap.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">suvrit.de/papers/sksCha</span><span class=\"invisible\">p.pdf</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=http%3A//citeseerx.ist.psu.edu/viewdoc/download%3Fdoi%3D10.1.1.56.4770%26rep%3Drep1%26type%3Dpdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">citeseerx.ist.psu.edu/v</span><span class=\"invisible\">iewdoc/download?doi=10.1.1.56.4770&amp;rep=rep1&amp;type=pdf</span><span class=\"ellipsis\"></span></a><p></p>", 
+            "topic": [
+                {
+                    "tag": "数值优化", 
+                    "tagLink": "https://api.zhihu.com/topics/20068479"
+                }, 
+                {
+                    "tag": "梯度下降", 
+                    "tagLink": "https://api.zhihu.com/topics/19650497"
+                }, 
+                {
+                    "tag": "投影方法", 
+                    "tagLink": "https://api.zhihu.com/topics/19926740"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "tcx", 
+                    "userLink": "https://www.zhihu.com/people/97fa4897dd7db1a1334e942b752be50f", 
+                    "content": "回答专业", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58728914", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 2, 
+            "title": "基于梯度的优化：加速不动点迭代与动量法", 
+            "content": "<p>本文将介绍Anderson加速不动点迭代与最优化中的动量法。</p><p>Anderson加速主要用于求解高维函数的不动点，即求 <img src=\"https://www.zhihu.com/equation?tex=x%3Df%28x%29%2C+f%3A%5Cmathbb%7BR%7D%5E%7Bn%7D%5Cto+%5Cmathbb%7BR%7D%5E%7Bn%7D\" alt=\"x=f(x), f:\\mathbb{R}^{n}\\to \\mathbb{R}^{n}\" eeimg=\"1\"/> 。</p><p>主要想法是选取前m次迭代的线性组合，同时该组合使得残差（residual）尽可能小， <img src=\"https://www.zhihu.com/equation?tex=x%5Ek\" alt=\"x^k\" eeimg=\"1\"/> 处的残差定义为 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathrm%7Be%7D%5Ek+%3Df%28x%5Ek%29-x%5Ek\" alt=\"\\mathrm{e}^k =f(x^k)-x^k\" eeimg=\"1\"/> ，线性组合的系数极小化下列目标函数得到：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Carg%5Cmin_%7B%5Calpha%7D%5Csum_%7Bj%3D1%7D%5E%7Bm%7D%7B%5C%7C%5Calpha_j%5Cmathrm%7Be%7D%5E%7Bk%2B1-j%7D%5C%7C%7D_%7B2%7D%5E%7B2%7D\" alt=\"\\arg\\min_{\\alpha}\\sum_{j=1}^{m}{\\|\\alpha_j\\mathrm{e}^{k+1-j}\\|}_{2}^{2}\" eeimg=\"1\"/> ，使得 <img src=\"https://www.zhihu.com/equation?tex=%5Csum_%7Bi%3D1%7D%5E%7Bm%7D%5Calpha_i%3D1%2C+%5Calpha%3D%28%5Calpha_1%2C%5Calpha_2%2C%5Cdots%2C%5Calpha_m%29\" alt=\"\\sum_{i=1}^{m}\\alpha_i=1, \\alpha=(\\alpha_1,\\alpha_2,\\dots,\\alpha_m)\" eeimg=\"1\"/> 。</p><p>新的迭代点是 <img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D%3D%5Csum_%7Bi%3D1%7D%5E%7Bm%7D%5Calpha_i+f%28x%5E%7Bk%2B1-i%7D%29%3D%5Csum_%7Bi%3D1%7D%5E%7Bm%7D%5Calpha_i+x%5E%7Bk%2B2-i%7D%3D%5Csum_%7Bi%3D0%7D%5E%7Bm%7D%5Calpha_%7Bi%2B1%7D+x%5E%7Bk%2B1-i%7D\" alt=\"x^{k+1}=\\sum_{i=1}^{m}\\alpha_i f(x^{k+1-i})=\\sum_{i=1}^{m}\\alpha_i x^{k+2-i}=\\sum_{i=0}^{m}\\alpha_{i+1} x^{k+1-i}\" eeimg=\"1\"/> 。这种迭代也对应一种常微分方程。</p><p>上述部分来源于<a href=\"https://link.zhihu.com/?target=http%3A//users.jyu.fi/~oljumali/teaching/TIES594/14/fixedpoint.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">users.jyu.fi/~oljumali/</span><span class=\"invisible\">teaching/TIES594/14/fixedpoint.pdf</span><span class=\"ellipsis\"></span></a>。</p><p>我们考虑m=2的情况， <img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D%3D%5Calpha_1+f%28x%5Ek%29+%2B%281-%5Calpha_1%29f%28x%5E%7Bk-1%7D%29%3Df%28x%5E%7Bk%7D%29-%281-%5Calpha_1+%29%28f%28x%5Ek%29-f%28x%5E%7Bk-1%7D%29%29\" alt=\"x^{k+1}=\\alpha_1 f(x^k) +(1-\\alpha_1)f(x^{k-1})=f(x^{k})-(1-\\alpha_1 )(f(x^k)-f(x^{k-1}))\" eeimg=\"1\"/> 。这跟动量法一样，多了“尾巴”，见<a href=\"https://zhuanlan.zhihu.com/p/35323828\" class=\"internal\">赵拓：常见的关于momentum的误解（上）</a>。</p><p>特别的，我们考虑 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29+%3D+x+-%5Calpha%5Cnabla+L%28x%29\" alt=\"f(x) = x -\\alpha\\nabla L(x)\" eeimg=\"1\"/> ，则 有： <img src=\"https://www.zhihu.com/equation?tex=e%5E%7Bk%7D%3D-%5Calpha+%5Cnabla+L%28x%5Ek%29\" alt=\"e^{k}=-\\alpha \\nabla L(x^k)\" eeimg=\"1\"/> , <img src=\"https://www.zhihu.com/equation?tex=%5Calpha_1+%3D%5Carg%5Cmin_%7B%5Calpha_1%7D%7B%5C%7C%5Calpha_1%5Calpha%5Cnabla+L%28x%5Ek%29%2B%281-%5Calpha_1%29%5Calpha+%5Cnabla+L%28x%5E%7Bk-1%7D%29%5C%7C%7D_2%3D%5Carg%5Cmin_%7B%5Calpha_1%7D%7B%5C%7C%5Calpha_1+%5B%5Cnabla+L%28x%5Ek%29-%5Cnabla+L%28x%5E%7Bk-1%7D%29%5D%2B%5Cnabla+L%28x%5E%7Bk-1%7D%29%5C%7C%7D_2\" alt=\"\\alpha_1 =\\arg\\min_{\\alpha_1}{\\|\\alpha_1\\alpha\\nabla L(x^k)+(1-\\alpha_1)\\alpha \\nabla L(x^{k-1})\\|}_2=\\arg\\min_{\\alpha_1}{\\|\\alpha_1 [\\nabla L(x^k)-\\nabla L(x^{k-1})]+\\nabla L(x^{k-1})\\|}_2\" eeimg=\"1\"/> ，新的迭代点 <img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D\" alt=\"x^{k+1}\" eeimg=\"1\"/> 为<img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D+%3D%5Calpha_1+%28x%5Ek-%5Calpha+%5Cnabla+L%28x%5Ek%29%29%2B%281-%5Calpha_1%29%28x%5E%7Bk-1%7D-%5Calpha%5Cnabla+L%28x%5E%7Bk-1%7D%29%29+%5C%5C+%3D+x%5Ek-%5Calpha+%5Cnabla+L%28x%5Ek%29%2B%281-%5Calpha_1%29%5B%28x%5E%7Bk-1%7D-%5Calpha%5Cnabla+L%28x%5E%7Bk-1%7D%29%29-%28x%5Ek-%5Calpha+%5Cnabla+L%28x%5Ek%29%29%5D\" alt=\"x^{k+1} =\\alpha_1 (x^k-\\alpha \\nabla L(x^k))+(1-\\alpha_1)(x^{k-1}-\\alpha\\nabla L(x^{k-1})) \\\\ = x^k-\\alpha \\nabla L(x^k)+(1-\\alpha_1)[(x^{k-1}-\\alpha\\nabla L(x^{k-1}))-(x^k-\\alpha \\nabla L(x^k))]\" eeimg=\"1\"/> </p><h2>这种形式的梯度优化是Nesterov加速梯度法吗？</h2><p>在<a href=\"https://zhuanlan.zhihu.com/p/58507915\" class=\"internal\">张子一：基于梯度的优化：不动点迭代法</a>中，提到要基于 <img src=\"https://www.zhihu.com/equation?tex=x+-%5Calpha+%5Cnabla+L%28x%29\" alt=\"x -\\alpha \\nabla L(x)\" eeimg=\"1\"/> 构造非膨胀映射，需要保证相邻的两项的梯度平行 <img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+L%28x%5E%7Bk%2B1%7D%29%3D%281%2B%5Calpha%29%5Cnabla+L%28x%5Ek%29\" alt=\"\\nabla L(x^{k+1})=(1+\\alpha)\\nabla L(x^k)\" eeimg=\"1\"/> ， 而在Anderson加速中<img src=\"https://www.zhihu.com/equation?tex=%5Calpha_1+%3D%5Carg%5Cmin_%7B%5Calpha_1%7D%7B%5C%7C%5Calpha_1%5Cnabla+L%28x%5Ek%29%2B%281-%5Calpha_1%29+%5Cnabla+L%28x%5E%7Bk-1%7D%29%5C%7C%7D_2\" alt=\"\\alpha_1 =\\arg\\min_{\\alpha_1}{\\|\\alpha_1\\nabla L(x^k)+(1-\\alpha_1) \\nabla L(x^{k-1})\\|}_2\" eeimg=\"1\"/> ，相邻两项梯度平行时最容易计算；注意到 <img src=\"https://www.zhihu.com/equation?tex=%5Calpha_1%3D%5Carg%5Cmin_%7B%5Calpha_1%7D%7B%5C%7C%5Calpha_1%5Cnabla+L%28x%5Ek%29%2B%281-%5Calpha_1%29+%5Cnabla+L%28x%5E%7Bk-1%7D%29%5C%7C%7D_2%5E2+%5C%5C%3D%5Carg%5Cmin_%7Bx%7D%5Calpha_1%5E2%5C%7C%5Cnabla+L%28x%5Ek%29-%5Cnabla+L%28x%5E%7Bk-1%7D%29%5C%7C_2%5E2%2B2%5Calpha_1%5Cleft%3C%5Cnabla+L%28x%5Ek%29-%5Cnabla+L%28x%5E%7Bk-1%7D%29%2C+%5Cnabla+L%28x%5E%7Bk-1%7D%29%5Cright%3E\" alt=\"\\alpha_1=\\arg\\min_{\\alpha_1}{\\|\\alpha_1\\nabla L(x^k)+(1-\\alpha_1) \\nabla L(x^{k-1})\\|}_2^2 \\\\=\\arg\\min_{x}\\alpha_1^2\\|\\nabla L(x^k)-\\nabla L(x^{k-1})\\|_2^2+2\\alpha_1\\left&lt;\\nabla L(x^k)-\\nabla L(x^{k-1}), \\nabla L(x^{k-1})\\right&gt;\" eeimg=\"1\"/> ,得到 <img src=\"https://www.zhihu.com/equation?tex=%5Calpha_1%3D-%5Cfrac%7B%5C%7C%5Cnabla+L%28x%5Ek%29-%5Cnabla+L%28x%5E%7Bk-1%7D%29%5C%7C_2%5E2%7D%7B%5Cleft%3C%5Cnabla+L%28x%5Ek%29-%5Cnabla+L%28x%5E%7Bk-1%7D%29%2C+%5Cnabla+L%28x%5E%7Bk-1%7D%29%5Cright%3E%7D\" alt=\"\\alpha_1=-\\frac{\\|\\nabla L(x^k)-\\nabla L(x^{k-1})\\|_2^2}{\\left&lt;\\nabla L(x^k)-\\nabla L(x^{k-1}), \\nabla L(x^{k-1})\\right&gt;}\" eeimg=\"1\"/> 。</p><p>参考<a href=\"https://link.zhihu.com/?target=http%3A//mitliagkas.github.io/ift6085/ift-6085-lecture-6-notes.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Nesterov’s Accelerated Gradient, Stochastic Gradient Descent</a>，Nesterov加速法可以写为： <img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D%3Dx%5Ek-%5Cgamma+%5Cnabla+L%28x%5Ek%2B%5Cmu%28x%5Ek-x%5E%7Bk-1%7D%29%29%2B%5Cmu%28x%5Ek-x%5E%7Bk-1%7D%29\" alt=\"x^{k+1}=x^k-\\gamma \\nabla L(x^k+\\mu(x^k-x^{k-1}))+\\mu(x^k-x^{k-1})\" eeimg=\"1\"/> ；而Anderson加速的迭代为：</p><p><img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D%3Dx%5Ek-%5Calpha+%5Cnabla+L%28x%5Ek%29%2B%281-%5Calpha_1%29%5Calpha%5B%5Cnabla+L%28x%5Ek%29-%5Cnabla+L%28x%5E%7Bk-1%7D%29%5D%2B%281-%5Calpha_1%29%28x%5E%7Bk-1%7D-x%5Ek%29\" alt=\"x^{k+1}=x^k-\\alpha \\nabla L(x^k)+(1-\\alpha_1)\\alpha[\\nabla L(x^k)-\\nabla L(x^{k-1})]+(1-\\alpha_1)(x^{k-1}-x^k)\" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=%5Calpha_1\" alt=\"\\alpha_1\" eeimg=\"1\"/> 从定义没有看到大小或符号的限制。</p><p>观察两者的异同，可以发现：</p><ul><li>Nesterov加速梯度法中的第二项 <img src=\"https://www.zhihu.com/equation?tex=-%5Cgamma%5Cnabla+L%28x%5E%7Bk%7D%2B%5Cmu%28x%5Ek-x%5E%7Bk-1%7D%29%29\" alt=\"-\\gamma\\nabla L(x^{k}+\\mu(x^k-x^{k-1}))\" eeimg=\"1\"/> 与Anderson 加速中的 <img src=\"https://www.zhihu.com/equation?tex=-%5Calpha+%5Cnabla+L%28x%5Ek%29%2B%281-%5Calpha_1%29%5Calpha%5B%5Cnabla+L%28x%5Ek%29-%5Cnabla+L%28x%5E%7Bk-1%7D%29%5D\" alt=\"-\\alpha \\nabla L(x^k)+(1-\\alpha_1)\\alpha[\\nabla L(x^k)-\\nabla L(x^{k-1})]\" eeimg=\"1\"/> 对应；</li><li>Nesterov加速梯度法中的第三项 <img src=\"https://www.zhihu.com/equation?tex=%5Cmu%28x%5Ek-x%5E%7Bk-1%7D%29\" alt=\"\\mu(x^k-x^{k-1})\" eeimg=\"1\"/> 与Anderson 加速中的 最后一项<img src=\"https://www.zhihu.com/equation?tex=%281-%5Calpha_1%29%28x%5E%7Bk-1%7D-x%5Ek%29\" alt=\"(1-\\alpha_1)(x^{k-1}-x^k)\" eeimg=\"1\"/> 对应.</li><li>如果 <img src=\"https://www.zhihu.com/equation?tex=%5Calpha_1%3E1\" alt=\"\\alpha_1&gt;1\" eeimg=\"1\"/> ，它们的意义或物理解释应该是相同的。</li><li>该方法利用的精确的确定性的梯度信息，推广到随机的梯度或样本梯度信息是否有加速效果尚不清楚。</li></ul><p>才梳学浅，抛砖引玉。</p><hr/><p>更多关于Anderson 加速见下列链接：</p><ul><li> 《Anderson Acceleration for Fixed-Point Iterations》 at <a href=\"https://link.zhihu.com/?target=https%3A//epubs.siam.org/doi/abs/10.1137/10078356X%3FmobileUi%3D0%26\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">https://epubs.siam.org</a>;</li><li><a href=\"https://link.zhihu.com/?target=http%3A//stanford.edu/~boyd/papers/nonexp_global_aa1.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Globally Convergent Type-I Anderson Acceleration for Non-Smooth Fixed-Point Iterations</a>；</li><li><a href=\"https://link.zhihu.com/?target=https%3A//bertini.nd.edu/wampler2017/KelleyTalk.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">bertini.nd.edu/wampler2</span><span class=\"invisible\">017/KelleyTalk.pdf</span><span class=\"ellipsis\"></span></a></li></ul><p></p>", 
+            "topic": [
+                {
+                    "tag": "梯度下降", 
+                    "tagLink": "https://api.zhihu.com/topics/19650497"
+                }, 
+                {
+                    "tag": "数值分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19665355"
+                }, 
+                {
+                    "tag": "数值优化", 
+                    "tagLink": "https://api.zhihu.com/topics/20068479"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>英语好的话，不如直接看链接给的论文</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58710729", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 3, 
+            "title": "基于梯度的优化：动量法是一种不动点迭代吗？", 
+            "content": "<p>在<a href=\"https://zhuanlan.zhihu.com/p/58507915\" class=\"internal\">张子一：基于梯度的优化：不动点迭代法</a>中，从可微无约束优化的必要条件出发，利用不动点迭代方法寻找梯度为零的极值点。对于加速梯度方法，能不能写成不动点迭代的形式？</p><p>对最速下降，对应的不动点方程是 <img src=\"https://www.zhihu.com/equation?tex=x+%3D+x+-%5Calpha+%5Cnabla+f%28x%29\" alt=\"x = x -\\alpha \\nabla f(x)\" eeimg=\"1\"/> ，一般而言 <img src=\"https://www.zhihu.com/equation?tex=x-%5Calpha+%5Cnabla+f%28x%29\" alt=\"x-\\alpha \\nabla f(x)\" eeimg=\"1\"/> 不是压缩映射，不管步长 <img src=\"https://www.zhihu.com/equation?tex=%5Calpha\" alt=\"\\alpha\" eeimg=\"1\"/> 如何设置。为了求解 <img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+f%28x%29+%3D+0\" alt=\"\\nabla f(x) = 0\" eeimg=\"1\"/> ，将加速不动点算法应用到该方程组，我们就得到一种加速的梯度优化方法。</p><p>比如<a href=\"https://link.zhihu.com/?target=https%3A//users.wpi.edu/~walker/Papers/Walker-Ni%2CSINUM%2CV49%2C1715-1735.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ANDERSON ACCELERATION FOR FIXED-POINT ITERATIONS</a>应用到上述问题上，Junzi Zhang ， Brendan O’Donoghue ， Stephen Boyd 有类似的想法<a href=\"https://link.zhihu.com/?target=http%3A//59.80.44.99/web.stanford.edu/~boyd/papers/pdf/scs_2.0_v_global.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Globally Convergent Type-I Anderson Acceleration for Non-Smooth Fixed-Point Iterations</a>。现在将文章摘要翻译如下，希望能引起读者的兴趣，抛砖引玉。</p><p>我们考虑了类型I的 Anderson加速方法用以求解一般的非光滑不动点问题的应用。通过细心调整步长， Powell类型正则化和对强线性相关的更新的重启检测，我们提出了第一个全局收敛的Anderson加速法的变体，只需要假设不动点迭代时非膨胀的（non-expansive)。通过大量的数值实验我们展示了许多一阶方法利用提出的算法得到了改进，特别时在后期收敛（terminal convergence）过程中。 我们提出的加速方法在 SCS 2.0 实现。它是优化算法包 CVXPY 1.0 中的默认求解器。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>文章也对重球法（动量法）有所讨论，也提到需要对这些动量法、Nestrove加速法更彻底的研究。</p><p>另强烈推荐读一下Anderson加速，下面的报告就很有好：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.csm.ornl.gov/workshops/applmath11/documents/posters/Walker_poster.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">csm.ornl.gov/workshops/</span><span class=\"invisible\">applmath11/documents/posters/Walker_poster.pdf</span><span class=\"ellipsis\"></span></a><p></p>", 
+            "topic": [
+                {
+                    "tag": "梯度下降", 
+                    "tagLink": "https://api.zhihu.com/topics/19650497"
+                }, 
+                {
+                    "tag": "数值分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19665355"
+                }, 
+                {
+                    "tag": "数值优化", 
+                    "tagLink": "https://api.zhihu.com/topics/20068479"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>去年8月的文章啊。<a href=\"http://link.zhihu.com/?target=http%3A//web.stanford.edu/%7Eboyd/papers/nonexp_global_aa1.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Globally Convergent Type-I Anderson Acceleration for Non-Smooth Fixed-Point Iterations</a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//arxiv.org/abs/1808.03971v1\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/abs/1808.0397</span><span class=\"invisible\">1v1</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58507915", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 10, 
+            "title": "基于梯度的优化：不动点迭代法", 
+            "content": "<p>在高维非凸情况下，基于梯度的优化方法的加速和收敛性证明，是最近机器学习领域的重要的理论和实际问题。</p><p>对于无约束的优化问题：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Carg%5Cmin_%7Bx%5Cin%5Cmathbb%7BR%7D%5Ed%7D+f%28x%29\" alt=\"\\arg\\min_{x\\in\\mathbb{R}^d} f(x)\" eeimg=\"1\"/> </p><p>而是在高维非凸的情况下，很难找到最优性条件(optimal conditions)，但如果代价函数 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29\" alt=\"f(x)\" eeimg=\"1\"/> 可微，该问题的必要条件广为人知： <img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+f%28x%29+%3D+0\" alt=\"\\nabla f(x) = 0\" eeimg=\"1\"/> 。在非凸优化中，不奢求最优解，退而求其次寻找次优解（sub-optimal solution），寻找局部最优解，寻找极值点并避开鞍点。特别是在有监督学习中，由于泛化能力（generalization）和全局最优解之间的尚不明郎的对应关系，局部最优解足以解决问题。</p><p>不动点迭代方法是为了求方程组的根 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29%3D0\" alt=\"f(x)=0\" eeimg=\"1\"/> ，其等价形式为 <img src=\"https://www.zhihu.com/equation?tex=x%3Dg%28x%29\" alt=\"x=g(x)\" eeimg=\"1\"/> ,则迭代形式为 <img src=\"https://www.zhihu.com/equation?tex=x%5E%7Bk%2B1%7D%3Dg%28x%5Ek%29\" alt=\"x^{k+1}=g(x^k)\" eeimg=\"1\"/> 。将不动点迭代法应用到求解 <img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+f%28x%29++%3D+0\" alt=\"\\nabla f(x)  = 0\" eeimg=\"1\"/> ,就是在求极值点。我们将其改造成 <img src=\"https://www.zhihu.com/equation?tex=x%3Dg%28x%29\" alt=\"x=g(x)\" eeimg=\"1\"/> 的形式：</p><ol><li><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+f%28x%29+%3D+0+%5CRightarrow+x%3Dx-%5Calpha_%7B%28x%29%7D%5Cnabla+f%28x%29\" alt=\"\\nabla f(x) = 0 \\Rightarrow x=x-\\alpha_{(x)}\\nabla f(x)\" eeimg=\"1\"/> ， <img src=\"https://www.zhihu.com/equation?tex=%5Calpha_%7B%28x%29%7D%3A%5Cmathbb%7BR%7D%5E%7Bd%7D%5Cto%5Cmathbb%7BR%7D\" alt=\"\\alpha_{(x)}:\\mathbb{R}^{d}\\to\\mathbb{R}\" eeimg=\"1\"/> ;</li><li><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+f%28x%29+%3D+0+%5CRightarrow+%5Calpha_%7B%28x%29%7D+H%28x%29x%3D+%5Calpha_%7B%28x%29%7D+H%28x%29x-%5Cnabla+f%28x%29%5CRightarrow+x%3Dx+-%5Cfrac%7B1%7D%7B%5Calpha_%7B%28x%29%7D%7DH%5E%7B-1%7D%28x%29%5Cnabla+f%28x%29\" alt=\"\\nabla f(x) = 0 \\Rightarrow \\alpha_{(x)} H(x)x= \\alpha_{(x)} H(x)x-\\nabla f(x)\\Rightarrow x=x -\\frac{1}{\\alpha_{(x)}}H^{-1}(x)\\nabla f(x)\" eeimg=\"1\"/> ;</li><li><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+f%28x%29+%3D+0%5Cimplies+g%28x%29-%5Calpha%28x%29%5Cnabla+f%28x%29+%3D+g%28x%29+%5Cimplies+x+-g%5E%7B-1%7D%28%5Calpha%28x%29%5Cnabla+f%28x%29%29+%3D+x\" alt=\"\\nabla f(x) = 0\\implies g(x)-\\alpha(x)\\nabla f(x) = g(x) \\implies x -g^{-1}(\\alpha(x)\\nabla f(x)) = x\" eeimg=\"1\"/> </li><li><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+f%28x%29+%3D+0%5CRightarrow+%5Calpha_%7B%28x%29%7D+M%28x%29%5Cnabla+f%28x%29+%3D+0%5CRightarrow+x+%3D+x-%5Calpha_%7B%28x%29%7D+M%28x%29%5Cnabla+f%28x%29\" alt=\"\\nabla f(x) = 0\\Rightarrow \\alpha_{(x)} M(x)\\nabla f(x) = 0\\Rightarrow x = x-\\alpha_{(x)} M(x)\\nabla f(x)\" eeimg=\"1\"/> ;</li><li><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+f%28x%29+%3D+0%5Cto+h%28x%29%2Bx+%3D+h%28x%29%2Bx+-%5Calpha_%7B%28x%29%7D%5Cnabla+f%28x%29\" alt=\"\\nabla f(x) = 0\\to h(x)+x = h(x)+x -\\alpha_{(x)}\\nabla f(x)\" eeimg=\"1\"/> .</li></ol><p>(1)对应的是梯度下降；（2）对应的是牛顿法，其中 <img src=\"https://www.zhihu.com/equation?tex=H%28x%29\" alt=\"H(x)\" eeimg=\"1\"/> 是Hessian矩阵；(3)对应镜像梯度法；（4）对应的是拟牛顿法， <img src=\"https://www.zhihu.com/equation?tex=M%28x%29\" alt=\"M(x)\" eeimg=\"1\"/> 是关于 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 的矩阵;</p><p>(5)虽然看起来不是不动点迭代对应的方程，但当 <img src=\"https://www.zhihu.com/equation?tex=h%28x%29%3D++%5Cbegin%7Bcases%7D+0%2C+%26%5Ctext%7Bif+%24x%5Cin+C%5Csubset%5Cmathbb%7BR%7D%5En%24+%7D%5C%5C+%5Cinfty%2C+%26%5Ctext%7Botherwise%7D+%5Cend%7Bcases%7D\" alt=\"h(x)=  \\begin{cases} 0, &amp;\\text{if $x\\in C\\subset\\mathbb{R}^n$ }\\\\ \\infty, &amp;\\text{otherwise} \\end{cases}\" eeimg=\"1\"/>，它对应投影梯度法。只要产生的点还在约束集 <img src=\"https://www.zhihu.com/equation?tex=C\" alt=\"C\" eeimg=\"1\"/> 中， 不影响收缩性质。(4)还可以写成 <img src=\"https://www.zhihu.com/equation?tex=1_%7BC%7Dx%3D1_%7BC%7D%5Bx-%5Calpha%28x%29%5Cnabla+f%28x%29%5D\" alt=\"1_{C}x=1_{C}[x-\\alpha(x)\\nabla f(x)]\" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=1_%7BC%7D%3D+%5Cbegin%7Bcases%7D+1%2C+%26+%5Ctext%7Bif+%24x%5Cin+C%24%7D%5C%5C+0%2C+%26+%5Ctext%7Botherwise%7D+%5Cend%7Bcases%7D\" alt=\"1_{C}= \\begin{cases} 1, &amp; \\text{if $x\\in C$}\\\\ 0, &amp; \\text{otherwise} \\end{cases}\" eeimg=\"1\"/> 。</p><p>在凸优化里，这些方法已经有了收敛性证明；从不同的角度，给出了确定或调整步长 <img src=\"https://www.zhihu.com/equation?tex=%5Calpha\" alt=\"\\alpha\" eeimg=\"1\"/> 方法。</p><p>对于不动点迭代法，关键是要构造一个压缩算子（函数） <img src=\"https://www.zhihu.com/equation?tex=g%28x%29\" alt=\"g(x)\" eeimg=\"1\"/> : </p><p><img src=\"https://www.zhihu.com/equation?tex=%5C%7Cg%28x%29-g%28y%29%5C%7C%5Cleq++c%5C%7Cx-y%5C%7C+\" alt=\"\\|g(x)-g(y)\\|\\leq  c\\|x-y\\| \" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=c\" alt=\"c\" eeimg=\"1\"/> 是小于1的正常数。</p><p>对于不动点迭代法产生的序列 <img src=\"https://www.zhihu.com/equation?tex=%7Bx%5E0%2C+x%5E1%2C+%5Ccdots%2C+x%5E%7Bn%7D%2C%5Ccdots%7D\" alt=\"{x^0, x^1, \\cdots, x^{n},\\cdots}\" eeimg=\"1\"/> , 不断利用压缩性，可以得到下列不等式<img src=\"https://www.zhihu.com/equation?tex=%5C%7Cg%28x%5E%7Bn%2B1%7D%29-g%28x%5E%7Bn%7D%29%5C%7C%5Cle+c%5C%7Cx%5E%7Bn%2B1%7D-x%5E%7Bn%7D%5C%7C%5Cle++c%5E2%5C%7Cx%5E%7Bn%7D-x%5E%7Bn-1%7D%5C%7C%5Ccdots+%5Cle+c%5E%7Bn%2B1%7D%5C%7Cx%5E1-x%5E0%5C%7C.\" alt=\"\\|g(x^{n+1})-g(x^{n})\\|\\le c\\|x^{n+1}-x^{n}\\|\\le  c^2\\|x^{n}-x^{n-1}\\|\\cdots \\le c^{n+1}\\|x^1-x^0\\|.\" eeimg=\"1\"/> </p><p>事实上，这里的距离 <img src=\"https://www.zhihu.com/equation?tex=%5C%7C+%5Ccdot+%5C%7C\" alt=\"\\| \\cdot \\|\" eeimg=\"1\"/> 可以用Bregman 散度替换。</p><hr/><p>对（1）和（4）这两种形式，只要能对凸函数构造出压缩算子，就能找到加速梯度方法。</p><p>考虑（1）这种形式， 假设有如下性质：<img src=\"https://www.zhihu.com/equation?tex=%5C%7Cg%28x%29-g%28y%29%5C%7C_2%5E2+%3D+%5C%7Cx-y%5C%7C+_2%5E2+%2B%5Calpha%5E2%28%5Cnabla+f%28x%29-%5Cnabla+f%28y%29+-2%28x-y%29%29%5ET%28%5Cnabla+f%28x%29-%5Cnabla+f%28y%29%29+++%3C%5C%7Cx-y%5C%7C_2%5E2+%5C%5C++%5CRightarrow+%5Calpha%28%5Cnabla+f%28x%29-%5Cnabla+f%28y%29+-2%28x-y%29%29%5ET%28%5Cnabla+f%28x%29-%5Cnabla+f%28y%29%29+%3C+0\" alt=\"\\|g(x)-g(y)\\|_2^2 = \\|x-y\\| _2^2 +\\alpha^2(\\nabla f(x)-\\nabla f(y) -2(x-y))^T(\\nabla f(x)-\\nabla f(y))   &lt;\\|x-y\\|_2^2 \\\\  \\Rightarrow \\alpha(\\nabla f(x)-\\nabla f(y) -2(x-y))^T(\\nabla f(x)-\\nabla f(y)) &lt; 0\" eeimg=\"1\"/> </p><p>此时， 选择 <img src=\"https://www.zhihu.com/equation?tex=y+%3D+x%2B%5Cnabla+f%28x%29+-%5Cnabla+f%28y%29\" alt=\"y = x+\\nabla f(x) -\\nabla f(y)\" eeimg=\"1\"/> , <img src=\"https://www.zhihu.com/equation?tex=%5Calpha+%3E+0\" alt=\"\\alpha &gt; 0\" eeimg=\"1\"/> ，可以保证不等式成立。然而在实际中，x往往在y之后更新 <img src=\"https://www.zhihu.com/equation?tex=x+%3D+y+-%5Cnabla+f%28x%29+%2B%5Cnabla+f%28y%29%3Dy-%5Calpha+%5Cnabla+f%28y%29\" alt=\"x = y -\\nabla f(x) +\\nabla f(y)=y-\\alpha \\nabla f(y)\" eeimg=\"1\"/> ，由此得到 <img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+f%28x%29+%3D%281%2B%5Calpha%29%5Cnabla+f%28y%29\" alt=\"\\nabla f(x) =(1+\\alpha)\\nabla f(y)\" eeimg=\"1\"/> ，也就是说在 <img src=\"https://www.zhihu.com/equation?tex=y\" alt=\"y\" eeimg=\"1\"/> 迭代的下一步 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 处的梯度要与该 <img src=\"https://www.zhihu.com/equation?tex=y\" alt=\"y\" eeimg=\"1\"/> 处的梯度平行。大多数函数都没有这种性质。一方面，对于（1）这种形式的不动点迭代需另寻他法做就加速。另一方面， Nesterov加速梯度法、动量法似乎并不是一种不动点迭代。</p><p>对于非凸函数， 构造一个类似的压缩算子并不容易，有可能针对某些具体问题，可以构造出这样的算子。</p><hr/><p>下列是关于不动点迭代的一些介绍：</p><ul><li><a href=\"https://link.zhihu.com/?target=http%3A//wwwf.imperial.ac.uk/metric/metric_public/numerical_methods/iteration/fixed_point_iteration.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Numerical Methods: Fixed Point Iteration</a></li><li><a href=\"https://link.zhihu.com/?target=https%3A//cran.r-project.org/web/packages/FixedPoint/vignettes/FixedPoint.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">cran.r-project.org/web/</span><span class=\"invisible\">packages/FixedPoint/vignettes/FixedPoint.pdf</span><span class=\"ellipsis\"></span></a></li></ul><p></p>", 
+            "topic": [
+                {
+                    "tag": "梯度下降", 
+                    "tagLink": "https://api.zhihu.com/topics/19650497"
+                }, 
+                {
+                    "tag": "数值优化", 
+                    "tagLink": "https://api.zhihu.com/topics/20068479"
+                }, 
+                {
+                    "tag": "数值分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19665355"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "木易山水", 
+                    "userLink": "https://www.zhihu.com/people/d4c80bb3b407d869549ecf33689ba16b", 
+                    "content": "第四种形式x怎么更新的？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>投影啊</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "木易山水", 
+                            "userLink": "https://www.zhihu.com/people/d4c80bb3b407d869549ecf33689ba16b", 
+                            "content": "请教这个形式在哪篇文章出来的？示性函数确实和投影梯度有关，但似乎和你这里的形式不一样。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>只是为了凑(1)(2)(3)类似的形式而已。实际上用投影算子的写出投影梯度方法x^{k+1}=P(x^{k}-\\alpha_{k}\\nabla f(x^{k}))，也是（算子）不动点迭代。这种形式我是在临近梯度（proximal gradient）方法中看到的。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "木易山水"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=http%3A//chuan92.com/2016/06/25/fixed-point-iteration-and-gradient-methods\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">不动点迭代和优化方法 ←</a></p><p></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "木易山水", 
+                    "userLink": "https://www.zhihu.com/people/d4c80bb3b407d869549ecf33689ba16b", 
+                    "content": "也就是说在 ￼ 迭代的下一步 ￼ 处的梯度要与该点处的梯度平行。大多数函数都没有这种性质。<br>你这段写的有点混乱，既然大多数函数没有这种性质，又是如何加速的？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "木易山水", 
+                    "userLink": "https://www.zhihu.com/people/d4c80bb3b407d869549ecf33689ba16b", 
+                    "content": "还有个问题，你文章提到“只要能对凸函数构造出压缩算子，就能找到加速梯度方法。”<br>所以你上面提到的四种是传统不动点迭代方法(标题也是这个)，但整个文章的主体似乎在讨论机器学习里的加速梯度方法？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "木易山水", 
+                    "userLink": "https://www.zhihu.com/people/d4c80bb3b407d869549ecf33689ba16b", 
+                    "content": "我都搞不清楚你到底是想介绍不动点还是加速方法了", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57878087", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 5, 
+            "title": "基于梯度的优化： Hedy Attouch", 
+            "content": "<p>Hedy Attouch教授15年就对Nesterov加速的原因有一些讨论：</p><p><a href=\"https://link.zhihu.com/?target=https%3A//epubs.siam.org/doi/abs/10.1137/15M1046095\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">The Rate of Convergence of Nesterov&#39;s Accelerated Forward-Backward Method is Actually Faster Than $1/k^2$</a>。</p><p>而在16年的文章A Differential Equation for Modeling Nesterov&#39;s Accelerated Gradient Method: Theory and Insights， 貌似没有引用该文章。当然这篇文章也不是发表在传统的数学期刊上，但引起了理论计算科学家对优化问题兴趣。</p><p>Hedy 对于优化和动力系统的研究颇具时日，另外的工作比如</p><p><a href=\"https://link.zhihu.com/?target=https%3A//epubs.siam.org/doi/abs/10.1137/130910294\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">A Dynamical Approach to an Inertial Forward-Backward Algorithm for Convex Minimization</a></p><p>他似乎更偏爱把加速梯度方法称为惯性(inertial)梯度方法。此外，18年的引用次数暴涨，恐怕也有加速梯度优化的贡献。2017年，simons基金会资助的项目<a href=\"https://link.zhihu.com/?target=https%3A//simons.berkeley.edu/programs/optimization2017\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Bridging Continuous and Discrete Optimization</a>，也反应了学术的一些动向。</p><p>Hedy Attouch教授的Google学术主页：</p><a href=\"https://link.zhihu.com/?target=https%3A//scholar.google.com/citations%3Fuser%3DpKr252gAAAAJ%26hl%3Dzh-CN\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">scholar.google.com/cita</span><span class=\"invisible\">tions?user=pKr252gAAAAJ&amp;hl=zh-CN</span><span class=\"ellipsis\"></span></a><p>如有人对变分分析(variational analysis)感兴趣，不妨讲讲他在优化与变分分析的工作与贡献。</p>", 
+            "topic": [
+                {
+                    "tag": "梯度下降", 
+                    "tagLink": "https://api.zhihu.com/topics/19650497"
+                }, 
+                {
+                    "tag": "微分方程", 
+                    "tagLink": "https://api.zhihu.com/topics/19694894"
+                }, 
+                {
+                    "tag": "数值优化", 
+                    "tagLink": "https://api.zhihu.com/topics/20068479"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=http%3A//www.aimsciences.org/article/doi/10.3934/eect.2018018\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">aimsciences.org/article</span><span class=\"invisible\">/doi/10.3934/eect.2018018</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//biography.omicsonline.org/france/montpellier-2-university/hedy-attouch-662580\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">biography.omicsonline.org</span><span class=\"invisible\">/france/montpellier-2-university/hedy-attouch-662580</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/48868437", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 2, 
+            "title": "基于梯度的优化: Weijie J. Su", 
+            "content": "<p><a href=\"https://link.zhihu.com/?target=http%3A//stat.wharton.upenn.edu/~suw/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Weijie J. Su</a>是《<b>A Differential Equation for Modeling Nesterov&#39;s Accelerated Gradient Method: Theory and Insights</b>》的第一作者，当年这篇文章引起了大家对梯度法和微分方程之间的兴趣（？）。总之，之后，很多文章会提到它。目前，对于随机梯度，也有类似的观点，即从随机微分方程的角度看随机梯度优化。</p><p>最近，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/search/math%3Fsearchtype%3Dauthor%26query%3DShi%252C%2BB\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Bin Shi</a>, <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/search/math%3Fsearchtype%3Dauthor%26query%3DDu%252C%2BS%2BS\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Simon S. Du</a>, <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/search/math%3Fsearchtype%3Dauthor%26query%3DJordan%252C%2BM%2BI\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Michael I. Jordan</a>, <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/search/math%3Fsearchtype%3Dauthor%26query%3DSu%252C%2BW%2BJ\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Weijie J. Su</a>等合作了</p><ul><li>《<b>Understanding the Acceleration Phenomenon via High-Resolution Differential Equations》；</b></li><li><b>《</b>Acceleration via Symplectic Discretization of High-Resolution Differential Equations<b>》。</b></li></ul><p>算是对基于梯度的优化方法又加了一把火。（自己并不明白，各种数值计算格式，特比是辛优化，而且Jordan的文章算例太过简单。）</p><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://zhuanlan.zhihu.com/p/57331059\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-c2f62570a4b0f6e32bd0d11dde4d605d_180x120.jpg\" data-image-width=\"876\" data-image-height=\"524\" class=\"internal\">量子位：谷歌大脑发现神经网络的“牛顿法”：网络足够宽，就可以简化成线性模型</a><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://link.zhihu.com/?target=http%3A//stat.wharton.upenn.edu/~suw/researchtopic.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Research (by topic)</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "梯度下降", 
+                    "tagLink": "https://api.zhihu.com/topics/19650497"
+                }, 
+                {
+                    "tag": "数值优化", 
+                    "tagLink": "https://api.zhihu.com/topics/20068479"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=http%3A//proceedings.mlr.press/v80/xu18g.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">proceedings.mlr.press/v</span><span class=\"invisible\">80/xu18g.html</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "匿各用户", 
+                    "userLink": "https://www.zhihu.com/people/d67ee185c975baea76cf8d401876f9d3", 
+                    "content": "<p>不错啊，终于有人看到深度网络和经典几何力学的关系了，辛优化用到这里是很自然的，直接从物理中拿来就好。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "xbigot", 
+                    "userLink": "https://www.zhihu.com/people/f246231a72c53c5abcfa5fef5d272d00", 
+                    "content": "<p>随机微分方程角度分析SGD是哪篇文章</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>查一下鄂维南的文章；我读的是《accelerated mirror gradient in continuous time》，顺着作者参考文献，应该能找到</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "xbigot"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p><a href=\"http://link.zhihu.com/?target=http%3A//proceedings.mlr.press/v80/xu18g.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">proceedings.mlr.press/v</span><span class=\"invisible\">80/xu18g.html</span><span class=\"ellipsis\"></span></a></p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "xbigot"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57153703", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 4, 
+            "title": "基于梯度的优化： Micheal I Jordan", 
+            "content": "<p><a href=\"https://link.zhihu.com/?target=https%3A//people.eecs.berkeley.edu/~jordan/publications.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Micheal I Jordan</a> 在基于梯度的优化方法上做了许多工作，2019年在优化上依旧做了很多工作。</p><a href=\"https://link.zhihu.com/?target=http%3A//mcqmc2016.stanford.edu/Jordan-Michael.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">mcqmc2016.stanford.edu/</span><span class=\"invisible\">Jordan-Michael.pdf</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=https%3A//www.sigmetrics.org/sigmetrics2017/MI_Jordan_sigmetrics2017.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">sigmetrics.org/sigmetri</span><span class=\"invisible\">cs2017/MI_Jordan_sigmetrics2017.pdf</span><span class=\"ellipsis\"></span></a><p><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1902.03694.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Acceleration via Symplectic Discretization of High-Resolution Differential Equations</a>是在《辛优化》之后对优化和微分方程离散之间关系的进一步探索。</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19570512"
+                }, 
+                {
+                    "tag": "梯度下降", 
+                    "tagLink": "https://api.zhihu.com/topics/19650497"
+                }, 
+                {
+                    "tag": "随机梯度下降算法", 
+                    "tagLink": "https://api.zhihu.com/topics/20712231"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "潦草", 
+                    "userLink": "https://www.zhihu.com/people/946cb1096bc1a2430ee2d85b949c57b9", 
+                    "content": "看了您的专栏，收获很大，我把Body,Attouch,Jordan它们的文章基本都读过一遍，心中还是有很多困惑，能不能和您交流哈？谢谢！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>我也不过是看过他们的文章，最近的都没看懂。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "潦草"
+                        }, 
+                        {
+                            "userName": "潦草", 
+                            "userLink": "https://www.zhihu.com/people/946cb1096bc1a2430ee2d85b949c57b9", 
+                            "content": "嗯嗯，我也是，有一些问题，方不方便私信，一起讨论哈！", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/45337371", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 2, 
+            "title": "基于梯度的优化（VII）：动力系统，控制论", 
+            "content": "<p>到现在也没讲什么叫基于梯度的优化，个人认为凡是需要计算梯度且依赖梯度的优化方法都可以称为基于梯度的优化，比如下列的连接：</p><a href=\"https://link.zhihu.com/?target=http%3A//adl.stanford.edu/aa222/Lecture_Notes_files/chapter3_gradient.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">adl.stanford.edu/aa222/</span><span class=\"invisible\">Lecture_Notes_files/chapter3_gradient.pdf</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=https%3A//tcsmath.github.io/online/2018/04/06/navigating/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Navigating a convex body online</a><p>，注意这两门课都不是数学系的课程，并不怎么讲证明，好处是容易理解。</p><p>基于梯度的优化，自己理解包括：</p><ol><li>梯度下降或最速下降；</li><li>牛顿法和拟牛顿法；</li><li>投影梯度；</li><li>共轭梯度下降；</li><li>镜像梯度下降，自然梯度下降法；</li><li>加速梯度下降或动量法；</li><li>随机梯度下降。</li></ol><a href=\"https://link.zhihu.com/?target=http%3A//assets.yesstud.io/naturemorte/cache/naturemorte-5490-q80-w1200-h800-rz3-b75.jpg\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">assets.yesstud.io/natur</span><span class=\"invisible\">emorte/cache/naturemorte-5490-q80-w1200-h800-rz3-b75.jpg</span><span class=\"ellipsis\"></span></a><p>在花书《深度学习》中，作者提到：</p><blockquote>1980 年代用于训练神经网络的带动量的随机梯度下降，仍然是现代神经网<br/>络应用中的前沿算法。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>那就先从先从动量法讲起：</p><a href=\"https://link.zhihu.com/?target=https%3A//distill.pub/2017/momentum/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">distill.pub/2017/moment</span><span class=\"invisible\">um/</span><span class=\"ellipsis\"></span></a><a href=\"https://zhuanlan.zhihu.com/p/35323828\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-d7a69920bbd17f8a9698a0c1f1807d16_180x120.jpg\" data-image-width=\"820\" data-image-height=\"174\" class=\"internal\">赵拓：常见的关于momentum的误解（上）</a><a href=\"https://link.zhihu.com/?target=https%3A//blog.paperspace.com/tag/series-optimization/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">blog.paperspace.com/tag</span><span class=\"invisible\">/series-optimization/</span><span class=\"ellipsis\"></span></a><p>几乎所有的证明都是针对凸函数。</p><p><a href=\"https://zhuanlan.zhihu.com/p/36624193\" class=\"internal\">袁洋：SGD在两层神经网络上是怎么收敛的？</a></p><p>分布式/随机优化领域的研究如何开展？ - 刘嘉耿的回答 - 知乎 <a href=\"https://www.zhihu.com/question/59260302/answer/218331666\" class=\"internal\"><span class=\"invisible\">https://www.</span><span class=\"visible\">zhihu.com/question/5926</span><span class=\"invisible\">0302/answer/218331666</span><span class=\"ellipsis\"></span></a></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "凸优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19602355"
+                }, 
+                {
+                    "tag": "优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19570512"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44941987", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 0, 
+            "title": "基于梯度的优化（VI）：动力系统，控制论", 
+            "content": "<p>在<a href=\"https://zhuanlan.zhihu.com/p/44577128\" class=\"internal\">基于梯度的优化（II）：动力系统，控制论</a>，提到Jordan在ICM2018的大会报告。Jordan组有一篇<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1802.03653\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[1802.03653] On Symplectic Optimization</a>，题目直译过来就是《关于辛优化》。文章举例说明了如何利用哈密尔顿动力系统和辛积分的方法离散加速梯度法对应的微分方程。</p><p>而自己在<a href=\"https://link.zhihu.com/?target=https%3A//deeplearn.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Deep Learning Monitor</a>看到<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1809.05042v1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[1809.05042v1] Hamiltonian Descent Methods</a>。</p><p>基于梯度的优化算法吸引更多计算数学界的注意与关注。可惜自己自废武功，以为自己不会涉及偏微分方程。现在看类似的文章，还要回头看PDE相关的东西。自己还是喜欢偏应用的东西，至少要知道应用的背景。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>下列连接给出了多种基于梯度的优化算法的推导：</p><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://link.zhihu.com/?target=https%3A//tcsmath.github.io/online/2018/04/06/navigating/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Navigating a convex body online</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "动力系统（数学概念）", 
+                    "tagLink": "https://api.zhihu.com/topics/19571293"
+                }, 
+                {
+                    "tag": "微分方程", 
+                    "tagLink": "https://api.zhihu.com/topics/19694894"
+                }, 
+                {
+                    "tag": "凸优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19602355"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44629715", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 2, 
+            "title": "基于梯度的优化（IIII）：动力系统，控制论", 
+            "content": "<p></p><p>在上次<a href=\"https://zhuanlan.zhihu.com/p/44625104\" class=\"internal\">张子一：基于梯度的优化（III）：动力系统，控制论</a>，提到Jordan组从变分角度看优化问题，将基于梯度的优化方法看作是某些微分方程的数值解，在数学上给出了简短而统一的视角看优化问题，加深了人们对于优化的理论认识。</p><p>然而大部分证明需要假设目标函数/代价函数是凸函数。由<a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">No free lunch in search and optimization</a>，每种算法都有适用的特定的领域。即便这样，并不是每个微分方程的数值解都能对应某种优化算法。这类文章大多没有给出一些实际问题中的优化问题的算例。这些理论似乎并不能给出新的高效的优化算法。理论并没有有效的指导实践。</p><p>而最近针对深度神经网络，基于后向传播算法，许多实用的优化算法被提了出来。而反向传播算法，据 <a href=\"https://link.zhihu.com/?target=https%3A//www.leiphone.com/news/201804/fGJ32alQQVnBneWJ.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">LeChun</a> 所言与控制论颇有渊源。在CVPV 2018上，考虑到PID控制器与现有优化算法的一些差异，提出了一些新的优化思路。</p><p>一作的感悟：</p><a href=\"https://link.zhihu.com/?target=http%3A//www.sohu.com/a/242354509_297288\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-93623c2df7232e494b8e610943919b3d_120x160.jpg\" data-image-width=\"413\" data-image-height=\"551\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CVPR 2018 | 加速模型收敛的新思路（控制理论+深度学习）</a><p>知乎上<a href=\"https://www.zhihu.com/question/266379600/answer/337506112\" class=\"internal\">徐君的回答</a>。</p><p>文章并没有给出严格的证明，然而借鉴其他领域思想的做法是创新的源泉吧。他山之石，可以攻玉。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>PS: 题图来自<a href=\"https://link.zhihu.com/?target=http%3A//www4.comp.polyu.edu.hk/~csjunxu/paper/pid-cnn_cvpr2018.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">www4.comp.polyu.edu.hk/</span><span class=\"invisible\">~csjunxu/paper/pid-cnn_cvpr2018.pdf</span><span class=\"ellipsis\"></span></a>，版权归原作者所有。如有侵权，敬请联系。</p>", 
+            "topic": [
+                {
+                    "tag": "优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19570512"
+                }, 
+                {
+                    "tag": "控制论", 
+                    "tagLink": "https://api.zhihu.com/topics/19610579"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>PID和优化，不知道有没有严格的理论证明。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//www.ri.cmu.edu/pub_files/pub1/munos_remi_1999_2/munos_remi_1999_2.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">ri.cmu.edu/pub_files/pu</span><span class=\"invisible\">b1/munos_remi_1999_2/munos_remi_1999_2.pdf</span><span class=\"ellipsis\"></span></a></p><p><br></p><p>Gradient Descent Approaches to Neural-Net-Based Solutions of the Hamilton-Jacobi-Bellman Equation</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44625104", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 6, 
+            "title": "基于梯度的优化（III）：动力系统，控制论", 
+            "content": "<p>上次提到Micheal  Jordan 在ICM上的报告：</p><a href=\"https://zhuanlan.zhihu.com/p/44577128\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">张子一：基于梯度的优化（II）：动力系统，控制论</a><p><a href=\"https://link.zhihu.com/?target=http%3A//www.arxiv-sanity.com/1603.04245v1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Arxiv Sanity Preserver</a><a href=\"https://link.zhihu.com/?target=http%3A//www.arxiv-sanity.com/1603.04245v1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Arxiv Sanity Preserver</a>给出了从变分角度（<b>Variational Perspective </b>）看优化问题的一些文章。</p><p>Jordan参与的关于优化的文章见<a href=\"https://link.zhihu.com/?target=https%3A//people.eecs.berkeley.edu/~jordan/optimization.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Optimization</a>，其中<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1802.03653\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[1802.03653] On Symplectic Optimization</a>可以看作是从变分角度看优化的续作。而从2015年的<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1502.02009\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[1502.02009] A General Analysis of the Convergence of ADMM</a>，它们已经开始从ODE的角度看优化的问题;2017年，Jordan在Simons Institute 做了关于基于梯度的优化方法的报告，见</p><a href=\"https://link.zhihu.com/?target=https%3A//simons.berkeley.edu/sites/default/files/docs/6631/simons.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">simons.berkeley.edu/sit</span><span class=\"invisible\">es/default/files/docs/6631/simons.pdf</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3Dft9Abw6VULo\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">youtube.com/watch?</span><span class=\"invisible\">v=ft9Abw6VULo</span><span class=\"ellipsis\"></span></a><p>《加速优化算法的变分观点》的第一作者（<a href=\"https://link.zhihu.com/?target=https%3A//scholar.google.com/citations%3Fuser%3D-PyBcBkAAAAJ%26hl%3Den%26oi%3Dsra\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">scholar.google.com/cita</span><span class=\"invisible\">tions?user=-PyBcBkAAAAJ&amp;hl=en&amp;oi=sra</span><span class=\"ellipsis\"></span></a>），从<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1509.03616\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[1509.03616] On Accelerated Methods in Optimization</a>至少在2015年就开始从变分或动力系统的角度看待优化问题。从参考文献来看，至少得益于当时对Nesterov&#39;s accelerated gradient 的新的理解，包括朱泽园 Zeyuan Allen-Zhu对镜像梯度（Mirror gradient）的工作，对自然梯度的理解，以及 <a href=\"https://link.zhihu.com/?target=http%3A//jmlr.org/papers/volume17/15-084/15-084.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">A differential equation for modeling Nesterov’s accelerated gradient method: Theory and insights</a>。</p><p>朱泽园提出的linear coupling，给出了对于加速梯度算法的一个新的解释，在知乎上也有解读：</p><a href=\"https://zhuanlan.zhihu.com/p/35692553\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-c8fe434f64778fac6b3156477499d7a1_180x120.jpg\" data-image-width=\"800\" data-image-height=\"254\" class=\"internal\">覃含章：Nesterov&#39;s accelerated method：gradient descent &amp; mirror descent的线性耦合</a><p>这篇文章怕是重新激发了大家对镜像梯度的兴趣。</p><p>朱泽园在加速优化算法上做了许多工作，做科研可以说很厉害，比如：<a href=\"https://zhuanlan.zhihu.com/p/44622229\" class=\"internal\">NIPS放榜：谷歌领跑，微软第二，中国小哥4篇一作全球领先</a>。</p><p>PS： 题图来自<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1509.03616.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/pdf/1509.0361</span><span class=\"invisible\">6.pdf</span><span class=\"ellipsis\"></span></a>,版权归原作者所有。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19570512"
+                }, 
+                {
+                    "tag": "梯度下降", 
+                    "tagLink": "https://api.zhihu.com/topics/19650497"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//tlienart.github.io/pub/csml/cvxopt/mda.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Mirror descent algorithm</a></p><p></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44577128", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 1, 
+            "title": "基于梯度的优化（II）：动力系统，控制论", 
+            "content": "<p>2018年国际数学大会（ICM）上， Micheal I. Jordan做了压轴的大会报告<a href=\"https://link.zhihu.com/?target=http%3A//www.icm2018.org/portal/en/plenary-lectures\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Michael Jordan (USA) Dynamical, symplectic and stochastic perspectives on gradient-based optimization</a>。随后，官方的报道对其工作有简短的回顾：“对梯度流及变分角度的机制是应用到此领域的历史潮流。伯克利的同事与Jordan一起合作，建立新的联系，从连续时间变分的角度研究基于梯度的优化(方法)。他的团队也在检验可以产生快速收敛算法的二阶动力系统。”（完整的报道见下列链接：</p><a href=\"https://link.zhihu.com/?target=http%3A//www.icm2018.org/wp/2018/08/09/jordan-on-data-is-there-an-optimal-way-to-optimize/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-e4f71aa7a29608b82c1240c24c001602_180x120.jpg\" data-image-width=\"1280\" data-image-height=\"640\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Jordan on data: Is there an optimal way to optimize?</a><p>其中也给出了ICM上关于深度学习的报道链接。）</p><p>曾在网上，看到过Jordan在Simons Institute做的关于基于梯度优化的一个报告。</p><p>基于梯度的优化方法本来是解决连续的目标函数的优化问题，其形式却是离散的迭代的，而现在有一些工作将其视为某种微分方程的数值解的离散格式。考虑不同微分方程的数值解的性质，解释了不同基于梯度的优化方法的差异。</p><p>PS:题图来自<a href=\"https://link.zhihu.com/?target=http%3A//www.icm2018.org/wp/2018/08/09/jordan-on-data-is-there-an-optimal-way-to-optimize/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">icm2018.org/wp/2018/08/</span><span class=\"invisible\">09/jordan-on-data-is-there-an-optimal-way-to-optimize/</span><span class=\"ellipsis\"></span></a>。侵权必删。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19570512"
+                }, 
+                {
+                    "tag": "凸优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19602355"
+                }, 
+                {
+                    "tag": "动力系统（数学概念）", 
+                    "tagLink": "https://api.zhihu.com/topics/19571293"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>班门弄斧，敬请指正。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44540840", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 2, 
+            "title": "基于梯度的优化：动力系统，控制论", 
+            "content": "<p>知乎上的讨论或资料：</p><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://zhuanlan.zhihu.com/p/43911143\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">量子星图-蜜汁酱：人工智能理论 | 动力系统与优化算法</a><a href=\"https://zhuanlan.zhihu.com/p/35323828\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-d7a69920bbd17f8a9698a0c1f1807d16_180x120.jpg\" data-image-width=\"820\" data-image-height=\"174\" class=\"internal\">赵拓：常见的关于momentum的误解（上）</a><a href=\"https://zhuanlan.zhihu.com/p/27609238\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/equation.jpg\" data-image-width=\"0\" data-image-height=\"0\" class=\"internal\">袁洋：为什么说随机最速下降法(SGD)是一个很好的方法？</a><a href=\"https://zhuanlan.zhihu.com/p/41263068\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-4687ed766d439b64354f9a8632931e4d_ipico.jpg\" data-image-width=\"354\" data-image-height=\"367\" class=\"internal\">涪曌玖霄：梯度系统与梯度算法</a><a href=\"https://www.zhihu.com/question/266379600/answer/337506112\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">CVPR 2018 有什么值得关注的亮点？</a><a href=\"https://zhuanlan.zhihu.com/p/33563623\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/equation.jpg\" data-image-width=\"0\" data-image-height=\"0\" class=\"internal\">2prime：优化算法新观点</a><a href=\"https://zhuanlan.zhihu.com/p/32338983\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/equation.jpg\" data-image-width=\"0\" data-image-height=\"0\" class=\"internal\">Juliuszh：Adam那么棒，为什么还对SGD念念不忘 (3)—— 优化算法的选择与使用策略</a><a href=\"https://zhuanlan.zhihu.com/p/35692553\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-c8fe434f64778fac6b3156477499d7a1_180x120.jpg\" data-image-width=\"800\" data-image-height=\"254\" class=\"internal\">覃含章：Nesterov&#39;s accelerated method：gradient descent &amp; mirror descent的线性耦合</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "控制论", 
+                    "tagLink": "https://api.zhihu.com/topics/19610579"
+                }, 
+                {
+                    "tag": "优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19570512"
+                }, 
+                {
+                    "tag": "动力系统（数学概念）", 
+                    "tagLink": "https://api.zhihu.com/topics/19571293"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"https://zhuanlan.zhihu.com/p/39354316\" class=\"internal\">从动力学角度看随机梯度下降：一些小启示</a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=http%3A//www.sohu.com/a/242354509_297288\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CVPR 2018 | 加速模型收敛的新思路（控制理论+深度学习）</a></p><p></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>反馈控制理论在优化、机器学习等领域有哪些应用？ - Shuang Wu的回答 - 知乎 <a href=\"https://www.zhihu.com/question/276693700/answer/388539284\" class=\"internal\">Shuang Wu：反馈控制理论在优化、机器学习等领域有哪些应用？</a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>反馈控制理论在优化、机器学习等领域有哪些应用？ - pb博的回答 - 知乎 <a href=\"https://www.zhihu.com/question/276693700/answer/397861514\" class=\"internal\">pb博：反馈控制理论在优化、机器学习等领域有哪些应用？</a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"https://zhuanlan.zhihu.com/p/34371297\" class=\"internal\">【学界】Mirror descent: 统一框架下的一阶算法</a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1405.4980.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/pdf/1405.4980</span><span class=\"invisible\">.pdf</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44647273", 
+            "userName": "张子一", 
+            "userLink": "https://www.zhihu.com/people/7376b73525d15286796bca75a066b315", 
+            "upvote": 19, 
+            "title": "基于梯度的优化（V）：动力系统，控制论", 
+            "content": "<p>在<a href=\"https://zhuanlan.zhihu.com/p/44625104\" class=\"internal\">基于梯度的优化（III）：动力系统，控制论</a>中，提到朱泽园的线性耦合, 在知乎上 <a class=\"member_mention\" href=\"https://www.zhihu.com/people/866e63341ae3873b7a4ce0390767dc74\" data-hash=\"866e63341ae3873b7a4ce0390767dc74\" data-hovercard=\"p$b$866e63341ae3873b7a4ce0390767dc74\">@覃含章</a> 在<a href=\"https://zhuanlan.zhihu.com/p/35692553\" class=\"internal\">Nesterov&#39;s accelerated method：gradient descent &amp; mirror descent的线性耦合</a>有较为详细的解读。在2015年博客<a href=\"https://link.zhihu.com/?target=https%3A//blogs.princeton.edu/imabandit/2015/06/30/revisiting-nesterovs-acceleration/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Revisiting Nesterov&#39;s Acceleration</a>，已经总结了当时对于加速梯度下降方法的新的理解，主要侧重于博主Sébastien Bubeck自己的从几何角度看加速优化算法的工作。可惜自己没有明白其中的精要。博主更早有<a href=\"https://link.zhihu.com/?target=https%3A//blogs.princeton.edu/imabandit/2014/03/06/nesterovs-accelerated-gradient-descent-for-smooth-and-strongly-convex-optimization/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Nesterov&#39;s Accelerated Gradient Descent for Smooth and Strongly Convex Optimization</a>。想对凸优化的复杂度有一个系统的了解，不妨看看博主系列博客，以便理解算法的重点。</p><p>线性耦合激发了对加速的镜像梯度的热情，从连续和离散时间上看镜像梯度的性质，比如<a href=\"https://link.zhihu.com/?target=https%3A//papers.nips.cc/paper/5843-accelerated-mirror-descent-in-continuous-and-discrete-time.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Accelerated Mirror Descent in Continuous and Discrete Time</a>。</p><p>研究优化和动力系统的至少还有<a href=\"https://link.zhihu.com/?target=https%3A//scholar.google.com/citations%3Fuser%3DpKr252gAAAAJ%26hl%3Dzh-CN\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Hedy Attouch</a>，其小组有几篇文章集中在讨论基于梯度的优化算法对应的微分方程的解的存在性等理论问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>PS： 个人水平有限，如有谬误，敬请斧正。</p><p>PS:题图来自<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1506.08187.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/pdf/1506.0818</span><span class=\"invisible\">7.pdf</span><span class=\"ellipsis\"></span></a>，版权归原作者所有。如有侵权，敬请联系。</p><p></p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19570512"
+                }, 
+                {
+                    "tag": "动力系统（数学概念）", 
+                    "tagLink": "https://api.zhihu.com/topics/19571293"
+                }, 
+                {
+                    "tag": "梯度下降", 
+                    "tagLink": "https://api.zhihu.com/topics/19650497"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//www.ri.cmu.edu/pub_files/pub1/munos_remi_1999_2/munos_remi_1999_2.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">ri.cmu.edu/pub_files/pu</span><span class=\"invisible\">b1/munos_remi_1999_2/munos_remi_1999_2.pdf</span><span class=\"ellipsis\"></span></a></p><p><a href=\"http://link.zhihu.com/?target=https%3A//www.ri.cmu.edu/publications/gradient-descent-approaches-to-neural-net-based-solutions-of-the-hamilton-jacobi-bellman-equation/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">ri.cmu.edu/publications</span><span class=\"invisible\">/gradient-descent-approaches-to-neural-net-based-solutions-of-the-hamilton-jacobi-bellman-equation/</span><span class=\"ellipsis\"></span></a></p><p></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=http%3A//opt-ml.org/papers.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">opt-ml.org/papers.html</span><span class=\"invisible\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1809.05042v1.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/pdf/1809.0504</span><span class=\"invisible\">2v1.pdf</span><span class=\"ellipsis\"></span></a></p><p>Hamiltonian Descent Methods</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//www.sciencedirect.com/science/article/pii/S0022039696901047\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">sciencedirect.com/scien</span><span class=\"invisible\">ce/article/pii/S0022039696901047</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "木易山水", 
+                    "userLink": "https://www.zhihu.com/people/d4c80bb3b407d869549ecf33689ba16b", 
+                    "content": "配图神马意思呀？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//blogs.princeton.edu/imabandit/2013/04/16/orf523-mirror-descent-part-iii/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">blogs.princeton.edu/ima</span><span class=\"invisible\">bandit/2013/04/16/orf523-mirror-descent-part-iii/</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1024956542621216768"
+}

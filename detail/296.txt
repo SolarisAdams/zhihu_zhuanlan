@@ -1,0 +1,213 @@
+{
+    "title": "BONFY说", 
+    "description": "BONFY 说编程", 
+    "followers": [
+        "https://www.zhihu.com/people/leonardozhu-dicaprio", 
+        "https://www.zhihu.com/people/zuguodelijian-54", 
+        "https://www.zhihu.com/people/ya-wu-54-36", 
+        "https://www.zhihu.com/people/lihongyuers", 
+        "https://www.zhihu.com/people/1pha", 
+        "https://www.zhihu.com/people/woniu-34-25", 
+        "https://www.zhihu.com/people/chj-44-21", 
+        "https://www.zhihu.com/people/kaelzhan", 
+        "https://www.zhihu.com/people/chang-yan-34-59", 
+        "https://www.zhihu.com/people/reseted1508894098816", 
+        "https://www.zhihu.com/people/patrick-lee-4", 
+        "https://www.zhihu.com/people/jcli-run-tao", 
+        "https://www.zhihu.com/people/--help", 
+        "https://www.zhihu.com/people/chao-ji-wu-qi-e", 
+        "https://www.zhihu.com/people/_buruo", 
+        "https://www.zhihu.com/people/ding-dong-dong-70-61", 
+        "https://www.zhihu.com/people/wen-zhi-hong", 
+        "https://www.zhihu.com/people/gengxj", 
+        "https://www.zhihu.com/people/lu-di-qia-qia", 
+        "https://www.zhihu.com/people/ruyuejun", 
+        "https://www.zhihu.com/people/chen-guang-yuan", 
+        "https://www.zhihu.com/people/feng-zhi-ying-gun-jie-59", 
+        "https://www.zhihu.com/people/zhang-zi-hao-45-15", 
+        "https://www.zhihu.com/people/kelei-cao", 
+        "https://www.zhihu.com/people/feng-liang-9-88", 
+        "https://www.zhihu.com/people/zhu-hong-da-85", 
+        "https://www.zhihu.com/people/ni-yu-jue-yi", 
+        "https://www.zhihu.com/people/john-smith-58", 
+        "https://www.zhihu.com/people/zzzz-89-62", 
+        "https://www.zhihu.com/people/firetaker", 
+        "https://www.zhihu.com/people/iweisi", 
+        "https://www.zhihu.com/people/toddlerya", 
+        "https://www.zhihu.com/people/ceng-wei-han-93", 
+        "https://www.zhihu.com/people/woodenrobot", 
+        "https://www.zhihu.com/people/kano-acker", 
+        "https://www.zhihu.com/people/netxfly", 
+        "https://www.zhihu.com/people/ran-rachel", 
+        "https://www.zhihu.com/people/hu-yi-xuan-7", 
+        "https://www.zhihu.com/people/sheng-zhang-27-9", 
+        "https://www.zhihu.com/people/tang-xiao-gang-64", 
+        "https://www.zhihu.com/people/huang-mu-32", 
+        "https://www.zhihu.com/people/alantangwork", 
+        "https://www.zhihu.com/people/tylvyang", 
+        "https://www.zhihu.com/people/luoweisong", 
+        "https://www.zhihu.com/people/liu-meng-yin-68", 
+        "https://www.zhihu.com/people/gebierge", 
+        "https://www.zhihu.com/people/vtan-89", 
+        "https://www.zhihu.com/people/spearous", 
+        "https://www.zhihu.com/people/li-zhe-20-32", 
+        "https://www.zhihu.com/people/teng-ma-7-84", 
+        "https://www.zhihu.com/people/da-chao-ge-88", 
+        "https://www.zhihu.com/people/zhang-xiong-46-98", 
+        "https://www.zhihu.com/people/c-tomato", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/diamond007", 
+        "https://www.zhihu.com/people/wang-jing-bo-27-88"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/48207236", 
+            "userName": "bonfy", 
+            "userLink": "https://www.zhihu.com/people/ff3d4dde867faf01648c96ba528dac62", 
+            "upvote": 37, 
+            "title": "Go-Mega Go Web 开发教程分享", 
+            "content": "<p></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-951294047b45f1fc9ef0861ec997d6fc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"286\" data-rawheight=\"458\" class=\"content_image\" width=\"286\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;286&#39; height=&#39;458&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"286\" data-rawheight=\"458\" class=\"content_image lazy\" width=\"286\" data-actualsrc=\"https://pic1.zhimg.com/v2-951294047b45f1fc9ef0861ec997d6fc_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>本教程分16个章节，详细讲述了一个网站从设计、数据库到最后部署的整个过程，并提供各章节的代码，还有页面展示，写的相当用心，总共耗时2个月，于10月底完成并发布在Github上。如果对Go Web 开发有兴趣的同学还是可以去看下，里面都是纯干货。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>教程地址:</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/bonfy/go-mega\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-b6413ed0873ce413dcdfd048c8c8e205_ipico.jpg\" data-image-width=\"400\" data-image-height=\"400\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">bonfy/go-mega</a><p>展示页面： <a href=\"https://link.zhihu.com/?target=https%3A//go-mega.herokuapp.com/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">go-mega.herokuapp.com/</span><span class=\"invisible\"></span></a></p><h2>初衷</h2><p>想起我当时入门 Python Web 的时候也是看了当时 <a href=\"https://link.zhihu.com/?target=https%3A//blog.miguelgrinberg.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Miguel Grinberg</a> 的博客，按照他的教程一步一步搭建最简单的博客，再到自己去研究 <b>Flask</b> 源码以及其他的 Web 框架。</p><p>目前由于工作需要，我经常要用 <b>Go</b> 开发Web应用，也积攒了一些经验和方法，所以就想模仿 <a href=\"https://link.zhihu.com/?target=https%3A//blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">The Flask Mega-Tutorial教程</a> 来编写一套 <b>Go</b> 的 Web 教程。</p><p>本书的目录我尽量和 The Flask Mega 保持一致，不过对于有些章节也会酌情删减。</p><h2>Go语言的优势</h2><p>Go语言写Web程序还是有相当多的优势的，这里就简单列几个，大家可以慢慢体会</p><ul><li>原生 net/http 支持，可以不需要依赖于第三方包</li><li>底层 goroutine，高并发</li><li>静态语言编译，高效</li><li>特殊的 error 处理机制，基本上一次编译成功，后面很少出错</li><li>编译之后二进制，易于部署</li></ul><h2>章节概览</h2><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-72a33a35cdf284581a41114333df7c3b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1610\" data-rawheight=\"1668\" class=\"origin_image zh-lightbox-thumb\" width=\"1610\" data-original=\"https://pic4.zhimg.com/v2-72a33a35cdf284581a41114333df7c3b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1610&#39; height=&#39;1668&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1610\" data-rawheight=\"1668\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1610\" data-original=\"https://pic4.zhimg.com/v2-72a33a35cdf284581a41114333df7c3b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-72a33a35cdf284581a41114333df7c3b_b.jpg\"/></figure><h2>支持</h2><p>如果您感觉有收获，欢迎到Github给我点个赞吧，谢谢各位支持。</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "Go 编程", 
+                    "tagLink": "https://api.zhihu.com/topics/20052037"
+                }, 
+                {
+                    "tag": "Web 开发", 
+                    "tagLink": "https://api.zhihu.com/topics/19550516"
+                }, 
+                {
+                    "tag": "GitHub", 
+                    "tagLink": "https://api.zhihu.com/topics/19566035"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "zzzZ", 
+                    "userLink": "https://www.zhihu.com/people/f275a3bab569e27303c986d2a807d073", 
+                    "content": "非常感谢这个教程", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "flutter", 
+                    "userLink": "https://www.zhihu.com/people/9fbdce82fec4e374a860fd574423a4cf", 
+                    "content": "已star不错感觉可以不用按照flask来，毕竟go的模板孱弱，以及现在前后端分离大趋势下专注讲解接口设计可能更适宜go本身", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "JC李润涛", 
+                            "userLink": "https://www.zhihu.com/people/60eedfe4d1c255606f5298a9537bc5ab", 
+                            "content": "其实我也觉得前后端分离更好", 
+                            "likes": 0, 
+                            "replyToAuthor": "flutter"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "圆衡", 
+                    "userLink": "https://www.zhihu.com/people/087e2b239f0166272ea783224a1cc388", 
+                    "content": "<p>很棒的教程！</p><p>碰到个问题。 02-Template Basic，模板地址错误，报异常。最好处理下异常。</p><p>tpl, _ := template.ParseFiles(\"templates/index.html\")<br>tpl.Execute(w, &amp;v)</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "bonfy", 
+                            "userLink": "https://www.zhihu.com/people/ff3d4dde867faf01648c96ba528dac62", 
+                            "content": "<p>每张赴代码的 你看看第二章的是 <a href=\"http://link.zhihu.com/?target=https%3A//github.com/bonfy/go-mega-code/tree/02-Template\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">bonfy/go-mega-code</a></p><p><br></p><p>另外 有问题去 Github 上提 Issue 吧，这里不是经常看</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "圆衡"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "JC李润涛", 
+                    "userLink": "https://www.zhihu.com/people/60eedfe4d1c255606f5298a9537bc5ab", 
+                    "content": "和go web实战对比着看", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/45624495", 
+            "userName": "bonfy", 
+            "userLink": "https://www.zhihu.com/people/ff3d4dde867faf01648c96ba528dac62", 
+            "upvote": 42, 
+            "title": "分享自制的 Leetcode Solution 下载器，给爱刷题的朋友", 
+            "content": "<h2><b><i>概述</i></b></h2><p>经常刷Leetcode的同学是不是很想把上面刷得题下载下来顺便更新到自己的Github上，正好我写了个工具，可以帮你解决这个问题。我们先来看看效果图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-517d5e3f2759e8c71681796e4af1f9c7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2880\" data-rawheight=\"1800\" class=\"origin_image zh-lightbox-thumb\" width=\"2880\" data-original=\"https://pic4.zhimg.com/v2-517d5e3f2759e8c71681796e4af1f9c7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2880&#39; height=&#39;1800&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2880\" data-rawheight=\"1800\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2880\" data-original=\"https://pic4.zhimg.com/v2-517d5e3f2759e8c71681796e4af1f9c7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-517d5e3f2759e8c71681796e4af1f9c7_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>如果你想更real的观看，那么就去这个repo瞅一瞅:</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/bonfy/leetcode\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-b6413ed0873ce413dcdfd048c8c8e205_ipico.jpg\" data-image-width=\"400\" data-image-height=\"400\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">bonfy/leetcode</a><h2><b><i>如何使用</i></b></h2><p>安装 <code>selenium</code> 和 <code>chromedriver</code></p><blockquote>这个虽然不是最好的办法，不过由于 Leetcode 经常改Login Page,而且对csrftoken进行加密，所以我只能通过模拟浏览器登陆来绕过csrftoken，如果有人能破解csrftoken的加密，我可以改回requests登陆</blockquote><p>Mac 用户可以通过 Homebrew 安装 <code>Chromedriver</code> </p><div class=\"highlight\"><pre><code class=\"language-text\">$ brew install chromedriver</code></pre></div><p>Centos 通过 yum 安装 <code>chromedriver</code></p><div class=\"highlight\"><pre><code class=\"language-text\"># Install chromium\n$ sudo yum install -y chromium\n\n# Install chromedriver\n$ yum install -y chromedriver\n\n# soft link\n$ ln -s /usr/bin/chromedriver /usr/local/bin/chromedriver</code></pre></div><p>安装必要的Python包: <code>requests</code>, <code>pyquery</code>,<code>selenium</code></p><div class=\"highlight\"><pre><code class=\"language-text\">$ pyvenv venv   # create virtual environment\n$ source venv/bin/activate\n$ pip3 install -r req.txt</code></pre></div><p>如果你用 Pipenv</p><div class=\"highlight\"><pre><code class=\"language-text\">$ pipenv install</code></pre></div><h2>配置文件:</h2><p>在 <b>config.cfg.example</b> 文件中编辑你自己的 username, password, language 和 repo  并将它重命名成 <b>config.cfg</b>.</p><p>driverpath - 提供你自己机子的chromedriver路径</p><div class=\"highlight\"><pre><code class=\"language-text\">[leetcode]\n\nusername = username\npassword = password\nlanguage = python\nrepo = https://github.com/bonfy/leetcode\ndriverpath = /usr/local/bin/chromedriver</code></pre></div><h2>运行</h2><div class=\"highlight\"><pre><code class=\"language-text\">python3 leetcode_generate.py</code></pre></div><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ca3c51ab819914e0a1172a021f878be5_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"567\" data-rawheight=\"448\" data-thumbnail=\"https://pic2.zhimg.com/v2-ca3c51ab819914e0a1172a021f878be5_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"567\" data-original=\"https://pic2.zhimg.com/v2-ca3c51ab819914e0a1172a021f878be5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;567&#39; height=&#39;448&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"567\" data-rawheight=\"448\" data-thumbnail=\"https://pic2.zhimg.com/v2-ca3c51ab819914e0a1172a021f878be5_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"567\" data-original=\"https://pic2.zhimg.com/v2-ca3c51ab819914e0a1172a021f878be5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ca3c51ab819914e0a1172a021f878be5_b.gif\"/></figure><p>这样就OK了，就是这么简单，心动的话就去试试吧。</p>", 
+            "topic": [
+                {
+                    "tag": "力扣（LeetCode）", 
+                    "tagLink": "https://api.zhihu.com/topics/19925162"
+                }, 
+                {
+                    "tag": "刷题", 
+                    "tagLink": "https://api.zhihu.com/topics/20014038"
+                }, 
+                {
+                    "tag": "Python", 
+                    "tagLink": "https://api.zhihu.com/topics/19552832"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>我看中国的LeetCode现在还没有solution，不知道为什么</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "bonfy", 
+                            "userLink": "https://www.zhihu.com/people/ff3d4dde867faf01648c96ba528dac62", 
+                            "content": "<p>这个是 <a href=\"http://link.zhihu.com/?target=http%3A//leetcode.com\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">leetcode.com</a> 的下载器 ,中国的 领扣 <a href=\"http://link.zhihu.com/?target=http%3A//leetcode-cn.com\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">leetcode-cn.com</a> 我也看过，作了些本地化，例如登陆页面的元素也和原版略有不同，考虑到 leetcode 经常网站经常优化，同时维护 原版 和 中国版 工作量就太大了，建议你还是用 原版的，既锻炼了英语，题目应该也是最新的</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "桑龙", 
+                    "userLink": "https://www.zhihu.com/people/0d34415e74e1373387726489cfc285f6", 
+                    "content": "感谢作者工作，但是不太明白为什么要下载下来？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "一蓑烟雨任平生", 
+                    "userLink": "https://www.zhihu.com/people/b8b786432325572a86759f481d0356e4", 
+                    "content": "<p>在 config.cfg.example 文件 请我这个文件怎么找呢 打扰了 小白求教</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25769091", 
+            "userName": "bonfy", 
+            "userLink": "https://www.zhihu.com/people/ff3d4dde867faf01648c96ba528dac62", 
+            "upvote": 5, 
+            "title": "分享一个自己写的github-trending小工具", 
+            "content": "<h2>缘起</h2><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/trending\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Github Trending</a>基本上是我每天都会浏览的网页，上面会及时发布一些GIthub上比较有潜力的项目，或者说每日Star数增量排行榜。</p><p>不过由于Github Trending经常会实时更新，即使你访问得再勤，难免还是会错过一些你感兴趣的项目，为此不少人都想出了自己的解决办法，例如<br/><a href=\"https://link.zhihu.com/?target=https%3A//github.com/josephyzhou\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">josephyzhou</a> ，他的 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/josephyzhou/github-trending\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">github-trending</a> 项目得到了众多人的青睐，我仔细阅读了他的源码 (Go)，发现实现也较为简单, 就用Python 重写了一下，发现代码少了好多,详见 我的 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/bonfy/github-trending\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">github-trending</a>。</p><h2>步骤</h2><p>主要是建立一个Job，然后分三步：</p><ul><li>创建一个以 日期.md 的文件</li><li>访问Github-Trending 页面 然后抓取关注语言的Trending List 写入 md文件</li><li>Git Add + Commit + Push</li></ul><h3>Job</h3><div class=\"highlight\"><pre><code class=\"language-text\">def job():\n\n    strdate = datetime.datetime.now().strftime(&#39;%Y-%m-%d&#39;)\n    filename = &#39;{date}.md&#39;.format(date=strdate)\n\n    # create markdown file\n    createMarkdown(strdate, filename)\n\n    # write markdown\n    scrape(&#39;python&#39;, filename)\n    scrape(&#39;swift&#39;, filename)\n    scrape(&#39;javascript&#39;, filename)\n    scrape(&#39;go&#39;, filename)\n\n    # git add commit push\n    git_add_commit_push(strdate, filename)</code></pre></div><h3>create markdown</h3><div class=\"highlight\"><pre><code class=\"language-text\">def createMarkdown(date, filename):\n    with open(filename, &#39;w&#39;) as f:\n        f.write(&#34;###&#34; + date + &#34;\\n&#34;)</code></pre></div><h3>write markdown</h3><div class=\"highlight\"><pre><code class=\"language-text\">def scrape(language, filename):\n\n    HEADERS = {\n        &#39;User-Agent&#39;        : &#39;Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:11.0) Gecko/20100101 Firefox/11.0&#39;,\n        &#39;Accept&#39;            : &#39;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&#39;,\n        &#39;Accept-Encoding&#39;    : &#39;gzip,deflate,sdch&#39;,\n        &#39;Accept-Language&#39;    : &#39;zh-CN,zh;q=0.8&#39;\n    }\n\n    url = &#39;https://github.com/trending/{language}&#39;.format(language=language)\n    r = requests.get(url, headers=HEADERS)\n    assert r.status_code == 200\n\n    d = pq(r.content)\n    items = d(&#39;ol.repo-list li&#39;)\n\n    # codecs to solve the problem utf-8 codec like chinese\n    with codecs.open(filename, &#34;a&#34;, &#34;utf-8&#34;) as f:\n        f.write(&#39;\\n####{language}\\n&#39;.format(language=language))\n\n        for item in items:\n            i = pq(item)\n            title = i(&#34;h3 a&#34;).text()\n            owner = i(&#34;span.prefix&#34;).text()\n            description = i(&#34;p.col-9&#34;).text()\n            url = i(&#34;h3 a&#34;).attr(&#34;href&#34;)\n            url = &#34;https://github.com&#34; + url\n            f.write(u&#34;* [{title}]({url}):{description}\\n&#34;.format(title=title, url=url, description=description))</code></pre></div><h3>git operations</h3><div class=\"highlight\"><pre><code class=\"language-text\">def git_add_commit_push(date, filename):\n    cmd_git_add = &#39;git add {filename}&#39;.format(filename=filename)\n    cmd_git_commit = &#39;git commit -m &#34;{date}&#34;&#39;.format(date=date)\n    cmd_git_push = &#39;git push -u origin master&#39;\n\n    os.system(cmd_git_add)\n    os.system(cmd_git_commit)\n    os.system(cmd_git_push)</code></pre></div><h2>部署</h2><p>代码写完了，然后就可以部署了，当然你可以放在自己的电脑上跑。但是这是个每天的定时任务，所以不能关机比较尴尬。比较好的办法是部署到VPS,具体主机商就不推荐了，反正就这几家，大家随意。部署之前记得先将VPS 的 SSH key 添加到Github 的信任列表，这样这个代码就可以顺利跑起来啦！</p><div class=\"highlight\"><pre><code class=\"language-text\">  $ git clone https://github.com/bonfy/github-trending.git\n  $ cd github-trending\n  $ pip install -r requirements.txt\n  $ python scraper.py</code></pre></div><h2>一般人我不告诉</h2><p>还有个好处，偷偷告诉你们，这代码是每天定时跑的，所以每天都会Commit 到Github上，想象一下吧，一年之后你的Github下面的Commit 一栏将是多么的美观啊！所以赶快去Star 我的项目，行动起来吧，少年！</p><p>项目地址： <a href=\"https://link.zhihu.com/?target=https%3A//github.com/bonfy/github-trending\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/bonfy/github</span><span class=\"invisible\">-trending</span><span class=\"ellipsis\"></span></a><br/>欢迎大家Star</p>", 
+            "topic": [
+                {
+                    "tag": "Python", 
+                    "tagLink": "https://api.zhihu.com/topics/19552832"
+                }, 
+                {
+                    "tag": "GitHub", 
+                    "tagLink": "https://api.zhihu.com/topics/19566035"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Python程序员", 
+                    "userLink": "https://www.zhihu.com/people/9a7d6515fb875c3876293f1e0df21d38", 
+                    "content": "<p>挺实用的</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/bonfy"
+}

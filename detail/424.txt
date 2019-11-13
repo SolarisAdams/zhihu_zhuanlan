@@ -1,0 +1,502 @@
+{
+    "title": "从Java入门到项目开发", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/bei-dui-bei-50", 
+        "https://www.zhihu.com/people/sheng-ming-lun-hui-79", 
+        "https://www.zhihu.com/people/ai-luo-mang-a-da-lao-shi", 
+        "https://www.zhihu.com/people/yiwenyu-168", 
+        "https://www.zhihu.com/people/marszhu-40", 
+        "https://www.zhihu.com/people/sunqingyu-77", 
+        "https://www.zhihu.com/people/zui-ai-22-15", 
+        "https://www.zhihu.com/people/autowanglei", 
+        "https://www.zhihu.com/people/iris-yue-94", 
+        "https://www.zhihu.com/people/xu-xx-80", 
+        "https://www.zhihu.com/people/qi-mao-29-69", 
+        "https://www.zhihu.com/people/hua-hua-de-shi-jie-88-73", 
+        "https://www.zhihu.com/people/jing-lin-jiao-yu", 
+        "https://www.zhihu.com/people/zheng-jian-yang-56", 
+        "https://www.zhihu.com/people/smallki", 
+        "https://www.zhihu.com/people/han-ge-64-53", 
+        "https://www.zhihu.com/people/peng-dou-dou-57", 
+        "https://www.zhihu.com/people/xiao-lei-41-99", 
+        "https://www.zhihu.com/people/leftw", 
+        "https://www.zhihu.com/people/guan-li-ming-81", 
+        "https://www.zhihu.com/people/shan-mu-da-shu-de-mao", 
+        "https://www.zhihu.com/people/xuan-yi-97-9", 
+        "https://www.zhihu.com/people/xhb-71", 
+        "https://www.zhihu.com/people/tan-xin-bu-zu-yi-tun-xiang", 
+        "https://www.zhihu.com/people/deng-yan-song", 
+        "https://www.zhihu.com/people/zhao-he-18-49", 
+        "https://www.zhihu.com/people/qi-nian-46", 
+        "https://www.zhihu.com/people/zao-gao-zhi", 
+        "https://www.zhihu.com/people/he-jing-70-57", 
+        "https://www.zhihu.com/people/zhong-guo-xiao-cai", 
+        "https://www.zhihu.com/people/shi-zi-97-26", 
+        "https://www.zhihu.com/people/ace-98-79", 
+        "https://www.zhihu.com/people/ximi-75", 
+        "https://www.zhihu.com/people/kelensmart", 
+        "https://www.zhihu.com/people/tian-xin-yue-yuan-56", 
+        "https://www.zhihu.com/people/ren-hao-84-60", 
+        "https://www.zhihu.com/people/wo-heng-yong-heng", 
+        "https://www.zhihu.com/people/wang-62-90-33", 
+        "https://www.zhihu.com/people/lai-ge-tu-zi", 
+        "https://www.zhihu.com/people/proton-44", 
+        "https://www.zhihu.com/people/demo-9-3", 
+        "https://www.zhihu.com/people/ling-zhen-5-88", 
+        "https://www.zhihu.com/people/hannah-43-30", 
+        "https://www.zhihu.com/people/liu-heng-51-32", 
+        "https://www.zhihu.com/people/ni-shi-wo-de-tai-yang-60", 
+        "https://www.zhihu.com/people/fei-wo-liang-ren-33-62", 
+        "https://www.zhihu.com/people/xiao-bai-dian-77", 
+        "https://www.zhihu.com/people/feng-mo-xiao-ji-duo-chou", 
+        "https://www.zhihu.com/people/wang-mei-38-47", 
+        "https://www.zhihu.com/people/lot-ge", 
+        "https://www.zhihu.com/people/ai-yun-dong-ai-zhi-shi-xu-cheng-cheng", 
+        "https://www.zhihu.com/people/yang-yang-14-99", 
+        "https://www.zhihu.com/people/feng-huo-xi-zhu-hou-65", 
+        "https://www.zhihu.com/people/java-he-xiao-zhao", 
+        "https://www.zhihu.com/people/qin-xian-74-70", 
+        "https://www.zhihu.com/people/su-yao-yu-59", 
+        "https://www.zhihu.com/people/liu-tao-18-50-57", 
+        "https://www.zhihu.com/people/he-xi-50-35", 
+        "https://www.zhihu.com/people/xia-yu-peng-9", 
+        "https://www.zhihu.com/people/sarah_lxq_fly", 
+        "https://www.zhihu.com/people/233-12-93", 
+        "https://www.zhihu.com/people/nuo-ya-47", 
+        "https://www.zhihu.com/people/heawill", 
+        "https://www.zhihu.com/people/su-bin-77-47", 
+        "https://www.zhihu.com/people/juan-mao-yi-zhu-jia", 
+        "https://www.zhihu.com/people/wang-zhe-de-rong-yao-75-23", 
+        "https://www.zhihu.com/people/live-43-85", 
+        "https://www.zhihu.com/people/meng-mian-shu-shu-90", 
+        "https://www.zhihu.com/people/san-shi-liu-xiao-shi", 
+        "https://www.zhihu.com/people/cai-zi-liang-74", 
+        "https://www.zhihu.com/people/wang-yu-xin-32-76", 
+        "https://www.zhihu.com/people/xiao-sheng-jiang-76", 
+        "https://www.zhihu.com/people/rui-wen-da-bu-guo-e-yu", 
+        "https://www.zhihu.com/people/joy-85-17-13", 
+        "https://www.zhihu.com/people/you-wan-you-chang", 
+        "https://www.zhihu.com/people/zou-timoha", 
+        "https://www.zhihu.com/people/xu-lin-22-6", 
+        "https://www.zhihu.com/people/ge-yu-jie-88", 
+        "https://www.zhihu.com/people/zson-51", 
+        "https://www.zhihu.com/people/xiao-long-60-32", 
+        "https://www.zhihu.com/people/wu-xin-bin-99-80", 
+        "https://www.zhihu.com/people/a-gui-86-0113", 
+        "https://www.zhihu.com/people/li-ping-96-8", 
+        "https://www.zhihu.com/people/zhi-ting-jian-ge-sheng", 
+        "https://www.zhihu.com/people/tang-bo-hu-dian-wen-xiang-27-54", 
+        "https://www.zhihu.com/people/sun-yuan-tao-22", 
+        "https://www.zhihu.com/people/jiu-ye-20-63", 
+        "https://www.zhihu.com/people/limaotian", 
+        "https://www.zhihu.com/people/daisuki-33", 
+        "https://www.zhihu.com/people/yin-kou-40-12", 
+        "https://www.zhihu.com/people/bo-yi-zhi-yi", 
+        "https://www.zhihu.com/people/he-rui-5-27-10", 
+        "https://www.zhihu.com/people/xiao-zhu-zhu-55-30", 
+        "https://www.zhihu.com/people/zhang-guo-qing-57-96", 
+        "https://www.zhihu.com/people/fan-fan-11-68", 
+        "https://www.zhihu.com/people/chen-qiang-36-63", 
+        "https://www.zhihu.com/people/zhua-chong-mei-xue", 
+        "https://www.zhihu.com/people/bi-duan-32", 
+        "https://www.zhihu.com/people/mu-zhi-zhi-86-98", 
+        "https://www.zhihu.com/people/jiao-ming-hao-60", 
+        "https://www.zhihu.com/people/zheng-lin-95-61", 
+        "https://www.zhihu.com/people/better-girl-93-52", 
+        "https://www.zhihu.com/people/dao-mei-xiao-qing-nian", 
+        "https://www.zhihu.com/people/zhi-zhi-hu-hu-23-37", 
+        "https://www.zhihu.com/people/cai-yi-sen-99", 
+        "https://www.zhihu.com/people/ting-chong-shuo-58", 
+        "https://www.zhihu.com/people/mu-lin-sen-10", 
+        "https://www.zhihu.com/people/zero-84-92", 
+        "https://www.zhihu.com/people/lai-shi-long-54", 
+        "https://www.zhihu.com/people/wang-tong-hui", 
+        "https://www.zhihu.com/people/xxjldh", 
+        "https://www.zhihu.com/people/zai-lu-shang-41-60-14", 
+        "https://www.zhihu.com/people/wang-yuan-da-7", 
+        "https://www.zhihu.com/people/YeZi69", 
+        "https://www.zhihu.com/people/wang-wei-19-30-47", 
+        "https://www.zhihu.com/people/stone-54-7", 
+        "https://www.zhihu.com/people/liu-yong-38-19-18", 
+        "https://www.zhihu.com/people/zhangfan_hnu", 
+        "https://www.zhihu.com/people/qia-qia-luo-te-43-63", 
+        "https://www.zhihu.com/people/su-han-71-47", 
+        "https://www.zhihu.com/people/dd-dd-95-28", 
+        "https://www.zhihu.com/people/sss-70-91", 
+        "https://www.zhihu.com/people/recial-recial", 
+        "https://www.zhihu.com/people/wu-yu-hao-12", 
+        "https://www.zhihu.com/people/li-zheng-hao-41-39", 
+        "https://www.zhihu.com/people/xiao-hai-23-81", 
+        "https://www.zhihu.com/people/wen-xin-79-57", 
+        "https://www.zhihu.com/people/chi-tang-32-87", 
+        "https://www.zhihu.com/people/guai-mmm", 
+        "https://www.zhihu.com/people/fu-fr", 
+        "https://www.zhihu.com/people/1976648487", 
+        "https://www.zhihu.com/people/xu-xiao-13-21", 
+        "https://www.zhihu.com/people/he-jie-39-64", 
+        "https://www.zhihu.com/people/guo-xiao-bai-10", 
+        "https://www.zhihu.com/people/luo-yuan-xiang-76", 
+        "https://www.zhihu.com/people/da-wei--luo-na-er-duo", 
+        "https://www.zhihu.com/people/xu-li-sen-17", 
+        "https://www.zhihu.com/people/hu-ming-48-49", 
+        "https://www.zhihu.com/people/liu-bin-38-82", 
+        "https://www.zhihu.com/people/paulanthony-24", 
+        "https://www.zhihu.com/people/zheng-ke-36-35", 
+        "https://www.zhihu.com/people/ji-ye-71-55", 
+        "https://www.zhihu.com/people/fu-yitao-23", 
+        "https://www.zhihu.com/people/zou-guo-de-du-bu-ceng-cuo-guo", 
+        "https://www.zhihu.com/people/bian-xin-hua-68", 
+        "https://www.zhihu.com/people/yipi-ye-ma-53", 
+        "https://www.zhihu.com/people/feng-yun-xiong", 
+        "https://www.zhihu.com/people/xuexz", 
+        "https://www.zhihu.com/people/long-36-4", 
+        "https://www.zhihu.com/people/MasonXu", 
+        "https://www.zhihu.com/people/pu-chi-4-97", 
+        "https://www.zhihu.com/people/aweikn", 
+        "https://www.zhihu.com/people/pian-nian-32", 
+        "https://www.zhihu.com/people/chang-56-50", 
+        "https://www.zhihu.com/people/one-go", 
+        "https://www.zhihu.com/people/silence-76-44", 
+        "https://www.zhihu.com/people/zhang-zi-xu-5-74", 
+        "https://www.zhihu.com/people/xiao-bai-10-27-56", 
+        "https://www.zhihu.com/people/chu-hai-tao-43-28", 
+        "https://www.zhihu.com/people/zhao-jin-long-17-3", 
+        "https://www.zhihu.com/people/wang-miao-26-8-95", 
+        "https://www.zhihu.com/people/du-xue-song-38", 
+        "https://www.zhihu.com/people/xiao-bai-95-29-8", 
+        "https://www.zhihu.com/people/liu-hao-jun-22", 
+        "https://www.zhihu.com/people/cai-dong-liang-21", 
+        "https://www.zhihu.com/people/m46-17", 
+        "https://www.zhihu.com/people/wang-ming-wei-75", 
+        "https://www.zhihu.com/people/gai-shui-jue-shui-jue-24", 
+        "https://www.zhihu.com/people/wang-rong-hui-69", 
+        "https://www.zhihu.com/people/a-can-32-32", 
+        "https://www.zhihu.com/people/zhang-hong-jin-27-37", 
+        "https://www.zhihu.com/people/LuJinBiao", 
+        "https://www.zhihu.com/people/xming", 
+        "https://www.zhihu.com/people/djc0", 
+        "https://www.zhihu.com/people/justted-chen", 
+        "https://www.zhihu.com/people/tan-adam", 
+        "https://www.zhihu.com/people/Franklin-D", 
+        "https://www.zhihu.com/people/yu-xiang-23-60", 
+        "https://www.zhihu.com/people/123456-38-19", 
+        "https://www.zhihu.com/people/yi-qing-42-13", 
+        "https://www.zhihu.com/people/zou-lu-piao-fu-tian-ma-xing-kong", 
+        "https://www.zhihu.com/people/yi-jiu-15-37", 
+        "https://www.zhihu.com/people/fang-chao-32-53", 
+        "https://www.zhihu.com/people/yxlml", 
+        "https://www.zhihu.com/people/li-zi-ang-69-39", 
+        "https://www.zhihu.com/people/yu-fan-36", 
+        "https://www.zhihu.com/people/chen-ri-zhi", 
+        "https://www.zhihu.com/people/alexway", 
+        "https://www.zhihu.com/people/ren-zhen-hui-28", 
+        "https://www.zhihu.com/people/huang-hai-bin-30-10", 
+        "https://www.zhihu.com/people/tiger-43-73", 
+        "https://www.zhihu.com/people/linuxcpp", 
+        "https://www.zhihu.com/people/cheng-hua-bu-shuo-hua", 
+        "https://www.zhihu.com/people/an-jing-de-bao-bao-73", 
+        "https://www.zhihu.com/people/mlzhao", 
+        "https://www.zhihu.com/people/a-tu-ge-30", 
+        "https://www.zhihu.com/people/wu-shi-miao-11", 
+        "https://www.zhihu.com/people/fang-wen-bin-45-78", 
+        "https://www.zhihu.com/people/brokennight", 
+        "https://www.zhihu.com/people/woniu-68-14", 
+        "https://www.zhihu.com/people/wu-qi-xin-19", 
+        "https://www.zhihu.com/people/pang-zi-66-36", 
+        "https://www.zhihu.com/people/wu-hao-92-29", 
+        "https://www.zhihu.com/people/wang-feng-87-32-41", 
+        "https://www.zhihu.com/people/chen-shang-35", 
+        "https://www.zhihu.com/people/xiang-jiao-67-67", 
+        "https://www.zhihu.com/people/jack-1-78", 
+        "https://www.zhihu.com/people/mrliu-28-84", 
+        "https://www.zhihu.com/people/lan-mu-sui", 
+        "https://www.zhihu.com/people/m-wl", 
+        "https://www.zhihu.com/people/chenshu-35", 
+        "https://www.zhihu.com/people/yu-xin-79-49", 
+        "https://www.zhihu.com/people/tan-wei-43", 
+        "https://www.zhihu.com/people/wu-ye-tai-deng", 
+        "https://www.zhihu.com/people/death-13-31", 
+        "https://www.zhihu.com/people/hao-er-fei-80", 
+        "https://www.zhihu.com/people/zou-yu-94", 
+        "https://www.zhihu.com/people/chang-hua-33-85", 
+        "https://www.zhihu.com/people/huang-jia-yao-42-4", 
+        "https://www.zhihu.com/people/li-da-chui-80-72", 
+        "https://www.zhihu.com/people/bu-an-de-xiao-yixiu", 
+        "https://www.zhihu.com/people/pai-si-zhuan-jia", 
+        "https://www.zhihu.com/people/fading8113", 
+        "https://www.zhihu.com/people/hua-la-96"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28639611", 
+            "userName": "欧栋", 
+            "userLink": "https://www.zhihu.com/people/d241caae23ba1f317e1f9cbdec86eb01", 
+            "upvote": 17, 
+            "title": "Java最新更新及重要通知！", 
+            "content": "<p>  咳咳，咳咳！</p><p>  在沉默了这么长一段时间后，今天小编要告诉大家一个劲爆消息！我的博客又开始更新了！  小伙伴们又可以跟我一起学习Java了！！！（至于这些天小编干什么好事去了，嘿嘿，以后有时间会告诉大家的~）</p><p>  咳咳，下面发布重要通知：从今天开始，小编将介绍一下内容！都是实战内容！</p><p>1.多线程。多线程前面已经介绍过，但是小编还会更详细的进行一次介绍。</p><p>2.小球碰撞模型。喜欢打台球的伙伴一定想做这个的！</p><p>3.飞机大战or坦克大战。想要做这类游戏，必须打好小球模型的基础！</p><p>4.分形与混沌。用程序来画那些画家都画不出来的炒鸡具有美感的图形。</p><p>5.从粒子系统到群体智能。写一个只能仿真，模仿一个种群中个体的觅食、成长、种群的繁衍、进化等。</p><p>6.类似于微信或者qq这样的聊天程序。创建服务器，跟胖友们在自己建立的聊天器上聊天，是不是觉得很不一样呢？</p><p>  当然，要介绍的还有很多很多，不过那应该是很久很久之后的事了…………胖友们，我和你们一样，任重而道远！所以，敬请期待~</p><h2>  关注我，从Java入门到项目开发实践，我们一起快速成长！</h2>", 
+            "topic": [
+                {
+                    "tag": "Java", 
+                    "tagLink": "https://api.zhihu.com/topics/19561132"
+                }, 
+                {
+                    "tag": "Java 入门", 
+                    "tagLink": "https://api.zhihu.com/topics/19646804"
+                }, 
+                {
+                    "tag": "Java 项目开发", 
+                    "tagLink": "https://api.zhihu.com/topics/19613461"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "变先生", 
+                    "userLink": "https://www.zhihu.com/people/7d49c12798cff17b617f2fbb5df917f2", 
+                    "content": "推荐零基础看哪本书呗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "欧栋", 
+                            "userLink": "https://www.zhihu.com/people/d241caae23ba1f317e1f9cbdec86eb01", 
+                            "content": "<p>可以去网上买清华大学出版社出版的《Java开发实战经典》。这本书很基础，里面还有一个光盘，有教学视频，可以说是零基础上手的一本不错的书</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "变先生"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "杜逼", 
+                    "userLink": "https://www.zhihu.com/people/0cc65ac2429cf7b9270d7cb2cf9ec8d5", 
+                    "content": "求博客", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "欧栋", 
+                            "userLink": "https://www.zhihu.com/people/d241caae23ba1f317e1f9cbdec86eb01", 
+                            "content": "<p>目前我的文章发布在知乎上，读者可以在我的知乎专栏：从Java入门到项目开发查看</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "杜逼"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "与我何加焉", 
+                    "userLink": "https://www.zhihu.com/people/3d4abae9d3558444be2b3e31a50e07aa", 
+                    "content": "求大佬带飞", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "欧栋", 
+                            "userLink": "https://www.zhihu.com/people/d241caae23ba1f317e1f9cbdec86eb01", 
+                            "content": "<p>一起交流一起学习一起进步嘛！</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "与我何加焉"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "一个不想在失败的男孩", 
+                    "userLink": "https://www.zhihu.com/people/04121236e119ced819743ddf0b44eb9e", 
+                    "content": "关注了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "一个不想在失败的男孩", 
+                    "userLink": "https://www.zhihu.com/people/04121236e119ced819743ddf0b44eb9e", 
+                    "content": "什么时候开始更新，我现在把io流，线程，网络集合都学过了，我现在可以做那些比较小的东西？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "欧栋", 
+                            "userLink": "https://www.zhihu.com/people/d241caae23ba1f317e1f9cbdec86eb01", 
+                            "content": "<p>你想进行实战开发的话建议你先看一下我的Java6界面开发、Java7画图板，不管做什么东西首先都要先做出来一个界面，之后可以用线程做小球碰撞的程序，这个我最近就会更新了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "一个不想在失败的男孩"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Justted Chen", 
+                    "userLink": "https://www.zhihu.com/people/8c715a68c40cc29af5eb73926310e9d8", 
+                    "content": "关注一下，求进步", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "变先生", 
+                    "userLink": "https://www.zhihu.com/people/7d49c12798cff17b617f2fbb5df917f2", 
+                    "content": "推荐零基础看哪本书呗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "欧栋", 
+                            "userLink": "https://www.zhihu.com/people/d241caae23ba1f317e1f9cbdec86eb01", 
+                            "content": "<p>可以去网上买清华大学出版社出版的《Java开发实战经典》。这本书很基础，里面还有一个光盘，有教学视频，可以说是零基础上手的一本不错的书</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "变先生"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "杜逼", 
+                    "userLink": "https://www.zhihu.com/people/0cc65ac2429cf7b9270d7cb2cf9ec8d5", 
+                    "content": "求博客", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "欧栋", 
+                            "userLink": "https://www.zhihu.com/people/d241caae23ba1f317e1f9cbdec86eb01", 
+                            "content": "<p>目前我的文章发布在知乎上，读者可以在我的知乎专栏：从Java入门到项目开发查看</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "杜逼"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "与我何加焉", 
+                    "userLink": "https://www.zhihu.com/people/3d4abae9d3558444be2b3e31a50e07aa", 
+                    "content": "求大佬带飞", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "欧栋", 
+                            "userLink": "https://www.zhihu.com/people/d241caae23ba1f317e1f9cbdec86eb01", 
+                            "content": "<p>一起交流一起学习一起进步嘛！</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "与我何加焉"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "一个不想在失败的男孩", 
+                    "userLink": "https://www.zhihu.com/people/04121236e119ced819743ddf0b44eb9e", 
+                    "content": "关注了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "一个不想在失败的男孩", 
+                    "userLink": "https://www.zhihu.com/people/04121236e119ced819743ddf0b44eb9e", 
+                    "content": "什么时候开始更新，我现在把io流，线程，网络集合都学过了，我现在可以做那些比较小的东西？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "欧栋", 
+                            "userLink": "https://www.zhihu.com/people/d241caae23ba1f317e1f9cbdec86eb01", 
+                            "content": "<p>你想进行实战开发的话建议你先看一下我的Java6界面开发、Java7画图板，不管做什么东西首先都要先做出来一个界面，之后可以用线程做小球碰撞的程序，这个我最近就会更新了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "一个不想在失败的男孩"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Justted Chen", 
+                    "userLink": "https://www.zhihu.com/people/8c715a68c40cc29af5eb73926310e9d8", 
+                    "content": "关注一下，求进步", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27919248", 
+            "userName": "欧栋", 
+            "userLink": "https://www.zhihu.com/people/d241caae23ba1f317e1f9cbdec86eb01", 
+            "upvote": 4, 
+            "title": "Java7：Java实战——画图板", 
+            "content": "<p>   不知道大家看了Java6后有没有做出来一个简单的登录界面，今天我们要做的是一个简单的画图板，在上面实现画不同图形的功能。我们可以先打开自己电脑的画图板</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-84df36ba8a1acf4185fd35af76e5b14d_b.png\" data-rawwidth=\"1522\" data-rawheight=\"850\" class=\"origin_image zh-lightbox-thumb\" width=\"1522\" data-original=\"https://pic2.zhimg.com/v2-84df36ba8a1acf4185fd35af76e5b14d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1522&#39; height=&#39;850&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1522\" data-rawheight=\"850\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1522\" data-original=\"https://pic2.zhimg.com/v2-84df36ba8a1acf4185fd35af76e5b14d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-84df36ba8a1acf4185fd35af76e5b14d_b.png\"/></figure><p>  可以看到画图板是一个界面，上面图形按钮，点击不同的图形按钮可以画不同的图形，有颜色按钮，点击不同颜色的按钮就可以画出不同颜色的图形；有一块画布，可以在上面进行画图操作……</p><p>  因此，一个功能简单的画图板，其实实现起来很复杂，需要用到事件监听、界面开发等内容。实现一个画图程序一般需要很多类：</p><div class=\"highlight\"><pre><code class=\"language-text\">JFrame\t\t\t\t窗体容器类\nJButton\t\t\t\t按钮元素组件类\nFlowLayout\t\t\t流式布局类\nGraphics\t\t\t画笔类：提供各种绘制图形的方法\nColor\t\t\t\t颜色类：提供颜色\nActionListener\t\t动作事件接口，将监听到的内容交给他处理\nMouseListener\t鼠标事件接口：提供处理鼠标按下，释放，点击，进入和离开动作的处理方法\nMouseMotionListener\t鼠标移动事件接口：提供处理鼠标移动和拖动动作的处理方法\n……………………</code></pre></div><p>  下图是一个较简单的画图板，我们只需实现画一部分图形的功能即可</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-6b3882656bdcf4c2fbf7ebf0ff9b1b17_b.png\" data-rawwidth=\"1494\" data-rawheight=\"996\" class=\"origin_image zh-lightbox-thumb\" width=\"1494\" data-original=\"https://pic4.zhimg.com/v2-6b3882656bdcf4c2fbf7ebf0ff9b1b17_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1494&#39; height=&#39;996&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1494\" data-rawheight=\"996\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1494\" data-original=\"https://pic4.zhimg.com/v2-6b3882656bdcf4c2fbf7ebf0ff9b1b17_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6b3882656bdcf4c2fbf7ebf0ff9b1b17_b.png\"/></figure><p>  我们需要创建2个类：画板类（DrawPanel1）和监听类（DrawListener1）。在画板类中我们用开发界面的方法创建一个具有不同按钮的窗体，然后给按钮和窗体添加监听器，再调用窗体的画笔，使之能在窗体上画图；在监听其上我们通过监听点击不同的按钮，使用画笔Graphics中提供画图形的方法来画出不同形状或颜色的图形。</p><p>首先定义DrawPanel1类：</p><div class=\"highlight\"><pre><code class=\"language-text\">public class DrawPanel1{\n         //定义一个显示界面的方法\n\tpublic void showUI(){\n\t//创建一个窗体\n\tJFrame drawFrame = new JFrame();\n\t//设置窗体的 大小、位置、标题\n\tdrawFrame.setSize(1500, 1000);\n\tdrawFrame.setLocationRelativeTo(null);\n\tdrawFrame.setTitle(&#34;画图板V1.0&#34;);\n\n\n        //设置一个数组，显示直线，椭圆等\n\tString a[] = {&#34;直线&#34;,&#34;椭圆&#34;}；\n        for(int i = 0;i&lt;a.length;i++){\n                //创建多个按钮对象，设置宽和高\n\t\tjavax.swing.JButton jbu = new javax.swing.JButton(a[i]);\n\t\tjava.awt.Dimension d1 = new java.awt.Dimension(100,30);\n\t\tjbu.setPreferredSize(d1);\n                //按钮加到窗体上\n\t\tdrawFrame.add(jbu);\n                //给按钮添加监听\n\t\tjbu.addActionListener(drawL);\n                //给窗体添加监听器\n                drawFrame.addMouseListener(drawL);\n\t\t//设置窗体可见\n\t\tdrawFrame.setVisible(true);\n\t\t\n\t\t//获取窗体的画笔\n\t\tGraphics g = drawFrame.getGraphics();\n\t\t//调用监听器设置画笔的方法\n\t\tdrawL.setG(g);\n                }\n      //定义主方法\n      public static void main(String[] args){\n                //创建DrawPanel1类的对象，调用showUI()方法\n\t\tDrawPanel1 drawPanel = new DrawPanel1();\n\t\tdrawPanel.showUI();\t\n\t        }\n}</code></pre></div><p>  定义监听类DrawListener1：</p><div class=\"highlight\"><pre><code class=\"language-text\">public class DrawListener1 implements MouseListener,ActionListener{\nprivate int x1,x2,y1,y2;\nprivate Graphics g;\nprivate String type;\nprivate Color color;\n        //设置画笔的方法\n\tpublic void setG(Graphics argG){\n\t\tg = argG;\n\t}\n        //重写ActionListener中的抽象方法，点击按钮的时候调用\n\tpublic void actionPerformed(ActionEvent e){\n\t\tJButton button = (JButton) e.getSource();// 获取事件源对象\n\t\tString text = button.getText();\n\t\tif(text.equals(null) || text.equals(&#34;&#34;)){\n\t\t\tcolor = button.getBackground();\n\t\t\tSystem.out.println(&#34;color = &#34; + color);\n\t\t\tg.setColor(color);\n\t\t}\n\t\telse {\n\t\t\ttype = button.getText();// 获取按钮上的文字信息\n\t\t\tSystem.out.println(&#34;text = &#34; + text);\n\t\t}\n\t\t\n\t}\n        //重写MouseListener中的抽象方法\n        public void mouseClicked(MouseEvent e){\n\t\tSystem.out.println(&#34;鼠标点击&#34;);\n        }\n\n\tpublic void mousePressed(MouseEvent e){\n\t\tSystem.out.println(&#34;鼠标按下&#34;);\n\t\t//记录鼠标按下的位置\n\t\tx1 = e.getX();\n\t\ty1 = e.getY();\n\t\t\n\t}\n\n        public void mouseReleased(MouseEvent e){\n    \t        System.out.println(&#34;鼠标松开&#34;);  \n    \t         //记录鼠标松开的位置\n    \t         x2 = e.getX();\n    \t         y2 = e.getY();\n    \t//调用画笔对象，点击不同的按钮绘制不同的图形\n    \tif(&#34;直线&#34;.equals(type)){\n    \t\t//画直线\n    \t\tg.drawLine(x1, y1, x2, y2);\n    \t}\n    \telse\n    \t\tif(&#34;椭圆&#34;.equals(type)){\n    \t\t\t\n    \t    \tg.drawOval(Math.min(x1, x2),Math.min(y1, y2), Math.abs(x1 - x2), Math.abs(y1 - y2));\n    \t    \t\n    \t\t}\n         public void mouseEntered(MouseEvent e){\n    \t           System.out.println(&#34;鼠标进入&#34;);\n          }\n    \n         public void mouseExited(MouseEvent e){\n    \t           System.out.println(&#34;鼠标离开&#34;);\n         }\n\n}</code></pre></div><p>   MouseListener接口中有5个抽象方法 public void mouseClicked(MouseEvent e); public void mousePressed(MouseEvent e);  public void mouseReleased(MouseEvent e);   public void mouseEntered(MouseEvent e);  public void mouseExited(MouseEvent e);</p><p>  DrawListener1实现了这个接口，所以必须重写接口内的所有抽象方法。</p><p>  在发生鼠标按下这个操作的时候，监听器记录下鼠标发生按下操作时的坐标(x1,y1)，在发生鼠标松开这个操作的时候，监听器记录下鼠标发生松开操作时的坐标(x2,y2)。然后通过画笔g调用Graphic类中画直线(drawLine)和画椭圆(drawOval)的方法，将对应的参数传过去，就可以画直线和椭圆了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>  我们还可以用画图板画更复杂的图形（比如任意多边形，立体矩形等），画这些图形的方法Graphics类中并没有提供，这就需要我们开动脑筋，尽量利用Graphics类中的某些方法来解决了。读者可以先百度一下用Graphics类画图的方法，小编也会在以后的博客中详细介绍，所以，</p><h2>关注小编不吃亏！</h2><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "Java 编程", 
+                    "tagLink": "https://api.zhihu.com/topics/19582744"
+                }, 
+                {
+                    "tag": "Java 入门", 
+                    "tagLink": "https://api.zhihu.com/topics/19646804"
+                }, 
+                {
+                    "tag": "Java 项目开发", 
+                    "tagLink": "https://api.zhihu.com/topics/19613461"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "哦吼", 
+                    "userLink": "https://www.zhihu.com/people/0691e879b8469f5a3a0bbfef1b5ed3b8", 
+                    "content": "美滋滋", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27917638", 
+            "userName": "欧栋", 
+            "userLink": "https://www.zhihu.com/people/d241caae23ba1f317e1f9cbdec86eb01", 
+            "upvote": 26, 
+            "title": "Java6：Java实战——界面开发", 
+            "content": "<p> 好久没有更新了~~~在之前介绍了Java的类与对象、构造方法、类的继承、接口和抽象方法以及事件监听方法之后，我们就可以上正菜——Java实践了（没有看过之前内容的胖友赶紧去看看小编之前的文章哦）。今天我们将的是利用Java进行界面开发。</p><p> 我们今天的目标是做出一个了类似qq的登录界面，如下图</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-a13147309ed23acd091e7ac10a622568_b.png\" data-rawwidth=\"528\" data-rawheight=\"409\" class=\"origin_image zh-lightbox-thumb\" width=\"528\" data-original=\"https://pic1.zhimg.com/v2-a13147309ed23acd091e7ac10a622568_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;528&#39; height=&#39;409&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"528\" data-rawheight=\"409\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"528\" data-original=\"https://pic1.zhimg.com/v2-a13147309ed23acd091e7ac10a622568_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a13147309ed23acd091e7ac10a622568_b.png\"/></figure><p>                                                                （图一）</p><p>一下是小编通过Java做出来的界面：</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-ecfa009ffe2b33d41085695e8af19001_b.png\" data-rawwidth=\"494\" data-rawheight=\"411\" class=\"origin_image zh-lightbox-thumb\" width=\"494\" data-original=\"https://pic2.zhimg.com/v2-ecfa009ffe2b33d41085695e8af19001_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;494&#39; height=&#39;411&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"494\" data-rawheight=\"411\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"494\" data-original=\"https://pic2.zhimg.com/v2-ecfa009ffe2b33d41085695e8af19001_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ecfa009ffe2b33d41085695e8af19001_b.png\"/></figure><p>                                                                   （图二）</p><p>当然还有复杂一点的：这个图跟qq登录界面就非常像了</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-2967f9dd16356a671c0c4c681ccd9b03_b.png\" data-rawwidth=\"404\" data-rawheight=\"385\" class=\"content_image\" width=\"404\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;404&#39; height=&#39;385&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"404\" data-rawheight=\"385\" class=\"content_image lazy\" width=\"404\" data-actualsrc=\"https://pic4.zhimg.com/v2-2967f9dd16356a671c0c4c681ccd9b03_b.png\"/></figure><p>                                                                （图三）</p><p>我们先来做上面较简单一点的界面</p><p> 在Java的api中有很多类，这些类封装了不同的属性和方法，方便了程序的编写。其中，用来编写界面程序的类有很多，他们都在Java.awt和Javax.swing包中，java.awt包是java在早期开发的一套界面类，但是awt中采用了很多和系统相关的代码，所以逐渐被淘汰，但是颜色、尺寸等类还在继续使用。javax.swing包：java的界面类都在该包下，并且类名以J开头。</p><p> 登录界面的创建过程可以这么理解：先创建一个空白的窗体，然后把图片、按钮、输入文字的框、进行选择的框等添加到空白界面上，最后这个界面就能呈现丰富的内容了。我们把这个空白的窗体称为顶级容器，而图片、按钮等称为组件，开发一个界面的过程就是在顶级容器上添加组件的过程。</p><p> 在qq登录界面开发过程中，我们一般用到javax.swing包下的JFrame、JButton、JTextField  、JPasswordField、JLabel 、JCheckBox这些类。JFrame就是我们说的顶级容器，而JButton、JTextField  、JPasswordField、JLabel 、JCheckBox等就是组件。\n</p><p> 那么这些类（或者说组件）的作用是什么呢？下面进行介绍：</p><div class=\"highlight\"><pre><code class=\"language-text\">JFrame类：用来创建一个窗体；\nJButton：用来创建一个按钮；button:按钮\nJTextField：用来创建一个文本输入框 text：文本\nJPasswordField：用来创建一个密码输入框  PasswordField：密码\nJLabel：用来显示文本和图片 label:标签\nJCheckBox：用来创建选择框 CheckBox：复选框</code></pre></div><p>  我们先创建一个Login界面类，在类中定义一个显示窗体的方法showUI()和主方法main()，在showUI()方法中创建界面，和组件，将组件放在界面上并使界面可见；在主方法里面创建界面类的对象，然后调用showUI()方法，这样我们就可以开发了一个界面：</p><div class=\"highlight\"><pre><code class=\"language-text\">public class Login {\n  //定义showUI()方法\n   public void showUI(){\n  //创建界面和组件等操作\n   ……\n  }\n   //定义主方法\n   public static void main(String[] args) {\n   创建Login类的对象并调用showUI()方法\n\tLogin lo = new Login();\n\tlo.showUI();\n\t}\n}</code></pre></div><p>  接下来就是在showUI()方法中创建顶级容器和组件。先创建一个顶级容器（用来容纳所有的组件）：</p><div class=\"highlight\"><pre><code class=\"language-text\">// 创建窗体对象（顶级容器对象）\njavax.swing.JFrame jf = new javax.swing.JFrame();\n//设置窗体尺寸（窗体宽度高度都为400）\njf.setSize(400, 400);\n//设置退出进程的方法\nf.setDefaultCloseOperation(javax.swing.JFrame.EXIT_ON_CLOSE);\n//设置窗体居中显示\njf.setLocationRelativeTo(null);</code></pre></div><p>  创建好窗体后，我们只需要创建各个组件，然后加到窗体上，但是这些组件在窗体上的位置是有序的，比如上图二中账号按钮和文本显示框排在第一行，然后密码按钮和密码显示框排在第二行。如何实现这样的布局呢？</p><p> 我们必须先设置组件在窗体上的布局方式。 Java提供一种流式布局FlowLayout，这种布局的方法是将组件一个个排列在一行，如果这一行排不下了，就自动排到第二行。如图二，我们只需设置账号按钮和文本显示框的宽度，他们所在的行无法容纳下密码按钮，密码按钮就会自动排列到下一行。创建流式布局的代码如下：</p><div class=\"highlight\"><pre><code class=\"language-text\">创建一个流式布局的对象\njava.awt.FlowLayout f = new java.awt.FlowLayout();\n        //设置窗体为流式布局\n\tjf.setLayout(f);  </code></pre></div><p>   下面我们可以设置组件了。创建一个显示文本的标签，显示的文本为&#34;账号&#34;,并设置其宽度和高度</p><div class=\"highlight\"><pre><code class=\"language-text\">//创建一个标签对象，标签上显示&#34;账号&#34;\njavax.swing.JLabel jlb1 = new javax.swing.JLabel(&#34;账号&#34;);\n        //设置其宽度，高度分别为50、30\n\tjava.awt.Dimension d3 = new java.awt.Dimension(50, 30);\n\tjlb1.setPreferredSize(d3);\n        //将这个标签对象（组件）添加到窗体上\n\tjf.add(jlb1);</code></pre></div><p>  创建一个显示文本的文本框，设置其宽度和高度</p><div class=\"highlight\"><pre><code class=\"language-text\">//创建一个文本框对象\njavax.swing.JTextField jtf = new javax.swing.JTextField();\n\t//设置宽、高分别为310、30\n        java.awt.Dimension d = new java.awt.Dimension(310, 30);\n\tjtf.setPreferredSize(d);\n        //将这个文本框对象（组件）加到窗体上\n\tjf.add(jtf);\n</code></pre></div><p>创建一个显示文本的标签，显示的文本为&#34;密码&#34;,并设置其宽度和高度<br/></p><div class=\"highlight\"><pre><code class=\"language-text\">//创建一个标签对象，标签上显示&#34;密码&#34;\njavax.swing.JLabel jlb2 = new javax.swing.JLabel(&#34;密码&#34;);\n        //设置其宽度，高度分别为50、30\n\tjava.awt.Dimension d1 = new java.awt.Dimension(50, 30);\n\tjlb1.setPreferredSize(d1);\n        //将这个标签对象（组件）添加到窗体上\n\tjf.add(jlb2);\n</code></pre></div><p>创建一个显示密码的文本框，设置其宽度和高度<br/></p><div class=\"highlight\"><pre><code class=\"language-text\">//创建一个文本框对象\njavax.swing.JPasswordField jpf = new javax.swing.JPasswordField();\n\t//设置宽、高分别为310、30\n        java.awt.Dimension d2 = new java.awt.Dimension(310, 30);\n\tjtf.setPreferredSize(d2);\n        //将这个文本框对象（组件）加到窗体上\n\tjf.add(jtf);\n</code></pre></div><p>   创建一个登录按钮</p><div class=\"highlight\"><pre><code class=\"language-text\">//创建按钮类的对象\njavax.swing.JButton jbu = new javax.swing.JButton(&#34;登陆&#34;);\n         //设置宽、高分别为100、30\n\tjava.awt.Dimension d8 = new java.awt.Dimension(100, 30);\n\tjbu.setPreferredSize(d8);\n         //给窗体添加一个按钮对象\n\tjf.add(jbu); \n</code></pre></div><p>这样我们就已经把图二中的组件全部创建并加到窗体上了（2个显示文本的标签、2个显示文本的文本框和一个按钮），这时候我们还需加一句代码：设置窗体可见：</p><div class=\"highlight\"><pre><code class=\"language-text\">jf.setVisible(true);  //设置窗体可见，放在代码最后一句\n</code></pre></div><p>   需注意：这句代码需写在创建完组件并把组件加到窗体上之后，如果写在前面，那么没有把组件放上窗体就让窗体显示出来，得不到我们想要的组件。</p><p>  这时候运行代码，就可以显示图二那样的界面了。虽然过程看上去很复杂，但原理很简单，就是创建一个容器，把需要的组件加在容器上，最后设置这个容器可见，就完成了！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>  而如果要做出图三的图片效果，只需要创建显示图片的标签(JLabel)，把图片加在标签上，再把标签放在窗体上；复选框的效果就是创建JCheckBox对象，然后把对象放在窗体上。</p><div class=\"highlight\"><pre><code class=\"language-text\">//创建图片对象\njavax.swing.ImageIcon im = new javax.swing.ImageIcon(&#34;//图片位置&#34;);\n\t\t\t\t\n\t//创建标签对象\n\tjavax.swing.JLabel jla = new javax.swing.JLabel(im);\n        //设置图片尺寸\n\tjava.awt.Dimension td = new java.awt.Dimension(400, 200);\n\tjla.setPreferredSize(td);\n        //图片加到窗体上\n\tjf.add(jla);\n</code></pre></div><p>  为了使创建的界面更美观，我们往往需要修改各个组件的尺寸，这些就交给读者慢慢修改吧~<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>我是辛苦而又孤独的小编，希望有人跟我交流关于界面开发的体验</u>。</b></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "Java 编程", 
+                    "tagLink": "https://api.zhihu.com/topics/19582744"
+                }, 
+                {
+                    "tag": "Java 入门", 
+                    "tagLink": "https://api.zhihu.com/topics/19646804"
+                }, 
+                {
+                    "tag": "Java 项目开发", 
+                    "tagLink": "https://api.zhihu.com/topics/19613461"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Ma Ye", 
+                    "userLink": "https://www.zhihu.com/people/e870c8fbfe778a58111cf4eec750a611", 
+                    "content": "还有公司用java开发桌面程序么", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "My12138", 
+                    "userLink": "https://www.zhihu.com/people/a8f3eb702f682137d3c2d38448895566", 
+                    "content": "<p>swing 丑出翔，完全不知道怎么做到简洁扁平。。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "DreamPiggy", 
+                    "userLink": "https://www.zhihu.com/people/1038295afbed8ffdaac57b1c649a7521", 
+                    "content": "别折腾了……跨平台如果坚持原生就用Qt吧，追求效率就用Electron", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "来打我呀", 
+                    "userLink": "https://www.zhihu.com/people/4b74af7ba659f2b9c60c3b7f05cec6c1", 
+                    "content": "哈哈，现在都有前端开发人员了，感觉没人用了。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "ziye", 
+                    "userLink": "https://www.zhihu.com/people/24dc2f9b4b3ba9ad68d573f2d05ef759", 
+                    "content": "说得好，我选择易语言", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "「已注销」", 
+                    "userLink": "https://www.zhihu.com/people/459b8e8c64b46dbd2f6a4ef0b9a0d7d8", 
+                    "content": "我希望有人帮我写java UI太麻烦了，😣，谢谢小编", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/oudong"
+}

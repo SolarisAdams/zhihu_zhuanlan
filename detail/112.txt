@@ -1,0 +1,94 @@
+{
+    "title": "计算机网络学习随笔", 
+    "description": "专栏文章是我的学习随笔，主要是我的一些思考和奇思妙想，也许是你的点睛之笔，也许不过是些无聊的话语，欢迎大家和我一起讨论计算机网络哦。\n学习原材料来自哈尔滨工业大学的moochttps://www.icourse163.org/course/HIT-154005\n想要系统学习计算机网络的朋友可以看网课，", 
+    "followers": [
+        "https://www.zhihu.com/people/zuo-shou-yi-dao", 
+        "https://www.zhihu.com/people/gui-yi-40-23-80", 
+        "https://www.zhihu.com/people/hu-luo-bu-36-27", 
+        "https://www.zhihu.com/people/min-min-37-64-7", 
+        "https://www.zhihu.com/people/mr-lin-82-68"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/82716299", 
+            "userName": "黄瑞玖", 
+            "userLink": "https://www.zhihu.com/people/f76e4d47353abd711b85982607d5ee0a", 
+            "upvote": 1, 
+            "title": "计算机网络体系结构", 
+            "content": "<h2>本文包含以下内容：</h2><ul><li>为什么要有体系结构</li><li>TCP/IP模型</li></ul><p>这篇文章充分的体现了“想学计算机网络还是看mooc来的靠谱”的客观事实。</p><h2>为什么要有体系结构</h2><p>计算机网络不停的发展，越来越复杂，想要理解计算机网络也变得困难。体系结构的出现，就是为了帮助我们去理解计算机网络。</p><p>你可以想象，男孩子们在键盘上敲出的“多喝热水”是如何通过QQ出现在女孩子们的电脑屏幕上的么？网络是如何传送这些数据的？如果要从QQ发送消息开始追踪，到网线，到光纤，无疑是一件困难的事，但是有了体系结构，我们可以通过分层的方式来理解整个计算机网络的工作模式。</p><p>随着计算机网络的发展，“下层为上层服务，上层调用下层接口”的特点也逐渐显现出来。正如我们的快递，计算机网络的传送也不可能由一个部分完成。</p><p>当一个男孩给远方心爱的女孩准备了礼物，他会怎么做呢？是自己一步一步走过去送呢，还是发个快递呢？当然是发快递！那是不是有这么一个快递员，一步一步给你送到呢？当然也不是！他把邮件的地址信息写好，就会给到运输部门运到目的地，然后，目的地处还会有快递员，负责把礼物送到女孩子手中。</p><p>计算机网络的工作和快递有相似之处，都是上层交给底层运输，底层再交给上层交付。我们的数据就是这样流动的。</p><h2>TCP/IP模型</h2><p>TCP/IP模型分为五层，从上至下为：应用层，传输层，网络层，链路层，物理层。</p><p>想起刚刚快递的故事，我们可以做一个类比：那个发快递的男孩就是应用层，把数据封装好了交给传输层——快递员，快递员再把快递交到负责运输的部门——网络层等。</p><p>事实上我们学习的过程中比较关注的是应用层和传输层，这两层都属于端到端层。我们也会关注很多网络层的协议和算法，而网络层以下都是传输数据的通信层，我们通常是不太关心这部分的。</p>", 
+            "topic": [
+                {
+                    "tag": "计算机网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19572894"
+                }, 
+                {
+                    "tag": "互联网", 
+                    "tagLink": "https://api.zhihu.com/topics/19550517"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/82597196", 
+            "userName": "黄瑞玖", 
+            "userLink": "https://www.zhihu.com/people/f76e4d47353abd711b85982607d5ee0a", 
+            "upvote": 0, 
+            "title": "如何进行数据交换", 
+            "content": "<h2>本文包含以下内容：</h2><ul><li>电路交换</li><li>报文交换</li><li>分组交换</li></ul><p>我们之前聊到了计算机网络，那么我们要传输数据总要有一种方式，现在数据交换有三种方式：电路交换，报文交换，分组交换。</p><h2>电路交换</h2><p>非常霸道的一种方式，当使用电路交换进行数据交换时，整条链路都是你的，如果你发数据，那这条链路便为你发数据，如果你不发数据，那么这条链路便是空闲的，等待为你发数据。好像告诉全世界：你这条链路，已经被我一个人承包了！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-f7ad3305ced2b73a545610e316f59361_b.jpg\" data-size=\"normal\" data-rawwidth=\"2010\" data-rawheight=\"596\" class=\"origin_image zh-lightbox-thumb\" width=\"2010\" data-original=\"https://pic2.zhimg.com/v2-f7ad3305ced2b73a545610e316f59361_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2010&#39; height=&#39;596&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"2010\" data-rawheight=\"596\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2010\" data-original=\"https://pic2.zhimg.com/v2-f7ad3305ced2b73a545610e316f59361_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-f7ad3305ced2b73a545610e316f59361_b.jpg\"/><figcaption>电路交换</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2>报文交换</h2><p>电路交换太过霸总，导致用户数目增多时，总有“平民”享受不到资源，这是不公平的！王侯将相宁有种乎！</p><p>所以，出现了报文交换：线路是大家的，谁要发谁就发。每个人把自己的文件打包好，按次序经过路由发到目的地，这很好嘛！大家可以平等使用，但是有一个问题：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-614e859f59c0166bb9bfdb122d64d9db_b.jpg\" data-size=\"normal\" data-rawwidth=\"1742\" data-rawheight=\"614\" class=\"origin_image zh-lightbox-thumb\" width=\"1742\" data-original=\"https://pic4.zhimg.com/v2-614e859f59c0166bb9bfdb122d64d9db_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1742&#39; height=&#39;614&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1742\" data-rawheight=\"614\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1742\" data-original=\"https://pic4.zhimg.com/v2-614e859f59c0166bb9bfdb122d64d9db_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-614e859f59c0166bb9bfdb122d64d9db_b.jpg\"/><figcaption>报文交换</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>“你的文件怎么那么大，占了线路这么久，我一个小文件迟迟发不过去！”</p><p>解决这个问题，是一个非常伟大方式：报文交换。</p><h2>分组交换</h2><p>分组交换之所以被我推崇，是因为它使用了一种伟大思想：流水线。</p><p>分组交换是将文件拆分成一个个较小的数据包，然后依次发送这些包。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8d37f4ce6d54587c9fef7d48f33c3af6_b.jpg\" data-size=\"normal\" data-rawwidth=\"1836\" data-rawheight=\"612\" class=\"origin_image zh-lightbox-thumb\" width=\"1836\" data-original=\"https://pic3.zhimg.com/v2-8d37f4ce6d54587c9fef7d48f33c3af6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1836&#39; height=&#39;612&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1836\" data-rawheight=\"612\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1836\" data-original=\"https://pic3.zhimg.com/v2-8d37f4ce6d54587c9fef7d48f33c3af6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8d37f4ce6d54587c9fef7d48f33c3af6_b.jpg\"/><figcaption>分组交换</figcaption></figure><p>这和报文交换看起来是一样————只不过是把一整个报文拆分成了一个个的小分组，白白的增加拆分和组合的开销好似瞎折腾，但我们从以下两个场景来考虑。</p><p>首先考虑一下多路由器的情况。当我们使用报文交换，如果两台主机之间有很多的路由器，那么我们的报文要一个个经过这些路由器————报文全部到达一个路由器后，再被转发到另一个路由器。那么报文传输的时间，就和经过的路由器的数量有关系：经过的路由器越多，传输所需要的时间就越长。</p><p>如果是分组交换呢？第一个分组发出后，发送第二个分组，直至发送完成，这和报文交换有什么区别呢？区别在于路由转发。注意，我们把文件拆分成一个个小分组之后，这些小分组在网络中独立的传输，也就是说，第一个分组到达路由器后，无需等待其余分组到达，便可以被转发到下一个路由器，如此一来，等待的时间大大缩短。此时路由器并不是将文件阻滞的节点，而是可以迅速经过的“链路”。相比之下，报文交换就好像第一个分组等待其余分组全部到达才开始转发的分组交换，文件浪费了太多时间在等待上。计算也可以证明这一点。</p><p>再来看一个多用户的场景：两个用户同时向另外两个用户传输文件，他们之间有一段链路是共享的。如果A的文件很大而B的文件很小，但A首先到达路由器。如果是报文交换，就会是：路由器先转发先到的文件————A的大文件，再转发B的小文件。如此一来，在这段共享链路上，A的大文件始终在B的小文件之前，也就是说，每一次B的小文件都需要等待A的大文件传送到了下一个路由器才能开始转发，而此时A的大文件在下一个路由器的转发还没有完成，所以B的小文件就需要 等待————路由器数量越多，等待的时间就越多。这显然是不公平的。</p><p>如果是分组交换呢？分组交换中，每一个用户都是在不停的发送小分组到网络中，即使是A的大文件，也只不过是很多个小分组。当A和B同时在链路中，也只是交替发送分组，分组交换已经将路由器数量对发送文件速度的影响降到极地，又由于分组很小，所以等待的时间很少或者几乎没有，因此，即使B的小文件在A的大文件发送期间发送，也不会对传输时间产生很大影响。分组交换比报文交换更加公平。</p><p>分组交换的这种共享方式称为“统计多路复用”。</p><h2>比较</h2><p>说到很多报文交换和分组交换的对比，分组交换完胜报文交换，但是分组交换和电路交换如何比较呢？能不能说分组交换一定优于电路交换呢？不见得。</p><p>分组交换适合突发数据传输网络，但是会有延迟、丢包等问题。电路交换虽然很多地方不如分组交换实用，但是遇到像打电话这种场景，电路交换还是更可靠的。</p><p>不过使用分组交换的网络电话也在逐步解决这个问题。</p>", 
+            "topic": [
+                {
+                    "tag": "计算机网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19572894"
+                }, 
+                {
+                    "tag": "互联网", 
+                    "tagLink": "https://api.zhihu.com/topics/19550517"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/82575733", 
+            "userName": "黄瑞玖", 
+            "userLink": "https://www.zhihu.com/people/f76e4d47353abd711b85982607d5ee0a", 
+            "upvote": 0, 
+            "title": "计算机网络概述", 
+            "content": "<h2>本文主要讨论：</h2><ul><li>什么是计算机网络</li><li>什么是网络协议</li><li>计算机网络的结构与Internet结构</li></ul><h2>计算机网络是什么</h2><p>要学习计算机网络，首先要知道计算机网络是什么，字面意思：计算机组成的一个网络而已。说详细点：计算机们连接起来。</p><p>回顾最初的计算机网络，就是为了计算机间通信的方便，用一根线将两台机器连接起来。那么，我想再连接一台机器怎么办呢？那就再用线连接，让三台机器可以相互通信，如果计算机的数量再增多，怎么办呢？</p><p>我们只好想出一个办法：不如我们把所有要交换的信息都给到一台机器，让这台机器帮我们转发，岂不是很好？于是，就有了交换机路由器。每个交换机路由器都可以将一定数量的计算机连接起来成为计算机网络，如果我想要连接一台计算机，但是他没有和我连接到同一台路由器上怎么办呢？一个办法，我把两台路由器也连接起来，这样就可以互联互通，那么机器更多了，路由器也需要一个“路由器”帮助自己交换信息，于是就有了ISP，有了ISP的ISP，有了网络之网络。。。最后形成了现在的Internet。</p><h2>什么是网络协议</h2><p>国有国法，家有家规。没有规矩不成方圆。如果我们随意的发送数据，那么我们就会遇到一个问题：这些东西都是啥意思啊？</p><p>是的，我们收到了数据，必须要知道这数据是干嘛的，是给我的么？还是给隔壁老张的？是要给我这个进程的，还是那个进程的？是跟我说刚才那个事，还是别的事啊？</p><p>正如我们聊天时，往往要称呼一下我们想要对话的人一样，我们在网络上进行数据交换，也要遵循一种规矩，这就是协议。事实上，协议就是双方约定好的一种对话规则，只要可以保证双方可以顺利的交流，不会产生误解，就是可以的。</p><h2>计算机网络的结构与Internet结构</h2><p>计算机网络的具体结构，目前还没有人给出精确的描述，但是我们可以看到它大致的样子。就如我们之前所说：越来越多的网络连接起来，成为了现在的计算机网络。</p><p>而目前最大的计算机网络，就是Internet。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-407c658c0271f0bf05ae231a9387660a_b.jpg\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-407c658c0271f0bf05ae231a9387660a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;720&#39; height=&#39;384&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-407c658c0271f0bf05ae231a9387660a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-407c658c0271f0bf05ae231a9387660a_b.jpg\"/><figcaption>Internet结构</figcaption></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "计算机网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19572894"
+                }, 
+                {
+                    "tag": "互联网", 
+                    "tagLink": "https://api.zhihu.com/topics/19550517"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/82464757", 
+            "userName": "黄瑞玖", 
+            "userLink": "https://www.zhihu.com/people/f76e4d47353abd711b85982607d5ee0a", 
+            "upvote": 0, 
+            "title": "新的开始", 
+            "content": "<h2>开始</h2><p>其实最开始，并没有想要写文章的想法的。开始写文章还是在上个学期，软件构造老师要求每个人写心得发到网上，算作平时成绩，于是我申请开通的专栏“<a href=\"https://zhuanlan.zhihu.com/c_1083664556848386048\" class=\"internal\">软件构造学习心得</a>”，写了一个学期感觉还蛮好的，虽然没有人看，但是对自己来说，是一次复习，不然我课下根本不会去看老师的讲义的，尽管我收集了全套。</p><h2>继续</h2><p>软件构造课上个学期就已经结束了，也无需再写心得了。但是或许是自己有些爱好吧，就想继续这件事情，正好这个学期的计算机网络课也是很经典的一门课程，我也很喜欢，就想把自己的一些思考写出来，希望能帮到一些人。</p><p>除此之外当然还有一些别的原因，计算机网络课程采用“翻转课堂”的教育模式，也就是说，老师做到下面来当学生，学生跑到讲台上去讲课，当然，学习资料就是我们的mooc“<a href=\"https://link.zhihu.com/?target=https%3A//www.icourse163.org/course/HIT-154005\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">计算机网络</a>“，学生先学好，再去给大家讲，这是一个很有趣的模式。在这种模式下，每个人都不得不去思考，既然已经有了思考，再把它完善一下发出来，岂不是更好？</p><h2>未来</h2><p>上次软件构造的心得，知识点填充的太多了，就像学习笔记一样，如果是要看知识点，看讲义就好，何必写心得呢？所以这次我不会涉及太多知识细节，如果大家想看，到mooc上面去学就好，我会写一些有趣的思考，或者抛出一些问题 ，希望和大家一起讨论。</p><p>当然，很有可能没有其他人会看见我写的东西，不过我于我自己来讲倒是没什么关系，毕竟对我来讲最重要的部分就是“写”，至于有没有人看，完全就是我的“惊喜”。</p>", 
+            "topic": [
+                {
+                    "tag": "计算机网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19572894"
+                }, 
+                {
+                    "tag": "互联网", 
+                    "tagLink": "https://api.zhihu.com/topics/19550517"
+                }, 
+                {
+                    "tag": "考研", 
+                    "tagLink": "https://api.zhihu.com/topics/19563107"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1155514932421320704"
+}

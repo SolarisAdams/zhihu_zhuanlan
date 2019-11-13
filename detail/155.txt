@@ -1,0 +1,400 @@
+{
+    "title": "算法工程两手抓", 
+    "description": "深入浅出介绍各种经典算法，以提供示例、通俗讲解为主，希望对学术界、工业界同仁都有所帮助。欢迎各位的踊跃投稿", 
+    "followers": [
+        "https://www.zhihu.com/people/wu-sheng-66-66", 
+        "https://www.zhihu.com/people/lang-lang-1-37", 
+        "https://www.zhihu.com/people/yi-tang-35-29", 
+        "https://www.zhihu.com/people/la-la-la-lu-lu-76", 
+        "https://www.zhihu.com/people/diao-si-cheng-xu-yuan-58", 
+        "https://www.zhihu.com/people/lee-28-5-11", 
+        "https://www.zhihu.com/people/go-ro-87", 
+        "https://www.zhihu.com/people/xu-hao-wei-69-66", 
+        "https://www.zhihu.com/people/tpencil", 
+        "https://www.zhihu.com/people/lin-bao", 
+        "https://www.zhihu.com/people/luozhongbin", 
+        "https://www.zhihu.com/people/cpm-81", 
+        "https://www.zhihu.com/people/liu-bo-69-10", 
+        "https://www.zhihu.com/people/bing-lei-mo-dao-shi", 
+        "https://www.zhihu.com/people/yu-yan-qing-17", 
+        "https://www.zhihu.com/people/liu-fei-94-95", 
+        "https://www.zhihu.com/people/wzz-74-1", 
+        "https://www.zhihu.com/people/liu-wei-22-28-90", 
+        "https://www.zhihu.com/people/ivan-jin-84", 
+        "https://www.zhihu.com/people/daniel-46-3", 
+        "https://www.zhihu.com/people/cmike-71", 
+        "https://www.zhihu.com/people/liao-93-88", 
+        "https://www.zhihu.com/people/hum-75", 
+        "https://www.zhihu.com/people/hanyaohang", 
+        "https://www.zhihu.com/people/yu-xin-le-84", 
+        "https://www.zhihu.com/people/tianbao-zhang", 
+        "https://www.zhihu.com/people/greatpie", 
+        "https://www.zhihu.com/people/tian-ma-72xiao-shi", 
+        "https://www.zhihu.com/people/feng-liu-ren-wu-10", 
+        "https://www.zhihu.com/people/li-sheng-38-23", 
+        "https://www.zhihu.com/people/shi-wen-bo-7", 
+        "https://www.zhihu.com/people/xie-yihan", 
+        "https://www.zhihu.com/people/frederick007", 
+        "https://www.zhihu.com/people/dan-xu-56-51", 
+        "https://www.zhihu.com/people/lwtua", 
+        "https://www.zhihu.com/people/zhi-zhan-46", 
+        "https://www.zhihu.com/people/erwinxue-ding-e-de-mao", 
+        "https://www.zhihu.com/people/sonyxu", 
+        "https://www.zhihu.com/people/cz-shi", 
+        "https://www.zhihu.com/people/Inedible_q", 
+        "https://www.zhihu.com/people/li-ying-33-53-95", 
+        "https://www.zhihu.com/people/liu-ni-ma-81-51", 
+        "https://www.zhihu.com/people/liu-wei-ming-37-41", 
+        "https://www.zhihu.com/people/xie-zi-sheng-41", 
+        "https://www.zhihu.com/people/ybsolar", 
+        "https://www.zhihu.com/people/wang-si-bo-48", 
+        "https://www.zhihu.com/people/xu-lei-76-48", 
+        "https://www.zhihu.com/people/hu-bo-wen-2-19", 
+        "https://www.zhihu.com/people/wang-liao-52", 
+        "https://www.zhihu.com/people/zhang-duo-13-65", 
+        "https://www.zhihu.com/people/li-ling-84-69", 
+        "https://www.zhihu.com/people/bi-qi-76", 
+        "https://www.zhihu.com/people/zhang-tian-wei-59", 
+        "https://www.zhihu.com/people/hu-qi-di-23", 
+        "https://www.zhihu.com/people/huang-bo-20-36", 
+        "https://www.zhihu.com/people/bread-earner", 
+        "https://www.zhihu.com/people/a-nan-35-55", 
+        "https://www.zhihu.com/people/yu-zhou-liu-yifan", 
+        "https://www.zhihu.com/people/zentia-33", 
+        "https://www.zhihu.com/people/wang-xin-90-39", 
+        "https://www.zhihu.com/people/jing-ling-pan", 
+        "https://www.zhihu.com/people/lang-wei-xian-he-lu-ye", 
+        "https://www.zhihu.com/people/li-zheng-dao-68", 
+        "https://www.zhihu.com/people/wei-ji-4-73", 
+        "https://www.zhihu.com/people/wswslzp", 
+        "https://www.zhihu.com/people/floatinbubblex", 
+        "https://www.zhihu.com/people/hoshea-34", 
+        "https://www.zhihu.com/people/huang-qiang-14-64", 
+        "https://www.zhihu.com/people/lacoboi", 
+        "https://www.zhihu.com/people/cao-ji-49-42", 
+        "https://www.zhihu.com/people/yu-hong-da-66", 
+        "https://www.zhihu.com/people/yue-hou-95", 
+        "https://www.zhihu.com/people/xue-da-ge-73", 
+        "https://www.zhihu.com/people/iskywalker", 
+        "https://www.zhihu.com/people/zi-shan-57-15", 
+        "https://www.zhihu.com/people/lchen-57", 
+        "https://www.zhihu.com/people/chun-jing-hai", 
+        "https://www.zhihu.com/people/tinythytigerdaddy", 
+        "https://www.zhihu.com/people/di-yun-long-77-19", 
+        "https://www.zhihu.com/people/sailing_zhuang", 
+        "https://www.zhihu.com/people/liang-de-peng", 
+        "https://www.zhihu.com/people/lmming-math", 
+        "https://www.zhihu.com/people/DINGKAIMENG", 
+        "https://www.zhihu.com/people/guo-zhong-kun", 
+        "https://www.zhihu.com/people/wang-yang-59-99", 
+        "https://www.zhihu.com/people/sen-mei-24", 
+        "https://www.zhihu.com/people/nnli-87", 
+        "https://www.zhihu.com/people/gao-yu-32-8-59", 
+        "https://www.zhihu.com/people/shen-shui-89-42", 
+        "https://www.zhihu.com/people/david-double", 
+        "https://www.zhihu.com/people/yao-xue-feng-52", 
+        "https://www.zhihu.com/people/huang-ya-jiang", 
+        "https://www.zhihu.com/people/qi-lin-44-44", 
+        "https://www.zhihu.com/people/reg-temp-8", 
+        "https://www.zhihu.com/people/liu-shu-sen-43", 
+        "https://www.zhihu.com/people/bu-re-chen-ai-57", 
+        "https://www.zhihu.com/people/li-jun-jia-72-74", 
+        "https://www.zhihu.com/people/yayayoi", 
+        "https://www.zhihu.com/people/yang-meng-meng-95", 
+        "https://www.zhihu.com/people/wei-yi-52-49", 
+        "https://www.zhihu.com/people/fanyonglei", 
+        "https://www.zhihu.com/people/Quintinyang", 
+        "https://www.zhihu.com/people/zhang-fl-36", 
+        "https://www.zhihu.com/people/steven-93-51-8", 
+        "https://www.zhihu.com/people/zhong-biao-71", 
+        "https://www.zhihu.com/people/chen-shuai-87-4", 
+        "https://www.zhihu.com/people/li-xi-yuan-19", 
+        "https://www.zhihu.com/people/zhangjiajie043", 
+        "https://www.zhihu.com/people/yang-lue-78", 
+        "https://www.zhihu.com/people/howhaw-jocky", 
+        "https://www.zhihu.com/people/zhang-jia-huan-8-85", 
+        "https://www.zhihu.com/people/ji-ling-72", 
+        "https://www.zhihu.com/people/wx7f91af93cf87c604", 
+        "https://www.zhihu.com/people/lichao-52", 
+        "https://www.zhihu.com/people/meng-shi-kang-45", 
+        "https://www.zhihu.com/people/nima-cao-44", 
+        "https://www.zhihu.com/people/jasonlovelife", 
+        "https://www.zhihu.com/people/jerry-zhang-51", 
+        "https://www.zhihu.com/people/yang-jing-lin-16", 
+        "https://www.zhihu.com/people/zhi-hu-yong-hu-83-95", 
+        "https://www.zhihu.com/people/nan-xin-hai", 
+        "https://www.zhihu.com/people/lan-ni-si-te-88", 
+        "https://www.zhihu.com/people/how2", 
+        "https://www.zhihu.com/people/pangdan", 
+        "https://www.zhihu.com/people/keloli", 
+        "https://www.zhihu.com/people/ideas-yd", 
+        "https://www.zhihu.com/people/wu-zhe-45-83", 
+        "https://www.zhihu.com/people/liu-yun-13-61", 
+        "https://www.zhihu.com/people/kurtlen-46"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/79621417", 
+            "userName": "成指导", 
+            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+            "upvote": 7, 
+            "title": "初识 SimRank: 利用用户行为，计算相似性", 
+            "content": "<p>计算两个物体（item）之间的相似程度（包括聚类、改写、消重等），大体有两种思路：</p><ul><li>基于内容：从 item 自身分析。例如，计算两张图片的相似度，我们可以提出两张图片的某些特征（例如图像直方图特征、局部特征、深度特征等），定义并计算特征间的相似度。</li><li>基于用户行为：从用户面对 item 时的行为分析。例如，某些喜欢听民谣的朋友，在 app 上共同都收藏了同一首歌，这首歌类型是民谣的概率就很高。</li></ul><p>2 种方法各有利弊，前者需要对 item 本身建模，模型的优劣决定了最终效果的上限。后者是用户“用脚投票”得到的结果，比较准确，但是对于用户行为较少的长尾数据，覆盖性较差。</p><p>第二种方法往往需要大量的用户行为数据，才能做好分析。因此工业界中经常会有这方面的工作问世。今天介绍 2 篇这方面的经典工作：</p><ul><li>Jeh G, Widom J. <a href=\"https://link.zhihu.com/?target=http%3A//ilpubs.stanford.edu%3A8090/508/1/2001-41.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">SimRank: a measure of structural-context similarity</a>[C]//Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining. ACM, 2002: 538-543.</li><li>Antonellis I, Molina H G, Chang C C. <a href=\"https://zhuanlan.zhihu.com/p/79621417/%3C/b%3Ehttps://arxiv.org/pdf/0712.0499\" class=\"internal\">Simrank++: query rewriting through link analysis of the click graph</a>[J]. Proceedings of the VLDB Endowment, 2008, 1(1): 408-421.</li></ul><h2>基本思想</h2><p>首先明确 2 个基本概念：user 和 item。user 是拥有主动选择能力，带有倾向性的“用户”（明确意愿的淘宝买家、百度搜索词等），item 是待选择的“物体”（可以是歌曲、搜索结果等）。</p><p>将 user、item 划分成二部图关系，每个 user 和 item 都是独立的点，user 内部、item 内部的关系暂时忽略。而 user 在不同 item 上产生用户行为（可以是购买、点击、收藏等行为），则是一条条边。例如，对于下图例子而言，左边的 pc、camera 等搜索词就是 user，右边的 <a href=\"https://link.zhihu.com/?target=http%3A//hp.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Hp.com</a> 等网址就是 item。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ab51d34f347b984e695c95d0335cc1b7_b.jpg\" data-rawwidth=\"1320\" data-rawheight=\"738\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1320\" data-original=\"https://pic4.zhimg.com/v2-ab51d34f347b984e695c95d0335cc1b7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1320&#39; height=&#39;738&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1320\" data-rawheight=\"738\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1320\" data-original=\"https://pic4.zhimg.com/v2-ab51d34f347b984e695c95d0335cc1b7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ab51d34f347b984e695c95d0335cc1b7_b.jpg\"/><figcaption>图 1</figcaption></figure><p>SimRank 系列的基本思想：<b>汇聚到相同 item 点的 user，相互之间具有相似性</b>。</p><h2>SimRank 公式说明</h2><p>为了方便说明，我们举例图 1 中的例子：搜索词与点击网址的关系。</p><p>二部图左边的搜索词点，表示为 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> ；二部图右边的搜索网址点，表示为 <img src=\"https://www.zhihu.com/equation?tex=a\" alt=\"a\" eeimg=\"1\"/> ；与某个点存在直接边连接（反例：pc 与 camera 之间可达 pc - <a href=\"https://link.zhihu.com/?target=http%3A//hp.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Hp.com</a> - camera，但中间通过 <a href=\"https://link.zhihu.com/?target=http%3A//hp.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Hp.com</a> 中转，因此不算<b>直接</b>边）的其他点<b>的集合</b>，视为这个点的<b>邻居集合</b>，表示为 <img src=\"https://www.zhihu.com/equation?tex=E%28q%29\" alt=\"E(q)\" eeimg=\"1\"/> 或 <img src=\"https://www.zhihu.com/equation?tex=E%28a%29\" alt=\"E(a)\" eeimg=\"1\"/>，例如 <img src=\"https://www.zhihu.com/equation?tex=E%28%5Crm+camera%29%3D%5Cleft%5C%7B+Hp.com%2CBestbuy.com+%5Cright%5C%7D\" alt=\"E(\\rm camera)=\\left\\{ Hp.com,Bestbuy.com \\right\\}\" eeimg=\"1\"/> </p><p>相似度表示为 <img src=\"https://www.zhihu.com/equation?tex=s\" alt=\"s\" eeimg=\"1\"/> ，取值范围为 <img src=\"https://www.zhihu.com/equation?tex=%5B0%2C1%5D\" alt=\"[0,1]\" eeimg=\"1\"/> 。搜索词之间的相似度表示为 <img src=\"https://www.zhihu.com/equation?tex=s%28q_1%2Cq_2%29\" alt=\"s(q_1,q_2)\" eeimg=\"1\"/> ，网址之间的相似度表示为 <img src=\"https://www.zhihu.com/equation?tex=s%28a_1%2Ca_2%29\" alt=\"s(a_1,a_2)\" eeimg=\"1\"/> 。至于搜索词和网址之间，因为性质不同，所以不存在 <img src=\"https://www.zhihu.com/equation?tex=s%28q%2Ca%29\" alt=\"s(q,a)\" eeimg=\"1\"/> 这种相似度表示。</p><blockquote>最 naive 的计算 <img src=\"https://www.zhihu.com/equation?tex=s%28q_1%2Cq_2%29\" alt=\"s(q_1,q_2)\" eeimg=\"1\"/> 的思路：直接统计 2 个搜索词点击的网址集合之间交集的大小，即 <img src=\"https://www.zhihu.com/equation?tex=%5Cleft%7C+E%28q_1%29%5Ccap+E%28q_2%29+%5Cright%7C\" alt=\"\\left| E(q_1)\\cap E(q_2) \\right|\" eeimg=\"1\"/> 。</blockquote><p>可以公式化表达成： </p><p><img src=\"https://www.zhihu.com/equation?tex=s%28q_1%2Cq_2%29%3D%5Csum_%7Ba_i+%5Cin+E%28q_1%29%7D%5E%7Ba_i%7D%5Csum_%7Ba_j+%5Cin+E%28q_2%29%7D%5E%7Ba_j%7D%7Bs%28a_i%2Ca_j%29%7D\" alt=\"s(q_1,q_2)=\\sum_{a_i \\in E(q_1)}^{a_i}\\sum_{a_j \\in E(q_2)}^{a_j}{s(a_i,a_j)}\" eeimg=\"1\"/> ，当 <img src=\"https://www.zhihu.com/equation?tex=i%3Dj\" alt=\"i=j\" eeimg=\"1\"/> 时 <img src=\"https://www.zhihu.com/equation?tex=s%28a_i%2Ca_j%29%3D1\" alt=\"s(a_i,a_j)=1\" eeimg=\"1\"/> ，否则 <img src=\"https://www.zhihu.com/equation?tex=s%28a_i%2Ca_j%29%3D0\" alt=\"s(a_i,a_j)=0\" eeimg=\"1\"/></p><p>同理，计算 <img src=\"https://www.zhihu.com/equation?tex=s%28a_1%2Ca_2%29\" alt=\"s(a_1,a_2)\" eeimg=\"1\"/> 的思路类似：</p><p><img src=\"https://www.zhihu.com/equation?tex=s%28a_1%2Ca_2%29%3D%5Csum_%7Bq_i+%5Cin+E%28a_1%29%7D%5E%7Bq_i%7D%5Csum_%7Bq_j+%5Cin+E%28a_2%29%7D%5E%7Bq_j%7D%7Bs%28q_i%2Cq_j%29%7D\" alt=\"s(a_1,a_2)=\\sum_{q_i \\in E(a_1)}^{q_i}\\sum_{q_j \\in E(a_2)}^{q_j}{s(q_i,q_j)}\" eeimg=\"1\"/> ，当 <img src=\"https://www.zhihu.com/equation?tex=i%3Dj\" alt=\"i=j\" eeimg=\"1\"/> 时 <img src=\"https://www.zhihu.com/equation?tex=s%28q_i%2Cq_j%29%3D1\" alt=\"s(q_i,q_j)=1\" eeimg=\"1\"/> ，否则 <img src=\"https://www.zhihu.com/equation?tex=s%28q_i%2Cq_j%29%3D0\" alt=\"s(q_i,q_j)=0\" eeimg=\"1\"/></p><blockquote>马上会感觉到这里的不妥之处，如果 <img src=\"https://www.zhihu.com/equation?tex=q_%7Bx%7D\" alt=\"q_{x}\" eeimg=\"1\"/> 是一个“百搭”的搜索词，对于每个网址都有点击行为（即假设 <img src=\"https://www.zhihu.com/equation?tex=%7CE%28q%29%7C%5Crightarrow+%5Cinfty\" alt=\"|E(q)|\\rightarrow \\infty\" eeimg=\"1\"/> ），那么 <img src=\"https://www.zhihu.com/equation?tex=q_%7Bx%7D\" alt=\"q_{x}\" eeimg=\"1\"/> 和大多数 <img src=\"https://www.zhihu.com/equation?tex=q_%7By%7D\" alt=\"q_{y}\" eeimg=\"1\"/> 都是类似的，这明显是错误的。</blockquote><p>为了扼制这类“百搭”的搜索词，可以设计搜索词的近邻个数作为惩罚项： <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7BC%7D%7B%5Cleft%7C+E%28q_1%29+%5Cright%7C%5Ctimes+%5Cleft%7C+E%28q_2%29+%5Cright%7C%7D\" alt=\"\\frac{C}{\\left| E(q_1) \\right|\\times \\left| E(q_2) \\right|}\" eeimg=\"1\"/> </p><p> 因此，计算 <img src=\"https://www.zhihu.com/equation?tex=s%28q_1%2Cq_2%29\" alt=\"s(q_1,q_2)\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=s%28a_1%2Ca_2%29\" alt=\"s(a_1,a_2)\" eeimg=\"1\"/> 的算法可以修改为：</p><p><img src=\"https://www.zhihu.com/equation?tex=s%28q_1%2Cq_2%29%3D%5Cfrac%7BC%7D%7B%5Cleft%7C+E%28q_1%29+%5Cright%7C%5Ctimes+%5Cleft%7C+E%28q_2%29+%5Cright%7C%7D%5Csum_%7Ba_i+%5Cin+E%28q_1%29%7D%5E%7Ba_i%7D%5Csum_%7Ba_j+%5Cin+E%28q_2%29%7D%5E%7Ba_j%7D%7Bs%28a_i%2Ca_j%29%7D\" alt=\"s(q_1,q_2)=\\frac{C}{\\left| E(q_1) \\right|\\times \\left| E(q_2) \\right|}\\sum_{a_i \\in E(q_1)}^{a_i}\\sum_{a_j \\in E(q_2)}^{a_j}{s(a_i,a_j)}\" eeimg=\"1\"/> ，记为<b>（式一）</b></p><p><img src=\"https://www.zhihu.com/equation?tex=s%28a_1%2Ca_2%29%3D%5Cfrac%7BC%7D%7B%5Cleft%7C+E%28a_1%29+%5Cright%7C%5Ctimes+%5Cleft%7C+E%28a_2%29+%5Cright%7C%7D%5Csum_%7Bq_i+%5Cin+E%28q_1%29%7D%5E%7Ba_i%7D%5Csum_%7Bq_j+%5Cin+E%28a_2%29%7D%5E%7Bq_j%7D%7Bs%28q_i%2Cq_j%29%7D\" alt=\"s(a_1,a_2)=\\frac{C}{\\left| E(a_1) \\right|\\times \\left| E(a_2) \\right|}\\sum_{q_i \\in E(q_1)}^{a_i}\\sum_{q_j \\in E(a_2)}^{q_j}{s(q_i,q_j)}\" eeimg=\"1\"/>，记为<b>（式二）</b></p><p>以上有个计算公式是“你中有我，我中有你”，通过来回迭代求解。初始状态设置如下：</p><p><img src=\"https://www.zhihu.com/equation?tex=i%3Dj\" alt=\"i=j\" eeimg=\"1\"/> 时 <img src=\"https://www.zhihu.com/equation?tex=s%28q_i%2Cq_j%29%3D1%2C+s%28a_i%2Ca_j%29%3D1\" alt=\"s(q_i,q_j)=1, s(a_i,a_j)=1\" eeimg=\"1\"/> ， <img src=\"https://www.zhihu.com/equation?tex=i%5Cne+j\" alt=\"i\\ne j\" eeimg=\"1\"/> 时 <img src=\"https://www.zhihu.com/equation?tex=s%28q_i%2Cq_j%29%3D0%2C+s%28a_i%2Ca_j%29%3D0\" alt=\"s(q_i,q_j)=0, s(a_i,a_j)=0\" eeimg=\"1\"/> </p><p>之后的每个 epoch 里，对所有点重复执行（式一）-&gt;（式二）-&gt;（式一）-&gt;（式二）-&gt; ...</p><p>以上就是 <a href=\"https://link.zhihu.com/?target=http%3A//ilpubs.stanford.edu%3A8090/508/1/2001-41.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">SimRank: a measure of structural-context similarity</a> 这篇论文的基本算法流程。</p><h2>SimRank 代码实现</h2><p>SimRank 算法的代码实现过程不难。完整 Python 代码：<a href=\"https://link.zhihu.com/?target=https%3A//github.com/ironyoung/simrank/blob/master/simrank.py\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">link</a> 。核心的更新代码如下：</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"k\">def</span> <span class=\"nf\">simrank</span><span class=\"p\">(</span><span class=\"n\">C</span><span class=\"o\">=</span><span class=\"mf\">0.8</span><span class=\"p\">,</span> <span class=\"n\">times</span><span class=\"o\">=</span><span class=\"mi\">1</span><span class=\"p\">):</span>\n    <span class=\"k\">global</span> <span class=\"n\">query_sim</span><span class=\"p\">,</span> <span class=\"n\">ad_sim</span>\n\n    <span class=\"k\">for</span> <span class=\"n\">run</span> <span class=\"ow\">in</span> <span class=\"nb\">range</span><span class=\"p\">(</span><span class=\"n\">times</span><span class=\"p\">):</span>\n        <span class=\"c1\"># queries simrank</span>\n        <span class=\"n\">new_query_sim</span> <span class=\"o\">=</span> <span class=\"n\">matrix</span><span class=\"p\">(</span><span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">identity</span><span class=\"p\">(</span><span class=\"nb\">len</span><span class=\"p\">(</span><span class=\"n\">queries</span><span class=\"p\">)))</span>\n        <span class=\"k\">for</span> <span class=\"n\">qi</span> <span class=\"ow\">in</span> <span class=\"n\">queries</span><span class=\"p\">:</span>\n            <span class=\"k\">for</span> <span class=\"n\">qj</span> <span class=\"ow\">in</span> <span class=\"n\">queries</span><span class=\"p\">:</span>\n                <span class=\"n\">i</span> <span class=\"o\">=</span> <span class=\"n\">queries</span><span class=\"o\">.</span><span class=\"n\">index</span><span class=\"p\">(</span><span class=\"n\">qi</span><span class=\"p\">)</span>\n                <span class=\"n\">j</span> <span class=\"o\">=</span> <span class=\"n\">queries</span><span class=\"o\">.</span><span class=\"n\">index</span><span class=\"p\">(</span><span class=\"n\">qj</span><span class=\"p\">)</span>\n                <span class=\"n\">new_query_sim</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,</span><span class=\"n\">j</span><span class=\"p\">]</span> <span class=\"o\">=</span> <span class=\"n\">query_simrank</span><span class=\"p\">(</span><span class=\"n\">qi</span><span class=\"p\">,</span> <span class=\"n\">qj</span><span class=\"p\">,</span> <span class=\"n\">C</span><span class=\"p\">)</span>\n\n        <span class=\"c1\"># ads simrank</span>\n        <span class=\"n\">new_ad_sim</span> <span class=\"o\">=</span> <span class=\"n\">matrix</span><span class=\"p\">(</span><span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">identity</span><span class=\"p\">(</span><span class=\"nb\">len</span><span class=\"p\">(</span><span class=\"n\">ads</span><span class=\"p\">)))</span>\n        <span class=\"k\">for</span> <span class=\"n\">ai</span> <span class=\"ow\">in</span> <span class=\"n\">ads</span><span class=\"p\">:</span>\n            <span class=\"k\">for</span> <span class=\"n\">aj</span> <span class=\"ow\">in</span> <span class=\"n\">ads</span><span class=\"p\">:</span>\n                <span class=\"n\">i</span> <span class=\"o\">=</span> <span class=\"n\">ads</span><span class=\"o\">.</span><span class=\"n\">index</span><span class=\"p\">(</span><span class=\"n\">ai</span><span class=\"p\">)</span>\n                <span class=\"n\">j</span> <span class=\"o\">=</span> <span class=\"n\">ads</span><span class=\"o\">.</span><span class=\"n\">index</span><span class=\"p\">(</span><span class=\"n\">aj</span><span class=\"p\">)</span>\n                <span class=\"n\">new_ad_sim</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,</span><span class=\"n\">j</span><span class=\"p\">]</span> <span class=\"o\">=</span> <span class=\"n\">ad_simrank</span><span class=\"p\">(</span><span class=\"n\">ai</span><span class=\"p\">,</span> <span class=\"n\">aj</span><span class=\"p\">,</span> <span class=\"n\">C</span><span class=\"p\">)</span>\n\n        <span class=\"n\">query_sim</span> <span class=\"o\">=</span> <span class=\"n\">new_query_sim</span>\n        <span class=\"n\">ad_sim</span> <span class=\"o\">=</span> <span class=\"n\">new_ad_sim</span></code></pre></div><h2>SimRank++ 公式说明</h2><p>SimRank 算法当某些情况下，会产生一些错误。例如，还是回到图 1 的例子：当设置初值 <img src=\"https://www.zhihu.com/equation?tex=C_1%3DC_2%3D0.8\" alt=\"C_1=C_2=0.8\" eeimg=\"1\"/> ，计算 <img src=\"https://www.zhihu.com/equation?tex=s%28%5Crm+%7Bcamera%7D%2C+%5Crm+%7Bdigital%7D+%5C+%5Crm%7Bcamera%7D%29+\" alt=\"s(\\rm {camera}, \\rm {digital} \\ \\rm{camera}) \" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=s%28%5Crm%7Bpc%7D%2C+%5Crm+%7Bcamera%7D%29+\" alt=\"s(\\rm{pc}, \\rm {camera}) \" eeimg=\"1\"/> </p><p>迭代过程如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-599b5d8be4aedb71df995d615ed9ce49_b.jpg\" data-rawwidth=\"1434\" data-rawheight=\"724\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1434\" data-original=\"https://pic2.zhimg.com/v2-599b5d8be4aedb71df995d615ed9ce49_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1434&#39; height=&#39;724&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1434\" data-rawheight=\"724\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1434\" data-original=\"https://pic2.zhimg.com/v2-599b5d8be4aedb71df995d615ed9ce49_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-599b5d8be4aedb71df995d615ed9ce49_b.jpg\"/><figcaption>图 2</figcaption></figure><blockquote>发现问题所在了吗？虽然经历过多次迭代，<img src=\"https://www.zhihu.com/equation?tex=s%28%5Crm+%7Bcamera%7D%2C+%5Crm+%7Bdigital%7D+%5C+%5Crm%7Bcamera%7D%29+\" alt=\"s(\\rm {camera}, \\rm {digital} \\ \\rm{camera}) \" eeimg=\"1\"/> 会增加，但是不会超过 <img src=\"https://www.zhihu.com/equation?tex=s%28%5Crm%7Bpc%7D%2C+%5Crm+%7Bcamera%7D%29+\" alt=\"s(\\rm{pc}, \\rm {camera}) \" eeimg=\"1\"/> 的值。根据 camera, digital camera, pc 的定义，这是不合理的。</blockquote><p>此时我们可以考虑，新增一个补偿项，当两者交集更多时，得到的补偿更多：</p><p><img src=\"https://www.zhihu.com/equation?tex=%7B%5Crm%7Bevidence%7D%7D%28a%2Cb%29+%3D+%5Csum_%7Bi%3D1%7D%5E%7B%5Cleft%7C+E%28a%29%5Ccap+E%28b%29+%5Cright%7C%7D%7B%5Cfrac%7B1%7D%7B2%5Ei%7D%7D\" alt=\"{\\rm{evidence}}(a,b) = \\sum_{i=1}^{\\left| E(a)\\cap E(b) \\right|}{\\frac{1}{2^i}}\" eeimg=\"1\"/> </p><p>所以，补偿后的修正相似度得分为： <img src=\"https://www.zhihu.com/equation?tex=s_%7B%5Crm%7Bevidence%7D%7D%28q_1%2Cq_2%29+%3D+%7B%5Crm%7Bevidence%7D%7D%28q_1%2Cq_2%29%5Ccdot+s%28q_1%2Cq_2%29\" alt=\"s_{\\rm{evidence}}(q_1,q_2) = {\\rm{evidence}}(q_1,q_2)\\cdot s(q_1,q_2)\" eeimg=\"1\"/> </p><blockquote>继续深入：某个相同的搜索词，用户多次点击同一个网址，是否意味这个关系更加紧密呢？</blockquote><p>反映在图中的表示就是，每条边应该有 weight 属性，例如下图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-67bd2c7e5ec858d94a48ead096d47fa5_b.jpg\" data-rawwidth=\"1596\" data-rawheight=\"274\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1596\" data-original=\"https://pic2.zhimg.com/v2-67bd2c7e5ec858d94a48ead096d47fa5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1596&#39; height=&#39;274&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1596\" data-rawheight=\"274\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1596\" data-original=\"https://pic2.zhimg.com/v2-67bd2c7e5ec858d94a48ead096d47fa5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-67bd2c7e5ec858d94a48ead096d47fa5_b.jpg\"/><figcaption>图 3</figcaption></figure><p>此时计算（式一）和（式二）的时候，需要在求和时加上权重。结合<img src=\"https://www.zhihu.com/equation?tex=%7B%5Crm%7Bevidence%7D%7D%28a%2Cb%29\" alt=\"{\\rm{evidence}}(a,b)\" eeimg=\"1\"/>后，以上（式一）（式一）如下：</p><p><img src=\"https://www.zhihu.com/equation?tex=s%28q_1%2Cq_2%29%3D%7B%5Crm%7Bevidence%7D%7D%28q_1%2Cq_2%29%5Ccdot+C_2+%5Ccdot+%5Csum_%7Ba_i+%5Cin+E%28q_1%29%7D%5E%7Ba_i%7D%5Csum_%7Ba_j+%5Cin+E%28q_2%29%7D%5E%7Ba_j%7D%7BW%28q_1%2Ca_i%29W%28q_2%2Ca_j%29s%28a_i%2Ca_j%29%7D\" alt=\"s(q_1,q_2)={\\rm{evidence}}(q_1,q_2)\\cdot C_2 \\cdot \\sum_{a_i \\in E(q_1)}^{a_i}\\sum_{a_j \\in E(q_2)}^{a_j}{W(q_1,a_i)W(q_2,a_j)s(a_i,a_j)}\" eeimg=\"1\"/>，记为<b>（式三）</b></p><p><img src=\"https://www.zhihu.com/equation?tex=s%28a_1%2Ca_2%29%3D%7B%5Crm%7Bevidence%7D%7D%28a_1%2Ca_2%29%5Ccdot+C_2+%5Ccdot+%5Csum_%7Bq_i+%5Cin+E%28a_1%29%7D%5E%7Bq_i%7D%5Csum_%7Bq_j+%5Cin+E%28a_2%29%7D%5E%7Bq_j%7D%7BW%28a_1%2Cq_i%29W%28a_2%2Cq_j%29s%28q_i%2Cq_j%29%7D\" alt=\"s(a_1,a_2)={\\rm{evidence}}(a_1,a_2)\\cdot C_2 \\cdot \\sum_{q_i \\in E(a_1)}^{q_i}\\sum_{q_j \\in E(a_2)}^{q_j}{W(a_1,q_i)W(a_2,q_j)s(q_i,q_j)}\" eeimg=\"1\"/>，记为<b>（式四）</b></p><p>（式三）、（式四）中的 <img src=\"https://www.zhihu.com/equation?tex=W\" alt=\"W\" eeimg=\"1\"/> 就是二部图中每条边的权重。计算过程有些复杂（但很好懂），而且对于实验结果呢…… 其实影响不大，这里就不写了。感兴趣的同学可以看一下 simrank++ 原论文。我理解论文中列出的也只是其中一种权重计算方法，并不是百分百正确。</p><h2>总结</h2><p>SimRank 系列算法其实是一种利用用户行为的思想。看似算法简单，但为什么可以使用迭代算法求解会收敛的证明，是比较困难的。思路需要借鉴 Power Iteration，希望以下的链接会对你有所帮助：</p><ol><li><a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DVpiyOxiVmCg\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">youtube.com/watch?</span><span class=\"invisible\">v=VpiyOxiVmCg</span><span class=\"ellipsis\"></span></a></li><li><a href=\"https://link.zhihu.com/?target=http%3A//mlwiki.org/index.php/Power_Iteration\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Power Iteration - ML Wiki</a></li></ol><p>另一方面，SimRank 系列算法往往面向的是海量的用户数据，如何实现算法迭代过程的矩阵表达、并行化，让它高效跑到 MapReduce、Spark 上，是一个独立的小方向。如果想看的朋友比较多，我会再深入讨论下。</p>", 
+            "topic": [
+                {
+                    "tag": "改写", 
+                    "tagLink": "https://api.zhihu.com/topics/20054043"
+                }, 
+                {
+                    "tag": "搜索引擎", 
+                    "tagLink": "https://api.zhihu.com/topics/19605071"
+                }, 
+                {
+                    "tag": "算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553510"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "SquidsZyd", 
+                    "userLink": "https://www.zhihu.com/people/75cbd5f06d16828706b95d393c1f7139", 
+                    "content": "学到了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "成指导", 
+                            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+                            "content": "可以找我要代码", 
+                            "likes": 1, 
+                            "replyToAuthor": "SquidsZyd"
+                        }, 
+                        {
+                            "userName": "Honka", 
+                            "userLink": "https://www.zhihu.com/people/144388e4df5edb3a42e560b9cd1de9b4", 
+                            "content": "你们都好强", 
+                            "likes": 0, 
+                            "replyToAuthor": "SquidsZyd"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "大闸蟹", 
+                    "userLink": "https://www.zhihu.com/people/cbbb5324f354e7fdf2fac3b13f13a014", 
+                    "content": "感觉可以用于大型婚介匹配", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "赵汉宇", 
+                    "userLink": "https://www.zhihu.com/people/3c10d270c9b53bcd8e240ac3ccdf230a", 
+                    "content": "<p>成指导牛批</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "成指导", 
+                            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+                            "content": "[思考]", 
+                            "likes": 0, 
+                            "replyToAuthor": "赵汉宇"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "nemo chen", 
+                    "userLink": "https://www.zhihu.com/people/cef754d8389608e2804ef1e2ced10e4f", 
+                    "content": "<p>simrank的spark的优化可以讲讲吗？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68349210", 
+            "userName": "成指导", 
+            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+            "upvote": 266, 
+            "title": "从泊松方程的解法，聊到泊松图像融合", 
+            "content": "<p>2004 年 SIGGRAPH 上，Microsoft Research UK 有篇经典的图像融合文章《Poisson Image Editing》。先看看其惊人的融合结果（非论文配图，本人实验结果）：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-516a9f444c525d66f31cae49de08a140_b.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"658\" data-rawheight=\"106\" class=\"origin_image zh-lightbox-thumb\" width=\"658\" data-original=\"https://pic1.zhimg.com/v2-516a9f444c525d66f31cae49de08a140_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;658&#39; height=&#39;106&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"658\" data-rawheight=\"106\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"658\" data-original=\"https://pic1.zhimg.com/v2-516a9f444c525d66f31cae49de08a140_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-516a9f444c525d66f31cae49de08a140_b.png\"/></figure><p>这篇文章的实现，无关目前算法领域大火的神经网络，而是基于泊松方程推导得出。</p><h2><b>泊松方程是什么？</b></h2><p>很多朋友比较熟悉概率论里面的泊松分布。泊松方程，也是同一个数学家泊松发明的。但却和泊松分布没有什么关系，是泊松物理学领域提出的一个<b>偏微分方程</b>。</p><p><img src=\"https://www.zhihu.com/equation?tex=%5CDelta+f%3D%5COmega\" alt=\"\\Delta f=\\Omega\" eeimg=\"1\"/> </p><p>这里 <img src=\"https://www.zhihu.com/equation?tex=%5CDelta\" alt=\"\\Delta\" eeimg=\"1\"/> 表示的是拉普拉斯算子，<img src=\"https://www.zhihu.com/equation?tex=f\" alt=\"f\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=%5COmega\" alt=\"\\Omega\" eeimg=\"1\"/> （ <img src=\"https://www.zhihu.com/equation?tex=%5COmega\" alt=\"\\Omega\" eeimg=\"1\"/> 在泊松方程中是<b>已知量</b>）可以是实数或复数值方程，特殊情况当 <img src=\"https://www.zhihu.com/equation?tex=%5CDelta+f%3D0\" alt=\"\\Delta f=0\" eeimg=\"1\"/> 时被称为<b>拉普拉斯方程</b>。当处于欧几里得空间时，拉普拉斯算子通常表示为 <img src=\"https://www.zhihu.com/equation?tex=%5Cnabla%5E2\" alt=\"\\nabla^2\" eeimg=\"1\"/> 。</p><p>学习图像处理的朋友对于 <img src=\"https://www.zhihu.com/equation?tex=%5CDelta\" alt=\"\\Delta\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=%5Cnabla\" alt=\"\\nabla\" eeimg=\"1\"/> 比较熟悉，分别表示二阶微分（直角坐标系下的散度）、一阶微分（直角坐标系下的梯度）。</p><h2><b>微分与卷积</b></h2><p>连续空间中的微分计算，就是大学里微积分那一套公式。但是在计算机的世界里，数据都是在离散空间中进行表示，对于图像而言，基本的计算单元就是像素点。让我们从最简单的情形，一维数组的微分说起：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla\" alt=\"\\nabla\" eeimg=\"1\"/> 表示位置 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 一阶微分计算（一阶中心导）： <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7Bdf%28x%29%7D%7Bdx%7D%3D%5Cfrac%7Bf%28x%2Bh%29-f%28x-h%29%7D%7B2h%7D\" alt=\"\\frac{df(x)}{dx}=\\frac{f(x+h)-f(x-h)}{2h}\" eeimg=\"1\"/> </p><p><img src=\"https://www.zhihu.com/equation?tex=%5CDelta\" alt=\"\\Delta\" eeimg=\"1\"/> 表示位置 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 二阶微分计算（二阶中心导）： <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7Bd%5E2f%28x%29%7D%7Bdx%5E2%7D%3D%5Cfrac%7Bf%28x%2Bh%29-2f%28x%29%2Bf%28x-h%29%7D%7Bh%5E2%7D\" alt=\"\\frac{d^2f(x)}{dx^2}=\\frac{f(x+h)-2f(x)+f(x-h)}{h^2}\" eeimg=\"1\"/> </p><p>随着 <img src=\"https://www.zhihu.com/equation?tex=h+%5Crightarrow+0\" alt=\"h \\rightarrow 0\" eeimg=\"1\"/> ，上面的微分算式的结果会逐渐逼近真实的微分值。对于图像而言，这里 <img src=\"https://www.zhihu.com/equation?tex=h\" alt=\"h\" eeimg=\"1\"/> 最小可分割单元是像素，也就表示像素间的间距，可视为 <img src=\"https://www.zhihu.com/equation?tex=1\" alt=\"1\" eeimg=\"1\"/> 。再看看，二阶微分的公式，是不是可以看成 <img src=\"https://www.zhihu.com/equation?tex=1%5Ctimes3\" alt=\"1\\times3\" eeimg=\"1\"/> 的卷积核 <img src=\"https://www.zhihu.com/equation?tex=%5B1%2C-2%2C1%5D\" alt=\"[1,-2,1]\" eeimg=\"1\"/> 在一维数组上进行卷积计算的结果（卷积中心在 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 上）。</p><p>至此，不难理解，<b>离散数据（例如图像）上的微分操作完全可以转换为卷积操作</b>。</p><p>当数组维度更高，变成二维数组呢？也就是处理图像的拉普拉斯算子： <img src=\"https://www.zhihu.com/equation?tex=%5CDelta+%3D%5Cfrac%7B%5Cpartial%5E2%7D%7B%5Cpartial+x%5E2%7D%2B%5Cfrac%7B%5Cpartial%5E2%7D%7B%5Cpartial+y%5E2%7D\" alt=\"\\Delta =\\frac{\\partial^2}{\\partial x^2}+\\frac{\\partial^2}{\\partial y^2}\" eeimg=\"1\"/> </p><p>此时，卷积核尺寸应该是 <img src=\"https://www.zhihu.com/equation?tex=3%5Ctimes3\" alt=\"3\\times3\" eeimg=\"1\"/> ，具体数值为<img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bbmatrix%7D+0+%26+1+%26+0+%5C%5C+1+%26+-4+%26+1+%5C%5C+0+%26+1+%26+0+%5Cend%7Bbmatrix%7D\" alt=\"\\begin{bmatrix} 0 &amp; 1 &amp; 0 \\\\ 1 &amp; -4 &amp; 1 \\\\ 0 &amp; 1 &amp; 0 \\end{bmatrix}\" eeimg=\"1\"/> ，称为拉普拉斯卷积核。</p><p>记住<b>拉普拉斯卷积核</b>，我们后面会用到。</p><h2>泊松方程求解</h2><p>这个时候，想想我们学会了什么？泊松方程的形式，以及拉普拉斯卷积核。</p><p>再想想，在图像场景下，什么是泊松方程的核心问题？</p><p><b>已知图像点二阶微分值（直角坐标系下即散度</b> <img src=\"https://www.zhihu.com/equation?tex=%7B%5Crm+div%7D\" alt=\"{\\rm div}\" eeimg=\"1\"/><b>）的情况下，求解各个图像点的像素值</b>。</p><p>一个简单的例子，假设有一张 <img src=\"https://www.zhihu.com/equation?tex=4%5Ctimes4\" alt=\"4\\times4\" eeimg=\"1\"/> 的图像 <img src=\"https://www.zhihu.com/equation?tex=X\" alt=\"X\" eeimg=\"1\"/> ： <img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bbmatrix%7D+x_1+%26+x_2+%26+x_3+%26+x_4+%5C%5C++x_5+%26+x_6+%26+x_7+%26+x_8+%5C%5C++x_9++%26+x_%7B10%7D+%26+x_%7B11%7D+%26+x_%7B12%7D+%5C%5C++x_%7B13%7D++%26+x_%7B14%7D+%26+x_%7B15%7D+%26+x_%7B16%7D+%5Cend%7Bbmatrix%7D\" alt=\"\\begin{bmatrix} x_1 &amp; x_2 &amp; x_3 &amp; x_4 \\\\  x_5 &amp; x_6 &amp; x_7 &amp; x_8 \\\\  x_9  &amp; x_{10} &amp; x_{11} &amp; x_{12} \\\\  x_{13}  &amp; x_{14} &amp; x_{15} &amp; x_{16} \\end{bmatrix}\" eeimg=\"1\"/> ， <img src=\"https://www.zhihu.com/equation?tex=x_i\" alt=\"x_i\" eeimg=\"1\"/> 表示各个位置上的图像像素值，共 16 个未知参数需要被求解。</p><p>应用拉普拉斯卷积核后，得到 4 个方程式：<img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%7D+++%5Cleft%5C%7B++++++++++++++++%5Cbegin%7Barray%7D%7B%2A%2Alr%2A%2A%7D++++++++++++++++x_2%2Bx_5%2Bx_7%2Bx_%7B10%7D-4+x_6%3D%7B%5Crm+div%7D+x_6%26++%5C%5C++++++++++++++++x_3%2Bx_6%2Bx_8%2Bx_%7B11%7D-4+x_7%3D%7B%5Crm+div%7D+x_7%26%5C%5C++++++++++++++++x_6%2Bx_9%2Bx_%7B11%7D%2Bx_%7B14%7D-4+x_%7B10%7D%3D%7B%5Crm+div%7D+x_%7B10%7D%26%5C%5C++++++++++++++++x_7%2Bx_%7B10%7D%2Bx_%7B12%7D%2Bx_%7B15%7D-4+x_%7B11%7D%3D%7B%5Crm+div%7D+x_%7B11%7D%26++++++++++++++++++%5Cend%7Barray%7D+++%5Cright.+++%5Cend%7Bequation%7D++\" alt=\"\\begin{equation}   \\left\\{                \\begin{array}{**lr**}                x_2+x_5+x_7+x_{10}-4 x_6={\\rm div} x_6&amp;  \\\\                x_3+x_6+x_8+x_{11}-4 x_7={\\rm div} x_7&amp;\\\\                x_6+x_9+x_{11}+x_{14}-4 x_{10}={\\rm div} x_{10}&amp;\\\\                x_7+x_{10}+x_{12}+x_{15}-4 x_{11}={\\rm div} x_{11}&amp;                  \\end{array}   \\right.   \\end{equation}  \" eeimg=\"1\"/> </p><p>4 个方程式求解出 16 个未知参数？这是不可能的。</p><p>因此，我们需要另加入至少 12 个更多的方程式，也就是说，需要把剩余 12 个边界点的值确定，即需要确定边界条件。边界一般符合 2 种常见的边界条件：</p><ul><li><b>Neumann 边界</b>，译为纽曼边界或黎曼边界，给出函数在边界处的二阶导数值；</li><li><b>Dirichlet 边界</b>，狄利克雷边界，给出边界处函数在边界处的实际值。</li></ul><p>但给定边界条件之后，就可以有 16 个方程式组成的方程组了，矩阵化表示此方程组之后，得到形式为 <img src=\"https://www.zhihu.com/equation?tex=A%5Ctextbf%7Bx%7D%3Db\" alt=\"A\\textbf{x}=b\" eeimg=\"1\"/> 。</p><p>看到 <img src=\"https://www.zhihu.com/equation?tex=A%5Ctextbf%7Bx%7D%3Db\" alt=\"A\\textbf{x}=b\" eeimg=\"1\"/> ，大家就应该放松了，不就是解方程嘛，用<a href=\"https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/zh-hans/%25E9%259B%2585%25E5%258F%25AF%25E6%25AF%2594%25E6%25B3%2595\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">雅可比迭代法</a>或者<a href=\"https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/zh-hans/%25E9%25AB%2598%25E6%2596%25AF-%25E8%25B5%259B%25E5%25BE%25B7%25E5%25B0%2594%25E8%25BF%25AD%25E4%25BB%25A3\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">高斯赛德尔迭代法</a>来求解就 OK 了。</p><h2>Poisson Image Editing</h2><p>背景知识储备好了后，让我们把目光拉回到论文《Poisson Image Editing》上。</p><p>在图像融合任务中，前景放置在背景上时，需要保证两点：</p><ul><li>前景本身主要内容相比于背景而言，尽量<b>平滑</b>；</li><li>边界处无缝，即前景、背景在边界点位置上的像素值，需要<b>保持边界一致</b>。</li></ul><p>重点关注两个词：内容平滑、边界一致。平滑是什么？可以理解成图像前景、背景梯度相同。边界一致是指什么？可以理解成在边界上像素值相同。再用一张图来说明：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-16f56d1328747c46b7487d89bf780fa3_b.jpg\" data-size=\"normal\" data-rawwidth=\"1179\" data-rawheight=\"447\" class=\"origin_image zh-lightbox-thumb\" width=\"1179\" data-original=\"https://pic4.zhimg.com/v2-16f56d1328747c46b7487d89bf780fa3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1179&#39; height=&#39;447&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1179\" data-rawheight=\"447\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1179\" data-original=\"https://pic4.zhimg.com/v2-16f56d1328747c46b7487d89bf780fa3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-16f56d1328747c46b7487d89bf780fa3_b.jpg\"/><figcaption>蓝色图片表示前景图片，需要被融合到肉色的背景图片上</figcaption></figure><p>上图中 <img src=\"https://www.zhihu.com/equation?tex=u\" alt=\"u\" eeimg=\"1\"/> 表示需要被合成的前景图片， <img src=\"https://www.zhihu.com/equation?tex=V\" alt=\"V\" eeimg=\"1\"/> 是 <img src=\"https://www.zhihu.com/equation?tex=u\" alt=\"u\" eeimg=\"1\"/> 的梯度场。 <img src=\"https://www.zhihu.com/equation?tex=S\" alt=\"S\" eeimg=\"1\"/> 是背景图片， <img src=\"https://www.zhihu.com/equation?tex=%5COmega\" alt=\"\\Omega\" eeimg=\"1\"/> 是合并后目标图像中被前景所覆盖的区域，则 <img src=\"https://www.zhihu.com/equation?tex=%5Cpartial+%5COmega\" alt=\"\\partial \\Omega\" eeimg=\"1\"/> 是 <img src=\"https://www.zhihu.com/equation?tex=%5COmega\" alt=\"\\Omega\" eeimg=\"1\"/> 的边界。设合并后图像在 <img src=\"https://www.zhihu.com/equation?tex=%5COmega\" alt=\"\\Omega\" eeimg=\"1\"/> 内的像素表示函数是 <img src=\"https://www.zhihu.com/equation?tex=f\" alt=\"f\" eeimg=\"1\"/> ，在 <img src=\"https://www.zhihu.com/equation?tex=%5COmega\" alt=\"\\Omega\" eeimg=\"1\"/> 外的像素值表示函数是 <img src=\"https://www.zhihu.com/equation?tex=f%5E%7B%2A%7D\" alt=\"f^{*}\" eeimg=\"1\"/> 。</p><p>此时，<b>平滑</b>可表示为： <img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bequation%7D+%5Cmin_%7B%5Csubstack%7Bf%7D%7D+%5Ciint_%7B%5COmega%7D%5Cleft%7C+%5Cnabla+f-%5Ctextbf%7Bv%7D+%5Cright%7C%5E2+%5Cend%7Bequation%7D\" alt=\"\\begin{equation} \\min_{\\substack{f}} \\iint_{\\Omega}\\left| \\nabla f-\\textbf{v} \\right|^2 \\end{equation}\" eeimg=\"1\"/> ；<b>保持边界一致</b>可表示为： <img src=\"https://www.zhihu.com/equation?tex=f%7C_%7B%5Cpartial+%5COmega%7D%3Df%5E%7B%2A%7D%7C_%7B%5Cpartial+%5COmega%7D\" alt=\"f|_{\\partial \\Omega}=f^{*}|_{\\partial \\Omega}\" eeimg=\"1\"/> 。</p><p>这里如果接触过泛函的朋友会比较开心，没接触过的朋友可以先看看<a href=\"https://zhuanlan.zhihu.com/p/20718489\" class=\"internal\">欧拉-拉格朗日方程</a>。</p><p>令 <img src=\"https://www.zhihu.com/equation?tex=F%3D%5Cleft%7C+%5Cnabla+f-%5Ctextbf%7Bv%7D+%5Cright%7C%5E2%3D%28%5Cnabla+f_x-%5Ctextbf%7Bv%7D_x%29%5E2%2B%28%5Cnabla+f_y-%5Ctextbf%7Bv%7D_y%29%5E2\" alt=\"F=\\left| \\nabla f-\\textbf{v} \\right|^2=(\\nabla f_x-\\textbf{v}_x)^2+(\\nabla f_y-\\textbf{v}_y)^2\" eeimg=\"1\"/> ，</p><p>代入欧拉-拉格朗日方程后则有： <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial+F%7D%7B%5Cpartial+f%7D%3D%5Cfrac%7Bd%7D%7Bdx%7D%5Cleft%5B+%5Cfrac%7B%5Cpartial+F%7D%7B%5Cpartial+%28%5Cnabla+f_x-%5Ctextbf%7Bv%7D_x%29%5E2%7D+%5Cright%5D%2B%5Cfrac%7Bd%7D%7Bdy%7D%5Cleft%5B+%5Cfrac%7B%5Cpartial+F%7D%7B%5Cpartial+%28%5Cnabla+f_y-%5Ctextbf%7Bv%7D_y%29%5E2%7D+%5Cright%5D\" alt=\"\\frac{\\partial F}{\\partial f}=\\frac{d}{dx}\\left[ \\frac{\\partial F}{\\partial (\\nabla f_x-\\textbf{v}_x)^2} \\right]+\\frac{d}{dy}\\left[ \\frac{\\partial F}{\\partial (\\nabla f_y-\\textbf{v}_y)^2} \\right]\" eeimg=\"1\"/> </p><p><img src=\"https://www.zhihu.com/equation?tex=%5CRightarrow0%3D%5Cfrac%7Bd%7D%7Bdx%7D%5Cleft%5B+2+%28%5Cnabla+f_x-%5Ctextbf%7Bv%7D_x%29+%5Cright%5D%2B%5Cfrac%7Bd%7D%7Bdy%7D%5Cleft%5B+2+%28+f_y-%5Ctextbf%7Bv%7D_y%29+%5Cright%5D\" alt=\"\\Rightarrow0=\\frac{d}{dx}\\left[ 2 (\\nabla f_x-\\textbf{v}_x) \\right]+\\frac{d}{dy}\\left[ 2 ( f_y-\\textbf{v}_y) \\right]\" eeimg=\"1\"/> </p><blockquote>注意：<img src=\"https://www.zhihu.com/equation?tex=F\" alt=\"F\" eeimg=\"1\"/> 是 <img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+f\" alt=\"\\nabla f\" eeimg=\"1\"/> 的函数，不是对 <img src=\"https://www.zhihu.com/equation?tex=f\" alt=\"f\" eeimg=\"1\"/> 的，因此 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial+F%7D%7B%5Cpartial+f%7D%3D0\" alt=\"\\frac{\\partial F}{\\partial f}=0\" eeimg=\"1\"/> </blockquote><p><img src=\"https://www.zhihu.com/equation?tex=%5CRightarrow0%3D%28%5Cfrac%7B%5Cpartial%5E2+f%7D%7B%5Cpartial+x%5E2%7D-%5Cfrac%7B%5Cpartial+%5Ctextbf%7Bv%7D%7D%7B%5Cpartial+x%7D%29%2B%28%5Cfrac%7B%5Cpartial%5E2+f%7D%7B%5Cpartial+y%5E2%7D-%5Cfrac%7B%5Cpartial+%5Ctextbf%7Bv%7D%7D%7B%5Cpartial+y%7D%29%5CRightarrow+%5CDelta+f%3D%5Ctextbf%7Bdiv+v%7D\" alt=\"\\Rightarrow0=(\\frac{\\partial^2 f}{\\partial x^2}-\\frac{\\partial \\textbf{v}}{\\partial x})+(\\frac{\\partial^2 f}{\\partial y^2}-\\frac{\\partial \\textbf{v}}{\\partial y})\\Rightarrow \\Delta f=\\textbf{div v}\" eeimg=\"1\"/> </p><p>怎么样，看起来是不是一个泊松方程呢？当然，还差两步：</p><ul><li>因为需要<b>平滑</b>， <img src=\"https://www.zhihu.com/equation?tex=%5Ctextbf%7Bdiv+v%7D\" alt=\"\\textbf{div v}\" eeimg=\"1\"/> 取值需要同时参考前景图片和背景图片，可以直接等于前景像素的散度，也可以在前景和背景在同一点像素的散度进行某种组合得到（论文中在 Selection cloning 和 Selection editing 章节有讨论各自合适的场景，但个人以为这里采取学习的方法应该更鲁棒，而不是用固定的策略来区分）。anyway， <img src=\"https://www.zhihu.com/equation?tex=%5Ctextbf%7Bdiv+v%7D\" alt=\"\\textbf{div v}\" eeimg=\"1\"/> 是可以计算的已知量；</li><li>因为需要<b>保持边界一致</b>，边界条件上像素值等于背景图片即可。当然也可以做一些策略，但同样也可以计算得到的已知量。</li></ul><p>现在很轻松了，边界条件已知、散度已知，在离散空间中求解泊松方程中的 <img src=\"https://www.zhihu.com/equation?tex=f\" alt=\"f\" eeimg=\"1\"/> ，参考上一节的求解过程即可。</p><h2>代码实现</h2><p>函数代码已经收录在了 OpenCV 的官方函数 <b>seamlessClone</b> 里：<a href=\"https://link.zhihu.com/?target=https%3A//github.com/opencv/opencv/blob/a8b0db4e5dd7606fa0da3094088d1656e6fdf1c0/modules/photo/src/seamless_cloning.cpp\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">github source code</a></p><p>使用的时候，需要三张图片：前景图、背景图、mask图（指明前景图中需要融合的区域，最简单的就是直接等于前景图大小的 mask，待融合区域是白色，其余位置黑色）。</p><p>下面我们使用 OpenCV 的 Python 接口来动手试试，用到以下两张图以及一段代码：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-025fc9874c72628282b23b3f27dfbacf_b.jpg\" data-size=\"normal\" data-rawwidth=\"305\" data-rawheight=\"124\" class=\"content_image\" width=\"305\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;305&#39; height=&#39;124&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"305\" data-rawheight=\"124\" class=\"content_image lazy\" width=\"305\" data-actualsrc=\"https://pic4.zhimg.com/v2-025fc9874c72628282b23b3f27dfbacf_b.jpg\"/><figcaption>foreground.jpg</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-dc928320fb269ea92385edebded4eaa6_b.jpg\" data-size=\"normal\" data-rawwidth=\"409\" data-rawheight=\"220\" class=\"content_image\" width=\"409\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;409&#39; height=&#39;220&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"409\" data-rawheight=\"220\" class=\"content_image lazy\" width=\"409\" data-actualsrc=\"https://pic3.zhimg.com/v2-dc928320fb269ea92385edebded4eaa6_b.jpg\"/><figcaption>background.jpg</figcaption></figure><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"kn\">import</span> <span class=\"nn\">cv2</span>\n<span class=\"kn\">import</span> <span class=\"nn\">numpy</span> <span class=\"kn\">as</span> <span class=\"nn\">np</span>\n\n<span class=\"c1\"># Read images : src image will be cloned into dst</span>\n<span class=\"n\">dst</span> <span class=\"o\">=</span> <span class=\"n\">cv2</span><span class=\"o\">.</span><span class=\"n\">imread</span><span class=\"p\">(</span><span class=\"s2\">&#34;background.jpg&#34;</span><span class=\"p\">)</span>\n<span class=\"n\">obj</span><span class=\"o\">=</span> <span class=\"n\">cv2</span><span class=\"o\">.</span><span class=\"n\">imread</span><span class=\"p\">(</span><span class=\"s2\">&#34;foreground.jpg&#34;</span><span class=\"p\">)</span>\n\n<span class=\"c1\"># Create an all white mask</span>\n<span class=\"n\">mask</span> <span class=\"o\">=</span> <span class=\"mi\">255</span> <span class=\"o\">*</span> <span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">ones</span><span class=\"p\">(</span><span class=\"n\">obj</span><span class=\"o\">.</span><span class=\"n\">shape</span><span class=\"p\">,</span> <span class=\"n\">obj</span><span class=\"o\">.</span><span class=\"n\">dtype</span><span class=\"p\">)</span>\n\n<span class=\"c1\"># The location of the center of the src in the dst</span>\n<span class=\"n\">width</span><span class=\"p\">,</span> <span class=\"n\">height</span><span class=\"p\">,</span> <span class=\"n\">channels</span> <span class=\"o\">=</span> <span class=\"n\">dst</span><span class=\"o\">.</span><span class=\"n\">shape</span>\n<span class=\"n\">center</span> <span class=\"o\">=</span> <span class=\"p\">(</span><span class=\"n\">height</span><span class=\"o\">/</span><span class=\"mi\">2</span><span class=\"p\">,</span> <span class=\"n\">width</span><span class=\"o\">/</span><span class=\"mi\">2</span><span class=\"p\">)</span>\n\n<span class=\"c1\"># Seamlessly clone src into dst and put the results in output</span>\n<span class=\"n\">normal_clone</span> <span class=\"o\">=</span> <span class=\"n\">cv2</span><span class=\"o\">.</span><span class=\"n\">seamlessClone</span><span class=\"p\">(</span><span class=\"n\">obj</span><span class=\"p\">,</span> <span class=\"n\">dst</span><span class=\"p\">,</span> <span class=\"n\">mask</span><span class=\"p\">,</span> <span class=\"n\">center</span><span class=\"p\">,</span> <span class=\"n\">cv2</span><span class=\"o\">.</span><span class=\"n\">NORMAL_CLONE</span><span class=\"p\">)</span>\n<span class=\"n\">mixed_clone</span> <span class=\"o\">=</span> <span class=\"n\">cv2</span><span class=\"o\">.</span><span class=\"n\">seamlessClone</span><span class=\"p\">(</span><span class=\"n\">obj</span><span class=\"p\">,</span> <span class=\"n\">dst</span><span class=\"p\">,</span> <span class=\"n\">mask</span><span class=\"p\">,</span> <span class=\"n\">center</span><span class=\"p\">,</span> <span class=\"n\">cv2</span><span class=\"o\">.</span><span class=\"n\">MIXED_CLONE</span><span class=\"p\">)</span>\n\n<span class=\"c1\"># Write results</span>\n<span class=\"n\">cv2</span><span class=\"o\">.</span><span class=\"n\">imwrite</span><span class=\"p\">(</span><span class=\"s2\">&#34;images/opencv-normal-clone-example.jpg&#34;</span><span class=\"p\">,</span> <span class=\"n\">normal_clone</span><span class=\"p\">)</span>\n<span class=\"n\">cv2</span><span class=\"o\">.</span><span class=\"n\">imwrite</span><span class=\"p\">(</span><span class=\"s2\">&#34;images/opencv-mixed-clone-example.jpg&#34;</span><span class=\"p\">,</span> <span class=\"n\">mixed_clone</span><span class=\"p\">)</span></code></pre></div><p>最终效果如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-7748327cc7a2d81da122fd46a7daefe5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"409\" data-rawheight=\"220\" class=\"content_image\" width=\"409\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;409&#39; height=&#39;220&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"409\" data-rawheight=\"220\" class=\"content_image lazy\" width=\"409\" data-actualsrc=\"https://pic2.zhimg.com/v2-7748327cc7a2d81da122fd46a7daefe5_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "泊松", 
+                    "tagLink": "https://api.zhihu.com/topics/20029802"
+                }, 
+                {
+                    "tag": "图像处理", 
+                    "tagLink": "https://api.zhihu.com/topics/19556376"
+                }, 
+                {
+                    "tag": "SIGGRAPH", 
+                    "tagLink": "https://api.zhihu.com/topics/19628126"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "达达", 
+                    "userLink": "https://www.zhihu.com/people/fccf37b5c97c39f2c87901bb90da770b", 
+                    "content": "跟随我成脚步", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "成指导", 
+                            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+                            "content": "刘博搞起啊", 
+                            "likes": 3, 
+                            "replyToAuthor": "达达"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "大铁杆", 
+                    "userLink": "https://www.zhihu.com/people/a8d1a7c5171c61b12006ed04f5940855", 
+                    "content": "给VP挽尊", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "成指导", 
+                            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+                            "content": "挽个啥，很强好吧", 
+                            "likes": 0, 
+                            "replyToAuthor": "大铁杆"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "李根", 
+                    "userLink": "https://www.zhihu.com/people/85b2b9e7258954f87e9b0d10c5b6a08b", 
+                    "content": "深入浅出，VP厉害了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "成指导", 
+                            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+                            "content": "根爷头像nb，觉得好顺手一赞", 
+                            "likes": 0, 
+                            "replyToAuthor": "李根"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Leyi", 
+                    "userLink": "https://www.zhihu.com/people/2abea19f92e73d1d3bb3311b07de7c1f", 
+                    "content": "中科大图形学作业1就是实现这个😂", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "成指导", 
+                            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+                            "content": "[飙泪笑][飙泪笑][飙泪笑]", 
+                            "likes": 0, 
+                            "replyToAuthor": "Leyi"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "虽然作业已经做完了，但还是试试。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "GPU服务器", 
+                    "userLink": "https://www.zhihu.com/people/265115001f774ff0e4f8fa4256f5d304", 
+                    "content": "<p>如果能生成好的mask，泊松方程的效果还是很炫酷的</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "成指导", 
+                            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+                            "content": "的确是的，生成mask领域也是深水区", 
+                            "likes": 0, 
+                            "replyToAuthor": "GPU服务器"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Tray", 
+                    "userLink": "https://www.zhihu.com/people/bf1b23731ce7d072ac82a5a13ce5c357", 
+                    "content": "<p>代码里面width, height, channels = im.shape的im是什么？是dst？mask在上文没提到</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "成指导", 
+                            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+                            "content": "im是dst，您说的没错，是我的变量名没改过来，等会到公司改一下。mask就是前景全图大小的全白图片，没有采用更精细的抠出mask的方法", 
+                            "likes": 1, 
+                            "replyToAuthor": "Tray"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Tray", 
+                    "userLink": "https://www.zhihu.com/people/bf1b23731ce7d072ac82a5a13ce5c357", 
+                    "content": "<p>做之前还是要对前景先扣图，背景毕竟不能融合进去</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "成指导", 
+                            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+                            "content": "是的，这里这个例子方便说明，就用了这种。精细的融合需要采用一些复杂的抠mask方法", 
+                            "likes": 1, 
+                            "replyToAuthor": "Tray"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "苏杨", 
+                    "userLink": "https://www.zhihu.com/people/7a0de53862b0acc4cdb1334900c40c75", 
+                    "content": "<p>其实就是 clone了梯度，而不是 pixel，这个过程最后构成了一个离散的 poisson equation，变成求解线性系统的一个过程</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "成指导", 
+                            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+                            "content": "<p>你的总结很正确</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "苏杨"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "GorgeousShar", 
+                    "userLink": "https://www.zhihu.com/people/dee078e628df73c1ff18ca1034c1417d", 
+                    "content": "感觉有点虎头蛇尾了，虽然泛函变分没全学完但是感觉关联度不大……变分解决的问题更依赖于变分系统而不是导数，这里泊松函数只是引入算子，计算边界的二阶梯度，然后结果是归一平滑融合，总体是一个平滑方法，但是一方面很依赖图像的分辨率和大小，如果margin颜色复杂一点可能会有羽化的可能。还是没有从根本上解决问题吧……不过大佬出发点是好的[赞同]  话说代码是不是少了一点[好奇]", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "成指导", 
+                            "userLink": "https://www.zhihu.com/people/1ae12e76e9dbb901f73d780d3c906709", 
+                            "content": "<p>羽化是指什么效果呢？代码没有少哈哈，不过我发现有个变量写错了……改了一下，你看看</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "GorgeousShar"
+                        }, 
+                        {
+                            "userName": "GorgeousShar", 
+                            "userLink": "https://www.zhihu.com/people/dee078e628df73c1ff18ca1034c1417d", 
+                            "content": "[捂脸]因为我感觉这个有点像ps抠图，所以羽化就是在融合的过程中为了平滑会产生局部模糊，但是“字”的颜色是不会变的。代码我以为是要自己底层开始……  其中的mask感觉就像曲线一样，调节被融合物的色彩曲线靠近融合背景，如果结合gan这种应该能变成很好的“画家”吧！[大笑]   还有一点我觉得可以考虑通过修改“白板的分布”，只由边界平滑，而不改变整体的色调，这个方向也可以做合成之类的，这个方向前景应该会做很多事……[拜托]以上拙见还望见谅", 
+                            "likes": 1, 
+                            "replyToAuthor": "成指导"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "麦田捕手", 
+                    "userLink": "https://www.zhihu.com/people/27dda92abc09782082d0436cfadcbefa", 
+                    "content": "梦回《数学物理方法》", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Hola", 
+                    "userLink": "https://www.zhihu.com/people/55892785980d95919ab60c26f5d14d42", 
+                    "content": "可以用GrabCut方法直接选出mask，然后再融合，几乎没什么手动抠图操作，效果也不错。", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1121446587066396672"
+}

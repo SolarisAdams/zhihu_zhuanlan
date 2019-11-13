@@ -1,0 +1,882 @@
+{
+    "title": "Project HEDT", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/codepiano", 
+        "https://www.zhihu.com/people/Sakura_DNUI", 
+        "https://www.zhihu.com/people/vnyor", 
+        "https://www.zhihu.com/people/lu-hong-tao-52-79", 
+        "https://www.zhihu.com/people/qing-huai-qing-huai-33", 
+        "https://www.zhihu.com/people/bin-bin-zi-76", 
+        "https://www.zhihu.com/people/xiao-xin-80-68-5", 
+        "https://www.zhihu.com/people/zj1983221", 
+        "https://www.zhihu.com/people/sailfishc", 
+        "https://www.zhihu.com/people/ying-nian-zao-fei", 
+        "https://www.zhihu.com/people/whitesaber", 
+        "https://www.zhihu.com/people/si-xiang-lei-hou", 
+        "https://www.zhihu.com/people/wu-yu-bu-xiang-ben-er", 
+        "https://www.zhihu.com/people/steven-liang-99", 
+        "https://www.zhihu.com/people/llxxpp-53", 
+        "https://www.zhihu.com/people/davidyang_cool", 
+        "https://www.zhihu.com/people/li-lin-11-38-27", 
+        "https://www.zhihu.com/people/littleNewton", 
+        "https://www.zhihu.com/people/ke-ke-g", 
+        "https://www.zhihu.com/people/lin-shu-dong", 
+        "https://www.zhihu.com/people/NoResponse", 
+        "https://www.zhihu.com/people/chaosyu", 
+        "https://www.zhihu.com/people/slip-21", 
+        "https://www.zhihu.com/people/RenZY", 
+        "https://www.zhihu.com/people/Radon86", 
+        "https://www.zhihu.com/people/ma-tao-37-1", 
+        "https://www.zhihu.com/people/bu-neng-zi-wo-he-li-hua", 
+        "https://www.zhihu.com/people/yoshiyuki", 
+        "https://www.zhihu.com/people/zhou-liang-liang-61", 
+        "https://www.zhihu.com/people/ye-xiao-1-61", 
+        "https://www.zhihu.com/people/daysfish-five", 
+        "https://www.zhihu.com/people/wood-marco", 
+        "https://www.zhihu.com/people/liuyibo0514", 
+        "https://www.zhihu.com/people/koya-50", 
+        "https://www.zhihu.com/people/wanquanyou", 
+        "https://www.zhihu.com/people/yang-yun-long-26", 
+        "https://www.zhihu.com/people/linuxcpp", 
+        "https://www.zhihu.com/people/tomsulh", 
+        "https://www.zhihu.com/people/autumns", 
+        "https://www.zhihu.com/people/yonhdee", 
+        "https://www.zhihu.com/people/lan-hai-yang-66", 
+        "https://www.zhihu.com/people/qi-zhu-qu-kan-hai-31", 
+        "https://www.zhihu.com/people/shan-shui-zhi-jian-29", 
+        "https://www.zhihu.com/people/nong-xiao-ming", 
+        "https://www.zhihu.com/people/niichijou", 
+        "https://www.zhihu.com/people/tang-gong-yu-17", 
+        "https://www.zhihu.com/people/zpc798", 
+        "https://www.zhihu.com/people/echo5201", 
+        "https://www.zhihu.com/people/ricky_wong", 
+        "https://www.zhihu.com/people/hu-yu-qi", 
+        "https://www.zhihu.com/people/justin-lu-11", 
+        "https://www.zhihu.com/people/he-ji-chong", 
+        "https://www.zhihu.com/people/keyiyin", 
+        "https://www.zhihu.com/people/tonyliu2ca", 
+        "https://www.zhihu.com/people/swordshadow", 
+        "https://www.zhihu.com/people/stephen-34-51", 
+        "https://www.zhihu.com/people/pang-zhi-chao-fan", 
+        "https://www.zhihu.com/people/li-shuai-89-79", 
+        "https://www.zhihu.com/people/le-tian-qi-shi", 
+        "https://www.zhihu.com/people/Panchinist", 
+        "https://www.zhihu.com/people/zengboyu", 
+        "https://www.zhihu.com/people/huang-pi-gou", 
+        "https://www.zhihu.com/people/jiang-wei-74", 
+        "https://www.zhihu.com/people/you-zhi-zi-yin", 
+        "https://www.zhihu.com/people/wu-dan-57-77", 
+        "https://www.zhihu.com/people/qianlongzt", 
+        "https://www.zhihu.com/people/FullHD", 
+        "https://www.zhihu.com/people/xiong-ao", 
+        "https://www.zhihu.com/people/cong-fu-lu-95", 
+        "https://www.zhihu.com/people/li-shun-sheng-40-35", 
+        "https://www.zhihu.com/people/leonardo-rocs", 
+        "https://www.zhihu.com/people/sqlmap", 
+        "https://www.zhihu.com/people/XianyuS", 
+        "https://www.zhihu.com/people/nan-song-yi-feng", 
+        "https://www.zhihu.com/people/wu-chou-21-96", 
+        "https://www.zhihu.com/people/zhou-feng-21-39", 
+        "https://www.zhihu.com/people/Siberia", 
+        "https://www.zhihu.com/people/wang-tong-hui", 
+        "https://www.zhihu.com/people/tian-yong-qiang-26", 
+        "https://www.zhihu.com/people/deng-si-yuan-95-68", 
+        "https://www.zhihu.com/people/yuyaotong", 
+        "https://www.zhihu.com/people/ZhangQian1979summer", 
+        "https://www.zhihu.com/people/chazeon", 
+        "https://www.zhihu.com/people/xi-yang-xia-de-cai-hong", 
+        "https://www.zhihu.com/people/chaosjohn", 
+        "https://www.zhihu.com/people/du-li-72", 
+        "https://www.zhihu.com/people/uijmjquiugmy", 
+        "https://www.zhihu.com/people/bai-gui-hong", 
+        "https://www.zhihu.com/people/fan-yu-chao", 
+        "https://www.zhihu.com/people/li-li-85-51-56", 
+        "https://www.zhihu.com/people/leker", 
+        "https://www.zhihu.com/people/meng-sun-xiang", 
+        "https://www.zhihu.com/people/nok-gae", 
+        "https://www.zhihu.com/people/spacelessd", 
+        "https://www.zhihu.com/people/nicball", 
+        "https://www.zhihu.com/people/membogg", 
+        "https://www.zhihu.com/people/ying-fang-fa", 
+        "https://www.zhihu.com/people/sun-tao-35", 
+        "https://www.zhihu.com/people/mattos-92", 
+        "https://www.zhihu.com/people/rainylin", 
+        "https://www.zhihu.com/people/song-fu-57", 
+        "https://www.zhihu.com/people/Miao322", 
+        "https://www.zhihu.com/people/hu-ming-jackson", 
+        "https://www.zhihu.com/people/king-35-38", 
+        "https://www.zhihu.com/people/Oldhow", 
+        "https://www.zhihu.com/people/yang-chen-46-66", 
+        "https://www.zhihu.com/people/ampxe", 
+        "https://www.zhihu.com/people/jiang-yi-feng-953", 
+        "https://www.zhihu.com/people/radow", 
+        "https://www.zhihu.com/people/james-swineson", 
+        "https://www.zhihu.com/people/ningmeng-bing", 
+        "https://www.zhihu.com/people/peng-an-dr-quest", 
+        "https://www.zhihu.com/people/cavendish", 
+        "https://www.zhihu.com/people/cybort-21", 
+        "https://www.zhihu.com/people/zhang-zi-cheng-81", 
+        "https://www.zhihu.com/people/jia-de-bin", 
+        "https://www.zhihu.com/people/xiao-jie-32", 
+        "https://www.zhihu.com/people/zealoussnow", 
+        "https://www.zhihu.com/people/luo-yixin-79", 
+        "https://www.zhihu.com/people/CEllEN-29", 
+        "https://www.zhihu.com/people/tursomk", 
+        "https://www.zhihu.com/people/yeqifanghui", 
+        "https://www.zhihu.com/people/xu-yi-hang", 
+        "https://www.zhihu.com/people/moda1113", 
+        "https://www.zhihu.com/people/charles-wu-04", 
+        "https://www.zhihu.com/people/wu-qing-xuan-64-95", 
+        "https://www.zhihu.com/people/zhou-hong-yan-98", 
+        "https://www.zhihu.com/people/lilyhei-63", 
+        "https://www.zhihu.com/people/xiaozhe0809", 
+        "https://www.zhihu.com/people/hu-cheng-zhi-62", 
+        "https://www.zhihu.com/people/yang-jun-yi-98-1", 
+        "https://www.zhihu.com/people/yangjunfeng-82", 
+        "https://www.zhihu.com/people/he-ma-61", 
+        "https://www.zhihu.com/people/chen-hua-jin-5", 
+        "https://www.zhihu.com/people/gordon-freeman", 
+        "https://www.zhihu.com/people/tianyuax", 
+        "https://www.zhihu.com/people/ru-guo-ta", 
+        "https://www.zhihu.com/people/deng-han-xia", 
+        "https://www.zhihu.com/people/prozac-10-53", 
+        "https://www.zhihu.com/people/liu-yu-chen-96", 
+        "https://www.zhihu.com/people/blutundehre", 
+        "https://www.zhihu.com/people/cat-mobile", 
+        "https://www.zhihu.com/people/russell-95-10", 
+        "https://www.zhihu.com/people/leiy", 
+        "https://www.zhihu.com/people/xin-yu-24-55", 
+        "https://www.zhihu.com/people/long-yang-56", 
+        "https://www.zhihu.com/people/flier-lu", 
+        "https://www.zhihu.com/people/li-tian-xiang-98-44", 
+        "https://www.zhihu.com/people/wang-lei-19-74-38", 
+        "https://www.zhihu.com/people/chen-hong-zheng-92", 
+        "https://www.zhihu.com/people/peng-bei-cheng", 
+        "https://www.zhihu.com/people/liu-fang-wai", 
+        "https://www.zhihu.com/people/cheng-gao", 
+        "https://www.zhihu.com/people/artshell", 
+        "https://www.zhihu.com/people/hou-lin-22-58", 
+        "https://www.zhihu.com/people/dai-hao-xiang-35", 
+        "https://www.zhihu.com/people/sophomore2", 
+        "https://www.zhihu.com/people/heinz-14", 
+        "https://www.zhihu.com/people/liu-xiao-yao-12", 
+        "https://www.zhihu.com/people/lovecraft", 
+        "https://www.zhihu.com/people/Linuxkr", 
+        "https://www.zhihu.com/people/wo-mei-26", 
+        "https://www.zhihu.com/people/inext", 
+        "https://www.zhihu.com/people/struct-78", 
+        "https://www.zhihu.com/people/sheepflyone", 
+        "https://www.zhihu.com/people/hu-ke-51-44", 
+        "https://www.zhihu.com/people/yichen-wang", 
+        "https://www.zhihu.com/people/chen-wen-que", 
+        "https://www.zhihu.com/people/dreista", 
+        "https://www.zhihu.com/people/pan-xiang-9-14", 
+        "https://www.zhihu.com/people/syhily", 
+        "https://www.zhihu.com/people/jiarong-fan", 
+        "https://www.zhihu.com/people/xie-yuan-98-54", 
+        "https://www.zhihu.com/people/liu-chen-62-73", 
+        "https://www.zhihu.com/people/luo-ri-yu-hui-8", 
+        "https://www.zhihu.com/people/zhang-xing-wei-26", 
+        "https://www.zhihu.com/people/coarser", 
+        "https://www.zhihu.com/people/zheng-jian-yang-56", 
+        "https://www.zhihu.com/people/wang-bing-cao", 
+        "https://www.zhihu.com/people/rexxar", 
+        "https://www.zhihu.com/people/icemanyu", 
+        "https://www.zhihu.com/people/li-kan-7-34", 
+        "https://www.zhihu.com/people/qiao-hai-jun", 
+        "https://www.zhihu.com/people/j-m-jonh", 
+        "https://www.zhihu.com/people/dong-rong-song", 
+        "https://www.zhihu.com/people/mi-zhi-xian-yu-36", 
+        "https://www.zhihu.com/people/17156407149", 
+        "https://www.zhihu.com/people/qipo", 
+        "https://www.zhihu.com/people/lelesome", 
+        "https://www.zhihu.com/people/li-shuai-42-15", 
+        "https://www.zhihu.com/people/ming-ri-qing-yun-qu", 
+        "https://www.zhihu.com/people/khalilchong", 
+        "https://www.zhihu.com/people/xiao-mao-fei-mao", 
+        "https://www.zhihu.com/people/John_Lance", 
+        "https://www.zhihu.com/people/tigerssj", 
+        "https://www.zhihu.com/people/song-qun-47", 
+        "https://www.zhihu.com/people/dawnsx", 
+        "https://www.zhihu.com/people/zhu-yu-79", 
+        "https://www.zhihu.com/people/yun-han-81-19", 
+        "https://www.zhihu.com/people/liaoer", 
+        "https://www.zhihu.com/people/Kagurazakaizumi", 
+        "https://www.zhihu.com/people/xu-qiang-29-78", 
+        "https://www.zhihu.com/people/adamcavendish", 
+        "https://www.zhihu.com/people/chen-zhang-yi", 
+        "https://www.zhihu.com/people/nima-cao-44", 
+        "https://www.zhihu.com/people/zh-xu-31", 
+        "https://www.zhihu.com/people/alianpaul", 
+        "https://www.zhihu.com/people/ken07", 
+        "https://www.zhihu.com/people/yaozhou", 
+        "https://www.zhihu.com/people/kana-nagato", 
+        "https://www.zhihu.com/people/beepnow", 
+        "https://www.zhihu.com/people/charles-meng-17", 
+        "https://www.zhihu.com/people/dong-sheng-91", 
+        "https://www.zhihu.com/people/hg91", 
+        "https://www.zhihu.com/people/tuxzz", 
+        "https://www.zhihu.com/people/awpak78", 
+        "https://www.zhihu.com/people/li-hong-fu-43"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61001238", 
+            "userName": "Luv Letter", 
+            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+            "upvote": 27, 
+            "title": "万元内 Hackintosh ITX HEDT 的想法", 
+            "content": "<h2>平台</h2><p>AMD 平台目前 8C 的 2700X 价格很便宜，结合 X470 就能做到两条 M2 加非 CNVi 的无线网卡，但是缺点就是 Ryzen 没有集成显卡，这就对于 KVM 虚拟化黑果非常不友好。而 Ryzen 本身需要打 kernel patch，难度远高于 Intel 平台方案。所以我觉得还是否决掉比较好。</p><p>Intel 平台目前面临 8C 平台剧烈涨价，同时 Z390 CNVi 比较坑的问题。看了下有以下选择</p><ul><li>Asus ROG STRIX Z370-I：双 M2 可换网卡，但是国行价格虚高，不过M2在背部，如果要拉出来需要依赖 ADT 那种有镂空的线缆</li><li>ASROCK Z370 Gaming ITX/AC：单 M2 可换网卡，特点是带一个 TB3，但是一个实在有点尴尬，当作万兆卡实用一般跑到 8gbps 就烧高香了，要跑得快只能上 Linux 直接用 tun 模式。但是万兆卡兼容性存疑。以及本地盘多无需万兆。</li><li>Gigabyte Z370N WIFI：双 M2 可换网卡，不过 M2 两个叠了起来，可能会影响到 M2 延长线。不过只要能够从侧面拉出来基本上就算成功了一半</li><li>ASROCK X299E-ITX：三 M2 可换网卡，不过 M2 位置都很奇怪，毕竟顶级平台，妖版就不解释了。但是问题就回到了不带集成显卡这个缺点，虽然 M2 可以当作显卡从而作为 dummy，但是去掉直通的 NVMe/万兆卡，这就没有额外的选项了。</li></ul><p><b>显卡</b></p><p><i>更新</i></p><p>这两天把 macOS VM 丢到大奶机才发现 <b>AMD 全系列 HBM 显存的显卡都无法正确的在穿透的情况下实现重启功能</b>，换句话说你用 Vega 64 一开机一切正常，但是重启之后就死活起不来。Windows VM 在关机前可以手动卸载设备来绕过这个问题，然后开机之后安装设备就可以 rescan PCIe 设备。</p><p>所以目前阶段性价比最高的还是一票 470-580 的矿卡，找个 PCIe 多的主板就可以多卡，FCPX/DaVinci 这样的应用都能利用多显卡。</p><p>590 由于目前还没有 ITX 短卡（讲道理 588 短卡也就 HP OEM 和全方面缩水的白牌矿卡），所以暂时不能选择。</p><p>之前搞过一张 蓝宝 470D ITX 4GB，才 280 还带风扇启动停，缺点就是1.VBIOS 不是原厂，固件界面显示有问题 2. 19cm 对于个别只能 18cm 的机箱显得太长，但是可以通过切割框架和弯折散热片解决。</p><div class=\"highlight\"><pre><code class=\"language-text\">本来迪兰出了个 Vega 56 nano，但是价格要 3200+ 而且少。不过蓝宝的 vega 56 的 PCB 实际上很短，已经看到有人切开热管改成了短卡，或者可以上 Vega 的一体水冷升级套件，但是问题有两点：\n一体水冷没有 80mm 的，换句话说除了水冷快乐盒以外没箱子能上\n普遍超高，机箱不好找\n因为超高，本来能够在第二个挡板改万兆卡的机会没有了\n如果上单槽水冷，那么得从头到尾折腾冷排/水泵，成本基本上抵得上半张卡</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p><b>机箱/散热</b></p><p>由于要上 80mm/120mm 水冷，基本上没得选了。K49 顶部那点空间只能赛 8025 扇子，即便上了 80mm 冷排，基本也没空间上风扇了（除非两边都是 40mm 的扇子），所以水冷基本搞不了。A4 机箱的问题是空间利用率低，毕竟这么一搞显卡都只有 17cm。</p><p><b>万兆卡</b></p><p>第一个方案是 Thunderbolt 万兆，但是前面说了，bug 多而且吃 CPU。如果去接外接显卡盒上 PCIe 卡/NBASE-T 的万兆卡或者比机器都贵的 Promise SFP+，那就实在负担不起了</p><p>第二个方案是 <a href=\"https://link.zhihu.com/?target=https%3A//forums.servethehome.com/index.php%3Fthreads/solarflare-dual-10gb-sfp.7012/page-2\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Solarflare</a>，不过价格略贵而且都是双口卡，占空间多</p><p>第三个方案是刷 EEPROM 的 Intel X520，能装原生驱动，但是也有折腾的地方</p><p>以上方案都是直通的方式，而如果网卡仍然接在物理机，走虚拟机有两种方案：</p><p>标准的 e1000 驱动，这个在 9700K 下面能跑到 2.5gbps。</p><p>virtio，如果关闭 SIP 后安装这个驱动，然后 qemu 加个参数，就能够运行，基本可以发挥最大带宽。</p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "KVM（Kernel-based Virtual Machine）", 
+                    "tagLink": "https://api.zhihu.com/topics/19607498"
+                }, 
+                {
+                    "tag": "黑苹果（Hackintosh）", 
+                    "tagLink": "https://api.zhihu.com/topics/19579005"
+                }, 
+                {
+                    "tag": "macOS", 
+                    "tagLink": "https://api.zhihu.com/topics/19550290"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>可惜X399做ITX太困难了</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>是，核心太大</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>amd已经有现有方案了吧，也不咋麻烦</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "能介绍一下AMD的方案吗？贪图2700的便宜，没有上牙膏厂的车。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "修水管的", 
+                    "userLink": "https://www.zhihu.com/people/8046ccdeee9fc9c19fc0d9bc706c8200", 
+                    "content": "cnvi问题能说说吗？我搜了一圈也没看到说明白的😂", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Luv Letter", 
+                    "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                    "content": "你看看 cnvi 的介绍就知道了，这玩意和传统网卡不兼容", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "修水管的", 
+                            "userLink": "https://www.zhihu.com/people/8046ccdeee9fc9c19fc0d9bc706c8200", 
+                            "content": "<p>我看有人用华擎Z390替换网卡成功的，不知道是否可以这样操作？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Luv Letter"
+                        }, 
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "看原来的网卡座是不是标准 PCIe", 
+                            "likes": 0, 
+                            "replyToAuthor": "修水管的"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "和我需求差不多，问一下装了显卡之后怎么加万兆网卡？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "itx机箱", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>直接 LC-LC 线拉进去</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Azusa Nakano", 
+                    "userLink": "https://www.zhihu.com/people/b05dbebdf3fb5a7268e09e24c62e3635", 
+                    "content": "<p>刚刚看到了一个ITX的主板 C422WSI 可以上Xeon W 可以拿来做个小小的iMac Pro的样子</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>别，这个主板 M2 就一条。以及今年 AMD 要出 16C 的 3850X 了，后者可以有两条 M2 m key 和一个 M2 b key</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Azusa Nakano"
+                        }, 
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>应该说 880 的 b450i 就能有这么多 IO，而且 CPU 便宜的多，唯一的问题是内存比较少。不过 Xeon 打游戏特别吃频率也是个很大的问题。。。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Azusa Nakano"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "FCPX/DaVinci 这样的应用都能利用多显卡 的意思是 黑苹果可以用多张显卡吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Azusa Nakano", 
+                            "userLink": "https://www.zhihu.com/people/b05dbebdf3fb5a7268e09e24c62e3635", 
+                            "content": "可以用Intel QuickSync加速视频渲染吧", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>华擎Z390 Phantom应该不错，可以换网卡，也有不少人做好了优化，但是内置的雷电3是半速的比较坑。</p><p>个人觉得你想在ITX上用KVM不是特别好，在PCI-E多的ATX板子上更合适，ITX还是得直接黑，另外你对Ryzen在KVM上没有核显，可以用PVE替代，而不是KVM。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "pve 也是 kvm", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "但pve有web，对核显没有要求", 
+                            "likes": 0, 
+                            "replyToAuthor": "Luv Letter"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60817556", 
+            "userName": "Luv Letter", 
+            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+            "upvote": 7, 
+            "title": "把 P106 塞进 5L ITX 主机", 
+            "content": "<p>Bilibili/Youtube:</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av47624197\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">bilibili.com/video/av47</span><span class=\"invisible\">624197</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DFepaeOgMcUE\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">youtube.com/watch?</span><span class=\"invisible\">v=FepaeOgMcUE</span><span class=\"ellipsis\"></span></a><hr/><p></p>", 
+            "topic": [
+                {
+                    "tag": "ITX主板", 
+                    "tagLink": "https://api.zhihu.com/topics/20040295"
+                }, 
+                {
+                    "tag": "个人电脑", 
+                    "tagLink": "https://api.zhihu.com/topics/19550286"
+                }, 
+                {
+                    "tag": "显卡", 
+                    "tagLink": "https://api.zhihu.com/topics/19563484"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Sirius10205", 
+                    "userLink": "https://www.zhihu.com/people/2cabd9da5b0c42edd4a73290c449fd47", 
+                    "content": "机箱比显卡贵…", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>其实差不多</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "Sirius10205"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60389508", 
+            "userName": "Luv Letter", 
+            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+            "upvote": 136, 
+            "title": "将双系统塞入A4主机：OSX-KVM 显卡直通教程", 
+            "content": "<blockquote>原文: <a href=\"https://link.zhihu.com/?target=https%3A//luvletter.moe/dual-system-osx-kvm-tutorial/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">luvletter.moe/dual-syst</span><span class=\"invisible\">em-osx-kvm-tutorial/</span><span class=\"ellipsis\"></span></a></blockquote><p>KVM 是 Linux 上最成熟的虚拟化框架, 结合了 qemu 的虚拟化功能并且充分利用半虚拟化技术, 提供了很强的 IO 性能. <br/>常见的用法有直接调用 qemu commnad, 基于 libvirt(virt manager)/Proxmox 等虚拟化框架即可实现对 KVM 虚拟机的管理. <br/>而常见的黑苹果方法基本都是基于物理硬件进行安装, 这种方案好在原生级别的性能, 但是缺点是对于个别主板硬件的兼容性不佳, 如板载网卡, 声卡等. 特别如果是 CPU 特性存在不兼容情况, 如 ryzen 和 SLK-X 系列, 则需要修改内核, 存在诸多麻烦. 并且目前安装方法教程繁多而且不是很统一, 特别是调教固件这一步问题非常多. <br/>而传统虚拟机黑苹果仅仅只是用了 CPU 虚拟化而未使用 IO 虚拟化, 这就意味着无法在虚拟机中获得显卡加速, 这就让 macOS 的实用性大打折扣. <br/>而随着 vt-d 技术的普及, 外加 Apple 对于 AMD GPU 越来越好的支持(当然也有 eGPU 的更好支持), 并且由于最近两年矿潮大量涌入市场的 Polaris 10/11 和 Vega 显卡, 这就让基于显卡直通的虚拟化特别有性价比. <br/>当然 vt-d 的一个宗旨就是 iommu group 越多越好, 翻译成硬件玩家的术语就是最好有更多的独立 PCIe 接口. 传统的 IO 软件虚拟化, 如 PS/2 USB 键盘和音频这种模拟效率较低, 需要在用户态进行系统调用读取数据, 再通过系统调用输入到 guest OS. 这种缺点就是效率低, 实时性差, 同理基于 libusb 的 USB 重定向也是一样的. 如果你有了独立的 PCIe USB 扩展卡, 那么就能将这整个 PCIe 设备丢进虚拟机, 能获得最高的效率和避开一些问题(如 Hub 是不能被重定向的, 或者 PCH 集成的几个控制器不能被拆分). <br/>所以我的配置如下：</p><ul><li>Intel Core i7-4860HQ(配置 eDRAM 和 iris pro 5200, 能够缓解 DDR3 带宽较低的影响)</li><li>蓝宝石 Z87 Pure Black(有特殊的 mPCIe 的设计, 稍后再提)</li><li>蓝宝石 RX470D 4GB ITX (性能基本够用, 主要是能塞进机箱而且便宜)</li><li>DDR3 1600 8GB<i>2(SODIMM 16GB 单条试过了, 转接不靠谱；专用条上不了, 更不用说 16GB 专用条的稳定性了, 千万别买</i>, 只能说凑合用了)</li><li>台达 500W Flex 电源</li><li>iMac 原装 BCM 3x3 1300Mbps ac 网卡(支持 BT4.1 和 Hand Off)</li></ul><h3>前期准备</h3><h3>a.准备安装介质</h3><p>所谓安装介质, 就是安装 U 盘或者光盘, 更抽象的说是安装用的块设备文件. 通常情况下最好是通过现有的 macOS 进行准备, 在 App Store 下载当前版本的 Installer.app 即可进行安装. <a href=\"https://link.zhihu.com/?target=https%3A//github.com/kholia/OSX-KVM/tree/master/Mojave\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">参考脚本</a></p><p>准备完成后会获得一个块设备文件, 通常为 .iso/.cdr, 均为 CD 标准的块设备文件. 将这个文件保存下来.</p><h3>b.准备安装平台</h3><p>很显然你不能装在空气上. macOS Mojave 的最低需求是 SSE4.2, 这个对于目前到 AVX512 的平台来说已经是十年前的事情了. 一般来说 SNB 之后的 CPU 平台都没问题.</p><p>第二个事情是需要<b>主板和 CPU 支持 vt-d(IOMMU) 技术</b>. 虽然99%平台都支持 vt-x, 但是由于芯片组或者固件的原因, vt-d 可能未被启用. 请务必检查平台兼容性, 不然无法做到 PCIe 设备穿透.</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b5db458f64114c996cafe8fe2d74fb39_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1115\" data-rawheight=\"1294\" class=\"origin_image zh-lightbox-thumb\" width=\"1115\" data-original=\"https://pic2.zhimg.com/v2-b5db458f64114c996cafe8fe2d74fb39_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1115&#39; height=&#39;1294&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1115\" data-rawheight=\"1294\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1115\" data-original=\"https://pic2.zhimg.com/v2-b5db458f64114c996cafe8fe2d74fb39_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b5db458f64114c996cafe8fe2d74fb39_b.jpg\"/></figure><p><b>内存</b>大于 4GB 即可, 推荐 16GB-32GB.</p><p><b>显卡</b>由于一波矿潮下来, 目前有大量支持良好的 A 卡. 虽然一些 N 卡能够免驱使用, 但是我这里还是强烈不建议使用 N 卡, 实用性和麻烦太多, 即便能用也比 A 卡麻烦. 最新的 Radeon RX590 和 Radeon VII 同样支持. 但是 Ryzen APU 的 Vega 8/10 等不被支持.</p><p><b>存储方面</b>, 如果你的主板支持 NVMe, 那么最好, 这就意味着通过 IOMMU 你的 macOS 虚拟机就获得了一个真实的 PCIe 存储设备, 完全绕过了 Linux 内核, 不过务必要注意 NVMe 设备兼容性, 常见支持最好的是 Samsung 970 Pro/EVO(注意步进). 如果没有, 那么也建议上SATA SSD, 毕竟 SATA SSD 如此便宜.</p><p>Handoff/AirDrop 强烈依赖于 BCM 特定(Apple 定制)的网卡, 特别是 Apple Watch 解锁功能. 因此主板上需要一个 mini PCIe/M.2 接口. 注意接口上一定要有 PCIe 链路, mSATA 是不被支持的；其二是最好有 USB(来自 PCIe 1x 的 mPCIe 是没有 USB 的)支持, 通常现在的主板 M.2 x4 接口只有 SATA 和 PCIe. M.2 普通网卡接口/mPCIe 网卡接口一般能正常使用. 特别注意 Z390 等 Intel 最新平台的网卡 M.2 接口采用了 CNVi 链路层, 虽然接口与普通网卡兼容, 但是不能支持普通 PCIe 网卡, 这种设备只能走 PCIe 转接板+USB连线启动. 如果你的主板有独立于网卡且不可拆卸的蓝牙 USB dongle, 请在固件设置中禁用, 不然会让 BCM 蓝牙被禁用.</p><p>如果你不在意 handoff, macOS 能驱动一大堆 BCM 网卡和 BCM 芯片的蓝牙, 包括一些 BCM 芯片的万兆网卡. macOS 有标准蓝牙 dongle 驱动的支持, 不过即便能用也有一些问题.</p><p>有线<b>网卡</b>上默认的 e1000 就能自动驱动, Realtek 的网卡则需要 patch. 不建议直通千兆网卡. macOS 曾经在 Sierra 之前有 virtio 的支持, 但是现在已经不可用. 万兆网卡务必检查兼容性, 包括对于 SR-IOV 的支持.</p><p>同时为了最好的性能, <b>强烈建议直通 USB 控制器而不是 USB 设备重定向</b>(延迟会大很多). 但是要注意 Intel 平台的 XHCI/EHCI 虽然可以分在不同 IOMMU, 但是实际上都是牵一发动全身, 你为了网卡上的蓝牙(特别是 ITX 平台), 就可能得将所有 USB 接口通入虚拟机中. AMD 的 Ryzen 和 PCH 都有 USB, 所以能够独立转发. 这里的解决方案是通过 PCIe 增加网卡, 比如 PCIe/mPCIe 转 USB 3.0. 但是 mPCIe 转 USB 2.0 和 M.2 转 USB 3.0 均依赖于 PCH 的 USB Bus. 如果需要同时接多个虚拟机可以考虑再添加 USB 扩展卡, 如 ASMedia 的 USB 3.1 gen2 PCIe 扩展卡(USB 3.1 bus 可以直通进 macOS).</p><p>声卡上如果你有正常的 A/N/I 卡, 进入系统打 kext patch 就能够获得不错的 HDMI/DP 音频. VoodoHDA 可以用来支持基于 qemu 虚拟的 ich9-hda 声卡, 或者是来自 PCIe 直通的声卡设备. USB redirect 的音频质量比较一般, 和 qemu 模拟的声卡同样有延迟较大的问题. 有的较新的主板配置了 PCIe to PCI bridge, 可以直通以通过 PCI 接入 USB/1394(Firewire)设备, 从而兼容老音频介面.</p><p>雷电直通我暂未尝试, 这个需要后续探索.</p><h3>安装宿主系统</h3><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/kholia/OSX-KVM\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">参考教程</a></p><p>宿主系统选择上尽可能选择内核新, 软件包新, 且比较稳定的发行版, 如 Arch Linux(文档多), OpenSUSE, Ubuntu. 一般不建议安装图形界面, 因为当你 USB 设备全部直通, 显卡直通了之后宿主的操作性就差很多.</p><p>配置完毕系统后就要安装 qemu 和 vfio(用于穿透), 以及 qemu 的管理框架 libvirt(virt-manager), Proxmox 理论上也是可用的, 但是我不是特别想用.</p><h3>启用 IOMMU</h3><p>首先确保在固件设置中开启 IOMMU. 由于一般情况下直通的是 A/N 卡, 将默认显卡设置为 IGD(iGPU), 并开启 igd<i>multi</i>monitor. 这通常在 chipset 选项：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>然后修改 <code>/etc/default/grub</code>, 找到 <code>GRUB_CMDLINE_LINUX_DEFAULT</code> 或者 <code>GRUB_CMDLINE_LINUX</code>, 加入 <code>intel_iommu=on</code> 或者 <code>amd_iommu=on</code>. 保存文件, 并通过 <code>update-grub</code> 或者 <code>grub2-mkconfig -o &lt;你的 grub.cfg 的位置&gt;</code> 保存.</p><h3>配置 vfio</h3><p>由于我们需要让设备直通虚拟机, 那就不能让宿主机的驱动去接管这些硬件, 我们需要一个 dummy 驱动模块去接管这些要被直通的硬件. <br/>首先执行 <code>lspci --nnk</code>, 找到你想要直通的设备的 ID, 并且注意每个设备所在组的其他设备(编辑文件 <code>/etc/modprobe.d/vfio.conf</code>.</p><div class=\"highlight\"><pre><code class=\"language-text\">options vfio-pci ids=&lt;PCI 地址,...&gt; disable_vga=1</code></pre></div><p>但是为了避免 initrd 引入的内核模块中 vfio 位于物理驱动的后面, 这里有两套方案： <br/>1.根据 <code>lspci --nnk</code> 的内容, 找到每个设备对应的驱动, 如 RX470D 及其 HDMI 音频设备:</p><div class=\"highlight\"><pre><code class=\"language-text\">01:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Ellesmere [Radeon RX 470/480/570/570X/580/580X/590] [1002:67df] (rev ff)  \n    Kernel driver in use: amdgpu\n    Kernel modules: amdgpu\n01:00.1 Audio device [0403]: Advanced Micro Devices, Inc. [AMD/ATI] Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590] [1002:aaf0] (rev ff)  \n    Kernel driver in use: snd_hda_intel\n    Kernel modules: snd_hda_intel</code></pre></div><p>修改 <code>/etc/blacklist.conf</code>, 加入你不想要的驱动:</p><div class=\"highlight\"><pre><code class=\"language-text\">blacklist i915  \nblacklist amdgpu  \n...</code></pre></div><p>2.修改 <code>/etc/mkinitcpio.conf</code>, 这里参考 archliux wiki, 因为操作比较复杂, 但是相对于直接屏蔽, 能够实现更复杂的配置. <br/>随后执行 <code>update-initramfs</code> 或 <code>mkinitrd</code>, 重新生成 <code>initrd</code>, 随后重启. <br/>启动后检查配置<code>lspci --nnk</code> :</p><div class=\"highlight\"><pre><code class=\"language-text\">01:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Ellesmere [Radeon RX 470/480/570/570X/580/580X/590] [1002:67df] (rev ff)  \n    Kernel driver in use: vfio-pci\n    Kernel modules: amdgpu\n01:00.1 Audio device [0403]: Advanced Micro Devices, Inc. [AMD/ATI] Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590] [1002:aaf0] (rev ff)  \n    Kernel driver in use: vfio-pci\n    Kernel modules: snd_hda_intel</code></pre></div><p>这说明被 vfio-pci 接管. <br/>随后即可在 virt-manager/qemu 中穿透该设备.</p><h3>macOS 系统安装</h3><blockquote><i>在初步测试环境下, 不建议使用 libvirt 管理虚拟机.</i></blockquote><p>此时建议透过 VNC 或者在有 XFoward 的环境下 ssh 到目标宿主机. <br/>通过 <code>qemu-img create -f qcow2 mac_hdd.img 128G</code> 创建一个 128GB 声明容量的 qcow2 块设备文件. <br/>将先前准备的安装介质 ISO 复制到 OSX-KVM 的目录. 修改 <code>boot-macOS-Mojave.sh</code>, 对应好各个块设备的文件名: <br/><code>-drive id=MacDVD,if=none,snapshot=on,media=cdrom,file=./&#39;&lt;刚才的安装介质.iso&gt;&#39; \\</code> 启动这个脚本, 你就能看到 qemu 的视频回传窗口, 此时 USB 鼠标驱动能够正常启动. 进入 Clover 之后选择进入 macOS installer. 进入安装环境后先进入 disk utility 格式化刚才准备的 128GB 块设备为 APFS 格式. 完成后完成系统安装. 安装之后重启, 理论上正常能够进入系统.</p><p>同样的方法, 修改 <code>boot-passthrough.sh</code>, 注意 PCIe 设备的 ID 需要和你的显卡和 HDMI 音频设备一致. 由于这个 qemu 脚本中不包含 VGA 输出设备, 所以不输出到 qemu 窗口是正常的.如果你的显卡并没有输出画面到显示器, Clover 固件阶段可以通过提供的 serial console 进行操作. 正常情况下启动的时候会出现 tianocore 的欢迎 logo.</p><blockquote><i>很多 AMD 矿卡修改了 VBIOS, 这会在没有 CSM 支持和强制 SecureBoot 的环境下无法在固件界面点亮. 在 Windows 系统下可能会碰到 error code 43 问题, 需要通过 patch driver 解决.</i> <br/><i>OVMF 没有提供任何 CSM 支持, 所以修改 VBIOS 的矿卡是无输出的. techpowerup 能找到很多 GPU 的 VBIOS, 但是刷入前一定要备份原有 VBIOS, 并注意显存颗粒兼容情况.</i> <br/><i>Linux/macOS 系统内的驱动对于 mod VBIOS 能够兼容</i></blockquote><p>正常情况下能够进入 macOS. 由于该脚本内没有包含任何输入设备(OSX-KVM 的 clover 块设备内不包含 PS/2 驱动), 所以是无法进行操作的, 除非进行 USB 设备重定向或者穿透 PCIe 上的 USB 控制器. 前者性能较差, 后者通常会失去对于宿主的控制, 除非你的设备有多个完全独立的 USB bus. <br/>成功进入 macOS 后可以开始根据之前的参数修改 macOS-libvirt.xml. 参考 <a href=\"https://link.zhihu.com/?target=https%3A//wiki.archlinux.org/index.php/PCI_passthrough_via_OVMF_%28%25E7%25AE%2580%25E4%25BD%2593%25E4%25B8%25AD%25E6%2596%2587%29%23CPU%25E6%25A0%25B8%25E5%25BF%2583%25E5%259B%25BA%25E5%25AE%259A\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">核心绑定</a>调整 vCPU 和 CPU 的对应关系, 并且正确的传递 CPU 的拓扑(即 socket/core/thread), 以达到最大性能. <br/>随后: <code>virsh --connect qemu:///system define macOS-libvirt.xml</code> <br/>此时可以通过 virt-manager 启动虚拟机. 注意此时在图形界面下添加 PCIe 穿透更加方便. 需要添加的设备有:</p><ul><li>AMD 显卡及附属音频设备</li><li>BCM PCIe 无线网卡</li><li>USB 控制器(需要包含 PCIe 网卡的 USB 蓝牙部分)</li><li>...</li></ul><p>进入系统后就是给一些驱动打 patch、洗白等操作, 这里不再赘述.</p>", 
+            "topic": [
+                {
+                    "tag": "虚拟化", 
+                    "tagLink": "https://api.zhihu.com/topics/19578791"
+                }, 
+                {
+                    "tag": "macOS", 
+                    "tagLink": "https://api.zhihu.com/topics/19550290"
+                }, 
+                {
+                    "tag": "显卡", 
+                    "tagLink": "https://api.zhihu.com/topics/19563484"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "紫色银子", 
+                    "userLink": "https://www.zhihu.com/people/ec8cacdb61d7cc9ad3844b5b3b32d3c9", 
+                    "content": "IGD直通有教程吗？想把IGD用来直通，COM口当终端。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>还没折腾出来</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "紫色银子"
+                        }, 
+                        {
+                            "userName": "Lin LT", 
+                            "userLink": "https://www.zhihu.com/people/bb0ade951f95e8093482790d8de2d67f", 
+                            "content": "<p>IGD直通bug太多</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "紫色银子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "徐辰", 
+                    "userLink": "https://www.zhihu.com/people/630612ff80641e9ec165af192743a792", 
+                    "content": "Mac上自带vmnet3驱动，所以网卡可以不用直通，虚拟网卡也不用选e1000，性能差距还是挺明显的。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "徐辰", 
+                    "userLink": "https://www.zhihu.com/people/630612ff80641e9ec165af192743a792", 
+                    "content": "CPU型号不能选太新的，可以选Penryen再加一堆flag比如avx2之类。另外core的数量如果定的很奇怪比如14系统可能会起不来，建议就用2/4/8这些标准值。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "徐辰", 
+                    "userLink": "https://www.zhihu.com/people/630612ff80641e9ec165af192743a792", 
+                    "content": "显卡rom可以不用刷，放个文件在硬盘上就能load，详情参见arch的wiki。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>看着不错，想起了2004年左右，这PearPC的情景了。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "有用AMD的CPU黑成功的案例吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>LLT 新视频就是, 不过那个很怆.</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "LLT是什么？ryzen没有集显，如皋要直通显卡是不是还要准备两张显卡", 
+                            "likes": 0, 
+                            "replyToAuthor": "Luv Letter"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>发现linus最新视频搞了个这玩意</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>这个方案对macOS内置系统升级的支持性如何呢？   主要为iOS和macOS的软件开发者问一句，开发依赖xcode，而xcode一般都要求当前最新版本的macOS系统</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "更新 clover 即可", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>请问这个方案有适用的ITX主板吗？听闻英特尔主板可能在USB直通上遇到问题，AMD家的话貌似高端芯片一律不带核芯显卡</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Luv Letter"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>这个使我有把thinkpad 装个虚拟macos的冲动，直接装弄了好久装不上，请问可行么？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "马涛", 
+                            "userLink": "https://www.zhihu.com/people/724ffdb84edafffafc43b521d167bf42", 
+                            "content": "<p>笔记本就算了，这个方案对笔记本不友好</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "尼古拉斯 无知", 
+                    "userLink": "https://www.zhihu.com/people/b3ec27f3f18c99e8c244ef38e56cd7d1", 
+                    "content": "<p>看样子是基本完美了黑屏，请教一个问题（我一直黑屏果是硬件安装）， 你这样搞体验怎么样？</p><p>我目前想搞一个 lga 3647 的机器，发现没有能免驱的主板用来装黑屏过。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58131403", 
+            "userName": "Luv Letter", 
+            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+            "upvote": 24, 
+            "title": "酷鱼 S3 的一些想法", 
+            "content": "<p>情况大概就是，朋友那边有颗闲置的 i7-4860HQ QS，我这因为从 Gigabyte HD3 H170 DDR3 升级到 Asrock Z390 Pro 4（受不了供电不足和 PCIe 数量紧张，还有内存延迟带宽都不好）。旧主板出给一个在日本的朋友（顺带弄了颗报废 6700，你猜为什么）；旧内存有两条 Adata 1600 8G 窄条和金士顿 DDR3L ECC 8G。于是就打算用其中两条组个新机器，换掉朋友在公司用的 MacBook Pro 13 寸 2014 顶配版本（16GB 内存，主要是 CPU 性能不够用，哪怕装的是 Windows 10，启用了 S0ix 和定制触控板驱动），这么一来等于换了当年 MacBook Pro 15 寸的配置。</p><p>之后在咸鱼上看到了一个 P106-90，单风扇单6pin，功耗小于 80W，位宽 192bit 吊打任何 1050 版本。之前没有任何一个版本的 P106-100 做了短卡设计，毕竟都是大的双风扇。才 220+18 的顺丰，果断下了单，就是眼瞎没看到只有 1.1 x4 的 PCIe 宽度，这等效 PCIe 3.0 x1。</p><p>于是脑子一热下单了鱼巢。结果又一看手头一块 ECS 的 H81 是 17x19，而鱼巢只能给 17x17。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-24c5df1450a78d704cb4315fec6c9ca2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1337\" data-rawheight=\"1734\" class=\"origin_image zh-lightbox-thumb\" width=\"1337\" data-original=\"https://pic3.zhimg.com/v2-24c5df1450a78d704cb4315fec6c9ca2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1337&#39; height=&#39;1734&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1337\" data-rawheight=\"1734\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1337\" data-original=\"https://pic3.zhimg.com/v2-24c5df1450a78d704cb4315fec6c9ca2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-24c5df1450a78d704cb4315fec6c9ca2_b.jpg\"/></figure><p>嗯，找亮点。</p><p>顺带看了下散热器的限高，40mm，然后看了下手头的，不是 132mm，就是 2011 的服务器被动散热器，47mm，Intel 的原装 115x 散热器 50mm+，这就意味着基本上要么买他家 88 的上吹散热器，要么加钱上猫家，或者上 30 的被动散热器+40mm风扇做散热。</p><p>主板后面再咸鱼找了一个 Asus H81 ITX 的缩水板，减去了两个 SATA，TPM 插座，DVI。讲道理这种主机也不太可能放四个 SATA，DVI 也属于相对旧的接口了。唯一比较难看的就是没有挡板。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-518768ffe268ef25d2d1b34bbf9e1510_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-518768ffe268ef25d2d1b34bbf9e1510_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;1280&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-518768ffe268ef25d2d1b34bbf9e1510_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-518768ffe268ef25d2d1b34bbf9e1510_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-62bb0b59b1846bf85c136adca5332a5d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-62bb0b59b1846bf85c136adca5332a5d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;1280&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-62bb0b59b1846bf85c136adca5332a5d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-62bb0b59b1846bf85c136adca5332a5d_b.jpg\"/></figure><p>无视走线，没有挡板和 PCIe 空。</p><p>机箱本身做工一般，有些边缘虽然不毛糙但是还是略割手，存在一定的公差。机箱的空重比想象的大很多，不过总体装下来还能接受，毕竟体积摆在那里。显卡的延长线因为没有翻转，所以需要做的比较长，默认没有再引脚做绝缘处理。显卡虽然支持双槽全高，但是毕竟长度限制，像1070这种级别的显卡几乎找不到能塞进的，主要的重点还是在 1060 2060 上。</p><p>机器本身只有一个 USB 3.0 接口，不过友好的提供了 USB 2.0 的排针备用。不过 3.0 的排线太高，很影响改版的安装（见图）。</p><p>机箱默认的风扇的安装方法比较怆，大概就是把背板多出来的一个部分直接弯曲并打孔。机箱风扇由于不能调速所以噪音就略大。。</p><p>几乎所有人的标配电源都反映默认风扇比较吵，那么只能加 100 多上猫家40mm 风扇了。</p><p>4860HQ 的性能其实基本接近 8100，只是后者功耗和温度更低，而 4860HQ 一旦超频的话就可以超越后者。同时 4860HQ 自带超大 eDRAM，对于视频剪辑这样有一定吞吐要求的应用，会比同样是 DDR3 的 8100 性能好，当然显卡性能也是。不过缺点也很明显，4860HQ 在 8 系列主板上基本见不到 M.2，虽然 H110/H310 也不支持 PCH 3.0，但是如果加钱选择更好的主板（比如 B150），就可以同时有 M.2, DDR3 的选项。传说 B365 也会推出 DDR3 的版本。不过目前 H81 的 mini ITX 很难找到合适价格的，而 Z87 H97/Z97 价格，特别是 mini ITX 都大幅度上涨。160 能买到一线厂商的主板算是运气极佳了。</p><p>华硕的主板覆盖了基本上需要的功能，USB 3.0 BC1.2 支持，倍频调节（4860HQ 能超到全核心 4GHz），vt-d 支持等，做的还是比较完善的。当然毕竟 160 的板子，供电就比较惨了，好在电源本身就 200W，上吹散热也照顾了下供电部分的温度。默认频率单烤 FPU，CPU 维持在 3.2Ghz，核心温度在 80 度左右，CPU 功耗 55W，整体还算合理。实际可以拉到 3.8Ghz 稳定使用，只要不要随便跑 FPU 密集的应用。</p><p><b>搭配组合</b></p><p>4860HQ 能够搭配 P106-90 正常使用，但是由于带宽限制，P106-90 拿来打游戏不现实，不如用 4860HQ。但是基于 CUDA 的 Pr 视频剪辑，插帧，乃至 Linux 下的机器学习类应用都能处理。而 L4 一定程度上能缓解 DDR3 平台较弱的内存带宽和延迟，还是比较有意义的。不过考虑到 4K 显示的需求，搭配 460/560，或者是单风扇 1050 在这个 CPU 和电源下比较有意义。推荐 A 卡主要理由还是 500 左右的价格还是 A 卡性价比更好。</p><p>如果有更多预算，建议直接跳过 i3-8100，选择 i5-9400F(8400 8500 留给核显需求的用户） 带 B365/B360 的 ITX，搭配 300W-500W 电源和 GTX1060/GTX1660/RTX2060 就可以有不错的 2K 下的游戏性。至于推荐 A 的主要原因还是 A 卡发热太大，短卡散热不佳而且对电源要求高。</p><p>如果追求单核性能可以考虑 i3-8350K(最近降价，价格贴近 8100，远期可以升级）/9500KF（还没上市，不过价格应该好看）/9600K，多核心 9700K 即可，9900K 边际效益太大。显卡基本同上，当然钱多可以考虑单扇的 1070/1080 或者 2079/2080 的单风扇型号。主板方面可以考虑带雷电的，华擎Z370只有一个，不考虑/Z390 被爆出带宽仅 20gbps，这个就需要权衡利弊了。</p><p>而这个时候其实就要思考的是 M2 的生态环境。mPCIe 时代出现过转 SATA/千兆网卡。M2 除了 SSD 之外我只见过一个工业级 HDMI 2.0 走排线的采集卡（估计是医院采集设备用的），而万兆网卡之类的外设还没见过。雷电生态的问题还是</p><ol><li>动不动走 PCH，带宽延迟瓶颈大</li><li>价格真的贵</li></ol><p>个人觉得，比如 MacBook Pro 这样的笔记本，走 CPU 的 40gbps lane 打游戏才有意义。目前显卡盒普遍又贵又大又重，换句话说各方面比不过这种迷你主机。而如果需要磁盘阵列和高速网卡，雷电万兆卡和 RAID 卡虽然比 USB 方案靠谱的多，但是还不如组一个基于雷电的 NAS。当然最好是 Linux。macOS 有一点挑雷电卡（本质是 NVM 固件），以及 Windows 的二层网络非常难用（交换），路由勉强能用（有个BGP，不过家用还是配置静态路由吧，这要求你主路由器支持加路由项），内置 NAT 非内核实现，完全不能用。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6eecee5e15d61ebc1662e4810c0c1984_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1014\" data-rawheight=\"760\" class=\"origin_image zh-lightbox-thumb\" width=\"1014\" data-original=\"https://pic1.zhimg.com/v2-6eecee5e15d61ebc1662e4810c0c1984_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1014&#39; height=&#39;760&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1014\" data-rawheight=\"760\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1014\" data-original=\"https://pic1.zhimg.com/v2-6eecee5e15d61ebc1662e4810c0c1984_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6eecee5e15d61ebc1662e4810c0c1984_b.jpg\"/></figure><p>所以我感觉下来 S3 这款机箱还是有很多改进空间，比如多个正面板 USB，机箱棱角更多打磨；更好的背板设计，降低重量并方便后置 M2 转接；改进电源的重量尺寸和风扇噪音。（未完，有待整理）</p><p>另外统计下价格</p><ul><li>CPU: i7-4860HQ QS, 500, 算是朋友那边收的</li><li>主板: ASUS H81 mini ITX, 60</li><li>内存: Adata 16GB 1600 窄条, 360,淘汰闲置</li><li>机箱电源: 鱼巢 S3 + 200W 非模组电源 349-10 店铺优惠</li><li>散热器: 鱼巢上吹四热管 ITX 散热器, 88</li><li>SSD: 台电灵车 120G，算80</li><li>4pin 显卡转接线 8</li></ul><p>以上总计 885 元</p><p>二手 P106-90 238</p><p>二手 RX460 285-500 区间，视显存和成色</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "ITX主板", 
+                    "tagLink": "https://api.zhihu.com/topics/20040295"
+                }, 
+                {
+                    "tag": "电脑机箱", 
+                    "tagLink": "https://api.zhihu.com/topics/19824634"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "LuYang", 
+                    "userLink": "https://www.zhihu.com/people/28f9ceb343dbfbf97b40085d5440c930", 
+                    "content": "酷鱼 G 那款的型号是什么？感觉更好看一些", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>酷鱼那两款 HTPC 机箱做工比这个好多了，不过价格不能比。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "LuYang"
+                        }, 
+                        {
+                            "userName": "Leaves", 
+                            "userLink": "https://www.zhihu.com/people/4ddd1bcb0b1a411c0a4464c28eedce9a", 
+                            "content": "G5吧，仿的Mac pro G5外观", 
+                            "likes": 0, 
+                            "replyToAuthor": "LuYang"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Leaves", 
+                    "userLink": "https://www.zhihu.com/people/4ddd1bcb0b1a411c0a4464c28eedce9a", 
+                    "content": "其实比较好奇为什么 老哥最后选定的是酷鱼s3而不是像A35这种的机箱[好奇]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "请问这个电源风扇也能换的么，换成什么？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>我换了平时不转的猫扇</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>K39 K49 酷鱼这些的做工都一般般</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>k39 那个真的是没法看</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>不过放在角落凑合着就行，放桌上没意思。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>还有这个200W有点狠...</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "小麦", 
+                    "userLink": "https://www.zhihu.com/people/42a2e0d5dd3908a8f1a29421a9973afd", 
+                    "content": "电源噪音大不大", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57780996", 
+            "userName": "Luv Letter", 
+            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+            "upvote": 282, 
+            "title": "内存延迟：因与果", 
+            "content": "<p>本文主要内容：</p><ul><li>基本计算机层级存储结构</li><li>缓存结构</li><li>内存延迟的组成</li><li>NUMA</li><li>内存延迟的影响</li></ul><h2><b>层级存储结构</b></h2><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-06d5acd18fc8cc1ebf6079025a9f997f_b.jpg\" data-size=\"normal\" data-rawwidth=\"912\" data-rawheight=\"596\" class=\"origin_image zh-lightbox-thumb\" width=\"912\" data-original=\"https://pic4.zhimg.com/v2-06d5acd18fc8cc1ebf6079025a9f997f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;912&#39; height=&#39;596&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"912\" data-rawheight=\"596\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"912\" data-original=\"https://pic4.zhimg.com/v2-06d5acd18fc8cc1ebf6079025a9f997f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-06d5acd18fc8cc1ebf6079025a9f997f_b.jpg\"/><figcaption>图：CSAPP</figcaption></figure><p>在计算机的存储结构中，层级存储是一个非常重要的概念。在冯·诺依曼架构体系中，一个非常重要的概念就是“存储程序”(aka 程序存储）。这个概念看起来很抽象，实际上一个非常典型的反例就是现代处理器的一级缓存: 通常被分为 L1d（数据缓存）和 L1i（指令缓存），因为最早在哈佛架构下认为指令不是一种通用的数据，指令应该被硬编码（如编码纸带或者机电计数器）。更简单的说哈佛架构是将指令和数据放到两个不同的主存储器里，通过独立的总线访问；而冯诺依曼体系中指令和数据通过同一个总线访问，并放在同一个主存储器里。</p><p>很多人认为冯诺依曼架构比哈佛架构先进，是其替代者。事实上这是计算机初级教材犯下的一个典型的错误。哈佛架构仍然大量存在（就好比现代 CPU 的 L1 设计），这种架构适合于高吞吐的结构，如 DSP（数字信号处理器），这种处理器执行固定的指令处理大量数据流，所以更在乎吞吐而不是数据延迟，所以他们没有配置缓存，典型的例子就是手机的 ISP 本质就是 DSP 的一种。同时很多 DSP 采用了超长指令字（VLIW，相对于 RISC/CISC），拥有多个数据总线，同时借助 SIMD（单指令多数据），可以实现更大的吞吐。</p><p>然而我们现在的 CPU 更在乎与通用的处理场景，如控制流；虽然运算也是一个非常重要的部分，SIMD 指令集也在不停强化，但是这部分功能实际上能被基于 ASIC 的一些专用的 DSP/GPU 的固定/可编程管线的处理器所替代。正如当年引入 MMX 进行视频解码加速，现在有了 Quicksync/NVDEC/NVENC 这样的固定管线 DSP，就能实现低功耗的视频解码编码。</p><p>正是因为需要有控制流的功能需求，访问主存的速度就成了非常关键的的指标。在台湾的名词中，“Cache”“缓存”被翻译为与大陆截然相反的“快取”，这种差异其实同样翻译了两种特性：</p><ul><li>缓存是寄存器到内存的中介存储</li><li>缓存并不“缓慢”，而是非常快速，并且更多的是为了优化读</li></ul><h2><b>多级缓存</b></h2><p>而缓存的硬件本质，本质上是对内存空间的映射，通过访问缓存，减少到访问内存的时间。但是存储器有着天生的一个矛盾：体积、速度还有成本。越接近寄存器的存储，体积越小，但是速度越快，成本也更高，但是像网络的存储，是其所有计算机存储的总和，但是速度就以 ms 计，不过成本就可以相对更低（就像你看知乎的文章，不用自己买硬盘，只要为流量或者带宽付费）。</p><p>我们根据存储器的容量之比，可以得出很明显的结论，越近的存储器层级访问越快，体积越大的存储器访问越慢。所以低级缓存速度很快（延迟低带宽高）但是不易命中，而高级缓存命中率相对高但是访问慢（延迟大带宽低）。另外一方面，每级缓存都需要访问cache tag，这也是一个主要的延迟。</p><p>同时存在一个边际效益问题：如果提升低级缓存的空间，单位成本比高级缓存高，但是带来的性能提升是越来越少；如此一来不如引入更多级缓存，这样就能最大化存储系统的最重要的目标：平均内存访问时间（Average Memory Access Time, <b>AMAT</b>）。</p><h2><b>MMU 和 TLB</b></h2><p>离开了缓存之后，就是内存了么？不是。现代 CPU 之所以独立区分于 MCU（微控制器），有个很重要的部件就是 MMU（内存管理单元）。现代处理器通常采用了虚拟地址（也就是严格意义上的虚拟内存）作为指令后的参数，通过 MMU 翻译到物理内存的地址。而这个翻译工作交给了 TLB （页表缓存）。TLB 缓存找到了访问地址的页号（即命中），即明确了虚拟内存到物理内存的映射，就可以完成翻译；而如果找不到页号，就有两种情况</p><ul><li>CPU 必须自行遍历页表，找到对应的分页条目，从而完成物理内存的访问</li><li>如果找不到分页条目，说明这个页不在物理内存上，就要中断正在执行的程序，将控制权交给内核，完成所谓的”缺页中断“，内核此时通过 IO （比如访问磁盘）将磁盘上的页面文件复制到内存中，或者是将被压缩的内存页解压，从而完成读取，返回到程序中。</li></ul><p><b>TLB 与 Spectre 漏洞</b></p><p>TLB 是缓存，所以就需要一套预测算法，尽可能让 TLB 完成命中；同样，更底层的缓存也要有套预测算法。然而这套算法存在一种缺陷，通过一套攻击方法操纵分支预测逻辑，可以可靠地对 <b>缓存命中 和 未命中 间的差异</b>进行计时, 这种信息可以暴露进程的内部工作信息，从而实现对另外一个本该被页表隔离的进程空间的访问。</p><p>为了防止用户态进程通过这种方法攻击其他进程和内核，内核会要求 CPU 在上下文切换（即切换用户态到内核态的切换，进程之间的切换至少经历两次）强制刷新 TLB 缓存。但是这种操作就导致上下文切换的额外开销，以及 TLB 的命中率下降。这种性能影响不会对重运算类的应用有特别影响，而对程序编译（计算+IO密集型）和文件网络访问这样的应用有着严重影响。</p><p><b>平台架构</b></p><p><b>MMU</b></p><p>MMU 之后就是内存控制器。在早期，内存控制器并不是作为 CPU 的一部分存在的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-eddc33f8edc3a30b3b8e422dfe85ddfd_b.jpg\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"438\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-eddc33f8edc3a30b3b8e422dfe85ddfd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;438&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"438\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-eddc33f8edc3a30b3b8e422dfe85ddfd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-eddc33f8edc3a30b3b8e422dfe85ddfd_b.jpg\"/><figcaption>945GM 的架构图</figcaption></figure><p>可以看到，CPU 到北桥（945GM）中间经过了 FSB 总线；北桥集成了 PCIe 控制器，内存控制器，GPU和显示输出单元。</p><ul><li>PCIe：连接高速外设</li><li>内存控制器：连接内存，此处有两个内存通道</li><li>GPU和显示输出单元：2D/3D渲染和显示输出，外接 LVDS 屏幕，CRT 显示器或者电视</li></ul><p>同时借助 DMI 总线（实际是 PCIe），连接南桥（Chipset，芯片组）</p><p>可以看到芯片组连接了无线网卡，千兆有线网卡，外接 ExpressCard 和扩展坞，并且提供了内置存储的 PATA（IDE）和SATA总线，继承了 AC97 标准的音频规范，PCI 提供对旧外设的兼容，同时还有一些 SPI 闪存用于充当 NVRAM Nor Flash（有地址线，和一般 Nand Flash 按块读写不同），TPM 安全平台，和嵌入式控制器 EC（控制风扇键盘以及一些通用 IO 接口，如盖子、电源开关等）。</p><p>所以这种架构下，CPU 访问内存必须经过北桥这一关，所以在当时主板的 FSB 频率是一个非常重要的指标，当 CPU 超频，对于内存的吞吐需求增大，那么 FSB 频率提升就能有效提升内存的吞吐和降低延迟，并且也可以间接提升到 PCIe 的性能。</p><p>后来 AMD 率先将北桥融合入CPU，后来就出现了 GPU 整合入 CPU，所以我们现在看到的架构是这样的：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-276e9766296daa48c632601543f8f31b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"864\" data-rawheight=\"486\" class=\"origin_image zh-lightbox-thumb\" width=\"864\" data-original=\"https://pic4.zhimg.com/v2-276e9766296daa48c632601543f8f31b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;864&#39; height=&#39;486&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"864\" data-rawheight=\"486\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"864\" data-original=\"https://pic4.zhimg.com/v2-276e9766296daa48c632601543f8f31b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-276e9766296daa48c632601543f8f31b_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4e135444b316d86806ca85d28dab790c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"850\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"850\" data-original=\"https://pic1.zhimg.com/v2-4e135444b316d86806ca85d28dab790c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;850&#39; height=&#39;333&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"850\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"850\" data-original=\"https://pic1.zhimg.com/v2-4e135444b316d86806ca85d28dab790c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4e135444b316d86806ca85d28dab790c_b.jpg\"/></figure><p>并且 Intel 先后引进了环形总线和 eDRAM（嵌入式动态访问内存，和 DRAM 有类似之处，L1-L3 都是 SRAM）。所谓环形总线，就是围绕 L3 的一条数据通路，连接各个核心、GPU、System Agent（包含内存控制器、PCIe 控制器、eDRAM 控制器和显示输出单元）。环形总线上核心之间访问的延迟约等于访问 L3 的延迟，这样并发任务锁能够更快被处理。而 eDRAM 缓存和传统 SRAM 缓存不同，他更像是一块带宽更大的内存。最近有些玩家在通过 Intel GPU 配合没有显示输出的 P106 显卡进行输出画面。由于这种方式输出需要将显存的 framebuffer 复制到 CPU 的 hostmemory，eDRAM 能够显著改善这个过程所需的带宽，从而提升帧率降低延迟。</p><p>但是服务器核心就有所不同，由于拥有更多核心，环的半径就会显著增大，内存延迟和核心同步延迟都显著增大，于是 Intel 就引入了双环结构。多线程应用在一个环内就能减少延迟，而吞吐密集应用可以靠近内存控制器从而获得更强性能。虽然两个环并没有被认为是一种 NUMA 结构，但是这种结构并不完美，第一个问题是两个环之间的数据通路是一个严重的瓶颈，特别是一个环的内存控制器和另外一个环上所示的核心访问时就有更大的带宽和延迟瓶颈。而对于低端CPU来说部分被屏蔽的核心就会导致第二个环只有一半能够继续工作，这就进一步降低了吞吐量和提升了延迟。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b0a5cd507ed603913cd198fc7b7b8eb9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1201\" data-rawheight=\"470\" class=\"origin_image zh-lightbox-thumb\" width=\"1201\" data-original=\"https://pic2.zhimg.com/v2-b0a5cd507ed603913cd198fc7b7b8eb9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1201&#39; height=&#39;470&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1201\" data-rawheight=\"470\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1201\" data-original=\"https://pic2.zhimg.com/v2-b0a5cd507ed603913cd198fc7b7b8eb9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b0a5cd507ed603913cd198fc7b7b8eb9_b.jpg\"/></figure><p>为了缓解这种情况，提升每个核心能分配到的带宽和降低平均延迟，Skylake-SP 架构引入了 mesh 总线，从而提供更大的内存有效吞吐（六通道）和平均延迟。但是为了提升命中率，每个核心独占的 L2 容量提升至 1M，这就导致部分核心之间延迟变得更大。外加 mesh 总线频率和 CPU 频率呈现相关性，这就让低端处理器性能进一步下降。甚至不少评测媒体得出 SNB-E 的 2670 在游戏性能上相比默认频率的四通道的 Skylake-SP 产品要好。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-8daae9da3ada39bb4776ed81fed1e375_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"825\" data-rawheight=\"535\" class=\"origin_image zh-lightbox-thumb\" width=\"825\" data-original=\"https://pic2.zhimg.com/v2-8daae9da3ada39bb4776ed81fed1e375_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;825&#39; height=&#39;535&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"825\" data-rawheight=\"535\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"825\" data-original=\"https://pic2.zhimg.com/v2-8daae9da3ada39bb4776ed81fed1e375_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8daae9da3ada39bb4776ed81fed1e375_b.jpg\"/></figure><p>而 AMD 在 Zen 时代也变得更加奇葩。AMD 在 Zen 上采用了集成了两个 CCX 单元、双通道控制器，32 Lane PCIe 的单个 Die，在Ryzen 5/7 平台上通过一个Die就做出了 4-8核心的规格，而在 Threadripper 一代上两组 Die 实际运作，另外两组 Die 提供 Frabic 总线，形成最高 16 核心的桌面产品；Zen 2xxx 系列在 Zen 1xxx 基础上作何很多稳定性和细节调整，并且开启了 TR 的两个 Die 从而形成了最高 32 核心的 2990WX。服务器在开启剩下两个核心的 DDR4 和 PCIe 控制器，从而达到了单 Package 128 Lane PCIe，8通道内存的恐怖规格。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-e611b1003f63f2820908f5bb25bb8576_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1959\" data-rawheight=\"1339\" class=\"origin_image zh-lightbox-thumb\" width=\"1959\" data-original=\"https://pic3.zhimg.com/v2-e611b1003f63f2820908f5bb25bb8576_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1959&#39; height=&#39;1339&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1959\" data-rawheight=\"1339\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1959\" data-original=\"https://pic3.zhimg.com/v2-e611b1003f63f2820908f5bb25bb8576_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-e611b1003f63f2820908f5bb25bb8576_b.jpg\"/></figure><blockquote>来源：<a href=\"https://link.zhihu.com/?target=https%3A//www.suse.com/documentation/suse-best-practices/pdfdoc/optimizing-linux-for-amd-epyc-with-sle-12-sp3/optimizing-linux-for-amd-epyc-with-sle-12-sp3.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">suse.com/documentation/</span><span class=\"invisible\">suse-best-practices/pdfdoc/optimizing-linux-for-amd-epyc-with-sle-12-sp3/optimizing-linux-for-amd-epyc-with-sle-12-sp3.pdf</span><span class=\"ellipsis\"></span></a><br/>EPYC 的 hwloc（一种 NUMA 实用工具，让应用尽可能避免受到 NUMA 跨核访问的影响）结构示意图，可以看到一共有八个主存节点，每个主存节点下有两个 L3 簇，而 SCSI/ATA 控制器和网卡等 IO 设备都分布在不同的 NUMA node，这就意味着跨 NUMA 访问非常难以避免，如果你的虚拟机被分配在远离网卡的机器，显然网络 IO 性能就会有影响，这就需要 QoS。</blockquote><p>到了 Zen 3 越加不可收拾，八核心产品采用了奇怪的设计：GPU Die 和 IO Die。这其实一看就能理解，IO Die 相当于当年的北桥，提供了内存/PCIe 控制器，APU 型号额外增加 Vega 图形单元，可能还会集成 eDRAM，或者说不定换成 GDDR 内存控制器，做成和游戏机类似的架构。</p><p>有些玩家可能想象这个 Die 看上去能塞下另外一个 8 核心的 Die，但是从内存带宽的角度看，目前 Ryzen 大多数型号都可以从高频低延迟重获取明显的整体性能提升，所以如果真的做到16核心，内存带宽就会成为极大的瓶颈。以及目前的设计引入了 CPU-北桥-L4缓存（不确定是 SRAM 还是 eDRAM）-内存控制器-DDR4 显存，这就让本身对内存敏感的 Ryzen 的内存性能更加存疑。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-101d253ed6a1f25858136719cb434afc_b.jpg\" data-size=\"normal\" data-rawwidth=\"1452\" data-rawheight=\"949\" class=\"origin_image zh-lightbox-thumb\" width=\"1452\" data-original=\"https://pic1.zhimg.com/v2-101d253ed6a1f25858136719cb434afc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1452&#39; height=&#39;949&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1452\" data-rawheight=\"949\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1452\" data-original=\"https://pic1.zhimg.com/v2-101d253ed6a1f25858136719cb434afc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-101d253ed6a1f25858136719cb434afc_b.jpg\"/><figcaption>左: IO Die 右: CPU Die 手: 苏妈</figcaption></figure><p>这种诡异的设计更像是为了 EPYC 让步, CPU Die 就可以以更高的良率生产， EPYC 同样借助 IO Die 就可以实现更灵活的组合，以相对低的成本塞进更多的核心。对于虚拟化平台来说这种方案能够有效降低单机成本。同样运算密集型的 HPC 平台也有更大的吞吐能力。但是如果是数据库这种对于缓存敏感、有着大量并发锁（还记得 Intel TSX 指令集么）的应用，这种引入8（16）个 NUMA 节点的单路平台是难以优化的。</p><p><b>CPU/IO 虚拟化技术</b></p><p>Intel 有两个主要的虚拟化技术，vt-x 和 vt-d。前者允许增加一个处理器指令层级实现影子页表，以硬件的方式进行二级页表地址转换，这就让虚拟机的运算性能接近原生。而 vt-d 也叫 iommu，允许透传一部分虚拟内存到虚拟机中，从而实现硬件级别的设备穿透，比如显卡直通，网卡直通。网卡中还有 SR-IOV （Single Root IO virtualization）技术，允许一个网卡NIC在为宿主系统提供 PF（物理功能）的基础上增加独立的 iommu 组（一个组内的 PCIe 设备必须进入同一个虚拟化环境，比如一个双口单芯片不支持 SR-IOV 的网卡，虽然是两个设备，但是属于一个 IOMMU 组，不能分离。）下的 VF（虚拟功能），可以通过 iommu 将 vf 接入虚拟机，重复利用硬件本身的硬件卸载（hw offload 特性），简单的说就是网络中各层的封包，计算校验和，桥接和交换等工作可以交给网卡而不是基于 CPU 的操作系统网络栈。</p><p>最早的网卡都是属于全虚拟化技术，就是宿主通过实现一个网卡规范，比如 rtl8139/intel e1000 从而让虚拟机能够上网，这种技术的好处是兼容性最好。之后出现了一种半虚拟化技术，叫做 virtio，这种技术的主旨就是让宿主充分透传硬件功能，或者是充分兼容操作系统本身的 IO 实现，从而提升网卡或者是硬盘的 IO 性能。特别值得一提的是传统虚拟 SATA/IDE/SCSI 不能把虚拟机内部对于磁盘读写的 TRIM 指令（TRIM 是 ATA 的术语，Linux 叫做 discard，SCSI 叫做 unmap）映射到文件系统的块设备文件（虚拟机的磁盘文件）或者 LVM Lun（文件系统容器），但是基于 SCSI-virtio 就能够有效的穿透 trim。Windows 有第三方提供的 trim 驱动，在安装的时候给 DVD 设备配置为 IDE/SATA 这样能够兼容的设备，然后在安装中安装 virtio 驱动（类似于当年刚出现 NVMe/ACHI 的时候）。值得一提的是 Windows 的 NTFS 原生支持 vhd 穿透 trim。</p><p>Hyper-V 是微软开发的虚拟化架构。用户在 Windows 功能中开启 Hyper-V 重启即可。重启后的 Windows 系统本身其实就处于 Hyper-V 虚拟层之下，相当于是一台充分直通的虚拟机，如果你在 Hyper-V 中间开 Windows，generation 2 虚拟机可以充分借助半虚拟化带来卓越的桌面体验（其实就是 RDP），如果是其他发行版则只能使用性能低劣的 framebuffer 模型：设定一块内存为显示缓冲区，虚拟机往里面写入，宿主机在外面读取抓到画面，效率极低。部分发行版可以通过安装 hyper-v 兼容包实现通过 xrdp（将 Linux 的 X 桌面协议翻译为 RDP 协议）从而实现好那么一点的桌面体验，当然其他系统就不要考虑基于 API 虚拟化的 remoteFX 了。Xbox One 正是利用 Hyper-V 打造的平台， 每个游戏都跑在一个独立的虚拟机中，这就保证宿主系统安全稳定。</p><p>同时 Hyper-V 开启后会自动开启系统沙盒和浏览器沙盒。前者允许你更安全的运行一些应用，而后者基本上就是让每一个 Edge 浏览器的标签页不再通过系统进程隔离，而是通过虚拟机进行隔离，但是这样一来就会降低性能。</p><p>根据测试，开启 Hyper-V 的 Windows，内存延迟将会提升 8% 左右，而内存带宽则可能会损失 10%。但这就和 MCU 和 CPU 的差别一样，引入虚拟化和引MMU让系统更加灵活安全。</p><h2><b>终于开始讲内存了</b></h2><a href=\"https://zhuanlan.zhihu.com/p/26255460\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-4cfbdfb32cbf32bbff06a4e23750d732_180x120.jpg\" data-image-width=\"489\" data-image-height=\"251\" class=\"internal\">老狼：内存系列一：快速读懂内存条标签</a><a href=\"https://zhuanlan.zhihu.com/p/26327347\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-39e8067c68e2d4ef9efce972b8e07760_180x120.jpg\" data-image-width=\"605\" data-image-height=\"478\" class=\"internal\">老狼：内存系列二：深入理解硬件原理</a><a href=\"https://zhuanlan.zhihu.com/p/26387396\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-f5f8086cf83e4cfecd370e92d8d820be_ipico.jpg\" data-image-width=\"566\" data-image-height=\"492\" class=\"internal\">老狼：内存系列三：内存初始化浅析</a><p>内存延迟主要有几个因素</p><p><b>颗粒的时序</b>，一般开头的 CLn 都能体现这个内存的时序情况。像我们看到 DDR4 中表现优异的是一款 B-die 的 C14 内存。而内存延迟通常会因为 DDR 技术的迭代而增加。内存技术主要都是通过增加预读位数从而提升频率，这就引入了延迟。在 DDR3 到 DDR4 的演进中我们并没有感受到太多延迟的退步，而在 DDR2 到 DDR3 的演进中，曾经出现过巨大的内存延迟增加，在当时 DDR3 开始才 1066，价格远比 DDR2 贵，而由于内存延迟提升，在 AMD 平台上（本质是缓存设计不如 Intel）这种缺陷会特别明显，直到 DDR3 到了 1600 时代才获得人们的认可。</p><p>当年的文章：</p><p><a href=\"https://link.zhihu.com/?target=http%3A//news.mydrivers.com/1/79/79196.htm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">DDR3内存的苦恼：CL延迟步步高</a></p><p><a href=\"https://link.zhihu.com/?target=https%3A//news.mydrivers.com/1/447/447688.htm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">对比DDR3实测：完美的继任者</a></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5cf0afcd53b7b40e63e9a9019a1b5851_b.jpg\" data-size=\"normal\" data-rawwidth=\"1622\" data-rawheight=\"1698\" class=\"origin_image zh-lightbox-thumb\" width=\"1622\" data-original=\"https://pic2.zhimg.com/v2-5cf0afcd53b7b40e63e9a9019a1b5851_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1622&#39; height=&#39;1698&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1622\" data-rawheight=\"1698\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1622\" data-original=\"https://pic2.zhimg.com/v2-5cf0afcd53b7b40e63e9a9019a1b5851_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5cf0afcd53b7b40e63e9a9019a1b5851_b.jpg\"/><figcaption>可以看到当年整合内存控制器并且拥有CL4内存的速龙仍然在内存延迟宝座，真的是怀念 AMD CPU + nvidia Chipset 的时代</figcaption></figure><p><b>总线类型</b>，主要分为 UDIMM，RDIMM 和 LRDIMM。UDIMM 是最常见的内存，也叫做 unbuffered（未缓冲内存），而 RDIMM 也叫 Register DIMM，这个通常是因为内存本质是电容，如果内存控制器到内存颗粒的线路长，内存颗粒（或者说rank）多，内存颗粒内部有更多单元（容量大，所以手机小内存可以降低待机功耗），那么就需要有着储能功能的寄存器来进行提升信号驱动能力，但是反作用就是内存延迟会增大。LRDIMM 就是一种更加夸张的情况，由于一些小型机需要大量的内存去运行一些运算或者数据库类 IO 应用，相比于访问缓慢的 SAS 总线的硬盘，不如直接放在内存里来的快，那么就会让内存通过内存板连接到主板，这种情况下由于线路被进一步延长，所以就要通过一个 memory buffer chip（内存缓冲芯片，本质上就是内存外的缓冲寄存器）去充当中介。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-27fac2b1c32e0ced15ac141c800883b4_b.jpg\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-27fac2b1c32e0ced15ac141c800883b4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;800&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-27fac2b1c32e0ced15ac141c800883b4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-27fac2b1c32e0ced15ac141c800883b4_b.jpg\"/><figcaption>中间的颗粒用于缓冲。需要注意的是这个内存一面18颗粒，双面36，按照 64bit 位宽/每个颗粒 4bit 来算，有 2Rank，每个 64bit 有额外 8bit 充当 ECC 校验作用</figcaption></figure><p>Rank数量，所谓 rank 就是同一组片选(select-chip)信号下的颗粒的集合，现在的 DDR RAM 都是 64bit 一组 rank，通常每个颗粒为 8bit，服务器 ECC 内存所用的颗粒则为 4bit。越大的内存（2 Rank 内存，比如一些被认为是双面十六颗粒的内存），单个通道下更多内存都会增加内存延迟。</p><p>线路距离，通常来说服务器主板不仅要忍受 ECC/复杂的内部互联/NUMA 带来的额外延迟，更长的线路距离也会带来更多延迟和功耗。而嵌入式平台就因此引入了 PoP 封装的概念。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3b3a8a73fc65cb26ab2dc2a5dada22b9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"917\" data-rawheight=\"418\" class=\"origin_image zh-lightbox-thumb\" width=\"917\" data-original=\"https://pic2.zhimg.com/v2-3b3a8a73fc65cb26ab2dc2a5dada22b9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;917&#39; height=&#39;418&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"917\" data-rawheight=\"418\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"917\" data-original=\"https://pic2.zhimg.com/v2-3b3a8a73fc65cb26ab2dc2a5dada22b9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-3b3a8a73fc65cb26ab2dc2a5dada22b9_b.jpg\"/></figure><p>明明采用的是 BCM 芯片的树莓派，为什么顶部的铭文是 SAMSUNG？如果你仔细的看可以发现，树脂封装的 DRAM 颗粒和绿色的 CPU 基板之间那道界线。PoP 减少了核心到内存颗粒的距离，降低了延迟和功耗，并且为嵌入式平台节约了宝贵的空间。但是这也让发热更加集中。所以在早期一些平板（包括到现在的 Surface Pro/Go）都仍然是外部 LPDDR3 或者 DDR4 颗粒。但是鬼才 Apple 工程师则想到了非常聪明的办法防止内存颗粒影响散热：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9965d933bc5288c23a57ec8e8f6fe546_b.jpg\" data-size=\"normal\" data-rawwidth=\"220\" data-rawheight=\"244\" class=\"content_image\" width=\"220\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;220&#39; height=&#39;244&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"220\" data-rawheight=\"244\" class=\"content_image lazy\" width=\"220\" data-actualsrc=\"https://pic3.zhimg.com/v2-9965d933bc5288c23a57ec8e8f6fe546_b.jpg\"/><figcaption>真的不是P出来的。</figcaption></figure><p>以及 Apple 在 A9 时代实现了 PCIe 的交换化，并且集成了 QoS 功能，这就让 IO 资源能够按照运行的情况得到适当的分配。</p><p><b>从 GDDR 到 HBM 内存</b></p><p>显卡由于更加注重吞吐量，所以并不是很注重延迟。于是就有了 GDDR 内存，拥有相比普通 DDR 更大的预读量，从而达到更高的等效频率。另一个增加带宽最直接的方法是并行的增加位宽，这就需要设计更宽的显存控制器和塞入更多颗粒。然而传统 DRAM 作为一种并口技术，增加位宽就意味着牺牲频率和提升成本，这就是 AMD 在当年遇到的瓶颈，虽然做出了 512bit 位宽的 290X，Nvidia 用着比 AMD 少多的的位宽实现了更大的等效频率，从而达到更大的吞吐量，并且功耗和成本更低。</p><p>同时更多颗粒就意味着更大的空间占用。所以 AMD 就带头用一块更大的 Die（通常是 130nm 水平的 Die）形成互联层，通过硅穿孔互联技术（TSV）形成多层 HBM DRAM。由于硅穿孔相比传统PCB基板拥有着更好的电气特性，所以就能实现高达 1024bit, 2048bit，到 Radeon VII 的 4096 bit 的超级位宽。并且相比 GDDR，延迟更低，HBM 也适用于 FPGA 或者专用机器学习芯片中。</p><p>虽然 HBM 降低了功耗，但是也导致热量更为集中。而且更大的基板也显著增加了成本，降低了灵活性，这就是为什么 Radeon VII 仍然提供了 16GB 显存的原因。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-6958077b0da2ad4195f9b86a2671b55e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"529\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic3.zhimg.com/v2-6958077b0da2ad4195f9b86a2671b55e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1000&#39; height=&#39;529&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"529\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://pic3.zhimg.com/v2-6958077b0da2ad4195f9b86a2671b55e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-6958077b0da2ad4195f9b86a2671b55e_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-f705fba4ff06d63222265a1229ba0a51_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"200\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pic2.zhimg.com/v2-f705fba4ff06d63222265a1229ba0a51_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;570&#39; height=&#39;200&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"200\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"570\" data-original=\"https://pic2.zhimg.com/v2-f705fba4ff06d63222265a1229ba0a51_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-f705fba4ff06d63222265a1229ba0a51_b.jpg\"/></figure><p><b>HMC 内存</b></p><p>相比 HBM，大家恐怕对 HMC 比较陌生。但是提到“Intel 牌独显”的 Intel Phi 计算卡，就不得不提 HMC 内存。但是提到 HMC 内存，就要提到 DDR2 时代的一个奇葩，Fully Buffered DIMM，简称 FBD 内存。FBD 内存的一个主要思路就是将 CPU 到内存颗粒的连接串行化，颇类似 PCIe，然后缓冲芯片来处理操作逻辑。由于是串行线就能够实现更高频率和更好的信号控制。整体上来看就像是 CPU 通过 PCIe 总线访问了显卡的 DRAM，理论上 FBD 能在 DDR2 的插槽上的内存上安装 DDR3 的颗粒。但是 FBD 在进入 DDR3 之后就销声匿迹了。</p><p>但是随着 HBM 的 TSV 技术的出现，意味着DRAM堆叠成为可能。HMC 和 HBM 不同的地方在于使用便宜但是仍然比插槽高效的基板连接（所谓胶水），而不是一块巨大的硅片。HMC 沿用了 DRAM 下逻辑控制芯片的功能。HMC 由于没有巨大的硅片作为基础，相比 HBM 更加灵活，比如让 HMC 内存距离主核心远一点，这样就更加方便做散热，或者允许阉割掉部分颗粒从而降低成本。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0c11e65d606f158c5cd80bc0b77b025d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-0c11e65d606f158c5cd80bc0b77b025d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-0c11e65d606f158c5cd80bc0b77b025d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-0c11e65d606f158c5cd80bc0b77b025d_b.jpg\"/></figure><h2><b>内存延迟和带宽影响分析</b></h2><p>在游戏场景中，内存带宽主要受到频率影响更多。拥有大带宽的内存通常能在游戏中获取较高帧数。越复杂（比如需要软件计算物理特效）的游戏在大带宽内存下有明显提升，而简单的游戏就不明显。而提升内存频率和超频一样，是边际效应很大的投资（当年还需要想办法超 FSB），在内存不是太差（比如现在的标准来看是 DDR4-2400/2666）的情况下可以把资金放在提升显卡上。</p><p>而内存延迟更多还是取决于平台。如果你要打游戏，最好就避免在 Skylake-X 或者是复杂 NUMA 的机器，比如 Threadripper 上玩游戏，即便要玩也最好结合平台 NUMA 工具优化的程序，比如 Windows 下的 TR 实用程序 Ryzen Master。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-45b753decf4c05eab3e94afb18840204_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2489\" data-rawheight=\"1349\" class=\"origin_image zh-lightbox-thumb\" width=\"2489\" data-original=\"https://pic1.zhimg.com/v2-45b753decf4c05eab3e94afb18840204_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2489&#39; height=&#39;1349&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2489\" data-rawheight=\"1349\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2489\" data-original=\"https://pic1.zhimg.com/v2-45b753decf4c05eab3e94afb18840204_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-45b753decf4c05eab3e94afb18840204_b.jpg\"/></figure><p>内存时序对于内存整体延迟的作用 大概占到了20-30%的部分，虽然越低的内存延迟总能在帧率上反映出提升，但是同样是一个边际成本极高的项目，或者说，当你的应用需要大量带宽，或者你的双通道内存无法喂饱八核心的平台，那么就牺牲内存时序带来更多带宽是完全值得的。另外大缓存，或者是 eDRAM 能够一定程度上抵消较差的内存时序（延迟）带来的副作用，游戏机平台就是这样做的。</p><p>不过同样和内存带宽类似，如果你的内存延迟差到一定程度，那么你的游戏性能就会有断崖式下降，通常这种差表现不是内存时序带来的，更多还是你的平台配置。更简单的说，别在服务器打游戏。</p><p>参考：</p><p><a href=\"https://link.zhihu.com/?target=https%3A//www.anandtech.com/show/1598/4\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">anandtech.com/show/1598</span><span class=\"invisible\">/4</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=https%3A//www.anandtech.com/show/1598/4\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Half Life 2 CPU Performance</a></p><a href=\"https://link.zhihu.com/?target=https%3A//www.anandtech.com/show/1598/4\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Half Life 2 CPU Performance</a><p class=\"ztext-empty-paragraph\"><br/></p><p>而内存延迟对于操作系统和一些以逻辑运算为核心的应用程序，比如浏览器的 Javascript 引擎，脚本的解释器和 JIT 引擎，编译器都有着明确的性能关联。如果你是一个开发者，需要尽可能快的编译非并行化的编译任务，那么内存延迟改善就有明确帮助，这种帮助通常反映在整体用时上。</p><p>今天，我认为最好的游戏平台仍然是基于 Z370/Z390 的 8700K/9700K/9900K 平台，虽然 SIMD 和 PCIe 数量无法和 HEDT 和服务器平台比拟，但是得益于极高的单核性能，卓越的基础频率和超频能力，平衡的 PCH IO（AMD 还是 PCIe 2.0 的牙签 PCH），和竞争对手毫不逊色的功耗表现（AMD Zen 2 借助 7nm 似乎达到了更好能效），还有成熟稳定的 IO Diagram，是游戏玩家的首选。</p><p>最后介绍一篇文章，关于在 Haswell 平台上通过芝奇（G.SKILL）内存从 1333-3000 频率的各个 CAS 延迟下的性能表现，如果你有兴趣了解游戏、应用中带宽和延迟带来的具体影响，值得一看。</p><p><a href=\"https://link.zhihu.com/?target=https%3A//www.anandtech.com/show/7364/memory-scaling-on-haswell\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Memory Scaling on Haswell CPU, IGP and dGPU: DDR3-1333 to DDR3-3000 Tested with G.Skill</a></p>", 
+            "topic": [
+                {
+                    "tag": "内存（RAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/19570383"
+                }, 
+                {
+                    "tag": "计算机科学", 
+                    "tagLink": "https://api.zhihu.com/topics/19580349"
+                }, 
+                {
+                    "tag": "装机必备", 
+                    "tagLink": "https://api.zhihu.com/topics/19630466"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Tux ZZ", 
+                    "userLink": "https://www.zhihu.com/people/950266d7bbd65dc60d1155d57781b3b0", 
+                    "content": "<p>“越接近寄存器的存储，体积越小”——实际上SRAM和寄存器，因为需要更多的晶体管，单位容量的体积相对DRAM是大的。</p>", 
+                    "likes": 6, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "老狼", 
+                    "userLink": "https://www.zhihu.com/people/8fe37442b340929b0fc53a08ea672a5f", 
+                    "content": "写的不错!", 
+                    "likes": 10, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "手：苏妈[思考]<br><br>这个图注可以说很灵性了<br>(注：左起第三位是苏姿丰女士)", 
+                    "likes": 8, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "powerpoint", 
+                    "userLink": "https://www.zhihu.com/people/d343d69f2c64ab49dc3c5d71ed16dd6c", 
+                    "content": "看到TLB，我第一个就想起来AMD初代羿龙的TLB Bug<br>看到nUMA，我第一个想到的是AMD的线程撕裂者", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "alive", 
+                    "userLink": "https://www.zhihu.com/people/d2c02ef41a0bf072b7e052316e7b1517", 
+                    "content": "好像打错了一个字:mash mesh", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Tux ZZ", 
+                    "userLink": "https://www.zhihu.com/people/950266d7bbd65dc60d1155d57781b3b0", 
+                    "content": "<p>“越接近寄存器的存储，体积越小”——实际上SRAM和寄存器，因为需要更多的晶体管，单位容量的体积相对DRAM是大的。</p>", 
+                    "likes": 6, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Tux ZZ", 
+                    "userLink": "https://www.zhihu.com/people/950266d7bbd65dc60d1155d57781b3b0", 
+                    "content": "<p>“后来 AMD 率先将北桥融合入内存”——此处应为整合入CPU</p>", 
+                    "likes": 6, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Tux ZZ", 
+                    "userLink": "https://www.zhihu.com/people/950266d7bbd65dc60d1155d57781b3b0", 
+                    "content": "<p>“Zen 2 在 Zen 1 的基础上作何很多稳定性和细节调整，并且开启了 TR 的两个 Die 从而形成了最高 32 核心的 2990WX。”——Ryzen 2000系列是Zen+，Zen 2应该是今年发布的Ryzen 3000系列</p>", 
+                    "likes": 4, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "说错了是的", 
+                            "likes": 0, 
+                            "replyToAuthor": "Tux ZZ"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "紫色银子", 
+                    "userLink": "https://www.zhihu.com/people/ec8cacdb61d7cc9ad3844b5b3b32d3c9", 
+                    "content": "点个赞假装自己看懂了[捂脸]", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "炎发灼眼", 
+                            "userLink": "https://www.zhihu.com/people/de9d2e5f45ca8abc2e542f84fa2b2523", 
+                            "content": "太真实了", 
+                            "likes": 0, 
+                            "replyToAuthor": "紫色银子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "evopen", 
+                    "userLink": "https://www.zhihu.com/people/f714f09544eaf551f987c972446e0b9f", 
+                    "content": "请问hyper-v下内存延迟和带宽损失这个数据有出处吗？", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "aida64 测过", 
+                            "likes": 0, 
+                            "replyToAuthor": "evopen"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "缓存应该是“缓冲存储器”的缩写吧，和“快取”应该不是截然相反。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "XZiar", 
+                            "userLink": "https://www.zhihu.com/people/f76cc47c7de7323b10ece9d850514561", 
+                            "content": "<p>缓-快，存-取。写入时cache就成了缓存，读取时cache就成了快取</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "Dappur", 
+                            "userLink": "https://www.zhihu.com/people/3c8e68afe050b39f120d6b84fc7f96d9", 
+                            "content": "<p>然而事实上cache专指读取缓冲，而buffer专指写入缓冲；但就字面意思而言，恰好是反过来了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "XZiar"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "该评论已删除", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "要 m2 直连上 HEDT，PCH 对于网卡硬盘瓶颈没那么大", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "AM4就是直连 说的好像x299PCIE通道很多一样，连x99都拼不过还说啥？？各种魔改坑爹货能用？？", 
+                            "likes": 0, 
+                            "replyToAuthor": "Luv Letter"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "临界Z零点", 
+                    "userLink": "https://www.zhihu.com/people/32c32c7f83309032ad4809ba98cc6589", 
+                    "content": "把IO独立出来做，看样子AMD想了很多才权衡利弊的，如果能像当年intel的1156那样超外频，bios的bug少一些，那翻身就真的来了。发烧型D4会随锐龙3000的发布出货量上升。而等到DDR5批量上市后，老黄的低端独显存在感会低", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "<p>独立外频这种东西之后出现 1:1.33 之类的 BCLK 分频器之后早就可以做到了。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "临界Z零点"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>Intel TSX 指令集是不是处于半废弃状态?</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Luv Letter", 
+                            "userLink": "https://www.zhihu.com/people/013b9b3db91fc72ae86a8e71dd263a9d", 
+                            "content": "不是，一般桌面平台用不到", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>没有生产级应用 intel 还老修 bug 紧急发补丁修几次了</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "Luv Letter"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>🐔个错误指正一下</p><ol><li>Eypc IO Die里是没有L4的</li><li>IO Die  != North bridge</li><li>Eypc 2相对于1代是减少了numa nodes的</li></ol>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1072508495508795392"
+}

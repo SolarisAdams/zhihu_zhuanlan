@@ -1,0 +1,623 @@
+{
+    "title": "高考数学", 
+    "description": "高中数学教学视频，高中数学真题解析，知识点，必背公式，", 
+    "followers": [
+        "https://www.zhihu.com/people/lirumei-42", 
+        "https://www.zhihu.com/people/du-wo-bu-du-ta-66-71", 
+        "https://www.zhihu.com/people/zhu-jing-57-90", 
+        "https://www.zhihu.com/people/ha-ha-74-69-50", 
+        "https://www.zhihu.com/people/wan-mei-59-21", 
+        "https://www.zhihu.com/people/san-ge-xiao-59", 
+        "https://www.zhihu.com/people/xing-wei-45-1", 
+        "https://www.zhihu.com/people/sun-wen-40-53", 
+        "https://www.zhihu.com/people/ouyehaha", 
+        "https://www.zhihu.com/people/su-yu-16-20", 
+        "https://www.zhihu.com/people/chen-yu-feng-77", 
+        "https://www.zhihu.com/people/shang-ly-15", 
+        "https://www.zhihu.com/people/messifanboy", 
+        "https://www.zhihu.com/people/lao-guo-2-44", 
+        "https://www.zhihu.com/people/meng-da-mo-wang", 
+        "https://www.zhihu.com/people/huang-xi-cheng-34-23", 
+        "https://www.zhihu.com/people/yu-dai-wang-guan-bi-cheng-qi-zhong-51", 
+        "https://www.zhihu.com/people/vicitortu", 
+        "https://www.zhihu.com/people/guo-guo-33-70-99", 
+        "https://www.zhihu.com/people/an-jing-99-29-99", 
+        "https://www.zhihu.com/people/xiao-mo-86-55-27", 
+        "https://www.zhihu.com/people/gavin-85-34", 
+        "https://www.zhihu.com/people/hual-72", 
+        "https://www.zhihu.com/people/zzzzzz-27-26", 
+        "https://www.zhihu.com/people/windsky-79-49", 
+        "https://www.zhihu.com/people/han-jia-xu-711", 
+        "https://www.zhihu.com/people/feng-chui-guo-jing-79", 
+        "https://www.zhihu.com/people/xiaomm8341", 
+        "https://www.zhihu.com/people/ban-ri-xian-72-61", 
+        "https://www.zhihu.com/people/count66311", 
+        "https://www.zhihu.com/people/internper", 
+        "https://www.zhihu.com/people/zui-ai-xi-hong-shi-38", 
+        "https://www.zhihu.com/people/zhong-sheng-74-32", 
+        "https://www.zhihu.com/people/lu-yu-tian-tian", 
+        "https://www.zhihu.com/people/wang-wei-58-6-27", 
+        "https://www.zhihu.com/people/chen-xi-59-83-95", 
+        "https://www.zhihu.com/people/yan-yi-xuan-84", 
+        "https://www.zhihu.com/people/15707205023", 
+        "https://www.zhihu.com/people/li-yi-heng-60-80", 
+        "https://www.zhihu.com/people/guoxu-98-4", 
+        "https://www.zhihu.com/people/jiang-xu-dong-97", 
+        "https://www.zhihu.com/people/zi-xin-ha-ha-ha-qing", 
+        "https://www.zhihu.com/people/tian-tian-xiang-shang-29-42", 
+        "https://www.zhihu.com/people/jie-jue-8-12", 
+        "https://www.zhihu.com/people/pang-dan-guo", 
+        "https://www.zhihu.com/people/yl-l-5", 
+        "https://www.zhihu.com/people/yuan-dong-li-38-16", 
+        "https://www.zhihu.com/people/a-shuang-shuang-1", 
+        "https://www.zhihu.com/people/15987134767", 
+        "https://www.zhihu.com/people/chen-shu-kang-66", 
+        "https://www.zhihu.com/people/hong-chang-20", 
+        "https://www.zhihu.com/people/zhi-liu-yi-lu-gu-ji", 
+        "https://www.zhihu.com/people/xian-zai-81-73", 
+        "https://www.zhihu.com/people/lin-xia-you-lan", 
+        "https://www.zhihu.com/people/209738", 
+        "https://www.zhihu.com/people/zhi-duo-qing-wu-yong", 
+        "https://www.zhihu.com/people/bing-lu-ning-meng-37", 
+        "https://www.zhihu.com/people/wu-cen-54-97", 
+        "https://www.zhihu.com/people/qian-cheng-25-98", 
+        "https://www.zhihu.com/people/perry-33-84", 
+        "https://www.zhihu.com/people/zjhcp", 
+        "https://www.zhihu.com/people/zhi-chang-an", 
+        "https://www.zhihu.com/people/hou-ya-fei-34", 
+        "https://www.zhihu.com/people/_anonymous", 
+        "https://www.zhihu.com/people/yao-si-man-57", 
+        "https://www.zhihu.com/people/ping-guo-xue", 
+        "https://www.zhihu.com/people/bai-chen-shan-59-73", 
+        "https://www.zhihu.com/people/wei-31-86", 
+        "https://www.zhihu.com/people/li-cheng-yong-21", 
+        "https://www.zhihu.com/people/ke-bi-tui-yi-liao", 
+        "https://www.zhihu.com/people/stepped", 
+        "https://www.zhihu.com/people/012138appna", 
+        "https://www.zhihu.com/people/xin-er-66-49-12", 
+        "https://www.zhihu.com/people/shi-shi-30-19", 
+        "https://www.zhihu.com/people/xie-song-bo-23", 
+        "https://www.zhihu.com/people/shou-ji-gou-bu-shou-ji", 
+        "https://www.zhihu.com/people/yong-ren-75-49", 
+        "https://www.zhihu.com/people/jiang-kai-62-51", 
+        "https://www.zhihu.com/people/jiayingtang"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39238716", 
+            "userName": "数学Pi晴天", 
+            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+            "upvote": 1, 
+            "title": "高中数学暑假作业21天训练打卡答疑群", 
+            "content": "<p>       一直在找合适的方式和孩子们互动，也研究过小程序，想要给孩子们一个学习氛围很好的在线环境，以及互帮互助，公共进步，所以近段时间没有更新，一直找适合大家的方式，创办数学Pi的初衷，是因为我觉得每个孩子都应该和可能轻松高效的学习高中数学，并得到理想的分数.</p><p>         之前想找个地方给同学们答疑，但是试水了几个地方，都没有很好的效果，还是决定在微信群里答疑，因为可以发图片，直播，和内容讲解答疑，我们的营正式启动是在7.16号，7.16号之前加入营的小伙伴全部可获得免费加入的资格，而且，还有机会获得我们价值3888的高中数学年卡，（可在线学习数学Pi所有课程），和老师一对一在线咨询，选择在这里首发，是因为对这里的小伙伴和孩子们有感情，欢迎大家加入我们数学Pi的大家庭,想要进群和获得其他资料，可以直接扫描下面这个小姐姐的微信号：数学Pi客服小姐姐，或者上面图片我个人微信号.</p><p><a href=\"https://link.zhihu.com/?target=https%3A//u.wechat.com/EAhbS8aMfz6bODtldZJBy1I\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">u.wechat.com/EAhbS8aMfz</span><span class=\"invisible\">6bODtldZJBy1I</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "高中数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19645414"
+                }, 
+                {
+                    "tag": "高一数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19823297"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "那个轻社区呢还有用吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>可以看和发帖，但是我发现互动不能发图片，群的二维码又7天过期，所以老师这几天一直在想其他办法，现在终于创建了群，怠慢了，孩子，爱你</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>加个人号，然后就可以拉到群里来，谢谢你一直一来的关注和支持，</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38011820", 
+            "userName": "数学Pi晴天", 
+            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+            "upvote": 2, 
+            "title": "2018全国卷高考数学III卷文科试卷", 
+            "content": "<p>知乎更新不及时，如有其他数学问题，可以加入我们数学Pi大家庭.扫描上面图片二微码，或者微信搜索数学Pi客服小姐姐.</p><p>有同学问卷III文科答案，卷III文科比理科要简单些，也有很多相同的题目，我在理科卷里写了，这里就不写，这里是文科试卷，大家看下.</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-375009ceecac270b64dbd8bec8f754b4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"349\" data-rawheight=\"486\" class=\"content_image\" width=\"349\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;349&#39; height=&#39;486&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"349\" data-rawheight=\"486\" class=\"content_image lazy\" width=\"349\" data-actualsrc=\"https://pic1.zhimg.com/v2-375009ceecac270b64dbd8bec8f754b4_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-f8a5a20210ec7295aef202cc26afd231_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"351\" data-rawheight=\"498\" class=\"content_image\" width=\"351\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;351&#39; height=&#39;498&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"351\" data-rawheight=\"498\" class=\"content_image lazy\" width=\"351\" data-actualsrc=\"https://pic2.zhimg.com/v2-f8a5a20210ec7295aef202cc26afd231_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5afe9fff92093c32cf58722599a28a15_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"360\" data-rawheight=\"515\" class=\"content_image\" width=\"360\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;360&#39; height=&#39;515&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"360\" data-rawheight=\"515\" class=\"content_image lazy\" width=\"360\" data-actualsrc=\"https://pic2.zhimg.com/v2-5afe9fff92093c32cf58722599a28a15_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d33a19f5bd3edf9fb44bbccf7efab553_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"389\" data-rawheight=\"234\" class=\"content_image\" width=\"389\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;389&#39; height=&#39;234&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"389\" data-rawheight=\"234\" class=\"content_image lazy\" width=\"389\" data-actualsrc=\"https://pic4.zhimg.com/v2-d33a19f5bd3edf9fb44bbccf7efab553_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-99087a77d257df0071889ff2059e1aae_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-99087a77d257df0071889ff2059e1aae_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-99087a77d257df0071889ff2059e1aae_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-99087a77d257df0071889ff2059e1aae_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-11d14cd806632c04a811da598578332a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-11d14cd806632c04a811da598578332a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-11d14cd806632c04a811da598578332a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-11d14cd806632c04a811da598578332a_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1443aead3c95cbd75645b8c7d74f51e3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-1443aead3c95cbd75645b8c7d74f51e3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-1443aead3c95cbd75645b8c7d74f51e3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1443aead3c95cbd75645b8c7d74f51e3_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-bf25b3cf795da320d7e2de5be4f2da00_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-bf25b3cf795da320d7e2de5be4f2da00_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-bf25b3cf795da320d7e2de5be4f2da00_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-bf25b3cf795da320d7e2de5be4f2da00_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "高考", 
+                    "tagLink": "https://api.zhihu.com/topics/19567664"
+                }, 
+                {
+                    "tag": "高中数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19645414"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37922768", 
+            "userName": "数学Pi晴天", 
+            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+            "upvote": 8, 
+            "title": "2018高考数学全国卷III真题及真题答案详解", 
+            "content": "<p>知乎更新不及时，如有其他数学问题，可以加入我们数学Pi大家庭.扫描上面图片二微码，或者微信搜索数学Pi客服小姐姐.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有同学后台问2018全国卷III卷理科，总体来说，III卷的导数和解析几何稍微难点，但是这并不影响你得到130分，很多2019届的学生都表示很<b>惶恐</b>，觉得是拿了自己的命换来2018的简单，孩子们，如果今年考试，没有粗心犯错，建议不要复读，（因为1年的时间太宝贵了，早点去大学开启你新的人生，）而且基础薄弱的学生也不要恐慌，和你没关系，因为对于有些人来说，满分是150，对于有些人来说，满分是130，而且你只要把130稳定全部发挥出来得分就可以，今年带的一些学生，有些基础比较弱，因为有些艺术孩子，时间非常紧张，平时虽然她们只有100分左右，最后有几个发挥出130分的水平，而且很轻松，<b><i>该放弃放弃，该检查检查，（椭圆和导数第二问放弃，大约就是134左右水平，再错一道填选（不要故意去做错，也可以不错），差不多130）</i></b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>以前那会我还是学生的时候经常考满分，记得有一次没有考满分，我们的数学老师硬是让我一个人（一个人）写了半天的悔过书，就因为被扣了4分，我就硬生生地被逼着写了一篇悔过论文，（自此之后，就无法自拔的爱上了数学，其实很多人不知道自己喜欢做什么，很简单，你在做这件事的时候有成就感，很开心就是了，比如，我把我的学生从只有5分到考到110分，我就觉得很幸福，特别是我的学生每次发信息和我分享毕业后大学发生的事情的时候，分享她们的学习，生活，感情，未来规划，我就觉得幸福），那会学生时候，很多人很羡慕我，学霸，特别是女生把数学学的好，班里的同学都羡慕，但是他们不知道的事情是，我偏科，我英语只能考110，后来大学也不知道是怎么把英语六级给考过的（好的，我真的真的没有炫耀沃兹积，）只是疯狂的热爱数学，可以去海边度假的时候，专注的给学生刷题，</p><p class=\"ztext-empty-paragraph\"><br/></p><p>废话那么多，我再想如果有光电波（项武侠小说里的内功传递），我愿意将我毕生所学全部传给我的学生，话说回来授人以鱼，不如授人以渔，希望能在高效的时间内，让大家轻松提分，因为我一直是一个终身学习的倡导者，我希望一切都有趣而有好玩，包括把很复杂的数学问题，用我这个手术刀一点点拆给你们看，让你们学的简单，目的，就算零基础，也能听懂，会做，作对，</p><p class=\"ztext-empty-paragraph\"><br/></p><p>絮絮叨叨这么多，简直女版唐僧了，今天有感而发，是因为数学真的很重要，它是一门基础学科，好了你们下面看题吧，为了检验你们是否认真看题，老师故意留了bug在里面，看看爱学习的你们找的到吗？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d386e02fd364153524c2450150eece4c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"546\" data-rawheight=\"653\" class=\"origin_image zh-lightbox-thumb\" width=\"546\" data-original=\"https://pic1.zhimg.com/v2-d386e02fd364153524c2450150eece4c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;546&#39; height=&#39;653&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"546\" data-rawheight=\"653\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"546\" data-original=\"https://pic1.zhimg.com/v2-d386e02fd364153524c2450150eece4c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d386e02fd364153524c2450150eece4c_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-bd1658cc8bc41b43742ac6d49bb24b43_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"495\" data-rawheight=\"647\" class=\"origin_image zh-lightbox-thumb\" width=\"495\" data-original=\"https://pic4.zhimg.com/v2-bd1658cc8bc41b43742ac6d49bb24b43_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;495&#39; height=&#39;647&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"495\" data-rawheight=\"647\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"495\" data-original=\"https://pic4.zhimg.com/v2-bd1658cc8bc41b43742ac6d49bb24b43_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-bd1658cc8bc41b43742ac6d49bb24b43_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-c03a50a8d8ed2780a839d8697263ed24_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"524\" data-rawheight=\"655\" class=\"origin_image zh-lightbox-thumb\" width=\"524\" data-original=\"https://pic1.zhimg.com/v2-c03a50a8d8ed2780a839d8697263ed24_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;524&#39; height=&#39;655&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"524\" data-rawheight=\"655\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"524\" data-original=\"https://pic1.zhimg.com/v2-c03a50a8d8ed2780a839d8697263ed24_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c03a50a8d8ed2780a839d8697263ed24_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8c210b2c8ab7285abee392c753702b9f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"552\" data-rawheight=\"378\" class=\"origin_image zh-lightbox-thumb\" width=\"552\" data-original=\"https://pic4.zhimg.com/v2-8c210b2c8ab7285abee392c753702b9f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;552&#39; height=&#39;378&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"552\" data-rawheight=\"378\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"552\" data-original=\"https://pic4.zhimg.com/v2-8c210b2c8ab7285abee392c753702b9f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8c210b2c8ab7285abee392c753702b9f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-b3f52b441defe4dbda519bfb43fb92ab_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-b3f52b441defe4dbda519bfb43fb92ab_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-b3f52b441defe4dbda519bfb43fb92ab_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-b3f52b441defe4dbda519bfb43fb92ab_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-58f2f9b46343596d030e94ce2b3d94fb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-58f2f9b46343596d030e94ce2b3d94fb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-58f2f9b46343596d030e94ce2b3d94fb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-58f2f9b46343596d030e94ce2b3d94fb_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ad28929d59f5f76cc338f72d9acceecc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-ad28929d59f5f76cc338f72d9acceecc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-ad28929d59f5f76cc338f72d9acceecc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ad28929d59f5f76cc338f72d9acceecc_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3059e981b1081b009a0d86fc371d1b63_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-3059e981b1081b009a0d86fc371d1b63_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-3059e981b1081b009a0d86fc371d1b63_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3059e981b1081b009a0d86fc371d1b63_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-deacb80daf34a83ff5d2d5359431bc0f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-deacb80daf34a83ff5d2d5359431bc0f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-deacb80daf34a83ff5d2d5359431bc0f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-deacb80daf34a83ff5d2d5359431bc0f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-deacb80daf34a83ff5d2d5359431bc0f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-deacb80daf34a83ff5d2d5359431bc0f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-deacb80daf34a83ff5d2d5359431bc0f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-deacb80daf34a83ff5d2d5359431bc0f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-b3fefc10fe19692234dffdc9526d65ea_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-b3fefc10fe19692234dffdc9526d65ea_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-b3fefc10fe19692234dffdc9526d65ea_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-b3fefc10fe19692234dffdc9526d65ea_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-be7b623179216cabb85843d1f6c31308_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-be7b623179216cabb85843d1f6c31308_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-be7b623179216cabb85843d1f6c31308_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-be7b623179216cabb85843d1f6c31308_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "高中数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19645414"
+                }, 
+                {
+                    "tag": "高考数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19770630"
+                }, 
+                {
+                    "tag": "高考", 
+                    "tagLink": "https://api.zhihu.com/topics/19567664"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "躯壳", 
+                    "userLink": "https://www.zhihu.com/people/005c39670c24e2ec00f121f63d4a8689", 
+                    "content": "解析几何可以不用点差法吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>孩子，你准备用什么方法</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "躯壳"
+                        }, 
+                        {
+                            "userName": "躯壳", 
+                            "userLink": "https://www.zhihu.com/people/005c39670c24e2ec00f121f63d4a8689", 
+                            "content": "普通的解析法  设出直线表示所有   再用点在椭圆内的代数关系解出k的范围", 
+                            "likes": 0, 
+                            "replyToAuthor": "数学Pi晴天"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "木子李", 
+                    "userLink": "https://www.zhihu.com/people/c4b99115454bcf3813e5f36878e2b1da", 
+                    "content": "可以分析文数么卷三😊", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>很多题目和卷三理科重复，等会就放，你去专栏看下</p><p><br></p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "木子李"
+                        }, 
+                        {
+                            "userName": "木子李", 
+                            "userLink": "https://www.zhihu.com/people/c4b99115454bcf3813e5f36878e2b1da", 
+                            "content": "哦哦", 
+                            "likes": 0, 
+                            "replyToAuthor": "数学Pi晴天"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "青天白", 
+                    "userLink": "https://www.zhihu.com/people/984d6a60f1c8f7ceb58486b74925b22c", 
+                    "content": "21?", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37855981", 
+            "userName": "数学Pi晴天", 
+            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+            "upvote": 11, 
+            "title": "2018全国卷I卷文科数学真题及答案详解", 
+            "content": "<p>2018全国卷I卷文科，非常简单，很多之前薄弱的学生学了我之前更新的300个考点，都感觉考的不错，感觉也许不准，下面附详细答案解析<b><i>，再次强调，不能为了做题而做题，而要为了学到东西，看穿这道题目背后的考点</i></b>，尤其重要，后台收到很多同学私信的问题，目前暂时没办法全部回复，后面会开答疑专区，大家可以在里面免费提问，然后统一回复，（后续会更新）另PS欢迎大家点赞，</p><p>先附上真题，后面跟着详细的答案。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-fdf37064705449eb612db6f76253033b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"666\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-fdf37064705449eb612db6f76253033b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;666&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"666\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-fdf37064705449eb612db6f76253033b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-fdf37064705449eb612db6f76253033b_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-73644b3abf2eb174bb7c8c33c6318b92_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"773\" class=\"origin_image zh-lightbox-thumb\" width=\"580\" data-original=\"https://pic3.zhimg.com/v2-73644b3abf2eb174bb7c8c33c6318b92_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;580&#39; height=&#39;773&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"773\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"580\" data-original=\"https://pic3.zhimg.com/v2-73644b3abf2eb174bb7c8c33c6318b92_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-73644b3abf2eb174bb7c8c33c6318b92_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-7ec2b11d5230a94d386b190c74ae38f0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"773\" class=\"origin_image zh-lightbox-thumb\" width=\"580\" data-original=\"https://pic1.zhimg.com/v2-7ec2b11d5230a94d386b190c74ae38f0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;580&#39; height=&#39;773&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"773\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"580\" data-original=\"https://pic1.zhimg.com/v2-7ec2b11d5230a94d386b190c74ae38f0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-7ec2b11d5230a94d386b190c74ae38f0_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6cd1f46b2df4dc4891ac2d55ea813b6c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"773\" class=\"origin_image zh-lightbox-thumb\" width=\"580\" data-original=\"https://pic1.zhimg.com/v2-6cd1f46b2df4dc4891ac2d55ea813b6c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;580&#39; height=&#39;773&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"773\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"580\" data-original=\"https://pic1.zhimg.com/v2-6cd1f46b2df4dc4891ac2d55ea813b6c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6cd1f46b2df4dc4891ac2d55ea813b6c_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0573833ff516626df76757a834aae4f0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"773\" class=\"origin_image zh-lightbox-thumb\" width=\"580\" data-original=\"https://pic1.zhimg.com/v2-0573833ff516626df76757a834aae4f0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;580&#39; height=&#39;773&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"580\" data-rawheight=\"773\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"580\" data-original=\"https://pic1.zhimg.com/v2-0573833ff516626df76757a834aae4f0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0573833ff516626df76757a834aae4f0_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-57f1947bf4ada4611b821ce96206d137_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-57f1947bf4ada4611b821ce96206d137_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-57f1947bf4ada4611b821ce96206d137_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-57f1947bf4ada4611b821ce96206d137_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-32b5400e3e01fbdd04f9c670a6719bd3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-32b5400e3e01fbdd04f9c670a6719bd3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-32b5400e3e01fbdd04f9c670a6719bd3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-32b5400e3e01fbdd04f9c670a6719bd3_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ae928659c651ba8da8cf12cb1ed9ba37_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-ae928659c651ba8da8cf12cb1ed9ba37_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-ae928659c651ba8da8cf12cb1ed9ba37_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ae928659c651ba8da8cf12cb1ed9ba37_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-df6b93238d9602a291d16b8bafd1806c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-df6b93238d9602a291d16b8bafd1806c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-df6b93238d9602a291d16b8bafd1806c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-df6b93238d9602a291d16b8bafd1806c_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7ce8510122b78080f67cfbde11aef267_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-7ce8510122b78080f67cfbde11aef267_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-7ce8510122b78080f67cfbde11aef267_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7ce8510122b78080f67cfbde11aef267_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-83f6e4601612c9fc0a1c705e549da5e6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-83f6e4601612c9fc0a1c705e549da5e6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-83f6e4601612c9fc0a1c705e549da5e6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-83f6e4601612c9fc0a1c705e549da5e6_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-602dea87df0b61b3f1d20d349d7c4865_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-602dea87df0b61b3f1d20d349d7c4865_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-602dea87df0b61b3f1d20d349d7c4865_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-602dea87df0b61b3f1d20d349d7c4865_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-338fcf1f6d709e02b15eb92c813eb2d0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-338fcf1f6d709e02b15eb92c813eb2d0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-338fcf1f6d709e02b15eb92c813eb2d0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-338fcf1f6d709e02b15eb92c813eb2d0_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-00ca8b340bd5b72f1876e8455c42b3a6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-00ca8b340bd5b72f1876e8455c42b3a6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-00ca8b340bd5b72f1876e8455c42b3a6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-00ca8b340bd5b72f1876e8455c42b3a6_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "文综", 
+                    "tagLink": "https://api.zhihu.com/topics/19683339"
+                }, 
+                {
+                    "tag": "高考", 
+                    "tagLink": "https://api.zhihu.com/topics/19567664"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Liar", 
+                    "userLink": "https://www.zhihu.com/people/3398e00bc741babcda51350cf35266f0", 
+                    "content": "概率第三问是算一年的", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>嗯，你很仔细，除以50，再乘以365</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Liar"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "小神", 
+                    "userLink": "https://www.zhihu.com/people/471139645b0045df2fd8c953ff4d6574", 
+                    "content": "22题k不是负的吗", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "思量", 
+                    "userLink": "https://www.zhihu.com/people/136d1870f6c27dd7c7c0e027fe7bfba5", 
+                    "content": "辛苦了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "吼吼", 
+                    "userLink": "https://www.zhihu.com/people/e2c36c5aea66bc3a72de0a2cba1b2bba", 
+                    "content": "21题第二问呢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "梨奈清", 
+                    "userLink": "https://www.zhihu.com/people/0352b4ca01f2e2e29ffe09eac4a09674", 
+                    "content": "<p>22题答案错误，完全错了，请尽快纠正</p><p></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37829581", 
+            "userName": "数学Pi晴天", 
+            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+            "upvote": 8, 
+            "title": "2018高考数学真题全国卷2理科卷之大题答案", 
+            "content": "<p>真题如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b7bebdd175f8d40839af2cedca508aec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"396\" data-rawheight=\"207\" class=\"content_image\" width=\"396\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;396&#39; height=&#39;207&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"396\" data-rawheight=\"207\" class=\"content_image lazy\" width=\"396\" data-actualsrc=\"https://pic1.zhimg.com/v2-b7bebdd175f8d40839af2cedca508aec_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-98733d36fa19e197620c6cb2bf763ca7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"618\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;618&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"618\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic4.zhimg.com/v2-98733d36fa19e197620c6cb2bf763ca7_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4ac7855a1ca72439e12bd2a99726fb9e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"398\" data-rawheight=\"612\" class=\"content_image\" width=\"398\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;398&#39; height=&#39;612&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"398\" data-rawheight=\"612\" class=\"content_image lazy\" width=\"398\" data-actualsrc=\"https://pic3.zhimg.com/v2-4ac7855a1ca72439e12bd2a99726fb9e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>答案如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e5fd5a3a87b784cc8c04f49a27aeb66c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"407\" data-rawheight=\"565\" class=\"content_image\" width=\"407\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;407&#39; height=&#39;565&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"407\" data-rawheight=\"565\" class=\"content_image lazy\" width=\"407\" data-actualsrc=\"https://pic1.zhimg.com/v2-e5fd5a3a87b784cc8c04f49a27aeb66c_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-93ce042a9897043a731c8c25d54186d1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"413\" data-rawheight=\"505\" class=\"content_image\" width=\"413\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;413&#39; height=&#39;505&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"413\" data-rawheight=\"505\" class=\"content_image lazy\" width=\"413\" data-actualsrc=\"https://pic2.zhimg.com/v2-93ce042a9897043a731c8c25d54186d1_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-30538d10a5cc56a84eac12c788c26779_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"427\" data-rawheight=\"591\" class=\"origin_image zh-lightbox-thumb\" width=\"427\" data-original=\"https://pic2.zhimg.com/v2-30538d10a5cc56a84eac12c788c26779_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;427&#39; height=&#39;591&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"427\" data-rawheight=\"591\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"427\" data-original=\"https://pic2.zhimg.com/v2-30538d10a5cc56a84eac12c788c26779_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-30538d10a5cc56a84eac12c788c26779_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2cc00cf62e2bb9df826f4cd64c8d0a10_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"411\" data-rawheight=\"586\" class=\"content_image\" width=\"411\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;411&#39; height=&#39;586&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"411\" data-rawheight=\"586\" class=\"content_image lazy\" width=\"411\" data-actualsrc=\"https://pic1.zhimg.com/v2-2cc00cf62e2bb9df826f4cd64c8d0a10_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-cc8689db029b6d67f57fb65dd068d593_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"421\" data-rawheight=\"534\" class=\"origin_image zh-lightbox-thumb\" width=\"421\" data-original=\"https://pic4.zhimg.com/v2-cc8689db029b6d67f57fb65dd068d593_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;421&#39; height=&#39;534&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"421\" data-rawheight=\"534\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"421\" data-original=\"https://pic4.zhimg.com/v2-cc8689db029b6d67f57fb65dd068d593_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-cc8689db029b6d67f57fb65dd068d593_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-128aa399f71c0b87fa2407a0fee8b418_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"420\" data-rawheight=\"507\" class=\"content_image\" width=\"420\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;420&#39; height=&#39;507&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"420\" data-rawheight=\"507\" class=\"content_image lazy\" width=\"420\" data-actualsrc=\"https://pic1.zhimg.com/v2-128aa399f71c0b87fa2407a0fee8b418_b.jpg\"/></figure><p>今年高考其实不难，零基础熟练掌握300多个考点，也能轻松拿高分，突破130分真的不难。</p><p>更多高中数学问题可以关注我的<b>知乎专栏：</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-cb6c027d21f08de380a7618dc50d9e26_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"708\" data-rawheight=\"225\" class=\"origin_image zh-lightbox-thumb\" width=\"708\" data-original=\"https://pic3.zhimg.com/v2-cb6c027d21f08de380a7618dc50d9e26_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;708&#39; height=&#39;225&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"708\" data-rawheight=\"225\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"708\" data-original=\"https://pic3.zhimg.com/v2-cb6c027d21f08de380a7618dc50d9e26_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-cb6c027d21f08de380a7618dc50d9e26_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "全国卷", 
+                    "tagLink": "https://api.zhihu.com/topics/20074323"
+                }, 
+                {
+                    "tag": "高考", 
+                    "tagLink": "https://api.zhihu.com/topics/19567664"
+                }, 
+                {
+                    "tag": "高考数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19770630"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "拜仁名宿", 
+                    "userLink": "https://www.zhihu.com/people/a07ef011989146990ecbfd9bcd5202a2", 
+                    "content": "18踢第一问模型二应该是✖️9吧", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "数学Pi晴天", 
+                    "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                    "content": "<p>是的，没看到是2010算起，最后第一问模型二256.5</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "身在白夜", 
+                    "userLink": "https://www.zhihu.com/people/76ff7ac143c38e74300874512c3eb825", 
+                    "content": "老师 什么时候出全国三卷的答案", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>把题目发我，我就出，我找不到清晰的题目</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "身在白夜"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "武新池", 
+                    "userLink": "https://www.zhihu.com/people/9f01c7042449fe00c0d38ed3e0ca771d", 
+                    "content": "选择呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>看小题，有选择详解</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "武新池"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "花开", 
+                    "userLink": "https://www.zhihu.com/people/7f5f9189e2beb40a0a5fe1a3cea45602", 
+                    "content": "解析几何是过AB两点  不是以AB为直径  还有一个解", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>是已经推出来是直径后有两种方法可解，你再看下</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "花开"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "花开", 
+                    "userLink": "https://www.zhihu.com/people/7f5f9189e2beb40a0a5fe1a3cea45602", 
+                    "content": "选修第一个  第二题最后一步计算错啦  右边的4你应该看漏了…", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>看的都蛮仔细</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "花开"
+                        }, 
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>给你点赞</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "花开"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "fnfnfn", 
+                    "userLink": "https://www.zhihu.com/people/70b4674f4d3afdc1ae6ba2183de65c92", 
+                    "content": "错不少啊", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>嗯，欢迎讨论</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "fnfnfn"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "刀剑笑", 
+                    "userLink": "https://www.zhihu.com/people/488b89e10c762339fb443299242c7394", 
+                    "content": "21题第二问，求导时候分母忘记平方了", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37824468", 
+            "userName": "数学Pi晴天", 
+            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+            "upvote": 9, 
+            "title": "2018高考数学真题全国卷2理科卷之小题（选择题+填空题）答案", 
+            "content": "<p>时间匆忙市面上的有些题目看不清楚，等题目清楚之后，后续会陆续更新出答案！还望大家谅解！</p><p><b>一、选择题真题及答案</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-61209a295742c637e52091833bbb00d2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"452\" data-rawheight=\"656\" class=\"origin_image zh-lightbox-thumb\" width=\"452\" data-original=\"https://pic3.zhimg.com/v2-61209a295742c637e52091833bbb00d2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;452&#39; height=&#39;656&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"452\" data-rawheight=\"656\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"452\" data-original=\"https://pic3.zhimg.com/v2-61209a295742c637e52091833bbb00d2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-61209a295742c637e52091833bbb00d2_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-728fe5de0cc8df080fe39d503f902c24_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"401\" data-rawheight=\"626\" class=\"content_image\" width=\"401\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;401&#39; height=&#39;626&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"401\" data-rawheight=\"626\" class=\"content_image lazy\" width=\"401\" data-actualsrc=\"https://pic1.zhimg.com/v2-728fe5de0cc8df080fe39d503f902c24_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-c0ef3c167f436a088eb3b705a88bf5ec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"398\" data-rawheight=\"614\" class=\"content_image\" width=\"398\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;398&#39; height=&#39;614&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"398\" data-rawheight=\"614\" class=\"content_image lazy\" width=\"398\" data-actualsrc=\"https://pic1.zhimg.com/v2-c0ef3c167f436a088eb3b705a88bf5ec_b.jpg\"/></figure><p><b>选择题答案：</b>（第12小题答案在底下）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6020dbb25411d8c02c666f2101227d3f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3021\" data-rawheight=\"710\" class=\"origin_image zh-lightbox-thumb\" width=\"3021\" data-original=\"https://pic4.zhimg.com/v2-6020dbb25411d8c02c666f2101227d3f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;3021&#39; height=&#39;710&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3021\" data-rawheight=\"710\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"3021\" data-original=\"https://pic4.zhimg.com/v2-6020dbb25411d8c02c666f2101227d3f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6020dbb25411d8c02c666f2101227d3f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1a3671f69920bc10012ec1d3931b6882_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"382\" data-rawheight=\"599\" class=\"content_image\" width=\"382\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;382&#39; height=&#39;599&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"382\" data-rawheight=\"599\" class=\"content_image lazy\" width=\"382\" data-actualsrc=\"https://pic3.zhimg.com/v2-1a3671f69920bc10012ec1d3931b6882_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-aff162aa6e510ca2f8b551ff45e05436_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"388\" data-rawheight=\"605\" class=\"content_image\" width=\"388\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;388&#39; height=&#39;605&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"388\" data-rawheight=\"605\" class=\"content_image lazy\" width=\"388\" data-actualsrc=\"https://pic3.zhimg.com/v2-aff162aa6e510ca2f8b551ff45e05436_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b031c28291d14d6feb1dbdb2395475ec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"446\" data-rawheight=\"185\" class=\"origin_image zh-lightbox-thumb\" width=\"446\" data-original=\"https://pic1.zhimg.com/v2-b031c28291d14d6feb1dbdb2395475ec_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;446&#39; height=&#39;185&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"446\" data-rawheight=\"185\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"446\" data-original=\"https://pic1.zhimg.com/v2-b031c28291d14d6feb1dbdb2395475ec_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b031c28291d14d6feb1dbdb2395475ec_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-bccb478635aae383c038c73431794674_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"436\" data-rawheight=\"240\" class=\"origin_image zh-lightbox-thumb\" width=\"436\" data-original=\"https://pic1.zhimg.com/v2-bccb478635aae383c038c73431794674_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;436&#39; height=&#39;240&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"436\" data-rawheight=\"240\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"436\" data-original=\"https://pic1.zhimg.com/v2-bccb478635aae383c038c73431794674_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-bccb478635aae383c038c73431794674_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7ad4c849356fb340cf0202ff6d7518a6_b.jpg\" data-size=\"normal\" data-rawwidth=\"452\" data-rawheight=\"415\" class=\"origin_image zh-lightbox-thumb\" width=\"452\" data-original=\"https://pic3.zhimg.com/v2-7ad4c849356fb340cf0202ff6d7518a6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;452&#39; height=&#39;415&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"452\" data-rawheight=\"415\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"452\" data-original=\"https://pic3.zhimg.com/v2-7ad4c849356fb340cf0202ff6d7518a6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7ad4c849356fb340cf0202ff6d7518a6_b.jpg\"/><figcaption>第12题答案及解析</figcaption></figure><p><b>二、填空题真题及答案</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-c0ef3c167f436a088eb3b705a88bf5ec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"398\" data-rawheight=\"614\" class=\"content_image\" width=\"398\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;398&#39; height=&#39;614&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"398\" data-rawheight=\"614\" class=\"content_image lazy\" width=\"398\" data-actualsrc=\"https://pic1.zhimg.com/v2-c0ef3c167f436a088eb3b705a88bf5ec_b.jpg\"/></figure><p><b>答案：</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e0f848cd8d62a2c32d91f4796f94ce40_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"432\" data-rawheight=\"104\" class=\"origin_image zh-lightbox-thumb\" width=\"432\" data-original=\"https://pic1.zhimg.com/v2-e0f848cd8d62a2c32d91f4796f94ce40_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;432&#39; height=&#39;104&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"432\" data-rawheight=\"104\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"432\" data-original=\"https://pic1.zhimg.com/v2-e0f848cd8d62a2c32d91f4796f94ce40_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e0f848cd8d62a2c32d91f4796f94ce40_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-73a8f585a79d7bf7da9390d0cdec8f0c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"424\" data-rawheight=\"570\" class=\"origin_image zh-lightbox-thumb\" width=\"424\" data-original=\"https://pic1.zhimg.com/v2-73a8f585a79d7bf7da9390d0cdec8f0c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;424&#39; height=&#39;570&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"424\" data-rawheight=\"570\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"424\" data-original=\"https://pic1.zhimg.com/v2-73a8f585a79d7bf7da9390d0cdec8f0c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-73a8f585a79d7bf7da9390d0cdec8f0c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>大题、全国卷其他卷真题答案将陆续出来。</p><p>今年高考其实不难，零基础熟练掌握300多个考点，也能轻松拿高分，突破130分真的不难。</p><p>更多高中数学问题可以关注我的<b>知乎专栏：</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-cb6c027d21f08de380a7618dc50d9e26_b.jpg\" data-size=\"normal\" data-rawwidth=\"708\" data-rawheight=\"225\" class=\"origin_image zh-lightbox-thumb\" width=\"708\" data-original=\"https://pic3.zhimg.com/v2-cb6c027d21f08de380a7618dc50d9e26_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;708&#39; height=&#39;225&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"708\" data-rawheight=\"225\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"708\" data-original=\"https://pic3.zhimg.com/v2-cb6c027d21f08de380a7618dc50d9e26_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-cb6c027d21f08de380a7618dc50d9e26_b.jpg\"/><figcaption>我的知乎专栏</figcaption></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "高考数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19770630"
+                }, 
+                {
+                    "tag": "全国卷", 
+                    "tagLink": "https://api.zhihu.com/topics/20074323"
+                }, 
+                {
+                    "tag": "高中数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19645414"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "echo", 
+                    "userLink": "https://www.zhihu.com/people/fa7d64d4288c046bff7f98a1e1c17aa2", 
+                    "content": "<p>速度快呀，今天的考题耶，厉害，厉害</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>希望帮助到孩子们。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "echo"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "无悔", 
+                    "userLink": "https://www.zhihu.com/people/c0a6eb095ab67bf1436a4327568988af", 
+                    "content": "谢谢谢谢", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>希望帮助到孩子们。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "无悔"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "loev", 
+                    "userLink": "https://www.zhihu.com/people/f3274e87d276d39099b36f6791a36ce0", 
+                    "content": "10题错了，范围是-a到a，应该选A，12题答案是什么啊", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>嗯。老师马上检查下，有些题目不清晰，老师直接从答案推导。12题答案为D.</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "loev"
+                        }, 
+                        {
+                            "userName": "数学Pi晴天", 
+                            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+                            "content": "<p>嗯。老师马上检查下，有些题目不清晰，老师直接从答案推导。12题答案为D.</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "loev"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "sunsky", 
+                    "userLink": "https://www.zhihu.com/people/6d99af0bb6b2497aef6cac853b6f1600", 
+                    "content": "11题答案应该是50选D", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "花开", 
+                            "userLink": "https://www.zhihu.com/people/7f5f9189e2beb40a0a5fe1a3cea45602", 
+                            "content": "四个点为一周期和为0", 
+                            "likes": 0, 
+                            "replyToAuthor": "sunsky"
+                        }, 
+                        {
+                            "userName": "梨奈清", 
+                            "userLink": "https://www.zhihu.com/people/0352b4ca01f2e2e29ffe09eac4a09674", 
+                            "content": "<p>是c</p><p>2  高考正确答案</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "sunsky"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37168402", 
+            "userName": "数学Pi晴天", 
+            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+            "upvote": 1, 
+            "title": "高考三角函数之求最值", 
+            "content": "<p>大题里面除了考单调区间以外，第二个考点就是 求最值了，如下图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-f42677a5e8a4c6f4b96499ff581bef86_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-f42677a5e8a4c6f4b96499ff581bef86_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-f42677a5e8a4c6f4b96499ff581bef86_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f42677a5e8a4c6f4b96499ff581bef86_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }, 
+                {
+                    "tag": "高考生", 
+                    "tagLink": "https://api.zhihu.com/topics/19619164"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "他的猫", 
+                    "userLink": "https://www.zhihu.com/people/afd02e72d367651ff1c7a213fedc1dfa", 
+                    "content": "lwjj？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37026120", 
+            "userName": "数学Pi晴天", 
+            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+            "upvote": 0, 
+            "title": "三角函数求单调区间", 
+            "content": "<p>三角函数求完周期后，大题的第二小问一般都是求单调区间或最值，下面和大家分享一道单调区间的题目.</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-033fd2e1d9ddf0cd65a03858b11343d5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-033fd2e1d9ddf0cd65a03858b11343d5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-033fd2e1d9ddf0cd65a03858b11343d5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-033fd2e1d9ddf0cd65a03858b11343d5_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "高等数学 (大学课程)", 
+                    "tagLink": "https://api.zhihu.com/topics/19628080"
+                }, 
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "恐恐", 
+                    "userLink": "https://www.zhihu.com/people/b4356114633c13a4a74ac2cff2392845", 
+                    "content": "为什么不能取等呢朋友", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36982913", 
+            "userName": "数学Pi晴天", 
+            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+            "upvote": 0, 
+            "title": "高考数学每日一题训练（昨日复习）", 
+            "content": "<p>温故而知新，昨天讲解的三角函数求周期的问题，今天再复习一遍</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0e5108421014633de8ce9e383a33954f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-0e5108421014633de8ce9e383a33954f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-0e5108421014633de8ce9e383a33954f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0e5108421014633de8ce9e383a33954f_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "高考", 
+                    "tagLink": "https://api.zhihu.com/topics/19567664"
+                }, 
+                {
+                    "tag": "高中数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19645414"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36932783", 
+            "userName": "数学Pi晴天", 
+            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+            "upvote": 6, 
+            "title": "高考冲刺高考大题每日一练——三角函数求周期", 
+            "content": "<p>最后冲刺的学员，可以来看看了，高考第一道大题是相对来说比较简单的一道大题，今天分享下拿下三角函数需要的步骤和例题解析，关键是化解，化解最重要的是，<i><b>化成属性一致的角，相同属性之间必有火花，</b></i>如下图，</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b40cc2f529216bf4ddf6ff852e9ba7c5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-b40cc2f529216bf4ddf6ff852e9ba7c5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-b40cc2f529216bf4ddf6ff852e9ba7c5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b40cc2f529216bf4ddf6ff852e9ba7c5_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "高考数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19770630"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36887477", 
+            "userName": "数学Pi晴天", 
+            "userLink": "https://www.zhihu.com/people/3d8edcefb7d27385b256f0cd2bb15a7b", 
+            "upvote": 2, 
+            "title": "数列小题特殊解法", 
+            "content": "<p>当等差或等比的条件是一个，（因为其有两个自变量），<b><i>所以数列是不固定的，可以用特值的方法解决</i></b>，但是大家还是要掌握第一种方法，因为普遍适用，大家看图，</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e1f9f72c3243df5165de8c6124d8fec5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1443\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1443\" data-original=\"https://pic2.zhimg.com/v2-e1f9f72c3243df5165de8c6124d8fec5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1443&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1443\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1443\" data-original=\"https://pic2.zhimg.com/v2-e1f9f72c3243df5165de8c6124d8fec5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e1f9f72c3243df5165de8c6124d8fec5_b.jpg\"/></figure><p>当条件中有三个变量，但是只有两个等式，<i><b>说明数列也是不固定的，也可以用特值法处理</b></i>，如图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0c3cb7ce0ab36052f137a7d22cd2e5f9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-0c3cb7ce0ab36052f137a7d22cd2e5f9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-0c3cb7ce0ab36052f137a7d22cd2e5f9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-0c3cb7ce0ab36052f137a7d22cd2e5f9_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "高考数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19770630"
+                }, 
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }, 
+                {
+                    "tag": "数学分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19622000"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_185315549"
+}

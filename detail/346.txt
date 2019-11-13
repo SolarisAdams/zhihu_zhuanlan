@@ -1,0 +1,1229 @@
+{
+    "title": "数据可视化", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/frank-15-11", 
+        "https://www.zhihu.com/people/zhang-xin-zhi-53-70", 
+        "https://www.zhihu.com/people/alexcdl", 
+        "https://www.zhihu.com/people/qin-xiao-q-52", 
+        "https://www.zhihu.com/people/tuyonjun", 
+        "https://www.zhihu.com/people/qia-wa-yi-san-shi", 
+        "https://www.zhihu.com/people/liu-ze-hua-50", 
+        "https://www.zhihu.com/people/tony-87-75", 
+        "https://www.zhihu.com/people/shi-kong-chuan-suo-64", 
+        "https://www.zhihu.com/people/fu-su-57-60", 
+        "https://www.zhihu.com/people/yu-feng-xing-95-96", 
+        "https://www.zhihu.com/people/bai-bai-29-52-85", 
+        "https://www.zhihu.com/people/Neo_Wu", 
+        "https://www.zhihu.com/people/liu-xiao-a-40", 
+        "https://www.zhihu.com/people/ma-teng-3-5", 
+        "https://www.zhihu.com/people/liu-tian-xiang-83", 
+        "https://www.zhihu.com/people/fang-yuan-35-43", 
+        "https://www.zhihu.com/people/cathy-11-37", 
+        "https://www.zhihu.com/people/lang-huan-71-41", 
+        "https://www.zhihu.com/people/qian-shan-xue-96", 
+        "https://www.zhihu.com/people/liu-yi-87-87-71", 
+        "https://www.zhihu.com/people/xiao-xiang-guan-zhu-3", 
+        "https://www.zhihu.com/people/lan-mao-guai-18", 
+        "https://www.zhihu.com/people/yue-yue-yue-25", 
+        "https://www.zhihu.com/people/liu-ting-ting-64", 
+        "https://www.zhihu.com/people/liang-hong-yipie-46", 
+        "https://www.zhihu.com/people/xiao-hun-dao", 
+        "https://www.zhihu.com/people/qiu-tian-hua", 
+        "https://www.zhihu.com/people/meng-da-shu", 
+        "https://www.zhihu.com/people/hudson-shi", 
+        "https://www.zhihu.com/people/xian-ren-hu-jiao-fen", 
+        "https://www.zhihu.com/people/dong-tu-58", 
+        "https://www.zhihu.com/people/jiong-jiong-83-63", 
+        "https://www.zhihu.com/people/power1", 
+        "https://www.zhihu.com/people/ku-ku-kiki", 
+        "https://www.zhihu.com/people/liang-feng-69-41", 
+        "https://www.zhihu.com/people/jay-zhou-ge-ge", 
+        "https://www.zhihu.com/people/wangwenzhong", 
+        "https://www.zhihu.com/people/xu-zi-fan-57-78", 
+        "https://www.zhihu.com/people/19952264169", 
+        "https://www.zhihu.com/people/aha-67-84", 
+        "https://www.zhihu.com/people/tong-chou-wei-de-da-heng", 
+        "https://www.zhihu.com/people/ben-ben-87-7", 
+        "https://www.zhihu.com/people/ma-zhong-liang-67", 
+        "https://www.zhihu.com/people/yu-guo-xin-66", 
+        "https://www.zhihu.com/people/long-yi-22-39", 
+        "https://www.zhihu.com/people/xiao-shan-deng", 
+        "https://www.zhihu.com/people/mefun", 
+        "https://www.zhihu.com/people/ye-dang-qiu-qian", 
+        "https://www.zhihu.com/people/veesion-67", 
+        "https://www.zhihu.com/people/ting-feng-ye-xun", 
+        "https://www.zhihu.com/people/violetcode-14", 
+        "https://www.zhihu.com/people/yu-gong-yi-shan-7-23", 
+        "https://www.zhihu.com/people/mou-ding-er-dong-57", 
+        "https://www.zhihu.com/people/hui-ge-82-74", 
+        "https://www.zhihu.com/people/teng-123-82", 
+        "https://www.zhihu.com/people/wu-meng-kuang-ren-59", 
+        "https://www.zhihu.com/people/zhang-xiao-tian-30-6", 
+        "https://www.zhihu.com/people/ellis-25-92", 
+        "https://www.zhihu.com/people/ti-bo-si-de-zhi-zhao", 
+        "https://www.zhihu.com/people/yang-san-shi-7", 
+        "https://www.zhihu.com/people/dong-kui-xiao", 
+        "https://www.zhihu.com/people/rachel-fu-7", 
+        "https://www.zhihu.com/people/sa-ma-er-han-han-wang", 
+        "https://www.zhihu.com/people/kevin-53-47", 
+        "https://www.zhihu.com/people/mrblack"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/88320420", 
+            "userName": "修仙者", 
+            "userLink": "https://www.zhihu.com/people/a18b203fce545918c5a60a0a99aa2991", 
+            "upvote": 5, 
+            "title": "我们需要面向全息（AR、VR）时代的“真全息数据库”", 
+            "content": "<p>百度到到自己的一篇老文章</p><p>激光全息照片和全景照片的存储技术根本算不上真全息存储技术，我说的全息存储技术是完全具备对一切空间对象信息进行存储的数据库，是具备无限维度的存储能力。绝对不是对一张照片的存储技术。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9ff1ae97c74b9ad260c8f2e72edbd936_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3640\" data-rawheight=\"2426\" class=\"origin_image zh-lightbox-thumb\" width=\"3640\" data-original=\"https://pic3.zhimg.com/v2-9ff1ae97c74b9ad260c8f2e72edbd936_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;3640&#39; height=&#39;2426&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3640\" data-rawheight=\"2426\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"3640\" data-original=\"https://pic3.zhimg.com/v2-9ff1ae97c74b9ad260c8f2e72edbd936_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9ff1ae97c74b9ad260c8f2e72edbd936_b.jpg\"/></figure><p>2005年的时候研究vrml，当时太激进了认为了虚拟现实时代在那个时代就可以到了。结果太理想化了，还弄了一个3Dinfobuilder的工具，想着对空间中的每一个对象都进行管理，主要也是受科幻片影响。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4f94ae650609ad7f22d20b2bd9a3462f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1372\" data-rawheight=\"928\" class=\"origin_image zh-lightbox-thumb\" width=\"1372\" data-original=\"https://pic4.zhimg.com/v2-4f94ae650609ad7f22d20b2bd9a3462f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1372&#39; height=&#39;928&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1372\" data-rawheight=\"928\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1372\" data-original=\"https://pic4.zhimg.com/v2-4f94ae650609ad7f22d20b2bd9a3462f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4f94ae650609ad7f22d20b2bd9a3462f_b.jpg\"/></figure><p><a href=\"https://link.zhihu.com/?target=http%3A//%25E8%25BF%2599%25E7%258E%25A9%25E6%2584%258F%25E6%2598%25AF%25E6%2588%2591%25E9%2587%2587%25E7%2594%25A8VRML%25E5%25BC%2595%25E6%2593%258E%2B.NET\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这玩意是我采用VRML引擎+.NET</a> 当初混合开发的东西，当初就有一些三维数据库的概念，但是一直没有机会进行实施。那时候我的3D建模实力也就这样了，超LOW见谅。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这些年一直使用mysql，刚开始入行的时候整天用Sqlserver、DB2。Oracle偶偶学习用用，基本上不用于项目，其实最喜欢的还是Access，当初写asp网站部署挺傻逼的写完拖走即可用。但是看看今天我们所要面对的时代是一个全息的时代，虚拟现实和增强现实技术，甚至是全息技术必然走进每一个百姓家庭。我们的数据库还够用吗？明显不够用了啊。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当我们在制造业使用PDM或者PLM的时候我们可以发现，我们管理的零部件太多了，尤其是汽车制造商和飞机制造商，以及超大规模机电项目所涉及到的零部件已经是疯掉了的感觉。我们需要一个可以对三维空间对象进行存储和管理的数据库。当我们在开发呱虎百科的时候我们就遇到一个问题，我们存储的文件还是硬盘上的路径而已，这不利于查询，我想查询到一个全息（三维）对象的某一个零件是无法进行查询的，这是现阶段的数据库无法满足的原因导致的。现阶段的解决方案我们将每一个的三维的对象的属性映射到了数据库的字段上，但是这不是最有效的方案，是折中方案，如果存在一个数据库可以让我们在像在Soiidworks中一样翻查零件属性一样的数据库就强大了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c3a812836a7b2b902332ddc071df21f9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1277\" data-rawheight=\"652\" class=\"origin_image zh-lightbox-thumb\" width=\"1277\" data-original=\"https://pic2.zhimg.com/v2-c3a812836a7b2b902332ddc071df21f9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1277&#39; height=&#39;652&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1277\" data-rawheight=\"652\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1277\" data-original=\"https://pic2.zhimg.com/v2-c3a812836a7b2b902332ddc071df21f9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c3a812836a7b2b902332ddc071df21f9_b.jpg\"/></figure><p>左边是零部件，右边是3D图形。当我们采用Solidworks打开一张图纸的时候我们可以进行查询到某个零部件的状态，但是当硬盘上存储大量的文件格式的时候我们就无法查询到每一个文件内对象的状态了。就好比你可以查询到cad的图纸名称，你无法查询到cad内某个零件的状态，你需要打开所有的图纸才能知道零件的状态，当然在PDM中有更好的解决方案，那就是数据库存储的是零件图，然后再存组装图，这是很好的解决方案。但是这些都仅限于各种3d工具中，我们需要建立一套全息数据库标准，让每一个人都可以使用这样的数据库。首先是建立存储标的数据格式标准，以及全息引擎的展现标准，以及查询方法的标准建立。如果建立了这三大标准即可以开发出一套面向全息的时代的数据库了。</p><p>写到知乎来也只是发发感慨，发现太想做点的事的时候发现缺这缺那，真全息数据库的意义重大啊。</p><p>第一 超级的牛逼的全息数据压缩算法。</p><p>第二 超级快速的全息数据查询算法。</p><p>第三 超级快速的全息影像呈现算法。</p><p>标准好建立，但是这三大极致要求的算法才是坑中之坑，我们这种小公司整天操着大公司的心也挺不正常的。主要还是钱的问题。</p><p>一旦这样的数据库开发出来之后，我们的软件界面才进入了真正的全息时代。现在我们是如何开发这样的项目呢？</p><p>数据库是传统数据库，最牛逼也就是面向对象数据库，再加上3D引擎，进行开发。展现层和数据库是分离的，不属于一套技术，这就需要开发人员掌握两套技术，3D引擎和数据库存储技术，虽然我们都非常熟练的掌握了这些技术，但是这不利于项目的研发速度，太特么的慢了。如有有一套这样的全息数据库技术，那么整个全息时代的开发效率是超级高的。现在看最好的方式微软把Unity3D 收购了，整合sqlserver，<a href=\"https://link.zhihu.com/?target=http%3A//%25E5%25A4%2596%25E5%258A%25A0.net\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">外加.net</a> 可以产生效率极高的全息数据库。其他家公司基本上没有这些技术的储备，微软只差Unity3D。等吧，有要等好些年。自己去折腾那能比得上巨头去做资源整合，可是巨头做什么事都是那么慢啊。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ddb9a6d8031df97aa06e048d2b7d7107_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2560\" data-rawheight=\"1440\" class=\"origin_image zh-lightbox-thumb\" width=\"2560\" data-original=\"https://pic4.zhimg.com/v2-ddb9a6d8031df97aa06e048d2b7d7107_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2560&#39; height=&#39;1440&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2560\" data-rawheight=\"1440\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2560\" data-original=\"https://pic4.zhimg.com/v2-ddb9a6d8031df97aa06e048d2b7d7107_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ddb9a6d8031df97aa06e048d2b7d7107_b.jpg\"/></figure><p>光有技术屌用，面对庞大的工程量的时候，资本才是最牛逼的，希望有牛逼的机构可以推动这样的事情进展，资本最大的价值就是让未来可以来的更早。</p>", 
+            "topic": [
+                {
+                    "tag": "增强现实（AR）", 
+                    "tagLink": "https://api.zhihu.com/topics/19561596"
+                }, 
+                {
+                    "tag": "虚拟现实（VR）", 
+                    "tagLink": "https://api.zhihu.com/topics/19595537"
+                }, 
+                {
+                    "tag": "数据库", 
+                    "tagLink": "https://api.zhihu.com/topics/19552067"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "卡哇伊三世", 
+                    "userLink": "https://www.zhihu.com/people/9d005625ed28f4ce28c7af16bf9edb4e", 
+                    "content": "说的太对了", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Farruca", 
+                    "userLink": "https://www.zhihu.com/people/21dd0ea1b5b3f47f802920ef16bd900e", 
+                    "content": "<p>一切空间对象信息……分子级别？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "你可以这么理解", 
+                            "likes": 0, 
+                            "replyToAuthor": "Farruca"
+                        }, 
+                        {
+                            "userName": "Farruca", 
+                            "userLink": "https://www.zhihu.com/people/21dd0ea1b5b3f47f802920ef16bd900e", 
+                            "content": "<p>数字孪生到这个程度也太难了。不用说分子，就是宏观的物体破坏过程，模拟计算也很不容易了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/87277924", 
+            "userName": "修仙者", 
+            "userLink": "https://www.zhihu.com/people/a18b203fce545918c5a60a0a99aa2991", 
+            "upvote": 3, 
+            "title": "数据可视化案例集锦", 
+            "content": "<p>2019年南京魔界信息科技有限公司 案例汇总还有部分案例年底汇总，介绍其中使用的核心技术，以及交互设计，跨平台技术，跨硬件技术，跨各种vrar眼镜的解决方案。以及大规模物联网并发框架的设计与实现。有项目的朋友以也欢迎找我进行对接，官网地址 <a href=\"https://link.zhihu.com/?target=http%3A//www.uniot3d.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">www.uniot3d.com</a> 官网比较朴素 没空做，都在搞甲方的系统。微信unity3ds 电话 13382768131 联系人 南京老许</p><p>交通路网载具表现与数据对接  </p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1168475565647691776\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"\" data-name=\"\" data-poster=\"https://pic3.zhimg.com/v2-ae8332b941ac9a872e13e61846685f60.jpeg\" data-lens-id=\"1168475565647691776\"><img class=\"thumbnail\" src=\"https://pic3.zhimg.com/v2-ae8332b941ac9a872e13e61846685f60.jpeg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1168475565647691776</span></span></a><p>隧道表现与数据对接</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1168475763757563904\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"\" data-name=\"\" data-poster=\"https://pic4.zhimg.com/v2-d45ce5953b15a096498c34ffc3755913.jpeg\" data-lens-id=\"1168475763757563904\"><img class=\"thumbnail\" src=\"https://pic4.zhimg.com/v2-d45ce5953b15a096498c34ffc3755913.jpeg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1168475763757563904</span></span></a><p>大型城市表现与数据对接</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1168475913707843584\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"\" data-name=\"\" data-poster=\"https://pic2.zhimg.com/v2-715985fc2128c31904c168d5236cf0c7.jpeg\" data-lens-id=\"1168475913707843584\"><img class=\"thumbnail\" src=\"https://pic2.zhimg.com/v2-715985fc2128c31904c168d5236cf0c7.jpeg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1168475913707843584</span></span></a><p>城市电力分布表现与数据对接</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1168476352436219904\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"\" data-name=\"\" data-poster=\"https://pic4.zhimg.com/v2-020b090b5cfd3b163ff60d6b7115ed0b.jpeg\" data-lens-id=\"1168476352436219904\"><img class=\"thumbnail\" src=\"https://pic4.zhimg.com/v2-020b090b5cfd3b163ff60d6b7115ed0b.jpeg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1168476352436219904</span></span></a><p></p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/84935943", 
+            "userName": "修仙者", 
+            "userLink": "https://www.zhihu.com/people/a18b203fce545918c5a60a0a99aa2991", 
+            "upvote": 8, 
+            "title": "2020年会发生什么？", 
+            "content": "<p>正月：</p><p>二月：</p><p>三月：</p><p>四月：</p><p>五月：</p><p>六月：</p><p>七月：</p><p>八月：</p><p>九月：</p><p>十月：</p><p>腊月：</p><p>冬月：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>由于算法过于复杂，先列出来而已，哈哈哈哈。等后面有空慢慢填写。</p>", 
+            "topic": [
+                {
+                    "tag": "预测", 
+                    "tagLink": "https://api.zhihu.com/topics/19577915"
+                }, 
+                {
+                    "tag": "算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553510"
+                }, 
+                {
+                    "tag": "易经", 
+                    "tagLink": "https://api.zhihu.com/topics/19563371"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "萌大叔", 
+                    "userLink": "https://www.zhihu.com/people/4c5cbab7bf157392a4ffa73d359fb458", 
+                    "content": "不去紫金山天文台可惜了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "刘霏霏", 
+                    "userLink": "https://www.zhihu.com/people/0b2a14a889a8f00ff9f9d2e24f0a8f21", 
+                    "content": "居然空着  差评[捂脸][捂脸]", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "哈哈哈，有点皮", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "一只蛋妞哇", 
+                    "userLink": "https://www.zhihu.com/people/2bbb23490a606991a789233b2ba4d2cb", 
+                    "content": "大神快写啊啊啊啊啊", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "小胖梨", 
+                    "userLink": "https://www.zhihu.com/people/235a9c99335508746d79f5d62877870c", 
+                    "content": "啥时候填坑呀？我每天都来看一遍！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "可能不启动了", 
+                            "likes": 0, 
+                            "replyToAuthor": "小胖梨"
+                        }, 
+                        {
+                            "userName": "小胖梨", 
+                            "userLink": "https://www.zhihu.com/people/235a9c99335508746d79f5d62877870c", 
+                            "content": "哭了[捂脸]", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "王奇勋", 
+                    "userLink": "https://www.zhihu.com/people/b56bd94f1dc20cbcb042823719aa5c2c", 
+                    "content": "挑个小毛病哈，冬月在前腊月在后", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>哈哈哈，你说的对。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王奇勋"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "晨曦", 
+                    "userLink": "https://www.zhihu.com/people/d0bab5c3d3c5d5e4d9f8499220bea1e6", 
+                    "content": "2020闰四月", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "感谢，看来我要重写一些历法app了", 
+                            "likes": 0, 
+                            "replyToAuthor": "晨曦"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/81547782", 
+            "userName": "修仙者", 
+            "userLink": "https://www.zhihu.com/people/a18b203fce545918c5a60a0a99aa2991", 
+            "upvote": 3, 
+            "title": "AI换脸是新的工业革命吗？", 
+            "content": "<p>我之所以写这篇文章是因为我发现科技的黑魔法一旦被打开，那么世界将变的面目全非。本篇文章将带上我对AI换脸的无限思考，这是一个面目全非的时代，彻底的面目全非时代。</p><p>首先我要列举的是AI换脸对以下场景的渗透或者叫做革命：</p><p>一、所有的明星将会彻底下岗，因为由最牛逼的艺术设计师设计的“虚拟角色”将比自然生产出来的人类更加美艳绝伦，站在AI时代我可以说这些虚拟形象会无限美艳，无限帅气。那么我们来思考一下这样的场景：</p><p>一个明星由于档期不足只能在同一个时间出演一部影视剧，因为明星属于人类被时空限制，但是AI是来自虚拟世界的，影视制作公司可以通过大量三流的演员并行去演大量的影视剧，然后换上“虚拟巨星的脸”就行了。为什么不用人类明星的脸？因为经济公司用虚拟形象的脸，就意味着永远不会遇到明星背叛公司这种事，终生版权所有。也就是说以后三个程序员就可以打造新型的AI影视公司，并且极大可能会颠覆各类大型影视公司，甚至整个产业链都会被颠覆。这个时间周期不需要5-10年，我目测三年内就会有这样的影视公司崛起，并且有大量的资本追逐。</p><p>真实的网红会率先倒下，但乔碧罗绝对不是结束，乔碧罗只是个开始，AI换脸后的乔碧罗会更加千娇百媚。100个演员并行直播，顶着AI网红天使脸庞，哈哈哈哈哈哈哈哈。收割一波波脑残粉啊！</p><p>巨星和网红都趋向于无版权时代，趋向于零片酬时代。</p><p>二、从现在开始保留好自己的照片，以后的虚拟现实或者增强现实时代的社交形象，甚至短视频平台上的社交形象，你都可以用自己的年轻时期甚至美颜过的脸去忽悠你想忽悠的人。我把这总社交时代称为<b>face to face</b>。所有人都顶着一副天使的脸庞在那个时代社交。想想都觉得可怕。</p><p>三、AI诈骗时代，换上你老婆孩子的脸跟你要钱，你可能来不及区分，当声音和脸都变假的很真了，你靠什么在日常生活中去区分哪些是骗子，哪些是你亲朋好友呢？曾经“我孙中山，打钱！”这种低劣的行骗手段将会进化到99%的人都无法区分，这是一个多么可怕的时代。我估计整个AI换脸的黑产市场可能超过万亿美元。法律可能都来不及进行升级。</p><p>四、视频证据将无法成为证据，因为采用AI换脸之后的证据可能连写AI的人自己都无法区分出来是真是假，对整个刑侦和破案人员、律师、带来更多的困扰。导致冤案和错案的诞生，甚至是无法避免的。</p><p>五、AI换脸会成为背锅侠，酒店被人偷拍可以说是AI换脸，直接让AI去背锅，CGX可以说当年艳照门所有的视频和照片都是被AI换脸搞出来的。采用AI换脸情节推动混淆视听进行形象公关将会成为大量公关公司的首席法宝。</p><p>六、AR增强现实眼镜可以让你每天看到的都是自己想看到的人，谁也不知道你把现实中谁的脸换成了谁的脸，比如把你老婆的脸换成初恋的脸，当然也可以把你仓老的脸换成年轻时期的你。以后不用再去关心今天你被谁绿了，这个要看对方有多大的脸库了。</p><p>七、“人造脸”设计工作室将会海量崛起，换人脸、换狗脸、换动物脸将会成为一种常态。</p><p>八、逝去的人将会重新被“复活”，人类的心理干预治疗将会采用AI+AR的方式进行治愈。人类通过换脸进入的假永生时代，起码让一些心理脆弱的人可以无限的接近曾经逝去的生命，这虽然有点假，但是只要包装的好，这也会成为一门大生意，第一步我预计就会应用于心理疾病治疗，甚至很有效果。欺骗？地球本来就是假的，世界就是在欺骗你的大脑啊。</p><p>九、人类世界脸是每天都要用到的组件，这意味着只要用脸的地方都会被革命和颠覆。整容医院的意义不知道还有多大。不如充值给自己搞个好的脸库，然后同步到所有的AI眼珠里，哈哈哈。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>文化娱乐产业将会是被颠覆的第一个领域，第二个领域就是微商和传销诈骗组织用于黑产的场景。</p><p>机器人让车间的技工下岗，AI换脸让明星下岗</p><p>一切皆是虚妄</p><p>离火时代，谨防科技发展过于迅猛被用于了不法领域！</p><p>祝新时代大家安好，保护好自己的脸，不要被拿拉去贴到犯罪分子的脸上然后对着你的支付宝面部识别页面 眨眼睛。</p><p>哈哈哈哈哈哈哈哈哈哈哈哈。</p><p>这是一波可以直接看到收益的新风口，商业模式和变现的手法也极其清晰，就看怎么玩了。</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "移动互联网", 
+                    "tagLink": "https://api.zhihu.com/topics/19550547"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "娱乐明星", 
+                    "tagLink": "https://api.zhihu.com/topics/19600305"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "李石", 
+                    "userLink": "https://www.zhihu.com/people/86dcf1fdf67ca6441fef9340324b8dc6", 
+                    "content": "哈哈，AI面具", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/72549073", 
+            "userName": "修仙者", 
+            "userLink": "https://www.zhihu.com/people/a18b203fce545918c5a60a0a99aa2991", 
+            "upvote": 3, 
+            "title": "预测算法T2E模型介绍", 
+            "content": "<p>T2E： 温度驱动事件，temperature to event 预测模型。（任何模型都会有其缺陷的地方，当然我这个算法模型也一定存在缺陷）</p><p>逻辑原理：温度在宇宙中无处不在，地球之所以有生命存在是因为存在适合生命存在的温度环境，温度决定了水的形态，水决定了我们地球上的生命形态，甚至可以说温度决定了万事万物的形态，那么温度是否会决定<b>各种事件</b>的精确发生？</p><p>我们以温度对鸡蛋的形态变化和触发事件为例，鸡胚胎发育对环境温度有一定的适应能力，温度在35～40.5℃(95～105F)，都有一些种蛋能出雏。如果一只鸡蛋在不收到鸡本身的影响下，会在夏季自动孵化成功的概率是否更高？那么我们精确的控制了温度是否可以精确的控制一个生物的“生命剧情”的进程。那么一只鸡蛋如果把温度调节到100度，那么鸡蛋是不是就熟了就可以吃了呢？是不是温度过高就消灭了一个生命。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c83c70290c87e1d9529255ae144bca5a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic3.zhimg.com/v2-c83c70290c87e1d9529255ae144bca5a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1000&#39; height=&#39;600&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://pic3.zhimg.com/v2-c83c70290c87e1d9529255ae144bca5a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c83c70290c87e1d9529255ae144bca5a_b.jpg\"/></figure><p>水的冰点是零度，在一个标准大气压下<i>水的沸点</i>为:99.975℃。温度仅仅改变了事物的形态吗？是否也触发了各种事件的发生？夏季人们开始吃冷饮，冬季人们喜欢饮热饮，这些是不是因为温度变化而驱动的呢？</p><p>那么我现在给出一个理论：<b>万事万物的形态与触发事件都是有温度决定的。</b>这是不是可以成为一个定律，在我的模型中这就是一条定律：也就是我说的T2E定律，我们放眼整个宇宙，整个宇宙间的一切事物的发展变化是不是由温度决定。这个定律是粗陋的，那么细化模型。</p><p><b>热力学第一定律：热量可以从一个物体传递到另一个物体，也可以与机械能或其他能量互相转换，但是在转换过程中，能量的总值保持不变。</b></p><p><b>热力学第二定律：不可能从单一热源取热使之完全转换为有用的功而不产生其他影响。熵增原理：不可逆热力过程中熵的微增量总是大于零。</b></p><p>我们可否得出一个新的理论：<b>热量从一个对象传递到另一个对象，就决定了对象各自的属性变化，也决定了其触发的关联事件的类型与事态的大小。</b>（这句话很代码）</p><p>举例：当你拿起一根点着的香烟，把点燃引线，通过引线将热量传递给火药，火药被点燃在有限的空间内发生了充分的氧化反应，迅速的膨大被厚厚的纸壁挡住，只能沿着上方的出孔穿上云霄。</p><p>实战，如何预测空间网格内的事件？</p><p>明天再写，累了。</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "草稿", 
+                    "tagLink": "https://api.zhihu.com/topics/19585045"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "一抹翠绿", 
+                    "userLink": "https://www.zhihu.com/people/72a543347d3b155056708a82fe39f3a4", 
+                    "content": "温度决定了适应环境的模型的产生，进而模型的稳定性决定了是适应环境还是继续被环境选择。同一温度，对于不同生命体的影响程度是不一样的……如何预测，输入是一样的，可是模型不一样，进而导致输出不同", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "回头继续写", 
+                            "likes": 0, 
+                            "replyToAuthor": "一抹翠绿"
+                        }, 
+                        {
+                            "userName": "一抹翠绿", 
+                            "userLink": "https://www.zhihu.com/people/72a543347d3b155056708a82fe39f3a4", 
+                            "content": "啥时候，坐等更新", 
+                            "likes": 0, 
+                            "replyToAuthor": "一抹翠绿"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "大雄医生", 
+                    "userLink": "https://www.zhihu.com/people/42ac357a72d9620264a719ec1b6cb3b7", 
+                    "content": "坐等更新，吃瓜中", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "小楼一夜听春雨", 
+                    "userLink": "https://www.zhihu.com/people/0bcfa263d06cb1ab02d65814c573b64a", 
+                    "content": "坐等，哈哈", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67433553", 
+            "userName": "修仙者", 
+            "userLink": "https://www.zhihu.com/people/a18b203fce545918c5a60a0a99aa2991", 
+            "upvote": 25, 
+            "title": "当前的主要矛盾是：日益增长的女性败家需求同男性“低”收入之间的矛盾。", 
+            "content": "<p>这篇文章回答当前的各种恶劣凶杀事件，不要把我当人看，这篇文章是疯狗写的，疯狗是我随便起的一个网名。</p><p>站在任何单一的人性角度去回答这个问题都是不客观的，因为你们没有去研究为什么他们会变成这样，是什么事情导致他们变成这种的。老实话任何一个人的所作所为都是外部环境驱动的，个人意愿到底占了多少比重，扪心自问你所做的一切都是你内心想做的吗？那么我们来看看一些客观的数据，再来分析这起，以及近期的凶杀事件，从中找出一些蛛丝马迹，然后我们该如何面对这些坑爹的事件才是最重要的，那些在哪里撕逼 男权女权的都是脑袋有病，不从根本问题上去解决，撕逼只会导致更多的矛盾诞生。</p><p>先看性欲数据！没有任何事件驱动的关键词热度增长，而且是持续增长，这是什么原因所致？我不知道，历史上从来没有过这种增长，而今年特别奇葩。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-35dc4cdb20b1908a046262c1ff81f18f_b.jpg\" data-rawwidth=\"1114\" data-rawheight=\"601\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-79aee2ec1aa4004186a2d37b74e66533_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1114\" data-original=\"https://pic4.zhimg.com/v2-35dc4cdb20b1908a046262c1ff81f18f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1114&#39; height=&#39;601&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1114\" data-rawheight=\"601\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-79aee2ec1aa4004186a2d37b74e66533_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1114\" data-original=\"https://pic4.zhimg.com/v2-35dc4cdb20b1908a046262c1ff81f18f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-35dc4cdb20b1908a046262c1ff81f18f_b.jpg\"/></figure><p>但是女性们放心好了，今年的数值增长来自的是女性，女性占比64%。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0902afe06bace4c15c98da4cf4ac5034_b.jpg\" data-rawwidth=\"1008\" data-rawheight=\"323\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-1adb4f10b3e75a334d02a311d4efa0fb_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1008\" data-original=\"https://pic1.zhimg.com/v2-0902afe06bace4c15c98da4cf4ac5034_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1008&#39; height=&#39;323&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1008\" data-rawheight=\"323\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-1adb4f10b3e75a334d02a311d4efa0fb_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1008\" data-original=\"https://pic1.zhimg.com/v2-0902afe06bace4c15c98da4cf4ac5034_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0902afe06bace4c15c98da4cf4ac5034_b.jpg\"/></figure><p>再看看这些女人整天看的都是什么个玩意儿？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-a37f1b8dea06b579c344c2975821f80f_b.jpg\" data-rawwidth=\"1398\" data-rawheight=\"655\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-a89b1f1d724a8d9022114682eee87776_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1398\" data-original=\"https://pic4.zhimg.com/v2-a37f1b8dea06b579c344c2975821f80f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1398&#39; height=&#39;655&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1398\" data-rawheight=\"655\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-a89b1f1d724a8d9022114682eee87776_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1398\" data-original=\"https://pic4.zhimg.com/v2-a37f1b8dea06b579c344c2975821f80f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a37f1b8dea06b579c344c2975821f80f_b.jpg\"/></figure><p>再来看看伟大的日消数据</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2015752758c317be863bd430eb02cfed_b.jpg\" data-rawwidth=\"1142\" data-rawheight=\"563\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/v2-eff4a5c75dea0c471e408205385c405d_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1142\" data-original=\"https://pic2.zhimg.com/v2-2015752758c317be863bd430eb02cfed_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1142&#39; height=&#39;563&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1142\" data-rawheight=\"563\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/v2-eff4a5c75dea0c471e408205385c405d_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1142\" data-original=\"https://pic2.zhimg.com/v2-2015752758c317be863bd430eb02cfed_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-2015752758c317be863bd430eb02cfed_b.jpg\"/></figure><p>女权们可以闭嘴了，消费数据早已出卖了一切，这上面有几个东西是男人用的？我不是拉仇恨的，日消数据已经这样了。我要再翻出奢侈品数据出来估计要被人打了。别跟我说淘宝数据都是低端用户数据，搞清楚了，有几位是高端的。那么我不怕被打了，我就翻奢侈品数据给你们看看。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-cfacb52b5906229e4d711f043e905c28_b.jpg\" data-rawwidth=\"1360\" data-rawheight=\"631\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-768b872b9830278d009259a139f4f71f_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1360\" data-original=\"https://pic1.zhimg.com/v2-cfacb52b5906229e4d711f043e905c28_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1360&#39; height=&#39;631&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1360\" data-rawheight=\"631\" data-size=\"normal\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-768b872b9830278d009259a139f4f71f_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1360\" data-original=\"https://pic1.zhimg.com/v2-cfacb52b5906229e4d711f043e905c28_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-cfacb52b5906229e4d711f043e905c28_b.jpg\"/><figcaption>看看败家娘们对LV是多么的热爱！除了过年消停了点。</figcaption></figure><p>我们再来看几个女性关键数据</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d5b64996e1a351d61ba78a4ad209159a_b.jpg\" data-rawwidth=\"1098\" data-rawheight=\"597\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-2b4514379efba82605a5473d23f0bb1e_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1098\" data-original=\"https://pic3.zhimg.com/v2-d5b64996e1a351d61ba78a4ad209159a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1098&#39; height=&#39;597&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1098\" data-rawheight=\"597\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-2b4514379efba82605a5473d23f0bb1e_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1098\" data-original=\"https://pic3.zhimg.com/v2-d5b64996e1a351d61ba78a4ad209159a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-d5b64996e1a351d61ba78a4ad209159a_b.jpg\"/></figure><p>这个郁闷的关键词，为什么2019年很多女性郁闷呢？如果从性欲热词的增长，再从郁闷的上面挖掘挖掘估计是性欲得不到满足导致的吧，为什么得不到满足？</p><p>男性压力大，身体亚健康，经济收入不稳定，房价太高，等等一系列问题都是有男人来背负的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-d3aa388462f704c5244d7c52de8dee7d_b.jpg\" data-rawwidth=\"1114\" data-rawheight=\"585\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/v2-1930dab68ae2cdaa73abbff6470adee5_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1114\" data-original=\"https://pic2.zhimg.com/v2-d3aa388462f704c5244d7c52de8dee7d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1114&#39; height=&#39;585&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1114\" data-rawheight=\"585\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/v2-1930dab68ae2cdaa73abbff6470adee5_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1114\" data-original=\"https://pic2.zhimg.com/v2-d3aa388462f704c5244d7c52de8dee7d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-d3aa388462f704c5244d7c52de8dee7d_b.jpg\"/></figure><p>2013年钱荒、2015年股灾、2018-2019年 中美贸易战。看见没有，经济对男性生理打击是很明显的。物理攻击我们就说到这里，然后我们来说说精神攻击。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-be0904d2737cf757172e4c46fef689a1_b.jpg\" data-rawwidth=\"1356\" data-rawheight=\"696\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-f9a671817eb09e7669a17f44d9bd43ce_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1356\" data-original=\"https://pic2.zhimg.com/v2-be0904d2737cf757172e4c46fef689a1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1356&#39; height=&#39;696&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1356\" data-rawheight=\"696\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic3.zhimg.com/v2-f9a671817eb09e7669a17f44d9bd43ce_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1356\" data-original=\"https://pic2.zhimg.com/v2-be0904d2737cf757172e4c46fef689a1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-be0904d2737cf757172e4c46fef689a1_b.jpg\"/></figure><p>震颤这种不明病因的疾病为何在2019年数据在增长？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3033bcb69302be52bde85f097aa4a5d3_b.jpg\" data-rawwidth=\"1350\" data-rawheight=\"571\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-4c14dd63fbf6726321cf7364a159d15b_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1350\" data-original=\"https://pic4.zhimg.com/v2-3033bcb69302be52bde85f097aa4a5d3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1350&#39; height=&#39;571&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1350\" data-rawheight=\"571\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-4c14dd63fbf6726321cf7364a159d15b_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1350\" data-original=\"https://pic4.zhimg.com/v2-3033bcb69302be52bde85f097aa4a5d3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3033bcb69302be52bde85f097aa4a5d3_b.jpg\"/></figure><p>注销公司的数据其实还好了，也不是那么多的公司在注销，如果有人要质疑觉得都是先前的老公司遗留问题，那就大错特错了。我们这一层楼里消失了十几家公司，这里的租金非常便宜，我不知道这些公司是怎么搬走的了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c52e22db4567e4e5b9b6307f90f526c5_b.jpg\" data-rawwidth=\"1343\" data-rawheight=\"639\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1343\" data-original=\"https://pic2.zhimg.com/v2-c52e22db4567e4e5b9b6307f90f526c5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1343&#39; height=&#39;639&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1343\" data-rawheight=\"639\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1343\" data-original=\"https://pic2.zhimg.com/v2-c52e22db4567e4e5b9b6307f90f526c5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c52e22db4567e4e5b9b6307f90f526c5_b.jpg\"/><figcaption>这个负债的数据走的真特么的完美</figcaption></figure><p>都说男性赚的钱都去买车了，因为男人喜欢玩车啊。来看看汽车销售数据。</p><p>2018年12月，汽车生产248.22万辆，环比下降0.65%，同比下降18.39%；销售266.15万辆，环比增长4.46%，同比下降13.03%。其中，乘用车生产205.46万辆，环比下降3.22%，同比下降21.27%；销售223.31万辆，环比增长2.74%，同比下降15.84%，商用车生产42.75万辆，环比增长13.88%，同比下降0.98%；销售42.84万辆，环比增长14.43%，同比增长5.24%。</p><p>可喜可贺，好牛逼的增长，男人们都怎么了，赚钱能力直线下跌啊。</p><p>那么我们来分析一个场景：</p><p>某男中年男子，37岁，被裁员，这个年纪找工作估计是很难了，原来可能是高收入。现在回家面对房贷，二胎，以及老婆日益增长的败家需求和火一般的生理需求，他能做什么事？聪明的女人会安抚老公，鼓励老公。但是中国家庭去调研一下，普遍都是女人当家，强势的一米。平时生活中的小火星被压抑久了，就会在某个神经病的点爆发了。</p><p><b>一、最致命的点是什么？ 被绿！</b> 男人辛辛苦苦养家，还被绿，被公开，那是面子问题了。这一关很多男人过不了。所以站在人性的角度去看待这个问题，人是最没出息的物种，在面子方面永远看不开，所以被绿其实最大的伤害不是来自心，最大的伤害是来自面子。</p><p>不要认为我不是人就会把文章偏向男性，放心，以下解决方案同样适用于女性。碰到被绿这种事我给的方案很简单，但是我的建议比较畜生，因为我研究过狗，发现狗从来不在乎伴侣忠诚不忠诚，如果被绿了就当以前养了一条狗，有没有更畜生的做法呢？有的，分手了还是好炮友。有没有更好的方法，有的！<b>都不做人了，那方法就多的去了！</b>如果你养的狗希望重新做人，那么就一起换一个城市，换一个陌生的地方给对方一个做人的机会。那你心理的伤害怎么抚平？我都说做狗了，咱们不要站在人的角度考虑问题，舔狗知道吗？如果你也不愿意做舔狗，那也请不要伤害自己，请不要冲动杀任何人，<b>因为！为狗去杀人是不值得的</b>。我都说了，你不要把对方看成人，他们都是狗啊，这下想开了吗？</p><p>我今天教给大家的是一套情感免疫系统，如果你的感情被伤害了，就不要再把对方当人看了，也不要把自己当人看了，如果你非要带入人的角度看待情感问题，肯定是被伤害的。真的要多学一学狗的做法。抛弃自己的人性，剩下的只有理性，从利益的角度去思考问题。</p><p>1、被绿了，分手了，依旧是炮友。</p><p>2、被绿了，分手了，开启新模式。</p><p>3、被绿了，分手了，结拜兄妹吧。</p><p>4、被绿了，分手了，一起做狗吧。</p><p>套用刘电工的一句话：<b>失去人性失去很多，失去狗性失去所有</b>。那些杀人的傻B人类就是因为太把自己当人看了，结果被人性俘获了身躯，为了面子和感情伤害去杀了人。做一条狗多好，根本不用管这种破事，你说什么？这很啊Q？我这第一步，号称魔狗的步伐，先稳定情绪，然后去找个律师，律师会帮你搞定一切的，反正有那么多的维信里面各种小照片和视频。</p><p><b>二、心理抑郁少喝酒，喝也行，但是别喝到失去狗性</b>。一旦喝出人性，再喝出点兽性是特么的不好了。</p><p>“2019年2月8日19时50分左右，当大家还沉浸在春节的喜悦时，而陕西咸阳旬邑县职田镇马家堡村却发生了一起重大刑事案件，4人死亡1人受伤，警方初步调查犯罪嫌疑人张进峰因为醉酒后，与妻子发生矛盾，原因疑是媳妇跟网友私奔了一年左右，一怒下将妻子和家人残忍杀害，其中死者有犯罪嫌疑人的妻子，妻弟，妻弟的妻子，妻弟的儿子，伤者是丈母娘，造成4死1伤。”</p><p>这位傻B的人类就是因为失去狗性被人性伤害了，太不值得了，人性不值得啊！还是跟我一起做狗吧，做狗多好啊，什么都可以看的开，什么都可以看的过。我隔壁那个家伙更牛逼，他说自己是一棵小草，什么人间的事都跟他没关系。</p><p>如果心里有事，真的要少喝酒，别一喝酒是失去了狗性，冲动做了人，人是最悲剧的物种，什么事都带着感情走。哎！我在这里呼吁，为了保护自己的狗性千万不要在内心相当郁闷的喝酒，喝闷酒不光伤身，还伤人，伤自己美好前程。</p><p><b>三、鸡毛蒜皮的事，过日子是睁一只眼不一只眼吧。</b>你觉得狗会因为摔碎一个杯子吵一天吗？这种傻逼事除了人类干的出来，狗才干不出来。人不如狗就是这个道理，太把鸡毛蒜皮的事当事了。我前面列出来的矛盾是主要矛盾，下面写出来的这三点是矛盾的触发事件。我这边最想说的是什么呢？很多女性跟男方的父母住在一起，那特么的就很烦，解决方案有两个，一个是和老公搬出去住，少跟婆婆说话，这些老家伙很烦的。二是实在条件不允许就别把自己当人看了，也别把对方当人看了，跟狗过不去没意思的，做一天狗看一天人怎么翻傻B的当笑话就行了。另外一个事就是说给男人听的了，很多男人在女人孕期和哺乳期的时候问我一堆屁问题，“我老婆深更半夜叫我一起起来喂孩子吃奶，有病吧！”，“这女人做月子，这也不吃，那也不吃，整天发脾气，对我家里也发脾气”。好吧，我现在好好回答这个问题。</p><p>女人在这个阶段就是脾气最大的时候，不是她情商问题，这就是生理问题，在这个阶段她肯定脾气大。不信你自己生个孩子去试试。这个阶段就不要问我离婚不离婚，问这个问题的都是神经病。</p><p>我国女性平均生育年龄为29.13岁，为什么是这个年龄呢？生活不易，看在你媳妇给你生孩子的份上，过日子让着点吧，但是女人也别太矫情了，搞出一堆事来，诱发家庭悲剧。</p><p>心情不好的时候可以多看看这种照片。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-267a377bde558ac927c51be0891ed495_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic2.zhimg.com/v2-267a377bde558ac927c51be0891ed495_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1920&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"1080\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic2.zhimg.com/v2-267a377bde558ac927c51be0891ed495_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-267a377bde558ac927c51be0891ed495_b.jpg\"/><figcaption>图片来自网络，引用地址：http://www.freep.cn/zhuangxiu_6/News_4717025.html</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>最后</p><p><b>天地不仁，<i>以万物为刍狗！</i></b>刍狗，古代祭祀时用草扎成的狗。老天都把咱当狗了，咱们再把自己的那个人看没意思了，人家说的还是草扎的狗，艹狗。</p><p>所以各位好自为之，愿意做狗的，咱走阳光大道，非要把人性的弱点扣在自己身上玩冲动的，那就交给法律制裁去吧。人生不易，难时可以考虑做做狗，有时候做了人就再也回不去了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><br/> </p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://zhuanlan.zhihu.com/p/56317562\" data-image=\"https://pic2.zhimg.com/v2-50b69ff8fbec4cb019d3f637c5196b11_180x120.jpg\" data-image-width=\"1184\" data-image-height=\"583\" class=\"internal\">紫金之巅：对于2019年的一些预测</a><p><br/> </p>", 
+            "topic": [
+                {
+                    "tag": "心理健康", 
+                    "tagLink": "https://api.zhihu.com/topics/19568143"
+                }, 
+                {
+                    "tag": "社会", 
+                    "tagLink": "https://api.zhihu.com/topics/19566933"
+                }, 
+                {
+                    "tag": "女性", 
+                    "tagLink": "https://api.zhihu.com/topics/19556945"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "好肥的猪", 
+                    "userLink": "https://www.zhihu.com/people/89b70df90cef8e29387df7e79776ecd4", 
+                    "content": "讲的蛮好的，怎么没评论呢", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "大小资本圈养田园女权会逐渐波澜壮阔，异化，物化。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60976469", 
+            "userName": "修仙者", 
+            "userLink": "https://www.zhihu.com/people/a18b203fce545918c5a60a0a99aa2991", 
+            "upvote": 16, 
+            "title": "我们身处一个什么样的时代？", 
+            "content": "<p>杂记</p><p>其实这个时代比较尴尬，新科技的并未普及，而旧科技又饱和，迭代更新科技产品的人还处于小众群体。经济增长放缓，第三次工业革命只有黎明前的星星，离真正的革命还有很远的路要走。我们现在应该还处于OS时代，还未进入AIOS时代。现在的全球的经济发展急需一股强劲的力量来点燃，以前我认为是VR&amp;AR，结果VR&amp;AR现在还在沟里，各种VR和AR技术的发展其实已经把自己带进了沟里，应用场景基本上处于崩溃阶段，记好了没有C端的科技大爆发，经济是不可能好转的。而AI现在的确让我们眼前一亮，但是这星星之火也是黎明前的之火。互联网这样的科技领域并没有想象中的那么美好，如果的移动互联网的巨头都是互联网时代的延续者，并未产生新的火焰。</p><p>汽车、电视、电脑、电话、这些C端爆发的产品才推动了经济快速发展，工业领域的创新是推动了创造的效率，但是如果没有极具市场认可的产品再先进的“产能”也是冗余产能。从2010年之后，我们就没有看到一款象移动智能终端（iPhone、手机）这样到处收欢迎的产品，这个悲观的显示已经9年了。我们这些年花了大量的时间在软件领域进行创新，而在智能硬件领域的创新基本上都以失败告终，至今市面上也没有出现一款可以与手机媲美的产品类型的创新，主要的原因有一点：就是我们把所有的功能都集成到了手机上，而淘汰了更多的产品，我虽然有单反机，但是我根本就不去用，这就是相机的尴尬市场。</p><p>伟大的公司都是面向C端的，VR和AR在C端的发展过程也未能给市场带来惊喜，微软的Hololens还停留在某些特俗工况场景，即使苹果的ARKIT也未诞生出杀手级的应用，别把Pokemon Go的火爆归功于AR，其实Pokemon Go靠的完全是IP，这就是为什么Pokemon Go之后就很难再有成功的AR游戏成为热点。也就是说短期内或者近5年，从2014年的VR大火到苹果发布ARKIY框架至今已经5年了，市场并没有如何快速成长。而AI却给我们带来了一个小惊喜-智能音响，这个玩意由于带上了一个麦克风，把SIRI这样的产品单独迁移到了音箱上反而诞生了一个新的时代，由于智能音箱的出现智能家居（DIY）廉价版得意普及，现在基本上用户自己花3000块钱左右可以DIY出一个不错的智能家居，我当初最鄙视的是开个窗帘还要掏出手机找菜单，而现在只需要喊一声打开窗帘，窗帘就打开了。</p><p>我们看到了一个现象，互联网领域创业最终是几家为王，其实互联网更像一个破烂的菜场，永远有几个大爷在那里收保护费，我们在上一个20年基本上经常看见神话，而现如今我们看到的是神话都是被圈养或者包养的，脱离几大家的互联网公司并没有得到什么样的自由发展空间，新起之秀会被几大家360度立体围攻，从法律到黑手基本上每隔几天就会上演一次，新旧势力的对撞就是那么的明显，我们看见内容创作者表面活的很滋润，但是实际上活的也很悲剧，流量永远在别人手里，说错了，其实连命都在被人手里，比如咪蒙，虽然很负能量，但是生死并不在她们自己手上，当然他们是自己作死的。说到底其实互联网是一个很糟糕的市场，永远都是几家为王，马云曾抱怨微软强大，但是现在留给创业者的其实空间更加狭小，互联网其实真没几毛钱科技含量，一款因创意而诞生的产品会立即被抄袭，从百团大战到网约车大战，再到共享单车大战，其实根本没有赢家，大量的垃圾导致整个社会都在为过去恶斗埋单。当初认为自己会胜出的大佬也都成了炮灰，暴雷已成为某种高频事件，不知道今年是不是会好一点。</p><p>从2000年第一次互联网泡沫崩坍，到现在2019年移动互联网崩塌，理论上是整个IT行业的崩塌，可能基于信息技术的高速发展的第一个阶段已经结束了，下一个时代可能是一个非常崭新的时代，而这个时代很明显是属于AI的，因为这一次的创新很不一样！为什么不一样？</p><p>第一次工业革命机器代替手工，人类的技能得以解放，从而诞生了更多的技术人才和工程师，让世界可以进化的更加高效。我称为燃料文明，燃料产生了动力。</p><p>第二次工业是有电力驱动的新世界，无线电通信技术的普及产生了新的高效文明。技术资料铺满互联网，开源社区的出现导致研发和创造力更加快速发展。而现在免费的资料基本上已经消失，这个曾经的黄金时代正在关闭，我们看见更多的收费模式正在降低社会的发展效率，这也会是为什么我们现在经济发展低效的原因，甚至我认为是重要的原因之一。</p><p>第三次工业革命我们都知道是基于AI的，这一次是替代人类的方方面面，这次革命与以往的革命都完全不一样，第一次工业革命我们建立了强劲的心脏（内燃机）获得了史无前例的动力，第二次工业革命我们建立了伟大的神经网络（互联网），建立连接一切的互联网。现在我们正在为这些构建一个超智能的大脑，我们称它为AI-人工智能。</p><p>这一次工业革命会带来什么样的变革？</p><p>第一、手艺人这一波被淘汰，简单的说即将进入工匠淘汰的时代。</p><p>第二、技术和工程师被淘汰，凡是重复不断做的事业都会被淘汰。</p><p>第三、决策和判断的人才被淘汰，这是最可怕的，因为人类建立的决策模型肯定没有AI建立的快速、高效、全面、人类是情感文明，情感对于决策来说可能会存在某种特定的偏差，这个偏差或许就是人类文明胜出的地方，让人类文明VS机器文明的时候，这也极大可能成为巨大的缺陷。</p><p>在这个时代我们自己失去了手艺、工匠、技术、工程师、我们得到了一个更加高效的时代，即：创意直达产品的时代，也就是说我们可以通过提出一个创意即可获得产品，而无需理解过程。这是一个很可怕的时代，这是一个飞速高效发展的时代，其实人类的一切活动可以划分成简单的三个流程，第一提出创意、第二实现创意、第三运营创意。人类的大量的工作就是在创意实现阶段，我们建造摩天大楼需要海量的工程师和建筑工人，现在有了机器和AI，我们只需要提出创意即可。</p><p>我们接下来即将进入一个创意时代，当超智能的基础设施被建立完毕后，我们只需要提出一个创意，即可等待创意的实现，甚至有了冷冻技术我们提出创意后就通过冬眠仓向未来移民。</p><p>人类其实有了更多的工作，会细分出更多的创意工程师，他们需要研究世界的问题，从而为这些问题提供解决方案，而这些解决方案就是创意，然后通过强大的AI去一步步构建解决方案，最终星际间会布满人类的创意作品。而这些作品就是人类与AI合作的结果。很多人会担心我们会失去很多工作，其实并不是这样的，我们会因AI技术的普及诞生出海量的新型工种，各行各业都会被无限细分出更多的人才，毕竟未来是一个万物可编程时代，甚至需要对纳米级的模块进行编程，从而制造出新型的结构，未来的世界除了物质是饱满的，人类更需要新的方向。人类的文明不会因为AI的出现而终结，反而会因为AI的出现而变的更加璀璨和靓丽。</p><p>拥有人工智能的机器人会登陆火星建造火星城市，飞往水星的AI机器人会把水星改造成戴森球，从而获得无限的能量，飞往木星的AI机器人会在木星的上方建立大型物理与化学实验室，建立新型的研发基地，充分利用木星的上各种资源。</p><p>AI会是赋能万事万物的，所以AI会产生无限多的创业方向，或者说应用方向，我们不去鼓吹AI，但是AI的应用场景其实很简单，就是福能于某件物品然后淘汰原来的产品。但是我们思考下，当AIOS得意免费附件，20块钱的主板就支持AIOS，那么这个时代才是最可怕的时代，因为云端的AI技术会为客户端AI赋能，这样就构建了抄底成本的AI时代。5G零延时场景就有了无限的可能，AI赋能万物的时代应该在2020年就会到来。</p><p>伟大的公司会去做一个面向万事万物的全面应用场景的AIOS，而小的公司可能是没有机会做那种烧大钱的底层研发了，例如无人驾驶技术都烧了这么多钱了。小的科技公司可能只能拿着大厂的模块去做一些边边角角的微创新，这才是最可悲的，我们又一次发现其实时代并没有给创业者多少机会，未来依旧是掌握在大公司手里，这是为什么？</p><p>因为AI时代的创新都是大工程项目，机器视觉、机器听觉、SLAM空间定位、无限多的传感器接入系统，而传感器的研发就特别的废钱了， 而传感器也是AI时代的核心技术之一。这是一个比较复杂的商业时代，因为早期的研发基本上是看不见盈利的，所以也会有无限多的AI创意死在萌芽状态，因为太费钱了，AI时代最可怕的力量是开源力量，互相PK的两个团队只要其中有一家公司扔出稍微完美的AI解决方案，细分市场就会采用和推出搭载AIOS的产品。20块钱的AI主板和AIOS足以掌控一个新的时代。</p><p>让我们多思考一下，大家也可以在评论区说说自己的想法，我们来畅想一下未来！</p><p>第一篇完结</p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "互联网", 
+                    "tagLink": "https://api.zhihu.com/topics/19550517"
+                }, 
+                {
+                    "tag": "移动互联网", 
+                    "tagLink": "https://api.zhihu.com/topics/19550547"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "养生少女不秃头", 
+                    "userLink": "https://www.zhihu.com/people/a05cbc723b9bb99e2277c1b8943528a3", 
+                    "content": "还要40-50年叻 机器人与人不同的地方也是机器缺陷所在 人活着之所以有意思就是因为 你不知道下一秒会有什么 。而且说实话现在AI距离人类们想要的还差距很远，AI短期不要个5年-10年能发展得特别好么 5-10年还是又有伟大的人突破技术的情况下。就算这个技术出来了，大规模生产应用又要5年-10年左右吧。下一个时代比较成熟怎么着理想状况下也要个30年吧。而且AI现在没有什么突破。也许未来会也许短期不会。如果突破的话 应该还可以带动其他很多领域发展。那是后话了。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/56317562", 
+            "userName": "修仙者", 
+            "userLink": "https://www.zhihu.com/people/a18b203fce545918c5a60a0a99aa2991", 
+            "upvote": 27, 
+            "title": "对于2019年的一些预测", 
+            "content": "<p>1.今年会高频率出现某某领域之父之皇（或创始人）去世的各种新闻。</p><p>2.由于老龄化的问题今年去世的老人可能比较多，所以你出门经常会看见有人去世。碰到了正常的时间节点。</p><p>3.特大跨国诈骗案或者传销案今年会暴雷，会有一个跨国的大型金融、传销领域的特大案件被侦破。银行业会爆出惊雷，例如美国或欧洲有银行倒闭。</p><p>4.旅游出行人数会再创新高，尤其出境游，数量会再一次刷破纪录。国内就被坑惨了，到处都是扔下的巨量垃圾-<b>这个会成为今年很大的新闻</b>。</p><p>5.英语与数学教育面临两级分化，某些跨国教育培训机构的市值可能要拦腰斩。美国某些学校会爆出高校老师强暴学生的丑闻（<b>量级庞大与可怕</b>），而且频率可能比往年多很多。国内也要多注意。</p><p>6.美国与欧洲会爆发特大流行疾病，而且来势很凶猛，这次规模可能有点大。</p><p>7.中医再一次的火了，这次是刷了新的记录。仙侠、玄侠、武侠 、道学、汉服、茶文化、中药等等中国风会火起来。街上的汉服美女的数量会呈几何级上升。</p><p>8.会有多家著名IT公司、互联网公司、游戏公司的产品出现问题，官网打不开或者被黑。今年的计算机病毒可能是有史以来发作最威猛的一年，所以要做好充分的数据备份准备。</p><p>9.美国的枪击案今年会很多很多。</p><p>10.程序员、英语教师、翻译、教师工作会比较麻烦。抖音今年可能比较麻烦。</p><p>11.借钱，借贷，被骗钱今年特别容易高发。投资机构今年极其容易投错项目被忽悠，投进去之后发现是个大坑，对方有严重的财务危机，之前全部被隐藏了。</p><p>12.地震频率增加。大地震当然是在美国发生了。</p><p>13.千万不要与人发生语言冲突，千万不要与人冲突，千万不要与人冲突，今年很多人容易脾气暴躁，所以凶杀案会增加。今年强奸案会比往年增长，所以更要多加注意。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d6769e9a9b4cbbfa3580a23fa1d77198_b.jpg\" data-size=\"normal\" data-rawwidth=\"425\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"425\" data-original=\"https://pic1.zhimg.com/v2-d6769e9a9b4cbbfa3580a23fa1d77198_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;425&#39; height=&#39;600&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"425\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"425\" data-original=\"https://pic1.zhimg.com/v2-d6769e9a9b4cbbfa3580a23fa1d77198_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d6769e9a9b4cbbfa3580a23fa1d77198_b.jpg\"/><figcaption>低调，低调，低调</figcaption></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "预测", 
+                    "tagLink": "https://api.zhihu.com/topics/19577915"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "第二滴雨", 
+                    "userLink": "https://www.zhihu.com/people/bc83c46a33e601c25195c7390867642f", 
+                    "content": "以上每年都有", 
+                    "likes": 15, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "2018年死了那么多 文化界大咖，每年都有？我既然预测当然是量级比往年多。", 
+                            "likes": 2, 
+                            "replyToAuthor": "第二滴雨"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "风痴笑", 
+                    "userLink": "https://www.zhihu.com/people/9cfa77166a3fb162b53d1c0769ed1ce7", 
+                    "content": "[思考]看吧", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>忘记说了，今年会有不少网红主播去世，所以最好低调点。</p>", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "ouy160", 
+                            "userLink": "https://www.zhihu.com/people/5aef299934a2d6d602e20bf55125693c", 
+                            "content": "熊猫直播挂了", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "网红们今年日子不好过", 
+                            "likes": 0, 
+                            "replyToAuthor": "ouy160"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "老规矩评论区做记录：水饺皇后臧建和去世，香奈儿老佛爷去世。", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "氤氲", 
+                            "userLink": "https://www.zhihu.com/people/42df14b03db9e444709e8225eeeb8ec2", 
+                            "content": "幸存者偏差罢了 你用心找每年都一堆", 
+                            "likes": 4, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "你去翻翻我以往的预测记录再来评论，就你知道幸存者偏差？我们做数据分析的不知道？你去统计看看今年的这些数值是不是明显增长？我辛辛苦苦做的统计，构建的模型就被你一句 幸存者偏差怼没了？去统计完了再来交流。再去看看评论区的其他预测。", 
+                            "likes": 2, 
+                            "replyToAuthor": "氤氲"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>预测补充：</p><p>国内这种今年多雨雪（水患）的事件就不做预测了，比如青海的雪灾事件，这个预测的没有意义，因为从2018年末天气状况就能感受到了。水患我就不预测了，历史数据看出来。</p><p><br></p><p>以下预测80%不符合客观规律，但是我还是想赌一把。</p><p>今年赌的预测的是广州、深圳、香港这些地方会出现下雪的情况。如果香港下雪了这段预测算成功。赌海南下雪我就赌的有点大了，不敢赌海南会下雪。就赌香港会下雪吧。</p><p><br></p><p>今年极大可能会爆出女性群体丑闻事件，尤其什么女权组织、女X组织，以及大批女官员的私密新闻会爆出来。女星的丑闻也会上头条。应该有女明星（或大V，知名人士 女的）今年会出家，说女官员意义不大，因为女官员太多，蒙对的概率极大。</p><p><br></p><p>后面想到啥再做补充，只在评论区做补充了。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "不是已经有女版的天上人间了吗", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "我说的不是这个事件，这是个小事件，我说的是高量级的，比如同时抓获了100多个女性集体犯罪份子，这才是我预测的方向。要不然对不上我的算法。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "马克一下啦", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "美国对抖音下手了 ，又特么的准了。", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "褚时健去世 曾经是红塔集团董事长", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "茯苓", 
+                    "userLink": "https://www.zhihu.com/people/b969ddd948857da585a5d74920a6b89c", 
+                    "content": "[惊喜][惊喜]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "网红去世也可以理解 直播平台关闭，具体应到哪里不知道。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "时尚，董事长去世", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "网红已经过剩了，所以今年网红们的日子不好过了。", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "做抖音的创业不影响吧？ 国内还好", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>创始人不会像娱乐圈那么知名，但是其实知名的也非常之多了。</p><p>例如这个<a href=\"http://link.zhihu.com/?target=http%3A//tech.ifeng.com/a/20190211/45307699_0.shtml\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">比特币交易所创始人离奇死亡，用户近2亿美元</a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>随着气温的走高凶杀事件会持续走高，在国外的朋友要多注意了。什么小事件的枪击与凶杀案就不做预测了。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "氤氲", 
+                            "userLink": "https://www.zhihu.com/people/42df14b03db9e444709e8225eeeb8ec2", 
+                            "content": "建议你先学逻辑学 数据波动表示出相关联的事情并不一定有着客观的关联性", 
+                            "likes": 2, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "你对数据敏感性太差，哈哈哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "氤氲"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>机锋网联合创始人去世：<a href=\"http://link.zhihu.com/?target=https%3A//www.lieyunwang.com/archives/452974\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">讣告！掌聚互动创始人兼CEO李鹏逝世，享年45岁 | 猎云网</a></p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "液態史萊姆", 
+                            "userLink": "https://www.zhihu.com/people/7e182f97aa2138952f363ddffbb5eb8b", 
+                            "content": "<p>这个也算某某领域之父之皇（或创始人）？阈值太低了吧？</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "哈哈哈 哈哈哈 哈哈哈 年底统计一下", 
+                            "likes": 0, 
+                            "replyToAuthor": "液態史萊姆"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "小兔", 
+                    "userLink": "https://www.zhihu.com/people/fcccb8ce7aeb61fbb0785d5e5d630740", 
+                    "content": "教师为什么教师为什么麻烦了呢？", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "因为学校麻烦，所以教师麻烦。", 
+                            "likes": 1, 
+                            "replyToAuthor": "小兔"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "报喜鸟创始人去世", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "广州下冰雹啦！", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "柴狗", 
+                    "userLink": "https://www.zhihu.com/people/c0c745c19dfc2633c70d590ea153e223", 
+                    "content": "你说的在慢慢变成真的唉", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>我倒是很乐意看见我蒙错了，结果居然按着剧本在走。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "柴狗"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "琉璃", 
+                    "userLink": "https://www.zhihu.com/people/bdfe1f24e5faf5a5d8928d0914bb6ecf", 
+                    "content": "房价还在涨啊，真的要到23年吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Veesion", 
+                            "userLink": "https://www.zhihu.com/people/14b18a9960ca9d2d7ed24d71cd1a09d0", 
+                            "content": "<p>房价慢涨一波还是有节奏的，如果今年的股市可以起来，转移下大部分风投的钱，房价应该不会快涨，反之不好说了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "琉璃"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "第二滴雨", 
+                    "userLink": "https://www.zhihu.com/people/bc83c46a33e601c25195c7390867642f", 
+                    "content": "以上每年都有", 
+                    "likes": 15, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "2018年死了那么多 文化界大咖，每年都有？我既然预测当然是量级比往年多。", 
+                            "likes": 2, 
+                            "replyToAuthor": "第二滴雨"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "风痴笑", 
+                    "userLink": "https://www.zhihu.com/people/9cfa77166a3fb162b53d1c0769ed1ce7", 
+                    "content": "[思考]看吧", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>忘记说了，今年会有不少网红主播去世，所以最好低调点。</p>", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "ouy160", 
+                            "userLink": "https://www.zhihu.com/people/5aef299934a2d6d602e20bf55125693c", 
+                            "content": "熊猫直播挂了", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "网红们今年日子不好过", 
+                            "likes": 0, 
+                            "replyToAuthor": "ouy160"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "老规矩评论区做记录：水饺皇后臧建和去世，香奈儿老佛爷去世。", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "氤氲", 
+                            "userLink": "https://www.zhihu.com/people/42df14b03db9e444709e8225eeeb8ec2", 
+                            "content": "幸存者偏差罢了 你用心找每年都一堆", 
+                            "likes": 4, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "你去翻翻我以往的预测记录再来评论，就你知道幸存者偏差？我们做数据分析的不知道？你去统计看看今年的这些数值是不是明显增长？我辛辛苦苦做的统计，构建的模型就被你一句 幸存者偏差怼没了？去统计完了再来交流。再去看看评论区的其他预测。", 
+                            "likes": 2, 
+                            "replyToAuthor": "氤氲"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>预测补充：</p><p>国内这种今年多雨雪（水患）的事件就不做预测了，比如青海的雪灾事件，这个预测的没有意义，因为从2018年末天气状况就能感受到了。水患我就不预测了，历史数据看出来。</p><p><br></p><p>以下预测80%不符合客观规律，但是我还是想赌一把。</p><p>今年赌的预测的是广州、深圳、香港这些地方会出现下雪的情况。如果香港下雪了这段预测算成功。赌海南下雪我就赌的有点大了，不敢赌海南会下雪。就赌香港会下雪吧。</p><p><br></p><p>今年极大可能会爆出女性群体丑闻事件，尤其什么女权组织、女X组织，以及大批女官员的私密新闻会爆出来。女星的丑闻也会上头条。应该有女明星（或大V，知名人士 女的）今年会出家，说女官员意义不大，因为女官员太多，蒙对的概率极大。</p><p><br></p><p>后面想到啥再做补充，只在评论区做补充了。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "不是已经有女版的天上人间了吗", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "我说的不是这个事件，这是个小事件，我说的是高量级的，比如同时抓获了100多个女性集体犯罪份子，这才是我预测的方向。要不然对不上我的算法。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "马克一下啦", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "美国对抖音下手了 ，又特么的准了。", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "褚时健去世 曾经是红塔集团董事长", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "茯苓", 
+                    "userLink": "https://www.zhihu.com/people/b969ddd948857da585a5d74920a6b89c", 
+                    "content": "[惊喜][惊喜]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "网红去世也可以理解 直播平台关闭，具体应到哪里不知道。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "时尚，董事长去世", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "网红已经过剩了，所以今年网红们的日子不好过了。", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "做抖音的创业不影响吧？ 国内还好", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>创始人不会像娱乐圈那么知名，但是其实知名的也非常之多了。</p><p>例如这个<a href=\"http://link.zhihu.com/?target=http%3A//tech.ifeng.com/a/20190211/45307699_0.shtml\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">比特币交易所创始人离奇死亡，用户近2亿美元</a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>随着气温的走高凶杀事件会持续走高，在国外的朋友要多注意了。什么小事件的枪击与凶杀案就不做预测了。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "氤氲", 
+                            "userLink": "https://www.zhihu.com/people/42df14b03db9e444709e8225eeeb8ec2", 
+                            "content": "建议你先学逻辑学 数据波动表示出相关联的事情并不一定有着客观的关联性", 
+                            "likes": 2, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "你对数据敏感性太差，哈哈哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "氤氲"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>机锋网联合创始人去世：<a href=\"http://link.zhihu.com/?target=https%3A//www.lieyunwang.com/archives/452974\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">讣告！掌聚互动创始人兼CEO李鹏逝世，享年45岁 | 猎云网</a></p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "液態史萊姆", 
+                            "userLink": "https://www.zhihu.com/people/7e182f97aa2138952f363ddffbb5eb8b", 
+                            "content": "<p>这个也算某某领域之父之皇（或创始人）？阈值太低了吧？</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "哈哈哈 哈哈哈 哈哈哈 年底统计一下", 
+                            "likes": 0, 
+                            "replyToAuthor": "液態史萊姆"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "小兔", 
+                    "userLink": "https://www.zhihu.com/people/fcccb8ce7aeb61fbb0785d5e5d630740", 
+                    "content": "教师为什么教师为什么麻烦了呢？", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "因为学校麻烦，所以教师麻烦。", 
+                            "likes": 1, 
+                            "replyToAuthor": "小兔"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "报喜鸟创始人去世", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "广州下冰雹啦！", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "柴狗", 
+                    "userLink": "https://www.zhihu.com/people/c0c745c19dfc2633c70d590ea153e223", 
+                    "content": "你说的在慢慢变成真的唉", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>我倒是很乐意看见我蒙错了，结果居然按着剧本在走。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "柴狗"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "琉璃", 
+                    "userLink": "https://www.zhihu.com/people/bdfe1f24e5faf5a5d8928d0914bb6ecf", 
+                    "content": "房价还在涨啊，真的要到23年吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Veesion", 
+                            "userLink": "https://www.zhihu.com/people/14b18a9960ca9d2d7ed24d71cd1a09d0", 
+                            "content": "<p>房价慢涨一波还是有节奏的，如果今年的股市可以起来，转移下大部分风投的钱，房价应该不会快涨，反之不好说了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "琉璃"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "第二滴雨", 
+                    "userLink": "https://www.zhihu.com/people/bc83c46a33e601c25195c7390867642f", 
+                    "content": "以上每年都有", 
+                    "likes": 15, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "2018年死了那么多 文化界大咖，每年都有？我既然预测当然是量级比往年多。", 
+                            "likes": 2, 
+                            "replyToAuthor": "第二滴雨"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "风痴笑", 
+                    "userLink": "https://www.zhihu.com/people/9cfa77166a3fb162b53d1c0769ed1ce7", 
+                    "content": "[思考]看吧", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>忘记说了，今年会有不少网红主播去世，所以最好低调点。</p>", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "ouy160", 
+                            "userLink": "https://www.zhihu.com/people/5aef299934a2d6d602e20bf55125693c", 
+                            "content": "熊猫直播挂了", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "网红们今年日子不好过", 
+                            "likes": 0, 
+                            "replyToAuthor": "ouy160"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "老规矩评论区做记录：水饺皇后臧建和去世，香奈儿老佛爷去世。", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "氤氲", 
+                            "userLink": "https://www.zhihu.com/people/42df14b03db9e444709e8225eeeb8ec2", 
+                            "content": "幸存者偏差罢了 你用心找每年都一堆", 
+                            "likes": 4, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "你去翻翻我以往的预测记录再来评论，就你知道幸存者偏差？我们做数据分析的不知道？你去统计看看今年的这些数值是不是明显增长？我辛辛苦苦做的统计，构建的模型就被你一句 幸存者偏差怼没了？去统计完了再来交流。再去看看评论区的其他预测。", 
+                            "likes": 2, 
+                            "replyToAuthor": "氤氲"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>预测补充：</p><p>国内这种今年多雨雪（水患）的事件就不做预测了，比如青海的雪灾事件，这个预测的没有意义，因为从2018年末天气状况就能感受到了。水患我就不预测了，历史数据看出来。</p><p><br></p><p>以下预测80%不符合客观规律，但是我还是想赌一把。</p><p>今年赌的预测的是广州、深圳、香港这些地方会出现下雪的情况。如果香港下雪了这段预测算成功。赌海南下雪我就赌的有点大了，不敢赌海南会下雪。就赌香港会下雪吧。</p><p><br></p><p>今年极大可能会爆出女性群体丑闻事件，尤其什么女权组织、女X组织，以及大批女官员的私密新闻会爆出来。女星的丑闻也会上头条。应该有女明星（或大V，知名人士 女的）今年会出家，说女官员意义不大，因为女官员太多，蒙对的概率极大。</p><p><br></p><p>后面想到啥再做补充，只在评论区做补充了。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "不是已经有女版的天上人间了吗", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "我说的不是这个事件，这是个小事件，我说的是高量级的，比如同时抓获了100多个女性集体犯罪份子，这才是我预测的方向。要不然对不上我的算法。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "马克一下啦", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "美国对抖音下手了 ，又特么的准了。", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "褚时健去世 曾经是红塔集团董事长", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "茯苓", 
+                    "userLink": "https://www.zhihu.com/people/b969ddd948857da585a5d74920a6b89c", 
+                    "content": "[惊喜][惊喜]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "网红去世也可以理解 直播平台关闭，具体应到哪里不知道。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "时尚，董事长去世", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "网红已经过剩了，所以今年网红们的日子不好过了。", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "做抖音的创业不影响吧？ 国内还好", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>创始人不会像娱乐圈那么知名，但是其实知名的也非常之多了。</p><p>例如这个<a href=\"http://link.zhihu.com/?target=http%3A//tech.ifeng.com/a/20190211/45307699_0.shtml\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">比特币交易所创始人离奇死亡，用户近2亿美元</a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>随着气温的走高凶杀事件会持续走高，在国外的朋友要多注意了。什么小事件的枪击与凶杀案就不做预测了。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "氤氲", 
+                            "userLink": "https://www.zhihu.com/people/42df14b03db9e444709e8225eeeb8ec2", 
+                            "content": "建议你先学逻辑学 数据波动表示出相关联的事情并不一定有着客观的关联性", 
+                            "likes": 2, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "你对数据敏感性太差，哈哈哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "氤氲"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>机锋网联合创始人去世：<a href=\"http://link.zhihu.com/?target=https%3A//www.lieyunwang.com/archives/452974\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">讣告！掌聚互动创始人兼CEO李鹏逝世，享年45岁 | 猎云网</a></p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "液態史萊姆", 
+                            "userLink": "https://www.zhihu.com/people/7e182f97aa2138952f363ddffbb5eb8b", 
+                            "content": "<p>这个也算某某领域之父之皇（或创始人）？阈值太低了吧？</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "哈哈哈 哈哈哈 哈哈哈 年底统计一下", 
+                            "likes": 0, 
+                            "replyToAuthor": "液態史萊姆"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "小兔", 
+                    "userLink": "https://www.zhihu.com/people/fcccb8ce7aeb61fbb0785d5e5d630740", 
+                    "content": "教师为什么教师为什么麻烦了呢？", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "因为学校麻烦，所以教师麻烦。", 
+                            "likes": 1, 
+                            "replyToAuthor": "小兔"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "报喜鸟创始人去世", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "广州下冰雹啦！", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "柴狗", 
+                    "userLink": "https://www.zhihu.com/people/c0c745c19dfc2633c70d590ea153e223", 
+                    "content": "你说的在慢慢变成真的唉", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>我倒是很乐意看见我蒙错了，结果居然按着剧本在走。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "柴狗"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "琉璃", 
+                    "userLink": "https://www.zhihu.com/people/bdfe1f24e5faf5a5d8928d0914bb6ecf", 
+                    "content": "房价还在涨啊，真的要到23年吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Veesion", 
+                            "userLink": "https://www.zhihu.com/people/14b18a9960ca9d2d7ed24d71cd1a09d0", 
+                            "content": "<p>房价慢涨一波还是有节奏的，如果今年的股市可以起来，转移下大部分风投的钱，房价应该不会快涨，反之不好说了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "琉璃"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/55284780", 
+            "userName": "修仙者", 
+            "userLink": "https://www.zhihu.com/people/a18b203fce545918c5a60a0a99aa2991", 
+            "upvote": 12, 
+            "title": "80后即将迎来下一个黄金30年！", 
+            "content": "<p>最近各种文章出来贩卖80后的焦虑，把80后说的比狗惨。好像80后这一代就是从悲剧中长大了一样。这帮废材居然不知道80后曾经叫做“小皇帝”，那个曾集万千宠爱于一身，然后却又苦逼刷副本30多年的80后们，其实是下一个时代对他们的一场磨炼。这么说吧很多文章都缺乏时空观，我说的时空观就是中国老祖宗说的：“不谋万世者不足谋一时，不谋全局者不足谋一域。”做为一名资深80后，我要是吐槽社会上对80后的曲解能吐一天。但吐槽这种事不是我这个80后要做的，我下面要摇旗呐喊的是地球即将切换至80后的时代。我算了一下起码这场巅峰有20年，我又仔细算了一下这个辉煌时期起码有30年。至于我算的准不准，跟我一起玩过的人都知道我有多么准，算到跪下的不是没有，当然咱们的模型首先是数学的，科学的，先进的，然后是卓越的，优秀的，完美的。所以我敢断言80后将在下一个30年，通过之前的磨炼，能把我朝带入世界之巅。正儿八经超越美帝的还真得要看80后这一代。为什么？因为这是时代的选择！</p><p>一般议论文会抓论点，搞论据，死磕中心思想，由于本人的算法模型太先进了，估计超越了现代科学可以接受的范畴。即使古代的国师在世估计也看不懂，毕竟咱实在太优秀了。几个正统的数学家加在一起也不一定看的懂，所以我计划从最简单的角度去说。（此段是装逼段落）</p><p>第一、80后是非常非常爱国的一代，我就不列举70后的移民的数据了。因为80后房子的每一块板砖都是我们拼了老命攒下来的。是无数的加班与无数的白发堆砌起来的，论爱国与拼搏精神我们肯定比不上先烈们抛头颅撒热血来的牛。但80后有多拼呢？那房价就是最好的证明啊。谁敢打我家一块板砖的主意试试？老子肯定跟他拼命，所以80后是又爱国又能拼的一代，这是优秀的基础啊。</p><p>第二、中国人口靠70后是不可能的了，真的年纪大了，我们搞数据分析的人要客观。想人口持续增长可能只能靠80后了。因为80后是经过苦逼高压的一代，能活到现在的基本上都是有担当的。即使离婚率高也是是最有担当的一代，为了家族的荣耀可以放弃结婚证，也要为下一代攒房子。下岗跳楼也不抛楼的这种繁殖精神不是每一代都有的，当然这是少数，咱也不要学习。可这就是为什么90后和70后的女人，都比较喜欢80后的原因吧。死也要给女人和孩子留下些什么。再看看70后的男人真太油腻了，80后刚刚好油而不利还有担当。90后是在顺境中长大的，对危机的处理和应对能力与80后相比真的相差甚远。所以人口增长这种复杂的社会工程项目还是80后来的靠谱些。因为当年他们缺乏兄弟姐妹，孤独寂寞中长大，内心肯定想给自己的下一代一个完整的家庭环境。另外80后做二包、三包这种外包类型的工程已经熟能生巧了，质量杠杠的，Made in Chian 就是最好的证明。所以不给80后充值发展经济说不过去啊。</p><p>第三、现阶段搞黑科技和高科技研究工作的多为80后，这个数据需要我列举吗？你们这些搞技术的自己想想，你这个年纪是不是掌握技术最好的年龄，当然你要是成天搞“我们不是牛逼技术的创造者，我们是牛逼技术的搬运工”咱就不讨论了。我说的是自主研发黑科技的精英们，他们年纪多为80后。</p><p>这个模型简单了吧，爱国、生育能力、黑科技，这可是21世纪的核心竞争力啊。未来社会资源的倾斜自己应该能够感受到了吧？当然我们也不要真把自己当回事了，人家90后通过爸爸的资源可能发展的更快速。</p><p>接下来开始讨论真正的实操，80后的困难咱就不说了，因为太难了没啥好说的。所以讨论怎么干事业比较重要。不要听网上那些三流水货的预测，凡是唱空天朝经济的都是脑子进水了。这种人读书少或者读书把自己看傻了。在接下来的20年里是财富重新分配的20年，是我朝再一次腾飞的30年，也是商业与科技领域交棒的时代。至于其他领域由于本人才疏学浅就不讨论了，我们要讨论的就是科技与商业。</p><p>以下列举一个小案例：</p><p>我再来说一个简单的模型，我们国家已经有了这个星球上最牛逼的支付系统，最牛逼的物流系统，最牛逼的通信系统，也就说我们已经有了全世界最牛逼的现金流、信息流、物流、还有最先进的电商系统。如果我们再有这个星球的最<b>牛逼的制造系统</b>，看好了，重点就在这里！我们如果有了这个世界上<b>最先进的制造系统</b>，那么未来可期！</p><p>60后与70后用他们的智慧与汗水，打造了这个星球上面向未来的商业系统，如果我们这些80后再能打造出这个星球上最先进的制造系统，那么就形成了未来商业生态中完美闭环。这是一个重任，但我们为此而来。至于90后，他们有他们的历史定位与意义，我相信他们一样伟大。低端产能已经去除完了，一个史无前例而又公平的时代即将开启。</p><p>其他的领域有其他的伟大，等待你们去发现。</p>", 
+            "topic": [
+                {
+                    "tag": "80后", 
+                    "tagLink": "https://api.zhihu.com/topics/20106469"
+                }, 
+                {
+                    "tag": "创业", 
+                    "tagLink": "https://api.zhihu.com/topics/19550560"
+                }, 
+                {
+                    "tag": "商业", 
+                    "tagLink": "https://api.zhihu.com/topics/19555457"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "90后不是人人有爸妈的资源的，八零后也不是人人没有的，事实上工作越来越难找，房价越来越高才是常态", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "人人这种个案咱就不说了", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "猪妞帅呆呆", 
+                    "userLink": "https://www.zhihu.com/people/b2bc27191a0cd570b19816d6730c422e", 
+                    "content": "楼主是说未来20或30年是制造业的红利期？国家重点扶持制造业？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "你看今年15万亿去哪里了？", 
+                            "likes": 2, 
+                            "replyToAuthor": "猪妞帅呆呆"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1066339383808069632"
+}

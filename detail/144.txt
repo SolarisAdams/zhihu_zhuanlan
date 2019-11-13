@@ -1,0 +1,381 @@
+{
+    "title": "不周山", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/xi-cheng-27-96", 
+        "https://www.zhihu.com/people/zhang-zhang-zhang-41-81", 
+        "https://www.zhihu.com/people/lingyv", 
+        "https://www.zhihu.com/people/chen-hao-nan-42", 
+        "https://www.zhihu.com/people/wang-shan-shan-84-64", 
+        "https://www.zhihu.com/people/lai-xiao-long", 
+        "https://www.zhihu.com/people/xia-chen-feng", 
+        "https://www.zhihu.com/people/tang-yuan-hui", 
+        "https://www.zhihu.com/people/invince", 
+        "https://www.zhihu.com/people/yang-si-min", 
+        "https://www.zhihu.com/people/fang-59-17", 
+        "https://www.zhihu.com/people/jangwee1", 
+        "https://www.zhihu.com/people/wan-wu-jie-san", 
+        "https://www.zhihu.com/people/guzili", 
+        "https://www.zhihu.com/people/yu-yan-yue-22", 
+        "https://www.zhihu.com/people/yang-qing-meng-80", 
+        "https://www.zhihu.com/people/aaa-79-26", 
+        "https://www.zhihu.com/people/wu-ye-45-74", 
+        "https://www.zhihu.com/people/dong-feng-zao-ji", 
+        "https://www.zhihu.com/people/theta", 
+        "https://www.zhihu.com/people/wang-jian-zhou", 
+        "https://www.zhihu.com/people/gzxp", 
+        "https://www.zhihu.com/people/qing-chen-lao-cang-song-54", 
+        "https://www.zhihu.com/people/chun-long-416", 
+        "https://www.zhihu.com/people/esther-97", 
+        "https://www.zhihu.com/people/li-shi-san-61", 
+        "https://www.zhihu.com/people/wtzhang95", 
+        "https://www.zhihu.com/people/dan-dan-xin-yue", 
+        "https://www.zhihu.com/people/yejingwei", 
+        "https://www.zhihu.com/people/huang-shao-tian-91-38", 
+        "https://www.zhihu.com/people/heptagon", 
+        "https://www.zhihu.com/people/you-ling-yang-guang", 
+        "https://www.zhihu.com/people/xu-tian-jiao-67", 
+        "https://www.zhihu.com/people/MarsJ", 
+        "https://www.zhihu.com/people/liu-dun-qiang-11", 
+        "https://www.zhihu.com/people/fudawei", 
+        "https://www.zhihu.com/people/ceng-yu-34", 
+        "https://www.zhihu.com/people/jack-5-6-75", 
+        "https://www.zhihu.com/people/bai-shi-jie", 
+        "https://www.zhihu.com/people/tyrion-37", 
+        "https://www.zhihu.com/people/helen13-65", 
+        "https://www.zhihu.com/people/yang-zhen-61-69", 
+        "https://www.zhihu.com/people/baotong", 
+        "https://www.zhihu.com/people/ling-yun-81", 
+        "https://www.zhihu.com/people/seamile", 
+        "https://www.zhihu.com/people/zhi-jun-xie", 
+        "https://www.zhihu.com/people/luping-tang", 
+        "https://www.zhihu.com/people/lu-kai-chao-56", 
+        "https://www.zhihu.com/people/zhao-li-52-24", 
+        "https://www.zhihu.com/people/zhu-forrest", 
+        "https://www.zhihu.com/people/cherish-54-69", 
+        "https://www.zhihu.com/people/12121211-65", 
+        "https://www.zhihu.com/people/jenn-29-57", 
+        "https://www.zhihu.com/people/wang-rui-54-41", 
+        "https://www.zhihu.com/people/bewho", 
+        "https://www.zhihu.com/people/xi-li-54-63", 
+        "https://www.zhihu.com/people/wei-zhuang-16-42", 
+        "https://www.zhihu.com/people/xiaoq-41", 
+        "https://www.zhihu.com/people/peng-zheng-feng-64", 
+        "https://www.zhihu.com/people/cc-zxl", 
+        "https://www.zhihu.com/people/ben-tu-wu-ying", 
+        "https://www.zhihu.com/people/yu-peng-hua-10", 
+        "https://www.zhihu.com/people/shu-sheng-51", 
+        "https://www.zhihu.com/people/li-tong-xue-a", 
+        "https://www.zhihu.com/people/jackpgao", 
+        "https://www.zhihu.com/people/victorc-95-90", 
+        "https://www.zhihu.com/people/sai-ba-si-wan-long", 
+        "https://www.zhihu.com/people/aaron-chen-29-55", 
+        "https://www.zhihu.com/people/turing1591", 
+        "https://www.zhihu.com/people/xiao-zhang-27", 
+        "https://www.zhihu.com/people/li-hong-xi-55", 
+        "https://www.zhihu.com/people/diccie", 
+        "https://www.zhihu.com/people/ai-xi-49", 
+        "https://www.zhihu.com/people/spirit-22-32", 
+        "https://www.zhihu.com/people/xu-kai-71-15", 
+        "https://www.zhihu.com/people/yuan-shu-lun", 
+        "https://www.zhihu.com/people/hancy", 
+        "https://www.zhihu.com/people/kylehuang", 
+        "https://www.zhihu.com/people/cao-cong-90-86", 
+        "https://www.zhihu.com/people/li-kai-zhen", 
+        "https://www.zhihu.com/people/xingwudao", 
+        "https://www.zhihu.com/people/MeetTaoTao", 
+        "https://www.zhihu.com/people/vinowan", 
+        "https://www.zhihu.com/people/who-lee", 
+        "https://www.zhihu.com/people/qichao-tang", 
+        "https://www.zhihu.com/people/tian-zhen-4-78", 
+        "https://www.zhihu.com/people/zhang-fei-12-42", 
+        "https://www.zhihu.com/people/wang-ji-zhe-58", 
+        "https://www.zhihu.com/people/wang-li-57", 
+        "https://www.zhihu.com/people/ni-ke-14", 
+        "https://www.zhihu.com/people/zhou-hang-48-11", 
+        "https://www.zhihu.com/people/evan_xiong", 
+        "https://www.zhihu.com/people/huang-ping-chun-93", 
+        "https://www.zhihu.com/people/su-xiao-he-45", 
+        "https://www.zhihu.com/people/gong-lu-qi", 
+        "https://www.zhihu.com/people/cao-gong-gong-51", 
+        "https://www.zhihu.com/people/xiyao-lin", 
+        "https://www.zhihu.com/people/stonefaith", 
+        "https://www.zhihu.com/people/hongyu-liu", 
+        "https://www.zhihu.com/people/wan-yang-75", 
+        "https://www.zhihu.com/people/wangdequan", 
+        "https://www.zhihu.com/people/chen-ming-42-38", 
+        "https://www.zhihu.com/people/klb3713", 
+        "https://www.zhihu.com/people/luo-lei", 
+        "https://www.zhihu.com/people/jinshenhehuan", 
+        "https://www.zhihu.com/people/liang-chen-5", 
+        "https://www.zhihu.com/people/zi-xuan-54-49", 
+        "https://www.zhihu.com/people/zhou-jian-ying", 
+        "https://www.zhihu.com/people/lai-fei-shi", 
+        "https://www.zhihu.com/people/xu-jian-71", 
+        "https://www.zhihu.com/people/metrojs", 
+        "https://www.zhihu.com/people/lanq", 
+        "https://www.zhihu.com/people/chen-jun-61-19", 
+        "https://www.zhihu.com/people/oxygen"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28886858", 
+            "userName": "阿稳", 
+            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+            "upvote": 19, 
+            "title": "寻路推荐（理念篇）", 
+            "content": "<blockquote>原载于本人博客：<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D1621\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">寻路推荐（理念篇） - 不周山</a> 为防资料丢失，转此保存。离开阿里已经三年有多，自己创业以来，因从事领域问题，已鲜少写个性化推荐相关的文章，这也算是前段算法职业生涯的一个总结，也算是那段探索之旅的终篇吧。但对于算法改变世界，人工智能的兴趣却并未衰减过，正值通用性AI、深度学习大行其道，说不定下次再发技术性文章就是这个领域了。</blockquote><p>两年多前，我在阿里技术沙龙讲了一个名为<a href=\"https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNTA4MDc4ODU2.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">“寻路推荐”的topic</a>，介绍了自己在豆瓣时代做的几个典型案例，属于比较务实的一个topic，自己把它定位为“实践篇”。随后一直想整理一个务虚版的“理念篇”，作为前置于“执行”的“思辨”过程，顺便把自己的寻路历程补充完整。</p><p>来到阿里这大半年，无论技术层面还是产品/业务层面，与前厂对比都非常强烈，也极大地刺激了自己的思维。感谢豆瓣给了我独立思考的空间和充分实践的土壤，感谢阿里给了我阅历上的增长，很多想法在这半年里开始成形。适逢@仁基再次邀请我去他的团队做个分享，也不希望带着“负债”离开，就找时间做了个阶段性总结。本来想小规模低调一点，不料会后不少同学得知后强烈要求加场。实在口干舌燥无力再战，就在lastday把分享会上那些尚未完全成熟的观点整理一下，写了下来。</p><h2>产品与算法</h2><figure><noscript><img src=\"https://pic1.zhimg.com/v2-2cbc11222b8048f204148c9bac6effbc_b.jpg\" data-rawwidth=\"593\" data-rawheight=\"232\" class=\"origin_image zh-lightbox-thumb\" width=\"593\" data-original=\"https://pic1.zhimg.com/v2-2cbc11222b8048f204148c9bac6effbc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;593&#39; height=&#39;232&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"593\" data-rawheight=\"232\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"593\" data-original=\"https://pic1.zhimg.com/v2-2cbc11222b8048f204148c9bac6effbc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2cbc11222b8048f204148c9bac6effbc_b.jpg\"/></figure><p>这张图想说明一个问题，互联网几个主要算法领域中人员与底层技术、业务产品之间的相对关系。广告投放是一个问题定义得非常清晰的领域，大部分时候算法人员只需要针对一个确定的指标去优化即可。搜索领域稍前置一些，特别在近年大家都喜欢谈论搜索结果个性化之后。至于推荐，其实我现在更愿意提推荐产品，而非推荐技术。初入门的人总喜欢问学推荐需要学些什么算法，其实算法层面你需要懂的特定性的知识并不多，大部分还是传统的统计学、机器学习的知识和模型，加上一些常用的协同过滤、矩阵分解模型。过多地去钻研那些打着推荐系统幌子的特定新型算法反而是钻牛角尖了，发发paper可以，实用性不高，这个领域有更重要的问题值得你去关注。</p><p>关于产品与算法的关系，我觉得@横云有一句话总结得挺好，产品是1，算法是0（虽然我常跟别人说类似的意思，但我觉得这个描述足够简练传神），没有合适的产品之前，算法对用户几乎不产生什么价值，一旦产品成立，算法能让产品实现质的飞跃。对于跟产品端走得更近的推荐算法而言，这个效应尤其明显。</p><p>这里有一个案例，是我们前阵子跟的手机淘宝商品详情页的同店商品推荐，在一个较长期的纯粹算法层面的ctr预估版本的改进中，点击率提升了几个百分点。后来我们发现该模块的数据来源于两处——算法和卖家自定义。而实际上，后一个来源几乎不起作用，因为不可能有哪个卖家会去维护成百上千的商品之间的关联关系（不知道该产品当初是如何设计出来的）。实际数据对比也显示算法来源产生的点击和成交都三倍于店家自定义的数据结果。如果我们在业务上推动数据源全切换到算法来源，预期带来的效果提升比之前纯粹的算法改进要高出一倍。这个提升不牵涉到任何的模型改进，但需要算法人员保持对业务的关注和理解，而不是一直躲在后面。</p><p>这是个很简单但足够说明问题的案例，实际工作中复杂的产品模型对算法人员产生的误导会更多，我也会更加关注产品本身的定义，它是否是一个适合融入算法的土壤，或者什么形态才是产品和算法最好的契合点，而不是着眼于盲目铺开算法业务。</p><p>说到这里，让我想起几年前中国推荐社区早期热门讨论的一个话题：推荐技术是否能成就一个伟大的产品（公司），就像搜索技术之于google一样。我的观点，基于推荐技术对产品的强烈依附关系，它不会反过来促成一个产品，但它终将成就一种用户习惯（就像现在用户对搜索的认知一样，但个性化影响的用户习惯必将深远得多），特别是在现在的科技发展方向越来越贴近我们自身的时代，这也是一个激励我接下来去继续探索的领域。</p><h2>推荐算法的土壤</h2><p>既然说推荐算法需要有一个合适的产品/土壤才能更好地发挥作用。那么这个土壤是什么，是否我们拥有了锤子，满世界的产品都可以当做钉子去敲？事实上这是很常见的现象，也是我比较反感的无脑个性化的做法。</p><p>在我看来，个性化技术是解决信息过载的工具，一个产品要引入个性化，首先要满足两个先决条件：</p><ul><li>1、item数量足够多</li><li>2、item类型对用户产生的分众</li></ul><p>不满足这两个条件，强行为了个性化而个性化，结果只能是巧妇难为无米之炊。我见过的，满腔热情上个性化，结果很快遇到瓶颈，反过来抱怨算法或者算法人员本身的情况并不鲜见。</p><p>拿我以前做过的电影、图书做对比，就是两个非常不一样的市场。对于第一个先决条件，每年新产出的图书数量至少比电影高一个数量级。而且，图书在种类和分众性上也显然比电影强得多，特别是在国内环境对于电影偏好趋同性高度一致的情况下。两相对比，图书市场明显更适合做个性化，这也是个性化商用技术最早由amazon图书发端的一个原因。而几年前豆瓣各产品线分拆，算法技术也独立发展，图书更强调个性化，电影更强调热门与根据标签筛选，也是同样道理。</p><p>以上论述不意味着电影就不需要个性化，比如netflix，在美帝可被接触到的优质片源更多，用户品味更分散的条件下，个性化仍然是必须的，特别是近年来netflix的业务不仅局限于电影之后。</p><p>一个产品从零开始考虑上个性化，未必要一蹴而就，它有一个判断的渐进路径：排行榜-&gt;分类排行榜-&gt;分人群个性化-&gt;针对个人的个性化。如果前一个方案能解决问题，就没必要走到下一步。即便走到最极致的个性化，之前几步的解决方案也需要同时存在于系统之中。</p><h2>算法效果的度量</h2><p>我经历的两家公司正好代表了两种不同类型的推荐诉求——基于用户社区的兴趣型推荐，和以商业目标实现为前提的推荐（市面上还有其它类型差别较大的推荐）。注意到它们的差异，并采取不同的措施是件相当有价值的事情。</p><ul><li>前者更关注长期的效果，用户是否愿意在你的社区留下来；后者更关注短期效果，用户在当前session是否会形成交易</li><li>前者更关注user；后者更关注uv。</li><li>推荐新item的重要性，前者是明显高于后者的，因为用户的主要诉求就是发现。曾经做豆瓣fm的时候，有一个dj的算法指标效果非常好，但它无法单独工作，因为它会导致用户的兴趣迅速收敛，只能在某个圈子里打转。</li></ul><p>算法效果的度量方式往往决定了你努力的方向，面向不同类型的推荐，其中一个重要措施，就是不要采用同样一套标准去衡量你的工作结果。这点我在很多技术paper中都没有看到有成系统的论述，这跟paper通常只论述通用性问题而非特定性问题有关，于是导致了在实践中永远只看到ctr、precision/recall、rmse那样的衡量指标。那是衡量一个单一算法，而不是一个推荐系统的指标，或者说，不是衡量跟它绑定在一起的推荐产品的指标。要推动产品和算法形成一个适合自身的指标非常困难，需要多方人员的认知并达成共识。</p><p>当你在做一个用户产品的时候，算法指标会变得尤其苛刻，直白一点，个性化，是要让所有人都满意，而不是为了统计上80%人的体验而牺牲掉剩下20%人的体验。这点我有深刻的体会，以前做豆瓣fm的时候，从算法整体指标来看效果还不错，但总是会有用户抱怨这些那些的问题。后来我才意识到，一个连《统计数字会说谎》都没有告诉我的道理——统计数字的代表性导致的局限性。一个反映了80%的用户在80%的时间里觉得满意的指标，对于一个号称个性化，并且是面向挑剔的兴趣社区的个性化，是远远不够的。</p><p>另一个案例比方说淘宝搜索个性化，如果我们衡量的指标是ctr、cvr，只要我们照顾好那80%大众用户和爆款商品，就能用最简单的方法获得最好看的统计数字指标。然后用他们产生的数据继续训练我们的模型，同时强化了这个结果。于是那20%（或许价值巨大）的用户永远也无法进入我们的视野，这终归是个蹩脚的个性化系统。</p><p>我又想起那篇文章<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D1557\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">To Personalize or Not: A Risk Management Perspective</a>，是否所有人都需要个性化。或者我可以理解为，目前的个性化满足不了所有人的要求，有些用户宁可不要个性化。</p><h2>算法人员的推动力</h2><p>算法工作跟工程开发工作最大的不一样在于：算法产出是不可被直观测量的。如果流程正常，工程开发的产出是有产品文档、设计稿来验证的，功能缺陷、交互/界面有出入，一目了然。而算法，特别是个性化算法，是无法通过直观的手段来测量的。传统的测试手段只能测量其可用性，而不能测量其有效性。</p><p>这点差异导致了产品人员无法像管理开发效果那样管理算法效果，也是导致优秀的算法产品人员匮乏的重要原因。这不应认为给算法人员带来了什么优越感，相反，要使得自己的工作产生合理的价值，算法人员更应该站出来，主动填补算法与产品之间的空隙。因为正如第一点所说，算法价值的实现离不开产品。</p><p>要么有一个懂算法的产品经理，要么有一个能用产品语言说话的算法工程师。在我看来，后一个人必须具备的素质，除开工程能力和算法能力之外，还有对业务本身的理解，对产品流程的认知，以及良好的沟通能力、逻辑思维能力，这也是我招聘算法工程师的一个额外的标准。</p><h2>人与推荐系统的相互作用</h2><p>算法都依赖于数据，而推荐算法是一个极端依赖人与系统交互数据的实现。这里的“人”包括内部的编辑、运营人员，也包括外部最广泛的用户。内部的人员可以为算法产生有价值的推动，比如pandora的genome项目、精选集的产生、负样本的收集、推荐规则从经验到机器的总结和迁移；另外，外部的用户与系统交互产生的数据是否无偏地覆盖了用户的偏好？</p><p>有经验的人都知道，数据质量决定了算法效果的上界，算法模型的变换、算法参数的调优只不过是在努力逼近这个上界而已。所以，要想让你的算法产生更好的效果，有两种途径：优化算法；或者优化数据——具体到推荐领域，主要是优化人与系统的交互数据，但这不是单纯的算法问题。</p><p>目前大部分的优化都集中在算法层面上，而忽略了数据优化。一大原因是产品和算法人员的割裂，各自管理着自己擅长的事情。一个典型的例子是：在一个孤立的算法系统中，用户接收到的数据大部分来自于系统的推荐，系统收集到的也是用户基于这份数据的反馈信息，基于这个数据去训练模型，再度强化了之前的结果。用自动化系统的术语来说，这是一个正反馈加强的系统，而不是一个负反馈纠错的系统。豆瓣fm由于产品形态上整个音乐生态系统不完备，用户反馈的数据大都是基于系统推送的结果，就存在着这方面的问题。电商搜索引擎这个问题也很严重，在搜索是主要路径且搜索结果ctr目标的导向下，爆款会不断强化自身的爆款特性，导致更多优质数据无法进入模型的筛选范围。另一个例子是我以前所在的微淘产品，由于kpi的压力，运营做了很多无节操的误导用户关注微淘账号的事情，导致整个微淘关注数据基本不可用。</p><p>一言蔽之，不要过度迷信算法的作用，要充分利用产品和生态的力量。数据优化的增益能极大提升算法优化的上界。</p><h2>尾声</h2><p>不知不觉吐了不少文字，好像比我当天讲的还要多。其实每个子标题都可以独立成文，都放一起有点太拥挤。但务虚的东西终归难以展开太多，就像无根之木难以拔高一样，再谈深入就变忽悠了。希望将来的实践把根基打扎实，能有机会逐个展开。</p>", 
+            "topic": [
+                {
+                    "tag": "个性化推荐", 
+                    "tagLink": "https://api.zhihu.com/topics/19569242"
+                }, 
+                {
+                    "tag": "推荐系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19563024"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "黄海均", 
+                    "userLink": "https://www.zhihu.com/people/d4ee19666cd6c71befe34174160bfafa", 
+                    "content": "<p>最近很高产啊！</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "阿稳", 
+                            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+                            "content": "<p>都是存货搬家的~</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "黄海均"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "雕栏玉砌", 
+                    "userLink": "https://www.zhihu.com/people/b043c1767fc22d047af518cf6f05905b", 
+                    "content": "正反馈加强系统那里有同感，其实就像经常听到的2e （exploration  exploitation）有些推荐算法完全是过分消费用户的个性化数据了，导致用户只在一个圈子里打转，长期来看，不紧指标不好看，用户也会反感，所以对用户兴趣的探索就很重要了，也就是exploration", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "八汰", 
+                    "userLink": "https://www.zhihu.com/people/704901eddc71effd9bb2d62460a4e949", 
+                    "content": "<p>没有见过面。听主公、横云以及好多人都提过阿稳。读这一篇，肃然起敬！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28886707", 
+            "userName": "阿稳", 
+            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+            "upvote": 17, 
+            "title": "算法工程师的三重境界", 
+            "content": "<blockquote>原载于本人博客：<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D1552\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">算法工程师的三重境界 - 不周山</a>  为防资料丢失，转此保存。写得比较务虚，也是有感而发。</blockquote><p>王国维的人生三重境界快被人们念叨烂了，资深文艺青年都已经不爱提这个，但把这种分法做个跨学科应用，倒是能看到一些新奇的东西。</p><p>十一前帮新东家在北京做了一轮校园招聘的算法面试官。虽然面试多年，但这还是我第一次如此密集地从事这项工作——一周时间里马不停蹄地面试了数十名候选者。长时间做一件事情，再结合原来类似的背景和经历，通常会发酵出一些东西，于是就有了下面的文字。</p><p>极少一部分玩票的人这里就不提了，剩下大部分的候选人其实还在这个职位的门槛外徘徊，处于“独上高楼，望尽天涯路”的摸索阶段。比较初级的比如某些工程出身但没有信心投开发的候选人，看着这个稍显陌生的工程岗位觉得可以来碰碰运气（类似于以前的一个玩笑：不知道自己该干什么的都投产品经理去了）。进阶一点的有啃过一两本相关书籍，上个两门课，做过两个玩具项目的学生，问一个问题通常都能口若悬河地说上一通，但你让他把刚才说的问题和方案用形式化的语言来表述一下，就只能干瞪眼。你把纸和笔都推到他面前要描述和推演，却发现得到口述内容的语音识别版。我挑人通常对候选人的形式化思维能力有要求，这也是为什么我认为具备基本的数学能力是多么重要的原因。因为算法工程师跟传统的开发工程师不同，很多时候并没有一个现成的定义好的问题在等待着你，你通常需要先把需求方的自然语言翻译成形式化的语言，然后再翻译成机器编码（这部分扯起来就很多了，将来再撰文详述）。当然也有对这个职位充满了热情，但明显还没准备好的同学。这样的候选人只要对眼缘，我一般都会加以劝导，无论是重新思考自己的职业发展方向，还是进行合理的能力储备，都比这样凭着热血碰钉子强。这个阶段的同学，看山是山，看水是水，习惯用生活语言来描述问题，分析问题，而未懂得把握抽象在其后的共性，并用形式化的语言把问题和自己的想法表达出来。</p><p>合格的候选人通常经过一些学术或项目的锻炼，不知觉地跨过了第一阶段，真正地进入到这个门槛里，懂得了算法和抽象的乐趣，并乐在其中，“衣带渐宽终不悔，为伊消得人憔悴”。这批人通常已经具备了成形的形式化逻辑思维习惯，对于面临的实际问题，第一反应就是“如何量化”，“如何建模”，“已知变量是什么”，“目标函数是什么”，至不济的，也会用自己做过的项目作为一个模子去套新的问题。他们拥有成熟程度不等的知识体系，凡事都能套入到自己的体系中去表达和推演，在抽象层面对问题进行解答。但这也是一个拿着锤子满世界找钉子的阶段，每个人都认为自己的锤子是万能的，所有问题都要代入到自己熟悉的模型中去求解，于是往往能看到一些钻在牛角尖里绕不出来的面试者。比如一个其实不难的统计问题，想得太多，有时就会被面试者套入假设检验，有时是分类问题，有时又变成贝叶斯推断。这个阶段，看山不是山，看水不是水，有点痴狂，有点自信，有点执着，有点迷失。</p><p>总有一些人能摆脱自身知识形成的桎梏，跳出自己模型框框，回归到问题本身，达到了看山还是山，看水还是水的层面。他们在具备很好专业素质的前提下，不被自己的专业所束缚，他们首先关注问题的起点和目标，并通过自己的已有甚至未有的知识去描绘中间的路径，为问题定义出合理的边界和解决路径。能达到这个层面的，已不多见。即使在实际工作中，也有大量的第二层面的解法，面对问题，通过不断地加入模型，使得架构变得复杂。而只有回归到问题本身，从出发点进行分析，千锤百炼后，才能走出自身的困境，享受“蓦然回首，那人却在灯火阑珊处”的惊喜。</p><p>相对于能力划分拥有比较清晰标准的传统开发工程师来说，算法工程师是一个相对较新的职位，学校里也没有一些定义明确的培养课程（比如c/java、数据库、数据结构），可以据此来对候选人的能力进行衡量，所以对其能力的界定还比较模糊。这里我从面试官的角度来描述自己对这个问题的思考——除了基本的工程能力之外，还有哪些素质是必要的。这是个很大的值得探讨的话题，这里只是开了个头，表达得还很模糊，不足够具体和系统，属于随性的念叨。将来有机会我还会结合着自己的实践经历做进一步阐述，也欢迎大家在这里发表自己的见解。</p>", 
+            "topic": [
+                {
+                    "tag": "算法工程师", 
+                    "tagLink": "https://api.zhihu.com/topics/19656756"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "AA大金矿", 
+                    "userLink": "https://www.zhihu.com/people/154fc3fb99a14f633387db937780b079", 
+                    "content": "写的很深刻。支持", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "王卡卡", 
+                    "userLink": "https://www.zhihu.com/people/3bb552000d60474207a3821c4bd84c2f", 
+                    "content": "<p>互联网公司的算法工程师还没有完整定义，对从业者的压力很大</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28640153", 
+            "userName": "阿稳", 
+            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+            "upvote": 0, 
+            "title": "推荐系统里，评分的描述应该是这样的", 
+            "content": "<blockquote>原载于本人博客：<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D565\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">推荐系统里，评分的描述应该是这样的 - 不周山</a> 为防资料丢失，转此保存。这是当时的一些小感想，到现在依然觉得是正确的。一些细微的改动，无论对于用户体验，还是数据工作者的产出，都能带来明显的变化。</blockquote><p>比如，对一本书的评分，下面列出两个描述方式，前者是我所提倡的，括号里的是豆瓣现在采用的。</p><p>1分：我很不喜欢（很差）</p><p>2分：我不喜欢（较差）</p><p>3分：还行（还行）</p><p>4分：我喜欢（推荐）</p><p>5分：我非常喜欢（力荐）</p><p>一个显然的区别是：前者是从主观出发的，后者则主要是基于客观情况的。前者表达了自己对对象的喜好程度，后者表达的是基于自己的评判尺度下对象的质量好坏。</p><p>进而造成的区别是：从前者的情感诉求出发，得到的数据结果是反映对象之间类别的区别的；而从后者的情感诉求出发，得到的数据结果是反映对象之间质量的区别的。前者可以用来对对象进行分类，进而对人群进行分众；后者的分类只是对对象质量的高低分类。</p><p>在书籍领域上述现象不算明显，因为看一本书的成本很大，我在看之前已经作好了题材上的区分：我喜欢什么样的所以我才去看什么样的。而对于电影、新闻这种大众化的素材，这种现象会很明显。我已经观察到用收藏与否来替换打分作为计算依据，效果不会相差太多。这就是说，推荐系统变成一个0-1系统，分值已经没有产生太大的影响。</p><p>对于大部分用户，即使他不喜欢＜红楼梦＞，你提示说1分是“很差”，社会知识也会告诉他们不能这样做（以下衍生多种可能，请随意想像，比如1分变3分，比如收藏了不评分，再比如干脆不收藏了），但如果你提示说1分是“我不喜欢”，他会欣然而往。错误的解释系统会导致错误的推荐系统，尽管这似乎还不太明显，因为我们还没实现更好（没坐过宝马之前，每个人都会为夏利而欢呼，但我们需要进步）。</p><p>推荐系统里，解释是很重要的，这包括推荐后的解释，还有不太为人所关注的：推荐前的解释。</p>", 
+            "topic": [
+                {
+                    "tag": "推荐系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19563024"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28639978", 
+            "userName": "阿稳", 
+            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+            "upvote": 12, 
+            "title": "[译]推荐引擎反思", 
+            "content": "<blockquote>原载于本人博客：<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D50\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[译]推荐引擎反思 - 不周山</a> 为防资料丢失，转此保存。这是一篇很有启发性的文章，不再是数学上的优化思路，而是引入心理学，像锚点效应，提供了系统优化的另一个方向。毕竟产品是做给用户使用的，掌握些心理学，就能发现更多可能性。这已经不是工程范畴的优化，而是产品层面的。</blockquote><ul><li>原文链接：<a href=\"https://link.zhihu.com/?target=http%3A//www.readwriteweb.com/archives/rethinking_recommendation_engines.php\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">readwriteweb.com/archiv</span><span class=\"invisible\">es/rethinking_recommendation_engines.php</span><span class=\"ellipsis\"></span></a><br/><br/>注：原文先是介绍了netflix的竞赛和推荐系统的分类，这些内容都被我略过，直接翻译了最主要的问题。所以，下文中提到的“竞争者”就是netflix竞赛的参与者，而“第五类算法”就是指如下四类推荐算法之外的第五种。<br/><b>四类推荐算法：<br/></b>    * 个性化的推荐：基于用户过去的行为作出推荐。<br/>    * 社会推荐：基于相似用户的过去的行为进行推荐。<br/>    * 基于item的推荐：基于事物间的相似性进行推荐。<br/>    * 前面三种方法的混合。<br/><br/><b>车库里的人<br/></b><br/>推荐问题的复杂性在于它广泛的可能性。这即是说，很难精确地确定事物的哪一个基因适用于某个具体的人，很难指出一部电影或音乐的哪一部分特点让我们给它打5分。要转变技术人员的思维是很困难的。《连线》文章上提到了一个竞争者使用的是一个非常罕见的计谋来使得他的算法能有效运行。<br/><br/>他是来自伦敦的Gavin Potter，昵称是“车库里的人”，他的方法的依据是人类的惰性。显然，对电影的打分依赖于我们对之前看过的电影的打分。例如，如果你连续看了三部电影，并给它们打了4分，当你看到下一部稍好一点的电影时，会给它打5分。反之，如果你连续地给三部电影打了1分，那么当你看到如上一样的一部5分电影时，你却会打出4分。<br/><br/>当你还在思考这是不是真的的时候，你会发现这类算法现在已经占据了第五类推荐算法的位置，并在不断地发展当中，而其它的算法则发展甚少。通过一点心理学的知识来增强数学公式无疑是个好办法，这是我们接下来要谈及的。用过滤器来取代推荐系统<br/><br/>这样的情况曾多少次发生在你的身上：一个朋友给你推荐了一部电影或一个宾馆，你高高兴兴地去了影碟店或宾馆，但却败兴而归？很多！很显然，炒作使得期望的门槛提高了，反而更多的可能是带来失望。以数学语言来说，这种类型的错误被称为假阳性。现在考虑另一种情况，如果你的朋友不是给你推荐一部电影，而是告诉你你不会喜欢某部电影的，所以不用花钱去租它回来了；这种情况下会发生什么？<br/><br/>这种情况会带来些什么坏处呢？不会有什么坏处，因为很可能你就不会去看这部电影。但即使你看了，并且你也喜欢它，你也不会感觉到有负面的情绪影响。这个例子说明了我们对于假阳性和假阴性错误的不同反应。假阳性使我们感到沮丧，但假阴性不会。以过滤代替推荐的思想就是为了平衡这样的一种现象。<br/><br/>当Netflix作出推荐时，它总会有一个出错的比率。或早或晚地，它总会有出现差错的时候，然后会向你推荐一部你不喜欢的电影。如果推荐系统不是这样做，而是向你展示一堆新的片子，同时附带一个按钮：把那些我不喜欢的过滤掉。算法是一样的，但用户感受却大不一样的。<br/><br/><b>实时过滤<br/></b><br/>在实时新闻的时代，这种想法变得越来越重要与强大。我们越来越需要对新信息进行连续地过滤。拿我们的RSS阅读器来说，过滤是我们每天都得干的事情。我们从新闻流的角度来看这个世界，其中过去的事情是不相关的。我们不需要推荐，因为我们已经订阅得太多了。我们需要的是噪声过滤。需要一个算法会说：“嘿，你一定不会喜欢那个东西的，隐藏它吧。”<br/><br/>如果机器能做到那样，积极地把我们周围无用的信息扔开，剩下的我们就可以自己来处理了。从邮件过滤系统来借鉴一下，如果我们身边的工具都有一个按钮：“给我把这个过滤一下”，可能这个功能还是默认启用的，那我们就能做更多的事情了。<br/><br/><b>结论<br/></b><br/>构建一个完美的推荐引擎是一件非常复杂的任务。不管用什么方法，协同过滤或基于item相似的推荐都是不会被原谅的商业工具，假阳性般的错误会很快地让用户流失。可能把心理学应用于这个问题可以让用户懂得感激这些复杂的算法所做的事情。如果机器过滤掉那些我们一定不会喜欢的，而不是给我们推荐一些东西，我们可能会更加地宽容和给予更多的理解。</li></ul>", 
+            "topic": [
+                {
+                    "tag": "推荐算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19580544"
+                }, 
+                {
+                    "tag": "个性化推荐", 
+                    "tagLink": "https://api.zhihu.com/topics/19569242"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "一介屁民", 
+                    "userLink": "https://www.zhihu.com/people/466c159f4aebf7382c21fc81576f5ce5", 
+                    "content": "其实是一款测智商引擎", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28495118", 
+            "userName": "阿稳", 
+            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+            "upvote": 16, 
+            "title": "向量化与并行计算", 
+            "content": "<blockquote>原载于本人博客：<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D945\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">向量化与并行计算 - 不周山</a> 为防资料丢失，转此保存。这是当时参加第三届R语言会议的演讲稿整理。R语言经过多年的发展，R会议也是越开越大，当年一个大教室，不到百人的参会规模，现在发展成为一个行业级别的大会议了，能见证这一切还是很感慨。向量化的思维方式对我个人思考问题的思路启发很大，也愿意多次跟大家分享这里面的心得。</blockquote><p>应用场景决定知识的储备与工具的选择，反过来，无论你选择了什么样的工具，你一定会努力地把它改造成符合自己应用场景所需的那个样子。从这个道理来说，我选择了R作为数据挖掘人员手中攻城陷池的那把云梯，并努力地把它改造成自己希望的那个样子。</p><p>我最初接触到专门用于科学计算的工具，是大名鼎鼎的matlab，正如它帮助了无数中国学生顺利毕业的赫赫功劳一样，它是我对于向量化计算的启蒙老师。用过matlab的人都会对其循环结构的效率无法忍受，不知道是否有意而为之的这样的设计缺陷，迫使人们要想真正地用好它，就得接受它提供的向量化计算的思想，在掌握了这个专门为高效计算而设计的计算思想之后，你会发现自己获得的不单是计算效率上的极大提升，还有算法设计思想上高屋建瓴式的跨越。</p><p>毕竟matlab是更适合于研究领域的商业软件，而且是闭源的，毕业后不久，我就选择了R作为matlab的替代品，看中的正是R在向量化计算支持之余的灵活性及丰富的第三方库，似乎天生就是数据挖掘人员最趁手的那把刀。因为我需要的就是这样的一个计算环境，它不单是一门编程语言，也不必是一个已经很完备的工具。它就是这样的一个环境，拥有很多的各领域相关的工具包，我可以不必操心太多过于底层的或与工作主题没有直接关系的问题，同时当不满意时我又具有对它最自由的掌控。实际上，我寻求的就是matlab与C之间的一个平衡点。R是一个面向科学工程计算特别是统计计算的工具，与matlab一样，其循环结构的效率也无法让人满意，所以，我们必须利用向量化的编程范式，必要时采用并行/分布计算（因为，向量化本质上就是一种并行计算，也是我们通常理解那种并行计算的天然先驱）。而这一切，在R面前，都不是什么问题。</p><h3><strong>所谓向量化</strong>：</h3><p>wikipedia中的定义是：</p><blockquote>Vectorization is the more limited process of converting a computer program from a scalar implementation, which processes a single pair of operands at a time, to a vector implementation which processes one operation on multiple pairs of operands at once。</blockquote><p>向量化计算是一种特殊的并行计算的方式，相比于一般程序在同一时间只执行一个操作的方式，它可以在同一时间执行多次操作，通常是对不同的数据执行同样的一个或一批指令，或者说把指令应用于一个数组/向量。</p><p>像R和matlab这样的现代科学软件包，都会以向量化作为其计算的基本特点（即使python的numpy包也是如此），所以在R的基本运算中，随处可见向量化计算的影子，以下仅举几例，以让读者了解向量化是多么地简单和直观：</p><blockquote><p>向量取值：V[1:10]  （把get操作应用于向量V的不同元素）</p><p>向量赋值：V[1:10] &lt;- seq(1,10)  （把set操作应用于一个序列与向量V的对应元素）</p><p>apply系列：lapply(V, mean)  （跟python的map函数类似，是向量化最直接的表达形式）</p><p>矩阵运算：A + B；A %*% B  （矩阵的基本运算也是向量化的典型形式）</p></blockquote><p>这些操作很常见，以致于我们都没有意识到这就是一种有助于提高计算性能的向量化计算，更忘了由此而把这样的思想扩展到我们算法设计的更多方面。熟练使用它，你获得不单是计算上的好处，还有对问题理解上的整体性。</p><h3><strong>向量化的处理方式是现代计算机的一个特点，无论硬件还是软件上，都提供了支持。</strong></h3><p>硬件上的支持：Intel’s MMX, SSE, and ARM’s NEON instruction sets support such vectorized loops.（摘自wikipedia：<a href=\"https://link.zhihu.com/?target=http%3A//en.wikipedia.org/wiki/Vectorization_%28computer_science%29\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Vectorization - Wikipedia</a>）</p><p>软件上的支持：著名的线性代数运算包blas对矩阵运算的自动并行化。例如，在R里执行如下的简单命令，在不需要作任何额外工作的情况下，就可以自动地实现并行化（前提是你的机器安装了blas）。</p><br/><div class=\"highlight\"><pre><code class=\"language-text\">1\n2\n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">M = matrix(5000*5000, 5000, 5000)  ## 生成一个5000*5000的矩阵\nS = M %*% M    ## 作矩阵乘法，在多核并安装了blas的机器里，会自动并行</code></pre></div><h3><strong>应用向量化的思维方式去解决问题：</strong></h3><p>当我们习惯了用C语言的单步循环的思想来思考问题的时候，要把思维切换到向量化的方式是件比较困难的事件，以下显示一个例子，看用向量化的思想是怎么去解决问题，这样的描述又是多么美。</p><p>任务：对于稀疏矩阵M，让其第i(i＝1…m)行的各非零元素减去某个值w[i]。</p><p>正常的循环式思维的解决方案比较直观，作两层循环，让第i行非零元素减去w[i]即可，但这样的操作在脚本语言特别是像R这样的科学计算语言里执行效率不高，而当你面对的是一个稀疏矩阵时，问题又会变得复杂。</p><p>向量化的解决方案如下：</p><br/><div class=\"highlight\"><pre><code class=\"language-text\">1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">## 利用向量化的计算范式设计算法\n## 实例：稀疏矩阵不同行的各元素减去某个值\n \nlibrary(Matrix)\ngenerate &lt;- function(nr, nc, sr){\n  L = nr*nc\n  M = Matrix(data=0, nrow=nr, ncol=nc)\n  idx = sample(1:L, as.integer(sr*L))\n  val = rnorm(sr*L, mean=1)\n  M[idx] = val\n  return(M)\n}\n \nM = generate(10000, 5000, 0.1)  ## 生成稀疏矩阵\nV = rnorm(10000)  ## 矩阵各行减去的值\nN = M\nN@x = 1  ## 复制并设置矩阵\nA = Diagonal(nrow(N), V) %*% N  ## 把V的值放到新矩阵的各行非零单元中\nM@x = M@x - A@x  # M = M-A</code></pre></div><p>除去数据准备阶段，真正用于解决问题的只有第16到19行的4行命令，十分短小精悍，但需要一定的线性代数知识去理解这个过程。</p><h3><strong>从向量化到并行计算：</strong></h3><p>除了计算机硬件与科学计算包的支持外，向量化计算还是并行计算的天然先驱，如果你向量化后的算法效率仍然不佳，可以考虑把它并行化。</p><p>R那浩如烟海的第三方包里提供了大量<a href=\"https://link.zhihu.com/?target=http%3A//cran.r-project.org/web/views/HighPerformanceComputing.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">支持并行计算的包</a>，这里选择的是snowfall这个包，它可以简单地构建一个计算集群，把计算并行分布到集群的不同节点进行计算。以下通过一个例子比较循环，向量化以及并行三种方式在效率上的差异。</p><p>实战案例：for循环，apply，snowfall（并行）的比较。</p><p>任务：对一个矩阵每列排序并取回前10个。</p><br/><div class=\"highlight\"><pre><code class=\"language-text\">1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">library(snowfall)\n \nmysort &lt;- function(x){\n#    replicate(2, sort(x))\n    return(sort(x)[1:10])\n}\n \ndo_for &lt;- function(M){\n    ans = matrix(0, 10, ncol(M))\n    for(i in 1:ncol(M)){\n        ans[,i] = sort(M[,i])[1:10]\n    }\n}\n \ndo_apply &lt;- function(M){\n    return(apply(M, 2, mysort))\n}\n \ndo_snowfall &lt;- function(M, ncl){\n    sfInit(parallel=TRUE, cpus=ncl)  ##初始化集群环境\n    ans &lt;- sfApply(M, 2, mysort)  ##把任务分发到各个slave\n    sfStop()  ##关闭集群\n    return(ans)\n}\n \n#M = matrix(rnorm(10000000), 100, 100000)\n#system.time(ans &lt;- do_for(M))\n#system.time(ans &lt;- do_apply(M))\n#system.time(ans &lt;- do_snowfall(M, 4))  ##用4个核并行</code></pre></div><p>在我的服务器里运行的结果是这样的，do_for循环基本不可用，do_apply可以在一分钟内运算完毕，而do_snowfall的时间为do_apply的一半。当取消第4行的注释，即增加各个子任务的计算负荷后，do_apply与do_snowfall的计算时间都增加，而do_snowfall的时间变为do_apply的三分之一。</p><p>更正：感谢suckbunny指出，apply系列不是向量化的实现，其实是对for循环的抽象封装。以上这个实验的do_for函数之前有个代码问题，导致运行时间过长，实际for和apply在这个例子里的效率相差并不大。但在更复杂的情景下，还是建议使用apply系列而不是直接写for循环，因为由于R的copy-on-modify，自己控制循环有可能会引入不必要的内存拷贝，而且apply系列在形式上也更符合函数式语言的写法。</p><p>结论1：向量化的计算方式比起传统的循环计算有极大的性能优势。</p><p>结论2：由于并行的过程为：master把任务分解，分发到多个slave进行运算，slave返回结果到master。所以多核计算并不一定比最优的单核计算快，要看性能的瓶颈在slave还是在master上。</p><p>结论3：适合并行/分布计算的情景主要有两种：一是各slave的计算耗费为瓶颈，并行到多核能减少计算时间，越是slave耗时型的计算并行收益越大；二是一台机器的内存不足以进行整体的计算，分布到多台机器计算能把内存占用分开，这种情况下即使分布计算比单机慢也是可以接受的。</p><h3><strong>与</strong><strong>map-reduce</strong><strong>扯扯关系：</strong></h3><p>Map-reduce是google三驾马车之一，试图把所有计算都转换为map和reduce两种基本的运算方式，而达到良好的可并行性，从而实现计算上的可扩展性。虽然并不是每个公司都能实现像map-reduce那样的巨型计算框架，但是如果你能熟练地使用向量化的思想设计你的算法，那其实就是一个map-reduce的超集。向量化计算这个编程范式比map-reduce要复杂，但本质上都是使用了两种基本的运算，如果你把apply想像为map，把矩阵或矢量的乘运算想像为reduce，它们就是一体的。你总可以把向量化的计算通过apply和矩阵运算来实现，如果有一天你拥有了一个类map-reduce的计算框架，根据它们的对应关系，你的算法迁移就会非常地方便，甚至，你可以在你已经实现的向量化算法集当中抽取出一些共性来搭建自己的map-reduce系统。</p><h3><strong>别忘了一切优化的终极准则：过早的优化是魔鬼。</strong></h3><p>并行计算或分布式计算是为数据量与计算量日益膨胀的情况下所必须考虑的，但它的逻辑结构与维护成本也要高得多，如果你的应用场景还没达到需要进行并行或者分布计算的程度，没必要淌这趟混水。但是，向量化计算的编程范式却是很重要的，一个用向量化计算方式实现的算法，不但在当时获得了效益，而且其可扩展性也必定是强悍的，因为正如前文所述，向量化计算就是并行计算的天然先驱。除此之外，经常用向量化的方式来思考你的问题，你一定能感受到一种整体之美。</p><h3><strong>后记：</strong></h3><p>以上内容是从我参加第三届中国R语言会议的讲稿中整理出来的，以讲向量化的思想为主，R语言为辅，当时的PPT可以<a href=\"https://link.zhihu.com/?target=http%3A//www.slideshare.net/wentrue/r-4521206\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">从这里下载</a>（PPT上内容比较少，可以下载下来看备注部分）。我一直认为，通过这样的讲演，除了布道，更重要的是能够对自己一段时间以来的思考与工作做一个总结，其间无论是从自身整理还是从他人的提问，自己从中都能有所收获。根据当场及事后一些听众的疑问，我后续整理了下面一些内容。</p><p>如果问题很难向量化怎么办：并不是说R中不能使用for式的循环，事实上只有一层的for循环，并且对性能没有太大的影响的话，是不需要作过多的优化的。如果是两层for循环，可以考虑用apply去掉一层，如果有三层的循环，那很有可能就是你的算法有问题了。如果你的问题确实很难转换成向量化的形式，又或者说你已经懒于这样去做，那么不妨把最难于转换的一部分用C来实现，然后给R做一个接口，剩下的再考虑向量化会简单很多。我提倡的是结合R自有函数与向量化思想进行编程，因为R的自有函数大多都是用底层语言实现好的，效率有保证。</p><p>有人疑问是不是所有算法都可以并行：非基本的算法或多或少都是可以并行的，像kmeans，虽然从整体来说是一个迭代依赖的非并行式算法，但在每一步的迭代中却是可以实施并行的。应用map-reduce框架基于这么一个假设，你的问题，总可以找到一种算法来实现，这种算法可以或大部分可以用map加reduce基本操作来实现。如果向量化能跟map-reduce对应起来，那么也可以认为，你的问题，总能找到一种可以用向量化思想表示的算法来完全或部分解决，如果有些部分很难向量化，参考上一个问题。</p><p>我选择的算法本身就很复杂：有这么一个说法，如果你的数据不足够多，信息不够完整，你会想出很多奇思怪招来从中获得结论，实际上很多科学上精巧而复杂的算法是基于这种情况而设计出来的。而在实际中如果你的数据急剧膨胀，信息与噪声都足够地多，你的问题焦点就变为如何用一个或一些简单有效算法或算法的组合来提取有价值的信息。如果你在小数据集的时候习惯了采用复杂的算法，当你的应用场景转变了，数据规模变了，却仍旧沿用原有的思维方式，是注定要尴尬的（仅针对工程应用环境，而非科学应用环境）。</p>", 
+            "topic": [
+                {
+                    "tag": "R（编程语言）", 
+                    "tagLink": "https://api.zhihu.com/topics/19674181"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28495002", 
+            "userName": "阿稳", 
+            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+            "upvote": 2, 
+            "title": "可能是史上代码最少的协同过滤推荐引擎", 
+            "content": "<blockquote>原载于本人博客：<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D970\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">可能是史上代码最少的协同过滤推荐引擎 - 不周山</a> 为防资料丢失，转此保存。想当初，我也是R语言的布道者。这篇文章，一方面为了展示R语言向量化的思维方式的强大，另一方面也是为了方便有编程功底的人通过代码而不是通过文档快捷地了解当时热门的协同过滤算法是怎么回事。现在开源库那么多，通过库调用已经可以写出简单的协同过滤算法了，但从基础矩阵运算的形式来理解这个经典算法，这段代码还是有其价值的。</blockquote><p>自世界杯开幕以来，这是首次看不到球赛的两天，看不了球，就写篇博客吧，标题比较有噱头，实际上是用R实现的item-based CF推荐算法。</p><div class=\"highlight\"><pre><code class=\"language-text\"># 读入数据，原数据是user-subject的收藏二元组\ndata = read.table(&#39;data.dat&#39;, sep=&#39;,&#39;, header=TRUE)\n# 标识user与subject的索引\nuser = unique(data$user_id)\nsubject = unique(data$subject_id)\nuidx = match(data$user_id, user)\niidx = match(data$subject_id, subject)\n# 从二元组构造收藏矩阵\nM = matrix(0, length(user), length(subject))\ni = cbind(uidx, iidx)\nM[i] = 1\n# 对列向量（subject向量）进行标准化，%*%为矩阵乘法\nmod = colSums(M^2)^0.5  # 各列的模\nMM = M %*% diag(1/mod)  # M乘以由1/mod组成的对角阵，实质是各列除以该列的模\n#crossprod实现MM的转置乘以MM，这里用于计算列向量的内积，S为subject的相似度矩阵\nS = crossprod(MM)\n# user-subject推荐的分值\nR = M %*% S\nR = apply(R, 1, FUN=sort, decreasing=TRUE, index.return=TRUE)\nk = 5\n# 取出前5个分值最大的subject\nres = lapply(R, FUN=function(r)return(subject[r$ix[1:k]]))\n# 输出数据\nwrite.table(paste(user, res, sep=&#39;:&#39;), file=&#39;result.dat&#39;, quote=FALSE, row.name=FALSE, col.name=FALSE)\n\n</code></pre></div><p>除去注释，有效代码只有16行。其中大量运用了向量化的函数与处理方式，所以没有任何的显式循环结构，关于向量化更详细的叙述可看<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D945\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这里</a>。</p><p>注：该代码实现的只是最基本算法，仅作参考，不承诺在大规模与复杂数据环境下的实用性。</p><p>源数据文件data.dat的内容如下所列：</p><blockquote>user_id,subject_id<br/>1,1<br/>1,3<br/>1,7<br/>1,13<br/>2,2<br/>2,5<br/>2,6<br/>2,7<br/>2,9<br/>2,10<br/>2,11<br/>3,1<br/>3,2<br/>3,3<br/>3,4<br/>3,7<br/>3,9<br/>3,10<br/>5,13<br/>6,1<br/>6,3<br/>6,4<br/>6,5<br/>6,8<br/>6,10<br/>8,1<br/>8,2<br/>8,3<br/>8,5<br/>8,6<br/>8,7<br/>8,8<br/>9,13<br/>10,12<br/>11,2<br/>11,3<br/>11,4<br/>11,6<br/>11,8<br/>11,9<br/>11,13<br/>12,12<br/>13,3<br/>13,6<br/>13,7<br/>15,4<br/>15,12<br/>15,13<br/>16,2<br/>16,3<br/>16,4<br/>16,7<br/>16,8<br/>17,2<br/>17,3<br/>17,4<br/>17,5<br/>17,6<br/>17,7<br/>17,8<br/>17,9<br/>17,10<br/>17,11<br/>18,2<br/>18,3<br/>19,2<br/>19,3<br/>19,5<br/>19,6<br/>19,9<br/>19,10<br/>19,11<br/>19,12<br/>20,1<br/>20,3<br/>20,4<br/>20,7<br/>20,13<br/>21,1<br/>21,6<br/>21,8<br/>21,9<br/>21,11<br/>21,12<br/>21,13<br/>22,6<br/>23,2<br/>23,4<br/>23,9<br/>23,12<br/>24,1<br/>24,5<br/>24,9<br/>25,2<br/>25,6<br/>25,10<br/>25,11<br/>26,2<br/>26,3<br/>26,8<br/>27,3<br/>27,6<br/>27,12<br/>27,13<br/>28,1<br/>28,2<br/>28,3<br/>28,5<br/>28,7<br/>28,9<br/>28,10<br/>28,11<br/>28,12<br/>28,13<br/>29,1<br/>29,2<br/>29,3<br/>29,4<br/>29,5<br/>29,6<br/>29,7<br/>29,8<br/>29,9<br/>29,10<br/>30,6<br/>30,7<br/>30,9<br/>30,13<br/>31,6<br/>31,11<br/>32,1<br/>32,5<br/>33,2<br/>33,13<br/>34,3<br/>34,7<br/>34,8<br/>34,9<br/>34,10<br/>34,13<br/>35,3<br/>35,4<br/>35,5<br/>35,6<br/>35,7<br/>36,2<br/>36,3<br/>36,4<br/>36,6<br/>36,7<br/>36,8<br/>36,9<br/>36,11<br/>36,12<br/>36,13<br/>38,5<br/>41,1<br/>41,3<br/>41,4<br/>41,5<br/>41,6<br/>41,7<br/>41,11<br/>42,2<br/>42,3<br/>42,7<br/>42,8<br/>42,9<br/>42,10<br/>42,11<br/>43,2<br/>43,6<br/>43,10<br/>43,11<br/>43,12</blockquote>", 
+            "topic": [
+                {
+                    "tag": "R（编程语言）", 
+                    "tagLink": "https://api.zhihu.com/topics/19674181"
+                }, 
+                {
+                    "tag": "协同过滤", 
+                    "tagLink": "https://api.zhihu.com/topics/19561187"
+                }, 
+                {
+                    "tag": "推荐算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19580544"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27562031", 
+            "userName": "阿稳", 
+            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+            "upvote": 16, 
+            "title": "先有注意力，后有精准匹配", 
+            "content": "<p>本文整理自本人在GMIC 2017大会上的演讲。 </p>\n\n<h2><b>注意力的时代</b></h2>\n\n<p>我记得自己刚毕业参加工作时，正值Web2.0的概念铺天盖地。那时候，iPhone刚出来第一代，PC端还占据着绝对的流量；那时候，搜索引擎还是大部分站点主要的流量来源，信息爆炸也正被越来越多地谈及。那个时代，搜索引擎还承担着用户注意力分配的主要责任。时间来到移动互联网时代，信息迅速膨胀，用户越来越没有耐心，搜索引擎却失去了自己原有的地位，信息孤岛严重，用户注意力分配陷入了自发、混乱的局面。</p>\n\n<figure><noscript><img src=\"https://pic1.zhimg.com/v2-2103b77612d520acd9a7c3198eaa5d84_b.png\" data-rawwidth=\"865\" data-rawheight=\"578\" class=\"origin_image zh-lightbox-thumb\" width=\"865\" data-original=\"https://pic1.zhimg.com/v2-2103b77612d520acd9a7c3198eaa5d84_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;865&#39; height=&#39;578&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"865\" data-rawheight=\"578\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"865\" data-original=\"https://pic1.zhimg.com/v2-2103b77612d520acd9a7c3198eaa5d84_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2103b77612d520acd9a7c3198eaa5d84_b.png\"/></figure><p>我们来看一个简单的算式： </p>\n\n<div class=\"highlight\"><pre><code class=\"language-text\">每信息分配的注意力 = 总注意力资源 / 信息总量\n</code></pre></div><p>注意力资源是分子，信息量是分母，信息量不断膨胀，而人的注意力资源增长是有瓶颈的。这个注意力资源可以类比于罗胖提出的国民总时间GDT的概念，就是GDT是个绝对刚性约束的资源，它取决于网民数量和网民日均上网时长。网民日均上网时长会有浮动，但时至今日，空间已经不大；而网民数量，在进入移动互联网下半场后，增长速度正在趋缓。当信息量不断增加，注意力资源基本恒定，一个我们不得不接受的事实——每信息分配的注意力期望上趋向于零。所以，你知道，为什么你的推广费用越来越贵，投放效果却越来越差。可悲的是，这个趋势仍将持续。</p>\n\n<figure><noscript><img src=\"https://pic1.zhimg.com/v2-b8720c9806df81d59e4342d8d9761140_b.png\" data-rawwidth=\"865\" data-rawheight=\"574\" class=\"origin_image zh-lightbox-thumb\" width=\"865\" data-original=\"https://pic1.zhimg.com/v2-b8720c9806df81d59e4342d8d9761140_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;865&#39; height=&#39;574&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"865\" data-rawheight=\"574\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"865\" data-original=\"https://pic1.zhimg.com/v2-b8720c9806df81d59e4342d8d9761140_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b8720c9806df81d59e4342d8d9761140_b.png\"/></figure><h2>广告形式与注意力</h2>\n\n<p>每个广告主都希望自己的广告能精确地触达目标人群，精准匹配是广告媒体和广告平台提及最多的概念，每个投放平台也都标配各种定向投放策略。然而，如果用户没有注意到你，再精准的匹配都无济于事。近些年数字广告行业的进步，一部分得益于更精准的投放系统和匹配算法，另一部分则得益于新的广告形式出现，在用户对老的广告形式产生注意力疲惫时，重新把用户的注意力拉了回来。比如，目前大红大紫的原生广告，把广告和内容有机的融合在一起，相比于之前的插屏广告、banner广告，用户厌恶度下降，注意力也更容易分配到广告上，然后才能感知到广告与自身需求的匹配。 </p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-ce272296c9e32d685ae192ce9de3befb_b.png\" data-rawwidth=\"865\" data-rawheight=\"577\" class=\"origin_image zh-lightbox-thumb\" width=\"865\" data-original=\"https://pic4.zhimg.com/v2-ce272296c9e32d685ae192ce9de3befb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;865&#39; height=&#39;577&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"865\" data-rawheight=\"577\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"865\" data-original=\"https://pic4.zhimg.com/v2-ce272296c9e32d685ae192ce9de3befb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ce272296c9e32d685ae192ce9de3befb_b.png\"/></figure><p>所以，先有注意力分配，精准匹配才有意义。否则，广告就如同房间里的大象，你觉得位置已经足够明显，然而用户却熟视无睹，这样的情况下，精准匹配也无从谈起，投放效果自然也是镜花水月。</p>\n\n<p>然而，原生广告也会面临注意力疲惫的时候，广告行业也需要不断迭代更新，变换形式，以重新赢得用户的注意力。广告效果不仅仅是个算法的问题，它首先是一个产品问题。</p>\n\n<h2>怎样吸引注意力</h2>\n\n<p>那么什么样的广告形式具备更好的注意力吸引效果呢。首先，我们得分析人更容易被什么事物所吸引。人的注意力分配通常跟这个人的欲望（或者说心理诉求）有关，那就要研究人的欲望的共性和个性了。长期的进化和群居生活，导致人有了动物性和社会性，这两方面都会导致我们拥有一些最原始的欲望，会被一些共同的事物所吸引，如美女帅哥图片视频（程度深一点那就是色情了），比如金钱（赌博、优惠、抽奖），再如一个犹抱琵琶半遮面的答案（标题党），等等，这属于能快速引起注意力分配的因素。而不同的人群也有其特定的诉求，比如有些人偏好美食，有些人喜欢旅游，投其所好，才能有所回报，这些也能引起注意力的分配，只是可能比前者要慢一些，而且覆盖人群小一些。</p>\n\n<figure><noscript><img src=\"https://pic3.zhimg.com/v2-b8b8fa2c0e8c310a1af32971ca27fc4e_b.png\" data-rawwidth=\"416\" data-rawheight=\"839\" class=\"content_image\" width=\"416\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;416&#39; height=&#39;839&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"416\" data-rawheight=\"839\" class=\"content_image lazy\" width=\"416\" data-actualsrc=\"https://pic3.zhimg.com/v2-b8b8fa2c0e8c310a1af32971ca27fc4e_b.png\"/></figure><p>像酷划这样的锁屏产品，用户亮屏解锁的动作也就1秒的时间，如果不能在这短短的1秒吸引到用户的注意力，后面为精准匹配做的所有努力都会落空。酷划无意从事色情行业，所以选择的就是金钱这种同样能直接吸引人注意力的方式，从而发展出激励性广告这种模式。通过吸引用户注意力放大入口的流量，再通过精准匹配让用户形成转化。原来一个环节的优化，现在分成两个环节来精细化运作。</p>\n\n<h2>先有注意力，后有精准匹配</h2>\n\n<p>精准匹配是现在广告行业的标配，但光有精准匹配还不够。所有能产生好效果的广告都是精准匹配+有吸引力的素材，而金钱元素的体现，本身就是一个很好的吸睛素材。 </p>\n\n<p>如果说人群定向投放、算法精准匹配是广告主端的需要，那么关注注意力资源，为注意力付费则是用户端的需要。物以稀为贵，在目前信息爆炸、注意力稀缺的时代，我们需要更多的用户思维，照顾用户的感受，才能获得用户注意力资源，从而实现商业目的。</p>", 
+            "topic": [
+                {
+                    "tag": "广告", 
+                    "tagLink": "https://api.zhihu.com/topics/19553032"
+                }, 
+                {
+                    "tag": "注意力", 
+                    "tagLink": "https://api.zhihu.com/topics/19569283"
+                }, 
+                {
+                    "tag": "广告效果", 
+                    "tagLink": "https://api.zhihu.com/topics/19556947"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27918544", 
+            "userName": "阿稳", 
+            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+            "upvote": 0, 
+            "title": "物理学背景的推荐算法与协同过滤", 
+            "content": "<blockquote>原载于本人博客：<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D794\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">物理学背景的推荐算法与协同过滤 - 不周山</a> ，为防资料丢失，转此保存。当年看到这篇文章，感觉思路有点绕，貌似只是在常规的数学模型外面套了个壳而已，于是手工用矩阵工具解构了一番，果然一目了然。</blockquote><p>随着个性化推荐技术的发展，各种各样的推荐算法也竞相参与到这片新兴应用领域中进行开荒，一时间百花齐放，其中就有一些基于物理学背景的算法参与其中，本文阐述的是<a href=\"https://link.zhihu.com/?target=http%3A//www.pnas.org/content/107/10/4511.abstract\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这篇文章</a>在推荐算法上的主要内容，及其与传统的协同过滤算法在形式上的对比。</p><p>文章原名为《Solving the apparent diversity-accuracy dilemma of recommender systems》，要解决的正是当下推荐系统领域炙手可热的问题：怎样平衡推荐的精确度与多样性。作者的专业背景是物理学，曾经做过复杂系统、复杂网络方面的研究，近年来在推荐领域发表过好几篇文章，这一篇发表在著名杂志PNAS上，可以说是对之前工作的一个大汇总。</p><p>该文章大致的思路就是把推荐系统中用户与待推荐对象的关系类比为二分图，借用原来研究复杂网络动力系统的一些概念与方法来研究推荐领域中的问题。关于这样的解决思路，我一年多前曾经就作者的另一篇文章作过一些阐述，欲了解细节的可以<a href=\"https://link.zhihu.com/?target=http%3A//www.douban.com/note/19702921/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">先看看</a>，看完对主要思想能有比较清晰的理解，本文将侧重于数学方面的推导与比较，不再就细节上过多阐述。</p><p>下图是我在稿纸上的推导过程，后面我结合着每一步的推导过程进行说明，每一步以标号标示。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-9b716c7b04da65c468630cc490a1b5e0_b.jpg\" data-rawwidth=\"490\" data-rawheight=\"435\" class=\"origin_image zh-lightbox-thumb\" width=\"490\" data-original=\"https://pic1.zhimg.com/v2-9b716c7b04da65c468630cc490a1b5e0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;490&#39; height=&#39;435&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"490\" data-rawheight=\"435\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"490\" data-original=\"https://pic1.zhimg.com/v2-9b716c7b04da65c468630cc490a1b5e0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9b716c7b04da65c468630cc490a1b5e0_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>0、这里总括一下最终的推荐方式，等式右边的f是一个用户的收藏向量，取值为0-1，W是一个转移矩阵，等式左边为最终获得的推荐向量，刨除用户已经收藏的对象，其余的按值排序取出前L个，即可视为对该用户的推荐。所以，现在的问题就是，怎么得到W这个矩阵。</p><p>1、这里定义用户收藏矩阵为A，维度为u*o，行表示用户，列表示对象，依据文中的说法，这里只考虑取值为0-1的情况，取值为1则表示对应位置的用户收藏了相应的对象，0则不然。</p><p>2、这里定义了用户与对象的“度”向量，即对A矩阵的行与列求和。</p><p>3、对收藏矩阵作行归一化，在本文，矩阵除以向量的统一意义为该矩阵每一列与该向量对位相除。</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-96c2e383da8f800ccce47547a0ca858e_b.jpg\" data-rawwidth=\"475\" data-rawheight=\"395\" class=\"origin_image zh-lightbox-thumb\" width=\"475\" data-original=\"https://pic3.zhimg.com/v2-96c2e383da8f800ccce47547a0ca858e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;475&#39; height=&#39;395&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"475\" data-rawheight=\"395\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"475\" data-original=\"https://pic3.zhimg.com/v2-96c2e383da8f800ccce47547a0ca858e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-96c2e383da8f800ccce47547a0ca858e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>4、文章中提出了两种算法，ProbS与HeatS，ProbS比较好理解，算法的详细解释见<a href=\"https://link.zhihu.com/?target=http%3A//www.douban.com/note/19702921/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">我之前的文章</a>，这里仅列出其迭代公式。拉丁字母的下标用以表示对象，英文字母的下标用以表示用户。这个迭代式的涵义是两对象之间的影响，或者说是贡献度。</p><p>5、经过一番变换之后，可以得到ProbS算法的转移矩阵，这个正是我们在0步里提到的要寻找的转移矩阵。</p><p>6、HeatS算法的迭代式与ProbS的类似，只是最后要除的分母不同，从转移矩阵来看，则仅仅只是转置关系。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-e7082be5807597a705f586298b39ad0f_b.jpg\" data-rawwidth=\"548\" data-rawheight=\"416\" class=\"origin_image zh-lightbox-thumb\" width=\"548\" data-original=\"https://pic4.zhimg.com/v2-e7082be5807597a705f586298b39ad0f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;548&#39; height=&#39;416&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"548\" data-rawheight=\"416\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"548\" data-original=\"https://pic4.zhimg.com/v2-e7082be5807597a705f586298b39ad0f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e7082be5807597a705f586298b39ad0f_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>7、从第0步的对每个用户的推荐过程，我们可以得到对所有用户的推荐公式，其中W可为第5或第6步算出来的转移矩阵。</p><p>8、再回顾一下我们熟悉item-based协同过滤（CF）的推荐过程，从矩阵的角度来描述，就是如8式所示，其中mod(A)表示A矩阵各列的模所组成的向量。形式与上面的算法类似，但相乘的顺序不一样，而且这里的W表示的是对象相似度矩阵。</p><p>9、这一番变换可以生成跟CF类似的推荐形式，WH就可以看作是CF中的相似度矩阵了（但计算方法不一样）。殊途同归，两种算法就统一到一种形式上去了。但不要试图用数学的方式来解释这个式子，我尝试过，无论如何解释不通，只能从物理的角度来进行描述。原文章中对此没有作数学分析，只是从实验角度来论证算法的有效性。</p><p>10、第10步是该文的最终算法，即混合之前的两种算法，得到一个并不太会增加计算消耗的混合推荐算法。跟上面两种算法的介绍类似，我在把迭代式列出来后，又把它转换成矢量运算的形式，即最终结果是两个矩阵的点乘。</p><p>除了上述我介绍的算法外，该文还有一部分重要的内容是定义两个精确度指标、两个多样性指标，并在三个数据集上对几种推荐算法的效果进行了对比，结论是：ProbS算法在精确度上表现更好，HeatS算法在多样性上表现更好，而混合式的算法能得到精确度与多样性两全其美的效果，有兴趣的读者可以读读原文。</p><p>对于这篇文章，我存留有几点疑问：</p><p>1、初始资源（即用户收藏矩阵A）除了0-1，是否可以是别的值，这样rating数据集也可以引入进来？</p><p>2、W矩阵为什么不可以多步迭代生成？原文中用资源分配来描述W矩阵的转移作用，从动力学的角度来说，这样的迭代分配可以无限进行下去直到达到一个稳态，但为什么只迭代一次就用作推荐计算的转换矩阵（即对用户收藏矩阵的加权变换），这是何道理？</p><p>3、数学上的不可解释性。正如第9步所得到的结果，该算法与CF有异曲同工之处，但CF算法可以从余弦距离的角度加以解释，而你无法从推荐表达式上解释为什么ProbS算法在精确度上表现更好，而HeatS在多样上表现更好。</p><p>对以上前两点文中没有作过多的解释，而从第三点来说由于整个推荐算法的有效性并不能从数学上得到解释，而只是通过实验对比结果进行说明，所以对于这两点疑虑，我也只能从实验结果上进行猜测：即以上两步的尝试会导致实验结果变坏。</p><p>更新：我实现了两个算法，并做了实验，从简单的观测结果来看，两种算法的TopK推荐结果都差不多，accuracy还可以，diversity没有体现出来。可以到此为止了。</p>", 
+            "topic": [
+                {
+                    "tag": "推荐算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19580544"
+                }, 
+                {
+                    "tag": "协同过滤", 
+                    "tagLink": "https://api.zhihu.com/topics/19561187"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27918618", 
+            "userName": "阿稳", 
+            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+            "upvote": 16, 
+            "title": "Youtube视频推荐算法：从10页论文到4页论文的变迁", 
+            "content": "<blockquote>原载于本人博客：<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D1181\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Youtube视频推荐算法：从10页论文到4页论文的变迁 - 不周山</a>，为防资料丢失，转此保存。当年毕业后，读论文少了，但还是保持着好论文要精读的习惯。</blockquote><p>所以说豆瓣广播是个好东西，长久以来已经怠于主动关注paper的我，每次都能通过我那些专业敬业的友邻们发现有意思的文章或话题，知识因分享而伟大！而这一次，这篇来自youtube的4页论文[1]，最初是通过Chen_1st同学的<a href=\"https://link.zhihu.com/?target=http%3A//www.resyschina.com/2011/02/youtube_uses_amazon_algorithm.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">博客介绍</a>知道的。追溯过去，又找到了Greg Linden的<a href=\"https://link.zhihu.com/?target=http%3A//glinden.blogspot.com/2011/02/youtube-uses-amazons-recommendation.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">评荐博客</a>。这篇文章很新，以至于我根本找不到免费的全文下载，于是很感谢zibuyu博士帮了一忙，还把youtube在08年发的那篇10页论文[2]一并给我发了过来，于是就有这个有点标题党的题目。</p><p>实话说，那篇10页论文我没仔细看，但还是先来回顾一下。08年的论文主要思想是把推荐问题建立在一个user-video的图上，试图在该图上给user u找到合适的video v。作者认为对某个u，他感兴趣的v应该是符合如下三个条件的。<br/>1、\tu与v之间的路径应该是短的；<br/>2、\tu与v之间应该有多条路径可达；<br/>3、\tu与v之间的路径应该排除掉那些度很高的节点。</p><p>为了在图上搜索符合这三个条件的解，作者提出了多种方法来解决这个被命名为Adsorption的算法，如Averaging、Random Walk、Linear System。给出了不少的概念定义与算法描述，并附赠一系列美好的实验结果。</p><p>但在那篇4页的论文里，之前的那些工作似乎都成了浮云，除了是来自于同一个公司的人，做的是同一个推荐产品之外，你几乎很难从这篇文章里再找到从前系统的影子，不单作者换了，行文风格从研究人员变成了工程师，甚至连最后的REFERENCES都没有对之前的文章加以引用。于是Greg不无戏谑地说：尽管我们做了上十年的工作，中间还穿插了对netflix竞赛的孜孜探讨，但好像一切又回到了原点，古老的item-based思想仍然发挥着其独有的魅力。</p><p>下面看看在遥远的墙外，那个叫youtube的视频网站始祖做了些什么复古式的工作。</p><p>首先无需求不产品，推荐产品也是要面向用户的特定需求的。Youtube用户的需求主要有三个方面：明确知道自己要看哪个视频；通过搜索来获取某些主题的视频；也不知道看什么，纯粹逛逛，找找乐子。Youtube的推荐产品面向的就是第三种需求，需要达成的目标是：视频推荐的时效性、精确性与多样性，可解释性是一个plus。</p><p>接下来几个工程师开始进行系统设计，搬出了诸如解耦、降低系统复杂性等等工程概念之后，介绍了他们本质上就是简单的item-based的推荐算法（但他们说这是关联规则）。最重要的公式就是以下的video相似性计算公式：</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-ea03dbf63d1ba557add5b4996d7b30a5_b.png\" data-rawwidth=\"219\" data-rawheight=\"74\" class=\"content_image\" width=\"219\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;219&#39; height=&#39;74&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"219\" data-rawheight=\"74\" class=\"content_image lazy\" width=\"219\" data-actualsrc=\"https://pic2.zhimg.com/v2-ea03dbf63d1ba557add5b4996d7b30a5_b.png\"/></figure><p>其中分子是video i与video j在用户session数据库中共同出现的次数，分母是一个规范化函数。当函数取值为ci时，这其实就是关联规则的置信度的计算公式，而当函数取值为vi与vj的模的乘积时，这个就是余弦相似度计算公式（因为在向量取值为1与0时，cij等于vi与vj的内积）。所以可以说这是关联规则与余弦相似度的通式。但youtube对这个函数的取值是ci * cj，如果把i作为种子，要找i的相似video的话，ci是不会影响到相似video的排序的，所以只有cj在起作用，而cj的作用则起到了打压热门视频的效果（因为播放得越多，cj越大，相似度越小），从另一个侧面可以提升推荐的多样性。当然这只是一种最简单的相似性描述，youtube实际系统当中还会考虑一些别的因素，如播放时间戳、视频的元信息等等。</p><p>理论上可以为每一个video pair计算出一个相似度rij，但实际中通常要对这个值进行截断，而以video作为节点，以有效的rij为边的权值就构成了一个有向的video graph。接下来就是根据这个图来为某个用户u生成候选推荐了。假设我们拥有用户u的一个视频种子集S，它可能来自于用户的收藏、评星或者简单的收看记录，一般意义上的item-based方法这时就会对S中的每一个视频，寻找它在video graph上的最近邻居，并以此作为推荐的候选。如下面的公式所示。</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-ab037032fe7a132d9772730dd449530a_b.png\" data-rawwidth=\"212\" data-rawheight=\"82\" class=\"content_image\" width=\"212\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;212&#39; height=&#39;82&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"212\" data-rawheight=\"82\" class=\"content_image lazy\" width=\"212\" data-actualsrc=\"https://pic3.zhimg.com/v2-ab037032fe7a132d9772730dd449530a_b.png\"/></figure><p>而这篇文章的方法稍有不同，但也很简单。作者们认为一般的item-based方法通常会压缩推荐候选的范围，即这种方法得到的结果通常多样性比较差。于是他们在第一步搜索最近邻居的基础上加以扩展：搜索多阶的最近邻居，如下面的两个公式所示。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-e5a6edc9fa259309666a1314c054fa4b_b.png\" data-rawwidth=\"244\" data-rawheight=\"94\" class=\"content_image\" width=\"244\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;244&#39; height=&#39;94&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"244\" data-rawheight=\"94\" class=\"content_image lazy\" width=\"244\" data-actualsrc=\"https://pic4.zhimg.com/v2-e5a6edc9fa259309666a1314c054fa4b_b.png\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-fa8504f4cfd4844b195db042a3e2239f_b.png\" data-rawwidth=\"222\" data-rawheight=\"94\" class=\"content_image\" width=\"222\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;222&#39; height=&#39;94&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"222\" data-rawheight=\"94\" class=\"content_image lazy\" width=\"222\" data-actualsrc=\"https://pic4.zhimg.com/v2-fa8504f4cfd4844b195db042a3e2239f_b.png\"/></figure><p>这样就完成了推荐池的扩容。但这个推荐池通常比较庞大，而推荐系统只能从中选择几个或几十个推送到用户面前，这样就必须知道其中哪些视频的权重更大，哪些更小，所以就需要一个赋权的过程。Youtube对视频的赋权方式主要考虑了三方面的因素：1）视频的质量；2）跟用户的切合程度；3）多样性。第一个因素取决于视频上传时间、播放、评星、收藏、分享、评论等等视频本身的数据。第二个因素取决于用户对种子集中视频的喜好程度，以及推荐池中的视频跟种子集视频的相似程度。第三个因素可以通过多种方法来评判。然后把这三方面的因素作一个线性加权，就得到了推荐池中每个视频的权重，接下来的推荐就顺理成章了。</p><p>如此三步：构造video graph；在图上生成扩展的候选推荐池；为推荐池的video赋权。就是一个大致的框架，简单明了，非常工程化实用化的实现，一贯的google范。</p><p>为了说明这种推荐方法的有效性，作者以最多收看、最多收藏、最多评星的视频作为baseline，用以与推荐视频作比较，实验是在线进行的A/B Test，实验框架我以前也有过<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D1108\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">简要介绍</a>。实验时间是21天，评判标准是点击率。结果发现，在这段时间里，推荐视频的点击率都稳定地比那三个baseline高出两倍，这已经足够说明问题了。</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-eeba52694d7c30b1dfa9042786e7b56a_b.png\" data-rawwidth=\"548\" data-rawheight=\"381\" class=\"origin_image zh-lightbox-thumb\" width=\"548\" data-original=\"https://pic3.zhimg.com/v2-eeba52694d7c30b1dfa9042786e7b56a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;548&#39; height=&#39;381&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"548\" data-rawheight=\"381\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"548\" data-original=\"https://pic3.zhimg.com/v2-eeba52694d7c30b1dfa9042786e7b56a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-eeba52694d7c30b1dfa9042786e7b56a_b.png\"/></figure><p>最后提一个数据，在youtube首页的推荐模块中的视频点击，占了首页视频点击的60%，虽然有模块位置的因素在里面，这也是个相当可观的数字。</p><p>Greg那篇博客下面还有一些饶有趣味的讨论话题，比如Greg说这篇文章应该引用早期amazon的那篇关于item-based的文章，因为从推荐算法本质上它们是同一套东西。当然同时Greg也坚称amazon是item-based推荐应用的始祖，而有人则指出，其实这样的思想在90年代的paper就已经有人提出过，但Greg认为这并不影响amazon是第一个把这项技术成功地应用于商业、特别是大规模数据应用领域的始作俑者，就如pagerank的想法在google诞生之前就已经存在，但没有人怀疑google是使用这项技术的成功的先行者。我认同Greg的说法，要是从paper或纯粹想法的角度不断回溯，估计某位古希腊哲人或古中国的科学家都可以跳出来说：哥当初就已经是这么想的！</p><p>参考文献：<br/>[1] Davidson, J. and Liebald, B. and Liu, J. The YouTube video recommendation system. Proceedings of the fourth ACM conference on Recommender systems. 2010<br/>[2] Baluja, S. and Seth, R. and Sivakumar, D. and Jing, Y. Video suggestion and discovery for youtube: taking random walks through the view graph. Proceeding of the 17th international conference on World Wide Web. 2008</p>", 
+            "topic": [
+                {
+                    "tag": "推荐算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19580544"
+                }, 
+                {
+                    "tag": "个性化推荐", 
+                    "tagLink": "https://api.zhihu.com/topics/19569242"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27918429", 
+            "userName": "阿稳", 
+            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+            "upvote": 6, 
+            "title": "少数人的智慧(The Wisdom of the Few)", 
+            "content": "<blockquote>原载于本人博客：<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D1034\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">少数人的智慧(The Wisdom of the Few)</a> ，为防资料丢失，转此保存。这篇文章，现在读起来仍然很有感触，这也是指导我后来在推荐系统引入专家推荐的启蒙文章。</blockquote><p>看到这么个有吸引力的名字，你不会觉得它是一篇学术论文，但实际上，它是的。这是2009年Amatriain等人发表在ACM的一篇关于推荐系统的文章。从这个并不太学术的题 目，你大概可以意想到这里面并不会涉及太多繁琐的理论细节。实际上，如果你有一些关于推荐系统的背景，你可以毫无障碍的把它读下来，因为它就相当于一篇报 告文学一般好懂，但其中揭示的道理却并非如它显示出来的那么显浅，尽管文中的叙述不一定很完备，但这绝对是一个值得细细探讨的主题。</p><p>所谓少数人的智慧，实际指是的作者提出的基于专家的协同过滤（CF）在某些方面要优胜于传统的CF算法。这是一个很丰满的工作，其要点如下：</p><ul><li>专家用户与一般用户在行为模式上的差异；</li><li>设计基于专家的CF推荐算法；</li><li>通过两种评测方式，评估专家CF与传统CF在精度上的差异，最后还通过一个用户调查来作出用户体验层面的比较。</li></ul><p>之 所以要提出专家CF的算法取代传统的CF，是基于传统CF的一些弊病，比如数据的稀疏性，数据噪声以及计算量的庞大等等，而正是这些数据上的原因导致传统 CF算法推荐多样性不足、推荐不准确以及推荐可扩展性不良好等种种问题。这里提出的专家CF算法目的并不在于在某些数学精度指标上压倒传统的CF算法，而 希冀能探究如下几个问题：</p><ul><li>一个庞大的用户集合的偏好是否可以通过一个比较小的用户集合的偏好预测出来；</li><li>对于一个源数据集来说，另一个与之不同源的、无直接相关的数据集是否具有对它进行推荐的能力；</li><li>分析专家的收藏是否可以用作普通用户的推荐；</li><li>探讨专家CF是否能解决传统CF的一些难题。</li></ul><p>首 先定义专家，他们必须是这样的一群人：在一个特定的领域内，他们能对该领域内的条目给出深思熟虑的、一致的、可靠的评价（打分）。在这篇文章里，作者并没 有详细地探讨如何从数据中发现一批领域专家，他们挑选的是一批来自从<a href=\"https://link.zhihu.com/?target=http%3A//rottentomatoes.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">rottentomatoes.com</span><span class=\"invisible\"></span></a>爬取的现成的电影评论专家，这样可以使得他们讨 论的主题更为集中，而因为这些专家都是经过人工筛选的，所以，可以忽略因专家挑选算法的不足而给后续算法与分析带来的偏差。</p><p><b>数据集：</b><br/>文 章中大部分的分析都是基于两个数据集：1、来自netflix的一个庞大的电影打分集；2、如上所描述的从<a href=\"https://link.zhihu.com/?target=http%3A//rottentomatoes.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">rottentomatoes.com</span><span class=\"invisible\"></span></a>爬取筛选 的专家用户打分集。专家数据集有169个经过筛选的用户，他们的打分记录都大于等于250个。经过两个数据集中电影的匹配，剩下8000部两个数据集中都 出现过的电影，占原netflix全集电影的50%左右。</p><p><b>专家用户与一般用户在收藏行为上的差异：</b><br/>这是一个很具有参考价值的分析，虽然作者并没有提供给我们自动挑选专家的方法，但通过这些分析结论，你可以对你自己通过算法或者人工得到的专家数据集的质量进行评估。所有关于专家用户与一般用户差异的结论都可以通过如下几张图得到。</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-4431ae75d91cfe2e5d1adce28087740d_b.png\" data-rawwidth=\"633\" data-rawheight=\"269\" class=\"origin_image zh-lightbox-thumb\" width=\"633\" data-original=\"https://pic2.zhimg.com/v2-4431ae75d91cfe2e5d1adce28087740d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;633&#39; height=&#39;269&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"633\" data-rawheight=\"269\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"633\" data-original=\"https://pic2.zhimg.com/v2-4431ae75d91cfe2e5d1adce28087740d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-4431ae75d91cfe2e5d1adce28087740d_b.png\"/></figure><p>图2：打分数量与数据稀疏性</p><p>图的解释：这是一个累积分布图（CDF），对两个数据集各作一条线。图2a中的每一个点(x, y)表示打分人数&lt;=x的电影占电影总数的比例；类似地，图2b中的每一个点(x, y)表示打分记录&lt;=x的用户占用户总数的比例。</p><p>结论：专家用户的打分比一般用户要多得多，数据集也要稠密得多，实际上，数据集2的稀疏系数约为0.07（用户评分矩阵中非0元素的比例），而数据集1的稀疏系数约为0.01。图2a中专家曲线在y上的截距为0.2，表示有20%的电影其实只有一个人打过分。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-dd15f74e00efe0aee333d99ce9e9f0b7_b.png\" data-rawwidth=\"624\" data-rawheight=\"283\" class=\"origin_image zh-lightbox-thumb\" width=\"624\" data-original=\"https://pic4.zhimg.com/v2-dd15f74e00efe0aee333d99ce9e9f0b7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;624&#39; height=&#39;283&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"624\" data-rawheight=\"283\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"624\" data-original=\"https://pic4.zhimg.com/v2-dd15f74e00efe0aee333d99ce9e9f0b7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-dd15f74e00efe0aee333d99ce9e9f0b7_b.png\"/></figure><p>图3：平均评分的分布</p><p>结论1：图3a中，专家用户的曲线在高分段占有更多的电影，说明他们对好电影的认同更为一致；<br/>结论2：图3b中，专家用户自己平均评分的变化范围不大，但对电影的覆盖面更广，即无论好片还是烂片，都有一定量的打分记录，而一般用户正好相反。说明专家用户的打分并不依赖于这是否好片，只是一个客观的评价，而一般用户并不倾向于收藏烂片。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-0b974587663d9b385d85f90c8ebbf64b_b.png\" data-rawwidth=\"635\" data-rawheight=\"244\" class=\"origin_image zh-lightbox-thumb\" width=\"635\" data-original=\"https://pic4.zhimg.com/v2-0b974587663d9b385d85f90c8ebbf64b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;635&#39; height=&#39;244&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"635\" data-rawheight=\"244\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"635\" data-original=\"https://pic4.zhimg.com/v2-0b974587663d9b385d85f90c8ebbf64b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0b974587663d9b385d85f90c8ebbf64b_b.png\"/></figure><p>图4：评分的标准差</p><p>结论：跟图2a一样的道理，图4a在y有一个0.2的截距。</p><p>我觉得存在的一个问题：除非专家们的收藏差异比较大，否则专家对电影意见的更为一致的特性并不会带来一个我们希望的分众性的效果。有时需要人为地引入关于专家收藏的差异性。</p><p><b>专家CF算法：</b><br/>专 家CF算法跟传统的基于用户的CF算法基本是一致的，只是由原来的计算user-user的距离从而找出相近的user这个思路，改为计算user- expert的距离从而找出相近的expert。相似度的计算公式跟一般的公式稍有点不一样。见原文公式1，主要是把余弦距离乘以一个共同收藏比的因子，以添加 共同收藏数量这个因素的影响。得到相似度之后，会计算与用户相邻的专家，其中会引入两个参数作为阈值以保持推荐的质量（这种质量保证机制也导致了无法针对 某些条目计算预测分值，也就有了下面要说的“覆盖率”这一评价指标），详情可以看原文，这里不过多介绍。得到相似邻居之后对条目的预测评分跟传统的CF也 一样，这里也不多说了。</p><p>本文我着重介绍的是两点：专家用户的特征与专家用户好处。最初已经说了特征，下面讲好处。</p><p>作者使用了两种评估方法，评估了三种推荐方式的效果</p><p><b>三种推荐方式分别是：</b><br/>Critics’s Choice：专家平均算法，计算每个专家用户对每个条目评分的平均值，以此作为对所有用户的预测值。<br/>Expert-CF：专家CF，见上文所述。<br/>Neighbor-CF：传统CF，见上文所述。</p><p><b>第一种评估方式是常见的MAE（Mean Absolute Error）</b><br/>过 程大家应该很熟悉，把数据集分割成训练集与测试集，根据训练集计算的用户相似度，去预测测试集里的评分，得到误差的绝对值的平均，以及预测的覆盖程度（如 上所说，因为有质量保障机制，所以并非所有的user-item对都有预测评分）。结果如下表所示，专家CF比专家平均的MAE有很大的信息增益效果，虽然 比传统CF要差，但覆盖度却也比传统CF要大。</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-e777bf48fd6b0dadf8ecf216d13363ed_b.png\" data-rawwidth=\"397\" data-rawheight=\"144\" class=\"content_image\" width=\"397\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;397&#39; height=&#39;144&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"397\" data-rawheight=\"144\" class=\"content_image lazy\" width=\"397\" data-actualsrc=\"https://pic2.zhimg.com/v2-e777bf48fd6b0dadf8ecf216d13363ed_b.png\"/></figure><p>然而对每个用户的误差研究表明，专家CF逊于传统CF时通常集中于那些预测误差并不大的用户，而且差得也不多（0.1左右），可见对于预测准的用户来说，这点差别并不显著。而对于那些预测得并不那么准的用户，两者差别并不大，专家CF还稍稍好一点。</p><p><b>第二种评估方式是Top-N精度</b><br/>跟 以往的计算Top-N推荐的精确度与召回率的方法不一样，这里把评估变成了一个分类问题，即根据一个设定的阈值delta，把计算出来的预测评分分成 recommendable（大于等于delta）与not-recommendable两个类别；同样把测试集里每个用户评分的条目根据delta分割 成两个类别，然后观察这个真实的类别划分与预测的类别划分之间的交叉情况（true positive与false positive），即可计算得到一个推荐精度的值。</p><p>当取delta=4时，专家CF的精度是0.76，传统CF的精度是0.85，两者有一定的差距，当取delta=3时，专家CF的精度是0.89，传统CF的精度是0.90，两者相差不远。即当认为大于等于平均水平（3分）的推荐为有效的话，两个算法的差别不大。</p><p>虽 然作为学术评测依据，大家都习惯用各种数字评测指标来说明自己的算法比起别人的有多大的优势，但这些数学上的指标到底跟用户体验有多大的关系实际上是没有 人知道的。为此作者又做了一个更现实的用户实验。这个实验是这样的，作者通过一个网站对招募来的57名用户进行预测与评价。首先要求这批用户对100部电 影按照自己的喜好进行打分，然后系统根据四种策略给每个人产生4组10个的推荐电影。这4种策略分别是：1.随机选取；2.根据专家打分平均从高往低 取；3.传统CF；4.专家CF。并要求用户对这给出的4组推荐分别作出评价，评价的问题是4个：1.对推荐结果的总体感觉；2.有没有你喜欢的推 荐；3.有没有你不喜欢的推荐；4.有没有惊喜。这4个问题的答案需以1-5（第一题）或1-4（其余三题）分值的形式给出。因为实际进行中每个用户在第 一步时评分的电影其实很少，平均每名用户评分14.5（虽然给出100部电影要求打分），这也正好切合了一个新用户面对推荐系统时的情况，也即冷启动。结 果令作者非常满意，几个问题里策略4专家CF都占有压倒性的优势，而策略3传统CF的表现只能跟策略2专家平均差不多，甚至更差。</p><p>最后的总结作者吹嘘了一番专家CF相比于传统CF的几大优势：<br/>数据稀疏性：推荐数据集固有的数据稀疏问题会因为信息量不足而带来一些额外的问题，专家收藏的数据稀疏度要比全体用户收藏的稀疏程度要低，即有更多的可参考的信息。</p><p>噪声评分：数据集里面难免会存在一些噪声评分，无论用户是有意的还是无意的，甚至还有些故意捣乱的用户或spammer。而专家在这方面则可靠得多，而且个人意见也比较容易保持一致。</p><p>冷启动问题：这是专家CF的一大卖点。对于用户冷启动，由于数据稀疏性与噪声问题而造成的问题，在专家CF里得到了不错的解决。实验也证明了这一点。对于条目冷启动，由于专家更具有前瞻性，所以新条目更容易通过专家而进入到推荐池中。</p><p>可扩展性：如果直接使用基于用户相似度的CF算法进行推荐，在实际系统中几乎是不可行的，因为构造一个用户相似度矩阵是如此地庞大。而使用量要少得多的专家作为相似度矩阵的一个维度，矩阵的规模则现实得多。</p><p>隐私：这里还考虑了这样的一种可能性，即不需要你把数据传递到服务器，只需要把专家喜好传递到客户端，与你本地的收藏相匹配，然后服务器给你返回相应的推荐，避免了服务器记录你的收藏。</p><p>我补充一下，其实专家CF的对条目的覆盖面与多样性应该要更好一些，这跟专家收藏数量以及收藏的覆盖面更广这个特性有关。</p><p>看这篇文章，更多的是看文中阐述的思想，虽然这可能并不是他们首创的，但毕竟他们作了一个很好的总结与分析。我一直在思索我们到底需要什么样的推荐，最近我觉得：<b>至少在大部分的场合，我们需要的并不是与自己相似的用户的推荐，而是与自己相似的专家的推荐</b>。无论是看书、看电影、买手机、买笔记本，那批“行内人 物”的观点往往是左右我们决定的主要因素。这个结论在个性化要求相对比较低的中国显得更为真实。</p>", 
+            "topic": [
+                {
+                    "tag": "个性化推荐", 
+                    "tagLink": "https://api.zhihu.com/topics/19569242"
+                }, 
+                {
+                    "tag": "推荐算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19580544"
+                }, 
+                {
+                    "tag": "协同过滤", 
+                    "tagLink": "https://api.zhihu.com/topics/19561187"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28298048", 
+            "userName": "阿稳", 
+            "userLink": "https://www.zhihu.com/people/f1eee4ca59643414410f553fa168d53b", 
+            "upvote": 3, 
+            "title": "2011推荐系统峰会及全民娱乐", 
+            "content": "<blockquote>原载于本人博客：<a href=\"https://link.zhihu.com/?target=http%3A//www.wentrue.net/blog/%3Fp%3D1208\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">2011推荐系统峰会及全民娱乐 - 不周山</a> ，为防资料丢失，转此保存。这是6年前文栋带着中国推荐社区折腾起来的一次推荐系统峰会，当年大家都意气风发。不经意间多年过去，大家都各有事业拼搏途中，也都是奔四之人了。再次回顾，未免唏嘘。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>2011年推荐系统峰会虽然已经落下帷幕，但关于张栋在会上提的算法在一个推荐产品中所占比重的问题仍然引起大家的热议，特别是算法人员与产品/设计人员，算法人员是为外界的误读而捍卫自身的尊严，产品/设计者则乐于发现一个可以宣告自己工作价值的话题。</p><p>为免将来在社区内外出现的以讹传讹的对社区不良发展的状况，同时也为免将来别人问起时一遍又一遍地重复，作为一个全程参与、归纳并直播的人，有必要站出来说几句。首先这是一次盛大而充满技术含量的大会，其中有组委会的同学与赞助商的不懈努力，这里不再点名表扬。所以首先是对大会的一次总结，对技术无爱只求八卦的同学可以直接跳到最后。</p><p>这次大会无论从参会者的人数与覆盖面，还是从演讲者的整体水平，都是空前的。报名了1000多人，为控制会议的规模与质量，实际到会有200多人。而主讲者里，有推荐系统领域的世界级专家、有国内互联网公司资深的从业人员、有著名公司的数据与经验的分享，个个都是重磅炸弹。</p><p>最先登场的Koren是本次大会的特邀嘉宾，作为netflix prize冠军队成员，远途而来的他没有令大家失望，不仅带来一个干货十足的topic，还带来了浓郁的以色列家乡风味的口音（囧）。Koren的topic基本涵盖了这些年来他所有的相关工作，无论是参加netflix prize时的基本模型与经验；还是时间效应如何融入到model的探索；又或是如何构建快速的反馈系统以解决冷启动问题；还有像在Y!Answer那样的问答应用中如何融合多种数据属性而给出multi-channel推荐的问题；还少不了对评分的关注，二值、数值、序值类型的评分model；当然还少不了对推荐置信度的关注，推荐框架中的validator模块对于多推荐引擎混合的系统肯定会特别有用。每个话题都分量十足，毫无保留，虽然偏重于学术研究，但可为商业应用参考与启发的地方也很多，十分推荐细细参看其PPT。另一个让人印象非常深刻的是他的务实作风，报告后的Q&amp;A环节，充分地阐释了一个学术人员的严谨，知之为知之，不知为不知，绝不会在自己不擅长的事情上妄加评论。</p><p>赞助商淘宝网在上下午分别各有一个topic，上午玄澄阐述淘宝数据的力量，下午的主题偏技术，介绍淘宝在电商推荐与广告投放方面的经验。其实，凭我的记忆，当天至少有三位主讲者或显或隐地在说明数据在系统中的重要性，Koren就认为more user input &gt; better algorithm，难怪netflix prize最后大家都把train和test的数据都当作train来使。另一个这么提的是下面要讲的张栋，还有就是淘宝所展示的数据的力量。事后我想想，淘宝上的交易数据实质上已经对中国城市居民的购买行为有了相当高比例的采样，从中分析得到的结果可说具有很纯粹的现实的价值，在商业方面，这可能比所谓国家统计局得到的结论更令人信服。几个有趣的分析结果如：比较淘宝门票销售额可推论热度上张学友&gt;王菲&gt;周杰伦；从喜糖购买人群的特征可推论有40%的男性是30岁以后结婚的（大龄男青年们可以安心一些了）。如果这些数据能有一定程度的公开，这必定是一笔巨大的财富。在如此庞大的用户行为数据的基础上，淘宝也作出了一些推荐与广告方面的尝试，游龙的这个主题谈及到用户在网购不同阶段需求的不同，这让我感觉很亲切，做一个算法产品，不了解用户的需求，以为只要埋头写实现是不行的。除此之外，他们还分析了各个网站之间的跨域访问的需求，看得出来，他们很注重对用户的分析与理解，这是条正道。</p><p>张栋的话题其实带进了很多自己的归纳与思考，只是由于那页推荐产品各成分占比：UI/UE:40%&gt;Data:30%&gt;Knowledge:20%&gt;Algorithm:10%的PPT，一下把大家的注意力给分散了。这里提几点自己记忆比较深刻的，一是算法在两个维度的分类：一个维度是content-based与CF，另一个维度是memory-based与model-based，这也是比较合理与清晰的划分，建议沿用。他也认为推荐系统是应用领域相关的，不可能跟搜索引擎一样有一个统一的框架与做法，即便amazon内部不同大类的商品，也需要有不同的推荐引擎，对此我深以为然。相对于对各种优秀算法的研究，张栋比较认同混合算法的威力，他述说了一段参加netflix prize的往事，他是最早参加的一批，慢慢地发现后来者层出不穷，而后期英雄榜上的队伍用的基本上都是混合的模型，成千上万个模型的组合，于是他有感：一个好的算法无法打败无数个combine起来的算法。</p><p>来自腾讯的前google研究员王益贡献了一个底层的技术主题，特别是一个轻量级的C++实现类似于map/reduce的框架。只可惜我这方面的功力不够，只能表示理解无力啊。以我当时的一句话来归纳一下吧：王益这个topic比较底层，提醒我们再强大的算法还是由底层架构运行的，再强悍的底层还是有遭雷劈的可能的。不知道这个名为MRML的框架有没有开源的可能？如果可以，广大map/reduce或hadoop粉丝倒可以看上一看。</p><p>最后一个压轴的是来自hulu的郑华带来的他们在视频推荐与广告投放方面的经验。诚实的说，郑华的这个报告披露了大量的内部数据与实实在在的实践经验，对于业界相当地有参考价值，只是当时我处于最后的疲劳期，注意力稍有不集中，当时PPT的知识点又如流光掠影般的层出不穷，以致于对这个主题只作了廖廖几条的直播，深感抱歉。也建议广大互联网从业者，无论技术的还是非技术的，不妨细细研究郑华的PPT，看看一个推荐产品是如何的领域相关，又是如何受到商业、产品、用户群体等各方面因素的约束，不光是算法，在产品设计层面又可以做些什么出彩的工作。</p><p>可以从会上各人的主题中归纳出一些当前的共识来：如推荐产品的领域相关、数据为王、模型效果的评估、算法组合技术的威力。</p><p>不再赘述，更多的内容可以参看我当时用resyschina的微博帐号做的直播<a href=\"https://link.zhihu.com/?target=http%3A//t.sina.com.cn/resys\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">t.sina.com.cn/resys</span><span class=\"invisible\"></span></a>，或是关注该帐号，等待会议PPT的放出。</p><p>然后就是关于一个推荐产品中到底什么比较重要，也即UI/UE:40%&gt;Data:30%&gt;Knowledge:20%&gt;Algorithm:10%的争论。就这个事情，我曾在resyschina的新浪微博帐号上发过一些想法，这里再把思路归纳一下。</p><p>首先要注意的是这些数字本身没有任何的意义，因为没有任何一个人可以得到如此精确的数字比例，提出这些数字的人，最主要的关注点也只是它们的排序关系，我们就这种排序来讨论即可。另外要注意的是，这里的算法是个狭义的范畴，特指直接产生推荐效果的算法。因为广义来说，那几部分都可以跟算法相关。领域知识的获取除了主观上专家的意见，还有赖于客观上对用户数据的分析与探索，以产生知识与理解；另外，要得到绝对良好的数据是不可能的，所以数据的清洗、各种预处理工作也是算法工作者经验与能力的体现；再往上，就算一个产品的设计与交互方式，哪个好哪个坏，也可以通过数据的收集与算法的分析来得到辅证，极端的例子如google的统一实验框架。</p><p>但是，在这个全民娱乐的时代，专业性领域的某些言论是最容易被大众所误读了，这也是为什么严谨的科学家们不太敢说话的原因，因为你的话总是会被善良的群众作出筛选，然后以大众所最喜闻乐见的形式广播出去，同时也满足了业外人士对这个领域的好奇心。只是很可能，当大众发现不是这么回事的时候，这个专家就要被骂成“砖家”了。</p><p>顺便推荐两个来自算法从业者对这个事情的简要讨论，一个调侃，一个溯源。<a href=\"https://link.zhihu.com/?target=http%3A//sinaurl.cn/h5BarP\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">sinaurl.cn/h5BarP</span><span class=\"invisible\"></span></a> ， <a href=\"https://link.zhihu.com/?target=http%3A//sinaurl.cn/h5rTgS\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">sinaurl.cn/h5rTgS</span><span class=\"invisible\"></span></a></p><p>心理学研究表明，人们往往对序列最前与最后的事件记忆最深刻，其实大家更应该关注的是中间的两个因素：数据与领域知识。因为一头一尾两个因素的热议更多的是因为职业之争，就像管理者与工程师之争一样，这样的争辩并不能产生生产力。而数据与领域知识是需要并且可以花心思做好，而且可以得到实实在在的产出的。这些数字比例的本义是，在商业应用上，很多算法都已经成熟，所以不用再花太多的心思去考虑新的算法。但对数据的探索，对应用领域的研究，甚至UI/UE的设计，还是需要算法人员与其它人员紧密的沟通，以臻于完美的。</p><p>另外一个解读，源于物以稀为贵，或者说从短板理论角度的理解。构建一个产品，或者说搭建一个系统，知识最欠缺的模块往往决定了这个系统的成败。对于推荐产品来说，有效的算法其实绝大多数来源于统计学、矩阵论、概率论、机器学习、数据挖掘等等有所交叠的领域，这些算法的基本形态已经被研究得非常透彻，所以它不太可能会成为一个推荐产品的瓶颈。关键的问题就在于如何用这些成熟的算法为你具体的领域搭建出一个有效的应用，这需要你<b><i>对这个领域的理解</i></b>，书的推荐、电影的推荐、音乐的推荐、电子商务的推荐都是截然不同的；算法运作的土壤是数据，巧妇难为无米之炊，所以需要你有<b><i>充分的干净可用的数据</i></b>；更重要的，对这个还不能广为大众所接受的产品，它<b><i>应该有一个怎样的形态</i></b>，用户才会接受它，理解它。所以就得出了UE/UI&gt;数据&gt;领域知识&gt;算法的结论，与其说这是个重要性的排序，还不如说这是推荐产品中欠缺性的排序，或者说所需时间分配的排序。</p><p>可能会有同学举出搜索引擎的例子来，很恰巧，这是一个平台、算法作为短板的应用。Google最重要的创新之一，就是把产品/设计问题降约为一个搜索框（或者一个广告侧栏），接下来就没有产品形态什么事了，随着新网页指数级的增长，spammer的层出不穷，用户搜索需求越来越丰富，一个可伸缩的搜索平台、一个合理的评分算法、一个能准确定位用户意图的用户模型，永远都处于欠缺状态。相比于推荐引擎要考虑推荐条目的特性、商务上的约束、推荐解释的要求等等非纯粹算法的要求，搜索引擎显得要纯粹得多，技术得多。</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "推荐系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19563024"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/buzhoushan"
+}

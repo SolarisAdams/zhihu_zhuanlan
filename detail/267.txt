@@ -1,0 +1,518 @@
+{
+    "title": "Analytics^2", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/shine-lee-45", 
+        "https://www.zhihu.com/people/xi-mi-zi-20", 
+        "https://www.zhihu.com/people/guo-yan-bo", 
+        "https://www.zhihu.com/people/ida-13-76", 
+        "https://www.zhihu.com/people/trista-liu-12", 
+        "https://www.zhihu.com/people/gu-yu-71-65", 
+        "https://www.zhihu.com/people/yin-9-60-47", 
+        "https://www.zhihu.com/people/lanshanxianggu", 
+        "https://www.zhihu.com/people/tang-da-wei-84-34", 
+        "https://www.zhihu.com/people/esmusssein-56", 
+        "https://www.zhihu.com/people/hu-yong-chao-2", 
+        "https://www.zhihu.com/people/hai-lang-wu-hen", 
+        "https://www.zhihu.com/people/urika-bupt", 
+        "https://www.zhihu.com/people/dou-hua-yiding-shi-tian-de", 
+        "https://www.zhihu.com/people/mu-ying-51-22", 
+        "https://www.zhihu.com/people/shen-wei-89-92", 
+        "https://www.zhihu.com/people/shizhong-zhao", 
+        "https://www.zhihu.com/people/kira.lee", 
+        "https://www.zhihu.com/people/xqe123", 
+        "https://www.zhihu.com/people/eric-57-92", 
+        "https://www.zhihu.com/people/ye-ma-66-31", 
+        "https://www.zhihu.com/people/bei-shang-de-liu-luo-guo", 
+        "https://www.zhihu.com/people/yang-yan-21-57", 
+        "https://www.zhihu.com/people/ma-hua-su-14", 
+        "https://www.zhihu.com/people/chen-yu-77-55-78", 
+        "https://www.zhihu.com/people/chao-ge-12-24", 
+        "https://www.zhihu.com/people/yang-ai-mi-lu", 
+        "https://www.zhihu.com/people/xiao-jie-zi-11-84", 
+        "https://www.zhihu.com/people/wo-jiao-xia-mi", 
+        "https://www.zhihu.com/people/li-bing-chen-66", 
+        "https://www.zhihu.com/people/rinkle", 
+        "https://www.zhihu.com/people/zhao-peng-liang-87", 
+        "https://www.zhihu.com/people/simongaoo", 
+        "https://www.zhihu.com/people/zhang-jian-99-87", 
+        "https://www.zhihu.com/people/coco-92-55-55-66", 
+        "https://www.zhihu.com/people/weng-wei-zhe", 
+        "https://www.zhihu.com/people/dai-wen-jie-87", 
+        "https://www.zhihu.com/people/ladeas", 
+        "https://www.zhihu.com/people/chengbohua", 
+        "https://www.zhihu.com/people/zhun-shi-dao-zhan", 
+        "https://www.zhihu.com/people/yang-zi-wen-86", 
+        "https://www.zhihu.com/people/xiaolong-42", 
+        "https://www.zhihu.com/people/oliver-zhang-40", 
+        "https://www.zhihu.com/people/xiong-ao", 
+        "https://www.zhihu.com/people/ltlongzhu", 
+        "https://www.zhihu.com/people/zhou-li-nuo-83-48", 
+        "https://www.zhihu.com/people/ning-43-14", 
+        "https://www.zhihu.com/people/chen-xiao-yu-42-3-12", 
+        "https://www.zhihu.com/people/pu-tao-28-38", 
+        "https://www.zhihu.com/people/lu-lin-qing-55", 
+        "https://www.zhihu.com/people/xue-xi-fen-xiang-cheng-chang", 
+        "https://www.zhihu.com/people/mctavish-96-22", 
+        "https://www.zhihu.com/people/gan-wen-zhong", 
+        "https://www.zhihu.com/people/song-jia-nan-37", 
+        "https://www.zhihu.com/people/zhu-qiang-89-17", 
+        "https://www.zhihu.com/people/fan-kevin-48", 
+        "https://www.zhihu.com/people/hua-qian-gu-5-88", 
+        "https://www.zhihu.com/people/xiao-la-jiao-34-53", 
+        "https://www.zhihu.com/people/wei-ren-79-31", 
+        "https://www.zhihu.com/people/cui-xian-sheng-65", 
+        "https://www.zhihu.com/people/mu-xiao-yue-93", 
+        "https://www.zhihu.com/people/gu-hai-shuo-81", 
+        "https://www.zhihu.com/people/tonysss", 
+        "https://www.zhihu.com/people/qing-shan-dong-sheng", 
+        "https://www.zhihu.com/people/liang-qiang-39", 
+        "https://www.zhihu.com/people/shu-ju-zhong-mi-mang-de-gao-yang", 
+        "https://www.zhihu.com/people/zhu-ya-37", 
+        "https://www.zhihu.com/people/gaoling199405165", 
+        "https://www.zhihu.com/people/summer-cheng-zi", 
+        "https://www.zhihu.com/people/fan-sha-zi-88", 
+        "https://www.zhihu.com/people/xiao-min-91-83", 
+        "https://www.zhihu.com/people/jing-61-45", 
+        "https://www.zhihu.com/people/chen-chen-chen-31-39", 
+        "https://www.zhihu.com/people/yoyo-70-91-12", 
+        "https://www.zhihu.com/people/zhao-mi-61-10", 
+        "https://www.zhihu.com/people/huang-niu-cha-fork", 
+        "https://www.zhihu.com/people/liu-hua-17-57", 
+        "https://www.zhihu.com/people/xu-yu-1-66", 
+        "https://www.zhihu.com/people/lin-sunny-25", 
+        "https://www.zhihu.com/people/tixudengnihui", 
+        "https://www.zhihu.com/people/shen-huai-xuan-yuan", 
+        "https://www.zhihu.com/people/mi-cun-cang", 
+        "https://www.zhihu.com/people/zhang-zhong-niu", 
+        "https://www.zhihu.com/people/fou-ding-jun-41", 
+        "https://www.zhihu.com/people/a-wa-tu", 
+        "https://www.zhihu.com/people/tiao-michael", 
+        "https://www.zhihu.com/people/bei-jing-feng-kong-jian-mo-xu-lei-mou", 
+        "https://www.zhihu.com/people/zheng-shi-hao-23", 
+        "https://www.zhihu.com/people/cindy0117", 
+        "https://www.zhihu.com/people/xiao-mi-66-26", 
+        "https://www.zhihu.com/people/meng-luo-chen-feng", 
+        "https://www.zhihu.com/people/lethe-15-57", 
+        "https://www.zhihu.com/people/stt-11", 
+        "https://www.zhihu.com/people/luo-xiao-bai-24", 
+        "https://www.zhihu.com/people/wang-yan-87-55", 
+        "https://www.zhihu.com/people/lazylove", 
+        "https://www.zhihu.com/people/perri", 
+        "https://www.zhihu.com/people/bang-niu-25", 
+        "https://www.zhihu.com/people/liu-xiao-le-er-lf", 
+        "https://www.zhihu.com/people/ji-yue-53", 
+        "https://www.zhihu.com/people/zheng-bo-yang-78", 
+        "https://www.zhihu.com/people/lu-si-qi-7-92", 
+        "https://www.zhihu.com/people/cyxing183", 
+        "https://www.zhihu.com/people/frank-hu-28", 
+        "https://www.zhihu.com/people/rhoplus", 
+        "https://www.zhihu.com/people/dai-ying-46-42", 
+        "https://www.zhihu.com/people/wx5deec877f379a842", 
+        "https://www.zhihu.com/people/xian-cheng-er-31", 
+        "https://www.zhihu.com/people/zhang-quan-67-39", 
+        "https://www.zhihu.com/people/mao-xiong-64-24", 
+        "https://www.zhihu.com/people/xuemanfu", 
+        "https://www.zhihu.com/people/xiao-hua-8-38-40", 
+        "https://www.zhihu.com/people/liu-chang-41-44", 
+        "https://www.zhihu.com/people/sun-jin-jin-80", 
+        "https://www.zhihu.com/people/ma-shao-guang", 
+        "https://www.zhihu.com/people/guang-ming-gmg", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/qinkang-69", 
+        "https://www.zhihu.com/people/xing-zou-fan-xing", 
+        "https://www.zhihu.com/people/zhao-xie-yu-30", 
+        "https://www.zhihu.com/people/dogtrade", 
+        "https://www.zhihu.com/people/zhang-peng-16-64-37", 
+        "https://www.zhihu.com/people/wu-hua-bu-shuo-76", 
+        "https://www.zhihu.com/people/nextchen", 
+        "https://www.zhihu.com/people/a-fan-da-37-61", 
+        "https://www.zhihu.com/people/xin-ya-nan-53", 
+        "https://www.zhihu.com/people/esummerlike", 
+        "https://www.zhihu.com/people/bu-fa-ma", 
+        "https://www.zhihu.com/people/leo-jie-sjtu", 
+        "https://www.zhihu.com/people/peng-liang-mei", 
+        "https://www.zhihu.com/people/bing-bing-28-99-54", 
+        "https://www.zhihu.com/people/wei-jing-64-31-50", 
+        "https://www.zhihu.com/people/xie-he-da-tou", 
+        "https://www.zhihu.com/people/liu-fei-94-95", 
+        "https://www.zhihu.com/people/cheer-chen-78", 
+        "https://www.zhihu.com/people/yu-zhou-96-71", 
+        "https://www.zhihu.com/people/qing-kong-yi-he-2009", 
+        "https://www.zhihu.com/people/xu-yun-di", 
+        "https://www.zhihu.com/people/qian-fang-xu-you-zhuan-95", 
+        "https://www.zhihu.com/people/lyhone", 
+        "https://www.zhihu.com/people/q734550709", 
+        "https://www.zhihu.com/people/jerry666666", 
+        "https://www.zhihu.com/people/luoyuwei", 
+        "https://www.zhihu.com/people/sapceye-feng", 
+        "https://www.zhihu.com/people/yan-gao-62", 
+        "https://www.zhihu.com/people/lihao77", 
+        "https://www.zhihu.com/people/haiyudong", 
+        "https://www.zhihu.com/people/tian-si-16-91", 
+        "https://www.zhihu.com/people/wfhnafh", 
+        "https://www.zhihu.com/people/jojo_n", 
+        "https://www.zhihu.com/people/xing-zou-de-ku-li", 
+        "https://www.zhihu.com/people/yu-tian-69-69", 
+        "https://www.zhihu.com/people/zheng-ling-ling-98", 
+        "https://www.zhihu.com/people/wang-gang-90-2", 
+        "https://www.zhihu.com/people/ka-ka-ke-6", 
+        "https://www.zhihu.com/people/jinshenhehuan", 
+        "https://www.zhihu.com/people/li-jin-wu", 
+        "https://www.zhihu.com/people/0x2e3c", 
+        "https://www.zhihu.com/people/cheng-wang-yu", 
+        "https://www.zhihu.com/people/ke-li-si-46-7", 
+        "https://www.zhihu.com/people/fei-yi-19-71", 
+        "https://www.zhihu.com/people/li-jun-hui-89-57", 
+        "https://www.zhihu.com/people/daijie-94", 
+        "https://www.zhihu.com/people/willwinworld", 
+        "https://www.zhihu.com/people/lemon-42-16", 
+        "https://www.zhihu.com/people/liu-xing-yu-82-54", 
+        "https://www.zhihu.com/people/liu-pei-72-47", 
+        "https://www.zhihu.com/people/shao-lin-55-11", 
+        "https://www.zhihu.com/people/peng-zi-min", 
+        "https://www.zhihu.com/people/vero-moda", 
+        "https://www.zhihu.com/people/cao-yiming-42", 
+        "https://www.zhihu.com/people/an-ting-83-99", 
+        "https://www.zhihu.com/people/li-xin-90-97-91", 
+        "https://www.zhihu.com/people/chen-qi-zhu-57", 
+        "https://www.zhihu.com/people/5hell", 
+        "https://www.zhihu.com/people/da-li-da-cheng", 
+        "https://www.zhihu.com/people/wang-yi-zheng-71", 
+        "https://www.zhihu.com/people/ling-wen-jing", 
+        "https://www.zhihu.com/people/aprilqlele", 
+        "https://www.zhihu.com/people/yang-qi-wei-78", 
+        "https://www.zhihu.com/people/shuang-zhi-zhu", 
+        "https://www.zhihu.com/people/tu-li-41-87", 
+        "https://www.zhihu.com/people/e-luan-shi-48", 
+        "https://www.zhihu.com/people/nicygyang", 
+        "https://www.zhihu.com/people/riddle-49", 
+        "https://www.zhihu.com/people/he-hong-liang-80", 
+        "https://www.zhihu.com/people/li-liang-37-21", 
+        "https://www.zhihu.com/people/li-bing-bing-bing-bing-59", 
+        "https://www.zhihu.com/people/soxiao-zhuang-58", 
+        "https://www.zhihu.com/people/wu-ming-20-90", 
+        "https://www.zhihu.com/people/chang-yu-80-53", 
+        "https://www.zhihu.com/people/elaine-21-30", 
+        "https://www.zhihu.com/people/liu-fan-21", 
+        "https://www.zhihu.com/people/de-la-de-la", 
+        "https://www.zhihu.com/people/leef", 
+        "https://www.zhihu.com/people/ding-ding-40-54", 
+        "https://www.zhihu.com/people/lotus198", 
+        "https://www.zhihu.com/people/xiao-ya-yue", 
+        "https://www.zhihu.com/people/zhe-yang-bu-ok-50", 
+        "https://www.zhihu.com/people/hxq0217", 
+        "https://www.zhihu.com/people/strn-99", 
+        "https://www.zhihu.com/people/ge-jian-chao", 
+        "https://www.zhihu.com/people/shen-hou-you-hu-li-47", 
+        "https://www.zhihu.com/people/yu-mo-63", 
+        "https://www.zhihu.com/people/hunsun", 
+        "https://www.zhihu.com/people/fang-fang-44-48-48", 
+        "https://www.zhihu.com/people/ou-yang-hong", 
+        "https://www.zhihu.com/people/huang_violin", 
+        "https://www.zhihu.com/people/mmxia-tian", 
+        "https://www.zhihu.com/people/wu-ji-66-42", 
+        "https://www.zhihu.com/people/liu-lang-64", 
+        "https://www.zhihu.com/people/andy-wang-39", 
+        "https://www.zhihu.com/people/applepope", 
+        "https://www.zhihu.com/people/hanxin-75", 
+        "https://www.zhihu.com/people/zhang-han-26-50", 
+        "https://www.zhihu.com/people/xinke-z", 
+        "https://www.zhihu.com/people/xiao-bai-de-xiao-hei-cao", 
+        "https://www.zhihu.com/people/sbhenanren", 
+        "https://www.zhihu.com/people/e-ren-gu-15", 
+        "https://www.zhihu.com/people/robert-chan", 
+        "https://www.zhihu.com/people/trista-ma-91", 
+        "https://www.zhihu.com/people/iamnotwhouare", 
+        "https://www.zhihu.com/people/gua-zhi-er", 
+        "https://www.zhihu.com/people/liang-hui-jun-60", 
+        "https://www.zhihu.com/people/zoe-yu-50", 
+        "https://www.zhihu.com/people/jia-yi-bing-ding-4", 
+        "https://www.zhihu.com/people/xiao-xiao-xue-sheng-16", 
+        "https://www.zhihu.com/people/wei-xiao-ru-72", 
+        "https://www.zhihu.com/people/wangshichong", 
+        "https://www.zhihu.com/people/xudingjian", 
+        "https://www.zhihu.com/people/fang-miao-24", 
+        "https://www.zhihu.com/people/ao-li-20", 
+        "https://www.zhihu.com/people/leetcode", 
+        "https://www.zhihu.com/people/andre-lin-29", 
+        "https://www.zhihu.com/people/jerry-zeng", 
+        "https://www.zhihu.com/people/li-lin-lin-83-79", 
+        "https://www.zhihu.com/people/yi-mao-mao-30", 
+        "https://www.zhihu.com/people/cou-stu", 
+        "https://www.zhihu.com/people/wo-shi-er-huo-6", 
+        "https://www.zhihu.com/people/zhang-shuo-8-67", 
+        "https://www.zhihu.com/people/chistina-48", 
+        "https://www.zhihu.com/people/imqiang", 
+        "https://www.zhihu.com/people/yuguang-liu", 
+        "https://www.zhihu.com/people/jeevanyue", 
+        "https://www.zhihu.com/people/Smart-beta", 
+        "https://www.zhihu.com/people/wzc365", 
+        "https://www.zhihu.com/people/xin-ru-zhi-shui-93-32", 
+        "https://www.zhihu.com/people/sisu555", 
+        "https://www.zhihu.com/people/hua-xiao-yu-49", 
+        "https://www.zhihu.com/people/HDUMayday_RG", 
+        "https://www.zhihu.com/people/bo-nan-liu", 
+        "https://www.zhihu.com/people/murray-93", 
+        "https://www.zhihu.com/people/gandongdong", 
+        "https://www.zhihu.com/people/xiaoping-liu", 
+        "https://www.zhihu.com/people/ru-yi-tou-xiao", 
+        "https://www.zhihu.com/people/ke-xue-7-6", 
+        "https://www.zhihu.com/people/zjw0813", 
+        "https://www.zhihu.com/people/a-zhen-75-78", 
+        "https://www.zhihu.com/people/liu-liang-57-66", 
+        "https://www.zhihu.com/people/liu-chen-39-56", 
+        "https://www.zhihu.com/people/qing-jiao-rou-si-chao-fan-10", 
+        "https://www.zhihu.com/people/wangbihep", 
+        "https://www.zhihu.com/people/wei-xun-35-16", 
+        "https://www.zhihu.com/people/xue-wen-26", 
+        "https://www.zhihu.com/people/li-lang-ji-tian-ya", 
+        "https://www.zhihu.com/people/robi-7", 
+        "https://www.zhihu.com/people/shen-xiao-ming-77", 
+        "https://www.zhihu.com/people/wang-shi-yao-53", 
+        "https://www.zhihu.com/people/li-wei-34-38-35", 
+        "https://www.zhihu.com/people/ma-kun", 
+        "https://www.zhihu.com/people/di-da-diao", 
+        "https://www.zhihu.com/people/zxxxxxx-wen", 
+        "https://www.zhihu.com/people/dai-gu-niang-26"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/87052199", 
+            "userName": "Ray Huang", 
+            "userLink": "https://www.zhihu.com/people/31521a1e3e347c96700aa1abfd4ca18b", 
+            "upvote": 1, 
+            "title": "A/B测试系列二（实验设计）", 
+            "content": "<p>希望阅读了上篇文章之后： <a href=\"https://zhuanlan.zhihu.com/p/79758075\" class=\"internal\"><span class=\"invisible\">https://</span><span class=\"visible\">zhuanlan.zhihu.com/p/79</span><span class=\"invisible\">758075</span><span class=\"ellipsis\"></span></a>，大家得出的结论是A/B测试在很多领域都有其用武之地，正确的运用A/B测试的方法能够帮助企业更好的利用数据进行决策。那么下一个需要解决的问题就是，怎么设计一个真正科学有效的A/B测试，也就是这篇文章需要解决的问题。<br/><br/><br/><b>一、明确实验目的（Objective）</b><br/>显而易见，首先需要想清楚的就是我们希望通过实验解决什么样的问题，像我们上一篇文章提到的那样，实验的目的可以是测试不同的用户界面（UI）元素，更新的产品算法，或者是不同的手机推送信息文案设计。在设计实验的最一开始就明确的记录实验的目的（最好能够在文档当中清晰的定义面临的问题和实验的必要性），并且在整个设计过程中能够回来重新审视，能够更好的保证最后得出的结果能够符合实验的初衷。<br/>明确了实验目的之后，因为A/B测试是一个量化方法，下一个需要思考的问题就是怎么衡量，量化需要测量的东西。<br/><br/><br/><b>二、选择测量指标（Metrics）</b><br/><br/><br/><b>两类测量指标：</b></p><ul><li><b>核心指标</b>：第一类测量指标和实验的目的紧密相关，如果我们希望测试网站上两个不同颜色的按键，用户更倾向于点击哪一个，那么两个不同颜色的按键的点击率就应该是我们的核心指标，是我们用来比较两个版本，并最后判断谁会胜出的指标。</li><li><b>不变指标（Invariant）</b>：第二类指标的作用是保证实验数据的有效性。A/B测试的一个核心假设就是，实验组和对照组的样本应该是来自一个实验总体随机选择的，本身不应该存在显著差别。再拿出我们测试按键不同颜色的例子，如果我们测试的是一个女装网站的立即购买按键，实验组当中的所有用户当中有90%的女性用户，而对照组只有10%的女性用户，那么我们也许能看到实验组当中测试的颜色带来了300%点击率的提升，这当然是错误的结论。因为有时可能会有意想不到的情况发生，导致进入实验组和对照组的用户并不是随机选择的，为了避免得出这样的错误结论，我们就需要选择一些和测试相关，但是不应该被测试直接影响的指标，在评测实验组和对照组核心指标之前，先观察这些指标在两个样本之间有没有明显差别。</li></ul><p><br/><br/><b>选择、量化核心指标：</b></p><ul><li>大致概念（High level concept）：在开始衡量多个核心指标的利弊之前，不妨后退一步，重新思考一下用户的整个转化流程，我们测试的属于其中的哪个环节，需要解决其中的什么问题。能够帮助我们缩小核心指标的选择范围，时刻对标实验的真正目的。</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>清晰定义核心指标的量化方法：</li><ul><li>考虑不同的计算方法：一个同样的核心指标可能有多种不同的计算方式，比如这个Udacity课程（ <a href=\"https://link.zhihu.com/?target=https%3A//classroom.udacity.com/courses/ud257/lessons/4028708543/concepts/39546791220923\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">classroom.udacity.com/c</span><span class=\"invisible\">ourses/ud257/lessons/4028708543/concepts/39546791220923</span><span class=\"ellipsis\"></span></a>）当中提到点击率（Click Through Rate）和点击概率（Click Through Probability）的区别。点击率的定义：点击量/页面浏览总数；而点击概率的定义则是：点击用户/浏览了页面的用户总数。这两种计算方式虽然非常相似，但是在一些特殊情况发生的时候会记录不同的结果。比如一个用户重复点击（double click）了两次的情况，点击率就会记录2/1 = 2，而点击概率就会记录1/1 = 1。这种情况下，使用点击概率就会帮助我们得到更加科学的数据记录。</li><li>去除不相关，不受影响的数据：如果我们的A/B测试需要测试的只是影响一个国家地区，或者只是一部分的用户。在进行分析之前清洗数据，去除掉那些不会被实验影响的数据会让我们更容易看到实验组和对照组的区别。</li><li>量化方式：</li><ul><li>总数（Sum）：简单求和，比如点击量</li><li>和分布相关的量化方法：比如正态分布的平均值和中位数，不对称分布当中的百分位指标都有他们各自使用的场景。一个百分位指标的例子是，如果我们测试的是一个提高网络速度慢用户响应速度的新算法，核心指标就可以是网络速度最慢的5%用户的响应时间的中位数。</li><li>比率和概率：点击率或者点击概率</li></ul><li> 灵敏度和稳定性（sensitivity and robustness）</li><ul><li>选定的核心指标应该有足够的的灵敏度，能够侦测真实存在的变化，可以通过模拟实验数据的方式来评测。</li><li>选定的核心指标同时应该有稳定性，在两个样本完全相同的时候不能有巨大的变化，可以通过A/A测试，衡量两个经过同样处理的样本数据的核心指标是否存在显著差异的方式来进行确认。</li></ul><li>核心指标的分布（Distribution）：</li><ul><li>确定核心指标的样本分布也是非常关键的一步，决定了我们在进行显著性测试的时候统计方法的选择。</li><li>我们可以通过观测一段时间之内历史数据的方法来判断样本分布是否符合正态分布，当然如果不符合，对不同的分布，统计学上也有不同的处理方法。</li></ul></ul></ul><p><br/><br/><b>三、实验设计（Experiment Design）</b></p><p><b>选择主体(Choose Subject)：</b></p><p>Udacity的A/B测试课程当中提出了一个样本单位的概念（Unit of Diversion): </p><p><a href=\"https://link.zhihu.com/?target=https%3A//classroom.udacity.com/courses/ud257/lessons/4001558669/concepts/39700989990923\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">classroom.udacity.com/c</span><span class=\"invisible\">ourses/ud257/lessons/4001558669/concepts/39700989990923</span><span class=\"ellipsis\"></span></a>，就是说我们在收集样本的时候是以什么作为单位的。样本单位可以是一个用户，可以是一个cookie，也可以是一个页面浏览的事件。哪一种比较合适则需要依情况确定：</p><ul><li>如果你想要在用户层面保证用户在不同的平台、页面等有相同的体验   <b>用户</b>（比如一个功能性的变化，加入了能够评价商品的功能，那么最好保证用户在网页和移动端都能有相同的功能和体验）</li><li>如果不同平台的体验不同完全没有影响                                             <b>cookie</b></li><li>如果只是算法或者响应时间的变化                                                   <b>页面浏览</b></li></ul><p>样本单位不仅是我们收集数据的单位，也是我们在做实验数据分析的时候的基本单位。</p><p><b>选择目标群体(Choose Population/Target)：</b></p><p>这一步一般在明确了实验目的之后就会清晰明了，但是值得注意的是要尽量选择在相当时间范围之内有相似产品体验的用户，选择会被实验直接影响的群体能够帮助更好更快的侦测出真实的实验变化结果。</p><p><b>计算样本数量(Sizing)：</b></p><p>这是实验设计当中的关键一步，因为一般业务部门需要一个对A/B测试需要运行的时间的估计，A/B测试所需时间=总样本量/每日流量。所以计算所需要的总样本量就是计算这个所需时间的第一步。</p><p>计算样本数量需要在实验开始之前进行，并且在样本数量到达所确定的需要样本数量之前，最好不要提前分析数据或者停止实验。其中的原因一是样本数量过小会导致实验组和对照组结果比较不显著，二是如果多次测量实验结果，则更有可能观测到和真实相反的实验结果，增加错误结论的概率。这篇讲airbnb A/B测试的文章当中就对这种情况有所涉及： <a href=\"https://link.zhihu.com/?target=https%3A//medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">medium.com/airbnb-engin</span><span class=\"invisible\">eering/experiments-at-airbnb-e2db3abf39e7</span><span class=\"ellipsis\"></span></a></p><p>计算样本数量，我们可以用这个网页计算器：<a href=\"https://link.zhihu.com/?target=https%3A//www.evanmiller.org/ab-testing/sample-size.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">evanmiller.org/ab-testi</span><span class=\"invisible\">ng/sample-size.html</span><span class=\"ellipsis\"></span></a></p><p><b>确定测试时间和流量比例(Duration + Exposure)：</b></p><p>有了需要的总体样本数量之后，我们就只需要估计每日的实验流量，可以通过历史数据来估计。而对于总体流量当中应该有多大比例进入A/B测试之中，则取决于实验有多大的影响，有没有对用户明显的风险。一般业界（测试流量比较充足的大公司）对一个新的功能会先随机选择5%左右的用户进行测试，如果对核心指标没有消极影响的话才会慢慢的推送给所有的用户。</p>", 
+            "topic": [
+                {
+                    "tag": "A/B 测试", 
+                    "tagLink": "https://api.zhihu.com/topics/19588692"
+                }, 
+                {
+                    "tag": "数据分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19559424"
+                }, 
+                {
+                    "tag": "商业分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19589322"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/79758075", 
+            "userName": "Ray Huang", 
+            "userLink": "https://www.zhihu.com/people/31521a1e3e347c96700aa1abfd4ca18b", 
+            "upvote": 1, 
+            "title": "A/B测试系列一（概述）", 
+            "content": "<p>首先谈谈自己写关于A/B测试系列文章的想法。从职业的角度来讲，A/B测试在几乎所有的有一定规模的互联网公司当中都是非常重要的能够对产品发展产生重要影响的关键性一环，可以说在硅谷和国内叫得出名字的互联网公司当中，A/B测试都是有多个团队支持，多个部门实际应用的工具。所以能够理解A/B测试，建立A/B测试，分析A/B测试的整个流程是对数据分析师的一项必备的技能，而且具有相当广泛的行业适用性。从个人的角度来讲，我在开始A/B测试当做一个学习项目开始研究之后，发现全网在A/B测试这个话题有非常多的优秀的文章，但是却从来没有一篇文章或者一个Blog能够把这些优秀的资源集合到一起的，这也降低了我的学习效率。因此我希望我的这一系列A/B测试的文章能够首先覆盖关于从建立到分析A/B测试的一系列流程，同时加入任何我找到的非常有帮助的文章作为延伸阅读，帮助对这个话题有兴趣的同学们更有效率的在行业的最佳实践当中吸取营养。</p><h2><b>为什么要做A/B测试？</b></h2><p>设想如果没有A/B测试，我们会怎么做产品更新决策呢？</p><ul><li>工资最高的人说的算：大家很可能会信任组内资历最高或者说话声音最大的人的“产品直觉”，因为他/她有了这么久的工作经验，已经能非常好的理解用户行为和喜好。这当然是一个牵强的假设，且很有可能会把全组甚至公司产品带入歧途。</li><li>分析历史数据：一些自称数据驱动的公司会前进一步，通过收集和分析之前的历史版本数据，来探究是哪项产品更新能够带来正向的影响。这种方法听起来比“产品直觉”要靠谱很多，不过这种研究一个改变前-后数据的分析方式有非常大的局限性，因为有太多的变量我们没有通过实验设计的方式来控制，即使我们能够通过这种方法得出一个结论，这个结论也有可能是错误的。例如我们在更新了淘宝上一个商品图片的设计之后，发现销量直线上升，可是也许我们是在双十一之前做出了这次更新，如果没有更新，销量反而会上升更多；也许我们做了其他的广告带来了更多的流量。前-后测试的分析方法因为是在不同时间段的数据，就可能会受到季节性因素，用户行为改变，营销手段变化等一系列因素的影响。在这篇Airbnb的博文当中作者也做出了相关的解释，阐述A/B测试的重要性：<a href=\"https://link.zhihu.com/?target=https%3A//medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">medium.com/airbnb-engin</span><span class=\"invisible\">eering/experiments-at-airbnb-e2db3abf39e7</span><span class=\"ellipsis\"></span></a></li></ul><h2><b>什么是A/B测试？</b></h2><p>首先，什么是A/B测试? 这其实是一个非常简单直接的概念，几乎被广泛的应用于每一个学科之中。它来自于实验设计的理念，如果要证明一个改变（可以是用户界面，产品更新，商品图片等）能够产生积极的影响，应该把可以相互比较的测试者们随机分配在实验组和对照组当中。对照组的测试者们接触到的是产品改变之前的当前版本，而实验组的测试者们接触到的是产品改变之后新版本，除了要测试的变化之外，其他的东西都应该保持不变。经过一段时间收集样本数据之后，比较实验组和对照组的核心指标表现，然后通过统计学的方法来验证测试的产品新变化到底是不是带来了正向的影响。<br/></p><h2><b>A/B测试能用来做什么？</b></h2><ul><li><b>用户界面(UI) 和用户界面的各种元素</b></li></ul><p>A/B测试首先可以优化用户界面的各种元素，网页设计、按键颜色、新闻标题、产品图片等等。把两种不同的设计作为实验组和对照组分配给类似的用户/流量。然后通过后台的数据比较两个版本的浏览量，点击率等一系列的指标差别，选出实际表现最好的一个版本。</p><p>一般用户界面设计稍有改变不会产生重大的影响，可能有一个版本能够带来5%核心指标的提升已经算是非常不错的成绩。但是对于流量规模巨大的产品来说，哪怕是1%的提高也会带来客观的利润收入，而且长期逐步累加的5%的效率提高也是会帮助一个产品不断走向最优化。</p><p><b>具体案例：</b></p><p><b>（一）</b></p><p>一个很好的例子是Netflix会对剧集的不同封面图片进行测试： <a href=\"https://link.zhihu.com/?target=https%3A//medium.com/netflix-techblog/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">medium.com/netflix-tech</span><span class=\"invisible\">blog/selecting-the-best-artwork-for-videos-through-a-b-testing-f6155c4595f6</span><span class=\"ellipsis\"></span></a></p><p>一些很有意思的结论是：一些表现好的封面图片能够带来10%以上的点击率提升，能够反映剧集整体情绪的图片会起到不错的效果，不同国家和地区可能会偏好完全不同风格设计的图片。</p><p><b>（二）</b></p><p>另一个相关但是可能有些极端的案例是google曾经测试了41种不同的蓝色来确定用户到底喜欢那一种：</p><p><a href=\"https://link.zhihu.com/?target=https%3A//www.nytimes.com/2009/03/01/business/01marissa.html%3Fpagewanted%3D3\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">nytimes.com/2009/03/01/</span><span class=\"invisible\">business/01marissa.html?pagewanted=3</span><span class=\"ellipsis\"></span></a></p><p>当然全世界有资源和精力花在这样的项目上面的公司屈指可数，对小中型公司来说，测试这么多不同的蓝色可能需要一整年的流量，就难免有些本末倒置了。</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>产品算法</b>：</li></ul><p>除了用户界面这种直接面向用户的部分，A/B测试还可以用来比较不同的后端算法。比如对于很多产品和网站至关重要的排序和推荐算法，因为和公司利润直接相关，很多公司多会有专门的部门来调试网站的排序和推荐算法，那么怎么证明新的算法就能够给公司带来更多的流量和转化呢？通过A/B测试来比较当前算法和新算法之间的核心指标表现不同当然是最直接可信的方式。</p><p><b>具体案例：</b></p><p>Netflix通过A/B测试优化个性化推荐主页和排序算法：</p><p><a href=\"https://link.zhihu.com/?target=https%3A//medium.com/netflix-techblog/learning-a-personalized-homepage-aa8ec670359a\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">medium.com/netflix-tech</span><span class=\"invisible\">blog/learning-a-personalized-homepage-aa8ec670359a</span><span class=\"ellipsis\"></span></a></p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>邮件和推送通知</b>：</li></ul><p>美国的大部分拥有大量用户的产品都会重视的营销渠道之一就是邮件和手机推送通知，因为邮件和手机推送对公司来说几乎没有任何成本，又能非常有效的提高用户活跃度，所以越来越多的公司也会更加重视在这方面的投入和优化。和用户界面A/B测试的逻辑相似，邮件和推送通知A/B测试能够在新的营销活动开始的早期快速的优化邮件和推送图片，文本的设计，从而在大规模发送的时候能够确定最优化的设计版本，实现相应活动最优化的利润或者其他影响。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>A/B测试的局限性</b></h2><p>A/B测试当然不是万能的，某些特定情况下我们可能完全无法设计出一个A/B测试，或者会因为滥用A/B测试得出并不可靠的结论。</p><ul><li><b>样本量太小</b>：</li></ul><p>A/B测试通常会对实验样本量有一定的要求，如果一个产品还处在早期，或者属于大宗商品消费本来就不会有很多的转化量，那么很可能会出现的问题是，在设计A/B测试的时候发现做一个这样的实验需要几个月甚至一整年的时间来收集数据。这种情况下想要通过A/B测试来不断改进产品显然进度会异常缓慢。</p><ul><li><b>转化时间过长</b>：</li></ul><p>如果A/B测试对象的核心指标数据需要非常长的时间才能完全得到，比如我们想测试两种不同的用户推荐（refer）方式对一个网络房产网站的影响。对这样的公司而言，用户的需求是非常不频繁的，也许新的用户推荐奖励方式非常有效，但是要真正通过A/B测试，手机数据的方式证明可能需要很多年的时间。</p><ul><li><b>新奇效应（Novelty Effect）</b>：</li></ul><p>另一个需要注意的地方是对于很多互联网产品来说，可能有新奇效应的存在。用户习惯了旧的版本之后，新的版本开始测试的早期用户因为对全新的界面感到好奇，就会反常的频繁点击和浏览各种界面。如果我们在这个时段做A/B测试就可能过早的宣布新版本的胜利，而在用户习惯了更新的界面之后，所有的核心指标又下降到了比旧版本更差的水平。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>当A/B测试不适用的时候</b></h2><p>这篇文章介绍了A/B测试不适用的时候我们的一些其他的选择：</p><p><a href=\"https://link.zhihu.com/?target=https%3A//marketingexperiments.com/a-b-testing/testing-small-sample-sizes%3Fsource%3Dpost_page---------------------------\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">marketingexperiments.com</span><span class=\"invisible\">/a-b-testing/testing-small-sample-sizes?source=post_page---------------------------</span><span class=\"ellipsis\"></span></a></p><p>简单总结：</p><p>如果样本量过小，首先我们要保证实验组和对照组对流量进行50% vs 50%均分，这样能够保证实验能够最快的得出结论。如果均分流量之后还是面临这样本量过小的情况，可以适当牺牲统计显著性水平，这样能够降低所需要的实验样本量。</p><p>如果转化时间过长，我们可以寻找一些可以替代的，短时间之内就可以观测到变化的替代性指标。比如如果我们是一个信用卡推荐的网站，等待银行传给我们信用卡申请和转化数据的时间可能会很久，但点击申请按键的流量应该是我们会主动观测，并且可以很好地替代银行数据的另一个指标。</p><p>对于新奇效应来说，为了控制这种现象对于实验结果的影响，我们可以测量在新版本开始测试的一定时间段之后的各种核心指标和对照组相应时间段核心指标的差别，来控制版本推行时间这个变量。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>系列的下一篇文章会介绍如何设计A/B测试。</p>", 
+            "topic": [
+                {
+                    "tag": "A/B 测试", 
+                    "tagLink": "https://api.zhihu.com/topics/19588692"
+                }, 
+                {
+                    "tag": "产品设计", 
+                    "tagLink": "https://api.zhihu.com/topics/19551625"
+                }, 
+                {
+                    "tag": "互联网产品", 
+                    "tagLink": "https://api.zhihu.com/topics/19551383"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60275261", 
+            "userName": "Ray Huang", 
+            "userLink": "https://www.zhihu.com/people/31521a1e3e347c96700aa1abfd4ca18b", 
+            "upvote": 3, 
+            "title": "什么是CPM, CPC和CPS？", 
+            "content": "<p>互联网广告平台因为业务模式的差别通常会有不同的计费模式，本片短文主要讨论几个主流的计费方式的特点和典型的使用这种结算方式的公司。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>CPM：</b></p><p>        按千次展示结算（Cost per Mille）是一种非常通用的在线广告结算方式。Mille在拉丁文和法语中是一千的意思，所以CPM就是每一千次展示的成本。广告的一次展示（Impression）通常代表着一个广告被一个用户浏览，而因为在在线广告领域中一次展示的成本往往很少（往往是一个小数点后几位的数字），直接看或者比较千次展示成本更加方便，所以CPM是一个更加流行的指标。Youtube等视频网站是比较典型的按CPM结算方式收费的网站，Youtube只会对用户对广告表示出了兴趣的展示收费（没有跳过广告，看完了完整的30秒广告，或者点击广告跳入了商家的页面），而具体的千次展示价格则要取决于广告的类型，目标用户等多种因素。</p><p>        对于广告提供者来说，CPM的结算方式往往意味着在该网站业务中，点击并不是一个主流的表示兴趣的互动方式，比如对于Youtube这样的视频平台，可能用户对广告很感兴趣并看完了整个广告，但是并没有直接点击广告而是通过其他平台搜索了有关信息。而对于广告的需求方来说，CPM类广告的具体转化效率则通常要低于CPC类广告，适合品牌广告和提高消费者认知类广告等距离转化比较远的广告类型。</p><p>     如图是Youtube视频播放之前的30秒广告，用户可以选择点击右下角的“Skip Ads”来跳过广告，这样广告主就不会被计费。而如果用户看完了整个三十秒的广告或者点击了左下角的“Get Grammarly”进入了商家的网站之中，就会被算作一次成功展示而被计费。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9e72507aaee065abc4bf01ea8942484e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1249\" data-rawheight=\"741\" class=\"origin_image zh-lightbox-thumb\" width=\"1249\" data-original=\"https://pic3.zhimg.com/v2-9e72507aaee065abc4bf01ea8942484e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1249&#39; height=&#39;741&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1249\" data-rawheight=\"741\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1249\" data-original=\"https://pic3.zhimg.com/v2-9e72507aaee065abc4bf01ea8942484e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9e72507aaee065abc4bf01ea8942484e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>CPC：</b></p><p>        按点击结算（Cost per Click）意味着只有当有用户点击了你的付费广告之后你才会被计费。Google是一个典型的CPC模型的公司。相比CPM模式来说，CPC意味着你更加直接的对向你的产品表示过兴趣的用户、流量付费。不过顺理成章的CPC也会更加昂贵。对比CPM和CPC的成本，下图一是Youtube广告的预估费用，千次展示大概10-60美元。而一个相似类型的google CPC 广告的单次点击成本则在14.8 到65.79之间，相当于一次google广告的点击就相当于了youtube广告的一千次展示。至于两种模式那种转化率更高，则和广告质量和广告主业务的类型有很大关系。</p><p>        除了高昂的成本之外，CPC模式的另一种需要注意的问题就是CPC带来的流量虽然代表了更为感兴趣的用户，但是这些用户也更可能不需要任何广告而会在某个时点自然转化。为了避免花费高昂成本吸引早晚会来的用户，广告主必须不断地实践优化关键词的选择和在不同广告平台上的资金投入。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-10500aec5b97a08e2e648a7b7dffac2f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"484\" data-rawheight=\"729\" class=\"origin_image zh-lightbox-thumb\" width=\"484\" data-original=\"https://pic4.zhimg.com/v2-10500aec5b97a08e2e648a7b7dffac2f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;484&#39; height=&#39;729&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"484\" data-rawheight=\"729\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"484\" data-original=\"https://pic4.zhimg.com/v2-10500aec5b97a08e2e648a7b7dffac2f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-10500aec5b97a08e2e648a7b7dffac2f_b.jpg\"/></figure><p>     下图中是Google对关键词Insurance（保险）的推广广告，这些广告会出现在其他正常搜索结果的最顶端，当有用户点击链接的时候google就会对广告主收费。<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a62566615bfa54090b543adb5e842f69_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"991\" data-rawheight=\"811\" class=\"origin_image zh-lightbox-thumb\" width=\"991\" data-original=\"https://pic2.zhimg.com/v2-a62566615bfa54090b543adb5e842f69_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;991&#39; height=&#39;811&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"991\" data-rawheight=\"811\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"991\" data-original=\"https://pic2.zhimg.com/v2-a62566615bfa54090b543adb5e842f69_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a62566615bfa54090b543adb5e842f69_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>CPS/CPA：</b></p><p>按销售结算（Cost per Sales）, 按某种转化行为结算（Cost per Action）则是一种对广告主来说更加友好的结算方式。因为销售和转化直接带来了收益，这种直接对转化付费的方式能够让广告主更加直接的比较广告的收益和成本之间的关系，从而避免在广告投放方面的损失。虽然这样的模式很能够收到广告主的青睐，它通常更加适用于离用户转化行为非常近的业务，能够保证自己每月给广告主带来足量的转化、销售。</p><p>Affiliate Marketing（联盟营销）是一种通常采用CPS模式结算的营销方式。他们会把广告主的广告需求分发到和自己有合约的各大中小网站之中。因为各大中小网站的转化效率通常难以估计，affiliate marketing的运营们也不会有譬如google, facebook等巨头的议价能力，采用CPS这种能够保证销售，对广告主友好的结算方式就非常顺理成章了。</p>", 
+            "topic": [
+                {
+                    "tag": "互联网", 
+                    "tagLink": "https://api.zhihu.com/topics/19550517"
+                }, 
+                {
+                    "tag": "在线广告", 
+                    "tagLink": "https://api.zhihu.com/topics/20047462"
+                }, 
+                {
+                    "tag": "互联网广告", 
+                    "tagLink": "https://api.zhihu.com/topics/19554609"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58873125", 
+            "userName": "Ray Huang", 
+            "userLink": "https://www.zhihu.com/people/31521a1e3e347c96700aa1abfd4ca18b", 
+            "upvote": 3, 
+            "title": "在线广告与众人皆知的“广告”公司", 
+            "content": "<p>在信贷行业做了一年半的数据分析之后，笔者在今年二月份换了新的工作。新的公司的主要产品是一个面向消费者的应用，而笔者的工作将会转变成主要支持市场营销部门的数据分析。全新的工作，全新的开始。市场营销（Marketing）和在线广告（Online Advertising）是笔者一直以来非常感兴趣的领域，是当今数据分析方法应用比较成熟的领域，今后笔者也会将精力和思考专注在市场营销和在线广告相关的内容。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文受启发于《计算广告》一书，未来也会持续分享更多阅读本书的感悟和体会。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果让你列出几个依靠广告收入作为主要收入的公司，你会想到哪些行业的哪些公司呢？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>也许比较显而易见的是大部分的传统媒体公司，传统意义上的各大电视台，报纸，广播。我们已经习惯了，在看各种电视节目的时候被植入越来越深的品牌赞助商，在看各种报刊杂志的时候花花绿绿的广告版面，广播间隙试图抓住你注意力的各种有磁性声音。这些媒介都是在互联网兴起之前广告的主要传播方式，而广告收入也毫无疑问是传统媒体的主要营收来源之一。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>然而在互联网迅速兴起并成功改变了人们的生活方式之后，也缔造了新的一批广告载体，在中国，他们是新浪/搜狐/网易到百度/微信/今日头条；在美国，他们是Yahoo到Google/Facebook。这些炙手可热的互联网产品拥有着比传统媒体公司高得多的市值，却运营着亿万人使用的免费产品，支持他们盈利和发展的其实也是广告，只不过是一种广告的新模式——在线广告。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>对于这些产品来说，首先，广告收入占据着绝对主体地位。以Facebook为例，来自Statista有关Facebook营收占比的图中浅蓝色的部分为广告收入，深蓝色为支付和其他费用收入。其次，如果我们横向对比他们与传统的媒体公司估值之间的差异，2018年世界上市值最高的媒体品牌是ESPN（146亿美元），而Facebook的市值则为4631亿美元，Facebook高了超过三十倍。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0cc5401432cf886210bee380ad6a3ee3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"743\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic4.zhimg.com/v2-0cc5401432cf886210bee380ad6a3ee3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1000&#39; height=&#39;743&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"743\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://pic4.zhimg.com/v2-0cc5401432cf886210bee380ad6a3ee3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0cc5401432cf886210bee380ad6a3ee3_b.jpg\"/></figure><p><b>为什么相比传统广告，在线广告能够产生如此多的收入并集中在少数巨无霸公司呢？</b></p><ul><li>用户数量级：</li></ul><p>一些互联网产品的规模和网络效应是历史上从来没有出现过的。以传统广告的载体电视为例，你很难想象一个国家甚至很多国家的观众只会把自己所有看电视的时间花在一个电视频道上，不同年龄阶段，不同性别， 不同语言的观众对于电视节目的需求是差异化的，而一个电视频道在同一个时间点只能播放一个电视节目。这种矛盾促使众多电视台可以同时存在，只要他们能满足一部分观众的需求，他们就能够在市场上存活。而对于一个有网络效应的互联网产品来说，情况则完全不同。社交类产品尤其典型，中国市场的微信，中国市场除外的Facebook对整个社交和即时通信类产品几乎形成了垄断，一个有差不多市场份额的竞争产品完全不存在。内在的逻辑就是，社交和即时通信类产品的核心就是人，以及人和人之间的联系，如果你想要联系的人并不存在于这个平台，结果只能是要么你把所有想联系的朋友都拉到这个平台，要么你加入所有想联系朋友都在的平台。这种特点给了微信和Facebook前所未有的用户数量级，截止到18年第四季度，Facebook的月活跃用户人数为23.2亿，而微信则为接近11亿。这样的规模是传统媒体完全无法企及的，也给了在线广告巨大的受众群体。</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>低成本获取客户信息：</li></ul><p>在一个电视台选择电视节目的时候，他们会知道坐在电视机面前的都是些什么人吗？也许市场调研部门可以通过取样调查的方式得到一些宏观的统计数据，但是传统媒体并没有渠道和方法得到自己受众的具体信息。而对于微信和Facebook而言，则简单得多，微信能够自然而然的获得你和每个人聊天的记录，只要有足够的数据，自然语言分析能够非常容易的推测出你的肖像特征；而Facebook，大多数人都会自愿的个人信息页填入自己的年龄，职业，单身与否等关键的数据。这些数据对于微信和Facebook的成本不过是多加几个服务器，而他们能产生的收入则是难以置信的。市场上的各种公司都在致力于寻找最适合自己的客户群体，用户的各种关键信息显然能够起到巨大的帮助。</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>个人定制：</li></ul><p>新的在线媒体的另一大革命性的特点就是低成本的个人定制广告的能力。每个人的手机和电脑都是一块屏幕，而在线广告能够在每块屏幕展示差异化的内容。一家人聚在电视机前看电视，孙子孙女和爷爷奶奶看到的是同一个广告，而如果全家人同时打开手机上的同一个应用，看到的广告则很可能完全不同。互联网产品新的运行模式使得针对个人定制的在线广告成为了可能，而各种方式收集，预测出的用户信息则极大地提高了个人定制广告的效率。也正是因为如此，现在的在线广告载体能够把每个人当做独特的广告位，而传统的媒体在同一个时间点则只有一个一个广告位。新兴的“媒体”们能够把所有的广告位分类拆分售卖给愿意对同类受众出最高价格的人，这种实现边际最大化收益的形式毫无疑问地远远优越于传统媒体售卖单一广告位的形式。</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>效果可衡量：</li></ul><p>如果一个公司在多个电视台同时投放广告，那么他将会如何衡量各个电视台的广告影响力大小呢？询问每一个消费者的方法显然不可行。在线广告的重要提供们则能反馈给你详尽点击和购买数据来帮助你衡量每一个广告的市场表现。这对于付钱卖广告的广告主来说是一个优化运营的机会，能够横向比较多个广告渠道的真实市场表现来选择最合适的广告投放策略；对于售卖广告的广告平台来说也是一个优化资源配置的机会，如何把特定的受众群体分配给最能产生收益的广告主也是一个需要不断优化的问题。</p>", 
+            "topic": [
+                {
+                    "tag": "广告", 
+                    "tagLink": "https://api.zhihu.com/topics/19553032"
+                }, 
+                {
+                    "tag": "数据分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19559424"
+                }, 
+                {
+                    "tag": "网络营销", 
+                    "tagLink": "https://api.zhihu.com/topics/19554412"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38148753", 
+            "userName": "Ray Huang", 
+            "userLink": "https://www.zhihu.com/people/31521a1e3e347c96700aa1abfd4ca18b", 
+            "upvote": 10, 
+            "title": "反欺诈与反欺诈建模（三）常见的互联网金融欺诈和应对方法--互联网金融欺诈者们的肖像画", 
+            "content": "<p></p><p>谈了这么久的反欺诈，大多集中在技术和建模的层面，这篇文章我想谈一谈互联网金融行业，尤其是网络信贷领域当中遇到的欺诈者们。不同类型的欺诈者之间有着截然不同的行为模式，而了解他们的基本类型对于制定相应的应对方法来说非常重要。 文章涉及的内容主要来自美国市场。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>身份偷窃（Identity Theft)</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国是一个有着非常健全信用管理体系的国家，有专业的信贷数据收集者来收集个人的信用交易记录，对每个人的信用情况进行打分，而你的信用分在你申请贷款的时候将会成为你会不会获得批准，会被批准多少额度的决定性因素。各个金融机构比较常用的信用评分就是FICO分数，是一家信用数据公司根据收集的消费者信用记录建模得到的分数。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-3449102ef71f3d5bc28810519ba6c29a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"838\" data-rawheight=\"343\" class=\"origin_image zh-lightbox-thumb\" width=\"838\" data-original=\"https://pic3.zhimg.com/v2-3449102ef71f3d5bc28810519ba6c29a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;838&#39; height=&#39;343&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"838\" data-rawheight=\"343\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"838\" data-original=\"https://pic3.zhimg.com/v2-3449102ef71f3d5bc28810519ba6c29a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-3449102ef71f3d5bc28810519ba6c29a_b.jpg\"/></figure><p>FICO分数的分布在不同经济背景下也会有所不同，上图就反映了从2007年到2017年以来FICO分数分布的变化，可以看到更多消费者向右边更高的分数组平移，也反映了当前相对更好的经济形势。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>回到身份偷窃的主题，身份信息偷窃并不是一个令人陌生的欺诈方式，这种现象在很多传统的金融领域也都非常普遍。人们可能是因为误点了钓鱼邮件从而泄露了自己的账户密码，或者是信用卡被偷窃或丢失而被盗刷，或者是因为身份证丢失被用来申请了好多贷款。一个真实存在的人被窃取了证实自己身份的关键性信息，这一系列的行为都可以算做是身份信息偷窃。<br/></p><p>身份信息偷窃是一种相对难以发现的网络欺诈类型，多数信贷平台会要求贷款人提供证明自己身份的证件信息，如果贷款人能够提供相应的身份证明，平台就很难发现这笔交易贷款的申请人其实并不是其本人。对于信用卡类的平台来说，可以通过对过往已经真实确定的身份盗窃申请记录进行建模，通过比较交易的地点，产品，价位，频率等等找到异常的刷卡行为能够有效的定位可能的身份盗窃和信用卡盗刷情况。但是应该注意的是，我们无法保证模型预测出来的有欺诈风险的客户100%就是真实的欺诈者，因此我们不能对预测的高风险客户采取一致的冻结账户的处理方式。而是应该通过人工核实或者短信确认等方式来排除预测高风险，但实际是正常交易的情况。至于如何选择合适的预测门槛值来确定需要进行进一步查证的账户，可以参考这篇airbnb的文章：<a href=\"https://link.zhihu.com/?target=https%3A//medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">medium.com/airbnb-engin</span><span class=\"invisible\">eering/fighting-financial-fraud-with-targeted-friction-82d950d8900e</span><span class=\"ellipsis\"></span></a></p><p>对于一次性贷款平台来说，因为公司并不会有申请者之前任何的交易信息记录，就几乎不可能靠公司自己的力量来鉴别身份偷窃的情况，市场上有一些第三方的数据库会记录在一些有风险网站或者黑市当中出现的个人身份和贷款数据。公司可以根据自己的体量，数据的成本和当前的欺诈率来决定是不是需要一些第三方数据的帮助。</p><p>很有意思的是，discover刚刚推出了一项新的功能，会帮助自己的信用卡用户监视网络黑市数据和信用记录局的更新情况及时报告给自己的客户，来帮助客户确定自己的身份是不是有被偷窃的风险。这也是一项非常有意义的创新。<a href=\"https://link.zhihu.com/?target=https%3A//www.discover.com/credit-cards/resources/protect-your-social-security-number\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">discover.com/credit-car</span><span class=\"invisible\">ds/resources/protect-your-social-security-number</span><span class=\"ellipsis\"></span></a></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>虚假身份 (Synthetic ID)</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>近些年出现的另一个大类的欺诈类型就是虚假身份。这些欺诈者更加聪明，相对于身份偷窃这种低效，又有随时被发现风险的个体户行为，虚假身份像是是一个高效高利润率的现代工厂。欺诈行为当中所用的身份并不一定是一个真实存在的人（也可能是一个从来没有信用记录的人），欺诈者在传造了一个虚假身份拿到身份证明之后，就开始帮这些虚假身份申请信用卡等入门信用产品。有耐心的欺诈者们并不会在一开始就用光所有额度之后逃之夭夭，他们会保持及时还款，保证虚假身份的良好信用记录，提高虚假身份的信用分数，从而能够从更多的平台当中申请到额度更大的贷款。然后待时机成熟，拿到所有能拿到的贷款，刷光所有信用卡之后逃之夭夭。这个链接当中的新闻就是一个相关的案例：<a href=\"https://link.zhihu.com/?target=https%3A//www.couriermail.com.au/news/hundreds-of-fake-credit-cards-and-identities-seized-from-a-western-sydney-home-set-up-as-a-factory-of-fraud/news-story/46ff3ed53e636c9308b54abb706ac243\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">couriermail.com.au/news</span><span class=\"invisible\">/hundreds-of-fake-credit-cards-and-identities-seized-from-a-western-sydney-home-set-up-as-a-factory-of-fraud/news-story/46ff3ed53e636c9308b54abb706ac243</span><span class=\"ellipsis\"></span></a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>对于此类的欺诈者，他们一个类似的特征就是，他们可能有着比较高的信用分数，但是他们信用记录时间较短，而信用申请记录却反常的多。遇到类似特征的申请者的时候就需要提高警惕，尤其是年龄有四十多岁，信用记录却只有两年，6个月内的信用申请记录却有十几个。这样的申请者就明显属于反常的，虚假身份高风险的申请者。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>应对这些欺诈者，可以对上述特征或者历史印证的欺诈客户建模，或者借助市场上的第三方数据产品。这种欺诈一旦发现可以在某个信用平台获得贷款，通常会短时间大批量涌入，给公司造成不小的损失。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>多次申请 (Loan stacking)</b><br/></p><p>另外一种不像上述两种行为这样极端的就是多次申请。这是一个很容易被公司忽视的情况。各个公司在决定给每个申请者贷款额度的时候考虑的是在申请者现有信用记录的情况下的风险和能够承受的最大损失，而如果这个申请者同时在其他公司还有贷款的话，这就相当于风险的加大和定价偏低。因为对于拥有相同记录的两个人，如果其中一个在其他地方拥有十万美元的贷款，另一个没有，他们得到的额度和定价应该是完全不同的。另外，如果一个申请者在多个信用平台申请贷款，那么很可能是因为某种突然的变故或者不确定性事件，这也会极大影响申请者的还款预期。<br/></p><p>对于这种类型的欺诈目前的检测方法比较有限，因为为了提高用户体验，通常贷款平台都在尽力缩短审核材料批准贷款的时间，而信用局的信用记录并不能做到短时间的实时更新。期待新的技术或者产品的出现能够帮助各个平台解决相关的问题。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "互联网金融", 
+                    "tagLink": "https://api.zhihu.com/topics/19586987"
+                }, 
+                {
+                    "tag": "风险控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19572931"
+                }, 
+                {
+                    "tag": "信贷", 
+                    "tagLink": "https://api.zhihu.com/topics/19582097"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Fan Liu", 
+                    "userLink": "https://www.zhihu.com/people/ef613c683f954db8ffffecab264e8f18", 
+                    "content": "同行～", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "才能有限青年", 
+                    "userLink": "https://www.zhihu.com/people/020526ed46eb434bc76dc3727e9ec382", 
+                    "content": "你好，就像你所说欺诈行为各有不同，导致欺诈客群各有不同，请问你们是对不同行为客群去依次识别？还是有个综合模型昵", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ray Huang", 
+                            "userLink": "https://www.zhihu.com/people/31521a1e3e347c96700aa1abfd4ca18b", 
+                            "content": "我觉得如果欺诈客群类型之间的差别很大，应该考虑对每种类型单独建模，综合起来很可能表现会不好", 
+                            "likes": 0, 
+                            "replyToAuthor": "才能有限青年"
+                        }, 
+                        {
+                            "userName": "小花", 
+                            "userLink": "https://www.zhihu.com/people/156fffd0ec66ecad49f910cf72370731", 
+                            "content": "不同行为客裙只的是什么?分类的标准是什么", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ray Huang"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36752266", 
+            "userName": "Ray Huang", 
+            "userLink": "https://www.zhihu.com/people/31521a1e3e347c96700aa1abfd4ca18b", 
+            "upvote": 27, 
+            "title": "反欺诈与反欺诈建模（二）- 怎么评价你的模型", 
+            "content": "<p>面对不同的建模问题，很多情况下，在开始建模之前我们的都要思考的一个问题就是我们应该选择什么样的方法和指标来评价一个模型的好坏。模型的建立绝对不是任何反欺诈的最终环节，我们的目标应该是如何利用建立的模型做出的预测来导向业务流程和优化业务决策，从而降低整个公司业务的损失率。而为了让建立的模型有用，非常重要的一点就是在和业务部门（我们必须假设他们是完全不懂统计和模型的人）沟通的时候，我们用来评价模型表现的指标能够让他们切身的体会到运用建立的模型来引导决策会带来多大的提高作用，会降低多少损失，会节省多少人力。如果业务部门在会上听到的是我们模型的准确率是多少，相比之前有了多少提高，恐怕他们在会议结束之后能够模糊记得的结论就只有“他们的模型比以前更好了”，而对于这跟自己有什么关系却并没有直观的感受。要想充分展现自己建立模型的实用性和魔力，赢得业务部门的认同和支持，选择一个合适的贴近业务的模型评价方法就至关重要。</p><p>这篇文章描述了我在做反欺诈模型的时候对于有效的模型评价手段的思考，希望和大家一起交流。</p><p>在刚刚开始思考建立反欺诈模型的时候，第一个我能想到的模型评价指标当然是准确率（accuracy）。翻开十本统计方面的书籍，有十一本书上面都会用模型准确率来评价分类问题（classification）的模型表现。这个指标的逻辑非常简单，适用性也非常广，如果用在反欺诈建模之中就是要比较预测欺诈和真实欺诈之间的关系，计算出这个表格：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2c338058b0e2e2d7028e3e6800b73a58_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"264\" data-rawheight=\"130\" class=\"content_image\" width=\"264\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;264&#39; height=&#39;130&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"264\" data-rawheight=\"130\" class=\"content_image lazy\" width=\"264\" data-actualsrc=\"https://pic1.zhimg.com/v2-2c338058b0e2e2d7028e3e6800b73a58_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>那么模型的准确率就是预测对了的数量（预测欺诈-真实欺诈，预测非欺诈-真实非欺诈）/总的数量，在上面表格的情况下我们模型的准确率就是 （30+200）/（20+30+50+200） = 76.67%。</p><p>听起来不错，但是对于反欺诈这问题这种非常不平衡（unbalanced）的数据类型，我们是要吧算出来的模型准确率和基线准确率（baseline accuracy）比较来评价模型好坏的。</p><p>我们来一个一个解释这中间出现的概念。不平衡数据就是说欺诈行为在所有数据当中出现的概率非常小，对于一个规模比较大的业务来说通常都不超过1%。在我们的例子当中是26.67%，当然已经是高的不科学的比例了。应该很少有公司能在这么高的欺诈率下面存活下去。</p><p>那么不平衡的数据对于模型预测有什么影响呢？和显然的是，如果我们的数据集当中欺诈率很低的话，如果我们做一个最简单的预测模型，肯定是预测下一个新的数据不是欺诈。而如果我们采取这个策略预测例子当中的所有数据都不是欺诈的话，我的模型准确率是220/300，73%。 这就是我的基线准确率。如果我们做出来了一个模型，准确率甚至不如基线准确率高，那这个模型就毫无用处。</p><p>所以在我们向业务部门汇报模型表现的时候，如果我们采用了准确率的指标，我们就要解释不平衡数据的特点，解释基线准确率，拿出我们的模型准确率，76.67%，拿出一个全猜一个结果的基线准确率，73%。 然后告诉他们我们的模型准确率很高，整整比基线利率高了3.67%。这些数据摆在业务部门面前：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>\t1. 他们可能根本无法理解不平衡数据和极限准确率的概念</p><p>\t2. 他们可能并不觉得3.67%是一个很大程度的提高</p><p>\t3. 他们根本搞不懂这跟他们的工作有什么关系</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>另一个统计学上非常常用的模型准确率评价指标就是AUC，这个指标相对模型准确率来说更加全面，但是对于业务部门来说也更加难以理解。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>那么，如果这些统计学当中常用的指标都不再适用，究竟什么才是合适的适合沟通的，贴近业务的评价指标呢？</p><p>在这里我想停下来思考一个问题，如果我建立了反欺诈模型，对所有新的客户做出了预测，业务部门拿到了我对所有客户的预测数据（比如说对每一个客户我们都有一个预测的该客户可能是欺诈的概率）之后他们会怎么办？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>他们会想确认那些模型预测出来非常可能是欺诈的客户到底是不是欺诈，如果是的话就及时制止发放贷款的流程。如果人力不要钱或者我们可以用google AI 给我们每一个客户打电话确认，那我们当然是会跟每一个客户进行确认的，但是这很明显不是现实情况。更有可能在每个公司发生的情况是，客户太多，而能做调查研究或者联系有风险客户的人太少。这种情况下，业务运营部门肯定要选择模型预测更高风险的人来进行调查联系，也就是说他们会对所有的模型预测风险慨率排序，从风险最高的客户开始调查，一直到自己在有限工作时间内能完成的最高风险概率的客户为止。这样的话，对于业务部门最重要的就是，模型预测高风险的客户当中真正是欺诈的比率（区间准确率），以及模型预测高风险的客户涵盖所有欺诈客户的比率（区间涵盖率）。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-3f52689ba5a5a61457465469fad063a2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"390\" data-rawheight=\"579\" class=\"content_image\" width=\"390\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;390&#39; height=&#39;579&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"390\" data-rawheight=\"579\" class=\"content_image lazy\" width=\"390\" data-actualsrc=\"https://pic3.zhimg.com/v2-3f52689ba5a5a61457465469fad063a2_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>比如上面这个模拟的数据，我们把数据按照预测风险概率排序，真实欺诈是我们标注所有客户当中真正是欺诈的客户，1代表这个客户确实是欺诈，0代表不是。那么如果我们以25%的客户为一个区间（通常数据集有更多的客户，所以区间在1%-5%比较合适），欺诈风险慨率排名靠前的25%客户的区间准确率是3/5，也就是60%，而区间涵盖率是3/5，也是60%。这两个指标可以告诉业务部门，如果你们靠着我的模型联系了前25%更有风险的客户，60%的情况下你们会联系到真正的欺诈客户，而且我们只会漏掉40%的所有的欺诈客户。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>业务部门听到这样的评价模型的方式之后对模型准确率的理解肯定比之前的统计指标更加直观，因为这涉及到了他们日常的工作流程。如果业务部门之前并没有任何模型预测的结果依靠的话，依靠模型预测的排序无疑是一个非常节省时间又能提高准确率的寻找欺诈客户的方法。而如果业务部门之前在用一个准确率更低的模型的话，就可以计算我们提供的新的模型对这两个指标带来了多少提高。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>比如我们对上面的数据进行一些微小的改变，当作是我们新的模型的预测结果：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c893ec4d550d38e752e7cdd78f875381_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"392\" data-rawheight=\"582\" class=\"content_image\" width=\"392\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;392&#39; height=&#39;582&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"392\" data-rawheight=\"582\" class=\"content_image lazy\" width=\"392\" data-actualsrc=\"https://pic2.zhimg.com/v2-c893ec4d550d38e752e7cdd78f875381_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>现在在前25%欺诈风险概率的区间当中，区间准确率为4/5， 80%， 区间覆盖率是4/5，80%。如果和旧的模型进行比较的话，如果我们只联系调查25%的所有客户的话，新的模型把准确率提高了20%，而覆盖率也提高了20%。而且如果我们要实现同样的覆盖率，也就是找到3个真实欺诈，新的模型当中我只需要联系前3个客户，而在旧的模型当中我需要联系5个。这就说明如果我们只是想保持同样的欺诈鉴别覆盖率，我们节省了40%的人力。这个时候恐怕运营部门领导已经从椅子上跳起来了，因为他们真实看到了你更新的模型对于整个部门的影响力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这就是我在做欺诈鉴别模型的时候的一些思考，希望总结一下和大家一起交流。欢迎大家在评论区留言提出更好的模型评价指标，互相交流学习也是我写作的最大动力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>欢迎大家点赞让更多做风险和反欺诈的同行看到来一起交流。</p>", 
+            "topic": [
+                {
+                    "tag": "统计学", 
+                    "tagLink": "https://api.zhihu.com/topics/19558740"
+                }, 
+                {
+                    "tag": "反欺诈", 
+                    "tagLink": "https://api.zhihu.com/topics/20057362"
+                }, 
+                {
+                    "tag": "商业分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19589322"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>很棒，学习了</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "童仔陈", 
+                    "userLink": "https://www.zhihu.com/people/c7827cc17cb2ed8982705b69462b9152", 
+                    "content": "<p>非常有借鉴价值！</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "鹅卵石", 
+                    "userLink": "https://www.zhihu.com/people/fab347bc465479a732571e020b854a8a", 
+                    "content": "厉害啦，能加您微信咨询沟通下么", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31388067", 
+            "userName": "Ray Huang", 
+            "userLink": "https://www.zhihu.com/people/31521a1e3e347c96700aa1abfd4ca18b", 
+            "upvote": 32, 
+            "title": "反欺诈与反欺诈建模（一）-反欺诈概述", 
+            "content": "<p>最近刚好在做一个反欺诈的项目，结合自己有限的经验谈谈自己的想法，希望能和大家一起交流。本人目前在美国工作，所以相关经验也都是以美国市场为基础的，也希望能和国内的同行们互相交流借鉴。</p><p>反欺诈问题在金融行业各个公司的风险管理部门当中应该都是一个很重要的问题，我所工作的公司是一家有着网络申请平台的消费者贷款公司。无抵押贷款本来就是一个风险和损失率更大的行业，因为取得贷款更加容易，就会有更多欺诈行为的出现，反欺诈就显得更加重要。而基于网络平台的公司更加有利于收集贷款人的相关数据，加上美国更加全面的信用数据，反欺诈建模的工作也更容易进行。</p><p>首先我想从风险的角度谈一谈欺诈这个问题。金融行业中信贷领域有两种不同的风险，一种是运营风险（Operational Risk）一种是信用风险（Credit Risk）而这两种风险应该说是完全不同的。 信用风险是因为贷款人生活当中的一些不确定性而造成的，信用风险造成的损失是公司无法避免的。这些还不上款的贷款人在贷款的时候是有还款意愿的，只是因为生活当中的一些突发情况或者其他原因而造成了还不上款的情况。比如一个借款人借款买了手机，而在还款期间突然生了重病，那他必定会先用自己所有的积蓄在医疗开销上，手机的贷款自然很容易就无法还上了。公司的贷款金融产品存在信用风险是肯定的。而且公司所应该做的并不是应该减少信用风险，而是应该控制信用风险，让自己获得的风险报酬减去风险损失之后还能够获得利润。</p><p>而欺诈行为则并不能被算作为信用风险，因为借款人在借款的时候就没有任何还款意愿，那就意味着风险收益是0，这是一种运营风险，而且是一种应该尽力减少的运营风险，否则会大量蚕食企业利润，大幅提高损失率。欺诈者没有还款意愿具体体现在First Payment Default上，就是说这些借款人在拿到贷款之后一次款都没有还过，直接到一定时间之后被企业记作了损失。而信用风险的借款人多是在某个时点开始出现款项延迟（payment delinquent）的情况，然后从某个时点开始不在付款。所以一个公司的First Payment Default Rate 应该是可以判断欺诈行为严重程度的重要指标。</p><p>说了这么多，这对于我们的风险建模到底有什么作用和启示呢。就是对于欺诈建模和信用风险建模，可以说我们的目标是完全不同的。欺诈建模我们更加在意的覆盖的全面性，我们用这个模型能不能尽可能多的找出交易当中的欺诈行为，这些欺诈交易有没有排名在模型预测出来高风险交易的前列。而对于信用风险来说，因为有更多不确定性，我们没有办法要求一个模型能够预测出所有的信用风险交易，就会有其他的目标。</p><p>那么有了这些目标之后，我们应该选取什么样的指标来评价模型是否有效呢？我会在下一篇文章当中谈论这个问题。</p>", 
+            "topic": [
+                {
+                    "tag": "风险管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19628607"
+                }, 
+                {
+                    "tag": "风险控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19572931"
+                }, 
+                {
+                    "tag": "欺诈", 
+                    "tagLink": "https://api.zhihu.com/topics/19577402"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "安不若素", 
+                    "userLink": "https://www.zhihu.com/people/eaec376d020d5a70f7ca3e29a0fab9e2", 
+                    "content": "期待下篇文章！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "sunny", 
+                    "userLink": "https://www.zhihu.com/people/b3773b089da49f69230b481874f06b6b", 
+                    "content": "您好，有关反欺诈模型的选择，您可以推荐几个吗？目前正在做毕设开题的准备阶段，想通过大神多了解一下反欺诈这方面", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "join", 
+                            "userLink": "https://www.zhihu.com/people/2c50bafadbcd2864dfd4771522094ee4", 
+                            "content": "想问同学你做的怎么样了", 
+                            "likes": 0, 
+                            "replyToAuthor": "sunny"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_133754705"
+}

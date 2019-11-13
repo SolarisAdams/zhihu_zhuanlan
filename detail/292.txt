@@ -1,0 +1,137 @@
+{
+    "title": "咣咣咣的数据分析", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/lyfjiayou", 
+        "https://www.zhihu.com/people/sun-shao-yan", 
+        "https://www.zhihu.com/people/kong-cheng-zui-da-ying-jia", 
+        "https://www.zhihu.com/people/zhuang-yuan-xin-99", 
+        "https://www.zhihu.com/people/mie-yang-69", 
+        "https://www.zhihu.com/people/kuang-peng-30", 
+        "https://www.zhihu.com/people/heyang-36", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40480711", 
+            "userName": "Alexis HE", 
+            "userLink": "https://www.zhihu.com/people/3b2e944f65f8f2e1cf926ee7079a4419", 
+            "upvote": 0, 
+            "title": "协同过滤：item_based vs user_based", 
+            "content": "<p></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-63478a22f5ff7a8616834d0a53c70279_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1052\" data-rawheight=\"1058\" class=\"origin_image zh-lightbox-thumb\" width=\"1052\" data-original=\"https://pic2.zhimg.com/v2-63478a22f5ff7a8616834d0a53c70279_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1052&#39; height=&#39;1058&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1052\" data-rawheight=\"1058\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1052\" data-original=\"https://pic2.zhimg.com/v2-63478a22f5ff7a8616834d0a53c70279_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-63478a22f5ff7a8616834d0a53c70279_b.jpg\"/></figure><p>That&#39;s it! </p>", 
+            "topic": [
+                {
+                    "tag": "推荐系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19563024"
+                }, 
+                {
+                    "tag": "数据挖掘", 
+                    "tagLink": "https://api.zhihu.com/topics/19553534"
+                }, 
+                {
+                    "tag": "个性化推荐", 
+                    "tagLink": "https://api.zhihu.com/topics/19569242"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37246394", 
+            "userName": "Alexis HE", 
+            "userLink": "https://www.zhihu.com/people/3b2e944f65f8f2e1cf926ee7079a4419", 
+            "upvote": 34, 
+            "title": "分类模型性能评估——Accuracy, Precision, Recall, F-Score...", 
+            "content": "<p>对于<b>分类</b>问题而言，一个模型训练好了之后需要判断模型的性能好坏，常用的评价指标有这些：Accuracy，Precision，Recall...</p><p>P.S. 在阅读文章的时候发现对于accuracy和precision到底哪个叫做准确率，哪个叫做精确率，都有不同的叫法，为了避免混淆，下文全部使用英文词汇，不会混淆。</p><p>那么这些概念分别是什么意思呢？什么情况下使用哪个评价指标呢？作者一度感到有点糊涂，阅读了一些文章之后算是弄清楚了，所以把自己的理解写下来，一方面便利有困惑的人理解，一方面也是另一个理清自己思路的方法，最后一方面希望可以多和做BA/DA/DS的各位大佬交流。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>先以最简单也是最常见的二分类为例说明，之后再拓展到多分类问题。举一个具体的例子：</p><div class=\"highlight\"><pre><code class=\"language-text\">假如某个班级有男生80人,女生20人,共计100人.目标是找出所有女生.\n现在某人挑选出50个人,其中20人是女生,另外还错误的把30个男生也当作女生挑选出来了.\n作为评估者的你需要来评估(evaluation)下他的工作</code></pre></div><p>首先是accuracy，这个很简单，就是：分类正确的样本个数/总样本数</p><p>在这个例子中就是，（20（正确识别为女生）+50（正确识别为男生））/ 100 =70%</p><p>这样看起来accuracy是不是还挺合理的？对于一个分类模型来说，你判断的准的多的话，肯定很好，但是设想下面这样一个问题：</p><div class=\"highlight\"><pre><code class=\"language-text\">我要识别一个人是不是感染了某种病，这个识别可以转换成二分类问题，即判断：是否有病。</code></pre></div><p>现在找来了1000个人进行分类，其中有1个人是有病的。假如我判断所有的人都没有发病，那么accuracy是多少？99.9%！这看上去超级高，但是有意义吗？并没有。</p><p>另一方面，在是否有病的二分类问题中，我的目标其实是找出有病的人，但是accuracy包含了正确找出的有病的人，和正确找出的没病的人。如果我只想要看这个分类器正确找出有病的人的能力怎么样怎么办呢？accuracy是没办法满足的。</p><p>所以可以总结一下。1. accuracy实际上是<b>不管我的分类目标的</b>，accuracy只计算每一类分类正确的数量然后加总计算百分比。2. 对于<b>类别极不均衡</b>问题，就会给人以分类效果很好的错觉，但其实分类器可能一点用也没有。</p><p>反过来说，accuracy适合什么样的情况呢？<b>1. 不需要具体筛选出来某一类</b>的分类问题，比如我想区分红色和绿色，我没有特别的偏好，就是希望红色和绿色都能分对，那就可以。而不是我就想选出全部的绿色、我只关心选出来的绿色准不准。<b>2. 类别是均衡的</b>，不会红色10个点，绿色10000个点。那么多少算均衡呢？其实这个没有绝对的指标，我个人认为可以按照这个标准判断：如果把所有样本都划为多的那一类，不超过80%（或者任何你的觉得分类器还行的心理阈值，90%，70%等等）</p><p>现在市面上的文章多强调accuracy不能满足类别不均衡的判断，但是很少提到分类目标的问题，我个人认为这也是很重要的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>好了，接下来说，对于那个检测是否有病的例子（有分类目标；类别不均衡），应该用什么指标呢？应该用Precision, Recall, F-Score。在讲解这三个概念之前，需要明确下面几个概念</p><p>对于每一个分类问题，模型训练结束之后进行测试，会出现如下四种情况：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-470b360fd19e4397c3138384e61f8153_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"690\" data-rawheight=\"281\" class=\"origin_image zh-lightbox-thumb\" width=\"690\" data-original=\"https://pic4.zhimg.com/v2-470b360fd19e4397c3138384e61f8153_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;690&#39; height=&#39;281&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"690\" data-rawheight=\"281\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"690\" data-original=\"https://pic4.zhimg.com/v2-470b360fd19e4397c3138384e61f8153_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-470b360fd19e4397c3138384e61f8153_b.jpg\"/></figure><p>以FP为例，本来没病的，一检测是阳性，那可不就是假阳性嘛，false positive。</p><ul><li>Precision= TP/（TP+FP） </li><li>Recall =TP/(TP+FN)</li></ul><p>可以发现，precision和recall的分子都是TP，即正确识别出的目标类别。从这一点我们就可以看出，这两个指标是用在有目标类别上的，都是围着正确识别出的目标类别转的。</p><p>在检测是否有病的问题中，如果分类器简单粗暴的说大家都没病，那TP其实是0，那么precision和recall都是0，这样问题就会一下子暴露出来。</p><p>precision的分母是所有检测出来positive的，即TP + FP, 衡量的是一个分类器挑出来的东西中，<b>是我们要的东西</b>的比例。在检测是否有病的问题中，就是你挑出来了病人，但是是不是有好多不是病人也被你认为是病人？如果是的话，precision分数就会很低。</p><p>recall的分母是所有事实上是positive的，即TP + FN , 衡量的是一个分类器挑出来的我们想要的东西占实际上<b>所有</b>我们想要的东西的比例。在检测是否有病的问题中，就是你挑出来了病人，但是一共我有好多病人，是不是都给你涵盖了，你有没有放过好多其实是病人的人？如果是的话，recall分数就会很低。</p><p>可以发现，precison和recall压根都没用到TN，即实际上没病、检测出来也没病的人，因为这个问题中，我们根本不关心没病的人。从另一种程度上，这是Precision和recall对于我们部分数据的未利用和忽略，相比之下，accuracy是用到了全部的数据，其实</p><ul><li>accuracy= (TP+FN)/(TP+TN+FP+FN)。</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>下面举一些分类器检测性能的例子，来看不同的recall和precision。</p><p>还是之前的检测是否有病问题，10000人里有10个人有病，</p><p>1。我的一号分类器检测出来50个人有病，其中包含了这10个真正有病的人，那么recall = 10/10=100%, precision = 10/50=20%。</p><p>2。 我的二号分类器检测出来的50个人里没有包含任何真正有病的人呢？recall =precision =0.</p><p>3。我的三号分类器检测出来了5个人，这5个人都是有病，recall =5/10=50%, precison =5/5=100%.</p><p>4。我的四号分类器检测出来10个人，5个人有病，5个人没病，recall=precision=50%</p><p>我该选择哪一个分类器呢？</p><p>具体情况具体看待，如果这是很严重的疾病，必须早发现早治疗，并且误检之后再次检测的成本也不大，那我们倾向于不放过任何一个有病的人，即recall尽可能大的情况下选择precision最大的。同样适用于导弹检测、信用卡欺诈检测和任何非常严重最好一次都不要发生的事情。</p><p>那如果是垃圾邮件呢？我个人认为，如果把重要邮件误检测为垃圾邮件的代价可能会很大，因此我宁愿放过一些垃圾邮件也不愿意误把重要邮件当成垃圾邮件，因此precision要尽可能高，recall可以低一点。同样适用于任何有漏网之鱼没那么严重，但如果错当成了鱼就不好的事情，比如法律上的疑罪从无。</p><p>我们之前还提到了F-score，</p><ul><li>F-score= 2*precision*recall/(precision+recall） </li></ul><p>只是precison和recall的调和平均，我个人认为参考价值有限，只是如果你懒得看precison和recall两个指标的话，那么可以只看f-score，如果precison和recall有任何一方特别低，那么f-score也会低，所以f-score更强调一个模型需要兼有 减少漏网之鱼（recall尽可能大）和抓上来的每条都是想要的鱼（precision尽可能大）的特点。</p><p>但是我个人认为，在一个模型中，如果类别是均衡的，一般分类器都会均衡地识别两个类。如果类别是不均衡的，分类器不然直接失灵（全部预测为一类），这时候recall和precision都是0了；不然就是过多地预测类别较少的那一类，所以这个时候多关注一下precision来进行模型调优即可。</p><p>这时候的模型调优我认为有两种方法，1 是改动损失函数，加大对类别少的那一类分类错误的惩罚。2 是增加类别少的那一类的样本数量，即自然情况下，病人/非病人=1/1000，我在训练模型的时候，特地找来500个病人和非病人进行训练，训练之后放回1/1000的真实场景中测试。那么这样训练出来的结果，最后模型的recall 和 precision还会低吗？哪一个容易低呢？留给大家回答。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>参考文章：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.cnblogs.com/sddai/p/5696870.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">准确率(Accuracy), 精确率(Precision), 召回率(Recall)和F1-Measure</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "数据挖掘", 
+                    "tagLink": "https://api.zhihu.com/topics/19553534"
+                }, 
+                {
+                    "tag": "分类", 
+                    "tagLink": "https://api.zhihu.com/topics/19559897"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "gg.jiang", 
+                    "userLink": "https://www.zhihu.com/people/7e0b5eaf7c2397023c056f73c8e2d208", 
+                    "content": "<p>也在网上看了几篇博客,数您写得最详细,谢谢分享</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Alexis HE", 
+                            "userLink": "https://www.zhihu.com/people/3b2e944f65f8f2e1cf926ee7079a4419", 
+                            "content": "<p>谢谢！</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "gg.jiang"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Jason Zhang", 
+                    "userLink": "https://www.zhihu.com/people/a63cd98df528e91a42a3aec61baf826e", 
+                    "content": "accuracy公式有误", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Alexis HE", 
+                            "userLink": "https://www.zhihu.com/people/3b2e944f65f8f2e1cf926ee7079a4419", 
+                            "content": "<p>哪里错了呢？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Jason Zhang"
+                        }, 
+                        {
+                            "userName": "Jason Zhang", 
+                            "userLink": "https://www.zhihu.com/people/a63cd98df528e91a42a3aec61baf826e", 
+                            "content": "分子应该是TP+TN", 
+                            "likes": 3, 
+                            "replyToAuthor": "Alexis HE"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Gang He", 
+                    "userLink": "https://www.zhihu.com/people/f69ecc18d3a936521c3910fc2f63a4b1", 
+                    "content": "<p>介绍下auc/roc,mAP这些就好了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "论文狗", 
+                    "userLink": "https://www.zhihu.com/people/bad4f24fb6ec0683d966797262533b8f", 
+                    "content": "<p>accuracy= (TP+FN)/(TP+TN+FP+FN)，这个是不是写错了，是TP+TN吧？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Alexis HE", 
+                            "userLink": "https://www.zhihu.com/people/3b2e944f65f8f2e1cf926ee7079a4419", 
+                            "content": "<p>啊是写错了，谢谢</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "论文狗"
+                        }, 
+                        {
+                            "userName": "Alexis HE", 
+                            "userLink": "https://www.zhihu.com/people/3b2e944f65f8f2e1cf926ee7079a4419", 
+                            "content": "<p>不过是不是貌似没法编辑了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "论文狗"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "姚顺", 
+                    "userLink": "https://www.zhihu.com/people/499df6912566ed81f8e74f226c34fa78", 
+                    "content": "<p>应该是presicion变小的多一些吧，因为训练出的模型习惯了类别比例是一比一，当应用到1000：1的数据时，那么模型预测FP会偏大，presicion减小，是这样吧？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_107782421"
+}

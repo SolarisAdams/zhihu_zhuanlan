@@ -1,0 +1,1284 @@
+{
+    "title": "一斤桃花", 
+    "description": "一般正经的胡说八道", 
+    "followers": [
+        "https://www.zhihu.com/people/kkge-40", 
+        "https://www.zhihu.com/people/mao-hua-yong-21", 
+        "https://www.zhihu.com/people/zhao-sen-13-42", 
+        "https://www.zhihu.com/people/chrisjiang-36", 
+        "https://www.zhihu.com/people/tu-tu-22-32-13", 
+        "https://www.zhihu.com/people/bai-xiao-sheng-18-95", 
+        "https://www.zhihu.com/people/chang-jun-han-22", 
+        "https://www.zhihu.com/people/si-bo-27-41", 
+        "https://www.zhihu.com/people/chen-mou-ren-3-10", 
+        "https://www.zhihu.com/people/neo-ren-34", 
+        "https://www.zhihu.com/people/shi-ke-li-93", 
+        "https://www.zhihu.com/people/jing-da-gou", 
+        "https://www.zhihu.com/people/1912-51-24", 
+        "https://www.zhihu.com/people/a-xin-70-47", 
+        "https://www.zhihu.com/people/yi-gai-39", 
+        "https://www.zhihu.com/people/milanarsenal", 
+        "https://www.zhihu.com/people/koo-48-34-70", 
+        "https://www.zhihu.com/people/yywdaoyuliang", 
+        "https://www.zhihu.com/people/luan-shi-feng-yun-er", 
+        "https://www.zhihu.com/people/xin-kou-bu-yi-77", 
+        "https://www.zhihu.com/people/luping-27", 
+        "https://www.zhihu.com/people/liu-yi-fan-51-10", 
+        "https://www.zhihu.com/people/mei-meng-wu-bian-7", 
+        "https://www.zhihu.com/people/can-chen-49-29", 
+        "https://www.zhihu.com/people/gu-ren-yi-pian", 
+        "https://www.zhihu.com/people/wa-wa-wa-15-7", 
+        "https://www.zhihu.com/people/du-peng-18-41", 
+        "https://www.zhihu.com/people/hua-er-zi-93-46", 
+        "https://www.zhihu.com/people/hong-yan-gui-xi", 
+        "https://www.zhihu.com/people/ha-ha-52-7-66", 
+        "https://www.zhihu.com/people/rrrr-wwww-61", 
+        "https://www.zhihu.com/people/wo-bu-zhi-dao-58-76-75", 
+        "https://www.zhihu.com/people/zhou-guan-yu-87-91", 
+        "https://www.zhihu.com/people/dyna-79", 
+        "https://www.zhihu.com/people/wang-gang-78-54", 
+        "https://www.zhihu.com/people/sui-yue-22-20-95", 
+        "https://www.zhihu.com/people/lyj-28", 
+        "https://www.zhihu.com/people/deng-yu-hong-9", 
+        "https://www.zhihu.com/people/Dr.Penn", 
+        "https://www.zhihu.com/people/cheng-yu-si-99-67", 
+        "https://www.zhihu.com/people/yi-cong-26-61", 
+        "https://www.zhihu.com/people/wen-jian-wen-11", 
+        "https://www.zhihu.com/people/xu-zu-qiang-56", 
+        "https://www.zhihu.com/people/liu-si-quan-42", 
+        "https://www.zhihu.com/people/chang-duan-wu-nian", 
+        "https://www.zhihu.com/people/jamison-zhao", 
+        "https://www.zhihu.com/people/tian-kong-de-wu-yun-87", 
+        "https://www.zhihu.com/people/bocichina", 
+        "https://www.zhihu.com/people/mi-fen-49", 
+        "https://www.zhihu.com/people/wei-wen-chang-1", 
+        "https://www.zhihu.com/people/NotAndOr", 
+        "https://www.zhihu.com/people/wang-ke-le-49-80", 
+        "https://www.zhihu.com/people/qia-pai-82", 
+        "https://www.zhihu.com/people/jiang-you-da-q", 
+        "https://www.zhihu.com/people/chang-shan-dao", 
+        "https://www.zhihu.com/people/li-hai-60-49", 
+        "https://www.zhihu.com/people/de-yi-shuang-xin-zhang-lao-shi-83", 
+        "https://www.zhihu.com/people/qi-xiao-se-527", 
+        "https://www.zhihu.com/people/liu-yue-20-12", 
+        "https://www.zhihu.com/people/miao-zhi-66-4", 
+        "https://www.zhihu.com/people/4568-85", 
+        "https://www.zhihu.com/people/lu-tu-zhi-bin-33", 
+        "https://www.zhihu.com/people/mr-john-92", 
+        "https://www.zhihu.com/people/wo-you-yi-hu-jiu-32", 
+        "https://www.zhihu.com/people/pi-sha-men-tian-93", 
+        "https://www.zhihu.com/people/wang-yi-50-11", 
+        "https://www.zhihu.com/people/li-you-fan-24", 
+        "https://www.zhihu.com/people/su-guo-82", 
+        "https://www.zhihu.com/people/gou-peng-35", 
+        "https://www.zhihu.com/people/koala-bear-1", 
+        "https://www.zhihu.com/people/wang-liang-53-13", 
+        "https://www.zhihu.com/people/nukacolamania", 
+        "https://www.zhihu.com/people/duo-shao-fei-liu", 
+        "https://www.zhihu.com/people/zhangxi-89", 
+        "https://www.zhihu.com/people/yuan-zi-yang-73-3", 
+        "https://www.zhihu.com/people/jiu-xiang-ning-meng-shu", 
+        "https://www.zhihu.com/people/yao-dao-tie-sui-ya-52", 
+        "https://www.zhihu.com/people/yi-luo-kui", 
+        "https://www.zhihu.com/people/xing-shi-xiao-wei-ba", 
+        "https://www.zhihu.com/people/we-m-y-x-c", 
+        "https://www.zhihu.com/people/si-tu-wang-lang-70", 
+        "https://www.zhihu.com/people/qi-zheng-se-ye", 
+        "https://www.zhihu.com/people/qing-yuan-gu-li", 
+        "https://www.zhihu.com/people/edward-86-53", 
+        "https://www.zhihu.com/people/wang-xiao-er-43-64", 
+        "https://www.zhihu.com/people/yi-yang-27-72", 
+        "https://www.zhihu.com/people/zheng-ying-32-84", 
+        "https://www.zhihu.com/people/mayi9", 
+        "https://www.zhihu.com/people/tigerchou-70", 
+        "https://www.zhihu.com/people/chi-hen-69-70", 
+        "https://www.zhihu.com/people/wa-er-64", 
+        "https://www.zhihu.com/people/chun-ji-ji-wu-ming-89", 
+        "https://www.zhihu.com/people/zhang-jia-wei-87-99-17", 
+        "https://www.zhihu.com/people/gentelman-19", 
+        "https://www.zhihu.com/people/li-li-48-2-84", 
+        "https://www.zhihu.com/people/tian-dian-feng", 
+        "https://www.zhihu.com/people/wang-fan-chen", 
+        "https://www.zhihu.com/people/liu-yu-70-51-65", 
+        "https://www.zhihu.com/people/akatsuki-98", 
+        "https://www.zhihu.com/people/song-hao-82-95", 
+        "https://www.zhihu.com/people/shuang-mu-14-66", 
+        "https://www.zhihu.com/people/huang-zi-xuan-10-39", 
+        "https://www.zhihu.com/people/fei-chai-7-22", 
+        "https://www.zhihu.com/people/wang-zi-yue", 
+        "https://www.zhihu.com/people/bu-zai-jia-95", 
+        "https://www.zhihu.com/people/zhang-sheng-95-12", 
+        "https://www.zhihu.com/people/gommes", 
+        "https://www.zhihu.com/people/zhang-zhang-91-97", 
+        "https://www.zhihu.com/people/lao-gao-46-96", 
+        "https://www.zhihu.com/people/gu-ke-ke-35", 
+        "https://www.zhihu.com/people/sui-shu-5", 
+        "https://www.zhihu.com/people/shang-di-87-82", 
+        "https://www.zhihu.com/people/ji-zhi-de-shui-shao-jiang", 
+        "https://www.zhihu.com/people/sun-lei-23-80", 
+        "https://www.zhihu.com/people/li-fo-bi", 
+        "https://www.zhihu.com/people/wang-jing-rui-98", 
+        "https://www.zhihu.com/people/li-yang-78-6", 
+        "https://www.zhihu.com/people/cowseden", 
+        "https://www.zhihu.com/people/yun-lei-zhi-xiang", 
+        "https://www.zhihu.com/people/bing-feng-ling-yu-69", 
+        "https://www.zhihu.com/people/hua-zi-piao-ling-shui-zi-liu-87-43", 
+        "https://www.zhihu.com/people/bu-mei-de-yun-cai", 
+        "https://www.zhihu.com/people/li-peng-1-90", 
+        "https://www.zhihu.com/people/zhi-hu-3-56-16", 
+        "https://www.zhihu.com/people/hubei94", 
+        "https://www.zhihu.com/people/san-qiang-30", 
+        "https://www.zhihu.com/people/bai-xiao-ming-71", 
+        "https://www.zhihu.com/people/fei-zai-zhi-pin", 
+        "https://www.zhihu.com/people/nei-xian-31", 
+        "https://www.zhihu.com/people/ji-peng-cheng-56-74", 
+        "https://www.zhihu.com/people/eternity-1-37", 
+        "https://www.zhihu.com/people/liu-liang-44-54", 
+        "https://www.zhihu.com/people/yao-yi-yi-3-58", 
+        "https://www.zhihu.com/people/luo-shen-49", 
+        "https://www.zhihu.com/people/lei-cong-wei-18", 
+        "https://www.zhihu.com/people/kai-liu-76", 
+        "https://www.zhihu.com/people/wang-yi-40-14-63", 
+        "https://www.zhihu.com/people/ta-ren-yi-yi-ge-58", 
+        "https://www.zhihu.com/people/zeala-yu", 
+        "https://www.zhihu.com/people/cen-ming-sha", 
+        "https://www.zhihu.com/people/wang-zhi-wei-57-6", 
+        "https://www.zhihu.com/people/han-ya-chao-89", 
+        "https://www.zhihu.com/people/kong-kong-kong-50-89", 
+        "https://www.zhihu.com/people/jackygo", 
+        "https://www.zhihu.com/people/wang-lei-8-68", 
+        "https://www.zhihu.com/people/shaoxilizheng", 
+        "https://www.zhihu.com/people/gao-zhi-18-96", 
+        "https://www.zhihu.com/people/tang-ru-jie-74", 
+        "https://www.zhihu.com/people/wang-shao-pi", 
+        "https://www.zhihu.com/people/dan-yong-long", 
+        "https://www.zhihu.com/people/xing-zhe-hao-ben-fu-biao-de", 
+        "https://www.zhihu.com/people/hhhhi", 
+        "https://www.zhihu.com/people/seahoi2001", 
+        "https://www.zhihu.com/people/li-guang-peng-75", 
+        "https://www.zhihu.com/people/feng-kuang-ke-xue-jia-ken-de-ji", 
+        "https://www.zhihu.com/people/qiang-zi-peng-95", 
+        "https://www.zhihu.com/people/xiao-xing-xing-0401", 
+        "https://www.zhihu.com/people/hao-hao-83-25", 
+        "https://www.zhihu.com/people/da-guai-sheng-ji-95", 
+        "https://www.zhihu.com/people/yuan-jing-45-3", 
+        "https://www.zhihu.com/people/chi-tang-li-you-qing-wa", 
+        "https://www.zhihu.com/people/lainey-lou", 
+        "https://www.zhihu.com/people/zhao-jiu-ming-47", 
+        "https://www.zhihu.com/people/zi-fei-yu-0830", 
+        "https://www.zhihu.com/people/lin-yu-69-76", 
+        "https://www.zhihu.com/people/wu-lian-2333", 
+        "https://www.zhihu.com/people/mu-li-66-59", 
+        "https://www.zhihu.com/people/lionlover", 
+        "https://www.zhihu.com/people/xie-zi-xuan-86", 
+        "https://www.zhihu.com/people/su-vv", 
+        "https://www.zhihu.com/people/xu-xiao-bai-41-59", 
+        "https://www.zhihu.com/people/sun-shu-12", 
+        "https://www.zhihu.com/people/yu-kang-cheng", 
+        "https://www.zhihu.com/people/zh-cooper", 
+        "https://www.zhihu.com/people/yan-xi-wan", 
+        "https://www.zhihu.com/people/liao-hui-74-16", 
+        "https://www.zhihu.com/people/sun-shu-28-57", 
+        "https://www.zhihu.com/people/qi-shi-dao-ming-78", 
+        "https://www.zhihu.com/people/zhang-xiao-feng-5-6", 
+        "https://www.zhihu.com/people/yu-qiu-ming", 
+        "https://www.zhihu.com/people/tuo-hai-zhu-1", 
+        "https://www.zhihu.com/people/yue-mi-feng-ying-36", 
+        "https://www.zhihu.com/people/huang-lin-22", 
+        "https://www.zhihu.com/people/zai-fei-50", 
+        "https://www.zhihu.com/people/kramer-37", 
+        "https://www.zhihu.com/people/shi-qi-hu-yang", 
+        "https://www.zhihu.com/people/jian-qiang-82", 
+        "https://www.zhihu.com/people/hao-ren-18-27", 
+        "https://www.zhihu.com/people/yu-shi-liang-10", 
+        "https://www.zhihu.com/people/flying-zz", 
+        "https://www.zhihu.com/people/chen-li-lei-96-47", 
+        "https://www.zhihu.com/people/fang-xiao-chun-50", 
+        "https://www.zhihu.com/people/xue-ping-shan", 
+        "https://www.zhihu.com/people/liu-ke-zhong-50", 
+        "https://www.zhihu.com/people/liu-jie-kai", 
+        "https://www.zhihu.com/people/lin-nian-ying", 
+        "https://www.zhihu.com/people/sun-da-bao-94-68", 
+        "https://www.zhihu.com/people/mo-shuo-85-18-17", 
+        "https://www.zhihu.com/people/li-chao-4-1", 
+        "https://www.zhihu.com/people/meng-yang-54-58", 
+        "https://www.zhihu.com/people/yiwangqingshui", 
+        "https://www.zhihu.com/people/tuo-fei-lun-8-94", 
+        "https://www.zhihu.com/people/ha-ha-xiao-5-9", 
+        "https://www.zhihu.com/people/cheng-si-24-13-57", 
+        "https://www.zhihu.com/people/yuanxiaomi", 
+        "https://www.zhihu.com/people/cyy-7", 
+        "https://www.zhihu.com/people/mei-zui-guan-gong", 
+        "https://www.zhihu.com/people/flyjdx", 
+        "https://www.zhihu.com/people/li-fang-yu-51", 
+        "https://www.zhihu.com/people/gu-yue-yang-xi-xi", 
+        "https://www.zhihu.com/people/tony-tang-1", 
+        "https://www.zhihu.com/people/xue-ming-wu", 
+        "https://www.zhihu.com/people/qiu-feng-3", 
+        "https://www.zhihu.com/people/pei-jian-shao-xiao", 
+        "https://www.zhihu.com/people/yang-cheng-41-13", 
+        "https://www.zhihu.com/people/meng-wen-han-98", 
+        "https://www.zhihu.com/people/hui-xing-bei-lai", 
+        "https://www.zhihu.com/people/huai-yi-an-99", 
+        "https://www.zhihu.com/people/hakunomusume", 
+        "https://www.zhihu.com/people/mmchen-3", 
+        "https://www.zhihu.com/people/yanmin-48", 
+        "https://www.zhihu.com/people/huang-pei-ming-2", 
+        "https://www.zhihu.com/people/pi-jiu-wei-er-yin-le", 
+        "https://www.zhihu.com/people/ke-da-81", 
+        "https://www.zhihu.com/people/wcao", 
+        "https://www.zhihu.com/people/wu-ji-ge-ge-64-52", 
+        "https://www.zhihu.com/people/mymystery", 
+        "https://www.zhihu.com/people/niu-yi-ru", 
+        "https://www.zhihu.com/people/mlong-29", 
+        "https://www.zhihu.com/people/li-sheng-jun-40", 
+        "https://www.zhihu.com/people/ASKA-07-70", 
+        "https://www.zhihu.com/people/bug-61-18", 
+        "https://www.zhihu.com/people/wang-han-tao-70", 
+        "https://www.zhihu.com/people/hao-yu-lin-34", 
+        "https://www.zhihu.com/people/xue-ding-e-de-na-zhi-mao", 
+        "https://www.zhihu.com/people/tang-dai-gu-shu", 
+        "https://www.zhihu.com/people/xie-yuan-he", 
+        "https://www.zhihu.com/people/zhang-xiao-meng-13-65", 
+        "https://www.zhihu.com/people/shawn-fan-44", 
+        "https://www.zhihu.com/people/HYZ136", 
+        "https://www.zhihu.com/people/bai-zhu-77-66", 
+        "https://www.zhihu.com/people/yufengpeople", 
+        "https://www.zhihu.com/people/zi-ke-46", 
+        "https://www.zhihu.com/people/freazy-64", 
+        "https://www.zhihu.com/people/li-zhu-26-93", 
+        "https://www.zhihu.com/people/fu-shi-xiang", 
+        "https://www.zhihu.com/people/zhan-xiong-heng-li", 
+        "https://www.zhihu.com/people/12345.678", 
+        "https://www.zhihu.com/people/yu-yuan-bo-99", 
+        "https://www.zhihu.com/people/lu-chang-an", 
+        "https://www.zhihu.com/people/guan-yi-69", 
+        "https://www.zhihu.com/people/wang-san-dao-21", 
+        "https://www.zhihu.com/people/zhang-chen-34-44", 
+        "https://www.zhihu.com/people/zhou-run-fa-37-59", 
+        "https://www.zhihu.com/people/lai-da-gong-zi", 
+        "https://www.zhihu.com/people/wang-er-gou-zi-14", 
+        "https://www.zhihu.com/people/chen-yu-xiang-88-44", 
+        "https://www.zhihu.com/people/RichWang12", 
+        "https://www.zhihu.com/people/yang-zi-wei-26", 
+        "https://www.zhihu.com/people/vovel-vance", 
+        "https://www.zhihu.com/people/shi-shi-wu-zhe-wei-jun-jie-2", 
+        "https://www.zhihu.com/people/gao-er-dong-95", 
+        "https://www.zhihu.com/people/leon-ji-58", 
+        "https://www.zhihu.com/people/qian-qing-sheng-51", 
+        "https://www.zhihu.com/people/liu-she-zi", 
+        "https://www.zhihu.com/people/tang-ka-85", 
+        "https://www.zhihu.com/people/xiao-li-45-60-83", 
+        "https://www.zhihu.com/people/chuck34", 
+        "https://www.zhihu.com/people/gu-du-de-xiang-gu", 
+        "https://www.zhihu.com/people/zhang-san-ku", 
+        "https://www.zhihu.com/people/recoveryqing", 
+        "https://www.zhihu.com/people/na-lan-jing-wei"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26166208", 
+            "userName": "一斤桃花", 
+            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+            "upvote": 12, 
+            "title": "第十二节 关羽列传", 
+            "content": "<p><b>文章不是我写的，不知道从哪里看的，复制过来，作为第一章的完结。</b></p><p><b>侵删。</b><br/></p><br/><p> 河东郡义人关羽以从不修剪的长须闻名。</p><p>这个赛亚人的傲人长须与生俱来，从不梳洗，金黄色的厚密须髯像热带雨林一样在他的下巴上孕育着一整套复杂的生态系统。</p><p>其中的某种大肠杆菌群甚至演化出了原始的部落文明。</p><p>    他身形魁伟，力大无穷，并且极擅使刀。</p><p>   年轻时开着一辆750cc的川崎红莲ZⅡ机车在中原诸州游荡，沿途闯关无数杀人如麻，是所有收费站的噩梦，时人谓之“髯鬼”。</p><p>      北境诸侯们在他刀下折了多员大将，恨他恨得柔肠寸断，辗转难眠。</p><p>      在派出的刺客全都一去不返后，他们终于明白，在杀人这件事情上，己方远不如对手专业。</p><p>      于是他们找来一个非利士妓女，经过周密而严格的训练，命她扮作落难女子前去接近，企图弄清关云长何以神勇无匹的秘密并找出他的弱点。</p><p>     计划起初非常顺利，落难女子似乎成功获得目标的信任，然而一个月后，负责训练她的克格勃高层收到了一个神秘的纸包，里面是一支发簪，以及一条死鱼。</p><p>      他们很清楚这是西西里人的口信，表示这个女人已经与鱼同眠。</p><br/><p>       这事令诸侯们伤心，他们最终明智地决定放弃想要除掉髯鬼的这种不切实际的念头，转而去做些更容易的事情，譬如让还未来得及殒命于他刀下的年轻军官们提早退役，他们之中或许有人能成为有良心的青年历史学家。</p><p>这三把刀的来历其实与关羽少年时代无法战胜的一位女孩有关，那个女孩出身道场，剑技出众，却过早夭亡。</p><p>   关羽曾和她约定成为天下第一剑客。</p><p>  为了履约，他毅然搬到远离京城的一所深山小屋里独自修行，每天打猎、劈柴，关心粮食和蔬菜，并供奉女孩留下的四星珠，直到他遇见布尔玛。</p><p>     关于非利士妓女，史籍上对她的来历向来语焉不详，相比之下，说书人们提供的故事细节则要丰富得多。</p><p>尽管受到感伤主义文学的影响，并且不能保证所有情节的真实性。</p><p>他们认为，其实所谓的“非利士妓女”既和非利士人毫无干系，也根本不是妓女。</p><p>她只是诸侯手下某个普通中下层军官的未婚妻。</p><p>军官在迎娶她的前夕死于一起针对他上司的谋杀，杀手出刀残忍，现场惨绝人寰。</p><p>哀伤、愤怒和绝望让这个柔弱的待嫁女郎一下丧失了生活的全部意义。</p><p>除了复仇。她自愿接受间谍训练，并作为诱饵，前去接近那个赤面长髯的冷血杀手。</p><br/><p>那是一个晦暗冷寂的黄昏，天空斜斜下着细密而锋利的雨，刺透空气，传出沙沙的蚕食声。她从酒馆默默尾随仇人在小巷间穿行，电光火石间，目睹他挥刀斩下从街角杀出的刺客。</p><p>血污溅在她的裙上和脸上，缓缓晕开，如同宣纸上的墨点。她执伞伫立，平静地与杀人者四目相对。空气里有淡淡的白梅香在弥散，而时光，顷刻停摆。</p><p>“你……真的……能唤来腥风血雨呢。”她说。</p><br/><br/><p>刘备第一次见到关羽时后者正抱着一盆显然得到精心照料的绿萝，认真地和酒肆里的收银小姑娘讨论鼠尾草的忧伤。</p><br/><p>他态度诚恳，目光柔和，摇头时脸上不多的表情透露出友善和腼腆，以及他不同意小姑娘关于在秋天时不宜浇水的观点。</p><p>相对于少女的伶牙俐齿，关羽显得木讷而有耐心。他柔顺的长须随风摇曳，好似阳光下呼吸的水草，令空气中满溢爱与氧气。</p><p>“早晨的叶面除虫非常重要。”他说。</p><p>必须承认，刘备一开始并没有认出他来。直到关羽发现有人正盯着自己，以为是等待结账的食客，于是忙拿起自己点的那杯牛奶，谦逊地侧身让出柜台。这样，才露出了他腰侧那三把威名赫赫的佩刀。</p><p>这个职业杀手完全颠覆了他在通缉布告和传闻中给人的印象。</p><p>刘备惊讶得说不出话来，很快，他为自己狭隘的世界观感到羞愧——在见到关羽之前，他一直认为“杀手”这种与死亡为伴的职业，其从业者必然都深入贯彻残酷无情的硬派形象。</p><br/><p>他曾见过另一些杀手，他们像厌光的菌类一样常年寄生于酒吧的阴暗角落里，喝啤酒时会连瓶盖一起吞下，无论工作还是休息都阴郁且沉默寡言，过着腐烂的生活，做着令别人腐烂的工作。</p><p>绿萝？不，如果非要让这些人怀抱什么植物的话，或许只有墨西哥荒原上那些丑陋多刺而又总是健步如飞的人型仙人掌才会令他们满意。<br/></p><p>时间是公元184年前后，关羽不到三十岁，喜爱园艺，重视健康，会自己熨烫衣服，到哪里都抱着心爱的盆栽植物，坚定的牛奶主义者，工作是职业杀手。</p><p>在提供24小时外卖服务的街角酒肆里，他遇到了涿郡来的刘备。</p><p>当时他并不知道，这次邂逅是他人生最为重要的转折点。而涿郡人身上正揣着一张通缉布告，尽管穷困潦倒但心情很好：<br/></p><p>“你介不介意我拿你去领赏？”</p><p>公元219年岁末或者220年初……</p><p>总之是在一个寒冷的冬季，关羽及其养子被东吴伏兵擒于麦城郊外，在验明正身后，很快死于刽子手的刀下。</p><p>之后吕蒙派人将关羽的头颅秘密送至洛阳，以向魏王曹操证实他的死亡。</p><p>曹操以诸侯之礼厚葬了老友。</p><p>几个月后，一个技艺拙劣的女弄蛇人出现在吕蒙驻军的江陵街头，无论她如何吹笛，木箱中的长蛇都始终懒懒地盘而不起，失败的表演令观众兴致全无，很快，她便不能糊口了。</p><p>一天晚上，她甚至发现自己的蛇竟已不知所踪，木箱里空空如也。</p><p>当夜，吕蒙在庆功宴上接过一杯吴侯亲自为他斟的烈酒，正要喝时，注意到杯底的漆纹仿佛一条纹丝不动的盘蛇，他不以为意，一饮而尽。</p><p>第二天一早，军营中传出吕蒙因昨夜饮酒过量而暴毙的消息。</p><p>技艺拙劣的女弄蛇人依然没有找到自己丢失的蛇，她无法再以此谋生，只得面带戚容，取出箱底那三柄与她极不相称的佩刀，离开了江陵。</p><p>不久后人们在山海关的铁轨旁发现了她支离破碎的尸体，以及依然抱在臂弯的那三把管制刀具。<br/></p><br/><p>她那时候还太年轻，不知道所有命运赠送的礼物早已在暗中标好了价格。 </p><br/><p>别把自己想的太伟大，白衣骑士可不是每个人都有资格做，有些事一但爆发反而会铸就你成为暗黑圣堂</p>", 
+            "topic": [
+                {
+                    "tag": "三国", 
+                    "tagLink": "https://api.zhihu.com/topics/19561223"
+                }, 
+                {
+                    "tag": "历史", 
+                    "tagLink": "https://api.zhihu.com/topics/19551077"
+                }, 
+                {
+                    "tag": "脑洞（网络用语）", 
+                    "tagLink": "https://api.zhihu.com/topics/19955433"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "花屋小三郎", 
+                    "userLink": "https://www.zhihu.com/people/8e8b596e1c241a1b002623fbba09e63e", 
+                    "content": "这个关羽估计还带着奥利奥墨镜", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "问君", 
+                    "userLink": "https://www.zhihu.com/people/6fe1d4c4c5d769707575adc17b67cdc3", 
+                    "content": "这……，还有外传吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "好多梗", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "吱乎", 
+                    "userLink": "https://www.zhihu.com/people/85d6dcce296683f8f9da6005e88ef706", 
+                    "content": "有趣", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "流浪的心", 
+                    "userLink": "https://www.zhihu.com/people/c400f4c4fe2430605760527b48bb3eeb", 
+                    "content": "楼主继续啊", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26157301", 
+            "userName": "一斤桃花", 
+            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+            "upvote": 23, 
+            "title": "第十一节 关羽死后的蜀汉集团的裂变", 
+            "content": "<p>应该涉及到某些敏感，多次更改后，勉强吧</p><br/><p> 神仙局，是指事件之中出现了以常理无法判断到的变数，从而寻致了神仙也无法预判的局面。<br/></p><p>  每种有代表性的案件都有自己的分析与总结，针对于形形色色的案件，详细阐明了事件筹划之初的起源，蕴酿的过程，在其中的变数影响，以至于最后达成的结果。</p><p>   这便足以用来论述清楚这个世界上大部分的所谓阴谋，找到事情发生的真正原因，以及中间的流程安排。</p><p><b>因为人类实际上远远不如他们自己认为的那么有想像力，于是，便出现了神仙局。</b></p><br/><p><b>————蒙九</b></p><br/><br/><p>法正不会去和糜芳接触，但是他可以游说在成都的糜竺。</p><p>“子仲兄你已经失势了，你不再是北方系的魁首，现在北方系的扛把子是关羽，没子仲兄什么事了，跟我干吧，看到现在的许靖没，花瓶太傅，是谁捧他的？是我法正！”</p><p>“子仲兄跟我干吧，权利什么的会回来的，一个文化人掌握的北方系，更符合集团的利益。”</p><p>“关羽只会取代你的地位，关羽之后还有张飞，张飞之后还有赵云。不放手一博的话，子仲你已经成了过眼云烟。”</p><p>“你奉献了亲生妹妹、奉献了全部身家，不是到益州来安度晚年的，相信我，听我的，徐州糜家将会在益州再次绽放光</p><p>“放心，我不会让你做什么事情，就子方的能力也做不了什么，他的南郡晚送两天的军资吧，放心，只要两天，事后就算查出来，也有一百种脱离干系的方式。”</p><p>其实，糜竺当时很悲剧，困在成都当个二流花瓶，估计这时候的糜竺早已没了争权夺利的心思，只想安心当个花瓶。</p><p>刘玄德入川的时候，糜竺还是第一号花瓶。</p><p>后来，随着刘玄德的薄情寡恩，就没有他什么事了。</p><p>这是个欲当花瓶而不能的时代，就算是当花瓶我也要当一流的，糜竺默默地想。</p><p>然而，法正的要求并不过分，只是晚两天的军资。</p><p>事实上，除了法正这个谋划者，所有的当局者根本不知道晚两天的物资有什么作用？！</p><p>在简单的付出与巨大的回报面前，于是乎，他的亲弟弟开始给关二爷使绊子，不多不少，只慢了两天的军资。</p><p>而诸葛亮此时直接调走马良，就是对法正一系列举动的无声的表态，</p><p>兄弟，我什么都不知道，你随便的弄吧，记着弄完之后分我一口汤喝。</p><p>没了一直在中间调和荆州士人与关羽矛盾的马良，荆州士人们马上就无法无天了。那么鼓动荆州士人的那位是谁？</p><p>这种事诸葛亮是不会出面的，甚至叽声也不会叽声，那么会是谁？</p><p>谁希望关羽吃瘪？</p><p>刘备集团中谁最能接替关羽出任荆州？</p><p>谁能回到荆州后能迅速接管荆州（这点是始作俑者法正迫切要求的）？</p><p>他是一名刚被关羽侮辱了，在荆州本地素有威望的实权老将！！</p><p>为了安抚刘备的情绪，毕竟坑的是他的铁哥们，法正横下心来，你刘备最担心的是谁？</p><p>刘璋吗？</p><p>李严~去弄死刘璋~~</p><p>已刘璋换取刘备的默许。</p><p>而孟达，在按照法正的布局老老实实的驻扎在上庸，准备接管关羽失败后留下的军事空白。</p><p>而根据法正的荆人治川，川人治荆的政治方针，李严此时也领兵准备接管荆州，一连两个大佬出马，法正的计策不可谓不严谨。</p><p>首先，糜芳托关羽后腿，导致关羽停滞不前，勾引东吴来攻，关羽被迫回援，孟达顺势接管襄樊，不管关羽打不打得败东吴，李严都要出兵荆州，直接达到压制关羽的局面。</p><p>但是，理想很丰满，现实很骨感，有许多随机因素是法正目前所无法控制的。比如说，荆州门阀。</p><p>关羽应该是必死的，其根本原因是阻挡了江东门阀利益的，都得死………</p><p>别说蜀汉了，就是孙吴的人阻挡，也是死。</p><p>不得不说南方是一个养人的好地方，东吴门阀的领袖普遍都是六七十岁的寿命，例如张昭。</p><p>只有三个高官是40左右就死了，他们分别是周瑜、鲁肃、吕蒙。</p><p>他们三个有很多相似点，三人都是刚刚获取了荆州的领土，然后就挂了。</p><p>而且还都是急症，都来不得救治，而且最关键的是，他们都是江北人士。</p><p>看一下他们三个的荆州战略利益分配。</p><p>周瑜打下荆州之后，几个太守都分给了当年北渡的老将们，没江东门阀半毛钱关系。</p><p>鲁肃主张借荆州，把荆州借给刘备，让刘备把荆州的门阀带走，等还荆州的时候，留下来的都是普通民众，到时候孙十万直辖，实际上是鲁肃代理直辖。</p><p>吕蒙的主张是武力背盟，打下荆州，然后江北的老将们来分。</p><p>实际上，在他们三个的利益分配上面，都没咋考虑江东门阀的事。</p><p>所以嘛，等要进行荆州的利益分配的时候，他们都很蹊跷的死了。</p><p>别说他们，就算当年的小霸王孙策，想要北伐中原，也是死。</p><p>而孙十万很聪明地把攻击方向转向刘表的荆州之后，马上就获得了东吴门阀的支持。</p><p>这一点不知道比他哥稳到哪里去了，最后特么把司马懿都熬死了……</p><p>这帮门阀，面对曹魏大军妥妥是带路党。</p><p>可一旦面对皇叔，立刻又变成自干五。</p><p>他们一直坚持荆州是东吴神圣不可分割的一部分，无论是偷袭荆州还是夷陵之战，这帮人都是出吃奶力气的，但是一旦面对曹操立刻就软了……</p><p>孙十万北伐，当鲁肃等带着北方人主力部队的时候，就能硬磕，连曹操亲来都能打跑。</p><p>而等鲁肃一死，孙十万就在合肥被刷成了经验包。</p><p>再看一下第二次合肥之战，曹操带队去汉中跟刘玄德搅基，担心孙十万趁火打劫，临走给张辽递了张纸条，里面写着“有事找大哥，大哥能解决一切”。</p><p>张辽领会领导意图后直接带队突袭东吴大哥，差点就把孙十万斩首行动了。</p><p>21世纪美军搞斩首行动还得靠内线呢，曹操如果没内线，敢让张辽带着几百人去偷袭？</p><p>大概率是越塔一血反被杀吧。</p><p>逍遥津之战，张辽带队直接打爆孙十万的禁卫军。</p><p>当年带着小霸王庐江老底子的禁卫军司令陈武都能阵亡，凌统的家族武装更是全军覆没。</p><p>要知道夷陵之战皇叔败得那么惨，禁卫军依旧编制整齐，长坂坡全军编制都打散了，也没见陈到和赵云出啥事。</p><p>而孙十万身边当时也是名将云集，甘宁吕蒙凌统徐盛潘璋等都是一代骁将，身边近卫军更是千人规模，竟然被杀得孤身跃马而逃。</p><p>而且，撤军的桥竟然被烧了，三国志记载是被张辽派人烧的，我在想，张辽的别动队要是能在大军梯次过桥的状态下精准突袭占领并焚烧这桥，更可以反相夹击来抓孙十万这条大鱼。</p><p>所以，这桥大概率是东吴自己人烧的……</p><p>再然后呢，不得不说安徽历史上就喜欢向外传童谣，没多久江东就传起了张辽的名声，“要吃奶，找张辽”，这玩意能止江东小儿夜啼……</p><p>能看到孙十万狼狈样子的基本都是嫡系，而且死人也不会说话。</p><p>而做这种事的目的呢？不就是制造停止北伐的舆论么。</p><p>北伐的既得利益者都是北方人，南方门阀表示这种吃力不讨好的事情，我们不约！</p><p>估计东吴门阀想的是，我们只想当县长夫人，至于谁是县长无所谓。</p><p>所以类似东晋南宋这种偏安的小朝廷里，都普遍喜欢跟荆州内部撕逼，而坚决北伐的将领普遍结果都不太好……</p><p>这是一场法正都无法把握的神仙局，这是一个失控的局面。</p><p>一。东吴的弄假成真，没有在荆州呆过的法正低估吕蒙拿下荆州的决心，高估了荆州士人对刘备集团的忠心，本来只是想让东吴给关羽施压的，结果弄丢了荆州，玩火的终于把自己烧到了。</p><p>糜芳、傅士仁很聪明，对刘备数十年的了解知道这回问题大了，前面给关羽使绊子事小，只是打两个版子的事，这下可是要掉脑袋的。慌忙投降吧，起码还能留一命。</p><p>二，关羽的身亡，刘备的态度暧昧是对关羽的胜利，谁要是弄死了关羽，那就问题大了，几十年出生入死的交情岂是白瞎的。</p><p>孟达很聪明，刘备如果对养子动了恻隐之心，不去追究刘封，那么遭殃的就只有自己。如果他不背叛，就极有可能被当做控制东三郡不发兵救援荆州的主谋，成为一只替罪羊而遭到“清算”。</p><p>孟达虽然是东州系四大天王之一，但是属于新冒起来的那一类，社会关系和影响力都一般，而且，在刘备的震怒之下，凭着他对法正的了解，加上早期对刘封夺权的不爽，知道自己虽然贵为东州系大佬，但关键时刻恐怕直接他把丢出来剁了，除了投靠魏国，孟达没有更好的出路。</p><p>而孟达一投降，法正知道，自己完了。</p><p>许多年后，有一个蜀国降人跑去跟孟达造谣：“你叛降魏国之后，诸葛亮对你切齿痛恨，欲尽诛你的妻子儿女。”</p><p>孟达回答道：“诸葛亮见顾有本末，终不尔也。”意思是：诸葛亮清楚当年之事的前后因果，知道事情的“本末”，知道我是个“末’而不是“本’他不会干你说的那种事情。</p><p>当荆州沦陷和关羽身亡的消息传来的时候，所有人都可以感受到刘备的怒火！！</p><p>说好的只要权不要命的列，现在你不仅命拿走了，荆州精锐被你弄垮了，荆州也被你弄丢了，你说怎么办！！</p><p>怎么办？</p><p>唯死而已。</p><p>东吴爱萝莉 曹魏控人妻 蜀汉全是基</p><p>在整个刘备集团面临剧烈动荡的时候，当襄樊事变的消息逐步传来，局面开始失控的时候，北方系已经失控，扛把子被阴死了能不失控不。</p><p>荆州系已失控，老家都丢了能不失控不。</p><p>本土系已失控，看看，卸磨杀驴你刘备也就只会做这些事。</p><p>让我们来看看，为了安抚集团内的情绪，刘备开始对正在风头上的东州系挥舞了砍刀。</p><p>　　公元219年冬，关羽兵败被俘，荆州被东吴攻克。</p><p>　　公元220年初，关羽关平被害于临沮。</p><p>　　公元220年，黄忠病逝军营，仅仅在一年前，身强体壮的黄忠在定军山一战中阵斩曹操部下名将夏侯渊。</p><p>　　公元220年，44岁的法正病逝。</p><p>　　公元220年，麋竺面缚请罪，刘备劝慰麋竺，对他待遇如初，但不久后即因惭恨病死。一个怕死怕到面缚请罪的人竟然会惭愧而死。</p><p>　　公元220年，刘封自杀。</p><p>　　公元220年，董和去世，作为刘备集团的核心，尽然连卒年死因不知道，呵呵。</p>", 
+            "topic": [
+                {
+                    "tag": "三国", 
+                    "tagLink": "https://api.zhihu.com/topics/19561223"
+                }, 
+                {
+                    "tag": "脑洞（网络用语）", 
+                    "tagLink": "https://api.zhihu.com/topics/19955433"
+                }, 
+                {
+                    "tag": "历史", 
+                    "tagLink": "https://api.zhihu.com/topics/19551077"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "花屋小三郎", 
+                    "userLink": "https://www.zhihu.com/people/8e8b596e1c241a1b002623fbba09e63e", 
+                    "content": "上来就没了～", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "cheers", 
+                    "userLink": "https://www.zhihu.com/people/9061fcea41e738d6fc4bc724485167d9", 
+                    "content": "什么情况？我说怎么前面的文章隐隐感觉有所映射呢。。。", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "<p>冤枉啊，真没影射，被关小黑屋一个月</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "cheers"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "你来看花时", 
+                    "userLink": "https://www.zhihu.com/people/5147f7fe5b4ae9ea4c7e7cddf491e910", 
+                    "content": "加油(ง •̀_•́)", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "shawn fan", 
+                    "userLink": "https://www.zhihu.com/people/125a844f25b4b51a01f12e67060e5c69", 
+                    "content": "<p>想看原版的，有什么办法么</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "什么原版", 
+                            "likes": 0, 
+                            "replyToAuthor": "shawn fan"
+                        }, 
+                        {
+                            "userName": "shawn fan", 
+                            "userLink": "https://www.zhihu.com/people/125a844f25b4b51a01f12e67060e5c69", 
+                            "content": "<p>哦哦就是修改前的，好奇三国能有啥敏感的</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "一斤桃花"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "胡亮", 
+                    "userLink": "https://www.zhihu.com/people/4df845f20ddc03b5a22d215953884f05", 
+                    "content": "一叶知秋啊", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "王一", 
+                    "userLink": "https://www.zhihu.com/people/6046db5db3831fa6db74dd15bd2c839b", 
+                    "content": "这些的很有深度呀 蒙9是你写的吗 为什么没有了？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Neal Chang", 
+                    "userLink": "https://www.zhihu.com/people/368103e2bc5064f8caa3fc69f45631ba", 
+                    "content": "寫的有點兒亂", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "不会生活", 
+                    "userLink": "https://www.zhihu.com/people/10d652ddcf8cf762df3ed071820a8705", 
+                    "content": "看的一头雾水", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "张将军", 
+                    "userLink": "https://www.zhihu.com/people/e5ded387edbf09c5679fdd6cd5c1f018", 
+                    "content": "精辟 太精辟了 服你", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "看海兄", 
+                    "userLink": "https://www.zhihu.com/people/8b1c78ea241d4be5a47377432324ca0a", 
+                    "content": "我居然对你的一番“阴谋论”特别认同？？？", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "luv金", 
+                    "userLink": "https://www.zhihu.com/people/e87ea81bdf3190666a26cd70d8c8ff5b", 
+                    "content": "黄忠接管荆州？？这么玄幻的想法是法正想出来的？换你是刘备，接替关羽的基本只有两个选择:赵云和与西凉部队分开的马超，文官人选只有法正自己或者糜竺，而这两者无论怎么组合，我都看不到法正派系的收益点在哪。<br>还是那句话，五虎上将谁都有可能出镇荆州，唯独黄忠不可能，这比刘备打下西凉把马超留在西凉更玄幻", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26156880", 
+            "userName": "一斤桃花", 
+            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+            "upvote": 27, 
+            "title": "第十节 少年刘封的烦恼", 
+            "content": "<p>“关羽没逃出去，张飞也死了，你信吗？”</p><p>秋叶凋零，气候渐凉，许昌的清晨，夜未褪尽之时。</p><p>曹操眯眼皱眉，一只手托着额头，一只手不知在干些什么，但是没有人回他的话。</p><p>“我喜欢阳光，害怕黑暗，”曹操露出少有的难过表情，说，“不过我还是觉得，我们真正需要害怕的不应该是黑暗，而是在阴云笼罩下分不清光和暗。”</p><p>“孤也老啦，这头一痛起来，就没办法想事情了。”</p><p>此时的曹操看起来倒只像个和邻居唠家常的普通老头一样，面色也有些憔悴。</p><p>床榻上的人费力的拿眼睛去看了一眼曹操，张了张嘴，没有说话。</p><p>仲德，你走之后，谁堪接任....”</p><p>“关羽没逃出去，张飞也死了，你信吗？”</p><p>吕蒙也躺在病榻上面如金纸。</p><p>“我倒比较想知道如果两个苹果同时落下来，是重的那个先砸到你呢还是轻的那个。”</p><p>“痛还是更痛，如果都要面临时，人们会倾向于先接受哪一个呢？特别是准房奴们。”</p><p>吕蒙身边的年轻人，含笑的说道。</p><p>“伯言君，你可不可以在我有生之年正常一些，你这个样子，我实在没有勇气让你去接任大都督的位子。”</p><p>吕蒙有时会嫉妒身边的这个人，他不过比吕蒙小了三岁，正是春秋鼎盛意气风发的模样，而吕蒙自己却已经如同风中残烛一般。</p><p>陆逊把手边的一个盒子打开，一股腐臭味便散发开来。</p><br/><br/><p><b>————蒙九</b></p><br/><br/><p>在关羽势如破竹的时候，一场场围绕着荆州的博弈正式拉开了帷幕。</p><p>如果说，曹仁吕蒙与关羽之间的战争是国与国的博弈。</p><p>那糜芳和刘封就是蜀汉集团内部博弈的产物，谁也没有想到，整个荆州，最终毁到了他们两人的手里。</p><p>关羽兵败并不是多大的事情，百战名将难免有输有赢，只要青山还在，荆州就稳如泰山。</p><p>可惜的是青山没了。</p><p>将军难免阵上亡，那烧光这个青山的是谁？</p><p>刘封孟达！</p><p>孟达是个很有谋略的一个人，这种人很少有人可以骗到他。</p><p>但是，孟达小时候和法正一起逃难到益州的，这种过命的交情在这，对于孟达，法正根本不需要骗。</p><p>孟达为什么这么做？因为他是从龙之臣中获利最少的。</p><p>张松法正孟达三人一起迎接刘玄德入川，张松先亡，法正成为先主的谋主。孟达虽然有功，但是不太受到信任。</p><p>于是乎，孟达被发配到宜都当个小市长，甚至还有个监军。</p><p>那个监军的名字就叫刘封。</p><p>从后来孟达的再次叛变也可以看出，这个人性格就是比较重视眼前利益，没有什么道德情操，在看人方面，刘玄德的眼光还是很独到的。</p><p>关于孟达刘封为什么不出军，有很多解释，比如风险太高，面对曹孙联合夹击，关羽大势已去，这趟混水的风险很大。</p><p>比如成功率太低、比如忠诚问题、比如那句螟蛉之子。</p><p>但是，在政治面前，这些都不是问题，营救蜀汉集团最大的实权派，哪怕打光了上庸军，孟达的政治生命只会如日中天！</p><p>也有说法，孟达与刘封的关系不好，挖坑给他跳，这完全低估了刘封，作为蜀汉集团最杰出的青年一代，刘封会看不懂其中的门道？</p><p>刘封可能得到作壁上观的诸葛亮的指示，别多管闲事，老实点。</p><p>要知道，刘封最大的靠山不是刘备，而是荆州系，老大发话了，小弟自然是听从。</p><p>此时的刘封在蜀汉集团也处于一个尴尬的地位。</p><p>建安六年，刘玄德逃到荆州，而刘禅出生于建安十二年。</p><p>过继刘封是这六年之间发生的事情。</p><p>而野心勃勃的刘玄德在荆州最主要的事就是招揽讨好当地门阀大族。</p><p>刘封的本家是罗侯寇氏，是从先秦时期传承下来的望族。</p><p>同时他也是长沙刘氏的侄子，长沙刘氏可比皇叔的含金量高。</p><p>从汉景帝的庶子刘发开始算，是历经汉帝国二百八十多年的诸侯国宗室。</p><p>这一支宗室有什么影响力呢？那就是汉帝国光武皇帝刘秀是长沙定王刘发的后代。</p><p>作为汉朝宗室的长沙刘氏对于曹操的态度，可能也是呈两极分化的情况。</p><p>刘表在荆州的势力，很大程度上要依靠当地豪族的支持。</p><p>蒯越、蒯良代表的蒯氏，以蔡瑁为首和刘表结亲的蔡氏，这几家对曹操都是鸽派。</p><p>而在东线长期防守孙家并立场鲜明地支持刘琦的黄祖应该属于另一支大族黄氏，他们则是鹰派。</p><p>刘备对曹操的态度简直不用去猜测了，他就是不死不休一定要和老曹玩命的反曹铁杆。</p><p>罗侯寇氏与长沙刘氏也许就是相中了老刘对曹操的强硬态度，所以愿意和他建立亲密关系。</p><p>寇封改名成刘封这件事儿，一来可能刘备真怕自己无后，二来也更多是一种政治势力的联合。</p><p>悲剧的是在刘备得到诸葛亮的那一年，刘禅呱呱落地，这两件事儿估计不会有什么联系。</p><p>但对刘封来说，不见得是个好消息。</p><p>刘备进位汉中王时刘禅十二岁，加封王太子。</p><p>“其冠之年，即天子、诸侯十二而冠。”</p><p>刘封死前的事件很简单，刘备不放心孟达独自进攻上庸，派刘封合军节制。</p><p>随后上庸和西城的申耽、申仪投降。不久后刘封和孟达拒绝了关羽要求援军的命令。</p><p>在这期间刘封和孟达不和，刘封的职位较孟达低一些，却反而欺凌后者，造成孟达不满。</p><p>后来关羽身死，孟达担心被刘玄德追究责任，率四千人叛投北边。</p><p>刘封兵败，败退成都。在成都老刘责骂了刘封一顿，据三国志说，这时候还没有杀他的打算。</p><p>但是呢，诸葛亮先生干了这件事儿：“虑封刚猛，易世之后终难制御，劝先主因此除之。”</p><p>刘玄德最后狠下心，赐刘封自尽，并为之流涕。这是三国志中刘备很少数的几次掉眼泪之一。</p><p>刘封其实从刘禅诞生那一天起，他的命运就岌岌可危了。，。</p><p>史书记载刘封勇武，有一定军事才能，刘封的死因，可以简单归咎于其自身的刚猛，刘玄德担心勇武难制的刘封就变成刘禅继任王爵的最大障碍。</p><p>虽然这历来都是很稳妥的观点，不过总是有些牵强。</p><p>有亲子在，养子还能当上皇帝的成功案例。我能想到的只有后唐明宗李嗣源、后唐末帝李从珂。</p><p>残唐五代时期胡人的风气冲淡了传统观念，养子与亲子的鸿沟远不像汉末三国那么明显。</p><p>即便如此，这两位成功案例也都是凭借武力上台的。</p><p>日本战国时期，丰臣秀吉一直没有儿子，过继一子名为丰臣秀次。本来他已经继承关白之位了，谁知道秀吉娶了茶茶后生了儿子。于是这个秀次就被流放高野山后被迫切腹</p><p>参考另一个义子曹真，在曹操死后就混的顺风顺水，非常受重用。</p><p>曹真亲爹死的时候曹丕大概三岁左右，曹真的年龄很可能还较曹丕年长。</p><p>在老曹过世后，也并没有把这个干儿子怎么样。</p><p>事实上，因为血缘上的疏远，曹丕对这个干兄弟的防范比亲兄弟要宽松很多。</p><p>所以说，义子不一定必然会威胁到继承人，以这个为理由判死刑，说服力不足。</p><p>再看蜀汉集团，刘玄德死后，刘禅钳制不了刘封？</p><p>先不说法正、诸葛亮、张飞、赵云这些实权派，就是一个陈到就可以解决所有问题。</p><p>刘封临死前，说了一句话：“恨不用孟子度之言！”</p><p>孟达跟刘封说什么呢？</p><p>“古人有言：‘疏不间亲，新不加旧。’……今足下与汉中王，道路之人耳，亲非骨血而据势权，义非君臣而处上位，征则有偏任之威，居则有副军之号，远近所闻也。自立阿斗为太子已来，有识之人相为寒心。……私怨人情，不能不见，恐左右必有以间於汉中王矣……今足下在远，尚可假息一时；若大军遂进，足下失据而还，窃相为危之。……以足下之才，弃身来东，继嗣罗侯，不为背亲也……若足下翻然内向，非但与仆为伦，受三百户封，继统罗国而已，当更剖符大邦，为始封之君。……今足下勉之，无使狐突闭门不出。”</p><p>这里面有个很重要的事儿，既是刘封如果回到本家寇氏，是有资格继承罗侯爵位的。</p><p>孟达这封信里对刘封透露出的信息，显然罗国属地此时在曹魏境内，这也包括刘封的本家。</p><p>换言之，刘封那边有亲爹亲妈等一干人质握在曹魏手里。一下子刘封的立场就变得可疑了。</p><p>与刘封不睦的孟达这封劝降信未必存了什么好心，但如果说服刘封来降，肯定是大功一件。</p><p>陈寿对于刘封的反应，写的是“封不从达言。”没听丫的挑唆。然后就悲剧了。</p><p>那么刘封临死前所指的，应该就是这个归宗寇氏，继嗣封国的可能。</p><p>这样一看，赐死刘封的理由就更丰满了。</p><p>他不仅仅是刘备死后，可能威胁到刘禅继承权的竞争者。</p><p>更多是作为一颗有人质在外，随时会爆炸的定时炸弹。确实是很难令人放心的身份。</p><p>综上所述，导致刘封悲剧的死因有两条。</p><p>一是有反叛的嫌疑，毕竟其本宗的亲属事实上成为了曹魏的人质。</p><p>二是根绝别有用心者政治投机，首鼠两端的可能性。</p><p>再考虑刘封有不救援关羽的过失，或许也有杀鸡儆猴的用意。</p><br/><p>------分割线--</p><p>三国志蜀书里有一章《刘彭廖李刘魏杨传》。</p><p>刘封、彭羕、廖立、李严、刘琰、魏延、杨仪，这七个人全是政治犯。</p><p>除了魏延和杨仪，前五个都是诸葛亮时期被处罚的。</p><p>咱们来看看他们的成分。</p><p>刘封，刘备义子，荆州派。刘备在世时赐死。</p><p>彭羕，刘璋旧属，益州广汉人。谋反，下狱死。</p><p>廖立，刘备嫡系，荆州派。废为民，徙汶山郡。</p><p>李严，刘璋旧属，荆州人属东州军。废为民，徙梓潼郡。</p><p>刘琰，刘备旧部，豫州人。被处分者中资历最老的，被刘禅杀了弃市。</p><p>看出来了吗？基本上各派系分别整治一人，各打一棒子，毫不偏私。</p><p>要靠这种手段维持，由此大概可见蜀汉集团局势的错综复杂。</p>", 
+            "topic": [
+                {
+                    "tag": "三国", 
+                    "tagLink": "https://api.zhihu.com/topics/19561223"
+                }, 
+                {
+                    "tag": "历史", 
+                    "tagLink": "https://api.zhihu.com/topics/19551077"
+                }, 
+                {
+                    "tag": "脑洞（网络用语）", 
+                    "tagLink": "https://api.zhihu.com/topics/19955433"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "生生如烟", 
+                    "userLink": "https://www.zhihu.com/people/fac5f61fa08a1135eae90ac97a131dd7", 
+                    "content": "催更", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "空吟浅唱", 
+                    "userLink": "https://www.zhihu.com/people/99d75c17fcb08c65ff8d8d1962b32c45", 
+                    "content": "作者文采出众，刘封刘禅封禅也，当初刘备也应该是喜欢他的", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "紫恪", 
+                    "userLink": "https://www.zhihu.com/people/f1f335d67e839f2f39ef837ddb49106a", 
+                    "content": "<p>第十一节，怎么回事？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "被黑了，慢慢改", 
+                            "likes": 0, 
+                            "replyToAuthor": "紫恪"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "牛牛牛", 
+                    "userLink": "https://www.zhihu.com/people/c00aa83bcd6cd26b95bfc13dabc52e43", 
+                    "content": "期待能早日读到第十一节！👍🏻👍🏻👍🏻", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "流浪的心", 
+                    "userLink": "https://www.zhihu.com/people/c400f4c4fe2430605760527b48bb3eeb", 
+                    "content": "楼主写的真好啊，一口气读了完，什么时候出书。有文才有想法。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "nukacolamania", 
+                    "userLink": "https://www.zhihu.com/people/47fa49e3f8a6451a87af7324ec1644a2", 
+                    "content": "<p>“……在刘备得到诸葛亮的那一年，刘禅呱呱落地，这两件事儿估计不会有什么联系。”喂你这怎么越解释越黑！</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26156876", 
+            "userName": "一斤桃花", 
+            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+            "upvote": 13, 
+            "title": "第九节  江水以东——荆州恩仇录", 
+            "content": "<p>关羽年轻的时候喜欢周游各地，四处探险。<br/></p><p>作为流亡的侠客，那时的他唯一从祖先那里继承了的，就是义愤填膺的天性。</p><p>他对任何复杂而需要漫长过程的事情都不感兴趣——譬如征服世界，统治地球，或者开放党禁什么的。</p><p>因此他非常讨厌象征辛苦劳作的“麦”字，正如<b>闻仲讨厌绝龙岭，庞统讨厌落凤坡，卡钦斯基·弟讨厌斯摩棱斯克</b>一样。</p><p>然而最后他还是死在了麦城。当然，这只是巧合，与宿命之类的毫无关系。</p><p>后世历史学家们多半接受关羽曾以贩卖枣子这一说法。</p><p>但只要拥有最基本的传播学知识就不难判断：<b>这只是典型的传递层次过多而导致的信息损耗现象，是失真和变形的。</b></p><p>事实上，处于社会底层的关羽所能想到的最浪漫的事，无疑就是成为国家公务员。</p><p>在人人生而平等已成常识的乱世里，出生和血统却依然具有如此大的魔力……没有人意识到这是一件多么可怕的事情么？</p><p>当关羽还在为庞德的死感到不值的时候</p><p>半个月之后，切蛋糕的小刀神秘地在当初牧者们的后代手中流转.....</p><br/><br/><p>————<b>蒙九</b></p><br/><br/><p>那么这个阴谋是什么？我们先来了解一下，关羽当时存在的意义。</p><p>关羽死后不久曹操也去世，于是曹丕、刘备、孙权纷纷称帝。</p><p>关羽之死的过程充满了蹊跷，但是结果却是皆大欢喜。</p><p>北有曹操，东有孙权，关羽孤军北上，身后没有任何支援，不是找死是什么？</p><p>就算关羽看不明白，刘备看不明白，诸葛亮也看不明白？</p><p>其实刘备看明白了，诸葛亮看明白了，关羽也看明白了，就连曹操和孙权也都看明白了。</p><p><b>关羽不死，大家的日子都不安生，关羽死了，大家都放心了。</b></p><p>那么，为什么关羽必死？</p><br/><br/><br/><p><b>————分割线————</b></p><br/><br/><br/><p>其实，我们可以先看看荀彧，作为最早跟随曹操的谋士，到曹操封魏王加九锡的时候，被赐了一杯毒药，而关羽和荀彧是一类人。</p><p>关羽没事喜欢读《春秋》讲大义，他追随刘玄德固然有兄弟义气的成分。</p><p>但最根本的，还是希望能匡扶汉室，留名千古。</p><p>有一点很能说明问题，那就是关羽被曹操俘获后，曹操封他为“汉寿亭侯”。</p><p>名义上是汉献帝所封，实际上是曹操封的。对于这个封号，关羽十分看重，毕竟这在名义上是汉帝国所封，自己从此算是汉帝国的官员了。</p><p>后来离开曹操，按理说关羽就应该避免再提这个“汉寿亭侯”，以免刺激刘玄德，因为在刘玄德的眼里，这就是曹操封的。</p><p>可是，关羽依然高调自称“汉寿亭侯”，大旗上绣着<b>“汉寿亭侯关”</b>。</p><p>在他看来这是荣誉，可是刘玄德的眼里这是曹操给的糖块。</p><p>华容道关羽私放曹操后，其实刘玄德心中就有点凉了，不质疑忠诚，只是有些心凉。</p><p>在刘玄德自封汉中王之后，关羽心中也很不满，因为情商不高的他认为这是僭越，事实上，这本来就是僭越。</p><p>所以，刘玄德封关羽为前将军的时候，关羽不肯受命。</p><p>当费诗带着刘玄德的任命书来到荆州的时候，关羽直截了当地问：<b>“汉中王封我何爵？</b>”</p><p>语气中明显带着不满和不屑，因为他知道，作为王，刘玄德是没有资格封爵的。</p><p>之后听说自己被封为前将军的时候，勃然大怒。关羽的反应很不正常啊，没感觉到吗？</p><p>虽然最后关羽勉强接受了封号，但是他的不满已经昭然若揭。</p><p>费诗一定把关羽的反应原原本本告诉了刘备和诸葛亮，对于刘备来说，这时候很难做。</p><p>让关羽回益州，那今后一定闹翻，关羽恐怕就是荀彧的下场，自己则落下屠杀功臣的恶名。</p><p>让关羽继续镇守荆州吧，保不定什么时候就听令不听宣了。</p><p><b>怎么办呢？</b></p><p>这时的孙权也很挠头，因为关羽占据荆州，随时可以顺流而下，攻打东吴。</p><p>曹操也很头疼，因为荆州为战略要冲，随时能够北上中原，攻击许昌。事实上，也确实威胁了许昌。</p><p>所以到了这个时候，关羽就成了魏蜀吴三家共同头痛的一个人物了。</p><p>但是，关羽本人也很头痛。</p><p><b>跟着刘备干，那就是汉贼。</b></p><p><b>投降曹操吧，恐怕也是汉贼。</b></p><p><b>投降孙权吧，那还是汉贼。</b></p><p><b>自立为王吧，那依旧是汉贼。</b></p><p>怎么办呢？</p><p>他最不想当的就是汉贼，可是条条道路都写着汉贼两个大字。</p><p>这个时候，曹操想了个坏主意，派人去蹿嗦孙权出兵攻打荆州。</p><p>孙权不是傻瓜，他也知道关羽不好对付，所以回信给曹操，建议还是曹操去打荆州。</p><p>结果，曹操和孙权都不打，但是暗中都在做准备。</p><p>这个时候，当汉中的硝烟还没有落下，关羽就起兵取襄阳了。</p><p>关羽不是傻瓜，他知道起兵取襄阳就等于攻打曹操，而身后是孙权在虎视眈眈。</p><p>问题是，前有曹操后有孙权的情况下，刘玄德竟然没有派几个兄弟来撑场子。</p><p>以一己之力对付曹操和孙权，行吗？</p><p>有条件要上，没有条件假装有条件也要上。</p><p>在北伐之前，关羽其实做好了两手准备。</p><p><b>好的结果是一路顺利剿灭曹操，然后扶持汉室一统天下。</b></p><p><b>坏的结果就是战败而死。</b></p><p>这两种结果都不是汉贼，所以，关羽欣然北上。</p><p>刘备、曹操、孙权其实都怀有同样的期望：关羽千万别取胜啊。</p><p>关羽出兵取樊城，随后水淹三军，擒于禁斩庞德，威震天下。</p><p>曹操是被打懵了，甚至准备迁都。当然，我觉得曹操说出迁都那番言语是对关羽的捧杀。</p><p>因为他知道，在魏蜀吴三家都不希望关羽走得太远的情况下，他一定走不远。</p><p>孙权行动了，吕蒙白衣入荆州，袭取了荆州。</p><p>试想，如果此前蜀汉集团的张赵黄，随便来一个帮忙守荆州，倾东吴之力也是难以有所成就的。</p><p>于是，强弩之末的关羽终于被徐晃击败，于是退守麦城。</p><p>终于，关羽被吴国所擒。到了这个时候，关羽是决定要死的。</p><p><b>最终被杀，也算是求仁得仁。</b></p><br/><br/><br/><p><b>———我是—分割线————</b></p><br/><br/><br/><p>看完荆州事变的过程后，我们看下导致关羽之死几个迷局。</p><p><b>关羽之死迷局一，吕蒙偷袭荆州的原因？</b></p><p>当时关羽威名正赫，东吴在没有把握的情况下贸然和盟友翻脸，这显然不合常理。</p><p>孙权对刘备的称王很生气，但是这并不代表整个东吴集团的意见。</p><p>东吴都忍了这么多年，又不急于这一时，既然有把握那是哪来的把握？</p><p>荆州士人！没有荆州士人的支持吕蒙怎么敢偷袭。</p><p>但是，不管是法正还是诸葛亮都不敢出卖荆州的 ，那么，是什么情况让荆州士人的态度变节？</p><p><b>关羽之死迷局二，糜芳、傅士仁的投降之谜。</b></p><p>糜竺是什么人？刘备的小舅子，糜竺的亲弟弟，刘备当初打天下的基本班底，当时南郡的太守，标准的蜀汉集团重量级人物。</p><p>傅士仁是什么人？北方系的大佬，这么两个人为什么投降孙权，史书上说糜芳为南郡太守，与荆州守将关羽不和。</p><p>后因未完成供给军资的任务而被关羽责骂，心中不安，在孙权的引诱下与将军士仁一同投降吴国，这么幼稚的说法大家笑笑就好，当不得真。</p><p>那什么才导致糜芳担当千古骂名投降孙权的呢？</p><p>不知道！！</p><p>但是，肯定的是糜芳一定做了什么事担心关羽的报复！</p><p>什么事情连与关羽多年的交情都担不住？他哥哥糜竺都罩不住呢？</p><p>不知道！！</p><p>事实上，在蜀汉集团混这么多年才是个市长，糜芳这个人能力真不大，这么一个人自然是不会主动坑关羽的。</p><p>那么，是谁在幕后操纵的？</p><p>不会是孙权，孙权怎么承诺也不会比糜芳此时在蜀汉集团的地位要好。</p><p>不会是法正，这么大的阴谋一步小心就粉身碎骨，法正不会找糜芳的，那么是谁？</p><p>结局太美，我不敢猜.....</p><p>  似乎只有北方系大佬糜竺，只有糜芳的亲哥哥糜竺才有能力让糜芳干那件一不小心就粉身碎骨的大事。</p><p><b>关羽之死迷局三，刘封和孟达拒绝派兵援助？</b></p><p>刘封是谁？刘备的义子，关羽的义侄。</p><p>孟达是谁？东州帮四大天王之一，史书上讲，刘备准备立太子的时候曾经问过诸葛亮和关羽，刘封和刘禅应该立谁，诸葛亮的回答是“这是刘备的家事，他不能过问”。</p><p>而关羽的回答是“刘封是义子怎么能立为太子”，所以后来刘备立刘禅为太子。</p><p>关羽被困麦城的时候，廖化突围向刘封和孟达所在的上庸求救，刘封的本意是去要救，当时他说“关羽是他叔叔，如不救，恐刘备怪罪”。</p><p>而孟达则说“你把他当叔叔，他未必把你当侄子”。</p><p>然后就把当时立太子的事给刘封说了，后来刘封就迟迟不发兵，所以……</p><p>个人认为，史书上的也不能相信，蜀汉集团都发展到了这个地步，刘封还做义父义子的梦，那就是典型的小儿痴呆了。</p><p>既然不是这，那又是什么？</p><p>这不重要，重要的是为什么孟达投魏了，孟达这种级别的竟然投魏了！</p><p>谁又能左右孟达刘封的意见？</p><br/><p><b>让我们带着这三个疑问，解码蜀汉第一场流血内斗！！</b></p>", 
+            "topic": [
+                {
+                    "tag": "三国", 
+                    "tagLink": "https://api.zhihu.com/topics/19561223"
+                }, 
+                {
+                    "tag": "历史", 
+                    "tagLink": "https://api.zhihu.com/topics/19551077"
+                }, 
+                {
+                    "tag": "脑洞（网络用语）", 
+                    "tagLink": "https://api.zhihu.com/topics/19955433"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "一斤桃花", 
+                    "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                    "content": "只是以一种杂谈歪说的模式来写的，因为太多的珠玉在前，不敢妄自菲薄", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "HONEST BOY", 
+                    "userLink": "https://www.zhihu.com/people/9b0a8c3553acf30ac35580dd0b5efb80", 
+                    "content": "作者是以演义来写呢？还是以历史来写？看到华容道有点别扭", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "只是以一种杂谈歪说的模式来写的，因为太多的珠玉在前，不敢妄自菲薄", 
+                            "likes": 1, 
+                            "replyToAuthor": "HONEST BOY"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "新子憧", 
+                    "userLink": "https://www.zhihu.com/people/98f7b10586ab4f4dbecbc0f7d1b07bcf", 
+                    "content": "那个cv是naba桑诶，为什么关羽打仗那么熟练啊", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "<p>是杨威利</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "新子憧"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "null", 
+                    "userLink": "https://www.zhihu.com/people/c092a8f35aa823ece2ed5c0281443760", 
+                    "content": "这个配图真是exciting", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "宽宏大量甘兴霸", 
+                    "userLink": "https://www.zhihu.com/people/2a96097d98a1f2685aea9c63494b95cc", 
+                    "content": "恩…不知道怎么评价。意料之中，情理之外？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "White Light", 
+                    "userLink": "https://www.zhihu.com/people/a711cb3606232b9499edbc3661020351", 
+                    "content": "越来越像阴谋论了...", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "XXhunter", 
+                    "userLink": "https://www.zhihu.com/people/96cf6a29f96a4868c578e9a7bce04613", 
+                    "content": "关羽自称汉寿亭侯有什么问题？刘备去见人还要自称左将军呢。刘备群臣上表称汉中王的时候，打头的几位是什么头衔？哪一个不是曹操给的？？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "翌昱", 
+                    "userLink": "https://www.zhihu.com/people/964cc4df2b593870dcbd719550606703", 
+                    "content": "过分解读", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26155500", 
+            "userName": "一斤桃花", 
+            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+            "upvote": 18, 
+            "title": "第八节  荆州事变与流血的内讧之谜", 
+            "content": "<p><b>“荆州是一头熟睡中的狮子，当它醒来时……才发现自己已被瓜分殆尽。”</b></p><p>许多年后，一位幽居孤岛的皇帝如此评述。</p><p>    在荆州人相互争吵时，北方人闯了进来，把他们全都征服了。</p><p>荆州是如此美妙的一个地方，它广袤富庶远胜东吴，又不似北方饱受战乱之苦。</p><p>而它的统治者关羽也一向安于境内的稳定繁华而没有穷兵黩武的恶习。</p><p>同时它始终维持着一支水陆并重，人数高达十万的常备军，足以抵御任何外来威胁。</p><p>在战乱持续摧残华夏大地的二十余年间，这片土地独善其身，依然保持着当初美好的容颜，<b>好似保养中的桃谷里绘香。</b></p><p>茫茫的荆楚大地上，身着米色军大衣，戴着黑色船帽的蜀汉帝国的元帅关羽，将初冬的冷风深吸入肺，驱马扬蹄越过士兵们行进的队列。</p><p>忽略了从江上吹至鬓角的斑白美髯，他感到自己重新充满了年轻的躁动。</p><p>为了配合这一感受，关羽开始认真考虑接下来是否该禁止士兵们继续用“元帅”来称呼自己——因为那实在显得很老。</p><p><b>改叫“提督”吧。他想</b>。</p><br/><br/><br/><p><b>————————蒙九</b></p><br/><br/><br/><p>当东州系将眼光瞄向军事领域的时候，在成都的糜竺等人感觉到了冬天的丝丝寒意。</p><p>在内无法获得刘备的再次亲睐，在外就指望关羽张飞二人了。</p><p>而张飞此时还在巴州生着闷气在，汉中早期战役的失败，让他饱受质疑之苦。</p><p>那此时的北方系就只能指望总领荆州兵马的关羽。</p><p>于是乎，承载着重振北方系威名的重任的关羽，在内忧外患的情况下毅然发动了襄樊之战。</p><p>什么叫内忧？作为外来人在荆州称王称霸，那荆州本地人自然是不爽，特别是马良一直被关羽虐来虐去的。</p><p>那马良是什么人？</p><p><b>“马氏五常，白眉最良</b>”，荆州马家，是襄阳的大门阀，马良有五个兄弟，字里面都带个常，比如马良字季常、马谡字幼常，所以这叫做马氏五常。</p><p>而马家的五个兄弟中，只有马良最为贤良，因为他的眉中有白毛，所以又称“白眉最良”。</p><p>此时的马良是荆州系的二号人物，在诸葛亮离开后，荆州本地的一号BOSS。</p><p>这样一个人物，整天被关羽呼来唤去的自然是不爽。</p><p>但是，承载着保护荆州系既有利益重任的马良，也只有默默忍受着，而依照关羽的性格，估计是不会落下面子去拉拢马良。</p><p>这也造成了北方系与荆州系貌合神离的局面。</p><p>关羽的性格也是导致这种现象的一个重要的方面。</p><p>他白手起家，出身不高，最终成为著名将领。<br/><br/>他心怀天下，对下层人好，藐视权贵。<br/><br/>他对敌人讲究原则，有骑士精神。<br/><br/>他武功出色，有乱军从中斩杀对方统帅的纪录。<br/><br/>他对君主忠诚不二，在君主最困难的时候再一次投奔刘备。<br/><br/>他战功赫赫，打的敌对国差点迁都。<br/><br/>他最后气壮山河地一死，衣冠冢在蜀汉，身体在东吴，头颅在北魏。</p><p>他......</p><p>刘备给黄忠封官时，关羽说什么？</p><p><b>“不削于老头为伍”，</b>你这不是打脸吗，黄忠怎么说也是荆州系在军方的一面旗帜，你不削理他，那不是打荆州系的脸吗。</p><p>这一句话可以把荆州系得罪狠了。</p><p>而外患就是此时的盟友孙权一直觊觎着荆州三郡，鲁肃死后，东吴总督的位子空缺，大将吕蒙也寻找机会立个功更进一步。</p><p>而一直生猛无比的关羽在这个情况下，发动了襄樊之战。</p><p>对于襄樊之战起码有一点是可以肯定的，那就是蜀汉集团的核心都应该知道。</p><p>毕竟这么一场牵动方方面面的战役不是关羽一个人可以解决的，但是，远在益州的蜀汉集团的核心只能放出个需要打襄樊的信号。</p><p>但是打不打，这么打，还是关羽这个主将说的算的。</p><p>一直都说关羽看不起士人。但是这里有一个很大的疑点，早期的关羽根本没机会接触到士人，中期一直在逃亡，加上有刘备的压制很难说这种情绪可以表现出来。</p><p><b>推测关羽这种瞧不起士人的态度仅在治理半个荆州时爆棚。</b></p><p>为什么？很大程度可能是士人的不合作。</p><p>当然，这个士人要和马良为首的荆州系分开。</p><p>于是老当益壮的关二爷开始了人生最后的一次生猛。</p><br/><br/><br/><p><b>——————————分割线——————</b></p><br/><br/><p>先把三国第一经验包曹仁直接刷出翔来，再剁了庞德，捉了于禁。</p><p>史书只用了四个字评价这场战役<b>“威震华夏”</b>，你可以翻翻史书看看，两千年有几场战役可以用威震华夏来形容。</p><p>于禁是什么人，左将军，假节钺，当时的曹魏集团除了夏侯惇就他最高了。</p><p>庞德是什么人？勇冠凉州三军！！这场胜利又何止是碉堡了~~</p><p>当然，威震的不仅仅是吓得要迁都的曹操,也把志在荆州的孙权也吓到了，</p><p><b>“我TM以为关羽老了守不住荆州，没想到还这么生猛~~这还要个毛的荆州啊！！</b>”孙十万内心OS。</p><p>同时蜀汉集团内部也被威震到了，本来疏远北方系的刘备一听到消息自然是又喜又惊，喜得是拿下襄樊离统一天下又近了一步，惊得是立功的是关羽这个陪他征战一生的老兄弟。</p><p>刘玄德的态度此时很矛盾。</p><p><b>1，立功的是关羽，是坐等退休的关羽</b></p><p><b>2，威震华夏在另一方面以为着声望达到顶峰</b>，为人臣子最忌讳什么？你的威望比君主高，但关羽是什么人，刘玄德一生的好兄弟，时间早已见证了他的忠诚，但是，声望此时太高，高到刘皇叔都有点小嫉妒~~</p><p><b>3，孙权曾经要替儿子娶关羽女儿</b>，说明在孙权眼里，认为关羽是荆州之主，而不是刘备。这是一个典型的离间计，刘备也不会因为这而怀疑关羽，但是总是有点小不爽。</p><p><b>4，关羽北伐的时机</b>。理论上关羽的北伐是为了迎合刘备夺汉中。但是刘备夺汉中用了四年，这四年关羽方一直没有动静，连策反的宛城侯音被消灭了才进军。</p><p>一直到217年曹操攻濡须口，双僵持互有损耗。在这一系列事件之后，关羽才进军。在汉中吃够苦头的刘备想想还是有点小小心烦的。</p><p><b>5，蜀汉集团此时上下对关羽有种近乎变态的奉承</b>，几乎是要什么给什么。这不排除法正，诸葛亮等人对关羽的拉拢，关羽一点小牢骚，费诗就赶快跑过去安抚。</p><p>但是，刘皇叔看在眼里，记在心里。</p><p>而且就是因为刘备的态度模糊不清才导致以后一系列事情的发生。</p><p>以刘备的作风，<b>他不会在这种关头做出那种自毁长城的事</b>，首先，我们可以明确的一点就是，关羽之死并不是刘备的主观意愿。</p><p><b>1，失去关羽，就会失去关羽所率的数万百战精锐。</b></p><p><b>2，失去关羽，就会失去蜀汉集团在荆州的所有的有生力量。</b></p><p><b>3，失去关羽，就会让刘备失去在军方的最大支持。</b></p><p><b>4，失去关羽，就会让蜀汉集团北伐失去最有力的的支持。</b></p><p><b>5，失去关羽，就会让孙吴有了可乘之机，让蜀汉失去战略先机</b>。</p><p>而且整个蜀汉集团的形势会变得极为糟糕，纯粹是赔的不能再赔的买卖。</p><p>阴谋论能够存在的基础空间是利益需求，比如阴谋论姜维刺杀费祎是为了能够得到更多的兵权。</p><p><b>虽然没有证据证明是姜维干的，但好歹姜维有利益需求存在的空间。</b></p><p>而刘备害死关羽阴谋论，偏偏是什么好处都没有得到。</p><p>而且是大出血的连老本都几乎要赔掉的买卖，换成现代都应该跳楼了，这完全就是个笑话中的笑话。</p><br/><br/><br/><p><b>——————我是分割线——————</b></p><br/><p>刘备不愿意，但是，不排除某些人走钢丝......</p><p>谁在走钢丝？</p><p>谁在走钢丝？</p><p><b>诸葛亮不可能走钢丝</b>，要 知道钢丝这回事走好就是成功，走不好就是要面临全体武将的怒火，领兵在外的武将最怕什么？</p><p>最怕被人背后捅刀子，事实上，背后捅刀子这回事，几乎是捅一个准一个，被捅者非死既残，具体可参考手上无一兵一卒的左将军，凉州牧的马超。</p><p>而且，见识过二爷生猛的诸葛亮一点也不怀疑假使最后关羽活着回荆州，第一件事就是血洗荆州帮的宗族家眷。</p><p>而且，就目前处于蛰伏期的诸葛亮而言，就算弄掉了关羽，获益最大的就是东州系，这种吃力不讨好，而且受益极小，风险极大地事情，诸葛亮与荆州系上下肯定是不会做的。</p><p>关羽在，北方系与荆州系还可以安稳相处于荆州，没有了关羽，在汉中蛋糕战中失利的荆州系，就要在客场直面圣恩正眷的东州系，这也是荆州系不愿意看到的局面。</p><p>放眼蜀汉集团，有实力的没有胆量，有胆量得没有实力。</p><p>又有实力又有胆量的是谁？</p><p><b>——谋主法正。</b></p><p>将触手伸到军事上的东州系迎来了北方系的反击，二爷的威望一时间达到了顶峰，照这个局面下去，过个十年二十年的时间，刘备集团军方第一人的位子都是关羽的。</p><p>在关羽的麾下聚集着一批百战精锐，这样下去，东州系什么时候可以成为真正意义上的大系？</p><p>法正很发愁啊~~</p><p>于是，一直以来顺风顺水自诩谋略天下第一、在马超事件中尝到甜头的法正开始了人生最大的一次走钢丝。</p><p>楼主认为，法正的本意不是弄死关羽，弄丢荆州，杀人一百自损一千的做法是法正这种靠脑子吃饭的人不削做的。</p><p>如果要谋划，那谋划的肯定是一出千古大局。</p><p>这样才能显示出他法正的智商，在大概明白刘备态度后的法正，开始了他的布局，既要弄废关羽，又要保住蜀汉集团的既得利益，再不济也要保住荆州。</p><p>最好的是东州系的人顺势接管关羽的军队，这样有难度的事情，想想就有些刺激啊~~</p><p>至于关羽事后的报复自然不是法正操心的了，大败之后的北方系根本不是法正可以看上眼的。</p><p>至于法正之后的布局诸葛亮知不知道，我想，诸葛亮肯定是能猜到了。</p><p><b>但是，蛰伏期的荆州系需要一个契机重新崛起.....</b></p><p>那么这个阴谋是什么？我们先来了解一下，导致关二爷之死几个迷局。</p>", 
+            "topic": [
+                {
+                    "tag": "三国", 
+                    "tagLink": "https://api.zhihu.com/topics/19561223"
+                }, 
+                {
+                    "tag": "历史", 
+                    "tagLink": "https://api.zhihu.com/topics/19551077"
+                }, 
+                {
+                    "tag": "脑洞（网络用语）", 
+                    "tagLink": "https://api.zhihu.com/topics/19955433"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "花屋小三郎", 
+                    "userLink": "https://www.zhihu.com/people/8e8b596e1c241a1b002623fbba09e63e", 
+                    "content": "改叫波拿巴", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "白云苍狗", 
+                    "userLink": "https://www.zhihu.com/people/b76aaadf24801cee48fd857222b36f0d", 
+                    "content": "拭目以待", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "东方", 
+                    "userLink": "https://www.zhihu.com/people/ac120e4fe74efb21deb74936fc1d5b87", 
+                    "content": "拭目以待", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "王楠", 
+                    "userLink": "https://www.zhihu.com/people/9477f2da7357b7515658f9adfc4035ef", 
+                    "content": "知乎通病，过度解读。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "CRUSH", 
+                    "userLink": "https://www.zhihu.com/people/eb08d0d68da9c3e3d30dcfbefb2130a9", 
+                    "content": "桃谷绘里香不是桃谷里绘香", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "这都发现了……", 
+                            "likes": 2, 
+                            "replyToAuthor": "CRUSH"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "周润发", 
+                    "userLink": "https://www.zhihu.com/people/f823624950f5c81b8768883fe86649eb", 
+                    "content": "<p>有意思</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26041260", 
+            "userName": "一斤桃花", 
+            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+            "upvote": 16, 
+            "title": "第七节   汉中称王与东州帮的崛起", 
+            "content": "公元219年春，蜀汉集团第三次荆益两州代表大会在汉中召开。<br/><br/>      参加大会的代表共１025人， 代表蜀汉集团庞大的群众阶级。<br/><br/><b>      这次大会是在击败曹操反革命集团以后，法正主持蜀汉集团日常工作，荆益两州各方面形势有了好转的情况下召开的。</b><br/><br/>     公元219年秋，蜀汉集团部长联合会议召开工作会议，为大会作准备。<br/><br/>     会上宣布，根据刘备主席的提议，部长联合会议决定财政部长刘巴到中央工作，并同射援、赖恭一起列席部长联合会议。<br/><br/>      会议决定成立由刘巴负责的<b>《蜀科》</b>修改小组提出《蜀科》修改草案。虽然从公元215年诸葛亮、法正、伊籍、刘巴、李严等人就开始编辑《蜀科》，但是为蜀汉集团解决财政困难问题的刘巴，正式获得了刘备的认可。<br/><br/>      大会通过了政治报告、关于修改《蜀科》的报告和《蜀汉集团章程》。<br/><br/>       法正主持了大会。诸葛亮代表部长联合会议作政治报告。<br/><br/>大会通过了魏延出任汉中市委书记、汉中军区司令的任命，并重新选举了新一代的领导班子。<br/><br/>会后，政务委员法正、国务委员许靖、秘书长刘巴、办公室主任董和、总参谋长诸葛亮、军务委员马超，荆州军区总司令关羽，阆中军区司令张飞，益州军区司令黄忠，汉中军区司令魏延等人情切的会见了中外记者和各族友人。<br/><p><b>——————分割线——————</b><br/></p><p><br/>公元219年，58岁的刘备迎来了自己人生的最巅峰，从一个落魄贵族到整个汉帝国排名前三的诸侯，<b>他用了三十年的时间</b>，相比曹操、孙权，刘备的奋斗历程可谓是艰辛。</p><p>这三十年来，刘玄德东奔西走，像关张赵这样的万人敌，陈登这种世家大族，田豫这种地方大豪都与他交好。</p><p>等平定汉中之后，刘玄德麾下更是人才济济，虽然有张鲁的“宁做曹公奴，不为刘备座上客”，但是，并不影响他当时的如日中天。</p><p>于是，意气风华的刘备决定称王。</p><p><b>如今看来，刘备称汉中王，是步烂棋。</b><br/></p><p>攻取益州后，对刘玄德政治声誉上有了极大的损害，同时让曹操趁机巩固对雍凉地区统治。于是乎，对于刘备的举动，我做了以下几种猜测。</p><p><b>猜测一：</b>刘玄德在夺取汉中后自称汉中王，是居虚名而害实利，<b>颇有得意忘形的嫌疑</b>。<br/></p><p>两汉体制是<b>“非刘不王”</b>，但不是一些人误解的<b>“刘皆可王”</b>，而汉帝国的遗老遗少穷极一生维护的是奠定帝国基础的<b>“法统”，</b>而绝不是刘邦子孙一家一姓的江山。<br/></p><p>汉朝封王是有严格限制的，要么是皇帝亲子，要么是诸侯王嫡子，而诸侯王的子孙只能封侯。<br/></p><p>这就是大汉与满清的差距。皇子诸侯王之外的宗亲从来不是什么天潢贵胄，过了几代人之后，就和寻常士人一样为官入仕，立功封侯。<br/></p><p>以刘玄德中山靖王后裔的远支宗亲身份，就算为汉帝国立下伊霍之类匡扶社稷的大功，也绝对没有封王的道理。<br/></p><p>以当年袁术的权势，一旦称帝就瞬间崩盘，为什么？因为这是<u><i>“自绝于汉廷，自绝于天下士人，乱臣贼子人人得而诛之。”</i></u><br/></p><p>刘刘玄德想成就帝业的合法渠道，只能对比位面之子刘秀，在平定曹操孙权的前提前，克复两京，还于旧都。而在那之前，只能是<u><i>“</i><i>示天下器局之不广，令仁人志士大失所望</i></u>。”<br/></p><p>换句话说，只有在刘协禅让曹丕之后，从汉帝国的角度来看就是自弃宗庙，天子失国。</p><p>此后刘玄德如果一统河山，那就可以效刘秀故事，三兴汉统，自立为帝。</p><p>在<b>《汉中王劝进表》</b>里，蜀汉集团的笔杆子们也觉难以自圆其说，只能举<i><u>“河西诸将推举窦融为帅</u></i>”这种例子为先例。<br/></p><p>窦融不过是河西五郡大将军，向刘秀投诚后被封为凉州牧，这和刘玄德自封诸侯王<u><b>“以汉中、巴、蜀、广汉、犍为为国</b></u><i>”，</i>还是有本质的区别。<br/></p><p>以窦融为例，难道这不是孙十万的套路吗？毕竟人家才是名不正言不顺的。</p><p><b>猜测二：</b>刘备称王，是为给那些从龙之臣升职封爵、安置马超等降顺诸侯的一次权利分配。<br/></p><p>从汉帝国的角度来看，马超的合法身份是偏将军、都亭侯，刘备是左将军、豫州牧、宜城亭侯，关羽也是偏将军、汉寿亭侯。</p><p><b>在这种情况下，刘玄德不得用称王这种方式来整合内部的各种势力。</b></p><p>曹操称王，刘备骂他是叛逆，结果转眼就不顾汉帝国的法度和体制称王，自甘居于和曹操一类的反逆，这步棋不得不用一个“臭”字来形容。<br/></p><p>可是曹操是明目张胆破坏汉制，所以天下皆知他<b>“名为汉相，实为汉贼”</b>。<br/></p><p>刘玄德一直以来都是高举保汉大旗作为安身立命之本。<b>两汉四百年法统才是刘玄德身后的最大政治优势。</b></p><p>刘玄德自封为王，就是自弃合法性，把自己的格局降低为二袁式的割据军阀。<br/></p><p>许都的汉帝国中枢虽然只是个牌位，但是这是汉帝国的正统延续所在。<br/></p><p><b>猜测三：</b>刘备称王，是年事已高为身后事打算，解决将基业传及子孙的合法性，让刘禅传承基业。</p><p>刘玄德急着和属下定下君臣名分，是为了表示大家名分上都是汉帝国的臣子，但是以后就是汉中王的臣属了。<br/></p><p>曹操原本以司空、丞相录尚书事，摄行天子权，达到人生的巅峰，可是不惜逼死荀彧、激起一次次后方终于汉帝国的士人反叛和政变，也要称魏王，最大原因就是为了将基业和权柄传于子孙。<br/></p><p>就目前来看，刘玄德称王，最大的弊端就是将孙十万这个“车骑将军”置于反曹联盟于何地？</p><p>自尊心深受打击的孙权破口大骂<b>“滑虏乃敢挟诈”，</b>也不是没有缘故的。</p><p>再往后的数年里，孙权先后举兵争夺荆南三郡，不惜向曹操称臣也攻江陵、杀关羽。<br/></p><p>大概也是这个原因吧。</p><p>而诸葛亮北伐的时候，被大多数人视为攻掠边郡的蜀寇。</p><p><b>“百姓孰敢不箪食壶浆</b>”的场面如在梦中，也就理所当然了。<br/></p><br/><br/><p><b>————————我是分割线——————</b></p><br/><br/><p>汉中称王后，蜀汉集团开始了第二次的整合。</p><p>这是在夺得益州后，<b>蜀汉集团再一次的权利分割，而时间，刚好过了五年。</b><br/><br/>我们可以从劝进表中来看，当时鼓舞刘备称王的人的先后顺序——马超，许靖，庞羲，射援，诸葛亮，关羽，张飞，黄忠，赖恭，法正，李严。<br/><br/>这个刘备给汉献帝的表中的说法，但从刘备称王后，当时刘备集团分的蛋糕，诸葛亮、董和从署左将军府事改为署大司马府事，太傅许靖、尚书令法正、尚书刘巴属于汉中王国职衔。<br/><br/>关于军队的安排，前将军关羽，左将军马超，右将军张飞，后将军黄忠，镇远将军魏延。<br/><br/>这个排名就不分先后了，但这明显是蜀汉集团的金字塔的核心。<br/><br/>那在这个金字塔中，我们可以看出<b>，最大的赢家是东州帮四人，其次是荆州帮三人，凉州帮一人，北方帮两人</b>。<br/><br/>最大的黑马是魏延，这个杂号将军直接由第二梯队跃升为核心。汉中的镇守将军，妥妥的实力派。<br/><br/><b>进谏有功的许靖跃升为文官之首，刘巴的崛起直接把马良踢出了局。</b><br/><br/>马良的出局是必然的，毕竟，一个荆州省省长是无法在日益做大的蜀汉集团站稳脚步的。</p><p>而刘巴则是被刘玄德一手提拔起来的。“如果有谁危害到刘巴，我将诛杀他三族。”刘玄德的这番言语，也早早将刘巴绑到了他的身上。</p><p>傻子都可以看出曾经与刘备出生入死的北方系已经被刘备抛弃了，除了掌握实权的关羽与张飞二人不能动外，能被淘汰的就被淘汰了。<br/><br/>糜竺，孔乾，简雍，刘琰，夏侯兰都已经被抛弃了。</p><p>此时风头正劲的就是东州系，连诸葛亮都不得不避其风头，安心处理政务，不敢胡乱插手。<br/><br/>而刘玄德此时的目的就是扶持东州系，避免荆州系做大。<br/><br/>法正此时意气风发的正处于与刘备的蜜月期。</p><p>简单看下当时东州系的势力，太傅许靖，大司马府事董和，尚书令法正，尚书刘巴，从事射援，司马庞西，江州都督费观，广汉太守射坚，犍为太守李严，上庸军统军孟达，护军吴懿，统军吴班一时之间人才济济。</p><p>再加上态度暧昧的魏延，刘备的偏袒，此时的东州系一跃成为刘备集团第一大势力。</p><p>看清楚局势的诸葛亮不得不示好，已文臣班底为主的荆州系，此时的政策就是忍忍忍忍！！<br/><br/>只能在台面下不断的运作冯习，张南，傅肜，雷绪等荆州系武将，希望捡漏般的获取些军权。<br/><br/>而北方系的糜竺等人在东州系的攻势下，一个回合都没撑住就垮了。<br/><br/>至于在刘璋时代与东州帮平分秋色的本土系，只有黄权，杨洪，谯周数人苦苦支撑。<br/><br/>而杨洪在与东州系示好后，换来了蜀郡太守的位置了，这个位置本来是法正。</p><p>成都市长位子的传承，<b>意味着曾经辉煌的本土系已经沦为东州系的附庸。</b><br/><br/>事实上，在二十多年的斗争与融合中，<b>东州系与本土系的界限已不再明显。</b><br/><br/>于是乎，在政治上顺风顺水的东州系将权利需求放到了军事上。<br/><br/>东州系的崛起源于刘备急于摆脱北方系，压制逐步做大的荆州系。<br/><br/>法正是个人才，但是长期担任小吏的他，在一朝鹊起后，大局观并没有跟得上时代的潮流。<br/><br/>俗话说，屁股决定脑袋，眼光决定屁股。<br/><br/></p><p>在东州系迅速扩张的同时，当时的东州系魁首法正也不可避免的留下了隐患。<br/></p><p>尚书刘巴、四大天王之一的庞義、李严、费祎、董和、董允等人虽然是东州系的干将，但是与荆州系或多或少的有些瓜葛。<br/><br/><b>古往今来做什么事最得罪人？</b></p><p>分蛋糕的人最得罪人，刘璋就是分不好蛋糕让本土系和东州系弄熄了。<br/><br/>当分蛋糕的人换到法正的手里的时候？<br/><br/>那会是什么结果？？？？</p>", 
+            "topic": [
+                {
+                    "tag": "三国", 
+                    "tagLink": "https://api.zhihu.com/topics/19561223"
+                }, 
+                {
+                    "tag": "历史", 
+                    "tagLink": "https://api.zhihu.com/topics/19551077"
+                }, 
+                {
+                    "tag": "脑洞（网络用语）", 
+                    "tagLink": "https://api.zhihu.com/topics/19955433"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "cheers", 
+                    "userLink": "https://www.zhihu.com/people/9061fcea41e738d6fc4bc724485167d9", 
+                    "content": "每篇都看，支持", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "谢谢了……确实遇到瓶颈了", 
+                            "likes": 0, 
+                            "replyToAuthor": "cheers"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "听风语", 
+                    "userLink": "https://www.zhihu.com/people/565718f5e178019097e04bed45ae3a45", 
+                    "content": "求速更......看得我心切......", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "cheers", 
+                    "userLink": "https://www.zhihu.com/people/9061fcea41e738d6fc4bc724485167d9", 
+                    "content": "这篇看完有一点疑惑，为什么要花这么长篇幅来分析蜀汉的内部派系斗争呢？难道你觉得蜀汉最后的崩盘主因是因为分赃不均吗？我看不出你所分的派系各自有什么重要的共同利益，难道大家都是愤青地域黑？皇叔还是比较选贤任能的人，硬要按照派系分析显得有点生搬硬套了。况且当时蜀汉的主线应该是防吴抗曹，为什么不从主线剧情的发展上分析每个人的地位和作用以及皇叔对他们的看法呢？还有，派系斗争魏和吴也有，跟蜀汉比起来怎么样？最最后，最为三国演义里面刻画的唯一一个几乎没有缺点的人物，赵云这个时候去哪儿了？", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "谢谢你的指出，1，让你产生愤青地域黑这样的解读，确实是我没有把握好，跑偏了主题。2，过于强调了派系分析，导致生搬硬套。3，赵云这时候却是戏份不多。4，在下面应该着重分析个人，我会注意的。", 
+                            "likes": 2, 
+                            "replyToAuthor": "cheers"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "生生如烟", 
+                    "userLink": "https://www.zhihu.com/people/fac5f61fa08a1135eae90ac97a131dd7", 
+                    "content": "支持", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "花屋小三郎", 
+                    "userLink": "https://www.zhihu.com/people/8e8b596e1c241a1b002623fbba09e63e", 
+                    "content": "封面女郎呢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "紫恪", 
+                    "userLink": "https://www.zhihu.com/people/f1f335d67e839f2f39ef837ddb49106a", 
+                    "content": "<p>支持一下</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "散骑常侍陈庆之", 
+                    "userLink": "https://www.zhihu.com/people/d3cd806fdeea5f7446a7ed685d5eb670", 
+                    "content": "前排支持 有一个小小的疑问 东州帮是指哪个区域的？有东州这个郡吗", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "三代下一人", 
+                    "userLink": "https://www.zhihu.com/people/d2e7ad1b5e668ca04ccda1f7e48c37fe", 
+                    "content": "胡说八道。看劝进表排名都知道马超许靖前四人名大于实。而第五到第九的诸葛亮关羽张飞黄忠赖恭全是刘备老派系，掌握实权的第一档。法正也不过排赖恭后面罢了。还有这个表并不是都参加了，例如糜竺官位在诸葛亮之上而实权没有。——至于什么东州派压根扯淡，法正一共保荐三个结果出了两个乱子", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "扶风孝直", 
+                    "userLink": "https://www.zhihu.com/people/3e0c8e43b75342f4c58d17e2e80e35c6", 
+                    "content": "非常好看，法正戏份好多啊，太开心了", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25907060", 
+            "userName": "一斤桃花", 
+            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+            "upvote": 47, 
+            "title": "第二节 蜀汉早期体系构成", 
+            "content": "<p></p><p>毫无疑问，这十人小团体是这是蜀汉集团刚刚组建时，最早的权利核心。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>也是蜀汉集团最早期的构成体系。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而这个体系是刘备在自领益州牧的前提下建立的，为了方便后期理解，我们可以称之为<b>益州体系。</b></p><p>让我们先对这是个人简单的排下序，这样更直观些。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4cb55b18593c2831fd8c7edd33ddada7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"628\" data-rawheight=\"282\" class=\"origin_image zh-lightbox-thumb\" width=\"628\" data-original=\"https://pic4.zhimg.com/v2-4cb55b18593c2831fd8c7edd33ddada7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;628&#39; height=&#39;282&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"628\" data-rawheight=\"282\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"628\" data-original=\"https://pic4.zhimg.com/v2-4cb55b18593c2831fd8c7edd33ddada7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4cb55b18593c2831fd8c7edd33ddada7_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>益州牧也就是最大BOSS 刘备，这个不用说。</p><p><b>安汉将军糜竺</b>，安汉将军是没有实权的，仅仅只是个身份的象征，但是，史书明确说糜竺是蜀汉集团的二号人物。作为刘备的第一个天使投资人，东海糜君更多的时候处于花瓶的尴尬地位。</p><p><b>军师将军诸葛亮</b>，这个不多说，刘备的头号智囊，头号助手。</p><p>那么问题来了。</p><p>《三国志》中说军师将军诸葛亮，掌军中郎将董和，并置左将军府事。</p><p>这是什么意思呢？？</p><p>刘备当时还是汉王朝的左将军，他让诸葛亮和董和这两个人一起处理自己府里的事情，诸葛亮大家都知道，一直都是协助刘备处理相关事物。</p><p>那么董和是什么人？</p><p><b>《出师表》</b>大家都读过吧。</p><p><i>侍中、侍郎郭攸之、费祎、董允等，此皆良实，志虑忠纯，是以先帝简拔以遗陛下</i>。</p><p>这里面的董允就是董和的儿子。</p><p>董和出身巴郡，籍贯是荆州的南郡人，长期在益州当县长县令，最后在刘备入西川的时候，已经是益州的太守了。</p><p>来来我们来划重点，<b>巴郡、南郡、益州……</b></p><p>任命董和这个与荆州系、东州系、本土系都理不清楚的人，就是给那些观望的人放出个信号！</p><p>虽然BOSS由刘璋换成了我刘备，但是，大家都是刘家人，是不会亏待大家的。</p><p>董和可以理解为办公室主任，秘书长一级的人物，当然，刘备早期的文臣集团可是一直由荆州系把持，横插进来个董和？</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f92f199ff0952988cbeda4f0e6d3d380_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"419\" data-rawheight=\"415\" class=\"content_image\" width=\"419\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;419&#39; height=&#39;415&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"419\" data-rawheight=\"415\" class=\"content_image lazy\" width=\"419\" data-actualsrc=\"https://pic1.zhimg.com/v2-f92f199ff0952988cbeda4f0e6d3d380_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>平西将军马超</b>，马超是什么人，是脱离蜀汉四大派系后的凉州系的魁首，曾经的一方诸侯，之所以在忽视凉州系是因为这个势力的实力太弱了。</p><p>任命马超就是在四大派系中扶持一个小团体，让刘备在关羽张飞外，再拥有一支忠于自己的军队。</p><p>事实上，马超在蜀汉的地位一直都很高，高高的挂着供着。要知道刘备当时在汉王朝的官职是左将军，和马超的平西将军可是平级的。</p><p>当然，皇叔的理想很丰满，现实却呵呵(三国坑爹第一人注定不是刘备能降服的)……</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>蜀郡太守法正</b>，东州系四大天王之一，在刘璋时期法正过的并不如意，甚至在整个东州系也算不上拔尖。</p><p>但奈何法正的功劳太大了，从龙之功第一人，刘备的谋主。东州系要想在刘备集团站稳就必须将法正奉为领头羊。</p><p>尽管此时的法正只是成都市长，但是，凭着刘备的重视青睐，毋庸置疑法正的未来空间。</p><p><b>总督荆州事关羽</b>，此时的蜀汉集团只拥有荆州与益州两大区域，作为荆州的主政者，蜀汉军方最有权势的人物，关羽的地位自然在这里。</p><p><b>巴西太守张飞</b>，巴西太守官不大，只是蜀汉集团此时的十几个郡中的一个，但是张飞不一样。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>哪里不一样？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>他手里有军队！</p><p>巴州军可是和荆州军、益州军并列的三大蜀汉军主力，这凭这点，张飞也可以强势入围。</p><p><b>讨虏将军黄忠</b>，蜀汉军方实权派，荆州系大佬，讲真，黄忠在蜀汉军方的势力并不大。</p><p>关羽的那句“黄口老儿，尔凭何能”也并不是随口说说而已。</p><p>而黄忠在蜀汉的地位，完全是被诸葛亮等荆州系的人强势的抬起来的，在军事方面，荆州系能用的人确实太少太少。</p><p><b>左将军长史许靖，</b>作为东州系精神领袖许靖其实是汝南人。他有个弟弟叫许劭，没错，就是被曹操堵在屋里的那个许劭。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c81545ca4b84ca721c253339cf67fa02_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"588\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic3.zhimg.com/v2-c81545ca4b84ca721c253339cf67fa02_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1000&#39; height=&#39;588&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"588\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://pic3.zhimg.com/v2-c81545ca4b84ca721c253339cf67fa02_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c81545ca4b84ca721c253339cf67fa02_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>因为在后面的故事中，许靖的存在感实在是太弱了，除了出席一下会议什么的，就没什么作用了，所以在这里就占点篇幅讲一下。</p><p>许靖年轻的时候也是个人物，他一辈子做的最伟大的一件事，就是董卓当权的时候和周毖负责选官。</p><p>于是许靖选拔了<b>荀爽、韩融、陈纪、韩馥、刘岱、张咨、孔伷、张邈等人，硬生生的帮助董太师凑齐了反董班底。</b></p><p>董卓很生气，后果很严重。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>于是乎，许靖就开始了他的流亡生涯。</p><p>先是投奔<b>孔伷</b>，然后<b>孔伷</b>死了。</p><p>再去去投奔<b>陈祎</b>，然后<b>陈祎</b>死了。</p><p>又去投奔<b>许贡和王朗</b>，然后<b>许贡</b>死了，<b>王朗</b>跑了。</p><p>然后去交州避难，<b>士燮快</b>死了。</p><p>后来刘备攻打成都，许靖是蜀郡太守，计划着投降，还没投事情就败露。</p><p>捡了一条命的许靖归顺了刘备，刘备本来不准备用他的，结果法正这时候就说了：<i><b> 天下最有名无实的就是许靖，所以你得用他。</b></i></p><p>刘备一听，这才启用许靖。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>估计许靖知道后内心瞬间草泥马奔腾……</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0abfaf1272447474be9b88df429a7334_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"496\" data-rawheight=\"280\" class=\"origin_image zh-lightbox-thumb\" width=\"496\" data-original=\"https://pic1.zhimg.com/v2-0abfaf1272447474be9b88df429a7334_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;496&#39; height=&#39;280&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"496\" data-rawheight=\"280\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"496\" data-original=\"https://pic1.zhimg.com/v2-0abfaf1272447474be9b88df429a7334_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0abfaf1272447474be9b88df429a7334_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>荆州留守马良，这个马良不是画笔的那个孩子，马家在荆州可是第一梯队的门阀，“白眉最良”也是不亚于“卧龙凤雏”的评语。</p><p>在庞统死后，马良一跃成为荆州系的二当家，在诸葛亮入川后，马良就开始负责荆州的政务，关羽主军、马良主政，表面看起来也是很称心如意 。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>大家好，我叫李晚舟，是一个0.1K个回答获得19K赞的段子手。不是知乎最好，但绝对是性价比最高的段子手。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果你喜欢我的文字风格，还望动动小手点个关注+赞，绝对不会让你失望的。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>令，小说已发表在公众号“一斤桃花”。喜欢的可以关注下。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>对 ，就是这个桃花</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-1468392409fab67c1b84b058b20712b0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"511\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-1468392409fab67c1b84b058b20712b0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;511&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"511\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-1468392409fab67c1b84b058b20712b0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-1468392409fab67c1b84b058b20712b0_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "三国", 
+                    "tagLink": "https://api.zhihu.com/topics/19561223"
+                }, 
+                {
+                    "tag": "历史", 
+                    "tagLink": "https://api.zhihu.com/topics/19551077"
+                }, 
+                {
+                    "tag": "脑洞（网络用语）", 
+                    "tagLink": "https://api.zhihu.com/topics/19955433"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "arctan", 
+                    "userLink": "https://www.zhihu.com/people/bc24195bbc0947153e6f5b1a0babbd7d", 
+                    "content": "孙乾简雍能力不强？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "对比起来不是那么突出～", 
+                            "likes": 0, 
+                            "replyToAuthor": "arctan"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "力敌万人邢道荣", 
+                    "userLink": "https://www.zhihu.com/people/2059e07b688396bd2903abd5256b141b", 
+                    "content": "有陈到就不能有周仓，一个演义里没有，一个只存在演义里。", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "不要纠结这个嘛～", 
+                            "likes": 0, 
+                            "replyToAuthor": "力敌万人邢道荣"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "夷陵战神刘玄德", 
+                    "userLink": "https://www.zhihu.com/people/b4729c698bbc7638f8980d5e9792a270", 
+                    "content": "好嘛", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "闫磊", 
+                    "userLink": "https://www.zhihu.com/people/4164cf866de5c940ff7f31debd8441ff", 
+                    "content": "有一点值得商榷。庞统本身就是荆州系代表，年岁更长，威望更著，他若不死，是没必要让孔明入蜀的。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "在刘备早期的规划中，卧龙理政凤雏随军，如果他想效高祖故事的话，卧龙肯定要到益州的……", 
+                            "likes": 0, 
+                            "replyToAuthor": "闫磊"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "春夏秋冬", 
+                    "userLink": "https://www.zhihu.com/people/78c2db6f29e52643aad4df94fd435ea5", 
+                    "content": "仿佛看到了UC", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Chauncee", 
+                    "userLink": "https://www.zhihu.com/people/be9cec6babff890e5eed4513edbcd125", 
+                    "content": "吕布是为女人被掷戟吧", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "不要纠正我(´;︵;`)，我只是觉得这个押韵些", 
+                            "likes": 0, 
+                            "replyToAuthor": "Chauncee"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "讲的挺好的，就是带入现在的官职级别有些混乱，什么市委书记回去当科长，县长兼县委书记等。基层工作经验不够丰富啊。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "水平不够啊😊", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "半个人", 
+                    "userLink": "https://www.zhihu.com/people/f34f9e34c0634e5cc3f344ab13f038bf", 
+                    "content": "东汉末年的私学很泛滥好吧，一个记名弟子有什么用？宣扬皇叔又是什么鬼，可以的。这是哪本史书记载的。刘备是边地人，边地人在东汉是什么待遇？你的说法很刺激好吧。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "周润发", 
+                    "userLink": "https://www.zhihu.com/people/f823624950f5c81b8768883fe86649eb", 
+                    "content": "<p>好</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "所有人的奥古斯都", 
+                    "userLink": "https://www.zhihu.com/people/f53c602b9dc25d10c6a35f7ba652fb94", 
+                    "content": "重用许靖 以眩远近?", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25891046", 
+            "userName": "一斤桃花", 
+            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+            "upvote": 50, 
+            "title": "第一节 成都战役后的新秩序", 
+            "content": "<p><b>hi，这是我的新书《裂变之蜀汉风雨四十年》</b></p><p><b>喜欢的朋友可以关注下。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-84b2aa892f35a6bd6307e1a2b8b2743f_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"1008\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-84b2aa892f35a6bd6307e1a2b8b2743f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;1008&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"1008\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-84b2aa892f35a6bd6307e1a2b8b2743f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-84b2aa892f35a6bd6307e1a2b8b2743f_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>前言</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>“和我在成都的街头走一走，直到所有的灯都熄灭了也不停留。”</b>如果在公元三世纪初的小酒馆里，流传着《成都》这首歌，那么，感同身受最深的，无疑是将要不得不离开这个城市的前主人，刘季玉。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-fab58e97273fc8eeea6c750584a5c811_b.jpg\" data-rawwidth=\"564\" data-rawheight=\"287\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"564\" data-original=\"https://pic2.zhimg.com/v2-fab58e97273fc8eeea6c750584a5c811_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;564&#39; height=&#39;287&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"564\" data-rawheight=\"287\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"564\" data-original=\"https://pic2.zhimg.com/v2-fab58e97273fc8eeea6c750584a5c811_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-fab58e97273fc8eeea6c750584a5c811_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>正文 </b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一  益州狂欢晚会后的分赃盛宴</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>公元三世纪初，刘玄德在多方势力的簇拥下终于站在了成都城的城楼上。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>看着刘璋被流放的马车淹没在黄尘古道，看着这个皇室后裔消失在官道的尽头，刘玄德等人终于喘了口气。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>虽然刘玄德的这次战役是以恢复汉朝的统治为号召的，但并没有收到预期的效果，因为越来越少的人相信刘氏王朝还有复兴的可能。</p><p>特别是这次的对手刘季玉，他甚至是比刘玄德更根正苗红的刘氏后裔。</p><p>成王败寇永远是亘古不变的真理，城头变幻大王旗，入夜的成都城，也开启了一场庆祝胜利的狂欢盛宴。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><i><u>蜀中殷盛丰乐，先主置酒大飨士卒，取蜀城中金银分赐将士，还其谷帛。</u></i></p><p><i><u>先主复领益州牧，诸葛亮为股肱，法正为谋主，关羽、张飞、马超为爪牙，许靖、麋竺、简雍为宾友。及董和、黄权、李严等本璋之所授用也，吴壹、费观等又璋之婚亲也，彭羕又璋之所排摈也，刘巴者宿昔之所忌恨也，皆处之显任，尽其器能。有志之士，无不竞劝。</u></i></p><p>当我们翻开《三国志刘备传》的时候，看到的不是刘玄德苦尽甘来的辉煌，看到的不是刀光剑影鼓角铮鸣后的英雄豪迈。而是成都城里多方势力的暗潮涌动，而是共患难不能同富贵的权利的游戏。</p><p><b>是北方系、荆州系、东州系、本土系你方唱罢我登场的乱局，是阴谋与阳谋，权利与欲望交织在一起的较量。</b></p><p>时至今日，我们已经无法去探寻当时刘玄德的心情。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但是我想的话，当他看着眼前这块囊括益州、荆州的大蛋糕的时候，一定会想起家乡涿郡的那棵桑树。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-552997bf7369853fd04eeb4fcb6f551b_b.jpg\" data-rawwidth=\"1024\" data-rawheight=\"490\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic4.zhimg.com/v2-552997bf7369853fd04eeb4fcb6f551b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1024&#39; height=&#39;490&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1024\" data-rawheight=\"490\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1024\" data-original=\"https://pic4.zhimg.com/v2-552997bf7369853fd04eeb4fcb6f551b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-552997bf7369853fd04eeb4fcb6f551b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二    一份更好理解蜀汉权力架构的胡言乱语</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>公元214年秋，蜀汉集团第一次荆益两州代表大会胜利召开，出席的代表有1024人。</b></p><p>如果把此时的刘备集团比作金字塔的话，那站在塔上的几个人，无疑是真正的核心人物。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>会议中刘备主席做了致<b>《汉帝国之命运》</b>的开幕词，他说，在汉帝国人民面前摆着两条道路，光明的路和黑暗的路；我们的任务不是别的，就是团结全帝国一切可以团结的力量，在我的领导下，击败曹操、孙权等反政府武装，建设一个新的、光明的新汉帝国。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>蜀汉集团军总参谋长诸葛亮作<b>《论三分天下战场》</b>的军事报告和关于讨论军事问题的结论。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>此时的诸葛亮似乎已经有了预感，这是他最后一次作为蜀汉军方的一把手出席，不久之后，这个执掌蜀汉军方13年的总参谋长就彻底的离开了军队。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>成都市市长法正作<b>《关于修改荆益两州制度的报告》</b>和关于讨论组织问题的结论。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>作为入川之战的第一功臣，虽然法正加入蜀汉集团的时间并不长，目前也只是主政成都市，但是很多人都已经意识到，深得刘备欢心的法正将会顶替诸葛亮开始主掌军队。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p> 益州省省长许靖作<b>《论统一战线》</b>的重要讲话。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>会议选举了第一届部长联合会议的成员，刘备当选部长联合会议主席，糜竺、诸葛亮当选副主席，董和当选秘书长。</p><p>选举马超、关羽、法正、张飞、许靖、马良、黄忠等人当选委员。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>会议确定了刘备路线的历史地位，为往后的蜀汉集团的发展奠定了理论基础。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>会后，国务委员糜竺、总参谋长诸葛亮、副总司令马超、荆州省委书记，军区总司令关羽、益州省长许靖、荆州省长马良、成都市长法正、巴西市长、军区司令张飞、国防委员黄忠、刘备办公室主任董和等人情切的会见了中外记者和各族友人。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6b8bd1e033ef141bb1b0fce59fc3c3b4_b.jpg\" data-rawwidth=\"341\" data-rawheight=\"300\" data-size=\"normal\" data-caption=\"\" class=\"content_image\" width=\"341\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;341&#39; height=&#39;300&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"341\" data-rawheight=\"300\" data-size=\"normal\" data-caption=\"\" class=\"content_image lazy\" width=\"341\" data-actualsrc=\"https://pic1.zhimg.com/v2-6b8bd1e033ef141bb1b0fce59fc3c3b4_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>——————————————分割线——————</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>算一算刚好是十个人，不要问我为什么是十个人，因为这是小说呀，十个人好编故事啊~</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><i>附 参考资料</i></b></p><p> 1 诸葛亮 公元201年被任命为军师中郎将。214年被任命为军师将军，署左将军府事。</p><p> 2 法正 公元214年被任命为蜀郡太守、扬武将军。</p><p>3 糜竺 公元214年被任命为安汉将军，地位在军师将军诸葛亮之上，待遇是众臣之中最高。</p><p>4 许靖 公元214年被任命为左将军长史。</p><p>5 马超 公元214年被任命为平西将军、督临沮。</p><p>6 关羽 公元214年被委任督荆州事，授权镇守荆州五郡。</p><p>7 马良 公元211年被任命为左将军掾，协助关羽留守荆州。</p><p>8 张飞 公元214年被任命为巴西太守。</p><p>9 董和 公元214年被任命为为掌军中郎将，与军师将军诸葛亮共同主持管理左将军、大司马府的事务。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>大家好，我叫李晚舟，是一个0.1K个回答获得19K赞的段子手。不是知乎最好，但绝对是性价比最高的段子手。</p><p>如果你喜欢我的文字风格，还望动动小手点个关注+赞，绝对不会让你失望的。</p><p>令，小说已发表在公众号“一斤桃花”。喜欢的可以关注下。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>对 ，就是这个桃花</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-1468392409fab67c1b84b058b20712b0_b.jpg\" data-rawwidth=\"500\" data-rawheight=\"511\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-1468392409fab67c1b84b058b20712b0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;511&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"500\" data-rawheight=\"511\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-1468392409fab67c1b84b058b20712b0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-1468392409fab67c1b84b058b20712b0_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "三国", 
+                    "tagLink": "https://api.zhihu.com/topics/19561223"
+                }, 
+                {
+                    "tag": "历史", 
+                    "tagLink": "https://api.zhihu.com/topics/19551077"
+                }, 
+                {
+                    "tag": "脑洞（网络用语）", 
+                    "tagLink": "https://api.zhihu.com/topics/19955433"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "贫农", 
+                    "userLink": "https://www.zhihu.com/people/76f9f54837d1fbb0f16e97a4d7085051", 
+                    "content": "一本正经   胡说八道", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "看我尬的一脸……", 
+                            "likes": 0, 
+                            "replyToAuthor": "贫农"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "刘备的武功恐怕是很强的。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "老子让你在这停顿", 
+                    "userLink": "https://www.zhihu.com/people/1668ce6e46ca626b687f300056548c4d", 
+                    "content": "建议仔细再看看那段历史，刘备武也很强。真当像演义里一样？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "秋玦", 
+                            "userLink": "https://www.zhihu.com/people/e503d3f816d1793197e2c8bdb64f7bf6", 
+                            "content": "战斗靠练，刘备比不上关二张三赵四，但也不会太弱。战略，主要还看智慧，能当老大玄德公也不差，但战术，刚出来的时候他肯定比不上曹操吕布。武指的应该是战术", 
+                            "likes": 2, 
+                            "replyToAuthor": "老子让你在这停顿"
+                        }, 
+                        {
+                            "userName": "飞灾已退乎勿邀", 
+                            "userLink": "https://www.zhihu.com/people/5f92bdf33ce94800a8ae133a422d7d64", 
+                            "content": "您到底是说历史呢还是说演义呢？", 
+                            "likes": 1, 
+                            "replyToAuthor": "秋玦"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "萨克买迪克", 
+                    "userLink": "https://www.zhihu.com/people/8ae6e5b35bd8477b2a05cd204cddc0c1", 
+                    "content": "这水平连那些历史发明家的网文都不如。", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "对不起，我不是网文发明家，我只是在胡说八道", 
+                            "likes": 0, 
+                            "replyToAuthor": "萨克买迪克"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "布尔乔亚", 
+                    "userLink": "https://www.zhihu.com/people/f52415f8d163e482d7d062bb91fc6111", 
+                    "content": "原来如此", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "苏秦", 
+                    "userLink": "https://www.zhihu.com/people/25e6218f203a3322024c3b0f64b2428e", 
+                    "content": "吕布哪有为女人掷戟？为女人被掷戟才对吧", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "<p>董卓不服</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "苏秦"
+                        }, 
+                        {
+                            "userName": "苏秦", 
+                            "userLink": "https://www.zhihu.com/people/25e6218f203a3322024c3b0f64b2428e", 
+                            "content": "为了女人，吕布被董卓掷戟", 
+                            "likes": 0, 
+                            "replyToAuthor": "一斤桃花"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "幼师知道", 
+                    "userLink": "https://www.zhihu.com/people/bb4d70653edb3e78bad946dde3185c53", 
+                    "content": "<p>很喜欢你写的。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "你竟然不喜欢我", 
+                            "likes": 0, 
+                            "replyToAuthor": "幼师知道"
+                        }, 
+                        {
+                            "userName": "幼师知道", 
+                            "userLink": "https://www.zhihu.com/people/bb4d70653edb3e78bad946dde3185c53", 
+                            "content": "<p>因为我有女朋友了。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "一斤桃花"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "瓦西里hou", 
+                    "userLink": "https://www.zhihu.com/people/9035baebfe57b7ba685fb590a98aff30", 
+                    "content": "结果许靖克死了皇叔", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "德艺双馨张老湿", 
+                    "userLink": "https://www.zhihu.com/people/03ed98f0be0ddc162f8d78f7b9972f3b", 
+                    "content": "求解释一下，益州派，荆州派，东洲派，北方派与本土派的定义和人员分布，看的迷茫…", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "后文对此有解释[微笑]", 
+                            "likes": 0, 
+                            "replyToAuthor": "德艺双馨张老湿"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25890998", 
+            "userName": "一斤桃花", 
+            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+            "upvote": 7, 
+            "title": "一个理科男的胡言乱语", 
+            "content": "<p>前言二</p><p>   其实三国就是一场大博弈，要想看懂三国你就要知道什么叫博弈论。</p><p>   很多朋友问我什么是博弈论，我只能呵呵一笑深藏功与名，什么是博弈论？</p><p>简单的说，你和你媳妇吵架，你输了，今晚你只能睡沙发。你赢了，她就会回娘家，你还是睡沙发。</p><p>是不是觉得很绕口？觉得绕口你就对了，因为这个世界充满了深深的恶意。</p><p>于是乎，你可以把这理解为博弈论中的威胁策略。</p><p>当然，如果你想明早有早餐吃的话，你就只能选择退让，为什么？因为博弈论的最终目的便是利益最大化。</p><p>   看不懂？是的，以上皆属扯淡，如果你认真你就输了。</p><p>   如果想明白什么是博弈论，推荐去看看“囚徒困境”、 “斗鸡博弈”那才是博弈论的经典。</p><p>   好吧，说了这么多废话，来个官方点的解释，很多人的脑子和思想只有一面，这是多年洗脑和环境的自然结果。</p><p>博弈论就是非常好的打破这种常规洗脑带来的束缚的好方法。</p><p>  换句话说，博弈论的最终目的就是如何的去更好的 pay off ！！</p><p>学习博弈论的主要目的就是要懂点博弈原理，将博弈策略应用到生活与工作中，就能出奇制胜，改变生活的固有轨迹。</p><p>   既然博弈论在我们生活中有这么大的用场，那如何去更好的学习他呢？</p><p>   如果干瘪的描述那些大块头理论，我想是一种枯燥的折磨。</p><p>但是！！如果将干瘪的博弈论理论放入我们熟悉的那段历史中来，是不是给人一种温馨的感觉，恩，温馨这个词用的很好。</p><p>理科生的逻辑你不用太过于认真，稍不留神就会上天，和嫦娥七号肩并肩。<br/></p><p>   闲话说了那么多让我们回归正题，从博弈论看三国。</p><p>   看三国不能不看蜀汉，看蜀汉不能不看内讧，蜀汉从建国到亡国那可是整整大半个世纪的内讧史啊。</p><p>那么问题来了，既然有内讧自然就会有博弈，有博弈就会有输赢，有输赢我们才能站在胜利者得肩膀上吸收胜利的经验。</p><p>   时至今日，有汉字的地方就会有关于三国的传说，由此可见三国历史的普及程度。</p><p>但是作为中国历史最精彩的诸侯争霸时期，三国真的像我们所看的那么的光明正大吗？</p><p>   当然，你如果认为英雄总是美好的诸位小朋友请搬个小板凳做好，听我慢慢扯来~</p><p>   首先让我们先划定个时间段，毕竟汉末晋初近百年的历史说起来太漫长了，那就让我们坐好皮皮虾，直接从黄巾起义飞到皇叔入川，从蜀汉先说起吧。</p><p>    个人认为，蜀汉的历史，真正开始于刘备入主益州的时候。</p><p>说明一点，此时曹操尚未称王，刘备也未称帝，这种找喷的常识性错误我想我还是不会犯的。</p><p>  在下文中之所以用蜀汉代表刘备集团，用曹魏代表曹操集团只是为了便于理解，我想，这是大家可以理解的吧。</p><p>  而用蜀魏而不是曹刘代替交战的双方，主要原因是每次我看到曹刘就会想到草榴。</p><p>当然还有后面那句“生子当如孙仲谋”，尽管在往后的几年我孙权大帝这个活体经验包直接被张辽刷出翔来。</p><p>但是并不影响他与草榴~呃~是曹刘并列汉末三雄的崇高地位。</p><p>   其次，你不觉得草榴~呃~曹刘！！在气势上就比蜀魏弱了三分吗？</p><p>博弈论告诉我们，在博弈双方的交战中，懂得适当地展示自己的气势是人际博弈中的重要策略,这种气势既可以威慑住对手也可以鼓舞自己。</p><p>   君不见，那些菜市场大妈买菜争论的时候无非靠的是嗓门大，管你有理没理，先昂一嗓子再说，打比赛的时候主场龙客场虫，难道是说着玩儿？</p><p>用剑当用长，射人先射马，打架当居高，是的，古老的历史经验告诉我们，先不管打不打得赢，气势上不能输。</p><p>  所以说，先声夺人还是有一定的科学道理的。</p><p>以上内容纯属个人YY....</p><p>以下内容纯属个人胡说八道......</p>", 
+            "topic": [
+                {
+                    "tag": "三国", 
+                    "tagLink": "https://api.zhihu.com/topics/19561223"
+                }, 
+                {
+                    "tag": "历史", 
+                    "tagLink": "https://api.zhihu.com/topics/19551077"
+                }, 
+                {
+                    "tag": "脑洞（网络用语）", 
+                    "tagLink": "https://api.zhihu.com/topics/19955433"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "白锦", 
+                    "userLink": "https://www.zhihu.com/people/2d11a5df14ab0789bc63e820e579cb85", 
+                    "content": "这会瞎扯淡，看多了成功学来乱套", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "成功学，你真看得起我……", 
+                            "likes": 0, 
+                            "replyToAuthor": "白锦"
+                        }, 
+                        {
+                            "userName": "楠楠自语", 
+                            "userLink": "https://www.zhihu.com/people/6d3ebf0cad03d5f174166bf3d73009e5", 
+                            "content": "他说的是十块钱一本的成功学", 
+                            "likes": 0, 
+                            "replyToAuthor": "一斤桃花"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "肖贤森", 
+                    "userLink": "https://www.zhihu.com/people/de853254cc3ccbde5acc9630302a7d7e", 
+                    "content": "博弈论，仿佛以前在哪看到过，但不是这里", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "蛮早以前，我在天涯也发过的", 
+                            "likes": 0, 
+                            "replyToAuthor": "肖贤森"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "荀彧", 
+                    "userLink": "https://www.zhihu.com/people/ebe0fd36dddc8fd17ba54b7666d97e03", 
+                    "content": "这么扯的balabalaba，我居然看完了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "哈哈，你是多寂寞～", 
+                            "likes": 0, 
+                            "replyToAuthor": "荀彧"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25890989", 
+            "userName": "一斤桃花", 
+            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+            "upvote": 12, 
+            "title": "一个2B文艺青年的开头", 
+            "content": "<p>前言一</p><p>   很多年后，面对白帝城汹涌的江水，迟暮的刘玄德都会回忆起在桃园结拜的那个遥远下午，那是刘玄德第一次进入桃园，也是他漫长一生中唯一一次进入那个地方。</p><p>   刘玄德第一次看见张飞的时候，后者还没有卤好那块赫赫有名的牛肉。</p><p>作为一名资深的厨师，喝的醉醺醺的张飞和他的永久牌自行车一起躺在黄焖鸡米饭门前的马路牙子上面。</p><p>    那时的张飞已拥有一份不小的家业，但是总是借酒消愁，而且每次都会喝的大醉，没有人知道他在忧伤什么。</p><p>有钱有房有车，漂亮老婆暖炕头，张飞的生活似乎一直都是很多人理想中的生活，但是他并不满足，直到遇见刘玄德。</p><p>   当时的刘玄德年轻而激情，还处于会第一眼就会爱上一个已经订婚的姑娘的年纪，这个青春荷尔蒙固有的意识形态却没有随着年龄的增长而消除，并一直影响他后来的择偶观爱情观。</p><p>    在后来的梅园，刘玄德关于这个话题和曹操进行了很深刻的探讨。</p><p>当然，那时的曹操已经成为帝国有名的人妻爱好者，人妻集邮专家，天下英雄，使君与操尔，其实并不是一句戏言。</p><p>   那时的刘玄德是个标准的忧郁少年，早年丧父的经历一直影响着他的一生，哪怕他的授业恩师是卢植，当时帝国最有权势的男人之一。</p><p>   后来的研究表明，虽然刘玄德的体内流着当时帝国最高贵的血液，但是贫困的早年生活一直压抑着这个立志要恢复先祖荣耀的少年。</p><p>    为了生计只能靠织席贩履填饱肚子，残酷现实与丰满理想的巨大落差感让刘玄德一直都保持比同龄人更为明显的早熟。</p><p>不过，当时的刘玄德拥有着和所有的那个年龄段的男孩一样的嗜好。</p><p>酷爱那种永远买不起的名贵跑车，他曾经指着门口的桑树说，将来我一定会用它做我的法拉利的敞篷车盖。</p><p>而他的叔叔刘子敬则被吓得一身冷汗，毕竟当时汉帝国植物保护法还是很严格的。</p><p>刘玄德时常会捧着弗洛伊德的书爱不释手，甚至还活跃在学校的诗歌社团，虽然一直无法获得漂亮的妹子的青睐，但是一样乐此不疲。</p><p>他日后的同窗公孙瓒在回忆起这些往事的时候总会莫名的感慨，厚积而薄发，往往笑到最后的才是真正的成功者。</p><p>   不管怎么说，当时的张飞的确是被刘玄德身上的那种气质所吸引，正像昆德拉所说的那样，友谊的真正与唯一的意义就是为对方提供一面镜子，让他可以看到自己的形象。</p><p>    很多人都会感到疑问，为什么刘备儿子的两任妻子都是张飞的女儿，这都是被张飞莽撞的形象所迷惑。</p><p>作为刘备集团最早的参与者之一，蜀汉帝国的缔造者之一，张飞对刘备集团的影响力并不是一般人所能理解的那么简单。</p><p>     再后来，通过张飞，刘玄德认识了关云长，那个来自河东的朴实卖枣汉子，作为帝国榜上有名的通缉犯，关云长每次出门前都会往脸上抹上厚厚的妆。</p><p>这个特殊的嗜好伴随了关云长的一生，甚至为他落下了不爱武装爱红装的诟病。</p><p>和刘玄德不一样的是，张飞和关云长都是手上沾过血的猛人，三个人的第一次见面就是在那家黄焖鸡米饭的店子里。</p><p>   于是，在那个北方的梅雨季节里，涿县的人们都会看到三个人骑着自行车荡漾在街头巷尾，漫步于蒙蒙细雨之中，漫步于倾盆大雨之中。</p><p>他们快乐时高歌，悲伤时大笑，肆无忌惮的表现自己的情绪，肆无忌惮的表现自己的人生价值，没有学历的三个年轻人，在那个份外看中学历的时代，用自己的拳头实现自己的意义。</p><p>路见不平一声吼，姐姐妹妹握个手。</p><p>涿县一向我大晒我玩晒</p><p>玄德掌管一带</p><p>翼德云长与大档都睇晒</p><p>坨地至高境界</p><p>论背景至强大</p><p>论劈友我不言败</p><p>刀光剑影让我闯为社团显本领</p><p>一心振家声就算死也不会惊</p><p>让我的血可流下来</p><p>   在我们现在看来，他们当时自以为的英雄潇洒是那么的幼稚。</p><p>但是，毫无疑问的是，这样的铁三角组合足以称霸了小小的涿县，为他们以后的发展奠定了基础。</p><p>  关羽的拳头在往后的若干年里有无数人证明是有多么的无坚不摧，张飞的钱财为他们提供了足够的物质基础。</p><p>恰恰在三世纪，武人们崇尚一种更加的突击方式，以对方本阵为目标。或者一战成名，或者身死人手。这不仅仅是个人的英勇或鲁莽，而是一种文化的趋势。<br/></p><p>而刘备在帝国担任部级领导的老师卢植和在隔壁辽西担任军区司令的学长公孙瓒足以为他们买下所有闯祸的单。</p><p>   当时，刘备的发小简雍也跟着他们一起......</p><br/><br/><p>   这本书翻到这里的时候，我感到一股倦意，自从W离开后，睡觉成为了一件奢侈的事情，漫长的三国历史就像滚滚的江水，充斥着阴谋阳谋，明说暗夺的摸，我只能借助这些东西麻痹自己，让自己不去想那些心酸的事情，今天的武汉下了雨，估计明天要有雪，天气很寒冷，心情很冰冷。</p>", 
+            "topic": [
+                {
+                    "tag": "三国", 
+                    "tagLink": "https://api.zhihu.com/topics/19561223"
+                }, 
+                {
+                    "tag": "历史", 
+                    "tagLink": "https://api.zhihu.com/topics/19551077"
+                }, 
+                {
+                    "tag": "脑洞（网络用语）", 
+                    "tagLink": "https://api.zhihu.com/topics/19955433"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "刘过云", 
+                    "userLink": "https://www.zhihu.com/people/61966859d5bf3e8fc0a90758990f78f6", 
+                    "content": "好文", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "只好是误会", 
+                    "userLink": "https://www.zhihu.com/people/78de326a111d1ef9673e61d35b44ccf7", 
+                    "content": "好像《此间的少年》", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "椎名林檎家", 
+                    "userLink": "https://www.zhihu.com/people/7607041c65df41be73843122cf5a884b", 
+                    "content": "加油", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "雨落风情", 
+                    "userLink": "https://www.zhihu.com/people/42dc4ddfb10c1668d7d1d614fcd00a22", 
+                    "content": "写得真好！", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20506522", 
+            "userName": "一斤桃花", 
+            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+            "upvote": 6, 
+            "title": "一般正经的胡扯三国（一）桃树下的男人", 
+            "content": "<p><b>桃树下的男人</b></p><p>很多年后，面对白帝城边漫山的桃花，迟暮的刘玄德都会回忆起在桃园结拜的那个遥远下午，那是刘玄德第一次进入桃园，满园盛开的桃花弥漫在春风中，伴随着飘洒的六月的雨，动人心扉。</p><p>   刘玄德第一次看见张飞的时候，后者还没有卤好那块赫赫有名的牛肉，作为一名资深的厨艺专家，喝的醉醺醺的张飞和他的永久牌自行车一起躺在黄焖鸡米饭门前的马路牙子上面。</p><p>那时的张飞已拥有了一份不小的家业，却总是借酒消愁，而且每次都会喝的大醉，没有人知道他在忧伤什么，有钱有房有车，漂亮老婆暖被窝，张飞的生活似乎一直都是很多人理想中的生活，但是他总是感到一阵莫名的空虚寂寞冷。</p><p>张飞写得一手好字，可是他从来不在外人面前显露，每次他感到寂寞的时候，总是将写好的字撕碎用来下酒，一口纸一口酒的细细品尝，然后喝的伶仃大醉，直到那天他遇到了刘玄德。</p><p>   当时的刘玄德还处于会第一眼就会爱上一个已经订婚的姑娘的年纪，这个青春期肾上腺激素固有的意识形态却没有随着他的年龄增长而消除，并一直影响他的择偶观爱情动作观。</p><p>在后来的梅园，刘玄德关于这个话题和曹操进行了很深刻的探讨，当然，那时的曹操已经成为帝国有名的人妻爱好者，人妻集邮专家，作为人妻界的资深前辈，刘玄德和曹操就这样在共同爱好的驱使下结成了知己，天下英雄，使君与操尔，其实并不是一句戏言。</p><p>   那时的刘玄德是个标准的忧郁少年，早年丧父的阴影一直伴随着他的一生，哪怕他的授业恩师是卢植，当时帝国最有权势的男人之一。</p><p>后来的研究表明，虽然刘玄德的体内流着帝国最高贵的血液，但是贫困的早年生活一直压抑着这个立志要恢复先祖荣耀的少年。为了生计只能靠织席贩履填饱肚子，残酷现实与丰满理想的巨大落差感让刘玄德比同龄人更为明显的早熟。</p><p>    不过，当时的刘玄德拥有着和所有的那个年龄段的男孩一样的嗜好，酷爱那种永远买不起的名贵跑车，时常会捧着弗洛伊德的书爱不释手，甚至还活跃在学校的诗歌社团，虽然一直无法获得漂亮的妹子的青睐，但是一样乐此不疲。</p><p>刘玄德的同窗公孙瓒在回忆起这些往事的时候总会莫名的感慨，厚积而薄发，往往笑到最后的才是真正的成功者。</p><p>   不管怎么说，当时的张飞的确是被刘玄德身上的那种气质所吸引，正像昆德拉所说的那样，友谊的真正与唯一的意义就是为对方提供一面镜子，让他可以看到自己的形象。</p><p>很多人都会感到疑问，为什么刘备儿子的两任妻子都是张飞的女儿，这都是被张飞莽撞的形象所迷惑，乱世人命贱如狗，乱世百姓贱如狗，能傲立于乱世之巅的人，又有几个简单的人。</p><p>作为刘备集团最早的参与者，蜀汉帝国的缔造者，张飞对刘备集团的影响力并不是一般人所能理解的那么简单。从一开始起张飞就一直占据着刘备集团的核心地位，并在关云长死后成为蜀汉集团军事领袖，如果没有那场荒谬的刺杀，恐怕张飞的成就不止于此。</p><p>   后来，通过张飞，刘玄德认识了关云长，那个来自河东的朴实卖枣汉子，作为帝国榜上有名的通缉犯，关云长每次出门前都会往脸上抹上厚厚的妆，并将这个习惯保持了一生。和刘玄德不一样的是，张飞和关云长都是手上沾过血的猛人，三个人的第一次见面就是在那家黄焖鸡米饭的店子里。</p><p>   于是，在那个北方的梅雨季节里，涿县的人们都会看到三个人骑着自行车荡漾在街头巷尾，漫步于蒙蒙细雨之中，漫步于倾盆大雨之中，他们快乐时高歌，悲伤时大笑，肆无忌惮的表现自己的情绪，肆无忌惮的表现自己的人生价值，</p><p>他们时常逗留在涿县破旧广场的酒吧里，直到他们遇到村上春树，后者用异常冷静的语气告诉他们，十岁不爱TFBOYS的人没有心，二十岁还爱TFBOYS的人没有脑。恍然大醉后的三个人躺在桃园雨后的泥土上，任凭飘落的花击打着他们的脸，直到桃花覆满他们的躯体。</p><p>于是，没有学历的三个年轻人，在那个份外看中学历的时代，用自己的拳头实现自己的意义。路见不平一声吼，姐姐妹妹握个手。</p><p>涿县一向我大晒我玩晒</p><p>玄德掌管一带</p><p>翼德云长与大档都睇晒</p><p>坨地至高境界</p><p>论背景至强大</p><p>论劈友我不言败</p><p>刀光剑影让我闯为社团显本领</p><p>一心振家声就算死也不会惊</p><p>让我的血可流下来</p><p>   在我们现在看来，他们当时自以为是的英雄潇洒是那么的幼稚，但是，毫无疑问，这样的铁三角组合足以称霸了小小的涿县，为他们日后的发展奠定了基础，比如说那两只叫张世平、苏双的肥羊。</p><p>关云长的拳头在往后的若干年里用无数人的生命证明是有多么的无坚不摧，张飞的钱财为他们提供了足够的物质基础，毕竟理想不能当饭吃，招兵买马要用钱。而刘玄德在帝国中央担任部级领导的老师卢植和在不远的辽西担任军区司令的学长公孙瓒足以为他们买下所有闯祸的单。</p><p>   当时，刘玄德的发小简雍也跟着他们一起，可惜在整篇故事里简雍的出场率仅高于路人甲，这也是我们无法想象的，毕竟，就亲密度而言，刘玄德的个人情感还是偏向于简雍的。如果说，刘玄德与关云长张飞是一种英雄之间的心心相惜，那和简雍则是从小一起长大的亲情。于是，我们可以把简雍理解为王身后男人，一个成功的团体他总是要些见不得光的手段来处理些见不得人的事，这个任务只能交给那个王身后的男人。</p><p>不管怎么说，早期的简雍还是个小角色，这也反应出刘玄德和张飞关云长之间的基本矛盾，他们只是同盟者而不是从属者，刘玄德和关云长借助张飞的钱，刘玄德和张飞借助关云长的拳头，张飞和关云长借助刘玄德的名。三者缺一不可，达到一种很美妙的均衡。</p><p>在漫长的南北征战的岁月中，和所有人一样，刘玄德关云长和张飞成为了一个符号而非他们自己。人们把他们看做兄弟情深的旗帜，将他们比作菲德尔与切，罗伯斯庇尔与丹东，伟大领袖与副统帅。不过，这些比喻倒不能说完全是胡说八道，至少它们提示了一个事实，那就是他们三个人在某些时候利益点并不是完全一致的。</p><p>如果说刘玄德没有扯卢植和公孙瓒的虎皮，恐怕只能沦为张飞圈养的门客，士族门阀的世界，个人能力显得是那么的微不足道。为了不使自己在与张飞的联盟中处于劣势，刘玄德不得不拉起关云长来制衡。以大义的名分来限制张飞，毕竟在这个小团体里一切的物质基础都来源于张飞。虽然这一关系随着后来刘玄德的名声鹊起而有所改变，但始终是横着刘玄德心中的一根刺。<br/></p><br/>后来的定鼎西川让这一矛盾得到了升华，在当时的蜀汉集团，所谓的北方系、东州系、荆州系、本土系只能算是政见之争，局限于文人的口诛笔伐。而蜀汉的军事集团中仅仅只有三个势力，刘玄德的西川军、关云长的荆州军和张飞的巴州军，这都是奠定蜀汉基础和动摇蜀汉国本的军事武装。<p>刘玄德的西川军势力最庞大，而关云长的荆州军有马良等本土势力所限制，加之关云长本人没有任何家族所依附，只能算是蜀汉这个庞大的身躯上一个强力的臂膀。而张飞的巴州军不一样，抛开张飞本人与刘玄德剪不清理还乱的关系不谈，和夏侯氏的结亲让他与曹魏集团有了很大的缓冲空间。</p><p>荆州溃败之后，让诸葛孔明的三分天下失去了理论基础，这迫使刘玄德硬着头皮去与孙十万撕逼，但是在另一方面也促使了蜀汉集团的中央集权，混乱的军阀时代已经结束，王与王之间的争斗才刚刚开始。于是乎，巴州军的是去是留提上了蜀汉大佬们的日常议程。刘玄德领兵东征后，空虚的蜀地内部经不起一个大规模的折腾，甚至无法抵抗一只精锐部队的南下。如果说，张飞很豪爽的只身入成都，放弃对巴州军的领导权，凭着与刘玄德多年的情分，什么大将军万户侯完全不在话下。但是，他偏偏提出了独领一军征吴。</p><p>在发动夷陵战役之前的时候，刘玄德收到了总参谋长黄忠递来的一份战局模拟报告，这个本已退休的老元帅在法正病世后开始主持总参谋部的日常工作，繁忙的工作正一丝丝的榨干这个成名四十余年名将的最后一点精气神，听着这个年迈的老人汇报的战局模拟报告，刘玄德的眼里闪现一丝阴冷。</p><p>如若大军东征，巴州军南下，进可占据成都与东吴夹击我军，退可引曹贼入室，裂土封侯。一旦巴州军有二心，我军似无葬身。</p><br/><p>‘’军营前，那面黄底白字的‘汉’字国旗依然在风中颤抖，这面历经数百年风雨的旗帜承载了太多的荣誉与压力。我不知道这是我第几次凝视这面旗子，因为每次凝视所带来的意味都是不一样的，我开始怀疑，一些东西到底应该是我们的手段，还是过程。”听闻张飞死讯的刘备在日记里如是写道。<br/></p><p>后者把自己关在小黑屋里三天之久，不吃不喝没有任何声响，直到诸葛孔明从成都赶来。没有人知道他们说了什么，只有那天不小心闯入的一名侍者，看到了诸葛孔明抚摸着刘玄德的头，不停念着：“人类没有时间去了解事情的本源，他们只能购买现成的东西，所以人类没有朋友，事情就是如此啊……”</p><p>   这本书翻到这里的时候，我感到一股倦意，自从W离开后，睡觉成为了一件奢侈的事情，漫长的三国历史就像滚滚的江水，充斥着阴谋阳谋，明说暗夺的摸，我只能借助这些东西麻痹自己，让自己不去想那些心酸的事情，今天的武汉下了雨，估计明天要有雪，天气很寒冷，心情很冰冷。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "老佛爷", 
+                    "userLink": "https://www.zhihu.com/people/6e68b7dbfb147258294fc619902e8c5a", 
+                    "content": "刘备不会写诗谢谢", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "人家的文化素养毕竟在那放着的", 
+                            "likes": 0, 
+                            "replyToAuthor": "老佛爷"
+                        }, 
+                        {
+                            "userName": "老佛爷", 
+                            "userLink": "https://www.zhihu.com/people/6e68b7dbfb147258294fc619902e8c5a", 
+                            "content": "但是有刘表的话在那搁着。。。", 
+                            "likes": 0, 
+                            "replyToAuthor": "一斤桃花"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "老佛爷", 
+                    "userLink": "https://www.zhihu.com/people/6e68b7dbfb147258294fc619902e8c5a", 
+                    "content": "～。～刘表说从没见过刘备写诗，他要是写也不会写的那么俗（指某反诗）", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "落下", 
+                    "userLink": "https://www.zhihu.com/people/778380cd0d5601962b1b365e8fd9ed01", 
+                    "content": "喜欢你写东西", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "一斤桃花", 
+                            "userLink": "https://www.zhihu.com/people/0f9123c3204289469336508af833ec92", 
+                            "content": "喜欢我那一点……", 
+                            "likes": 0, 
+                            "replyToAuthor": "落下"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/limeng"
+}

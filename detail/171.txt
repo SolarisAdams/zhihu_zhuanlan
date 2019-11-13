@@ -1,0 +1,559 @@
+{
+    "title": "氪栈", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/lu-de-8", 
+        "https://www.zhihu.com/people/na-lan-kui-81", 
+        "https://www.zhihu.com/people/chen-2007", 
+        "https://www.zhihu.com/people/jax-59", 
+        "https://www.zhihu.com/people/zhangsan-97-39", 
+        "https://www.zhihu.com/people/man-22-1", 
+        "https://www.zhihu.com/people/si-wu-xie-48-25-86", 
+        "https://www.zhihu.com/people/yu-luo-da-hai", 
+        "https://www.zhihu.com/people/qiu-zun-26", 
+        "https://www.zhihu.com/people/swzero", 
+        "https://www.zhihu.com/people/da-hei-38-33", 
+        "https://www.zhihu.com/people/long-ao-tian-49-27", 
+        "https://www.zhihu.com/people/zhh-li-88", 
+        "https://www.zhihu.com/people/chen-you-qian-87", 
+        "https://www.zhihu.com/people/zao-zhi-dao-92", 
+        "https://www.zhihu.com/people/shui-liang-fu-bei-87", 
+        "https://www.zhihu.com/people/jing-xiao-qi-72", 
+        "https://www.zhihu.com/people/ge-zu-han-99", 
+        "https://www.zhihu.com/people/chuan-ze-62", 
+        "https://www.zhihu.com/people/xiao-bai-87-36-9", 
+        "https://www.zhihu.com/people/ReveAnime", 
+        "https://www.zhihu.com/people/lxyye-wei-liang", 
+        "https://www.zhihu.com/people/a-lu-ba-52-68", 
+        "https://www.zhihu.com/people/xiang-min-96-99", 
+        "https://www.zhihu.com/people/lu-zi-mo-76", 
+        "https://www.zhihu.com/people/excited-zeng", 
+        "https://www.zhihu.com/people/zhang-jie-48-44-87", 
+        "https://www.zhihu.com/people/yi-la-ke-31", 
+        "https://www.zhihu.com/people/xu-ri-sheng-85", 
+        "https://www.zhihu.com/people/meteor0928", 
+        "https://www.zhihu.com/people/zou-ji-91-11", 
+        "https://www.zhihu.com/people/somebodysama", 
+        "https://www.zhihu.com/people/hong-da-wei-27", 
+        "https://www.zhihu.com/people/qian-se-ji-yu", 
+        "https://www.zhihu.com/people/dai-ci-de-xiao-hua", 
+        "https://www.zhihu.com/people/zhiyi-zhu-4", 
+        "https://www.zhihu.com/people/tang-xian-hong", 
+        "https://www.zhihu.com/people/lynn-yang-43-82", 
+        "https://www.zhihu.com/people/chang-feng-hao-51", 
+        "https://www.zhihu.com/people/ai-xue-xi-de-cai-niao-29", 
+        "https://www.zhihu.com/people/summer03117", 
+        "https://www.zhihu.com/people/tariel", 
+        "https://www.zhihu.com/people/xiu-xing-zhe-75-97", 
+        "https://www.zhihu.com/people/smilelixuejian", 
+        "https://www.zhihu.com/people/wu-ming-zhi-98-45", 
+        "https://www.zhihu.com/people/wang-lei-86-67-28", 
+        "https://www.zhihu.com/people/tonny-88", 
+        "https://www.zhihu.com/people/jing-yun-78-32", 
+        "https://www.zhihu.com/people/lhx-liu", 
+        "https://www.zhihu.com/people/120701101", 
+        "https://www.zhihu.com/people/cui-lzhi-zhao", 
+        "https://www.zhihu.com/people/monster-73-54", 
+        "https://www.zhihu.com/people/uoing2016", 
+        "https://www.zhihu.com/people/mayangbo", 
+        "https://www.zhihu.com/people/yuna-wa", 
+        "https://www.zhihu.com/people/yang-fan-47", 
+        "https://www.zhihu.com/people/min-er-dan-94", 
+        "https://www.zhihu.com/people/hu-xiao-shin", 
+        "https://www.zhihu.com/people/zhi-hu-bu-zhi-23", 
+        "https://www.zhihu.com/people/xie-ying-xiao", 
+        "https://www.zhihu.com/people/kong-le-9", 
+        "https://www.zhihu.com/people/lao-wu-31-78", 
+        "https://www.zhihu.com/people/wang-zhuo-qun-40-93", 
+        "https://www.zhihu.com/people/gaoguobin94", 
+        "https://www.zhihu.com/people/lipin-01", 
+        "https://www.zhihu.com/people/chen-jia-hao-21-68", 
+        "https://www.zhihu.com/people/shangll", 
+        "https://www.zhihu.com/people/mi-jia-jia", 
+        "https://www.zhihu.com/people/mrpandada", 
+        "https://www.zhihu.com/people/xiao-du-zhi-jin", 
+        "https://www.zhihu.com/people/qi-xiang-62-13", 
+        "https://www.zhihu.com/people/hala-92", 
+        "https://www.zhihu.com/people/nick-poon", 
+        "https://www.zhihu.com/people/urban-lia", 
+        "https://www.zhihu.com/people/zhu-yong-82-44", 
+        "https://www.zhihu.com/people/spring-30-26", 
+        "https://www.zhihu.com/people/zhezhang", 
+        "https://www.zhihu.com/people/luo-chen-yi-58", 
+        "https://www.zhihu.com/people/jingaowen", 
+        "https://www.zhihu.com/people/tang-long-89-81", 
+        "https://www.zhihu.com/people/iMadridista", 
+        "https://www.zhihu.com/people/xiang-si-zuo-fang-ban-shi-li-shang", 
+        "https://www.zhihu.com/people/fan-yun-song-36", 
+        "https://www.zhihu.com/people/qiu-gan-fang-54", 
+        "https://www.zhihu.com/people/yang-shu-69-1", 
+        "https://www.zhihu.com/people/wu-wei-de-ba-li-si-tan-jue-shi", 
+        "https://www.zhihu.com/people/siriuswong", 
+        "https://www.zhihu.com/people/bai-bai-ri-meng", 
+        "https://www.zhihu.com/people/xiao-xin-83-39", 
+        "https://www.zhihu.com/people/dang-nian-yue-51", 
+        "https://www.zhihu.com/people/zhou-xuan-yi-30", 
+        "https://www.zhihu.com/people/te-ying-mu-mu-xi", 
+        "https://www.zhihu.com/people/mu-zi-lan-13", 
+        "https://www.zhihu.com/people/adorno", 
+        "https://www.zhihu.com/people/tian-er-huo", 
+        "https://www.zhihu.com/people/keen-lin", 
+        "https://www.zhihu.com/people/fan-xin-yao-9", 
+        "https://www.zhihu.com/people/shenlinyi", 
+        "https://www.zhihu.com/people/xn-xer", 
+        "https://www.zhihu.com/people/chen-en-zhou", 
+        "https://www.zhihu.com/people/tian-zi-fang-32", 
+        "https://www.zhihu.com/people/zhou-jia-le-61", 
+        "https://www.zhihu.com/people/yu4618", 
+        "https://www.zhihu.com/people/alan-luo-67", 
+        "https://www.zhihu.com/people/cheng-hao-3-29", 
+        "https://www.zhihu.com/people/zhang-h-1", 
+        "https://www.zhihu.com/people/mai-dou-96-3-69", 
+        "https://www.zhihu.com/people/jia-si-56-96", 
+        "https://www.zhihu.com/people/xiao-feng-35-76", 
+        "https://www.zhihu.com/people/chen-bo-yu-67-56", 
+        "https://www.zhihu.com/people/nostalgia-48", 
+        "https://www.zhihu.com/people/vegecircle", 
+        "https://www.zhihu.com/people/sophie-tsang", 
+        "https://www.zhihu.com/people/huashi2374", 
+        "https://www.zhihu.com/people/VonBen", 
+        "https://www.zhihu.com/people/he-deng-ke-84", 
+        "https://www.zhihu.com/people/pi-zi-huang-sir", 
+        "https://www.zhihu.com/people/xu-da-shao-ye", 
+        "https://www.zhihu.com/people/ge-ge-92-91", 
+        "https://www.zhihu.com/people/yun-juan-yun-shu-57", 
+        "https://www.zhihu.com/people/mu-yi-7-83", 
+        "https://www.zhihu.com/people/zhang-wei-22-38", 
+        "https://www.zhihu.com/people/jeff-winger-72", 
+        "https://www.zhihu.com/people/wang-an-qi-33-4", 
+        "https://www.zhihu.com/people/yi-liang-23-12", 
+        "https://www.zhihu.com/people/tian-cong-8-8", 
+        "https://www.zhihu.com/people/jing-xian-qing", 
+        "https://www.zhihu.com/people/xuexishiyong", 
+        "https://www.zhihu.com/people/liuqingfeng", 
+        "https://www.zhihu.com/people/yin-wei-23-33", 
+        "https://www.zhihu.com/people/lin-yan-14-92", 
+        "https://www.zhihu.com/people/RJJR", 
+        "https://www.zhihu.com/people/kujira-89", 
+        "https://www.zhihu.com/people/qiu-qiu-qi-qi", 
+        "https://www.zhihu.com/people/ceng-ting-wei-23", 
+        "https://www.zhihu.com/people/Florence14th", 
+        "https://www.zhihu.com/people/huichan-15", 
+        "https://www.zhihu.com/people/he-si-yu-69-52", 
+        "https://www.zhihu.com/people/zhang-dong-81-1", 
+        "https://www.zhihu.com/people/zhang-jing-qi-92-1", 
+        "https://www.zhihu.com/people/zhong-zi-xing-18", 
+        "https://www.zhihu.com/people/lmaj7", 
+        "https://www.zhihu.com/people/tian-dao-tang-1994", 
+        "https://www.zhihu.com/people/1confidence", 
+        "https://www.zhihu.com/people/hmax-46-68", 
+        "https://www.zhihu.com/people/qi", 
+        "https://www.zhihu.com/people/liu-guo-wang-95", 
+        "https://www.zhihu.com/people/sincostan", 
+        "https://www.zhihu.com/people/AlvinSmith", 
+        "https://www.zhihu.com/people/zhao-gui-hua-61", 
+        "https://www.zhihu.com/people/fu-zhuang", 
+        "https://www.zhihu.com/people/hong-shui-zhi-bin", 
+        "https://www.zhihu.com/people/kenkangxgwe", 
+        "https://www.zhihu.com/people/luo-xue-chao-63", 
+        "https://www.zhihu.com/people/chen-an-bang-20-90", 
+        "https://www.zhihu.com/people/zhangdamutou", 
+        "https://www.zhihu.com/people/xiao-hao-zi-3-53", 
+        "https://www.zhihu.com/people/tobediamond", 
+        "https://www.zhihu.com/people/shi-luo-de-feng-xiang-biao", 
+        "https://www.zhihu.com/people/diccionario", 
+        "https://www.zhihu.com/people/qiu-chu-ping", 
+        "https://www.zhihu.com/people/nickle-gong", 
+        "https://www.zhihu.com/people/yuan-wei-52-58", 
+        "https://www.zhihu.com/people/xiao-chen-chen-1-73", 
+        "https://www.zhihu.com/people/stefan-liu-27", 
+        "https://www.zhihu.com/people/chen-zi-yan-21", 
+        "https://www.zhihu.com/people/liu-yong-ying-91", 
+        "https://www.zhihu.com/people/zhi-xing-xing-32", 
+        "https://www.zhihu.com/people/yang-yi-xin-33", 
+        "https://www.zhihu.com/people/jing-ji-lin-yin", 
+        "https://www.zhihu.com/people/Nona35", 
+        "https://www.zhihu.com/people/xiao-ma-yi-16-52", 
+        "https://www.zhihu.com/people/juggernaut", 
+        "https://www.zhihu.com/people/randomium", 
+        "https://www.zhihu.com/people/tang-long-30-1", 
+        "https://www.zhihu.com/people/rjcheng", 
+        "https://www.zhihu.com/people/xiao-huo-jehovah", 
+        "https://www.zhihu.com/people/da-da-6", 
+        "https://www.zhihu.com/people/nullun.tk", 
+        "https://www.zhihu.com/people/allayonday", 
+        "https://www.zhihu.com/people/dong-xu-bin", 
+        "https://www.zhihu.com/people/activia", 
+        "https://www.zhihu.com/people/35F2", 
+        "https://www.zhihu.com/people/yu-zi-jun-49", 
+        "https://www.zhihu.com/people/ji-chun-guang-43", 
+        "https://www.zhihu.com/people/shuang-zi-zj", 
+        "https://www.zhihu.com/people/xiao-ming-72-21", 
+        "https://www.zhihu.com/people/amberember", 
+        "https://www.zhihu.com/people/youknowwho", 
+        "https://www.zhihu.com/people/danaduo", 
+        "https://www.zhihu.com/people/wang-bing-cao", 
+        "https://www.zhihu.com/people/ruiwei-lv", 
+        "https://www.zhihu.com/people/du-de-tao-54", 
+        "https://www.zhihu.com/people/qian-cheng-yang-82", 
+        "https://www.zhihu.com/people/sudyt", 
+        "https://www.zhihu.com/people/gnaijam", 
+        "https://www.zhihu.com/people/gu-ling-ling-21", 
+        "https://www.zhihu.com/people/heyheyheystartdash", 
+        "https://www.zhihu.com/people/ceng-yi-kai-13", 
+        "https://www.zhihu.com/people/yao-lin-79-2", 
+        "https://www.zhihu.com/people/chen-lin-zhuo-88", 
+        "https://www.zhihu.com/people/leolai", 
+        "https://www.zhihu.com/people/zheng-mou-mou-50", 
+        "https://www.zhihu.com/people/lu-li-44-94", 
+        "https://www.zhihu.com/people/tian-bao-bao-20", 
+        "https://www.zhihu.com/people/lang-dao-36", 
+        "https://www.zhihu.com/people/yiren-jian-71", 
+        "https://www.zhihu.com/people/hackro1d"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27307146", 
+            "userName": "赵博弘", 
+            "userLink": "https://www.zhihu.com/people/bbbf573409cc0aa751b24b8f67bb04ad", 
+            "upvote": 7, 
+            "title": "【IoT：从零开始的MATLAB学习】 2 偏好设置&帮助文档", 
+            "content": "<p>好久不见（尬），距上篇文章已经五个月过去了（尬），Hackroid的大一下真的很忙，主要是课选多了，姿势水平不够。不多说，昨天final完，先给【IoT:从零开始的MATLAB学习】系列续着，直到7.14小学期结束，以上，Hackroid会认真地学习的。</p><p>对于这一章的内容，我之前还是比较纠结。有两个选择，一个是直接进入程序设计的学习，还有一个就是跟着那个视频资料走，学习一下怎样使用帮助。加之第一章里看到过的Preference里眼花缭乱的设定，还是决定了后者，一个陌生的环境里，学学怎么自助也是很重要的。这样前两章就可以归为对MATLAB界面及操作的熟悉过程，还是能囊括大部分新手初次接触所接触到的问题的。</p><p>请配合相关界面食用。</p><p>先来看看偏好设置，即上一章所谈到的ENVIRONMENT里面的Preference按钮，打开如下图：</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-6f7d96092583ea7dffc4017247bacd83_b.png\" data-rawwidth=\"1229\" data-rawheight=\"792\" class=\"origin_image zh-lightbox-thumb\" width=\"1229\" data-original=\"https://pic4.zhimg.com/v2-6f7d96092583ea7dffc4017247bacd83_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1229&#39; height=&#39;792&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1229\" data-rawheight=\"792\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1229\" data-original=\"https://pic4.zhimg.com/v2-6f7d96092583ea7dffc4017247bacd83_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6f7d96092583ea7dffc4017247bacd83_b.png\"/></figure><p>这种设置所采用的形式和大多数开发软件相同</p><p>----------------</p><p>打开第一个主类：【MATLAB】</p><p>注：大部分设置的详情页都会有该详细设置的相关说明，可以加快熟悉速度，我们逐个点开来介绍一下。</p><div class=\"highlight\"><pre><code class=\"language-text\">Add-Ons #附加功能源文件所在文件夹，私人编写的插件也是放在里面就可以使用的\n\nCode Analyzer #（来自博客园matlab M文件分析工具使用（Code Analyzer and Profiler））Code Analyzer是MATLAB中的一个可以分析用户M文件中的错误或性能问题的工具，个人理解就是语法分析器，与编译器还是有些不一样。在这个关于Code Analyzer的设置中，可以个性化地对语句判定的每条细则，能满足一些除了常规以外对代码的特殊需求。\nColors #代码颜色，自己觉得怎么好看怎么来。子项Programming Tools，设置代码分析工具等结果的背景色\n\nCommand History #命令行窗口历史记录的相关设置\n\nCommand Window #命令行窗口历史记录的相关设置，可以设定文本显示，时间格式等\n\nComparison #上一章提到的HOME --&gt; FILES --&gt; Compare的设置，主要为各情况的颜色显示\n\nCurrent Folder #可以设定曾经的当前文件夹的历史记录的个数，刷新路径等\n\nEditor/Debugger #这个底下有六个子项，一一简要说一下\n首先就是设定编辑器，MATLAB到底选什么编辑器，自带的当然很好的，结合code analyzer和集成debugger，真的是一种很良好的体验。这里也推荐几款不错的常用编辑器：Sublime Text，Visual Studio，Code，Atom，Emacs，Notepad++。\nDisplay，一些颜色、高亮、行数设定。子项Tab，还是建议设成符合程序设计规范的size 4。Language，这个里面总共有九种可供调试的语言设置，除了MATLAB外大多是调整语法颜色和高亮。\n之后的三项都是比较偏门的设定，就不一一解释了。\n\nFigure Copy Template #图形复制模板，呃，并不太懂是什么意思，这里有说明Exporting (Printing and Exporting Figures with MATLAB)\n\nFonts #字体，The quick brown fox jumps over the lazy dog，在custom里面可以设置很多位置的字体。\n\nGeneral #综合设置，界面语言就在这里设定，只有中文和英文两种，推荐英文。子项MAT-Files，选择最新格式v7.3即可，兼容v7所有feature并带有部分变量，具体说明在这里：MAT-File Versions。子项Confirmation Dialogs，各种确认窗口，如果手残的对操作不确定的还是都选上好了。子项Java Heap Memory， 爆栈错误就出于此处设定值太小，（恩氪栈是不会爆的hhh），这个还是结合内存设置个合适的值吧。\n\nHelp #这里主要是关于文档的一些设定，选用本地文档或者online文档，在这一节介绍完Preference后会简要说一下文档的使用。\n\nKeyboard #非常友好的设定，可以使你操作根本用不到鼠标（for window user/斜眼笑）\n\nToolbars #设置和菜单栏同一行右侧的快捷工具栏\n\nVariable #变量设置，没啥用\n\nWeb #设置代理，听说有些工具可能需要走代理，我感觉目前用不上</code></pre></div><p>Preference先说到这里，MATLAB的文档就在Home-Resource里面那个大问号，内建help，全英文，完全可以当入门教程，可以配合<a href=\"https://link.zhihu.com/?target=http%3A//pan.baidu.com/s/1c1QbgcS\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这个</a>中文文档食用，当然设置里也可以选择online的。</p><p>官方学习手册：<a href=\"https://link.zhihu.com/?target=http%3A//cn.mathworks.com/help/pdf_doc/matlab/getstart.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">下载</a></p><p>官方全部pdf教程(需注册)：<a href=\"https://link.zhihu.com/?target=http%3A//cn.mathworks.com/help/pdf_doc/matlab/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">MATLAB pdf document</a>\n</p><br/><p>Reference：</p><a href=\"https://link.zhihu.com/?target=http%3A//www.jianshu.com/p/25507de89881\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">MathWorks MATLAB帮助文档 —— 简书</a>", 
+            "topic": [
+                {
+                    "tag": "学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19550581"
+                }, 
+                {
+                    "tag": "MATLAB", 
+                    "tagLink": "https://api.zhihu.com/topics/19559252"
+                }, 
+                {
+                    "tag": "入门指南", 
+                    "tagLink": "https://api.zhihu.com/topics/19564657"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24981142", 
+            "userName": "赵博弘", 
+            "userLink": "https://www.zhihu.com/people/bbbf573409cc0aa751b24b8f67bb04ad", 
+            "upvote": 78, 
+            "title": "【IoT：从零开始的MATLAB学习】 1 工作界面及布局", 
+            "content": "<p>打开这个软件，先来看一下初始界面的整体布局。最上端是三个选项卡HOME，PLOTS和APPS，布局颇有office软件的风格，而在r2013b及之前的版本都是采用较为传统的菜单栏。预感一些操作会使这里增加几个选项卡，然而不久就验证了。</p><p>注：菜单栏中一些较为不常用的选项在14、15的版本中被逐渐隐去或转移至菜单按钮一行右端的Quick\nAccess Toolbar，比如打印等，然而相关的快捷键（如Ctrl+P）仍然保留，如果熟悉通用快捷键的话，将使用地更为顺手。</p><br/><figure><noscript><img src=\"https://pic3.zhimg.com/v2-7080fba04475cc8163319846509ffd12_b.png\" data-rawwidth=\"1920\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic3.zhimg.com/v2-7080fba04475cc8163319846509ffd12_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1920&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic3.zhimg.com/v2-7080fba04475cc8163319846509ffd12_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7080fba04475cc8163319846509ffd12_b.png\"/></figure><p>-&gt; 在HOME一栏中：</p><p><b>FILE</b></p><div class=\"highlight\"><pre><code class=\"language-text\">New Script\n  #创建一个新的脚本文件，一个较为常用的快捷按钮\nNew\n  #也是创建一堆新的玩意，方程/类/对象/应用/图像等，暂且不管\nOpen\n  #打开一个脚本文件，下拉菜单会显示最近的文件\nFind Files &amp; Compare\n  #两个奇怪的东西感觉暂时用不到\n</code></pre></div><p><b>VARIABLE</b></p><div class=\"highlight\"><pre><code class=\"language-text\">Import Data\n  #导入数据 ，导入类型涉及图像视频音频文本等一些蜜汁格式，音频。。是直接解码成Double类型的了？Pass\nSave Workspace\n  #直接保存当前以导入的项目为m或mat格式\nNew Variable\n  #创建一个新的变量，打开后是一个表格状窗口（如下图），可以推测变量的类型可以是数、向量或者矩阵，右侧可以设置变量名称。\nOpen Variable\n  #打开之前创建的变量\nClear Workspace\n  #清除工作区的所有内容，包括变量等\n</code></pre></div><figure><noscript><img src=\"https://pic3.zhimg.com/v2-b2b3fef9fa1dffa31cd0427379e826fa_b.png\" data-rawwidth=\"615\" data-rawheight=\"302\" class=\"origin_image zh-lightbox-thumb\" width=\"615\" data-original=\"https://pic3.zhimg.com/v2-b2b3fef9fa1dffa31cd0427379e826fa_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;615&#39; height=&#39;302&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"615\" data-rawheight=\"302\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"615\" data-original=\"https://pic3.zhimg.com/v2-b2b3fef9fa1dffa31cd0427379e826fa_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-b2b3fef9fa1dffa31cd0427379e826fa_b.png\"/></figure><p><b>CODE</b></p><div class=\"highlight\"><pre><code class=\"language-text\">Analyze Code\n  #分析代码\nRun and Time\n  #运行并计时，之后也会有只运行不计时的选项\nClear Command\n  #清除命令，将会把命令行窗口（MATLAB的最主要的窗口）清空\n</code></pre></div><p>这一部分主要被用于编写脚本时的操作，而在编写时，菜单栏会多出EDITOR，PUBLISH，VIEW等按钮，并且包含更多的选项。</p><p><b>S</b><b>IMULINK</b><br/></p><blockquote>#仿真窗口，是MATLAB的一个重要组件，提供了一个交互式的图形化环境及可定制模块库，可对各种<a href=\"https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/w/index.php%3Ftitle%3D%25E6%2597%25B6%25E5%258F%2598%25E7%25B3%25BB%25E7%25BB%259F%26action%3Dedit%26redlink%3D1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">时变系统</a>，例如通讯、控制、信号处理、视频处理和图像处理系统等进行设计、仿真、执行和测试。（Wiki）</blockquote><p>这个就是在第零章所说到的，应用于各学科中数据分析、建模、仿真的利器。Simulink与MATLAB紧密相连，可以直接调用后者的大量工具与数据以进行复杂的可视化模拟及计算，同时它也很开放，可以通过API与外部程序相连接。实。。实在装不下去了，总之这是个挺神奇的模块，期待以后的深入挖掘。</p><p><b>ENVIRONMENT</b></p><div class=\"highlight\"><pre><code class=\"language-text\">Layout\n  #页面各窗口及工具栏的布局，根据个人喜好进行调整\nPreference\n  #整个MATLAB的总设置全在里面\nSet Path   \n  #MATLAB Toolbox的路径都在里面，可能是为了让私人编写一些小工具可以使用（官方的安装包是自动设置路径的）\nParallel\n  #看起来像是个并行计算的东西，尽管中文版这里也没有被翻译，先PASS\nAdd-Ons\n  #附加功能(下图)，各类收费和免费的硬件支持包、小工具都可以在这里找到\n</code></pre></div><p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-36c7cbc3a27d5dfbea0f1dbfdcf89210_b.png\" data-rawwidth=\"1920\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic1.zhimg.com/v2-36c7cbc3a27d5dfbea0f1dbfdcf89210_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1920&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic1.zhimg.com/v2-36c7cbc3a27d5dfbea0f1dbfdcf89210_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-36c7cbc3a27d5dfbea0f1dbfdcf89210_b.png\"/></figure>呃我还是手贱地先把Rpi的package安了23333</p><p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-3368ff9384fc8bccde20da03e8008430_b.png\" data-rawwidth=\"1920\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic1.zhimg.com/v2-3368ff9384fc8bccde20da03e8008430_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1920&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic1.zhimg.com/v2-3368ff9384fc8bccde20da03e8008430_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3368ff9384fc8bccde20da03e8008430_b.png\"/></figure><b>RESOURCE</b></p><div class=\"highlight\"><pre><code class=\"language-text\">Help\n  #帮助，文档就在里面，当然也可以通过右上方的搜索栏直接搜文档内容。文档是灰常灰常有用的民那桑，可以不看我这小白文章，可以不看中文论坛的教学视频，但是文档是必须看的，好比Python的文档一样:)恩就酱\nCommunity\n  #MATLAB官方社区，可以找到各类Q&amp;A，Code等\nRequest Support\n  #向官方发送用于提交bug，疑难解答等Ticket的窗口\nLearn MATLAB\n  #这不是新手教学。。。\n</code></pre></div><p>PLOTS #各种图形图像，以后会用到<br/></p><p>APPS #软件内小应用，如拟合、信号分析、神经网络等工具，与Add-Ons还是有区别的</p><p>------------</p><p>以上是菜单栏的简介，紧接下面我们看到的是地址栏，即当前Project或者Script 的所在路径。再下面的主体则是命令行窗口，当前文件夹窗口，工作区，详细信息等，可以自行调整大小和变更位置。</p><p>命令行窗口，输入命令，进行各种计算。运算中使用到或得出的变量、结果的值和名称将会显示到Workspace中，双击变量名称即会转到之前所说的表格状结构那里。</p><p>到此为止，第一章操作界面的全部内容就全部结束了。可以说MATLAB的操作界面还是较为简单易懂的，个人认为这还是归功于这种类office模式的界面，初始时的简洁性，只有在必要的时候弹出，呃为什么会有一种满足感（雾）。希望对新手们有帮助，如有疑问的地方还请大家提出，我将尽快更正。</p><p>引用：</p><p><a href=\"https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/Simulink\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Simulink -Wikipedia</a><br/></p><p><a href=\"https://link.zhihu.com/?target=http%3A//www.ilovematlab.cn/thread-22239-1-1.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">教学视频下载 - MATLAB中文论坛</a></p>", 
+            "topic": [
+                {
+                    "tag": "MATLAB", 
+                    "tagLink": "https://api.zhihu.com/topics/19559252"
+                }, 
+                {
+                    "tag": "入门指南", 
+                    "tagLink": "https://api.zhihu.com/topics/19564657"
+                }, 
+                {
+                    "tag": "学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19550581"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "120701101", 
+                    "userLink": "https://www.zhihu.com/people/33505e6f9bd7a46a779b96f689972b4c", 
+                    "content": "加油 好好写 我会看的", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "蟹蟹(*_*)", 
+                            "likes": 1, 
+                            "replyToAuthor": "120701101"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知星星", 
+                    "userLink": "https://www.zhihu.com/people/03b4213b1eebd5dab6f1965efbc720a5", 
+                    "content": "支持，万事开头难，对于很多新手，不起眼 的小问题就是个拦路虎。", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "逆旅独行", 
+                    "userLink": "https://www.zhihu.com/people/754ed94693165744f75d0a5c4c7df247", 
+                    "content": "已关注，会有图像处理类的更新吗", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "我想以后应该会有吧，但是毕竟现在初学，踏踏实实一步步走吧&gt;.&lt;", 
+                            "likes": 1, 
+                            "replyToAuthor": "逆旅独行"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "李立", 
+                    "userLink": "https://www.zhihu.com/people/8d5b563791bae5f3eb869d5b531e6215", 
+                    "content": "写的挺好 坚持下去", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "he lao", 
+                    "userLink": "https://www.zhihu.com/people/6277f2aa6ae29e1acd64167ce962b439", 
+                    "content": "关注", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "已关注……有ansys就更好啦ʕ• •ʔ", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "已关注，期待后续", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "进积的三角洲", 
+                    "userLink": "https://www.zhihu.com/people/8a7a3e9c688baecc2dae3b899c6d077d", 
+                    "content": "厉害了我的版主！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "进积的三角洲", 
+                    "userLink": "https://www.zhihu.com/people/8a7a3e9c688baecc2dae3b899c6d077d", 
+                    "content": "已关注", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "fight shan", 
+                    "userLink": "https://www.zhihu.com/people/371a6de57e4a3fbaefa2d3b66b115327", 
+                    "content": "继续写", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "北斗", 
+                    "userLink": "https://www.zhihu.com/people/cd52c41d6b00f1a938ab80ff938b1e90", 
+                    "content": "封面的这种图是咋画出来的", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "我也不太清楚，感觉是把MATLAB的图标放进MATLAB里再画一遍😂😂", 
+                            "likes": 0, 
+                            "replyToAuthor": "北斗"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "…这个用指令membrane就可以得到", 
+                            "likes": 0, 
+                            "replyToAuthor": "北斗"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "七襄", 
+                    "userLink": "https://www.zhihu.com/people/33f2f7dd1d84c23d83664a9a46fc193e", 
+                    "content": "非常感谢！一直用MATLAB都是特别细碎，希望能跟着你的脚步把这个工具从最开始一点一点进行学习，加油！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Erwin Schrodinger", 
+                    "userLink": "https://www.zhihu.com/people/9e66eae4b4df4debc410e09ce85f1d6d", 
+                    "content": "Tql, bksn!", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24959245", 
+            "userName": "赵博弘", 
+            "userLink": "https://www.zhihu.com/people/bbbf573409cc0aa751b24b8f67bb04ad", 
+            "upvote": 52, 
+            "title": "【IoT：从零开始的MATLAB学习】 0 序言", 
+            "content": "<p>本人Hackroid，Freshdog（雾）一条，刚经历了1st term的final并且数学分析及格险过，高兴之下决定寒假要开始学习，就算是学校不发MATLAB我也会学习的（嗯我自己都不信）。</p><p>这就扯到了这个系列专题的主要内容:<b>MATLAB</b>（<b>MAT</b>rix <b>LAB</b>oratory）和物联网（<b>I</b>nternet <b>o</b>f <b>T</b>hings），也算承接一下专栏简介 <a href=\"https://zhuanlan.zhihu.com/p/24951291?refer=c_46321891\" class=\"internal\">氪栈专栏说明及预告</a>，在这里膜一发栏主，中关村吴彦祖，资深失败人士 <a href=\"https://www.zhihu.com/people/571f8d3cef4bd18525d9a77033692385\" data-hash=\"571f8d3cef4bd18525d9a77033692385\" class=\"member_mention\" data-hovercard=\"p$b$571f8d3cef4bd18525d9a77033692385\" data-editable=\"true\" data-title=\"@Legendre\">@Legendre</a>  ，此处应有女装。</p><p>第一次在网上写文章，更恰当点说，是学习笔记吧，也不知怎么开头为好，在这里先把锅甩给wiki吧：<a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/MATLAB\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">MATLAB - Wikipedia</a>，后面也将综合这里面的内容进行撰写。</p><p>话说回来，在安装完软件，去官网打算下文档获取一些人生的经验，驻足产品页时到Test &amp; Measurement那栏下面有个颇为与众不同的Thingspeak，物品说话？嗯，面白い，果然是物联网相关。于是，酱我先不讲故事了。MATLAB是一个数学脚本语言，主要应用于高精尖的科研计算，如今物联网没有多少涉及这些内容，再加之MATLAB可以调用很多其他的语言，可以说是绰绰有余甚至大材小用。所以我想个人在这个方面进行一些探究，对过渡到以后的学科专业中科学计算的内容也是有好处的，而对于各种跨学科的项目等，更是可以大展才华。</p><br/><p>Thingspeak初次见面感觉是个不错的后端，即提供云端数据存储分析服务，而且是完！全！免！费！ 当然，没有MATLAB，这玩意也没什么卵用。我也正好有个Rpi 3b，这个是在官网有Simulink支持包的，所以大体的条件是齐全了，也考虑到以后的数学作业可能会用到这个，提前学一下也将会是一个非常有意思的事情。</p><p>鉴于涉及到物联网的那些都是后话了，从这个寒假开始，预计到今年暑假（并不确定啊）我都将以学习MATLAB语言为主，然后适时引入物联网的概念及元素。Well，从零开始---&gt;</p><p>（以后内容参考了官方文档，Wikipedia，iLoveMATLAB论坛以及CSDN的部分文章等，文末将会放上链接）</p>", 
+            "topic": [
+                {
+                    "tag": "MATLAB", 
+                    "tagLink": "https://api.zhihu.com/topics/19559252"
+                }, 
+                {
+                    "tag": "学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19550581"
+                }, 
+                {
+                    "tag": "入门指南", 
+                    "tagLink": "https://api.zhihu.com/topics/19564657"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "csnd是csdn的笔误吗？", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "中关村吴彦祖好评", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "hhhhh多亏不是应有女装好评", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "csnd是csdn的笔误吗？", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "是的，已修正，十分感谢！", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>数分谁教的？我们数分老师上学期刚调到你们学校去！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24951291", 
+            "userName": "Legendre", 
+            "userLink": "https://www.zhihu.com/people/571f8d3cef4bd18525d9a77033692385", 
+            "upvote": 12, 
+            "title": "0.专栏说明和预告", 
+            "content": "<p>I have been and still am a seeker, but I have ceased to question stars and books; I have begun to listen to the teaching my blood whisper to me.</p><p>读德米安看到这段话的时候我第一次想更新专栏</p><p>因为这段话写出了我想写专栏文章的目的：找一个地方，写下自己想写的东西。不为名利，也不为知识，就是单纯的因为我想去做一件事情。</p><p>所以［氪栈］这个专栏大概就是分享一些学习心得和生活中有趣又有意义的事，嗯对就酱。</p><p>比如，马上要开始更新的“IoT：从零开始的MATLAB学习”系列。很荣幸SUSTech的小哥<a href=\"https://www.zhihu.com/people/bbbf573409cc0aa751b24b8f67bb04ad\" data-hash=\"bbbf573409cc0aa751b24b8f67bb04ad\" class=\"member_mention\" data-title=\"@赵博弘\" data-hovercard=\"p$b$bbbf573409cc0aa751b24b8f67bb04ad\">@赵博弘</a>可以带来面向小白的MATLAB学习心得。这个系列预计一周一更或两更，期间我也可能发一些奇怪的东西。</p><p>不行</p><p>装正经装不下去了233</p><p>那就提前祝大家鸡年大吉吧</p>", 
+            "topic": [
+                {
+                    "tag": "MATLAB", 
+                    "tagLink": "https://api.zhihu.com/topics/19559252"
+                }, 
+                {
+                    "tag": "学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19550581"
+                }, 
+                {
+                    "tag": "入门指南", 
+                    "tagLink": "https://api.zhihu.com/topics/19564657"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "说吉不说吧，文明你我他～", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "那就祝你逢凶化吉吧hhhh", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "。。。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "王承承", 
+                    "userLink": "https://www.zhihu.com/people/5b663ead05c7db3071fc0d95410fe791", 
+                    "content": "小哥负责物理，你负责勃学吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "我是专职段子手啊233", 
+                            "likes": 1, 
+                            "replyToAuthor": "王承承"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "陶法师", 
+                    "userLink": "https://www.zhihu.com/people/3c5d9eb9cb71762096075094870007c4", 
+                    "content": "羡慕能开专栏的……", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "…现在好像是申请了就可以开【？", 
+                            "likes": 0, 
+                            "replyToAuthor": "陶法师"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "鲁力", 
+                    "userLink": "https://www.zhihu.com/people/7e9b1e73c066ebdb3d87e9d49d9632bc", 
+                    "content": "赞赞赞", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "娱乐向＝ ＝", 
+                            "likes": 0, 
+                            "replyToAuthor": "鲁力"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "35F2", 
+                    "userLink": "https://www.zhihu.com/people/9e202edb35c60399dc16b5a8e4499014", 
+                    "content": "资磁！！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "格兰杰小姐，请你回答……", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_46321891"
+}

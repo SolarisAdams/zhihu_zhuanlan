@@ -1,0 +1,578 @@
+{
+    "title": "质量大数据", 
+    "description": "专注质量管理、测量技术、统计分析和大数据应用。", 
+    "followers": [
+        "https://www.zhihu.com/people/xiao-xiao-hu-14-19", 
+        "https://www.zhihu.com/people/rockydu-du", 
+        "https://www.zhihu.com/people/zhang-qi-ling-58-72", 
+        "https://www.zhihu.com/people/ccj-81-12", 
+        "https://www.zhihu.com/people/neko-91-66", 
+        "https://www.zhihu.com/people/zhu-zhen-xuan-50", 
+        "https://www.zhihu.com/people/hua-hua-33-83-6", 
+        "https://www.zhihu.com/people/liu-yang-39-73-49", 
+        "https://www.zhihu.com/people/yuri-16-56", 
+        "https://www.zhihu.com/people/fu-wei-wei-19", 
+        "https://www.zhihu.com/people/zxcvbnm-26-93", 
+        "https://www.zhihu.com/people/meng-yu-long-67", 
+        "https://www.zhihu.com/people/llano-94", 
+        "https://www.zhihu.com/people/xue-er-78-66-69", 
+        "https://www.zhihu.com/people/wa-ha-ha-89-56-55", 
+        "https://www.zhihu.com/people/jie-lin-14-41", 
+        "https://www.zhihu.com/people/qiu-mou-mou-69", 
+        "https://www.zhihu.com/people/sun-pei-lin-63", 
+        "https://www.zhihu.com/people/chu-yang-19-99", 
+        "https://www.zhihu.com/people/ai-he-hong-jiu-liang-zhe", 
+        "https://www.zhihu.com/people/shaohualiu1", 
+        "https://www.zhihu.com/people/hu-jin-73", 
+        "https://www.zhihu.com/people/zhang-xiu-zhi-75", 
+        "https://www.zhihu.com/people/wen-xian-sheng-83-88", 
+        "https://www.zhihu.com/people/lingering-18-33", 
+        "https://www.zhihu.com/people/han-xu-64-86-71", 
+        "https://www.zhihu.com/people/k3xiao-3k3xiao-3", 
+        "https://www.zhihu.com/people/linbai-3", 
+        "https://www.zhihu.com/people/guo-xian-94", 
+        "https://www.zhihu.com/people/huo-la-la-de-xi-hong-shi-30", 
+        "https://www.zhihu.com/people/zuo-biao-yu-22", 
+        "https://www.zhihu.com/people/men-zhao-da-hai-97", 
+        "https://www.zhihu.com/people/littlef19", 
+        "https://www.zhihu.com/people/qsyedu", 
+        "https://www.zhihu.com/people/ran-shao-93-60", 
+        "https://www.zhihu.com/people/lei-er-zi", 
+        "https://www.zhihu.com/people/mo-li-hai-lun", 
+        "https://www.zhihu.com/people/dang-feng-lian-shang-xue", 
+        "https://www.zhihu.com/people/bu-ya-yong-shi", 
+        "https://www.zhihu.com/people/shao-99-90", 
+        "https://www.zhihu.com/people/suiyuanjiu-hao-la", 
+        "https://www.zhihu.com/people/nostalgia-17-43", 
+        "https://www.zhihu.com/people/keng-yuan-zha-zha-hui", 
+        "https://www.zhihu.com/people/yingdong-kan", 
+        "https://www.zhihu.com/people/qiu-zhi-yu-hu-41", 
+        "https://www.zhihu.com/people/tian-hong-10-1", 
+        "https://www.zhihu.com/people/yao-bo-yue-28", 
+        "https://www.zhihu.com/people/yangtao-85", 
+        "https://www.zhihu.com/people/xin-ci-24-77", 
+        "https://www.zhihu.com/people/yi-pu-er-zhu-42", 
+        "https://www.zhihu.com/people/xi-xi-fu-si-48-51", 
+        "https://www.zhihu.com/people/zhe-ge-ren-78", 
+        "https://www.zhihu.com/people/hai-xiao-hui-24", 
+        "https://www.zhihu.com/people/feel-6-32", 
+        "https://www.zhihu.com/people/wo-ai-hua-shan", 
+        "https://www.zhihu.com/people/yu-guo-tian-qing-30-46-59", 
+        "https://www.zhihu.com/people/huang-xiao-yu-35-4", 
+        "https://www.zhihu.com/people/bu-zhi-40-82-31", 
+        "https://www.zhihu.com/people/luo-hao-63", 
+        "https://www.zhihu.com/people/zu-qiu-shi-yuan-de-64", 
+        "https://www.zhihu.com/people/bao-zao-bu-hao", 
+        "https://www.zhihu.com/people/john-71-95-76", 
+        "https://www.zhihu.com/people/ping-ping-75-75", 
+        "https://www.zhihu.com/people/a-lang-92-76", 
+        "https://www.zhihu.com/people/xiao-yi-77-36", 
+        "https://www.zhihu.com/people/guo-xiao-qiang", 
+        "https://www.zhihu.com/people/le-zheng-wen-guang", 
+        "https://www.zhihu.com/people/da-bo-la-han", 
+        "https://www.zhihu.com/people/sifuxing", 
+        "https://www.zhihu.com/people/bai-du-ren-82-93", 
+        "https://www.zhihu.com/people/guo-ran-95-41", 
+        "https://www.zhihu.com/people/xue-lang-wang-44", 
+        "https://www.zhihu.com/people/wa-wa-wa-wa-36-36", 
+        "https://www.zhihu.com/people/nobbysnow-67", 
+        "https://www.zhihu.com/people/wang-er-xiao-98-43-23", 
+        "https://www.zhihu.com/people/dahui", 
+        "https://www.zhihu.com/people/li-bing-39-27", 
+        "https://www.zhihu.com/people/wnn1234", 
+        "https://www.zhihu.com/people/yidao-zhao-xi", 
+        "https://www.zhihu.com/people/xiao-yao-37-90-8", 
+        "https://www.zhihu.com/people/xiang-wen-bin", 
+        "https://www.zhihu.com/people/li-wu-63-50-88", 
+        "https://www.zhihu.com/people/wang-ming-jie-83", 
+        "https://www.zhihu.com/people/bang-ben-zhi-ku", 
+        "https://www.zhihu.com/people/yin-da-yu-72", 
+        "https://www.zhihu.com/people/aoyou168", 
+        "https://www.zhihu.com/people/fangsunshine", 
+        "https://www.zhihu.com/people/yi-zhi-niu-ya-niu-de-yang", 
+        "https://www.zhihu.com/people/peng-er-fa", 
+        "https://www.zhihu.com/people/qian-tai-hou-63", 
+        "https://www.zhihu.com/people/mei-hua-lu-68-41", 
+        "https://www.zhihu.com/people/li-tao-24-75", 
+        "https://www.zhihu.com/people/docker", 
+        "https://www.zhihu.com/people/wang-wang-wang-44-52-14", 
+        "https://www.zhihu.com/people/zhang-miao-miao-27-88", 
+        "https://www.zhihu.com/people/qin-shuai-85-52", 
+        "https://www.zhihu.com/people/cr7he-dui-hun-shui-ye", 
+        "https://www.zhihu.com/people/kai-xin-guo-m", 
+        "https://www.zhihu.com/people/lyf111222", 
+        "https://www.zhihu.com/people/cher-92-9", 
+        "https://www.zhihu.com/people/wang-yuan-97-60", 
+        "https://www.zhihu.com/people/qifuxiao", 
+        "https://www.zhihu.com/people/swing-61-33", 
+        "https://www.zhihu.com/people/wang-tai-qi-53", 
+        "https://www.zhihu.com/people/ly941122", 
+        "https://www.zhihu.com/people/zhenzhi", 
+        "https://www.zhihu.com/people/wang-17-37", 
+        "https://www.zhihu.com/people/li-yi-heng-60-80", 
+        "https://www.zhihu.com/people/xiang-hong-11-48", 
+        "https://www.zhihu.com/people/mo-mo-xie", 
+        "https://www.zhihu.com/people/chiao-78", 
+        "https://www.zhihu.com/people/jiang-xi-feng-33", 
+        "https://www.zhihu.com/people/xcm-52", 
+        "https://www.zhihu.com/people/fang-yang-he-kan-chai-de", 
+        "https://www.zhihu.com/people/fudawei", 
+        "https://www.zhihu.com/people/tang-pei-xiang-82", 
+        "https://www.zhihu.com/people/zhang-ruarua", 
+        "https://www.zhihu.com/people/sun-yao-dong-10", 
+        "https://www.zhihu.com/people/hui-gu-niang-de-jia-jiao-tuo", 
+        "https://www.zhihu.com/people/tao-yu-16-44", 
+        "https://www.zhihu.com/people/ji-meng-zhi-neng", 
+        "https://www.zhihu.com/people/lico-ge", 
+        "https://www.zhihu.com/people/spirit-soul", 
+        "https://www.zhihu.com/people/tong-zi-zi-danica", 
+        "https://www.zhihu.com/people/jade_king", 
+        "https://www.zhihu.com/people/guidaomozhe", 
+        "https://www.zhihu.com/people/wang-zhao-jie-26", 
+        "https://www.zhihu.com/people/yue-lang-xing-xi-shi", 
+        "https://www.zhihu.com/people/trumanli", 
+        "https://www.zhihu.com/people/chi-shang-9-93", 
+        "https://www.zhihu.com/people/Tony633", 
+        "https://www.zhihu.com/people/ma-xiao-xiao-68-74", 
+        "https://www.zhihu.com/people/hades-31-93", 
+        "https://www.zhihu.com/people/cacti-34", 
+        "https://www.zhihu.com/people/huang-hun-13-61", 
+        "https://www.zhihu.com/people/xin-shi-33-44", 
+        "https://www.zhihu.com/people/hurricane419", 
+        "https://www.zhihu.com/people/huang-wen-tao-77", 
+        "https://www.zhihu.com/people/zhou-jie-36-60", 
+        "https://www.zhihu.com/people/lu-yao-98-77", 
+        "https://www.zhihu.com/people/123-44-79-68", 
+        "https://www.zhihu.com/people/owen-j", 
+        "https://www.zhihu.com/people/xi-xi-71-34-61", 
+        "https://www.zhihu.com/people/antarcua", 
+        "https://www.zhihu.com/people/alain-18-10", 
+        "https://www.zhihu.com/people/jasen2339", 
+        "https://www.zhihu.com/people/su-yao-12-43", 
+        "https://www.zhihu.com/people/xi-bao-123", 
+        "https://www.zhihu.com/people/li-jia-49-36-1", 
+        "https://www.zhihu.com/people/wang-hui-11-66-73", 
+        "https://www.zhihu.com/people/jee-hypo", 
+        "https://www.zhihu.com/people/liu-nian-4-81", 
+        "https://www.zhihu.com/people/qian-shan-ru-yue", 
+        "https://www.zhihu.com/people/shan-ding-de-feng-42", 
+        "https://www.zhihu.com/people/1509100540006", 
+        "https://www.zhihu.com/people/shi-wen-bao-23", 
+        "https://www.zhihu.com/people/gooa-89", 
+        "https://www.zhihu.com/people/han-yao-bin-178", 
+        "https://www.zhihu.com/people/horlk", 
+        "https://www.zhihu.com/people/jiang-shi-xun-66", 
+        "https://www.zhihu.com/people/geng-xiang-0712", 
+        "https://www.zhihu.com/people/andy-71-61-4", 
+        "https://www.zhihu.com/people/bai-zhi-wei", 
+        "https://www.zhihu.com/people/guo-zheng-kai-74", 
+        "https://www.zhihu.com/people/liu-lang-gou-49", 
+        "https://www.zhihu.com/people/asdfsadfsadfsdafsd", 
+        "https://www.zhihu.com/people/ou-long-an-28", 
+        "https://www.zhihu.com/people/Kayanomi", 
+        "https://www.zhihu.com/people/quan-dave", 
+        "https://www.zhihu.com/people/zhijijinzhao", 
+        "https://www.zhihu.com/people/guo-song-tai", 
+        "https://www.zhihu.com/people/huang-ye-tuo", 
+        "https://www.zhihu.com/people/ri-yue-ru-suo-3-73", 
+        "https://www.zhihu.com/people/matltech", 
+        "https://www.zhihu.com/people/zhen-san-da-lao-hu", 
+        "https://www.zhihu.com/people/yang-ke-51-88", 
+        "https://www.zhihu.com/people/zhaobq", 
+        "https://www.zhihu.com/people/wang-xian-sheng-10-53-53", 
+        "https://www.zhihu.com/people/an-biao-se-diao", 
+        "https://www.zhihu.com/people/li-jia-46-11", 
+        "https://www.zhihu.com/people/huang-you-zhao-dian", 
+        "https://www.zhihu.com/people/yiyi-43-21-88", 
+        "https://www.zhihu.com/people/yang-ru-bai", 
+        "https://www.zhihu.com/people/xiao-su-yang-96", 
+        "https://www.zhihu.com/people/sui-yun-71-66", 
+        "https://www.zhihu.com/people/levant-65", 
+        "https://www.zhihu.com/people/zhang-bin-65-11", 
+        "https://www.zhihu.com/people/du-du-94-32-57", 
+        "https://www.zhihu.com/people/sunray97", 
+        "https://www.zhihu.com/people/fei-xiang-de-a-hui", 
+        "https://www.zhihu.com/people/li-bo-cun-1", 
+        "https://www.zhihu.com/people/zzwzz-61", 
+        "https://www.zhihu.com/people/lan-se-hai-yang-97-24", 
+        "https://www.zhihu.com/people/mr-peng-18", 
+        "https://www.zhihu.com/people/xiao-lin-81-12-96", 
+        "https://www.zhihu.com/people/timothyzhu", 
+        "https://www.zhihu.com/people/qian-li-yizui-69", 
+        "https://www.zhihu.com/people/hai-mian-bao-bao-9192", 
+        "https://www.zhihu.com/people/chengzi-49-65", 
+        "https://www.zhihu.com/people/fei-fei-98-21-90", 
+        "https://www.zhihu.com/people/wakds-17", 
+        "https://www.zhihu.com/people/sunny-zhao-96", 
+        "https://www.zhihu.com/people/da-huang-29-44-9", 
+        "https://www.zhihu.com/people/xiao-ai-99-97", 
+        "https://www.zhihu.com/people/liang-qi-yitan-ou-lu-54", 
+        "https://www.zhihu.com/people/jiong-jiong-you-shen-57-58", 
+        "https://www.zhihu.com/people/xin-shi-57-55", 
+        "https://www.zhihu.com/people/wu-yu-kun-67-21", 
+        "https://www.zhihu.com/people/yan-28-66", 
+        "https://www.zhihu.com/people/du-shou-kang-cheng", 
+        "https://www.zhihu.com/people/li-tong-xue-a", 
+        "https://www.zhihu.com/people/chen-qi-liang", 
+        "https://www.zhihu.com/people/fang-lian-hao", 
+        "https://www.zhihu.com/people/tan-ji-cheng-10", 
+        "https://www.zhihu.com/people/zi-yang-27-49", 
+        "https://www.zhihu.com/people/mei-gui-yu-xiao-hu-li", 
+        "https://www.zhihu.com/people/hycherish", 
+        "https://www.zhihu.com/people/jin-biao-2", 
+        "https://www.zhihu.com/people/jane-3-99-73", 
+        "https://www.zhihu.com/people/dong-li-49-98", 
+        "https://www.zhihu.com/people/ai-er-rui-66", 
+        "https://www.zhihu.com/people/fen-zhan-5-26", 
+        "https://www.zhihu.com/people/shi-yue-3-51", 
+        "https://www.zhihu.com/people/bu-chun-zai-de-yong-yuan", 
+        "https://www.zhihu.com/people/zhang-qi-30-93", 
+        "https://www.zhihu.com/people/wang-jiao-20-99", 
+        "https://www.zhihu.com/people/gong-bing-zhong-wei", 
+        "https://www.zhihu.com/people/du-shi-xing-zhe-61", 
+        "https://www.zhihu.com/people/kongjiaxu530", 
+        "https://www.zhihu.com/people/gao-gao-22-58", 
+        "https://www.zhihu.com/people/duan-mu-zi-ang", 
+        "https://www.zhihu.com/people/jiu-ye-20-63", 
+        "https://www.zhihu.com/people/ychoul", 
+        "https://www.zhihu.com/people/xing-xing-kan-yue-liang", 
+        "https://www.zhihu.com/people/ma-zhao-kun-33", 
+        "https://www.zhihu.com/people/dituibang", 
+        "https://www.zhihu.com/people/yolan-99"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31547453", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 6, 
+            "title": "质量知道｜检测/检定/校准你能区分吗？", 
+            "content": "<p>上次和大家分享了标定、检定、校准、校验的区别，最近有读者问我，检测和检定/校准有什么区别，感觉现在检测报告、检定证书、校准证书很多时候都很混乱，甚至有些检定校准机构的专业技术人员都不一定分得很清楚，接下来我们来看看，这里面的区别真不小，检测是针对产品，而检定和校准是针对计量器具。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-dc0b9bb9a04b6663232b509fc2d44eca_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"408\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-dc0b9bb9a04b6663232b509fc2d44eca_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;408&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"408\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-dc0b9bb9a04b6663232b509fc2d44eca_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-dc0b9bb9a04b6663232b509fc2d44eca_b.jpg\"/></figure><p><b>检测、检定、校准的定义</b></p><p>检测：依据指定的方法，通过对产品特性参数进行检查、测量或试验，以确定其是否符合相应要求的活动。检测适用于各种行业、各种产品和各种参数的评定。</p><p>检定：依据国家计量检定规程，通过实验确定计量器具示值误差是否符合要求的活动。检定范围是我国计量法明确规定的强制检定的计量器具。</p><p>校准：依据相关校准规范，通过实验确定计量器具示值的活动。通常采用与精度较高的计量标准比对测量得到被计量器具相对标准器的误差，从而得到被计量器具示值的修正值。校准主要用于非强制检定的计量器具。</p><h2><b>检测、检定、校准的区别</b></h2><p>检测的对象是产品参数，使用的工具是计量器具，出具的报告是产品参数的《检测报告》。</p><p>检定和校准的对象是计量器具，使用的工具是计量标准，出具的报告是计量器具的《检定合格证书》或《校准证书》。</p><p>检定必须依据国家计量检定规程的量值误差范围，给出计量器具合格与不合格的判定，检定合格给出《检定合格证书》。</p><p>校准的结论只是评定计量器具的量值误差，确保量值准确，不要求给出合格或不合格的判定，校准的结果可以给出《校准证书》或《校准报告》。</p><p>举个例子：三坐标测量机如果已经投入使用，就属计量器具，应该执行“校准”而不应用“检测”，应出具《校准证书》或《校准报告》。如果是三坐标生产厂家的出厂检验，由于设备还没有投入市场或使用，应该属于“产品”，应执行“检测”而不是“检定”或“校准”，应出具《检测报告》。无论是检测还是校准，都要求“量值溯源”，检测使用的测量设备和校准使用的计量标准都应该确保溯源到国家或国际计量基准。</p><p>讲到这里，检测、检定、校准，你区分开了吗？</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "pady sun", 
+                    "userLink": "https://www.zhihu.com/people/1eec706344b2f9bb9b0c30a718a52f53", 
+                    "content": "<p>+_+好像有些眉目了……</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "送外卖的", 
+                    "userLink": "https://www.zhihu.com/people/0244bed449d5a8febbe2ebb01b607a61", 
+                    "content": "<p>没有</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "robin", 
+                    "userLink": "https://www.zhihu.com/people/72007bea755f56939df29982d3279fbf", 
+                    "content": "不错", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "fok小pet", 
+                    "userLink": "https://www.zhihu.com/people/36f9fc4373d9ff5f92521a96b628c565", 
+                    "content": "那请问对于生物安全柜，应该是检测还是检定校准呢？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31547367", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 4, 
+            "title": "质量讲堂｜头脑风暴法，让你脑洞大开！", 
+            "content": "<p>头脑风暴法，让你脑洞大开！<br/>头脑风暴法（Brain-Storming）是一种激发团队创造性思维，通过天马行空的联想和讨论，碰撞出新的观点或创新想法，常用于解决问题或团队决策。头脑风暴法是由美国学者奥斯本于1938年首次提出，又称为智力风暴法、智力激励法、脑力激荡法、BS法(Brain-Storming) 。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9f48401472695efdc99a3710ce52964a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"635\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-9f48401472695efdc99a3710ce52964a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;635&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"635\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-9f48401472695efdc99a3710ce52964a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9f48401472695efdc99a3710ce52964a_b.jpg\"/></figure><h2><b>如何开展头脑风暴？</b></h2><p><b>1、准备阶段：</b>负责人事先对所议主题进行一定的研究，设定会议讨论所要达到的目标。选定参加会议人员，一般以5-10人为宜。然后将会议的时间、地点、所要解决的问题或目标、可供参考的资料提前通知与会人员，让大家做好充分的准备。</p><p><b>2、启动阶段：</b>主持人宣布开始后，先说明会议的规则，然后随便谈点有趣的话题或问题，创造一种自由、宽松的氛围，使大家得以放松。然后主持人简要地介绍会议目标，不可过分周全，过多的信息会限制人的思维，干扰思维创新的想象力。</p><p><b>3、畅谈阶段：</b>为了使大家能够畅所欲言，主持人首先要向大家宣布规则：第一，不要私下交谈，以免分散注意力。第二，不妨碍及评论他人发言，每人只谈自己的想法。第三，发表见解时要简单明了，一次发言只谈一种见解。随后导引大家自由发言，自由想象，自由发挥，使彼此相互启发，相互补充，真正做到知无不言，言无不尽，畅所欲言，然后将会议发言记录进行整理。</p><p><b>4、总结阶段：</b>会议结束后的一二天内，主持人应向与会者了解大家会后的新想法或思路，以此补充会议记录。然后将大家的想法整理成若干方案，再根据诸如可识别性、创新性、可实施性等标准进行筛选。经过多次反复比较和优中择优，最后确定1-3个最佳方案。这些最佳方案往往是多种创意的优势组合，是大家的集体智慧综合作用的结果。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f2021c74ca8780943211f0bb8ea7ab83_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"602\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-f2021c74ca8780943211f0bb8ea7ab83_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;602&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"602\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-f2021c74ca8780943211f0bb8ea7ab83_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f2021c74ca8780943211f0bb8ea7ab83_b.jpg\"/></figure><h2><b>头脑风暴法的原则</b></h2><p><b>1、自由畅谈：</b>参加者不应受任何条条框框限制，放松思想，从不同角度，不同层次，不同方位，大胆地展开想象，尽可能地标新立异、与众不同，提出独创性的想法。</p><p><b>2、庭外判决：</b>必须坚持当场不对任何设想作出评价的原则，既不能肯定某个设想，又不能否定某个设想，也不能对某个设想发表评论性的意见。一切评价和判断都要延迟到会议结束以后才能进行。</p><p><b>3、禁止批评：</b>绝对禁止批评是头脑风暴法应该遵循的一个重要原则。参加头脑风暴会议的每个人都不得对别人的设想提出批评意见，也不得进行自我批评，批评性质的说法会破坏会场气氛，影响自由畅想。</p><p><b>4、追求数量：</b>头脑风暴会议的目标是获得尽可能多的设想，追求数量是它的首要任务。至于设想的质量问题，可留到会后的设想总结阶段去解决。在某种意义上，设想的质量和数量密切相关，产生的设想越多，其中的创造性设想就可能越多。</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31547287", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 3, 
+            "title": "质量大师｜质量之父朱兰和他的质量三步曲", 
+            "content": "<p>约瑟夫·莫西·朱兰（Joseph Moses Juran)，世界著名的质量管理专家，20世纪最伟大的现代质量管理领军人物之一，他将毕生的精力投入到质量管理中并取得了巨大的成就，被誉为质量领域的“首席建筑师”、“质量之父”。</p><h2><b>朱兰简介</b></h2><p>1904年，朱兰出生于罗马尼亚，1912年随家庭移民美国，1917年加入美国国籍，1924年毕业于美国明尼苏达大学，获得电气工程学士学位，毕业后加入西方电气公司芝加哥霍桑工厂。</p><p>在1925年，贝尔实验室在霍桑工厂试验新研发的抽样统计和控制图技术，朱兰被选中加入检验统计部门，负责应用和传播贝尔实验室的创新统计质量控制技术。1928年朱兰晋升为部门负责人。1935年，朱兰在《机械工程》杂志上发表了他的第一篇与质量有关的文章。1937年，朱兰搬到西部电气纽约总部，担任首席工业工程师。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f7ed30ce9cdbdd2feefb12d98a2b5354_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-f7ed30ce9cdbdd2feefb12d98a2b5354_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;320&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-f7ed30ce9cdbdd2feefb12d98a2b5354_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f7ed30ce9cdbdd2feefb12d98a2b5354_b.jpg\"/></figure><p>1951年，被誉为“质量管理领域的圣经”的《朱兰质量手册》第1版出版，为朱兰赢得了国际威望。1979年，朱兰建立了朱兰学院，如今已成为世界领先的质量管理咨询公司。20世纪90年代，朱兰仍然担任学院的名誉主席和董事会成员，以90岁高龄继续在世界各地从事讲演和咨询活动。</p><h2><b>朱兰质量三步曲</b></h2><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2ff4bd27ddef22fc289365b460b99cd9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-2ff4bd27ddef22fc289365b460b99cd9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;426&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-2ff4bd27ddef22fc289365b460b99cd9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-2ff4bd27ddef22fc289365b460b99cd9_b.jpg\"/></figure><p>朱兰在82岁高龄时发表了一篇著名论文《质量三部曲》，其副标题为“一种普遍适用的质量管理方法”，这就是被世界各国广为推崇的“朱兰三部曲”，即质量策划、质量控制和质量改进。<br/>质量策划：明确了质量管理的目标和实现目标的途径，是质量管理的前提和基础。质量策划的步骤为：（1）设立项目；（2）确定顾客并识别需要；（3）开发产品；（4）设计生产流程；（5）制定控制计划。</p><p>质量控制：对过程进行控制保证质量目标的实现。质量控制的步骤为：（1）选定控制对象；（2）确定测量方法；（3）建立作业标准；（4）分析与现行标准的差距；（5）对差距采取行动。</p><p>质量改进：通过打破旧的平稳状态而达到新的更高的质量水平。质量改进的步骤为：（1）证实改进的必要并设立项目组；（2）确认质量问题的产生原因；（3）制定并实施纠正措施；（4）验证措施的有放性；（5）在新的水平上进行质量控制。</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "majie0228", 
+                    "userLink": "https://www.zhihu.com/people/d5a88fa75e4181e43ca3780ec2cf7cde", 
+                    "content": "<p>可以。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31220205", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 1, 
+            "title": "质量知道｜精益与六西格玛？还是精益六西格玛？", 
+            "content": "<p>关于精益与六西格玛的争论，一直都是一个话题。精益与六西格玛都会争论说，他们来源于戴明的思想。戴明的一生中强调了两个观点：消除浪费和减少变异。消除浪费是精益的核心，而减少变异是六西格玛的核心。</p><h2>精益与六西格玛</h2><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1942b238a616d9355a1e7c2bb9f2e4b1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"317\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-1942b238a616d9355a1e7c2bb9f2e4b1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;317&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"317\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-1942b238a616d9355a1e7c2bb9f2e4b1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1942b238a616d9355a1e7c2bb9f2e4b1_b.jpg\"/></figure><p>精益的核心是以最小的资源投入，包括人力、设备、资金、材料、时间和空间，创造出最大的价值，为顾客提供满意的产品和服务。精益管理的目标可以概括为：企业在为顾客提供满意的产品与服务的同时，把浪费降到最低程度。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c77f0f1c7ea7d66c0f872591f4950226_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"235\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-c77f0f1c7ea7d66c0f872591f4950226_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;235&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"235\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-c77f0f1c7ea7d66c0f872591f4950226_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c77f0f1c7ea7d66c0f872591f4950226_b.jpg\"/></figure><p>六个西格玛的重点是将所有的工作作为一种流程，采用量化的方法分析流程中影响质量的因素，找出最关键的因素加以改进，从而达到更高的客户满意度。六个西格玛为企业培养具备组织能力、激励能力、项目管理能力和数理统计能力的领导者，这些人才是企业适应变革和竞争的核心力量。从而使企业降低质量缺陷和服务偏差并保持持久性的效益。<br/>精益关注流程速度和效率，主要偏向于对企业流程速度的改善，它衡量的是为满足客户要求而进行的操作的迅速性。</p><p>六西格玛是由质量工程发展出来用以改良产品、服务质量及可靠性水平的方法论。它是一种清除缺陷并减少流程波动的方法，主要偏向于对企业流程质量的控制，衡量的是为满足客户要求而进行的操作的可靠性。</p><h2>精益六西格玛</h2><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5593a4ddbdeffee8a84ff84512e9b9d1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-5593a4ddbdeffee8a84ff84512e9b9d1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;300&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-5593a4ddbdeffee8a84ff84512e9b9d1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5593a4ddbdeffee8a84ff84512e9b9d1_b.jpg\"/></figure><p>当精益遇上六西格玛，便诞生了本质为消除浪费的精益六西格玛，通过整合精益与六西格玛管理，吸收两种模式的优点，以达到更佳效益。精益六西格玛不是精益和六西格玛的简单相加，而是二者的互相补充、有机结合。<br/>精益六西格玛技术得以普及，源于六西格玛黑带认识到他们的顾客所要求的许多关键质量特性，不仅是要解决其中的缺陷，还关系到过程加速和减少浪费，在大多数情况下，这些其实就是顾客的需求，对于许多服务型公司更是如此。因此，黑带们开始在六西格玛项目中应用一些精益工具，形成了精益六西格玛。</p><p>精益六西格玛不只是给人们提供科学而实用的工具和方法，最重要的是向人们提供一套系统的思考哲学和理念。以追求客户满意为导向，依照数据和事实进行决策，研究业务流程，通过组织一个个流程改善的项目，达到对内降低运营成本，提高效率，改善产品质量，对外提高客户满意度的目标。</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31219971", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 0, 
+            "title": "质量讲堂｜一分钟学会制作检查表", 
+            "content": "<p>检查表是品管七大手法之一，是一种最基础也最常用的数据收集工具，我们前面学到的帕累托图、散布图和直方图中，都需要先通过检查表来收集数据，然后应用合适的方法进行分析。</p><h2>什么是检查表？</h2><p>检查表是一种为了方便收集数据，使用简单记号填写记录，并予以整理统计，用于进一步检查、核对或分析，而设计的一种表格或图表。故又名调查表、核对表或统计分析表。按照用途分为记录用检查表和点检用检查表。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-fdf483ff5b8d2c1b19b54693ae4a0de8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"240\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-fdf483ff5b8d2c1b19b54693ae4a0de8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;240&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"240\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-fdf483ff5b8d2c1b19b54693ae4a0de8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-fdf483ff5b8d2c1b19b54693ae4a0de8_b.jpg\"/></figure><p>记录用检查表用于根据收集的数据调查不良项目、不良原因、缺陷位置等情形。通常将数据分类成数个项目，以符号、数字记录用于分析问题原因和制定纠正措施。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-8978fd08e50ace36b7d23a02ba8ebcc4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-8978fd08e50ace36b7d23a02ba8ebcc4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;430&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-8978fd08e50ace36b7d23a02ba8ebcc4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-8978fd08e50ace36b7d23a02ba8ebcc4_b.jpg\"/></figure><p>点检用检查表用于记录一些非做不可、非检查不可的工作或项目，按点检顺序列出，逐一点检并记录，防止遗漏和失误，以预防发生不良或事故。</p><h2>检查表制作案例：</h2><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-3c7a31d21cabfff286e6d0875d06fd1c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-3c7a31d21cabfff286e6d0875d06fd1c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;389&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-3c7a31d21cabfff286e6d0875d06fd1c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3c7a31d21cabfff286e6d0875d06fd1c_b.jpg\"/></figure><p>第一步：明确数据收集的目的，比如：记录加工不良情况，分析加工不良的原因，并制定纠正措施。</p><p>第二步：确定负责人，设计检查表格形式，确定记录形式，比如：可选择[○] [×] [㊣] [□] [△] 等记号；确定数据收集的方法，比如：由谁收集、收集时间周期、检查方法等。</p><p>第三步： 实施数据记录，并将记录的数据整理成次数分配表。</p><p>检查表，你学会了吗？</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31106718", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 7, 
+            "title": "质量大师｜零缺陷之父克劳士比的管理思想", 
+            "content": "<p>菲利浦·克劳士比（Philip Bayard Crosby），美国质量管理学家，“零缺陷（Zero Defects）”理念的提出者，被美国《时代》杂志誉为“本世纪伟大的管理思想家”、“质量大师中的大师”、“零缺陷之父”、“一代质量宗师”。</p><h2>克劳士比简介</h2><p>1920年，克劳士比出生于美国西弗吉尼亚州，二战期间在美国海军服役，并在朝鲜战争期间再次服役，在此之间，他获得了医学院学位。</p><p>1957年，克劳士比第一份质量相关工作是在克罗斯莱质量部担任检验技术员，期间他努力学习质量相关的知识，几乎遍读了当时所有的质量书籍，并且加入美国质量学会成为会员。随后他任职于本迪克斯公司、马丁玛瑞塔公司和美国国际电报电话公司。在担任马丁玛瑞塔公司质量经理时，克劳士比提出“零缺陷”（Zero Defects）的理念，并因此于1964年获得美国国防部的奖章。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-41294d796c9965a2e4732c5226d40c0e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"439\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-41294d796c9965a2e4732c5226d40c0e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;439&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"439\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-41294d796c9965a2e4732c5226d40c0e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-41294d796c9965a2e4732c5226d40c0e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>1979年，克劳士比在佛罗里达创立了克劳士比学院（PCA）和克劳士比质量学院，开始了一生致力于零缺陷质量管理的推广工作，在其后不到十年时间里，克劳士比学院发展成为全球最大的上市质量管理与教育机构。克劳士比涉猎广泛，知识丰富，一生共写了近 20 本书 ，包括《质量免费》等13本畅销书，克劳士比的著作被公认为是质量与管理科学中最好的著作。<br/></p><p>2002年，为纪念克劳士比在质量管理领域的卓著贡献，美国质量学会（ASQ）设立以克劳士比命名的“克劳士比奖章”，以提携、表彰质量管理方面的优秀作家。</p><h2>零缺陷管理思想</h2><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0bf87a9b67dc50a90d39cf4c3552ab33_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"282\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-0bf87a9b67dc50a90d39cf4c3552ab33_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;282&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"282\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-0bf87a9b67dc50a90d39cf4c3552ab33_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0bf87a9b67dc50a90d39cf4c3552ab33_b.jpg\"/></figure><p>克劳士比的信念是“质量是免费的（Quality is free）”，第一次把事情做对远比返工和返修付出的代价要小得多，他提出了质量管理四条基本原则：</p><p>原则一：什么是质量？质量的定义是符合要求的（既包括产品的要求，又包括客户的要求），而不是“好”、“卓越”等主观和含糊的描述。</p><p>原则二：质量是怎样产生的？产生质量的系统是预防，而不是检验。检验是在过程结束后把不符合要求的挑选出来，而不是促进改进。预防发生在过程的设计阶段，包括沟通、计划、验证以及逐步消除出现不符合项的可能性。</p><p>原则三：什么是工作标准？零缺陷，工作标准必须是零缺陷，强调“第一次就把事做对”，而不是“差不多就好”。</p><p>原则四：怎样衡量质量？质量是用不符合要求的代价（金钱）来衡量的。所谓不符合要求的代价是指所有做错事情的花费，这一花费累计起来是十分惊人的，“在制造业公司约占总营业额的20%以上，而在服务业更是高达35%”。</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "拉克", 
+                    "userLink": "https://www.zhihu.com/people/709fd383c7c3b7ebfed4089b7001adb9", 
+                    "content": "<p>四原则总结很到位，《质量免费》这本书介绍了如何推行。不过能够将概念深入人心，实际推行到公司各层人员，才是王者。这是一个大工程，质量工程。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31106552", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 1, 
+            "title": "质量知道｜纠正/纠正措施/预防措施你能区分吗？", 
+            "content": "<p>纠正、纠正措施、预防措施是检验检测等质量部门日常工作中非常重要的质量控制措施。一提这三个词，许多人都头大，那么它们之间的区别到底是什么呢？</p><h2><b>纠正、纠正措施、预防措施的定义：</b></h2><p>纠正：为消除已发现的不合格所采取的措施。</p><p>纠正措施：消除已发现的不合格或其他不期望情况的原因所采取的措施。</p><p>预防措施：为消除潜在的不合格或其他潜在不期望情况的原因所采取的措施。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-69fcb8f18ca9cd321c522b0a285dbce9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"640\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-69fcb8f18ca9cd321c522b0a285dbce9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"640\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-69fcb8f18ca9cd321c522b0a285dbce9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-69fcb8f18ca9cd321c522b0a285dbce9_b.jpg\"/></figure><h2><b>目的不同：</b> </h2><p>纠正：针对不合格的处置。例如，在审核的报告/证书时发现填写有误，当即将错误之处改正过来，避免错误报告/证书流入顾客手中。</p><p>纠正措施：消除已发现的不合格的系统原因防止不合格再度发生。例如，通过建立模板来固定报告/证书上的检测/校准项目，防止今后不再出现项目遗漏的错误。</p><p>预防措施：揭示潜在的可能导致发生不合格的原因，防止发生不合格。例如，在阴霾天，许多人出门时戴上口罩。又如，作业现场的张贴的安全警示标识、质量提醒。</p><h2><b>对象不同：</b></h2><p>纠正：已发生；不合格，只是“就事论事”。</p><p>纠正措施：已发生；产生不合格或其他不期望情况的原因，是“追本溯源”。</p><p>预防措施：已潜在但未发生。潜在的不合格或其他潜在不期望情况的原因，是“未雨绸缪”、“防微杜渐”。</p><h2><b>时效性不同：</b></h2><p>纠正：纠正是“返修”、“返工”、“降级”或“调整”，是对现有的不合格所进行的当机立断的补救措施，当即发生作用。</p><p>纠正措施：在已发生不合格的被动情况下的积极反应（事后防范），是针对不合格原因采取措施如通过修订程序和改进体系等，从根本上消除问题根源，通过跟踪验证才能看到效果。</p><p>预防措施：主动确定改进机会的过程（事前防范）。预防措施是针对潜在的不合格或其他潜在不期望情况的原因采取措施，措施的效果一般需要较长时期才能够看到效果。</p><h2><b>效果不同：</b></h2><p>纠正：是对不合格的处置，不涉及不合格工作的产生原因，不合格可能再发生，即纠正仅仅是“治标”。</p><p>纠正措施：纠正措施可能导致文件、体系等方面的更改，切实有效地纠正措施由于从根本上消除了问题产生的根源，可以防止同类事件的再次发生，因此就纠正措施是“标本兼治”。</p><p>预防措施：预防措施能彻底避免不合格或不期望情况发生。</p><h2><b>触发条件不同：</b></h2><p>纠正：不符合分为不合格项和不合格品，一般情况下，所有的不合格品都需要立即纠正。</p><p>纠正措施：需要采取纠正措施的四种情况是：审核发现的不合格、顾客抱怨的不合格、反复出现的不合格以及后果严重的不合格。</p><p>预防措施：预防措施在没有发生不合格前提下，往往从数据分析得到这种预见和趋势。</p><h2><b>举个例子：商家的玻璃门被撞破了，于是...</b> </h2><p>纠正：商家把撞破的地方换了一块新的玻璃。</p><p>纠正措施：商家为了不再发生，在新的玻璃上贴上“当心玻璃”。</p><p>预防措施：对面的B商家看到了，也在自己的玻璃上贴上“当心玻璃”。</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30984756", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 0, 
+            "title": "质量讲堂｜用散布图解读双十一前后价格变化", 
+            "content": "<p>散布图是品管七大手法之一，是一种判断数据相关性的分析方法，在质量管理中，我们常用散布图来辨认一个质量特征和一个可能原因因素之间的相关性，从而控制影响产品质量的相关因素。</p><h2>什么是散布图？</h2><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-e94ff00a220ece787a36101fb9a7ada9_b.jpg\" data-caption=\"\" data-rawwidth=\"582\" data-rawheight=\"227\" class=\"origin_image zh-lightbox-thumb\" width=\"582\" data-original=\"https://pic2.zhimg.com/v2-e94ff00a220ece787a36101fb9a7ada9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;582&#39; height=&#39;227&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"582\" data-rawheight=\"227\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"582\" data-original=\"https://pic2.zhimg.com/v2-e94ff00a220ece787a36101fb9a7ada9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e94ff00a220ece787a36101fb9a7ada9_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>散布图是用来表示一组成对的数据之间是否有相关性的一种图表，故又名相关图。其横坐标表示X变量的测定值，纵坐标表示Y变量的测定值，将各组X测定值与Y测定值的交点全部画出，即可得到散布图，故又名散点图。这种图示方式具有方便快捷、易于交流和易于理解的特点。</p><h2>散布图相关关系</h2><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-4ef4b89c544501798f744019040bc9fa_b.jpg\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"380\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-4ef4b89c544501798f744019040bc9fa_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;380&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"380\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-4ef4b89c544501798f744019040bc9fa_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4ef4b89c544501798f744019040bc9fa_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>散布图的相关性关系简单来说可以分为以下三种：</p><p>正相关关系：当X变量增大时，Y变量随之增大，呈现上升趋势。</p><p>负相关关系：当X变量减小时，Y变量随之减小，呈现下降趋势。</p><p>无相关关系：当X变量增大时，Y变量并未随之增大，没有上升或下降趋势。</p><h2>解读双十一前后价格变化</h2><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-a74183270b726f80fc717565c4a89977_b.jpg\" data-caption=\"\" data-rawwidth=\"568\" data-rawheight=\"516\" class=\"origin_image zh-lightbox-thumb\" width=\"568\" data-original=\"https://pic4.zhimg.com/v2-a74183270b726f80fc717565c4a89977_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;568&#39; height=&#39;516&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"568\" data-rawheight=\"516\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"568\" data-original=\"https://pic4.zhimg.com/v2-a74183270b726f80fc717565c4a89977_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a74183270b726f80fc717565c4a89977_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>图中横坐标为双十一折扣，纵坐标为节前节后价格比，价格比越高说明节前价格虚高，从整体分布来看，节前节后价格比与双十一折扣基本呈线性负相关，也就是说卖力打折的往往节前价格虚高，而左下角这种节前节后价格差距不大，双十一折扣幅度大的店家则数量最少。可见对于消费者而言，双十一期间想占到商家什么便宜还是件很难的事情！</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30983594", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 7, 
+            "title": "质量讲堂｜一分钟学会频数分布直方图", 
+            "content": "<p>频数分布直方图（简称直方图）是品管七大手法之一，是一种反映产品质量分布和波动情况的分析方法，在质量管理中，我们常用频数分布直方图来预测并监控产品质量状况。</p><h2>什么是频数分布直方图？</h2><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-8ad67f8ed601a35a04c93e1aeab833b3_b.jpg\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"359\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-8ad67f8ed601a35a04c93e1aeab833b3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;359&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"359\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-8ad67f8ed601a35a04c93e1aeab833b3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8ad67f8ed601a35a04c93e1aeab833b3_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>频数分布直方图是一种按照分组频数（出现次数）绘制的直方图，是最常用的一种直方图（故简称直方图），常用于反映产品质量的分布情况，故又名质量分布图。</p><p>通过频数分布直方图，可以从杂乱无章数据中分析出规律，一目了然地看出数据的中心值及分布情况，通过观察直方图的形状，可以判断生产过程是否稳定，预测生产过程的质量，通过研究质量波动掌握过程的状况，从而确定哪些地方需要集中力量进行质量改进工作。</p><h2>频数分布直方图制作案例</h2><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-47a6dd9ec5cb1f7ca3b638db37091ce9_b.jpg\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"397\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-47a6dd9ec5cb1f7ca3b638db37091ce9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;397&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"397\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-47a6dd9ec5cb1f7ca3b638db37091ce9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-47a6dd9ec5cb1f7ca3b638db37091ce9_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>第一步：收集需要分析的数据，通常数据至少应在50个以上。</p><p>第二步：找出最大值和最小值，计算极差（最大值-最小值），将数据分成若干组（通常在5－12组之间），用极差除以组数得到组距的宽度，统计各组数据出现的频数，制作频数表。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-792c2cc9653c50a46efb324183e4ea46_b.jpg\" data-caption=\"\" data-rawwidth=\"459\" data-rawheight=\"292\" class=\"origin_image zh-lightbox-thumb\" width=\"459\" data-original=\"https://pic3.zhimg.com/v2-792c2cc9653c50a46efb324183e4ea46_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;459&#39; height=&#39;292&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"459\" data-rawheight=\"292\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"459\" data-original=\"https://pic3.zhimg.com/v2-792c2cc9653c50a46efb324183e4ea46_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-792c2cc9653c50a46efb324183e4ea46_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>第三步：在直角坐标系中，以组距为横坐标、频数为纵坐标画出各组的矩形图，每个矩形的高度代表对应的频数。</p><p>频数分布直方图，你学会了吗？</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "楚权", 
+                    "userLink": "https://www.zhihu.com/people/1157300857968a0f39502ce24922cce4", 
+                    "content": "<p>一分钟get.</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>为啥要用极差除以组数</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "浮云有意", 
+                    "userLink": "https://www.zhihu.com/people/71a7bc115383ddaaf99ae131307a960c", 
+                    "content": "为什么我看到的版本，纵轴是频率/组距[好奇]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30882376", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 1, 
+            "title": "质量讲堂｜一分钟学会帕累托图", 
+            "content": "<p>帕累托图是品管七大手法之一，是一种查找问题原因的分析方法，在质量管理中，我们常用帕累托图（排列图）来分析质量问题产生的主要因素，从而有重点的采取纠正措施。</p><h2>什么是帕累托图？</h2><p>帕累托图是一种按发生频率大小顺序绘制的特殊直方图，故又名排列图、主次图。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-7f01ff1525201a42fe0bfebd0365433f_b.jpg\" data-caption=\"\" data-rawwidth=\"392\" data-rawheight=\"269\" class=\"content_image\" width=\"392\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;392&#39; height=&#39;269&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"392\" data-rawheight=\"269\" class=\"content_image lazy\" width=\"392\" data-actualsrc=\"https://pic4.zhimg.com/v2-7f01ff1525201a42fe0bfebd0365433f_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>帕累托图以意大利经济学家帕累托（Vilfredo Pareto）的名字命名。帕累托图与帕累托法则一脉相承，帕累托法则又称二八法则或80/20法则，即百分之八十的问题是百分之二十的原因所造成的。对于质量问题而言，就是说数量较少的原因往往造成绝大多数的质量问题或缺陷。</p><h2>帕累托图制作案例</h2><p>帕累托图用双直角坐标系表示，左边纵坐标表示频数，右边纵坐标表示频率，折线表示累积频率，横坐标表示影响质量的各项因素，按影响程度的大小(即出现频数多少)从左到右排列，通过对帕累托图的观察分析，可以抓住影响质量的主要因素，从而优先解决主要问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-3edea63fc982e0f896fc1ee98ec810fb_b.jpg\" data-caption=\"\" data-rawwidth=\"478\" data-rawheight=\"240\" class=\"origin_image zh-lightbox-thumb\" width=\"478\" data-original=\"https://pic4.zhimg.com/v2-3edea63fc982e0f896fc1ee98ec810fb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;478&#39; height=&#39;240&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"478\" data-rawheight=\"240\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"478\" data-original=\"https://pic4.zhimg.com/v2-3edea63fc982e0f896fc1ee98ec810fb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3edea63fc982e0f896fc1ee98ec810fb_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>第一步：针对问题收集一定时间的数据。</p><p>第二步：将收集到的数据，按不同的原因分类，统计各类问题出现的次数(即频数)，按频数的大小次序，从大到小依次列成数据表，并计算各自所占比率（频率）和累计比率（累计频率）。</p><p>第三步：根据数据表画出柱形图和累计频率折线图，注意右边坐标轴是累计百分比，从原点开始，点与点之间以直线连接，从而作出帕累托曲线。</p><p>帕累托图，你学会了吗？</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "尹兴志", 
+                    "userLink": "https://www.zhihu.com/people/64ff57f934194f4e929c6bb6ba17ab8f", 
+                    "content": "请问直方图的数据是哪来的？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30882206", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 0, 
+            "title": "质量大师｜全面质量管理之父费根堡姆的管理思想", 
+            "content": "<p>阿曼德·费根堡姆（Armand Vallin Feigenbaum）是全面质量管理的创始人。费根堡姆说：质量并非意味着最佳，而是客户使用和售价的最佳。</p><h2>费根堡姆简介</h2><p>费根堡姆1920年出生于美国纽约，先后就读于联合学院和麻省理工学院（ MIT ），获得联合学院学士学位，麻省理工学院斯隆管理学院硕士学位，麻省理工学院经济学博士学位。</p><p>1958年至1968年担任通用电气制造业务总监，后来担任马萨诸塞州皮茨菲尔德通用系统公司总裁兼首席执行官。1961年至1963年担任美国质量协会（1961-1963）的主席。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-300e1052af5e505a75da1dc61a84d6e4_b.jpg\" data-caption=\"\" data-rawwidth=\"610\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb\" width=\"610\" data-original=\"https://pic1.zhimg.com/v2-300e1052af5e505a75da1dc61a84d6e4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;610&#39; height=&#39;430&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"610\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"610\" data-original=\"https://pic1.zhimg.com/v2-300e1052af5e505a75da1dc61a84d6e4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-300e1052af5e505a75da1dc61a84d6e4_b.jpg\"/></figure><p>费根堡姆是第一位美国质量学会兰卡斯特奖章(ASQ Lancaster Medal)获得者，美国质量学会爱德华兹奖章（ASQ Edwards Medal）获得者，并被美国总统小布什授予国家技术奖章，获得美国国家工程院院士。1961年，费根堡姆出版《全面质量控制》一书，标志着全面质量管理时代的开始。</p><h2>全面质量管理思想</h2><figure><noscript><img src=\"https://pic2.zhimg.com/v2-6e9cc9c279d911a538adfab5d5f7c55d_b.jpg\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"385\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-6e9cc9c279d911a538adfab5d5f7c55d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;385&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"385\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-6e9cc9c279d911a538adfab5d5f7c55d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6e9cc9c279d911a538adfab5d5f7c55d_b.jpg\"/></figure><p>“全面质量”是全面的质量，包括产品质量、服务质量、成本质量。<br/>“全面质量”是全员参与的质量，对员工进行质量教育，强调全员把关，组成质量管理小组。</p><p>“全面质量”是全过程的质量，贯穿于产品质量产生、形成和实现的全过程，从原来的制造和检验过程向前延伸到市场调研、设计、采购、生产准备等过程，向后延伸到包装、发运、使用、用后处理、售前售后服务等环节，向上延伸到经营管理、向下延伸到辅助生产过程，从而形成一个从市场调查、设计、生产、销售直至售后服务的寿命循环周期全过程。</p><p>“全面质量”是全供应链的质量，以社会的经济效益最大为目的，使供应链上的生产者、储运公司、销售公司、用户和产品报废处理者均能获得最大效益。</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30757704", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 1, 
+            "title": "质量知道｜标定/检定/校准/校验你能区分吗？", 
+            "content": "<p>在日常工作中我们可能接触到标定、检定、校准、校验这几个名词，它们之间有什么区别呢?</p><h2><b>标定、检定、校准、校验的定义</b></h2><p>标定：通过测量标准器的偏差来补偿仪器系统误差，从而改善仪器或系统准确度（精度）的操作。标定一般用于较高精度的仪器。</p><p>检定：依据国家计量检定规程，通过实验确定计量器具示值误差是否符合要求的活动。检定范围是我国计量法明确规定的强制检定的计量器具。</p><p>校准：依据相关校准规范，通过实验确定计量器具示值的活动。通常采用与精度较高的标准器比对测量得到被计量器具相对标准器的误差，从而得到被计量器具示值的修正值。校准主要用于非强制检定的计量器具。</p><p>校验：在没有相关检定规程或校准规范时，按照组织自行编制的方法实施量值传递溯源的一种方式。主要用于专用计量器具、或准确度相对较低的计量器具。</p><h2><b>标定、检定、校准、校验的区别</b></h2><p>标定是对计量仪器进行精度补偿和复核的动态过程；检定、校准、校验是按周期进行的静态计量过程，用于量值传递溯源。</p><p>检定依据《国家计量检定规程》(JJG)，这是计量设备检定必须遵守的法定技术文件。校准优先依据《国家计量技术规范》(JJF)，没有技术规范可根据计量检定规程或相关产品标准，或组织根据实际需要自行制定校准规范。校验通常是依据企业自行编制的校验方法。</p><p>检定必须依据检定规程的量值误差范围，给出计量器具合格与不合格的判定，检定合格给出《检定合格证书》。校准或校验的结论只是评定计量器具的量值误差，确保量值准确，不要求给出合格或不合格的判定，校准的结果可以给出《校准证书》或《校准报告》。</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30757636", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 28, 
+            "title": "质量讲堂｜一分钟学会鱼骨图", 
+            "content": "<p>鱼骨图是品管七大手法之一，是一种透过现象看本质的分析方法，在质量管理中，我们常用鱼骨图（因果图）来分析质量的异常。</p><h2><b>什么是鱼骨图？</b></h2><figure><noscript><img src=\"https://pic3.zhimg.com/v2-a24b109c5cd9d2cb3aa4281a1c77be92_b.jpg\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-a24b109c5cd9d2cb3aa4281a1c77be92_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;389&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-a24b109c5cd9d2cb3aa4281a1c77be92_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-a24b109c5cd9d2cb3aa4281a1c77be92_b.jpg\"/></figure><p>鱼骨图是一种通过头脑风暴法找出影响问题的因素从而发现问题根本原因的分析图形，故又名“因果图”。因其形状如鱼骨，故名鱼骨图，它是日本质量大师石川馨发明，故又名石川图或Ishikawa（日语石川）。</p><p>鱼骨图通过头脑风暴法集思广益，发挥团体的智慧，从各种不同角度找出问题的所有原因或构成要素，帮助我们找出引起问题的潜在根本原因，能说明出各个原因之间如何相互影响，并表现出各个可能原因是如何随时间而依次出现，有助于采取补救措施，正确行动解决问题。</p><h2><b>鱼骨图制作案例</b></h2><figure><noscript><img src=\"https://pic3.zhimg.com/v2-a65c5bff7713e3d6df061b90cf244682_b.jpg\" data-caption=\"\" data-rawwidth=\"641\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb\" width=\"641\" data-original=\"https://pic3.zhimg.com/v2-a65c5bff7713e3d6df061b90cf244682_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;641&#39; height=&#39;320&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"641\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"641\" data-original=\"https://pic3.zhimg.com/v2-a65c5bff7713e3d6df061b90cf244682_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-a65c5bff7713e3d6df061b90cf244682_b.jpg\"/></figure><p>第一步：画出鱼的主干骨和鱼头，将要解决的问题写在鱼头上，画出鱼的5条大骨“人机料法环”，与主干骨呈60度角。</p><p>第二步：召集会议，针对问题进行头脑风暴法讨论，尽可能多的提出问题可能的原因，将所有原因整理列出，共同讨论，去除重复及没有意义的原因。讨论过程中切不可打断别人的发言，不批评不反对，防止真因被扼杀。</p><p>第三步：将主要原因按照“人机料法环”分别填入5条大骨，然后再逐一讨论，找出最可能的原因，进行标注，得到如下示例鱼骨图。</p><p>鱼骨图，你学会了吗？</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "驰隙劉年", 
+                    "userLink": "https://www.zhihu.com/people/a284b69dd9b4c70f26ae14b0908f27f8", 
+                    "content": "我想知道，鱼骨图制作好了。但再次打开后它就挤成一条直线了，要慢慢拉开，才能拼成鱼骨图，这是咋回事，求解", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "初阳", 
+                            "userLink": "https://www.zhihu.com/people/21833d3fc32b6c2c57c38fd9e9dda53e", 
+                            "content": "截图", 
+                            "likes": 0, 
+                            "replyToAuthor": "驰隙劉年"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30676389", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 8, 
+            "title": "质量大师｜质量管理之父戴明的传奇故事", 
+            "content": "<p>       威廉·爱德华兹·戴明（W. Edwards. Deming）博士是世界著名的质量管理专家，他因对世界质量管理发展做出的卓越贡献而享誉全球，被誉为质量管理之父。</p><p><b>在美国本土成长</b></p><p>       1900年，戴明出生于美国，父亲是个农场主，但并不富有。从小戴明就养成了自食其力的习惯，打工赚取自己的生活费。</p><p>　　1917年，戴明进入怀俄明大学，4年后获得电气工程学士学位，毕业后留校任工程学教师。同时，他又到科罗拉多大学研读数学和物理学，在导师的推荐下，戴明到耶鲁大学继续研读数学物理学。1928年，戴明在耶鲁大学获得了博士学位。</p><p>　　读博期间，戴明暑假到芝加哥的西方电器公司打工，在这里，他开始意识到统计在管理过程中的重要性。1927年，他结识了在贝尔研究所的休哈特博士。休哈特有“统计质量控制之父”的称誉，他对戴明的一生产生了重大影响。</p><p>　　毕业后，戴明来到美国农业部固氮研究所，主要从事统计学研究工作。</p><p>　　统计学是戴明的本行，抽样技术是他的拿手好戏。1939年，戴明出任美国人口统计局的调查顾问。在这里，他先后进行过两次关于抽样技术的大规模应用，第一次是在1940年的人口调查中，从这次抽样调查开始，美国人口计量由原来的总体调查变为抽样统计。1942年，随着战争的进行，戴明又把统计质量控制原理引入工业管理，把统计理论应用于战时生产。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-c0a034790f6c735d8f0dd9db2517ace8_b.jpg\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-c0a034790f6c735d8f0dd9db2517ace8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;444&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-c0a034790f6c735d8f0dd9db2517ace8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c0a034790f6c735d8f0dd9db2517ace8_b.jpg\"/></figure><p>　　但是，战争时期的生产，只求更多，不求更好，尽管戴明在美国不断呼吁重视质量，却很少能引起国内的重视。在20世纪40年代，戴明反复强调质量控制的重要性，不断进行质量管理的培训，试图把统计学运用于工业生产。不过，他的呼吁在美国反应寥寥，没有多少人对他的建议和课程真正有兴趣。</p><p>　　1946年，随着战争结束，戴明也离开了美国政府，成立了自己的咨询公司，并在纽约大学工商管理研究所兼职。</p><p><b>日本质量管理教父</b></p><p>       1947年，戴明接受盟军最高指挥部的征召，赴日本帮助当地的战后重建。戴明到日本的本来意图，是指导日本人进行人口普查，讲授统计与质量管理。1950年，戴明受日本科技联盟邀请在日本四大城市授课，可能是吸取了在美国的经验教训，戴明在日本的讲座不再突出他擅长的统计学，而是突出质量管理。</p><p>       在东京授课时，面对控制着日本80％资本的最有实力的21位企业家，戴明强调：“大多数的质量问题是管理者的责任，不是工人的责任，因为整个愚蠢的生产程序是由管理者制定的，工人被排除在外。”同时，他指出：“如果能争取一次把事情做好，不造成浪费，就可以降低成本，而毋需加大投入。”</p><p>　　日本人最关心的是战后恢复和崛起，他们问戴明：要把日本由一个制造劣质低档产品的国家转变为能生产高质量产品、在国际市场上具有竞争优势的国家，需要多长时间？戴明预言：“只要运用统计分析，建立质量管理机制，5年后日本的产品质量就可以超过美国。”</p><p>　　果然，日本的产品质量总体水平在4年后（约1955年）就超过了美国，到20世纪七八十年代，不仅在产品质量上，而且在经济总量上，日本工业都对美国工业造成了巨大的挑战。</p><p>　　由此开始，戴明成了日本的质量管理教父。在随后的30年间，戴明在日本各地举办质量管理培训讲座，传授他的管理思想。据说当时日本每5个企业中的最高领导人就有4人曾听过他的讲座。日本的企业界对戴明感恩戴德，在丰田公司东京总部的大厅里，有三张比真人还大的照片，其中一张是丰田的创始人，另一张是丰田现任总裁，第三张比前两张都大，就是戴明。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-e54690373d76ca84803ba98fb125a9e7_b.jpg\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"591\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-e54690373d76ca84803ba98fb125a9e7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;591&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"591\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-e54690373d76ca84803ba98fb125a9e7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e54690373d76ca84803ba98fb125a9e7_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>　　为了表达对这位教父的感激与敬意，1951年，日本科技联盟用戴明捐赠的课程讲义稿费和募集到的资金，设立了著名的“戴明奖”，用以奖励在质量管理方面取得重大成就的企业。</p><p><b>美国重新发现戴明</b></p><p>       戴明在日本享有盛名之时，在美国依然无人问津。直到1980年，这种状况终于改变了。电视制作人梅森女士制作了纪录片《日本行，为什么我们不行？》，并由美国广播公司在全美播出。这部电视片赞扬了日本的制造业，主角却是戴明。一夜之间，戴明成为质量管理的明星。</p><p>       从此，邀请戴明传授管理思想的电话开始络绎不绝，其中包括福特、通用、摩托罗拉等著名公司，他变成了大忙人。他帮助美国的企业开始了长期的生产品质改善和管理体制变革。例如，摩托罗拉公司开展的长达10年的“全面质量管理运动”、通用电器采用的六西格玛质量管理方法等，都是由戴明奠定的基础。</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-99839d53ea831d3d53e82fb411fcb61a_b.jpg\" data-caption=\"\" data-rawwidth=\"555\" data-rawheight=\"348\" class=\"origin_image zh-lightbox-thumb\" width=\"555\" data-original=\"https://pic3.zhimg.com/v2-99839d53ea831d3d53e82fb411fcb61a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;555&#39; height=&#39;348&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"555\" data-rawheight=\"348\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"555\" data-original=\"https://pic3.zhimg.com/v2-99839d53ea831d3d53e82fb411fcb61a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-99839d53ea831d3d53e82fb411fcb61a_b.jpg\"/></figure><p>　　从1981年起，戴明不断地在全美各地举行“四日研讨会”，每年举办20次以上，年听众达2万人之多，以推动美国企业的管理改革。这种独具特色的“四日研讨会”所讲内容，由拉兹柯和桑德斯编辑为《戴明管理四日谈》，在管理界产生了巨大的影响。有些媒体甚至称戴明则是美国的企业管理之父，还有的称戴明为第三次工业革命之父。在一定程度上可以说，戴明以他独具特色的质量管理思想，在管理实践领域开辟了一个新时代。</p><p>　　美国终于重新发现了戴明，他的荣誉也随之纷至沓来。1983年，戴明当选美国国家工程院院士；1986年，入选位于戴顿的科技名人堂；1987年，当时的美国总统里根给戴明颁发了国家科技奖章；1988年，美国国家科学院又给他颁发了杰出科学事业奖；1991年，进入汽车名人堂。这些荣誉，戴明可谓当之无愧！</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }, 
+                {
+                    "tag": "质量工程师", 
+                    "tagLink": "https://api.zhihu.com/topics/19671365"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "本格拉寒流", 
+                    "userLink": "https://www.zhihu.com/people/8f8e3f12bd43e7af6dd1598e47f22d26", 
+                    "content": "可以转载吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30672464", 
+            "userName": "质量大数据", 
+            "userLink": "https://www.zhihu.com/people/8eab7f3fe15567f8e85282236748eee3", 
+            "upvote": 2, 
+            "title": "质量科普｜质量管理的百年发展史", 
+            "content": "<p><b>摘要：</b></p><p>质量是企业的生命！质量管理是企业实现质量目标的活动！质量管理的发展经历了检验质量管理、统计质量管理和全面质量管理三个阶段。</p><p><b>关键词：</b>质量管理；统计过程控制（SPC）；六西格玛<br/></p><p><b>检验质量管理（Inspection Quality Management）</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-5c4eb9bce93a6a6dc17ac76ca482889e_b.jpg\" data-caption=\"\" data-rawwidth=\"1024\" data-rawheight=\"753\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic3.zhimg.com/v2-5c4eb9bce93a6a6dc17ac76ca482889e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1024&#39; height=&#39;753&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1024\" data-rawheight=\"753\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1024\" data-original=\"https://pic3.zhimg.com/v2-5c4eb9bce93a6a6dc17ac76ca482889e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-5c4eb9bce93a6a6dc17ac76ca482889e_b.jpg\"/></figure><p>20世纪以前，产品质量一直靠手工操作者的手艺和经验来保证。<br/></p><p>20世纪初期，以泰勒制为代表的科学管理理论的产生，促使产品的质量检验从加工制造中分离出来，质量管理的职能由操作者转移给工长。随着企业生产规模的扩大和产品复杂程度的提高，产品有了技术标准（技术规范），公差制度也日趋完善，各种检验工具和检验技术也随之发展，大多数企业开始设置检验部门，这一时期是事后检验质量管理。</p><p><b>统计质量管理（Statistical Quality Management）</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-3d9517b81caac88516ab7d97fcc9f5fb_b.jpg\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"332\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-3d9517b81caac88516ab7d97fcc9f5fb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;332&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"332\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-3d9517b81caac88516ab7d97fcc9f5fb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3d9517b81caac88516ab7d97fcc9f5fb_b.jpg\"/></figure><p>20世纪20年代，休哈特提出统计过程控制（SPC）理论，应用统计技术对生产过程进行监控，以减少对检验的依赖。同一时期，道奇和罗明提出统计抽样检验方法。</p><p>20世纪40年代，由于事后检验无法满足二战所需武器弹药的质量控制需求，美国国防部决定把统计技术用于质量管理，基于休哈特、道奇和罗明的理论，制定了一批美国战时的质量管理标准。</p><p>20世纪50年代，质量大师戴明系统科学地提出用统计学的方法进行质量和生产力的持续改进；强调大多数质量问题是生产和经营系统的问题；强调最高管理层对质量管理的责任。此后，戴明不断完善他的理论，最终形成了对质量管理产生重大影响的“戴明十四法”。同一时期，质量大师朱兰提出了“质量计划、质量控制和质量改进”的朱兰三部曲，统计质量管理达到了鼎盛时期。</p><p><b>全面质量管理（Total Quality Management）</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-49b5091c19d25d47e3fc4a723d1bf8d0_b.jpg\" data-caption=\"\" data-rawwidth=\"701\" data-rawheight=\"715\" class=\"origin_image zh-lightbox-thumb\" width=\"701\" data-original=\"https://pic1.zhimg.com/v2-49b5091c19d25d47e3fc4a723d1bf8d0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;701&#39; height=&#39;715&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"701\" data-rawheight=\"715\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"701\" data-original=\"https://pic1.zhimg.com/v2-49b5091c19d25d47e3fc4a723d1bf8d0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-49b5091c19d25d47e3fc4a723d1bf8d0_b.jpg\"/></figure><p>20世纪60年代，质量大师费根鲍姆提出“全面质量管理”理论：“全面质量”是全面的质量，包括产品质量、服务质量、成本质量；“全面质量”是全过程的质量，质量贯穿于生产的全过程，用工作质量来保证产品质量；“全面质量”是全员参与的质量，对员工进行质量教育，强调全员把关，组成质量管理小组；“全面质量”是全企业的质量，目的是建立企业质量保证体系。</p><p>20世纪80年代，质量大师克劳士比提出：质量就是一次成功，即零缺陷，零缺陷活动是以消除工作缺陷为目的，为此，企业逐渐发展出六西格玛管理。在此基础上，进一步的质量提高是由整条供应链来共同保证的，要求企业必须在充分挖掘内部资源的基础上，整合利用外部资源，与顾客，供应商，分销商，合作者建立稳定的合作关系，坚持互利的原则。</p><p>20世纪90年代，质量大师朱兰提出：21世纪是质量世纪。国际化标准组织提出的ISO9000族标准已为许多国家所采用，它标志着现代质量管理向着规范化、系列化、科学化和国际化的新高度在不断地深入和发展。</p>", 
+            "topic": [
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }, 
+                {
+                    "tag": "质量工程师", 
+                    "tagLink": "https://api.zhihu.com/topics/19671365"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/QualityBigData"
+}

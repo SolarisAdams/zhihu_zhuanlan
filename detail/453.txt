@@ -1,0 +1,361 @@
+{
+    "title": "韩叔管理课", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/yan-ling-dao", 
+        "https://www.zhihu.com/people/gun-ya", 
+        "https://www.zhihu.com/people/meng-xiang-35-69", 
+        "https://www.zhihu.com/people/bu-guo-dong-15", 
+        "https://www.zhihu.com/people/yifan-21-90", 
+        "https://www.zhihu.com/people/whz4", 
+        "https://www.zhihu.com/people/shi-ye-15-36-15", 
+        "https://www.zhihu.com/people/feng-kuang-guai-ke", 
+        "https://www.zhihu.com/people/ping-fan-de-ren-2-53", 
+        "https://www.zhihu.com/people/yo-huo-44", 
+        "https://www.zhihu.com/people/ga-shan-zei", 
+        "https://www.zhihu.com/people/yang-pang-pang-bu-shi-pang-pang", 
+        "https://www.zhihu.com/people/sui-yu-er-an-97-59", 
+        "https://www.zhihu.com/people/cgong-70", 
+        "https://www.zhihu.com/people/lorneh", 
+        "https://www.zhihu.com/people/pi-xiu-85-99-74", 
+        "https://www.zhihu.com/people/cui-meng-yao-14", 
+        "https://www.zhihu.com/people/zuo-kan-yun-qi-shi-11-23", 
+        "https://www.zhihu.com/people/syuu-71", 
+        "https://www.zhihu.com/people/xiao-hui-94-3-75", 
+        "https://www.zhihu.com/people/huoniu-43", 
+        "https://www.zhihu.com/people/long-zhi-qing-feng", 
+        "https://www.zhihu.com/people/lu-cha-cha-97", 
+        "https://www.zhihu.com/people/zhao-dong-xing-78", 
+        "https://www.zhihu.com/people/xiao-ma-ji-ge", 
+        "https://www.zhihu.com/people/jiong-ge-ge-50-76", 
+        "https://www.zhihu.com/people/shan-dian-xia-31-77", 
+        "https://www.zhihu.com/people/beyond2019", 
+        "https://www.zhihu.com/people/qing-cheng-shi-guang-83", 
+        "https://www.zhihu.com/people/li-yi-77-37-42", 
+        "https://www.zhihu.com/people/zhu-zhuang-qin-5", 
+        "https://www.zhihu.com/people/chen-tong-93-87", 
+        "https://www.zhihu.com/people/wang-yan-nuo-49", 
+        "https://www.zhihu.com/people/ye-lang-26-53", 
+        "https://www.zhihu.com/people/qing-shan-meng-xiang-si-qing-cheng-zhu", 
+        "https://www.zhihu.com/people/la-la-la-98-5", 
+        "https://www.zhihu.com/people/jin-jie-ning-meng-55-25", 
+        "https://www.zhihu.com/people/dan-ran-32-40-24", 
+        "https://www.zhihu.com/people/xiao-bai-shu-72-74", 
+        "https://www.zhihu.com/people/zhong-chi-mu-44", 
+        "https://www.zhihu.com/people/imaginexigua", 
+        "https://www.zhihu.com/people/chen-chuan-long-65", 
+        "https://www.zhihu.com/people/wu-yi-89-67", 
+        "https://www.zhihu.com/people/yu-lei-32-88", 
+        "https://www.zhihu.com/people/someone-17-10", 
+        "https://www.zhihu.com/people/zi-yu-mu-41", 
+        "https://www.zhihu.com/people/king-wong-3", 
+        "https://www.zhihu.com/people/chao-ji-77", 
+        "https://www.zhihu.com/people/fishhead-68", 
+        "https://www.zhihu.com/people/nowhere-86", 
+        "https://www.zhihu.com/people/li-yu-13-64", 
+        "https://www.zhihu.com/people/he-cui-cui-20", 
+        "https://www.zhihu.com/people/ku-ku-de-xiao-nao-hu", 
+        "https://www.zhihu.com/people/dellt3500", 
+        "https://www.zhihu.com/people/cha-li-yi-shi-47", 
+        "https://www.zhihu.com/people/dongjilin", 
+        "https://www.zhihu.com/people/sun-yu-hao-72", 
+        "https://www.zhihu.com/people/mu-yao-84-41", 
+        "https://www.zhihu.com/people/deng-zhi-hui-76", 
+        "https://www.zhihu.com/people/xie-he-pan", 
+        "https://www.zhihu.com/people/san-tian-liang-ye-46", 
+        "https://www.zhihu.com/people/dong-neng-34", 
+        "https://www.zhihu.com/people/han-li-qiang-12", 
+        "https://www.zhihu.com/people/yang-gou-dan-30", 
+        "https://www.zhihu.com/people/hansanri", 
+        "https://www.zhihu.com/people/shi-han-zhi-gu-mu", 
+        "https://www.zhihu.com/people/xin-xiao-xin-74", 
+        "https://www.zhihu.com/people/wang-liu-feng-48", 
+        "https://www.zhihu.com/people/wu-jun-he-62", 
+        "https://www.zhihu.com/people/chuan-qi-shui-xiong", 
+        "https://www.zhihu.com/people/gu-yu-mi-duo-ma-ma", 
+        "https://www.zhihu.com/people/vivi-50-15-52", 
+        "https://www.zhihu.com/people/jason-lau-68-86", 
+        "https://www.zhihu.com/people/nong-ye-da-hu-75", 
+        "https://www.zhihu.com/people/VRwhywhy", 
+        "https://www.zhihu.com/people/tang-ji-he-de-10-63", 
+        "https://www.zhihu.com/people/ou-yang-xiao-feng-57", 
+        "https://www.zhihu.com/people/liul-zh", 
+        "https://www.zhihu.com/people/123-5-6-37", 
+        "https://www.zhihu.com/people/daisy-18-66", 
+        "https://www.zhihu.com/people/pan-gao-wei-33", 
+        "https://www.zhihu.com/people/yang-kun-2-91", 
+        "https://www.zhihu.com/people/qiongyue", 
+        "https://www.zhihu.com/people/lucky-45-9-77", 
+        "https://www.zhihu.com/people/zyy-32-85", 
+        "https://www.zhihu.com/people/xie-xiao-yang-47", 
+        "https://www.zhihu.com/people/zhi-xi-47-48", 
+        "https://www.zhihu.com/people/miao-miao-37-15-22", 
+        "https://www.zhihu.com/people/xiao-xin-25-87", 
+        "https://www.zhihu.com/people/long-yu-82-34", 
+        "https://www.zhihu.com/people/gracelu-22", 
+        "https://www.zhihu.com/people/qian-sheng-39-81", 
+        "https://www.zhihu.com/people/na-lan-42-84", 
+        "https://www.zhihu.com/people/mu-han-27-78", 
+        "https://www.zhihu.com/people/exciteds", 
+        "https://www.zhihu.com/people/hu-hong-bo-85-2", 
+        "https://www.zhihu.com/people/liu-kang-90-91", 
+        "https://www.zhihu.com/people/ye-qian-67", 
+        "https://www.zhihu.com/people/jamwes", 
+        "https://www.zhihu.com/people/yin-feng-63-77", 
+        "https://www.zhihu.com/people/mao-dou-ya-69", 
+        "https://www.zhihu.com/people/sylvia-mrs", 
+        "https://www.zhihu.com/people/pu-ti-xin-10", 
+        "https://www.zhihu.com/people/liang-xiao-er-72", 
+        "https://www.zhihu.com/people/dao-suan", 
+        "https://www.zhihu.com/people/reclaiming", 
+        "https://www.zhihu.com/people/tian-yu-xuan", 
+        "https://www.zhihu.com/people/li-xiao-lou-60", 
+        "https://www.zhihu.com/people/66dream", 
+        "https://www.zhihu.com/people/shenli", 
+        "https://www.zhihu.com/people/li-kai-29-52", 
+        "https://www.zhihu.com/people/wang-qing-pei", 
+        "https://www.zhihu.com/people/liu-xiao-yong-80-42", 
+        "https://www.zhihu.com/people/deng-rong-xia-24", 
+        "https://www.zhihu.com/people/li-jessie-26", 
+        "https://www.zhihu.com/people/xia-ou-ren-xie", 
+        "https://www.zhihu.com/people/peter-pan-22-99", 
+        "https://www.zhihu.com/people/pp-sun-4", 
+        "https://www.zhihu.com/people/bin-bin-zhuo-shi-jia-gong-zi", 
+        "https://www.zhihu.com/people/brucebean-93", 
+        "https://www.zhihu.com/people/wang-hai-bo-45", 
+        "https://www.zhihu.com/people/zi-zai-hu-xi-15"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63592572", 
+            "userName": "韩大叔", 
+            "userLink": "https://www.zhihu.com/people/3226d80e6c308b28f0bcc9da87251a3a", 
+            "upvote": 13, 
+            "title": "职场上，遇到自己不擅长的工作，该怎样入手？", 
+            "content": "<p><b>朋友小张像我发来他的困惑</b></p><p>入职差不多一年，一开始工作还蛮顺利。</p><p>可是，最近老板经常给他布置一些不擅长的工作，而且都特别重要。</p><p>像做代表公司形象的PPT、新媒体推广方案等，这些都不是他本专业工作。</p><p>他没有做过这些工作，感觉得压力特别大，总是无从下手，经常拖延。</p><p>老板过来询问进度的时候，他也只能敷衍过去，不敢跟老板讲不会做。</p><p>问我到底该怎么办。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>以下是我给他的回复</b></p><p>老韩说：首先，恭喜你入职一年，老板把重要的工作给你，是因为想重用提拔你。</p><p>其次，你的责任感很强，怕做不好工作，给老板带来影响，证明老板没有看错你。</p><p>不过，你的「敷衍反馈法」很有问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>接下来老韩动用10几年管理经验，帮你在心态和技法上改进，切实地迅速地帮你渡过难关。</p><p><b>一、心态篇</b></p><p><b>1.对上表明积极心态，让老板认识到没有看错你。</b></p><p>老板把代表公司形象的客户提案PPT、产品新媒体推广方案，这些特别重要的工作交给你。</p><p>他已经开始重用你，并且把你当成自己人，也非常信任你。这个信任是基于过去你工作结果，和你们之间关系的信任。</p><p>你现在拖延工作，敷衍反馈，这些会损耗你们之间的信任，让他逐渐对你失去信心。</p><p>你就会错失升职加薪的机会。只有你承担的工作重要，你才有更好的发展。</p><p>所以，你要积极反馈问题，当前遇到的困难和进度，让老板心里有数。</p><p>有时候你不说，老板根本不知道现在的情况，他还以为你能搞定。</p><p>到了最后时限，你没完成，反而耽误了进度，打个老板措手不及。</p><p>一次两次，他就不会把重要的工作交给你，因为你不靠谱。</p><p>对上心态要积极，要让老板明白没有看错你。</p><p>比如，你在接受有难度的任务时，可以使用「3S反馈法」。</p><p>第一个S是Split（分解），先把任务分解，找出最难的部分。</p><p>第二个S是Situation（情境），认识自己当前所处情境，任务截止时间，以及需要花多少时间完成。</p><p>第三个S是Status（状态），表明现在的状态，会积极努力去做，但可能会有完成质量的风险，让老板心中有数。</p><p><b>2.对自己要用「成长心态」，持续专注可迁移技能。</b></p><p>心理学家卡罗尔·德韦克提出，人面对困难时会有两种心态：</p><p>一种称为固定心态，认为人的能力和天赋是固定的，一切困难和挑战都是“对自己的测验”，通不过就说明自己的能力有问题；另一种称为成长心态，认为人的能力是可以通过后天不断学习和提高的，他们不害怕失败，因为失败可以带来经验和教训，让自己得到成长。</p><p>面对困难和失败时，持有这两种心态的人都会有。</p><p>如果你持有固定心态，你就会畏惧不前，就是你现在的做法。</p><p>不去想办法解决问题，而是想办法找借口，变得越来越拖越，越来越没有自信心。</p><p>正确的心态是持有成长心态，学习技能尤其如此，只要方法得当，加上持续的努力就可以取得成果。</p><p>还有一点必须说明的是，你要在「可迁移技能」上专注。</p><p>在《远见》这本书里，作者布赖恩·费瑟斯通豪指出可迁移技能是职场通用技能，可以伴随整个职场生涯。</p><p>包括人际交往能力、沟通能力、解决问题的能力、团队合作能力、领导力、适应能力等等。</p><p>老板会根据公司的业务需求，分配一些你不擅长的工作，这些工作也许不是你本身的专业领域。</p><p>但这些活也必须有人干，老板可能顺手就给你了。</p><p>你一定要清楚干这些活的价值，否则你可能会在这上边栽跟头。</p><p>比如，你是一名软件研发工程师，职业生涯目标是架构师。</p><p>老板突然需要一个路演PPT，这个对他来说很重要，你平时工作表现好，他就把这项工作交给你了。</p><p>可是你要知道，做一个PPT也许没关系，一直做PPT就会对你的主业有伤害，最后失去自己核心竞争力。</p><p>毕竟，你不是专业做PPT，你的志向也不在此。</p><p>这时你必须和老板说明。如果你害怕因此丢了工作，那你还不如现在说，你专注非核心业务，迟早是要丢掉工作的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二、技能篇</b></p><p>如果老板交给你的这些杂活是必须要做的，可以按照短期和长期来规划。</p><p><b>a.短期规划</b></p><p>工作任务是一次性的，或者你不需要投入太多时间和精力，也不会从事这个工作方向。</p><p>那么最好想办法快速把工作做完。可以找朋友、找外包，只要在规定的时间内完成即可。</p><p>比如，老板安排你做PPT，你就可以去找一些免费的模板，或者请朋友帮忙做一下，或者找外包。</p><p>不必要在这上边浪费时间，把真时间用在对自己有长期帮助的地方。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>b.长期规划</b></p><p>如果这项工作所涉及的技能，你以后还需要用到，并且也不是一次性的工作。</p><p>那么，你就需要踏实下心来，学习技能，用成长心态把任务完成。</p><p>先学习入门方法，接着把工作完成，然后再想办法完美。</p><p>例如，老板安排你做一个新媒体推广方案。</p><p>1.你可以去找一些讲新媒体推广的文章、微课，先了解新媒体是什么，推广是什么。</p><p>2.去一些新媒体大号下，找一些成功案例，拆解一下他们的文案风格和写作手法。</p><p>3.自己去按照模板写方案，发布方案，最后复盘数据。</p><p>学习是一个循序渐进的过程，既要有方法，也要肯努力。</p><p>长期规划需要有耐心，有时候一件事没做好，就放弃了，就等于止步了。</p><p><b>三、汇报篇。</b></p><p>职场上，汇报是非常核心的工作。有时候你不说，老板就是不知道。</p><p>当然，汇报工作也是有方法和技巧的，不然说了等于白说，并且还会引发误会。</p><p>就像你开头的做法一样，敷衍老板，汇报假进度，最后影响大局。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>a.正确的时间</b></p><p>在任务开始、中段、结束时，做三次汇报。</p><p>任务开始时，评估任务难度和风险，汇报给老板。</p><p>这时候的评估是静态评估，依据过去的经验和当前环境，一定会有偏差。</p><p>这时候重点汇报的是预计完成时间和任务风险。</p><p>任务中段汇报，主要汇报任务是否进展顺利，能不能够按时完成。如果完不成需要哪些资源。</p><p>任务结束时的汇报，主要是告诉老板任务完成度，有没有潜在风险，还有哪些遗留问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>b.正确的心态</b></p><p>汇报工作要实事求是，要真诚不能欺瞒，如果你汇报假的进度和方案，比你不汇报还糟糕。</p><p>职场上，老板是最不喜欢被欺骗，如果是人品有问题的人，老板都会尽快清理掉。</p><p>有些员工害怕老板骂，汇报的时候只捡好听的说，把问题和风险隐藏掉，这样做一点好处都没有。</p><p>汇报的首要目的就是让老板知道，你是否能够在规定时间完成任务。</p><p>如果你完不成让老板提前知道，他可以利用自身的资源来挽回这个局面。</p><p>要知道市场瞬息万变，你今天隐藏风险，明天市场就会暴露出来，到时候影响更大。</p><p>很多人汇报的时候紧张，缺乏自信，如说因为缺乏工作经验而不自信，其实大可不必，每一个职场新人都有一个成长的过程。</p><p>解决紧张最好的办法就是，准备充分一些，如果在汇报前准备得足够充分，就会避免紧张的情绪出现。</p><p>另外，保持一颗平常心，汇报的时候，既要尊重老板，又不要畏惧权威。你和老板都有同一个目标，大家都是为了同一个目标，就是把工作做好，为公司创造业绩，推动公司更好地发展。</p><p>职场中，只有和老板和气的相处才能更好地开展工作，赢得老板的信任和支持。</p><p>欢迎关注 <a class=\"member_mention\" href=\"https://www.zhihu.com/people/3226d80e6c308b28f0bcc9da87251a3a\" data-hash=\"3226d80e6c308b28f0bcc9da87251a3a\" data-hovercard=\"p$b$3226d80e6c308b28f0bcc9da87251a3a\">@韩大叔</a> ，跟我一起进步。</p>", 
+            "topic": [
+                {
+                    "tag": "职场新人", 
+                    "tagLink": "https://api.zhihu.com/topics/19572953"
+                }, 
+                {
+                    "tag": "职场沟通", 
+                    "tagLink": "https://api.zhihu.com/topics/19662729"
+                }, 
+                {
+                    "tag": "工作汇报", 
+                    "tagLink": "https://api.zhihu.com/topics/19884033"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/59588369", 
+            "userName": "韩大叔", 
+            "userLink": "https://www.zhihu.com/people/3226d80e6c308b28f0bcc9da87251a3a", 
+            "upvote": 11, 
+            "title": "职场上，遇到暴脾气老板，不敢离职怎么办？", 
+            "content": "<h2><b>一个糟糕的老板，对你的影响有多大</b></h2><p>朋友小王打电话告诉我，最近刚入职一家新公司。老板总是对他不满意，不是批评他报表做的不好，就是嫌弃他PPT做的难看。他刚开口解释一下，老板就发起飙来，让他要么忍，要么滚。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-30a5406598d4b9535cb5013956719dc7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"465\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-30a5406598d4b9535cb5013956719dc7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;465&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"465\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-30a5406598d4b9535cb5013956719dc7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-30a5406598d4b9535cb5013956719dc7_b.jpg\"/></figure><p><br/>对此，他已经好几个星期没有睡好，整天提心吊胆，就怕老板再找他茬。因为，最近就业大环境不太好，在招聘网站上更新了简历，几乎没有HR和猎头联系他，一时半会也找不到合适的工作。</p><p>然而，让小王很不理解了是，老板对老刘就特别客气，即便是老刘做错了事，老板也没有对他发飙。小王很困惑是不是遇到了糟糕的老板，还是自己是新员工老板就欺负人，到底是哪里出了问题。</p><p>其实，小王遇到的事情很多人都会遇到，据管理咨詢公司盖洛普一项调查表明，60%员工离职都是因为他们直属上司。</p><p>但我们还发现有40%员工留在了公司，其中还有一些人升职加薪。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-78846d0545723c78f57843deb819c000_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-78846d0545723c78f57843deb819c000_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;427&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-78846d0545723c78f57843deb819c000_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-78846d0545723c78f57843deb819c000_b.jpg\"/></figure><p><br/><br/>所以，职场上遇到糟糕的老板，不是只能“要么忍，要么滚”，一定还有更好的解决方案。</p><p>在解决这个问题之前，我们一起来看看，有哪些原因导致老板这样对你。</p><h2>老板为什么会这样对你？</h2><p>通常情况下，两个人之间发生的问题，其中任何一个都可能会有问题。正所谓“一个巴掌拍不响”。</p><p><b>1.老板本身性格的原因</b></p><p>有时候这个问题很清楚，有的老板本身就是脾气古怪，易怒、暴躁、骄傲自满，一言不合就发火。</p><p>例如苹果公司创始人乔布斯就是脾气暴躁的人。他的传记作者沃尔特·艾萨克森在《史蒂夫·乔布斯传》写道：“史蒂夫·乔布斯的个性经常让周围的人愤怒和绝望。”</p><p>但假如你的老板只给你一个人穿小鞋，那你最好先从自身找原因。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2.你自身的原因</b></p><p>一般来说，老板对他们所需要和喜欢的人态度并不差。老板需要业绩出众的人，老板也喜欢态度积极的人。</p><p>前几天，我们部门成立了游戏研发项目组。招了一名高级产品经理。不过，这人来了以后能力没问题，态度却不够积极。项目组整体加班赶进度，作为项目负责人的产品经理到点下班，任务没完成就走。没过两天我就把他辞退了。</p><p>你可以向自己提出问题，是不是最近工作结果不好？老板交给你完成的任务没有准时完成？还是老板在工作群@（艾特）你，你没有及时回复？这些都可能是导致老板对你有成见的原因。</p><p>作为职场人来说，遇到糟糕的老板，无论是老板本身原因还是个人原因，都必须要解决掉，这样才能在职场中走的更远。</p><h2>如何改变困境，在职场中走的更远</h2><p><b>一、摆脱受害者心态，建立积极心态</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-32b83eedbe59d4284ddc535cbc04c964_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-32b83eedbe59d4284ddc535cbc04c964_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;427&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-32b83eedbe59d4284ddc535cbc04c964_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-32b83eedbe59d4284ddc535cbc04c964_b.jpg\"/></figure><p><br/><br/></p><p>什么是受害者心态？</p><p>受害者心态是指在面对挫折和失败时，把原因归为外在环境因素或人为不可控的偶然性因素，导致产生自怜心理。另一方面，习惯于把自己定位为情境中的”受害者“，逃避责任和放弃改变，放任别人对自己的伤害。</p><p>受害者心态使人进入自暴自弃的负向循环，不断选择逃避问题。</p><p>我在IBM工作的时候有个同事，他是研发工程师。后来，他和上司因为需求的工期吵翻，一气之下愤怒地离开了公司，去了别的公司。然后，又遇到了相同的问题，陆续跳槽了几家公司。到现在工作8年了，工作能力没什么大长进，还和毕业生在抢饭碗。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ac99779b4c3e25e56da9c5d6f0258c0d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"374\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-ac99779b4c3e25e56da9c5d6f0258c0d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;374&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"374\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-ac99779b4c3e25e56da9c5d6f0258c0d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ac99779b4c3e25e56da9c5d6f0258c0d_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>在职场中碰到糟糕的老板，你不是非要留下来。但无论如何决定，都不要被受害者心态吞噬，而逃避解决问题。就像我朋友小王 ，现在最需要拜托这种受害者心态，建立积极的心态。</b></p><p>研究表明，积极的心态可以扩展和构建我们的思维与行动。积极的心态让我们在遇到问题的时候，总是会去积极思考，去寻找解决方案而是一味地抱怨，停滞不前。</p><p>你可以通过以下方式建立积极心态：</p><p>1. 即使是在最艰难的时刻都能鼓励自己，不抱怨。</p><p>2. 凡事多从正面去理解，不要用恶意去猜测别人。</p><p>3. 理性思考，积极行动，寻求问题的解决方案。</p><p>4. 相信事实，而不是道听途说。</p><p><b>二、提升学习力，增加职场竞争力</b></p><p>随着互联网的普及和发展，以及科学技术的进步，每个人都需要快速学习新知识和技能，不断地适应这个时代，才能增加个人的职场竞争力。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-be8a4be6a5a14a1de6e52db2e44d6503_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"416\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-be8a4be6a5a14a1de6e52db2e44d6503_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;416&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"416\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-be8a4be6a5a14a1de6e52db2e44d6503_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-be8a4be6a5a14a1de6e52db2e44d6503_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>今年校招，我们部门来了两个实习研发工程师，小A和小B。</p><p>我给他们布置了同样的任务，要求每个人独立完成，做数据分类系统，一周之内完成。小A接过任务后，发现任务不太难，只是需要学习新的编程语言。小A觉着学起来麻烦，就用老办法，一条一条的分析，在手动分类。</p><p>而小B拿过来任务后，马上开始学习编程语言，花了两天时间搞懂基础用法，又花了两天时间实现要求，提前一天就把任务完成了。</p><p>小A则吭哧吭哧的搞到周五，周四还通宵了1天，任务完成的也不好，由于疲惫作战，很多数据都分类错了。</p><p><b>傅盛说，“这个时代，学习能力越来越重要，甚至比勤奋更重要。”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f444b04a7ee045c45fa73bdf474bb793_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-f444b04a7ee045c45fa73bdf474bb793_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;427&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-f444b04a7ee045c45fa73bdf474bb793_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f444b04a7ee045c45fa73bdf474bb793_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>过去靠经验积累和勤奋，可以上一个台阶；但是现在，工作上每上一个台阶，每面临一个新挑战，方法论必须更新，学习力也必须更新。</p><p><b>三、学会与上司沟通，取得领导的信任</b></p><p>有很多人有畏惧权威的心里，害怕与老板沟通。遇到老板能躲就躲，不愿主动开口。</p><p>心理学上有个“多看效应”，人们对越熟悉的人，就会越喜欢。</p><p>只有经常与老板沟通，让老板知道你的存在，这样有什么好事老板才会想起你。你们之间才会建立起信任感。</p><p>话说回来，经常与老板沟通不是没事找事，要有方法和技巧，免得适得其反招人烦。</p><p>比如，主动汇报工作任务，在任务开始前汇报方案，在任务结束后汇报结果。再比如，定期总结工作中存在的问题，自己想想一套解决方案，然后再去请教老板，带着自己的思考，老板会更喜欢。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-2ce370b270f15547fcebc4a8a027f50a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-2ce370b270f15547fcebc4a8a027f50a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;427&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-2ce370b270f15547fcebc4a8a027f50a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-2ce370b270f15547fcebc4a8a027f50a_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>在职场上，遇到糟糕的老板你可以一走了之，但你一定要清楚自己为什么走，到底是老板的问题，还是你过于玻璃心。摆脱受害者心态，积极面对问题，更加重要的是提升学习力，走向更高的职场晋升之路。</p>", 
+            "topic": [
+                {
+                    "tag": "领导", 
+                    "tagLink": "https://api.zhihu.com/topics/19558401"
+                }, 
+                {
+                    "tag": "沟通", 
+                    "tagLink": "https://api.zhihu.com/topics/19566252"
+                }, 
+                {
+                    "tag": "职场", 
+                    "tagLink": "https://api.zhihu.com/topics/19557876"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53765407", 
+            "userName": "韩大叔", 
+            "userLink": "https://www.zhihu.com/people/3226d80e6c308b28f0bcc9da87251a3a", 
+            "upvote": 17, 
+            "title": "和领导沟通都有哪些技巧？", 
+            "content": "<p>前两天，部门来了个实习生，我安排她做个校招的海报。我把一些设计规范和要求告诉了她，截止时间三四天都行，活不急，试试她的能力，设计好了就拿给我看一眼。</p><p>我和她当面沟通之后，她回到位置上，过了一会私信我，把工作目标和要求，还有截止时间都备注清楚，让我确认一下。时间上也缩短了一天。我内心暗喜，这个人看起来很靠谱。</p><p>接下来两天，我没去问进度，她也没汇报进度。最后一天快下班我去问进度时，她说有个问题卡住了，一直在想办法解决，还需要点时间。我问有解决方案么？为啥不及时和我沟通呢？她说有点害怕被认为能力不足，所以想自己解决。</p><p>如果这是一个真实的项目，我临时调配资源都没办法搞定。有时候一项工作完不成影响并不大，但是拖到最后隐瞒不报，这事可就大了。</p><p>作为一个职场摸爬滚打多年的小领导，总结了一套沟通技法，虽不能百战百胜，但从未背锅黑锅。</p><p><b>和领导沟通的三个根本原则：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一、不害怕：不畏惧权威，尊重是根本</b></p><p>大部分人都有对权威的畏惧心理，尤其是新入行或者新入职的员工，因为刚刚进入新的环境，他们需要保护自己，而服从权威是最好的方法。</p><p>《社会性动物》一书中指出“<b>如果我们置身于一种不确定的场合，这时我们只能依据他人的行为去行事，那么在随后出现的类似情境时，无需暗示，我们便会重复刚刚学到的行为。</b>”</p><p>有些老员工同样也会畏惧权威，这些人多半是因为自己的专业能力或业务能力不过关。对于领导和公司有依赖，这种依赖感越强，畏惧感就越强。</p><p>正常的沟通是建立在互相尊重的基础上，领导也需要有人支持，先把是说清楚，其它以后在想。</p><p>你在和领导沟通时，只需要清楚表达自己的意思。你战战兢兢、支支吾吾地半天说不出来个字，领导更着急，更反感。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二、不撒谎</b> <b>：按事实说话，诚信是根本</b></p><p>领导最害怕员工撒谎，因为隐瞒事实，会把重大问题掩盖掉，导致发生更严重的问题。有很多事情刚刚发生，其实并没有那么严重，只是下属害怕被批评，害怕承担责任，就隐瞒不报。最后，造成无法挽回的结局。</p><p>和领导沟通要极度诚实。有很多人会抱着侥幸心理，发生问题偷偷想要掩盖掉，认为能骗过领导。说实话，这种做法最蠢，你不汇报，这锅就得你背，你还不一定背的动。最后所有的损失都得你来承担，问题拖到最后，解决成本越高。还会被大家贴上“不靠谱”的标签</p><p><b>诚信是沟通的根本，撒一个谎要用一百个谎来圆。</b></p><p><b>三、不抱怨</b> <b>：遇事找方法，积极是根本</b></p><p>在领导面前抱怨，是为了表达什么？表达自己对领导的不满？还是表达自己的无能。</p><p>抱怨和牢骚只意味着两件事：</p><p>你对领导布置的任务不满。</p><p>你没有办法解决问题。</p><p>抱怨只会带给别人不好的情绪感受，因此导致别人的反感。而更加有效的方法则是：努力面对，积极寻找问题的解决方案。</p><h2><b>沟通任务的三个基本方法：</b></h2><p><br/><b>1.当面沟通，书面确认</b></p><p>越是成熟的人越会发现，每个人对同一件事情的理解，可能会有很大的不同。即使同一个人，在不同时期，对于同一件事的理解都会不同。</p><p>因为不同专业背景、不同职位、不同的成长环境、不同时期，使得每个人在知识储备、理解力、思考模式上有很大的迥异。</p><p>体现在沟通上，很明显就会发生，一个人说了一件事，另外一个人完全不知道说的是什么。绝大多数领导都还有一个特点，不爱花时间重复的解释一件事。</p><p>此外，沟通需要通过渠道来传达信息，不同的渠道信息折损程度不同。同样一个词，放在不同的沟通渠道，经过压缩传递，意思变化“差之毫厘，谬以千里”。尤其是形容词。不同人看，理解不一样。你觉得的“很多”，在我看来可能就一点点。</p><p>有句网络语，&#34;你以为你以为的就是你以为的吗？&#34;说的就是信息折损这个事。</p><p>沟通有很多渠道， 比如打电话、发信息、邮件和传话等，但当面沟通是信息折损最少的一种渠道。因为可以通过表情和肢体语言辅助理解。</p><p>沟通渠道和语言会导致信息折损，人的记忆也会导致信息折损。我们的记忆内容，会随着时间推移而不断改变，有些事情明明两个人沟通好了，过一阵子在拿出来撕，结果和之前完全两样。</p><p>每个人都会以自我为中心，为了维护个人的利益，回忆之前记忆的事时，也会有自利倾向。这在心理学上已经证实了。</p><p>那么领导毕竟是领导，在双方都没有明显证据的情况下，你一定是处于弱势的角色。所以，为了更好的沟通，说白了也是为了保护自己。别做了好事，留了恶名。</p><p><b>每次与领导沟通尽可能做到“当面沟通，书面确认”。</b></p><p><b>2.阶段成果，及时同步</b></p><p>有时候你在全力解决的一个问题，对于上司来说，他可能之前就碰到过，轻松就可以解决掉。</p><p>有时候你钻到细节里，被过程带着走的时候，越来越偏离的目标，上司根本不知道。</p><p>有时候上司已经改变了主意，没来得及通知你，你还在执行原来的决策。</p><p>这几年移动互联网流行MVP测试<b>，</b>也叫最小可行化产品，更准确地说，是一个测试单元、一个测试工具。</p><p>在接受上司任务后，通过最短的时间，并且抓住最核心的任务，做出一个demo版本，验证想法的可行性，最大化减少返工的成本。</p><p><b>确保将时间资源用在刀刃上，将真正的工作内容落实到位。</b></p><p><b>3.复盘反馈，做好笔录</b></p><p>复盘是执行任务最后一环，高手都不会缺少这一环。联想柳传志特别重视复盘。在联想，复盘是三大方法论之一，有一套规范的流程。</p><p>复盘的方法我就不在这里详细说明，网上已经有很多文章了。</p><p>任何工具和方法都是为了提升效率，我们可以通过做好记录。</p><p>马云说，“复杂的事情简单做，简单的事情重复做，重复的事情用心做”，你也可以成为专家。</p><p>市面上有很多沟通方法和技巧，我们学都学不完，但其实只要掌握少数几个方法和技巧，使用到熟练，就能大大提升工作效率和个人形象。</p><p>我上边介绍的方法，是多年来实战的总结，希望在心态把控和实际操控上帮到你，事实我现在天天也在用，我们团队新人培训我也在用。</p><p>总结一下：</p><p><b>三个心态把控：不害怕、不撒谎、不抱怨</b> <br/><b>一个工作流程：当面沟通，书面确认；阶段成果，及时同步；复盘反馈，做好笔录</b></p>", 
+            "topic": [
+                {
+                    "tag": "管理者", 
+                    "tagLink": "https://api.zhihu.com/topics/19624235"
+                }, 
+                {
+                    "tag": "领导", 
+                    "tagLink": "https://api.zhihu.com/topics/19558401"
+                }, 
+                {
+                    "tag": "职场沟通", 
+                    "tagLink": "https://api.zhihu.com/topics/19662729"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "对月听风", 
+                    "userLink": "https://www.zhihu.com/people/fbafaa8deda6c2c64db440483f324fe4", 
+                    "content": "很有意义", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "韩大叔", 
+                            "userLink": "https://www.zhihu.com/people/3226d80e6c308b28f0bcc9da87251a3a", 
+                            "content": "感谢认可", 
+                            "likes": 0, 
+                            "replyToAuthor": "对月听风"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Jquery", 
+                    "userLink": "https://www.zhihu.com/people/83ae192aaafb290163265f2a3296cf9a", 
+                    "content": "<a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-fa3cb6bc9ec57da84ab53a60f48d0c6f.gif\" data-width=\"\" data-height=\"\">[棒]</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53765572", 
+            "userName": "韩大叔", 
+            "userLink": "https://www.zhihu.com/people/3226d80e6c308b28f0bcc9da87251a3a", 
+            "upvote": 7, 
+            "title": "领导者如何提升团队执行力？", 
+            "content": "<p>做了这么多年管理，经常有人会问我，“老韩，你说说什么是领导力？”</p><p>说实话，我也经常被这些概念绕的云里雾里的。每个人对领导力的理解都不一样，有人说，“领导力是带人成事的能力”，又有人说，“领导力是让别人追随你的能力”。</p><p>其实，无论怎么去定义「领导力」这三个字，大家都不会否认，如果脑子里没有清晰的概念，也就不知道该怎么做。</p><p>我最近读了一本书叫《有效管理的5大兵法》，书中是对领导力是这么定义的：“领导力是设定正确的目标，并且能够自己组织队伍并带领队伍去达成目标的能力”。</p><p>这个定义就非常好，一点也不假大空，概念的定义里包含了实用指导意义，既设定目标、带队伍完成目标。</p><p>我今天就给大家说说这本书讲的核心内容。</p><p>在讲这本书的内容前，我先介绍一下《有效管理的5大兵法》的作者孙陶然，就是那个创立大名鼎鼎的移动支付硬件拉卡拉公司的CEO。如果你不知道拉卡拉你公司，你也一定知道《创业36条军规》这本书，一经出版累积加印超过50万次，畅销百万余册，也是孙陶然写的。孙陶然毕业于北大经济管理系，是一名连续创业者， 不但拥有扎实的理论基础，而且在企业的发展过程中不断打磨、总结和实践，创立了一套管理方法。</p><p>《有效管理的5大兵法》的核心观点是用“文化管理公司”，拉卡拉的文化是“五行文化”，金文化——核心价值观，木文化——十二指令，水文化——四环方法论，火文化——执行四步法，土文化——领导力三要素。</p><p>如果把这几个都在一篇文章里讲，又杂又乱，也没有重点，在这里我只说说：火文化——执行四步法，这是管理者如何管人的方法。无论你是一位总裁，还是部门负责人，或者是一个项目负责人，或者是业务骨干，你都需要用到管人的方法。</p><p>执行四步法第一步：设目标</p><p>关于设定目标的重要性，再怎么强调都不过分。</p><p>你可以回想之前的任何经历，99%的事情都是你有明确的目标，然后以目标为方向去前进。</p><p>没有哪件重要的事情是因为没有目标，糊里糊涂的就完成了的。</p><p>就拿管人这件事来说，如果我们没有清晰的目标，下属就不会行动。</p><p>等到“期末”我们也没有考评员工的依据，毕竟我们连标准都没有拿什么考评员工。</p><p>在员工进入团队初期，就要设置清晰、可衡量、可实现的目标，以作为期末考核的依据。</p><p>你不能想当然的假设下属知道你设置的目标，可以用书面的形式确保上下理解一致。</p><p>有一个通用原则叫SMART原则，即「具体的、可衡量、可实现、有相关性、有时间期限」。</p><p>在这个原则里大家往往会忽略「有时间期限」这一条，我按照我的理解说一下。</p><p>「有时间期限」就是必须在这个时间之内完成，超过一分钟都不行。</p><p>比如，我现在负责产品研发部门，我们所有的产品上线时间都有最后截止时间。</p><p>这个产品上线是发布到应用市场审核完成，产品可以供用户下载，而不是在审核中的状态。</p><p>在举一个例子：比如，下午4点开会，是所有人在4点整已经开始进入会议议题，而不是刚刚走进会议室。</p><p>「有时间期限」可以把大家的焦点聚集在一起，所有人会自觉的专注起来，朝着最终目标前进。</p><p>执行四步法第二步：控进度</p><p>有些领导设置完目标，布置完工作后，自己就当甩手掌柜了。</p><p>直至快到最后期限或者上司来问结果时，开始着急了，马上去追问结果。</p><p>如果下属能力强，可以执行的很漂亮，把任务都搞定，完成你想要的结果。</p><p>不过，这样的人毕竟是少数，而且有时候因为市场、环境、资源以及方案等等不断变化，</p><p>如果你作为最了解目标的人，不去把控进度，达不到目标的现象会时有发生。</p><p>控进度是盯着下级一步步接近目标并随时准备帮助下级达成目标。</p><p>确保下属在方向和进度上，保持可控，如果遇到不可逆的问题，确保Plan B计划的有效。</p><p>控进度不是时时刻刻去监控下属，也不是抽空想起来就发信息问问，而是有节奏有章法。</p><p>既不让下属觉得是监控感到反感，又能及时了解下属情况，帮助下属解决问题。</p><p>我平时会用日志和周五总结会结合的形式把控进度。</p><p>工作日志：</p><p>每日下班前要求大家把当日工作结果和明日计划，发送到一个单独的项目组群。</p><p>我每天都会看，发现共性问题，第二天开早会统一答复解决</p><p>周五总结会：</p><p>项目组所有成员会在周五下午5点，开一个20分钟总结会。</p><p>总结本周的进度，以及遇到哪些问题，如何处理的。</p><p>项目现阶段的完成百分比，下周的计划完成百分比。</p><p>《效管理的5大兵法》也提出管理者要亲撰周报，写周报的过程就能够详细了解进度。</p><p>我觉得每日日志的工作法比较好，当日事当日毕，这样大家也一身轻松。</p><p>执行四步法第三步：抓考评</p><p>执行四步法里最难的就是抓考评。</p><p>如今每个公司都在做绩效反馈，但是效果都不好，有时候没起好作用，反而起了反作用。</p><p>他们的做法是只在年底做一次反馈，回顾这一年来的表现，这种情况下谁还记得住年初的表现啥样。</p><p>迫于领导的权威和有限的记忆力，员工只能委屈求全，考评也就只是走形式而已了。</p><p>考评的及时性就至关重要了，员工没有达成目标及时指出，提出改进意见。</p><p>做到赏罚分明，做好的地方要嘉奖，做的不好的地方要惩罚。</p><p>我性子比较急，发现做得好和做的不好，在工作中我都会及时提出。</p><p>该表扬就表扬就表扬，该批评就批评，该出手时就出手。</p><p>执行四步法第三步：理规范</p><p>理规范是在实践中总结经验，制定出一套可复制的流程和标准。</p><p>规范可以进一步优化我们制度和流程的过程。</p><p>哪天你出差或者外出开会，只要流程和规范在，就不用担心团队会出问题。</p><p>我现在制定的团队规范，我出差的时候，也可以了解大家工作情况。</p><p>这是我制定的团队规范V1.0 1.所有人进度排期透明，明确截止时间。 2.每日22点前提交工作日志到项目组。 3.每周五17点开工作总结会，由产品经理主持。 4.产品发布日，全体项目组成员必须等待产品发布审核通过后才可下班。</p><p>规范要一定要简洁，要少，你看动不动就有人总结出上百条的经验和规范，没几个能记得住。</p><p>多半是唬人的，看过之后基本都忘记了，觉得写规范的人很厉害，然后就没有然后了。</p><p>如果规范能工具化就更好了，像用bugzilla管理bug，用teambition管理项目。</p><p>你也可以整理出自己的规范管理工具。</p><p>总结下来管人就是：</p><p>一、设目标 二、控进度 三、抓考评 四、理规范</p><p>这四个步骤环环相扣，步步为营，最终实现目标，培养优秀的人。</p><p>像这样的系统性方法《有效管理的5大兵法》书里，还有很多。</p><p>比如，管事的四环方法论，培养管理能力的领导力三要素。</p><p>这也是我读过所有管理类书籍，非常系统的书了。</p>", 
+            "topic": [
+                {
+                    "tag": "管理者", 
+                    "tagLink": "https://api.zhihu.com/topics/19624235"
+                }, 
+                {
+                    "tag": "领导", 
+                    "tagLink": "https://api.zhihu.com/topics/19558401"
+                }, 
+                {
+                    "tag": "团队管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19578375"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53765163", 
+            "userName": "韩大叔", 
+            "userLink": "https://www.zhihu.com/people/3226d80e6c308b28f0bcc9da87251a3a", 
+            "upvote": 5, 
+            "title": "作为中层领导，给下属布置的任务总是拖怎么办？", 
+            "content": "<p>知乎上有一个问题：</p><p>大意是给下属布置了三次任务，前两次下属执行滴快又好。<br/>可第三次，大家都没动静辣，发到工作群里没人敢吱个声。</p><p>其实呢，这种现象非常常见，几乎每个中层领导都有遇到过。</p><p>尤其是团队里有那种“刺头型”员工，消息不及时回复，干活各种借口，各种拖延。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>前段时间我还遇到过这样的事：</p><blockquote>上个月，我们的项目遭遇平台政策风险，产品必须紧急上线。<br/>所有产品需要在deadline截止前，发布到平台上。<br/>我召开小组会议制定应对方案，会上决定在两天之内完成产品上线，大家都点头同意了。<br/>不过呢，到具体执行时，有一个“刺头”反对说，“这活肯定干不完，时间太短，即使干完了，质量也不行呀。”<br/>我当机立断，单独把他叫到“小黑屋”里教育了一番。<br/>千万别多想，不是以权压人，而是单独“一对一沟通”。</blockquote><p>沟通的具体内容嘛，与我今天要说的这本书《科学管理原理》的路数一样。</p><p>我在这里就结合自身实战经验，加上这本书里的精华，一起分享给大家。</p><p>1.</p><p>我们先来看看这本书里都说了啥。</p><p>介绍这本书《科学管理原理》前，先隆重的介绍一下本书的作者泰勒，他是「 科学管理之父」。</p><p><b>作者泰勒开创了一个管理新时代。</b></p><p>消除了员工“磨洋工”的现象，极大地提升了工人的工作效率，而工人的薪资也涨了一倍。</p><p>看起来感觉没什么，你想想你的工资要提升一倍有多难？</p><p>讲管理的书籍，没有不提到泰勒这本《科学管理原理》的。（是真的）</p><p>2.</p><p>我从书中提取三个重点，来破解员工拖延的迷局。</p><ul><li>“磨洋工”现象的根本原因</li><li>科学管理法到底有什么用</li><li>员工培训的重要性</li></ul><p><b>·</b> <b>“磨洋工”现象的根本原因</b></p><p>先来看看啥是“磨洋工”。</p><p>“磨洋工”就是刻意地少干一些活，远比自己能做的活少。</p><p>说白了就是偷懒，有技巧的偷懒。</p><p>通常情况下，无非就是以下三点：</p><p>第一，能力问题。员工工作技能老旧，一直使用原有经验，很少更新升级，已经跟不上时代的变化。员工工作成熟度低，没有掌握必备的工作技能，这是“被动磨洋工”。</p><p>第二，态度问题。有些人天生懒惰，好逸恶劳。不管你给多少薪资他都“懒塔塔”。他们纯天然的不想干活，刻意留在自己的舒适区。这就是“本性磨洋工”，对于这种人，你得有制度监督。</p><p>第三，制度问题。团队没有完善的管理制度，干多干少一个样。干的越少，休息的越多。员工为了保护自己的利益，就选择少干活。比如一个组里三个人，一个哥们巨能干，其他两个磨洋工。过了一段时间这个巨能干的就扛不住了，凭啥我多干，他们少干，还拿一样的钱。他也会慢慢的受到感染，变得越来越磨。这就是制度造成的“故意磨洋工”。</p><p><b>·</b> <b>科学管理法到底有什么用</b></p><p>在说科学管理法之前，咱们还是先了解一下没有使用科学管理法以前，大家都在用什么管理法，以此来做一个对比。</p><p>《科学管理原理》这本书里说道，早期的管理者通过调动员工的积极性，来使工作效率最大化。</p><p>他们不参与到具体的工作中，而只是让员工自己总结工作经验，自己迭代升级，自己处理问题。这样来看，早期的管理者也不干啥活，就是个打鸡血的，不停给员工洗脑。你要多干活，就能拿高工资。然鹅员工的能力有天花板，也并不是所有人都愿意提高自己的技能。</p><p>这就是一般管理法，我看这个一般管理法确实很一般。</p><p>因为，员工的工作技能没有统一的标准，都是通过一代一代口口相传。</p><p>这样就有一个很大的问题，同样一项工作，可能有几十种不同的方法。大家都觉得自己的好。</p><p>这时候泰勒就带着他的秒表华丽登场了。</p><p>为啥带着秒表，因为科学管理法是把每一个任务拆分成，一个一个小的工作单元，然后通过计时的方式，独立计算每一个部分的劳动时间。不断压缩每一个小任务的工作时间。</p><p>这确实很有效，他建立起一个科学的标准。</p><p>听到科学两个字，我们都知道，科学＝理论＋实践。</p><p>理论是一套标准，实践是按照理论行动，在反过来修正理论。</p><p>就拿种树来举例吧：种树的大致流程是这样滴：</p><p>1.挖坑</p><p>2.放树</p><p>3.填上</p><p>4.浇水</p><p>5.收工</p><p>这里的每一步都可以通过科学法，压缩最短工作时间。</p><p>拿挖坑来说，坑挖深了浪费力气吧？而挖浅了呢，一阵风就把树挂倒了，不是就白挖了。</p><p>所以，管理者需要制定一套科学的标准，传授给下属，并且手把手打样。</p><p>亲自挖坑，计算坑的最小深度。这样树栽上后风不会吹倒，也不会因为挖的太深影响生产效率。</p><p>这里最最最关键的就是：管理者要制定一套标准，以替代过去单凭经验干活的方法。</p><p><b>·</b> <b>员工培训的重要性</b></p><p>有一个实验：</p><p>向测试者突然出示一些特定的东西，测试者认清后立刻做出相应的反应。<br/>比如，看到鼠标、键盘、手机，就按下某个电子按钮。<br/>从看到物体到按下按钮已经被仪器记录下来。<br/>最后结果显示，每个人的“个人系数”有很大的差别。</p><p>有一些是视觉敏感型，一看到物体立马就能够认出，快速做出反应。</p><p>有一些则比较迟钝，需要有个反应时间。</p><p>拿读书来说，有一些人是直接阅读文字获取信息的效率高，而有些人则听说效率高。</p><p>那么对于不同的人，有不同的“个人系数”，加入培训机制就至关重要了。</p><p>如果这个员工完不成任务，就应该指派一名师傅去教他如何最好地完成工作，指导、帮助和鼓励他。</p><p>与此同时，也要观察分析，这个人能否成为一个合格的工人。</p><p>著名企业管理学教授沃伦·贝尼斯提出一个定理，叫贝尼斯定理——员工培训是企业风险最小、收益最大的战略性投资。</p><p>培训是企业提升竞争力的重要手段之一，是企业持续竞争力的 “ 发动机 ”。</p><p>项目开始前，进行正式的培训，组织有效的培训活动。</p><p>项目开始后，要求员工记录工作日志、项目复盘总结，并鼓励团队内部定期分享；</p><p>运用科学管理法，对管理者来说是一项挑战。</p><p>管理者自己必须先熟悉任务，能够制定任务标准。</p><p>还需要挑选合适的员工，并进行培训教育，促使其成长。</p><p>与员工密切合作，确保一切事务都是按照管理者事先安排好的方法工作。</p><p><b>解决下属拖延任务的问题，其实就是解决能力、态度和制度的问题。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>管理者可以给员工提供正式培训，制定工作流程帮助他们解决能力问题。</p><p>那么还有一种情况，员工的工作能力完全可以胜任，但是就是不想努力工作，这就是典型的态度问题。快速提拔或晋升，提高薪酬，缩短工作时间，优化工作环境与条件等。</p><p>更为重要的是：如果你是一个没有实权的管理，除了这种“特殊激励”之外，还要真心实意地关怀工人、真心为工人着想，与工人打成一片。这样来解决态度的问题。</p><p>最后总结一下：</p><p>《科学管理原理》主要介绍了，管理者要亲自去一线，制定工作规范，指导和培训员工，制定合理的激励制度，这样就可以解决“磨洋工”的问题。</p><p>我们现在去看这本书的理论，好像非常简单易懂，真的没有什么惊艳的理论框架模型。</p><p>但放在100年以前，已经是管理界的大地震了。</p><p>在回到我开头和团队“刺头”一对一沟通的情景：</p><p>这种公开场合的质疑，多半带有很大的负面情绪。</p><p>首先，先拉到会议室，让他有个理性回归的过程。</p><p>其次，使用询问法，让他充分表达自己的意见和建议。</p><p>最后，判断是态度问题、能力问题还是制度问题，针对不同的问题，使用不同的解决方法。</p><p>好啦，就到这里啦。</p>", 
+            "topic": [
+                {
+                    "tag": "管理者", 
+                    "tagLink": "https://api.zhihu.com/topics/19624235"
+                }, 
+                {
+                    "tag": "领导", 
+                    "tagLink": "https://api.zhihu.com/topics/19558401"
+                }, 
+                {
+                    "tag": "团队管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19578375"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53765031", 
+            "userName": "韩大叔", 
+            "userLink": "https://www.zhihu.com/people/3226d80e6c308b28f0bcc9da87251a3a", 
+            "upvote": 1, 
+            "title": "管理者，如何打造高绩效团队？", 
+            "content": "<p>俄国大文豪托尔斯泰曾经说过，「幸福的家庭都是相似的，不幸的家庭各有各的不幸」。</p><p>这两年我读了几十本管理书，和上百个管理者聊过，我发现高绩效团队都有很多相似之处。比如，执行力强——任务下达后，无论多难实现，大家会齐心协力去做。沟通直接——大家有什么说什么，不会因为正事而顾忌个人「情面」。</p><p>结合我这10几年接手几个“烂摊子”团队，并且成功打造成高绩效团队的经验，总结出一套“拳法”——高绩效团队「六步法」：</p><p>1.目标：制订清晰和明确的目标，长短期目标相互结合。<br/>2.流程：把流程和规范写下来。<br/>3.执行：领导要亲手打样，下属执行不能含糊。<br/>4.沟通：建立一个无障碍沟通渠道。<br/>5.反馈：正反馈、认可与奖励。<br/>6.文化：拿事实说话，把问题摆在台面上。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1.目标：制订清晰和明确的目标，长短期目标相互结合。</b></p><p>SMART目标已经是老生常谈，在这里我不说如何制订目标，我说一下对目标其它方面的理解。</p><p>这个目标不管怎么定，一定是领导自己要相信，并且全力以赴去实现的目标。</p><p>也许团队成员能力不足，也许团队资源不够，但目标是拿来实现的，不是用来摆设的，你必须强调执行。</p><p>否则，一切都是空谈，等你下次再制订目标的时候，就没人会相信了。</p><p>更有意思的是，如果你在执行过程中，没有尽全力，下属一定看得见，你自己不一定会「看见」。</p><p>这说起来其实很可怕，大多数人都把目标当做一个摆设，以为定好了目标，传达给下属这个制订目标的过程就完了。</p><p>如果只是这样就全玩完了。</p><p>这里分享一个我的实操经验：<br/>我每天上班都会提前十分钟到公司。在这段时间，我会把当前的工作计划列一个清单，同时也会列一个「进度清单」，进度延迟的任务，我会重点分析，甚至会召集会议和团队成员一起分析，找问题、找资源，想解决方案。</p><p>在创建团队初期，你可以通过制订一些团队可以快速完成的具有挑战性的目标，提升团队成员的整体信心。</p><p>但是不能常用，只能在创造团队初期。</p><p>虽然这种方法可以很快提升团队凝聚力和执行力，但是这种做法其实是杀鸡取卵，只能帮助团队获取短期利益。</p><p>一旦团队在当前困境下遇阻，大家就会对团队产生怀疑，除非你有长期目标，不然大家害怕团队能不能挺过难关。</p><p>所以，不但要有符合当前团队利益的短期目标，也要有适宜团队发展的长期目标，这个长期目标可以不用太长，有时候一个半年的目标，就可以改善团队现状。</p><p>最重要一点，一线经理人都没有制订长期目标的实权，但你可以通过与上级领导沟通，了解他们是如何规划长期目标的，如果他们心里也没有，你还是考虑考虑，要么走人，要么赶紧给自己定一个长期目标。</p><p>没有长期目标的公司迟早要玩完，到时候你没有做好准备的话，就会和公司一起完蛋。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2.流程：把流程和规范写下来</b></p><p>各行各业都有一些规范，大家平时只是默守陈规。</p><p>很少会去思考这些规范的用处，更不用说「拷问规范」，质疑他们的合理性以及如何优化规范。</p><p>这些规范可以是分析方法、出席会议、冲突和反馈的应对等，放到团队成员随时可以找见的地方。</p><p>每个人都可以参与，提出修改意见和质疑。</p><p>比如，我们是做移动应用的团队。我会要求产品经理出需求前，先出demo，而这个demo他自己可以在10分钟内描述清楚，如果说不清楚就要回去重做。我会要求研发人员，撰写实现逻辑文档，确保实现逻辑和产品文档相符合。</p><p>这些规范也包括日常规范和紧急规范。比如，在我出差时，大致会遇到什么紧急情况，找不到我的时候，怎样处理。</p><p>这些都很有必要，重要的是，大家有参与感后，都会自我监督，自发自觉地按照规范走。</p><p>一个管理者能够实现的最大成功就是能组织其他人在没有你的情况下把事情做好。——《原则》</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.执行：有问题提前说，执行不能含糊</b></p><p>俗语说，“不怕慢，就怕站”。</p><p>如果在执行阶段大家还在质疑目标和方案，必然会导致失败。</p><p>执行时只需要“ 遇山开山，遇水架桥”，尤其是在一线特别强调执行力，因为一线员工是具体做事的人，上层执行力体现在战略和决策，下层执行力就体现在做具体的事，实实在在毫不含糊。</p><p>领导者要特别注意第一次会议和第一次行动，因为第一印象特别重要——俗称打样。</p><p>当团队第一次执行计划时，每个人都会处于观望状态，仔细观察别人发出的信号，以便证实或者消除自己的假设和顾虑。</p><p>他们尤其会注意团队的领导者，即那些掌握权力的人。</p><p>亲手打样的目的，一是教给大家方法，二是提升大家信心。</p><p>在重大决策全面执行前，找个小范围，领导者亲自测试是否可行、效果如何，并总结出具体实施办法。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4.沟通：建立一个无障碍沟通渠道</b></p><p>高绩效团队有个非常明显的沟通特点，就是团队负责人会允许大家对一件事持有不同的意见。</p><p>这些意见不只是藏在大家心里，而是大家敢于发出自己的声音。</p><p>这一点对我来说深有体会，我之前跟过一个领导，为人非常谦和，啥事都好商量的样子。</p><p>可是一旦遇到意见不一致的情况，尤其是那些影响他个人权威的事，他脸色马上就变了，好像谁欠了他多少钱一样。所有人提出的不同意见，他都一一回绝，最终他按照自己的想法去做。</p><p>在这样的团队呆久了，大家都不敢发声，甚至不愿意发声，有些事情明明是错的，也就照做了，反正自己不需要承担责任。</p><p>领导者关闭了从下向上的沟通渠道，等于封闭了自己重要的信息来源，因为一线人员是最了解具体业绩情况的人。</p><p>人人为了自保不敢发生，最后业绩也会一团糟，遇到危机大家跑的更快。</p><p>我建议重要决策前，花80%的时间搜集信息，20%的时间做决策。</p><p>实际上大部分决策都是由于信息缺失，沟通不畅，导致决策就是片面的，最终执行出的结果也是以偏概全。</p><p>这里只提一个原则：</p><p>大事面对面说三遍：<br/>第一遍，描述基本属实，确保对方准确理解你的意思；<br/>第二遍，发表个人看法和见解，分析利和弊；<br/>第三遍，重复事实和意见，询问大家的意见和观点。</p><p>为什么面对面？我们都知道任何沟通是一个信息编码——传输——解码的过程，任何传输渠道都会有折损，而面对面是折损率最小的一个渠道，可以看到对方真实的表情和动作，要知道肢体语言也会在沟通中产生很大的作用。</p><p>小事群里沟通，及时回应。如果信息信息发出去，对方没有回应。就不是一个完整的沟通过程，发信的人会非常紧张，对方是没有听懂还是有不同的意见，一直会猜测甚至无心干手头的活。对于通知类信息，我们会要求群成员回复数字“1”，代表已经收到。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>5.反馈：正反馈、认可与奖励。</b></p><p>行为学家发现，如果对一个人的某个行为作出奖励，那么人们就会重复这个行为。</p><p>在团队中也一样，对个人成绩的正面强化和奖励，都会触发人们的反射行为，「这件事是好的，我要重复做，以便获得奖励」。</p><p>公开的奖励会塑造有助于团队绩效的新行为。</p><p>例如，一个害羞的团队成员第一次努力说出自己的想法，并且为团队整体利益着想时，就应该真诚地给与正面的强化，鼓励该成员和大家做出更多的贡献。</p><p>让团队成员在工作中收获到成就感和满足感，他们会做出更多的贡献，也会更加关心团队利益。</p><p>有一点毋庸置疑，组织的力量远远大于个人的力量，领导与员工不是相互竞争，而是互相成就。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>6.文化：拿事实说话，把问题摆在台面上。</b></p><p>最亲近的人对我们的影响是最大的。</p><p>同样团队文化对我们的影响要比公司文化对我们的影响更大。</p><p>而一个团队中，只有领导者的做事风格对团队影响是最大的。</p><p>文化不是一天形成的，而是领导者通过身体力行，潜移默化的对他人行为和观念的影响。</p><p>举个最简单的例子：</p><p>下属向你汇报本季度的工作结果。其中有一项没有完成，你不问青红皂白劈头盖脸的一顿骂，下一次他就会尽量掩盖真相，隐藏错误。</p><p>如果处理的方法是让下属描述事实根据和原因，把问题摆到台面上，而不是藏着掖着，寻求问题本质，帮助协调资源解决，总结失败经验。下次下属一定不会藏着掖着，而自己就会努力分析找解决方案了。</p><p>这就是求真求实的团队文化形成过程，这样的操作不是一次两次形成的，大家会找你的规律。</p><p>最后，什么是高绩效团队呢？有没有一个标准，正好我这里有一个。</p><p>你可以试着休一个星期的假，如果不通过你的干预，团队仍然可以正常运转就可以达标了。</p><p>这里在补充一个团队的定义：团队是具有互补技能，有共同的业绩目标、运用共同的方法，并相互负责的一小群人。——《团队竞争力》</p><p>《团队竞争力》是一本集合体，里边有不同的主题。例如，《情商》作者戈尔曼写的“领导风格转换的艺术”、马库斯.白金汉写的“杰出经理人根本之事”都非常值得一读。</p>", 
+            "topic": [
+                {
+                    "tag": "管理者", 
+                    "tagLink": "https://api.zhihu.com/topics/19624235"
+                }, 
+                {
+                    "tag": "领导", 
+                    "tagLink": "https://api.zhihu.com/topics/19558401"
+                }, 
+                {
+                    "tag": "团队管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19578375"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53764454", 
+            "userName": "韩大叔", 
+            "userLink": "https://www.zhihu.com/people/3226d80e6c308b28f0bcc9da87251a3a", 
+            "upvote": 4, 
+            "title": "学会提问，1小时成为提问高手", 
+            "content": "<p>有没有发现千年不变的标准寒暄式口头禅“最近咋样？”，一碰到陌生人就不管用了。</p><p>有没有遇到老熟人，四目相对突然间不知道说什么好了呢？</p><p>电梯里遇到老板，想和老板打招呼，半天憋不出来一句。紧接着，打了招呼后就没下文了。然后，然后，整个坐电梯的过程都变得局促不安，不知道是站着好，还是躺着好了，四处找地缝。</p><p>别急，这些问题都可以轻松解决。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>而且，掌握了“优质提问的技巧”，任何人理应都能变得优秀。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>《学会提问—实践篇》的作者粟津恭一郎，是面向大企业管理者的高管教练，也是国际教练联盟（ICF）认证专业教练。</p><p>他的工作内容就是不断地“提问”。他每天都会花几个小时对这些高管提问，数十年从未间断。</p><p>他是全日本关于“提问”拥有最多思考和实践经验的人。基于数十年的经验积累，深挖“提问的本质”，就有了《学会提问—实践篇》这本书。</p><p>本书为读者总结了提出“优质提问”的8个特征、12项诀窍和3V关键词的创造方法，具有实践指导意义，可以帮助读者有效地掌握“优质提问”这一技巧。</p><p>我们都知道问别人的私事是“劣质提问”，我们也会无意间地冒出好问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>但是，灵感咋现毕竟是极少数，怎样才能做到持续地提问好问题？</b></p><p>本书通过“乐意回答的程度”和“有无发现”这两个维度、四个象限，把提问分为“轻松提问”，“劣质提问”，“沉重提问”，“优质提问”这四种形式。</p><p>对于“轻松提问”，作者提供了一个“万金油”的问题，<b>“询问对方的成功经历”</b>。</p><p>这个问题完全符合“轻松提问”的三个特征——“容易回答”“乐意回答”“惯于回答”。</p><p>询问对方成功经历，这也是我在工作中经常会使用的。</p><p>我是一个部门经理，经常要和来应聘的候选人沟通。</p><p>一般开始时都会让候选人做一个自我介绍，可是效果并不太好。</p><p>大部分候选人都会有不同程度的紧张，而对于他们的自我介绍，简历上已经有很多，除非他们精心准备，往往都不会获得更多有效的信息。只是为了建立彼此的联结。</p><p>所以我都会在他们做完介绍后，紧接着在追问一句，“工作这几年来，你做的最有成就感的一件事是什么？”</p><p>大部分候选人回答之后，都会感觉放松很多，这样的提问不但给他们增加了信心，也拉进了彼此之间的距离，增加了互相之间的信任感。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>掌握了“轻松提问”的方法后，只需要进一步学习，就可以把它变成“优质提问”。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在你向对方提问的时候，对方愿意回答并且能够因为你的提问有所发现，而使他们变得越来越好的问题就是“优质提问”。</p><p>其实，并不存在对所有人都有效的“优质提问”，但是优质提问都具备共同的特征，只要掌握这些共同特征，我们就能提出好问题。</p><p>书中举出了8个特征，这些特征的共性是让大家能够深度思考，并采取行动。</p><p>比如询问“真正渴望得到的东西”的提问，这个问题你必须不断地思考，才能真正清楚自己想要的是什么，从而进一步引发行动。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果对于所有模式都形成了固定语式，就不会有层出不穷的好问题，那么怎样才能创造出好问题呢？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>作者建议大家做到以下两项：</p><p>1.询问一件事情的本质，总能引发人们的深入思考，这里<b>5W1H</b>——时间（When）、地点（Where）、人员（Who）、对象（What）、原因（Why）、方法（How）等疑问词，可以帮助我们挖掘到本质的东西。</p><p>2.关注对方的<b>“3V”</b>，Vision（理想）、Value（价值）、（Vocabulary）语汇。</p><p>理想和价值我们都能够明白，那为什么语汇也很重要呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>俗语说：“日有所思，夜有所梦”。你经常挂在嘴边的口头语，就是最近困扰你的事。</b></p><p>比如，最近经常加班到深夜，你和别人说话间，就会不经意的冒出，“很累”“特别辛苦”等词语。</p><p>所以一个好的提问者，可以从对方的语汇中得到重要信息。</p><p>原来提问还有这么多秘密，我们平时总会惊叹于别人总能提出好问题。</p><p>原来提问的方法是有迹可循的，下次别人提出好问题的时候，你可以仔细分析他的提问是否符合本书中的诀窍，你也可以总结出一套自己的关于提问的方法论。</p><p>下次公司开大会的时候，老板说，“你们有什么问题尽管提。”你再也不会内心忐忑，害怕被叫到名字了。</p><p>提出好问题，做一个“优质提问”者并不难，只要掌握了书中的方法，你就会成为提问达人。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>优质提问可以改变人生——《学会提问——实践篇》</b></p><p>如果你认可，优质提问可以改变人生，可以从本书的第二部分开始看。</p><p>虽然从本文你可以大致了解什么是优质提问，但是这本小小的手边书，可以经常提醒你提问的重要性。</p>", 
+            "topic": [
+                {
+                    "tag": "沟通", 
+                    "tagLink": "https://api.zhihu.com/topics/19566252"
+                }, 
+                {
+                    "tag": "职场", 
+                    "tagLink": "https://api.zhihu.com/topics/19557876"
+                }, 
+                {
+                    "tag": "社会", 
+                    "tagLink": "https://api.zhihu.com/topics/19566933"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53764023", 
+            "userName": "韩大叔", 
+            "userLink": "https://www.zhihu.com/people/3226d80e6c308b28f0bcc9da87251a3a", 
+            "upvote": 5, 
+            "title": "2019年，你最需要建立的思维是什么", 
+            "content": "<p>今天是2018年的最后一天，真的是几家欢喜几家愁。<br/></p><blockquote>有的人拿着大把的年终奖；<br/>有的人被辞退，正愁着找下家；<br/>有的人毕业还一直没有找到工作，就连实习的机会也没有；</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>知乎上有一个提问，“刚毕业不到一年被裁员，年关将至，找不到工作怎么办？”<br/></p><p>我自己也遭过坑。2008年底，爆发全球经济危机，我在一家软件外包公司工作，刚好工作一年，就被裁员了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>不是自己干的不好，而是公司倒闭了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>从那以后，在职场摸爬滚打我就多了个“心眼”，养成了一种“远见思维”，帮我从底层小员工晋升到了公司的总监职位，目前带着上百人的团队。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这种“远见思维”其实就是职业规划，和我今天要分享的这本书《远见》思路差不多，我就借着这本书，来说说怎样<b>建立职业规划，抵抗互利网寒冬</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我结合自己10多年的工作经验，总结精华内容如下：<br/></p><p>— <b>1</b> —</p><p><b>职业生涯的三个阶段</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这本书把职业生涯划分为三个阶段，总共45年，每个阶段15年。</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>第一阶段（工作0－15年）核心目标是寻找甜蜜区。</li><li>第二阶段（工作15－30年）核心目标是锚定甜蜜区。</li><li>第三阶段（工作30－45年）优化长尾，发挥持续影响力。</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>这个划分我不太赞同，“<b>3年技术要打牢，5年要能带小团队，10年能带大部门。</b>”这更符合咱们的国情。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>第一阶段（工作0－3年）：寻找甜蜜区，打牢基础期。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>所谓甜蜜区，是指“你喜欢的“跟“你擅长的“和“社会需要的”三个区域的交集。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有些大学生后台私信我，不知道能做什么工作？让我给点建议。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>举个真实的栗子，给大家一个参考：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>老家一个远房亲戚打电话给我，说他大学是软件专业。快毕业了，不知道干点啥，很焦虑，让我给点意见。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>他的基本情况：</p><ul><li>家庭经济情况不好，毕业急需养活自己。</li><li>专业课上没学什么东西，也没去过实习。</li><li>喜欢做互联网产品，无聊的时候做了一些产品模型。</li><li>身边同学有做软件开发的，也有做产品经理的。</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>他喜欢做产品，虽然没有实习过，但自己有一些作品，还有点经验。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我建议他从产品助理或运营这个方向做一个尝试，这两个门槛比软件开发稍低一些。他专业是软件开发，但没啥基础，后续发展起来会相当吃力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在寻找甜蜜区的过程中，肯定会遇到这样或那样的问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果很长一段时间没有找到，你也不能放弃，在不断的尝试和失败中，寻找自己的甜蜜区，并为今后的发展储备充足的职场燃料。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>第二阶段（工作3－5年）聚焦长板，从执行到管理的转变期。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在这个阶段需要掌握两种思维：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第一思维：展现自我，争做第一。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>哪怕是很小的领域，如果能做到第一，你都能获取到头部资源优势。老话说，“宁当鸡头，不当凤尾”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>试着思考以下几个问题：</p><p>你在小组是不是第一？</p><p>你在部门是不是第一？</p><p>你在公司是不是第一？</p><p>哪项技能可以做到第一？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>找到第一这个杠杆，你就可以进入升职加薪的快车道。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>上司思维：打开格局，抢占先机。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>做任何事前，先思考一下，“如果我是领导，该怎么办？”</p><p>你会更好的了解领导的真正意图，就能把活干好，还能把活干完美。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在第二个阶段你必须完成，从“执行者”到“领导者”的角色转换。角色转换不一定是职位的转变，或许你还没有升职为领导者，但你必须先学会像领导者一样思考，这样才能抢占先机。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>第三阶段（工作5－10年）：全面发展，发挥领导力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>你已经完成从员工到小领导的转变，带过三五个人，也做出了一些不错的业绩。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>你要向前、向前、再向前，找机会带大团队，成为更高级的管理者。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>只有领导大团队，发挥组织的优势，才能干大事，你的薪资才有想象的空间。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有些人说，我只做业务和技术，我不做管理，一样混得好。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实，任何行业都一样。螺丝钉可替代性太强，可替代性决定收入水平。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>—<b> 2 </b>—</p><p><b>每个阶段所必备的职场燃料</b></p><p><b>1.可迁移的技能</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-5e8a4a213ca726c0adbe06ff0631ad94_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"601\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb\" width=\"601\" data-original=\"https://pic1.zhimg.com/v2-5e8a4a213ca726c0adbe06ff0631ad94_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;601&#39; height=&#39;399&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"601\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"601\" data-original=\"https://pic1.zhimg.com/v2-5e8a4a213ca726c0adbe06ff0631ad94_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-5e8a4a213ca726c0adbe06ff0631ad94_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>可迁移的技能，是指你从事任何工作和任何行业，都能够连续使用的技能。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>无论你从一家公司跳槽到另一家公司、还是从一个行业换到另外一个行业，都必须有这些技能傍身。可迁移技能是基础技能，只能提升不能荒废。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>比如时间管理的能力、解决问题的能力、沟通和说服的能力以及完成任务的能力等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>此外，这个世界越发宠爱会讲故事的人，无论内向和外向你都要学会讲故事，它能使你说的话有人爱听，连接更多的人。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2.有意义的经验</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>有意义的经验，是构建你职业生态系统的重要组成部分。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>经验的多样性让你成为一个复合型人才，能够帮助你抵抗系统性风险。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在不同的环境中尝试不同的事情，试验不同的做事方法，创造不同的生存技能，把自己塑造成一个更强的“职场混血”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>丰富工作经验的多样性可以从很多维度进行，比如创业、跨国工作、做志愿者、去留学等等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一系列有意义的职场经验，可以建立更坚实的职场生涯。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.更持久的关系</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>持久的关系是最有效和最耐用的职场燃料。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>想象一下：</p><p>你要跳槽，是不是内推更靠谱一些？</p><p>你要创业，是不是朋友投资更顺利一些？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>职场中，每个人的周围都会出现许多关键人物，并影响着你的职业轨迹。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这些人会为你组成一个金字塔结构的人脉系统，共分为5层：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-cfa6aec83f68b51cfb1903e9055f123e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"486\" data-rawheight=\"307\" class=\"origin_image zh-lightbox-thumb\" width=\"486\" data-original=\"https://pic3.zhimg.com/v2-cfa6aec83f68b51cfb1903e9055f123e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;486&#39; height=&#39;307&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"486\" data-rawheight=\"307\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"486\" data-original=\"https://pic3.zhimg.com/v2-cfa6aec83f68b51cfb1903e9055f123e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-cfa6aec83f68b51cfb1903e9055f123e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>（1）最底层：“联系人”。“联系人”是价值含量最低的一种职场关系，彼此产生的影响都非常小，甚至可以忽略不计，没有深层连接。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（2）第二层：“专家团”。”专家团”是比联系人稍有价值的职场关系，他们拥有特殊的知识和权力、能帮助你取得成功的人，需要你去主动结识和培养的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（3）第三层：“关键同事”。“关键同事”是指目前对你产生决定性影响力的5~10个人，排在榜首的是你的上司，他们对你的升职加薪有直接的影响。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（4）第四层：“支持者”。“支持者”是为你提建议、拥护你、激励你的导师和帮手，人数一般不会超过5个。他们是你在职场中前进的推手，会让你的职业生涯出现非同一般的拐点。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（5）第五层：你自己。任何职业生态系统的核心都是你自己。你就是你自己的品牌经理，你需要长期盘点你的职业生态系统，确保它积极活跃地发展，并为你提供的是积极正向的支持。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>好了，今天的干货到这里就结束了，我主要建议大家建立一种远见思维，提前做好职业规划：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>掌握可迁移的技能、有意义的经验和更持久的关系，这三种基本形式的职场燃料，顺利渡过职业生涯的三阶段。</b></p>", 
+            "topic": [
+                {
+                    "tag": "管理者", 
+                    "tagLink": "https://api.zhihu.com/topics/19624235"
+                }, 
+                {
+                    "tag": "职场", 
+                    "tagLink": "https://api.zhihu.com/topics/19557876"
+                }, 
+                {
+                    "tag": "团队管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19578375"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53761030", 
+            "userName": "韩大叔", 
+            "userLink": "https://www.zhihu.com/people/3226d80e6c308b28f0bcc9da87251a3a", 
+            "upvote": 11, 
+            "title": "如何成为一个有效的管理者？", 
+            "content": "<p>什么是管理者？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>管理者就是通过别人来完成工作的人。———樊登</b></p><p>如果你不知道这一点，凡事喜欢亲力亲为，你的员工会被逼疯掉。</p><p>但是，还有一点更加重要，管理者必须要对公司负责。</p><p>简单来说，管理者要为公司赚取利润。</p><p>一个不能为公司赚钱的管理者一定会被公司干掉。</p><p>按照鲁大师的话来说，就是管理者必须卓有成效。<br/><br/><br/>1.<b>“天天加班，却在管理层例会上被辞退了。”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>李兵是我们公司移动产品部负责人，人非常努力，公司的早到榜总能看到他。</p><p>他是老板从竞争对手公司挖角过来，负责组建移动产品部门。</p><p>这不半年多过去了，团队从开始1个人（他自己）扩张到31个人。</p><p>李兵这天天加班加点，一边负责招聘人才，一边负责产品业务。</p><p>从我们这些外部门的人来看，可算得上是尽心尽力了。</p><p>但是，在2018的年中总结会上，老板却当众辞退了他。</p><p>原来，在他做部门业绩汇报的时候，产品开发了不老少，却没有一个赚钱。</p><p>而且人员工资和推广费却花了1000多万......</p><p>部门不赚钱，一直在花钱，老板出了钱，就得有人来担责。</p><p>李兵作为部门负责人，也进行了自我分析与检讨。</p><p>主要原因有以下三点：</p><p>1.部门扩张速度太快，团队管理没跟上。</p><p>2.自己负责太多杂事，时间没有用在正地方。</p><p>3.决策不及时，事事都要他决策。</p><p>其实李兵的问题，是每个管理者都会遇到的问题。<br/><br/><br/>2.<b>先做好自我管理，再去管理别人</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>“只有做好自我管理，才能更好的管理别人。”</p><p>这虽然是一个很简单的道理，但绝大多数管理者都没有做好。</p><p>这是为什么呢？</p><p>通常有两种情况：</p><p>其一，管理者被赶鸭子上架，临阵磨枪。</p><p>精明干练的员工，经常会被上司提拔为管理者。</p><p>他们从来没有带过团队，也不知道什么是管理。</p><p>公司想当然的认为，通过自主学习，新主管可以在工作中学会那些管理技能。</p><p>另外，一些小公司也没有时间和财力为管理者做培训。</p><p>管理者一方面要继续负责具体业务工作，一方面要负责团队管理工作。</p><p>由于工作内容的增多，管理者的时间并没有增多，一天只有24小时，即使你再勤奋工作，通过个人努力所产出的价值仍然是定量的。</p><p>具体业务又是他们擅长的，人很容易陷入自己的舒适区出不来，最后自己成为了团队的瓶颈。</p><p>其二，不知道何时该决策，何时不该决策。</p><p>这又是管理者常犯的错误，凡事都想插一杠子。</p><p>不管一下子总怕大家做不好，越是这样大家越畏首畏尾，什么事情就都来请教。</p><p>管理学有一个有趣的理论「背上的猴子」：<br/>每一个问题都是一只“猴子”，当下属向你请教问题，而你又作出了决策，这只猴子就从下属的背上跑到了管理者的身上。久而久之，管理者背上就背了很多猴子，需要去完成本不该他们完成的工作，承担他们本不该承担的责任。</p><p>通过我这些年遇到的管理案例来看，致使一个管理者失败的原因很多；</p><p>而那些高效的管理者，一定都做好了自我管理。</p><p>那么，如何才能做好自我管理呢？</p><p>别急，50年前鲁大师就给了我们答案。<br/><br/><br/>3.<b>“三招，让你轻松学会自我管理”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>《卓有成效的管理者》这本书的英文版是在1966年出版，已经被翻译成了二十几种语言，被管理者广泛认可。</p><p>书中提出了很多前瞻性的概念，比如“知识工作者”，“组织”，“时间管理”等等。</p><p>虽然现在这些概念对我们来说已经习以为常，但在当时却给管理者带来很大的启发，正是由于鲁大师的前瞻性，这些方法放在今天依然适用</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一、重视贡献，为成果工作。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>放在李兵的案例中不难发现，就是因为李兵没有重视贡献，为成果工作，才最终导致被辞退。</p><p>鲁大师把管理者称为知识工作者。</p><p>我们无法使用监督和管控体力工作者的方法，去管控知识工作者。</p><p>他们只能自己管理自己，而他们所处的环境又使得他们的工作难以取得成果和绩效。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1)管理者的时间往往只属于别人，而不属于自己。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>每个人都可以来找他，而事实上每个人也都是这样做的。</p><p>你只要仔细观察一下你的上司，就会发现，总有人会不停地打断他。</p><p>如果真有一天他不被打扰，他又不会不停的打扰别人，询问事情的进展，组织开会等等。</p><p>如果让他们闲下来，他们就会认为自己失去了价值，没有真正的在做事。</p><p><b>总而言之，管理者不是被人打扰，就是去打扰别人。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2)管理者往往被迫忙于“日常运作”，除非他们敢于采取行动来改变周围一切。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在美国、德国、欧洲、中国等大多数国家，管理者干下属的活成了普遍现象。</p><p>比如，老板干部长的活，部长干组长的活，组长干员工的活。</p><p>为什么呢？</p><p>除了习惯于之前的工作方法外，还有环境因素，管理者在同时面对一连串事务时，不久就会疲于应付了。</p><p>管理者需要的是一套判断标准，使他能够分辨哪些是重要的，哪些是次要的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3)管理者在“组织”之中，会受到组织的局限。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>由于管理者是在一个组织的内部，组织的环境和文化都会限制管理者的有效性。</p><p>比如，现代社会里，电脑办公和无纸化办公已经是一个趋势，而有些公司的老板会认为没有电脑也能干的很好。</p><p>在这样公司的管理者，就只能听从老板的意见。</p><p>再比如，公司老板一直强调“加班”文化，不管有没有真正的工作，都要忙到点才能下班。</p><p>这时候管理者也会受加班文化的影响，不自觉地开始加班。</p><p>虽然以上几点不容易改变，但这也是管理者存在的必要条件。</p><p>如果管理者不努力提高自己的有效性，下场就会很惨。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二、管理时间，要事优先。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>根据鲁大师的观察，有效的管理者并不是一开始就做计划，而是先从时间安排上入手。</p><p>做好时间安排的三个步骤：<br/>1.记录时间<br/>2.管理时间（做计划）<br/>3.统一安排时间</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为什么要记录时间？书中有一个案例：</p><p>有一个公司的董事长呢，十分肯定甚至是百分肯定的对鲁大师说：</p><p>“我的1/3时间用于与公司高管讨论业务; 1/3时间用于接待重要客户; 其余1/3时间用户参加各种社会活动”。</p><p>但是等实际的记录出来，发现完全不是那么一回事，他根本没在这三个方面花时间。</p><p>我们都知道记忆力并不可靠，他只是认为自己应该花时间在这三个方面。</p><p>就这样他还不相信帮助记录时间的秘书呢，后来他的秘书又做了几次记录他才相信。</p><p>所以，有效的管理者都知道，如果要管理好自己的时间，就需要先知道时间花在了哪儿。</p><p>就像理财一样，你想知道怎样理财，得先知道钱都花到了哪里。</p><p>鲁大师又说了，许多事情都需要不受打扰的时间才能作出好决定。</p><p>比如人事决策，人是最不容易改变的，而我们开展工作时又必须用人，所以在人事决策上，就需要较长时间的思考和判断了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>至于做到第二步管理时间，先要解决以下几个问题：<br/>1.首先，找出什么事情根本不必做，这些事做了完全是在浪费时间，无助于成果。<br/>2.其次，哪些工作是可以授权给下属做，而又不影响最终效果。<br/>3.最后，不要浪费别人时间。比如，无意义的会议，人员冗余，权责不分等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最后一步，就是利用大块时间，做最重要的事。</p><p>第一原则是摆脱已经不再有价值的过去。</p><p>心理学上常说的摆脱“沉默成本”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>虽然有一件事我昨天做了，但是今天发现对现在和未来都没有价值，就不要因为过去已经投入时间和精力，觉得可惜，而继续做下去。</p><p>这样毫无价值，浪费了未来的机会。</p><p>大块的时间也有了，也知道该做什么事了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>鲁大师说还有几条原则可以帮你确定事情的优先顺序：</p><p>1.重将来而不重过去。<br/>2.重视机会，不能只看到困难。<br/>3.选择自己的方向，而不盲从。<br/>4.目标要高，要有新意，不能只求安全和方便。</p><p>关于时间管理的概念书籍有很多，鲁大师对时间管理的理念也很简单，概括成一句话：</p><p>有一件事今天必须是你做，而且必须对未来有结果。</p><p>所以时间管理的文章和概念，都可以翻译成这句话——必须是你现在做，对未来有结果。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>三、有效决策，不替下属“背猴子”。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>什么都做决策，等于什么都没做。</p><p>有效的管理者知道什么时候该做决策，什么时候不该做决策。</p><p>有效的管理者只做重大的决策。</p><p>他们会把问题分为例行性的和策略性的。</p><p>例行性问题和重复发生的问题，那就通过建立一项规则或原则的决策去解决。</p><p>他们只做策略性的决策：1.找出问题的边界 2.仔细思考问题的解决方案 3.重视反馈。</p><p>鲁大师友情提醒，决策是人做的，人难免会犯错误，也不可能永远正确。</p><p>所以，建立一项信息反馈制度，不断根据反馈调整和改进。</p><p>以上决策过程是一个标准的流程，虽然每个人都会按照这个流程去做，决策的结果却千差万别。</p><p>有时候不是因为个人专业能力，而是因为“人”本身的问题——个人偏见，人会依据自己的经验、背景、环境，做出自己喜好的选择。</p><p>所以，要有善用反面意见。不会使自己陷入独断论中。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4.结语：管理者必须卓有成效</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>总结一下：如何成为一名高效的管理者</p><p>1.重视贡献，为成果工作。<br/>2.管理时间，要事优先。<br/>3.有效决策，不替下属“背猴子”。</p><p>如果你不喜欢读德鲁克的《卓有成效的管理者》整本书，可以直接翻到第八章鲁大师已经为你整理好了文章的精华。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19553265"
+                }, 
+                {
+                    "tag": "团队管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19578375"
+                }, 
+                {
+                    "tag": "管理者", 
+                    "tagLink": "https://api.zhihu.com/topics/19624235"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1064119133100265472"
+}

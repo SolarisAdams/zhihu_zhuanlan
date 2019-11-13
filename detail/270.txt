@@ -1,0 +1,282 @@
+{
+    "title": "自然语言处理学习笔记", 
+    "description": "利用机器学习和深度学习去解决自然语言处理中的问题，注重细节。相比模型本身，作者将更加关注模型背后的物理意义。", 
+    "followers": [
+        "https://www.zhihu.com/people/xue-hua-dou-fu-nao", 
+        "https://www.zhihu.com/people/dankanjianghulu", 
+        "https://www.zhihu.com/people/sha-feng-82", 
+        "https://www.zhihu.com/people/innerpeace-24-25-99", 
+        "https://www.zhihu.com/people/tian-tian-13-85-14", 
+        "https://www.zhihu.com/people/zhang-mou-61-11", 
+        "https://www.zhihu.com/people/zhaokuanyew", 
+        "https://www.zhihu.com/people/jin-billy", 
+        "https://www.zhihu.com/people/moolighty", 
+        "https://www.zhihu.com/people/spirit-soul", 
+        "https://www.zhihu.com/people/flowball", 
+        "https://www.zhihu.com/people/yang-sa-6", 
+        "https://www.zhihu.com/people/langgz", 
+        "https://www.zhihu.com/people/one-yi-ge", 
+        "https://www.zhihu.com/people/build-guo", 
+        "https://www.zhihu.com/people/saintlogos", 
+        "https://www.zhihu.com/people/ling-ling-luo-luo-l-29", 
+        "https://www.zhihu.com/people/lu-hui-bo", 
+        "https://www.zhihu.com/people/kongshuaifu-83", 
+        "https://www.zhihu.com/people/hada-46-97", 
+        "https://www.zhihu.com/people/xiong-mao-lu-34", 
+        "https://www.zhihu.com/people/long-tao-chen", 
+        "https://www.zhihu.com/people/miaomiao-89-18", 
+        "https://www.zhihu.com/people/wu-ming-shi-92-36", 
+        "https://www.zhihu.com/people/ming-ming-89-83", 
+        "https://www.zhihu.com/people/programmer_song", 
+        "https://www.zhihu.com/people/qi-xiao-yang-96", 
+        "https://www.zhihu.com/people/you-long-49-43", 
+        "https://www.zhihu.com/people/zhang-jun-57-35-95", 
+        "https://www.zhihu.com/people/hqwsky", 
+        "https://www.zhihu.com/people/Rxma1805", 
+        "https://www.zhihu.com/people/li-zhi-chao-7-63", 
+        "https://www.zhihu.com/people/pang-jing-zhi-6", 
+        "https://www.zhihu.com/people/yyuqing6161", 
+        "https://www.zhihu.com/people/hellohe-65", 
+        "https://www.zhihu.com/people/zhang-chi-62-37", 
+        "https://www.zhihu.com/people/wuwenjie0102", 
+        "https://www.zhihu.com/people/bu-ji-de-feng-43-55", 
+        "https://www.zhihu.com/people/qu-yan-ru-78", 
+        "https://www.zhihu.com/people/dan-xing-de-tian-shi", 
+        "https://www.zhihu.com/people/coreseek", 
+        "https://www.zhihu.com/people/rebackup", 
+        "https://www.zhihu.com/people/ding-ding-95-8", 
+        "https://www.zhihu.com/people/xiao-si-ji-68", 
+        "https://www.zhihu.com/people/lee-88-68", 
+        "https://www.zhihu.com/people/xia-kun-kun-48", 
+        "https://www.zhihu.com/people/funny-boy-sh", 
+        "https://www.zhihu.com/people/a-piece-of-bread", 
+        "https://www.zhihu.com/people/gaily-75", 
+        "https://www.zhihu.com/people/zhao-zhi-xue-97", 
+        "https://www.zhihu.com/people/ilineicry", 
+        "https://www.zhihu.com/people/xi-yang-79-92", 
+        "https://www.zhihu.com/people/yang-xue-lin-53-90", 
+        "https://www.zhihu.com/people/tiao-jian-usb", 
+        "https://www.zhihu.com/people/zhang-zi-qiang-1", 
+        "https://www.zhihu.com/people/allen-91-56", 
+        "https://www.zhihu.com/people/pei-yi-7-81", 
+        "https://www.zhihu.com/people/xiao-fei-xia-45-31", 
+        "https://www.zhihu.com/people/kksh", 
+        "https://www.zhihu.com/people/she-liang", 
+        "https://www.zhihu.com/people/ku-gou-82", 
+        "https://www.zhihu.com/people/dai-wei-66-30", 
+        "https://www.zhihu.com/people/snakesgun", 
+        "https://www.zhihu.com/people/li-le-41-11-62", 
+        "https://www.zhihu.com/people/mopperwhite", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/bigpotatoc", 
+        "https://www.zhihu.com/people/xiao-yi-75-76", 
+        "https://www.zhihu.com/people/hisoka176", 
+        "https://www.zhihu.com/people/yang-chao-4-50", 
+        "https://www.zhihu.com/people/wayswang", 
+        "https://www.zhihu.com/people/chen-bing-11-52", 
+        "https://www.zhihu.com/people/mu-zhu-68-65", 
+        "https://www.zhihu.com/people/ou-yang-ren-hao", 
+        "https://www.zhihu.com/people/wells-tomas-40", 
+        "https://www.zhihu.com/people/wu-zhe-ming", 
+        "https://www.zhihu.com/people/jerryzhong77", 
+        "https://www.zhihu.com/people/qinkang-69", 
+        "https://www.zhihu.com/people/sui-yu-er-an-83-39", 
+        "https://www.zhihu.com/people/valar_chen", 
+        "https://www.zhihu.com/people/xia-yu-bin-72", 
+        "https://www.zhihu.com/people/li-yue-38-12-49", 
+        "https://www.zhihu.com/people/guesswhathhh", 
+        "https://www.zhihu.com/people/daijyobu", 
+        "https://www.zhihu.com/people/Only_Episode", 
+        "https://www.zhihu.com/people/leon-xu-24", 
+        "https://www.zhihu.com/people/luo-dian-zhu-84", 
+        "https://www.zhihu.com/people/wang-wen-jie-72", 
+        "https://www.zhihu.com/people/qinlibo_nlp", 
+        "https://www.zhihu.com/people/lu-jie-10-70", 
+        "https://www.zhihu.com/people/zhang-xue-ren-99", 
+        "https://www.zhihu.com/people/liu-lin-lin-81-63", 
+        "https://www.zhihu.com/people/la-geek", 
+        "https://www.zhihu.com/people/zhang-ting-kai-1", 
+        "https://www.zhihu.com/people/fanmeng-22"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60730971", 
+            "userName": "Light", 
+            "userLink": "https://www.zhihu.com/people/c03ea235c4af15f64f20fb461e7e19ad", 
+            "upvote": 8, 
+            "title": "聊聊NLP中的Attention机制---抛砖引玉", 
+            "content": "<blockquote>写在前面：有一段时间没更新专栏了，哈哈，先吐槽下自己的龟速更新。               <br/>Attention机制基本已成为NLP的居家旅行必备技能，同时也是我一直关注的技术点，希望本篇内容能带给大家些许思考。如有描述不对的地方，欢迎拍砖。好了，废话不多说，进入正题！</blockquote><hr/><h2>1. Attention机制</h2><p>attention机制最初是由Bahdanau等人通过“<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1409.0473\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Neural Machine Translation by Jointly Learning to Align and Translate</a>“一文引入到NLP中。主要思想是采用attention机制去解决机器翻译中的<b>对齐问题</b>和<b>缓解RNN的长距离依赖</b>。基本结构如下图所示。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-8af998bd7a022c4464b0b919f7e57c79_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"578\" class=\"origin_image zh-lightbox-thumb\" width=\"710\" data-original=\"https://pic2.zhimg.com/v2-8af998bd7a022c4464b0b919f7e57c79_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;710&#39; height=&#39;578&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"578\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"710\" data-original=\"https://pic2.zhimg.com/v2-8af998bd7a022c4464b0b919f7e57c79_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8af998bd7a022c4464b0b919f7e57c79_b.jpg\"/></figure><blockquote>因本文重点放在attention机制本身，有关其在机器翻译中的具体使用，感兴趣的同学可祥看论文。</blockquote><p>下面给出attention机制的一般结构示意图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-575e5554317c475014bb59cdc658a824_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1428\" data-rawheight=\"1100\" class=\"origin_image zh-lightbox-thumb\" width=\"1428\" data-original=\"https://pic1.zhimg.com/v2-575e5554317c475014bb59cdc658a824_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1428&#39; height=&#39;1100&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1428\" data-rawheight=\"1100\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1428\" data-original=\"https://pic1.zhimg.com/v2-575e5554317c475014bb59cdc658a824_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-575e5554317c475014bb59cdc658a824_b.jpg\"/></figure><p>为了便于描述，将attention机制的三元组定义为 <img src=\"https://www.zhihu.com/equation?tex=%5COmega%3D%5C%7Bq%2CK%2CV%5C%7D\" alt=\"\\Omega=\\{q,K,V\\}\" eeimg=\"1\"/> ，并且通常情况下 <img src=\"https://www.zhihu.com/equation?tex=K\" alt=\"K\" eeimg=\"1\"/> 与 <img src=\"https://www.zhihu.com/equation?tex=V\" alt=\"V\" eeimg=\"1\"/> 等价。整个计算过程可分为三步：</p><blockquote>1. 计算 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 与每个 <img src=\"https://www.zhihu.com/equation?tex=k_i\" alt=\"k_i\" eeimg=\"1\"/> 的相关性 <img src=\"https://www.zhihu.com/equation?tex=e_i%3Da%28q%2C+k_i%29\" alt=\"e_i=a(q, k_i)\" eeimg=\"1\"/> ；                                                                         <br/>2. 权重归一化 <img src=\"https://www.zhihu.com/equation?tex=%5Calpha_i%3D%5Cfrac%7B%5Ctext%7Bexp%7D%28e_i%29%7D%7B%5Csum_%7Bk%3D1%7D%5E%7Bn%7D%5Ctext%7Bexp%7D%28e_k%29%7D\" alt=\"\\alpha_i=\\frac{\\text{exp}(e_i)}{\\sum_{k=1}^{n}\\text{exp}(e_k)}\" eeimg=\"1\"/> ；                                                                                   <br/>3. 加权求和 <img src=\"https://www.zhihu.com/equation?tex=c+%3D+%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%5Calpha_ik_i\" alt=\"c = \\sum_{i=1}^{n}\\alpha_ik_i\" eeimg=\"1\"/> .</blockquote><p>其中，<img src=\"https://www.zhihu.com/equation?tex=e_i\" alt=\"e_i\" eeimg=\"1\"/> 为标量，<img src=\"https://www.zhihu.com/equation?tex=n\" alt=\"n\" eeimg=\"1\"/> 为序列长度，<img src=\"https://www.zhihu.com/equation?tex=a%28q%2Ck%29\" alt=\"a(q,k)\" eeimg=\"1\"/> 为相关性函数。常见的相关性函数有：</p><blockquote>Multiplicative： <img src=\"https://www.zhihu.com/equation?tex=q%5ETk%2C+%5Cquad++q%5ETWk\" alt=\"q^Tk, \\quad  q^TWk\" eeimg=\"1\"/> <br/>Additive： <img src=\"https://www.zhihu.com/equation?tex=w_%7B2%7D%5E%7BT%7Dtanh%28W_%7B1%7D%5Bq%3Bk%5D%29\" alt=\"w_{2}^{T}tanh(W_{1}[q;k])\" eeimg=\"1\"/> <br/>MLP： <img src=\"https://www.zhihu.com/equation?tex=%5Csigma%28w_%7B2%7D%5E%7BT%7Dtanh%28W_1%5Bq%3Bk%5D%2Bb_1%29%2Bb_2%29\" alt=\"\\sigma(w_{2}^{T}tanh(W_1[q;k]+b_1)+b_2)\" eeimg=\"1\"/> </blockquote><p>单纯的从attention机制计算上来看，介绍到这里其实核心的东西都阐明了，attention无非就是想捕捉到序列中<b>最相关</b>的信息。</p><blockquote>但是，如果仅仅到这里的话，那也不值得深夜码字了。说好的抛砖引玉，还没抛呢，接下来才是本文的重点！    </blockquote><h2><b>2. 抛砖</b></h2><blockquote>注：本小节仅为个人观点，如有好的想法，欢迎讨论交流。</blockquote><p>注意到，上节在总结attention机制的时候，用了<b>最相关</b>这个词，我们可以思考一下这个最相关是怎么来的？</p><p>首先，直观上看，相关性函数计算得分越高，则该位置的信息越重要。</p><p>其次，由于相关性函数 <img src=\"https://www.zhihu.com/equation?tex=a%28q%2Ck%29\" alt=\"a(q,k)\" eeimg=\"1\"/> 同时也是 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 的函数，这也就意味着，相关性得分与 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 联系紧密。而这正是本文所要深入探讨的点。</p><ul><li>砖一：在attention机制三元组 <img src=\"https://www.zhihu.com/equation?tex=%5COmega%3D%5C%7Bq%2CK%2CV%5C%7D\" alt=\"\\Omega=\\{q,K,V\\}\" eeimg=\"1\"/> 中，<img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 类似于一个<b>监督信号</b>，并且一个有意义的 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 是attention机制的关键；</li><li>砖二：从概率论的角度出发，attention的权重 <img src=\"https://www.zhihu.com/equation?tex=%5Calpha_i\" alt=\"\\alpha_i\" eeimg=\"1\"/> 可以看作是给定监督信号 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 下的<b>条件概率分布</b> <img src=\"https://www.zhihu.com/equation?tex=P%28V%3Dv_i%7CQ%3Dq%29\" alt=\"P(V=v_i|Q=q)\" eeimg=\"1\"/> ，加权求和的输出 <img src=\"https://www.zhihu.com/equation?tex=c\" alt=\"c\" eeimg=\"1\"/> 即为条件期望 <img src=\"https://www.zhihu.com/equation?tex=E%28V%7CQ%3Dq%29%3D%5Csum_%7Bi%7D%5E%7Bn%7Dv_iP%28v_i%7Cq%29\" alt=\"E(V|Q=q)=\\sum_{i}^{n}v_iP(v_i|q)\" eeimg=\"1\"/> 。         </li></ul><p>第二条相对容易理解，下面简要分析下第一条：</p><p>首先，对于机器翻译，decoder中每前一时刻的隐状态 <img src=\"https://www.zhihu.com/equation?tex=s_%7Bi-1%7D\" alt=\"s_{i-1}\" eeimg=\"1\"/> 作为监督信号 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 。对于问答场景，question本身即是天然的监督信号 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 。它们的核心思想都是<b>通过 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 的作用</b>，去捕捉最相关的信息；</p><p>其次，对于文本分类和匹配等任务，由于不存在类似上述的天然监督信号 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> ，那么如何去寻找 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 成为attention机制能否奏效的关键所在。</p><p>读过相关论文的同学都知道，既然没有这样的天然监督信号，那我就随机初始化定义一个 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> ，随着样本一起训练，接下来把时间交给神经网络就好啦。</p><p>这肯定是个好想法，充分利用神经网络的学习能力，尝试去拟合任务内在的监督信号 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 。但是这种做法存在两个问题：</p><ul><li>鲁棒性和泛化能力有待考究。训练完， <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 是一个固定的表征，模型推理时对于任意的输入，该监督信号是否都能够get到关键信息；</li><li>单个监督信号表征的信息不充分。单个static监督信号无法cover整个特征空间，只能捕捉到某一层面的信息。</li></ul><h2>3. Basic-Attention的变体</h2><p>既然上面讲了那么多Basic-Attention存在的问题，那么接下来就得讲讲该如何缓解这些问题。主要介绍两个思路。</p><p>其一，定义单个监督信号 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 所能表征的信息不够充分，那么最直接的做法就是定义多个监督信号，期望每个监督信号都能捕捉到不同层面的信息。这块工作的经典论文为“A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING”，文中还顺带提出一个有意思的正则项，用来迫使每个监督信号分别attention到不同信息。</p><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1703.03130\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">A Structured Self-attentive Sentence Embedding</a><p>其二，可训练的监督信号训练结束后是固定的，我们期望可以根据具体的输入文本，动态的调整监督信号，提高模型的鲁棒性和泛化能力。这个方向还没有出现较为成熟的方案，此处给大家推荐一篇dynamic self-attention作为参考。作者结合multi-head的形式取得了较好的结果，链接如下。</p><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1808.07383\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Dynamic Self-Attention : Computing Attention over Words Dynamically for Sentence Embedding</a><p>延续前文思路，个人认为attention机制后续发展的关键还是在于如何去定义或者生成动态自适应的监督信号 <img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 。</p><p>最后，有同学可能会有疑惑，谈attention，怎么能不提到Transformer中的attention结构呢？简单说两句我个人的理解，Transformer中的 <img src=\"https://www.zhihu.com/equation?tex=%5C%7BQ%2CK%2CV%5C%7D\" alt=\"\\{Q,K,V\\}\" eeimg=\"1\"/> 三者都来自其自身的表征 <img src=\"https://www.zhihu.com/equation?tex=X\" alt=\"X\" eeimg=\"1\"/> ，舍弃LSTM，转而利用“self-attention”来表征每个词与其上下文的联系。encoder中的多个block可以看作是多层级联的BiLSTM。</p>", 
+            "topic": [
+                {
+                    "tag": "自然语言处理", 
+                    "tagLink": "https://api.zhihu.com/topics/19560026"
+                }, 
+                {
+                    "tag": "注意力机制", 
+                    "tagLink": "https://api.zhihu.com/topics/20682987"
+                }, 
+                {
+                    "tag": "Attention-based Model", 
+                    "tagLink": "https://api.zhihu.com/topics/20184445"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/52061158", 
+            "userName": "Light", 
+            "userLink": "https://www.zhihu.com/people/c03ea235c4af15f64f20fb461e7e19ad", 
+            "upvote": 49, 
+            "title": "深入理解语言模型 Language Model", 
+            "content": "<blockquote>写在前面：入门自然语言处理不久，时常在知乎上学习大佬们分享的知识，在此首先谢谢大家无私的分享。总想着写点什么回馈知友，顺便记录自己学习的历程，故开通了此NLP专栏。积硅步，致千里，共勉！<br/>专栏的处女篇献给自然语言处理中的语言模型介绍，尽量会加入自己的思考和理解。</blockquote><hr/><p>本文总结自近来对语言模型的调研，有空会不断参考完善。大家有什么建议和意见都可以在评论区指出，一起讨论交流，谢谢大家。</p><h2>1. 定义</h2><ul><li>标准定义：对于语言序列 <img src=\"https://www.zhihu.com/equation?tex=w_1%2Cw_2%2C...%2Cw_n\" alt=\"w_1,w_2,...,w_n\" eeimg=\"1\"/>，语言模型就是计算该序列的概率，即 <img src=\"https://www.zhihu.com/equation?tex=P%28w_1%2C+w_2%2C+...%2Cw_n%29\" alt=\"P(w_1, w_2, ...,w_n)\" eeimg=\"1\"/> 。</li><li>从机器学习的角度来看：语言模型是对语句的<b>概率分布</b>的建模。</li><li>通俗解释：判断一个语言序列是否是正常语句，即是否是<b>人话，</b>例如 <img src=\"https://www.zhihu.com/equation?tex=P%28I+%5C+am+%5C+Light%29%3EP%28Light+%5C+I+%5C+am%29\" alt=\"P(I \\ am \\ Light)&gt;P(Light \\ I \\ am)\" eeimg=\"1\"/> 。</li></ul><h2>2. 统计语言模型</h2><h2>2.1 n-gram 语言模型的基本知识</h2><p>首先，由链式法则(chain rule)可以得到</p><p><img src=\"https://www.zhihu.com/equation?tex=P%28w_1%2Cw_2%2C...%2Cw_n%29%3DP%28w_1%29P%28w_2%7Cw_1%29%5Ccdot%5Ccdot%5Ccdot+P%28w_n%7Cw_1%2C...%2Cw_%7Bn-1%7D%29\" alt=\"P(w_1,w_2,...,w_n)=P(w_1)P(w_2|w_1)\\cdot\\cdot\\cdot P(w_n|w_1,...,w_{n-1})\" eeimg=\"1\"/> </p><p>在统计语言模型中，采用极大似然估计来计算每个词出现的条件概率，即</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7D+P%28w_i%7Cw_1%2C...%2Cw_%7Bi-1%7D%29%26%3D%5Cfrac%7BC%28w_1%2Cw_2%2C...%2Cw_i%29%7D%7B%5Csum_%7Bw%7DC%28w_1%2Cw_2%2C..w_%7Bi-1%7D%2Cw%29%7D%5C%5C+%26%5Coverset%7B%5Ctext%7B%3F%7D%7D%7B%3D%7D%5Cfrac%7BC%28w_1%2Cw_2%2C...%2Cw_i%29%7D%7BC%28w_1%2Cw_2%2C..w_%7Bi-1%7D%29%7D+%5Cend%7Balign%7D+\" alt=\"\\begin{align} P(w_i|w_1,...,w_{i-1})&amp;=\\frac{C(w_1,w_2,...,w_i)}{\\sum_{w}C(w_1,w_2,..w_{i-1},w)}\\\\ &amp;\\overset{\\text{?}}{=}\\frac{C(w_1,w_2,...,w_i)}{C(w_1,w_2,..w_{i-1})} \\end{align} \" eeimg=\"1\"/> </p><p>其中，<img src=\"https://www.zhihu.com/equation?tex=C%28%5Ccdot%29\" alt=\"C(\\cdot)\" eeimg=\"1\"/> 表示子序列在训练集中出现的次数。注意，上式存在一个<b>细节</b>，很多讲义上都是默认第二步直接等式成立。是否是这样呢，先埋一个坑，看官请仔细往下看。</p><p>对于任意长的自然语言语句，根据极大似然估计直接计算 <img src=\"https://www.zhihu.com/equation?tex=P%28w_i%7Cw_1%2C...%2Cw_%7Bi-1%7D%29\" alt=\"P(w_i|w_1,...,w_{i-1})\" eeimg=\"1\"/> 显然不现实。</p><p>为了解决这个问题，我们引入<b>马尔可夫假设</b>(Markov assumption)，即假设当前词出现的概率只依赖于前 <img src=\"https://www.zhihu.com/equation?tex=n-1\" alt=\"n-1\" eeimg=\"1\"/> 个词，可以得到</p><p><img src=\"https://www.zhihu.com/equation?tex=P%28w_i%7Cw_1%2Cw_2%2C...%2Cw_%7Bi-1%7D%29%3DP%28w_i%7Cw_%7Bi-n%2B1%7D%2C...%2Cw_%7Bi-1%7D%29\" alt=\"P(w_i|w_1,w_2,...,w_{i-1})=P(w_i|w_{i-n+1},...,w_{i-1})\" eeimg=\"1\"/> </p><p>基于上式，定义 <b>n-gram</b> 语言模型如下：</p><p>n=1 unigram：<img src=\"https://www.zhihu.com/equation?tex=P%28w_1%2Cw_2%2C...%2Cw_n%29%3D%5Cprod_%7Bi%3D1%7D%5E%7Bn%7DP%28w_i%29\" alt=\"P(w_1,w_2,...,w_n)=\\prod_{i=1}^{n}P(w_i)\" eeimg=\"1\"/> </p><p>n=2 bigram：  <img src=\"https://www.zhihu.com/equation?tex=P%28w_1%2Cw_2%2C...%2Cw_n%29%3D%5Cprod_%7Bi%3D1%7D%5E%7Bn%7DP%28w_i%7Cw_%7Bi-1%7D%29\" alt=\"P(w_1,w_2,...,w_n)=\\prod_{i=1}^{n}P(w_i|w_{i-1})\" eeimg=\"1\"/></p><p>n=3 trigram：  <img src=\"https://www.zhihu.com/equation?tex=P%28w_1%2Cw_2%2C...%2Cw_n%29%3D%5Cprod_%7Bi%3D1%7D%5E%7Bn%7DP%28w_i%7Cw_%7Bi-2%7D%2Cw_%7Bi-1%7D%29\" alt=\"P(w_1,w_2,...,w_n)=\\prod_{i=1}^{n}P(w_i|w_{i-2},w_{i-1})\" eeimg=\"1\"/></p><p>...</p><p>其中， 当 <img src=\"https://www.zhihu.com/equation?tex=n%3E1\" alt=\"n&gt;1\" eeimg=\"1\"/> 时，为了使句首词的条件概率有意义，需要给原序列加上一个或多个<b>起始符 </b><img src=\"https://www.zhihu.com/equation?tex=%3Cs%3E\" alt=\"&lt;s&gt;\" eeimg=\"1\"/> 。可以说起始符的作用就是为了<b>表征句首词出现的条件概率</b>。</p><blockquote>我不清楚大家第一次见到 bigram 概率连乘的时候是怎么考虑的。因为如果只是对chain rule后面的条件概率采用Markov assumption，那应该没有 <img src=\"https://www.zhihu.com/equation?tex=P%28w_1%29\" alt=\"P(w_1)\" eeimg=\"1\"/> 什么事啊！<br/>我个人开始理解的角度以为单纯的是为了把 <img src=\"https://www.zhihu.com/equation?tex=P%28w_1%29\" alt=\"P(w_1)\" eeimg=\"1\"/> 纳入连乘的形式，所以给全部句子都加入一个起始符。但是如果细想不难发现 <img src=\"https://www.zhihu.com/equation?tex=P%28w_1%29\" alt=\"P(w_1)\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=P%28w_1%7C%3Cs%3E%29\" alt=\"P(w_1|&lt;s&gt;)\" eeimg=\"1\"/> 背后的意义完全不同。</blockquote><p>好了，以 bigram 为例，现在的序列变成了<img src=\"https://www.zhihu.com/equation?tex=%3Cs%3E%2Cw_1%2Cw_2%2C...%2Cw_n\" alt=\"&lt;s&gt;,w_1,w_2,...,w_n\" eeimg=\"1\"/>。看到这里，肯定有人会问，n-gram 中常见的序列形式不应该还有个<b>结束符</b> <img src=\"https://www.zhihu.com/equation?tex=%3C%2Fs%3E\" alt=\"&lt;/s&gt;\" eeimg=\"1\"/> 嘛，那结束符又是用来干嘛的呢？</p><blockquote>很多书上对此的解释都是一笔带过，说加上结束符&lt;/s&gt;是为了使所有句子的概率和为1。<br/>我们不禁要思考的是这句话正确吗，难道不加结束符概率就不是1了吗？<br/>带着这个问题以及前面埋的坑，继续往下。</blockquote><p>考虑一个简单却直观的情形，假设词表 <img src=\"https://www.zhihu.com/equation?tex=V%3D%5C%7Ba%2C%5C+b%5C%7D\" alt=\"V=\\{a,\\ b\\}\" eeimg=\"1\"/> ，训练集给定如下</p><blockquote>共四个序列，每个序列的长度为2(不包括起始符)<br/> <img src=\"https://www.zhihu.com/equation?tex=W_1%3A~~%3Cs%3E~a~~b\" alt=\"W_1:~~&lt;s&gt;~a~~b\" eeimg=\"1\"/> <br/> <img src=\"https://www.zhihu.com/equation?tex=W_2%3A~~%3Cs%3E~b~~b\" alt=\"W_2:~~&lt;s&gt;~b~~b\" eeimg=\"1\"/> <br/> <img src=\"https://www.zhihu.com/equation?tex=W_3%3A~~%3Cs%3E~b~~a\" alt=\"W_3:~~&lt;s&gt;~b~~a\" eeimg=\"1\"/> <br/> <img src=\"https://www.zhihu.com/equation?tex=W_4%3A~~%3Cs%3E~a~~a\" alt=\"W_4:~~&lt;s&gt;~a~~a\" eeimg=\"1\"/> <br/>注：该例取自<a href=\"https://link.zhihu.com/?target=https%3A//web.stanford.edu/~jurafsky/slp3/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Speech and Language Processing 3rd ed</a></blockquote><p>不难发现，上述四个序列已经囊括了词表 <img src=\"https://www.zhihu.com/equation?tex=V\" alt=\"V\" eeimg=\"1\"/> 下长度为2的所有可能序列。</p><p><b>不考虑结束符</b>，先利用上述极大似然估计的第一个等式可直接计算出</p><p><img src=\"https://www.zhihu.com/equation?tex=P%28a%7C%3Cs%3E%29%3D1%2F2%2C~P%28b%7C%3Cs%3E%29%3D1%2F2+\" alt=\"P(a|&lt;s&gt;)=1/2,~P(b|&lt;s&gt;)=1/2 \" eeimg=\"1\"/> </p><p><img src=\"https://www.zhihu.com/equation?tex=P%28a%7Ca%29%3D1%2F2%2C~P%28a%7Cb%29%3D1%2F2%2C~P%28b%7Ca%29%3D1%2F2%2C~P%28b%7Cb%29%3D1%2F2\" alt=\"P(a|a)=1/2,~P(a|b)=1/2,~P(b|a)=1/2,~P(b|b)=1/2\" eeimg=\"1\"/> </p><p>然后，基于 bigram 语言模型，惊奇的发现</p><p><img src=\"https://www.zhihu.com/equation?tex=P%28W_1%29%2BP%28W_2%29%2BP%28W_3%29%2BP%28W_4%29%3D1\" alt=\"P(W_1)+P(W_2)+P(W_3)+P(W_4)=1\" eeimg=\"1\"/> </p><p><b>What? </b>说好的语言模型是建模<b>所有句子</b>的概率分布呢，怎么对于长度为2的序列，所有的概率和就满足1了，这还给不给其他长度的序列活路了？</p><blockquote>感兴趣的同学可以尝试一下，同样词表 <img src=\"https://www.zhihu.com/equation?tex=V\" alt=\"V\" eeimg=\"1\"/> 下，训练集包含所有序列长度为3的情形。</blockquote><p>这里直接给出<b>结论</b>：</p><ul><li>当不加结束符时，n-gram 语言模型只能分别对所有<b>固定长度</b>的序列进行概率分布建模，而不是任意长度的序列。</li><li>出现这个现象的原因就是，上述极大似然估计的第二个等式只有在序列包含结束符的时候才成立。(填坑了)</li><li>综合上述两点，解释和印证了添加结束符的作用。</li></ul><h2>2.2 n-gram 语言模型中的平滑技术</h2><p>由于平滑(Smoothing)这块内容网上介绍的都还挺详细的，并且我个人对平滑技术并无新的理解，故不打算做详细展开，忘谅解。</p><p>首先，来看一下，平滑技术是干嘛的？</p><p>一方面，我们知道自然语言处理中的一大痛点就是出现<b>未登录词</b>(OOV)的问题，即测试集中出现了训练集中未出现过的词，导致语言模型计算出的概率为零。另一方面，可能某个子序列未在训练集中出现，也会导致概率为零。而这显然不是我们乐意看到的，平滑的出现就是为了缓解这类问题。</p><p>其次，常见的平滑技术有：</p><ol><li>Laplace Smoothing</li><li>Interpolation</li><li>Kneser-Ney</li><li>...</li></ol><h2>2.3 n-gram 语言模型小结</h2><p>总结下基于统计的 n-gram 语言模型的优缺点：</p><p>优点：(1) 采用极大似然估计，参数易训练；(2) 完全包含了前 n-1 个词的全部信息；(3) 可解释性强，直观易理解。</p><p>缺点：(1) 缺乏长期依赖，只能建模到前 n-1 个词；(2) 随着 n 的增大，参数空间呈指数增长；(3) 数据稀疏，难免会出现OOV的问题；(4) 单纯的基于统计频次，泛化能力差。</p><h2>3. 神经网络语言模型</h2><p>有了上面的基础，我们可以稍微总结下语言模型到底在建模什么，私以为可以看作是在给定一个序列的前提下，预测下一个词出现的概率，即</p><p><img src=\"https://www.zhihu.com/equation?tex=P%28w_i%7Cw_1%2C...%2Cw_%7Bi-1%7D%29\" alt=\"P(w_i|w_1,...,w_{i-1})\" eeimg=\"1\"/> </p><p>不论 n-gram 中的 n 怎么选取，实际上都是对上式的近似。理解了这点，就不难理解神经网络语言模型的本质。</p><h2>3.1 基于前馈神经网络的模型</h2><p>Bengio 在03年的这篇经典 <a href=\"https://link.zhihu.com/?target=http%3A//www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">paper</a> 中，提出了如下图所示的前馈神经网络结构</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-16f0cd6ee4356dae5218c4739faf1e00_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"1042\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-16f0cd6ee4356dae5218c4739faf1e00_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;1042&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"1042\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-16f0cd6ee4356dae5218c4739faf1e00_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-16f0cd6ee4356dae5218c4739faf1e00_b.jpg\"/></figure><p>先给每个词在连续空间中赋予一个向量(词向量)，再通过神经网络去学习这种分布式表征。利用神经网络去建模当前词出现的概率与其前 n-1 个词之间的约束关系。很显然这种方式相比 n-gram 具有更好的<b>泛化能力</b>，<b>只要词表征足够好。</b>从而很大程度地降低了数据稀疏带来的问题。但是这个结构的明显缺点是仅包含了<b>有限的前文信息</b>。</p><h2>3.2 基于循环神经网络的模型</h2><p>为了解决定长信息的问题，Mikolov 于2010年发表的论文 <a href=\"https://link.zhihu.com/?target=https%3A//www.isca-speech.org/archive/archive_papers/interspeech_2010/i10_1045.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Recurrent neural network based language model</a> 正式揭开了循环神经网络(RNN)在语言模型中的强大历程。</p><blockquote>插一句，注意力机制(attention mechanism)应用在 seq2seq 中也是为了克服 encoder 对任意句子只能给出一个固定size的表征，而这个表征在遇到长句时则显得包含信息量不够。</blockquote><p>以序列<b>“我想你”</b>为例介绍RNN语言模型的建模过程：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4fb52f5a6c8dc4cd97318ee2de187fc8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1287\" data-rawheight=\"1227\" class=\"origin_image zh-lightbox-thumb\" width=\"1287\" data-original=\"https://pic1.zhimg.com/v2-4fb52f5a6c8dc4cd97318ee2de187fc8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1287&#39; height=&#39;1227&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1287\" data-rawheight=\"1227\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1287\" data-original=\"https://pic1.zhimg.com/v2-4fb52f5a6c8dc4cd97318ee2de187fc8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4fb52f5a6c8dc4cd97318ee2de187fc8_b.jpg\"/></figure><p>在统计语言模型中，介绍过需要给序列添加起始符和结束符，神经网络语言模型也不例外。网络的输入层是&#34;&lt;s&gt;我想你&#34;，输出层可以看作是分别计算条件概率 P(w|&lt;s&gt;)、P(w|&lt;s&gt;我)、P(w|&lt;s&gt;我想)、P(w|&lt;s&gt;我想你) 在整个词表<img src=\"https://www.zhihu.com/equation?tex=%7CV%7C\" alt=\"|V|\" eeimg=\"1\"/>中值。而我们的目标就是使期望词对应的条件概率尽可能大。</p><p>相比单纯的前馈神经网络，隐状态的传递性使得RNN语言模型原则上可以捕捉前向序列的所有信息(虽然可能比较弱)。通过在整个训练集上优化交叉熵来训练模型，使得网络能够尽可能建模出自然语言序列与后续词之间的内在联系。</p><h2>3.3 神经网络语言模型小结</h2><p>神经网络语言模型(NNLM)通过构建神经网络的方式来探索和建模自然语言内在的依赖关系。尽管与统计语言模型的直观性相比，神经网络的黑盒子特性决定了NNLM的可解释性较差，但这并不妨碍其成为一种非常好的概率分布建模方式。</p><p>优点：(1) 长距离依赖，具有更强的约束性；(2) 避免了数据稀疏所带来的OOV问题；(3) 好的词表征能够提高模型泛化能力。</p><p>缺点：(1) 模型训练时间长；(2) 神经网络黑盒子，可解释性较差。</p><h2>4. 语言模型的评价指标</h2><p>上面介绍了两大类对语言模型建模的方式，细心的同学已经可能已经考虑到了：既然大家都是对自然语言的概率建模，那么怎么知道谁效果更好呢，谁的模型更加接近真实分布呢？信息论中常采用<b>相对熵</b>(relative entropy)来衡量两个分布之间的相近程度。</p><blockquote>对于离散随机变量X，熵、交叉熵以及相对熵的定义分别如下<br/> <img src=\"https://www.zhihu.com/equation?tex=H%28p%29+%3D-%5Csum_i+p%28x_i%29%5Ctext%7Blog%7Dp%28x_i%29\" alt=\"H(p) =-\\sum_i p(x_i)\\text{log}p(x_i)\" eeimg=\"1\"/> <br/> <img src=\"https://www.zhihu.com/equation?tex=H%28p%2Cq%29%3D-%5Csum_i+p%28x_i%29%5Ctext%7Blog%7Dq%28x_i%29\" alt=\"H(p,q)=-\\sum_i p(x_i)\\text{log}q(x_i)\" eeimg=\"1\"/> <br/> <img src=\"https://www.zhihu.com/equation?tex=D%28p%7C%7Cq%29%3DH%28p%2Cq%29-H%28p%29%3D%5Csum_i+p%28x_i%29%5Ctext%7Blog%7Dp%28x_i%29%2Fq%28x_i%29\" alt=\"D(p||q)=H(p,q)-H(p)=\\sum_i p(x_i)\\text{log}p(x_i)/q(x_i)\" eeimg=\"1\"/> <br/>其中， <img src=\"https://www.zhihu.com/equation?tex=p%28x%29\" alt=\"p(x)\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=q%28x%29\" alt=\"q(x)\" eeimg=\"1\"/> 都是对随机变量概率分布的建模。</blockquote><p>假定 <img src=\"https://www.zhihu.com/equation?tex=p\" alt=\"p\" eeimg=\"1\"/> 是样本的真实分布，<img src=\"https://www.zhihu.com/equation?tex=q\" alt=\"q\" eeimg=\"1\"/> 是对其的建模。因为真实分布的熵 <img src=\"https://www.zhihu.com/equation?tex=H%28p%29\" alt=\"H(p)\" eeimg=\"1\"/> 值是确定的，因此优化相对熵 <img src=\"https://www.zhihu.com/equation?tex=D%28p%7C%7Cq%29\" alt=\"D(p||q)\" eeimg=\"1\"/> 等价于优化交叉熵 <img src=\"https://www.zhihu.com/equation?tex=H%28p%2Cq%29+\" alt=\"H(p,q) \" eeimg=\"1\"/>。这里有个小细节是 <img src=\"https://www.zhihu.com/equation?tex=H%28p%2Cq%29%5Cgeq+H%28p%29\" alt=\"H(p,q)\\geq H(p)\" eeimg=\"1\"/> 恒成立，感兴趣的同学可在<a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Gibbs%2527_inequality\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这里</a>找到具体证明过程。</p><p>对于自然语言序列 <img src=\"https://www.zhihu.com/equation?tex=W%3Dw_1%2Cw_2%2C...%2Cw_N\" alt=\"W=w_1,w_2,...,w_N\" eeimg=\"1\"/>，可以推导得到对每个词的平均交叉熵为：</p><p><img src=\"https://www.zhihu.com/equation?tex=H%28W%29%3D-%5Cfrac%7B1%7D%7BN%7D%5Ctext%7Blog%7DP%28w_1%2Cw_2%2C...%2Cw_N%29\" alt=\"H(W)=-\\frac{1}{N}\\text{log}P(w_1,w_2,...,w_N)\" eeimg=\"1\"/> </p><p>显然，交叉熵越小，则建模的概率分布越接近真实分布。交叉熵描述的是样本的平均编码长度，虽然物理意义很明确，但是不够直观。因此，在此基础上，我们定义<b>困惑度</b>(perplexity) <img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7D+%5Ctext%7BPreplexity%7D%28W%29%26%3D2%5E%7BH%28W%29%7D%5C%5C+%26%3D%5Csqrt%5BN%5D%7B%5Cfrac%7B1%7D%7BP%28w_1%2C...%2Cw_N%29%7D%7D+%5Cend%7Balign%7D\" alt=\"\\begin{align} \\text{Preplexity}(W)&amp;=2^{H(W)}\\\\ &amp;=\\sqrt[N]{\\frac{1}{P(w_1,...,w_N)}} \\end{align}\" eeimg=\"1\"/> </p><p>困惑度在语言模型中的物理意义可以描述为对于任意给定序列，下一个候选词的可选范围大小。同样的，困惑度越小，说明所建模的语言模型越精确。</p><p>谷歌找了下资料，发现英文数据集PTB上最新的困惑度结果可以达到47.69，细思极恐，详见<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1711.03953.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">论文</a>。中文目前还没找到最新的结果，但可以肯定的是基于神经网络的语言模型在困惑度指标上要明显优于传统n-gram语言模型。</p><h2>5. 总结</h2><p>从特性上可以将 n-gram 语言模型看作是基于词与词<b>共现频次</b>的统计，而神经网络语言模型则是给每个词分别赋予分布式向量表征，探索它们在<b>高维连续空间</b>中的依赖关系。实验证明，神经网络的分布式表征以及非线性映射更加适合对自然语言进行建模。</p><p>最后，稍微提一句语言模型在机器翻译和语音识别中的应用。基于<b>贝叶斯定理</b>，这两类应用都可以建模为如下形式</p><p><img src=\"https://www.zhihu.com/equation?tex=P%28y%7Cx%29%3D%5Cfrac%7BP%28x%7Cy%29P%28y%29%7D%7BP%28x%29%7D\" alt=\"P(y|x)=\\frac{P(x|y)P(y)}{P(x)}\" eeimg=\"1\"/> </p><p>从贝叶斯概率的角度出发，可以将语言模型 <img src=\"https://www.zhihu.com/equation?tex=P%28y%29\" alt=\"P(y)\" eeimg=\"1\"/> 看作为一种<b>先验</b>知识，从而指导最终结果选择。</p>", 
+            "topic": [
+                {
+                    "tag": "自然语言处理", 
+                    "tagLink": "https://api.zhihu.com/topics/19560026"
+                }, 
+                {
+                    "tag": "神经网络语言模型", 
+                    "tagLink": "https://api.zhihu.com/topics/19955854"
+                }, 
+                {
+                    "tag": "RNN", 
+                    "tagLink": "https://api.zhihu.com/topics/20086967"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "明明如月", 
+                    "userLink": "https://www.zhihu.com/people/0a6f120ef9fb2d93bb87b8d7c06242f7", 
+                    "content": "期待，我也萌新，可以跟着学习", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Light", 
+                            "userLink": "https://www.zhihu.com/people/c03ea235c4af15f64f20fb461e7e19ad", 
+                            "content": "哈哈，谢谢，知乎第一个评论。不过有点晚了，先睡了，明天还得早起上班。", 
+                            "likes": 0, 
+                            "replyToAuthor": "明明如月"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "nihaowhut", 
+                    "userLink": "https://www.zhihu.com/people/e925fc10660acc004a08f4cc62637b87", 
+                    "content": "这个理解的太不深入了吧，就讲一个ngram?", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Light", 
+                            "userLink": "https://www.zhihu.com/people/c03ea235c4af15f64f20fb461e7e19ad", 
+                            "content": "不好意思，还没码完，不应该放个半成品出来，目前确实学习意义不大。后面还会加神经网络语言模型，两者的对比，以及语言模型的评价指标困惑度等内容。谢谢", 
+                            "likes": 0, 
+                            "replyToAuthor": "nihaowhut"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "潘小蓉", 
+                    "userLink": "https://www.zhihu.com/people/590381ca0bedf05d802baf4f2351a3c4", 
+                    "content": "写的不错，继续加油～", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>你好，文章写的很棒，我想问一个问题，请问下语言模型和深度学习模型有什么区别和联系呢，谢谢！</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Light", 
+                            "userLink": "https://www.zhihu.com/people/c03ea235c4af15f64f20fb461e7e19ad", 
+                            "content": "<p>谢谢。不管是基于统计的方法还是基于深度学习的方法，都是对语言模型的建模的手段。或者这么理解：获取语言模型的概率分布是我们的目标，而深度学习语言模型只是达到这一目标的一种途径，并且这种途径建模出的效果比较优。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>理解了，非常感谢解答！</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Light"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "寒潭烟光", 
+                    "userLink": "https://www.zhihu.com/people/f8a73df53a994734f3b2970c96393c4c", 
+                    "content": "<p>测试集有很多句子，每个句子得到的ppl不同，计算模型的ppl，最后是取测试集中所有句子ppl的平均吗</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Light", 
+                            "userLink": "https://www.zhihu.com/people/c03ea235c4af15f64f20fb461e7e19ad", 
+                            "content": "<p>我看到的做法是：将所有句子的概率作乘积，再对单词总数(含重复)求平均。把文中的困惑度公式按前述相应替换即可。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "寒潭烟光"
+                        }, 
+                        {
+                            "userName": "寒潭烟光", 
+                            "userLink": "https://www.zhihu.com/people/f8a73df53a994734f3b2970c96393c4c", 
+                            "content": "<p>谢谢</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Light"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "流星街拉比克", 
+                    "userLink": "https://www.zhihu.com/people/6e956315ab92a176b4fc746eda1e22f6", 
+                    "content": "<p>您好，对于第二节n-gram语言模型中为什么要加结束符的解释，你的一个结论：</p><p>`出现这个现象的原因就是，上述极大似然估计的第二个等式只有在序列包含结束符的时候才成立` 我不能理解。</p><p>按我的理解是，n-gram模型之所以要加结束符，是由其基于假设的语句概率公式决定的：取某固定长度，对该长度所有可能句子（不带结束符）的n-gram概率求和，可以推导出概率和的结果必为1（我用数学符号推了下，你文中是用具体例子）。如果加上结束符，即在式子中乘上结束符的条件概率，则固定长度句子的概率和结果小于1（如何推导所有带结束符句子的概率和为1我不会..）。也就是说，我认为出现定长概率和为1的现象的原因在于n-gram模型的式子本身。不明白与极大似然估计有何联系呢？反过来，极大似然估计得第二个等式成立与否与序列是否包含结束符又有什么关系呢？</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "流星街拉比克", 
+                    "userLink": "https://www.zhihu.com/people/6e956315ab92a176b4fc746eda1e22f6", 
+                    "content": "<p>您好，对于第二节n-gram语言模型中为什么要加结束符的解释，你的一个结论：</p><p>`出现这个现象的原因就是，上述极大似然估计的第二个等式只有在序列包含结束符的时候才成立` 我不能理解。</p><p>按我的理解是，n-gram模型之所以要加结束符，是由其基于假设的语句概率公式决定的：取某固定长度，对该长度所有可能句子（不带结束符）的n-gram概率求和，可以推导出概率和的结果必为1（我用数学符号推了下，你文中是用具体例子）。如果加上结束符，即在式子中乘上结束符的条件概率，则固定长度句子的概率和结果小于1（如何推导所有带结束符句子的概率和为1我不会..）。也就是说，我认为出现定长概率和为1的现象的原因在于n-gram模型的式子本身。不明白与极大似然估计有何联系呢？反过来，极大似然估计得第二个等式成立与否与序列是否包含结束符又有什么关系呢？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "流星街拉比克", 
+                    "userLink": "https://www.zhihu.com/people/6e956315ab92a176b4fc746eda1e22f6", 
+                    "content": "<p>修改下：首先我认为出现和为1的现象其实就是随机变量概率和为1的另一种表达（给定长度，所有串的概率和就是1，根据定义或者chain rule计算都可以得出），与n-gram无关；加上结束符，则给定长度的串结尾是固定的，那么概率和肯定小于1；所有任意长度带结尾符的串代表无穷无尽的句子，那么根据定义概率和为1。</p><p>要加开始符的原因我认同是为了表征，不加其实也行，用p(x1)代替p(x1|start)，也可以表示一个句子的概率，但这样句子概率式子就缺少了“x1为起始词的概率”的意义。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Light", 
+                            "userLink": "https://www.zhihu.com/people/c03ea235c4af15f64f20fb461e7e19ad", 
+                            "content": "<p>您好，谢谢关注，简要回答下您的两个问题。</p><p>首先，语言模型的定义是为了建模任意语句序列的概率分布。如果不加结束符，那么语言模型将退化为句长为1的语言模型；句长为2的语言模型；依此类推。</p><p>其次，对于起始符，不能简单用p(x1)代替p(x1|start)，两者一方面从概率值上就不相等，另一方面物理意义也完全不一样。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "流星街拉比克"
+                        }, 
+                        {
+                            "userName": "Daler Mir", 
+                            "userLink": "https://www.zhihu.com/people/24dad037f756a541e15d157022c9934e", 
+                            "content": "<p>加结束符应该是因为极大似然第一个公式中分母的w有可能为结束符吧，所以加了加结束符后，两个式子相等。否则第一个式子会大于等于第二个式子。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Light"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "小妖漏掉的沙", 
+                    "userLink": "https://www.zhihu.com/people/cf0f10535dc935e56c836aa9cd9008ad", 
+                    "content": "<p>你好，写的很好。请问下bengio基于前馈神经网络的模型，可以： 得到每个word的vector，也可以根据前n-1个词，预测第n个词的概率。那么请问如何计算整句话的概率或者ppi，判断不同句子的合理性？谢谢</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "miaomiao", 
+                    "userLink": "https://www.zhihu.com/people/7de289951e0b786f810e9982f4826ae6", 
+                    "content": "<p>在讲n-gram时解释为什么要加结尾符，计算p(a|b)=1/2，没有考虑前后顺序，如果考虑前后顺序应该是p(a|b)=1/4，个人理解...</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/nlplight"
+}

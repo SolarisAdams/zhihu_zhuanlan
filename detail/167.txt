@@ -1,0 +1,585 @@
+{
+    "title": "Condition Number", 
+    "description": "其实只是读书笔记而已。", 
+    "followers": [
+        "https://www.zhihu.com/people/yuan-duo-22-73", 
+        "https://www.zhihu.com/people/weibo-43-47", 
+        "https://www.zhihu.com/people/alen6", 
+        "https://www.zhihu.com/people/jingyu-chen-86", 
+        "https://www.zhihu.com/people/zjscu-31", 
+        "https://www.zhihu.com/people/complexfilter", 
+        "https://www.zhihu.com/people/qing-bo-de-jia-xiang-78", 
+        "https://www.zhihu.com/people/shan-lin-hu", 
+        "https://www.zhihu.com/people/ch-zyro", 
+        "https://www.zhihu.com/people/xiao-min-62-11-18", 
+        "https://www.zhihu.com/people/huo-zhao-kai-xin-jiu-hao-60", 
+        "https://www.zhihu.com/people/wang-mei-juan-80", 
+        "https://www.zhihu.com/people/jianlli", 
+        "https://www.zhihu.com/people/lukai-16", 
+        "https://www.zhihu.com/people/niu-lian-ze-8", 
+        "https://www.zhihu.com/people/nitro123", 
+        "https://www.zhihu.com/people/ke-lin-52-72", 
+        "https://www.zhihu.com/people/qin-shi-ming-yue-29", 
+        "https://www.zhihu.com/people/xzack", 
+        "https://www.zhihu.com/people/yihong-95-86", 
+        "https://www.zhihu.com/people/jupei", 
+        "https://www.zhihu.com/people/hello-kitty-43", 
+        "https://www.zhihu.com/people/long-chen-38-31", 
+        "https://www.zhihu.com/people/feng-xue-ye-gui-zi", 
+        "https://www.zhihu.com/people/sjhstone", 
+        "https://www.zhihu.com/people/guesswhathhh", 
+        "https://www.zhihu.com/people/linlol-43", 
+        "https://www.zhihu.com/people/tony-chen-53", 
+        "https://www.zhihu.com/people/yizhi-bi-gan-xxx", 
+        "https://www.zhihu.com/people/li-dong-40-53", 
+        "https://www.zhihu.com/people/hccc18", 
+        "https://www.zhihu.com/people/yu-qia-si", 
+        "https://www.zhihu.com/people/hs-mon-13", 
+        "https://www.zhihu.com/people/yihu-18-26", 
+        "https://www.zhihu.com/people/wu-meng-yang-67", 
+        "https://www.zhihu.com/people/zhang-li-cai-47-89", 
+        "https://www.zhihu.com/people/tao-ze-rui-66", 
+        "https://www.zhihu.com/people/ni-jia-peng-32", 
+        "https://www.zhihu.com/people/ttttssaaa", 
+        "https://www.zhihu.com/people/ni-hui-51-23", 
+        "https://www.zhihu.com/people/cai-xue-song-95-84", 
+        "https://www.zhihu.com/people/feng-jin-qi", 
+        "https://www.zhihu.com/people/ccc-20-22-93", 
+        "https://www.zhihu.com/people/ha-ha-17-96-16", 
+        "https://www.zhihu.com/people/fx0703fjf", 
+        "https://www.zhihu.com/people/deng-yue-87", 
+        "https://www.zhihu.com/people/shu-jian-piao-ling-19", 
+        "https://www.zhihu.com/people/0dmarkiii", 
+        "https://www.zhihu.com/people/tang-long-30-1", 
+        "https://www.zhihu.com/people/gao-fei-47-19", 
+        "https://www.zhihu.com/people/qiu-gan-fang-54", 
+        "https://www.zhihu.com/people/li-yi-cheng-99", 
+        "https://www.zhihu.com/people/ha-li-lu-ya-gjy", 
+        "https://www.zhihu.com/people/tzh13", 
+        "https://www.zhihu.com/people/zaerox-chang", 
+        "https://www.zhihu.com/people/sen-mei-24", 
+        "https://www.zhihu.com/people/zhang-yuan-43-63", 
+        "https://www.zhihu.com/people/wo-gakkixie-xie", 
+        "https://www.zhihu.com/people/ding-yi-88-84", 
+        "https://www.zhihu.com/people/shi-che-49", 
+        "https://www.zhihu.com/people/zhou-ke-yang-78", 
+        "https://www.zhihu.com/people/sheng-yi-yin", 
+        "https://www.zhihu.com/people/li-TCLTC", 
+        "https://www.zhihu.com/people/buttonwoodth", 
+        "https://www.zhihu.com/people/kaenlee123", 
+        "https://www.zhihu.com/people/fang-wen-yi-36", 
+        "https://www.zhihu.com/people/xiao-diao-tun-mo-gu", 
+        "https://www.zhihu.com/people/Jooooven", 
+        "https://www.zhihu.com/people/wo-shi-zhu-35-52", 
+        "https://www.zhihu.com/people/tong-tong-xiang", 
+        "https://www.zhihu.com/people/huoyang-huang", 
+        "https://www.zhihu.com/people/zhang-peng-12-13-44", 
+        "https://www.zhihu.com/people/liu-yidao-35", 
+        "https://www.zhihu.com/people/yixiaowang", 
+        "https://www.zhihu.com/people/xie-wen-60", 
+        "https://www.zhihu.com/people/huo-yan-66-12", 
+        "https://www.zhihu.com/people/zep-lam-58", 
+        "https://www.zhihu.com/people/zou-yuan-hang", 
+        "https://www.zhihu.com/people/cherish-88-1", 
+        "https://www.zhihu.com/people/kevinxu-63", 
+        "https://www.zhihu.com/people/wang-david-39", 
+        "https://www.zhihu.com/people/jiao-wen-jun-58", 
+        "https://www.zhihu.com/people/qing-an-30", 
+        "https://www.zhihu.com/people/pyktrader", 
+        "https://www.zhihu.com/people/zhang-wan-jia-61", 
+        "https://www.zhihu.com/people/owem-meow", 
+        "https://www.zhihu.com/people/weinan-rao", 
+        "https://www.zhihu.com/people/arnego", 
+        "https://www.zhihu.com/people/liu-fei-ya-74", 
+        "https://www.zhihu.com/people/da-tou-xiong", 
+        "https://www.zhihu.com/people/hong-zi-xuan-6", 
+        "https://www.zhihu.com/people/dai-jun-liang-80", 
+        "https://www.zhihu.com/people/zhong-zi-xing-18", 
+        "https://www.zhihu.com/people/xia-chu-hao-58", 
+        "https://www.zhihu.com/people/she-hui-96-41", 
+        "https://www.zhihu.com/people/wei-han-88", 
+        "https://www.zhihu.com/people/alex-he-40", 
+        "https://www.zhihu.com/people/alahlll", 
+        "https://www.zhihu.com/people/zhujianfeng", 
+        "https://www.zhihu.com/people/wu-dong-xian-90", 
+        "https://www.zhihu.com/people/tong-hui-99", 
+        "https://www.zhihu.com/people/yin-xu-45", 
+        "https://www.zhihu.com/people/novaavon", 
+        "https://www.zhihu.com/people/li-jia-lin-44-82", 
+        "https://www.zhihu.com/people/carvendish", 
+        "https://www.zhihu.com/people/moni-gg", 
+        "https://www.zhihu.com/people/kai-zhuang-33", 
+        "https://www.zhihu.com/people/1234112", 
+        "https://www.zhihu.com/people/zhao-rong-wen", 
+        "https://www.zhihu.com/people/tan-xing-yu-81", 
+        "https://www.zhihu.com/people/zw-huang-19", 
+        "https://www.zhihu.com/people/zijian-rao", 
+        "https://www.zhihu.com/people/liu-yu-55", 
+        "https://www.zhihu.com/people/fan-fan-39-81-54", 
+        "https://www.zhihu.com/people/deladela", 
+        "https://www.zhihu.com/people/badrobot-9", 
+        "https://www.zhihu.com/people/yeu-yang", 
+        "https://www.zhihu.com/people/zhebujiushi", 
+        "https://www.zhihu.com/people/Te-Aro", 
+        "https://www.zhihu.com/people/jiajia-li-24", 
+        "https://www.zhihu.com/people/simon-pun", 
+        "https://www.zhihu.com/people/tianxing-70-4", 
+        "https://www.zhihu.com/people/I9tm8", 
+        "https://www.zhihu.com/people/martin-tan-59", 
+        "https://www.zhihu.com/people/queen-noble", 
+        "https://www.zhihu.com/people/ibrahimma", 
+        "https://www.zhihu.com/people/cheng-cheng-62-82", 
+        "https://www.zhihu.com/people/ofxyh-hsiao", 
+        "https://www.zhihu.com/people/tai-feng-62", 
+        "https://www.zhihu.com/people/lai-san-hu", 
+        "https://www.zhihu.com/people/zhang-de-bing-78", 
+        "https://www.zhihu.com/people/feng-qing-yang-60-94", 
+        "https://www.zhihu.com/people/hugo-yu", 
+        "https://www.zhihu.com/people/mr_machine", 
+        "https://www.zhihu.com/people/li-yi-zhang-54", 
+        "https://www.zhihu.com/people/wang-xin-98-8-84", 
+        "https://www.zhihu.com/people/lu-le-wei", 
+        "https://www.zhihu.com/people/nekonaite", 
+        "https://www.zhihu.com/people/yin-li-hua-50", 
+        "https://www.zhihu.com/people/wikichang", 
+        "https://www.zhihu.com/people/xiao-tan-43", 
+        "https://www.zhihu.com/people/da-xu-gou", 
+        "https://www.zhihu.com/people/wen-hong-chen", 
+        "https://www.zhihu.com/people/hmax-46-68", 
+        "https://www.zhihu.com/people/feng-mou-mou-66", 
+        "https://www.zhihu.com/people/kevin-hill", 
+        "https://www.zhihu.com/people/wang-zhao-50-16", 
+        "https://www.zhihu.com/people/yuan-zi-han", 
+        "https://www.zhihu.com/people/xie-zheng-hang", 
+        "https://www.zhihu.com/people/qi-hui-jun", 
+        "https://www.zhihu.com/people/wang-shan-er-98", 
+        "https://www.zhihu.com/people/bear-water", 
+        "https://www.zhihu.com/people/zhou-er-jin-96", 
+        "https://www.zhihu.com/people/pprun", 
+        "https://www.zhihu.com/people/zc5678-87", 
+        "https://www.zhihu.com/people/wangzhong1982", 
+        "https://www.zhihu.com/people/lin-bei-67-39"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28936109", 
+            "userName": "jz wang", 
+            "userLink": "https://www.zhihu.com/people/3e1bafb8c3af2e5f49ce4ac7aea3c41e", 
+            "upvote": 2, 
+            "title": "试试用tensorflow来分辨奇异矩阵", 
+            "content": "<p>背景原因就不多说了，research需要……</p><p class=\"ztext-empty-paragraph\"><br/></p><p>目的是证明deep learning并不能轻易的区分一个矩阵是否是奇异的（singular matrix）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>由于是tensorflow小白，所以就跟着tensorflow官网上的<a href=\"https://link.zhihu.com/?target=https%3A//www.tensorflow.org/get_started/mnist/beginners\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">MNIST For ML Beginners</a>来写一个neural network</p><p class=\"ztext-empty-paragraph\"><br/></p><p>首先是生成奇异和非奇异矩阵，为了方便起见我直接生成的是正定矩阵和半正定矩阵（positive semi-definite matrix）：</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"k\">def</span> <span class=\"nf\">generate_spdmatrix</span><span class=\"p\">(</span><span class=\"n\">m</span><span class=\"p\">,</span> <span class=\"n\">n</span><span class=\"p\">,</span> <span class=\"n\">cond</span><span class=\"p\">):</span>                                                                                                                                                                     \n    <span class=\"s1\">&#39;generate n samples of m by m symmetric positive definite matrices.&#39;</span>\n    <span class=\"n\">M</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">random</span><span class=\"o\">.</span><span class=\"n\">rand</span><span class=\"p\">(</span><span class=\"n\">n</span><span class=\"p\">,</span> <span class=\"n\">m</span><span class=\"p\">,</span> <span class=\"n\">m</span><span class=\"p\">)</span>\n    <span class=\"n\">N</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">zeros</span><span class=\"p\">(</span><span class=\"n\">M</span><span class=\"o\">.</span><span class=\"n\">shape</span><span class=\"p\">)</span>\n    <span class=\"n\">diag</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">random</span><span class=\"o\">.</span><span class=\"n\">rand</span><span class=\"p\">(</span><span class=\"n\">n</span><span class=\"p\">,</span> <span class=\"n\">m</span><span class=\"p\">)</span>\n    <span class=\"n\">diag</span> <span class=\"o\">=</span> <span class=\"n\">diag</span> <span class=\"o\">/</span> <span class=\"n\">diag</span><span class=\"p\">[:,:</span><span class=\"mi\">1</span><span class=\"p\">]</span>\n    <span class=\"n\">diag</span><span class=\"p\">[:,</span> <span class=\"o\">-</span><span class=\"mi\">1</span><span class=\"p\">]</span> <span class=\"o\">=</span> <span class=\"mf\">1.</span> <span class=\"o\">/</span> <span class=\"n\">cond</span>\n    <span class=\"n\">cov</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">zeros</span><span class=\"p\">(</span><span class=\"n\">N</span><span class=\"o\">.</span><span class=\"n\">shape</span><span class=\"p\">)</span>\n    <span class=\"k\">for</span> <span class=\"n\">i</span> <span class=\"ow\">in</span> <span class=\"nb\">xrange</span><span class=\"p\">(</span><span class=\"n\">n</span><span class=\"p\">):</span>\n        <span class=\"n\">Q</span> <span class=\"o\">=</span> <span class=\"n\">N</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,</span> <span class=\"p\">:,</span> <span class=\"p\">:]</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">linalg</span><span class=\"o\">.</span><span class=\"n\">qr</span><span class=\"p\">(</span><span class=\"n\">M</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,</span> <span class=\"p\">:,</span> <span class=\"p\">:])[</span><span class=\"mi\">0</span><span class=\"p\">]</span>\n        <span class=\"n\">cov</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,</span> <span class=\"p\">:,</span> <span class=\"p\">:]</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">dot</span><span class=\"p\">(</span><span class=\"n\">Q</span><span class=\"o\">*</span><span class=\"n\">diag</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">],</span> <span class=\"n\">Q</span><span class=\"o\">.</span><span class=\"n\">T</span><span class=\"p\">)</span>\n    <span class=\"k\">return</span> <span class=\"n\">cov</span>\n<span class=\"k\">def</span> <span class=\"nf\">generate_singular_spdmatrix</span><span class=\"p\">(</span><span class=\"n\">m</span><span class=\"p\">,</span> <span class=\"n\">n</span><span class=\"p\">):</span>\n    <span class=\"s1\">&#39;generate n samples of m by m symmetric positive semi-definite matrices.&#39;</span>\n    <span class=\"n\">M</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">random</span><span class=\"o\">.</span><span class=\"n\">rand</span><span class=\"p\">(</span><span class=\"n\">n</span><span class=\"p\">,</span> <span class=\"n\">m</span><span class=\"p\">,</span> <span class=\"n\">m</span><span class=\"p\">)</span>\n    <span class=\"n\">N</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">zeros</span><span class=\"p\">(</span><span class=\"n\">M</span><span class=\"o\">.</span><span class=\"n\">shape</span><span class=\"p\">)</span>\n    <span class=\"n\">diag</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">random</span><span class=\"o\">.</span><span class=\"n\">rand</span><span class=\"p\">(</span><span class=\"n\">n</span><span class=\"p\">,</span> <span class=\"n\">m</span><span class=\"p\">)</span>\n    <span class=\"n\">diag</span> <span class=\"o\">=</span> <span class=\"n\">diag</span> <span class=\"o\">/</span> <span class=\"n\">diag</span><span class=\"p\">[:,:</span><span class=\"mi\">1</span><span class=\"p\">]</span>\n    <span class=\"n\">diag</span><span class=\"p\">[:,</span> <span class=\"o\">-</span><span class=\"mi\">1</span><span class=\"p\">]</span> <span class=\"o\">=</span> <span class=\"mf\">0.</span>\n    <span class=\"n\">cov</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">zeros</span><span class=\"p\">(</span><span class=\"n\">N</span><span class=\"o\">.</span><span class=\"n\">shape</span><span class=\"p\">)</span>\n    <span class=\"k\">for</span> <span class=\"n\">i</span> <span class=\"ow\">in</span> <span class=\"nb\">xrange</span><span class=\"p\">(</span><span class=\"n\">n</span><span class=\"p\">):</span>\n        <span class=\"n\">Q</span> <span class=\"o\">=</span> <span class=\"n\">N</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,</span> <span class=\"p\">:,</span> <span class=\"p\">:]</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">linalg</span><span class=\"o\">.</span><span class=\"n\">qr</span><span class=\"p\">(</span><span class=\"n\">M</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,</span> <span class=\"p\">:,</span> <span class=\"p\">:])[</span><span class=\"mi\">0</span><span class=\"p\">]</span>\n        <span class=\"n\">cov</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,</span> <span class=\"p\">:,</span> <span class=\"p\">:]</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">dot</span><span class=\"p\">(</span><span class=\"n\">Q</span><span class=\"o\">*</span><span class=\"n\">diag</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">],</span> <span class=\"n\">Q</span><span class=\"o\">.</span><span class=\"n\">T</span><span class=\"p\">)</span>\n    <span class=\"k\">return</span> <span class=\"n\">cov</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>然后就基本上是照抄官网的代码了，这里选择生成5×5的矩阵：</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"k\">def</span> <span class=\"nf\">scenario_1layer</span><span class=\"p\">():</span>                                                                                                                                                                                   \n    <span class=\"n\">n</span> <span class=\"o\">=</span> <span class=\"mi\">500000</span>\n    <span class=\"n\">loop</span> <span class=\"o\">=</span> <span class=\"mi\">1000</span>\n    <span class=\"n\">p</span> <span class=\"o\">=</span> <span class=\"n\">n</span> <span class=\"o\">/</span> <span class=\"n\">loop</span>\n    <span class=\"n\">m</span> <span class=\"o\">=</span> <span class=\"mi\">5</span>\n    <span class=\"c1\"># generate training data</span>\n    <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">random</span><span class=\"o\">.</span><span class=\"n\">seed</span><span class=\"p\">(</span><span class=\"mi\">1</span><span class=\"p\">)</span>\n    <span class=\"n\">cov_ill</span> <span class=\"o\">=</span> <span class=\"n\">generate_singular_spdmatrix</span><span class=\"p\">(</span><span class=\"n\">m</span><span class=\"p\">,</span> <span class=\"n\">n</span><span class=\"p\">)</span>\n    <span class=\"c1\">#cov_ill = generate_spdmatrix(m, n, 1e16)</span>\n    <span class=\"n\">cov_good</span> <span class=\"o\">=</span> <span class=\"n\">generate_spdmatrix</span><span class=\"p\">(</span><span class=\"n\">m</span><span class=\"p\">,</span> <span class=\"n\">n</span><span class=\"p\">,</span> <span class=\"mf\">1e2</span><span class=\"p\">)</span>\n\n    <span class=\"c1\"># generate test data</span>\n    <span class=\"c1\">#test1 = generate_spdmatrix(m, n/20, 1e16).reshape([n/20, m*m])</span>\n    <span class=\"n\">test1</span> <span class=\"o\">=</span> <span class=\"n\">generate_singular_spdmatrix</span><span class=\"p\">(</span><span class=\"n\">m</span><span class=\"p\">,</span> <span class=\"n\">n</span><span class=\"o\">/</span><span class=\"mi\">20</span><span class=\"p\">)</span><span class=\"o\">.</span><span class=\"n\">reshape</span><span class=\"p\">([</span><span class=\"n\">n</span><span class=\"o\">/</span><span class=\"mi\">20</span><span class=\"p\">,</span> <span class=\"n\">m</span><span class=\"o\">*</span><span class=\"n\">m</span><span class=\"p\">])</span>\n    <span class=\"n\">test2</span> <span class=\"o\">=</span> <span class=\"n\">generate_spdmatrix</span><span class=\"p\">(</span><span class=\"n\">m</span><span class=\"p\">,</span> <span class=\"n\">n</span><span class=\"o\">/</span><span class=\"mi\">20</span><span class=\"p\">,</span> <span class=\"mf\">1e2</span><span class=\"p\">)</span><span class=\"o\">.</span><span class=\"n\">reshape</span><span class=\"p\">([</span><span class=\"n\">n</span><span class=\"o\">/</span><span class=\"mi\">20</span><span class=\"p\">,</span> <span class=\"n\">m</span><span class=\"o\">*</span><span class=\"n\">m</span><span class=\"p\">])</span>\n    <span class=\"n\">test</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">append</span><span class=\"p\">(</span><span class=\"n\">test1</span><span class=\"p\">,</span> <span class=\"n\">test2</span><span class=\"p\">,</span> <span class=\"n\">axis</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">)</span>\n    <span class=\"n\">label_test</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">zeros</span><span class=\"p\">([</span><span class=\"n\">n</span><span class=\"o\">/</span><span class=\"mi\">10</span><span class=\"p\">,</span> <span class=\"mi\">2</span><span class=\"p\">])</span>\n    <span class=\"n\">label_test</span><span class=\"p\">[:</span><span class=\"n\">n</span><span class=\"o\">/</span><span class=\"mi\">20</span><span class=\"p\">,</span><span class=\"mi\">0</span><span class=\"p\">]</span> <span class=\"o\">=</span> <span class=\"mi\">1</span>\n    <span class=\"n\">label_test</span><span class=\"p\">[</span><span class=\"n\">n</span><span class=\"o\">/</span><span class=\"mi\">20</span><span class=\"p\">:,</span><span class=\"mi\">1</span><span class=\"p\">]</span> <span class=\"o\">=</span> <span class=\"mi\">1</span>\n \n    <span class=\"c1\"># create 1 layer model</span>\n    <span class=\"n\">x</span> <span class=\"o\">=</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">placeholder</span><span class=\"p\">(</span><span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">float32</span><span class=\"p\">,</span> <span class=\"p\">[</span><span class=\"bp\">None</span><span class=\"p\">,</span> <span class=\"n\">m</span><span class=\"o\">*</span><span class=\"n\">m</span><span class=\"p\">])</span>\n    <span class=\"n\">W</span> <span class=\"o\">=</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">Variable</span><span class=\"p\">(</span><span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">zeros</span><span class=\"p\">([</span><span class=\"n\">m</span><span class=\"o\">*</span><span class=\"n\">m</span><span class=\"p\">,</span> <span class=\"mi\">2</span><span class=\"p\">]))</span>\n    <span class=\"n\">b</span> <span class=\"o\">=</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">Variable</span><span class=\"p\">(</span><span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">zeros</span><span class=\"p\">([</span><span class=\"mi\">2</span><span class=\"p\">]))</span>\n    <span class=\"n\">y</span> <span class=\"o\">=</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">nn</span><span class=\"o\">.</span><span class=\"n\">softmax</span><span class=\"p\">(</span><span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">matmul</span><span class=\"p\">(</span><span class=\"n\">x</span><span class=\"p\">,</span> <span class=\"n\">W</span><span class=\"p\">)</span> <span class=\"o\">+</span> <span class=\"n\">b</span><span class=\"p\">)</span>\n    <span class=\"n\">y_</span> <span class=\"o\">=</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">placeholder</span><span class=\"p\">(</span><span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">float32</span><span class=\"p\">,</span> <span class=\"p\">[</span><span class=\"bp\">None</span><span class=\"p\">,</span> <span class=\"mi\">2</span><span class=\"p\">])</span>\n    <span class=\"n\">cross_entropy</span> <span class=\"o\">=</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">reduce_mean</span><span class=\"p\">(</span><span class=\"o\">-</span><span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">reduce_sum</span><span class=\"p\">(</span><span class=\"n\">y_</span> <span class=\"o\">*</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">log</span><span class=\"p\">(</span><span class=\"n\">y</span><span class=\"p\">),</span> <span class=\"n\">reduction_indices</span><span class=\"o\">=</span><span class=\"p\">[</span><span class=\"mi\">1</span><span class=\"p\">]))</span>\n    <span class=\"n\">train_step</span> <span class=\"o\">=</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">train</span><span class=\"o\">.</span><span class=\"n\">GradientDescentOptimizer</span><span class=\"p\">(</span><span class=\"mf\">0.2</span><span class=\"p\">)</span><span class=\"o\">.</span><span class=\"n\">minimize</span><span class=\"p\">(</span><span class=\"n\">cross_entropy</span><span class=\"p\">)</span>\n    <span class=\"n\">sess</span> <span class=\"o\">=</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">InteractiveSession</span><span class=\"p\">()</span>\n    <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">global_variables_initializer</span><span class=\"p\">()</span><span class=\"o\">.</span><span class=\"n\">run</span><span class=\"p\">()</span>\n\n    <span class=\"c1\"># training</span>\n    <span class=\"k\">for</span> <span class=\"n\">i</span> <span class=\"ow\">in</span> <span class=\"nb\">xrange</span><span class=\"p\">(</span><span class=\"n\">loop</span><span class=\"p\">):</span>\n        <span class=\"k\">print</span> <span class=\"s2\">&#34;working on </span><span class=\"si\">%i</span><span class=\"s2\">th batch&#34;</span><span class=\"o\">%</span><span class=\"p\">(</span><span class=\"n\">i</span><span class=\"p\">)</span>\n        <span class=\"n\">sub_ill</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">reshape</span><span class=\"p\">(</span><span class=\"n\">cov_ill</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"o\">*</span><span class=\"n\">p</span><span class=\"p\">:(</span><span class=\"n\">i</span><span class=\"o\">+</span><span class=\"mi\">1</span><span class=\"p\">)</span><span class=\"o\">*</span><span class=\"n\">p</span><span class=\"p\">,</span> <span class=\"p\">:,</span> <span class=\"p\">:],</span> <span class=\"p\">[</span><span class=\"n\">p</span><span class=\"p\">,</span> <span class=\"n\">m</span><span class=\"o\">*</span><span class=\"n\">m</span><span class=\"p\">])</span>\n        <span class=\"n\">sub_good</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">reshape</span><span class=\"p\">(</span><span class=\"n\">cov_good</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"o\">*</span><span class=\"n\">p</span><span class=\"p\">:(</span><span class=\"n\">i</span><span class=\"o\">+</span><span class=\"mi\">1</span><span class=\"p\">)</span><span class=\"o\">*</span><span class=\"n\">p</span><span class=\"p\">,</span> <span class=\"p\">:,</span> <span class=\"p\">:],</span> <span class=\"p\">[</span><span class=\"n\">p</span><span class=\"p\">,</span> <span class=\"n\">m</span><span class=\"o\">*</span><span class=\"n\">m</span><span class=\"p\">])</span>\n        <span class=\"n\">batch_xs</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">append</span><span class=\"p\">(</span><span class=\"n\">sub_ill</span><span class=\"p\">,</span> <span class=\"n\">sub_good</span><span class=\"p\">,</span> <span class=\"n\">axis</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">)</span>\n        <span class=\"n\">label</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">append</span><span class=\"p\">(</span><span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">ones</span><span class=\"p\">(</span><span class=\"n\">p</span><span class=\"p\">),</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">zeros</span><span class=\"p\">(</span><span class=\"n\">p</span><span class=\"p\">))</span>\n        <span class=\"n\">batch_ys</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">hstack</span><span class=\"p\">((</span><span class=\"n\">label</span><span class=\"p\">[:,</span> <span class=\"bp\">None</span><span class=\"p\">],</span> <span class=\"n\">label</span><span class=\"p\">[::</span><span class=\"o\">-</span><span class=\"mi\">1</span><span class=\"p\">][:,</span> <span class=\"bp\">None</span><span class=\"p\">]))</span> \n        <span class=\"n\">sess</span><span class=\"o\">.</span><span class=\"n\">run</span><span class=\"p\">(</span><span class=\"n\">train_step</span><span class=\"p\">,</span> <span class=\"n\">feed_dict</span><span class=\"o\">=</span><span class=\"p\">{</span><span class=\"n\">x</span><span class=\"p\">:</span><span class=\"n\">batch_xs</span><span class=\"p\">,</span> <span class=\"n\">y_</span><span class=\"p\">:</span><span class=\"n\">batch_ys</span><span class=\"p\">})</span>\n\n    <span class=\"c1\"># test accuracy</span>\n    <span class=\"n\">correct_prediction</span> <span class=\"o\">=</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">equal</span><span class=\"p\">(</span><span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">argmax</span><span class=\"p\">(</span><span class=\"n\">y</span><span class=\"p\">,</span> <span class=\"mi\">1</span><span class=\"p\">),</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">argmax</span><span class=\"p\">(</span><span class=\"n\">y_</span><span class=\"p\">,</span> <span class=\"mi\">1</span><span class=\"p\">))</span>\n    <span class=\"n\">accuracy</span> <span class=\"o\">=</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">reduce_mean</span><span class=\"p\">(</span><span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">cast</span><span class=\"p\">(</span><span class=\"n\">correct_prediction</span><span class=\"p\">,</span> <span class=\"n\">tf</span><span class=\"o\">.</span><span class=\"n\">float32</span><span class=\"p\">))</span>\n    <span class=\"k\">return</span> <span class=\"n\">sess</span><span class=\"o\">.</span><span class=\"n\">run</span><span class=\"p\">(</span><span class=\"n\">accuracy</span><span class=\"p\">,</span> <span class=\"n\">feed_dict</span><span class=\"o\">=</span><span class=\"p\">{</span><span class=\"n\">x</span><span class=\"p\">:</span><span class=\"n\">test</span><span class=\"p\">,</span> <span class=\"n\">y_</span><span class=\"p\">:</span><span class=\"n\">label</span><span class=\"p\">})</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>至于结果嘛……一句话总结是肯定不work，目前加到3层layers还是不work，要么全预测是singular要么全是non-singular。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>代码里注释掉了两行，对应的是用ill-conditioned matrix来做对比，结果也是一样的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>举这么一个例子其实还是想说对不同的问题还是需要用不同的工具，不是说deep learning就比现有的东西要好（尤其是在trading上…）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然这算是个on-going project，能试的东西还很多。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>另外抛开deep learning不谈，tensorflow本身还是很值得学一学的…</p>", 
+            "topic": [
+                {
+                    "tag": "线性代数", 
+                    "tagLink": "https://api.zhihu.com/topics/19577698"
+                }, 
+                {
+                    "tag": "矩阵计算", 
+                    "tagLink": "https://api.zhihu.com/topics/19909995"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>Deep Learning并非万能，目前看并不适用于trading, 怎么那么多人就是不信呢, 太多人被最近的AI浪潮冲昏了头脑........</p><p><br></p><p>不过，机器学习在trading方面还是有用的，可惜很多人都误以为Machine Learning = Deep Learning, 其实Deep Learning只是Machine Learning下的一个分支而已，而且Deep Learning应用也有其局限性。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Shaohua Yang", 
+                            "userLink": "https://www.zhihu.com/people/68c7f4b682ebb58d8b95ce6e23dd4b24", 
+                            "content": "<p>有哪些比较好的介绍practical ml应用在实际trading上的文章呢？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>这个trading存在相互博弈呀，一般公开发表的模型都是无法赚钱的，没人公开商业机密。所以, 从本质上讲，Machine Learning真正有用的是思想，用思想指导建模。注意，我强调的是思想，不是某个toolbox或某篇paper, 因为你想用ML交易需要自己造轮子(至少是改造)，指望从网上下个包就能赚钱是不现实的。所以实际上的应用只能靠你自己探索，想找些ideas的话知乎相关讨论不少，我以前的回答里也提供了很多资料，你自己搜一下吧。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Shaohua Yang"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "韩劼群", 
+                    "userLink": "https://www.zhihu.com/people/e488f875f08386f77405b0c3ef560311", 
+                    "content": "<p>哈哈，我也做过类似的实验，毫不意外地不行，感觉毫无结构的MLP是没希望的</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>这是不是可以算是打kolmogorov-arnold representation theorem的脸了（手动滑稽）</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "韩劼群"
+                        }, 
+                        {
+                            "userName": "韩劼群", 
+                            "userLink": "https://www.zhihu.com/people/e488f875f08386f77405b0c3ef560311", 
+                            "content": "为啥这么说？个人觉得逼近论的那套框架和现在DL的实践差的挺远的。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27919464", 
+            "userName": "jz wang", 
+            "userLink": "https://www.zhihu.com/people/3e1bafb8c3af2e5f49ce4ac7aea3c41e", 
+            "upvote": 32, 
+            "title": "Fast Matrix Multiplication by FFT", 
+            "content": "<p>其实都是一些 well-known 的公式而已。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>给定一个 circulant matrix:</p><p><img src=\"https://www.zhihu.com/equation?tex=C+%3D+%5Cbegin%7Bbmatrix%7D+c_%7B1%2C1%7D+%26+c_%7Bn%2C1%7D+%26+...+%26+c_%7B2%2C1%7D+%5C%5C+c_%7B2%2C1%7D+%26+c_%7B1%2C1%7D+%26+...+%26+c_%7B3%2C1%7D+%5C%5C+...+%26+...+%26+...+%26+...+%26+%5C%5C+c_%7Bn%2C1%7D+%26+...+%26+...+%26+c_%7B1%2C1%7D+%5Cend%7Bbmatrix%7D\" alt=\"C = \\begin{bmatrix} c_{1,1} &amp; c_{n,1} &amp; ... &amp; c_{2,1} \\\\ c_{2,1} &amp; c_{1,1} &amp; ... &amp; c_{3,1} \\\\ ... &amp; ... &amp; ... &amp; ... &amp; \\\\ c_{n,1} &amp; ... &amp; ... &amp; c_{1,1} \\end{bmatrix}\" eeimg=\"1\"/></p><p>那么对于任意一个 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> ，计算</p><p><img src=\"https://www.zhihu.com/equation?tex=y%3DCx\" alt=\"y=Cx\" eeimg=\"1\"/></p><p>可以直接用 matrix multiplication, 比如下面这个：</p><div class=\"highlight\"><pre><code class=\"language-matlab\"><span class=\"o\">&gt;&gt;</span> <span class=\"n\">l</span> <span class=\"p\">=</span> <span class=\"nb\">rand</span><span class=\"p\">(</span><span class=\"mi\">1000</span><span class=\"p\">,</span><span class=\"mi\">1</span><span class=\"p\">);</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">l1</span> <span class=\"p\">=</span> <span class=\"n\">l</span><span class=\"s\">&#39;</span><span class=\"err\">;\n</span><span class=\"err\">&gt;&gt; C = toeplitz([l1(1) fliplr(l1(2:end))], l1);\n</span><span class=\"err\">&gt;&gt; C(1:5, 1:5)\n</span><span class=\"err\">\n</span><span class=\"err\">ans =\n</span><span class=\"err\">\n</span><span class=\"err\">    0.8147    0.9058    0.1270    0.9134    0.6324\n</span><span class=\"err\">    0.8667    0.8147    0.9058    0.1270    0.9134\n</span><span class=\"err\">    0.0600    0.8667    0.8147    0.9058    0.1270\n</span><span class=\"err\">    0.4440    0.0600    0.8667    0.8147    0.9058\n</span><span class=\"err\">    0.9509    0.4440    0.0600    0.8667    0.8147\n</span><span class=\"err\">&gt;&gt; x = rand(1000,1);\n</span><span class=\"err\">&gt;&gt; y=C *x;\n</span><span class=\"err\">&gt;&gt; for i = 1:100, y=C *x; end;\n</span><span class=\"err\">&gt;&gt; tic; y=C *x; toc;\n</span><span class=\"err\">Elapsed time is 0.000913 seconds.\n</span><span class=\"err\">&gt;&gt; tic; for i = 1:100, y=C *x; end; toc\n</span><span class=\"err\">Elapsed time is 0.074619 seconds.</span></code></pre></div><p>可以看到大概所用时间是 0.7-0.9 ms/loop 左右</p><p>但是这种特殊的矩阵乘法是可以用FFT来解决的：</p><p>对于任意一个 circulant matrix <img src=\"https://www.zhihu.com/equation?tex=C\" alt=\"C\" eeimg=\"1\"/> 可以进行如下分解：</p><p><img src=\"https://www.zhihu.com/equation?tex=C+%3D+F%5CLambda+F%5E%7B%2A%7D\" alt=\"C = F\\Lambda F^{*}\" eeimg=\"1\"/></p><p>其中 <img src=\"https://www.zhihu.com/equation?tex=F\" alt=\"F\" eeimg=\"1\"/> 是 fourier matrix。对于任意一个vector  <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> ， <img src=\"https://www.zhihu.com/equation?tex=y%3DFx\" alt=\"y=Fx\" eeimg=\"1\"/> 相当于对 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 进行 fourier transformation。所以对上面的矩阵乘法我们可以用另外一种方法计算得到近似解：</p><div class=\"highlight\"><pre><code class=\"language-matlab\"><span class=\"o\">&gt;&gt;</span> <span class=\"n\">y1</span> <span class=\"p\">=</span> <span class=\"n\">ifft</span><span class=\"p\">(</span><span class=\"n\">fft</span><span class=\"p\">(</span><span class=\"n\">C</span><span class=\"p\">(</span><span class=\"mi\">1</span><span class=\"p\">:</span><span class=\"k\">end</span><span class=\"p\">,</span><span class=\"mi\">1</span><span class=\"p\">))</span> <span class=\"o\">.*</span> <span class=\"n\">fft</span><span class=\"p\">(</span><span class=\"n\">x</span><span class=\"p\">));</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">norm</span><span class=\"p\">(</span><span class=\"n\">y</span><span class=\"o\">-</span><span class=\"n\">y1</span><span class=\"p\">)</span>\n\n<span class=\"nb\">ans</span> <span class=\"p\">=</span>\n\n   <span class=\"mf\">4.4646e-12</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">ll</span> <span class=\"p\">=</span> <span class=\"n\">C</span><span class=\"p\">(</span><span class=\"mi\">1</span><span class=\"p\">:</span><span class=\"k\">end</span><span class=\"p\">,</span><span class=\"mi\">1</span><span class=\"p\">);</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">tic</span><span class=\"p\">;</span> <span class=\"k\">for</span> <span class=\"nb\">i</span> <span class=\"p\">=</span> <span class=\"mi\">1</span><span class=\"p\">:</span><span class=\"mi\">100</span><span class=\"p\">,</span> <span class=\"n\">y1</span> <span class=\"p\">=</span> <span class=\"n\">ifft</span><span class=\"p\">(</span><span class=\"n\">fft</span><span class=\"p\">(</span><span class=\"n\">ll</span><span class=\"p\">)</span> <span class=\"o\">.*</span> <span class=\"n\">fft</span><span class=\"p\">(</span><span class=\"n\">x</span><span class=\"p\">));</span> <span class=\"k\">end</span><span class=\"p\">;</span> <span class=\"n\">toc</span>\n<span class=\"n\">Elapsed</span> <span class=\"n\">time</span> <span class=\"n\">is</span> <span class=\"mf\">0.011608</span> <span class=\"n\">seconds</span><span class=\"p\">.</span></code></pre></div><p>误差非常小，同时运算速度得到了几倍的提升，大约 0.1 ms/loop</p><p class=\"ztext-empty-paragraph\"><br/></p><p>--------------------------------------------------------------------</p><p>以上是背景知识</p><p>--------------------------------------------------------------------</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实现实当中遇到的矩阵乘法很少是 circulant matrix，更多的是一些诸如 Toeplitz matrix, triangular Toeplitz matrix 以及 Hankel matrix，下面就分别写一下如何进行这3种矩阵的 fast matrix multiplication：</p><p>1. triangular Toeplitz matrix (这里以lower triangular为例):</p><p>triangular toeplitz matrix 是一类有如下形式的 matrix:</p><p><img src=\"https://www.zhihu.com/equation?tex=T+%3D+%5Cbegin%7Bbmatrix%7D+T_%7B1%7D+%26+0+%26+0+%26+...+%26+0+%5C%5C+T_%7B2%7D+%26+T_%7B1%7D+%26+0+%26+...+%26+0+%5C%5C+...+%26+...+%26...+%26+...+%26+...+%5C%5C+T_%7Bn%7D+%26+T_%7Bn-1%7D+%26+T_%7Bn-2%7D+%26+...+%26+T_%7B1%7D+%5Cend%7Bbmatrix%7D\" alt=\"T = \\begin{bmatrix} T_{1} &amp; 0 &amp; 0 &amp; ... &amp; 0 \\\\ T_{2} &amp; T_{1} &amp; 0 &amp; ... &amp; 0 \\\\ ... &amp; ... &amp;... &amp; ... &amp; ... \\\\ T_{n} &amp; T_{n-1} &amp; T_{n-2} &amp; ... &amp; T_{1} \\end{bmatrix}\" eeimg=\"1\"/></p><p>有一点值得注意的是triangular toeplitz matrix 是一个linear space：</p><p>i. <img src=\"https://www.zhihu.com/equation?tex=0+%5Cin+T\" alt=\"0 \\in T\" eeimg=\"1\"/></p><p>ii. <img src=\"https://www.zhihu.com/equation?tex=T_%7B1%7D+%5Cin+T+%2C+%5C+a+%5Cin+R+%5Crightarrow+%5C+aT_%7B1%7D+%5Cin+T\" alt=\"T_{1} \\in T , \\ a \\in R \\rightarrow \\ aT_{1} \\in T\" eeimg=\"1\"/></p><p>iii. <img src=\"https://www.zhihu.com/equation?tex=T_%7B1%7D+%5Cin+T%2C+%5C+T_%7B2%7D+%5Cin+T+%5Crightarrow+T_%7B1%7D+%2B+T_%7B2%7D+%5Cin+T\" alt=\"T_{1} \\in T, \\ T_{2} \\in T \\rightarrow T_{1} + T_{2} \\in T\" eeimg=\"1\"/></p><p>后面我把 <img src=\"https://www.zhihu.com/equation?tex=S%28T%29\" alt=\"S(T)\" eeimg=\"1\"/> 称作<img src=\"https://www.zhihu.com/equation?tex=T\" alt=\"T\" eeimg=\"1\"/>的 symbol （即 <img src=\"https://www.zhihu.com/equation?tex=T\" alt=\"T\" eeimg=\"1\"/> 的第一个列向量）</p><p>同样我们可以先直接做矩阵乘法：</p><div class=\"highlight\"><pre><code class=\"language-matlab\"><span class=\"o\">&gt;&gt;</span> <span class=\"n\">l</span> <span class=\"p\">=</span> <span class=\"nb\">rand</span><span class=\"p\">(</span><span class=\"mi\">1000</span><span class=\"p\">,</span><span class=\"mi\">1</span><span class=\"p\">);</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">T</span> <span class=\"p\">=</span> <span class=\"nb\">toeplitz</span><span class=\"p\">(</span><span class=\"n\">l</span><span class=\"p\">,</span> <span class=\"p\">[</span><span class=\"n\">l</span><span class=\"p\">(</span><span class=\"mi\">1</span><span class=\"p\">);</span> <span class=\"nb\">zeros</span><span class=\"p\">(</span><span class=\"mi\">999</span><span class=\"p\">,</span><span class=\"mi\">1</span><span class=\"p\">)]);</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">T</span><span class=\"p\">(</span><span class=\"mi\">1</span><span class=\"p\">:</span><span class=\"mi\">5</span><span class=\"p\">,</span> <span class=\"mi\">1</span><span class=\"p\">:</span><span class=\"mi\">5</span><span class=\"p\">)</span>\n\n<span class=\"nb\">ans</span> <span class=\"p\">=</span>\n\n    <span class=\"mf\">0.8147</span>         <span class=\"mi\">0</span>         <span class=\"mi\">0</span>         <span class=\"mi\">0</span>         <span class=\"mi\">0</span>\n    <span class=\"mf\">0.9058</span>    <span class=\"mf\">0.8147</span>         <span class=\"mi\">0</span>         <span class=\"mi\">0</span>         <span class=\"mi\">0</span>\n    <span class=\"mf\">0.1270</span>    <span class=\"mf\">0.9058</span>    <span class=\"mf\">0.8147</span>         <span class=\"mi\">0</span>         <span class=\"mi\">0</span>\n    <span class=\"mf\">0.9134</span>    <span class=\"mf\">0.1270</span>    <span class=\"mf\">0.9058</span>    <span class=\"mf\">0.8147</span>         <span class=\"mi\">0</span>\n    <span class=\"mf\">0.6324</span>    <span class=\"mf\">0.9134</span>    <span class=\"mf\">0.1270</span>    <span class=\"mf\">0.9058</span>    <span class=\"mf\">0.8147</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">x</span> <span class=\"p\">=</span> <span class=\"nb\">rand</span><span class=\"p\">(</span><span class=\"mi\">1000</span><span class=\"p\">,</span><span class=\"mi\">1</span><span class=\"p\">);</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">tic</span><span class=\"p\">;</span> <span class=\"n\">y</span> <span class=\"p\">=</span> <span class=\"n\">T</span><span class=\"o\">*</span><span class=\"n\">x</span><span class=\"p\">;</span> <span class=\"n\">toc</span>\n<span class=\"n\">Elapsed</span> <span class=\"n\">time</span> <span class=\"n\">is</span> <span class=\"mf\">0.000593</span> <span class=\"n\">seconds</span><span class=\"p\">.</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">tic</span><span class=\"p\">;</span> <span class=\"k\">for</span> <span class=\"nb\">i</span> <span class=\"p\">=</span> <span class=\"mi\">1</span><span class=\"p\">:</span><span class=\"mi\">100</span><span class=\"p\">,</span> <span class=\"n\">y</span> <span class=\"p\">=</span> <span class=\"n\">T</span><span class=\"o\">*</span><span class=\"n\">x</span><span class=\"p\">;</span> <span class=\"k\">end</span><span class=\"p\">;</span> <span class=\"n\">toc</span>\n<span class=\"n\">Elapsed</span> <span class=\"n\">time</span> <span class=\"n\">is</span> <span class=\"mf\">0.010883</span> <span class=\"n\">seconds</span><span class=\"p\">.</span></code></pre></div><p> 当然我们还可以把矩阵变成稀疏矩阵</p><div class=\"highlight\"><pre><code class=\"language-matlab\"><span class=\"o\">&gt;&gt;</span> <span class=\"n\">T1</span> <span class=\"p\">=</span> <span class=\"n\">sparse</span><span class=\"p\">(</span><span class=\"n\">T</span><span class=\"p\">);</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">tic</span><span class=\"p\">;</span> <span class=\"n\">y</span> <span class=\"p\">=</span> <span class=\"n\">T1</span><span class=\"o\">*</span><span class=\"n\">x</span><span class=\"p\">;</span> <span class=\"n\">toc</span>\n<span class=\"n\">Elapsed</span> <span class=\"n\">time</span> <span class=\"n\">is</span> <span class=\"mf\">0.826337</span> <span class=\"n\">seconds</span><span class=\"p\">.</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">tic</span><span class=\"p\">;</span> <span class=\"k\">for</span> <span class=\"nb\">i</span> <span class=\"p\">=</span> <span class=\"mi\">1</span><span class=\"p\">:</span><span class=\"mi\">100</span><span class=\"p\">,</span> <span class=\"n\">y</span> <span class=\"p\">=</span> <span class=\"n\">T1</span><span class=\"o\">*</span><span class=\"n\">x</span><span class=\"p\">;</span> <span class=\"k\">end</span><span class=\"p\">;</span> <span class=\"n\">toc</span>\n<span class=\"n\">Elapsed</span> <span class=\"n\">time</span> <span class=\"n\">is</span> <span class=\"mf\">0.033503</span> <span class=\"n\">seconds</span><span class=\"p\">.</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">tic</span><span class=\"p\">;</span> <span class=\"n\">y</span> <span class=\"p\">=</span> <span class=\"n\">T1</span><span class=\"o\">*</span><span class=\"n\">x</span><span class=\"p\">;</span> <span class=\"n\">toc</span>\n<span class=\"n\">Elapsed</span> <span class=\"n\">time</span> <span class=\"n\">is</span> <span class=\"mf\">0.000596</span> <span class=\"n\">seconds</span><span class=\"p\">.</span></code></pre></div><p>这里第一次运行的时候可能是 matlab 里的 sparse matrix 需要某些编译之类的东西。其实变成稀疏矩阵之后并没有提高运行速度，可能的原因有很多，比如缓存，matlab 对乘法的优化之类。</p><p>同时我们可以稍微变换一下：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bbmatrix%7D+y+%5C%5C+0+%5Cend%7Bbmatrix%7D+%3D+%5Cbegin%7Bbmatrix%7D+T+%26+%5Ctilde%7BT%7D+%5C%5C+%5Ctilde%7BT%7D+%26+T+%5Cend%7Bbmatrix%7D+%5Cbegin%7Bbmatrix%7D+x+%5C%5C+0+%5Cend%7Bbmatrix%7D\" alt=\"\\begin{bmatrix} y \\\\ 0 \\end{bmatrix} = \\begin{bmatrix} T &amp; \\tilde{T} \\\\ \\tilde{T} &amp; T \\end{bmatrix} \\begin{bmatrix} x \\\\ 0 \\end{bmatrix}\" eeimg=\"1\"/></p><p>这里 <img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bbmatrix%7D+T+%26+%5Ctilde%7BT%7D+%5C%5C+%5Ctilde%7BT%7D+%26+T+%5Cend%7Bbmatrix%7D\" alt=\"\\begin{bmatrix} T &amp; \\tilde{T} \\\\ \\tilde{T} &amp; T \\end{bmatrix}\" eeimg=\"1\"/> 是一个 circulant matrix，第一列为 <img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bbmatrix%7D+S%28T%29+%5C%5C+0+%5Cend%7Bbmatrix%7D\" alt=\"\\begin{bmatrix} S(T) \\\\ 0 \\end{bmatrix}\" eeimg=\"1\"/></p><p>于是可以很容易的计算出 <img src=\"https://www.zhihu.com/equation?tex=y\" alt=\"y\" eeimg=\"1\"/> ：</p><div class=\"highlight\"><pre><code class=\"language-matlab\"><span class=\"o\">&gt;&gt;</span> <span class=\"n\">y1</span> <span class=\"p\">=</span> <span class=\"n\">T</span><span class=\"o\">*</span><span class=\"n\">x</span><span class=\"p\">;</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">y2</span> <span class=\"p\">=</span> <span class=\"n\">ifft</span><span class=\"p\">(</span><span class=\"n\">fft</span><span class=\"p\">(</span><span class=\"n\">l1</span><span class=\"p\">)</span><span class=\"o\">.*</span><span class=\"n\">fft</span><span class=\"p\">([</span><span class=\"n\">x</span><span class=\"p\">;</span><span class=\"nb\">zeros</span><span class=\"p\">(</span><span class=\"mi\">1000</span><span class=\"p\">,</span><span class=\"mi\">1</span><span class=\"p\">)]));</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">norm</span><span class=\"p\">(</span><span class=\"n\">y2</span><span class=\"p\">(</span><span class=\"mi\">1</span><span class=\"p\">:</span><span class=\"mi\">1000</span><span class=\"p\">)</span> <span class=\"o\">-</span> <span class=\"n\">y1</span><span class=\"p\">)</span>\n\n<span class=\"nb\">ans</span> <span class=\"p\">=</span>\n\n   <span class=\"mf\">3.4828e-12</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">tic</span><span class=\"p\">;</span> <span class=\"n\">y2</span> <span class=\"p\">=</span> <span class=\"n\">ifft</span><span class=\"p\">(</span><span class=\"n\">fft</span><span class=\"p\">(</span><span class=\"n\">l1</span><span class=\"p\">)</span><span class=\"o\">.*</span><span class=\"n\">fft</span><span class=\"p\">([</span><span class=\"n\">x</span><span class=\"p\">;</span><span class=\"nb\">zeros</span><span class=\"p\">(</span><span class=\"mi\">1000</span><span class=\"p\">,</span><span class=\"mi\">1</span><span class=\"p\">)]));</span> <span class=\"n\">toc</span>\n<span class=\"n\">Elapsed</span> <span class=\"n\">time</span> <span class=\"n\">is</span> <span class=\"mf\">0.000527</span> <span class=\"n\">seconds</span><span class=\"p\">.</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">tic</span><span class=\"p\">;</span> <span class=\"k\">for</span> <span class=\"nb\">i</span> <span class=\"p\">=</span> <span class=\"mi\">1</span><span class=\"p\">:</span><span class=\"mi\">100</span><span class=\"p\">,</span>  <span class=\"n\">y2</span> <span class=\"p\">=</span> <span class=\"n\">ifft</span><span class=\"p\">(</span><span class=\"n\">fft</span><span class=\"p\">(</span><span class=\"n\">l1</span><span class=\"p\">)</span><span class=\"o\">.*</span><span class=\"n\">fft</span><span class=\"p\">([</span><span class=\"n\">x</span><span class=\"p\">;</span><span class=\"nb\">zeros</span><span class=\"p\">(</span><span class=\"mi\">1000</span><span class=\"p\">,</span><span class=\"mi\">1</span><span class=\"p\">)]));</span> <span class=\"k\">end</span><span class=\"p\">;</span> <span class=\"n\">toc</span>\n<span class=\"n\">Elapsed</span> <span class=\"n\">time</span> <span class=\"n\">is</span> <span class=\"mf\">0.005841</span> <span class=\"n\">seconds</span><span class=\"p\">.</span></code></pre></div><p>可以看到尽管把问题扩大了一倍，实际的计算速度还是比直接做乘法快了一倍。</p><p>2. general toeplitz matrix， hankel matrix</p><p>首先一个 general toeplitz matrix 可以写成如下形式：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bbmatrix%7D+T_%7B1%7D+%26+%5Cbar%7BT%7D_%7B2%7D+%26+%5Cbar%7BT%7D_%7B3%7D+%26+...+%26+%5Cbar%7BT%7D_%7Bn-1%7D+%5C%5C+T_%7B2%7D+%26+T_%7B1%7D+%26+%5Cbar%7BT%7D_%7B2%7D+%26+...+%26+%5Cbar%7BT%7D_%7Bn-2%7D+%5C%5C+...+%26+...+%26...+%26+...+%26+...+%5C%5C+T_%7Bn%7D+%26+T_%7Bn-1%7D+%26+T_%7Bn-2%7D+%26+...+%26+T_%7B1%7D+%5Cend%7Bbmatrix%7D+%3D+%5Cbegin%7Bbmatrix%7D+T_%7B1%7D+%26+0+%26+0+%26+...+%26+0+%5C%5C+T_%7B2%7D+%26+T_%7B1%7D+%26+0+%26+...+%26+0+%5C%5C+...+%26+...+%26...+%26+...+%26+...+%5C%5C+T_%7Bn%7D+%26+T_%7Bn-1%7D+%26+T_%7Bn-2%7D+%26+...+%26+T_%7B1%7D+%5Cend%7Bbmatrix%7D+%2B+%5Cbegin%7Bbmatrix%7D+0+%26+%5Cbar%7BT%7D_%7B2%7D+%26+%5Cbar%7BT%7D_%7B3%7D+%26+...+%26+%5Cbar%7BT%7D_%7Bn-1%7D+%5C%5C+0+%26+0+%26+%5Cbar%7BT%7D_%7B2%7D+%26+...+%26+%5Cbar%7BT%7D_%7Bn-2%7D+%5C%5C+...+%26+...+%26...+%26+...+%26+...+%5C%5C+0+%26+0+%26+0+%26+...+%26+0+%5Cend%7Bbmatrix%7D\" alt=\"\\begin{bmatrix} T_{1} &amp; \\bar{T}_{2} &amp; \\bar{T}_{3} &amp; ... &amp; \\bar{T}_{n-1} \\\\ T_{2} &amp; T_{1} &amp; \\bar{T}_{2} &amp; ... &amp; \\bar{T}_{n-2} \\\\ ... &amp; ... &amp;... &amp; ... &amp; ... \\\\ T_{n} &amp; T_{n-1} &amp; T_{n-2} &amp; ... &amp; T_{1} \\end{bmatrix} = \\begin{bmatrix} T_{1} &amp; 0 &amp; 0 &amp; ... &amp; 0 \\\\ T_{2} &amp; T_{1} &amp; 0 &amp; ... &amp; 0 \\\\ ... &amp; ... &amp;... &amp; ... &amp; ... \\\\ T_{n} &amp; T_{n-1} &amp; T_{n-2} &amp; ... &amp; T_{1} \\end{bmatrix} + \\begin{bmatrix} 0 &amp; \\bar{T}_{2} &amp; \\bar{T}_{3} &amp; ... &amp; \\bar{T}_{n-1} \\\\ 0 &amp; 0 &amp; \\bar{T}_{2} &amp; ... &amp; \\bar{T}_{n-2} \\\\ ... &amp; ... &amp;... &amp; ... &amp; ... \\\\ 0 &amp; 0 &amp; 0 &amp; ... &amp; 0 \\end{bmatrix}\" eeimg=\"1\"/></p><p>之后套用前面的方法可以计算出矩阵乘法的结果。</p><p>至于 hankel matrix</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bbmatrix%7D+H_%7B1%7D+%26+H_%7B2%7D+%26+H_%7B3%7D+%26+...+%26+H_%7Bn%7D+%5C%5C+H_%7B2%7D+%26+H_%7B3%7D+%26+...+%26+H_%7Bn%7D+%26+H_%7Bn%2B1%7D+%5C%5C+H_%7B3%7D+%26+...+%26...+%26+...+%26+...+%5C%5C+...+%26+...+%26...+%26+...+%26+...+%5C%5C+H_%7Bn%7D+%26+H_%7Bn%2B1%7D+%26+...+%26+...+%26+H_%7B2%2An-1%7D+%5Cend%7Bbmatrix%7D\" alt=\"\\begin{bmatrix} H_{1} &amp; H_{2} &amp; H_{3} &amp; ... &amp; H_{n} \\\\ H_{2} &amp; H_{3} &amp; ... &amp; H_{n} &amp; H_{n+1} \\\\ H_{3} &amp; ... &amp;... &amp; ... &amp; ... \\\\ ... &amp; ... &amp;... &amp; ... &amp; ... \\\\ H_{n} &amp; H_{n+1} &amp; ... &amp; ... &amp; H_{2*n-1} \\end{bmatrix}\" eeimg=\"1\"/></p><p>把它的翻过来（最后一行作为第一行，第一行作为最后一行，也就是乘一个 <img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bbmatrix%7D+0+%26+0+%26+...+%26+0+%26+1+%5C%5C+0+%26+0+%26+...+%26+1+%26+0+%5C%5C+...+%26+...+%26+...+%26+...+%26+...+%5C%5C+0+%26+1+%26+...+%26+...+%26+0+%5C%5C+1+%26+0+%26+...+%26+...+%26+0+%5Cend%7Bbmatrix%7D\" alt=\"\\begin{bmatrix} 0 &amp; 0 &amp; ... &amp; 0 &amp; 1 \\\\ 0 &amp; 0 &amp; ... &amp; 1 &amp; 0 \\\\ ... &amp; ... &amp; ... &amp; ... &amp; ... \\\\ 0 &amp; 1 &amp; ... &amp; ... &amp; 0 \\\\ 1 &amp; 0 &amp; ... &amp; ... &amp; 0 \\end{bmatrix}\" eeimg=\"1\"/> 这样的permutation matrix）就是一个 general toeplitz matrix</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然，toeplitz 和 hankel 它们都各自组成一个linear space，这里不再验证。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实对于 general toeplitz matrix 的乘法有更好的算法，思想也已经在 lower triangular topelitz matrix 部分给出，有兴趣的可以想一想。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>至于这东西跟 trading 有什么关系……其实AR(p)的 covariance 就是一个 symmetric toeplitz matrix，它的 cholesky decomposition 就是一个 lower triangular toeplitz matrix。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>PS：知乎这个新的写文章的系统太难用了啊，auto reload导致文章蹦蹦跳跳的，设计这个的人肯定没用过 tex</p>", 
+            "topic": [
+                {
+                    "tag": "傅里叶变换（Fourier Transform）", 
+                    "tagLink": "https://api.zhihu.com/topics/19600515"
+                }, 
+                {
+                    "tag": "线性代数", 
+                    "tagLink": "https://api.zhihu.com/topics/19577698"
+                }, 
+                {
+                    "tag": "矩阵运算", 
+                    "tagLink": "https://api.zhihu.com/topics/19598145"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Sally", 
+                    "userLink": "https://www.zhihu.com/people/1fdbf9b54d9b2bc38ed36a68fafc53ef", 
+                    "content": "膜拜一下  刚刚学到FFT BUTTERFLY 还有点懵 看了你的之后觉得 我的问题不算问题了。。。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27742729", 
+            "userName": "jz wang", 
+            "userLink": "https://www.zhihu.com/people/3e1bafb8c3af2e5f49ce4ac7aea3c41e", 
+            "upvote": 8, 
+            "title": "特征值分解（EVD）的rank 1 update", 
+            "content": "<p>（图片摘自PCA wiki的配图）</p><p>好久没写文章，主要还是没什么好的topic可以写</p><p>不过今天遇到一个挺好的问题而且应该也可以写出来的</p><p class=\"ztext-empty-paragraph\"><br/></p><p>问题：</p><p>已知一个positive definite matrix（正定矩阵）<img src=\"https://www.zhihu.com/equation?tex=M\" alt=\"M\" eeimg=\"1\"/>的eigenvalue decomposition（特征值分解）为：</p><p><img src=\"https://www.zhihu.com/equation?tex=M%3D+Q+%5CSigma+Q%5E%7B%2A%7D%3DQ+%5CSigma+Q%5E%7BT%7D\" alt=\"M= Q \\Sigma Q^{*}=Q \\Sigma Q^{T}\" eeimg=\"1\"/><br/></p><p>这里<img src=\"https://www.zhihu.com/equation?tex=Q\" alt=\"Q\" eeimg=\"1\"/>是<img src=\"https://www.zhihu.com/equation?tex=M\" alt=\"M\" eeimg=\"1\"/>的eigenvector组成的unitary matrix（酉矩阵），<img src=\"https://www.zhihu.com/equation?tex=%5CSigma\" alt=\"\\Sigma\" eeimg=\"1\"/>是由<img src=\"https://www.zhihu.com/equation?tex=M\" alt=\"M\" eeimg=\"1\"/>的eigenvalue组成的diagonal matrix.</p><p>令</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Chat%7BM%7D%3DM%2Buu%5E%7BT%7D\" alt=\"\\hat{M}=M+uu^{T}\" eeimg=\"1\"/>，</p><p>这里<img src=\"https://www.zhihu.com/equation?tex=u\" alt=\"u\" eeimg=\"1\"/>是一个column vector（列向量），所以<img src=\"https://www.zhihu.com/equation?tex=uu%5E%7BT%7D\" alt=\"uu^{T}\" eeimg=\"1\"/>是一个rank 1 matrix<br/></p><p>那么有没有方法快速计算<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7BM%7D\" alt=\"\\hat{M}\" eeimg=\"1\"/>的eigenvalue decomposition？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>答：</p><p>有，但是并不是“非常快”。</p><p>－－－－－</p><p>以下是求解过程</p><p>－－－－－</p><p>把<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7BM%7D\" alt=\"\\hat{M}\" eeimg=\"1\"/>稍微变形一下可以得到：</p><p><img src=\"https://www.zhihu.com/equation?tex=%26%5Chat%7BM%7D+%26+%3D+M+%2B+uu%5E%7BT%7D+%5C%5C%0A%26+%26+%3D+Q%5CSigma+Q%5E%7B%2A%7D+%2Buu%5E%7BT%7D+%5C%5C%0A%26+%26+%3D+Q%28%5CSigma+%2B+Q%5E%7B%2A%7Duu%5E%7BT%7DQ%29Q%5E%7B%2A%7D+%5C%5C%0A%26+%26+%3D+Q%28%5CSigma+%2B+%5Ctilde%7Bu%7D%5Ctilde%7Bu%7D%5E%7BT%7D%29Q%5E%7B%2A%7D\" alt=\"&amp;\\hat{M} &amp; = M + uu^{T} \\\\\n&amp; &amp; = Q\\Sigma Q^{*} +uu^{T} \\\\\n&amp; &amp; = Q(\\Sigma + Q^{*}uu^{T}Q)Q^{*} \\\\\n&amp; &amp; = Q(\\Sigma + \\tilde{u}\\tilde{u}^{T})Q^{*}\" eeimg=\"1\"/><br/></p><p>这里<img src=\"https://www.zhihu.com/equation?tex=%5Ctilde%7Bu%7D%3DQ%5E%7B%2A%7Du\" alt=\"\\tilde{u}=Q^{*}u\" eeimg=\"1\"/></p><p>可以看到经过这样变形以后就可以把原问题转变为求解<img src=\"https://www.zhihu.com/equation?tex=%28%5CSigma%2B%5Ctilde%7Bu%7D%5Ctilde%7Bu%7D%5E%7BT%7D%29\" alt=\"(\\Sigma+\\tilde{u}\\tilde{u}^{T})\" eeimg=\"1\"/>这样一个diagonal plus rank 1 的eigenvalue decomposition。</p><p>这里我们可以回忆一下本科的线性代数课程，老师会和蔼的教你：“求解矩阵的特征根和特征向量，只要解出特征多项式的根就可以了！”</p><p>也就是说，想要求解矩阵A的eigenvalue和eigenvector，只要解出：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cdet%28A-%5Clambda+I%29+%3D+0\" alt=\"\\det(A-\\lambda I) = 0\" eeimg=\"1\"/><br/></p><p>的所有根就可以了。当然，如果对于任意的没有structure的<img src=\"https://www.zhihu.com/equation?tex=A\" alt=\"A\" eeimg=\"1\"/>，这其实是个笑话。但是这里需要求解的matrix是具有很好的structure的（diagonal + rank 1），而且它的secular equation（也叫characteristic equation，即特征方程）可以很简单的写出来：</p><p><img src=\"https://www.zhihu.com/equation?tex=%26+f%28%5Clambda%29+%26+%3D+1+%2B+%5Ctilde%7Bu%7D%5E%7BT%7D%28%5CSigma+-+%5Clambda+I%29%5E%7B-1%7D%5Ctilde%7Bu%7D+%5C%5C%0A%26+%26+%3D+1+%2B+%5Csum_%7Bk%3D1%7D%5E%7Bn%7D%5Cfrac%7B%5Ctilde%7Bu%7D_%7Bi%7D%5E%7B2%7D%7D%7BD_%7Bi%7D-%5Clambda%7D+%5C%5C%0A%26+%26+%3D+0\" alt=\"&amp; f(\\lambda) &amp; = 1 + \\tilde{u}^{T}(\\Sigma - \\lambda I)^{-1}\\tilde{u} \\\\\n&amp; &amp; = 1 + \\sum_{k=1}^{n}\\frac{\\tilde{u}_{i}^{2}}{D_{i}-\\lambda} \\\\\n&amp; &amp; = 0\" eeimg=\"1\"/><br/></p><p>所以只需要求解这个特征多项式的根就可以了。实际上lapack已经提供了几个函数求解这样的问题，一个是dlaed4：</p><blockquote><div class=\"highlight\"><pre><code class=\"language-text\">*  Purpose\n*  =======\n*\n*  This subroutine computes the I-th updated eigenvalue of a symmetric\n*  rank-one modification to a diagonal matrix whose elements are\n*  given in the array d, and that\n*\n*             D(i) &lt; D(j)  for  i &lt; j\n*\n*  and that RHO &gt; 0.  This is arranged by the calling routine, and is\n*  no loss in generality.  The rank-one modified system is thus\n*\n*             diag( D )  +  RHO *  Z * Z_transpose.\n*\n*  where we assume the Euclidean norm of Z is 1.\n*\n*  The method consists of approximating the rational functions in the\n*  secular equation by simpler interpolating rational functions.\n*</code></pre></div></blockquote>配合使用的是dlaed9：<div class=\"highlight\"><pre><code class=\"language-text\">*  Purpose\n*  =======\n*\n*  DLAED9 finds the roots of the secular equation, as defined by the\n*  values in D, Z, and RHO, between KSTART and KSTOP.  It makes the\n*  appropriate calls to DLAED4 and then stores the new matrix of\n*  eigenvectors for use in calculating the next level of Z vectors.\n*</code></pre></div><p>然而，不幸的是，如果你是python玩家（比如我），scipy的lapack默认是没有提供这些函数的支持的，不过好在scipy提供了cython的接口：<a href=\"https://link.zhihu.com/?target=https%3A//docs.scipy.org/doc/scipy-0.19.0/reference/linalg.cython_lapack.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">LAPACK functions for Cython</a>。不知有没有大神精通cython和numpy，scipy混合编程的，如果有请私信~ </p><p>MATLAB的话可能也需要自己写mex file。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>具体的算法复杂度分析就不写了，<img src=\"https://www.zhihu.com/equation?tex=O%28n%5E%7B2%7D%29\" alt=\"O(n^{2})\" eeimg=\"1\"/>。当然求解这个sub problem也有很多更加优化的方法，比如：<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1405.7537.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Forward stable eigenvalue decomposition of rank-one modifications of diagonal matrices</a>，有兴趣的话可以看看。</p><p>－－－－－</p><p>以上是求解过程</p><p>－－－－－</p><p>至于eigenvalue decomposition跟trading有什么关系，各位看官还是自己体会吧。</p>", 
+            "topic": [
+                {
+                    "tag": "特征值", 
+                    "tagLink": "https://api.zhihu.com/topics/19725479"
+                }, 
+                {
+                    "tag": "线性代数", 
+                    "tagLink": "https://api.zhihu.com/topics/19577698"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "师傅领进门，修行看个人。这才是好的专栏", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25325693", 
+            "userName": "jz wang", 
+            "userLink": "https://www.zhihu.com/people/3e1bafb8c3af2e5f49ce4ac7aea3c41e", 
+            "upvote": 11, 
+            "title": "MKL+CUDA+magma安装日记", 
+            "content": "记录一下这两天的蛋碎经历……<p>先介绍一下：</p><p>MKL(<a href=\"https://link.zhihu.com/?target=https%3A//software.intel.com/en-us/intel-mkl\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Intel Math Kernel Library</a>)是intel的一个高性能数学计算库，具体内容可看链接。</p><p>CUDA-Toolkit(<a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/cuda-toolkit\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">developer.nvidia.com/cu</span><span class=\"invisible\">da-toolkit</span><span class=\"ellipsis\"></span></a>)是NVIDIA为GPU应用做的一个工具包，最新版本8.0.61。</p><p>magma(<a href=\"https://link.zhihu.com/?target=http%3A//icl.cs.utk.edu/magma/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\"> Matrix Algebra on GPU and Multicore Architectures</a>)是利用CUDA来加速linear algebra计算的一个项目，本质上应该是BLAS+LAPACK的GPU版本。</p><p>其实CULA也可以做到这些功能，而且应用更广泛一点，不过CULA没有免费的License了……</p><br/><p>安装环境：Ubuntu 16.04 + GTX 970 + bash. (其实一开始在bash on windows装了一下，发现不靠谱，尤其是MKL装不上。)</p><br/><p>1. 首先安装Ubuntu，这个就不多说了。</p><p>2. 安装GTX970驱动。</p><p>这个稍微有一点点麻烦，因为NVIDIA的驱动是闭源的，所以如果装的是官方的Ubuntu可能会造成开机以后黑屏，甚至是安装的时候就黑屏。解决办法：安装的时候把显卡拔掉，用CPU的集成显卡；装好系统之后把显卡装回来，在系统选择界面（我是ubuntu+win10双系统，单系统请自行搜索如何调出这个选择界面）选择ubuntu按e进入参数编辑界面，在“linux“开头的那一行有类似如下字符：</p><div class=\"highlight\"><pre><code class=\"language-text\">linux ....  ro  quiet splash ....</code></pre></div><p>在ro后插入nomodeset</p><div class=\"highlight\"><pre><code class=\"language-text\">linux .... ro nomodeset quiet splash ....</code></pre></div><p>之后F10启动系统，进入系统之后保证自己完全log out之后按ctrl+alt+f1调出TTY，登录，用PPA安装驱动：</p><div class=\"highlight\"><pre><code class=\"language-text\">sudo add-apt-repository ppa:graphics-drivers/ppa\nsudo apt update\n</code></pre></div><p>之后用</p><div class=\"highlight\"><pre><code class=\"language-text\">apt search nvidia\n</code></pre></div><p>查询最新驱动（最新的release版本nvidia-375）。这里有一点要说的是如果要更新驱动似乎要把以前的驱动完全卸载掉才能装新驱动，国外论坛给的解决办法大多是：</p><div class=\"highlight\"><pre><code class=\"language-text\">sudo apt-get purge nvidia-*</code></pre></div><p>但是这个命令会把CUDA一起清掉，所以建议谨慎使用。安装完之后重启机器就可以进入系统了。</p><p>3. 安装CUDA</p><p>这个部分比较容易，上CUDA-Toolkit下载页面<a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/cuda-downloads\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">developer.nvidia.com/cu</span><span class=\"invisible\">da-downloads</span><span class=\"ellipsis\"></span></a>下载安装就可以了。建议安装的时候跳过它的显卡驱动安装，毕竟已经装了最新的驱动了不是？</p><p>安装完之后记得把环境变量加入~/.bashrc中(以最新的8.0为例)：</p><div class=\"highlight\"><pre><code class=\"language-text\">$ export PATH=/usr/local/cuda-8.0/bin${PATH:+:${PATH}}\n$ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}\n</code></pre></div><p>以及之后magma需要用的一个环境变量：</p><div class=\"highlight\"><pre><code class=\"language-text\">export CUDADIR=/usr/local/cuda</code></pre></div><p>之后可以用nvcc --version来查看是否安装正确。</p><p>4. 安装MKL</p><p>现在MKL提供免费的Community License可以使用，填写邮箱以后可以收到安装序列号和下载地址。安装过程很容易，一般默认是安装在/opt/intel下面，安装好之后进入/opt/intel/bin下面会看到一会儿magma会用到的文件（如compilervars.sh），记录好它们对应的绝对路径（一般不是/opt/intel这个目录）。之后在bashrc中添加magma需要的环境变量：</p><div class=\"highlight\"><pre><code class=\"language-text\">source /&lt;path&gt;/compilervars.sh intel64\n</code></pre></div><p>5. 编译magma</p><p>magma提供了多种编译选项，可以和ATLAS，OPENBLAS，MKL等多重加速工具包一起使用。</p><p>在网站（<a href=\"https://link.zhihu.com/?target=http%3A//icl.cs.utk.edu/magma/software/index.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">icl.cs.utk.edu/magma/so</span><span class=\"invisible\">ftware/index.html</span><span class=\"ellipsis\"></span></a>）上下载好magma解压之后进入make.inc.example中选择自己需要的example复制到magma根目录下命名为make.inc，然后在make.inc中修改好MKLROOT和CUDADIR的路径，之后可以调整一下自己需要的其他参数（我在这里把fortran的编译去掉了，以及对应的-lgfortran），之后就可以编译了：</p><div class=\"highlight\"><pre><code class=\"language-text\">sudo make install</code></pre></div><p>大功告成。</p><p>装的过程中遇上了各种奇奇怪怪的问题，还好最后都一一解决了，下面就可以试试这个magma究竟快不快。</p>", 
+            "topic": [
+                {
+                    "tag": "线性代数", 
+                    "tagLink": "https://api.zhihu.com/topics/19577698"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "有案例讲解就更好了", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24975671", 
+            "userName": "jz wang", 
+            "userLink": "https://www.zhihu.com/people/3e1bafb8c3af2e5f49ce4ac7aea3c41e", 
+            "upvote": 37, 
+            "title": "Markowitz Portfolio Optimization（1）：加速", 
+            "content": "<p>稍微写一点最近翻来覆去推的东西，以后就不用再推一次了。</p><p>Marokowitz portfolio optimization with transaction cost model</p><p>我们的目标是解决下面这么一个问题：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Baligned%7D+%5Cunderset%7Bw%7D%7B%5Ctext%7Bminimize%7D%7D+%26+%5Cquad+%5Cfrac%7B1%7D%7B2%7Dw%5E%7BT%7D%5CSigma+w+-+r%5E%7BT%7Dw+%2BT%28w%2Cw_%7B0%7D%29+%5C%5C+%5Ctext%7Bsubject+to%7D+%26+%5Cquad+Aw+%5Cleq+b+%5Cend%7Baligned%7D\" alt=\"\\begin{aligned} \\underset{w}{\\text{minimize}} &amp; \\quad \\frac{1}{2}w^{T}\\Sigma w - r^{T}w +T(w,w_{0}) \\\\ \\text{subject to} &amp; \\quad Aw \\leq b \\end{aligned}\" eeimg=\"1\"/></p><p>其中，</p><p><img src=\"https://www.zhihu.com/equation?tex=T%28w%2Cw_%7B0%7D%29\" alt=\"T(w,w_{0})\" eeimg=\"1\"/>是transaction cost model，例如linear(proportional) transaction cost：<br/></p><p><img src=\"https://www.zhihu.com/equation?tex=T%28w%2Cw_%7B0%7D%29+%3D+c%5E%7BT%7D%5Cleft%7C+w-w_%7B0%7D+%5Cright%7C\" alt=\"T(w,w_{0}) = c^{T}\\left| w-w_{0} \\right|\" eeimg=\"1\"/></p><p>至于constraints，这里用一个比较简单的constraints做例子：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cleft%7C+w-w_%7B0%7D+%5Cright%7C+%5Cleq+trdb\" alt=\"\\left| w-w_{0} \\right| \\leq trdb\" eeimg=\"1\"/></p><p>这里<img src=\"https://www.zhihu.com/equation?tex=trdb\" alt=\"trdb\" eeimg=\"1\"/>是portfolio的trade bound。</p><p>下面把绝对值符号消去。这里我们可以把每一个trade变成buy和sell：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Baligned%7D+w+%26+%3D+%26+w_%7B0%7D+%2B+b+-+s+%5C%5C+b+%26+%5Cgeq+%26+0+%5C%5C+s+%26+%5Cgeq+%26+0+%5C%5C+%5Cend%7Baligned%7D\" alt=\"\\begin{aligned} w &amp; = &amp; w_{0} + b - s \\\\ b &amp; \\geq &amp; 0 \\\\ s &amp; \\geq &amp; 0 \\\\ \\end{aligned}\" eeimg=\"1\"/></p><p>buy和sell有着天然的complementarity：</p><p><img src=\"https://www.zhihu.com/equation?tex=b%5E%7BT%7Ds+%3D+0\" alt=\"b^{T}s = 0\" eeimg=\"1\"/></p><p>之后我们就可以化简掉绝对值符号了：</p><p><img src=\"https://www.zhihu.com/equation?tex=c%5E%7BT%7D%5Cleft%7C+w+-+w_%7B0%7D+%5Cright%7C+%3D+c%5E%7BT%7D%28b+%2B+s%29+%5C%5C\" alt=\"c^{T}\\left| w - w_{0} \\right| = c^{T}(b + s) \\\\\" eeimg=\"1\"/></p><p>稍微变形一下以后，可以得到下面这样一个等价的问题：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Baligned%7D+%26+%5Cunderset%7Bw%7D%7B%5Ctext%7Bminimize%7D%7D+%26+%5Cfrac%7B1%7D%7B2%7D+%5Cbegin%7Bbmatrix%7D+b%5E%7BT%7D+%26+s%5E%7BT%7D+%5Cend%7Bbmatrix%7D+%5Cbegin%7Bbmatrix%7D+%5CSigma+%26+-%5CSigma+%5C%5C+-%5CSigma+%26+%5CSigma+%5Cend%7Bbmatrix%7D+%5Cbegin%7Bbmatrix%7D+b+%5C%5C+s+%5Cend%7Bbmatrix%7D+%2B+%5Cbegin%7Bbmatrix%7D+c%5E%7BT%7D+%2B+2w_%7B0%7D%5E%7BT%7D%5CSigma+-+r%5E%7BT%7D+%26+c%5E%7BT%7D+-+2w_%7B0%7D%5E%7BT%7D%5CSigma+%2B+r%5E%7BT%7D+%5Cend%7Bbmatrix%7D+%5Cbegin%7Bbmatrix%7D+b+%5C%5C+s+%5Cend%7Bbmatrix%7D+%5C%5C+%26+%5Ctext%7Bsubject+to%7D+%26+%5Cbegin%7Bbmatrix%7D+-I+%26+0+%5C%5C+0+%26+-I+%5C%5C+I+%26+0+%5C%5C+0+%26+I+%5Cend%7Bbmatrix%7D+%5Cleq+%5Cbegin%7Bbmatrix%7D+0+%5C%5C+0+%5C%5C+trdb+%5C%5C+trdb+%5Cend%7Bbmatrix%7D+%5Cend%7Baligned%7D\" alt=\"\\begin{aligned} &amp; \\underset{w}{\\text{minimize}} &amp; \\frac{1}{2} \\begin{bmatrix} b^{T} &amp; s^{T} \\end{bmatrix} \\begin{bmatrix} \\Sigma &amp; -\\Sigma \\\\ -\\Sigma &amp; \\Sigma \\end{bmatrix} \\begin{bmatrix} b \\\\ s \\end{bmatrix} + \\begin{bmatrix} c^{T} + 2w_{0}^{T}\\Sigma - r^{T} &amp; c^{T} - 2w_{0}^{T}\\Sigma + r^{T} \\end{bmatrix} \\begin{bmatrix} b \\\\ s \\end{bmatrix} \\\\ &amp; \\text{subject to} &amp; \\begin{bmatrix} -I &amp; 0 \\\\ 0 &amp; -I \\\\ I &amp; 0 \\\\ 0 &amp; I \\end{bmatrix} \\leq \\begin{bmatrix} 0 \\\\ 0 \\\\ trdb \\\\ trdb \\end{bmatrix} \\end{aligned}\" eeimg=\"1\"/></p><p>下面我们尝试用python来解决这个问题。</p><p>python里有很多optimization package。最简单的比如scipy里就提供来一些函数，或者boyd大神的CVXPY，以及CVXOPT。这里我们用CVXOPT（<a href=\"https://link.zhihu.com/?target=http%3A//cvxopt.org/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">cvxopt.org/</span><span class=\"invisible\"></span></a>）来解决这个问题，因为他们的cone programming确实是收敛的快一点。</p><p>CVXOPT里的quadratic programming的标准形式是这样的：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Baligned%7D+%5Cunderset%7Bw%7D%7B%5Ctext%7Bminimize%7D%7D+%26+%5Cfrac%7B1%7D%7B2%7Dx%5E%7BT%7DP+x+%2B+q%5E%7BT%7Dx+%5C%5C+%5Ctext%7Bsubject+to%7D+%26+Gx+%5Cleq+h+%5C%5C+%26+Ax%3Db+%5Cend%7Baligned%7D\" alt=\"\\begin{aligned} \\underset{w}{\\text{minimize}} &amp; \\frac{1}{2}x^{T}P x + q^{T}x \\\\ \\text{subject to} &amp; Gx \\leq h \\\\ &amp; Ax=b \\end{aligned}\" eeimg=\"1\"/></p><p>（这里只列出了primal problem）</p><p>同时它还支持自己定义KKTsolver来计算下面的KKT system：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bbmatrix%7D+P+%26+A%5E%7BT%7D+%26+G%5E%7BT%7D+%5C%5C+A+%26+0+%26+0+%5C%5C+G+%26+0+%26+-W%5E%7BT%7DW+%5C%5C+%5Cend%7Bbmatrix%7D+%5Cbegin%7Bbmatrix%7D+u_%7Bx%7D+%5C%5C+u_%7By%7D+%5C%5C+u_%7Bz%7D+%5Cend%7Bbmatrix%7D+%3D+%5Cbegin%7Bbmatrix%7D+b_%7Bx%7D+%5C%5C+b_%7By%7D+%5C%5C+b_%7Bz%7D+%5Cend%7Bbmatrix%7D\" alt=\"\\begin{bmatrix} P &amp; A^{T} &amp; G^{T} \\\\ A &amp; 0 &amp; 0 \\\\ G &amp; 0 &amp; -W^{T}W \\\\ \\end{bmatrix} \\begin{bmatrix} u_{x} \\\\ u_{y} \\\\ u_{z} \\end{bmatrix} = \\begin{bmatrix} b_{x} \\\\ b_{y} \\\\ b_{z} \\end{bmatrix}\" eeimg=\"1\"/></p><p>把我们要解决的问题跟CVXOPT支持的格式比对一下，可以得到：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Baligned%7D+P+%26+%3D+%26+%5Cbegin%7Bbmatrix%7D+%5CSigma+%26+-%5CSigma+%5C%5C+-%5CSigma+%26+%5CSigma+%5Cend%7Bbmatrix%7D+%5C%5C+A+%26+%3D+%26+0+%5C%5C+G+%26+%3D+%26+%5Cbegin%7Bbmatrix%7D+-I+%26+0+%5C%5C+0+%26+-I+%5C%5C+I+%26+0+%5C%5C+0+%26+I+%5Cend%7Bbmatrix%7D+%5Cend%7Baligned%7D\" alt=\"\\begin{aligned} P &amp; = &amp; \\begin{bmatrix} \\Sigma &amp; -\\Sigma \\\\ -\\Sigma &amp; \\Sigma \\end{bmatrix} \\\\ A &amp; = &amp; 0 \\\\ G &amp; = &amp; \\begin{bmatrix} -I &amp; 0 \\\\ 0 &amp; -I \\\\ I &amp; 0 \\\\ 0 &amp; I \\end{bmatrix} \\end{aligned}\" eeimg=\"1\"/></p><p>这样我们可以把KKT system简化：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Bbmatrix%7D+P+%26+G%5E%7BT%7D+%5C%5C+G+%26+-W%5E%7BT%7DW+%5C%5C+%5Cend%7Bbmatrix%7D+%5Cbegin%7Bbmatrix%7D+u_%7Bx%7D+%5C%5C+u_%7Bz%7D+%5Cend%7Bbmatrix%7D+%3D+%5Cbegin%7Bbmatrix%7D+b_%7Bx%7D+%5C%5C+b_%7Bz%7D+%5Cend%7Bbmatrix%7D\" alt=\"\\begin{bmatrix} P &amp; G^{T} \\\\ G &amp; -W^{T}W \\\\ \\end{bmatrix} \\begin{bmatrix} u_{x} \\\\ u_{z} \\end{bmatrix} = \\begin{bmatrix} b_{x} \\\\ b_{z} \\end{bmatrix}\" eeimg=\"1\"/></p><p><img src=\"https://www.zhihu.com/equation?tex=%5BP%2BG%5E%7BT%7D%28w%5E%7BT%7Dw%29%5E%7B-1%7DG%5Du_%7Bx%7D+%3D+b_%7Bx%7D+%2B+G%5E%7BT%7D%28w%5E%7BT%7Dw%29%5E%7B-1%7Db_%7Bz%7D\" alt=\"[P+G^{T}(w^{T}w)^{-1}G]u_{x} = b_{x} + G^{T}(w^{T}w)^{-1}b_{z}\" eeimg=\"1\"/></p><p><img src=\"https://www.zhihu.com/equation?tex=u_%7Bz%7D+%3D+-%28W%5E%7BT%7DW%29%5E%7B-1%7D%28b_%7Bz%7D-Gu_%7Bx%7D%29\" alt=\"u_{z} = -(W^{T}W)^{-1}(b_{z}-Gu_{x})\" eeimg=\"1\"/></p><p>这样就比单纯的用CVXOPT解要快很多。</p><p>另外，观察到<img src=\"https://www.zhihu.com/equation?tex=P\" alt=\"P\" eeimg=\"1\"/>和<img src=\"https://www.zhihu.com/equation?tex=G\" alt=\"G\" eeimg=\"1\"/>都有structure，如果再support <img src=\"https://www.zhihu.com/equation?tex=Px\" alt=\"Px\" eeimg=\"1\"/>和<img src=\"https://www.zhihu.com/equation?tex=Gx\" alt=\"Gx\" eeimg=\"1\"/>会更快一些。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其实transaction cost model和constraints可以有很多种形式，这里只举一个简单的例子。有兴趣或者有需要求解的可以一起讨论。</p>", 
+            "topic": [
+                {
+                    "tag": "凸优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19602355"
+                }, 
+                {
+                    "tag": "线性代数", 
+                    "tagLink": "https://api.zhihu.com/topics/19577698"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "黑猫Q形态", 
+                    "userLink": "https://www.zhihu.com/people/5f6a0548d644067d949476560aa17d61", 
+                    "content": "凑方块好评，然而 CVXOPT 的矩阵数据类型不显示在变量显示器里，print出来直接是matrix什么什么，看不见有的时候很是蛋疼", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "我一般都是pdb调试，并没有用过带变量监控的IDE…", 
+                            "likes": 0, 
+                            "replyToAuthor": "黑猫Q形态"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "陈皇宇 Renco", 
+                    "userLink": "https://www.zhihu.com/people/639ac53c506043e76cf1827fe78db8dc", 
+                    "content": "你的notation很像Boyd的，能给个reference吗？多谢。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "呃，你指的什么reference？", 
+                            "likes": 0, 
+                            "replyToAuthor": "陈皇宇 Renco"
+                        }, 
+                        {
+                            "userName": "Alex 山大", 
+                            "userLink": "https://www.zhihu.com/people/833a6b6e2e969269473356760fb6e6f2", 
+                            "content": "陈同学可能觉得你的notation是有出处的吧。", 
+                            "likes": 1, 
+                            "replyToAuthor": "陈皇宇 Renco"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "如果协方差矩阵不是正定的，也就是说是一个非凸优化问题，scipy里面有函数能做这个问题么？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "应该没有吧，non-convex optimization一直是一个open question，去看paper吧", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "牛莲泽", 
+                    "userLink": "https://www.zhihu.com/people/ad5aa17ba916fb5ad5a2147876577339", 
+                    "content": "<p>书名可以分享吗？多谢</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>关于什么的书？要是说文章的内容的话基本上都是我自己写的</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "牛莲泽"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>大神，对于混合整数二阶锥，cvxpy和cvxopt有差别吗？刚从yalmip转过来</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/21911866", 
+            "userName": "jz wang", 
+            "userLink": "https://www.zhihu.com/people/3e1bafb8c3af2e5f49ce4ac7aea3c41e", 
+            "upvote": 41, 
+            "title": "关于Convex Optimization里的一个小技巧", 
+            "content": "最近养成了一个非常“良好”的习惯，就是在把问题简单粗暴的扔进开源工具之前先研究一下问题有没有close form solution。<p>举个栗子：</p><p>对于最基本的Quadratic Programming:</p><img src=\"https://www.zhihu.com/equation?tex=min%5C+%5C+%5Cfrac%7B1%7D%7B2%7D+x%5E%7BT%7DHx-f%5E%7BT%7Dx\" alt=\"min\\ \\ \\frac{1}{2} x^{T}Hx-f^{T}x\" eeimg=\"1\"/><br/><img src=\"https://www.zhihu.com/equation?tex=s.t.%5C+%5C+H%3E0\" alt=\"s.t.\\ \\ H&gt;0\" eeimg=\"1\"/><br/><p>解起来很容易：</p><img src=\"https://www.zhihu.com/equation?tex=x_%7Bopt%7D%3DH%5E%7B-1%7Df\" alt=\"x_{opt}=H^{-1}f\" eeimg=\"1\"/><br/><p>假如这时候我们引入了一些linear constraints（线性约束条件），那么问题会变成：</p><img src=\"https://www.zhihu.com/equation?tex=min%5C+%5C+%5Cfrac%7B1%7D%7B2%7D+x%5E%7BT%7DHx-f%5E%7BT%7Dx\" alt=\"min\\ \\ \\frac{1}{2} x^{T}Hx-f^{T}x\" eeimg=\"1\"/><br/><img src=\"https://www.zhihu.com/equation?tex=s.t.%5C+%5C+H%3E0%2C%5C+Ax%3Db\" alt=\"s.t.\\ \\ H&gt;0,\\ Ax=b\" eeimg=\"1\"/><br/><p>其实这个东西也是可以有close form solution的：</p><p>先把constraints里的b弄掉：</p><img src=\"https://www.zhihu.com/equation?tex=min%5C+%5C+%5Cfrac%7B1%7D%7B2%7D+%5Chat%7Bx%7D%5E%7BT%7DH%5Chat%7Bx%7D-%5Chat%7Bf%7D%5E%7BT%7D%5Chat%7Bx%7D\" alt=\"min\\ \\ \\frac{1}{2} \\hat{x}^{T}H\\hat{x}-\\hat{f}^{T}\\hat{x}\" eeimg=\"1\"/><br/><img src=\"https://www.zhihu.com/equation?tex=s.t.%5C+%5C+H%3E0%2C%5C+A%5Chat%7Bx%7D%3D0%2C%5C+%5Chat%7Bf%7D%3Df-b%5E%7BT%7D%7BA%5E%5Cdagger%7D%5ETH\" alt=\"s.t.\\ \\ H&gt;0,\\ A\\hat{x}=0,\\ \\hat{f}=f-b^{T}{A^\\dagger}^TH\" eeimg=\"1\"/><p>于是我们得到了一个我个人称之为这类问题的“标准形式”：</p><img src=\"https://www.zhihu.com/equation?tex=min%5C+%5C+%5Cfrac%7B1%7D%7B2%7Dx%5ETHx-f%5ETx\" alt=\"min\\ \\ \\frac{1}{2}x^THx-f^Tx\" eeimg=\"1\"/><br/><img src=\"https://www.zhihu.com/equation?tex=s.t.%5C+%5C+H%3E0%2C%5C+Ax%3D0\" alt=\"s.t.\\ \\ H&gt;0,\\ Ax=0\" eeimg=\"1\"/><br/><p>然后我们需要做的是找到一个关于A的orthogonal space：</p><p>取一个random matrix M，与<img src=\"https://www.zhihu.com/equation?tex=A%5ET\" alt=\"A^T\" eeimg=\"1\"/>组成一个square matrix，然后做QR decomposition，即：</p><img src=\"https://www.zhihu.com/equation?tex=Q%2C+R+%3D+QR%28%5BA%5ET%5C+M%5D%29\" alt=\"Q, R = QR([A^T\\ M])\" eeimg=\"1\"/><br/><p>之后Unitary Matrix Q的后几个column vector 组成的column space <img src=\"https://www.zhihu.com/equation?tex=%5Chat%7BQ%7D\" alt=\"\\hat{Q}\" eeimg=\"1\"/>就是A的orthogonal space。于是我们就有了下面这么个关系：</p><img src=\"https://www.zhihu.com/equation?tex=A%5Chat%7BQ%7Dx%3D0%5C+%5C+for%5C+x%5Cin+R\" alt=\"A\\hat{Q}x=0\\ \\ for\\ x\\in R\" eeimg=\"1\"/><br/><p>这样一来我们所要解的问题就等价于下面这个问题：</p><img src=\"https://www.zhihu.com/equation?tex=min%5C+%5C+%5Cfrac%7B1%7D%7B2%7Dx%5ET%5Chat%7BQ%7D%5ETH%5Chat%7BQ%7Dx-f%5ET%5Chat%7BQ%7Dx\" alt=\"min\\ \\ \\frac{1}{2}x^T\\hat{Q}^TH\\hat{Q}x-f^T\\hat{Q}x\" eeimg=\"1\"/><br/><img src=\"https://www.zhihu.com/equation?tex=s.t.%5C+%5C+%5Chat%7BQ%7D%5ETH%5Chat%7BQ%7D%3E0\" alt=\"s.t.\\ \\ \\hat{Q}^TH\\hat{Q}&gt;0\" eeimg=\"1\"/><p>于是我们得到：</p><img src=\"https://www.zhihu.com/equation?tex=x_%7Bopt%7D%3D%28%5Chat%7BQ%7D%5ETH%5Chat%7BQ%7D%29%5E%7B-1%7D%5Chat%7BQ%7D%5ETf\" alt=\"x_{opt}=(\\hat{Q}^TH\\hat{Q})^{-1}\\hat{Q}^Tf\" eeimg=\"1\"/><br/><br/><p>PS：inequality constraints目前还没想到类似的技巧，而且感觉很可能没有这种技巧。</p>", 
+            "topic": [
+                {
+                    "tag": "线性代数", 
+                    "tagLink": "https://api.zhihu.com/topics/19577698"
+                }, 
+                {
+                    "tag": "凸优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19602355"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "JohnnyLee", 
+                    "userLink": "https://www.zhihu.com/people/5842f7cd87cd2253393fef5e04e5069b", 
+                    "content": "占沙发，希望版主以后多发点。赞。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "JohnnyLee", 
+                    "userLink": "https://www.zhihu.com/people/5842f7cd87cd2253393fef5e04e5069b", 
+                    "content": "去constraint b的时候再详细一点就好了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "曹艺凡", 
+                    "userLink": "https://www.zhihu.com/people/08c04eff51a72ce13d7e639d83bc3ae2", 
+                    "content": "然后《Numerical Optimization》\"Jorge Nocedal\"，“Second Edition” 这本书第16章，似乎讲了一部分类似的结论，但是不是用闭形式入手讨论的，然后后面讲了一下Active-set 和 Interior-point 两个方法针对不等式条件求解，但是至于闭形式，似乎并没有。希望对您研究有帮助。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "你是说他跟wright写的那本么?那本书16章我看过几遍，当时倒是没有什么灵感…不过还是值得重新看一遍。他们写的那本书细节上写的比boyd那本要好很多，当然numerical的方法都很慢就是了。", 
+                            "likes": 0, 
+                            "replyToAuthor": "曹艺凡"
+                        }, 
+                        {
+                            "userName": "曹艺凡", 
+                            "userLink": "https://www.zhihu.com/people/08c04eff51a72ce13d7e639d83bc3ae2", 
+                            "content": "是的。他其实讲的略显混乱，方法也讲的不是特别细致彻底。但是那个Null space 方法和factoring那个似乎还挺启发意义的。推导闭形式的话，那本书你基本可以点没有帮助...16章提到的数值方法对于大型非稀疏矩阵确实又慢结果又不好。我试了一下SMO的方法（MATLAB），快了很多。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "仰望sky", 
+                    "userLink": "https://www.zhihu.com/people/b326199739c7fb624059babfd41aab7a", 
+                    "content": "有linear equality constraint这个问题，不能直接使用Lagrange multiplier方法吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "好像…不可以？", 
+                            "likes": 0, 
+                            "replyToAuthor": "仰望sky"
+                        }, 
+                        {
+                            "userName": "仰望sky", 
+                            "userLink": "https://www.zhihu.com/people/b326199739c7fb624059babfd41aab7a", 
+                            "content": "为什么不可以？我觉得下列步骤可行。<br>1. 得到的Lagrange函数，对x求gradient得到一个方程：Hx-f+A'lambda = 0<br>2. 得到的Lagrange函数, 对lambda求导，得到方程Ax-b=0 (就是原来的等式约束）<br>3. 由于本题实际是有多个等式约束，所以上面的lambda是个对应的列向量。我们现在需要根据上面1.2两个方程（组）解出x。把这两个方程组成一个更大的方程，写成矩阵形式，就是<br>[H, A'; A, 0] [x;lambda] = [f; b]<br>求解这个方程组就得到了x和lambda。（不知道知乎这里怎么插入公式，写成了MATLAB形式，你应该看得懂哈）<br>4. 这个Lagrange multiplier方法得到的只是一个极值点的必要条件。但是你限制了H&gt;0,也就是说这是个凸优化问题，不存在local最优，所以上面解方程得到的结果只能是global最优或者saddle point，也有相应的方法来判断到底是哪一类。<a href=\"http://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Lagrange_multiplier\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">en.wikipedia.org/wiki/L</span><span class=\"invisible\">agrange_multiplier</span><span class=\"ellipsis\"></span></a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20506574", 
+            "userName": "jz wang", 
+            "userLink": "https://www.zhihu.com/people/3e1bafb8c3af2e5f49ce4ac7aea3c41e", 
+            "upvote": 12, 
+            "title": "Cuthill-Mckee 算法", 
+            "content": "<p>（标题配图引用自MathWorks）</p>最近在做一些Structure Sparse Linear Algebra的东西，用到了这么个算法，于是写一下当作个小总结。<br/><p>1969年，E. Cuthill和J. Mckee这两个人发了一篇paper: Reducing the bandwidth of sparse symmetric matrices。后来George, Liu在这基础上改进了一下，得到了reverse Cuthill-Mckee(RCM) 算法。Matlab里的symrcm函数就是基于George的paper设计的。</p><br/><p>那么RCM算法到底是干什么的呢？</p><p>从数学上来说，给定一个bandwidth为d的Sparse Matrix A（一般是symmetric matrix，后面的讨论都是基于symmetric sparse matrix的假设），RCM算法可以给出一个permutation P，使得：<img src=\"https://www.zhihu.com/equation?tex=A_1+%3D+PAP%5E%7BT%7D\" alt=\"A_1 = PAP^{T}\" eeimg=\"1\"/>是一个有着更小的bandwidth <img src=\"https://www.zhihu.com/equation?tex=d%5E%7B%27%7D\" alt=\"d^{&#39;}\" eeimg=\"1\"/>的Sparse Matrix。值得一提的是，这个问题的最优解（称之为bandwidth reduction problem或者bandwidth minimization problem）是NP-complete的。</p><br/><p>在具体说明RCM是如何工作的之前，需要先写一些图论的东西，可以帮助理解后面的算法部分（图片来源：<a href=\"https://link.zhihu.com/?target=http%3A//ciprian-zavoianu.blogspot.com/2009/01/project-bandwidth-reduction.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">ciprian-zavoianu.blogspot.com</span><span class=\"invisible\">/2009/01/project-bandwidth-reduction.html</span><span class=\"ellipsis\"></span></a>）。</p><p>考虑这样一个8*8的矩阵A:</p><p><figure><noscript><img src=\"https://pic2.zhimg.com/49ce2bec68b7ba51e34e8b2e422535f1_b.jpg\" data-rawwidth=\"226\" data-rawheight=\"184\" class=\"content_image\" width=\"226\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;226&#39; height=&#39;184&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"226\" data-rawheight=\"184\" class=\"content_image lazy\" width=\"226\" data-actualsrc=\"https://pic2.zhimg.com/49ce2bec68b7ba51e34e8b2e422535f1_b.jpg\"/></figure>一方面，从数学的角度上来说，这是个Symmetric Sparse Matrix。另一方面，从图论的角度来说（图论：我就不算是数学咯？），这是个Adjacency matrix（邻接矩阵），对应了下面这样一个8个节点的无向图：</p><br/><figure><noscript><img src=\"https://pic3.zhimg.com/0de69029ae49ad82585647ab16df16fe_b.jpg\" data-rawwidth=\"200\" data-rawheight=\"133\" class=\"content_image\" width=\"200\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;200&#39; height=&#39;133&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"200\" data-rawheight=\"133\" class=\"content_image lazy\" width=\"200\" data-actualsrc=\"https://pic3.zhimg.com/0de69029ae49ad82585647ab16df16fe_b.jpg\"/></figure>还需要介绍一个操作：如果交换两个（或多个）图中的节点，在邻接矩阵上对应的操作是左乘一个permutation matrix <img src=\"https://www.zhihu.com/equation?tex=P\" alt=\"P\" eeimg=\"1\"/>同时右乘它的转置<img src=\"https://www.zhihu.com/equation?tex=P%5E%7BT%7D\" alt=\"P^{T}\" eeimg=\"1\"/>。<p>下面就可以开始介绍Cuthill-Mckee算法的实现了。<br/><br/></p><p>传统的Cuthill-Mckee算法的实现思路很简单。还是上面那个8*8的矩阵：</p><figure><noscript><img src=\"https://pic2.zhimg.com/ad90cd89b26443b985483418e999e239_b.png\" data-rawwidth=\"356\" data-rawheight=\"207\" class=\"content_image\" width=\"356\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;356&#39; height=&#39;207&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"356\" data-rawheight=\"207\" class=\"content_image lazy\" width=\"356\" data-actualsrc=\"https://pic2.zhimg.com/ad90cd89b26443b985483418e999e239_b.png\"/></figure><p>可以很简单的计算出这个矩阵bandwidth=6。如果我们选取下面这种permutation:</p><p><figure><noscript><img src=\"https://pic1.zhimg.com/1c5fcf81dd7bf7f88b4952e9811e2e54_b.png\" data-rawwidth=\"374\" data-rawheight=\"214\" class=\"content_image\" width=\"374\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;374&#39; height=&#39;214&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"374\" data-rawheight=\"214\" class=\"content_image lazy\" width=\"374\" data-actualsrc=\"https://pic1.zhimg.com/1c5fcf81dd7bf7f88b4952e9811e2e54_b.png\"/></figure>我们就可以得到新的无向图对应的邻接矩阵：</p><p><figure><noscript><img src=\"https://pic2.zhimg.com/c932db4441bf756beb444415b2e3fc89_b.png\" data-rawwidth=\"348\" data-rawheight=\"248\" class=\"content_image\" width=\"348\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;348&#39; height=&#39;248&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"348\" data-rawheight=\"248\" class=\"content_image lazy\" width=\"348\" data-actualsrc=\"https://pic2.zhimg.com/c932db4441bf756beb444415b2e3fc89_b.png\"/></figure>可以看到这个矩阵的bandwidth=5。于是我们通过一个permutation把矩阵的bandwidth减小了1。</p><p>如果我们回到permutation P1，可以观察到P1的作用就是交换A的第一行（列）和最后一行（列）。为什么要这么做呢？因为我们观察到，A的最大带宽出现在A(8,2) = A(2,8) = 1 这个位置，因此如果我们把“2”和“8”离的近一些，那么A(2,8)位置上的数也就会更加靠近对角线位置。在这个例子当中，我们用一个permutation把“8”节点和“1”节点交换了一下顺序，从而将A(2,8)和A(8,2)的1换到了A1(2,1)和A1(1,2)上。或许下面这个图更能说明问题：</p><p><figure><noscript><img src=\"https://pic3.zhimg.com/635a64bd44829c5c82480cb0910e0fde_b.png\" data-rawwidth=\"375\" data-rawheight=\"477\" class=\"content_image\" width=\"375\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;375&#39; height=&#39;477&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"375\" data-rawheight=\"477\" class=\"content_image lazy\" width=\"375\" data-actualsrc=\"https://pic3.zhimg.com/635a64bd44829c5c82480cb0910e0fde_b.png\"/></figure>通过permutation，我把A(8,2)和A(2,8)的两个8转移到了新矩阵的(2,1)和(1,2)的位置上。这就是Cuthill-Mckee算法的基本思想，即：把互相连通的点尽量排在相近的位置上，从而达到压缩矩阵带宽的目的。基于这个思想，我们可以用文字描述出CM算法的基本过程：</p><p>1.选取一个起始节点root，并加入到一个空队列中。</p><p>2.获取与这个节点相连的点集<img src=\"https://www.zhihu.com/equation?tex=%5C%7Ba_1%2Ca_2%2C+...%2Ca_p%5C%7D\" alt=\"\\{a_1,a_2, ...,a_p\\}\" eeimg=\"1\"/>。<br/></p><p>3.将得到的点集依次排加入队列。</p><p>4.依次对队列中的每一个节点<img src=\"https://www.zhihu.com/equation?tex=a_1\" alt=\"a_1\" eeimg=\"1\"/>重复步骤2和3，直到图中的所有节点全部进入队列。</p><p>5.最终得到的队列就是对当前矩阵的一个bandwidth reduction可行解。</p><p>从算法上来开，其实CM算法本质上就是一种Breadth-First-Search（BFS，即宽度优先搜索）算法，选择一个根节点根据图中各节点与根节点的距离来得到一个图的遍历。</p><p>以上是CM算法的简单介绍。后来Alan George在这个基础上改进出reverse Cuthill-Mckee算法，即：把CM算法的遍历顺序倒过来写……当然这哥们儿证明了RCM得到的结果至少不会比CM的要坏。不过更重要的是他给出了一个选择起始点的方法，下面粗略的说一下：</p><p>如果我们把遍历结果写成一个树状图的形式如下（图片引用自<i>Computer Solution of Large Sparse Positive Definite Systems</i>）：</p><figure><noscript><img src=\"https://pic1.zhimg.com/370a9705229887dfbb107285db08b2b0_b.png\" data-rawwidth=\"264\" data-rawheight=\"316\" class=\"content_image\" width=\"264\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;264&#39; height=&#39;316&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"264\" data-rawheight=\"316\" class=\"content_image lazy\" width=\"264\" data-actualsrc=\"https://pic1.zhimg.com/370a9705229887dfbb107285db08b2b0_b.png\"/></figure><p>通过这个图，我们可以来考虑一下怎样的树状图才能让矩阵的bandwidth最小。</p><p>从这个树状图上可以看到，尽可能的减少树状图的每一层的节点个数似乎可以达到减少矩阵bandwidth的目的。但是我们并不知道（至少我是不知道）如何才能让树状图上的每一层的节点尽可能的少orz……但是我们可以做到让这个树状图足够深，从而“变相”的让每一层的节点“少”一些。于是第一个目标相当于是求一下这个无向图的直径，也就是找出无向图中距离最远的两个点。这个其实可以通过两次BFS做到（理论支持：无向图中任取一点A，求出距离A最远的点B，再求出距离B最远的点C，B与C的距离即为无向图的直径）。因此从上面这个树状图来看，我们可以以<img src=\"https://www.zhihu.com/equation?tex=x_7\" alt=\"x_7\" eeimg=\"1\"/>和<img src=\"https://www.zhihu.com/equation?tex=x_5\" alt=\"x_5\" eeimg=\"1\"/>为根节点再画出两个树状图，似乎就可以得到比较好的结果。</p><p>除了计算无向图直径的两次BFS，其他的内容其实就是Alan George的核心思想。他的选取方法可以简要说明如下：</p><p>1.选择任意一点画出树状图，并计算该树状图的深度<img src=\"https://www.zhihu.com/equation?tex=d_0\" alt=\"d_0\" eeimg=\"1\"/>。</p><p>2.取距离最远的点集<img src=\"https://www.zhihu.com/equation?tex=%5C%7Ba_1%2Ca_2%2C...%2Ca_k%5C%7D\" alt=\"\\{a_1,a_2,...,a_k\\}\" eeimg=\"1\"/>，在其中找出度数最低的节点<img src=\"https://www.zhihu.com/equation?tex=a_p\" alt=\"a_p\" eeimg=\"1\"/>。<br/></p><p>3.以点<img src=\"https://www.zhihu.com/equation?tex=a_p\" alt=\"a_p\" eeimg=\"1\"/>画出树状图，并计算出该树状图的深度<img src=\"https://www.zhihu.com/equation?tex=d_p\" alt=\"d_p\" eeimg=\"1\"/>。</p><p>4.如果<img src=\"https://www.zhihu.com/equation?tex=d_p%3Ed_0\" alt=\"d_p&gt;d_0\" eeimg=\"1\"/>，则将节点<img src=\"https://www.zhihu.com/equation?tex=a_p\" alt=\"a_p\" eeimg=\"1\"/>作为初始点，重复步骤2，否则输出<img src=\"https://www.zhihu.com/equation?tex=a_p\" alt=\"a_p\" eeimg=\"1\"/>。</p><p>George将这个点称为pseudo-peripheral node。</p><p>以上就是对RCM算法的一个基本介绍。最后补充两点私货：</p><p>1.CM算法的步骤2的点集<img src=\"https://www.zhihu.com/equation?tex=%5C%7Ba_1%2Ca_2%2C+...%2Ca_p%5C%7D\" alt=\"\\{a_1,a_2, ...,a_p\\}\" eeimg=\"1\"/>的顺序很重要，正序、逆序、随机排列最后的结果会差很多。个人觉得里面应该有一种最优逻辑，即某一种特定逻辑的排序（非正序也非逆序）。</p><p>2.RCM算法的结果不一定是最优解。这个也是对第一点补充在某种意义上的“证明”。个人在research过程中找到了一个比RCM更好的permutation（当然是基于特定条件下）。因此RCM从某种角度上来说是一种近似最优解（个人觉得可能叫贪心解更合适）。</p><br/><p>只研究了两周RCM算法，如果有说的不对的地方欢迎讨论~</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "烈之斩", 
+                    "userLink": "https://www.zhihu.com/people/65b4e6c17f901589f4a87e6288da0dd5", 
+                    "content": "配图还以为是什么舰", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "张洪嘉", 
+                    "userLink": "https://www.zhihu.com/people/f7206ce1b852dafdb018f6379de3c200", 
+                    "content": "<p>时隔两年，学RCM很实用，谢谢</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>您好，请问带宽是怎么算的？ 是当aij不等于0时，|i-j|取最大得到的么？有些关于这个算法的问题请问可以问您，交流一下么？谢谢</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=http%3A//people.sc.fsu.edu/%7Ejburkardt/f_src/rcm/rcm.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Reverse Cuthill McKee Ordering</a> </p><p>看到这样一篇文章，里面有写到带宽的值，他是用 lower bandwidth + upper bandwidth + 1（1 for the diagonal） 来算的，请问这个是什么意思？谢谢</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>带宽（bandwidth）这东西我理解就是这样的：假如你有一个矩阵，它的某些位置的值（entry）是0（也就是说它是sparse matrix稀疏矩阵），那我在存储这个矩阵的时候，就可以不需要存整个的矩阵。一种存法是用一个三元组来存矩阵的行列坐标和它的值。另一种存法是对应实际应用中大量存在的band matrix，我只需要存储每一条对角线（sub-diagonal），然后再存一个它是第几条对角线就可以了（lapack里的band solver就是这么存的）。那这时候带宽的值其实就指的是我需要多少行的空间（或者列的空间，看你怎么存它）来存储这个矩阵，例如n*n的bandwidth是p的矩阵我就可以用一个p*n的空间来存储它而不丢失任何信息。</p><p><br></p><p>另外对于一般的band matrix这个p是没有特征的，所以一般就说它是一个bandwidth是p的矩阵。但是对于对称的band matrix，有p=2*k+1（因为上半的bandwidth是k下半也是k），也可以说它是一个lower bandwidth是p（也有说是p+1）的对称矩阵。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>还有其他的问题可以直接给我发私信或者回复都可以</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Shiro", 
+                    "userLink": "https://www.zhihu.com/people/060ca29256fac425cb332fe0e384ddb6", 
+                    "content": "<p>CM步骤2里面的排序应该是按照degree的升序来排的，因为保证相邻两点距离最小并不等同于带宽变小，如果一个节点连接多个节点，那么不仅这个节点和其相连节点的距离要最近，还要保证与之相连的这些节点之间的距离不能太远。</p><p>比如4号节点同时连接1 和 8， 那么BW是7而非4.</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20494289", 
+            "userName": "jz wang", 
+            "userLink": "https://www.zhihu.com/people/3e1bafb8c3af2e5f49ce4ac7aea3c41e", 
+            "upvote": 8, 
+            "title": "开通个专栏玩一玩", 
+            "content": "（其实我只是找个地方记笔记而已……）<br/><p>昨天扫了一眼应用数学下面的精华答案，发现跟“应用数学”基本上没有什么关系……也没有干货输出，于是申请个专栏自己输出了……另外自己的research也有一些卡住的地方，也会写一点东西希望能抛砖引玉（pure math的大神们看过来，看过来…）</p><br/><p>之前有些人问过我我回答的东西哪本书里有介绍，先放几本书：</p><br/><p>Linear Algebra, Gilbert Strang</p><p>请原谅我看了下目录就决定把这本书pass了……比较基础</p><br/><p>Linear Algebra in Action, <a class=\" wrap external\" href=\"https://link.zhihu.com/?target=https%3A//www.google.com/search%3Fq%3Dharry%2Bdym%26stick%3DH4sIAAAAAAAAAOPgE-LSz9U3MEsvLDG2VAKzTStKDAwLtGSyk630k_Lzs_XLizJLSlLz4svzi7KtEktLMvKLAJhN9VY4AAAA%26sa%3DX%26ved%3D0ahUKEwj-6I7RlqTKAhXDHD4KHQ5OACAQmxMIlgEoATAW\" target=\"_blank\" rel=\"nofollow noreferrer\">Harry Dym</a></p><p>其实这个砖头不用啃，留着当字典看就行……</p><br/>Matrix Analysis<p>Topics in Matrix Analysis</p><p>Horn这两本书一直想找时间看，但是一直犯懒……</p><br/><p>Matrix Analysis (GTM 169), Rajendra Bhatia</p><p>前两天导师在FB上发了个状态，于是下载下来看了一下目录，决定加入书单里。是那种一看目录就知道很好的书。顺带一提，有些老的GTM的书可以在Springer上免费下载了。 </p><br/><p>Matrix Computations, Golub</p><p>这书吧……虽说是本工具书，但是还是推荐大致通读一遍。因为……Matrix Computation最近50年其实就没怎么发展有木有！Cyclic reduction这种几十年前的东西还是可以试一试，我也是醉了。</p><br/><p>还有一些书也挺好，参见Bhatia那本书第一章结尾的remark，我就不在这里列了。</p><br/><p>最后！</p><p>放上我现在在读的一本：</p><p>Numerical Mathematics, Quateroni, Sacco, Saleri</p><p>这书吧……我觉得是一本准“神书”，比Golub那本涵盖面似乎还要广一些，但是并不像Golub那本细到把循环的伪代码都给你贴出来。对我来说是一本很有用的书。未来几篇文章应该就是这本书的读书笔记了。</p><br/><p>另外以后应该会陆陆续续写一些专题的文章，比如：Quadratic Programming，Operator Thoery和Digital Signal processing里的一些东西。</p><br/><p>以上。（据说结尾放张图会比较好）</p><figure><noscript><img src=\"https://pic4.zhimg.com/cb693a8a51868c00fe29dc678ae3acc3_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"1024\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic4.zhimg.com/cb693a8a51868c00fe29dc678ae3acc3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;1024&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"1024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic4.zhimg.com/cb693a8a51868c00fe29dc678ae3acc3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/cb693a8a51868c00fe29dc678ae3acc3_b.jpg\"/></figure>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "矩阵计算没发展是不是可以认为是因为线性的东西已经被理的差不多了。。。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "其实还有好多好多没有解决的东西", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Caliber", 
+                    "userLink": "https://www.zhihu.com/people/9ac95625b7e8cdf280c78d23e57f036c", 
+                    "content": "求问题主具体是什么方向的啊？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>似乎…没什么方向…硬要说的话有convex optmization, information geometry, signal process, stochastic calculus。毕竟quant finance都有用到…</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Caliber"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/condnumber"
+}

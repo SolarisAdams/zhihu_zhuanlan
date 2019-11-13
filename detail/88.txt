@@ -1,0 +1,415 @@
+{
+    "title": "太平洋杂谈", 
+    "description": "海战史随笔，列强海上装备，不定期更新，就这样吧.....", 
+    "followers": [
+        "https://www.zhihu.com/people/chen-shui-de-ju-shou", 
+        "https://www.zhihu.com/people/ernesto-66", 
+        "https://www.zhihu.com/people/bull-barry", 
+        "https://www.zhihu.com/people/he-kai-yu-34", 
+        "https://www.zhihu.com/people/yin-chao-fan-95", 
+        "https://www.zhihu.com/people/xiao-zong-xiong-69", 
+        "https://www.zhihu.com/people/ai-xin-jue-luo-tie-zhu-32", 
+        "https://www.zhihu.com/people/lin-an-wei-feng", 
+        "https://www.zhihu.com/people/kai-kai-kai-60-73-43", 
+        "https://www.zhihu.com/people/duchuanren", 
+        "https://www.zhihu.com/people/wei-xing-96-75", 
+        "https://www.zhihu.com/people/szz-13-9", 
+        "https://www.zhihu.com/people/tan-suo-zhe-63-17", 
+        "https://www.zhihu.com/people/chu-yun-13-93", 
+        "https://www.zhihu.com/people/fo-shan-chen-yi-xun-96", 
+        "https://www.zhihu.com/people/zhuan-jia-15-75", 
+        "https://www.zhihu.com/people/yu-wei-heng-78", 
+        "https://www.zhihu.com/people/tai-wan-da-shu-86", 
+        "https://www.zhihu.com/people/zhang-hao-51-26-94", 
+        "https://www.zhihu.com/people/le-pa-pa-45", 
+        "https://www.zhihu.com/people/yang-li-43-81", 
+        "https://www.zhihu.com/people/sfeng-40", 
+        "https://www.zhihu.com/people/swmjyw", 
+        "https://www.zhihu.com/people/lin-zhen-2-47", 
+        "https://www.zhihu.com/people/tkingmatrix", 
+        "https://www.zhihu.com/people/thomas-yi", 
+        "https://www.zhihu.com/people/ye-he-xian-yun-12", 
+        "https://www.zhihu.com/people/song-bu-er-87", 
+        "https://www.zhihu.com/people/boooooooooom3", 
+        "https://www.zhihu.com/people/hu-la-la-61-17", 
+        "https://www.zhihu.com/people/chun-chun-chun-chun-chun-pan-gou", 
+        "https://www.zhihu.com/people/shun-jian-jun", 
+        "https://www.zhihu.com/people/niqiu-60", 
+        "https://www.zhihu.com/people/jiang-hai-zhi-yuan", 
+        "https://www.zhihu.com/people/jiang-zhi-jun-68-38", 
+        "https://www.zhihu.com/people/zhijiangchuan", 
+        "https://www.zhihu.com/people/wang-xi-yu-88-16", 
+        "https://www.zhihu.com/people/zhang-zhang-17-76", 
+        "https://www.zhihu.com/people/xie-tian-5-98", 
+        "https://www.zhihu.com/people/wan-ci-wang-78", 
+        "https://www.zhihu.com/people/robin-wang-88-1", 
+        "https://www.zhihu.com/people/zhu-zhu-ai-mi-mi", 
+        "https://www.zhihu.com/people/zakarum", 
+        "https://www.zhihu.com/people/liang-qi-33-58", 
+        "https://www.zhihu.com/people/da-shu-10-87", 
+        "https://www.zhihu.com/people/cvn-hzz", 
+        "https://www.zhihu.com/people/fu-bu-qing-yi-94", 
+        "https://www.zhihu.com/people/ren-jian-zheng-dao-shi-cang-sang-59-32", 
+        "https://www.zhihu.com/people/bo-lin-tu-zi-98", 
+        "https://www.zhihu.com/people/tian-bu-la-23-55", 
+        "https://www.zhihu.com/people/guo-lao-shi-86", 
+        "https://www.zhihu.com/people/ma-hao-yu-8-69", 
+        "https://www.zhihu.com/people/gyx-72-52", 
+        "https://www.zhihu.com/people/zhong-ji-ying-18", 
+        "https://www.zhihu.com/people/blooxx", 
+        "https://www.zhihu.com/people/zhang-jian-guo-56", 
+        "https://www.zhihu.com/people/zhang-ru-ji-25", 
+        "https://www.zhihu.com/people/bi-he-xie-8", 
+        "https://www.zhihu.com/people/meng-bei-yu-24", 
+        "https://www.zhihu.com/people/huai-yang-ji-qiu", 
+        "https://www.zhihu.com/people/jun-ma-14-9", 
+        "https://www.zhihu.com/people/da-ji-ling-sama", 
+        "https://www.zhihu.com/people/chen-lu-27-95", 
+        "https://www.zhihu.com/people/zhang-xi-zhi-17", 
+        "https://www.zhihu.com/people/superlinc-5", 
+        "https://www.zhihu.com/people/sodiumcrystalyuerker", 
+        "https://www.zhihu.com/people/tsaiking", 
+        "https://www.zhihu.com/people/zh-w-28", 
+        "https://www.zhihu.com/people/lu-qiu-wen-39", 
+        "https://www.zhihu.com/people/zhilong-zhang-69", 
+        "https://www.zhihu.com/people/gong-shi-feng-23", 
+        "https://www.zhihu.com/people/xing-xing-dian-dian-90-89", 
+        "https://www.zhihu.com/people/ling-qing-21-23", 
+        "https://www.zhihu.com/people/jian-jiang-zhou", 
+        "https://www.zhihu.com/people/bing-zhuang-shi-yan-qing-xun-xi-zhang", 
+        "https://www.zhihu.com/people/zhao-liang-70-82", 
+        "https://www.zhihu.com/people/liu-83-75", 
+        "https://www.zhihu.com/people/wu-yuan-89-95", 
+        "https://www.zhihu.com/people/liucen", 
+        "https://www.zhihu.com/people/xiao-fei-xian-bing-1", 
+        "https://www.zhihu.com/people/lin-yu-feng-65-9", 
+        "https://www.zhihu.com/people/ctytc", 
+        "https://www.zhihu.com/people/ghe10", 
+        "https://www.zhihu.com/people/jli-ken", 
+        "https://www.zhihu.com/people/lelouch-xp", 
+        "https://www.zhihu.com/people/li-jin-wen-5-35", 
+        "https://www.zhihu.com/people/run-wang-27", 
+        "https://www.zhihu.com/people/shigurepoi", 
+        "https://www.zhihu.com/people/da-bie-shan-er-ye", 
+        "https://www.zhihu.com/people/quan-ci-fang-37-69", 
+        "https://www.zhihu.com/people/ren-jian-bu-xin-95-25", 
+        "https://www.zhihu.com/people/chs724", 
+        "https://www.zhihu.com/people/tian-zhong-zheng-4", 
+        "https://www.zhihu.com/people/bian-cheng-tao-chi", 
+        "https://www.zhihu.com/people/xu-ming-wei-86", 
+        "https://www.zhihu.com/people/mishiyiwanfan", 
+        "https://www.zhihu.com/people/index-around", 
+        "https://www.zhihu.com/people/eli-ch", 
+        "https://www.zhihu.com/people/luo-ma-50", 
+        "https://www.zhihu.com/people/xi-feng-lie-57-15", 
+        "https://www.zhihu.com/people/turesai-na-li-ao", 
+        "https://www.zhihu.com/people/deng-zhi-67-45", 
+        "https://www.zhihu.com/people/xiao-xiong-88-2-16", 
+        "https://www.zhihu.com/people/long-wu-29-21", 
+        "https://www.zhihu.com/people/niu-jiao-bao-zi", 
+        "https://www.zhihu.com/people/dou-zhuan-xing-yi-28", 
+        "https://www.zhihu.com/people/zeg-74", 
+        "https://www.zhihu.com/people/a-qian-49-46", 
+        "https://www.zhihu.com/people/ban-li-95-83", 
+        "https://www.zhihu.com/people/wang-min-55-43", 
+        "https://www.zhihu.com/people/bismack1984-20", 
+        "https://www.zhihu.com/people/Ellery208773", 
+        "https://www.zhihu.com/people/bei-he-san-feng-huang-er", 
+        "https://www.zhihu.com/people/ya-xi-ya-de-gu-er", 
+        "https://www.zhihu.com/people/peng-cheng-qi", 
+        "https://www.zhihu.com/people/halalei"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/82437372", 
+            "userName": "清浪", 
+            "userLink": "https://www.zhihu.com/people/00cf0c416c742d379e0498f10e37b1b2", 
+            "upvote": 8, 
+            "title": "1944年美日萨马岛海战始末（上）", 
+            "content": "<p><b>本文原载于知乎专栏“太平洋之岚”，系本人原创，原发专栏已经注销，首发日期：2017年9月30日</b></p><p>1944年10月25日凌晨，西南太平洋，萨马岛附近海域，一支飘扬着“日之丸”旗的庞大舰队正在向目标挺进。这是一支实力强大到足以让对手侧目的水面舰艇编队——“栗田舰队”，其核心是拥有18英寸重炮的超级战列舰“大和”号，兵力包括4艘战列舰、6艘重巡洋舰、2艘轻巡洋舰、11艘驱逐舰，浩浩荡荡、气势逼人。 </p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d24d596d704bd1f102598b7514949f77_b.jpg\" data-size=\"normal\" data-rawwidth=\"740\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"740\" data-original=\"https://pic4.zhimg.com/v2-d24d596d704bd1f102598b7514949f77_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;740&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"740\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"740\" data-original=\"https://pic4.zhimg.com/v2-d24d596d704bd1f102598b7514949f77_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d24d596d704bd1f102598b7514949f77_b.jpg\"/><figcaption>“栗田舰队”出击，画面近处的二艘巨舰正是“大和”与“武藏”</figcaption></figure><p>6点23分，一架正在空中进行反潜巡逻任务的美军TBF“复仇者”式鱼雷机发现了这支庞大的舰队，飞行员不由得惊叹道：“我能看到高塔一般的桅杆，这是我这辈子见过最大的军舰了！”随着这支庞大舰队的继续开进，不到一个小时之后，人类海战史上一场差距异常悬殊、过程万分惨烈的海上战斗即将打响，本文的主角——美军“约翰斯顿”号驱逐舰将用勇气、拼搏和鲜血来捍卫他们“父辈的旗帜”。 <br/><br/>一、“战云密布的海域”——“萨马岛海战”战前态势 <br/> <br/>I故事要从1944年10月说起，伴随着美军在太平洋上摧枯拉朽般的攻势，日本人已经败相尽显。“游击部队”——也就是栗田舰队准备做拼死一搏，该部最核心的任务就是突入盟军在“莱特湾”附近海域的泊地，不惜一切代价寻歼美军登陆船队，进而阻止盟军登陆菲律宾。尽管在航行途中历尽波折，巨舰“武藏”号及其他部分重型战舰被击沉，但日本人还是在10月25日凌晨0时30分左右突破了“圣贝纳迪诺”海峡，并于3时前后沿萨马岛海岸继续向南进发。 <br/> <br/>此时，美军素有“蛮牛”绰号的哈尔西海军上将已经被小泽治三郎的“诱饵舰队”吸引，指挥主力舰队向北方杀去。守卫泊地附近海域的主要兵力只有克里夫顿·斯普拉格少将指挥的美第77.4特混大队，又称“塔菲战斗群”，核心战斗力量是16艘主要用于反潜和支援任务的护航航空母舰，防护薄弱、航速较慢，携带的舰载机也不以打击任务为主业。更重要的是，该部按分散配置为三支小队，分别掩护泊地附近海域的不同方向。 <br/> <br/>在防线前方，迎来“栗田舰队”的是“塔菲3号”小队，兵力仅有6艘护航航空母舰、3艘驱逐舰、4艘护航驱逐舰。只要简单对比一下实力，任何人都很有把握日本人即将收获一场压倒式的完胜。 </p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-bb30032c006696af18bb685277911b99_b.jpg\" data-size=\"normal\" data-rawwidth=\"991\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb\" width=\"991\" data-original=\"https://pic2.zhimg.com/v2-bb30032c006696af18bb685277911b99_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;991&#39; height=&#39;437&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"991\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"991\" data-original=\"https://pic2.zhimg.com/v2-bb30032c006696af18bb685277911b99_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-bb30032c006696af18bb685277911b99_b.jpg\"/><figcaption>模型爱好者制作的美日双方参战舰艇模型</figcaption></figure><p>二、悲壮的第一枪</p><p>25日，6点30分，“塔菲3号”小队左翼的舰艇出现在水平线上，日军“矢矧”号轻巡洋舰上的瞭望哨立即报告“发现敌舰”，情报迅速被传递给了旗舰“大和”号；6时45分，“大和”号也发现了35000米外美舰的桅杆。“发现敌机动部队主力”，瞭望哨激动地喊叫道。此时，在“大和”号上，此前被疲惫和病痛折磨的栗田中将，不由得喜出望外，一心要将“鬼畜”的主力击破。 <br/><br/>6点57分，日军巡洋舰部队首先发起突击，随后是由轻巡洋舰率领的水雷战队进行突击。6点时58分，舰队主力“大和”号、“长门”号上的重炮开始发出怒吼，随后，“金刚”号、“榛名”号战列舰也几乎同时开始射击。为了能一口吃掉仇敌，日军舰队上下弥漫着一种激动又急躁的情绪，各舰甚至连阵型转换都顾不上（由于此前一直与美军飞机进行战斗，当时栗田舰队使用的是防空轮形阵，并不利于进行水面战），一窝蜂地向“塔菲3号”小队冲去。 <br/> <br/>就在日军舰队疯狂进行炮击和突进的时候，“塔菲3号”的航向还正对着栗田，6艘护航航母居中，驱逐舰和护航驱逐舰在外围组成了环形警戒幕。当日军的重型炮弹在这支小舰队周围炸出冲天水柱的时候，美国人立马清醒地认识到遇到了强敌。斯普拉格少将立即命令舰队拉响战斗警报，并向东转舵驶向雨云区躲避，同时，他紧急呼叫领近的另外2个小队起飞舰载机支援。但是，美军护航航母航速过慢、只有18～21节，日军舰队主力中最慢的“长门”号战列舰都达到了25节航速。可以想象，单纯的逃脱基本上无法避免被屠宰的命运。 <br/> <br/>然而，就像所有好莱坞大片中的经典桥段一样，英雄出现了。 <br/> <br/>没有任何战斗命令，“约翰斯顿”号，这艘排水量只有2000多吨的小小驱逐舰，在舰长欧内斯特·埃文斯海军中校的指挥下站了出来，奋不顾身地打响了“塔菲3号”小队悲壮的第一枪。战斗前，埃文斯舰长发表了鼓舞人心的战前动员：“小伙子们，我们是在同绝对优势的敌人作战，把生死存亡抛在脑后吧！” </p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-3d87a3390e9455c09c02e2d56f5c59a0_b.jpg\" data-size=\"normal\" data-rawwidth=\"1106\" data-rawheight=\"345\" class=\"origin_image zh-lightbox-thumb\" width=\"1106\" data-original=\"https://pic1.zhimg.com/v2-3d87a3390e9455c09c02e2d56f5c59a0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1106&#39; height=&#39;345&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1106\" data-rawheight=\"345\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1106\" data-original=\"https://pic1.zhimg.com/v2-3d87a3390e9455c09c02e2d56f5c59a0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3d87a3390e9455c09c02e2d56f5c59a0_b.jpg\"/><figcaption>描绘“约翰斯顿”号发起冲锋的艺术画</figcaption></figure><p>三、“目标！敌舰队主力”    </p><p>虽然在战斗打响时处在离日军舰队最近的位置，“约翰斯顿”号装备的舰炮口径只有5英寸，日舰队还远在射程之外。对埃文斯舰长来说，唯一战术只能是一边释放白色烟幕掩护本队的护航航母，一边通过之字形机动向日军舰队逼近。 <br/><br/>人类海战史上悲壮的一幕出现了，一艘势单力薄的驱逐舰，像勇敢的骑士一样冲向了火力和数量占据绝对优势的敌军舰队。正如一名军官所言：“我们就像没有带弹弓的大卫冲向歌利亚一样”。经过近20分钟的艰难航行，拖着烟幕的“约翰斯顿”号终于将日军舰队纳入了其主炮的最大射程，立即对距离自己最近的敌巡洋舰开火。短短5分钟时间内，“约翰斯顿”号一口气打出了200多发5英寸炮弹，多次命中日军第七战队旗舰——“熊野”号重巡洋舰。距离很快缩短到了10英里以内，随着鱼雷官贝克德尔少校的一声令下，“约翰斯顿”号将10枚Mk15型鱼雷一一怒射而出。紧接着，驱逐舰急速转弯，驶入了之前拉好的烟幕中。1分钟后，“约翰斯顿”号从烟幕中驶出来，美军水兵们清楚地看到“熊野”号前部爆发出的冲天火光及激起的高耸水柱—— “熊野”号被一发鱼雷正中，整个船艏被炸掉，航速急降至14节，歪歪斜斜地退出了战列，白石万隆少将的旗舰就这样废了。 </p><p>同时，这次鱼雷攻击还进一步打乱了日军追击部队的步伐，为己方本队撤离争取了时间。然而，勇猛突进的“约翰斯顿”号也遭受到了日舰的集火打击，身负重伤，全舰共被日军战列舰命中3枚大口径炮弹，1台蒸汽轮机被打坏、右舷主机减速齿轮组无法使用、若干条重要的电缆和蒸汽管线被打断。 <br/> <br/>另外，日军打来的3枚6英寸炮弹也使得军舰的情况雪上加霜：1发炮弹导致“约翰斯顿”号舰桥被毁，磁罗经无法使用，四散的弹片还削掉了埃文斯舰长左手的两根手指，但他毫无惧色地转移到后部备用操舵室，继续指挥。其余的炮弹还完全摧毁了舵机舱，一名舰员形容那里的惨状就像是“一只小狗被卡车碾成肉饼一般”。由于动力丧失，后部的3门五英寸主炮失去了作战能力。 万幸的是，就在此时，一片低低的雨云从附近飘过，“约翰斯顿”号得以躲藏其中。这团幸运女神的恩赐为军舰赢得了一段极其宝贵的喘息时间，用以应急修复战损。 <br/> <br/>（未完待续）</p>", 
+            "topic": [
+                {
+                    "tag": "太平洋战争", 
+                    "tagLink": "https://api.zhihu.com/topics/19941669"
+                }, 
+                {
+                    "tag": "海战", 
+                    "tagLink": "https://api.zhihu.com/topics/19854203"
+                }, 
+                {
+                    "tag": "美国海军", 
+                    "tagLink": "https://api.zhihu.com/topics/19643088"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "亚历山大朱可夫", 
+                    "userLink": "https://www.zhihu.com/people/2e2363d7ed8713e1b48f6beac68589a7", 
+                    "content": "记得在约翰斯顿进行突击之后，还有两艘DD/DE跟上去了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "菜刀狂士", 
+                    "userLink": "https://www.zhihu.com/people/a81743cfb9e7a687a0d06eaa0bc6f6b8", 
+                    "content": "一直想看塔菲的详细作战过程  谢谢作者", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/81884525", 
+            "userName": "清浪", 
+            "userLink": "https://www.zhihu.com/people/00cf0c416c742d379e0498f10e37b1b2", 
+            "upvote": 4, 
+            "title": "“胆瓶巨龙”——海上列强的首艘航母", 
+            "content": "<p><b>本文原载于知乎专栏“太平洋之岚”，系本人原创，原发专栏已经注销，首发日期：2018年9月14日</b></p><p>众所周知，航空母舰这一舰种发源于英国，而其之所以能够兴起则与另一舰种，即水上飞机母舰有着密不可分的关系。在早期水上机母舰的繁荣时代，英国先后改造了“竞技神”号、“帕伽索斯”号、“女皇”号、“恩加丹”号、“里维埃拉”号等一批水上飞机母舰。受到美国人尤金·伊利成功的鼓舞，英国人也对陆基飞机应用于海军的可能性进行了研究，并很快取得了成果。但直到此时，也仅仅是解决了陆上飞机从军舰上起飞的问题，降落问题仍然没有解决。人们迫切需要一型能够同时起降飞机的军舰，真正实现“机场移动化”的梦想，这就是促成航空母舰诞生的原动力。以下，便按照英国、美国、日本、法国的顺序介绍各海上列强各自拥有的第一艘航空母舰。\n<br/>\n<br/>英国\n<br/>\n<br/>英国皇家海军真正意义上的第一艘航空母舰是“百眼巨人”号，日德兰海战后，皇家海军的舰队训练遭到了许多指责。在各委员会提交的大批报告中，一个反复强调的问题就是缺少可靠的情报。为了克服这一难题，英国海军开始寻找一艘能够被改造成同时具备起飞和降落轮式飞机能力的军舰，这样，飞机的续航半径就可以被大大扩展。此时，皇家海军拥有的水上飞机母舰里，“坎帕尼亚”号舰龄过大，其他几艘舰速度又太慢。只有位于格拉斯哥的“比德莫尔”造船厂为意大利劳埃德航运公司建造的“罗索伯爵”号快速客轮值得一试。此造船厂曾经对建造平甲板型舰船进行过深入研究，即将开始的改装工程得到了该厂的大力协助。自1916年8月起，工程人员为其安装上前后两块飞行甲板，后经过风洞试验又将其贯通，形成了全通式飞行甲板，甲板上的一个小型航海舰桥被设计成了可升降式。另配有包括：纵索式拦阻装置、遮风珊、升降机在内的一整套航空设施，极大地方便了舰载机的起降作业。经过努力，1918年9月改装完工的“罗索伯爵”号被更名为“百眼巨人”号，舰种为航空母舰，在世界海军装备发展史上写下了浓墨重彩的一笔。虽然在“百眼巨人”号完工之前已经出现了使用陆基飞机的“暴怒”号，但由于不具备飞机降落能力，因此依然属于过渡期的产物，并不是严格意义上的航空母舰。\n<br/>\n<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5fc6ac8af30fa1259d584c8b8b2c52b7_b.jpg\" data-size=\"normal\" data-rawwidth=\"740\" data-rawheight=\"451\" class=\"origin_image zh-lightbox-thumb\" width=\"740\" data-original=\"https://pic4.zhimg.com/v2-5fc6ac8af30fa1259d584c8b8b2c52b7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;740&#39; height=&#39;451&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"740\" data-rawheight=\"451\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"740\" data-original=\"https://pic4.zhimg.com/v2-5fc6ac8af30fa1259d584c8b8b2c52b7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-5fc6ac8af30fa1259d584c8b8b2c52b7_b.jpg\"/><figcaption>“百眼巨人”号航空母舰</figcaption></figure><p><br/>\n<br/>“百眼巨人”号航空母舰\n<br/>\n<br/>本级舰竣工时要目如下:\n<br/>\n<br/>标准排水量：14450吨\n<br/>\n<br/>满载排水量：20400吨\n<br/>\n<br/>全长：172.2米\n<br/>\n<br/>全宽：20.7米\n<br/>\n<br/>吃水：7.1米\n<br/>\n<br/>主机：蒸汽轮机，4轴\n<br/>\n<br/>功率：20000马力\n<br/>\n<br/>航速：20节\n<br/>\n<br/>最大搭载数：18架\n<br/>\n<br/>武备：102毫米单装高射炮4门、102毫米单装舰炮2门\n<br/>\n<br/>美国\n<br/>\n<br/>作为最早实现陆基飞机上舰的国家，美国对寻求合适的载机舰艇一事的热心程度丝毫不亚于英国，但最终拥有第一艘航空母舰的时间却晚于后者。1919年12月，美国海军选定“木星”号运煤船作为改造标的，将其正式改造为美国海军的第一艘航空母舰，改造工程最终于1922年3月结束，“木星”号被重新命名为“兰利”号，舰种为航空母舰。和英国人一样，美国人也将“兰利”号建成了平甲板型航空母舰，舰桥被配置在飞行甲板前部下方。但主机与英国惯用的蒸汽轮机不同，是蒸汽轮机--电动机混合推动装置，航速15节。由于动力区划在舰体后部，因此烟道的配置也相对容易，在左舷后部设置了起倒式烟囱。飞行甲板长162.8米，宽19.5米，除了甲板下的机库可以停放舰载机外，在船舱内也收纳了一部分舰载机，升降机的数量仅有1台。该舰在完工时只装备有舰炮但没有配备任何防空武器。\n<br/>\n<br/>在建成服役后，绰号“大篷车”的本舰为摇篮期的美国航母战术演进做出了巨大的贡献，堪称美国航母发展史上的开山鼻祖。\n<br/>\n<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0fce60447d381edb400b85ed46d422e5_b.jpg\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"330\" class=\"origin_image zh-lightbox-thumb\" width=\"710\" data-original=\"https://pic2.zhimg.com/v2-0fce60447d381edb400b85ed46d422e5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;710&#39; height=&#39;330&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"330\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"710\" data-original=\"https://pic2.zhimg.com/v2-0fce60447d381edb400b85ed46d422e5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-0fce60447d381edb400b85ed46d422e5_b.jpg\"/><figcaption>“兰利”号航空母舰</figcaption></figure><p><br/>“兰利”号航空母舰\n<br/>\n<br/>本级舰竣工时要目如下:\n<br/>\n<br/>标准排水量：11500吨\n<br/>\n<br/>满载排水量：13900吨\n<br/>\n<br/>全长：164.8米\n<br/>\n<br/>全宽：19.9米\n<br/>\n<br/>吃水：7.3米\n<br/>\n<br/>主机：蒸汽轮机--电动机混合推动装置，2轴\n<br/>\n<br/>功率：7200马力\n<br/>\n<br/>航速：15节\n<br/>\n<br/>最大搭载数：33架\n<br/>\n<br/>武备：127毫米单装舰炮4门\n<br/>\n<br/>日本\n<br/>\n<br/>日本海航的起步同样始于水上飞机母舰，1914年，日军将“若宫丸”号水上飞机母舰投入胶州湾战场。但由于水上飞机的使用严重受制于天气，在此后的年度演习中“若宫丸”号历任舰长均提及天气干扰飞机操作效率的问题，并强烈建议海军开发一种可以起降陆基飞机的舰只。 在这样的背景下，1918年3月召开的第四十次帝国议会决定投入12万日元建造一艘特务军舰，最初命名为“龙飞”号，后改名为“凤翔”号。但对于能够起降陆基飞机的军舰，日本方面此前毫无经验，只能求助于当时的盟友英国。通过森彼尔爵士及其率领的航空教育团，日本方面得以采用很多英国成熟技术并赶在英国的“竞技神”号之前成为了世界上第一艘完工的岛型航空母舰。\n<br/>\n<br/>“凤翔”号舰体采用无装甲设计，在全通式飞行甲板的右侧配置了岛型舰桥，舰岛后方还装有起重吊杆，三个起倒式烟囱设在右舷。飞行甲板向下倾斜5度以便飞机获得更高的加速度。值得一提的是，日本海军在“凤翔”号上安装了美国史派里公司制造的陀螺稳定装置，但有资料指出该装置性能并不可靠。\n<br/>\n<br/>由于是带有明显试验性质的航空母舰，“凤翔”号在服役后不断进行改进并完成了日本海军历史上第一次舰载机起降试验，完成起降的吉良俊一海军大尉因此受到了时任海军大臣加藤友三郎的嘉奖。1924年11月，“凤翔”号被正式编入日本海军第一舰队。\n<br/>\n<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-20375144ba90a45905bf5b9114dbd211_b.jpg\" data-size=\"normal\" data-rawwidth=\"2765\" data-rawheight=\"1659\" class=\"origin_image zh-lightbox-thumb\" width=\"2765\" data-original=\"https://pic2.zhimg.com/v2-20375144ba90a45905bf5b9114dbd211_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2765&#39; height=&#39;1659&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"2765\" data-rawheight=\"1659\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2765\" data-original=\"https://pic2.zhimg.com/v2-20375144ba90a45905bf5b9114dbd211_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-20375144ba90a45905bf5b9114dbd211_b.jpg\"/><figcaption>“凤翔”号航空母舰</figcaption></figure><p><br/>“凤翔”号航空母舰\n<br/>\n<br/>本级舰竣工时要目如下:\n<br/>\n<br/>标准排水量：7470吨\n<br/>\n<br/>满载排水量：9494吨\n<br/>\n<br/>全长：168.25米\n<br/>\n<br/>全宽：17.9米\n<br/>\n<br/>吃水：6.2米\n<br/>\n<br/>主机：蒸汽轮机，2轴\n<br/>\n<br/>功率：30000马力\n<br/>\n<br/>航速：25节\n<br/>\n<br/>最大搭载数：24架\n<br/>\n<br/>武备：76毫米单装高射炮2门、140毫米单装舰炮4门\n<br/>\n<br/>法国\n<br/>\n<br/>法国在一战前后是世界上非常突出的航空先进国，其于1912年建造了世界上第一艘水上飞机母舰“闪电”号，可载水上飞机8架。同时，该国开发的“高德隆”式水上飞机在当时也属于新锐机型。但是，法国对于航空母舰的设计建造却并没有那么热心，这主要是因为地中海是法国海军预想的主战场，战场环境决定了航空母舰并非是非常亟需的兵器。然而，随着1922年海上列强在华盛顿签订了《海军军备限制条约》，一股改装航母的风潮迭起。法国军方遂决定将完成度最低的“诺曼底”级战列舰五号舰“贝亚恩”号改装成法国第一艘航空母舰，作为海军航空技术开发平台，相关成果则作为后续级别航空母舰的技术储备。1923年8月，改装工程正式启动。\n<br/>\n<br/>和早期的平甲板型航母不同，“贝亚恩”号属于岛型航母，舰岛设在全通式飞行甲板右侧，与直立烟囱融为一体。装备有横向拦阻索及三座升降机，航空运转效率很高。动力装置方面与主流的蒸汽轮机有所不同，采取了蒸汽轮机与往复式蒸汽机组合配置的方案。值得注意的是，“贝亚恩”号上居然配备了4具550毫米鱼雷发射管，这在其他海上列强装备的航空母舰上是看不到的，从一个侧面反映出法国海军相对保守僵化的思想以及对航空母舰这一舰种尚不清晰的定位意识。\n<br/>\n<br/>由于预想中的“霞飞”级航空母舰没有实际入役，本舰成为了法国海军于第二次世界大战中唯一的航空母舰。\n<br/>\n<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-d4087a49e2168addba466ebd0b53a6e9_b.jpg\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"285\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-d4087a49e2168addba466ebd0b53a6e9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;550&#39; height=&#39;285&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"285\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-d4087a49e2168addba466ebd0b53a6e9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-d4087a49e2168addba466ebd0b53a6e9_b.jpg\"/><figcaption>“贝亚恩”号航空母舰</figcaption></figure><p><br/>“贝亚恩”号航空母舰\n<br/>\n<br/>本级舰竣工时要目如下:\n<br/>\n<br/>标准排水量：22146吨\n<br/>\n<br/>满载排水量：28400吨\n<br/>\n<br/>全长：182.6米\n<br/>\n<br/>全宽：35.2米\n<br/>\n<br/>吃水：9.3米\n<br/>\n<br/>主机：蒸汽轮机--往复式蒸汽机混合推动装置，4轴\n<br/>\n<br/>功率：37500马力\n<br/>\n<br/>航速：21.5节\n<br/>\n<br/>最大搭载数：40架\n<br/>\n<br/>武备：75毫米单装高射炮6门、13.2毫米单装高射机枪16挺、155毫米单装舰炮8门、550毫米鱼雷发射管4具\n<br/>\n</p>", 
+            "topic": [
+                {
+                    "tag": "海战", 
+                    "tagLink": "https://api.zhihu.com/topics/19854203"
+                }, 
+                {
+                    "tag": "军舰", 
+                    "tagLink": "https://api.zhihu.com/topics/19729952"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "老兵菜鸟", 
+                    "userLink": "https://www.zhihu.com/people/74fdad790203613dbddb819a738fb9fc", 
+                    "content": "航母CQC", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "亚历山大朱可夫", 
+                    "userLink": "https://www.zhihu.com/people/2e2363d7ed8713e1b48f6beac68589a7", 
+                    "content": "20年代，大家对于航母的定位都更接近于巡洋舰，所以，当时配上什么武器都不奇怪", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/81523986", 
+            "userName": "清浪", 
+            "userLink": "https://www.zhihu.com/people/00cf0c416c742d379e0498f10e37b1b2", 
+            "upvote": 22, 
+            "title": "“对空专精”——海上列强代表性的防空舰（1936-1944）", 
+            "content": "<p><b>本文原载于知乎专栏“太平洋之岚”，系本人原创，原发专栏已经注销，首发日期：2017年5月25日</b></p><p>第一次世界大战以后，航空机对水面舰艇的威胁呈逐渐加大趋势。尤其是进入20世纪30年代以后，伴随着航空技术的飞速发展，新机型层出不穷，列强各国海军开始逐步考虑强化水面舰艇的防空战斗能力。这方面的先行者是英国，其一方面于1935年开始对老式的“C”级轻巡洋舰实施防空火力强化工程，另一方面又于1936年开始计划建造世界上第一级专用的防空巡洋舰。受此影响，美国、日本等海上列强也纷纷加入进来，各自开启了建造防空舰之旅。下面就按英国、美国、日本的顺序依次介绍海上列强有代表性（二战爆发前至二战中期开工）的防空舰。</p><p><b>英国</b></p><p>“狄多”级</p><p>“狄多”级是英国海军为应对日渐严重的空中威胁而设计的轻巡洋舰，共建11艘，其中1936年计划建造五艘、1937年计划建造二艘、1938年计划建造三艘、1939年计划建造一艘（原计划建造6艘，但后5艘对最初的设计进行了大幅度的修改最终形成了新的一级，即“司战女神”级）。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8104aae78b1492268f94bbe7b838f566_b.jpg\" data-rawwidth=\"701\" data-rawheight=\"484\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"701\" data-original=\"https://pic3.zhimg.com/v2-8104aae78b1492268f94bbe7b838f566_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;701&#39; height=&#39;484&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"701\" data-rawheight=\"484\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"701\" data-original=\"https://pic3.zhimg.com/v2-8104aae78b1492268f94bbe7b838f566_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8104aae78b1492268f94bbe7b838f566_b.jpg\"/><figcaption>“天狼星”号防空巡洋舰</figcaption></figure><p>作为防空火力相对较强的巡洋舰，本级舰中的多数成员都有在“地中海战区”服役的经历，那里是受轴心国空中威胁最为严重的战区之一。</p><p>本级舰共分为三批次，武备方面的具体差别如下：第一批装备有133毫米高平两用炮8门（四座双联装炮塔沿船体中心线以前二后二的方式呈背负式配置）、102毫米单装高射炮一门、2磅砰砰炮8门、533毫米三联装鱼雷发射管2座；第二批装备133毫米高平两用炮10门（五座双联装炮塔沿船体中心线以前三后二的方式呈背负式配置）、2磅砰砰炮8门、533毫米三联装鱼雷发射管2座；第三批与第二批相比，由于主炮产量等原因，更换主炮为114毫米高平两用炮8门。战争后期，部分本级舰进一步加强了中近距离防空武器的配备。</p><p>“狄多”级采适航性相对较好的艏楼船型，主炮采用高平两用炮。本级舰标准排水量根据批次的不同在5700-5900吨之间，主机为蒸汽轮机，航速32节。</p><p>本级舰中的四艘于第二次世界大战中战沉。</p><p>“司战女神”级</p><p>“司战女神”级是条约时代建造的“狄多”级巡洋舰的改进型，与美国的“亚特兰大”级一样，同属防空巡洋舰序列。共有5艘本级舰于1939被列入建造计划并于1943年至1944年先后完工。相较于“狄多”级，本级舰取消了一座主炮塔并强化了近距防空火力，同时改用直立式烟囱。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-855c81e9e2f677d9f71abbd67021508b_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"391\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-855c81e9e2f677d9f71abbd67021508b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;391&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"391\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-855c81e9e2f677d9f71abbd67021508b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-855c81e9e2f677d9f71abbd67021508b_b.jpg\"/><figcaption>“司战女神”号防空巡洋舰</figcaption></figure><p>本级舰采艏楼船型，标准排水量5950吨，主机为蒸汽轮机，航速32节。武备为：133毫米双联装高平两用炮4座、2磅砰砰炮12门、533毫米三联装鱼雷发射管2座。</p><p>本级舰中的一艘于第二次世界大战中战沉。</p><p>“战斗”级</p><p>1937年，纳粹德国空军开始装备“斯图卡”式俯冲轰炸机，其机腹下可挂1枚500公斤航空炸弹。 飞机能以80度的角度向下急速俯冲。二战爆发后，该机充分了发挥了自身性能，成为了“闪电战”中的“急先锋”。当时英国皇家海军庞大的舰 队在防空方面存在较为明显的缺陷，对于水面舰艇这种速度相对较慢的目标来说，“斯图卡”绝对是致命威胁。</p><p>1941年，英国政府为此举行紧急会议商讨对策，作为“战时应急驱 逐舰”计划的一部分，英国首相“丘吉尔”提出要发展一种可以担负舰队防空作战任务防空型驱逐舰，这种新型舰艇就是后来的“战斗”级防空驱逐舰。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0cf6efcdc0fdb9e0075dc5131a207675_b.jpg\" data-rawwidth=\"492\" data-rawheight=\"272\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"492\" data-original=\"https://pic2.zhimg.com/v2-0cf6efcdc0fdb9e0075dc5131a207675_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;492&#39; height=&#39;272&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"492\" data-rawheight=\"272\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"492\" data-original=\"https://pic2.zhimg.com/v2-0cf6efcdc0fdb9e0075dc5131a207675_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-0cf6efcdc0fdb9e0075dc5131a207675_b.jpg\"/><figcaption>“战斗”号防空驱逐舰</figcaption></figure><p>“战斗”级驱逐舰共建造三批，26艘：其中第一批1942年型（又称早期型），总数是16艘；第二批1943年型（又称后期型），总数是8艘；第三批1944年型（为“皇家澳大利亚海军”建造），总数是2艘。全部舰船于1944年至1951年先后完工，各批次主要的不同集中在武器装备上。</p><p>“战斗”级驱逐舰是典型的大型化驱逐舰，标准排水量根据批次的不同在2300-2400吨之间，主机为蒸汽轮机，航速35节。</p><p>各批次在武备方面的主要差别包括：与前个批次不同，第三批装备了新式主炮塔；第一批与第二批装备的单装高射炮的口径不同，第三批则没有装备单装高射炮；第一批、第二批、第三批装备的40毫米机关炮数量不同。</p><p>没有本级舰在第二次世界大战中被击沉。</p><p><b>美国</b></p><p>“亚特兰大”级</p><p>“亚特兰大”级是活跃于第二次世界大战中的有代表性的轻巡洋舰，共建三批，其中1938年计划建造四艘、1941年计划建造四艘、1943年计划建造三艘，全部舰只在1941年至1946间相继建成服役。由于三批舰艇的武备略有不同，因此也有资料将第一批次称为“亚特兰大”级、第二批次称为“奥克兰”级、第三批次则称为“朱诺”级。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ec9ac258eaa01b5e8e2a87734131967c_b.jpg\" data-rawwidth=\"638\" data-rawheight=\"481\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"638\" data-original=\"https://pic1.zhimg.com/v2-ec9ac258eaa01b5e8e2a87734131967c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;638&#39; height=&#39;481&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"638\" data-rawheight=\"481\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"638\" data-original=\"https://pic1.zhimg.com/v2-ec9ac258eaa01b5e8e2a87734131967c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ec9ac258eaa01b5e8e2a87734131967c_b.jpg\"/><figcaption>“亚特兰大”号防空巡洋舰</figcaption></figure><p>“亚特兰大”级起初是被用作“奥马哈”级的替代舰而被设计建造，自身定位为驱逐舰部队的旗舰。主要任务之一便是带领属下驱逐舰发起鱼雷强袭，因此，美国海军放弃了在巡洋舰上废除鱼雷发射管的做法（美国海军只在波特兰级及以前的巡洋舰上安装过鱼雷发射管），为本级舰安装了四联装鱼雷发射管。当然，防空能力较为突出是本级舰最大的特色。</p><p>本级舰三批次的具体差别如下：第一批次装备有127毫米高平两用炮16门（其中六座双联装炮塔沿船体中心线以前三后三的方式呈背负式配置，其余两座双联炮塔被设置于两舷后部）、28毫米机关炮12门、533毫米四联装鱼雷发射管2座；第二批装备127毫米高平两用炮12门（两舷后部的双联装炮塔被撤去）、40毫米机关炮16门、533毫米四联装鱼雷发射管2座；第三批与第二批相比，40毫米机关炮装备数量翻倍，同时撤去了鱼雷发射管，但是雷达等电子设备较前二批更为充实。</p><p>“亚特兰大”级采与多数驱逐舰相类似的平甲板型船型，主炮也采用美国驱逐舰的标准主炮——127毫米高平两用炮。标准排水量根据批次的不同在6000-6500吨之间，主机为蒸汽轮机，航速32节。</p><p>本级舰中的两艘于第二次世界大战中战沉。</p><p>日本</p><p>“秋月”级</p><p>日本于二战爆发前同样开始注意到航空机对船舰的威胁，在有限的预算下，日本海军在1937年便想效仿英国海军对其手上的“5500”吨型轻巡洋舰进行防空火力强化，但该计划很快地就被否决。否决的根本原因则在于日本的轻巡洋舰的“主业”应该是鱼雷战而不是防空战，就是围绕舰队决战去应用，因此抽出较多巡洋舰去担任舰队护航的想法并不是主流意见。</p><p>为了满足舰队防空需求，日本海军转而开始着手研究具备较强防空火力的“防空直卫舰”。1938年的设计案初稿呈现的是装备有8门100毫米主炮、2座双联装25毫米机关炮、但不装备任何鱼雷发射管的新式驱逐舰。然而，日本海军高层无法接受驱逐舰不装鱼雷武器的极端想法，要求安装与“阳炎”级同等的鱼雷兵装。但如果要满足这种需求必然会大幅度增加舰船的排水量和建造成本，最后双方妥协，1938年递交的修订案中加装一具四连装鱼雷发射管，标准排水量也相应得到了提高。</p><p>“秋月”级也被称之为“乙型驱逐舰”，共建12艘，全部舰只在1942年至1945年完工。具体又可分为“标准型”和“简化型”二类，“简化型”是从战时易于生产制造角度的出发建造的驱逐舰。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-8bab9432a4a69f6430006b120365f548_b.jpg\" data-rawwidth=\"492\" data-rawheight=\"272\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"492\" data-original=\"https://pic1.zhimg.com/v2-8bab9432a4a69f6430006b120365f548_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;492&#39; height=&#39;272&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"492\" data-rawheight=\"272\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"492\" data-original=\"https://pic1.zhimg.com/v2-8bab9432a4a69f6430006b120365f548_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-8bab9432a4a69f6430006b120365f548_b.jpg\"/><figcaption>“冬月”号防空驱逐舰</figcaption></figure><p>“秋月”级与“战斗”级一样，都是典型的大型化驱逐舰。标准排水量2701吨，主机为蒸汽轮机，航速33节。</p><p>武备方面：配备有新式100毫米长身管高射炮8门（四座双联装炮塔沿船体中心线以前二后二的方式呈背负式配置）、25毫米机关炮4门、610毫米四联装鱼雷发射管一座。随着战事的推移，近程防空兵器的数量呈持续增加态势。</p><p>本级舰中的六艘于第二次世界大战中战沉。</p>", 
+            "topic": [
+                {
+                    "tag": "太平洋战争", 
+                    "tagLink": "https://api.zhihu.com/topics/19941669"
+                }, 
+                {
+                    "tag": "军舰", 
+                    "tagLink": "https://api.zhihu.com/topics/19729952"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "benzene0", 
+                    "userLink": "https://www.zhihu.com/people/fe686942fa546ff8b489cfa28291a157", 
+                    "content": "<p>捉个虫，日本那部分的标题写成美国了</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "清浪", 
+                            "userLink": "https://www.zhihu.com/people/00cf0c416c742d379e0498f10e37b1b2", 
+                            "content": "感谢，已经修改了。", 
+                            "likes": 0, 
+                            "replyToAuthor": "benzene0"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "老兵菜鸟", 
+                    "userLink": "https://www.zhihu.com/people/74fdad790203613dbddb819a738fb9fc", 
+                    "content": "提个小建议，能在部分船名后面加英文名吗？音译意译的混在一起感觉有点混乱[捂脸]", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "亚历山大朱可夫", 
+                    "userLink": "https://www.zhihu.com/people/2e2363d7ed8713e1b48f6beac68589a7", 
+                    "content": "提个小建议，英制口径可以加个英制尺寸描述么？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "清浪", 
+                            "userLink": "https://www.zhihu.com/people/00cf0c416c742d379e0498f10e37b1b2", 
+                            "content": "你说的英制是2磅吧，其余的我都换公制了，这个特殊，因为2磅表示的不是口径而是弹重，如果换成公制，感觉很怪，另外2磅乒乒炮是很出名的防空武器，很多人都知道的，如果一定要换成口径表述，大约是40毫米口径", 
+                            "likes": 0, 
+                            "replyToAuthor": "亚历山大朱可夫"
+                        }, 
+                        {
+                            "userName": "亚历山大朱可夫", 
+                            "userLink": "https://www.zhihu.com/people/2e2363d7ed8713e1b48f6beac68589a7", 
+                            "content": "2磅是一个，我觉得其他口径也可以备注一下", 
+                            "likes": 0, 
+                            "replyToAuthor": "清浪"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/80737083", 
+            "userName": "清浪", 
+            "userLink": "https://www.zhihu.com/people/00cf0c416c742d379e0498f10e37b1b2", 
+            "upvote": 17, 
+            "title": "“兰利”号的最后一战（下）", 
+            "content": "<p><b>本文原载于“崎骏战史”公众号，系本人原创，原发公众号对在知乎发布无异议，首发日期：2019年2月27日</b></p><p>五、碧海葬老兵</p><p>5～6枚炸弹给“兰利”号造成了严重的伤害，飞行甲板上停放的飞机一架架被点燃，大火也在甲板以下肆虐蔓延，消防总线已经报废，舰体开始进水并产生了10度左倾，任何一艘同类舰船在遭遇如此程度的损害后都很难全身而退，但是麦康奈尔和他的舰员们并不打算放弃，仍竭尽所能挽救“兰利”号。</p><p>在舰长指挥下，损管队展开抢修作业，进行灭火和堵漏，起火的飞机也被推到海中，麦康奈尔还尝试将军舰搁浅在爪哇岛海岸。然而，海风助长了火势，导致灭火工作归于失败，堵漏作业也未能达成预期效果，海水漫进轮机舱，舰体倾斜加剧，抢滩搁浅的企图也因为操舵系统失灵和磁罗经被毁而难以实现。为了预防军舰突然快速倾覆的情况，麦康奈尔下令释放救生艇和给救生衣充气，但被部分舰员误解为弃舰，不少人开始跳海逃生，情况更加混乱和失去控制。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c72e70d94ed01e2259f4e38f5e6664a1_b.jpg\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"348\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-c72e70d94ed01e2259f4e38f5e6664a1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;348&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"348\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-c72e70d94ed01e2259f4e38f5e6664a1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c72e70d94ed01e2259f4e38f5e6664a1_b.jpg\"/><figcaption>“兰利”号的最后时刻</figcaption></figure><p>13时32分，弃舰令正式下达，“兰利”号迎来了命运的最后时刻，在无线电室发出最后一封电报后，幸存舰员开始撤离，麦康奈尔舰长在确认密码设备被彻底破坏后才离开岗位。为了避免“兰利”号落入敌手，在人员全部撤离后，“惠普尔”号发射了9发102毫米炮弹和2枚鱼雷，将其击沉。“兰利”号的沉没位置在南纬8度51分，东经109度2分，距离芝拉扎仅有64海里。但是，这并不是悲剧的终结，“兰利”号的幸存者以及获救的陆军飞行员在几天后搭乘“佩科斯”号舰队油船和“埃德索尔”号驱逐舰向澳大利亚撤退途中遭遇日军飞机和军舰的截击，于3月1日被双双击沉，大多数人不幸遇难。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-c021e36b42a36a8a799280f4dcdc82d3_b.jpg\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"327\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-c021e36b42a36a8a799280f4dcdc82d3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;327&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"327\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-c021e36b42a36a8a799280f4dcdc82d3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-c021e36b42a36a8a799280f4dcdc82d3_b.jpg\"/><figcaption>“兰利”号的沉没时的大体位置</figcaption></figure><p>“兰利”号的沉没标志着盟军试图加强爪哇岛航空战力的最后努力宣告失败，该舰也是太平洋战争初期在东南亚战区被日军陆攻部队击沉的第三艘大型作战舰艇，日本海军在战前锤炼的精锐陆攻部队继马来海战后再度让盟国蒙受重创。血的教训表明，在没有战斗机护航的情况下，大型舰艇在昼间航行时面对空袭是何等脆弱。值得一提的是，纵观各海军强国历史上的航空先驱舰的命运，包括日本的“凤翔”号，英国的“暴怒”、“百眼巨人”号，法国的“贝亚恩”号，全都幸存到二战结束，“贝亚恩”号更是福寿绵长，直到1967年才解体，唯有“兰利”号葬身战火，长眠海底，想来不禁让人万分唏嘘。</p><p><b>谨以此文纪念美国海军航空先驱舰“兰利”号战沉77周年！</b></p>", 
+            "topic": [
+                {
+                    "tag": "太平洋战争", 
+                    "tagLink": "https://api.zhihu.com/topics/19941669"
+                }, 
+                {
+                    "tag": "海战", 
+                    "tagLink": "https://api.zhihu.com/topics/19854203"
+                }, 
+                {
+                    "tag": "美国海军", 
+                    "tagLink": "https://api.zhihu.com/topics/19643088"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "菜刀狂士", 
+                    "userLink": "https://www.zhihu.com/people/a81743cfb9e7a687a0d06eaa0bc6f6b8", 
+                    "content": "谢谢作者 知乎难得的好文", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/80540129", 
+            "userName": "清浪", 
+            "userLink": "https://www.zhihu.com/people/00cf0c416c742d379e0498f10e37b1b2", 
+            "upvote": 15, 
+            "title": "“兰利”号的最后一战（中）", 
+            "content": "<p><b>本文原载于“崎骏战史”公众号，系本人原创，原发公众号对在知乎发布无异议，首发日期：2019年2月27日</b></p><p>三、航路多变幻</p><p>按计划，当MS 5船队航行到巽他海峡西南方科科斯岛附近时，“兰利”和“海上女巫”号将与船队分离，在轻巡洋舰“菲尼克斯”号护航下驶向芝扎拉。但是，ABDA舰队新任司令荷兰海军中将赫尔弗里希已经被日军的闪电攻势压迫得难以喘息，要求两船立即与船队分离，直接驶向目的地，预计2月28日抵达，它们搭载的59架P-40俨然成为拯救爪哇的最后一根救命稻草。由于时间紧迫，赫尔弗里希没有将计划变更电告芝扎拉港海军指挥官格拉斯福德将军。</p><p>由于日军攻势迅猛，海运飞机的风险正直线上升，相较于设施完善的巴达维亚和泗水，航空设施颇为简陋的芝扎拉被选定为目的地港，唯一的理由是位于岛屿南岸，相对安全。以当时的形势，任何舰船要绕过爪哇岛前往北岸的巴达维亚和泗水，都无异于往日军刀口上撞。为了能够接收即将运到的飞机，芝扎拉的荷兰人和美国人都被紧急动员起来，修缮机场设施，因为当地人为了躲避战祸早已逃往深山，只能由西方人亲自动手，在有限的时间里砍伐树木、清理房屋、拓宽道路，改建简易跑道，工程截止日期就是“兰利”号抵达的日子，这在当地已是公开的秘密。</p><p>2月23日，“兰利”号再次接到改变计划的急电，在一夜的煎熬后，赫尔弗里希仍然觉得让两艘船于2月28日清晨同时到港还是太慢了，尤其是“兰利”号上那32架整装待发的P-40简直被视为左右胜败的神器，早一刻到达就能多一分希望，日本人动作很快，他必须更快。于是，赫尔弗里希要求“兰利”号先行加速前往芝拉扎，力争在2月27日下午抵达并开始卸载飞机。此时，爪哇以南海域尚未发现日军舰船，运气好的话冒险有可能成功。赫尔弗里希将计划告知了格拉斯福德将军，并得到后者的支持。</p><p>根据新的命令，“兰利”号告别“海上女巫”号先行前进，随后三天平安无事，直到2月26日下午又遇到新情况。2架荷兰海军“卡塔琳娜”巡逻机在该舰附近海面降落，将一个消息告知“兰利”号舰长麦康奈尔上校：1300吨的荷兰布雷舰“威廉·范·德·赞恩”号正从20海里外赶来与“兰利”号会合并为其护航。按照原计划，将为“兰利”号护航的是从芝扎拉前来的美军驱逐舰“埃德索尔”和“惠普尔”号。在思索片刻后，麦康奈尔决定不与航速缓慢的荷兰布雷舰会合，单独驶向芝扎拉，以争取时间。</p><p>此后不久，“兰利”号老化的锅炉出现故障，导致航速下降至10节，真可谓屋漏偏逢连夜雨。26日晚间，“兰利”号收到由格拉斯福德拍发的电报，再度告知荷兰布雷舰将为“兰利”号护航，迫使麦康奈尔下令改变航向寻找荷兰友舰，然而直到2月27日上午7时20分，“兰利”号都没有看到“威廉·范·德·赞恩”的影子，倒是意外地发现了“埃德索尔”和“惠普尔”号，三舰会合后一起驶往芝扎拉，可是“兰利”号很快要为之前浪费的时间而付出惨重的代价。</p><p>四、灾祸从天降</p><p>2月27日上午，天气晴朗，高空中飘浮着少许流云，微弱的东北风拂过海面，波澜不惊，是非常适合航海的好天气，但对于“兰利”号舰员来说却糟糕至极，因为晴好的天气也意味着很容易被日军飞机发现并遭到空袭。对空警戒哨紧张地观望着海天线，此时“兰利”号距离芝扎拉已不足100海里，所有人都祈祷不要暴露行踪，然而运气显然不在美国人一边。上午9时前后，一架不明飞机出现在舰队视野内，麦康奈尔意识到那可能是日军飞机，于是向格拉斯福德将军紧急求援，要求派出战斗机提供掩护，却全无回音，实际上爪哇全岛当时处于值班状态的战斗机仅有15架，无力出动支援。</p><p>正如麦康奈尔所担心的，那架飞机正是由巴厘岛登巴萨机场起飞的日军巡逻机，隶属于日本海军第二空袭部队。该机于8时50分发出侦察报告：“发现敌<b>大</b>型舰1艘、小型舰2艘，位于巴厘岛265度方位，距离368海里，敌航向230度，航速10节。”接到报告后，登巴萨机场随即开始出击准备，首先起飞的是15架零战，任务是夺取制空权，为后续攻击机编队扫清障碍。随后，高雄航空队的16架一式陆攻在足立次郎海军<b>大</b>尉指挥下依次升空，地勤人员在跑道附近挥帽送别，它们是执行攻击任务的主力。</p><p>11时40分，“埃德索尔”号的瞭望哨<b>大</b>声报警：“敌机来袭！”与此同时，足立<b>大</b>尉也发现了美军舰队，2艘驱逐舰在前，“兰利”号在后，组成倒品字型反潜阵型航行在平静的海面上。足立<b>大</b>尉毫不犹豫，立即下令发起攻击，目标锁定最<b>大</b>的“兰利”号。在“兰利”号上，日军机群刚出现，战斗警报就响彻全舰，全部防空武器指向敌机来袭方向，两艘驱逐舰也全面戒备。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-177b20a77a767d24f9f8217dd453aa78_b.jpg\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"297\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-177b20a77a767d24f9f8217dd453aa78_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;297&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"297\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-177b20a77a767d24f9f8217dd453aa78_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-177b20a77a767d24f9f8217dd453aa78_b.jpg\"/><figcaption>日本海军的一式陆攻机群</figcaption></figure><p>最先发难的是由楠畑义信海军<b>大</b>尉率领的中队，它们从4500米高度进入轰炸航线，向目标接近。美舰全力开火，试图干扰日机的瞄准，但稀疏的防空火力效果不佳。麦康纳尔舰长紧盯着日机的飞行轨迹，做好机动规避的准备。楠畑<b>大</b>尉的中队以三机一组轮番投弹，而在日机即将抵达投弹点前，麦康奈尔舰长就下达了全速右急转的舵令，导致日机投下的炸弹全部失的，落在距离舰首左舷约30米处，激起一簇簇高<b>大</b>的水柱，爆炸冲击波剧烈震动着“兰利”号，但并未造成严重损伤。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-a536fe5762da1afcfc5cdfe8c3fe315b_b.jpg\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"215\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-a536fe5762da1afcfc5cdfe8c3fe315b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;215&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"215\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-a536fe5762da1afcfc5cdfe8c3fe315b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a536fe5762da1afcfc5cdfe8c3fe315b_b.jpg\"/><figcaption>近失弹在“兰利”号舷侧激起的水柱</figcaption></figure><p>看到楠畑队失手，足立<b>大</b>尉率领本队亲自上阵，然而第二次攻击再次被“兰利”号以漂亮的急转向避开了，也有资料称足立队发起的第二次攻击只是佯攻，并未实际投弹，意在摸清“兰利”号的规避动作。在观察了目标动向后，足立迅速组织起第三次攻击。这次日军改变了战术，在抵达预定投弹点时并未投弹，而是跟踪“兰利”号的规避航线，对攻击路线进行修正，再行投弹。“兰利”号毕竟是一艘服役近三十年的老舰，航速也仅有10节，终于避无可避，陷入日军炸弹的夹叉之下，在军舰前后左右窜起一道道水柱，最终一枚炸弹在飞行甲板前部炸响，紧接着又是四声爆炸，表明至少5枚炸弹直接命中！根据记录，“兰利”号的中弹位置为飞行甲板前部1枚，升降机附近2枚，舰体左舷1枚，飞行甲板中部1枚，另有3枚近失弹。也有资料称“兰利”号被命中6枚炸弹，包括3枚250公斤炸弹和3枚60公斤炸弹，造成16人死亡。</p><p>足立大尉事后回忆，在第三次攻击时美军护航舰的防空火力非常猛烈，同时机上无线电员截获了“兰利”号的明码求救电报。由于担心遭到从芝扎拉方向赶来的盟军战斗机的拦截，足立没有恋战，率队在战场上空盘旋一圈后向巴厘岛返航。但是，“兰利”号的苦难尚未结束，日美双方的记录都声称在陆攻队撤出后，制空队的零战又低空扫射了已经燃起大火的“兰利”号。</p><p>（未完待续）</p>", 
+            "topic": [
+                {
+                    "tag": "太平洋战争", 
+                    "tagLink": "https://api.zhihu.com/topics/19941669"
+                }, 
+                {
+                    "tag": "美国海军", 
+                    "tagLink": "https://api.zhihu.com/topics/19643088"
+                }, 
+                {
+                    "tag": "海战", 
+                    "tagLink": "https://api.zhihu.com/topics/19854203"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "suzukaze凉风", 
+                    "userLink": "https://www.zhihu.com/people/304006204fe2f3e6fee6229db086f32c", 
+                    "content": "水平轰炸居然能命中。。<br>陆航这次没miss嘛", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/79894883", 
+            "userName": "清浪", 
+            "userLink": "https://www.zhihu.com/people/00cf0c416c742d379e0498f10e37b1b2", 
+            "upvote": 23, 
+            "title": "所罗门决战兵器", 
+            "content": "<p><b>本文原载于知乎专栏“太平洋之岚”，系本人原创，原发专栏已经注销，首发日期：2019年3月3日</b></p><p>众所周知，所罗门地区于第二次世界大战期间爆发了空前惨烈的消耗战，美日双方在这一战区围绕制空权和制海权展开了殊死争夺，投入了大量的技术兵器，这些兵器效用的发挥在很大程度上影响了战局的发展。以下便按照先日后美的顺序介绍双方在所罗门战区投入的具有代表性的决战兵器。</p><p><b>日本</b></p><p>三式弹</p><p>自亨德森机场投入使用以来，日军试图从海路向瓜岛输送兵力或装备给养就变得困难重重，从机场起飞的美军飞机随时都可能对缺乏防空能力的日军运输船队给予致命一击。为了拔出这个钉子，联合舰队于夜间多次派出舰艇对亨德森机场实施炮击，其中战果最大的炮击发生于1942年10月13日深夜至14日凌晨，以“金刚”号及“榛名”号为基干的炮击编队向机场发射了数百发大口径炮弹（其中多数是三式弹），炮击共造成美军二条主要跑道暂时陷入瘫痪，“仙人掌航空队”共计损失48架飞机，瓜岛上的陆军部队甚至声称二舰的炮击胜过野炮千门。</p><p>三式弹的正式名称是三式通常弹，是根据日本海军在侵华战争中获得的战训及1939年度舰队演习中获得的对空射击经验而开发的新式炮弹，主要用途是对空射击，也可以用于对陆射击，其本质是一种榴霰弹。依据口径不同，三式弹内部充满了数量不等且直径不同的小钢管，内含混合燃烧剂（45%铝镁合金、40%硝酸钡、14.3%橡胶、0.5%硫、0.2%硬脂酸）。对空射击时炮弹由九一式或零式定时引信引爆（对陆上目标射击时也可使用触发引信），放出大量小钢管、钢撑条和弹体碎片，在目标前方形成约15度的圆锥形杀伤区。小钢管在炮弹爆炸后0.5s被高温引燃，成为高速的燃烧破片。单个破片产生的火焰温度高达3000摄氏度，持续时间约5秒。</p><p>值得一提的是，三式弹最初是为大口径（200毫米及以上）火炮而研发的，但后来通过减少钢管数量和降低钢管直径又开发出了小口径（最小适用口径降低到127毫米）的弹种。其中，大口径弹种于1942年投入使用，小口径的弹种则在1943年投入使用。</p><p>如前所述，在瓜岛争夺战中，三式弹在炮轰亨得森机场的数次行动中发挥了作用，但由于机场所在地的土壤柔软，导致部分炮弹的引信没有工作，炮弹最终没有爆炸而被美国方面缴获。</p><p>九三式氧气鱼雷</p><p>1942年11月30日夜,瓜岛塔萨法隆加角附近海面，美第67特混舰队正对日第二水雷战队行动部队展开猛烈炮击，由于双方力量悬殊，场面几近一边倒。不过，自21时23分起，日军发起了一次经典的鱼雷攻击，数十条威力巨大的鱼雷就像几群恶鲨一般隐蔽地直扑美舰而去。随后美舰队中的四艘重巡洋舰相继中雷，其中“北安普敦” 号最终沉没，其余均被重创，日军一举扭转了战斗态势。战斗中日军使用的正是有着“青色杀手”之称的九三式氧气鱼雷。</p><p>作为一个后起海军强国，日本在综合国力较美国处于严重劣势的前提下，力图以某些技术方面的优势来弥补，氧气鱼雷就成为了日本人扭转乾坤的秘密武器之一。</p><p>经过一番艰苦的试验研究并在付出了沉重的代价之后，1933年，屡撞南墙却誓不回头的日本科研人员（以大八木静雄技术少佐为首）终于开发出了一种号称领先西方鱼雷兵器20年的新式兵器，这就是所谓的“忍者大杀器”—— 九三式氧气鱼雷（九三式鱼雷有多种型号，使用频率最高的为1型和3型）。</p><p>九三式1型氧气鱼雷全长9米、直径610毫米、重2700千克（3型重2800千克），由战雷头、燃料室、动力和控制设备舱三部分组成。采用纯氧（研制过程中为保密一律称为第二空气）为主推进剂，具有威力大（战斗部装高爆炸药490千克，命中一发即可使一艘驱逐舰彻底丧失战斗力），高速状态下射程远（48节时20000米，36节时更是达到惊人的40000米）且航迹隐蔽（以往用压缩空气的鱼雷在空气中的氧气消耗掉以后，剩余大部分氮气排出后会产生明显的尾迹。而93式氧气鱼雷产生的废气基本是可溶于水的二氧化碳，故尾迹不明显。）等突出特点，成批发射，对盟军水面舰艇危害极大。</p><p>当然九三式氧气鱼雷同样也拥有殉爆后破坏大，容易早爆，偏航，远距离发射命中率低等缺陷，至战争中后期，日本海军装备氧气鱼雷的各型舰艇通常都会在自身受创后立即抛弃氧气鱼雷，以免“大杀器”被诱爆后给本方舰艇造成致命破坏。</p><p><b>美国</b></p><p>MK16型152毫米速射舰炮</p><p>1942年10月13日凌晨，瓜岛战役中最激烈的水面舰艇夜间战斗爆发，由于美军编队指挥官的失误，此战开局阶段美军即遭到重创，“亚特兰大”号轻巡洋舰遭日军“晓”号驱逐舰雷击沉没，编队副指挥斯科特少将阵亡。但很快，一艘名为“海伦娜”号的轻巡洋舰就为“亚特兰大”号报了仇，其凭借雷达在混战中成功地避开了受伤的友舰后，抓住了“晓”号，舰上全部主炮连续射击2分钟直到日舰猛烈起火燃烧为止，单炮战斗射速接近10发/分，这款火力十分旺盛的舰炮便是有着“六英寸机关枪”之称的MK16型152毫米速射舰炮。</p><p>以老式的Mk8型152毫米50倍径舰炮为基础平台，美国海军于1932年开始研制新一代6英寸舰炮武器系统。这次研制活动采用了很多新设想和新技术，已致于最后完工的作品较前者有了脱胎换骨般的改变。新舰炮拥有惊人的战斗射速（10发/分），得益于此，后人送其“六英寸机关枪”的绰号），同时可以将重达59公斤的超重型穿甲弹投送到23881米的距离上（仰角47.5度时），综合战斗性能堪称各海军强国同类武器中的佼佼者，也是美国海军在围绕瓜岛制海权展开的海上战斗中最值得信赖的武器之一。</p><p>本型炮单炮重6.5吨，身管长7.17米，身管寿命750-1050发；膛压2910公斤/平方厘米；初速762米/秒（发射超重型穿甲弹时）。配用的弹种有超重型穿甲弹、高爆弹、照明弹等。与日本帝国海军装备的三年式155毫米60倍径火炮相比，本炮在穿甲弹重量，对海射击速度，持续作战能力等方面占有优势，总体性能上不亚于口径和倍径均较大的日本产品。</p><p>Mk16型152毫米47倍径舰炮一般安装在三联装全封闭炮塔内。炮塔重154-167吨，由55名炮手操作。炮塔的旋回及火炮俯仰均由电动装置控制（紧急情况下也可转为人工控制），炮塔旋回速度和火炮俯仰速度较快，一定程度上缩短了反应时间，提高了作战效能。其中，炮塔旋回速度10度/秒，旋回角为左右各150度；火炮俯仰速度10度/秒，俯仰角-5度到+60度。</p><p>SG型对海搜索雷达</p><p>1943年11月26日，布干维尔岛海域，由伯克上校指挥的美海军第23驱逐舰中队将日本海军布卡岛输送部队的3艘驱逐舰全部打沉，击毙日本海军中有着“水雷之鬼”称号的吉川洁中佐，己方则无一伤亡，取得了一场“3：0”的完胜。此战中，美编队在暗夜中先于日军发现并在后者毫无察觉的情况下逼近到5500码距离上发起鱼雷攻击，实现了完美的奇袭。之所以能在日军的传统优势项目（夜间水面战）上实现反杀，主要原因就是美舰装备了太平洋战争中最优秀的对海搜索雷达——“SG”型。</p><p>“SG”型水面搜索雷达是美国海军装备的第一种微波水面搜索雷达，由美国雷声公司负责生产（1942-1943年年间，海军接收了近1000套“SG”型雷达。它们被安装在从舰航空母舰到驱逐舰的各型舰只上，有些甚至使用到越南战争时期），其中核心部件新型高性能磁控管则由海军研究实验室、麻省理工学院新电子实验室和贝尔电话实验室等著名科研机构共同开发。全套设备重997.9公斤，由发射机（功率50KW，脉冲宽度2微秒，工作频率3000赫兹，雷达波长10厘米）、接收机、供电设备、弧型天线（重158.8公斤,尺寸为1.12*1.26米，非常小巧轻便。可调转速，根据实际情况每分钟可转动4、8或12周）、主控台（集成有9英寸PPI平示显示器与5英寸A型示波器）等部分组成。最大探测距离为41千米(对大型水面舰)及30千米(对小型水面舰)，测距精度180米，测角精度2度。同时“SG”型雷达还能捕获对空搜索警戒雷达所遗漏的低空飞行的敌机，加装B型遥测显示器后甚至具备在狭窄水道中进行导航的能力，堪称是真正的一机多用。</p><p>美国海军中的雷达操作员对“SG”型雷达的印象普遍较好，曾有人形容与它打交道就向驾驶一辆设计精良的汽车一样让人愉悦。</p><p>如果说在战争初期，日本人凭借其在战前通过的猛训练炼就出的“火眼睛睛”尚可以在夜间水面战斗中不落下风的话，那么到了战争中后期，尤其是在夜晚和恶劣天气时，美国人的“电眼”则完全压倒了日本人的“肉眼”，这其中“SG”型水面搜索雷达功不可没。</p>", 
+            "topic": [
+                {
+                    "tag": "太平洋战争", 
+                    "tagLink": "https://api.zhihu.com/topics/19941669"
+                }, 
+                {
+                    "tag": "海战", 
+                    "tagLink": "https://api.zhihu.com/topics/19854203"
+                }, 
+                {
+                    "tag": "旧日本帝国海军", 
+                    "tagLink": "https://api.zhihu.com/topics/20009476"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "老兵菜鸟", 
+                    "userLink": "https://www.zhihu.com/people/74fdad790203613dbddb819a738fb9fc", 
+                    "content": "咦，注销了？发生了什么？[好奇]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/79552677", 
+            "userName": "清浪", 
+            "userLink": "https://www.zhihu.com/people/00cf0c416c742d379e0498f10e37b1b2", 
+            "upvote": 35, 
+            "title": "“兰利”号的最后一战（上）", 
+            "content": "<p><b>本文原载于“崎骏战史”公众号，系本人原创，原发公众号对在知乎发布无异议，首发日期：2019年2月27日</b></p><p>1942年2月27日，日本陆海军发动的“兰印攻略”的最后一战——爪哇战役正渐入高潮。当天下午，在爪哇南岸港口芝扎拉以南海域，一艘美军战舰正在死亡边缘痛苦地挣扎着。它在之前的空袭中被日军炸弹连续命中，陷入无法控制的进水和火灾之中，在水火交攻的煎熬下耗尽了生命气息。随着弃舰令的下达，在荷属东印度战役中沉没的盟国舰船的长长名单上又增加了一个名字。它的战沉噩耗被淹没在东印度沦陷的悲凄氛围中，并未引起太多的关注，但是每一个熟悉美国海军航空史的人都应该记住它的名字：美国海军第一艘航空母舰“兰利”号（Langley，CV-1）。</p><p><b>一、航空先驱舰</b></p><p>众所周知，航空母舰发源于英国，在经历了早期各种稀奇古怪的载机军舰改装后，英国海军于1918年将客轮“罗索伯爵”号改装为历史上第一艘采用直通式飞行甲板的航空母舰“百眼巨人”号，堪称航母发展史上的里程碑。</p><p>在大洋彼岸，最早实现陆基飞机在军舰上起降的美国对于寻求新型载机军舰的热心程度丝毫不亚于英国。1919年12月，美国海军选定“木星”号运煤船（Jupiter ，AC-3）作为本国第一艘航空母舰的改造对象。在改造过程中，曾参与设计“百眼巨人”号的英国造舰专家斯坦利·古多尔为美国同行提供了大量资料，最终奠定了美国航母鼻祖的平甲板形态。</p><p>1922年3月，“木星”号的改造工程在诺福克海军船厂结束，被重新命名为“兰利”号，其新舰名源自美国天文学家、发明家和航空先驱者塞缪尔·兰利，名列美国海军航空母舰舰种下的第一号战舰。与“百眼巨人”号一样，“兰利”号为无舰岛的平甲板型航母，其舰桥位于飞行甲板前部下方，动力系统采用美国特色的涡轮电力推进装置，航速15节，动力区划在舰体后部，因此烟道布置相对容易，在左舷后部设置了两座起倒式烟囱。“兰利”号的标准排水量12900吨，满载排水量14100吨，舰长165.2米，舰宽19.9米，吃水7.3米，飞行甲板长162.8米，宽19.5米，距水面高度17米，由13个单柱桁架支撑，装有一部飞机升降机和一部弹射器，飞行甲板下方设有单层机库，船舱内也可收纳部分舰载机，可搭载33～36架飞机。“兰利”号的自卫武备为4门127毫米平射舰炮，没有任何防空武器。“兰利”号是美国海军第一艘平顶船造型的军舰，酷似大篷车，因此被飞行员赋予“大篷车”的绰号。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-cdbdb804867359e5694e7e9ce2cc1fa4_b.jpg\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"321\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-cdbdb804867359e5694e7e9ce2cc1fa4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;321&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"321\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-cdbdb804867359e5694e7e9ce2cc1fa4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-cdbdb804867359e5694e7e9ce2cc1fa4_b.jpg\"/><figcaption>正在船厂接受改装的“木星”号</figcaption></figure><p>“兰利”号服役后，作为美国航母的开山鼻祖为摇篮期的美国海军航空战术的演进做出了巨大的贡献。1922年10月，“兰利”号完成了美国海军历史上首次航母舰载机起降试验，同年11月又进行了首次弹射起飞舰载机的试验。除了承担各项试验项目外，“兰利”号同样是孕育美式航母航空作业规则的温床，著名的甲板系留作业方式就是在“兰利”号的甲板上诞生的。</p><p>从1924年开始，“兰利”号参加了著名的“舰队问题”演习，其价值在美国海军完善航母战术运用的尝试中显露无疑，“兰利”号搭载的舰载机一次次执行预定的演习任务，让美国海军逐步认识到航母作为独立的打击力量将对未来海战产生决定性影响，将从依附于主力舰队，承担侦察、防空任务的辅助力量逐步转变为最具威力的主战力量。与此同时，“兰利”号还是舰载机飞行员的训练平台，一只只美利坚海鹰正是从它的甲板上展翅高飞，成为列克星敦级大型航母的中坚力量。总而言之，“兰利”号是美国海航当之无愧的先驱舰。</p><p>随着美国海军航空兵的快速发展和壮大，“兰利”号与后续新锐航母的性能差距迅速拉大，但是“老兵不死，只是慢慢凋零”，“兰利”号并未卸甲归田，于1936年进入加利福尼亚的梅尔岛海军船厂，被改装为水上飞机供应舰（AV-3）。在此次改装中，其前部飞行甲板被拆除，保留91米长的后部飞行甲板，用于储存和修理飞机，原用于储存飞机的货舱改为仓库和住舱，为了加强防空能力，增设了4门76毫米高射炮。1937年2月26日，“兰利”号改装结束，以全新的舰容加入航空巡逻舰队，在美国西海岸执行巡航任务。1939年1月至7月，“兰利”号调入大西洋舰队，随后再度返回太平洋，开赴远东地区，于9月24日抵达菲律宾马尼拉，编入太平洋舰队，最终迎来了太平洋战争的爆发。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-6745bec4a88261187726b2342ae8be3e_b.jpg\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"295\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-6745bec4a88261187726b2342ae8be3e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;295&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"295\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-6745bec4a88261187726b2342ae8be3e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-6745bec4a88261187726b2342ae8be3e_b.jpg\"/><figcaption>水上飞机母舰“兰利”号，此图摄于1938年，此时舰种已经转为水上飞机母舰</figcaption></figure><p><b>二、爪哇风云急</b></p><p>1942年2月中旬，开战以来势如破竹的日军基本完成了对荷属东印度的外围作战，准备从东西两侧合击东印度殖民地的心脏爪哇岛。2月18日，日军第2师团从法属印度支那南部的金兰湾起航，驶向爪哇岛西岸的万丹湾等地；2月19日，日军第48师团从菲律宾乐和港出发，航向直指爪哇岛东岸的克拉甘，两路日军犹如铁钳夹紧爪哇。</p><p>在日军兵锋将至的危机时刻，英美澳荷联军在混乱情势下努力加强爪哇的防御，在各项措施中最受重视的是陆基航空兵力量的强化，被认为是关乎爪哇能否守住的关键。最初，盟军尝试让补充飞机从澳大利亚后方基地直接飞往爪哇，但盟军战机普遍航程较短，必须在帝汶岛中转加油，而帝汶岛的古邦机场设施简陋，起降困难，经验不足的飞行员极易发生事故，导致不必要的非战斗损失。而且，日军于2月21日登陆帝汶岛，彻底切断了这条空中通道，这样只剩通过舰船海运飞机这一途径可以利用了。</p><p>海运飞机需要有合适的飞机运输舰，而普通货船不适合担负此类任务，经过排查后盟军选定了“兰利”号担此重任。在战争爆发时，“兰利”号于12月8日启航前往巴厘巴板规避日军进攻，又于1942年1月1日转移到澳大利亚达尔文港，编入ABDA联合舰队，协同岸基航空兵执行反潜巡逻任务，直至1月11日接到飞机运输任务。该舰奉命驶往弗里曼特尔，在那里将美国远东空军第13驱逐机中队的32架P-40“战斧”战斗机装载上船，这些飞机原本计划在达尔文装船，因为运输条件不足才转移到弗里曼特尔。值得注意的是，这些P-40是以整机备战状态上舰，只要登岸即可升空作战。如果“兰利”号依然保持航母状态，P-40甚至有可能直接起飞执行防空任务，或许可以避免后来的悲剧，但是只剩一半甲板的“兰利”号无法起降陆基飞机。此外，另外27架P-40被分解后装上“海上女巫”号运输舰，两舰于2月22日从弗里曼特尔启程，加入由墨尔本驶向锡兰的MS 5护航船队。</p><p>（未完待续）</p><p>PS：新专栏第一更，这次的原创声明应该完整了，希望大家多支持本菜。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "太平洋战争", 
+                    "tagLink": "https://api.zhihu.com/topics/19941669"
+                }, 
+                {
+                    "tag": "美国海军", 
+                    "tagLink": "https://api.zhihu.com/topics/19643088"
+                }, 
+                {
+                    "tag": "海战", 
+                    "tagLink": "https://api.zhihu.com/topics/19854203"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "北风江上寒", 
+                    "userLink": "https://www.zhihu.com/people/4228981a2c9bc5e402647c67611720a1", 
+                    "content": "要是航母状态估计不会凉这么快", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/79399452", 
+            "userName": "清浪", 
+            "userLink": "https://www.zhihu.com/people/00cf0c416c742d379e0498f10e37b1b2", 
+            "upvote": 5, 
+            "title": "写在开篇", 
+            "content": "<p>因为已经过了热血的年纪，大抵也写不出什么激昂的宣言一类的东西了，加之本性慵懒，本不想弄类似开篇的东西，但思来想去，觉得有些问题还是说明白的好，故先啰嗦二句，各位随意一看就好。</p><p> 一、关于自己</p><p>本菜网名hyyy，笔名清浪，老军迷一枚，主要研究太平洋战争相关题材。自09年起在纸刊及自媒体f上发表过拙作数十篇，主业是在金融行业（流行点的说法叫金融民工），业务爱好则是码字（除此之外几无专长，可以说是废柴一个）。</p><p>二、我之前为什么退出了知乎</p><p>其实，我在2017年就在知乎建立过一个专栏，也积攒了2000多关注，但是二次被恶意举报，说我不规范转载抄袭，但实际上我贴的都是我自己发在别的平台上的原创文章（只是我注册专栏的用户名和发文章的笔名不一样，之所以没用笔名注册专栏是不想暴露较多的个人信息）。知乎编辑非逼着我去证明“我就是我”，我第一次努力证明了，并对全部发表在该专栏的文章进行了原创性声明，后来是解封了，并承认了封闭是错误的，但无端被扣除的18点盐值拒不返还。不到一周时间，第二次又以同样的理由封号，连申诉的机会都没给我，一时间心灰意冷，就注销了专栏。此后，我通过多方打听，大体上明白了知乎封停专栏的规则，只要有高级账号举报基本会封，判断的标准也很简单，就是只要此前有平台发表过这篇文章即可。至于此前有没有更早的或是举报人提供的平台是否才是真正的不规范转载者，知乎貌似是不管的。更过分的是，管理员在某些情况下连申诉的机会都不给。新专栏开通后，我又一次仔细研读了知乎专栏规则及规则贴后的留言，我发现被强行要求证明我就是我的作者还有不少，且这些作者询问该如何证明“我就是我”这个问题时，官方没有给出任何答案。另外，据说部分知乎专栏打着原创的旗号四处复制黏贴却一次都未被处理，不知道官方对此有河感想，难不成对于专栏的监管就是靠高权限用户的举报来实现的吗，高权限用户的举报就一定100%精准吗？</p><p>三、我为什么又回归了知乎</p><p>之所以重新开了专栏，从头开始，就一个原因，我认同也乐于分享知识，在目前优质平台s极度稀缺的情况下，知乎总体上看，还行。也有朋友在知道我的遭遇后劝我永久退乎的，建议不如搞个公众号，但由于个人更新频率不高，加之少数个人公众号虽然质量还可以，但阅读i量低到发指，实在无法达成分享知识的目的，而阅读量很大的一些营销号，文章的质量实在是.....。</p><p>四、最后的唠叨</p><p>中国军迷实际上是很可怜的，与欧美日，港台军迷能够接触的资料相比较，无论是数量上还是质量上差距都不是一个量级。加上网络环境躁动，跑火车，胡编乱造，吹嘘炒作的文章比比皆是，误导年轻人的案例也是层出不穷，无数所谓的军迷变成了实质上的军盲。这其实是非常可悲的事，忘战必危，几千年前孙子即言：兵者，国之大事，生死之地，存亡之道，不可不察也！</p><p> 自开始写作之日起，本菜便始终坚持创作原创战史兵器科普文章，力图为同好们多创作一些好的原创文章，对于自己的每一篇作品，均需要参考原版外文资料并对不同资料之间的不同表述努力进行考证。虽不敢说匠心大作，但称为良心原创是完全没问题的。</p><p>为了顺应知识以超常规力度提出的知识产权保护需求，本菜决定就以笔名进行用户注册，这样可以与我前期发表过的所有作品保持一致，另外，会给出每一篇作品的首发位置（链接或刊物期数）。同时，我也希望知乎真的能以同样的力度对待每一个专栏作者，而不只是凭借高权限用户的举报或是未严格查证的猜测来评判一个作者是否有抄袭或不规范转载的行为。</p><p>就这样吧，希望大家能支持这个专栏，我也会努力撰写良心文章，但由于人懒，可能无法做到频繁更新，抱歉。  本文是我的原创，部分内容来自此前已经注销的专栏《太平洋之岚》，那个就是我2017年开的，如果知乎要我证明那个也是我的，抱歉，确实无法证明了。</p>", 
+            "topic": [
+                {
+                    "tag": "杂谈", 
+                    "tagLink": "https://api.zhihu.com/topics/19642079"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "老兵菜鸟", 
+                    "userLink": "https://www.zhihu.com/people/74fdad790203613dbddb819a738fb9fc", 
+                    "content": "太可惜了，更的慢就没怎么注意，结果注销了[捂脸]", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "土豆puree", 
+                    "userLink": "https://www.zhihu.com/people/5a06d752f22fb9b45cf8df10c523cb7c", 
+                    "content": "竟然回归了！关注了！", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1147085101501407232"
+}

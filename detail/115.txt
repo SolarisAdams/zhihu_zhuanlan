@@ -1,0 +1,629 @@
+{
+    "title": "职称论文", 
+    "description": "为评职称、发表论文答疑解惑 Vx：nike8093", 
+    "followers": [
+        "https://www.zhihu.com/people/piao-ling-32-11", 
+        "https://www.zhihu.com/people/zhang-xun-an", 
+        "https://www.zhihu.com/people/zzzzzz-77-13", 
+        "https://www.zhihu.com/people/li-xiao-bian-98-77", 
+        "https://www.zhihu.com/people/1766747931", 
+        "https://www.zhihu.com/people/lirumei-42", 
+        "https://www.zhihu.com/people/qing-tang-gua-mian-90", 
+        "https://www.zhihu.com/people/jiang-qin-83-21", 
+        "https://www.zhihu.com/people/qing-xia-qx-64", 
+        "https://www.zhihu.com/people/fu-sheng-yi-meng-60-16", 
+        "https://www.zhihu.com/people/libeibei1995", 
+        "https://www.zhihu.com/people/gou-xiao-guo", 
+        "https://www.zhihu.com/people/wu-lin-xiao-wan-zi", 
+        "https://www.zhihu.com/people/mr-lin-82-68", 
+        "https://www.zhihu.com/people/qiao-zhi-32-36", 
+        "https://www.zhihu.com/people/sun-ting-chen-79", 
+        "https://www.zhihu.com/people/shui-cao-lin", 
+        "https://www.zhihu.com/people/yv-0607", 
+        "https://www.zhihu.com/people/wang-meng-2-73", 
+        "https://www.zhihu.com/people/hai-an-xian-58-70", 
+        "https://www.zhihu.com/people/welllife0302", 
+        "https://www.zhihu.com/people/lu-dan-ne-53", 
+        "https://www.zhihu.com/people/xing-fu-pi-pi-53", 
+        "https://www.zhihu.com/people/tu-jia-54-59", 
+        "https://www.zhihu.com/people/la-la-la-21-37-97", 
+        "https://www.zhihu.com/people/free2028", 
+        "https://www.zhihu.com/people/liu-lin-25-28-73", 
+        "https://www.zhihu.com/people/ling-yi-ge-xiong-tang", 
+        "https://www.zhihu.com/people/he-shuang-hua-65", 
+        "https://www.zhihu.com/people/qia-la-yang-18-37", 
+        "https://www.zhihu.com/people/fang-hua-62-38", 
+        "https://www.zhihu.com/people/ju-zi-82-10-38", 
+        "https://www.zhihu.com/people/mo-mo-40-28-92", 
+        "https://www.zhihu.com/people/yili-zi-52", 
+        "https://www.zhihu.com/people/zhi-cheng-bang-bang-mang", 
+        "https://www.zhihu.com/people/wei-you-xiao-zong", 
+        "https://www.zhihu.com/people/zhou-xiao-long-53-76", 
+        "https://www.zhihu.com/people/er-duo-li-de-yang-guang-16", 
+        "https://www.zhihu.com/people/lisa-75-59-60", 
+        "https://www.zhihu.com/people/sun-wen-long-90", 
+        "https://www.zhihu.com/people/li-zhi-en-59-42", 
+        "https://www.zhihu.com/people/jiang-sir-51-44", 
+        "https://www.zhihu.com/people/cao-ru-yi-39-71", 
+        "https://www.zhihu.com/people/he-lu-xiao-ji", 
+        "https://www.zhihu.com/people/alexandra-35", 
+        "https://www.zhihu.com/people/mou-mou-mou-16-81", 
+        "https://www.zhihu.com/people/zhong-cai-90-43", 
+        "https://www.zhihu.com/people/hu-ya-86-63", 
+        "https://www.zhihu.com/people/bai-er-qin-guan-zhong-gui-chu", 
+        "https://www.zhihu.com/people/ke-neng-shi-bao-bei", 
+        "https://www.zhihu.com/people/lao-hu-ba-ya-13", 
+        "https://www.zhihu.com/people/li-rong-hua-20", 
+        "https://www.zhihu.com/people/zhu-pi-88-99", 
+        "https://www.zhihu.com/people/xiao-dong-lou-44-55", 
+        "https://www.zhihu.com/people/bai-yang-80-70", 
+        "https://www.zhihu.com/people/zou-shan-50-50", 
+        "https://www.zhihu.com/people/chgo-will", 
+        "https://www.zhihu.com/people/chuan-hei-yi-fu-de-wen-zi", 
+        "https://www.zhihu.com/people/xiao-you-1-34-87", 
+        "https://www.zhihu.com/people/dan-you-21", 
+        "https://www.zhihu.com/people/he-xin-pu-kan-zhuan-zhu", 
+        "https://www.zhihu.com/people/a-huang-jun-70", 
+        "https://www.zhihu.com/people/bo-shu-shu-57", 
+        "https://www.zhihu.com/people/xing-guang-51-77", 
+        "https://www.zhihu.com/people/wen-ke-sheng-xiao-jie", 
+        "https://www.zhihu.com/people/nuo-mi-tuan-zi-22-52-8", 
+        "https://www.zhihu.com/people/natalie-88-65-33", 
+        "https://www.zhihu.com/people/yipin-du-jun", 
+        "https://www.zhihu.com/people/jiu-ling-yu-xiu", 
+        "https://www.zhihu.com/people/zsp2008", 
+        "https://www.zhihu.com/people/hou-zi-23-42", 
+        "https://www.zhihu.com/people/scd-42-34", 
+        "https://www.zhihu.com/people/shniky", 
+        "https://www.zhihu.com/people/nathan-68-18", 
+        "https://www.zhihu.com/people/xie-jing-67-84", 
+        "https://www.zhihu.com/people/xu-xin-7-12", 
+        "https://www.zhihu.com/people/qi-tian-lan-38", 
+        "https://www.zhihu.com/people/wen-wen-fei-fei", 
+        "https://www.zhihu.com/people/wang-en-ming-11-80", 
+        "https://www.zhihu.com/people/yuan-yuan-33-22", 
+        "https://www.zhihu.com/people/zheng-hong-liang-96", 
+        "https://www.zhihu.com/people/fault123", 
+        "https://www.zhihu.com/people/superzheng-55", 
+        "https://www.zhihu.com/people/zhi-hui-tian-hai-33", 
+        "https://www.zhihu.com/people/ke-neng-fou-58-51", 
+        "https://www.zhihu.com/people/roring-zuo", 
+        "https://www.zhihu.com/people/wu-bian-ji-41", 
+        "https://www.zhihu.com/people/wang-shi-ru-yan-67-19", 
+        "https://www.zhihu.com/people/queen-37-86-58", 
+        "https://www.zhihu.com/people/logo-81", 
+        "https://www.zhihu.com/people/mo-cha-yun-duo", 
+        "https://www.zhihu.com/people/shi-di-jamie", 
+        "https://www.zhihu.com/people/huang-xiao-zhao-8", 
+        "https://www.zhihu.com/people/zhou-xu-39-20", 
+        "https://www.zhihu.com/people/zhi-liao-69-87", 
+        "https://www.zhihu.com/people/xhj2018-67", 
+        "https://www.zhihu.com/people/hua-man-lou-69-31", 
+        "https://www.zhihu.com/people/wang-yirui-29", 
+        "https://www.zhihu.com/people/su-lu-yi-wang-57-50", 
+        "https://www.zhihu.com/people/feng-jing-lan-30", 
+        "https://www.zhihu.com/people/leibiyijue", 
+        "https://www.zhihu.com/people/he-xin-qi-kan-fa-biao-99", 
+        "https://www.zhihu.com/people/mo-shi-a-37", 
+        "https://www.zhihu.com/people/ruan-gu-liang-80", 
+        "https://www.zhihu.com/people/luo-ying-xin-40", 
+        "https://www.zhihu.com/people/michael-yu-61", 
+        "https://www.zhihu.com/people/piao-yi-yi-kuai-le-yi-jian-kang", 
+        "https://www.zhihu.com/people/yu-hao-24-65-1", 
+        "https://www.zhihu.com/people/shui-yan-ming-mou-shan-lai-xu-ren-mei", 
+        "https://www.zhihu.com/people/an-e-yi", 
+        "https://www.zhihu.com/people/grass2440", 
+        "https://www.zhihu.com/people/jia-xi-rui-97", 
+        "https://www.zhihu.com/people/song-si-ming-80", 
+        "https://www.zhihu.com/people/pei-pei-zhu-67-10", 
+        "https://www.zhihu.com/people/ida-40-32", 
+        "https://www.zhihu.com/people/sun-li-ai", 
+        "https://www.zhihu.com/people/guo-guo-he-san-ge-wa", 
+        "https://www.zhihu.com/people/yiliao-bai-liao-jiao-lu-zheng", 
+        "https://www.zhihu.com/people/da-bai-9-6-93", 
+        "https://www.zhihu.com/people/liu-xiao-ling-49-45", 
+        "https://www.zhihu.com/people/liu-yong-xiao-69", 
+        "https://www.zhihu.com/people/jin-fu-yu-4", 
+        "https://www.zhihu.com/people/qiong-miao-93", 
+        "https://www.zhihu.com/people/shi-qing-81-7", 
+        "https://www.zhihu.com/people/liuhe-87-3", 
+        "https://www.zhihu.com/people/cun-xin-16", 
+        "https://www.zhihu.com/people/meng-nuo-li-sha-89-13", 
+        "https://www.zhihu.com/people/xhkggjug"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36574175", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 0, 
+            "title": "【期刊杂志推荐】—学报类", 
+            "content": "<p>《咸宁学院学报》 省级</p><p>《天津商业大学学报》 本科</p><p>《长春理工大学学报》 专科</p><p>《保险职业学院学报》 专核</p><p>《湖北经济学院学报》 国家</p><p>《天津市经理学院学报》 省级</p><p>《哈尔滨职业技术学院学报》 省级</p><p>《太原城市职业技术学院学报》 省级</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36574051", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 0, 
+            "title": "【期刊杂志推荐】—综合类", 
+            "content": "<p>历史地理类: </p><p>《丝绸之路》 省级</p><p>《文物春秋》 省级</p><p>《黑龙江史志》 省级</p><p>  烹调类: </p><p>《烹调知识》 省级</p><p>  档案类: </p><p>《河南图书馆学刊》 省级</p><p>《档案天地》 省级</p><p>  人力资源: </p><p>《出国与就业》 国家</p><p>《人才资源开发》 省级</p><p>《人力资源管理》学术版 省级</p><p>《中国电力教育》人力资源版 国家</p><p>  交通类: </p><p>《交通世界》 国家</p><p>《黑龙江交通科技》 省级</p><p>《农业装备与车辆工程》 省级</p><p>《交通运输工程与信息学报》 国家</p><p>《长沙铁道学院学报》 省级</p><p>纺织类:</p><p>《纺织科技进展》 省级</p><p>《江苏纺织》（科技版） 省级</p><p>《西安工程大学学报》 国家</p><p>《纺织高校基础科学学报》 国家</p><p>  环境科学类: </p><p>《资源环境与工程》 专核</p><p>《地质灾害与环境保护》 省级</p><p>  工业技术类: </p><p>《制冷空调与电力机械》 国家</p><p>《计测技术》 国家</p><p>《测绘与空间地理信息》 省级</p><p>  物流类: </p><p>《中国市场》 国家</p><p>《物流科技》 国家</p><p>《物流工程与管理》 国家</p><p>  旅游类: </p><p>《走遍世界》 省级</p><p>《旅游纵览》 省级</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36573885", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 7, 
+            "title": "【期刊杂志推荐】—计算机类", 
+            "content": "<p>《电脑知识与技术》 国家</p><p>《数字技术与应用 》 国家</p><p>《电脑编程技巧与维护》 国家</p><p>《计算机光盘软件与应用》 国家</p><p>《软件导刊》 省级</p><p>《福建电脑》 省级</p><p>《信息与电脑》 国家</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>老哥，知网上可以看吗？转行互联网行业想知悉一些前沿咨询</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36573694", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 0, 
+            "title": "【期刊杂志推荐】—地质类", 
+            "content": "<p>《煤》 省级</p><p>《现代冶金》 省级</p><p>《天津化工》 省级</p><p>《河南化工》 省级</p><p>《安徽化工》 省级</p><p>《化工管理》 国家</p><p>《化工机械》 专核</p><p>《广西轻工业》 省级</p><p>《化工矿产地质》 国家</p><p>《化学工程与装备》 国家</p><p>《新疆石油教育学院学报》 本科</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36573488", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 1, 
+            "title": "【期刊杂志推荐】—建筑类", 
+            "content": "<p>《城市建设》 国家</p><p>《四川建材》 省级</p><p>《河南建材》 省级</p><p>《安徽建筑》 省级</p><p>《中华民居》 国家</p><p>《中华建设》 国家</p><p>《建设科技》 国家</p><p>《建筑与文化》 国家</p><p>《中国建材科技》 国家</p><p>《中国勘察设计》 省级</p><p>《中国住宅设施》 专核</p>", 
+            "topic": [
+                {
+                    "tag": "工程学", 
+                    "tagLink": "https://api.zhihu.com/topics/19572885"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36573230", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 4, 
+            "title": "【期刊杂志推荐】—机械类", 
+            "content": "<p>《机电技术》 省级</p><p>《机电信息》 省级</p><p>《福建农机》 国家</p><p>《湖南农机》 省级</p><p>《电动工具》 国家</p><p>《石油和化工设备》 国家</p><p>《装备制造技术》 省级</p><p>《机电产品开发与创新》 专核</p><p>《农业装备与车辆工程》 省级</p><p>《机械研究与应用》 省级</p>", 
+            "topic": [
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }, 
+                {
+                    "tag": "机械", 
+                    "tagLink": "https://api.zhihu.com/topics/19564870"
+                }, 
+                {
+                    "tag": "工程学", 
+                    "tagLink": "https://api.zhihu.com/topics/19572885"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36573138", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 0, 
+            "title": "【期刊杂志推荐】—水利电力类", 
+            "content": "<p>《中国水运》 国家</p><p>《陕西水利》 省级</p><p>《湖北电力》 国家</p><p>《华电技术》 国家</p><p>《湖南水利水电》 省级</p><p>《通信电源技术》 国家</p><p>《山西水利科技》 省级</p><p>《中国电力教育》 国家</p><p>《高科技与产业化·环球电气》 国家</p><p>《北京电力高等专科学校学报》 国家</p><p>《江西电力职业技术学院学报》 省级</p>", 
+            "topic": [
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }, 
+                {
+                    "tag": "学术论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19632766"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "GGERP", 
+                    "userLink": "https://www.zhihu.com/people/27c1b662a65b06bb232223cf30862189", 
+                    "content": "请问评职称，普刊分省级国家级加分不同吗？不是分普刊和核心吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36573050", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 1, 
+            "title": "【期刊杂志推荐】—科技类", 
+            "content": "<p>《科海故事博览.科教论坛》 省级</p><p>《企业技术开发》 省级</p><p>《中小企业管理与科技》 省级</p><p>《河南科技》 省级</p><p>《大科技》 省级</p><p>《科技资讯》 省级</p><p>《科技信息》 省级</p><p>《价值工程》 专核</p><p>《硅谷》 国家</p><p>《科技风》 省级</p><p>《科学之友》 省级</p><p>《今日科苑》 国家</p><p>《中国科技博览》 国家</p><p>《科技与生活》 国家</p><p>《科技致富向导》 国家</p><p>《科技创新导报》 国家</p><p>《科技创业月刊》 省级</p><p>《科技促进发展》 国家</p><p>《中国科技信息》 国家</p><p>《信息系统工程》 省级</p><p>《黑龙江科技信息》 省级</p><p>《内蒙古科技与经济》 省级</p><p>《现代营销》 省级</p><p>《科学时代》 省级</p><p>《科园月刊》 省级</p><p>《中国集体经济》 专核</p>", 
+            "topic": [
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }, 
+                {
+                    "tag": "学术论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19632766"
+                }, 
+                {
+                    "tag": "科技", 
+                    "tagLink": "https://api.zhihu.com/topics/19556664"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36572944", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 1, 
+            "title": "【期刊杂志推荐】—农业类", 
+            "content": "<p>《河北农机》 省级</p><p>《饲料博览》 国家</p><p>《村委主任》 省级</p><p>《河南农业》 省级</p><p>《吉林农业》 省级</p><p>《农家之友》 省级</p><p>《当代畜牧》 国家</p><p>《农产品加工》 省级</p><p>《养殖与饲料》 省级</p><p>《养殖技术顾问》 省级</p><p>《安徽农学通报》 省级</p><p>《湖北畜牧兽医》 省级</p><p>《农村经济与科技》 省级</p><p>《农业技术与装备》 国家</p><p>《农业科学研究》 国家</p><p>《现代农业科技》 省级</p><p>《畜牧兽医科技信息》 国家</p><p>《新农村》9月中旬出刊 省级</p><p>《致富时代》（下半月） 专核</p><p>  园艺林业类: </p><p>《现代园艺》 省级</p><p>《中国林业》 国家</p><p>《中国园艺文摘》 省级</p><p>  粮油食品类:</p><p>《食品安全导刊》 国家</p><p>《粮油加工》原名《食品机械》专核</p>", 
+            "topic": [
+                {
+                    "tag": "农业", 
+                    "tagLink": "https://api.zhihu.com/topics/19568808"
+                }, 
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }, 
+                {
+                    "tag": "职称", 
+                    "tagLink": "https://api.zhihu.com/topics/19612033"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36572859", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 1, 
+            "title": "【期刊杂志推荐】—政法类", 
+            "content": "<p>《传承》 省级</p><p>《党史文苑》 省级</p><p>《源流》教育版 省级</p><p>《黑龙江省政法管理干部学院学报》省级</p><p>《湖北警官学院学报》 省级</p><p>《和田师范专科学校学报》 专科</p><p>《法制与社会》 省级</p>", 
+            "topic": [
+                {
+                    "tag": "学术论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19632766"
+                }, 
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }, 
+                {
+                    "tag": "学术期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19629509"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "匿名", 
+                    "userLink": "https://www.zhihu.com/people/9cca82f98346d7fcbb5ba469002237d9", 
+                    "content": "<p>在法制与社会上发文算是学术污点吧</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36572780", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 1, 
+            "title": "【期刊杂志推荐】—新闻类", 
+            "content": "<p>《今传媒》 省级</p><p>《新闻窗》 省级</p><p>《新闻世界》 省级</p><p>《新闻天地》论文版 省级</p><p>《新闻传播》 国家</p><p>《科技传播》 国家</p><p>《电影评介》 专核</p><p>《新闻前哨》 国家</p><p>《青年记者》 省级</p>", 
+            "topic": [
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }, 
+                {
+                    "tag": "学术期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19629509"
+                }, 
+                {
+                    "tag": "杂志推荐", 
+                    "tagLink": "https://api.zhihu.com/topics/19566661"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36572644", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 3, 
+            "title": "【期刊杂志推荐】—社科类", 
+            "content": "<p>《活力》 省级</p><p>《祖国》 国家</p><p>《地球》 国家</p><p>《魅力中国》 专核</p><p>《现代交际》 省级</p><p>《工会博览》 国家</p><p>《黑河学刊》 省级</p><p>《中国科技纵横》 国家</p><p>《当代工人》精品版 专核</p><p>《决策与信息》下旬学术版 省级</p><p>《青春岁月》 省级</p><p>《资治文摘》 国家 (下半月管理版)</p>", 
+            "topic": [
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }, 
+                {
+                    "tag": "学术期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19629509"
+                }, 
+                {
+                    "tag": "学术论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19632766"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "kino", 
+                    "userLink": "https://www.zhihu.com/people/069db45f39d01ee6dabd12910417bf1d", 
+                    "content": "这些都是广电总局承认的吗", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36572534", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 9, 
+            "title": "【期刊杂志推荐】—经济管理类", 
+            "content": "<p>管理类: </p><p>《大众商务》 省级</p><p>《经营管理者》 省级</p><p>《管理观察》 国家</p><p>《管理学家》 国家</p><p>《企业家天地》 省级</p><p>《化工管理》 国家 (限管理类文章)</p><p>《现代企业文化》 国家</p><p>《中国城市经济》 国家</p><p>《中国管理信息化》 国家</p><p>  财会类: </p><p>《国际商务财会》 国家</p><p>《中国乡镇企业会计》 国家</p><p>  金融类:</p><p>《金融经济》 国家</p><p>《时代金融》 省级</p><p>《中国证券期货》 国家</p><p>《中国农业银行武汉培训学院学报》省级</p><p>《江西金融职工大学学报》 专核</p><p>  经济类: </p><p>《今日财富》 省级</p><p>《商情》综合版 省级</p><p>《长三角》 国家</p><p>《经济师》 专核</p><p>《财经界》 专核</p><p>《商品与质量》 国家</p><p>经济类: </p><p>《时代经贸》 国家</p><p>《中外企业家》 省级</p><p>《企业研究》（下半月） 专核</p><p>《企业导报》 省级</p><p>《商业文化》 国家</p><p>《知识经济》 省级</p><p>《中国经贸》 国家</p><p>《中国外资》 专核</p><p>《中国商界》 专核</p><p>《现代商业》 国家</p><p>《商业经济》 国家</p><p>《消费导刊》 国家</p><p>《网络财富》 国家</p><p>《商场现代化》 国家</p><p>《现代商贸工业》 国家</p><p>《现代经济信息》 国家</p><p>《中国对外贸易》 国家</p><p>《中国电子商务》 国家</p><p>《中国总会计师》 国家</p><p>《东方企业文化》 国家</p><p>《世界华商经济年鉴》 国家</p><p>《中国高新技术企业》 国家</p><p>《改革与开放》 省级</p><p>《投资与合作》 省级</p><p>《全国商情.经济理论研究》 专核</p>", 
+            "topic": [
+                {
+                    "tag": "经济", 
+                    "tagLink": "https://api.zhihu.com/topics/19552981"
+                }, 
+                {
+                    "tag": "论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19572442"
+                }, 
+                {
+                    "tag": "职称", 
+                    "tagLink": "https://api.zhihu.com/topics/19612033"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "小叶", 
+                    "userLink": "https://www.zhihu.com/people/261605243d7bbf4289c3ef4f17c332cf", 
+                    "content": "想问一下，为什么知网只有到2010年的消费导刊，现在却在万方收录，是消费导刊达不到要求嘛？还是啥？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36572155", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 17, 
+            "title": "【期刊杂志推荐】—医学类", 
+            "content": "<p><b> 健康保健类: </b></p><p>《健康必读》省级 月底出刊</p><p>《求医问药》会延迟出刊</p><p>《中国初级卫生保健》不接代写代发</p><p>《保健医学研究与实践》</p><p>《祝您健康》省级</p><p>《中外健康文摘》</p><p>《养生保健指南》</p><p>《中外妇儿健康》暂停收稿 不收武汉稿件</p><p>《中国疗养医学》</p><hr/><p><b>  护理类：</b></p><p>《国际护理学杂志》不接代写代发</p><p>《全科护理》</p><p></p><hr/><p><b>临床类:</b></p><p>《临床医药实践》（暂停收稿）</p><p>《临床和实验医学杂志》省级(不收护理类)</p><p>《现代药物与临床》</p><p>《临床医学工程》统计源核心</p><p>《中国临床研究》</p><p></p><hr/><p><b>中医类:</b></p><p>《内蒙古中医药》 　省级</p><p>《中医临床研究》国家级(不收护理、西医类)</p><p>《中国中医药咨讯》</p><p>《西部中医药》</p><p>《中医外治杂志》省级</p><p></p><hr/><p><b>中国开头类:</b></p><p>《中国医药科学》</p><p>《中国科学美容》暂停</p><p>《中国保健营养》国家</p><p>《中国疗养医学》国家</p><p>《中国当代医药》国家</p><p>《中国医药指南》国家（论著，英文摘要，临床）</p><p>《中外医学研究》省级</p><p>《中国卫生产业》国家</p><p>《中国医学创新》省级</p><p>《中国肛肠病杂志》国家（不收浙江稿，不代写）</p><p>《中国现代医生》国家级（限三级医院）</p><p>《中国民族民间医药》国家</p><p>《中国现代医药杂志》（不接代写代发）</p><p>《中国中医药现代远程教育》国家</p><p>《中国现代药物应用》国家</p><p>《中国民康医学》国家</p><p>《中国药物经济学》国家</p><hr/><p><b>医学综合类: </b></p><p>《北方药学》国家</p><p>《吉林医学》国家 (可加急)</p><p>《海峡药学》国家(不代写,不收护理文章)</p><p>《按摩与康复医学》国家</p><p>《医学新知》 国家(不收医学管理方面文章)</p><p>《医药前沿》省级</p><p>《医学信息》国家（暂停收稿）</p><p>《社区医学》国家</p><p>《中外医疗》国家</p><p>《医学与法学》国家</p><p>《当代医学》国家(不收护理类稿件)</p><p>《航空航天医药》国家</p><p>《亚太传统医药》国家（不收护理）</p><p>《旅行医学科学》国家</p><p>《医学理论与实践》国家</p><p>《实用骨科杂志》国家 (不接代写代发)</p><p>《数理医药学杂志》省级（需要英文摘要）</p><p>《现代诊断与治疗》省级</p><p>《实用心脑肺血管病杂志》 省级（论著）</p><p>《心血管病防治知识》 省级下半月</p><p>《广西中医学院学报》本科</p><p>《微量元素与健康研究》省级</p><p>《首都公共卫生》国家</p><p>《基层医学论坛》省级</p><p>《国际遗传学杂志》国家</p><p>《外科理论与实践》国家</p><p>《浙江中医杂志》浙江2级　不收浙江稿件</p><p>《中国伤残医学》省级</p><p>《心理医生》省级</p><p>《黑龙江医药科学》省级</p><p>《山西医药杂志：下半月》省级</p><p>《右江医学》省级</p><p>《职业卫生与应急救援》</p><p>《器官移植》国家</p><p>《药物评价研究》省级</p><p>《临床合理用药杂志》省级</p><p>《微生物学杂志》专核</p>", 
+            "topic": [
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }, 
+                {
+                    "tag": "论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19572442"
+                }, 
+                {
+                    "tag": "职称", 
+                    "tagLink": "https://api.zhihu.com/topics/19612033"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "若荷清寒", 
+                    "userLink": "https://www.zhihu.com/people/57bf6f51cbaaf788007d6224578376f4", 
+                    "content": "请问在哪里找这些杂志呢 我想办一个杂志类的图书柜", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "吃土的猫耳朵", 
+                    "userLink": "https://www.zhihu.com/people/61e86057b680d2f23e49067ccc252e20", 
+                    "content": "你好，医学信息是省级刊物哎", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "小Q2282153180", 
+                    "userLink": "https://www.zhihu.com/people/50384987c8627b9732b2430c3cbb5798", 
+                    "content": "<p>可以找我</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36572026", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 3, 
+            "title": "【期刊杂志推荐】—艺术、体育类", 
+            "content": "<p><b>艺术类：</b></p><p>《大舞台》 省级</p><p>《安徽文学》 省级</p><p>《剑南文学》 省级</p><p>《北方音乐》 省级</p><p>《民族音乐》 省级</p><p><b>体育类：</b></p><p>《体育世界》 省级</p><p>《体育科研》 省级</p><p>《体育科学研究》 国家</p><p>《文体用品与科技》 国家</p><p>《体育成人教育学刊》 省级</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36495539", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 5, 
+            "title": "【期刊杂志推荐】—文学类", 
+            "content": "<p>《岁月》（下半月） 省级</p><p>《东方青年》教师版 省级</p><p>《东京文学》 省级</p><p>《文学界》 省级</p><p>《北方作家》 省级</p><p>《文学与艺术》 省级</p><p>《青年文学家》 省级</p><p>《大众文艺》 省级</p><p>《群文天地》 省级</p><p>《文艺生活》 省级</p><p>《文学教育》上下旬 省级</p>", 
+            "topic": [
+                {
+                    "tag": "学术论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19632766"
+                }, 
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }, 
+                {
+                    "tag": "学术期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19629509"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Nora", 
+                    "userLink": "https://www.zhihu.com/people/1f8912cc9cdd7dbc2df5404f1ca1c106", 
+                    "content": "怎么联系这些期刊投稿", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36495318", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 28, 
+            "title": "【期刊杂志推荐】—教育类", 
+            "content": "<p></p><p><b>数理化类：</b></p><p>《数理化学习》综合版 省级</p><p>《数学学习与研究》 省级</p><p>《中学生数理化》 国家(教与学版)</p><p>《中学数学教学参考》 国家</p><p>《中学化学教学参考》 国家</p><p>《中学物理教学参考》 国家</p><p>《技术物理教学》 国家</p><p>《数学大世界》 国家</p><p>《中学数学》 国家</p><p>《理科爱好者》 国家</p><p>《数学学习与研究》 国家</p><hr/><p><b> 语政史地类：</b></p><p>《文理导航》 省级</p><p>《语文学刊》 省级(当月稿件，次月底出刊)</p><p>《文教资料》 省级</p><p>《文科爱好者》国家</p><p>《小学教学参考》 国家</p><p>《中学教学参考》 国家</p><p>《中学历史教学参考》 国家</p><p>《中学政治教学参考》 国家</p><p>《中学语文教学参考》 国家</p><hr/><p><b> 教育学报类：</b></p><p>《赤峰学院学报》 国家(限本科)</p><p>《洛阳师范学院学报》国家</p><p>《南昌教育学院学报》(英文翻译.限三个作者)</p><p>《兰州教育学院学报》国家</p><p>《吉林省教育学院学报》国家</p><p>《甘肃联合大学学报》(不开发票)</p><p>《西安航空技术高等专科学校学报》国家</p><p>《湖北函授大学学报》国家</p><p>《黄冈师范学院学报》国家</p><p>《南昌教育学院学报》 本科</p><p>《长江大学学报》 国家(B版稿件)</p><p>《湖北广播电视大学学报》 专科</p><p>《湖北成人教育学院学报》 本科</p><p>《成都大学学报》 国家(自然科学版)</p><hr/><p><b> 英语类：</b></p><p>《中学英语之友》 国家级</p><p>《中学生英语》 国家级</p><p>《海外英语》 省级 (需要全英文)</p><p>《校园英语》教研版 省级</p><p>《学术研究语》国家</p><p>《中学英语园地》国家</p><p>《英语广场》国家</p><hr/><p><b>地方教育类:</b></p><p>《黑河教育》 省级</p><p>《吉林教育》 省级</p><p>《华夏教育》 省级</p><p>《广西教育》</p><p>《河南教育》</p><p>《山西教育》 教学版</p><p>《陕西教育》 省级(限行政\\高教\\教学)</p><hr/><p><b>教育综合类： </b></p><p>《都市家教》省级</p><p>《新一代》 省级</p><p>《科教新报》 省级</p><p>《学生之友》 省级</p><p>《才智》　　 省级</p><p>《高校招生》 省级</p><p>《教学交流》 省级</p><p>《教师》 省级</p><p>《学周刊》 省级</p><p>《新校园》 省级</p><p>《新课程》 国家(教研版.教师版)</p><p>《新课程学习》国家</p><p>《时代教育》 省级(杂志社放假)</p><p>《中华少年》 国家</p><p>《金色年华》 省级</p><p>《教育艺术》 国家</p><p>《考试周刊》 省级</p><p>《中小学教育》 国家</p><p>《中小学电教》 省级</p><p>《现代企业教育》 省级</p><p>《当代教育论坛》 专核</p><p>《小学时代 省级(教师版)》</p><p>《中国校外教育》 国家</p><p>《21世纪》理论版 国家</p><p>《中国教育科研论坛》 国家</p><p>《中国科教创新导刊》 国家</p><p>《中国教育技术装备》 国家</p><p>《教育教学论坛》省级(高教版)</p><p>《实验教学与仪器》 国家</p><p>《中小学心理健康教育》 国家</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }, 
+                {
+                    "tag": "学术期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19629509"
+                }, 
+                {
+                    "tag": "杂志推荐", 
+                    "tagLink": "https://api.zhihu.com/topics/19566661"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Robin Wang", 
+                    "userLink": "https://www.zhihu.com/people/25d0459e1014dd7918dc2fa231372902", 
+                    "content": "净是黑刊，有的都已经不认了", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36493676", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 1, 
+            "title": "发表论文前 先搞明白这几个问题", 
+            "content": "<p>有些人该评职称了，就火急火燎的找我们发表论文，一问在哪发表，有什么字数要求，一问三不知，下面就说说发表论文前 先搞明白这几个问题：</p><p>第一、关于职称评定</p><p>首先要弄清楚的是本单位对于评定职称的要求，一般本单位都会有相关文件，比如要求CN期刊发表2篇以上论文，有的对字符数也有明确要求，要求3000字符以上，有的则没有。再比如说，对于评教授之类的，要求必须是核心期刊，而且都有个刊物列表，必须在列表内的刊物发表才能管用。通常这种情况下，刊物都是核心期刊，而且发表难度很大，当然含金量也高些。我们提醒作者，发表论文前，请去本单位了解对于职称评定的要求。</p><p>第二、什么是CN期刊，什么是ISSN期刊</p><p>很多单位都要求是要在CN期刊上发表论文，CN期刊是什么呢？其实就国内正规期刊的意思。CN刊号，就是国内统一刊号，具备CN刊号的才算是正规期刊，当然同时也要具备ISSN刊号，也就是国际刊号。所以选择刊物前，一定要认真辨别期刊真伪。首先要做的就是去新闻出版总署网站查看期刊的真伪情况，看期刊是否有备案。</p><p>第三、什么是专业期刊</p><p>很多单位的要求是必须在专业期刊发表论文才行，怎样才叫专业期刊呢，这个各个地方各个单位的划分也不同，比如说，会计类的论文，发表经济类期刊也可以，因为属于经济类的范畴，发表会计专业的期刊也可以，因为是会计专业。但是细分的期刊又没那么多，所以很多单位，也会认可会计类论文发表经济类期刊。再比如说，护理类的论文，可以发表在医学期刊上，属于医学的范畴，有的单位发表了也是管用的。但有的则有明确要求，必须是护理类期刊，必须在这个细分专业的期刊上发表。所以，作者也要弄清楚这一点，有的会有特别说明必须在细分专业期刊上发表，有的大类的期刊也是可以的。</p><p>论文对于初次发表论文的人看似很复杂，只要你多看多问就会解决一切困惑，有什么不懂得可以私信问我。</p>", 
+            "topic": [
+                {
+                    "tag": "发表论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19678292"
+                }, 
+                {
+                    "tag": "职称", 
+                    "tagLink": "https://api.zhihu.com/topics/19612033"
+                }, 
+                {
+                    "tag": "职业规划", 
+                    "tagLink": "https://api.zhihu.com/topics/19560641"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "zita", 
+                    "userLink": "https://www.zhihu.com/people/60ff386062e65eeabd0d03b15cc9c9cc", 
+                    "content": "<p>“CN”或“ISSN”刊号的会计专业刊物或相近专业刊物有哪些？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36493297", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 1, 
+            "title": "职称论文发表选期刊 应注意哪些问题？", 
+            "content": "<p>第一、期刊必须是公开发行的正规期刊，具有CN和ISSN双刊号。</p><p>第二、定期刊前，最好上新闻出版广电总局查询所定期刊是不是真实存在，上面能查到的就是正规期刊，查不到的，建议最好不要发。</p><p>第三、所发期刊必须被知网，万方，维普三网中的其中一网收录，有少数省份还认龙源网，否则不会被认可。</p><p>第四、论文必须原创，现在很多期刊发表前都要检测，特别是上知网的期刊，基本都要检测。</p>", 
+            "topic": [
+                {
+                    "tag": "论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19572442"
+                }, 
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }, 
+                {
+                    "tag": "职业规划", 
+                    "tagLink": "https://api.zhihu.com/topics/19560641"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36492853", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 0, 
+            "title": "评职称发表论文选择期刊的标准有哪些？", 
+            "content": "<p>第一、所选择的期刊首先要是正规期刊</p><p>第二、不同级别的职称评选要求不同的刊物级别。一般，初级、中级职称评选对刊物要求都是省级以上刊物。而副高级和正高级职称，则对刊物有一定要求。通常要求其中一篇论文要发在正规核心期刊上。</p><p>第三、发表论文一般要求学科对口或是相关，即应当选择专业相关的期刊。</p><p>第四、根据当地职称部门的要求，并被职称部门认可。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "学术论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19632766"
+                }, 
+                {
+                    "tag": "论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19572442"
+                }, 
+                {
+                    "tag": "期刊", 
+                    "tagLink": "https://api.zhihu.com/topics/19582405"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36492503", 
+            "userName": "智享物说", 
+            "userLink": "https://www.zhihu.com/people/bc88ab7626621ea09da6dcae4bba6afd", 
+            "upvote": 0, 
+            "title": "为什么要评职称？", 
+            "content": "<p><b>职称</b>是指专业技术人员的专业技术水平、能力，以及成就的等级称号。</p><p>它反映了这个人的学术和技术水平、工作能力和工作成就。</p><p>在目前中国的现状下，职称主要代表社会地位，有高职称的人享有较高的社会经济和福利待遇。职称与相应待遇常常是互相挂钩的，不同职称享受的待遇是不同的。</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "职称", 
+                    "tagLink": "https://api.zhihu.com/topics/19612033"
+                }, 
+                {
+                    "tag": "职场", 
+                    "tagLink": "https://api.zhihu.com/topics/19557876"
+                }, 
+                {
+                    "tag": "职业规划", 
+                    "tagLink": "https://api.zhihu.com/topics/19560641"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_185034791"
+}

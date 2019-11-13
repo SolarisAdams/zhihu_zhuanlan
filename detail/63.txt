@@ -1,0 +1,511 @@
+{
+    "title": "普通人赚钱之路", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/shang-shan-ruo-shui-72-67-89", 
+        "https://www.zhihu.com/people/bai-fou-an", 
+        "https://www.zhihu.com/people/shang-wei-55-11", 
+        "https://www.zhihu.com/people/yajunshi", 
+        "https://www.zhihu.com/people/brother-91", 
+        "https://www.zhihu.com/people/hai-lian-73", 
+        "https://www.zhihu.com/people/brakcevic", 
+        "https://www.zhihu.com/people/bing-ning-meng-zha-zha", 
+        "https://www.zhihu.com/people/chen-xian-yang-7", 
+        "https://www.zhihu.com/people/ke-liang-de", 
+        "https://www.zhihu.com/people/xiao-yuan-13-95", 
+        "https://www.zhihu.com/people/zuo-shou-yi-zhi-ya-14", 
+        "https://www.zhihu.com/people/shen-qi-de-xiao-xiao-xiao", 
+        "https://www.zhihu.com/people/kuai-le-xiao-zhu-56-53", 
+        "https://www.zhihu.com/people/li-xin-tong-6-57", 
+        "https://www.zhihu.com/people/li-zhi-47-9-87", 
+        "https://www.zhihu.com/people/xxx-62-6", 
+        "https://www.zhihu.com/people/wu-wu-65-41", 
+        "https://www.zhihu.com/people/liu-de-28-14", 
+        "https://www.zhihu.com/people/xue-chang-qing-30", 
+        "https://www.zhihu.com/people/han-dong-zhi-hou-71", 
+        "https://www.zhihu.com/people/amberho-41", 
+        "https://www.zhihu.com/people/qia-mou-42-60", 
+        "https://www.zhihu.com/people/a-la-ding-17-11", 
+        "https://www.zhihu.com/people/gao-gui-de-xiao-tan-tan", 
+        "https://www.zhihu.com/people/zhang-zi-cheng-81", 
+        "https://www.zhihu.com/people/xiao-li-zi-63-32", 
+        "https://www.zhihu.com/people/zhao-wei-ya", 
+        "https://www.zhihu.com/people/sui-xin-10-38", 
+        "https://www.zhihu.com/people/xing-ji-xuan-feng", 
+        "https://www.zhihu.com/people/zhang-xiu-quan-18-22", 
+        "https://www.zhihu.com/people/shen-du-68", 
+        "https://www.zhihu.com/people/xia-mo-74-99", 
+        "https://www.zhihu.com/people/xiao-er-hei-54-10", 
+        "https://www.zhihu.com/people/dobetter-75", 
+        "https://www.zhihu.com/people/lubao882", 
+        "https://www.zhihu.com/people/an-teng-61", 
+        "https://www.zhihu.com/people/li-li-63-38", 
+        "https://www.zhihu.com/people/xi-feng-du-zi-liang-8-55", 
+        "https://www.zhihu.com/people/lu-ren-yi-4-30", 
+        "https://www.zhihu.com/people/huang-chen-chen-73", 
+        "https://www.zhihu.com/people/yong-pan-gao-feng-yan-zhou", 
+        "https://www.zhihu.com/people/worth-20", 
+        "https://www.zhihu.com/people/joe-36-93-12", 
+        "https://www.zhihu.com/people/wu-si-46-21", 
+        "https://www.zhihu.com/people/liu-liu-lao-ma", 
+        "https://www.zhihu.com/people/luo-lao-shi-32-17", 
+        "https://www.zhihu.com/people/qasj", 
+        "https://www.zhihu.com/people/chang-qin-yao", 
+        "https://www.zhihu.com/people/hu-jun-jie", 
+        "https://www.zhihu.com/people/da-shi-xiong-14-27", 
+        "https://www.zhihu.com/people/su-su-55-41", 
+        "https://www.zhihu.com/people/luo-ma-85-47", 
+        "https://www.zhihu.com/people/wen-yi-xiao-qing-nian-53-15", 
+        "https://www.zhihu.com/people/junnzhu", 
+        "https://www.zhihu.com/people/mu-ci-bai", 
+        "https://www.zhihu.com/people/henry-morgan-67", 
+        "https://www.zhihu.com/people/tian-guo-qing-81-45", 
+        "https://www.zhihu.com/people/li-yao-wen-36", 
+        "https://www.zhihu.com/people/xizilong", 
+        "https://www.zhihu.com/people/chen-xu-dong-75-77", 
+        "https://www.zhihu.com/people/zhu-xiao-jun-72-62", 
+        "https://www.zhihu.com/people/sheng-tian-ban-zi-8", 
+        "https://www.zhihu.com/people/wang-jia-qian-jin-18", 
+        "https://www.zhihu.com/people/forexguru", 
+        "https://www.zhihu.com/people/qian-yu-17-73-1", 
+        "https://www.zhihu.com/people/zhang-chao-39-1", 
+        "https://www.zhihu.com/people/shu-li-hao-82", 
+        "https://www.zhihu.com/people/du-kang-li-78", 
+        "https://www.zhihu.com/people/zuo-meng-de-da-xiang", 
+        "https://www.zhihu.com/people/zhuang-xin-bo", 
+        "https://www.zhihu.com/people/gong-xi-41", 
+        "https://www.zhihu.com/people/xiao-long-79-60", 
+        "https://www.zhihu.com/people/mao-zhi-54-47", 
+        "https://www.zhihu.com/people/wang-dao-11-51", 
+        "https://www.zhihu.com/people/wang-zhao-hui-92-86", 
+        "https://www.zhihu.com/people/an-qi-er-59-87-29", 
+        "https://www.zhihu.com/people/mo-jian-shi-nian-27", 
+        "https://www.zhihu.com/people/kai.ge", 
+        "https://www.zhihu.com/people/tian-ya-lang-zi-67-67", 
+        "https://www.zhihu.com/people/yi-wang-xi-71-98", 
+        "https://www.zhihu.com/people/inleft", 
+        "https://www.zhihu.com/people/gregkoi", 
+        "https://www.zhihu.com/people/zhang-bo-71-53", 
+        "https://www.zhihu.com/people/wang-won", 
+        "https://www.zhihu.com/people/jian-jian-86-61", 
+        "https://www.zhihu.com/people/jason-36-44-74", 
+        "https://www.zhihu.com/people/long-long-20-39", 
+        "https://www.zhihu.com/people/hua-sheng-96-54", 
+        "https://www.zhihu.com/people/Pinenutss", 
+        "https://www.zhihu.com/people/lao-mo-26-29", 
+        "https://www.zhihu.com/people/beyond-39-31", 
+        "https://www.zhihu.com/people/liu-hui-hong-12", 
+        "https://www.zhihu.com/people/as-as-71-27", 
+        "https://www.zhihu.com/people/huang-jun-peng-40", 
+        "https://www.zhihu.com/people/duan-xiao-bao-29", 
+        "https://www.zhihu.com/people/tuionf", 
+        "https://www.zhihu.com/people/chen-feng-95-80", 
+        "https://www.zhihu.com/people/cai-shen-xia-shan", 
+        "https://www.zhihu.com/people/snowind-52", 
+        "https://www.zhihu.com/people/di-zhu-jia-de-sha-er-zi-68-58", 
+        "https://www.zhihu.com/people/han-han-88-39", 
+        "https://www.zhihu.com/people/qiu-chang-48-26", 
+        "https://www.zhihu.com/people/yixinlianghua", 
+        "https://www.zhihu.com/people/wanjincapital", 
+        "https://www.zhihu.com/people/liu-yu-77-88", 
+        "https://www.zhihu.com/people/yjshi", 
+        "https://www.zhihu.com/people/zzyy3000", 
+        "https://www.zhihu.com/people/de-dao-26-64", 
+        "https://www.zhihu.com/people/leetigerking", 
+        "https://www.zhihu.com/people/li407197027", 
+        "https://www.zhihu.com/people/huo-yang-69", 
+        "https://www.zhihu.com/people/iqiutian", 
+        "https://www.zhihu.com/people/mr-h-16-73", 
+        "https://www.zhihu.com/people/zao-meng-zhe-42", 
+        "https://www.zhihu.com/people/yifan-64-77", 
+        "https://www.zhihu.com/people/ping-zi-44-41-28", 
+        "https://www.zhihu.com/people/dou-ba-he-jun-13", 
+        "https://www.zhihu.com/people/wang-han-tao-72", 
+        "https://www.zhihu.com/people/hou-zi-53-37", 
+        "https://www.zhihu.com/people/zhong-de-fu-93", 
+        "https://www.zhihu.com/people/dai-zong-94-45", 
+        "https://www.zhihu.com/people/shadow566", 
+        "https://www.zhihu.com/people/a-dong-35-18-36", 
+        "https://www.zhihu.com/people/he-li-ping-43", 
+        "https://www.zhihu.com/people/tpencil", 
+        "https://www.zhihu.com/people/pa-jiu-pa-ji-xu", 
+        "https://www.zhihu.com/people/wu-yong-xin-23", 
+        "https://www.zhihu.com/people/chu-yin-xing-qia-s"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/52993576", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 3, 
+            "title": "有了它，你的其他图片视频软件都可以卸载了！（Faststone Capture快石截图）", 
+            "content": "<p>今天只介绍1个软件Faststone Capture快石截图，我家里和办公室电脑，只要是我用过的电脑，我统统都会安装这个软件，因为他太好用了。</p><p>1个只有5M大小的软件，居然能顶10个软件（QQ截图+ps+Apowersoft录屏+pr+……）的功能，截图、图片编辑、录屏、视频编辑功能一应俱全，简直是自媒体职场、居家旅行必备软件！</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-247847b0c8a44c4ea17656dde1078875_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"376\" data-rawheight=\"60\" class=\"content_image\" width=\"376\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;376&#39; height=&#39;60&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"376\" data-rawheight=\"60\" class=\"content_image lazy\" width=\"376\" data-actualsrc=\"https://pic2.zhimg.com/v2-247847b0c8a44c4ea17656dde1078875_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>先看看他的功能大纲，后面细细地介绍他的强大功能。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-9c8a0b4643757d57d8f77c634c79be47_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"557\" data-rawheight=\"2134\" class=\"origin_image zh-lightbox-thumb\" width=\"557\" data-original=\"https://pic4.zhimg.com/v2-9c8a0b4643757d57d8f77c634c79be47_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;557&#39; height=&#39;2134&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"557\" data-rawheight=\"2134\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"557\" data-original=\"https://pic4.zhimg.com/v2-9c8a0b4643757d57d8f77c634c79be47_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9c8a0b4643757d57d8f77c634c79be47_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2>截图</h2><p>基本的截图功能就不说了，其他截图软件有的他都有。</p><p>下面3个功能是其他截图软件没有的</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1、滚动截图</b><br/>对于网页、Word等需要截长图的场景就能用到了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4c80adc8c99713cbf1ab26ffff4d967f_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"301\" data-rawheight=\"356\" data-thumbnail=\"https://pic4.zhimg.com/v2-4c80adc8c99713cbf1ab26ffff4d967f_b.jpg\" class=\"content_image\" width=\"301\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;301&#39; height=&#39;356&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"301\" data-rawheight=\"356\" data-thumbnail=\"https://pic4.zhimg.com/v2-4c80adc8c99713cbf1ab26ffff4d967f_b.jpg\" class=\"content_image lazy\" width=\"301\" data-actualsrc=\"https://pic4.zhimg.com/v2-4c80adc8c99713cbf1ab26ffff4d967f_b.gif\"/></figure><p><b>2、截图后自动加水印</b><br/>自己辛苦做的图，加上水印，既能宣传自己，建立个人品牌，也能防盗图。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-359311cacacc443ef68735cdeaa0c8ab_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"320\" data-rawheight=\"323\" data-thumbnail=\"https://pic4.zhimg.com/v2-359311cacacc443ef68735cdeaa0c8ab_b.jpg\" class=\"content_image\" width=\"320\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;320&#39; height=&#39;323&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"320\" data-rawheight=\"323\" data-thumbnail=\"https://pic4.zhimg.com/v2-359311cacacc443ef68735cdeaa0c8ab_b.jpg\" class=\"content_image lazy\" width=\"320\" data-actualsrc=\"https://pic4.zhimg.com/v2-359311cacacc443ef68735cdeaa0c8ab_b.gif\"/></figure><p><b>截图后自动加标题</b><br/>对于需要特别说明的图片，截图后可以自动让你加标题，非常方便。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7364b66cf058ca188a65f2b534bf9177_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"325\" data-rawheight=\"334\" data-thumbnail=\"https://pic4.zhimg.com/v2-7364b66cf058ca188a65f2b534bf9177_b.jpg\" class=\"content_image\" width=\"325\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;325&#39; height=&#39;334&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"325\" data-rawheight=\"334\" data-thumbnail=\"https://pic4.zhimg.com/v2-7364b66cf058ca188a65f2b534bf9177_b.jpg\" class=\"content_image lazy\" width=\"325\" data-actualsrc=\"https://pic4.zhimg.com/v2-7364b66cf058ca188a65f2b534bf9177_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2>图片编辑器</h2><p>他不仅能截图，还能编辑图片</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1、给图片加效果</b><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f69a3aeaa66baa1bf2e3b29378c96a53_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"240\" data-rawheight=\"343\" class=\"content_image\" width=\"240\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;240&#39; height=&#39;343&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"240\" data-rawheight=\"343\" class=\"content_image lazy\" width=\"240\" data-actualsrc=\"https://pic4.zhimg.com/v2-f69a3aeaa66baa1bf2e3b29378c96a53_b.jpg\"/></figure><p><b>2、图片转PDF</b><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-bcfced3b78a1520336fb8dd9f11f8a17_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"382\" data-rawheight=\"247\" class=\"content_image\" width=\"382\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;382&#39; height=&#39;247&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"382\" data-rawheight=\"247\" class=\"content_image lazy\" width=\"382\" data-actualsrc=\"https://pic4.zhimg.com/v2-bcfced3b78a1520336fb8dd9f11f8a17_b.jpg\"/></figure><p><b>3、调整图片大小</b><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d3b23fa5eea4a741f975f256bb072b9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"649\" data-rawheight=\"576\" class=\"origin_image zh-lightbox-thumb\" width=\"649\" data-original=\"https://pic1.zhimg.com/v2-d3b23fa5eea4a741f975f256bb072b9c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;649&#39; height=&#39;576&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"649\" data-rawheight=\"576\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"649\" data-original=\"https://pic1.zhimg.com/v2-d3b23fa5eea4a741f975f256bb072b9c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d3b23fa5eea4a741f975f256bb072b9c_b.jpg\"/></figure><p><b>4、多图合一</b><br/>可以把多张图片拼接成一张图片，有横着拼接和竖着拼接2种方式。<br/>横着拼接 ▼<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5a13d005532242458e4abb94e78bbbb5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"595\" data-rawheight=\"582\" class=\"origin_image zh-lightbox-thumb\" width=\"595\" data-original=\"https://pic2.zhimg.com/v2-5a13d005532242458e4abb94e78bbbb5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;595&#39; height=&#39;582&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"595\" data-rawheight=\"582\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"595\" data-original=\"https://pic2.zhimg.com/v2-5a13d005532242458e4abb94e78bbbb5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5a13d005532242458e4abb94e78bbbb5_b.jpg\"/></figure><p><br/>竖着拼接 ▼<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-80a6f8752f1c15cb3431ab908aa12020_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"142\" data-rawheight=\"549\" class=\"content_image\" width=\"142\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;142&#39; height=&#39;549&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"142\" data-rawheight=\"549\" class=\"content_image lazy\" width=\"142\" data-actualsrc=\"https://pic1.zhimg.com/v2-80a6f8752f1c15cb3431ab908aa12020_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>图片标注功能</b></h2><p>他可以给图片增加对话框、箭头、曲线、模糊、插入图片和二维码、荧光笔效果等等。</p><p>下图是功能的展示 ▼</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4720eff00f49a867ec6e00c838758250_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"841\" data-rawheight=\"690\" class=\"origin_image zh-lightbox-thumb\" width=\"841\" data-original=\"https://pic1.zhimg.com/v2-4720eff00f49a867ec6e00c838758250_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;841&#39; height=&#39;690&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"841\" data-rawheight=\"690\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"841\" data-original=\"https://pic1.zhimg.com/v2-4720eff00f49a867ec6e00c838758250_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4720eff00f49a867ec6e00c838758250_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>录屏功能</b></h2><p>虽然软件只有5M大小，他却能录制屏幕！</p><p>而且还能竖屏录制电脑画面给抖音用。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-715bac69b64c4a635a1f631808015ccd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"295\" data-rawheight=\"310\" class=\"content_image\" width=\"295\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;295&#39; height=&#39;310&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"295\" data-rawheight=\"310\" class=\"content_image lazy\" width=\"295\" data-actualsrc=\"https://pic2.zhimg.com/v2-715bac69b64c4a635a1f631808015ccd_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>视频编辑</b></h2><p>可以把视频转GIF动图，放大视频局部，给视频加水印，加字幕。</p><p>上面介绍的图片编辑功能，在视频编辑里几乎都能用，一个神奇的软件！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-5d9fbd1739b5bb5790ed6b3aaca8bd2e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"868\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pic3.zhimg.com/v2-5d9fbd1739b5bb5790ed6b3aaca8bd2e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1440&#39; height=&#39;868&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"868\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1440\" data-original=\"https://pic3.zhimg.com/v2-5d9fbd1739b5bb5790ed6b3aaca8bd2e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-5d9fbd1739b5bb5790ed6b3aaca8bd2e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>由于篇幅有限，我录制了视频，感兴趣的可以去文章最后面，看看视频版的介绍，会更详细直观。</p><p><b>最新无毒版软件，在视频详情页里，大家自取。</b></p><p><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI4MTE2MjM1MA%3D%3D%26mid%3D2247484026%26idx%3D1%26sn%3D3ef917df27c2fa15bb839c68ed68d9e6%26chksm%3Debac257bdcdbac6db0f07095c39337ed579973095234858c3bf064d55d29a9124f3a079a9134%26token%3D675758113%26lang%3Dzh_CN%23rd\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">视频文章地址</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果对你有帮助，就点个赞呗 ^_^</p>", 
+            "topic": [
+                {
+                    "tag": "截图软件或应用", 
+                    "tagLink": "https://api.zhihu.com/topics/19583991"
+                }, 
+                {
+                    "tag": "录屏软件", 
+                    "tagLink": "https://api.zhihu.com/topics/20024922"
+                }, 
+                {
+                    "tag": "抖音", 
+                    "tagLink": "https://api.zhihu.com/topics/20088356"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51861425", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 1, 
+            "title": "黑帽大师读书法-未来数字化的高效读书方式", 
+            "content": "<p>数字时代的新读书方式，搜索和读书笔记是最重要的2个功能，但是电子书在这方面功能太弱，黑帽大师摸索出了看书效率超越纸质书和电子书的方法，可以帮你积累自己读书的心得体会，做到真正的读透一本书。</p><p><b>电子书有2个痛点：</b></p><p>① 不能同时搜索多本书中某个关键词，不能搜索自己的读书笔记</p><p>② 读书笔记不能随着书一起发给别人，自己的读书笔记只能自己看。</p><p>黑帽大师的方法顺利解决了电子书的痛点。</p><p><b>「黑帽大师读书法」有以下优点：</b></p><p>① 可以在多本书里搜索想用的句子，方便引用或复习。</p><p>② 可以方便添加读书笔记和划重点，可以同时搜索查找多本书里的读书笔记。</p><p>③ 可以手机端看书和查看笔记，方便利用零散时间阅读。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>添加读书笔记或批注 ▼</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-c051420092c947c968fbb5091820d1cf_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"806\" data-rawheight=\"244\" data-thumbnail=\"https://pic4.zhimg.com/v2-c051420092c947c968fbb5091820d1cf_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"806\" data-original=\"https://pic4.zhimg.com/v2-c051420092c947c968fbb5091820d1cf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;806&#39; height=&#39;244&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"806\" data-rawheight=\"244\" data-thumbnail=\"https://pic4.zhimg.com/v2-c051420092c947c968fbb5091820d1cf_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"806\" data-original=\"https://pic4.zhimg.com/v2-c051420092c947c968fbb5091820d1cf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-c051420092c947c968fbb5091820d1cf_b.gif\"/></figure><p>查看读书笔记或批注 ▼</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1aa7d156f077052ba429275ae9c49497_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"806\" data-rawheight=\"244\" data-thumbnail=\"https://pic4.zhimg.com/v2-1aa7d156f077052ba429275ae9c49497_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"806\" data-original=\"https://pic4.zhimg.com/v2-1aa7d156f077052ba429275ae9c49497_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;806&#39; height=&#39;244&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"806\" data-rawheight=\"244\" data-thumbnail=\"https://pic4.zhimg.com/v2-1aa7d156f077052ba429275ae9c49497_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"806\" data-original=\"https://pic4.zhimg.com/v2-1aa7d156f077052ba429275ae9c49497_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1aa7d156f077052ba429275ae9c49497_b.gif\"/></figure><p>手机看读书笔记的效果 ▼</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4159f2ac171532059a741cc58a12f31b_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"508\" data-rawheight=\"354\" data-thumbnail=\"https://pic4.zhimg.com/v2-4159f2ac171532059a741cc58a12f31b_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"508\" data-original=\"https://pic4.zhimg.com/v2-4159f2ac171532059a741cc58a12f31b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;508&#39; height=&#39;354&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"508\" data-rawheight=\"354\" data-thumbnail=\"https://pic4.zhimg.com/v2-4159f2ac171532059a741cc58a12f31b_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"508\" data-original=\"https://pic4.zhimg.com/v2-4159f2ac171532059a741cc58a12f31b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4159f2ac171532059a741cc58a12f31b_b.gif\"/></figure><p>上面第一张图片里的读书笔记写有「由此可见」4个字，看完书以后，如果忘了是哪本书里的文字了，可以直接搜索「由此可见」就能快速从大量电子书里找到包含「由此可见」的书籍，从而提高看书复习的效率。 ▼</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ded40116c5c92d21a4039306492a6ecd_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"726\" data-rawheight=\"399\" data-thumbnail=\"https://pic2.zhimg.com/v2-ded40116c5c92d21a4039306492a6ecd_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"726\" data-original=\"https://pic2.zhimg.com/v2-ded40116c5c92d21a4039306492a6ecd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;726&#39; height=&#39;399&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"726\" data-rawheight=\"399\" data-thumbnail=\"https://pic2.zhimg.com/v2-ded40116c5c92d21a4039306492a6ecd_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"726\" data-original=\"https://pic2.zhimg.com/v2-ded40116c5c92d21a4039306492a6ecd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ded40116c5c92d21a4039306492a6ecd_b.gif\"/></figure><p>以上的方法需要先把书转换成Word格式，如果不会的可以进入下面的知识星球提问交流，</p><p>具体读书方法，点击右侧→<a href=\"https://link.zhihu.com/?target=https%3A//t.zsxq.com/6IYnQZV\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">职场精英</a>，欢迎加入。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果对你有用，帮忙点个赞呗 ^_^</p>", 
+            "topic": [
+                {
+                    "tag": "读书方法", 
+                    "tagLink": "https://api.zhihu.com/topics/19635758"
+                }, 
+                {
+                    "tag": "数字图书馆", 
+                    "tagLink": "https://api.zhihu.com/topics/19876588"
+                }, 
+                {
+                    "tag": "电子书", 
+                    "tagLink": "https://api.zhihu.com/topics/19552449"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/49172245", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 1, 
+            "title": "4个月通过区块链游戏赚到5万元", 
+            "content": "<p>今天盘点一下我最近4个月通过玩NeoWorld的收获。</p><p>黑帽大师是从6月22日NeoWorld创世封测开始玩的，是最早一批创世玩家，当时因为大佬「寂寞火山」的推荐，好奇就花了0.03eth（当时≈100元）买了创世礼包，一边玩游戏一边写游戏攻略，后来有幸成为社群合伙人，通过努力，截止到10月底大概赚了5万元，和其他大佬比很少，但是和我上班<b>一年</b>的工资差不多了-_-||</p><p>下图是游戏赚钱的明细 ▼</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7bc942c8c8f80be69e12421fd0da445a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"528\" data-rawheight=\"468\" class=\"origin_image zh-lightbox-thumb\" width=\"528\" data-original=\"https://pic3.zhimg.com/v2-7bc942c8c8f80be69e12421fd0da445a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;528&#39; height=&#39;468&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"528\" data-rawheight=\"468\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"528\" data-original=\"https://pic3.zhimg.com/v2-7bc942c8c8f80be69e12421fd0da445a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7bc942c8c8f80be69e12421fd0da445a_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>下面说说怎么打造个人品牌，成为社群合伙人，经营社群，通过知识付费赚钱。</p><p>首先要了解自己的能力，找到和自己能力匹配的赚钱方式，一种是花费时间赚钱，一种是靠资本赚钱。</p><p>因为没钱，所以我只能通过花费时间服务他人，扩大自己的影响力，然后通过其他方式赚钱，这种赚钱方法只能赚到小钱，但是也是屌丝积累资本的必经之路。</p><p>有钱的大佬们，直接充值几万甚至几十万玩游戏，赚钱的速度当然更快，但是风险也更高，大佬能承受风险，普通人最好不要冒这么大风险，要在自己的能力范围内赚钱。</p><p>总结一下黑帽大师在NeoWorld里的成长轨迹：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-c25f29adcae52e05442aea57f9c8734b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"560\" data-rawheight=\"310\" class=\"origin_image zh-lightbox-thumb\" width=\"560\" data-original=\"https://pic4.zhimg.com/v2-c25f29adcae52e05442aea57f9c8734b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;560&#39; height=&#39;310&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"560\" data-rawheight=\"310\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"560\" data-original=\"https://pic4.zhimg.com/v2-c25f29adcae52e05442aea57f9c8734b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-c25f29adcae52e05442aea57f9c8734b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>黑帽大师总结的普通人创业赚钱方法 ▼</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-cf936cb7751f178e038627439efc920e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"862\" data-rawheight=\"2135\" class=\"origin_image zh-lightbox-thumb\" width=\"862\" data-original=\"https://pic3.zhimg.com/v2-cf936cb7751f178e038627439efc920e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;862&#39; height=&#39;2135&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"862\" data-rawheight=\"2135\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"862\" data-original=\"https://pic3.zhimg.com/v2-cf936cb7751f178e038627439efc920e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-cf936cb7751f178e038627439efc920e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这是黑帽大师这2年总结经验教训得来的方法，本人验证可行赚钱的方法论，希望可以帮你拓宽赚钱的道路。</p><p>保险起见，大家先用业余时间慢慢熟悉此方法，等到时机成熟时，再全职创业赚钱。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>普通人，一台电脑，一根网线，就能赚钱的时代早已到来。</p><p>想学习的点击下方链接加入，普通人一教就会 ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//t.zsxq.com/nUJmE6q\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">t.zsxq.com/nUJmE6q</span><span class=\"invisible\"></span></a></p><p><b>限时优惠：</b></p><p>前100名加入者，黑帽大师免费制作价值100元的个人品牌水印，之后加入者赠送6本关于财富和人性的电子书，先到先得。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前是区块链游戏爆发的早期阶段，项目方为了吸引人气，游戏早期红利很大，只要你用我的方法，有能力产生优质内容，拥有一定的粉丝，就能赚到早期的头部红利，有能力的人不要错过机会。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "创业", 
+                    "tagLink": "https://api.zhihu.com/topics/19550560"
+                }, 
+                {
+                    "tag": "自媒体", 
+                    "tagLink": "https://api.zhihu.com/topics/19648427"
+                }, 
+                {
+                    "tag": "区块链(Blockchain)", 
+                    "tagLink": "https://api.zhihu.com/topics/19901773"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39491144", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 2, 
+            "title": "「小红圈」社群赚钱指南", 
+            "content": "<p>「小红圈」和「知识星球」都是社群管理软件，但是小红圈比知识星球更方便灵活。而且最近小红圈有推广佣金，早期注册推广，有先发优势，享受早期红利。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>下面是二者的对比：</b></p><ol><li>小红圈可以建立「永久」付费圈，一次付费永久会员，而知识星球只能按年付费。 永久社群可以有效积累粉丝，而年费社群每年付费时都会流失粉丝。小红圈还可以按「季度收费」。</li><li>小红圈的圈子收费是10-5000，知识星球是50-3000，小红圈的粉丝进入价格门槛更低，方便社群早期的冷启动，后期再调整入圈价格。</li><li>小红圈没有新手试运营的50人上限，增加社群人数更方便，知识星球有新手50人的上限，想要人数突破50人，需要申请。</li></ol><p class=\"ztext-empty-paragraph\"><br/></p><p><b>无论粉丝多少，都应该试一试，给自己一个赚钱的机会。</b></p><p>点击下方链接，注册赚钱 ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//m.red-ring.cn/ic-create/0j9TLCy9\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">m.red-ring.cn/ic-create</span><span class=\"invisible\">/0j9TLCy9</span><span class=\"ellipsis\"></span></a> </p><p></p>", 
+            "topic": [
+                {
+                    "tag": "社群", 
+                    "tagLink": "https://api.zhihu.com/topics/19571169"
+                }, 
+                {
+                    "tag": "知识星球", 
+                    "tagLink": "https://api.zhihu.com/topics/20070763"
+                }, 
+                {
+                    "tag": "知识付费", 
+                    "tagLink": "https://api.zhihu.com/topics/20071240"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38301343", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 2, 
+            "title": "网盘赚钱方法", 
+            "content": "<p>网盘赚钱原理很简单，你上传文件到网盘，别人通过你分享的链接下载了文件，就会有奖励，但是奖励比较少，下载一次几分钱，但是你的资源如果很热门，下载的人多，也能取得可观的收入，而且这也是一劳永逸的赚钱机器。想赚外快的可以试试，点击右侧链接注册，开始赚钱→<a href=\"https://link.zhihu.com/?target=http%3A//dwz.cn/85uxNE\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">dwz.cn/85uxNE</span><span class=\"invisible\"></span></a></p><p>我前几天的创业日记写了「百度文库」和「我图网」的赚钱方法，想躺赚的可以进入我的星球搜索→<a href=\"https://link.zhihu.com/?target=https%3A//t.zsxq.com/je62V7I\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">t.zsxq.com/je62V7I</span><span class=\"invisible\"></span></a></p><p><b>下面看看网盘后台收入 ▼</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6a714438f332ae2b9b8a77e61619d0e5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"403\" data-rawheight=\"424\" class=\"content_image\" width=\"403\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;403&#39; height=&#39;424&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"403\" data-rawheight=\"424\" class=\"content_image lazy\" width=\"403\" data-actualsrc=\"https://pic2.zhimg.com/v2-6a714438f332ae2b9b8a77e61619d0e5_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>网盘赚钱还有另一个方法，我在知识星球里还会介绍给大家，这个方法如果操作好，相当于你收了徒弟帮你赚钱。</p><p>注意：网盘为了节约空间，网盘上传的资源如果在一定时间内没人下载，资源就会被删除，但是如果每90天内有3人下载，就能无限期存储。还有一种方法是购买网盘的会员，但是我不建议购买会员，可以用分享资源赚的钱购买会员。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>下面是我写的网盘资源分享文章，不喜欢电脑的可以略过 ▼</b></p><p>趁着618电脑配件便宜，我在淘宝和京东买配件，自己装机，远离奸商，自己动手丰衣足食。</p><p>第一次自己组装了个i7 8700的电脑，第一次装原版win10，上面的第一次都是小case，在我装好系统开机后，才发现不能上网，没网我怎么下载驱动啊？于是第一次去电脑城买HDMI线的那家店去用他们的电脑下载网卡驱动o(╥﹏╥)o。</p><p>有人说：你主板带的光盘里有驱动啊。</p><p>我也知道啊，但是现在谁还装光驱啊！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>说了这么多，只是想提醒装原版系统的朋友，提前把驱动下载好，省的系统装好后不能上网，还要跑去别人家上网。</p><p>下面是 MSI微星b360m 迫击炮MORTAR 驱动，要哪个就下载那个，建议把网卡驱动下载了，能上网就能干所有事情了。</p><p>网卡驱动 Intel_Network_300 ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//u17494625.pipipan.com/fs/17494625-295250838\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">u17494625.pipipan.com/f</span><span class=\"invisible\">s/17494625-295250838</span><span class=\"ellipsis\"></span></a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>集显驱动 intel_vga_300 ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//u17494625.pipipan.com/fs/17494625-295250422\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">u17494625.pipipan.com/f</span><span class=\"invisible\">s/17494625-295250422</span><span class=\"ellipsis\"></span></a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>声卡驱动 realtek_hd_UAD_audio ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//u17494625.pipipan.com/fs/17494625-295249822\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">u17494625.pipipan.com/f</span><span class=\"invisible\">s/17494625-295249822</span><span class=\"ellipsis\"></span></a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>主板驱动 intel_chipse_300 ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//u17494625.pipipan.com/fs/17494625-295249293\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">u17494625.pipipan.com/f</span><span class=\"invisible\">s/17494625-295249293</span><span class=\"ellipsis\"></span></a></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果对你有帮助，就点个赞或关注我，持续更新。</b></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "网盘", 
+                    "tagLink": "https://api.zhihu.com/topics/19571235"
+                }, 
+                {
+                    "tag": "网络赚钱", 
+                    "tagLink": "https://api.zhihu.com/topics/19585389"
+                }, 
+                {
+                    "tag": "财务自由", 
+                    "tagLink": "https://api.zhihu.com/topics/19597474"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "心语", 
+                    "userLink": "https://www.zhihu.com/people/bf6f5ea1ce7bcc8e2de267c3e36cc44a", 
+                    "content": "看了您的文章，涨了不少知识，佩服您还能自己装电脑，我想了解怎么下载yunfile网盘，我的星球是什么呢，是不是像知乎一样的APP，希望不要嘲笑我的无知，正在努力学习中，看到信息，希望回复一下，谢谢，也谢谢您的文章", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "黑帽大师", 
+                    "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+                    "content": "yunfile网盘不能访问了，你还是按照文章注册城通网盘吧", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "心语", 
+                    "userLink": "https://www.zhihu.com/people/bf6f5ea1ce7bcc8e2de267c3e36cc44a", 
+                    "content": "谢谢回复，我的浏览器还能访问yunfile网盘，我只是不知道是直接在网页上注册，还是下载yunfile网盘，然后在注册，麻烦回复一下，谢谢", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "黑帽大师", 
+                            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+                            "content": "我打不开它的网页啊，这种就不建议注册了", 
+                            "likes": 0, 
+                            "replyToAuthor": "心语"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "心语", 
+                    "userLink": "https://www.zhihu.com/people/bf6f5ea1ce7bcc8e2de267c3e36cc44a", 
+                    "content": "您好 ，如果我注册城通网盘，那怎么把百度网盘的文件传输到城通网盘呢？麻烦回复一下", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "黑帽大师", 
+                            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+                            "content": "只能重新上传到百度网盘", 
+                            "likes": 0, 
+                            "replyToAuthor": "心语"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "心语", 
+                    "userLink": "https://www.zhihu.com/people/bf6f5ea1ce7bcc8e2de267c3e36cc44a", 
+                    "content": "是下载百度网盘里的文件然后上传到城通网盘吗？百度网盘里的文件不能直接同步到城通网盘是吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "黑帽大师", 
+                            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+                            "content": "他们之间应该不能同步，而且网盘赚钱需要你把资源推广出去才行，资源被浏览的越多越赚钱", 
+                            "likes": 0, 
+                            "replyToAuthor": "心语"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "心语", 
+                    "userLink": "https://www.zhihu.com/people/bf6f5ea1ce7bcc8e2de267c3e36cc44a", 
+                    "content": "谢谢您的回复，知道了两个不同的网盘是不能传输文件的", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "心语", 
+                    "userLink": "https://www.zhihu.com/people/bf6f5ea1ce7bcc8e2de267c3e36cc44a", 
+                    "content": "您好，我注册了城通网盘，我的一个视频文件分了几个安装包，上传了几个，最大一个6G,可是现在上传3G的上传不了了，是怎么回事呢。这个文件是学习英语的，110多G，电脑里放不下 只能上传到城通网盘，才上传了10几G,难道城通网盘容量不大吗，看到信息希望回复一下，谢谢", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "黑帽大师", 
+                            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+                            "content": "是不是有容量限制，你问问他们客服", 
+                            "likes": 0, 
+                            "replyToAuthor": "心语"
+                        }, 
+                        {
+                            "userName": "心语", 
+                            "userLink": "https://www.zhihu.com/people/bf6f5ea1ce7bcc8e2de267c3e36cc44a", 
+                            "content": "好的，谢谢", 
+                            "likes": 0, 
+                            "replyToAuthor": "黑帽大师"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38194295", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 1, 
+            "title": "普通人创业赚钱之路", 
+            "content": "<p><b>为什么写「普通人创业赚钱之路」呢？</b></p><p>世面上很多书总结了成功企业家的发家史，比如马云传，腾讯传等等，这些书有些用，但是都是事后诸葛亮，成功者说什么都是对的，你无从反驳，而且他们很多不是白手起家，父母都是有钱或有权的阶级，比如马云出身于艺术世家，从小就有良好的教育，马云父亲马来法，长期担任浙江省曲艺家协会领导，有着很广的政商关系。马化腾的父亲马陈术曾担任交通部海南八所港务局副局长，深圳市航运总公司总经理，1997年被选为盐田港上市公司的董事，与李嘉诚是老乡。他们的成功不能复制，而我打算用日记来直播我的赚钱之路，让大家能切身体会到普通人白手起家到财富自由的全部过程，普通如我若能成功，我相信平凡的你也能成功。如果失败，也能学到经验教训。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>写哪些内容？</b></p><p>复盘创业期间发生的事情，总结经验教训，供大家参考，避免后来者踩坑。让大家亲眼看到我是怎么一步步走向成功的，某些具体操作方法只会放在知识星球里。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>黑帽大师的目标是什么？</b></p><p>我有3个目标，分别是小目标、大目标、终极目标。小目标：积极入世，为人民服务，6月-12月赚10万，大目标：佛系出世，为自己而活，在丰富多彩的精神世界遨游。终极目标：大脑上传，获得永生。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>赚钱方法是什么？</b></p><p>打造自动赚钱系统，睡觉时也能自动赚钱。具体方向是知识付费和付费社群，比如制作视频课程，推广给需要的人，让他们买课学习技能。尽量选择一劳永逸的赚钱方式。实际上我已经有了2个自动赚钱系统了，一个是百度文库，一个是我图网，这2个已经为我赚了3千左右了，具体方法见知识星球。后续我会制作一个职场技能的课程放在荔枝微课上卖。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我正在「普通人创业赚钱之路」和朋友们讨论赚钱话题，你⼀起来吧？</p><p>点击下方链接加入 ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//t.zsxq.com/nUJmE6q\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">普通人创业赚钱之路</a></p>", 
+            "topic": [
+                {
+                    "tag": "创业者", 
+                    "tagLink": "https://api.zhihu.com/topics/19550372"
+                }, 
+                {
+                    "tag": "创业", 
+                    "tagLink": "https://api.zhihu.com/topics/19550560"
+                }, 
+                {
+                    "tag": "创业项目", 
+                    "tagLink": "https://api.zhihu.com/topics/19569726"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37174871", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 2, 
+            "title": "以知识星球为例，揭秘知识付费的关键步骤", 
+            "content": "<p>昨天讲了赚钱的基本原理，没看的可以点击查看→<a href=\"https://zhuanlan.zhihu.com/p/37085409\" class=\"internal\">赚钱的基本原理</a></p><p>今天以知识星球为例，介绍知识付费赚钱的关键步骤，重点讲知识星球的冷启动。</p><p>（重点在后面）</p><p>下面开始：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1.发现需求</b></p><p>在知识付费的风口上，大众迫于竞争压力有学习充电的需求，而你在某方面经验丰富，可以把你的经验系统的交给需要的人。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2.满足需求</b></p><p>你要把你的经验清晰明了的教给学习的人，这需要慢慢打磨产品。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.宣传引流</b></p><p>内容制作好以后，就需要在流量大的平台进行宣传引流，这是一个系统的长期的过程，慢慢积累，让受众看到你能给他提供的价值后，他自会付费购买。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4.转化变现</b></p><p>这里需要运用消费者心理学，来降低消费者的决策难度，比如运用「从众心理」来引导消费者更容易的付费进入你的知识星球。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>从众心理是指消费者倾向于相信群体的决策是对的，从而和群体做出一样的选择。比如有2个奶茶店，消费者更喜欢排长队的奶茶店。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>淘宝刷单也是利用消费者的从众心理，淘宝店如果是0销量，消费者就会产生疑问：为什么没人买啊？是不是质量有问题啊？最终选择销量多的那家淘宝店。（淘宝刷单对排名也有影响，这里就不谈了）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>同理，普通人建立的知识星球，因为人气不旺，也会阻碍消费者付费进入，这时就需要导入一定数量的用户，来降低消费者进入的心理障碍。（大V能轻松吸引大量付费用户，是因为大V长期的价值输出，粉丝们自然的反哺行为）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>万事开头难，<b>为了降低知识星球的启动难度，我建了个知识星球微信群，大家在群里互相关注知识星球，增加星球的人气。</b>随着群人数的增长，后期能为你的知识星球导入大量的人员，使你知识星球人气旺，能更好的吸引付费用户进入。注意：知识星球不仅需要人气，也要同时增加优质内容到星球里，星球里的早期用户也会给你提出改进意见，不断打磨产品。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>需要增加知识星球人气的，尽早入群，因为此方法可能会被官方封杀。</b></p><p><b>具体运营技巧我会更新在里面</b> ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//t.zsxq.com/nUJmE6q\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">普通人创业赚钱之路</a></p>", 
+            "topic": [
+                {
+                    "tag": "知识付费", 
+                    "tagLink": "https://api.zhihu.com/topics/20071240"
+                }, 
+                {
+                    "tag": "知识星球", 
+                    "tagLink": "https://api.zhihu.com/topics/20070763"
+                }, 
+                {
+                    "tag": "从众心理", 
+                    "tagLink": "https://api.zhihu.com/topics/19616060"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37085409", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 10, 
+            "title": "创业赚钱的基本原理，懂了此原理，一通百通", 
+            "content": "<p>新时代的我们，想要赚钱，就要懂得赚钱的科学道理，不能盲目的尝试。用科学知识碾压老一代文盲的赚钱方式，长江后浪推前浪，前浪死在沙滩上。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>首先记住下面的赚钱公式</p><p><b>钱＝流量×转化率×客单价</b></p><p>记住这个公式，不断分析拆解，想办法提高每一项指标，就能赚钱。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>商业社会的简单流程：</p><p>消费者有了需求，商人发现了该需求，打造出来产品，然后把产品卖给消费者赚钱。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>把上面的流程分解为4个方面来讲：</p><p>1、发现需求，2、满足需求，3、宣传引流，4、转化变现</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1、发现需求</b></p><p>怎样发现需求呢？</p><p>1是观察记录自己平时生活工作中的痛点，看看能不能把解决方案做成一个产品卖给有同样需求的人。</p><p>2观察记录别人的抱怨，看看你能不能解决问题，把这个做成产品卖给他们。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这里要注意需求的强弱。如果需求很弱，就不要浪费时间在上面了，接着再去寻找强需求。发现强需求是关键的一步，如果这步错了，后面的努力都是白费力气。发现强需求需要反反复复的实验才行，就像爱迪生实验成千上万次发明灯泡一样。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2、满足需求</b></p><p>发现真正的强需求后，就要打造产品或服务满足需求，一定要打造成产品，消费者才会付费购买你的产品。</p><p>下面是3种打造产品的方法：</p><ul><li>人无我有，自己擅长的，别人不会的，注意：你擅长的别人如果不需要，就不会付费，一切以需求为导向，不要自嗨。</li><li>人有我优，发现现存产品的不足，进行优化提升</li><li>人优我转，市场竞争白热化，想办法开发新产品，或开辟新市场，始终做市场的引领者</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>下面看个图，缓解一下疲劳 ^_^<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5b96b8094b1b0f14ae74a7cf858f9381_b.jpg\" data-rawwidth=\"582\" data-rawheight=\"691\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"582\" data-original=\"https://pic2.zhimg.com/v2-5b96b8094b1b0f14ae74a7cf858f9381_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;582&#39; height=&#39;691&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"582\" data-rawheight=\"691\" data-caption=\"\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"582\" data-original=\"https://pic2.zhimg.com/v2-5b96b8094b1b0f14ae74a7cf858f9381_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5b96b8094b1b0f14ae74a7cf858f9381_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3、宣传引流</b></p><p>为什么要宣传呢？因为现在是后工业时代，生产力大幅提升，供大于求，就算你有好产品，如果宣传不到位的话，也会死的很难看，要重视宣传。</p><ul><li>确定产品服务哪些人群，此为「定位」</li><li>找到该人群聚集的地方进行宣传引流，比如：你想吸引宝妈，那么就在宝妈论坛、微信群、QQ群等地方发软文吸引流量。</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4、转化变现</b></p><p>这一步需要消费者掏钱，所以要尽量降低消费者的决策难度，要多看消费者心理学方面的书籍。</p><p>下面是3个常见的消费者行为经济学概念：</p><ul><li>利用损失厌恶。商家不断告诉你不用他产品的严重后果，会让你失去很多，刺激你买他的东西。比如知识星球的一个价格介绍策略：会员每满100人，涨价100元，让购买者产生早买早实惠，晚买就会花更多钱的感觉，要赶紧加入否则会涨价。</li><li>利用从众效应。你看到一个甜品店门前排了很长的队，你会觉得这么多人排队买，应该很好吃，我也排队买点尝尝。但是排队的人里可能除了你都是店家的拖 ^_^</li><li>利用心理账户。比如你想问妈妈要钱买电脑玩游戏，但是你会对妈妈说老师让买电脑方便学习，而妈妈一般会给你钱买电脑，这就是利用了妈妈的教育投资心理账户。</li><li>还有很多心理学效应限于篇幅，以后更新，关注公众号，共同学习。</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>「知道」和「得到」之间还缺一个「做到」，知道了赚钱的道理后，就要克服困难，坚决的执行下去，最终才能赚到钱。</p><p>这就是「知行合一」</p><hr/><p>年轻时迷茫，浪费大好年华，不知道赚钱，</p><p>等缺钱时才恨自己蹉跎岁月，</p><p>想赚钱，但是没有项目，没技术，徒伤悲，</p><p>黑帽大师经过不断摸索，总结出了</p><p><b>普通人创业赚钱的方法</b></p><p>欢迎大家进入交流学习，共同赚钱 ▼</p><p>点击进入<a href=\"https://link.zhihu.com/?target=https%3A//t.zsxq.com/nUJmE6q\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">普通人创业赚钱之路</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>有用的话，就点赞收藏吧。</p>", 
+            "topic": [
+                {
+                    "tag": "大学生创业", 
+                    "tagLink": "https://api.zhihu.com/topics/19589446"
+                }, 
+                {
+                    "tag": "创业项目", 
+                    "tagLink": "https://api.zhihu.com/topics/19569726"
+                }, 
+                {
+                    "tag": "赚钱", 
+                    "tagLink": "https://api.zhihu.com/topics/19557815"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "小程序开发代运营", 
+                    "userLink": "https://www.zhihu.com/people/42ad49cd30444865d76b7e918a509539", 
+                    "content": "以前卖过电脑在大学时候，现在出来社会，创业比较火的是微信小程序，可以代理小程序卖给各类商户完成创业，在学校周末就可以到处跑，拉上小伙伴挨个商铺扫街(/ω＼)害羞。可以探讨下自己合适做什么。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36494834", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 0, 
+            "title": "微信频繁加人防封", 
+            "content": "<p>几天前，有人在公众号后台留言说，看了我的分享，想要付费做个动态二维码的图片（我之前在网上分享了动态二维码的制作方法，这就是分享的好处吧）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>既然有钱赚，我打算帮他做，问他要做什么样的动态二维码？然后他就发了张二维码交替出现的动图，下图是用我的二维码做的类似效果 ▼</p><p>（知乎屏蔽二维码）</p><p>我一看到这个动图，心想这是什么鬼啊？和我之前分享的动图不是一个风格啊，但是我转念一想，2个微信号切换显示，想加好友就是随机加其中一个微信，在被加好友时就不会这么频繁，这个是不是为了防止微信封号啊？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ce836d14bd3757f573086625700fcea3_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"612\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-ce836d14bd3757f573086625700fcea3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;612&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1080\" data-rawheight=\"612\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-ce836d14bd3757f573086625700fcea3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ce836d14bd3757f573086625700fcea3_b.jpg\"/></figure><p>动图二维码还有其他玩法吗？大家可以留言交流。</p><p>有需要制作动态二维码的，请扫上方绿色二维码，付费进我的知识星球，私信我，我来制作。如果想制轻松搞笑的二维码也可以。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>看详细原文，点击下方链接 ▼</b></p><p><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI4MTE2MjM1MA%3D%3D%26mid%3D2247483934%26idx%3D2%26sn%3D99b6fd6123306af4d22433fd26699754%26chksm%3Debac251fdcdbac095b2e45388ca68be33011dc75a76d6488913e45c77a0481d42853bfe83aae%23rd\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">动态二维码防止微信被加好友频繁</a></p>", 
+            "topic": [
+                {
+                    "tag": "微信", 
+                    "tagLink": "https://api.zhihu.com/topics/19554470"
+                }, 
+                {
+                    "tag": "科技", 
+                    "tagLink": "https://api.zhihu.com/topics/19556664"
+                }, 
+                {
+                    "tag": "微信群", 
+                    "tagLink": "https://api.zhihu.com/topics/19849459"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36490419", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 0, 
+            "title": "你身边的傻逼为什么比你有钱？", 
+            "content": "<p></p><ul><li>为什么要分析傻逼也有钱的现象呢？<br/>本文是本着理性中立的态度分析的，不要带着情绪阅读。</li><li>因为黑帽大师要用科学的方法，透过现象看本质，发现问题→分析问题→解决问题</li><li>具体来说就是，我发现身边的傻逼比我有钱的现象→分析他们有钱的原因→结果发现以下方法不适合我</li><li>那么只有走普通人创业赚钱之路了。点击下方赚钱入口 ▼<br/><a href=\"https://link.zhihu.com/?target=https%3A//t.zsxq.com/nUJmE6q\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">赚钱入口</a></li></ul><p><b>1、运气好</b></p><ul><ul><li>天时<br/></li><ul><li>10年前买房或炒股</li><li>5年前做淘宝</li><li>5年前买比特币，现在买eos<br/>会买也要会卖，否则还是一场空</li><li>中彩票<br/>我有时会买一注彩票，期待一下，因为中头奖率极低，所以中奖纯凭运气，很公平<br/>不要浪费时间分析走势，那是傻逼行为<br/>希望区块链能解决开奖不透明问题，如果有这样的产品，请告诉我，万分感激</li></ul><li>地利</li><ul><li>拆迁户<br/>有几百万拆迁款还去当门卫/保洁，因为没文化，没有自己的兴趣爱好，可叹！</li><li>坐地户<br/>沙特阿拉伯地下有丰富的石油，但是或有「资源诅咒效应」</li></ul><li>人和</li><ul><li>家族有钱<br/>富二代</li><li>家族有权<br/>权利是把双刃剑，不作死就不会死</li><li>贵人相助<br/>无家可归，被富婆收养<br/>路人被导演相中成为明星</li></ul></ul><li><b>2、装有钱</b></li><ul><ul><li>名牌服装高仿的</li><li>大金链子塑料的<br/>洗澡时要摘下来，否则会浮起来</li><li>宝马借的</li><li>别墅租的</li></ul></ul><li><b>3、掠夺他人财富</b></li><ul><ul><li>逆刑法而为之</li><li>抢劫</li><li>偷窃</li></ul></ul></ul><p>结构更清晰的树形文字，还能转换成脑图，点击下方链接进入 ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//mubu.com/doc/nUw7X_p3Q\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">赚钱大纲</a></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "暴发户", 
+                    "tagLink": "https://api.zhihu.com/topics/19685598"
+                }, 
+                {
+                    "tag": "赚钱", 
+                    "tagLink": "https://api.zhihu.com/topics/19557815"
+                }, 
+                {
+                    "tag": "财富自由之路（书籍）", 
+                    "tagLink": "https://api.zhihu.com/topics/20116677"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36451731", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 0, 
+            "title": "2分钟涨粉9000+，揭秘教程，防止被骗", 
+            "content": "<p></p><p>昨天在caoz的知识星球发了个帖子，说瞬间涨粉9000+，引来不少讨论，评论中有人回复了套路的关键词，但是大多数人还是不清楚怎么做的，俗话说：隔行如隔山，眼见为实可能是错的。下面开始揭秘教程，防止大家被骗。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>先回顾下昨天事情 ▼</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-170e4b924363d8e0599cf2ed762fff18_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"421\" data-thumbnail=\"https://pic1.zhimg.com/v2-170e4b924363d8e0599cf2ed762fff18_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-170e4b924363d8e0599cf2ed762fff18_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;421&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"421\" data-thumbnail=\"https://pic1.zhimg.com/v2-170e4b924363d8e0599cf2ed762fff18_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-170e4b924363d8e0599cf2ed762fff18_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-170e4b924363d8e0599cf2ed762fff18_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>帖子详情 ▼</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d8b924f2dfba328027ac4b0af65faa0e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"615\" data-rawheight=\"799\" class=\"origin_image zh-lightbox-thumb\" width=\"615\" data-original=\"https://pic3.zhimg.com/v2-d8b924f2dfba328027ac4b0af65faa0e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;615&#39; height=&#39;799&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"615\" data-rawheight=\"799\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"615\" data-original=\"https://pic3.zhimg.com/v2-d8b924f2dfba328027ac4b0af65faa0e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-d8b924f2dfba328027ac4b0af65faa0e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>揭秘开始</b></p><p class=\"ztext-empty-paragraph\"><br/></p><ol><li>修改粉丝数量 ▼</li></ol><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7cbfa22e58099a7c0d0d189a49914a03_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"832\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-7cbfa22e58099a7c0d0d189a49914a03_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;832&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"832\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-7cbfa22e58099a7c0d0d189a49914a03_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7cbfa22e58099a7c0d0d189a49914a03_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2.修改后的效果 ▼</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-86a1a5d01b8a77788593059847ce225b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"832\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-86a1a5d01b8a77788593059847ce225b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;832&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"832\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-86a1a5d01b8a77788593059847ce225b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-86a1a5d01b8a77788593059847ce225b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>3.如果没看懂以上操作，看看动图演示会更清楚些 ▼</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-223cec7a5c403c973b5ef20520b45f92_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1077\" data-rawheight=\"751\" data-thumbnail=\"https://pic3.zhimg.com/v2-223cec7a5c403c973b5ef20520b45f92_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1077\" data-original=\"https://pic3.zhimg.com/v2-223cec7a5c403c973b5ef20520b45f92_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1077&#39; height=&#39;751&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1077\" data-rawheight=\"751\" data-thumbnail=\"https://pic3.zhimg.com/v2-223cec7a5c403c973b5ef20520b45f92_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1077\" data-original=\"https://pic3.zhimg.com/v2-223cec7a5c403c973b5ef20520b45f92_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-223cec7a5c403c973b5ef20520b45f92_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>总结</b></p><ol><li>caoz知识星球里的人不好骗，都是见多识广的高智商人群。（注意：智商高和赚大钱是弱相关，我老板小学没毕业，照样年入百万）^_^</li><li>信息不对称无处不在，它既能带给人快乐（如：变魔术），也能骗人钱财（如：面膜、中药等智商税）。</li><li>个人需要增加知识的广度，不需要了解的太深，你见多识广后可以轻松识破骗局，这也是碎片化知识的一个好处。</li><li><b>开阔眼界后，不被骗钱也相当于赚钱。</b><br/></li></ol><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p>年轻时迷茫，浪费大好年华，不知道赚钱，</p><p>等缺钱时才恨自己蹉跎岁月，</p><p>想赚钱，但是没有项目，没技术，徒伤悲，</p><p>黑帽大师经过不断摸索，总结出了</p><p><b>普通人创业赚钱的方法</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>欢迎大家进入交流学习，共同赚钱 ，点击下方链接加入 ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//t.zsxq.com/nUJmE6q\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">普通人的创业赚钱之路</a></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "微信", 
+                    "tagLink": "https://api.zhihu.com/topics/19554470"
+                }, 
+                {
+                    "tag": "吸粉", 
+                    "tagLink": "https://api.zhihu.com/topics/20028320"
+                }, 
+                {
+                    "tag": "微商涨粉85招（书籍）", 
+                    "tagLink": "https://api.zhihu.com/topics/20128695"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36436433", 
+            "userName": "黑帽大师", 
+            "userLink": "https://www.zhihu.com/people/bfe9b72d389e635b9b154edd279c848b", 
+            "upvote": 5, 
+            "title": "普通人创业赚钱之路", 
+            "content": "<p></p><p><b>有钱人分为2种：</b></p><p>1、运气好的人，拆迁户、富二代、满地石油的沙特阿拉伯。</p><p>2、敢闯的人，改革开放时期，下海的那批人基本都发财了。</p><p>以上2种，对于我们来说太遥远，我们今天只谈怎么赚钱。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>想赚钱就要了解我们身处的商业社会的规则，然后利用规则赚钱：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>规则一、为人民服务</b></p><p>对，毛主席早就告诉你了，你没有深刻理解而已。</p><p>具体说呢，赚钱就要为别人提供价值，那么什么是价值呢？很简单，<b>供需决定价值</b>，别人需要什么，你能提供给他就是价值。</p><p>例如：沙特思想这么落后的国家为什么豪车遍地，因为沙特遍地都是石油，而全世界都需要石油来发展经济。而对生命如此重要的空气为什么不值钱呢？因为空气无限量供应，没人会为空气付费。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>规则二、了解人性，利用人性</b></p><p>人性有各种各样的缺陷的，短视、贪图享乐、攀比，人的理性是有限的，而人组成了市场，于是，这个市场就是非理性的、有缺陷的。在这个市场中，大多数科学家注定没有明星赚钱。人们愿意为明星支付上千元的门票，但很少人捐赠给科学研究。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>business is business是电影《教父》里的台词，意思是「在商言商」，做生意就谈怎么赚钱，不要谈情怀、设计等等，这些都是为赚钱服务的，但是你的大脑往往会被面子等不理智的思想控制，做赔钱买卖。</p><p>想赚钱，第一步扔掉面子，变成厚脸皮，城墙那么厚，但是要严守法律的底线，守法经营，否则会前功尽弃。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一心扑在赚钱上，拿出年轻时通宵玩游戏的劲头钻研怎么赚钱，不断思考，不断积累，终会赚到钱。不要幻想轻轻松松就能赚钱，你不理财要，财不理你，不是让你投资理财，因为你本金少的可怜，理财也没什么用，是让你专注于学习赚钱发财的途径，不要学文艺青年无病呻吟，有钱人才有资格当文青，普通人应该锁定赚钱这个目标。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>普通人想赚钱，就要有赚钱的能力。</p><p>赚钱的能力，可分为三种：</p><p><b>打工</b>，一技之长卖给老板，你只服务了老板一个人，</p><p><b>老板</b>，整合资源，带领团队，公司服务了一大批人，</p><p><b>投资</b>，钱生钱，很多大佬有钱后就开始做投资了。以小博大，资本几十上百倍的增长。</p><p>你在打工的时候就要按照老板的能力来要求自己，随着你的能力提升，成功机会就越多，自然而然的赚到大钱。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>记住：</b></p><p>聪明人不一定有钱，有钱人不一定聪明，关键在于你的目标是否是赚钱，努力的方向对了，才能达成目标。例如：经济学家都是有钱人吗？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>凭什么傻逼比聪明人有钱？黑帽大师要让傻逼们看看，一旦聪明人开始研究赚钱，傻逼们只能靠边站，聪明人就应该有钱，而不是让傻逼享受聪明人的劳动成果。</p><hr/><p>年轻时迷茫，浪费大好年华，不知道赚钱，</p><p>等缺钱时才恨自己蹉跎岁月，</p><p>想赚钱，但是没有项目，没技术，徒伤悲，</p><p>黑帽大师经过不断摸索，总结出了</p><p><b>普通人创业赚钱的方法</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>欢迎大家进入交流学习，共同赚钱，点击链接进入 ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//t.zsxq.com/nUJmE6q\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">普通人创业赚钱之</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>关注黑帽大师，学赚钱套路，财富自由 ▼</p><p><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s%3F__biz%3DMzI4MTE2MjM1MA%3D%3D%26mid%3D2247483925%26idx%3D1%26sn%3D1ed5601f7ce4bcf9d2d10a8d7709ee3a%26chksm%3Debac2514dcdbac02891386b14a2fcf62ce880a87c43267fada61f5211eab630ab718657aa28e%23rd\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">黑帽大师公众号</a></p>", 
+            "topic": [
+                {
+                    "tag": "赚钱", 
+                    "tagLink": "https://api.zhihu.com/topics/19557815"
+                }, 
+                {
+                    "tag": "创业", 
+                    "tagLink": "https://api.zhihu.com/topics/19550560"
+                }, 
+                {
+                    "tag": "商业", 
+                    "tagLink": "https://api.zhihu.com/topics/19555457"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_176404312"
+}

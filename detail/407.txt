@@ -1,0 +1,2010 @@
+{
+    "title": "轻松搞懂劳动法", 
+    "description": "分享劳动法常识，教你了解并使用劳动法维护自身权益！", 
+    "followers": [
+        "https://www.zhihu.com/people/pao-fu-xiao-xin-13", 
+        "https://www.zhihu.com/people/zhuan-ye-ma-la-xiao-long-xia", 
+        "https://www.zhihu.com/people/rara-68-80", 
+        "https://www.zhihu.com/people/journey-41-85", 
+        "https://www.zhihu.com/people/yan-yan-yan-hao-10", 
+        "https://www.zhihu.com/people/huo-yu-jia-41-3", 
+        "https://www.zhihu.com/people/jing-jing-35-27-1", 
+        "https://www.zhihu.com/people/lu-qia-54-59", 
+        "https://www.zhihu.com/people/you-zhong-zhong-64", 
+        "https://www.zhihu.com/people/candyzs", 
+        "https://www.zhihu.com/people/re-ou-13", 
+        "https://www.zhihu.com/people/gai-ni-cheng-wu-fa-xian-shi-31", 
+        "https://www.zhihu.com/people/da-peng-29-28", 
+        "https://www.zhihu.com/people/lephone-72", 
+        "https://www.zhihu.com/people/chen-xiao-dong-89-37", 
+        "https://www.zhihu.com/people/niu-niu-niu-niu-niu-19", 
+        "https://www.zhihu.com/people/yang-82-76", 
+        "https://www.zhihu.com/people/mie-di-fei-bei-ji-mei", 
+        "https://www.zhihu.com/people/jiang-jin-jin-51", 
+        "https://www.zhihu.com/people/si-jie-mo-fang", 
+        "https://www.zhihu.com/people/shouoo5-24", 
+        "https://www.zhihu.com/people/qing-feng-fu-yang-liu-64-69", 
+        "https://www.zhihu.com/people/wang-zhi-gang-96-62", 
+        "https://www.zhihu.com/people/love-45-65", 
+        "https://www.zhihu.com/people/zhang-san-pin-34", 
+        "https://www.zhihu.com/people/san-san-90-79-98", 
+        "https://www.zhihu.com/people/wang-chen-chen-12-90", 
+        "https://www.zhihu.com/people/qing-yi-69-1-80", 
+        "https://www.zhihu.com/people/ye-ye-ye-ye-lan", 
+        "https://www.zhihu.com/people/evyyyyyyyy", 
+        "https://www.zhihu.com/people/leng-yan-23-92", 
+        "https://www.zhihu.com/people/zha-tian-bang-er-gou-zi-70", 
+        "https://www.zhihu.com/people/qi-bu-kun", 
+        "https://www.zhihu.com/people/zsan-san-37", 
+        "https://www.zhihu.com/people/cheng-se-shi-guang-65", 
+        "https://www.zhihu.com/people/xiao-mi-li-60-25", 
+        "https://www.zhihu.com/people/rosezhuang", 
+        "https://www.zhihu.com/people/eunice-89-54", 
+        "https://www.zhihu.com/people/xiao-shan-wang-you", 
+        "https://www.zhihu.com/people/zang-xin-i-41", 
+        "https://www.zhihu.com/people/zenobia-44-53", 
+        "https://www.zhihu.com/people/ha-ha-ha-ha-ha-ha-17-60", 
+        "https://www.zhihu.com/people/ting-hua-bu-ting-hua-63", 
+        "https://www.zhihu.com/people/shi-qi-29-19-41", 
+        "https://www.zhihu.com/people/hua-qing-zhou-53", 
+        "https://www.zhihu.com/people/wangyuqiang-1983", 
+        "https://www.zhihu.com/people/tang-he-fang-26", 
+        "https://www.zhihu.com/people/nao-nao-bu-nao-60", 
+        "https://www.zhihu.com/people/tai-ping-yang-zhao-gui-hong", 
+        "https://www.zhihu.com/people/feng-kuang-xiang-nian-65", 
+        "https://www.zhihu.com/people/xuxu-38-45", 
+        "https://www.zhihu.com/people/chen-ni-bei-shang", 
+        "https://www.zhihu.com/people/ji-qian-yue-94", 
+        "https://www.zhihu.com/people/chang-vvv-7", 
+        "https://www.zhihu.com/people/zhan-xiao-yan-64", 
+        "https://www.zhihu.com/people/chi-he-wan-le-de-zai-er", 
+        "https://www.zhihu.com/people/dai-hu-die-jie-de-wen-mang", 
+        "https://www.zhihu.com/people/sheng-ge-4-42", 
+        "https://www.zhihu.com/people/lu-yi-jie-32-26", 
+        "https://www.zhihu.com/people/fu-jiao-23-81", 
+        "https://www.zhihu.com/people/qi-ming-wei-kun-38", 
+        "https://www.zhihu.com/people/leng-nuan-zi-zhi-42-51-41", 
+        "https://www.zhihu.com/people/a-ru-ru-35", 
+        "https://www.zhihu.com/people/lin-liang-92-5", 
+        "https://www.zhihu.com/people/wu-yu-wu-qiu-28-40", 
+        "https://www.zhihu.com/people/ni-dong-de-61-2", 
+        "https://www.zhihu.com/people/ya-ya-66-28-64-37", 
+        "https://www.zhihu.com/people/tun-tun-tu-tu-57", 
+        "https://www.zhihu.com/people/gao-pei-dong-39", 
+        "https://www.zhihu.com/people/yan-gang-78", 
+        "https://www.zhihu.com/people/luke-25-76", 
+        "https://www.zhihu.com/people/zhang-xue-you-53-69", 
+        "https://www.zhihu.com/people/a-lu-61-18", 
+        "https://www.zhihu.com/people/da-hui-lang-46-43", 
+        "https://www.zhihu.com/people/lu-fei-ai-yin-ta-ma-6", 
+        "https://www.zhihu.com/people/ni-huo-25-1", 
+        "https://www.zhihu.com/people/kai-xin-de-qun-zi", 
+        "https://www.zhihu.com/people/xia-hua-99-2", 
+        "https://www.zhihu.com/people/kuai-le-ren-sheng-11-59", 
+        "https://www.zhihu.com/people/abby5549", 
+        "https://www.zhihu.com/people/deng-pang-xin", 
+        "https://www.zhihu.com/people/caoshuo-22", 
+        "https://www.zhihu.com/people/xiao-tiao-wa-1-80", 
+        "https://www.zhihu.com/people/shi-ran-78-13", 
+        "https://www.zhihu.com/people/si-ren-ci-yu", 
+        "https://www.zhihu.com/people/lucy-22-10-13", 
+        "https://www.zhihu.com/people/feng-yu-76-27", 
+        "https://www.zhihu.com/people/vaannn-80", 
+        "https://www.zhihu.com/people/zhu-zi-10-31", 
+        "https://www.zhihu.com/people/da-xing-98-32", 
+        "https://www.zhihu.com/people/ge-yu-chen-84-99", 
+        "https://www.zhihu.com/people/liu-ma-44-71", 
+        "https://www.zhihu.com/people/mo-yao-huang", 
+        "https://www.zhihu.com/people/zhang-shao-kang-55", 
+        "https://www.zhihu.com/people/ai-shang-ta-80", 
+        "https://www.zhihu.com/people/chun-se-wan-ru-jiang-nan", 
+        "https://www.zhihu.com/people/liu-xin-yu-50-9", 
+        "https://www.zhihu.com/people/san-sui-kiki", 
+        "https://www.zhihu.com/people/zi-yu-xing-kong-33", 
+        "https://www.zhihu.com/people/zhi-zhi-zhi-hu-hu-hu-51-90", 
+        "https://www.zhihu.com/people/yi-xiao-49-22", 
+        "https://www.zhihu.com/people/ding-dong-63-94-78", 
+        "https://www.zhihu.com/people/a-a-a-32-22-72", 
+        "https://www.zhihu.com/people/chuan-yue-xing-xing-de-yan-lei", 
+        "https://www.zhihu.com/people/wan-yan-nao-la", 
+        "https://www.zhihu.com/people/xiaoche-25", 
+        "https://www.zhihu.com/people/bu-xiang-shang-ban-25-61", 
+        "https://www.zhihu.com/people/man-man-18-52", 
+        "https://www.zhihu.com/people/xiao-a-jie-76", 
+        "https://www.zhihu.com/people/xiao-wang-zi-38-96", 
+        "https://www.zhihu.com/people/ren-ding-sheng-tian-41-33", 
+        "https://www.zhihu.com/people/15520063669", 
+        "https://www.zhihu.com/people/xue-di-28-66", 
+        "https://www.zhihu.com/people/ai-chi-tian-shi-de-xiao-mei-zi", 
+        "https://www.zhihu.com/people/lu-qian-55-72", 
+        "https://www.zhihu.com/people/jian-yue-34-37", 
+        "https://www.zhihu.com/people/mnwwy-xx", 
+        "https://www.zhihu.com/people/yue-de-er-xiao-chu-niang", 
+        "https://www.zhihu.com/people/moviewrite", 
+        "https://www.zhihu.com/people/xie-qiu-82-47-30", 
+        "https://www.zhihu.com/people/ping-zi-19-87-21", 
+        "https://www.zhihu.com/people/guo-dong-chao-ren-11", 
+        "https://www.zhihu.com/people/zhi-hu-jun-36", 
+        "https://www.zhihu.com/people/zhong-yuan-ye-11", 
+        "https://www.zhihu.com/people/xyloveless", 
+        "https://www.zhihu.com/people/gynecolo", 
+        "https://www.zhihu.com/people/pearl-95-64", 
+        "https://www.zhihu.com/people/eric-60-77", 
+        "https://www.zhihu.com/people/ling-shuang-26-40", 
+        "https://www.zhihu.com/people/xiao-feng-feng-82-35", 
+        "https://www.zhihu.com/people/gan-lan-lv-9-4", 
+        "https://www.zhihu.com/people/chen-shi-jiu-34", 
+        "https://www.zhihu.com/people/li-jing-ge-8", 
+        "https://www.zhihu.com/people/hua-tian-xia-zhi-da-ji-85-89", 
+        "https://www.zhihu.com/people/fay-47-24", 
+        "https://www.zhihu.com/people/qing-ying-15-69", 
+        "https://www.zhihu.com/people/qu-yong-45-25", 
+        "https://www.zhihu.com/people/wxc87e186f6ea5f1fa", 
+        "https://www.zhihu.com/people/fan-fan-69-41", 
+        "https://www.zhihu.com/people/leng-se-diao-27-48", 
+        "https://www.zhihu.com/people/wxa91ec695916e4219", 
+        "https://www.zhihu.com/people/xue-xue-19-83-96", 
+        "https://www.zhihu.com/people/zhu-jing-de-xin-34", 
+        "https://www.zhihu.com/people/qi-shi-bing-bu-fu-za", 
+        "https://www.zhihu.com/people/yu-jian-5-72-41", 
+        "https://www.zhihu.com/people/yang-yun-14-71", 
+        "https://www.zhihu.com/people/xiao-ming-56-13-68", 
+        "https://www.zhihu.com/people/joey-89-66", 
+        "https://www.zhihu.com/people/qian-tong-xue-de-peng-you", 
+        "https://www.zhihu.com/people/chen-qi-xuan-85-4", 
+        "https://www.zhihu.com/people/yu-gong-xiang-bu-xiang-pa-shan", 
+        "https://www.zhihu.com/people/yao-he-64", 
+        "https://www.zhihu.com/people/song-ji-xin-66", 
+        "https://www.zhihu.com/people/zhang-hao-87-47", 
+        "https://www.zhihu.com/people/zhang-ke-62-12", 
+        "https://www.zhihu.com/people/bao-bei-67-11", 
+        "https://www.zhihu.com/people/mr-c-19-8", 
+        "https://www.zhihu.com/people/qiao-yan-yi-meng", 
+        "https://www.zhihu.com/people/mu-xuan-12-74", 
+        "https://www.zhihu.com/people/hong-chen-duo-ke-xiao-90", 
+        "https://www.zhihu.com/people/xiao-ya-xiao-jiu-jiu-28", 
+        "https://www.zhihu.com/people/ha-ha-xiu", 
+        "https://www.zhihu.com/people/ran-11-14", 
+        "https://www.zhihu.com/people/dao-ci-wei-zhi-ba-90-26", 
+        "https://www.zhihu.com/people/miss-q-85-72", 
+        "https://www.zhihu.com/people/lu-lu-99-84", 
+        "https://www.zhihu.com/people/xu-xian-sheng-4-11-42", 
+        "https://www.zhihu.com/people/mu-mu-4-64-60", 
+        "https://www.zhihu.com/people/sun-50-73-74", 
+        "https://www.zhihu.com/people/candddice", 
+        "https://www.zhihu.com/people/ai-ru-shao-nian-hurui", 
+        "https://www.zhihu.com/people/gao-feng-82-63", 
+        "https://www.zhihu.com/people/cherry-1-69-31", 
+        "https://www.zhihu.com/people/yyy-13-62-55", 
+        "https://www.zhihu.com/people/bu-hao-she-hui-zhu-yi-yang-mao", 
+        "https://www.zhihu.com/people/zhou-xiao-shi-25", 
+        "https://www.zhihu.com/people/zhang-ming-yue-45-53", 
+        "https://www.zhihu.com/people/lack-71-62", 
+        "https://www.zhihu.com/people/tong-lin-lin-15", 
+        "https://www.zhihu.com/people/tong-jia-xue-63", 
+        "https://www.zhihu.com/people/chu-tao-tao-31", 
+        "https://www.zhihu.com/people/qq857384852", 
+        "https://www.zhihu.com/people/yue-yue-51-33-73", 
+        "https://www.zhihu.com/people/shi-jiu-64-96", 
+        "https://www.zhihu.com/people/ke-nan-dao-er-ai", 
+        "https://www.zhihu.com/people/angela-42-65", 
+        "https://www.zhihu.com/people/xing-xing-qin-ai-de", 
+        "https://www.zhihu.com/people/sha-han-63", 
+        "https://www.zhihu.com/people/sui-xin-3-29", 
+        "https://www.zhihu.com/people/4thirteen2one", 
+        "https://www.zhihu.com/people/mei-xi-ai-xi-luo", 
+        "https://www.zhihu.com/people/bee-45-26", 
+        "https://www.zhihu.com/people/mu-mu-mu-ya-98", 
+        "https://www.zhihu.com/people/li-sir-94-29", 
+        "https://www.zhihu.com/people/wang-shi-sui-feng-97-49", 
+        "https://www.zhihu.com/people/tu-mi-98-83-27", 
+        "https://www.zhihu.com/people/yi-zhi-hu-hu-37", 
+        "https://www.zhihu.com/people/chi-mo-sheng-42", 
+        "https://www.zhihu.com/people/xiao-peng-you-58-67", 
+        "https://www.zhihu.com/people/wang-jun-kai-97", 
+        "https://www.zhihu.com/people/King19950905", 
+        "https://www.zhihu.com/people/liang-yuan-40-71", 
+        "https://www.zhihu.com/people/jiao-ni-zheng-shou-la", 
+        "https://www.zhihu.com/people/shen-hai-yu-mao-35", 
+        "https://www.zhihu.com/people/kkk-12-21-41", 
+        "https://www.zhihu.com/people/mo-mo-97-87-46", 
+        "https://www.zhihu.com/people/1076278859", 
+        "https://www.zhihu.com/people/gao-yu-rong-70", 
+        "https://www.zhihu.com/people/zi-hua-2", 
+        "https://www.zhihu.com/people/ggke-ai-si-liao", 
+        "https://www.zhihu.com/people/feel-99-17", 
+        "https://www.zhihu.com/people/chen-xian-sheng-8-78", 
+        "https://www.zhihu.com/people/mi-mang-imi-mang", 
+        "https://www.zhihu.com/people/meng-meng-de-xiao-zhi-liao-86", 
+        "https://www.zhihu.com/people/su-li-bai-31", 
+        "https://www.zhihu.com/people/dylans-43", 
+        "https://www.zhihu.com/people/qian-qian-jia-you-22", 
+        "https://www.zhihu.com/people/wen-ruo-31-70", 
+        "https://www.zhihu.com/people/xia-yu-39-58-98"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/76831121", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 6, 
+            "title": "劳动法：遇到如下用人单位，可要求两倍工资", 
+            "content": "<p>能有一份相对稳定工作，能按时拿到工资，不拖欠，不压榨，对一名劳动者来说已经很满足了。</p><p>可惜，现实中很多都不能如愿。</p><p><b><i>如果您有了劳动方面的法律问题需要咨询，可以给我私信，给你专业的建议，让你拿回属于你的辛苦钱！</i></b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4208f8bc5ccf8625088e87fdd38bd296_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-4208f8bc5ccf8625088e87fdd38bd296_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;427&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"427\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-4208f8bc5ccf8625088e87fdd38bd296_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4208f8bc5ccf8625088e87fdd38bd296_b.jpg\"/></figure><p>但也不要泄气，毕竟我们有相关法律支持，被侵权了也是可以维权的，维权了还能拿得赔偿呢。</p><p>张欢（化）进入公司后，公司没有提任何跟他签合同的话，张欢工作已经差不多2年。没有一纸劳动合同，是不是意味着自己想被踢就被踢？</p><p>为此，张欢找到人事，没想到公司态度很干脆，不签合同。</p><p>张欢想想觉得事情不对，自己不签合同一定是吃亏的，公司现在是理亏，张欢想着再去找公司问问情况。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这一次公司态度更坚决：拒绝签合同。</p><p>张欢无语了，拿起法律武器维权了。既然公司违法，那么这么一告，公司可不是签一纸合同那么简单了，张欢向公司要求了相关赔偿。</p><p>公司态度坚决：绝不可能有什么赔偿的。</p><p>结果，结果下来，公司得赔上2倍的工资给王欢。</p><p>公司很无奈，都这样了只有赔，万万没想到，劳动法对此是有明确规定的。</p><p><b>如果用人单位自用工之日起超过一个月不满一年未与劳动者订立书面劳动合同的，应当向劳动者每月支付双倍工资。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d92cfb0b3b02ae94f7240a561e657342_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"403\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-d92cfb0b3b02ae94f7240a561e657342_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;403&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"403\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-d92cfb0b3b02ae94f7240a561e657342_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-d92cfb0b3b02ae94f7240a561e657342_b.jpg\"/></figure><p><b>该拿的钱张欢已经全部拿到了，没有什么遗憾，接下来的就业方向应该第一步就考虑对方是否正规，不然自己还是要接着吃亏的。</b></p>", 
+            "topic": [
+                {
+                    "tag": "劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553426"
+                }, 
+                {
+                    "tag": "工资", 
+                    "tagLink": "https://api.zhihu.com/topics/19667245"
+                }, 
+                {
+                    "tag": "新劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19817719"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "掌柜", 
+                    "userLink": "https://www.zhihu.com/people/3aa812737eb87db785f7692dfb68348d", 
+                    "content": "工作快两年 <a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-da6061b49095b3aff2a98395a3a4cf8e.gif\"> [不抬杠]</a>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "有问题吗？有问题可以咨询哦", 
+                            "likes": 0, 
+                            "replyToAuthor": "掌柜"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "二师姐", 
+                    "userLink": "https://www.zhihu.com/people/2ab6ac4a86d28959df8472354c87bd32", 
+                    "content": "我上个月工资拖欠没发，这个月突然告诉我们底薪没有了，现在说公司要宣布破产，有钱就给你们，没有就这样了", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "饭饭", 
+                    "userLink": "https://www.zhihu.com/people/f56d04bb9a7b68dd4af369a26ad2f496", 
+                    "content": "智律师，您好！我把欠我工资的老板照片，还有公司名称，地址发到快手，抖音里，违法吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "最好不要这样做，没有好处，应用合法手段维护自己利益", 
+                            "likes": 1, 
+                            "replyToAuthor": "饭饭"
+                        }, 
+                        {
+                            "userName": "饭饭", 
+                            "userLink": "https://www.zhihu.com/people/f56d04bb9a7b68dd4af369a26ad2f496", 
+                            "content": "谢谢，我投诉到劳动仲裁，仲裁说如果还不给，让我去法院，法院判决下来还不给，就申请强制执行。<br>但是如果他黄铺了，我该怎么办？", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "独角兽啊", 
+                    "userLink": "https://www.zhihu.com/people/d4b5e19983fc006abb260b4981b39c8a", 
+                    "content": "我想问一下，我在幼儿园工作，实习期是三个月，工资1600。但是我干了九天的工作后我觉得这个工作并不适合我，所以我和园长发消息请求辞职，如果她没有找到人的话我就会在她找到人后再走。园长在那一天没有回复我信息，却在群里发布了招聘信息。第二天我把行李搬了回家，又给园长发消息，她说她本来打算和我面谈的，我说那您至少是不是应该给我回复消息说您想和我面谈，园长说没必要。她说实习期没有工资，我想知道我干了九天的工作我应不应该有工资？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "37时尚", 
+                    "userLink": "https://www.zhihu.com/people/7a856c62d5f43dbd06eecf4912805ceb", 
+                    "content": "智律师您好，我是2012年4月入职现公司的，职位是总监，月薪三万。前几天公司人事口头通知我，说我的工作没业绩（拓展收购物业公司），从本月1号开始职位降为经理，月薪一万。想变相让我主动辞职职不予补偿。因为只是口头通知，我想等下月十号发工资时再去应对。想咨询一下这种情况下申请劳动仲裁的话，可以申请N+1的经济补偿还是可以申请2N的经济赔偿？谢谢", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "37时尚", 
+                            "userLink": "https://www.zhihu.com/people/7a856c62d5f43dbd06eecf4912805ceb", 
+                            "content": "补偿：此前每月的绩效考核都是达标的。", 
+                            "likes": 0, 
+                            "replyToAuthor": "37时尚"
+                        }, 
+                        {
+                            "userName": "37时尚", 
+                            "userLink": "https://www.zhihu.com/people/7a856c62d5f43dbd06eecf4912805ceb", 
+                            "content": "补充", 
+                            "likes": 0, 
+                            "replyToAuthor": "37时尚"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "一条鱼", 
+                    "userLink": "https://www.zhihu.com/people/75f8d5b67f2f68ce07bef6c0c2faf3a0", 
+                    "content": "智律师您好，我们公司是全国连锁的美业门店，我1月份入职的时候的工资标准还不错，但后面发现公司一直拖着不买社保，不签合同，到5月份的时候公司出通告强制更换了工资方案，8月份再改了一次，9月份又改了，也就是每一次提成点都在下降，每一次都意味着做更多的事拿更少的工资，且有公司文件通知降薪，罚款每个月多都害怕，还出通知让我们刷单，每个月没完成，门店每个人都要被罚款，我们这种情况可以申请2N么？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/76830985", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 16, 
+            "title": "离职的时候，千万不要踩这些坑！", 
+            "content": "<p><b>俗话说，天下没有不散的筵席，相聚离开都有时候，没有什么能永垂不朽……可是我，有时候，宁愿选择留恋不放手，等到风景都看透……</b><br/></p><p>好了，先不唱了，讲正事。每个人都想好聚好散，但是当你不管因为什么原因提出离职的那一刹，裂缝已经形成，我们要做的就是尽量优雅地离开。</p><p><b>离职的最最重要的一个准则是：千万不要说你的去向，千万不要。Never！Never! 除非刀架在脖子上！</b></p><p>这里面有很多原因。</p><p>第一，为了挽留说坏话。其实哪怕是小兵，都会有领导来留你。留你不是因为你非常重要，只是他短期内快速找到一个可以替代的人有些困难。留你是因为毕竟工作多年了，用起来很顺手。或者留你是因为你真的很优秀。只要不是公司主动fire你，都说明你还是有一定的价值的。</p><p>当他知道你的去向之后，就开始说你未来东家的负面消息。任何公司都有负面消息，或者都可以找出不好的方面。如果从民企去外企，就说外企在中国越来越没有竞争力，一直退出中国市场， Nokia,Sony, Yahoo就在眼前。如果从外企到民企，就是民企管理混乱不规范，文化不适应。从小公司到大公司，就说不过是去做螺丝钉，无法体现个人价值。从大公司去小公司，就说平台下降，草台班子学不到东西。已经上市的公司一夜暴富和你无关了，创业公司99%都死了，百度主要靠政策，不然分分钟被Google秒成渣；阿里淘宝假货多走不远，腾讯是只抄袭狗，没有未来；小米？几年后谁还用手机呀！！华为？你不怕死吗！</p><p>本来换工作就是一件有风险的事情，尤其是在你现在的工作还不错的情况下。你对现在的工作内容，工作环境轻车熟路，游刃有余。你不知道下一家公司的具体情况是什么，同事怎么样，上司怎么样，发展怎么样，充满了未知。这样一说，你可能就动摇了。</p><p>第二：断人去路。如果在一个行业有过几年工作经验，你又是有一定本事的人，跳槽都是在同行业的，那就是竞争对手。老板觉得既然留不住你，那么就果断阻止你去。一般这么坏心肠的老板挺少的，但是以防万一嘛。做销售的担心你带走自己的客户资源，做技术的担心你带走核心技术。</p><p>有哪些方式可以阻止呢？</p><p>1.竞业协议。一般入职前都会签竞业协议，作为刚毕业的小猎头，我当年也签了……虽然竞业协议要给一定补，但是断了你的后路的之后，你还是得留在原公司这样就不用付钱，或者负气出走，但是当你要求按照竞业协议给补偿的时候，你就陷入了扯皮的阶段。</p><p>我们曾经操作过一个case，候选人离职来新公司上班了。但是原公司要把他告上法庭，认为他违反竞业协议，当然背景调查是做不了了，鬼都知道结果会有多么disaster，在候选人在新公司上班期间，原公司一直与其纠缠不清，搜集证据要告他，最后候选人只能从现在的公司离职。而我们一直没有收回来那笔佣金，因为缺少背调！我靠！</p><p>另外一个总经理级别的case，有一个候选人非常适合我的机会，我前前后后给了好几次电话，最后他 还是拒绝考虑了，因为他签了竞业协议……他估计如果接受这个机会，可能会陷入官司……我哭！！</p><p>所以，大家竞业协议能不签就别签了，授人以柄。当然我也知道，这种都是公司规定的，不签也得签……大家都没办法。</p><p>2.背景调查。很多公司对即将入职的员工都会有一个背景调查。一般背景调查要有直接上司的意见，HR Manager的意见，同事的意见（可省略）。老板完全可以在这个阶段说你坏话。有一些候选人就是挂在这个阶段的，尤其是当新公司也不是那么确定他是否合适的时候，这样一句话就是压死骆驼身上的最后一根稻草，被彻底推向深渊。所以我有时候看候选人和老板关系一般的时候，我就很鸡贼求HR让候选人入职后再做背调，这样就可以降低背调的影响。</p><p>有一次背调，候选人的上司直接说：“尼玛你人上班了才来背调！为什么不上班前做呢！我才不做这个调查呢！”然后我小心翼翼地把电话挂了，找候选人的同事做的背调，幸亏HR也就那样放过我了。</p><p>3.警告你的新公司。这个就是直接打电话到你的新公司相关负责人那里，说不准你们录取该候选人，不然就告你们恶意竞争，违法招聘巴拉巴拉。这种我们也见过。比较温和的事，两边老板谈一下，达成一个互补挖角的君子协议，然后猎头就真的不会主动挖了，就算主动投递的简历也不可以。好像腾讯和欢聚时代就不能互挖， 一加和OPPO不能互挖。也有本来可以挖的，后来不能挖了……所以后面的人就受到伤害了。</p><p>把你的去向告诉老板，就是把刀柄递到对方手里。他一旦有了准备，你就处于被动的境地。到目前为止，我操作的case里面，凡是和新公司说明要去哪里的最后几乎都夭折了，不说的反而顺顺利利上班。</p><p>离职的第二个千万不要是：千万不要裸辞。这一点可能有些人不同意，说我又不怕不到工作，我要先辞职出去玩一圈再说，而且离职找工作方便。如果你是社会紧缺人才，比如程序员，那么当我没说。但是一般人，在没有经济基础的情况下，真的不建议裸辞，骑驴找马是最好的选择。</p><p>在没有经济基础又没有收入的情况下，找下份工作很容易最后将就，然后又开始不爽，很快离职，继续将就，这样几次的话，职业生涯基本就废了……当别人在一个行业两三年，有了一定的经验积累，而你因为不停换工作，蹉跎了时间。薪资不见怎长，往上比不过同龄人，往下甚至比不过应届生，后面的职业生涯会更加坎坷。</p><p>裸辞的第二个问题是堕落。一下子拥有了很多时间，但是却不能很好的利用，吃吃喝喝睡睡，一天过去了，这样的精神状态只会越来越差。我一般不太相信普通人的自制力和时间安排能力。因为我们都是普通人~~</p><p>裸辞还会导致一个问题，下一个公司压你薪资。因为你现在没工作，你缺一份工作，所以HR很多时候会倾向于压薪，薪资的增长会受到一定的影响。</p><p>裸辞的话要注意控制不工作的时间长短。一般来说3个月以内不太受影响，6个月也可以接受，但是一年不工作的话，一般企业在同等能力条件下不会选择你。一年以上根本不会考虑。我以上我指的是猎头职位，猎头的职位一般都属于中高端职位。离职太久，好机会就与你无缘了。</p><p>离职还有一些其他要点：</p><p>1.一定要提交书面离职申请。无论公司怎么好言留你，怎么吓唬你，自离职报告提交之日起30天内，你就可以潇洒走人。一旦书面提交，就进入正式离职手续了。不想走的人要想清楚哦。</p><p>2.注意好工作交接。山水有相逢，过去的公司是你的最好的资源，不要因为离职就让自己之前辛苦建立起来的人脉圈子付诸一炬。做好工作交接是你的分内的事情。同时也是为了给现在的公司和之后的同事留下一个好的印象。世界这么小，说不定又遇上了呢。哪怕你觉得现在公司让你非常不开心，也不要在离职的时候爆发出来，你都忍那么久了，就再忍一会儿吧。</p><p>有一个候选人和原上司关系不好，离职的时候对原公司领导破口大骂，一吐心中郁闷。结果不久该上司也跳槽到了他的新公司，成为他的新上司……剩下的，我不用说了吧……</p><p>3.注意离职原因的措辞。一般离职的话都要和上司或者HR面谈的。是否要说出真实的离职原因这一点要具体情况具体分析了。有的时候真实原因说出来可能太伤人了，而且看不到公司改变的可能的话，我建议找一个大家都能接受的离职理由吧。比如，我可能对XX更感兴趣一些；那里离家比较近一点；我其实还没有想好之后做什么，我想先调整一下，世界这么大，我想去看看……离职的时候最好能够表达一下对原公司的感恩之情，谢谢公司的培养巴拉巴拉的，大家听着都舒服。</p><p>但是如果真实的原因不伤人，或者可能可以改变的话，当然建议说出真实原因。举个例子，有一个工程师从BAT中的某家离开，主要原因是公司一直让他负责某个系统的维护，他是一个对技术非常有追求的人，觉得做这件事情是在是浪费时间，浪费生命。（在这之前另外一个被分配来维护这个系统的工程师也离开了）他很坦白地说明了原因。于是公司把这个系统重构之后交给外包人员来维护。这样真实的离职原因就帮了后来人也帮助了公司。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><i><b>It&#39;s Story time.</b></i></p><p>知道大家都是来看故事的。给大家举个血淋淋的例子吧，也是我当年too young too naive的时候犯下的错。我们几乎把离职的时候能够犯的错都犯了。</p><p>我曾经觉得每一个候选人都比我年长，他们的社会阅历必然比我丰富，这种事情肯定可以处理好。而且我也不好逼迫太多，毕竟跳槽还是要遵循候选人自己的真实意愿。所以我就没有去做什么离职指导。结果……</p><p>后来我想通了，一个人一生正常来说换10次工作差不多了吧，而我每天都在经历，所以我的经验其实更丰富。</p><p>候选人的新机会是同类型级别的MNC, 同类型的岗位，岗位级别有小幅提高，薪资涨幅符合市场跳槽的涨幅，而且给了额外的补贴，从一线城市换到三四线城市，关键是那个城市就是他老家！！也是他妻子的老家！！他老爸老妈岳父岳母都在那里！！我觉得这样的机会简直是为他量身定制的，这么好的机会，可能不会出问题的。然而，图样图僧破。</p><p>首先，候选人和原公司的上司关系非常好，很哥们。所以他告诉了候选人他的去向和未来的薪资待遇。毫无疑问，原公司给出了差不多的待遇进行挽留，而且答应可以派他回离老家比较近的另外一个城市工作。可能有人会问，为什么不给高一点呢（因为外资公司薪资比较规范，有上下限的，没办法，而且市场行情就是这样的。）候选人挣扎了一下，拒绝了原公司的挽留。</p><p>第二，候选人坚持不提交书面离职申请，认为散买卖不散情义，不能提出书面离职。但是原公司确实找不到合适的人来替代他，所以到新公司报道的日期一延再延。这给了原公司错误的暧昧信息，他们开始进行家庭攻势，找候选人家人做思想工作。候选人动摇过一次，想要拒绝，但是我又说服他了。有惊无险。</p><p>候选人最终来到新公司报到了。我放心了。</p><p>然儿这不是高潮！高潮在后面。</p><p>候选人在新公司工作了一周，那个时候没有异样。第二周的时候，他请假三天去处理一些手续问题。三天后，他回来了，提出了书面离职！！</p><p><b>你们知道为什么吗？</b></p><p>我前面说过，原公司找不到替代他的人，</p><p><b>所以请了三天假，去帮助原公司处理问题，帮原公司处理问题，处理问题……</b></p><p>然后他又被动摇了……提出书面离职，还直接抄送给了新公司的总经理。</p><p>防不胜防啊！！</p><p>只能说天要下雨，娘要嫁人。随他吧……我当时绝对道家付身，超脱世外，远离红尘了。</p><p>哦，故事还没有结束。</p><p>我和候选人一直都保持着很好的联系。后来他告诉我他又被派回一线城市了，因为找不到其他人。后来他又要看其他的机会了，但是那个城市当地已经没有其他适合他的机会了……虽然客户还在招这个岗位，但是他已经回不去了……而我也暂时没有其他岗位可以给他。</p>", 
+            "topic": [
+                {
+                    "tag": "离职", 
+                    "tagLink": "https://api.zhihu.com/topics/19561726"
+                }, 
+                {
+                    "tag": "劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553426"
+                }, 
+                {
+                    "tag": "辞职", 
+                    "tagLink": "https://api.zhihu.com/topics/19582002"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "葫芦里卖的是籽", 
+                    "userLink": "https://www.zhihu.com/people/403489dd89e1d6445113869dce6dffab", 
+                    "content": "通过钉钉提出离职申请，也是可以的把，一直不批准，拖着我不走，真的鬼恶心，", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "天山童姥", 
+                    "userLink": "https://www.zhihu.com/people/a7ecbb4b499b6111640cee6060aacb1f", 
+                    "content": "每次跳槽都先找好下家，对原公司说回家休息一阵，然后半个月后再去上班", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "陈氏", 
+                    "userLink": "https://www.zhihu.com/people/7b08056be48993e230c0ce676a4514cc", 
+                    "content": "我想问一下，如果公司在你离职前，变相罚钱，找些理由让你签合同，说是乐捐单；不签不让离职，这个要怎样处理？我还被公司压了三个月的提成[大哭][大哭][大哭]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/76225649", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 17, 
+            "title": "辞职、辞退和自离的工资标准，劳动法是这么规定的！", 
+            "content": "<p>换工作不是大事，但是如何离开原单位却是一件大事！很多劳动者不懂，认为无非就是换一个地方工作而已，怎么走的重要吗？</p><p>在这儿要很负责的告诉大家，很重要。不说开除和离职对找下一份工作有多大的影响，单从赔偿金及工资结算来说，就已经大有不同。</p><p>我们不妨具体来看一看各种解除劳动合同的形式下，工资与赔偿金的差别。辞退、离职和自离差别巨大，选错了你的钱就少了一大截，特别是老员工，千万要注意！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-9dfda70f586ed722f8ab76acd1e23369_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"584\" data-rawheight=\"346\" class=\"origin_image zh-lightbox-thumb\" width=\"584\" data-original=\"https://pic2.zhimg.com/v2-9dfda70f586ed722f8ab76acd1e23369_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;584&#39; height=&#39;346&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"584\" data-rawheight=\"346\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"584\" data-original=\"https://pic2.zhimg.com/v2-9dfda70f586ed722f8ab76acd1e23369_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-9dfda70f586ed722f8ab76acd1e23369_b.jpg\"/></figure><p><b>1、辞退</b></p><p>辞退也就是指用人单位方面提出与员工解除劳动合同，需要提前30日以书面形式通知劳动者。用人单位辞退员工时，员工最后一个月的工资结算应该足额支付，干了多少天就要拿多少工资。至于赔偿金，则要看是因何辞退如果是因为员工多次严重违章违纪，违法《劳动法》的相关规定，损害单位利益而被劝退，则单位无需支付赔偿金；但如果是因为单位经营不善需要裁员或者其他原因导致的劝退员工，则需要支付经济赔偿。</p><p><b>赔偿的标准为：员工每工作满一年即支付一个月的员工本人工资作为赔偿，工作不满6个月的部分按6个月计算，工作超过6个月未满一年的按一年计算。</b></p><p><b>2、辞职</b></p><p>辞职则是指劳动者本人基于自愿与用人单位解除劳动合同，按照规定，在试用期时想要辞职，劳动者只需提前3日以书面形式告知用人单位；而转正以后劳动者想要离职，没有特殊情况的时候劳动者应该提前30日以书面形式递交辞职信。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-dec9fc3439b5d4303ade4fe08238c4ad_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"584\" data-rawheight=\"346\" class=\"origin_image zh-lightbox-thumb\" width=\"584\" data-original=\"https://pic2.zhimg.com/v2-dec9fc3439b5d4303ade4fe08238c4ad_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;584&#39; height=&#39;346&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"584\" data-rawheight=\"346\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"584\" data-original=\"https://pic2.zhimg.com/v2-dec9fc3439b5d4303ade4fe08238c4ad_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-dec9fc3439b5d4303ade4fe08238c4ad_b.jpg\"/></figure><p>一般来说，员工自己辞职，用人单位是不需要支付赔偿金的；但是如果员工辞职不是基于本人因素，比如说，辞职虽然是自愿的选择，但却是因为单位调岗降薪、未按劳动合同提供相关条件的非本人因素导致的离职，则经查实后，用人单位应该按辞退的赔偿标准支付劳动者解约赔偿。</p><p><b>3、自离</b></p><p>自离就是指在单位没有明显违法行为（比如不买社保、强令冒险作业、无故欠薪等）时，劳动者不依法提前30日提交辞职信，也不告知任何人做好工作交接就直接走人。<b>在员工自离后，单位可以按旷工处置，按照《劳动法》的规定，单位可以对旷工达到一定天数的员工予以除名处理，只需告知员工本人解除劳动合同通知。</b></p><p>自离看起来潇洒，想走就走了，实际上最不理智，选择这种方式来解除劳动合同不仅赔偿金想都不要想，还可能因为旷工罚款和自离给单位带来的损失赔偿，连做满一个月的工资都拿不全。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-4553b045a1895ea89ebc3bf96b08d7ad_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"584\" data-rawheight=\"346\" class=\"origin_image zh-lightbox-thumb\" width=\"584\" data-original=\"https://pic2.zhimg.com/v2-4553b045a1895ea89ebc3bf96b08d7ad_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;584&#39; height=&#39;346&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"584\" data-rawheight=\"346\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"584\" data-original=\"https://pic2.zhimg.com/v2-4553b045a1895ea89ebc3bf96b08d7ad_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-4553b045a1895ea89ebc3bf96b08d7ad_b.jpg\"/></figure><p>劳动者对待离职还是要慎重，离职要经过很多程序，也要办理很多手续，比如说要开具解除劳动合同证明，不然下一个单位根本不敢和你签合同；还有社保关系这些都要交接，否则会导致社保停缴，直接影响养老金和医保报销，对劳动者来说损失是很大的。</p>", 
+            "topic": [
+                {
+                    "tag": "离职", 
+                    "tagLink": "https://api.zhihu.com/topics/19561726"
+                }, 
+                {
+                    "tag": "辞职", 
+                    "tagLink": "https://api.zhihu.com/topics/19582002"
+                }, 
+                {
+                    "tag": "辞退", 
+                    "tagLink": "https://api.zhihu.com/topics/19762083"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "饭饭", 
+                    "userLink": "https://www.zhihu.com/people/f56d04bb9a7b68dd4af369a26ad2f496", 
+                    "content": "没到1个月被辞退，怎么维权？", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "可以要求支付半个月的补偿金", 
+                            "likes": 2, 
+                            "replyToAuthor": "饭饭"
+                        }, 
+                        {
+                            "userName": "饭饭", 
+                            "userLink": "https://www.zhihu.com/people/f56d04bb9a7b68dd4af369a26ad2f496", 
+                            "content": "谢谢", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "陪你听全世界", 
+                    "userLink": "https://www.zhihu.com/people/f72c6c03e82232759a80d19cca39e48d", 
+                    "content": "我做兼职，准备开学了，提出辞职走半个月，因为做这个工作赔钱太多所以只想好好享受暑假，但公司的人说我是自离，只能拿到七月份的工资，不能拿到八月份的工资，是这样吗", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "桃浪", 
+                    "userLink": "https://www.zhihu.com/people/cdd9993e980a1ba93edaf993c46625a9", 
+                    "content": "和老师出来打工，不许离职怎么办", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "小白", 
+                    "userLink": "https://www.zhihu.com/people/9ce22134c2ce2e00e8276933b3778d13", 
+                    "content": "我没有签劳动合同，却离职手续了。结果告知我正式员工离职工资要到下个月25号才可以结算，这个是合法的吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "暖暖", 
+                            "userLink": "https://www.zhihu.com/people/a9a3c282a31d141e21cc758414adc7ad", 
+                            "content": "你可以去劳动局告他，未签订劳动合同，公司是要给你补发工资双倍（从你入职到离职期间），还要给你补偿社保基金", 
+                            "likes": 0, 
+                            "replyToAuthor": "小白"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "叶伟忠", 
+                    "userLink": "https://www.zhihu.com/people/64f92e6ed5258220eca0b160a6aad927", 
+                    "content": "我没有签劳动合同做了三个月，急辞工现在不发工资给我还变相要我赔偿公司损失", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "包子馒头", 
+                    "userLink": "https://www.zhihu.com/people/b037567107ebb1f18392da938746d439", 
+                    "content": "试用期，提前一个月说了离职，公司说希望我等招到人再走，我给了一个月期限，但现在公司没找到人，我想走了，工资怎么算呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "试用期提前三天提交辞职报告就可以离职，离职结交完工作就应该结清工资的", 
+                            "likes": 0, 
+                            "replyToAuthor": "包子馒头"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "胡诌", 
+                    "userLink": "https://www.zhihu.com/people/262e514f75c947ed4f94848a46c0319e", 
+                    "content": "想问下，上月16号签订入职合同，本月3号矿离，那15号发薪日还会发放上学工资吗？[发呆]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "苏悉", 
+                    "userLink": "https://www.zhihu.com/people/c919e089305bd278eeaa78cd0b6c4a17", 
+                    "content": "<p>你好，智律师，因为单位调岗降薪、未按劳动合同提供相关条件的非本人因素导致的离职，公司却不愿付赔偿，该提供哪些资料去劳动局维权呢</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "KIKO", 
+                    "userLink": "https://www.zhihu.com/people/1daa254fab71c93d3664bbe6d85bfd0a", 
+                    "content": "您好，干到第五天让我走人，说是最低干到明年6月份，另外没有签合同，老板说这五天是试用期没有工资，我该怎样维权？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/76219696", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "什么情况可以解除合同", 
+            "content": "<p>合同是平等主体的自然人、法人、其他组织之间设立、变更、终止民事权利义务关系的协议。婚姻、收养、监护等有关身份关系的协议，适用其他法律的规定。在日常生活中，我们会碰到很多合同，比如买卖合同、租赁合同、借款合同等。合同一方面能约束当事人，要求双方积极履行义务，另一方面也是对自身权利的保障。如果签订合同是当事人的真实意思表示，且不违反法律、行政法规的强制性规定，自签订时即生效。对于有法律效力的合同，当事人应当按照合同的约定履行，不得随意解除。这既是交易中诚实信用的基本要求，更是为了保护交易的安全。</p><p>那么，什么情况下可以解除合同呢？大致分为如下两种情况：</p><p><b>一、合同的法定解除</b></p><p>  根据《合同法》第94条 有下列情形之一的，当事人可以解除合同：（一）因不可抗力致使不能实现合同目的；（二）在履行期限届满之前，当事人一方明确表示或者以自己的行为表明不履行主要债务；（三）当事人一方迟延履行主要债务，经催告后在合理期限内仍未履行；（四）当事人一方迟延履行债务或者有其他违约行为致使不能实现合同目的；（五）法律规定的其他情形。</p><p>   所谓主要债务，应当依照合同的个案进行判断，一般说来，影响合同目的实现的债务，应为主要债务。</p><p><b>二、合同的约定解除</b></p><p>合同体现了较强的自治性，当事人可以对数量、质量、价格、履行期限、违</p><p>约责任等作出约定，对于合同的解除条款亦可在合同中予以约定。比如“延迟履行达多少天的，守约方有权解除合同”、“质量未达标准的，守约方有权解除合同”。</p><p>这样的约定，一方面能促使合同当事人积极履行合同义务，另一方面在违约方不积极履行义务的情况下，守约方可以通过解除合同来予以救济。</p><p> 综上，合同可以法定解除；如果对于交易中不能容忍的行为，可以写入合同明确解除的条件，通过约定来解除。</p>", 
+            "topic": [
+                {
+                    "tag": "劳动合同解除", 
+                    "tagLink": "https://api.zhihu.com/topics/19639093"
+                }, 
+                {
+                    "tag": "劳动合同", 
+                    "tagLink": "https://api.zhihu.com/topics/19561725"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/72540637", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "首次工伤保险待遇申领所需材料", 
+            "content": "<h2>一、申办条件</h2><p>1.工伤人员须经过劳动行政部门工伤认定、劳动能力鉴定；</p><p>2.单位按时缴纳工伤保险费；</p><p>3.工伤人员事故发生月已参加本市城镇（小城镇）社会保险，并按规定缴纳了社会保险费。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二、申请材料</b></p><p>1.《工伤认定书》复印件；</p><p>2.《鉴定结论书》复印件；</p><p>3.工伤医疗费用凭证：</p><p>    （1）门、急诊治疗工伤的需携带医疗费原始收据及费用明细清单、门急诊病历原件及复印件；</p><p>    （2）急诊住院治疗工伤的需携带医疗费原始收据、住院医疗费用明细清单、出院小结或相关的病史材料原件及复印件；</p><p>    （3）现金就医的还需携带由本市医疗保险事务中心出具的《上海市医疗保险服务窗口医疗费结算单》或《工伤医疗费用核定凭证》；</p><p>4.工伤人员的身份证（第二代身份证需正、反面复印）、本人实名制银行结算账户卡（折）原件及复印件（可选择工商银行、上海银行、浦发银行、农业银行、邮政储汇局其中之一），工伤人员或家属如选择邮汇支付方式，需提供正确的邮汇地址、邮汇编码等基本信息；</p><p>5.劳动能力鉴定费支付凭证原件；</p><p>6.根据工伤人员的不同情况，另需分别携带下列材料：</p><p>    （1）对于工伤人员配置辅助器具的，需携带劳动能力鉴定机构出具的《配置辅助器具确认书》复印件和配置辅助器具费用支付凭证原件；</p><p>    （2）对于非全日制从业人员（小时工）、协保人员，需携带与承担工伤责任的用人单位签定的有效劳动合同或劳务协议或用工登记名册复印件；</p><p>    （3）对于委托他人办理工伤保险待遇申请手续的，需携带委托人的委托书和被委托人的身份证原件及复印件（第二代身份证需正、反面复印）。</p>", 
+            "topic": [
+                {
+                    "tag": "工伤保险", 
+                    "tagLink": "https://api.zhihu.com/topics/19639126"
+                }, 
+                {
+                    "tag": "社会保险", 
+                    "tagLink": "https://api.zhihu.com/topics/19630964"
+                }, 
+                {
+                    "tag": "新劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19817719"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/72411703", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "什么情况可以解除合同", 
+            "content": "<p>合同是平等主体的自然人、法人、其他组织之间设立、变更、终止民事权利义务关系的协议。婚姻、收养、监护等有关身份关系的协议，适用其他法律的规定。在日常生活中，我们会碰到很多合同，比如买卖合同、租赁合同、借款合同等。合同一方面能约束当事人，要求双方积极履行义务，另一方面也是对自身权利的保障。如果签订合同是当事人的真实意思表示，且不违反法律、行政法规的强制性规定，自签订时即生效。对于有法律效力的合同，当事人应当按照合同的约定履行，不得随意解除。这既是交易中诚实信用的基本要求，更是为了保护交易的安全。</p><p><b>那么，什么情况下可以解除合同呢？</b></p><p>大致分为如下两种情况：</p><p><b>一、合同的法定解除</b></p><p>  根据《合同法》第94条 有下列情形之一的，当事人可以解除合同：（一）因不可抗力致使不能实现合同目的；（二）在履行期限届满之前，当事人一方明确表示或者以自己的行为表明不履行主要债务；（三）当事人一方迟延履行主要债务，经催告后在合理期限内仍未履行；（四）当事人一方迟延履行债务或者有其他违约行为致使不能实现合同目的；（五）法律规定的其他情形。</p><p>   所谓主要债务，应当依照合同的个案进行判断，一般说来，影响合同目的实现的债务，应为主要债务。</p><p><b>二、合同的约定解除</b></p><p>合同体现了较强的自治性，当事人可以对数量、质量、价格、履行期限、违</p><p>约责任等作出约定，对于合同的解除条款亦可在合同中予以约定。比如“延迟履行达多少天的，守约方有权解除合同”、“质量未达标准的，守约方有权解除合同”。</p><p>这样的约定，一方面能促使合同当事人积极履行合同义务，另一方面在违约方不积极履行义务的情况下，守约方可以通过解除合同来予以救济。</p><p> 综上，合同可以法定解除；如果对于交易中不能容忍的行为，可以写入合同明确解除的条件，通过约定来解除。</p>", 
+            "topic": [
+                {
+                    "tag": "劳动合同", 
+                    "tagLink": "https://api.zhihu.com/topics/19561725"
+                }, 
+                {
+                    "tag": "劳动合同解除", 
+                    "tagLink": "https://api.zhihu.com/topics/19639093"
+                }, 
+                {
+                    "tag": "新劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19817719"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/71996492", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 5, 
+            "title": "劳动法规定：单位这3种行为都违法，可以申请仲裁要求赔偿！", 
+            "content": "<p>关于员工入职时签订劳动合同需要注意的相关问题，还是有很多的职场人犯错误。</p><p><b>比如有朋友来咨询我说：公司只与他签署了劳动合同，事后还将合同收了回去，没有留一份给他，这样合理吗？</b></p><p>答案肯定是不合理的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>我国《劳动合同法》第16条明确规定：</b></p><p>劳动合同由用人单位与劳动者协商一致，并经用人单位与劳动者在劳动合同文本上签字或者盖章生效。劳动合同文本由用人单位和劳动者各执一份。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>也就是说公司应该与他签订一式两份的劳动合同，其中一份由公司收走，另一份则由他自行保管。</p><p><b>发生这种情况下，他可以根据《劳动合同法》第77条规定</b></p><p>劳动者合法权益受到侵害的，有权要求有关部门依法处理，或者依法申请仲裁、提起诉讼。</p><p>今天我们打算来说说职场上常见的一些坑，希望能对所有职场人有帮助。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1、单位不签合同，劳动者最高可获11个月工资的赔偿</b></p><p>很多时候公司方都会选择不与入职员工签订劳动合同，可能是为了规避法律风险，又或者是因为其他不可告人的目的，如果劳动者在工作中碰到这种情况，那大可继续呆在公司上班，但需要留个心眼开始收集证据。</p><p>所谓的证据，指的是证明劳动者与用人单位存在劳动关系的证据，常见的证据包括但不限于：工资转账记录、带有企业公章的工作证等有关身份证明文件、社会保险的缴纳记录或者是每日上班的打卡记录等等。</p><p>需要注意的是，虽然单位不签劳动合同我们最高可以获得11个月工资的赔偿，但由于没有劳动合同证明劳动关系，所以我们必须收集能够证明存在劳动关系的证据。</p><p>收集完证据后，我们就可以发送被迫解除劳动合同通知书给公司，然后向当地仲裁委申请仲裁，要求公司支付未签劳动合同的双倍工资差额。</p><p>这里需要注意的是，未签劳动合同也是有诉讼时效的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2、试用期的工资不能低于转正后的80%</b></p><p>这一点相信很多职场人都没有听说过，准确的来说是试用期的工资不能低于当地最低工资标准或转正后公司的80%，如果你们的公司存在这种现象，那么你有权利要求公司补回差额。</p><p>然而《劳动合同法》对试用期的长度也有相应的规定，劳动合同期限三个月以上不满一年的，试用期不得超过一个月；劳动合同期限一年以上不满三年的，试用期不得超过二个月；三年以上固定期限和无固定期限的劳动合同，试用期不得超过六个月。</p><p>如果试用期超出了法律规定的长度，那么我们有权要求公司补偿我们转正的工资差额，比如你已经试用期已经超过一个月了，公司依旧支付你试用期的薪水，那么你可以要求公司支付转正工资的差额给你。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3、辞职是你应有的权利</b></p><p>很多劳动者在离职的时候，都会碰到公司不批离职申请的现象，而大多数人都会下意识的认为，只要公司不批准，他们就不能走。</p><p>需要知道的是，辞职是我们每个人都能享有的权利，很多用人单位会拿劳动合同的期限来束缚提出离职的员工，或者是用当月离职就不发薪水的公司规定来威胁，其实这些做法都是没有且不合法的。</p><p>只要我们根据《劳动合同法》的规定，提前三十天以书面的形式向公司提出离职，期限到了后自行离职就行了，如果还处于试用期的，只需提前三天就行。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>为什么需要以书面形式向公司提出离职？</b></p><p>一方面是因为法律规定必须如此，</p><p>另一方也是为了留存相应的证据。</p><p>不要不以为然，很多公司收了辞职书后，会谎称自己没有收到，这么一来如果员工辞职的话，公司可能会以旷工的形式处理。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以上这三大类在职场上是十分常见的，大部分劳动者由于法律意识淡薄，所以都忽略了这几点，如今我们已经列出来给各位职场人了，希望能对大家有所帮助。</p>", 
+            "topic": [
+                {
+                    "tag": "新劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19817719"
+                }, 
+                {
+                    "tag": "劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553426"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "芹菜", 
+                    "userLink": "https://www.zhihu.com/people/709351bcc67f363d33d28d9233096063", 
+                    "content": "現在的問題是，即使勝訴了也只是追回本來的錢。但付出的金錢時間等已經不止了，而且將來要找工作做背景調查老闆那怕知道是你前任雇主犯法了他也會因為你和前任雇主發生過勞資糾紛而不願招聘你。<br>不解決這問題，中國的勞動法和形同虛設沒太大分別。", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "现在劳动仲裁是免费的，也不需要消耗很多精力的", 
+                            "likes": 1, 
+                            "replyToAuthor": "芹菜"
+                        }, 
+                        {
+                            "userName": "芹菜", 
+                            "userLink": "https://www.zhihu.com/people/709351bcc67f363d33d28d9233096063", 
+                            "content": "我說直白一點吧，勞動法對雇主欺壓雇員的後果太小，毫無阻嚇力。而雇員那怕為了日後的工作的背景調查，很多那怕雇主很過份也不敢追討自己合理的權益。", 
+                            "likes": 2, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "闪闪发光的灿烂", 
+                    "userLink": "https://www.zhihu.com/people/87e34b76ca7d5b978535b3bd951f51f2", 
+                    "content": "如果申请仲裁之后原公司在同行业中抹黑自己，导致找工作难甚至找不到工作话怎么办呢？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/71996053", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 1, 
+            "title": "@所有劳动者，上班要收集保留这些证据，关键时刻有大用", 
+            "content": "<p>劳动合同是证明劳动者与用人单位存在劳动关系最直接、最有效的证据。如果用人单位与劳动者没有及时签订劳动合同，或者劳动者不慎丢失了劳动合同，会导致没有足够的证据证明劳动关系的存在。</p><p>在这种情况下，如果能搜集到以下15条证据，即使没有劳动合同也可以证明劳动关系。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3142ca8d60325f41f93e0f9274569b73_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"426\" data-rawheight=\"272\" class=\"origin_image zh-lightbox-thumb\" width=\"426\" data-original=\"https://pic4.zhimg.com/v2-3142ca8d60325f41f93e0f9274569b73_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;426&#39; height=&#39;272&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"426\" data-rawheight=\"272\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"426\" data-original=\"https://pic4.zhimg.com/v2-3142ca8d60325f41f93e0f9274569b73_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3142ca8d60325f41f93e0f9274569b73_b.jpg\"/></figure><p>1.应聘登记表、入职登记表、录用通知书、面试通知短信等。</p><p>2.工作服、出入证、厂牌、工作证、技术认定证书、专业证书年检记录等能够证明职务身份的证件。</p><p>3.工资单、工资收入证明(需会计人员签名)、社会保险记录单、企业年金单、住房公积金单或其他工资发放记录等(工资发放为现金可忽略)。</p><p>4.打卡记录、考勤记录、加班通知等。</p><p>5.其他劳动者的证言。</p><p>6.发表有自己作品的公司内部刊物、或者公司网站有关自己事迹的报道。</p><p>7.工作记录单、本人代表公司签订的采购合同、销售合同，客户业务记录等。</p><p>8.由公司签字的岗位职责说明书、薪资确认书、调岗通知书、解除通知等。</p><p>9.公司或者公司工会发出的本人的荣誉证书、奖状、惩罚通知单、工会会员证。</p><p>10.工作中来往邮件、QQ聊天记录、微信记录、工作安排短信记录等。</p><p>11.与公司领导谈话、工作情况的录音、录像。</p><p>12.财务借款单、报销凭证等。</p><p>13.因交通事故引发的工伤，交警部门调查询问的笔录。</p><p>14.劳动监察部门投诉登记、询问调查笔录等。</p><p>15.信用卡账单邮寄地址为单位。</p><p>此外，《劳动合同法》第八十二条规定：“用人单位自用工之日起超过一个月不满一年未与劳动者订立书面劳动合同的，应当向劳动者每月支付二倍的工资。用人单位违反本法规定不与劳动者订立无固定期限劳动合同的，自应当订立无固定期限劳动合同之日起向劳动者每月支付二倍的工资。”</p>", 
+            "topic": [
+                {
+                    "tag": "劳动者", 
+                    "tagLink": "https://api.zhihu.com/topics/19735374"
+                }, 
+                {
+                    "tag": "证据", 
+                    "tagLink": "https://api.zhihu.com/topics/19640256"
+                }, 
+                {
+                    "tag": "新劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19817719"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/71821432", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 1, 
+            "title": "企业用工法律风险防范之工资支付制度", 
+            "content": "<p>根据劳动争议案件大数据分析，劳动争议纠纷中，因追索劳动报酬引发的仲裁、诉讼始终占比在46%左右，这还不包括劳动者直接向劳动监察部门投诉，由行政处理的案件数量，以及因严重拖欠工资构成的拒不支付劳动报酬的犯罪案件。在追索劳动报酬纠纷中，劳动者胜诉比例几可达到百分百，企业不但支付拖欠的劳动报酬，还要支付经济补偿或赔偿金，给企业声誉、经济上造成不可挽回的损失。可见，工资支付制度的制定和贯彻落实在企业用工法律风险防范中之重要性。工资支付制度应当做到以下几点：</p><p><b>一、工资支付制度必须依法定程序制定，内容合法合规，对员工才发生适用的法律效果</b></p><p>《劳动法》《劳动合同法》均授权企业依法建立和完善规章制度，保障劳动者享有劳动权利和履行劳动义务。但在制定、修改或者决定有关劳动报酬、工作时间、休息休假、劳动安全卫生、保险福利、职工培训、劳动纪律以及劳动定额管理等直接涉及劳动者切身利益的规章制度或者重大事项时，应当经职工代表大会或者全体职工讨论，提出方案和意见，与工会或者职工代表平等协商确定。并将直接涉及劳动者切身利益的规章制度和重大事项决定公示，或者告知劳动者。</p><p>工资支付制度是直接涉及劳动者切身利益的规章制度，在制定时应通过职工代表大会、工会或者全体职工，与之协商确定。通驼协商的制度，应当向全体员工公示，或者告知。同时抄报当地劳动行政部门备案。</p><p>在劳动争议中，企业以劳动管理制度作为抗辩理由的很多，但因制定程序上不合法或未向劳动者公示、告知，而被仲裁委、法院裁判不予支持的，为主要原因。</p><p>工资支付制度内容必须合法合规，才具有法律效力。劳动法、劳动合同法虽授权企业有权制定劳动管理制度，但不是企业就可以肆意而定，制度内容必须合法合规，违反法律、行政法规、部门规章和地方性规定的，严重侵害劳动者人身权益、财产权利的制度，是无效的，仲裁委、法院是不会采纳适用的。</p><p>在制定工资支付制度时，要认真理解《劳动法》《劳动合同法》《劳动合同法实施条例》《工资支付暂行规定》《关于工资总额组成的规定》，社会资源和人力保障部（原劳动部）关于工资支付的规章，以及所在省市制定的地方性法规、制度及政策，防止与之冲突，确保制度内容的合法性。</p><p>另，薪酬管理制度、福利待遇制度均在工资支付制度之列，人事管理制度、考勤制度等劳动管理制度，以及员工手册，与之有密切联系，要注意与工资支付制度形成相互融合、相互配套的劳动管理制度体系。</p><p><b>二、制度内容应明确具体，易于操作</b></p><p>工资支付制度，主要包括：工资支付项目、工资支付水平、工资支付形式、工资支付对象、工资支付时间以及特殊情况下的工资支付等内容。</p><p><b>1、工资支付的项目、标准和形式</b></p><p>工资支付的项目，指固定工资、基本工资加绩效工资、计时工资、计件工资、奖金、津贴和补贴、延长工作时间（加班加点）的工资报酬等。</p><p>工资标准，可以根据劳动者所在岗位或者所从事的工作确定。应在劳动合同中约定，对工资的调整和变更适用企业管理制度的，也要在劳动合同中或集体合同中明确。切记！工资标准不得低于当地最低工资标准。</p><p>工资支付形式，应当以货币形式支付工资，不得以实物、有价证券等代替货币支付。应当将工资直接支付给劳动者本人。鼓励以银行代为发放。并应当向劳动者提供一份工资支付清单。</p><p><b>2、工资支付的周期和日期</b></p><p>可以按照小时、日、周、月为周期支付工资。以完成一定工作任务计发工资的，应当在工作任务完成后即时支付劳动者工资。但应当至少每月向劳动者支付一次工资。应当按照规定日期足额支付，不得克扣或者无故拖欠。工资支付日期遇法定休假日或者休息日的，应当提前在最近的工作日支付。</p><p>因生产经营困难暂时无法按时支付工资的，应当向劳动者说明情况，并经与工会或者职工代表协商一致后，可以延期支付工资，但最长不得超过30日。</p><p><b>3、代扣、代缴及工资扣除事项</b></p><p>代扣代缴个所得税、社会保险费，法院判决、裁定中要求代扣的抚养费、赡养费，以及法律、法规规定可以从劳动者工资中扣除的其他费用外，不得克扣劳动者工资。</p><p>工资可扣除的事项，因劳动者本人原因给企业造成经济损失的，可按照劳动合同的约定要求其赔偿经济损失。经济损失的赔偿，可从劳动者本人的工资中扣除。但每月扣除的部分不得超过劳动者当月工资的20％。若扣除后的剩余工资部分低于当地月最低工资标准，则按最低工资标准支付。</p><p>切记！不得以罚款的形式扣除工资。如员工违章违纪需要处罚的，可以减资形式给予相应的处罚。企业有无处罚权，在法律界争议较大，从司法实践上看，大部分从工资中扣除罚款的做法，不为仲裁委、法院支持。</p><p><b>4、特殊情况下的工资支付</b></p><p>（1）停产停业</p><p>非因劳动者原因造成单位停工、停产在一个工资支付周期内的，应按劳动合同规定的标准支付劳动者工资。超过一个工资支付周期的，若劳动者提供了正常劳动，则支付给劳动者的劳动报酬不得低于当地的最低工资标准；若劳动者没有提供正常劳动，应按国家有关规定办理。</p><p>（2）休假、依法参加社会活动</p><p>劳动者依法享受年休假、探亲假、婚假、丧假期间，妇女节、青年节等部分公民节日期间，应按劳动合同规定的标准支付劳动者工资。</p><p>休病假，劳动者患病或者非因工负伤的，在病休期间，应当根据劳动合同或集体合同的约定支付病假工资。支付病假工资不得低于最低工资标准的80％。</p><p>生育、产检、哺乳假，劳动者生育或者施行计划生育手术依法享受休假期间，应当支付其工资。劳动者因产前检查和哺乳依法休假的，应当视同其正常劳动支付工资。</p><p>劳动者在法定工作时间内依法参加社会活动期间，或者担任集体协商代表履行代表职责、参加集体协商活动期间，应视同其提供了正常劳动而支付工资。社会活动包括：依法行使选举权或被选举权；当选代表出席乡（镇）、区以上政府、党派、工会、青年团、妇女联合会等组织召开的会议；出任人民法庭证明人；出席劳动模范、先进工作者大会；《工会法》规定的不脱产工会基层委员会委员因工作活动占用的生产或工作时间；其它依法参加的社会活动。</p><p>（3）加班、加点、法定节假日加班</p><p>安排劳动者在标准工作时间以外工作的，应当按照国家规定标准支付劳动者加班工资。</p><p><b>三、制度的贯彻执行</b></p><p>再好的制度，只是“写在纸上”、“说在嘴上”、“挂在墙上”，不去真正贯彻执行、落实，也是一纸空文。制度的生命力在于执行，一项好的制度，如果不去执行，就会形同虚设，执行不到位，就难以发挥应有的作用。要围绕制度的制定、制度的执行、对制度执行的监督三个层面，切实做到设计制度完善，真正落实下去，切实提高制度的执行力，维护制度的权威性和严肃性，才能更好的防范企业用工法律风险，降低企业成本，提升企业竞争力。</p>", 
+            "topic": [
+                {
+                    "tag": "工资", 
+                    "tagLink": "https://api.zhihu.com/topics/19667245"
+                }, 
+                {
+                    "tag": "劳动合同", 
+                    "tagLink": "https://api.zhihu.com/topics/19561725"
+                }, 
+                {
+                    "tag": "新劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19817719"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/71685633", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "无固定期限劳动合同，既不是“铁饭碗”也不是“紧箍咒”", 
+            "content": "<p>小吴在一家公司干了两年，签了两次劳动合同，现公司通知他签订无固定期限劳动合同。小吴对于签订无固定期限劳动合同有些犹豫，签了以后是不是就不能离职了，就没有涨薪的机会了？</p><p>现实生活中，很多人像小吴一样对于无固定期限劳动合同的理解有偏颇，有的劳动者担心签了就不能离职了，有的认为是终身制的“铁饭碗”；有的公司则担心签了后，员工消极怠慢工作又不能通过合同到期予以解除劳动关系。那么，无固定期限劳动合同该如何理解、法律又是如何规定的呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一、无固定期限劳动合同的概念</b></p><p>无固定期限劳动合同，是指用人单位与劳动者约定无确定终止时间的劳动合同。“无确定终止时间”是指劳动合同没有确切的终止时间，劳动合同的期限长短不能确定。立法本意是要鼓励建立长期、稳定的劳动关系。对于劳动者而言，有利于稳定职业，提升业务水平和职业技能。对于用人单位而言，有利于培养人员的稳定性，减少频繁更换劳动者的成本，促进经济效益。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二、订立无固定期限劳动合同的情形</b></p><p>    1、用人单位与劳动者协商一致，可以订立无固定期限劳动合同</p><p>劳动合同的本质是合同，经双方协商一致，且不违反法律和行政法规的强制性规定，双方可以签订。</p><p>2、劳动者在该用人单位连续工作满十年的。</p><p>3、用人单位初次实行劳动合同制度或者国有企业改制重新订立劳动合同时，劳动者在该用人单位连续工作满十年且距法定退休年龄不足十年的。</p><p>4、连续订立二次固定期限劳动合同，且劳动者没有《劳动合同法》第三十九条和第四十条第一项、第二项规定的情形，续订劳动合同的。</p><p>5、用人单位自用工之日起满一年不与劳动者订立书面劳动合同的，视为用人单位与劳动者已订立无固定期限劳动合同。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>三、无固定期限劳动合同可以解除的情形</b></p><p>无固定期限但并不是没有终止时间，如果出现了法定情形或者双方协商一致</p><p>解除的，同样也能解除。对于劳动者而言，提前三十日以书面形式通知用人单位，可以解除劳动合同。如果用人单位有未及时足额支付劳动报酬等法定情形的，也可以解除；对于用人单位而言，如果劳动者有严重违反用人单位的规章制度；严重失职，营私舞弊，给用人单位造成重大损害等法定情形的，可以解除劳动合同。</p><p> 综上，无固定期限的劳动合同既不是劳动者的“铁饭碗”也不是用人单位的“紧箍咒”。是用人单位和劳动者建立长期、稳定劳动关系的保障。</p>", 
+            "topic": [
+                {
+                    "tag": "无固定期限劳动合同", 
+                    "tagLink": "https://api.zhihu.com/topics/20051924"
+                }, 
+                {
+                    "tag": "劳动合同", 
+                    "tagLink": "https://api.zhihu.com/topics/19561725"
+                }, 
+                {
+                    "tag": "新劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19817719"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/71255259", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 1, 
+            "title": "女职工的产假工资应当如何计发？", 
+            "content": "<p>女职工的产假工资，一直是一项争执较大的问题。而很多单位，对女职工产假期工资，采取的措施也是五花八门。但最常长的一种，就是女职工的产假工资，是从生育保险基金中领取的产假津贴。</p><p><b>那么，这种做法对吗？</b></p><p>对，但又不全对，因为往往从生育保险基金领取的产假工资，与职工正常工作期间的工资数额不同，且多数都小于正常工资。</p><p><b>那么，如何计发女职工产假期间的工资？</b></p><p>因在《中华人民共和国社会保险法》中，应生育津贴的计发办法不是十分明确。但全国各地区都制订了自己的计发标准。我们就以北京市为例，给大家做一介绍。</p><p>《北京市企业职工生育保险规定》第十二条规定，生育保险基金支付范围包括：<br/>（一）生育津贴；<br/>（二）生育医疗费用；<br/>（三）计划生育手术医疗费用；<br/>（四）国家和本市规定的其他费用。</p><p>而《北京市企业职工生育保险规定》第十五条规定，生育津贴为女职工产假期间的工资。</p><p>好了，从上述规定，我们已经知道，也就是说从社保基金领取的生育津贴。所以产假工资应当从社保基金领取。这也是大多数企业对女职工生育期间工资的交待。</p><p>但我们需要说明的是，《北京市企业女职工生育保险规定》第十五条规定的，“产假津贴为女职工产假期间的工资”后边，还有一句话，即是“生育津贴低于本人工资标准的，差额部分由企业补足。”</p><p><b>也就是说，女职工产假期间的工资，与正常上班的工资一样计发。单位为员工缴纳了社会保险的，女职工产假期间的工资，由单位从社保基金领取生育津贴，并发放给女职工。领取的生育津贴低于女职工工资的，由单位补足。如果单位没有为员工缴纳社保的，单位应当正常向女职工计发工资。</b></p>", 
+            "topic": [
+                {
+                    "tag": "产假", 
+                    "tagLink": "https://api.zhihu.com/topics/19840272"
+                }, 
+                {
+                    "tag": "工资", 
+                    "tagLink": "https://api.zhihu.com/topics/19667245"
+                }, 
+                {
+                    "tag": "新劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19817719"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "无知者无畏", 
+                    "userLink": "https://www.zhihu.com/people/6ab5d4b935603964ed5b6945285f971c", 
+                    "content": "只是计发基本工资吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "yang", 
+                            "userLink": "https://www.zhihu.com/people/ed4e4ea7da31ad8f333ac731b028f210", 
+                            "content": "也就是说，女职工产假期间的工资，与正常上班的工资一样计发", 
+                            "likes": 0, 
+                            "replyToAuthor": "无知者无畏"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/71119999", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "竞业限制补偿可以在员工在职期间“预发”吗?", 
+            "content": "<p>最近在平台上收到一份关于竞业限制的咨询，“辞职了，但有竞业协议规定一年内不得从事本行相关的工作。没有竞业补偿，说在职期间已经补了竞业补偿，离职后不予补偿。 我要是从事相关工作，需要注意点什么？”</p><p>对于竞业限制，很多劳动者可能都和这位咨询者一样，只知其然，不知其所以然。甚至很多人只知道自己入职时签订过这么一份竞业协议，但对竞业限制一无所知。所以今天针对竞业限制的常见问题，我们来做一份汇总：</p><p><b>一、竞业限制补偿可以在员工在职期间“预发”吗？</b></p><p>不可以。竞业限制补偿应在劳动者离职后，竞业限制期限内按月支付。</p><p>《中华人民共和国劳动合同法》第二十三条第二款规定“对负有保密义务的劳动者，用人单位可以在劳动合同或者保密协议中与劳动者约定竞业限制条款，并约定在解除或者终止劳动合同后，在竞业限制期限内按月给予劳动者经济补偿。”</p><p>负有竞业限制义务的劳动者，他们的职场价值很大程度上建立在旧有的职业领域的经验、技术之上，离职后不能在同行业再就业，显然会影响到其自身价值的实现，在一定时期内收入可能因竞业限制而减少，并造成生活水平的相应下降。所以竞业限制补偿在劳动者离职后竞业限制期限内支付才能起到补偿的作用。</p><p><b>二、所有劳动者都要受竞业限制吗？</b></p><p>不是，竞业限制只可以适用于高级管理人员、高级技术人员和其他负有保密义务的人员。并应按时支付经济补偿。</p><p>《中华人民共和国劳动合同法》第二十四条第一款规定“竞业限制的人员限于用人单位的高级管理人员、高级技术人员和其他负有保密义务的人员。竞业限制的范围、地域、期限由用人单位与劳动者约定，竞业限制的约定不得违反法律、法规的规定。”</p><p><b>三、竞业限制可以无限期吗？</b></p><p>不可以，竞业限制期限最高不能超过2年。</p><p>《中华人民共和国劳动合同法》第二十四条第二款规定“在解除或者终止劳动合同后，前款规定的人员到与本单位生产或者经营同类产品、从事同类业务的有竞争关系的其他用人单位，或者自己开业生产或者经营同类产品、从事同类业务的竞业限制期限，不得超过二年。”</p><p><b>四、公司不支付竞业补偿，是不是可以从事相关工作？</b></p><p>并不是，用人单位超过三个月未支付竞业限制经济补偿金的,劳动者有权解除竞业限制协议,从而无需再履行竞业限制义务,自主择业。建议在离职后三个月未支付补偿时，向用人单位发出《解除函》解除竞业协议。</p><p>《最高人民法院关于审理劳动争议案件适用法律若干问题的解释(四)》第八条规定“当事人在劳动合同或者保密协议中约定了竞业限制和经济补偿，劳动合同解除或者终止后，因用人单位的原因导致三个月未支付经济补偿，劳动者请求解除竞业限制约定的，人民法院应予支持。”</p>", 
+            "topic": [
+                {
+                    "tag": "竞业限制", 
+                    "tagLink": "https://api.zhihu.com/topics/19872834"
+                }, 
+                {
+                    "tag": "竞业协议", 
+                    "tagLink": "https://api.zhihu.com/topics/19561724"
+                }, 
+                {
+                    "tag": "新劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19817719"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/71102068", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "关于享受养老保险待遇或者领取退休金人员的用工关系", 
+            "content": "<p>已经依法享受养老保险待遇的人员不能与用人单位之间形成劳动关系。</p><p>我国法定退休年龄为男性60周岁，女性50周岁。既劳动者达法定退休年龄可办理退休手续，依据其社会保险缴纳情况享受养老保险金待遇或领取退休金。但实践中部分劳动者已享受养老保险待遇或领取退休金仍继续工作，依据我国现行劳动法律规定，劳动者开始依法享受基本养老保险待遇或领取养老金的，劳动合同终止，此后其返聘至原单位或者到新单位继续工作的，不再作为劳动关系处理而是按劳务关系处理。</p><p>依据《劳动合同法》第44条的规定，劳动者开始依法享受基本养老保险待遇的，劳动合同终止。依据《劳动争议司法解释（三）》第7条的规定，用人单位与其招用的已经依法享受养老保险待遇或领取退休金的人员发生用工争议，人民法院应当按劳务关系处理。即依据上述规定，劳动者在已经依法享受基本养老保险待遇或已经领取退休金的情形下，继续在原单位工作或进入新单位工作的，其与单位之间建立的不再是劳动关系，而系平等主体之间的劳务合同关系。在此情形下，劳动者的工作内容、报酬、工作时间、医疗、劳动保障、解除合同补偿等不再使用劳动法律的规定，而均需由双方之间协商确定。</p><p><b>本文需要指出的是，因多种因素影响，实践中存在部分劳动者已经超过退休年龄但未能享受基本养老待遇或领取退休金，仍继续工资的情形。依法享有养老保险待遇或领取退休金的人员再从事劳动的情况在现实中非常普遍。</b></p><p>对已达退休年龄亦依法享有养老保险待遇或领取退休金的人员其再从事劳动问题，我国相关法律并没有作出限制性规定。关于这类人员的劳动能力问题，在各国劳动法中，均未有明确规定。而只是规定了退休年龄。但退休年龄并不能认为是推定劳动行为能力完全丧失的年龄。按照我国现行劳动法规的规定，达到退休年龄的公民，仍允许其从事不妨碍自身人身健康的劳动。</p><p>依法限购养老保险待遇或领取退休金的人员再就业的应按劳动关系认定还是按劳务关系认定，实践中还是有争议的。</p><p>在我国，虽然一直沿用相关法规关于退休年龄的规定，但实践中，确实存在劳动者达到了法定退休年龄而不能享受基本养老保险待遇情况。一般来说，享受基本养老保险的基本上已经达到法定退休年龄，但是达到法定退休年龄的不一定能够享有养老保险待遇。已经达退休年龄但未办理退休手续人员与用人单位用工关系性质仍然应为劳动关系。根据相关法律规定，劳动者在达到法定退休年龄时，依法享有养老保险待遇或退休金的权利，用人单位和国家应为其提供合作保障。但用人单位没有按规定为劳动者办理退休手续，劳动者的生活无法得到保障时。用人单位继续聘用这些人员，如果认为他们之间的用工关系为劳务关系，由于实践中双方很少续签聘用协议，明确告知内容，报酬，医疗，劳动保护待遇等权利、义务关系，用人单位就可以随时终止用工关系，这些人员的权益就无法得到保障。只有将他们之间的用工关系按照劳动关系处理。才符合劳动法的立法目的和客观事实。</p><p>《劳动合同法实施条例》第21条规定：“<b>劳动者达到法定退休年龄的，劳动合同终止。</b>”虽然《劳动合同法实施条例》赋予了用人单位在劳动者已达到法定退休年龄时享有对劳动关系的终止权，但该终止权的行使，并不以为意味着用人单位与已达到法定退休年龄的员工形成的劳动关系，在劳动者已达到法定退休年龄时就自动终止。因为法律关系并没有规定劳动关系中劳动者一方的年龄不得高于法定退休年龄，只要未违反法律禁止性规定的有劳动能力的人员，均能成为劳动关系中的劳动者。因此，如双方对此发生争议，应是劳动争议纠纷，仍属于劳动法调整的范围。</p>", 
+            "topic": [
+                {
+                    "tag": "养老保险", 
+                    "tagLink": "https://api.zhihu.com/topics/19589225"
+                }, 
+                {
+                    "tag": "养老金", 
+                    "tagLink": "https://api.zhihu.com/topics/19902281"
+                }, 
+                {
+                    "tag": "养老基金", 
+                    "tagLink": "https://api.zhihu.com/topics/19668957"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/70702054", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "社保中的“五险一金”具体是指什么？", 
+            "content": "<p><b>何为五险？</b></p><p>1、养老保险：是为保障劳动者因年老丧失劳动能力，退出劳动岗位后的基本生活需要而设立的保险。主要内容有：离休、退休条件；离休、退休后的待遇；死亡后的丧葬费、补助费、抚恤费、供养直系亲属救济费等。</p><p>2、失业保险：是为保障劳动者在失业后寻找工作期间基本生活需要而设立的保险。主要内容有失业救济金、生活补助费、失业期间医疗费等。享受的条件：必须是非自愿性失业。</p><p>3、医疗保险：是为保障劳动者在患病或非因工负伤期间暂时或长期丧失劳动能力时的基本生活需要而设立的保险。主要内容有：病假及病假期间的工资待遇、医疗费用、住院费用、药费、供养直系亲属的医药费等</p><p>4、工伤保险：是为保障劳动者在身体受伤以及因病或因伤而致残废，暂时或永久丧失劳动能力时的基本生活需要而设立的保险。它一般分因工伤残和职业病两种。内容包括因伤残而退休、退职的处理方法，因工残废抚养费，因工残废补助费和工作照顾等。</p><p>根据《劳动保险条例》规定，我国工人和职员因工负伤，其全部诊疗费、药费、住院费和就医路费均由企业行政负担。医疗期间工资照发。确定为残废，则按残废等级由劳动保险基金项下，按月付给因工残废抚恤费或因工残废补助费。</p><p>5、生育保险：是为保障妇女劳动者在生育期间暂时丧失劳动能力时的基本生活需要而设立的保险。内容包括产假、产假期间工资待遇，生育医疗费用等。</p><p><b>何为住房公积金？</b></p><p>住房公积金是指国家机关、国有企业、城镇集体企业、外商投资企业、城镇私营企业及其他城镇企业、事业单位、民办非企业单位、社会团体及其在职职工缴存的长期住房储金。</p><p>住房公积金的这一定义包含以下五个方面的涵义：</p><p>（1）住房公积金只在城镇建立，农村不建立住房公积金制度。</p><p>（2）只有在职职工才建立住房公积金制度。无工作的城镇居民不实行住房公积金制度，离退休职工也不实行住房公积金制度。</p><p>（3）住房公积金由两部分组成，一部分由职工所在单位缴存，另一部分由职工个人缴存，职工个人缴存部分由单位代扣后，连同单位缴存部分一并缴存到住房公积金个人帐户内。</p><p>（4）住房公积金缴存的长期性。住房公积金制度一经建立，职工在职期间必须不间断地按规定缴存，除职工离退休或发生《住房公积金管理条例》规定的其他情形外，不得中止和中断。体现了住房公积金的稳定性、统一性、规范性和强制性。</p><p>（5）住房公积金是职工按规定存储起来的专项用于住房消费支出的个人住房储金，具有两个特征：一是积累性，即住房公积金虽然是职工工资的组成部分，但不以现金形式发放，并且必须存入住房公积金管理中心在受委托银行开设的专户内，实行专户管理。二是专用性。住房公积金实行专款专用，存储期间只能按规定用于购、建、大修自住住房，或交纳房租。职工只有在离退休、死亡、完全丧失劳动能力并与单位终止劳动关系或户口迁出原居住城市时，才可提取本人帐户内的住房公积金。</p>", 
+            "topic": [
+                {
+                    "tag": "社保基金", 
+                    "tagLink": "https://api.zhihu.com/topics/19668796"
+                }, 
+                {
+                    "tag": "五险一金", 
+                    "tagLink": "https://api.zhihu.com/topics/19605859"
+                }, 
+                {
+                    "tag": "保险，五险，生育险", 
+                    "tagLink": "https://api.zhihu.com/topics/20086349"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/70701342", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "用人单位如何把握辞退员工的尺度？", 
+            "content": "<p>随着人们生活水平的提高，全国在职人员平均工资可以说，也是一路水涨船高。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>工资与什么挂钩？让我们来看一下规定：</b></p><p>《劳动合同法》第四十七条规定，经济补偿按劳动者在本单位工作的年限，每满一年支付一个月工资的标准向劳动者支付。</p><p>第八十七条规定，用人单位违反本法规定解除或者终止劳动合同的，应当依照本法第四十七条规定的经济补偿标准的二倍向劳动者支付赔偿金。</p><p><b>由此可见，劳动者的工资，决定着用人单位支付给员工的经济补偿金和赔偿金的多少。</b></p><p>通过近几年我们所掌握的劳动争议案件的特征看，争议标的越来越大，数量也是越来越多。这对做为用人单位的公司运营来讲，风险也是越来越大。甚至有些小型企业，因一个员工索赔而面临灭顶之灾。用工风险的防范，在企业运营中显得越来越重要。那么，防范用工风险的最重要的环节，即是把握辞退员工的尺度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如何把握辞退员工的尺度？</b></p><p>辞退员工，在法律的专用术语上叫做用人单位单方解除劳动合同。</p><p>《劳动合同法》为保障单位的用工自主权，赋予了用人单位单方解除劳动合同的权利；但为均衡员工利益、防止用人单位滥用劳动合同解除权，又对用人单位单方解除劳动合同给予了严格的限制。那么，我们来看看，《劳动合同法》是如何规定用人单位单方解除劳动合同权益的？</p><p><b>《劳动合同法》第三十九条规定，</b>劳动者有下列情形之一的，用人单位可以解除劳动合同：</p><p>（一）在试用期间被证明不符合录用条件的；</p><p>（二）严重违反用人单位的规章制度的；</p><p>（三）严重失职，营私舞弊，给用人单位造成重大损害的；</p><p>（四）劳动者同时与其他用人单位建立劳动关系，对完成本单位的工作任务造成严重影响，或者经用人单位提出，拒不改正的；</p><p>（五）因本法第二十六条第一款第一项规定的情形致使劳动合同无效的；</p><p>（六）被依法追究刑事责任的。</p><p>当员工符合上述几个条件是，单位享有绝对的合同解除权。单位解除合同、辞退员工，是无需向员工支付任何补偿或赔偿的。</p><p>但上述条文中，有诸多的问题不好把握，比方说，如何证明员工不符合录用条件？严重违反规章制度又如何把握？怎么说明员工严重失职？如何说明员工营私舞弊？</p><p>看似简单的几个条文，却又不太好掌握，更不好认定。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>那么，如何把握这几个条文？又如何把握辞退员工的尺度？</b></p><p>我们认为，单位应健全单位规章制度将合同解除权明确地、详细地列于您单位的规章制度中。同时，把握制度制订三原则，即合法、民主、公示。做到这三点，用人单位才能更好地运用用工自主权，才能无风险地辞退员工。</p>", 
+            "topic": [
+                {
+                    "tag": "劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553426"
+                }, 
+                {
+                    "tag": "新劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19817719"
+                }, 
+                {
+                    "tag": "辞退", 
+                    "tagLink": "https://api.zhihu.com/topics/19762083"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/70453093", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "用人单位倒闭，所欠工资如何追索？", 
+            "content": "<p>在现实中，有很多企业黑心老板为逃废债务，采取人去楼空的方式，或以股权转让形式卖掉公司、注销公司、破产等方式将自己脱离出来；甚而一些老板在设立公司时就谋划借用他人名义，最终使自己避开责任；使得员工在取得仲裁裁决或法院判决胜诉后，难以追索应得工资、经济补偿或赔偿金。</p><p>用人单位这种逃废债务的方式，在现行法律制度下并非能够成功，只是给员工追索工资等损失造成一定的障碍，作为权益受害人的员工不要因此而气馁，放弃自己的权益。</p><p>大家知道，无论仲裁裁决或是法院判决这些生效法律文书，都是由法院以国家强制力来执行的，国家这几年在执行力度上给予加强，确保生效法律文书不成为法律白条。律师今天在此告诉诸位在执行中遇有上述情况后，如何操作，以实现追索目的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0da1528f1704c39960061781e03d789f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-0da1528f1704c39960061781e03d789f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-0da1528f1704c39960061781e03d789f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0da1528f1704c39960061781e03d789f_b.jpg\"/></figure><p><b>一、单位人去楼空，找不到人，单位没有财产可供执行，怎么办？</b></p><p><b>首先，</b></p><p>要积极协助法院追寻单位法定代表人的行踪，为法院采取下一步执行措施执行奠定基础。</p><p><b>其次，</b></p><p>委托律师财产调查或要求法院通过内部网络查控系统或其他方式追寻被执行人财产，穷尽所有调查措施，通过网络查控系统或进行查账方式对单位银行存款、房地产登记、股权和车辆，以及资金往来等进行查询，获得可供执行的财产线索；并以此获得股东抽逃资金，转移财产的线索，来取得追加被执行人的可能性。</p><p><b>再则，</b></p><p>查询股东或关联公司是否具有财产混同问题，可以据此追加或变更被执行人。</p><p><b>第四，</b></p><p>要求将单位法定代表人纳入失信名单，同时发布限制高消费令。</p><p><b>第五，</b></p><p>通过工商登记查询单位股东是否未履行或未全部履行出资义务，要求追加股东为被执行人，在未缴纳出资范围内对单位债务不能清偿部分，承担补充赔偿责任。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-58a9ec48028cf2e5a7219c18cf534755_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic2.zhimg.com/v2-58a9ec48028cf2e5a7219c18cf534755_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic2.zhimg.com/v2-58a9ec48028cf2e5a7219c18cf534755_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-58a9ec48028cf2e5a7219c18cf534755_b.jpg\"/></figure><p><b>二、老板把公司、企业卖掉，怎么办？</b></p><p>老板以股权转让等方式把公司企业卖掉，会让人认为新老板与所欠工资等损失没有关系；仲裁裁决或判决书确定的给付义务人不是老板个人。使权益受害员工无所适从。</p><p>根据民法总则、公司法的规定，公司、企业作为营利性法人组织，无论股东、法定代表人的变更，均不影响其法人组织的法律责任承担。员工与用人单位的劳动争议是由法人组织承担责任的。无论老板出卖公司企业或转让股权时，是否约定或如何约定所欠员工工资责任承担问题，不影响员工的权利，员工仍应向单位主张权利。</p><p><b>三、公司、企业营业执照被注销，怎么办？</b></p><p>依照法律规定公司、企业在注销时应当进行清算，在支付债务或对债务承担有股东明确承担责任时，才给予注销登记。如公司已注销登记，可查询工商登记档案中清算报告中债务承担约定或承诺书，确定可替代的被执行主体。</p><p>最高人民法院《关于适用〈公司法〉若干问题的规定(二)》第二十条第二款规定，公司未经依法清算即办理注销登记的情况下，股东或第三人在公司登记机关办理注销登记时承诺对公司债务承担责任的，若债权人主张其对公司债务承担民事责任，人民法院应当依法予以支持。</p><p><b>四、公司、企业破产，怎么办？</b></p><p>公司企业进入破产程序，员工无须以申报债权方式参与破产财产分割，职工工资不属于债权，工资优于债权先予以支付的。</p><p>破产法规定，以破产财产优先支付破产人所欠职工的工资和医疗、伤残补助、抚恤费用，所欠的应当划入职工个人账户的基本养老保险、基本医疗保险费用，以及法律、行政法规规定应当支付给职工的补偿金。</p><p><b>五、公司、企业是借名设立，怎么办？</b></p><p>以虚假借名设立公司逃废债务，并无法逃避股东法律责任。实际出资人仍应在未缴出资范围内对公司债务承担连带责任。在法院查明名义股东并非实际出资人，也未参与公司治理，而是被冒名设立公司，不应承担法律责任时。就要查清公司实际出资人及实际控制人为谁。作为公司企业员工，一般是知道谁是公司实际股东或实际控制人的，也可通过公司资金往来查找实际股东或实际控制人，将其追加为被执行人。</p>", 
+            "topic": [
+                {
+                    "tag": "拖欠工资", 
+                    "tagLink": "https://api.zhihu.com/topics/19592658"
+                }, 
+                {
+                    "tag": "劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553426"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/70449103", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "“五险一金”具体是指什么？", 
+            "content": "<p><b>何为五险？</b></p><p>1、养老保险：</p><p>是为保障劳动者因年老丧失劳动能力，退出劳动岗位后的基本生活需要而设立的保险。主要内容有：离休、退休条件；离休、退休后的待遇；死亡后的丧葬费、补助费、抚恤费、供养直系亲属救济费等。</p><p>2、失业保险：</p><p>是为保障劳动者在失业后寻找工作期间基本生活需要而设立的保险。主要内容有失业救济金、生活补助费、失业期间医疗费等。享受的条件：必须是非自愿性失业。</p><p>3、医疗保险：</p><p>是为保障劳动者在患病或非因工负伤期间暂时或长期丧失劳动能力时的基本生活需要而设立的保险。主要内容有：病假及病假期间的工资待遇、医疗费用、住院费用、药费、供养直系亲属的医药费等</p><p>4、工伤保险：</p><p>是为保障劳动者在身体受伤以及因病或因伤而致残废，暂时或永久丧失劳动能力时的基本生活需要而设立的保险。它一般分因工伤残和职业病两种。内容包括因伤残而退休、退职的处理方法，因工残废抚养费，因工残废补助费和工作照顾等。</p><p>根据《劳动保险条例》规定，我国工人和职员因工负伤，其全部诊疗费、药费、住院费和就医路费均由企业行政负担。医疗期间工资照发。确定为残废，则按残废等级由劳动保险基金项下，按月付给因工残废抚恤费或因工残废补助费。</p><p>5、生育保险：</p><p>是为保障妇女劳动者在生育期间暂时丧失劳动能力时的基本生活需要而设立的保险。内容包括产假、产假期间工资待遇，生育医疗费用等。</p><p><b>何为住房公积金？</b></p><p>住房公积金是指国家机关、国有企业、城镇集体企业、外商投资企业、城镇私营企业及其他城镇企业、事业单位、民办非企业单位、社会团体及其在职职工缴存的长期住房储金。</p><p>住房公积金的这一定义包含以下五个方面的涵义：</p><p>（1）住房公积金只在城镇建立，农村不建立住房公积金制度。</p><p>（2）只有在职职工才建立住房公积金制度。无工作的城镇居民不实行住房公积金制度，离退休职工也不实行住房公积金制度。</p><p>（3）住房公积金由两部分组成，一部分由职工所在单位缴存，另一部分由职工个人缴存，职工个人缴存部分由单位代扣后，连同单位缴存部分一并缴存到住房公积金个人帐户内。</p><p>（4）住房公积金缴存的长期性。住房公积金制度一经建立，职工在职期间必须不间断地按规定缴存，除职工离退休或发生《住房公积金管理条例》规定的其他情形外，不得中止和中断。体现了住房公积金的稳定性、统一性、规范性和强制性。</p><p>（5）住房公积金是职工按规定存储起来的专项用于住房消费支出的个人住房储金，具有两个特征：一是积累性，即住房公积金虽然是职工工资的组成部分，但不以现金形式发放，并且必须存入住房公积金管理中心在受委托银行开设的专户内，实行专户管理。二是专用性。住房公积金实行专款专用，存储期间只能按规定用于购、建、大修自住住房，或交纳房租。职工只有在离退休、死亡、完全丧失劳动能力并与单位终止劳动关系或户口迁出原居住城市时，才可提取本人帐户内的住房公积金。</p>", 
+            "topic": [
+                {
+                    "tag": "五险一金", 
+                    "tagLink": "https://api.zhihu.com/topics/19605859"
+                }, 
+                {
+                    "tag": "社保基金", 
+                    "tagLink": "https://api.zhihu.com/topics/19668796"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/69091216", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 2, 
+            "title": "劳动法中关于加班的规定都有哪些？", 
+            "content": "<p>工作时间是由法律规定的，从事或完成用人单位工作任务的时间。我国实行的标准工时制度为劳动者每日工作时间不超过八小时、平均每周工作时间不超过四十四小时，保证劳动者每周至少休息一日。另，法律规定了法定节假日、年休假、婚假、产假等休假制度，使劳动者的休息权得到充分有效的保障。然而，现实中，很多企业普遍存在安排劳动者加班的情况。对于加班劳动者是否可以拒绝，加班工资如何计算的相关问题，作出如下分析。</p><p><b>一、与工会和劳动者协商同意后，企业才可以安排加班</b></p><p> 《劳动法》第41条规定：“用人单位由于生产经营需要，经与工会和劳动者协商后可以延长工作时间，一般每日不得超过一小时；因特殊原因需要延长工作时间的，在保障劳动者身体健康的条件下延长工作时间每日不得超过三小时，但是每月不得超过三十六小时。”</p><p>劳动者的休息权是法定的权利，加班需要占用劳动者的休息时间，只有在劳动者自愿的情况下才可以安排加班，不能强迫劳动者加班。如果企业以不加班为由辞退劳动者的，亦属于违法解除劳动合同。</p><p>但在出现紧急事件，危害公共安全和公众利益的情况下，法律允许企业延长劳动者工作时间。</p><p><b>二、关于加班工资</b></p><p>加班使劳动者动者在休息时间付出了更多的劳动，加班费是高于工资的一种补偿。</p><p>《劳动法》第44条规定：有下列情形之一的，用人单位应当按照下列标准支付高于劳动者正常工作时间工资的工资报酬：</p><p>（一）安排劳动者延长工作时间的，支付不低于工资的百分之一百五十的工资报酬；</p><p>（二）休息日安排劳动者工作又不能安排补休的，支付不低于工资的百分之二百的工资报酬；</p><p>（三）法定休假日安排劳动者工作的，支付不低于工资的百分之三百的工资报酬。</p><p><b>三、关于加班的举证责任</b></p><p>劳动者主张加班的，应当对加班事实承担举证责任。但劳动者有证据证明用人单位掌握加班事实存在的证据，用人单位不提供的，由用人单位承担不利后果。</p><p>那么，劳动者应保存好加班的相关证据，如加班通知、加班审批手续、加班工作记录、加班的考勤等。</p><p>综上，劳动者对加班有选择权，通过法律来保护加班利益。</p>", 
+            "topic": [
+                {
+                    "tag": "劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553426"
+                }, 
+                {
+                    "tag": "加班", 
+                    "tagLink": "https://api.zhihu.com/topics/19558877"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "孤独", 
+                    "userLink": "https://www.zhihu.com/people/eae93f1a6f1f44c292df342229210026", 
+                    "content": "为何法律有这种明文规定，现在还是如此明目张胆违反法律", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "孤独", 
+                    "userLink": "https://www.zhihu.com/people/eae93f1a6f1f44c292df342229210026", 
+                    "content": "现在工地干活的农民工干活，就是与法律规定时间相反", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68862919", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 3, 
+            "title": "劳动法关于试用期的规定", 
+            "content": "<p>小王毕业后，就职于一家网络公司，入职与公司签订了三年期的劳动合同，约定了6个月的试用期，并约定试用期工资为转正工资的80%，转正之后开始缴纳社会保险。公司就业前景良好，小王很满意。但工作三个月之后，在一次同学聚会上，同期毕业工作的同学们纷纷表示都已转正，他们有约定三个月试用期的，有约定一个月试用期的，还有没有约定试用期的，只有小王约定了6个月试用期，目前仍在使用期间。小王为此感到很困惑，为什么自己的试用期这么长呢，是不是公司违法跟小王约定了试用期呢？</p><p>我们来看一看，我国劳动法律法规关于试用期是如何规定的：</p><p>1、关于试用期时间</p><p>《劳动合同法》</p><p>第十九条 劳动合同期限三个月以上不满一年的，试用期不得超过一个月；劳动合同期限一年以上不满三年的，试用期不得超过二个月；三年以上固定期限和无固定期限的劳动合同，试用期不得超过六个月。</p><p>同一用人单位与同一劳动者只能约定一次试用期。</p><p>以完成一定工作任务为期限的劳动合同或者劳动合同期限不满三个月的，不得约定试用期。</p><p>试用期包含在劳动合同期限内。劳动合同仅约定试用期的，试用期不成立，该期限为劳动合同期限。</p><p>《劳动法》</p><p>第二十一条　劳动合同可以约定<a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E8%25AF%2595%25E7%2594%25A8%25E6%259C%259F\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">试用期</a>。试用期最长不得超过六个月。</p><p>2、关于试用期工资</p><p>《劳动合同法》</p><p>第二十条　劳动者在试用期的工资不得低于本单位相同岗位最低档工资或者劳动合同约定工资的百分之八十，并不得低于用人单位所在地的最低工资标准。</p><p>《劳动法》</p><p>第四十八条　国家实行<a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E6%259C%2580%25E4%25BD%258E%25E5%25B7%25A5%25E8%25B5%2584%25E4%25BF%259D%25E9%259A%259C%25E5%2588%25B6%25E5%25BA%25A6\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">最低工资保障制度</a>。最低工资的具体标准由省、自治区、直辖市人民政府规定，报国务院备案。</p><p>用人单位支付劳动者的工资不得低于当地最低工资标准。</p><p>3、关于社会保险</p><p>《劳动合同法》</p><p>第十九条</p><p>试用期包含在劳动合同期限内。劳动合同仅约定试用期的，试用期不成立，该期限为劳动合同期限。</p><p>《劳动法》</p><p>第七十二条　社会保险基金按照保险类型确定资金来源，逐步实行社会统筹。用人单位和劳动者必须依法参加社会保险，缴纳<a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E7%25A4%25BE%25E4%25BC%259A%25E4%25BF%259D%25E9%2599%25A9%25E8%25B4%25B9\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">社会保险费</a>。</p><p>从以上规定可知，公司与小王签订三年劳动合同，约定6个月的试用期并不违法，同时约定试用期工资为转正工资的80%，只要不低于当地最低工资标准，也是合法的。但是公司与小王约定转正之后才上社保是违法的，根据法律规定，试用期包含在劳动合同期限内，缴纳社会保险是用人单位和劳动者的法定义务，用人单位从员工入职当月即应为劳动者依法缴纳社会保险。小王可以要求用人单位为其补缴社会保险，必要时，还可以向当地社会保险机构进行举报。</p>", 
+            "topic": [
+                {
+                    "tag": "劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553426"
+                }, 
+                {
+                    "tag": "试用期", 
+                    "tagLink": "https://api.zhihu.com/topics/19624570"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68674278", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "当老板，要懂得试用期也得规范！", 
+            "content": "<p>企业用工从招聘、试用、到正式录用，每个环节均有其特殊的意义，企业领导往往重视招聘和正式录用环节，而对试用期用工忽略用工规范的重要性，不签订劳动合同或签订试用期合同；无视法律规定，约定较长试用期，给付工资报酬低，不办理社保登记，随意辞退，酿成较多的用工争议，引发仲裁诉讼，给企业造成无妄的用工成本和诉讼风险。在此，律师对企业试用期用工的规范进行普法宣传，以提示企业负责人和人力资源部门规范用工，降低用工不规范引发的法律风险。</p><p><b>一、试用期用工必须签订劳动合同</b></p><p>《劳动法》规定，建立劳动关系应当订立劳动合同。《劳动合同法》规定，用人单位自用工之日起即与劳动者建立劳动关系。建立劳动关系，应当订立书面劳动合同。已建立劳动关系，未同时订立书面劳动合同的，应当自用工之日起一个月内订立书面劳动合同。</p><p>试用期用工也属于用人单位与劳动者之间建立了劳动关系，试用期只是用人单位和劳动者劳动关系的一种表现形式，应当签订书面劳动合同。《劳动合同法》规定，用人单位自用工之日起超过一个月不满一年未与劳动者订立书面劳动合同的，应当向劳动者每月支付二倍的工资。</p><p>《劳动合同法》规定，用人单位可以与劳动者在劳动合同中约定试用期，试用期应在劳动合同中约定。因不同的劳动用工期限所规定的试用期限不同，因此，仅签订试用期合同是不符合法律规定的。《劳动合同法》规定，试用期包含在劳动合同期限内。劳动合同仅约定试用期的，试用期不成立，该期限为劳动合同期限。</p><p>劳动合同是劳动者与用人单位确立劳动关系，明确双方的权利和义务的协议，具有法律约束力。签订劳动合同对用人单位和劳动者都很重要，在发生劳动争议时，劳动合同的约定明确规范，有利于维护劳动者和用人单位双方的合法权益。</p><p><b>二、试用期间约定必须合规</b></p><p>《劳动法》规定，劳动合同可以约定试用期。试用期最长不得超过六个月。《劳动合同法》规定，劳动合同期限三个月以上不满一年的，试用期不得超过一个月；劳动合同期限一年以上不满三年的，试用期不得超过二个月；三年以上固定期限和无固定期限的劳动合同，试用期不得超过六个月。同一用人单位与同一劳动者只能约定一次试用期。以完成一定工作任务为期限的劳动合同或者劳动合同期限不满三个月的，不得约定试用期。</p><p>劳动合同中约定试用期应当按照上述规定执行，在现实中，有的企业与劳动者签订一年劳动合同却约定三个月试用期，在劳动者为谋取工作的心理需求下，暂时不会提出异议，但双方一旦发生用工争议，企业的法律风险就会出现，将承担不可挽回的损失。</p><p><b>三、试用期工资报酬的确定应合规</b></p><p>《劳动合同法》规定，劳动者在试用期的工资不得低于本单位相同岗位最低档工资或者劳动合同约定工资的百分之八十，并不得低于用人单位所在地的最低工资标准。</p><p>《劳动法》规定，无故拖欠、克扣劳动者工资，低于当地最低工资标准支付劳动者工资的，要承担支付责任，并应支付赔偿金。</p><p><b>四、试用期也应当为职工办理社保登记，缴纳社保</b></p><p>《社会保险法》规定，用人单位的社会保险登记事项发生变更或者用人单位依法终止的，应当自变更或者终止之日起三十日内，到社会保险经办机构办理变更或者注销社会保险登记。用人单位与劳动者建立劳动关系30日内，用人单位就应当为劳动者办理社保登记，缴纳社会保险，试用期自然也不应被排除在外。</p><p>社会保险是劳动合同的必备条款，用人单位为劳动者缴纳社会保险是《社会保险法》《劳动法》规定的法定义务。用人单位在试用期拒绝为劳动者办理社会保险的，劳动者可以向劳动和社会保障部门投诉。造成劳动者损失的，用人单位应当承担赔偿责任，根据《劳动合同法》第三十八条、第四十六条的规定，用人单位未依法为劳动者缴纳社会保险费的，劳动者有权解除劳动合同，用人单位还需向劳动者支付经济补偿金。</p><p><b>五、试用期间辞退员工应规范操作</b></p><p>《劳动合同法》第三十九条规定，劳动者在试用期间被证明不符合录用条件的，用人单位可以解除劳动合同。“不符合录用条件”这句话看起来很简单，但在实际操作中，因《劳动法》《劳动合同法》为保障作为弱势地位的劳动者，为用人单位行使合同解除权设置了较多障碍，以及《劳动争议调解仲裁法》《民事诉讼法》为用人单位设定了严格的举证责任，用人单位在实务操作中的不严谨，不规范等原因，导致用人单位和劳动者在出现用工争议后，诉诸法律解决时，用人单位败诉率很高。在此提示用人单位在招聘、辞退员工时，应规范操作，以规避用工争议法律风险。</p><p>1、招聘时应明确录取条件，制定具体、合理、可量化、实用性强，完善可行的考核制度，将考核程序标准化、考核过程纸质化、考核标准明确化。不能将法律禁止的内容写进录用条件中。</p><p>2、录用条件需事先公示或告知。招聘时对录取条件、考核制度出示告知，并要求员工签字确认。如将招聘录取条件、考核制度印制在《员工招聘登记表》背面，供应聘人员填写和阅读，要求其签名表示已经知晓。</p><p>3、在劳动合同中明确约定录用条件或不符合录用条件的情形，或者另行签订《岗位责任说明》。</p><p>4、企业规章制度中对不符合录用条件的解除劳动合同具体情形或条件进行详细约定，并将该规章制度在劳动合同签订前进行公示，要求劳动者签字确认。</p><p>5、用人单位在考核中对考核时间、考核部门、考核流程、考核方法要有明确清晰的记载，做到书面告知劳动者并要求确认签字。考核完毕后，一定要保存书面的考核意见，留存有不符合录用条件的证据。</p><p>6、对不符合录用条件的劳动者，用人单位解除劳动合同必须在试用期内提出。</p><p>7、用人单位解除劳动合同必须要通知到劳动者，并留存通知证据。</p><p>《劳动合同法》规定，用人单位在试用期解除劳动合同的，应当向劳动者说明理由。要求用人单位必须将劳动者不符合录用条件事由，用人单位以此理由解除劳动合同的结果告知劳动者。</p><p>上述几点强调的是一定要做好各个关键环节的证据固定。用人单位和劳动者在出现用工争议时，有一个严格的证据证明过程。需要强调的是证据的取得和固定是离不开企业完善和严格贯彻考核制度，招聘、考核、辞退均要规范操作，循章尊矩，依法依规用工，依法行使劳动合同解除权，才能真正规避用工法律风险。</p>", 
+            "topic": [
+                {
+                    "tag": "试用期", 
+                    "tagLink": "https://api.zhihu.com/topics/19624570"
+                }, 
+                {
+                    "tag": "劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553426"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68525164", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "企业与员工不能只签试用期合同！", 
+            "content": "<p>劳动合同如何签？</p><p>法律有一定的限制性规定，从实务上也有一定的窍门。</p><p>很多企业在员工入职后，先与员工签署一份试用期合同，约定1-6个月的试用期；并约定，经考核符合录用条件的，签署劳动合同。</p><p>这个办法是否可行，先不说，就法律规定，就存在不可突破的障碍。</p><p>劳动合同法第19条规定，试用期包含在劳动合同期限内。劳动合同仅约定试用期的，试用期不成立，该期限为劳动合同期限。</p><p>从劳动合同法第19条的规定，你是不是已经恍然大悟？额，是这样的！</p><p>对！当企业与员工单独签署了一份试用期合同的话，企业已经自己跳到了坑里！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Why?</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1.因为，你与员工签署的已经不是试用期合同，而是一份有期限的劳动合同。合同的期限就是你们签署的试用期合同的期限。</p><p>2.签署了这份协议，也就意味着，员工没有试用期，你不仅要按试用期满后的工资标准，向员工支付工资；而且，员工已经直接入职，不管员工是否符合录用条件，你都得收着。</p><p>3.如果你与员工签署的试用期合同到期后，你就只有一次与该员工签署固定期合同的机会了。因为你已经在不知不觉中用了一次。</p><p>所以，看这篇文章的读者，通过本文章应该明白：</p><p>如果你是用人单位，你给员工签署了一份独立的试用期合同，你已经跳到坑里了，应及时想办法化解用工风险。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果你是企业员工，当企业与你签署了一份独立的试用期合同的话，你应窃喜，自己已经是正式员工，单位放弃对你进行考核了。</p>", 
+            "topic": [
+                {
+                    "tag": "劳动合同", 
+                    "tagLink": "https://api.zhihu.com/topics/19561725"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68479648", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 1, 
+            "title": "若公司终止合同，该怎样支付经济赔偿金？", 
+            "content": "<p>根据《劳动合同法》规定：</p><p>用人单位违反规定解除或者终止劳动合同的，应当依照规定的经济补偿标准的二倍向劳动者支付赔偿金。</p><p><b>『 第四十七条经济补偿按劳动者在本单位工作的年限，每满一年支付一个月工资的标准向劳动者支付。六个月以上不满一年的，按一年计算;不满六个月的，向劳动者支付半个月工资的经济补偿。』</b><br/></p><p><b>用人单位只有在法定情形下，才能与劳动者解除劳动合同：</b></p><p><b>1、与劳动者协商解除；</b></p><p>即：“用人单位与劳动者协商一致，可以解除劳动合同。”此种情形下解除劳动合同，用人单位仍应依照规定向劳动者支付经济补偿金。</p><p><b>2、劳动者有过错解除；</b></p><p>“劳动者有下列情形之一的，用人单位可以解除劳动合同：</p><p>1）、在试用期间被证明不符合录用条件的;</p><p>2）、严重违反用人单位的规章制度的;</p><p>3）、严重失职，营私舞弊，给用人单位造成重大损害的;</p><p>4）、劳动者同时与其他用人单位建立劳动关系，对完成本单位的工作任务造成严重影响，或者经用人单位提出，拒不改正的;</p><p>5）、因本法第二十六条第一款第一项规定的情形致使劳动合同无效的;</p><p>6）、被依法追究刑事责任的。</p><p><b>依照本条规定解除劳动合同的，用人单位无须支付劳动者经济补偿金，劳动者如果给用人单位造成经济损失的，还应承担相应的赔偿金。</b></p><p><b>3、无过错解除；</b></p><p>“有下列情形之一的，用人单位提前三十日以书面形式通知劳动者本人或者额外支付劳动者一个月工资后，可以解除劳动合同：</p><p>1）、劳动者患病或者非因工负伤，在规定的医疗期满后不能从事原工作，也不能从事由用人单位另行安排的工作的;</p><p>2）、劳动者不能胜任工作，经过培训或者调整工作岗位，仍不能胜任工作的;</p><p>3）、劳动合同订立时所依据的客观情况发生重大变化，致使劳动合同无法履行，经用人单位与劳动者协商，未能就变更劳动合同内容达成协议的。</p><p><b>此种情形下解除劳动合同，用人单位仍应依照规定向劳动者支付经济补偿金。</b></p><p><b>4、另有一种情况，就是经济性裁员。</b></p><p>“有下列情形之一，需要裁减人员二十人以上或者裁减不足二十人但占企业职工总数百分之十以上的，用人单位提前三十日向工会或者全体职工说明情况，听取工会或者职工的意见后，裁减人员方案经向劳动行政部门报告，可以裁减人员：</p><p>1）、依照企业破产法规定进行重整的;</p><p>2）、生产经营发生严重困难的;</p><p>3）、企业转产、重大技术革新或者经营方式调整，经变更劳动合同后，仍需裁减人员的;</p><p>4）、其他因劳动合同订立时所依据的客观经济情况发生重大变化，致使劳动合同无法履行的。</p><p>适用经济性裁员时应优先留用的人员与本单位订立较长期限的固定期限劳动合同的;与本单位订立无固定期限劳动合同的;家庭无其他就业人员，有需要扶养的老人或者未成年人的。裁员后重新招录的限制用人单位依法裁减人员时，在6个月内重新招用人员的，应当通知被裁减的人员，并在同等条件下优先招用被裁减的人员。</p><p><b>此种情形下解除劳动合同，用人单位仍应依照规定向劳动者支付经济补偿金。</b></p><p><b>除以上四种情况之外，用人单位在劳动合同期内任何单方解除劳动合同的行为，均为违法行为，均应当依照规定的经济补偿标准的二倍向劳动者支付赔偿金。</b></p>", 
+            "topic": [
+                {
+                    "tag": "劳动合同", 
+                    "tagLink": "https://api.zhihu.com/topics/19561725"
+                }, 
+                {
+                    "tag": "赔偿", 
+                    "tagLink": "https://api.zhihu.com/topics/19584997"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68280801", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "女职工产假如何休？生育津贴与产假工资是什么关系？", 
+            "content": "<p>女职工“三期”是指，女职工的怀孕期、产期和哺乳期。怀孕期和产期时间依据医院医学标准进行判断，而哺乳期是指从婴儿出生至一周岁之间的期间。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>女职工可以享受的产假包括：</b></p><p>1、98天的固定产假；</p><p>2、30天的生育奖励假；</p><p>3、难产的女职工，额外享受15天的难产假；</p><p>4、生育多胞胎的女职工，每多生育一个婴儿，则多享受15天的产假。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>怀孕期女职工的产前检查，如按就医生育医疗机构的要求发生于劳动时间之内的，视作女职工正常出勤，用人单位不得将此作为女职工的事假或者病假，并不可以克扣女职工的正常工资，但女职工应保留医疗机构相应的预约或诊疗证明作为出勤依据。</p><p>生产后的女职工享受每天1小时的哺乳假，直至哺乳期结束。</p><p>怀孕的女职工享有流产假：流产时怀孕不满4个月的，流产假为15天；怀孕时已满4个月的，流产假为42天，对此，各地也有相应的规定，不尽相同。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>关于女职工的生育津贴与产假工资：</b></p><p>1、生育津贴是指国家法律、法规规定对职业妇女因生育而离开工作岗位期间，给予的生活费用。有的国家又叫生育现金补助。我国生育津贴的支付方式和支付标准分两种情况：一是，在实行生育保险社会统筹的地区，支付标准按本企业上年度职工月平均工资的标准支付，期限不少于98天； 二是，在没有开展生育保险社会统筹的地区，生育津贴由本企业或单位支付，标准为女职工生育之前的基本工资和物价补贴，期限一般为98天。部分地区对晚婚、晚育的职业妇女实行适当延长生育津贴支付期限的鼓励政策。生育津贴的承担主体是社会保险部门。</p><p>而产假工资是指女职工在产假期间，用人单位为其发放的工资。</p><p>2、生育津贴的计算公式为：当月本单位人均缴费工资/30天*产假天数</p><p>3、生育津贴与产假工资的关系：</p><p>对于生育保险社会统筹地区缴纳社会保险的女职工，在产假期间享受了生育津贴的，若生育津贴高于本人工资标准的，则用人单位不再支付女职工产假工资；若生育津贴低于本人工资标准的，则差额部分由用人单位补足。</p><p>如用人单位未给女职工缴纳社会保险，则用人单位应全额支付女职工产假期间的产假工资。</p>", 
+            "topic": [
+                {
+                    "tag": "产假", 
+                    "tagLink": "https://api.zhihu.com/topics/19840272"
+                }, 
+                {
+                    "tag": "津贴", 
+                    "tagLink": "https://api.zhihu.com/topics/19793600"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68245195", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 1, 
+            "title": "2019《劳动法》：加班工资的计算标准", 
+            "content": "<p>劳动者无论是标准的每天八小时、上五休二工作制还是每周不定时40小时工作制，或者月工作小时；总的来说上班时间都是有限度的。</p><p>加班，是指单位因生产需要，在劳动者已经达到约定工作时间后，经劳动者本人同意，额外安排劳动者工作的时间。既然是约定外的工作时间，那么理所当然的，应该给予劳动者加班报酬。</p><p>2019年，《劳动法》对加班报酬是怎样规定的呢？劳动者们记住以下5点就够了！</p><p><b>1、调休</b></p><p>这是最常用的方式，有的单位或岗位，加班不是长期的现象，只是遇到一些突发情况需要加班的，可以安排劳动者加班，然后在正常工作日安排劳动者休息，这就叫加班调休。</p><p><b>2、工作日加班费</b></p><p>也就是在正常工作日的工作时间之后安排劳动者继续工作，以小时计。工作日加班有无法安排员工调休的，应当以该劳动者时薪的1.5倍计发加班工资。</p><p><b>3、休息日加班</b></p><p>在员工休息日因工作需要安排员工来加班而又无法调休的，按照劳动法规定应该给予劳动者日薪的2倍作为当天加班工资。</p><p><b>4、节假日加班</b></p><p>指的是法定节假日，如果单位安排了员工在节假日加班，在节假日当天加班的，以员工日薪的3倍计发加班工资。这里需要注意的是，节假日当天加班3倍计薪，其他假日可安排调休，如无法调休，则同样是三倍计薪。比如元旦节法定三天假期， 1月1日当天加班的三倍工资，另外两天可以安排调休也可以三倍工资。</p><p><b>5、年假加班</b></p><p>劳动者工龄越长年假天数有多，很多单位生产任务重 时间紧迫，没办法让员工把年假休满。如果一年内员工的年假因为单位的工作原因没有休完的话，应累计到第二年；若单位实在无法安排员工休年假的，经劳动者本人同意后，可以当年假加班来处理，补偿标准未为：休年假一天补偿劳动者3倍日薪。</p><p>另外，需要注意的是，《劳动法》中只是建议年假在年内休完，但不存在年假未休完就清零的说法；因此，以工作为由拒绝员工年假申请，而后又规定跨年年假清零的，均是侵害劳动者权益的行为。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>加班是每一位劳动者都会遇到的事情，或多或少而已，了解《劳动法》中关于加班的这5条规定，知道自己该怎么休息，该领多少加班费，拒绝做免费劳动力！</p>", 
+            "topic": [
+                {
+                    "tag": "加班", 
+                    "tagLink": "https://api.zhihu.com/topics/19558877"
+                }, 
+                {
+                    "tag": "工资", 
+                    "tagLink": "https://api.zhihu.com/topics/19667245"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68111843", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "可以认定劳动关系的证据有哪些？", 
+            "content": "<p>随着我国依法治国前进的步伐，人们维权意识逐步增加，各类案件呈现逐年递增的现象，尤其在劳动仲裁领域，那么关于劳动仲裁案件中，我们分析一下可以作为认定存在劳动关系的证据都有哪些？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1、与用人单位签订的书面劳动合同</b></p><p>劳动合同是直接可以认定存在劳动关系的书面证据之一，只要合同不违反法律、行政法规的相关规定即可。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2、社会保险缴纳记录相关凭证</b></p><p>此类证据是在国家机关部门形成的证据，可信度和证明力都比较高，在涉诉时劳动者可以主动搜集此类证据。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3、银行工资流水明细</b></p><p>这类证据虽然不是在国家机关形成的，但是是在第三方银行部门存在的，可信度和证明力也较高。需要注意的是工资转入方最好是用人单位的账户或者法定代表人、高管的个人账户。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4、能显示用人单位印章的其他书面文件</b></p><p>这类证据以盖有用人单位印章为前提，比如入职登记表、工作证、收入证明、调岗调薪通知书等证据，这类证据上的印章一般是公章或者经过登记备案有法律效力的其他印章。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>5、录音录像视频资料</b></p><p>视听资料证据需要确定被录者身份信息及在用人单位的职务信息等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>6、邮件、微信、短信、QQ等电子类证据</b></p><p>电子类证据，在使用时必须要确认这些电子数据的使用主体，否则不能达到证明目的。</p>", 
+            "topic": [
+                {
+                    "tag": "劳动关系", 
+                    "tagLink": "https://api.zhihu.com/topics/19694456"
+                }, 
+                {
+                    "tag": "劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553426"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68022811", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 1, 
+            "title": "关于辞职问题，你想知道的都在这里！", 
+            "content": "<p><b>1、急辞工有没有规定？</b></p><p>所谓急辞工，指用人单位即时解除劳动合同，《劳动法》和《劳动合同法》规定除了用人单位与劳动者协商解除外，用人单位只有在劳动者试用期内不符合录用条件；严重违反纪律和规章制度；被依法追究刑事责任；或严重失职造成用人单位重大损失，可以对该劳动者即时解除劳动合同。</p><p><b>2、什么情况下劳动者可以直接离职？</b></p><p>劳动者可以在试用期内；或用人单位强迫劳动或拖欠工资等损害劳动者权益的情形发生时，劳动者可以随时通知用人单位解除劳动合同。</p><p><b>3、劳动者怎么做才能合法辞职？</b></p><p>劳动者可以与用人单位协商辞职，也可以在试用期随时辞职。此外，劳动者应提前三十日以书面通知用人单位解除劳动合同。</p><p><b>4、什么样的劳动者提前三十天通知用人单位也不能离职？</b></p><p>劳动者提前三十天通知用人单位就可以离职，没有例外。但根据《劳动合同法》规定，劳动者违反服务期约定或违反竞业限制约定的，应当按照约定向用人单位支付违约金。 </p><p><b>5、单位规定辞职不给工资合法吗？</b></p><p>《劳动法》第五十条规定用人单位不得拖欠或克扣工资。所以单位规定辞职不给工资不合法，该规定无效。</p><p><b>6、劳动者有什么行为用人单位才能辞退劳动者？</b></p><p>当劳动者出现以下行为时，用人单位才能即时辞退该劳动者：</p><ol><li>试用期内不符合录用条件；</li><li>严重违反纪律和规章制度；</li><li>被依法追究刑事责任；</li><li>严重失职造成用人单位重大损失。</li></ol><p>有下列情形之一的，用人单位须提前三十日以书面形式通知劳动者本人或者额外支付劳动者一个月工资后，可以辞退该劳动者：</p><ol><li>劳动者患病或者非因工负伤，在规定的医疗期满后不能从事原工作，也不能从事由用人单位另行安排的工作的；</li><li>劳动者不能胜任工作，经过培训或者调整工作岗位，仍不能胜任工作的；</li><li>劳动合同订立时所依据的客观情况发生重大变化，致使劳动合同无法履行，经用人单位与劳动者协商，未能就变更劳动合同内容达成协议的。</li></ol><p><b>7、如何认定用人单位非法解除劳动合同？</b></p><p>若用人单位辞退劳动者时未具备法定事由或未经过法定的解除程序，便可以认定用人单位违法解除劳动合同。</p><p>法定事由和法定程序包括</p><p>当劳动者出现以下行为时，用人单位才能即时辞退该劳动者：</p><ol><li>试用期内不符合录用条件；</li><li>严重违反纪律和规章制度；</li><li>被依法追究刑事责任；</li><li>严重失职造成用人单位重大损失。</li></ol><p>除劳动者患职业病或者因工负伤并被确认丧失或者部分丧失劳动能力的;在规定的医疗期内的;女职工在孕期、产期、哺乳期的外。有下列情形之一的，用人单位须提前三十日以书面形式通知劳动者本人或者额外支付劳动者一个月工资后，可以辞退该劳动者：</p><ol><li>劳动者患病或者非因工负伤，在规定的医疗期满后不能从事原工作，也不能从事由用人单位另行安排的工作的；</li><li>劳动者不能胜任工作，经过培训或者调整工作岗位，仍不能胜任工作的；</li><li>劳动合同订立时所依据的客观情况发生重大变化，致使劳动合同无法履行，经用人单位与劳动者协商，未能就变更劳动合同内容达成协议的。</li></ol><p><b>8、用人单位可否与员工约定，辞职支付违约金？</b></p><p>除劳动者受过专项培训或签过保密协议和竞业限制协议的情形外，用人单位不得与员工约定辞职支付违约金。 </p><p><b>（二）经典案例</b></p><p><b>1、劳动者营私舞弊导致用人单位重大损失被辞退</b></p><p>金某原为资产管理公司的分公司经理，其在职期间，多次利用自身职位便利 自报自销，将自身生活消费以公务或出差差旅费为名进行报销，累计造成资产管理公司约十四万损失。</p><p>根据《劳动合同法》第三十九条第三款规定，劳动者严重失职，营私舞弊，给用人单位造成重大损害的，用人单位可以解除劳动合同。资产管理公司直接向金某寄发了辞退通知，并主张赔偿责任。</p><p><b>2、不缴纳社保，员工直接辞职</b></p><p>王某2018年3月入职科技公司担任出纳一职，直至2018年10月科技公司一直未为王某交纳社会保险，王某多次与科技公司沟通无果，王某主动提出辞职，并要求科技公司支付相应经济补偿金。</p><p>根据《劳动合同法》第三十八条第三款规定，用人单位未依法为劳动者缴纳社会保险费的，劳动者可以解除劳动合同。</p><p><b>（三）法规解析</b></p><p>《劳动合同法》第四十条规定：“有下列情形之一的，用人单位提前三十日以书面形式通知劳动者本人或者额外支付劳动者一个月工资后，可以解除劳动合同：</p><ol><li>劳动者患病或者非因工负伤，在规定的医疗期满后不能从事原工作，也不能从事由用人单位另行安排的工作的；</li><li>劳动者不能胜任工作，经过培训或者调整工作岗位，仍不能胜任工作的；</li><li>劳动合同订立时所依据的客观情况发生重大变化，致使劳动合同无法履行，经用人单位与劳动者协商，未能就变更劳动合同内容达成协议的。”</li></ol><p>解读：本条规定了用人单位可以提前三十日以书面形式通知劳动者本人或者额外支付劳动者一个月工资后辞退劳动者的情形。用人单位聘用劳动者便是为了让劳动者完成企业相应岗位任务，若出现不再能完成岗位任务的情形，为保障用人单位的利益，所以对于该条规定的情形给予用人单位解除劳动合同的权利。</p><p>但同样的为了保护劳动者，按照该条解除劳动合同时必须提前三十天通知劳动者或额外支付一个月工资。并如果劳动者有下列情形之一的，用人单位不得依照本条规定解除劳动合同：</p><ol><li>从事接触职业病危害作业的劳动者未进行离岗前职业健康检查，或者疑似职业病病人在诊断或者医学观察期间的;</li><li>在本单位患职业病或者因工负伤并被确认丧失或者部分丧失劳动能力的;</li><li>患病或者非因工负伤，在规定的医疗期内的;</li><li>女职工在孕期、产期、哺乳期的;</li><li>在本单位连续工作满十五年，且距法定退休年龄不足五年的；</li><li>法律、行政法规规定的其他情形。</li></ol>", 
+            "topic": [
+                {
+                    "tag": "辞职", 
+                    "tagLink": "https://api.zhihu.com/topics/19582002"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67857955", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 15, 
+            "title": "你真的会写辞职信吗？", 
+            "content": "<p>可能只要有工作经验的员工，都写过辞职信，我们上网上，也看到了各式各样的辞职信。但是，我们想对你说，站在劳动法的角度上看，那不是辞职信。</p><p>哦，怎么会这样？</p><p>因为，你们写辞职信的基础、所搜索的关键词都不对！</p><p>那该怎么办？</p><p>看在你辛辛苦苦，这么伤眼睛的情况下，还有这么高的求知欲的份上，我就免费的教给你吧！</p><p><b>从劳动法的角度上，你应该写的是《解除劳动关系通知书》，不是辞职信！</b></p><p>还在写辞职信？没有经验了吧？经常被单位拒绝吧？</p><p><b>你写辞职信，可能还有与单位协商的可能，或者说单位会认为，只要我不批，你就走不了！</b></p><p>其实不然，只要你写的是《解除劳动关系通知书》，到期你就可以走。</p><p>因为，你这是根据法律规定离职。</p><p>好了，究竟怎么写《解除劳动关系通知书》呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>首先，你要在文件的正上方居中，写出“《解除劳动关系通知书》”的标题。</b></p><p><b>其次，第二行，要顶格写上你们单位的全称；</b></p><p><b>然后，主文部分写上，根据劳动合同法的规定，劳动者提前三十天书面通知，可以解除劳动合同，试用期员工，提前三天通知，即可解除劳动合同。为此，特依法提出解除劳动合同。我将在通知到期日离职，请做后交接准备。</b></p><p>要记住，通知书应该提前三十天送发给单位，在试用期内，在提前三天送发给单位。这样，到期你就可以离职了。</p>", 
+            "topic": [
+                {
+                    "tag": "辞职", 
+                    "tagLink": "https://api.zhihu.com/topics/19582002"
+                }, 
+                {
+                    "tag": "辞职申请", 
+                    "tagLink": "https://api.zhihu.com/topics/19620428"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>如果想协商早点离职可以先不写，协商失败（老板不同意离职但去意已决）时，再发这个通知书吧。</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "可以这样操作", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>请问没有签劳动合同，可不可以也是提前三天走啊？谢谢</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "未签合同的话，当天就可以直接离职，只需要提交一个辞职报告，不需要批准", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>谢谢</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "还有一个问题，因为没有签合同，如果到时候我走了，他用各种各样理由扣工资，我现在应该保留些什么证据呢", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>入职时间证明，和月工资额度证明即可</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "钱同学的朋友", 
+                    "userLink": "https://www.zhihu.com/people/25f95cc4375a10ac0bf61998c220bfc9", 
+                    "content": "您好，我是还有几天合同就到期了，然后现在和老板协商失败，那我是依法合同到期直接离职，还是说要按模版上所述30日后离职呢？还有模版最后一句，“请做后交接准备”，是做好，还是做  后交接 呢？谢谢", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "钱同学的朋友", 
+                            "userLink": "https://www.zhihu.com/people/25f95cc4375a10ac0bf61998c220bfc9", 
+                            "content": "还有署名是什么呢？ 申请人，通知人？还是不用署名呢？", 
+                            "likes": 0, 
+                            "replyToAuthor": "钱同学的朋友"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "合同到期如果公司不续签合同是需要支付赔偿金的，这个时候建议不要自己离职", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "钱同学的朋友", 
+                            "userLink": "https://www.zhihu.com/people/25f95cc4375a10ac0bf61998c220bfc9", 
+                            "content": "具体应该如何操作呢？如何获得赔偿金？另外如果续签合同的条件我不满意呢？", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "钱同学的朋友", 
+                            "userLink": "https://www.zhihu.com/people/25f95cc4375a10ac0bf61998c220bfc9", 
+                            "content": "智律师，我的老板现在是拖着我避而不谈续签合同的问题，假如我月底7月31日到期，8月2号，我提出所要赔偿金，老板马上说签新合同，但是只涨几百块的薪资，不符合我的期望，那我该如何处理呢？究竟怎么界定雇佣者不续签合同呢。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67810446", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "离职的时候，千万不要踩这些坑！", 
+            "content": "<p><b>俗话说，天下没有不散的筵席，相聚离开都有时候，没有什么能永垂不朽……可是我，有时候，宁愿选择留恋不放手，等到风景都看透……</b><br/></p><p>好了，先不唱了，讲正事。每个人都想好聚好散，但是当你不管因为什么原因提出离职的那一刹，裂缝已经形成，我们要做的就是尽量优雅地离开。</p><p><b>离职的最最重要的一个准则是：千万不要说你的去向，千万不要。Never！Never! 除非刀架在脖子上！</b></p><p>这里面有很多原因。</p><p><b>第一，为了挽留说坏话</b>。其实哪怕是小兵，都会有领导来留你。留你不是因为你非常重要，只是他短期内快速找到一个可以替代的人有些困难。留你是因为毕竟工作多年了，用起来很顺手。或者留你是因为你真的很优秀。只要不是公司主动fire你，都说明你还是有一定的价值的。</p><p>当他知道你的去向之后，就开始说你未来东家的负面消息。任何公司都有负面消息，或者都可以找出不好的方面。如果从民企去外企，就说外企在中国越来越没有竞争力，一直退出中国市场， Nokia,Sony, Yahoo就在眼前。如果从外企到民企，就是民企管理混乱不规范，文化不适应。从小公司到大公司，就说不过是去做螺丝钉，无法体现个人价值。从大公司去小公司，就说平台下降，草台班子学不到东西。已经上市的公司一夜暴富和你无关了，创业公司99%都死了，百度主要靠政策，不然分分钟被Google秒成渣；阿里淘宝假货多走不远，腾讯是只抄袭狗，没有未来；小米？几年后谁还用手机呀！！华为？你不怕死吗！</p><p>本来换工作就是一件有风险的事情，尤其是在你现在的工作还不错的情况下。你对现在的工作内容，工作环境轻车熟路，游刃有余。你不知道下一家公司的具体情况是什么，同事怎么样，上司怎么样，发展怎么样，充满了未知。这样一说，你可能就动摇了。</p><p><b>第二：断人去路。</b>如果在一个行业有过几年工作经验，你又是有一定本事的人，跳槽都是在同行业的，那就是竞争对手。老板觉得既然留不住你，那么就果断阻止你去。一般这么坏心肠的老板挺少的，但是以防万一嘛。做销售的担心你带走自己的客户资源，做技术的担心你带走核心技术。</p><p><b>有哪些方式可以阻止呢？</b></p><p><b>1.竞业协议。</b>一般入职前都会签竞业协议，作为刚毕业的小猎头，我当年也签了……虽然竞业协议要给一定补，但是断了你的后路的之后，你还是得留在原公司这样就不用付钱，或者负气出走，但是当你要求按照竞业协议给补偿的时候，你就陷入了扯皮的阶段。</p><p>我们曾经操作过一个case，候选人离职来新公司上班了。但是原公司要把他告上法庭，认为他违反竞业协议，当然背景调查是做不了了，鬼都知道结果会有多么disaster，在候选人在新公司上班期间，原公司一直与其纠缠不清，搜集证据要告他，最后候选人只能从现在的公司离职。而我们一直没有收回来那笔佣金，因为缺少背调！我靠！</p><p>另外一个总经理级别的case，有一个候选人非常适合我的机会，我前前后后给了好几次电话，最后他 还是拒绝考虑了，因为他签了竞业协议……他估计如果接受这个机会，可能会陷入官司……我哭！！</p><p>所以，大家竞业协议能不签就别签了，授人以柄。当然我也知道，这种都是公司规定的，不签也得签……大家都没办法。</p><p><b>2.背景调查。</b>很多公司对即将入职的员工都会有一个背景调查。一般背景调查要有直接上司的意见，HR Manager的意见，同事的意见（可省略）。老板完全可以在这个阶段说你坏话。有一些候选人就是挂在这个阶段的，尤其是当新公司也不是那么确定他是否合适的时候，这样一句话就是压死骆驼身上的最后一根稻草，被彻底推向深渊。所以我有时候看候选人和老板关系一般的时候，我就很鸡贼求HR让候选人入职后再做背调，这样就可以降低背调的影响。</p><p>有一次背调，候选人的上司直接说：“尼玛你人上班了才来背调！为什么不上班前做呢！我才不做这个调查呢！”然后我小心翼翼地把电话挂了，找候选人的同事做的背调，幸亏HR也就那样放过我了。</p><p><b>3.警告你的新公司。</b>这个就是直接打电话到你的新公司相关负责人那里，说不准你们录取该候选人，不然就告你们恶意竞争，违法招聘巴拉巴拉。这种我们也见过。比较温和的事，两边老板谈一下，达成一个互补挖角的君子协议，然后猎头就真的不会主动挖了，就算主动投递的简历也不可以。好像腾讯和欢聚时代就不能互挖， 一加和OPPO不能互挖。也有本来可以挖的，后来不能挖了……所以后面的人就受到伤害了。</p><p>把你的去向告诉老板，就是把刀柄递到对方手里。他一旦有了准备，你就处于被动的境地。到目前为止，我操作的case里面，凡是和新公司说明要去哪里的最后几乎都夭折了，不说的反而顺顺利利上班。</p><p>离职的第二个千万不要是：千万不要裸辞。这一点可能有些人不同意，说我又不怕不到工作，我要先辞职出去玩一圈再说，而且离职找工作方便。如果你是社会紧缺人才，比如程序员，那么当我没说。但是一般人，在没有经济基础的情况下，真的不建议裸辞，骑驴找马是最好的选择。</p><p>在没有经济基础又没有收入的情况下，找下份工作很容易最后将就，然后又开始不爽，很快离职，继续将就，这样几次的话，职业生涯基本就废了……当别人在一个行业两三年，有了一定的经验积累，而你因为不停换工作，蹉跎了时间。薪资不见怎长，往上比不过同龄人，往下甚至比不过应届生，后面的职业生涯会更加坎坷。</p><p>裸辞的第二个问题是堕落。一下子拥有了很多时间，但是却不能很好的利用，吃吃喝喝睡睡，一天过去了，这样的精神状态只会越来越差。我一般不太相信普通人的自制力和时间安排能力。因为我们都是普通人~~</p><p>裸辞还会导致一个问题，下一个公司压你薪资。因为你现在没工作，你缺一份工作，所以HR很多时候会倾向于压薪，薪资的增长会受到一定的影响。</p><p>裸辞的话要注意控制不工作的时间长短。一般来说3个月以内不太受影响，6个月也可以接受，但是一年不工作的话，一般企业在同等能力条件下不会选择你。一年以上根本不会考虑。我以上我指的是猎头职位，猎头的职位一般都属于中高端职位。离职太久，好机会就与你无缘了。</p><p><b>离职还有一些其他要点：</b></p><p><b>1.一定要提交书面离职申请。</b>无论公司怎么好言留你，怎么吓唬你，自离职报告提交之日起30天内，你就可以潇洒走人。一旦书面提交，就进入正式离职手续了。不想走的人要想清楚哦。</p><p><b>2.注意好工作交接。</b>山水有相逢，过去的公司是你的最好的资源，不要因为离职就让自己之前辛苦建立起来的人脉圈子付诸一炬。做好工作交接是你的分内的事情。同时也是为了给现在的公司和之后的同事留下一个好的印象。世界这么小，说不定又遇上了呢。哪怕你觉得现在公司让你非常不开心，也不要在离职的时候爆发出来，你都忍那么久了，就再忍一会儿吧。</p><p>有一个候选人和原上司关系不好，离职的时候对原公司领导破口大骂，一吐心中郁闷。结果不久该上司也跳槽到了他的新公司，成为他的新上司……剩下的，我不用说了吧……</p><p><b>3.注意离职原因的措辞。</b>一般离职的话都要和上司或者HR面谈的。是否要说出真实的离职原因这一点要具体情况具体分析了。有的时候真实原因说出来可能太伤人了，而且看不到公司改变的可能的话，我建议找一个大家都能接受的离职理由吧。比如，我可能对XX更感兴趣一些；那里离家比较近一点；我其实还没有想好之后做什么，我想先调整一下，世界这么大，我想去看看……离职的时候最好能够表达一下对原公司的感恩之情，谢谢公司的培养巴拉巴拉的，大家听着都舒服。</p><p>但是如果真实的原因不伤人，或者可能可以改变的话，当然建议说出真实原因。举个例子，有一个工程师从BAT中的某家离开，主要原因是公司一直让他负责某个系统的维护，他是一个对技术非常有追求的人，觉得做这件事情是在是浪费时间，浪费生命。（在这之前另外一个被分配来维护这个系统的工程师也离开了）他很坦白地说明了原因。于是公司把这个系统重构之后交给外包人员来维护。这样真实的离职原因就帮了后来人也帮助了公司。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><i><b>It&#39;s Story time.</b></i></p><p>知道大家都是来看故事的。给大家举个血淋淋的例子吧，也是我当年too young too naive的时候犯下的错。我们几乎把离职的时候能够犯的错都犯了。</p><p>我曾经觉得每一个候选人都比我年长，他们的社会阅历必然比我丰富，这种事情肯定可以处理好。而且我也不好逼迫太多，毕竟跳槽还是要遵循候选人自己的真实意愿。所以我就没有去做什么离职指导。结果……</p><p>后来我想通了，一个人一生正常来说换10次工作差不多了吧，而我每天都在经历，所以我的经验其实更丰富。</p><p>候选人的新机会是同类型级别的MNC, 同类型的岗位，岗位级别有小幅提高，薪资涨幅符合市场跳槽的涨幅，而且给了额外的补贴，从一线城市换到三四线城市，关键是那个城市就是他老家！！也是他妻子的老家！！他老爸老妈岳父岳母都在那里！！我觉得这样的机会简直是为他量身定制的，这么好的机会，可能不会出问题的。然而，图样图僧破。</p><p><b>首先，</b>候选人和原公司的上司关系非常好，很哥们。所以他告诉了候选人他的去向和未来的薪资待遇。毫无疑问，原公司给出了差不多的待遇进行挽留，而且答应可以派他回离老家比较近的另外一个城市工作。可能有人会问，为什么不给高一点呢（因为外资公司薪资比较规范，有上下限的，没办法，而且市场行情就是这样的。）候选人挣扎了一下，拒绝了原公司的挽留。</p><p><b>第二，</b>候选人坚持不提交书面离职申请，认为散买卖不散情义，不能提出书面离职。但是原公司确实找不到合适的人来替代他，所以到新公司报道的日期一延再延。这给了原公司错误的暧昧信息，他们开始进行家庭攻势，找候选人家人做思想工作。候选人动摇过一次，想要拒绝，但是我又说服他了。有惊无险。</p><p>候选人最终来到新公司报到了。我放心了。</p><p>然儿这不是高潮！高潮在后面。</p><p>候选人在新公司工作了一周，那个时候没有异样。第二周的时候，他请假三天去处理一些手续问题。三天后，他回来了，提出了书面离职！！</p><p><b>你们知道为什么吗？</b></p><p>我前面说过，原公司找不到替代他的人，</p><p><b>所以请了三天假，去帮助原公司处理问题，帮原公司处理问题，处理问题……</b></p><p>然后他又被动摇了……提出书面离职，还直接抄送给了新公司的总经理。</p><p>防不胜防啊！！</p><p>只能说天要下雨，娘要嫁人。随他吧……我当时绝对道家付身，超脱世外，远离红尘了。</p><p>哦，故事还没有结束。</p><p>我和候选人一直都保持着很好的联系。后来他告诉我他又被派回一线城市了，因为找不到其他人。后来他又要看其他的机会了，但是那个城市当地已经没有其他适合他的机会了……虽然客户还在招这个岗位，但是他已经回不去了……而我也暂时没有其他岗位可以给他。</p>", 
+            "topic": [
+                {
+                    "tag": "离职", 
+                    "tagLink": "https://api.zhihu.com/topics/19561726"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67786762", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 1, 
+            "title": "不给员工签合同，到底是好事还是坏事？", 
+            "content": "<p><b>不给员工签合同，真的是赚到了吗？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>很多用人单位认为劳动合同是束缚自己的一个阻碍，以为不与员工签订劳动合同，可以让自己减少一部分支出，甚至逃避一些责任。</p><p>可是，这种想法只是“一厢情愿”，在大部分劳动纠纷中，用以判断劳动者与用人单位之间劳动关系的，并不只有是否签订劳动合同一种。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而且在大部分的劳动纠纷中，用人单位不与劳动者签订劳动合同的后果往往是：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一、支付双倍工资</b></p><p>根据《劳动合同法》第八十二条、《劳动合同法实施条例》第七条的规定，用人单位自用工之日起满一年未与劳动者订立书面劳动合同的，自用工之日起满一个月的次日至满一年的前一日向劳动者每月支付二倍的工资。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二、行政责任</b></p><p>《北京市劳动合同规定》第51条规定，用人单位违反本规定第八条规定，未与劳动者订立劳动合同的，由劳动和社会保障行政部门责令限期改正，逾期不改的，按照未签订劳动合同的人数，对用人单位处以每人500元罚款。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>三、用人单位不签订劳动合同，存在视为已经订立无固定期限劳动合同的风险。</b></p><p>《劳动合同法》第十四条、《劳动合同法实施条例》第七条规定用人单位自用工之日起满一年不与劳动者订立书面劳动合同的，视为自用工之日起满一年的当日已经与劳动者订立无固定期限劳动合同，应当立即与劳动者补订书面劳动合同。本条规定了用人单位在“视为已订立无固定期限劳动合同”的情况下仍负有补订书面劳动合同的义务。其意义在于自“视为”订立之日起到劳动者退休之前，用人单位与劳动者之间只存在解除劳动合同的问题，而不再有终止的问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>四、没有签订劳动合同，用人单位即丧失以试用期不合格为由辞退员工的权利。</b></p><p>倘若用人单位签订了劳动合同约定了试用期，企业就能在试用期内以不符合录用条件为由随时辞退员工并且不用支付经济补偿金，而如果没有签订书面的劳动合同，口头约定的试用期无效，也就不能以这一条为由辞退员工，带来的用工风险显而易见。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>五、.不签订劳动合同，用人单位仍不能免除为劳动者缴纳各项社会保险费的义务。</b></p><p>按照法律的规定，用人单位只要发生了用工行为，与劳动者形成事实劳动关系，即使是没有签劳动合同书，劳动者也享有劳动法上规定的各项权利。若单位没有缴纳社会保险费用，员工可以要求依法缴纳，劳动监察部门可以责令单位缴纳，甚至申请法院强制执行。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>相关法律法规：</b></p><p>《劳动法》第16条第2款：“建立劳动关系应当订立劳动合同。”</p><p>《劳动法》第19条：“劳动合同应当以书面形式订立。” </p><p>《劳动法》第98条：“用人单位违反本法规定的条件解除劳动合同或者故意拖延不订立劳动合同的，由劳动行政部门责令改正；对劳勾者造成损害的，应但承担赔偿责任。” </p><p>《关于贯彻执行&lt;中华人民共和国劳动法&gt;若干问题的意见》第17条：“用人单位与劳动者之间形成了事实劳动关系，而用人单位故意拖延不订立劳动合同，劳动行政部门应予以纠正。用人单位因此给劳动者造成损害的，应按劳动部《违反&lt;劳动法&gt;有关劳动合同的规定有赔偿办法》（劳动部{1995}223号）的规定进行赔偿。”</p><p>《违反&lt;劳动法&gt;有关劳动合同规定的赔偿办法》第2条：</p><p>“用人单位有下列情形之一，对劳动者造成损失的，应赔偿劳动者的损失：</p><p>（一）用人单位故意拖延不订立劳动合同，即招用后故意不按规定订立劳动合同以及劳动合同到期后，故意不及时续订劳动合同；</p><p>（二）由于用人单位的原因订立无效劳动合同，或订立部分无效劳动合同的；</p><p>（三）用人单位违反规定或劳动合同的约定侵害女职工或未成年工合法权益的；</p><p>（四）用人单位违反规定或劳动合同的约定解除劳动合同的。”</p><p>《违反&lt;劳动法&gt;有关劳动合同规定的赔偿办法》第3条：</p><p>“本办法第2条的规定，按下列规定执行：</p><p>（一）造成劳动者工资收入损失的，按劳动者本人应得工资收入支付给劳动者，并加付应得工资收入25%的赔偿费用；</p><p>（二）造成劳动者劳动保护待遇损失的，应按国家规定补足劳动者的劳动保护津贴和用品；</p><p>（三）造成劳动者工伤、医疗待遇损失的，除按国家规定为劳动者提供工伤、医疗待遇外，还应支付劳动者相当于医疗费用25%的赔偿费用；</p><p>（四）造成女职工和未成年工身体健康损害的，除按国家规定提供治疗期间的医疗待遇外，还应支付相当于其医疗费用25%的赔偿费用；</p><p>（五）劳动合同约定的其他赔偿费用。”</p><p>《劳动合同法》第1 0条：</p><p>“建立劳动关系，应当订立书面劳动合同。已建立劳动关系，未同时订立书面劳动合同的，应当自用工之日起一个月内订立书面劳动合同。”</p><p>《劳动合同法》第14条第3款：</p><p>“用人单位自用工之日起满一年不与劳动者订立书面劳动合同的，视为用人单位与劳动者已订立无固定期限劳动合同。”</p><p>《劳动合同法》第1 7条：</p><p>“劳动合同应当具备以下条款：</p><p>（一）用人单位的名称、住所和法定代表人或者主要负责人；</p><p>（二）劳动者的姓名、住址和居民身份证或者其他有效身份证件号码；</p><p>（三）劳动合同期限；</p><p>（四）工作内容和工作地点；</p><p>（五）工作时间和休息休假；</p><p>（六）劳动报酬；</p><p>（七）社会保险；</p><p>（八）劳动保护、劳动条件和职业危害防护；</p><p>（九）法律、法规规定应当纳入劳动合同的其他事项。</p><p>劳动合同除前款规定的必备条款外，用人单位与劳动者可以约定试用期、培洲、保守秘密、补充保险和福利待遇等其他事项。” </p><p>《劳动合同法》第8 2条：</p><p>“用人单位自用工之日起超过一个月不满一年未与劳动者订立书面劳动合同的，应当向劳动者每月支付二倍内工资。用人单位违反本法规定不与劳动者订立无固定期限劳动合同，自应当订立无固定期限劳动合同之日起向劳动者每月支付二倍的工资。” </p><p></p>", 
+            "topic": [
+                {
+                    "tag": "合同签署", 
+                    "tagLink": "https://api.zhihu.com/topics/19648824"
+                }, 
+                {
+                    "tag": "劳动合同", 
+                    "tagLink": "https://api.zhihu.com/topics/19561725"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67723049", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "员工不诚信，可解除劳动合同吗？", 
+            "content": "<p>诚实信用原则是法律确立的民事主体行为原则之一，《中华人民共和国民法总则》第七条“民事主体从事民事活动，应当遵循诚信原则，秉持诚实，恪守承诺”。《中华人民共和国合同法》第六条也规定“当事人行使权力、履行义务应当遵循诚实信用原则”。《中华人民共和国劳动合同法》第三条规定“订立劳动合同,应当遵循合法、公平、平等自愿、协商一致、诚实信用的原则。”，及《中华人民共和国劳动法》第三条第二款中规定“劳动者应当遵守劳动纪律和职业道德”。</p><p>劳动关系中，用人单位和劳动者在权利行使和义务履行中应当遵循诚信原则。违背诚信的员工，用人单位可以下列理由解除或主张劳动合同无效：</p><p><b>1、以签订劳动合同时虚假陈述、欺诈，未履行如实告知为由，主张劳动合同无效或解除劳动合同</b></p><p>《劳动合同法》规定，在签订劳动合同时，用人单位有权了解劳动者与劳动合同直接相关的基本情况，劳动者应当如实说明。第二十六条规定，以欺诈、胁迫的手段或者乘人之危，使对方在违背真实意思的情况下订立或者变更劳动合同的，劳动合同无效。第三十九条规定，因本法第二十六条第一款第一项规定的情形致使劳动合同无效的，用人单位可以解除劳动</p><p><b>2、以严重违反规章制度为由解除劳动合同</b></p><p>用人单位在制定规章制度时，一般均明确规定违背诚信行为作为严重违纪违规行为。《劳动合同法》第三十九条规定，劳动者严重违反用人单位的规章制度的，用人单位可以解除劳动合同。</p><p><b>3、以严重违反忠诚义务由解除劳动合同；</b></p><p>《劳动法》第三条规定，劳动者应当完成劳动任务，提高职业技能，执行劳动安全卫生规程，遵守劳动纪律和职业道德。《公司法》第一百四十七条规定，董事、监事、高级管理人员应当遵守法律、行政法规和公司章程，对公司负有忠实义务和勤勉义务。</p><p>无论普通员工，还是公司管理人员，作为劳动者均有对用人单位的忠诚义务。劳动者忠诚义务，指在劳动关系存续期间以及劳动关系结束后的一定期间内，为维护和实现用人单位的合法权益，以注意、保密、服从、增进利益等为主要内容，劳动者应履行的各种行为，包括积极作为义务和消极不作为义务。</p><p>员工如果违背忠诚义务，用人单位可根据《劳动合同法》第三十九条规定解除劳动合同。</p><p>遵守职业道德、诚实守信，既是劳动者的道德义务，也是劳动者的法律义务，也是构建诚信社会的重要组成部分。劳动者应当诚实履行劳动合同签约、变更时的如实告知义务；在劳动合同履行中，忠实履行劳动职责严守劳动纪律；在不违反法律规定和社会正义的基础上，对单位忠诚，才能在激烈的社会就业竞争中获得长期稳定的工作岗位。否则，被用人单位揪住不诚信的“小辫子”后，会丧失工作，还无法取得相应的赔偿。</p>", 
+            "topic": [
+                {
+                    "tag": "辞退", 
+                    "tagLink": "https://api.zhihu.com/topics/19762083"
+                }, 
+                {
+                    "tag": "公司辞退", 
+                    "tagLink": "https://api.zhihu.com/topics/20097243"
+                }, 
+                {
+                    "tag": "诚信", 
+                    "tagLink": "https://api.zhihu.com/topics/19595024"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67690157", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "关于加班，你应该知道的！", 
+            "content": "<p>加班是劳动者在工作中经常遇到的情况，加班应如何界定，是劳动者工作效率低引起的，还是用人单位因为经营需要的合理要求？劳动者面对用人单位安排的加班，是否有权拒绝？加班费又是如何计算？这是用人单位和劳动者都比较关注的问题。现在就加班的相关事宜从法律上进行相应的分析。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一、加班的界定：</b></p><p>我国实行的工时制度是劳动者每日工作时间不超过8小时，平均每周工作时间不超过44小时。用人单位应保证劳动者每周至少休息一日。因生产特点，经劳动行政部门批准的，可以实施其他工作和休息办法。超过上述工作时间，用人单位安排劳动者工作的应属于加班。</p><p>对于劳动者而言需要证明存在加班的事实，比如用人单位安排加班的书面通知、在加班时间处理相关工作等，保留加班的相关证据。对于用人单位而言，可以在《规章制度》、《员工手册》中设置加班的流程，加班时间让劳动者签字确认，预防劳动者以加班来掩盖工作效率低，创造公平的工作环境。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二、劳动者是否有权拒绝加班：</b></p><p>因生产经营需要，经与工会和劳动者协商后，可以延长工作时间，一般每日不得超过1小时；特殊原因的，在保障劳动者健康的条件下，延长工作时间每日不得超过3小时，每月不得超过36小时。那么，加班是需要经过劳动者同意的，劳动者有权利拒绝加班。如用人单位以劳动者拒绝加班为由解除劳动关系，显然是不合法的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>三、加班费如何计算：</b></p><p>用人单位安排劳动者延长工作时间的，支付不低于工资150%的工资报酬，</p><p>；休息日安排劳动者工作又不能补休的，支付不低于工资200%的工资报酬；法定节假日安排劳动者工作的，支付不低于工资300%的工资报酬。</p><p>综上，用人单位与劳动者协商同意后，劳动者在用人单位安排下进行的加班，用人单位应足额支付加班报酬。用人单位获得经济收益的同时，劳动者亦获得加班报酬，让加班对于双方都是有价值的，让劳资关系和谐共赢。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>相关法律规定：</b></p><p>《劳动法》第三十六条　国家实行劳动者每日工作时间不超过八小时、平均每周工作时间不超过四十四小时的工时制度。</p><p>第三十八条　用人单位应当保证劳动者每周至少休息一日。</p><p> 第四十一条　用人单位由于生产经营需要，经与工会和劳动者协商后可以延长工作时间，一般每日不得超过一小时；因特殊原因需要延长工作时间的，在保障劳动者身体健康的条件下延长工作时间每日不得超过三小时，但是每月不得超过三十六小时。</p><p>第四十三条　用人单位不得违反本法规定延长劳动者的工作时间。</p><p>第四十四条　有下列情形之一的，用人单位应当按照下列标准支付高于劳动者正常工作时间工资的工资报酬：</p><p>（一）安排劳动者延长工作时间的，支付不低于工资的百分之一百五十的工资报酬；</p><p>（二）休息日安排劳动者工作又不能安排补休的，支付不低于工资的百分之二百的工资报酬；</p><p>（三）法定休假日安排劳动者工作的，支付不低于工资的百分之三百的工资报酬。</p>", 
+            "topic": [
+                {
+                    "tag": "加班", 
+                    "tagLink": "https://api.zhihu.com/topics/19558877"
+                }, 
+                {
+                    "tag": "强制加班", 
+                    "tagLink": "https://api.zhihu.com/topics/19960840"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "飘雪", 
+                    "userLink": "https://www.zhihu.com/people/a34bc2b544386754718d9c926bb9c066", 
+                    "content": "下午六点下班，领导规定八点后才算加班，由于是小企业也没人主张权利", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "这是违法的，可以留好响应证据主张自己的权益", 
+                            "likes": 0, 
+                            "replyToAuthor": "飘雪"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "琛真", 
+                    "userLink": "https://www.zhihu.com/people/f94c9a0e0fa0834a45370ecfa8f61499", 
+                    "content": "大企业有用，小公司视而不见，简直头疼。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67630459", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 146, 
+            "title": "公司拖欠工资咋办？最权威的解决方案！", 
+            "content": "<p><b>什么情况属于拖欠工资？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>用人单位应在</p><p>自然月结束的30天内</p><p>结算工资；</p><p>超过30天无故不发放工资</p><p>即构成拖欠工资！</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>拖欠工资是违法的、违法、违法 ...</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>公司拖欠工资时员工有一下权利</b></p><p><b>一</b></p><p>可依据劳动合同法第三十八条规定，</p><p>立即与用人单位解除劳动合同。</p><p>并可要求用人单位支付经济补偿金。</p><p><b>二</b></p><p>可直接向劳动行政部门投诉</p><p>【电话：12333】</p><p>由劳动行政部门</p><p>责令用人单位限期支付工资，</p><p>逾期不支付的</p><p>责令用人单位</p><p>按应付金额的50% - 100%的标准</p><p>向劳动者加付赔偿金。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>律 师 提 醒：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>壹</b></p><p>解除合同需向公司提交一份辞职报告，</p><p>提交后可直接离职，无需批准！</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>贰</b></p><p>投诉前需整理好以下证据</p><p class=\"ztext-empty-paragraph\"><br/></p><p>『入职日期证明 』</p><p>入职证明中的日期和打卡记录都可以作为入职日期的证据；<br/></p><p>『月工资额证明』</p><p>如果有劳动合同，</p><p>则合同中约定的月工资可做为月工资额证据；</p><p>如果未签劳动合同，</p><p>则需要有书面证据确定月工资额；</p><p><b>叁</b></p><p>如果试用期超过一个月</p><p>公司未给签订合同和缴纳社保的话，</p><p>还能主张双倍工资赔偿和补缴拖欠的社保；</p><p><b>肆</b></p><p>若劳动行政部门未能解决，</p><p>可以申请劳动仲裁；</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>友情提醒：</b></p><p>劳动仲裁并不复杂，只是很多劳动者不懂流程，才感觉很复杂；</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "拖欠工资", 
+                    "tagLink": "https://api.zhihu.com/topics/19592658"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "清欢", 
+                    "userLink": "https://www.zhihu.com/people/4f2e8ca804f551d50ab989bed8b970c4", 
+                    "content": "你好，如果法院判了也一直不给怎么办啊", 
+                    "likes": 8, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>可以申请强制执行；</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "清欢"
+                        }, 
+                        {
+                            "userName": "清欢", 
+                            "userLink": "https://www.zhihu.com/people/4f2e8ca804f551d50ab989bed8b970c4", 
+                            "content": "公司法人是她妻子，他老公我查到已经被列为老赖了，我起诉他妻子如果拒不执行，我又该怎么办呢？", 
+                            "likes": 0, 
+                            "replyToAuthor": "清欢"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "清欢", 
+                    "userLink": "https://www.zhihu.com/people/4f2e8ca804f551d50ab989bed8b970c4", 
+                    "content": "没拿到，入职合同。当时也没照相。有录音证明存在劳动关系，和工资拖欠证据。3个月都没发工资", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>建议直接去当地仲裁委员会提交仲裁申请，录音可以作为证据；</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "清欢"
+                        }, 
+                        {
+                            "userName": "清欢", 
+                            "userLink": "https://www.zhihu.com/people/4f2e8ca804f551d50ab989bed8b970c4", 
+                            "content": "社保没有缴纳，我可以提出双倍赔偿吗？一般仲裁时间是多久呢？", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "太阳围绕月亮", 
+                    "userLink": "https://www.zhihu.com/people/cf16ae472d916d95a7cf42ddd2f6f439", 
+                    "content": "<p>申请强制执行了。也没拿到工资，社保公积金也拖欠一年了，集团就是赖着不给</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "迷茫i迷茫", 
+                    "userLink": "https://www.zhihu.com/people/2f85046c3508015e84f0be1a410bdd00", 
+                    "content": "您好，公司没有签劳动合同，还找各种理由拖欠工资，咋整呢。这几天气的很，还一直叫我去公司。", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "收集证据去仲裁委员会仲裁就可以了，需要能证明和公司存在劳动关系", 
+                            "likes": 1, 
+                            "replyToAuthor": "迷茫i迷茫"
+                        }, 
+                        {
+                            "userName": "迷茫i迷茫", 
+                            "userLink": "https://www.zhihu.com/people/2f85046c3508015e84f0be1a410bdd00", 
+                            "content": "谢谢您，工资以发。🙏", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Chemorry", 
+                    "userLink": "https://www.zhihu.com/people/bba4aa5f80c1db4beb3c3a27cbd4a888", 
+                    "content": "你好，想问一下实习生试用期离职当天是否可以要求结算全部工资，如果拖欠部分工资应该如何做才能维护权利", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "玉某", 
+                            "userLink": "https://www.zhihu.com/people/efbb8ed20ce9829ed5faf2c6810bf88d", 
+                            "content": "我也是实习期辞职的（单我实习入职什么协议合同都没签白来的），提前三天跟老板说也同意了，现在拖了几个月不给工资，给我的理由是他们正式员工的规定（我辞职前没写辞职报告没按流程走）特别可气呢。", 
+                            "likes": 0, 
+                            "replyToAuthor": "Chemorry"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "这种情况整理证据直接去仲裁委员会申请仲裁，能直接要回工资的", 
+                            "likes": 0, 
+                            "replyToAuthor": "玉某"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>你好，公司避税了，发放工资分两部分。合同也中途换过一次，工资修改成避税后的一部分。这还能要回全部金额麽</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "臼禹", 
+                            "userLink": "https://www.zhihu.com/people/cfcaa1a18b9f6b0fc9362e132404187a", 
+                            "content": "<p>为什么避税会把员工的工资“避”了......</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "王大粲啊", 
+                    "userLink": "https://www.zhihu.com/people/32d2d33b0273ee25964c8f6fc86b0c13", 
+                    "content": "您好，入职的时候签了入职登记表，但是在老板手里，入职快三个月了没有签劳动合同，最近还拖欠工资，请问怎么解决？如果需要提供信息证明劳动关系，哪些信息可以证明呢？", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>需要入职日期和月工资额证明，没有合同可以通过工资流水或者微信聊天记录电话聊天录音等能证明入职日期和月工资额的相关证据；</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王大粲啊"
+                        }, 
+                        {
+                            "userName": "玉米粑粑", 
+                            "userLink": "https://www.zhihu.com/people/b785250baae05c1736f6f60c4a1b0759", 
+                            "content": "用离职证明可以吗，离职证明上有入职和离职日期", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "整天瞎逼忙", 
+                    "userLink": "https://www.zhihu.com/people/9b773390afd99d83f2b5e1a55e2e23c2", 
+                    "content": "您好 我是今年四月份入职上家公司的，在那边离职了已经，工作时间是1.5个月。一分钱没有发。现在手里有些资料：离职证明、入职邮件、合同和欠条。我现在走劳动仲裁可以吗。据我之前的了解来看，这家公司之前的员工很多都走了劳动仲裁，好像用处不大", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "可以", 
+                            "likes": 0, 
+                            "replyToAuthor": "整天瞎逼忙"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "如果劳动仲裁后公司不给工资，可以直接去法院申请强制执行", 
+                            "likes": 0, 
+                            "replyToAuthor": "整天瞎逼忙"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "小朋友", 
+                    "userLink": "https://www.zhihu.com/people/1a4fc0adf5c93439ec95325276f5d26a", 
+                    "content": "您好，我去的时候也属于实习期，也没签什么劳动合同书 我干了三个月，也因不开工资不干的，离职的时候签了一张离职单，前俩月的工资是后补发我的，还剩一个月每次跟老板要老板就说没钱要不就让我等几天总托这我，我该怎维护自己的权益", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "向劳动监察大队投诉或直接向仲裁委员会申请仲裁", 
+                            "likes": 0, 
+                            "replyToAuthor": "小朋友"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "苏陵", 
+                    "userLink": "https://www.zhihu.com/people/6b622a6ae57d9b07fd4c865e50e7d531", 
+                    "content": "月工资额是当时面试谈的，没有书面证明怎么办，劳动合同里也没写", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "我是沙沙沙", 
+                    "userLink": "https://www.zhihu.com/people/56800793b7d0d2afcc4da0ac908ae8db", 
+                    "content": "所在饭店关门了拖欠工资一个半月三个老板都不露面找劳动局他们说非营业中的店他们不管让我们去法院去法院我们手上又没有什么证据现在怎么办", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "大婷", 
+                    "userLink": "https://www.zhihu.com/people/5fa6b73bad81f6063fbe50365683d7ea", 
+                    "content": "您好，请问离职后拖欠几个月工资不给，去劳动局申诉了，然后前公司在本人离职后发出公告说因本人离职交接不当导致公司损失要罚款，这个罚款能成立的吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "不成立，公司需要拿出直接有效的证据才可以", 
+                            "likes": 1, 
+                            "replyToAuthor": "大婷"
+                        }, 
+                        {
+                            "userName": "大婷", 
+                            "userLink": "https://www.zhihu.com/people/5fa6b73bad81f6063fbe50365683d7ea", 
+                            "content": "好的，谢谢您", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "清醴", 
+                    "userLink": "https://www.zhihu.com/people/e55aa3b1573813475d99d59f9be46ae5", 
+                    "content": "你好请问微信上的记录能算证据吗？", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "可以", 
+                            "likes": 0, 
+                            "replyToAuthor": "清醴"
+                        }, 
+                        {
+                            "userName": "清醴", 
+                            "userLink": "https://www.zhihu.com/people/e55aa3b1573813475d99d59f9be46ae5", 
+                            "content": "谢谢", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "焦糖玛奇朵", 
+                    "userLink": "https://www.zhihu.com/people/b580350f4dcd431bebae873242bf2bea", 
+                    "content": "如果是商户（广州轻纺城的商户）没有劳动合同    （送货单聊  天记录等）到现在通过派出所问商户打了打借条    但到了还款的时间还是没收到钱怎么办  拖欠了接近十万   我们是做手工代加工的  带着两个小孩  到现在工人在催钱  房租也在催   可他那边就是没钱结怎么办以前挣的一点钱都垫出去了实在没钱了怎么办   有什么办法能让商户老板马上结钱的吗   急死了  谢谢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "追风少女姐妹", 
+                    "userLink": "https://www.zhihu.com/people/a294c5d6c904b267b6a797adcea5d9dc", 
+                    "content": "我上班的地方在成都 公司总部在北京. 社保是交给第三方.但是第三方没有收到总部的款项已经停止买社保了.工资也没发了.该如何应对", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "可以直接向公司所在地的劳动监察大队投诉", 
+                            "likes": 0, 
+                            "replyToAuthor": "追风少女姐妹"
+                        }, 
+                        {
+                            "userName": "追风少女姐妹", 
+                            "userLink": "https://www.zhihu.com/people/a294c5d6c904b267b6a797adcea5d9dc", 
+                            "content": "那就应该是北京吗？总部在北京.可是我在成都", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "罗罗", 
+                    "userLink": "https://www.zhihu.com/people/fb5c85db30591b822ee1553bdf29cd04", 
+                    "content": "你好，我是试用期离职，手上只有一个公司的offer，然后公司确认交接完成的邮件，我申请离职的邮件，但是没有回复，这种情况下证据足够吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "有合同吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "罗罗"
+                        }, 
+                        {
+                            "userName": "罗罗", 
+                            "userLink": "https://www.zhihu.com/people/fb5c85db30591b822ee1553bdf29cd04", 
+                            "content": "合同还没有签", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "橘里惠水子", 
+                    "userLink": "https://www.zhihu.com/people/42778defe7aef2f0b5f0541c25a09f84", 
+                    "content": "<p>您好，我现在所在的公司六个月没发工资，因个人关系原因，一直没有好意思用法律制裁。今年三月说四月底发，到了四月底说五月底发，如今又说有钱了就会发。像这种情况该怎么办。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "胖虎", 
+                            "userLink": "https://www.zhihu.com/people/8734daa0e81ea747856c89cdc5ef7241", 
+                            "content": "我也是这样的情况，碍于各方面，不好意思申请法律仲裁", 
+                            "likes": 0, 
+                            "replyToAuthor": "橘里惠水子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "花小夕", 
+                    "userLink": "https://www.zhihu.com/people/a5a3ccdf37a3253c87554867eb660534", 
+                    "content": "请问，法律能认定钉钉打卡么？", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "胖虎", 
+                    "userLink": "https://www.zhihu.com/people/8734daa0e81ea747856c89cdc5ef7241", 
+                    "content": "你好，我是19年1月份离职的，到现在，公司也只是通过微信，支付宝转了一部分工资过来。递交了离职书，对方也签了字，但没有盖公司印章。已签字的离职书我自己拍有一份，和公司的讨薪对话也保留了一份，之前发薪的对方的转账记录也保留了一份，以及公司日常销售单我也保留了一份。请问，我能追回剩余的工资的机率有多大?能异地申请劳动仲裁吗?", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "很大，可以委托当地朋友办理，只需要写一份委托书", 
+                            "likes": 1, 
+                            "replyToAuthor": "胖虎"
+                        }, 
+                        {
+                            "userName": "胖虎", 
+                            "userLink": "https://www.zhihu.com/people/8734daa0e81ea747856c89cdc5ef7241", 
+                            "content": "好的，谢谢大佬", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "地瓜", 
+                    "userLink": "https://www.zhihu.com/people/0aed5888ab25ff2637cc53bfcd6cee9d", 
+                    "content": "您好，员工4月初入职并签订劳动合同，约定两个月的试用期，每月15号发工资。目前是第4个月，公司仍未为员工缴纳保险，5月工资拖欠至7月12日才发，6月的工资也无法准时发放。<br>公司没有业务可能月底要关门，老板说自己没钱，给部分离职员工打了欠条，但是未写明还款时限，请问在这种情况下员工怎样要回工资呢？<br>期待您的专业回复，感谢您。", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "这种情况建议先收集好相关证据，然后向劳动监察大队投诉，如果劳动监察大队解决不了可以直接向当地仲裁委员会提交仲裁", 
+                            "likes": 1, 
+                            "replyToAuthor": "地瓜"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "清欢", 
+                    "userLink": "https://www.zhihu.com/people/4f2e8ca804f551d50ab989bed8b970c4", 
+                    "content": "你好，如果法院判了也一直不给怎么办啊", 
+                    "likes": 8, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>可以申请强制执行；</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "清欢"
+                        }, 
+                        {
+                            "userName": "清欢", 
+                            "userLink": "https://www.zhihu.com/people/4f2e8ca804f551d50ab989bed8b970c4", 
+                            "content": "公司法人是她妻子，他老公我查到已经被列为老赖了，我起诉他妻子如果拒不执行，我又该怎么办呢？", 
+                            "likes": 0, 
+                            "replyToAuthor": "清欢"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "清欢", 
+                    "userLink": "https://www.zhihu.com/people/4f2e8ca804f551d50ab989bed8b970c4", 
+                    "content": "没拿到，入职合同。当时也没照相。有录音证明存在劳动关系，和工资拖欠证据。3个月都没发工资", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>建议直接去当地仲裁委员会提交仲裁申请，录音可以作为证据；</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "清欢"
+                        }, 
+                        {
+                            "userName": "清欢", 
+                            "userLink": "https://www.zhihu.com/people/4f2e8ca804f551d50ab989bed8b970c4", 
+                            "content": "社保没有缴纳，我可以提出双倍赔偿吗？一般仲裁时间是多久呢？", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "太阳围绕月亮", 
+                    "userLink": "https://www.zhihu.com/people/cf16ae472d916d95a7cf42ddd2f6f439", 
+                    "content": "<p>申请强制执行了。也没拿到工资，社保公积金也拖欠一年了，集团就是赖着不给</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "迷茫i迷茫", 
+                    "userLink": "https://www.zhihu.com/people/2f85046c3508015e84f0be1a410bdd00", 
+                    "content": "您好，公司没有签劳动合同，还找各种理由拖欠工资，咋整呢。这几天气的很，还一直叫我去公司。", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "收集证据去仲裁委员会仲裁就可以了，需要能证明和公司存在劳动关系", 
+                            "likes": 1, 
+                            "replyToAuthor": "迷茫i迷茫"
+                        }, 
+                        {
+                            "userName": "迷茫i迷茫", 
+                            "userLink": "https://www.zhihu.com/people/2f85046c3508015e84f0be1a410bdd00", 
+                            "content": "谢谢您，工资以发。🙏", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Chemorry", 
+                    "userLink": "https://www.zhihu.com/people/bba4aa5f80c1db4beb3c3a27cbd4a888", 
+                    "content": "你好，想问一下实习生试用期离职当天是否可以要求结算全部工资，如果拖欠部分工资应该如何做才能维护权利", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "玉某", 
+                            "userLink": "https://www.zhihu.com/people/efbb8ed20ce9829ed5faf2c6810bf88d", 
+                            "content": "我也是实习期辞职的（单我实习入职什么协议合同都没签白来的），提前三天跟老板说也同意了，现在拖了几个月不给工资，给我的理由是他们正式员工的规定（我辞职前没写辞职报告没按流程走）特别可气呢。", 
+                            "likes": 0, 
+                            "replyToAuthor": "Chemorry"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "这种情况整理证据直接去仲裁委员会申请仲裁，能直接要回工资的", 
+                            "likes": 0, 
+                            "replyToAuthor": "玉某"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>你好，公司避税了，发放工资分两部分。合同也中途换过一次，工资修改成避税后的一部分。这还能要回全部金额麽</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "臼禹", 
+                            "userLink": "https://www.zhihu.com/people/cfcaa1a18b9f6b0fc9362e132404187a", 
+                            "content": "<p>为什么避税会把员工的工资“避”了......</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "王大粲啊", 
+                    "userLink": "https://www.zhihu.com/people/32d2d33b0273ee25964c8f6fc86b0c13", 
+                    "content": "您好，入职的时候签了入职登记表，但是在老板手里，入职快三个月了没有签劳动合同，最近还拖欠工资，请问怎么解决？如果需要提供信息证明劳动关系，哪些信息可以证明呢？", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>需要入职日期和月工资额证明，没有合同可以通过工资流水或者微信聊天记录电话聊天录音等能证明入职日期和月工资额的相关证据；</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王大粲啊"
+                        }, 
+                        {
+                            "userName": "玉米粑粑", 
+                            "userLink": "https://www.zhihu.com/people/b785250baae05c1736f6f60c4a1b0759", 
+                            "content": "用离职证明可以吗，离职证明上有入职和离职日期", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "整天瞎逼忙", 
+                    "userLink": "https://www.zhihu.com/people/9b773390afd99d83f2b5e1a55e2e23c2", 
+                    "content": "您好 我是今年四月份入职上家公司的，在那边离职了已经，工作时间是1.5个月。一分钱没有发。现在手里有些资料：离职证明、入职邮件、合同和欠条。我现在走劳动仲裁可以吗。据我之前的了解来看，这家公司之前的员工很多都走了劳动仲裁，好像用处不大", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "可以", 
+                            "likes": 0, 
+                            "replyToAuthor": "整天瞎逼忙"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "如果劳动仲裁后公司不给工资，可以直接去法院申请强制执行", 
+                            "likes": 0, 
+                            "replyToAuthor": "整天瞎逼忙"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "小朋友", 
+                    "userLink": "https://www.zhihu.com/people/1a4fc0adf5c93439ec95325276f5d26a", 
+                    "content": "您好，我去的时候也属于实习期，也没签什么劳动合同书 我干了三个月，也因不开工资不干的，离职的时候签了一张离职单，前俩月的工资是后补发我的，还剩一个月每次跟老板要老板就说没钱要不就让我等几天总托这我，我该怎维护自己的权益", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "向劳动监察大队投诉或直接向仲裁委员会申请仲裁", 
+                            "likes": 0, 
+                            "replyToAuthor": "小朋友"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "苏陵", 
+                    "userLink": "https://www.zhihu.com/people/6b622a6ae57d9b07fd4c865e50e7d531", 
+                    "content": "月工资额是当时面试谈的，没有书面证明怎么办，劳动合同里也没写", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "我是沙沙沙", 
+                    "userLink": "https://www.zhihu.com/people/56800793b7d0d2afcc4da0ac908ae8db", 
+                    "content": "所在饭店关门了拖欠工资一个半月三个老板都不露面找劳动局他们说非营业中的店他们不管让我们去法院去法院我们手上又没有什么证据现在怎么办", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "大婷", 
+                    "userLink": "https://www.zhihu.com/people/5fa6b73bad81f6063fbe50365683d7ea", 
+                    "content": "您好，请问离职后拖欠几个月工资不给，去劳动局申诉了，然后前公司在本人离职后发出公告说因本人离职交接不当导致公司损失要罚款，这个罚款能成立的吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "不成立，公司需要拿出直接有效的证据才可以", 
+                            "likes": 1, 
+                            "replyToAuthor": "大婷"
+                        }, 
+                        {
+                            "userName": "大婷", 
+                            "userLink": "https://www.zhihu.com/people/5fa6b73bad81f6063fbe50365683d7ea", 
+                            "content": "好的，谢谢您", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "清醴", 
+                    "userLink": "https://www.zhihu.com/people/e55aa3b1573813475d99d59f9be46ae5", 
+                    "content": "你好请问微信上的记录能算证据吗？", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "可以", 
+                            "likes": 0, 
+                            "replyToAuthor": "清醴"
+                        }, 
+                        {
+                            "userName": "清醴", 
+                            "userLink": "https://www.zhihu.com/people/e55aa3b1573813475d99d59f9be46ae5", 
+                            "content": "谢谢", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "焦糖玛奇朵", 
+                    "userLink": "https://www.zhihu.com/people/b580350f4dcd431bebae873242bf2bea", 
+                    "content": "如果是商户（广州轻纺城的商户）没有劳动合同    （送货单聊  天记录等）到现在通过派出所问商户打了打借条    但到了还款的时间还是没收到钱怎么办  拖欠了接近十万   我们是做手工代加工的  带着两个小孩  到现在工人在催钱  房租也在催   可他那边就是没钱结怎么办以前挣的一点钱都垫出去了实在没钱了怎么办   有什么办法能让商户老板马上结钱的吗   急死了  谢谢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "追风少女姐妹", 
+                    "userLink": "https://www.zhihu.com/people/a294c5d6c904b267b6a797adcea5d9dc", 
+                    "content": "我上班的地方在成都 公司总部在北京. 社保是交给第三方.但是第三方没有收到总部的款项已经停止买社保了.工资也没发了.该如何应对", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "可以直接向公司所在地的劳动监察大队投诉", 
+                            "likes": 0, 
+                            "replyToAuthor": "追风少女姐妹"
+                        }, 
+                        {
+                            "userName": "追风少女姐妹", 
+                            "userLink": "https://www.zhihu.com/people/a294c5d6c904b267b6a797adcea5d9dc", 
+                            "content": "那就应该是北京吗？总部在北京.可是我在成都", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "罗罗", 
+                    "userLink": "https://www.zhihu.com/people/fb5c85db30591b822ee1553bdf29cd04", 
+                    "content": "你好，我是试用期离职，手上只有一个公司的offer，然后公司确认交接完成的邮件，我申请离职的邮件，但是没有回复，这种情况下证据足够吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "有合同吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "罗罗"
+                        }, 
+                        {
+                            "userName": "罗罗", 
+                            "userLink": "https://www.zhihu.com/people/fb5c85db30591b822ee1553bdf29cd04", 
+                            "content": "合同还没有签", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "橘里惠水子", 
+                    "userLink": "https://www.zhihu.com/people/42778defe7aef2f0b5f0541c25a09f84", 
+                    "content": "<p>您好，我现在所在的公司六个月没发工资，因个人关系原因，一直没有好意思用法律制裁。今年三月说四月底发，到了四月底说五月底发，如今又说有钱了就会发。像这种情况该怎么办。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "胖虎", 
+                            "userLink": "https://www.zhihu.com/people/8734daa0e81ea747856c89cdc5ef7241", 
+                            "content": "我也是这样的情况，碍于各方面，不好意思申请法律仲裁", 
+                            "likes": 0, 
+                            "replyToAuthor": "橘里惠水子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "花小夕", 
+                    "userLink": "https://www.zhihu.com/people/a5a3ccdf37a3253c87554867eb660534", 
+                    "content": "请问，法律能认定钉钉打卡么？", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "胖虎", 
+                    "userLink": "https://www.zhihu.com/people/8734daa0e81ea747856c89cdc5ef7241", 
+                    "content": "你好，我是19年1月份离职的，到现在，公司也只是通过微信，支付宝转了一部分工资过来。递交了离职书，对方也签了字，但没有盖公司印章。已签字的离职书我自己拍有一份，和公司的讨薪对话也保留了一份，之前发薪的对方的转账记录也保留了一份，以及公司日常销售单我也保留了一份。请问，我能追回剩余的工资的机率有多大?能异地申请劳动仲裁吗?", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "很大，可以委托当地朋友办理，只需要写一份委托书", 
+                            "likes": 1, 
+                            "replyToAuthor": "胖虎"
+                        }, 
+                        {
+                            "userName": "胖虎", 
+                            "userLink": "https://www.zhihu.com/people/8734daa0e81ea747856c89cdc5ef7241", 
+                            "content": "好的，谢谢大佬", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "地瓜", 
+                    "userLink": "https://www.zhihu.com/people/0aed5888ab25ff2637cc53bfcd6cee9d", 
+                    "content": "您好，员工4月初入职并签订劳动合同，约定两个月的试用期，每月15号发工资。目前是第4个月，公司仍未为员工缴纳保险，5月工资拖欠至7月12日才发，6月的工资也无法准时发放。<br>公司没有业务可能月底要关门，老板说自己没钱，给部分离职员工打了欠条，但是未写明还款时限，请问在这种情况下员工怎样要回工资呢？<br>期待您的专业回复，感谢您。", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "这种情况建议先收集好相关证据，然后向劳动监察大队投诉，如果劳动监察大队解决不了可以直接向当地仲裁委员会提交仲裁", 
+                            "likes": 1, 
+                            "replyToAuthor": "地瓜"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67515229", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "加班费到底该怎么算？一次给您讲清楚！", 
+            "content": "<p>休息日双薪，节假日三薪，基本都成了常识，大多数上班族们都较为熟悉。</p><p>问题在于：</p><p><b>双薪、三薪，1.5倍的薪水，计算基数是什么？</b></p><p>应以工资组成中的哪一部分做为双薪、三薪的计算基础？</p><p>今天，就来给大家说一下基数的问题：</p><p>对于加班工资的计算基数：</p><p>是建立在正常劳动情形下的工资收入，但不同用人单位在工资构成项目的确定上有很大的差别，有的虽然在工资构成中予以体现，但在性质上是福利。在判断上如果还是按照原劳动部以前的规定即区分基本工资、津贴、补贴等名义显然已经不能适应当前案件处理的需要。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>那么，如何确定计算基数？</b></p><p><b>首先，</b>要判断工资构成中的哪些项目属于由用人单位可自行决定给付的福利，对此予以扣除；</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>其次，</b>要判断哪些项目属于在不同月份变化，以及影响的因素，以确定是否属于正常劳动情形下的收入，进而确定是否扣除；</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>最后，</b>要判断当月给付工资的项目中是否均属于当月期间应得的工资，对于以前月份一并发放的款项应当予以扣除。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>对于提成或者奖金是否纳人计算加班工资的基数：</b></p><p><b>首先</b>，需要看双方约定的报酬是否属于提成制以及该提成报酬是否建立在固定工作时间内，如果没有明确建立在固定工作时间内，应当不确认为加班；</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>其次，</b>要判断提成或者奖金是否为固定工资的变相形式，避免用人单位以提成或者奖金的名义来减少加班工资的给付数额；</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>最后，</b>也要确定该提成或者奖金的归属期，对于归属多个月份的，可以平均折算出属于当月月份的正常收入部分。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>而对于加班工资以日或者小时计算的工资基数，基本可以遵循以下原则：</b></p><p>1，按照劳动合同约定的劳动者本人工资标准确定；</p><p>2，劳动合同没有约定的，按照集体合同约定的加班工资基数以及休假期间工资标准确定；</p><p>3，劳动合同集体合同均未约定的，按照劳动者本人正常劳动应得的工资确定。</p><p>依照前款确定的加班工资基数不得低于规定的最低工资标准。</p>", 
+            "topic": [
+                {
+                    "tag": "加班费", 
+                    "tagLink": "https://api.zhihu.com/topics/19694432"
+                }, 
+                {
+                    "tag": "加班", 
+                    "tagLink": "https://api.zhihu.com/topics/19558877"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67514020", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 1, 
+            "title": "用人单位应杜绝这几种行为，否则违法", 
+            "content": "<p> 近几天，劳动争议的案件呈翻倍增长趋势；且涉案金额，即诉讼标的，也是越来越大；用人单位的用工风险，越来越大。然而，归根结底，是用人单位用工不规范，带来的隐患。为此，建议用人单位坚决杜绝以下行为：</p><p><b>1、不得任意克扣或降低职工工资</b></p><p>本公众号经常遇到咨询，用人单位迟到了要罚款，早退了要扣工资，旷一天工扣三天工资，等等情形。用人单位这样做，既是不合理的，也是没有依据的。用人单位是没有罚款权利的。罚款，只有国家授予的部分行政机关和职能部门，才有权做出罚款的决定。用人单位罚款，实质上，是变相克扣职工的工资。很容易引起职工的不满情绪，实为引发争议的导火索</p><p><b>2、不得凭借职工工作的过失，而扣发职工的工资</b></p><p>有的职工，在工作中犯了一些小小的过错，用人单位即借题发挥，大做文章，本公众号曾接受过一个扣发工资长达半年的资工的咨询。用人单位这样做，实质上是拖欠工资，不但要受到行政处罚，职工可向用人单位主张经济补偿金，且职工有权随时离职。</p><p><b>3、不得向职工集资，不得强行要求职工入股</b></p><p>向职工集资、强行要求职工入股。以此种形式有可能涉嫌犯罪。且有违劳动法的相关规定。</p><p><b>4、不能容留拒不与单位签署劳动合同的职工</b></p><p>用人单位不与劳动者签署劳动合同的，员工有权向用人单位主张双倍工资。有的职工拒绝与单位签署劳动合同。一单有纠纷，签署合同又是用人单位的义务。很容易给单位造成损失。</p><p><b>5、不得不为员工办理社会保险</b></p><p>为职工缴纳社保，是用人单位的法定义务。无论单位以何种形式都无法规避为员工缴纳社保的法定义务。即使员工不要求单位缴纳社保，一旦发现，用人单位一样会受到处罚。</p><p><b>6、不得使性子，随意辞退职工</b></p><p>用人单位一旦录用职工，双方之间无论是否签署劳动合同，都产生了劳动关系，应遵从劳动法等法律的相关规定。随意矢退职工，根据法律规定，一旦认定为非法解除劳动关系。职工有权要求用人单位支付赔偿金。</p><p><b>7、不得降低职工的工资</b></p><p>用人单位一旦与职工建立劳动关系，就不能随意变更劳动合同中的相关条款，包括工资标准、岗位、工作时间、地点等，都不是用人单位一方所能决定的。</p>", 
+            "topic": [
+                {
+                    "tag": "劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553426"
+                }, 
+                {
+                    "tag": "新劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19817719"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "愫儿", 
+                    "userLink": "https://www.zhihu.com/people/2cf650a5cfbe62af3dcd9b81d3e851bc", 
+                    "content": "克扣合同上写的相关福利呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "如果合同上明确说明这福利是不能随意克扣的", 
+                            "likes": 0, 
+                            "replyToAuthor": "愫儿"
+                        }, 
+                        {
+                            "userName": "愫儿", 
+                            "userLink": "https://www.zhihu.com/people/2cf650a5cfbe62af3dcd9b81d3e851bc", 
+                            "content": "谢谢你", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "limbo", 
+                    "userLink": "https://www.zhihu.com/people/4f53ff507cb39c4893c2e19e445a1985", 
+                    "content": "劳动法维权难度大嘛？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67511624", 
+            "userName": "智律师", 
+            "userLink": "https://www.zhihu.com/people/b887283fc8991ea7f66d5485adc9a2a2", 
+            "upvote": 0, 
+            "title": "用人单位能不能以末位淘汰辞退员工？", 
+            "content": "<p>优胜劣汰，适者生存，是不变的永恒法则。但该法则不能用在劳动者身上。很多用人单位面对竞争的残酷，想方设法转移自己的风险。在用人方面，也是用尽各种管理手段。不少公司制订了“末位淘汰”制度。但末位淘汰制度能否行之有效？能否得到法律的认可？一些公司就不顾及那么多了。</p><p> 用人单位为了促进内部职工的竞争，在本单位制度中制订末位淘汰制度，对这点本无可厚非。加强内部员工管理，增强工作效率和竞争力，无可非议。但是用人单位谨记：末位淘汰≠解除劳动合同≠辞退员工。</p><p>解除合同、辞退员工必须依法进行。按照《劳动法》、《劳动合同法》的规定，只有以下情形用人单位才可单方解除劳动合同：</p><p> 1.在试用期间被证明不符合录用条件的；</p><p>2.严重违反用人单位的规章制度的；</p><p>3.严重失职，营私舞弊，给用人单位造成重大损失的。</p><p>4.劳动者同时与其他用人单位建立劳动关系，对完成本单位工作任务造成严重影响的，或经用人单位提出，拒不改正的。</p><p> 5.以欺诈、胁迫手段或乘人之危，使对方在违背真实意思的情况下订立或者变更劳动合同，致使劳动合同无效的；</p><p>6.被依法追究刑事责任的。</p><p><b>末位淘汰≠不能胜任工作</b></p><p><b>首先，</b></p><p><b>不能胜任工作，也不能立即解除合同。必须经过调整岗位、培训，仍不能胜任的，才可以解除合同。</b></p><p><b>其次，</b></p><p><b>不能胜任工作与末位淘汰并不是一个概念。二者不能混为一谈。</b></p><p>不能胜任工作解除合同，有法律支持，而末位淘汰解除合同，不符合法律规定。</p>", 
+            "topic": [
+                {
+                    "tag": "辞退", 
+                    "tagLink": "https://api.zhihu.com/topics/19762083"
+                }, 
+                {
+                    "tag": "公司辞退", 
+                    "tagLink": "https://api.zhihu.com/topics/20097243"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/zhilvshi"
+}

@@ -1,0 +1,424 @@
+{
+    "title": "通过自然语言处理项目学习C++", 
+    "description": "手把手教授用C++实现入门级NLP基础项目和算法。", 
+    "followers": [
+        "https://www.zhihu.com/people/wang-yong-heng-36", 
+        "https://www.zhihu.com/people/yu-hai-long-22", 
+        "https://www.zhihu.com/people/skyaway-80", 
+        "https://www.zhihu.com/people/huang-yi-71-2", 
+        "https://www.zhihu.com/people/liao-jin-yun", 
+        "https://www.zhihu.com/people/yuan-yuan-yuan-65-41", 
+        "https://www.zhihu.com/people/qiu-xian-sheng-69-64", 
+        "https://www.zhihu.com/people/tang-xin-25", 
+        "https://www.zhihu.com/people/lunarfire", 
+        "https://www.zhihu.com/people/tang-quan-37-28", 
+        "https://www.zhihu.com/people/esheroe", 
+        "https://www.zhihu.com/people/liang-51-3", 
+        "https://www.zhihu.com/people/james-chang-67", 
+        "https://www.zhihu.com/people/bo-kai-zhi-ge", 
+        "https://www.zhihu.com/people/oliver-kahn-60", 
+        "https://www.zhihu.com/people/yanqiu-zhang", 
+        "https://www.zhihu.com/people/ma-xing-yu-72-30", 
+        "https://www.zhihu.com/people/litzhuzah", 
+        "https://www.zhihu.com/people/jie-li-59-61", 
+        "https://www.zhihu.com/people/pichuworks", 
+        "https://www.zhihu.com/people/lucky-45-9-77", 
+        "https://www.zhihu.com/people/zhao-feng-31-63", 
+        "https://www.zhihu.com/people/zhu-hao-yan-10", 
+        "https://www.zhihu.com/people/xuan-lu-80-62", 
+        "https://www.zhihu.com/people/programmer_song", 
+        "https://www.zhihu.com/people/er-bai-wu-shi-liu", 
+        "https://www.zhihu.com/people/zhao-ze-kun-84", 
+        "https://www.zhihu.com/people/ry-china", 
+        "https://www.zhihu.com/people/fei-cun-37", 
+        "https://www.zhihu.com/people/he-hao-tian-98", 
+        "https://www.zhihu.com/people/zheng-zhi-hang", 
+        "https://www.zhihu.com/people/yike-dou-er", 
+        "https://www.zhihu.com/people/duoduo-70-96", 
+        "https://www.zhihu.com/people/hankzhan", 
+        "https://www.zhihu.com/people/it-bee", 
+        "https://www.zhihu.com/people/xiao-bai-xiao-xiao-bai-60", 
+        "https://www.zhihu.com/people/NessajHu", 
+        "https://www.zhihu.com/people/liu-yuan-zhen-68", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/ru-zi-10", 
+        "https://www.zhihu.com/people/ya-ya-92-15-78", 
+        "https://www.zhihu.com/people/qie-shi-zhe", 
+        "https://www.zhihu.com/people/sunshine-59-71", 
+        "https://www.zhihu.com/people/rain-john", 
+        "https://www.zhihu.com/people/yyc-47-2", 
+        "https://www.zhihu.com/people/hei-hong-ling-jin", 
+        "https://www.zhihu.com/people/alex-shen-55", 
+        "https://www.zhihu.com/people/holy-42-6", 
+        "https://www.zhihu.com/people/zou-yu-sheng-3", 
+        "https://www.zhihu.com/people/tiyee", 
+        "https://www.zhihu.com/people/chen-chao-bo", 
+        "https://www.zhihu.com/people/Struggler_lr", 
+        "https://www.zhihu.com/people/she-liang", 
+        "https://www.zhihu.com/people/liu-fei-94-95", 
+        "https://www.zhihu.com/people/fang-albert", 
+        "https://www.zhihu.com/people/yu-zhao-yang-87", 
+        "https://www.zhihu.com/people/rainbow_jjh", 
+        "https://www.zhihu.com/people/li-ren-3-60-29", 
+        "https://www.zhihu.com/people/ma-yu-xiang-4", 
+        "https://www.zhihu.com/people/ggff-ss", 
+        "https://www.zhihu.com/people/da-lin-xiao-ru", 
+        "https://www.zhihu.com/people/yi-zhi-1-36-17", 
+        "https://www.zhihu.com/people/shen-mei-sheng", 
+        "https://www.zhihu.com/people/mybunny", 
+        "https://www.zhihu.com/people/yang-jun-yi-98-1", 
+        "https://www.zhihu.com/people/zhang-dong-sheng-6-90", 
+        "https://www.zhihu.com/people/justtoseesee", 
+        "https://www.zhihu.com/people/tian-nan-man-man", 
+        "https://www.zhihu.com/people/qiu-tian-bu-hui-lai-59", 
+        "https://www.zhihu.com/people/struct-78", 
+        "https://www.zhihu.com/people/mqqm-29", 
+        "https://www.zhihu.com/people/wulathink", 
+        "https://www.zhihu.com/people/yxzjerryfish", 
+        "https://www.zhihu.com/people/tao-de-72", 
+        "https://www.zhihu.com/people/pang-da-hai-7-21", 
+        "https://www.zhihu.com/people/zhouzhuabin5", 
+        "https://www.zhihu.com/people/calvin-neo", 
+        "https://www.zhihu.com/people/xian-mu-28", 
+        "https://www.zhihu.com/people/an-zi-91-34", 
+        "https://www.zhihu.com/people/donewell", 
+        "https://www.zhihu.com/people/TAT_hanxiao", 
+        "https://www.zhihu.com/people/xiangguangyan", 
+        "https://www.zhihu.com/people/insight-jing", 
+        "https://www.zhihu.com/people/liang-liang-25-85", 
+        "https://www.zhihu.com/people/huangwang-zuo", 
+        "https://www.zhihu.com/people/gao-jian-41-40", 
+        "https://www.zhihu.com/people/boyuezh", 
+        "https://www.zhihu.com/people/yang-jian-4-54", 
+        "https://www.zhihu.com/people/guo-jia-qian-wo-yige-da-bao-jian", 
+        "https://www.zhihu.com/people/xiao-jie-32", 
+        "https://www.zhihu.com/people/a-fei-xi-ya-65", 
+        "https://www.zhihu.com/people/ren-yong-shun-66", 
+        "https://www.zhihu.com/people/linuxcpp", 
+        "https://www.zhihu.com/people/lizzoe", 
+        "https://www.zhihu.com/people/wook9615", 
+        "https://www.zhihu.com/people/mu-zi-10-76-74", 
+        "https://www.zhihu.com/people/jia-li-wei-88", 
+        "https://www.zhihu.com/people/yeu-yang", 
+        "https://www.zhihu.com/people/su-su-16-22-32", 
+        "https://www.zhihu.com/people/dong-fang-ying-19", 
+        "https://www.zhihu.com/people/xianlong-chen", 
+        "https://www.zhihu.com/people/qichao-tang", 
+        "https://www.zhihu.com/people/liu-zhen-hua-59-24", 
+        "https://www.zhihu.com/people/chanlee-16", 
+        "https://www.zhihu.com/people/wang-jie-21-24", 
+        "https://www.zhihu.com/people/wei-wen-hua-ming-51-18", 
+        "https://www.zhihu.com/people/wang-zi-an-61-9", 
+        "https://www.zhihu.com/people/dream-big", 
+        "https://www.zhihu.com/people/mai-sui-95-14", 
+        "https://www.zhihu.com/people/123789456-65", 
+        "https://www.zhihu.com/people/wneglect", 
+        "https://www.zhihu.com/people/zhi-zhi-qi-ci", 
+        "https://www.zhihu.com/people/hei-yu-95", 
+        "https://www.zhihu.com/people/yisong-40", 
+        "https://www.zhihu.com/people/yu-peng-84-84", 
+        "https://www.zhihu.com/people/liu-wei-49-87-33", 
+        "https://www.zhihu.com/people/li-ao-40", 
+        "https://www.zhihu.com/people/ling-hun-you-xiang-qi-de-nu-zhi-59", 
+        "https://www.zhihu.com/people/zhang-shi-di-4", 
+        "https://www.zhihu.com/people/wang-yang-26-79-49", 
+        "https://www.zhihu.com/people/ni-hao-26-27", 
+        "https://www.zhihu.com/people/zhang-zhuo-yu-99", 
+        "https://www.zhihu.com/people/ikara-tasi", 
+        "https://www.zhihu.com/people/wo-de-tou-xiang-shi-tiao-gou", 
+        "https://www.zhihu.com/people/yi-bu-yi-bu-zou-72", 
+        "https://www.zhihu.com/people/lydia-yuan-6", 
+        "https://www.zhihu.com/people/wu-ye-tang-lang", 
+        "https://www.zhihu.com/people/deathallows", 
+        "https://www.zhihu.com/people/yu-an-28-60", 
+        "https://www.zhihu.com/people/yizhi-xiang-xue-da-shu-ju-de-yuan", 
+        "https://www.zhihu.com/people/learn-furtherly", 
+        "https://www.zhihu.com/people/zyx-53-16", 
+        "https://www.zhihu.com/people/song-zi-wen-12", 
+        "https://www.zhihu.com/people/yongye-28", 
+        "https://www.zhihu.com/people/kakadadudu", 
+        "https://www.zhihu.com/people/duyiqi", 
+        "https://www.zhihu.com/people/dang-liu-xing-hua-guo-ni-de-bi-an", 
+        "https://www.zhihu.com/people/zheshixiaohao", 
+        "https://www.zhihu.com/people/yun-zhong-jun-49", 
+        "https://www.zhihu.com/people/cui-tong-90", 
+        "https://www.zhihu.com/people/qinkang-69", 
+        "https://www.zhihu.com/people/zhang-shi-xin-bo", 
+        "https://www.zhihu.com/people/dong-feng-66-72", 
+        "https://www.zhihu.com/people/qiu-zhen-yu-87", 
+        "https://www.zhihu.com/people/liu-fang-52-69-49", 
+        "https://www.zhihu.com/people/feng-de-juan-lian-69", 
+        "https://www.zhihu.com/people/shi-nian-bing-fei-shi-nian", 
+        "https://www.zhihu.com/people/bu-song-84-40", 
+        "https://www.zhihu.com/people/zhu-ren-bing-78", 
+        "https://www.zhihu.com/people/jiang-hai-yun-92", 
+        "https://www.zhihu.com/people/pretdb", 
+        "https://www.zhihu.com/people/li-dong-sheng-93-92", 
+        "https://www.zhihu.com/people/yyy-25-77", 
+        "https://www.zhihu.com/people/zhang-han-pei", 
+        "https://www.zhihu.com/people/huang-shi-yi-57-38", 
+        "https://www.zhihu.com/people/chen-yong-17-33", 
+        "https://www.zhihu.com/people/yizhi-xiao-cai-ji-25", 
+        "https://www.zhihu.com/people/miroslav-23", 
+        "https://www.zhihu.com/people/huang-zheng-94-81", 
+        "https://www.zhihu.com/people/tengfei-57", 
+        "https://www.zhihu.com/people/huang-ran-21-61", 
+        "https://www.zhihu.com/people/ypylj", 
+        "https://www.zhihu.com/people/yildhd-wang", 
+        "https://www.zhihu.com/people/wibruce"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/56914570", 
+            "userName": "车中草", 
+            "userLink": "https://www.zhihu.com/people/e0dd9ce9d85aa5b014a0c053d98e5848", 
+            "upvote": 7, 
+            "title": "C++和eigen库实现BP算法词性标注", 
+            "content": "<p><b>碎碎念：</b></p><p>   这一个寒假，主要做了以下几件事</p><p>1. 从源码角度学了STL和C++11的一大特性，优化了以前写的一些代码，HMM，对数线性模型，，全局模型，CRF词性标注的代码，使得性能达到我目前水平的最优。至少跟师兄们写的python代码比，效率比他们高。</p><p>2. 看了神经网络和深度学习的前三章，并且用C++和eigen库写了前向全连接的神经网络进行词性标注的代码。</p><p>之后就开始考研的旅途，为了防止考研后把这一点点基础全忘了，现在记录下来。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这是github实现代码。</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/NLPJCL/BPNN\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-e9e4db83f31960d8a36470472f5650d2_ipico.jpg\" data-image-width=\"400\" data-image-height=\"400\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">NLPJCL/BPNN</a><p><b>目标：</b></p><p><b>输入是一个词或者一组词序列，输出是一个词性或者一组词性</b>。</p><p><b>1.先定义一个神经网络。</b></p><p>我们来推导进行词性标注的神经元的结构。方法是：从问题开始循序渐进的推导。</p><p><b>一.输入：</b></p><p>1.  <b>单单靠一个词是无法预测词性的</b>（一个词在这句可能是名词，在那句又可能是动词），</p><p>因此我们还要把它放在句子，同时看它前后的词。所以这里我们引出一个概念，叫做上下文窗口：比如如果上下文窗口是5的话，就是输入是包括这个词在内以及它前面的两个词和他后面的两个词。</p><p><b>好的，明确我们的输入之后，让我们大脑稍作休息，举个例子来理解一下细节。</b></p><p>比如一句话：我是中国人。</p><p>我们要对这句话标注词性，</p><p>当我们要预测第一个词：“我”的词性的时候，</p><p>我们输入到神经元的是”start” , ”start”,”<b>我</b>”,”是”，”中国人”。</p><p>当我们要预测第二个词:“”是”的词性的时候，</p><p>我们输入到神经元的是”start”,”我”,”<b>是</b>”，”中国人”，”end”。</p><p><b>2.接下来遇到的问题是：我们如何表示一个词？</b></p><p>先来回顾一下，在神经网络和深度学习这本书中，是如何表示一张图片的？</p><p>摘抄原文一句话：</p><p><b>很自然，我们可以将图片像素的强度进行编码作为输入神经元来设计网络。</b></p><p><b>比如如果图片是64x64的灰度图像。那么我们会需要4096个输入神经元。</b></p><p><b>图片自然而然可以用像素作为输入到神经网络中。字符串呢？</b></p><p>引出第二个东西，词嵌入：”</p><p>理论知识我也没去了解，举例感性认识一下吧。</p><p>1.这种表示词的向量通常是低维、稠密的，所有的词向量的维度都一样，每一维都可以认为在表达某种语义。</p><p>例如：</p><p>母亲[0.13,-0.52,…0.93,0.44]</p><p>妈妈[0.11,-0.49,…0.80,0.46]</p><p>可以看出，“母亲”和“妈妈”这种含义相近的词，其向量在数值上非常接近。使用这种表示方式，便建立了一个语义向量空间，每个词都被嵌在语义空间中的一个点上，这也是其被称为词嵌入的原因。含义相近的词在语义空间中的位置也会非常接近。</p><p><b>现在回过头来，我们刚开始的问题是如何表示一个词（字符串）？</b></p><p>我们可以把别人训练好的预训练词向量，来用一张二维表来存储。每一行代表一个词的词向量。</p><p>当我们想要把某个词输入到神经网络中去的时候，我们就在这张二维表中查找这个词的词向量。然后作为神经网络的输入。Prefect！这个二维表也就是预训练的词向量可以跟着神经网络的参数一起训练。</p><p><b>总结一下：上面我们的那个例子，</b></p><p>假设我们预训练的词向量的维度是100。</p><p>我们输入到神经元的是”start” , ”start”,”<b>我</b>”,”是”，”中国人”。</p><p>我们在二维表中依次查找“start”，“start”,”我” ，”是”，”中国人”的词向量，然后拼接起来作为一个500维的向量作为神经网络的输入。</p><p><b>自然而然我们得到一个公式：神经网络输入神经元的维度是窗口大小x预训练词向量的维度。</b></p><p>在上面我们的例子中是5x100。</p><p>至此，输入我们就讲完了，自然而然我们设计的神经网络的输入神经元的维度是500。</p><p><b>至于隐藏层：</b></p><p><b>查找一句话：自己体会（翻白眼）</b></p><p>相⽐于神经⽹络中输⼊输出层的直观设计，<b>隐藏层的设计则堪称⼀⻔艺术</b>。特别是，通过 ⼀些简单的经验法则来总结隐藏层的设计流程是不可⾏的。相反，神经⽹络的研究⼈员已经为 隐藏层开发了许多设计最优法则，这有助于⽹络的⾏为能符合⼈们期望的那样。例如，这些法则可以⽤于帮助权衡隐藏层数量和训练⽹络所需的时间开销。在本书后⾯我们会碰到⼏个这样 的设计最优法则。</p><p><b>所以我们直接定义隐藏层的层数的层数为1，维度为300。</b></p><p><b>至于输出层：</b></p><p>先统计出训练集所有可能的词性，然后输出层的神经元的维度为所有可能的词性。</p><p><b>总结：</b></p><p>至此，我们进行词性标注的神经网络已经构建好了，请大家不厌其烦的再听我总结一下：</p><p>1. 输入神经元的维度是窗口大小x词向量的维度。</p><p>2. 隐藏神经元的层数是1，维度是300。</p><p>3. 输出神经元的维度是训练集中可能出现的词性种类。 </p><p><b>输入是一句话的一个词以及前两个词和后两个词，通过查询词向量的二维表来查找到他们的词向量，拼接起来（作为该词的特征）。输入到隐藏层。</b></p><p><b>输出层可以用softmax函数得到对应的概率。最后取最大值作为预测的结果。</b></p><p><b>Loss函数选择交叉熵。</b></p><p><b>本质上，我们这种预测方式还是以一个词一个词为单位进行预测的。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>名词解释：</p><p>多层感知机（MLP）：尽管是由S型神经元而不是感知机构成，这种多层⽹络有时被称为多层感知机或者MLP</p><p>前馈神经⽹络（Feedforword neural network）：都是以上⼀层的输出作为下⼀层的输⼊。这种⽹络被称为前馈神经⽹络。</p><p>参考：</p><p>1.师兄的一个代码</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/zysite/BPNN\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-68e0013c49a4898597d907ee1b766812_ipico.jpg\" data-image-width=\"400\" data-image-height=\"400\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">zysite/BPNN</a><p>2.一本在线阅读书</p><a href=\"https://link.zhihu.com/?target=http%3A//neuralnetworksanddeeplearning.com/index.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-531b75ef7a6a008d6905b52a79db0992_ipico.jpg\" data-image-width=\"117\" data-image-height=\"107\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Neural networks and deep learning</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "神经网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19607065"
+                }, 
+                {
+                    "tag": "自然语言处理", 
+                    "tagLink": "https://api.zhihu.com/topics/19560026"
+                }, 
+                {
+                    "tag": "BP算法", 
+                    "tagLink": "https://api.zhihu.com/topics/20205091"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/55924014", 
+            "userName": "车中草", 
+            "userLink": "https://www.zhihu.com/people/e0dd9ce9d85aa5b014a0c053d98e5848", 
+            "upvote": 16, 
+            "title": "C++适配器（二）- 函数适配器-bind函数", 
+            "content": "<p></p><a href=\"https://zhuanlan.zhihu.com/p/55675755\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">车中草：C++适配器（一）- 概述</a><p><b>碎碎念：</b></p><p>          建议先看下上面这篇文章，可以高屋建筑的把握C++中所有关于适配器的内容，达到一种感性的认识。讲解还是从使用场合和常见的使用方法。</p><p><b>使用场合：</b></p><p><b>             从两个角度说，为什么要学习C++的函数适配器bind（）函数。</b></p><p>   <b>考虑一种情况,有一个数组，一个需求是 计算出容器中小于50的数的个数。</b></p><p><b>很多人立即想到有一个算法是count_if(beg,end,pred);</b></p><p>beg和end是容器的范围，而pred可以是一个函数。不过对于我们这个需求，这个函数有点特殊，它需要接受两个参数，第一个参数就是容器中的元素，第二个参数是50。这就有两个问题出现了，</p><p><b>第一个问题:      count_if 所要求的pred函数必须只能接受一个参数。而我们的需求需要接受两个。</b></p><p><b>第二个问题：    如果程序中我们的需求变了呢？比如我们在后面的程序要计算的是容器中小于40的数的个数呢？我们当然可以编写很多个函数来解决这个问题，但这不符合软件工程的思想。</b></p><p><b>因此：我们C++11引入了bind这个函数适配器，它接受一个函数，生成一个新的函数来改变原来函数的参数列表。比如减少原来函数的参数个数，或者顺序。使得它满足新的需求。</b></p><p><b>使用方法：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1.头文件和命名空间</b></p><p><b>#include&lt;functional&gt;</b></p><p><b>using namespace std::placeholders;  //主要为了后面的占位符</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2.举例</b></p><p><b>bind的使用方法:</b></p><p><b>        bind(函数名，arg_list);</b></p><p> arglist 是一个被逗号分隔的原来函数的参数列表，里面可包含占位符.n代表新的函数里的参数的位置。 看下简单的例子，就会很快就懂了。    </p><p><b>        1.改造一个函数：（结果在后面的注释里面）</b></p><div class=\"highlight\"><pre><code class=\"language-cpp\">\t<span class=\"kt\">double</span> <span class=\"nf\">my_divide</span><span class=\"p\">(</span><span class=\"kt\">double</span> <span class=\"n\">x</span><span class=\"p\">,</span> <span class=\"kt\">double</span> <span class=\"n\">y</span><span class=\"p\">)</span>\n\t<span class=\"p\">{</span>\n\t\t<span class=\"k\">return</span> <span class=\"n\">x</span><span class=\"o\">/</span><span class=\"n\">y</span><span class=\"p\">;</span>\n\t<span class=\"p\">}</span>\n        <span class=\"c1\">//给x绑定为10，y绑定为2。\n</span><span class=\"c1\"></span>        <span class=\"k\">auto</span> <span class=\"n\">fn_five</span> <span class=\"o\">=</span> <span class=\"n\">bind</span><span class=\"p\">(</span><span class=\"n\">bind_</span><span class=\"o\">::</span><span class=\"n\">my_divide</span><span class=\"p\">,</span> <span class=\"mi\">10</span><span class=\"p\">,</span> <span class=\"mi\">2</span><span class=\"p\">);</span>\t<span class=\"c1\">//return 10/2\n</span><span class=\"c1\"></span>\t<span class=\"n\">cout</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">fn_five</span><span class=\"p\">()</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span><span class=\"c1\">//5\n</span><span class=\"c1\"></span>        <span class=\"c1\">//使用占位符_1，新生成的函数里面有一个参数。并且对应到到原来函数的第一个参数中。\n</span><span class=\"c1\"></span>\t<span class=\"k\">auto</span> <span class=\"n\">fn_half</span> <span class=\"o\">=</span> <span class=\"n\">bind</span><span class=\"p\">(</span><span class=\"n\">bind_</span><span class=\"o\">::</span><span class=\"n\">my_divide</span><span class=\"p\">,</span> <span class=\"n\">_1</span><span class=\"p\">,</span> <span class=\"mi\">2</span><span class=\"p\">);</span>\t<span class=\"c1\">//x/2\n</span><span class=\"c1\"></span>\t<span class=\"n\">cout</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">fn_half</span><span class=\"p\">(</span><span class=\"mi\">10</span><span class=\"p\">)</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>\t\t\t\t\t<span class=\"c1\">//5\n</span><span class=\"c1\"></span>        <span class=\"c1\">//使用两个占位符_2,_1。新生成的函数里面有两个参数，并且两个参数的调用顺序被改变。\n</span><span class=\"c1\"></span>\t<span class=\"k\">auto</span> <span class=\"n\">fn_invert</span> <span class=\"o\">=</span> <span class=\"n\">bind</span><span class=\"p\">(</span><span class=\"n\">bind_</span><span class=\"o\">::</span><span class=\"n\">my_divide</span><span class=\"p\">,</span> <span class=\"n\">_2</span><span class=\"p\">,</span> <span class=\"n\">_1</span><span class=\"p\">);</span>\t<span class=\"c1\">//return y/x\n</span><span class=\"c1\"></span>\t<span class=\"n\">cout</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">fn_invert</span><span class=\"p\">(</span><span class=\"mi\">10</span><span class=\"p\">,</span> <span class=\"mi\">2</span><span class=\"p\">)</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>\t\t\t\t\t<span class=\"c1\">//0.2\n</span><span class=\"c1\"></span>        <span class=\"c1\">//设定返回类型\n</span><span class=\"c1\"></span>\t<span class=\"k\">auto</span> <span class=\"n\">fn_rounding</span> <span class=\"o\">=</span> <span class=\"n\">bind</span><span class=\"o\">&lt;</span><span class=\"kt\">int</span><span class=\"o\">&gt;</span><span class=\"p\">(</span><span class=\"n\">bind_</span><span class=\"o\">::</span><span class=\"n\">my_divide</span><span class=\"p\">,</span> <span class=\"n\">_1</span><span class=\"p\">,</span> <span class=\"n\">_2</span><span class=\"p\">);</span>\t<span class=\"c1\">//return int(x/y)\n</span><span class=\"c1\"></span>\t<span class=\"n\">cout</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">fn_rounding</span><span class=\"p\">(</span><span class=\"mi\">10</span><span class=\"p\">,</span> <span class=\"mi\">3</span><span class=\"p\">)</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>             <span class=\"c1\">//3\n</span></code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>如果没看懂，就返回去仔细看注释，再看一遍，一定会懂哒！</p><p>总结一下：</p><p><b>1.bind 的参数列表中有几个   _n，新生成的函数里面就有几个参数。</b></p><p><b>2.bind的一个作用是可以改变参数的顺序和参数的个数。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.解决我们开头的问题</b></p><p>       考虑一种情况,有一个数组，一个需求是 计算出容器中小于50的数的个数。很多人立即想到有一个算法是count_if(beg,end,pred);</p><p><b>深入一点：我们前面说bind的形式是： bind(函数名，arg_list);</b></p><p><b>其实bind改造的不一定是函数，而是可调用对象。：包括函数，函数指针，函数对象，lambda表达式。</b></p><p>这里我们采用改造标准库函数对象的方式解决这个问题。</p><div class=\"highlight\"><pre><code class=\"language-text\">vector&lt;int&gt;  v{15,37,94,50,73,58,28,90};\nauto fn=bind(less&lt;int&gt;(),_1,50);\ncout&lt;&lt;coutif(v.begin(),v.end(),fn_);//3\n </code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>打完收工。</p><p><b>看完这篇文章，你可以延伸学习的有，函数对象，lambda表达式。加油。</b></p><p>勿在浮沙筑高层。共勉！</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "STL", 
+                    "tagLink": "https://api.zhihu.com/topics/19583423"
+                }, 
+                {
+                    "tag": "C++11", 
+                    "tagLink": "https://api.zhihu.com/topics/19726035"
+                }, 
+                {
+                    "tag": "C++", 
+                    "tagLink": "https://api.zhihu.com/topics/19584970"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "saltarea", 
+                    "userLink": "https://www.zhihu.com/people/5b75341a1c98b320eb7a30549371573a", 
+                    "content": "<p>是不是类似模板的偏特化？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "小钻风", 
+                    "userLink": "https://www.zhihu.com/people/bc750fae5a1efa876f03bb8919e088a0", 
+                    "content": "这个地方直接填lambda表达式好一些吧。。。<br>bind挺慢的", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "火焰猫燐", 
+                    "userLink": "https://www.zhihu.com/people/ec5d0651e8113295ace603739a2a82a5", 
+                    "content": "<p>这个更像函数式编程里的currying</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "livmortis", 
+                    "userLink": "https://www.zhihu.com/people/93b22e80229e05d3718319cb7636a073", 
+                    "content": "<p>高屋建瓴</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "车中草", 
+                            "userLink": "https://www.zhihu.com/people/e0dd9ce9d85aa5b014a0c053d98e5848", 
+                            "content": "周杰伦。。。", 
+                            "likes": 0, 
+                            "replyToAuthor": "livmortis"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/54291684", 
+            "userName": "车中草", 
+            "userLink": "https://www.zhihu.com/people/e0dd9ce9d85aa5b014a0c053d98e5848", 
+            "upvote": 12, 
+            "title": "词法分析程序的自动生成器（二）——Thompson算法", 
+            "content": "<p><b> 碎碎念：</b>我写词法分析程序的自动生成器的时候，先写的NFA-DFA和DFA化简。之后发现因为正则表达式的结构太复杂了，比如描述Pl/0程序标识符的正则表达式是 (a|…|z|A|…|Z)( a|…|z|A|…|Z|0|…|9)* ，所以我一直认为把正则表达式转换成NFA的难度与写正则表达式的引擎的难度相同，所以被卡住了，迟迟没有动手，我想大多数人也是卡在这里。最近，查了很多资料，问了很多前辈，才解决了这个问题。</p><p><b>问题的难点是把一个复杂的正则表达式构造抽象语法树，进而转换为NFA的过程。下面我们来娓娓道来。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>具体实现：</b></p><p><b>一.先来介绍Thompson算法：从正则表达式到NFA。</b></p><p>       汤普森构造法是C语言&amp;Unix之父之一的肯·汤普森(Ken Thompson)提出的构造识别正则表达式ε-NFA的方法，其原理非常简单，先构造识别子表达式的ε-NFA，再通过几个简单的规则将ε-NFA合并，最终得到识别完整正则表达式的ε-NFA。汤普森构造法的优点是构造速度快，且构造的ε-NFA状态数较少。</p><p>1.有两条基本的规则：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a2050e6fdc895d82c22bd88af7758d99_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"744\" data-rawheight=\"449\" class=\"origin_image zh-lightbox-thumb\" width=\"744\" data-original=\"https://pic2.zhimg.com/v2-a2050e6fdc895d82c22bd88af7758d99_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;744&#39; height=&#39;449&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"744\" data-rawheight=\"449\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"744\" data-original=\"https://pic2.zhimg.com/v2-a2050e6fdc895d82c22bd88af7758d99_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a2050e6fdc895d82c22bd88af7758d99_b.jpg\"/></figure><p>2.归纳部分</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-f54467632547f42dd38b93617ee2ea79_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"862\" data-rawheight=\"535\" class=\"origin_image zh-lightbox-thumb\" width=\"862\" data-original=\"https://pic2.zhimg.com/v2-f54467632547f42dd38b93617ee2ea79_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;862&#39; height=&#39;535&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"862\" data-rawheight=\"535\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"862\" data-original=\"https://pic2.zhimg.com/v2-f54467632547f42dd38b93617ee2ea79_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-f54467632547f42dd38b93617ee2ea79_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d71fdea7bc02aa662638d8a627f7440f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"946\" data-rawheight=\"485\" class=\"origin_image zh-lightbox-thumb\" width=\"946\" data-original=\"https://pic4.zhimg.com/v2-d71fdea7bc02aa662638d8a627f7440f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;946&#39; height=&#39;485&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"946\" data-rawheight=\"485\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"946\" data-original=\"https://pic4.zhimg.com/v2-d71fdea7bc02aa662638d8a627f7440f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d71fdea7bc02aa662638d8a627f7440f_b.jpg\"/></figure><p>3.给定一个任意复杂的正则表达式，从左至右依次建立每个符号或子表达式的ε-NFA，再通过上述几个规则合并，最终能构造出识别完整正则的ε-NFA。</p><p><b>正则表达式（a|b）*构造其对应的NFA举例。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-8f1b42387b8329beb5996339b8ce9954_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"862\" data-rawheight=\"513\" class=\"origin_image zh-lightbox-thumb\" width=\"862\" data-original=\"https://pic1.zhimg.com/v2-8f1b42387b8329beb5996339b8ce9954_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;862&#39; height=&#39;513&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"862\" data-rawheight=\"513\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"862\" data-original=\"https://pic1.zhimg.com/v2-8f1b42387b8329beb5996339b8ce9954_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-8f1b42387b8329beb5996339b8ce9954_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4906d1542dd877d1e1e53eb3ecf4383c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"828\" data-rawheight=\"476\" class=\"origin_image zh-lightbox-thumb\" width=\"828\" data-original=\"https://pic1.zhimg.com/v2-4906d1542dd877d1e1e53eb3ecf4383c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;828&#39; height=&#39;476&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"828\" data-rawheight=\"476\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"828\" data-original=\"https://pic1.zhimg.com/v2-4906d1542dd877d1e1e53eb3ecf4383c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4906d1542dd877d1e1e53eb3ecf4383c_b.jpg\"/></figure><p><br/> </p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-43e9acf7a4cee26f6fefe03ef64fe624_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"963\" data-rawheight=\"605\" class=\"origin_image zh-lightbox-thumb\" width=\"963\" data-original=\"https://pic1.zhimg.com/v2-43e9acf7a4cee26f6fefe03ef64fe624_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;963&#39; height=&#39;605&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"963\" data-rawheight=\"605\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"963\" data-original=\"https://pic1.zhimg.com/v2-43e9acf7a4cee26f6fefe03ef64fe624_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-43e9acf7a4cee26f6fefe03ef64fe624_b.jpg\"/></figure><p>      这样我们就把一个正则表达式转换成了一个NFA。其实这是我们人脑构建的，计算机要构建NFA并没有那么容易，因为一个组成正则表达式的运算有优先级，比如闭包运算就比连接运算的优先级高，再说的形象一点，就像算术表达式求值的算法一样，建议大家去看下这个算法。算法的名字叫Dijkstra的双栈算术表达式求值算法，两个栈是运算符栈和操作数栈。对理解解析正则表达式有很大的作用。</p><p><b>二.构建正则表达式抽象语法树(</b>这里因为正则表达式的解析太过于简单，没必要两遍，一遍就可以，故我们不显示的构建抽象语法树，而是在这个过程中直接生成NFA<b>)</b></p><p><b>  1.算法描述：</b></p><p>        整个语法树的构建过程中需要一个词法分析器Lex，词法分析器从左到右逐个字符地扫描正则表达式，根据遇到的字符返回正确的Token给语法树构建器，对于不合法的正则表达式给出报错信息（例如转义字符\\后面跟的不是特殊字符）。<br/>       语法树构建器拿到词法分析器返回的词法Token后，开始进行自下而上的建树过程，在不考虑括号的情况下，正确的正则表达式的第一个词法Token应该是一个非运算符，它被包装为语法树节点结构然后被压入语法树构建器的语法树节点栈中。之后第二个词法Token可能是一个运算符也可能是一个非运算符，如果是非运算符，则需要添加一个表示连接的cat运算符到运算符栈中，并将得到的操作数Token包装为语法树节点压入语法树节点栈中。每次向运算符栈中压入新的运算符new之前，都需要查看当前运算符栈顶的运算符old，和new谁的优先级更高，如果old的优先级较高，则先处理old运算符（会用掉语法树节点栈中的节点，运算得到的节点再压回语法树节点栈），old被处理完后，old出栈，接下来的栈顶元素成为old，再次和new进行比较，重复这个过程，直到old的运算符优先级低于new，再将new运算符压栈。如果遇到了左括号，则先将左括号压入运算符栈中，在遇到右括号时需要将运算符栈中的节点从栈顶开始处理，直到处理到最靠近栈顶的左括号为止。当正则表达式处理完后，最后再处理运算符栈中剩余的运算符。正确的结果应该是运算符栈为空，语法树节点栈中有一个节点，这个节点就是整个语法树的根节点。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2.举个例子：对正则表达式（a|b)*a|bcd 构造语法树。过程如下：<br/></b>1 词法分析器从左向右扫描表达式，先得到左括号，将左括号包装成节点，压入运算符栈中；<br/>2 词法分析器获得的下一个节点为字符a，压入语法树节点栈中；<br/>3 词法分析器继续获取词法Token，得到运算符|，压入运算符栈中；<br/>4 下一个字符是b，将b包装成节点压入语法树节点栈中；<br/>5 继续获取字符，得到右括号，此时语法树构建器开始根据语法树节点栈和运算符栈进行运算合并已有节点，直到在语法树节点栈中遇到左括号为止。开始处理时语法树节点栈和运算符栈中内容如下：<br/> 运算符栈：（|<br/>语法树节点栈：ab<br/>运算符栈的栈顶运算符出栈，得到|运算符，这是一个双目运算符，所以从语法树节点栈中出栈2个节点b和a，|运算符和节点a节点b，得到新的节点（记为M），M再压入语法树节点栈，此时在运算符栈顶已经是左括号，将其出栈，节点合并结束。<br/> 两个栈的内容如下：<br/> 运算符栈：空<br/> 语法树节点栈：M<br/> 6 接下来是*号运算符，因为*号是优先级最高的运算符，所以可以直接处理，无需进行运算符优先级的比较，*号会消耗语法树节点栈中一个节点（也就是M），*号运算符和M节点运算得到新的节点N，重新压入节点栈中。 <br/>7 接下来词法分析器得到字符a，但是在节点N和字符a之间需要插入一个连接cat运算符，我们把cat运算符用‘+’来表示，‘+’压入运算符栈，a压入节点栈。<br/>8 词法分析器得到的下一个Token是运算符|，在向运算符栈中压入‘|’运算符之前，我们需要检查运算符栈的栈顶运算符和当前想要压栈的运算符的优先级，如果栈顶运算符的优先级大于等于将要压栈的运算符，则需要先处理栈顶的运算符（这里是一个循环的过程，也就是说处理完栈顶的运算符之后，还要继续比较栈顶的运算符和将要压栈的运算符之间的优先级，以决定接下来该执行什么步骤）。在这里栈顶的运算符‘+’的优先级比运算符‘|’的优先级高，所以先进行栈顶运算符的运算，‘+’连接运算符将节点N和a组成为新的节点（记为P）并重新压入节点栈中。然后运算符栈为空，此时把前面所说的“将要压入运算符栈的‘|’运算符”压入运算符栈。<br/>9 下一个字符是b，此时不需要插入连接运算符，只需要将字符b包装为节点压入节点栈。<br/>10 下一个字符是c，此时同样需要插入一个连接运算符，在向运算符栈中压入‘+’运算符之前，我们需要检查运算符栈的栈顶运算符和当前想要压栈的运算符的优先级。在这里‘+’的优先级高于栈顶的‘|’，所以直接将运算符‘+’压入运算符栈中，并将字符c包装为节点压入节点栈。<br/>11 下一个字符是d，此时同样需要插入一个连接运算符，在向运算符栈中压入‘+’运算符之前，我们需要检查运算符栈的栈顶运算符和当前想要压栈的运算符的优先级。在这里两个运算符相同，所以先处理运算符栈栈顶的运算符，‘+’运算符和节点栈中的b,c字符组成新的节点Q压入节点栈，然后运算符栈顶的运算符为‘|’，‘+’的优先级高于‘|’，所以不在处理运算符栈的栈顶运算符。将‘+’压入运算符栈，将字符d包装为节点压入节点栈。<br/>12 此时词法分析器报告已经到达正则表达式的结尾，所以开始处理运算符栈中剩余的运算符，从栈顶开始依次处理，首先遇到的是‘+’连接符，从节点栈中取出节点Q和字符d生成新的节点R压回节点栈。<br/>13 继续处理运算符栈，栈顶运算符为‘|’，从节点栈中取出节点P和节点R生成新的节点S压回节点栈。<br/>14 此时运算符栈清空，节点栈中只有一个节点S，S就是最终生成的语法树的根节点。（至此大功告成、功德圆满^_^呼呼）<br/> 可以看出，我们遇到一个非运算符时，需要检查是否需要添加cat连接符，在向运算符栈中添加一个新的运算符时，需要比较栈顶运算符和将要添加的运算符之间的优先级，以决定是否先进行栈顶运算符的运算<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-608d36cfb13dd62cddd44b06587e0af7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"662\" data-rawheight=\"520\" class=\"origin_image zh-lightbox-thumb\" width=\"662\" data-original=\"https://pic4.zhimg.com/v2-608d36cfb13dd62cddd44b06587e0af7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;662&#39; height=&#39;520&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"662\" data-rawheight=\"520\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"662\" data-original=\"https://pic4.zhimg.com/v2-608d36cfb13dd62cddd44b06587e0af7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-608d36cfb13dd62cddd44b06587e0af7_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6be36f97b026b82439566c5ed642114f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"581\" data-rawheight=\"341\" class=\"origin_image zh-lightbox-thumb\" width=\"581\" data-original=\"https://pic4.zhimg.com/v2-6be36f97b026b82439566c5ed642114f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;581&#39; height=&#39;341&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"581\" data-rawheight=\"341\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"581\" data-original=\"https://pic4.zhimg.com/v2-6be36f97b026b82439566c5ed642114f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6be36f97b026b82439566c5ed642114f_b.jpg\"/></figure><p><b>三.合并NFA：</b></p><p><b>1.说明：</b></p><p>     使用上述规则，构造词法分析器，首先利用汤普森构造法构造出识别每个token正则的ε-NFA，然后将这些ε-NFA并联得到识别所有token的ε-NFA，该ε-NFA具有多个不同的接受状态。</p><p><b>2.合并方法 ：</b></p><p>1. 引入新的开始状态，并引入从该开始状态到各个原开 始状态的ε转换 </p><p>2. 得到的NFA所接受的语言是原来各个NFA语言的并集 </p><p>3. 不同的接受状态代表不同的模式</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-05619d87f2fe8980e2bb5a2c8804f621_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"487\" data-rawheight=\"380\" class=\"origin_image zh-lightbox-thumb\" width=\"487\" data-original=\"https://pic2.zhimg.com/v2-05619d87f2fe8980e2bb5a2c8804f621_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;487&#39; height=&#39;380&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"487\" data-rawheight=\"380\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"487\" data-original=\"https://pic2.zhimg.com/v2-05619d87f2fe8980e2bb5a2c8804f621_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-05619d87f2fe8980e2bb5a2c8804f621_b.jpg\"/></figure><p><b>四.有穷自动机数据结构解析：</b></p><p><b>1.概述</b></p><p>    上面方法引入了三种有穷自动机，一种是从正则表达式构造的NFA，还有一种是子集构造算法中的中间生成的DFA,下面我们简称middle_DFA,还有一种是最终的DFA。</p><p>    程序数据结构的选择通常是输入和输出以及对数据结构的操作的算法的综合考虑，对数据结构的操作-即算法是非常重要的。我们这个程序也不例外，所以才选择数据结构的时候，要考虑到具体的算法。在这里，因为还没有描述算法，所以我们简要介绍一下各个数据结构选择的理由。可先观其大略。</p><p><b>2.NFA：从正则表达式构造的NFA</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-2a97c66dd8be3f201e80892e9e823396_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"538\" data-rawheight=\"178\" class=\"origin_image zh-lightbox-thumb\" width=\"538\" data-original=\"https://pic3.zhimg.com/v2-2a97c66dd8be3f201e80892e9e823396_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;538&#39; height=&#39;178&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"538\" data-rawheight=\"178\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"538\" data-original=\"https://pic3.zhimg.com/v2-2a97c66dd8be3f201e80892e9e823396_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-2a97c66dd8be3f201e80892e9e823396_b.jpg\"/></figure><p>通过上述可以观察到，由正则表达式通过Thompson构造NFA有三种情况</p><p>1. 状态机一定只有一个初始状态节点和一个结束状态节点。</p><p>2. 任何一个状态，最多只有两条出去的转换边。</p><p>3. 每个状态节点所拥有的边最多只有三种可能：</p><p> （1） 有一条边对应的是单个输入字符，例如：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d33c7587a2a90a096b1b5144ff39de12_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"278\" data-rawheight=\"73\" class=\"content_image\" width=\"278\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;278&#39; height=&#39;73&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"278\" data-rawheight=\"73\" class=\"content_image lazy\" width=\"278\" data-actualsrc=\"https://pic3.zhimg.com/v2-d33c7587a2a90a096b1b5144ff39de12_b.jpg\"/></figure><p>（2）  有一条边，对应的是ε</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-37e9120e8ff25f582d925f3c2f556103_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"341\" data-rawheight=\"139\" class=\"content_image\" width=\"341\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;341&#39; height=&#39;139&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"341\" data-rawheight=\"139\" class=\"content_image lazy\" width=\"341\" data-actualsrc=\"https://pic4.zhimg.com/v2-37e9120e8ff25f582d925f3c2f556103_b.jpg\"/></figure><p> （3）有两条出去的边，对应的都是ε：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-0153aab637d5fb2f129ec4261ec8559e_b.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"188\" data-rawheight=\"232\" class=\"content_image\" width=\"188\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;188&#39; height=&#39;232&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"188\" data-rawheight=\"232\" class=\"content_image lazy\" width=\"188\" data-actualsrc=\"https://pic3.zhimg.com/v2-0153aab637d5fb2f129ec4261ec8559e_b.png\"/></figure><p>（1）NFA基础数据结构  </p><p>  故我们的在这种情况下的NFA只有一个开始节点，一个结束节点，输入字符串记录下来，为了以后转换成组合NFA,以及转换成DFA做准备。转换函数，采用map有序的关联容器，为什么采用关联容器呢？刚开始我想的是，在有穷自动机中经常做的一个操作就是，一个状态，遇到一个输入字符，转向另外一个状态。需要查找该状态是否可以接受该输入字符，并查询遇到该输入字符转向哪里了。map的查找效率较高，故采用map。还有一个原因是我以前用map用的比较顺手，可能别人会觉得有点复杂，但对我来说其实更简单。但是，最后来想，其实这里采用二维数组更快和更方便。</p><p>（2）为词法分析引入数据结构。</p><p>为了词法分析做准备，我们为每一种正则表达式描述的单词类别构造NFA的时候，就要明确该单词类别是什么。故引入了string 变量type来描述单词类别。上面说过，构造完每一种单词类别的NFA后，就要把他们合并起来构造一个新的大NFA（后面算法会具体介绍），在该NFA种，终态会有很多个。故增加一个vector&lt;string&gt; vector_end，来描述要所有的终态。并将终态对应的类型存放在一个map&lt;string,string&gt; end_type中。表示该终态对应的单词类别类型。</p><p><b>3.middle_DFA：NFA转换成DFA后生成的DFA</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-aad0c9415e3da88b257b25092355b9a1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"138\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-aad0c9415e3da88b257b25092355b9a1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;138&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"138\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-aad0c9415e3da88b257b25092355b9a1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-aad0c9415e3da88b257b25092355b9a1_b.jpg\"/></figure><p>举个例子。这是原来的NFA，</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4a41e5d536428da77a5b54dc030bf1f4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1131\" data-rawheight=\"413\" class=\"origin_image zh-lightbox-thumb\" width=\"1131\" data-original=\"https://pic1.zhimg.com/v2-4a41e5d536428da77a5b54dc030bf1f4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1131&#39; height=&#39;413&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1131\" data-rawheight=\"413\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1131\" data-original=\"https://pic1.zhimg.com/v2-4a41e5d536428da77a5b54dc030bf1f4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4a41e5d536428da77a5b54dc030bf1f4_b.jpg\"/></figure><p>经过子集法之后，输出的DFA变成了这个样子。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2e0e633c1efdcc9c686123f85a6043ec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1198\" data-rawheight=\"863\" class=\"origin_image zh-lightbox-thumb\" width=\"1198\" data-original=\"https://pic1.zhimg.com/v2-2e0e633c1efdcc9c686123f85a6043ec_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1198&#39; height=&#39;863&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1198\" data-rawheight=\"863\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1198\" data-original=\"https://pic1.zhimg.com/v2-2e0e633c1efdcc9c686123f85a6043ec_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2e0e633c1efdcc9c686123f85a6043ec_b.jpg\"/></figure><p>从这张图中，我们可以看出，子集法的状态不再是原来状态的集合。故我们的数据结构也采用相应的变化。</p><p>4.DFA：最终输出的DFA。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-dfa18b56046f435d81d89ca8672807ce_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"537\" data-rawheight=\"135\" class=\"origin_image zh-lightbox-thumb\" width=\"537\" data-original=\"https://pic3.zhimg.com/v2-dfa18b56046f435d81d89ca8672807ce_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;537&#39; height=&#39;135&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"537\" data-rawheight=\"135\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"537\" data-original=\"https://pic3.zhimg.com/v2-dfa18b56046f435d81d89ca8672807ce_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-dfa18b56046f435d81d89ca8672807ce_b.jpg\"/></figure><p>我们对DFA改名和最小化化之后的DFA，是我们词法分析程序最终使用的DFA。是一个标准的DFA。有唯一的开始初态，也有多个终态。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>终于写完啦，好辛苦，如果你觉得有帮助给我点正反馈，点个赞吧、</p>", 
+            "topic": [
+                {
+                    "tag": "编译原理", 
+                    "tagLink": "https://api.zhihu.com/topics/19601369"
+                }, 
+                {
+                    "tag": "词法分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19843902"
+                }, 
+                {
+                    "tag": "正则表达式", 
+                    "tagLink": "https://api.zhihu.com/topics/19577832"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/54188199", 
+            "userName": "车中草", 
+            "userLink": "https://www.zhihu.com/people/e0dd9ce9d85aa5b014a0c053d98e5848", 
+            "upvote": 12, 
+            "title": "词法分析程序的自动生成器（一）——概述", 
+            "content": "<p><b>碎碎念： </b></p><p>              这学期学完了编译原理课程，刚开始学就对写编译器很感兴趣，结果发现学的东西是有正则文法，正则表达式，有穷自动机。刚开始很不清楚学习这个和写编译器有什么关系，查了很多资料，才明白，这种是词法分析程序的自动生成器的理论基石。早期的lex，再到flex，都是人们为了自动构造词法分析器而制作出的工具。而现在的编译原理语言，大多数选择手写词法分析程序。但是，既然学了这么多自动机，尤其像NFA到DFA的转换算法，以及DFA的化简算法，书上说的这么明白，不去实现一下，觉得手痒。于是就动手去写了类lex。(其实差远了)</p><p>         刚开始接触编译原理，走了很多弯路，才搞清楚两者的关系，为了方便大家，我总结如下：</p><p><b>1.大多数编译原理书上学的词法分析，包括龙书，虎书。介绍的正则表达式，有穷自动机，都是词法分析程序的自动生成器。</b></p><p><b>2.而大多数编译器考虑到性能和效率，都会采用手工构造的方式直接编写词法解析器。再介绍一下就是用程序设计语言，直接来写词法分析程序。</b></p><p><b>学习方法：</b></p><p>                搞清楚这个之后，我说一下我的想法，对目前的我来言，觉得提高编程能力最快的方法就是：<b>不是去死学语言语法，没有人能通过死读书去记住这么多语法规则，而是你知道一个东西的具体应用，也知道它的输入和输出，以及其中算法的思想或者是伪代码描述，去亲自结合算法去思考它的数据结构，去思考算法的实现。在这个过程中，多去利用搜索引擎去看看别人实现它的思路，主要去看看被人用了什么技术，然后去学习专门的技术，边学边用的技术很重要，实现了之后，再去看别人是怎么实现的，再去完善自己的代码。这也是轮子哥提倡的学习编程最好的方法，缺点就是花费的时间有点多。</b></p><p>基于这个思想，我就花费时间写了一个类似lex的词法分析程序的自动生成器。在这个过程中，看了很多资料，收获了很多，今天分享出来。</p><hr/><p>我这个人很喜欢教东西的时候，替别人考虑，万一读不懂怎么办？所以我首先简单说一下，这个教程的使用方法：<b>本教程，主要是把构造词法分析器自动生成器的方法串起来教给你。因为所有书，包括龙书，虎书，都没有串起来讲，都只是介绍单独一个算法，例如从正则到NFA,或者从NFA到DFA,DFA的最小化。并没有说其中实现的细节。我不会去讲，DFA和NFA是什么，这在任何一本编译原理书上都可以找到。我只是帮你串起来。代码不一定会透露出来，因为我水平有限，害怕误人子弟，但是我提供一种思路把。希望大家不要被我局限，因为我真的很辣鸡。</b></p><p><b>具体实现：</b></p><p><b>一.概述</b></p><p>主要思想：</p><p>        正则表达式是描述单词符号的一种方便的工具，适合于人阅读。但机器阅读正则表达式是十分困难的，而且，用正则表达式直接进行词法分析，不仅工作量大，速度缓慢。因此，我们引入一种专门为机器设计的表达形式-有穷自动机。我们可以通过Thompson算法把正则表达式转换成有穷自动机。</p><p><b>简介概括，就是我们把程序设计语言的每一种单词类别整理成若干个正则表达式，通过Thompson算法分别转换成ε-NFA，再把ε-NFA连接起来，组成一个大的NFA，通过子集法把NFA转换成DFA，必要时，把转换成的DFA使用分割法化简成最小的DFA，再通过基于DFA的词法分析驱动程序即可进行词法分析。</b></p><p>主要过程如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-03468be3e0fb49c1cd380665af8aaabc_b.jpg\" data-rawwidth=\"1000\" data-rawheight=\"384\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic1.zhimg.com/v2-03468be3e0fb49c1cd380665af8aaabc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1000&#39; height=&#39;384&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1000\" data-rawheight=\"384\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://pic1.zhimg.com/v2-03468be3e0fb49c1cd380665af8aaabc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-03468be3e0fb49c1cd380665af8aaabc_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>最后强调一下输入，输出。</p><p> 1输入：识别描述词法规则的正则表达式</p><p> 2输出：对应能识别对应语言的有穷自动机</p><p> 3词法分析过程：在基于DFA的词法分析程序驱动器下，根据生成的DFA对相应语言进行词法分析。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>下期预告：</p><p>             1.Thompson算法把正则表达式解析成NFA。不显式的构造抽象语法树的过程中生成NFA，构造正则表达式的抽象语法树的过程和构造算术表达式的抽象语法树的过程类似，都一样会存在运算符优先级和括号处理的问题。（这个困扰当时非常困扰我的一个地方）</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>碎碎念：</p><p>          勿在浮沙筑高台，基础是关键，本辣鸡去学习C++了。</p>", 
+            "topic": [
+                {
+                    "tag": "词法分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19843902"
+                }, 
+                {
+                    "tag": "编译原理", 
+                    "tagLink": "https://api.zhihu.com/topics/19601369"
+                }, 
+                {
+                    "tag": "编译器", 
+                    "tagLink": "https://api.zhihu.com/topics/19608032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/41999115", 
+            "userName": "车中草", 
+            "userLink": "https://www.zhihu.com/people/e0dd9ce9d85aa5b014a0c053d98e5848", 
+            "upvote": 4, 
+            "title": "通过NLP项目学习C++之词性标注（HMM）（一）", 
+            "content": "<p>本文是通过NLP项目学习C++之词性标注（HMM）的第一部分。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本单元内容：</p><p>1.什么是词性标注？</p><p>2.应用HMM进行词性标注。</p><p>3.什么是HMM？</p><p>4.HMM学习顺序。（给出了我理解HMM的几篇文章。）</p><p>具体实现：（见后续 通过NLP项目学习C++之词性标注（HMM）（二））</p><p>5.求解转移概率。</p><p>6.求解发射概率。</p><p>7.实现viterbi算法。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1.什么是词性标注？</b></p><p>  词性标注是自然语言处理中的一项基础任务，在语音识别、信息检索及自然语言处理的许多领域都发挥着重要的作用。</p><p>  举个例子：</p><p>输入句子：戴相龙说中国经济为亚洲作出积极贡献。</p><p>输出词性：</p><p>戴相龙 NR 说 VV 中国 NR 经济 NN 发展 NN 为 P 亚洲 NR 作出 VV 积极 JJ 贡献 NN。</p><p><b>2.应用HMM进行词性标注。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-d76b45eb6f9982f8a55bab61c0be8b75_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"603\" data-rawheight=\"453\" class=\"origin_image zh-lightbox-thumb\" width=\"603\" data-original=\"https://pic2.zhimg.com/v2-d76b45eb6f9982f8a55bab61c0be8b75_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;603&#39; height=&#39;453&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"603\" data-rawheight=\"453\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"603\" data-original=\"https://pic2.zhimg.com/v2-d76b45eb6f9982f8a55bab61c0be8b75_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-d76b45eb6f9982f8a55bab61c0be8b75_b.jpg\"/></figure><p>train和dev数据集的下载请点赞后私信我。</p><p><b>3.什么是HMM？</b></p><p>　隐马尔科夫模型（Hidden Markov Model，以下简称HMM）是比较经典的机器学习模型了，它在语言识别，自然语言处理，模式识别等领域得到广泛的应用。学习HMM的模型和对应算法，对我们解决问题建模的能力提高以及算法思路的拓展还是很好的。</p><p><b>4.HMM学习顺序。</b></p><p><b>1.</b></p><a href=\"https://www.zhihu.com/question/20962240\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">如何用简单易懂的例子解释隐马尔可夫模型？</a><p>知乎上这个回答从感性上通俗易懂的介绍了HMM及其应用。</p><p>2.</p><a href=\"https://www.zhihu.com/question/20136144\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">谁能通俗的讲解下viterbi算法？</a><p>第一次理解viterbi算法就是根据这个问题下Kiwee的回答，动手用C++实现了他的回答。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>上面分享的两篇文章，一个从道的角度，让我们理解HMM，一个从术的角度，让我们能亲手实现解码问题。两者相辅相成，认真研读，必能攻破NLP领域第一个高大上的模型。</p><p></p><p></p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "C++", 
+                    "tagLink": "https://api.zhihu.com/topics/19584970"
+                }, 
+                {
+                    "tag": "自然语言处理", 
+                    "tagLink": "https://api.zhihu.com/topics/19560026"
+                }, 
+                {
+                    "tag": "隐马尔科夫", 
+                    "tagLink": "https://api.zhihu.com/topics/20138450"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40592537", 
+            "userName": "车中草", 
+            "userLink": "https://www.zhihu.com/people/e0dd9ce9d85aa5b014a0c053d98e5848", 
+            "upvote": 2, 
+            "title": "通过NLP项目学习C++之汉字编码", 
+            "content": "<p><b>项目的目的：</b></p><p>1.深入理解中文编码，ASCII码。</p><p>2.学习汉字在计算中的几种常见编码。 </p><ul><li>情况 1：GBK编码 。</li><li>情况 2：UTF8 编码。为以后处理汉字与中英文混合文本打基础。</li></ul><p><b>NLP项目：</b></p><p>1.输入：给一段汉字文本，（可能含英文字母等 ASCII 符号)。</p><p>2.输出：将汉字文本分割开，并以空格隔开输出，最后输出一共有多 少个元素。</p><p><b>实现项目所需的知识：</b></p><p>1.C++知识</p><p>读者自行学习C++文件，和string的知识。</p><p>2.NLP相关知识</p><p>1.介绍常见的TXT文档常见的有两种形式</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8800d0a0d6a56ea029261855638c87be_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"948\" data-rawheight=\"711\" class=\"origin_image zh-lightbox-thumb\" width=\"948\" data-original=\"https://pic3.zhimg.com/v2-8800d0a0d6a56ea029261855638c87be_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;948&#39; height=&#39;711&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"948\" data-rawheight=\"711\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"948\" data-original=\"https://pic3.zhimg.com/v2-8800d0a0d6a56ea029261855638c87be_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8800d0a0d6a56ea029261855638c87be_b.jpg\"/></figure><p>1.ANSI编码，在简体中文Windows操作系统中，ANSI 编码代表 GBK 编码；</p><p>GBK的编码方式是中文占两个字节，英文占一个字节,</p><p> 中文的编码范围第一个字节  | 第二个字节</p><p>0x81-0xFE(129-254) | 0x40-0xFE(64-254)</p><p>英文ASCII码的编码范围是：</p><p>英文的编码范围第一个字节：</p><p>0-128；</p><p><b>总结，如果第一个字节的ASCII码&gt;=129，则是两个字节连在一起为一个字符，则一个字节为一个字符 。</b></p><p>2.UTF-8是不定长的，根据左侧位1的个数来决定占用了几个字节，中文一般占2-4个字节</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-f47fc1aa8b1fa250765ce55f69d0ee59_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"508\" data-rawheight=\"411\" class=\"origin_image zh-lightbox-thumb\" width=\"508\" data-original=\"https://pic2.zhimg.com/v2-f47fc1aa8b1fa250765ce55f69d0ee59_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;508&#39; height=&#39;411&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"508\" data-rawheight=\"411\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"508\" data-original=\"https://pic2.zhimg.com/v2-f47fc1aa8b1fa250765ce55f69d0ee59_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-f47fc1aa8b1fa250765ce55f69d0ee59_b.jpg\"/></figure><p><b>项目的实现：</b></p><p><b>1.流程图（仅供参考）</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-17aece440d0fad86fd74150c3d6127f0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"561\" data-rawheight=\"625\" class=\"origin_image zh-lightbox-thumb\" width=\"561\" data-original=\"https://pic1.zhimg.com/v2-17aece440d0fad86fd74150c3d6127f0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;561&#39; height=&#39;625&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"561\" data-rawheight=\"625\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"561\" data-original=\"https://pic1.zhimg.com/v2-17aece440d0fad86fd74150c3d6127f0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-17aece440d0fad86fd74150c3d6127f0_b.jpg\"/></figure><p><b>2.具体代码实现：（仅为GBK编码。UTF-8编码可自行实现）</b></p><div class=\"highlight\"><pre><code class=\"language-text\">#include&lt;iostream&gt;\n#include&lt;fstream&gt;\n#include&lt;string&gt;\nusing namespace std;\nint main()\n{\n\tifstream data(&#34;data.txt&#34;);\n\tif (!data)\n\t{\n\t\tcout &lt;&lt; &#34;don&#39;t open data file&#34; &lt;&lt; endl;\n\t\tsystem(&#34;pause&#34;);\n\t}\n\tofstream new_data(&#34;new_data.txt&#34;);\n\tif(!new_data)\n\t{\n\t\tcout &lt;&lt; &#34;don&#39;t open new_data.txt file&#34; &lt;&lt; endl;\n\t\tsystem(&#34;pause&#34;);\n\t}\n\tstring line, new_line;\n\tint total_char = 0;\n\twhile (getline(data, line))\n\t{\n\t\twhile (line.size() != 0)\n\t\t{\n\t\t\tif (unsigned char (line[0])&gt;=129)//GBK编码，根据第一个字节的最高位判断。\n\t\t\t{ \n\t\t\t\tnew_line =new_line+line.substr(0, 2)+&#34; &#34;;\n\t\t\t\tline.erase(0, 2);\n\t\t\t}\n\t\t\telse\n\t\t\t{\n\t\t\t\tnew_line = new_line + line.substr(0, 1) + &#34; &#34;;\n\t\t\t\tline.erase(0, 1);\n\t\t\t}\n\t\t\ttotal_char++;\n\t\t}\n\t\tnew_line.erase(new_line.size() - 1, 1);//删除最后一个空字符，\n\t\tnew_data &lt;&lt; new_line &lt;&lt; endl;\n\t\tnew_line.clear();\n\t}\n\tcout &lt;&lt; &#34;data.txt count is&#34; &lt;&lt; total_char &lt;&lt; endl;\n\treturn 0;\n}</code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "自然语言处理", 
+                    "tagLink": "https://api.zhihu.com/topics/19560026"
+                }, 
+                {
+                    "tag": "C++", 
+                    "tagLink": "https://api.zhihu.com/topics/19584970"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "「已注销」", 
+                    "userLink": "https://www.zhihu.com/people/97a4d1d0f9f295c8119b20aed296323a", 
+                    "content": "<p>C++萌新给大佬提个小建议：第二张图可以提一下“单字节（英文）字符是0开头，多字节字符的第一个字节的前n位设为1，第n+1位设为0，后面字节的前两位都设为10，这n个字节的其余空位填充该字符unicode码，高位用0补足”。否则直接看有一些困惑（逃</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "「已注销」", 
+                    "userLink": "https://www.zhihu.com/people/97a4d1d0f9f295c8119b20aed296323a", 
+                    "content": "<p>C++萌新给大佬提个小建议：第二张图可以提一下“单字节（英文）字符是0开头，多字节字符的第一个字节的前n位设为1，第n+1位设为0，后面字节的前两位都设为10，这n个字节的其余空位填充该字符unicode码，高位用0补足”。否则直接看有一些困惑（逃</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "车中草", 
+                            "userLink": "https://www.zhihu.com/people/e0dd9ce9d85aa5b014a0c053d98e5848", 
+                            "content": "同是萌新😀建议很好，收到了。", 
+                            "likes": 0, 
+                            "replyToAuthor": "「已注销」"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40231222", 
+            "userName": "车中草", 
+            "userLink": "https://www.zhihu.com/people/e0dd9ce9d85aa5b014a0c053d98e5848", 
+            "upvote": 2, 
+            "title": "通过自然语言处理项目学习C++专栏介绍", 
+            "content": "<p><b>本专栏的受众：</b></p><p>1.学过C++基础语法，想进一步提高编程能力的人。</p><p>2.想入门自然语言处理的人。亲手实现基础的NLP算法是入门NLP最好的方法。对于这种人，可以不限编程语言，本专栏用C++实现，你也可以用python，用java实现。</p><p>3.甚至是没有C++基础的人，我会在每个编程任务前，说明每个任务所需要的C++知识。大家可以先去学习所需要的C++知识，再回来实现NLP算法。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>本专栏的内容：</b></p><p>  本专栏的自然语言处理项目是苏州大学NLP团队布置给新入学研究生第一学期的编程任务。完成这八个编程任务，可以大大提高你的编程能力和入门自然语言处理。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>本专栏的目的：</b></p><p>1.通过浅显易懂的大白话，带领大家实现NLP基础算法。在此过程中，提高编程能力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>本专栏的讲授方法：</b></p><p>1.项目的描述：提供NLP项目的问题，我会说清楚输入和输出以及评价系统的输出。</p><p>2.项目的应用：提供这个项目的应用，心里不会有学了这个东西不知道能干什么的空虚感。</p><p>4.基础知识：提供NLP项目的讲义或视频文件和项目所需要的C++知识。</p><p>5.项目实现：</p><p>  1.用通俗易懂的例子让你理解这个算法。(此处会附录一些别人的博客)</p><p>  2.把项目拆解，分成一部分一部分的内容。</p><p>  3.编程实现。</p><p>6.总结。</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "自然语言", 
+                    "tagLink": "https://api.zhihu.com/topics/19656036"
+                }, 
+                {
+                    "tag": "C++", 
+                    "tagLink": "https://api.zhihu.com/topics/19584970"
+                }, 
+                {
+                    "tag": "编程", 
+                    "tagLink": "https://api.zhihu.com/topics/19554298"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "霍华德", 
+                    "userLink": "https://www.zhihu.com/people/4a0d3a504b9859139f2c003005230717", 
+                    "content": "快更新啊", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "车中草", 
+                            "userLink": "https://www.zhihu.com/people/e0dd9ce9d85aa5b014a0c053d98e5848", 
+                            "content": "大佬都催更了，我一定努力。", 
+                            "likes": 0, 
+                            "replyToAuthor": "霍华德"
+                        }, 
+                        {
+                            "userName": "霍华德", 
+                            "userLink": "https://www.zhihu.com/people/4a0d3a504b9859139f2c003005230717", 
+                            "content": "期待ing", 
+                            "likes": 0, 
+                            "replyToAuthor": "车中草"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "丫丫", 
+                    "userLink": "https://www.zhihu.com/people/78a42aa64cc761e9625d8cebb6ae8881", 
+                    "content": "天啊！！这专栏正是我所需！[惊喜][惊喜]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_180091142"
+}

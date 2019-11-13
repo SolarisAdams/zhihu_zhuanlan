@@ -1,0 +1,96 @@
+{
+    "title": "scrapy实用技巧", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/leng-ai-56", 
+        "https://www.zhihu.com/people/sha-fa-tou-83", 
+        "https://www.zhihu.com/people/weijiehao", 
+        "https://www.zhihu.com/people/deepblue-wu", 
+        "https://www.zhihu.com/people/jin-billy", 
+        "https://www.zhihu.com/people/zhang-zi-cheng-81", 
+        "https://www.zhihu.com/people/song-wen-sheng-42", 
+        "https://www.zhihu.com/people/yang-yong-de-yu-74-27", 
+        "https://www.zhihu.com/people/stephanie-zoo", 
+        "https://www.zhihu.com/people/guo-ming-86-76", 
+        "https://www.zhihu.com/people/fiver-fiver", 
+        "https://www.zhihu.com/people/sunshine-86-33", 
+        "https://www.zhihu.com/people/erichtho-82", 
+        "https://www.zhihu.com/people/xu-rui-gang-48", 
+        "https://www.zhihu.com/people/timberlake-5-69", 
+        "https://www.zhihu.com/people/zhang-xiao-80-93-16", 
+        "https://www.zhihu.com/people/li-yi-heng-60-80", 
+        "https://www.zhihu.com/people/zhui-meng-wqh", 
+        "https://www.zhihu.com/people/xi-dong-yang", 
+        "https://www.zhihu.com/people/lao-dong-78-27", 
+        "https://www.zhihu.com/people/hu-luo-bu-xu-91", 
+        "https://www.zhihu.com/people/qqhai-71", 
+        "https://www.zhihu.com/people/xiao-hei-ren-68-46", 
+        "https://www.zhihu.com/people/sha-xiao-zi-14", 
+        "https://www.zhihu.com/people/shu-cheng-wen-zhi", 
+        "https://www.zhihu.com/people/mang-guo-shu-xia-de-bi-de-tu", 
+        "https://www.zhihu.com/people/lin-wei-97-72", 
+        "https://www.zhihu.com/people/chen-wade-9", 
+        "https://www.zhihu.com/people/rickwang", 
+        "https://www.zhihu.com/people/zhi-shui-zhi-ya", 
+        "https://www.zhihu.com/people/houlei666", 
+        "https://www.zhihu.com/people/moolighty", 
+        "https://www.zhihu.com/people/rucbar", 
+        "https://www.zhihu.com/people/wu-qi-li-49", 
+        "https://www.zhihu.com/people/aira-3", 
+        "https://www.zhihu.com/people/qu-wen-di-fang", 
+        "https://www.zhihu.com/people/yinsolence", 
+        "https://www.zhihu.com/people/cp3666", 
+        "https://www.zhihu.com/people/shui-ye-52", 
+        "https://www.zhihu.com/people/wo-shi-pei-pei-xue-jie", 
+        "https://www.zhihu.com/people/king-27-58-41"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34035463", 
+            "userName": "徐昊旻", 
+            "userLink": "https://www.zhihu.com/people/9467530f41f62425b195d2cc7aedfef3", 
+            "upvote": 17, 
+            "title": "scrapy中settings参数的使用详解", 
+            "content": "<blockquote>代码开发的时候，总是提倡一些参数写在配置文件中，这对于未来的代码管理、维护、测试、部署都有很大的益处。<br/>scrapy作为一个强大爬虫的框架，其settings的应用机制也十分健壮，在这我总结了一些平时在爬虫项目中配置参数的使用技巧。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>settings的优先级</b></h2><p>官方文档中scrapy中settings参数有四个级别：</p><ol><li>命令行选项(Command line Options)(最高优先级)</li><li>项目设定模块(Project settings module)</li><li>命令默认设定模块(Default settings per-command)</li><li>全局默认设定(Default global settings) (最低优先级)</li></ol><p class=\"ztext-empty-paragraph\"><br/></p><p>其实我们平时使用的时候，settings配置主要就在这三个地方进行：</p><p><b>1.命令行选项：</b></p><p>   所谓的命令行选项，就是我们平时使用命令行scrapy crawl somespider时，可在命令行后面添加的自定义参数。</p><p>   例如： scrapy crawl somespider -s LOG_FILE=test.log -s MACHINE_NAME=123 -s ITEM_PIPELINES={}</p><p>   在上面的命令中，我们在启动somespider这个spider的时候，就设置了LOG_FILE为test.log， 自定义了一个变量MACHINE_NAME为123，将ITEM_PIPELINES设置为空。</p><p>   命令行选项是所有settings中优先级最高的（当然你写死在spider中的参数除外）</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2.custom_settings：</b></p><p>custom_settings可以理解为spider的个性设置，通常我们在一个项目目录下会有很多个spider，但是只有一个settings.py全局配置文件，为了让不同的spider应用不同的设置，我们可以在spider代码中加入custom_settings设置。</p><p>   例如：</p><p>   spiders/somespider.py</p><div class=\"highlight\"><pre><code class=\"language-python3\"><span class=\"kn\">from</span> <span class=\"nn\">..custom_settings</span> <span class=\"k\">import</span> <span class=\"o\">*</span>\n\n<span class=\"k\">class</span> <span class=\"nc\">Spider1</span><span class=\"p\">(</span><span class=\"n\">CrawlSpider</span><span class=\"p\">):</span>\n    <span class=\"n\">name</span> <span class=\"o\">=</span> <span class=\"s2\">&#34;spider1&#34;</span>\n    <span class=\"n\">custom_settings</span> <span class=\"o\">=</span> <span class=\"n\">custom_settings_for_spider1</span>\n    <span class=\"k\">pass</span>\n\n<span class=\"k\">class</span> <span class=\"nc\">Spider2</span><span class=\"p\">(</span><span class=\"n\">CrawlSpider</span><span class=\"p\">):</span>\n    <span class=\"n\">name</span> <span class=\"o\">=</span> <span class=\"s2\">&#34;spider2&#34;</span>\n    <span class=\"n\">custom_settings</span> <span class=\"o\">=</span> <span class=\"n\">custom_settings_for_spider2</span>\n </code></pre></div><p>   custom_settings.py</p><div class=\"highlight\"><pre><code class=\"language-text\">custom_settings_for_spider1 = {\n    &#39;LOG_FILE&#39;: &#39;spider1.log&#39;,\n    &#39;CONCURRENT_REQUESTS&#39;: 100,\n    &#39;DOWNLOADER_MIDDLEWARES&#39;: {\n        &#39;spider.middleware_for_spider1.Middleware&#39;: 667,\n    },\n    &#39;ITEM_PIPELINES&#39;: {\n        &#39;spider.mysql_pipeline_for_spider1.Pipeline&#39;: 400,\n    },\n}\n\ncustom_settings_for_spider2 = {\n    &#39;LOG_FILE&#39;: &#39;spider2.log&#39;,\n    &#39;CONCURRENT_REQUESTS&#39;: 40,\n    &#39;DOWNLOADER_MIDDLEWARES&#39;: {\n        &#39;spider.middleware_for_spider2.Middleware&#39;: 667,\n    },\n    &#39;ITEM_PIPELINES&#39;: {\n        &#39;spider.mysql_pipeline_for_spider2.Pipeline&#39;: 400,\n    },\n}</code></pre></div><p>   在spider里有两个蜘蛛spider1、spider2里，我们引入了来自custom_settings的配置变量custom_settings_for_spider1、custom_settings_for_spider2，通过这些变量，我们分别对两个爬虫的log文件、并发数、应用的中间件和管道文件进行了设置。</p><p>   custom_settings的优先级在命令行以下，比settings.py要高。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.settings.py：</b></p><p>   settings.py是爬虫项目的配置文件，通常我们在一个项目目录下会有很多个spider，但是只有一个settings.py全局配置文件，在这个settings.py我们可以设置项目下所有爬虫的一些公共变量，例如用什么请求头、用哪种schedule，什么样的去重方式、甚至公共的数据库连接都可以写在settings.py文件里，settings.py的优先级是比较低的，次于命令行变量和custom_settings变量。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>   通过settings的设置，scrapy在crawler运行spider的时候，就会按照优先级把spider对应的设置用最高优先级的进行填充，这时候你可以在代码中从crawler.settings中获取到相应的设置。</p><hr/><h2><b>settings的使用方法</b></h2><p>说到settings里参数的使用方式，在最早写scrapy的时候，我时常都是在文件头里用</p><div class=\"highlight\"><pre><code class=\"language-text\">    from ..settings import *</code></pre></div><p>这种方式来从settings里引入参数，这种方式最大的缺点是只能引入settings.py中的变量，如果你设置了更高级的命令行变量或者custom_settings变量，就引入不了了。</p><p>   后来看多了源码，发现在spider类、middleware类、pipeline类以及extension等地方，都有一个from_crawler方法，通过这个方法能够从crawler.settiings中读取真正最高优先级的settiings（<b>crawler中的settings可以理解为按优先级顺序从所有设置文件中读取到最高优先级的设置参数</b>），这才是settings配置的正确引用方式。</p><p>   话不多少，举几个例子：</p><p><b>   在spiders中读取设置</b></p><p>     spiders/spider.py</p><div class=\"highlight\"><pre><code class=\"language-text\">class spider1(CrawlSpider):\n\n    name = &#34;spider1&#34;\n    custom_settings = custom_settings_for_spider1\n\n    def __init__(self):\n        pass\n\n    @classmethod\n    def from_crawler(cls, crawler, *args, **kwargs):\n        spider = super(spider1, cls).from_crawler(crawler, *args, **kwargs)\n        machine_name = crawler.settings.get(\n            &#39;MACHINE_NAME&#39;, &#39;&#39;)\n        spider.machine = process_name\n        return spider</code></pre></div><p>   在spider中，我用from_crawler方法从crawler的settings引入了一个变量MACHINE_NAME，这个变量可能来自于三个地方。</p><ol><li>命令行：例如通过scrapy crawl somespider -s MACHINE_NAME=123来传入</li><li>custom_settings：例如通过将custom_settings_for_spider1设置为{&#39;MACHINE_NAME&#39;:123}来传入</li><li>settings.py：可在settings.py中指定MACHINE_NAME=123来设置。</li></ol><p class=\"ztext-empty-paragraph\"><br/></p><p>   类似的我们看看中间件及管道中怎么读取设置。</p><p><b>   在middleware中读取设置：</b></p><p>middleware_for_spider1.py</p><div class=\"highlight\"><pre><code class=\"language-text\">class Middleware(object):\n\n    def __init__(self, headers):\n        self.headers = headers\n\n    @classmethod\n    def from_crawler(cls, crawler):\n        settings = crawler.settings\n        headers= settings.getint(&#39;HEADERS&#39;)\n        return cls(maxdepth, headers)\n</code></pre></div><p>   一个很简单的中间件，实现的是从crawler的设置中读入headers，并初始化中间件的headers值。</p><p><b>在pipeline中读取设置：</b></p><p>   mysql_pipeline_for_spider1.py</p><div class=\"highlight\"><pre><code class=\"language-text\">class Pipeline(object):\n\n    def __init__(self, mysql_settings):\n        self.db = adbapi.ConnectionPool(&#39;pymysql&#39;,**mysql_settings)\n\n    @classmethod\n    def from_crawler(cls, crawler):\n        settings = crawler.settings\n        mysql_settings= settings.get(&#39;MYSQL_SETTINGS&#39;)\n        return cls(mysql_settings)</code></pre></div><p>   一个很简单的管道文件，实现的是从crawler的设置中读入mysql设置，并初始化数据库连接。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>      特别值得注意的是，在spider中from_crawler方法调用是在spider类实例化以后，而在中间件，管道及拓展中，from_crawler方法调用是在相应的类实例化以前，在使用上要做区分。</b></p><hr/><h2><b>settings的使用技巧</b></h2><p>   在这简单说说我在工作中对于不同类型settings的使用技巧吧。</p><p>   1.首先是settings.py文件，在一个scrapy项目中，一些通用的设置，比如请求头、代理入口、数据库连接等等，都可以统一写在settings.py中。</p><p>   2.其次是custom_settings，我一般会在scrapy项目中单独建立一个custom_settings.py文件，依据不同spider所需要的设置，比如某站点A可能反爬严，我并发设置短点，站点B没反爬，我并发设置高点；又或者A用了中间件MA，B用了中间件MB等，我在custom_settings.py文件中分别给予设置。</p><p>   3.最后是命令行，都知道scrapy是协程，其不能完全利用好多核的计算机资源，所以我经常在一台机器上开多个scrapy进程，每个进程又对应相同的spider，对于这些进程如何进行管理，例如我要每个进程的日志分别查看，或者追踪每个进程的爬取速度等，这用命令行参数就比较合适。例如：</p><p>   start_process1.py</p><div class=\"highlight\"><pre><code class=\"language-text\">from scrapy import cmdline\n\ncmdline.execute(&#39;scrapy crawl spider1-s LOG_FILE=p1.log -s PROCESS_NAME=1&#39;.split())</code></pre></div><p>   start_process2.py</p><div class=\"highlight\"><pre><code class=\"language-text\">from scrapy import cmdline\n\ncmdline.execute(&#39;scrapy crawl spider1-s LOG_FILE=p2.log -s PROCESS_NAME=2&#39;.split())</code></pre></div><p>这样我就可以将相同spider的多个进程日志输出到不同log文件，并在程序内标记不同的process_name，为添加爬虫监控的钩子添加便利。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>    总结来说，就是同一个项目下的公共设置，我们写在settings.py文件里；不同爬虫的个性设置，我们写在custom_settings里；最后相同爬虫不同进程之间的一些设置，我们可以用命令行来进行设置。</b></p>", 
+            "topic": [
+                {
+                    "tag": "scrapy", 
+                    "tagLink": "https://api.zhihu.com/topics/19950086"
+                }, 
+                {
+                    "tag": "python爬虫", 
+                    "tagLink": "https://api.zhihu.com/topics/20086364"
+                }, 
+                {
+                    "tag": "爬虫 (计算机网络)", 
+                    "tagLink": "https://api.zhihu.com/topics/19577498"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "斯文料子", 
+                    "userLink": "https://www.zhihu.com/people/5ea35bb43deda207a176f56a31f1e7fc", 
+                    "content": "<p>您好，请问在那个class spider1中的from_crawler中定义spider的作用是什么，还有可以在from_crawler中引入allowed_domains,start_urls这些内置变量吗？我试了下不可以，不知道是不是程序设计的问题，麻烦您了</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "徐昊旻", 
+                            "userLink": "https://www.zhihu.com/people/9467530f41f62425b195d2cc7aedfef3", 
+                            "content": "<p>spider中的from_crawler是个类方法（classmethod），是用来创建蜘蛛实例的，要返回一个spider。要在from_crawler中定义spider中的allowed_domains,start_urls这些内置变量，直接在from_crawler中修改spider相应的属性值应该就可以吧</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "斯文料子"
+                        }, 
+                        {
+                            "userName": "斯文料子", 
+                            "userLink": "https://www.zhihu.com/people/5ea35bb43deda207a176f56a31f1e7fc", 
+                            "content": "<p>谢谢您的解答，我后来用了另一种方法，使用get_project_settings也可以直接获取优先级最高的所有参数。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "徐昊旻"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_164908853"
+}

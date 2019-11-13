@@ -1,0 +1,303 @@
+{
+    "title": "PhD留学申请专栏", 
+    "description": "PhD申请相比硕士申请难度要大的多，流程也更复杂，技术含量高，且相对小众，网上公开可参考的信息不多。为了弥补这一空白，本专栏致力于分享PhD留学申请相关的干货，专为PhD申请者开设，欢迎大家关注和交流！", 
+    "followers": [
+        "https://www.zhihu.com/people/jamlys-lee-6", 
+        "https://www.zhihu.com/people/dwenj-4", 
+        "https://www.zhihu.com/people/ao-jiao-de-miao-20", 
+        "https://www.zhihu.com/people/yi-lan-48-96", 
+        "https://www.zhihu.com/people/hai-gu-si-ji", 
+        "https://www.zhihu.com/people/bai-yang-64-19-94", 
+        "https://www.zhihu.com/people/a-ji-bu-zhi", 
+        "https://www.zhihu.com/people/floralalala", 
+        "https://www.zhihu.com/people/mbw_", 
+        "https://www.zhihu.com/people/horizon1229", 
+        "https://www.zhihu.com/people/dai-bai-zi", 
+        "https://www.zhihu.com/people/seven-tea", 
+        "https://www.zhihu.com/people/tracyleslie-94", 
+        "https://www.zhihu.com/people/qu-hao-fan-20", 
+        "https://www.zhihu.com/people/da-miao-ai-ken-yu-gu-tou", 
+        "https://www.zhihu.com/people/jian-xi-81-63-96", 
+        "https://www.zhihu.com/people/cai-wei-xi-bu-yi-shuo-hu", 
+        "https://www.zhihu.com/people/a-monster-68", 
+        "https://www.zhihu.com/people/bao-qian-wen-62", 
+        "https://www.zhihu.com/people/zhang-zi-xuan-2-95", 
+        "https://www.zhihu.com/people/tang-hua-49-31", 
+        "https://www.zhihu.com/people/wang-jun-67-99-58", 
+        "https://www.zhihu.com/people/mechanic-24", 
+        "https://www.zhihu.com/people/xiaohan-72", 
+        "https://www.zhihu.com/people/fang-fa-lun-62", 
+        "https://www.zhihu.com/people/yan-li-min-1", 
+        "https://www.zhihu.com/people/yu-jun-56-57", 
+        "https://www.zhihu.com/people/gu-shu-guang-88", 
+        "https://www.zhihu.com/people/he-cheng-li-83", 
+        "https://www.zhihu.com/people/galaxy-ivy", 
+        "https://www.zhihu.com/people/piao-yun-98-75", 
+        "https://www.zhihu.com/people/hu-jue-yue-48", 
+        "https://www.zhihu.com/people/he-hua-shui-chi", 
+        "https://www.zhihu.com/people/wu-ming-233", 
+        "https://www.zhihu.com/people/conrad-84-96", 
+        "https://www.zhihu.com/people/gan-mou-zhe-ye", 
+        "https://www.zhihu.com/people/8ban-jin-shi-yan", 
+        "https://www.zhihu.com/people/yang-guang-ni-kuai-tiao-zhu", 
+        "https://www.zhihu.com/people/ding-jian-xiong-36", 
+        "https://www.zhihu.com/people/mi-qi-84-65", 
+        "https://www.zhihu.com/people/b2451879428", 
+        "https://www.zhihu.com/people/la-la-la-la-la-76-94-77", 
+        "https://www.zhihu.com/people/chen-bu-mian-48", 
+        "https://www.zhihu.com/people/zhu-jiu-29-34", 
+        "https://www.zhihu.com/people/wyh-88-15", 
+        "https://www.zhihu.com/people/zan-shi-mei-xiang-hao-39-66", 
+        "https://www.zhihu.com/people/shi-da-xia-48", 
+        "https://www.zhihu.com/people/xie-wei-qun-4", 
+        "https://www.zhihu.com/people/ma-ke-xi-mu-si-78", 
+        "https://www.zhihu.com/people/mathfinder", 
+        "https://www.zhihu.com/people/zhuang-pei-qin-92", 
+        "https://www.zhihu.com/people/lu-bie-7", 
+        "https://www.zhihu.com/people/zhenlin-wu-21", 
+        "https://www.zhihu.com/people/yassin-97", 
+        "https://www.zhihu.com/people/haihaiye", 
+        "https://www.zhihu.com/people/dian-dian-di-di-72-64", 
+        "https://www.zhihu.com/people/han-tao-47-13", 
+        "https://www.zhihu.com/people/gao-shu-60", 
+        "https://www.zhihu.com/people/yang-ye-79", 
+        "https://www.zhihu.com/people/fabian-franklin", 
+        "https://www.zhihu.com/people/lai-zi-xing-xing-de-ni-18-53", 
+        "https://www.zhihu.com/people/qing-qing-cao-85-3", 
+        "https://www.zhihu.com/people/li-yang-33-84-71", 
+        "https://www.zhihu.com/people/ou-la-yu-mai-ke-si-wei", 
+        "https://www.zhihu.com/people/he-chuang-liu-xue-hiture-4", 
+        "https://www.zhihu.com/people/hua-xie-hua-kai-26", 
+        "https://www.zhihu.com/people/xuan-xiao-13-90", 
+        "https://www.zhihu.com/people/xie-fei-77-33", 
+        "https://www.zhihu.com/people/zhang-ming-hao-41", 
+        "https://www.zhihu.com/people/drogozhang", 
+        "https://www.zhihu.com/people/gao-zhao-fu-72", 
+        "https://www.zhihu.com/people/mu-mu-de-xiao-wu-33", 
+        "https://www.zhihu.com/people/yige-pang-zi-81", 
+        "https://www.zhihu.com/people/zhang-wei-10-40-19", 
+        "https://www.zhihu.com/people/lao-si-lai-si-fsy-17", 
+        "https://www.zhihu.com/people/guo-li-cheng-47-98", 
+        "https://www.zhihu.com/people/inki-40-30", 
+        "https://www.zhihu.com/people/ma-kai-yue-88", 
+        "https://www.zhihu.com/people/li-kun-peng-41-95", 
+        "https://www.zhihu.com/people/wang-hong-sen-81", 
+        "https://www.zhihu.com/people/bing-tang-hu-lu-53-44", 
+        "https://www.zhihu.com/people/huang-hui-wen-16-26", 
+        "https://www.zhihu.com/people/an-ni-59-93-51", 
+        "https://www.zhihu.com/people/srzh1234", 
+        "https://www.zhihu.com/people/wang-qin-99-65", 
+        "https://www.zhihu.com/people/mamy", 
+        "https://www.zhihu.com/people/he-chuang-liu-xue-li-gong-zu"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/82101213", 
+            "userName": "李坤鹏留学咨询师", 
+            "userLink": "https://www.zhihu.com/people/a3307f27261cd0b06f03bef0325eeec8", 
+            "upvote": 0, 
+            "title": "干货||美国计算机PhD都可以找哪些类型的工作？", 
+            "content": "<p>大家好，又来跟大家分享我自己的经历了。一转眼都博士毕业两个多月了，暂且放下博士期间的种种不表，今天我主要是想来说一下我当时找工作的时候的经历和想法。这是系列的第一篇，主要是讲一下博士毕业生的一些可能的职业路径。本文的主要目的就是让新手们对博士毕业后的职业规划有一些概念，如果你喜欢某个职业方向，请告诉我，并且继续关注后续文章。</p><hr/><p>免责声明：我的文章都是基于我自己的经历，那面有一些主观判断和疏漏，请大家多多包涵。</p><p>2017年的秋季学期一开始，我就开始着手准备找工作的事情。对于像我这样的计算机博士毕业生，摆在面前无非就是两种主要职业路线：进工业界或者进学术界。学术界包括博士后，实验室研究员，或者教授。工业界包括程序员，科学家，咨询师或者金融行业。这篇文章主要讲一下所列举的这些职业都是干什么的，都需要什么要求。</p><p><b>学术界 –》 博士后</b></p><p>博士后是一种职业，如果你对研究很感兴趣，那么毕业之后继续搞研究应该算是比较开心的生活。或者如果你想跻身教授行列，博士后将是第一步。当然我也见过一个人博士毕业之后马上就当教授了，没有做过博士后。但是大多数人都需要在当教授之前做一段时间博士后。</p><p>通常情况下一个实验室里面的博士后名额有限。各个领域内的顶尖实验室数量也不会很多，这就直接导致了申请博士后，尤其是顶尖实验室的博后岗位的竞争极其激烈。我一个同学跟我说，他帮老板张贴了一个招博后的广告，结果三天不到就有一百多个申请人。想要脱颖而出，学术上的成果强悍是必要条件之一。同时还要看候选人的研究方向跟目前组里的研究方向有多契合，候选人的表达能力，解决问题能力等等方面进行考察。</p><p>博士后可以去高校的实验室工作，也可以去国家实验室，或者工业界的研究机构工作。从工资角度出发，博士后并不算是高薪行业，因为大多数研究并不能够直接转化成为生产力。但是工业界的研究技工的工作明显要高于高校或者国家实验室。</p><p>一般来讲，在美国工作需要H1B签证。由于想在美国工作的人很多，美国为了控制外来务工人口，有一个机制叫做H1B抽签系统。每个人只能有一定的几率抽到H1B签证得以继续工作，不然就得离开美国。当然在美国毕业的学生都有一年的OPT可以工作，STEM专业的学生还可以OPT续约两年。这些年都可以参与一年一次的H1B抽签。但是在高校工作的博士后们不需要担心抽签问题，因为学术界的H1B是直接发的。只需要跟学校申请一下就可以了。但是我不知道在国家实验室或工业界研究机构的博士后们的H1B签证是否需要参与抽签。</p><p><b>学术界—》实验室研究员</b></p><p>实验室研究院其实也算是另外一种博士后，当博士后的一两年以后，头衔可能就会变成研究科学教授等等。但是还是干的是日常博士后的工作，不过应该会领导一些项目的进行，指导手底下干活的博士生们，同时跟老板一起出差，开会等等。这种工作比较稳定，而且实验室内部人际关系简单，大家都比较容易和睦相处。做的工作影响力在组内部影响力也很大，所以应该是一个不错的职业方向，只是工资相对来说还是比较少。</p><p><b>学术界—》 教授</b></p><p>成为教授就意味着在学术圈成功上位。但是能走多远还是要看自己的能力和时代的进程。教授主要分为两类，一种就是去当主要教课的教授，比如去一些文理学院，或者没有什么研究生项目的学校里面。这类教授主要是以教授课程为主，一个学期至少两门课起，需要设计课程，讲授课程，带着学生们一起做实验等等。授课型教授职位不是很强调做研究，但是平常可以自己弄一些研究。我有两个同学就是这种授课为主的教授。对于这种教授，在求职过程中学校主要还是看候选者是否有相关的授课经验。当然，TA的经验自然是不够的。如果你有兴在博士期间就参与一些课程设计，并且亲自授课的话，那么这种经验对于找授课型教授有很大的帮助。如果你没有，那么在博士后期间参与一些课程设计，授课，修改作业等等经历是大有裨益的。</p><p>另外一种教授就是咱们熟悉的研究型教授啦。这种教授的工作任务量非常重，尤其刚开始的时候既要兼顾教学，又要兼顾做研究，写文章，带学生，申请经费。可以说是相当的忙碌。尤其刚开始的五年到七年时间是一个教授的黄金奋斗期。这个时间段教授的头衔是副教授，为了能够拿到永久教授的头衔，副教授们需要发好文章，带出一些博士生，课程反馈良好，研究资金充足等等。这些条件都要满足才能够评上永久正教授，不然只能回家。我上学的时候，见到的副教授一个个都打了鸡血一样努力工作，真是恨不得一天有四十八个小时。所以有志成为这种教授的同学们，我祝你们好运。当然要强调的时候，申请教授的职位相当激烈，一个职位可能有数百个申请者。若干轮筛选之后剩下的候选者都是精英，竞争当然十分激烈。教授的职位基本上一个萝卜一个坑。具体的教授申请/面试咱们今天就不展开了，以后可以填一下这个坑。教授的薪资信息我不太知道。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e1d17b839c61913ee22740187545e34d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1880\" data-rawheight=\"1253\" class=\"origin_image zh-lightbox-thumb\" width=\"1880\" data-original=\"https://pic2.zhimg.com/v2-e1d17b839c61913ee22740187545e34d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1880&#39; height=&#39;1253&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1880\" data-rawheight=\"1253\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1880\" data-original=\"https://pic2.zhimg.com/v2-e1d17b839c61913ee22740187545e34d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e1d17b839c61913ee22740187545e34d_b.jpg\"/></figure><p><b>工业界 –》 程序员</b></p><p>程序员大家都知道啦！基本上就是刷一些算法题目，然后学习一下系统构架什么的。基本功包括数据结构和算法，然后掌握一门编程语言就好了。博士找程序员其实也算比较好的出路，毕竟钱多啊~当然还是要看是不是大厂，还有地理位置等等。对于程序员相关的求职经验，一亩三分地的论坛有很多，大家有兴趣可以去看看，包括很多信息，比如投简历，内推啊，薪水啊，面试过程啊，面试准备啊等等。</p><p><b>工业界—》 科学家</b></p><p>其实科学家这个头衔主要还是给有博士学位的申请者的。比如研究科学家或者现在比较火的数据科学家。科学家头衔在业界其实跟程序员没什么太大的区别，有的人是科学家的头衔但是干的还是编程序的活儿。当然可能科学家都有一些研究经历，所以有机会负责一些研究项目，但是这些都不是你自己说了算，主要还是要看公司业务和老板的安排。同时不同公司，不同项目组的工作也不同，同样一个头衔其实干的工作不同也很常见。</p><p><b>工业界—》 咨询师</b></p><p>咨询师这个其实也算是一条比较有意思的职业路径。博士毕业之后可以去一些比较大型的管理咨询公司，比如最厉害的MBB（麦肯锡，波士顿咨询，和贝恩）。这类公司都比较喜欢招收博士生。当然啦，这种公司都有自己的目标学校，一般来说非目标学校的学生求职会比较困难一些。咨询师的准备跟码农完全不同，需要去研究案例，阐述自己的分析过程，诱导客户一步一步走向理性的分析结果等等。这方面我当时也是准备了很多，虽然没有走向咨询师这个行业。我觉得这个坑以后可以填一下。咨询需要良好的形象，聪明和反省迅速的头脑，以及优秀的表达能力，和自信的气场。毕竟你每天接触到的都是客户公司的中高层人士。我觉得咨询能够锻炼一个人的眼界，但是这种锻炼只限于MBB这三家公司，别的咨询公司其实我个人觉得没必要去。</p><p><b>工业界—》金融业</b></p><p>成为华尔街大鳄也是一个博士生毕业后的职业路径。基本上可以去做量化分析员，或者码农。量化分析员的要求当然是聪明，能变程序，数学好。具体来说，面试过程中会问一些脑筋急转弯，和一些稀奇古怪的概率，统计，编程和偏微分方程等等的问题。有一些书籍可以准备这些面试。同时华尔街的企业也是跟咨询公司一样，有自己的目标学校。毕竟这种精英圈子相对来说都是比较封闭的。不过只要你能够在面试中证明你足够优秀，那么在华尔街立足就不是问题。当然，量化分析员的工资浮动很多，我个人感觉应该是工资比较高的了。</p><hr/><p>如果有更多留学相关的问题想要咨询，欢迎添加微信L1051212978咨询~</p>", 
+            "topic": [
+                {
+                    "tag": "计算机科学", 
+                    "tagLink": "https://api.zhihu.com/topics/19580349"
+                }, 
+                {
+                    "tag": "北美PhD", 
+                    "tagLink": "https://api.zhihu.com/topics/20052343"
+                }, 
+                {
+                    "tag": "留学申请", 
+                    "tagLink": "https://api.zhihu.com/topics/19572316"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/82102411", 
+            "userName": "李坤鹏留学咨询师", 
+            "userLink": "https://www.zhihu.com/people/a3307f27261cd0b06f03bef0325eeec8", 
+            "upvote": 0, 
+            "title": "经验分享||申请国外PhD，要避开哪些类型的导师？", 
+            "content": "<p>昨天晚上和水哥聊天，正巧水哥说起他在知乎上看到一个问题，“为什么有人说去美国读PhD要避开亚裔，女性，助理教授，未婚四类导师？” 看到这个问题，我真为有些人感到惋惜。下面我就结合个人的经历聊一下选择导师的经验。</p><p>开篇先介绍一下自己，2011年来美留学，攻读Top 50传统理工名校计算机博士，毕业之后在某大厂做数据科学家。所以作为过来人，我的确有一些经验和资格跟大家分享，同时我也感到十分荣幸。</p><p>首先我想聊聊这个问题的槽点。我很好奇问题中说的“有人”, 是个什么样的一群人，有什么留学背景和经历，能不能代表大多数？还是这些”有人“只是想借着他们对留学的一知半解到处乱说来秀优越感？其实归根结底就是一个词，stereotype。这个词大家可以一点儿都不陌生，接地气的翻译过来，就类似地图炮。比如网上键盘侠无脑喷河南人都是骗子，东北人都是黑社会一样。可是稍微想一想，怎么可能所有河南人都是骗子，怎么可能不是东北人就不是黑社会了呢？所以这类问题的提出，本身就带有一种狭隘的认知观念。只不过这种狭隘，用在了”留学“这个领域，就立马让人恐慌起来。原因就是绝大多数人对留学根本不了解，利用在道听途说的零散段子充当”专家“或谈资，以讹传讹之后反倒成了一些准备留学的同学群里面的所谓定律。可想而知，用这种定律来指导自己的留学申请，那无异于自毁前程。</p><p>本文假设读者已经下决心申请美国学校的博士项目。我主要来说一说如何选择导师这个比较细分且关键的问题。当然这些基于我的个人经验，不一定是普世价值观，希望读者们自行斟酌。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-b8629e3560d3bc327ac9309647d2162e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-b8629e3560d3bc327ac9309647d2162e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-b8629e3560d3bc327ac9309647d2162e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-b8629e3560d3bc327ac9309647d2162e_b.jpg\"/></figure><p><b>明确自己的研究方向和兴趣，以及毕业后未来规划</b></p><p>这个所谓的研究方向不能是一个特别大的方向，比如你说你要做人工智能，这个没问题，可是这个方向太大了。你要自己在具体细分一下，去了解一下人工智能下面有什么分支，当然这个应该不一定能随便搜索到，你可以去看一看人工智能的期刊的一些关键字，比如机器学习，比如知识图谱，比如语义网等等。当然，即使是这些人工智能的子领域，本身也足够大，那么你还要继续的去探索你到底喜欢啥，兴趣是啥，这是最重要的，也比较花时间。请记住，读博士，搞研究，就要耐得住寂寞和时间，前面有都是大大小小的挫折，如果轻易被打败，那就不要读博士。</p><p>还有就是至少有个大概的概念，毕业之后去干嘛。其实就两条路，要么当教授走学术，要么去工业界。你的观念应该会随着时间慢慢改变的。你对这两条路的理解也会随着时间而加深，不过你现在至少应该有一个初步的想法，比如你想毕业之后当教授，那么你就继续去探索一下当教授的标准是怎样的，比如要发多少文章，引用数量大约是多少。或者你可以直接搜一下如何成为一个教授，或者去看一看刚刚成为教授的人他们的背景是怎样的。这样你就能够明确你要往那些方向努力，和你应该会遇到的困难。</p><p><b>从三个方面评价导师和自己的匹配程度</b></p><p>当你明确了你的研究方向和未来的职业意向，你就可以开始找教授了。我觉得有三个方面可以测量你自己和教授的匹配度：<b>教授的研究兴趣是不是跟你很接近，教授每年发表的文章，以及教授的学生状态。</b>首先教授的研究兴趣与你接近与否，应该看的你感兴趣的细分研究方向跟教授的是否一致，通常教授会把其研究的大方向写在其研究的细分方向之前，这些信息都在教授的个人主页上。其次，看教授发表的文章列表，可以去google scholar，主要看教授是不是有以第一作者发表期刊或者会议，如果是的话，说明教授目前还在独立做研究，这样的话教授应该还在工作在科研第一线。如果教授基本上是最后一个作者，那说明教授应该是以指导学生为主了。当然基本上AP都需要工作在第一线，即使是最后一作。再次就是看老师的学生们了，看看这些学生们的背景，他们发表的文章质量，看看已经毕业的学生的去向。如果这些学生中你可能看到了你将来的自己，那说明你应该比较适合这个老师。当然你也可以联系这些学生，来获得关于老师的第一手资料，比如是不是在招人啊，招生的标准啊之类的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-61b2469d2c349646659eb1ab7bebece3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-61b2469d2c349646659eb1ab7bebece3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;333&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-61b2469d2c349646659eb1ab7bebece3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-61b2469d2c349646659eb1ab7bebece3_b.jpg\"/></figure><p><b>我举几个身边的例子吧：</b></p><p>某三十多岁中国女教授，funding拿到手软，做目前比较火热的一些研究，在业界是冉冉升起的明星，平常工作极其认真负责，对待学生一丝不苟，指导学生写作，演讲，学生们发表的文章基本都在顶会和顶级期刊。这个教授讲课也十分优秀，经常抢不到座位。我观察到的她的学生们都是斗志昂扬，努力工作钻研，发文章。同时老师跟业界大厂有合作，人脉很广，手底下的学生不论是去工业界，还是去学术界，都有很光明的前途。现在老师手底下学生很多，慢慢的找人的标准就越来越高的，一般人是进不去这个组的。</p><p>某四十多岁的中国男教授，出名的严格。手底下的学生每天要工作很晚，必须要十分勤奋，要知道他们的大多数人都是清华毕业的。所以基本上模式就是非常聪明加上及其勤奋。老师每周日下午要跟他们开会交流，通知每天可能都会跟进学生们的科研进度。你可能觉得这样的老师很push，对就是很push。然后呢？他手底下的学生全部能够发表顶级会议和期刊的文章，毕业之前就基本上约定了所有大公司的研究科学家岗，工资及其高。同时有很多的审稿机会，论文数量，质量，引用数都很高，申请EB1A/EB1B特殊人才绿卡简直易如反掌，能够迅速搞定在美身份问题。</p><p>某四十多岁的中国男教授，也是出名的严格，对待学生及其push，手底下的学生一个一个放弃读博士，直到最后手下就只一个大龄博士，苦苦支撑整个实验室的研究和工作。老师一直按着这个学生不让他毕业，终于在今年毕业了。整整八年。学校也知道这个导师对学生及其push，导致学生都跑掉了，就封禁了他几年招生。这也是为啥他不让那个大龄博士毕业的原因之一。</p><p>某三十出头的中国女AP，对待学生及其友善，把学生当成一起并肩作战的战友，对待学生的指导亲力亲为，共同解决研究问题，通知启发学生工作，为学生保证funding，一起发文章，给学生制定职业生涯规划，利用自己的人脉帮学生铺路，虽然她现在手底下还没有学生毕业，但是看得出来他们都为自己能有这样一个好老师感到骄傲。</p><p>某五十多岁美国女教授，功成名就，在业界名声响当当，对手底下的学生及其友善，时常关心学生身体，但是学生管理基本上是放养状态，每天忙于各种会议，写提案。学生们的研究基本上都要靠他们自己，老师年事已高，基本上不怎么在一线科研。很多时候都是在大方向上给与指导，但是如果学生想要老师给一个论文方向，老师都会说鼓励学生自己去探索。所以你有足够的自由度，有足够的funding，研究做成什么样子全靠你自己了。</p><p>某七十多岁的波兰男教授，业界大拿，身体力行，事必躬亲，认真负责指导学生，我有个朋友博士期间发了三篇nature。</p><hr/><p><b>本篇文章整理自对RPI CS PhD 闫学长的访谈。</b>如果有更多问题想要咨询，欢迎添加微信L1051212978获得一对一解答机会~</p>", 
+            "topic": [
+                {
+                    "tag": "PhD Candidate", 
+                    "tagLink": "https://api.zhihu.com/topics/19791108"
+                }, 
+                {
+                    "tag": "留学申请", 
+                    "tagLink": "https://api.zhihu.com/topics/19572316"
+                }, 
+                {
+                    "tag": "留学美国", 
+                    "tagLink": "https://api.zhihu.com/topics/19599441"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/82708888", 
+            "userName": "李坤鹏留学咨询师", 
+            "userLink": "https://www.zhihu.com/people/a3307f27261cd0b06f03bef0325eeec8", 
+            "upvote": 0, 
+            "title": "PhD就业之工业界和学术界的优劣势全面对比", 
+            "content": "<p>本文整理自<u><a href=\"https://link.zhihu.com/?target=http%3A//www.pgbovine.net/academia-industry-junior-employee.htm\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">pgbovine.net/academia-i</span><span class=\"invisible\">ndustry-junior-employee.htm</span><span class=\"ellipsis\"></span></a></u></p><hr/><p>如果你即将拿到一个STEM专业的PhD学位，你大概率会选择以下职业发展路径中的一种：</p><p>· 工业界: 一个公司、非盈利机构或者政府部门的科学家或者工程师</p><p>· 学术界: 某所大学的终身制的助理教授</p><p>根据你的领域不同，你选择在进入工业界或者学术界之前或许会先做几年博后。你也可以选择那种 contract-type jobs，比如成为一个自由职业者或者成为一个受学界资助的研究人员。但是这些不在我们这篇文章的讨论范围之内。</p><p>很多人曾经对比过学界和工业界的工作，但是他们大多都是已经很成功的资深人士了。很多新毕业的PhD学生会发现，他们很难把这些成功人士的建议、鼓励和自身的情况联系起来。相对应的，这篇文章的目的是为了从一个初入职场的新人的角度来分析下学界和工业界的就业的不同。我曾经在学界和工业界都分别呆过半年以上：</p><p>· 工业界: 谷歌的软件工程师 (July 2012 – Dec 2012)</p><p>· 学术界: 罗彻斯特大学的助理教授(July 2014 – Dec 2014)</p><h3>1. LOCATION FLEXIBILITY 地域的灵活性</h3><p>工业界的职位拥有更多的地域灵活性，因为工业界的职位要远比学术界终身制的教授的职位多得多。</p><p>比如，你是一个CS PhD，想去加州湾区，那里有超过1000个职位等着你。仅仅谷歌，每年就招聘上百名工程师。但是，如果你想去湾区当一个教授，每年最多有个5个这样的机会。</p><p>当然，其他地区没有像硅谷这么多的就业机会。但是不管你去到哪里，工业界的就业机会都要比学界的机会多10到100倍。</p><h3>2. TIME FLEXIBILITY</h3><p>在工业界，你需要在公司每天上8个小时的班，每周一到周五上班。不管你干的活多还是少，你都必须坐在你的位子上。有一些职位相对比较灵活，但是绝大部分的工作，都被固定在一个工位上。而且，你的雇主可以明确地规定你休假的时间，这样更让你觉得你的时间是属于雇主的，而不是属于你自己的。</p><p>在学界，你对于怎么支配自己的时间，拥有更多的话语权。除了每周几个小时用于授课和开会的时间，你可以按照你喜欢的方式去支配你的时间。你在寒暑假的时间更加自由，这占到了一年时间的将近三分之一。 当你没有在负责授课的时候，不管什么原因，你都可以休假或者去做其他的事情，不需要经过其他人的批准。这更让人感觉时间是属于你自己的，而不是属于你的雇主的。</p><h3>3. PRIVATE OFFICE 私人办公室</h3><p>作为一个初入职场的新人，你大概率不会拥有你自己的办公室。你会在一个开放的场所内办公。由于公司在不断地扩大，你经常需要收拾好自己的东西，挪到一个新的地方去办公。当你在公司工作的时候，你很难感觉办公室像家一样。因为你只是坐在一个暂时的位子上，这个位子有可能随时改变。</p><p>相对应的，所有的终身制的教授都有自己的私人办公室。在好几家公司工作了很多年之后，在开放的办公场所工作了很多年之后，拥有一个自己的办公室让我非常非常高兴。我可以按照任何一种方式去装饰我的办公室。我知道我不可能在不被提前告知的情况下，要求挪到另外一个地方去。而且，我如果想小睡一会儿，我只需要关上门即可。</p><p>我非常喜欢一个私人的办公室，但是它没有那么利于社交和交流。因此，我也理解为什么有的人更喜欢那种开放的办公场所。</p><h3>4. MONEY 金钱</h3><p>你在工业界的起薪会是学界的1.2倍到2倍，而且，你每年涨薪也要涨得更多。即使看平均时薪，工业界也要占优。在谷歌，我和我的同事们，每周大概工作25到35个小时，每周大概工作5到7小时。作为一个助理教授，我经常每周工作45到60小时。如果看平均时薪，工业界的薪资是学界的2倍到3.5倍。</p><p>如果你想要挣更多的钱，毫无疑问工业界要好的多。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-596ce87f6812dc243fd36f89c4dee063_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-596ce87f6812dc243fd36f89c4dee063_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;333&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-596ce87f6812dc243fd36f89c4dee063_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-596ce87f6812dc243fd36f89c4dee063_b.jpg\"/></figure><h3>5. COWORKER CAMARADERIE 同事情谊</h3><p>在工业界，你可以同事一起工作，去完成一个共同的目标。作为一个初级工程师，你的前辈会指导你更快地提升你的技能。团队一起协作共同克服一个困难，也会以让你和同事之间结下深厚的友谊。</p><p>作为一个教授，你很少跟同龄人一起工作，因此，你很难获得像在工业界工作一样的同事情谊。你要么是独自工作，要么是跟学生一起工作，但是学生的工作经验要比你少很多。即使是第一年的助理教授，你在你们组也是最资深的人。你必须带领整个组，而且不会再有人会指导你。教授有的时候确实是会跟其他教授合作，但是大部分情况下，他们都是会提出一个想法，然后跟自己的学生一起去做。而且，学界的激励政策也使得教授更愿意将自己的研究成果、创意想法保护好，而不是与人分享。</p><p>在工业界，如果你想从你的同事身上学东西，会容易的多，而且这很容易给你带来一种兄弟情谊的感觉。</p><h3>6. EXTERNAL CREDIT</h3><p>作为一个初入职场的新人，在工业界，你很难建立个人品牌，获得外部的公信力。比如，当一个公司在宣传一件产品的时候，他们会说这是某位资深的负责该项目的员工研发的。大量的普通的底层员工是不会被人知道的。而且，如果你做的东西涉及到公司机密，你甚至都不能在你的简历里提到你做了什么。你做的所有东西都属于你的老板，而不是你自己。</p><p>在学术界，你做的所有事情都是你个人品牌的背书：你的新发现、新发明、写过的文章和书、授课资料、你接受的关于你研究的访谈等等。你工作中所做的一切都属于你自己，你的学校在理论上会声明一部分的所有权，但是没有关系，除非你想凭借你的研究成果开一个公司。我十分看重这一点。比如在谷歌，我致力于开发一个新产品时，这个新产品属于谷歌。但是，不管什么时候，我发表了一篇文章，或者写了一个开源的软件，大家都会知道这是我的创作。</p><h3>7. DIRECTNESS OF EFFORT</h3><p>作为一个工业界的职场新人，你大部分的工作时间做的工作都会对你的晋升产生直接影响。比如当我在谷歌做软件工程师的时候，我大部分时间都在写代码以及参加会议跟大家讨论怎么写代码。如果这些代码写的很好，我和我的同事就会被晋升。当然，办公室政治肯定是存在的。不过这一般是对中级和高级工程师的晋升产生影响。作为一个初级工程师，只要你做好被安排的工作，你就能得到晋升。</p><p>在学界，你做的大部分工作，并不会直接对你的职业生涯产生影响。作为一个终身教职的教授，你必须做至少7种不同的工作：教学，指导学生，科研，申请基金，系里的工作，学校里的工作，学术圈子的一些工作等。这里面，真正会对你的职业生涯的晋升产生影响的只有科研和基金的申请。然而，一个教授还是必须机关算尽去让其他几项工作看起来处在一个比较好的状态。</p><p>如果你希望你的工作能够直接对你的职业生涯产生影响，那工业界更合适。</p><h3>8. DIRECTNESS OF IMPACT</h3><p>在工业界，你的工作会对公司有直接的经济或者政治方面的影响。比如，你可以研发一个新的产品，让公司获益或者你通过你的工作让公司内部组织协作更加流畅。即使最差的情况，你的工作的目的只是为了稳固你老板在公司的地位，那至少也会有人因为你的工作而受益。</p><p>相反，学术界的大部分研究成果会以论文的形式发表。这些大部分的论文不会对现实世界产生什么影响。当然，有可能会促使其他的研究者按照你的这个方向继续研究下去。作为一个学术界的人，我当然非常认可学术研究的价值，但是我也不得不承认，这些价值往往是不明显的、间接的和无形的。</p><p>如果你非常看重你的工作所带来的直接价值，工业界更加适合你。但是如果你想做一件在未来很长一段时间内都可能有深远影响的事情，那学术界更适合你。</p><h3>9. SENSE OF CONTROL</h3><p>作为一个工业界的职场新人，对你的职业生涯造成影响的大部分事情都不在你的掌控之内。比如，你正在努力做一个项目，你的上级突然因为一些跟你的工作所用到的一些技术毫不相关的一些原因将这个项目停掉了。或者，你突然收到一封邮件，你所在的组被解散了，你被分到其他组了。或者更糟糕的情况，你在事先没有被告知的情况下，被解雇了。因为你是一个大的组织里很小的组成部分，所以你的命运往往由你上层的力量所决定。</p><p>在学术界，发生在你身上的事情，大部分都是你努力的结果，所以你会感觉你的掌控力更强。比如，作为一个教授，你可以决定去做什么课题，去跟谁做，不跟谁做，去申请什么基金，怎么申请基金，怎么使用设备，怎么写论文，发表哪些论文等等。你的职业生涯也会取决于很多人的评价，比如论文审稿的人，比如你的资助者等等，但是至少你是在主动提交你的研究成果去被审核。</p><p>在工业界和学术界，都有非常非常多的不确定性。但是两者最大的差别在于这种不确定性是由于丝毫不了解你上层力量造成的（工业界），还是由于你自己的主观行动导致的（学术界）。我更喜欢后者，因为这种情况下，即使我失败了，我也知道是因为我自己决策失误导致的，我至少尽了全力。它会给我一种掌控感，即使我知道所有的事情里面都有运气的成分。</p><h3>10. INDEPENDENCE</h3><p>在学术界工作最大的好处之一就是独立性。在6个不同的科技公司工作过之后，我更加理解并珍惜这种独立性。</p><p>我现在还是一名助理教授，我就可以自由安排自己的时间做任何自己想做的事情，只要自己达到了学校规定的每周教学的时间，并按时参加系里和学校里的会议就可以了。而且，在暑假，我没有教学和参加会议的任务。我可以去任何我想去的地方，即使去参观其他学校或者公司。这在工业界是没办法想象的。</p><p>我实在想不出来工业界有任何一种工作，老板付给你钱的同时还给你这么多自由。如果我想，我可以每周花35个小时的时间坐在办公室里，关上门自娱自乐，不会有任何人知道。我甚至可以花一个暑假的时间去海滩上乞讨。当然，如果我真这么做，我永远也不会获得终身教职。但是，我想说的是，在学术界，不会有人一天到晚看着我。</p><p>相反，我如果在谷歌坐在位子上，扣一天鼻屎或者仅仅不工作一个周，我就会被谴责或者警告。我的那些努力工作的同事们也都会排斥我。</p><p>如此高的自由度有好处也有坏处：我需要100%的自我驱动，因为不会有任何其他人督促我去做一件利于我个人职业生涯的事情。我在现实世界中没有一个传统意义上的老板，因此，我需要不断激励自己努力前行。</p><p>如果你更喜欢独立，那学术界要比工业界好得多，但是如果你更希望有个人激励你、指导你按照一个既定的路线去努力，那工业界更适合你。</p><p><b>重述一下要点，我对于每个部分的观点是这样的：</b></p><p>1. 地域的灵活度 – industry</p><p>2. 时间的灵活度 – academia</p><p>3. 私人办公室 – academia</p><p>4. 金钱 – industry</p><p>5. 同事情谊 – industry</p><p>6. External credit – academia</p><p>7. Directness of effort – industry</p><p>8. Directness of impact – industry</p><p>9. 掌握感– academia</p><p>10. 独立性 – academia</p><hr/><p>如果有更多留学申请问题想要咨询，欢迎添加微信L1051212978咨询~</p>", 
+            "topic": [
+                {
+                    "tag": "北美PhD", 
+                    "tagLink": "https://api.zhihu.com/topics/20052343"
+                }, 
+                {
+                    "tag": "留学申请", 
+                    "tagLink": "https://api.zhihu.com/topics/19572316"
+                }, 
+                {
+                    "tag": "留美就业", 
+                    "tagLink": "https://api.zhihu.com/topics/20038255"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67399528", 
+            "userName": "李坤鹏留学咨询师", 
+            "userLink": "https://www.zhihu.com/people/a3307f27261cd0b06f03bef0325eeec8", 
+            "upvote": 2, 
+            "title": "申请CS PhD，如何选择一个合适的学校或导师？", 
+            "content": "<p>此文整理自教授Vijay Chidambaram的文章，链接：<u><a href=\"https://link.zhihu.com/?target=https%3A//medium.com/%40vijayc/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">medium.com/@vijayc/how-</span><span class=\"invisible\">to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246</span><span class=\"ellipsis\"></span></a></u></p><hr/><p>选择去哪所研究生院去读PhD是一个非常重要的决定，因为你接下来会在那里呆上五六年。这还将对你接下来的整个人生造成深远的影响。因此，回答这个问题并不容易，尤其是如果你很幸运拿到了多所项目录取的情况下。接下来我会给大家一些建议：</p><p>会有很多因素影响你的决定。最好的方式就是将他们写下来。针对每项因素（比如气候、导师性格、研究团队氛围等）设定一个1到10分的分值。然后，根据你对每个学校的了解，针对每所学校的每个因素进行打分。每所学校各单项的得分的总和就简单代表了这所学校适合你的程度。</p><p>这个思路行得通的原因在于它逼着你去思考每项因素对于你的重要程度。这会自动帮助你做出判断你喜欢哪所学校，不喜欢哪所学校。即使这样做没有办法直接告诉你答案，但是你最想去的那所学校一定是得分最靠前的几所学校之一。</p><p>那么，学生通常比较看重的因素有哪些呢？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e1d17b839c61913ee22740187545e34d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1880\" data-rawheight=\"1253\" class=\"origin_image zh-lightbox-thumb\" width=\"1880\" data-original=\"https://pic2.zhimg.com/v2-e1d17b839c61913ee22740187545e34d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1880&#39; height=&#39;1253&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1880\" data-rawheight=\"1253\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1880\" data-original=\"https://pic2.zhimg.com/v2-e1d17b839c61913ee22740187545e34d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e1d17b839c61913ee22740187545e34d_b.jpg\"/></figure><p><b>导师的个性：</b>这是你应该放在第一位的因素。不幸的是，如果你导师不好，你的学校再好也没用。你会很痛苦，中途退学或者表现很差。你怎么去做判断呢？去跟他们的学生聊。去跟系里不在这个导师组里的学生聊。如果学生没有那么热情地建议你加入这个导师的团队，那就一定不要去。大部分人不会直接说出来某位教授不好，所以你要从别人没有那么热情的态度中理解这层意思。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>导师的热情程度：</b>PhD就像一个学徒一样。因此，你希望你的导师对你很热情，积极地同你联系，建议你加入他们的组等。他们积极地同你分享他们现在正在做什么，并且安排你跟他组里其他学生的讨论。我不建议你加入一个对你特别感兴趣的教授都没有的系。我并不认同那种“先进入到系里，再去找一个感兴趣的教授”的做法。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>导师和学生个性的匹配程度：</b>不同风格的学生需要不同风格的导师。有一些学生需要导师更多关注和指导，才能高效工作。（很多新学生都属于此类）有一些学生则更喜欢独立做自己的事情，偶尔去见一下自己的导师去谈论下进展和方向就可以。想清楚你属于那种学生，你需要什么样的导师。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>研究团队的文化：</b>每位学生都需要不同的环境或者氛围，才能把自己的潜力激发出来。很多学生喜欢鼓励协作的氛围，大家都一起为了同一个项目努力工作。有一些学生则相反，他们希望每个学生都独立做自己的项目。搞清楚你想要的是什么，及你要去的这个研究团队是怎样的风格。每个研究团队都会说自己重视协作，你自己要通过一些细节去判断：比如共同作者的论文的比例，共同协作的在做的项目有多少，团队中的人是否相互之间都是朋友等。我曾经听说过有的研究团队，学生之间不敢大胆说出自己的想法，因为会有其他人去偷你的想法，尽可能避免去到这样的团队。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>地理位置：</b>我认识的比较高产的PhD学生在实验室之外也都有一个健康的生活方式。你的爱好某种程度上揭示了你想要去什么样的地理位置。你是否喜欢户外活动？你是否喜欢音乐会？选择一个能够让你继续坚持你自己的爱好的学校，这会提升你的幸福感。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>气候：</b>有一些学生可以适应任何气候。我个人比较喜欢那种阳光充足的地方，即使很冷。想清楚你喜欢的气候是什么样的以及给它一个合理的分值，不要忽视气候的重要性。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最后，当你在两个差不多好的学校之间选择时，建议你选择一个学生感觉更加开心的地方。祝你好运！</p><hr/><p>想要了解更多，请加微信L1051212978，或者关注公众号 “北美留学申请” </p>", 
+            "topic": [
+                {
+                    "tag": "留学申请", 
+                    "tagLink": "https://api.zhihu.com/topics/19572316"
+                }, 
+                {
+                    "tag": "出国读研", 
+                    "tagLink": "https://api.zhihu.com/topics/19607790"
+                }, 
+                {
+                    "tag": "北美PhD", 
+                    "tagLink": "https://api.zhihu.com/topics/20052343"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/66875444", 
+            "userName": "李坤鹏留学咨询师", 
+            "userLink": "https://www.zhihu.com/people/a3307f27261cd0b06f03bef0325eeec8", 
+            "upvote": 3, 
+            "title": "本科绩点不到3，还有希望申请到美国的PhD全奖录取吗？", 
+            "content": "<p>相信，但凡对美国硕博申请有过一些了解的人，都会知道绩点对于PhD申请有多重要。事实上，大部分美国PhD项目对于本科绩点的最低要求都是3.5，小部分项目的最低要求是3.0.那如果本科绩点不到3，申请美国PhD全奖，是不是就完全没戏了呢？答案是“不一定”。今天给大家带来的案例，就是一个本科绩点不到3，最终逆袭美国PhD全奖录取的故事。</p><hr/><p> 学生背景：</p><p>新加坡某高校，应用数学专业，GPA3.01/5;东北大学，生物信息硕士，GPA3.8；GRE334，几乎没有任何一段完整的科研经历</p><p>录取：Penn State University -Bioinformatics PhD；UC Riverside-Bioinformatics PhD</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>优劣势分析：</b></p><p>学生背景优劣势十分明显，本科绩点对于申博来说是明显的硬伤，科研经历也十分有限。学生本科期间写过一篇综述的文章，硕士期间，给PhD学长打过杂，实际参与的科研工作非常少。学生的优势在于有美硕经历，而且硕士期间的绩点很好，标化成绩也很突出。</p><p><b>申请方向选择</b></p><p>通过跟学生的沟通，我了解到学生不愿意继续做纯生物相关的研究，而对算法、机器学习等偏CS的领域比较感兴趣。这些研究领域在有些生物信息项目下有涉及，更多是在CS系下开设，生物医学工程系下的生物信息分支也会有一些教授从事这个领域的研究。考虑到学生申请的客观难度，我最终建议学生以申请生物信息项目为主，辅申几所CS项目。因为CS申请的难度和竞争激烈程度要明显高于其他专业，以学生的背景去跟申请CS的PhD学生竞争，我们胜算不大。另外一方面，学生硕士专业是生物信息，申请生物信息的PhD，就不存在转专业申请的问题。最终的申请结果也验证了这一选择的正确性，学生所申请的5所CS PhD项目，都没能拿到录取。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-106b4c3e8299cccddf6ce7cc58d54c91_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-106b4c3e8299cccddf6ce7cc58d54c91_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;333&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-106b4c3e8299cccddf6ce7cc58d54c91_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-106b4c3e8299cccddf6ce7cc58d54c91_b.jpg\"/></figure><p><b>优势挖掘和文书写作</b></p><p>学生的纸面背景的优势是上面提到的硕士经历和标化，通过跟学生更多的接触，我发现了学生更多的优势：对科研的热情、强烈的动机、广博的知识结构、出色的英文写作和口语沟通能力等</p><p>学生在去东北大学读生物信息硕士之前，在银行干过2年，重复、机械的工作让他无法找到成就感和生命的意义，不希望自己的一生始终在这样的琐事和重复中度过。因此，他决定放弃银行高薪的工作，继续去美国读书。他很早便想要申请PhD，用他的话说，他的人生理想就是成为一名researcher，因为学习新知识、探索新领域所能够带来的成就感让他无比兴奋，让他找到了自我价值所在。他无比确信，这就是他想要的生活。</p><p>相比很多在读的学生来说，他对读博的目的这一点思考得要深刻得多。因为他不仅有本硕的经历，还有工作的经历，他的心态要比在读学生成熟的多，他更知道自己想要什么。而这一点，对于申博来说，非常重要。因为读博通常需要5-6年时间，而且PhD学生经常需要独自面临毫无头绪的陌生领域的探索，那种不确定性和孤独感，如果没有强大的动机作为支撑，你会过得非常痛苦。而美国学校和教授也深知这一点，这也是为什么很多美国教授会强调motivation的原因。因此，在之后的文书写作中，我们也重点突出了学生在这个点上的思考。</p><p>此外，学生兴趣广泛，而且对于自己感兴趣的领域，他能够持续投入时间，并把它真正做好。比如学生喜欢音乐，几乎考到了大提琴的最高级别；喜欢写作，长期担任某杂志的编辑，英文能力可以达到翻译诗歌的水平。学生之所以本科期间绩点非常低，是因为其没有找到自己所学专业的意义。到了硕士阶段，学生找到自己感兴趣的领域后，绩点长期保持在3.8以上。为此，学生付出了巨大的努力，学生进入服务的半年时间里，学生每天平均睡眠时间不到5个小时。这些都能够充分证明她对于自己感兴趣的事情，完全有能力、有意愿去做好。而这可以很好地解释他本科绩点硬伤的问题。在文书写作中，我们对此进行了充分且合理的解释。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-f367a5399cbad8b46d0521086cd3fcdd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-f367a5399cbad8b46d0521086cd3fcdd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;333&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-f367a5399cbad8b46d0521086cd3fcdd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-f367a5399cbad8b46d0521086cd3fcdd_b.jpg\"/></figure><p><b>面试</b></p><p>作为一个从高中开始就在国外生活的学生，他的口语表达能力和开朗的性格给我留下了深刻的印象。而这一点，是很多大陆学生所不具备的。国内学生普遍内敛、不擅长沟通、不喜欢沟通。而他正好相反，他可以很快地和刚认识的陌生的教授打成一片，可以很快让原本很严肃呆板的面试气氛变得活泼生动。所有参与面试的教授都被他逗得哈哈大笑。用PSU的教授的原话说“你让所有人都能笑起来，你就已经成功了！”</p><p>最终，学生的面试表现获得了所有参与面试的PSU的教授的一致好评。在同批面试的学生里，绩点比他高的学生大有人在，但是他拿到的奖学金是所有人中最高的，而且系里在奖学金细则出来之前明确告诉他，会给他预留fellowship的位子。可见，教授对他的认可度有多高！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;334&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_b.jpg\"/></figure><p><b>写在最后</b></p><p>申请，从本质上来说，就是一个扬长避短的过程。每个人都有自己的优势和劣势，关键在于怎么挖掘自己的优势，以及如何展现出自己的这些优势，希望上文的故事能够给你一些启示。当然，如果你某方面的背景有硬伤，申请挑战会更大。对于上文的学生来说，他所申请的学校里，一定会有一些学校会直接把他拒掉（申请材料都未必会细看），因为他的本科绩点不达标。但是，之所以也会有一些学校给录取，是因为美国有一些学校对绩点没有设置cut off，而且更加看重一个申请者的综合各方面的背景。（在选校时，我们重点整理了学校对GPA硬伤的态度这一指标作为参考）</p><p>因此，回到开头的问题上来，GPA硬伤，还有没有可能申请美国PhD全奖呢？答案是有，至于有多大机会，关键在于你的优势在哪里，优势有多大，以及你在申请中体现得怎么样。</p><hr/><p>如果有更多关于留学申请的疑问，可以加微信L1051212978或者关注微信公众号 北美留学申请</p>", 
+            "topic": [
+                {
+                    "tag": "留学申请", 
+                    "tagLink": "https://api.zhihu.com/topics/19572316"
+                }, 
+                {
+                    "tag": "留学美国", 
+                    "tagLink": "https://api.zhihu.com/topics/19599441"
+                }, 
+                {
+                    "tag": "北美PhD", 
+                    "tagLink": "https://api.zhihu.com/topics/20052343"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/66004156", 
+            "userName": "李坤鹏留学咨询师", 
+            "userLink": "https://www.zhihu.com/people/a3307f27261cd0b06f03bef0325eeec8", 
+            "upvote": 31, 
+            "title": "申请PhD，科研做到多好才足够？", 
+            "content": "<p>很多人都在说申请PhD很难，申请PhD科研很关键，久而久之，大家就会有这样一个疑问，那申请PhD，究竟科研要有多少，要做到多好才足够呢？</p><hr/><p><b>多少段科研经历才“足够”？</b></p><p>我认为在3个不同的研究团队工作过是最理想的，尽管这纯属我个人观点。我只说了3个，是因为你需要3封推荐信，而且你的3封推荐信都来自跟你合作过的教授或者研究员，那你的申请会非常有竞争力。你应该早点开始做科研，最好大二上学期就开始你的第一个项目。你的第一个项目不一定非得与你未来想从事的领域相关，早点开始做科研的意义就在于早点发现你对哪些领域感兴趣，对哪些领域不感兴趣。在暑假期间，去在政府或者企业实验室做一个暑研，也是丰富科研背景的非常好的方式。如果你在一个实验室，呆上2个暑假，那大概率上足够你拿到一封强推了。</p><p>当然了，我知道很多被优秀的PhD项目录取的学生本科期间，都只在1-2个研究团队工作过。所以3个的要求，并不是绝对的。然而，如果你只工作过1或者2个研究团队，那你就应该做出更高质量的工作去证明你的研究深度而不是广度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>什么样的科研才算“足够好”？</b></p><p>“足够好”真的是一个很主观的说法。录取委员会真正在乎的是你研究经历的价值和影响力。换句话说，你的科研经历是否有成果？还是说，你在实验室只是打打杂，处理下数据？</p><p>证明“足够好”的最理想指标就是在学术会议或者期刊上发表论文。如果是第一作者，会更有说服力，只不过，这对于本科生来说，比较少见。如果能发表论文，这证明你对某一个项目研究做出过突出的贡献。然而，大部分本科生在申请PhD之前并没有论文发表，所以不用过度担心。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;334&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_b.jpg\"/></figure><h3><b>如果我申请的时候，没有论文发表怎么办？</b></h3><p>这也是我申请PhD项目的时候最担心的问题。不要担心，大部分本科生申请的时候都没有论文发表。如果你曾在校内的科研期刊上发表过一些小的论文，做过一些的poster presentation或者以其他形式给别人介绍过你的研究成果，你都可以在申请里提一下这些。如果你已经完成了论文写作，且已经把它投出去了，那你也可以在简历里体现下，并在旁边写上“<i>Submitted for publication</i>”。这能够证明你和你的导师正在为了能够发表论文而努力。</p><p class=\"ztext-empty-paragraph\"><br/></p><h3><b>除了发表论文，我怎么证明我的研究有价值和影响力？</b></h3><p>你需要拿出一些你的工作的有形的成果，不管它是一个你写的软件系统还是你完成的一个实验，你对现实数据的一些统计分析等等。而且，更重要的是，你要证明你的这些成果能够推动你所在领域的研究的进展，即使只是一点点。你需要在你的个人陈述里去告诉对方学校你的这些研究的价值，而且你的导师也会在的推荐信里去佐证这一点。</p><p class=\"ztext-empty-paragraph\"><br/></p><h3><b>我只是一个本科生，我没有办法在科研方面表现的与研究生或者博士后一样好</b></h3><p>是的，录取委员会知道这一点，因此，他们并没有期待你达到跟研究生一样的科研水平。你所做的研究并不需要非常创新或者突破，因为实际上本科生做的科研很多都是一些基础性的工作，一些研究生不太愿意做的工作。不过，好在，随着你科研经历的积累，你逐渐会接触到那些核心的真正创新的工作。</p><p>录取委员会寻找的是一个有潜质成为一个高产的PhD学生的申请者。因此，在申请的过程中，证明你的职业道德、决心、愿望和学习的主动性可以提高录取概率。</p><p>不要期待成为一个理想主义者，当你还是一个本科生的时候，不要期待通过探索一个完全属于你自己的想法获得科研成果。你还在科研食物链的底端，你需要认清定位并且努力工作，尽可能增大自己上升到一个更高等级的几率。</p><p>（本篇文章整理自：<a href=\"https://link.zhihu.com/?target=http%3A//www.pgbovine.net/grad-school-app-tips.htm\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">pgbovine.net/grad-schoo</span><span class=\"invisible\">l-app-tips.htm</span><span class=\"ellipsis\"></span></a>）</p><hr/><p>如果你有更多关于PhD申请的疑问，欢迎加微信L1051212978咨询~</p>", 
+            "topic": [
+                {
+                    "tag": "留学申请", 
+                    "tagLink": "https://api.zhihu.com/topics/19572316"
+                }, 
+                {
+                    "tag": "出国读研", 
+                    "tagLink": "https://api.zhihu.com/topics/19607790"
+                }, 
+                {
+                    "tag": "北美PhD", 
+                    "tagLink": "https://api.zhihu.com/topics/20052343"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64102302", 
+            "userName": "李坤鹏留学咨询师", 
+            "userLink": "https://www.zhihu.com/people/a3307f27261cd0b06f03bef0325eeec8", 
+            "upvote": 21, 
+            "title": "UCSD教授：5分钟时间告诉你怎么申请PhD", 
+            "content": "<p>本文整理自UCSD教授Philip Guo的文章，原文链接：<a href=\"https://link.zhihu.com/?target=http%3A//www.pgbovine.net/PhD-application-tips.htm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">A Five-Minute Guide to Ph.D. Program Applications</a></p><hr/><p>这篇文章大概会占用你5分钟的时间读完。这也是学校审核你的材料时大概会花的时间。当我供职于录取委员会的时候，我每个申请季负责审核大概150个申请，因此，我每个学生的申请大概会花3-5分钟时间，我会将所有学生分为三类：good，ok，bad。然后，我会让对应的细分领域的教授去认真看一下其中的部分申请。最终的录取结果的确定，不同系有不同的形式和流程，但是这基本上就不在你的控制之内了。但是，你肯定希望自己的申请能被归到“good”那一类。</p><p class=\"ztext-empty-paragraph\"><br/></p><h3>WHAT IS A PH.D. PROGRAM APPLICATION?</h3><p>想要被归到“good”那一类，你首先需要明白PhD申请的本质是什么：</p><p>PhD项目的申请，是在请求一个人在你身上花费将近500000刀，并指导你5年，从而让你能够发现新的知识，探索新的领域，拓宽人类的认知边界，并将这些发表成论文。具体的花费的细节，每个学校每个系会有不同，但是大概是这样。</p><p>当我评估申请的时候，我会问我自己：我是否想要自己或者同事在这个人身上投入时间和金钱？你申请的核心就是说服我，你值得我投入时间和金钱在你身上。</p><p>说的更具体点，这意味着你的申请必须向我展示：你要么是在特定的领域已经发表过论文或者你有这个潜力在不久的将来做到这样。其他的事情都是次要的。</p><p class=\"ztext-empty-paragraph\"><br/></p><h3>THE MOST IMPORTANT CRITERIA: RESEARCH DENSITY</h3><p>在我的经验里，我觉得，最容易区分好的申请者和不好的申请者的方式就是看这个申请是不是强科研型的。一个强科研型的申请者，他的申请里一定充斥着很多科研相关的内容。最有竞争力的申请往往是这种强科研型的申请。</p><p>这就意味着你的个人陈述的大部分内容都要跟科研相关，而不是去写你的童年时的灵感，个人的成长经历，课程学习或者你的课外活动经历等。一种常见的比较没有竞争力的个人陈述就是那种花了过多的篇幅在讲述申请者的童年经历。一句话，尽量避免讲过多的关于大学之前的事情。</p><p>我经常读到一些没有说服力的个人陈述，他们通常都太长了，而且说得科研相关的内容太少。你应该尽自己最大努力写一个尽可能简短，同时又尽可能强科研的个人陈述。</p><p>同时，这也意味着你要尽可能找一个能够帮你写出强科研推荐信的人来做你的推荐人。比如，一个关于你课堂表现的推荐信就没有那么有竞争力，因为它不涉及你的科研经历。拥有强科研推荐信的申请者往往能够在竞争中胜出。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-106b4c3e8299cccddf6ce7cc58d54c91_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-106b4c3e8299cccddf6ce7cc58d54c91_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;333&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-106b4c3e8299cccddf6ce7cc58d54c91_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-106b4c3e8299cccddf6ce7cc58d54c91_b.jpg\"/></figure><h3>HOW DO I REVIEW PH.D. APPLICATIONS?</h3><p>负责审核PhD申请材料的人是教授，而不是职业的招生官。这里，我将跟大家分享一下我是如何在3-5分钟时间内评估学生申请的各个部分的，大致是按照这样的顺序：</p><p>1. 简历 (最多30秒)</p><p>· 是否是强科研型的?</p><p>· 是不是太长了? 我觉得最多最多3页</p><p>2. 个人陈述 (最多1分钟)</p><p>· 是否是强科研型的?</p><p>· 是否太长了? 我觉得最好是1-2页之间</p><p>· 你对PhD申请的理解是怎样的？（可以再好好看下我上面说的话）</p><p>3. 成绩 (最多30秒)</p><p>· GPA: 如果太低，通常要打个问号，但是通常也不会有影响。一个科研经历很丰富、科研质量很高的人，很少会有一个很低的GPA。而且即便如此，我也没有那么在乎。当然，一个名校的高GPA，肯定是一个很积极的信号。</p><p>· GRE: 如果真的低，那肯定是件坏事，否则就不用在意</p><p>· TOEFL: 如果低于100，那肯定是件坏事，否则就不用在意</p><p><i>（备注：随着申请越来越激烈，越来越多的学校倾向于通过硬件条件去刷掉一批申请者，所以硬件背景的提升还是非常重要的）</i></p><p>4. 看到这里，我就会拒绝掉那些简历和个人陈述没有那么有竞争力的人。其余的人，我则会继续看他们的推荐信</p><p>5. 推荐信 (每封信最多1分钟)</p><p>· 是否是强科研型的</p><p>· 如果一封推荐信不是关于科研的，我会跳过它</p><p>· 推荐信多长？你要尽可能选一个能够给你强推的人。推荐信内容写得太少肯定会影响推荐信的推荐力度</p><p>· 这些推荐信的推荐力度</p><p class=\"ztext-empty-paragraph\"><br/></p><h3>FINAL THOUGHTS</h3><p>如果你的申请是一个强科研型的申请，这是你的申请被归到“good”这一类的第一步。你会再跟众多强科研型的申请者竞争，但是你现在至少已经具备了游戏资格。</p><p>另外一件最重要的事情就是，你要努力让你的文书能够让即使不是你这个小方向的教授也能看明白。我看过的数百封申请里，大部分情况下，我并不是他们领域的专家。因此，你需要向我证明为什么你的科研项目很重要，你在其中扮演了一个怎样特殊的角色，你遇到的主要挑战是什么，结果是什么，最好是一篇发表的论文或者即将发表一篇论文。</p><p>一些小的建议: 不要用很小的字体。看你申请的教授可能比你大几十岁，他们的视力随着年龄的增长已经变得很差了。这么小的字体，你让他们怎么办？</p><p>最后，在你提交完一个强科研得申请之后，你可以尝试去联系你感兴趣的教授。记得你要写一个针对性强的邮件给他们。我们通常会在截止时间一个月或者2个月之后开始审核材料。因此，这时候是发邮件的最佳节点。最好的情况，你会获得有些教授的关注，最坏的情况，他们会把你的邮件删掉。</p><p>好了，5分钟时间到了，祝你好运！</p><hr/><p>更多留学问题，欢迎加微信L1051212978咨询~</p>", 
+            "topic": [
+                {
+                    "tag": "留学申请", 
+                    "tagLink": "https://api.zhihu.com/topics/19572316"
+                }, 
+                {
+                    "tag": "留学美国", 
+                    "tagLink": "https://api.zhihu.com/topics/19599441"
+                }, 
+                {
+                    "tag": "北美PhD", 
+                    "tagLink": "https://api.zhihu.com/topics/20052343"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62829610", 
+            "userName": "李坤鹏留学咨询师", 
+            "userLink": "https://www.zhihu.com/people/a3307f27261cd0b06f03bef0325eeec8", 
+            "upvote": 8, 
+            "title": "PhD申请之前，你需要问自己几个问题！", 
+            "content": "<p>决定申请哪所学校的PhD，不是一件容易的事情，因为这决定了你接下来的五六年时间会在哪里度过，从长远来说，甚至对你整个人生都会产生非常大的影响。实际上，每年也都有大量的学生PhD在读学生中途退学，拿不到PhD学位。这个比例在三分之一到二分之一之间，这个数据是很庞大的。本文的目的是为了提供一些思路参考，以避免将要申请PhD的你未来陷入到这样的境地。</p><hr/><p>PhD申请定校之前，建议你认真思考以下问题：</p><p><b>想一下你的长短期目标：</b></p><p>你是否对学术界感兴趣？还是也可以接受去工业界工作？你想要学习什么知识，获得什么技能？你毕业之后可能去做什么？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>想清楚你的学习风格：</b></p><p>你是想要别人跟你有很多的联系，还是更喜欢自己一个人学习？你是更喜欢先通过大家讨论解决问题，还是直接扎到一个问题里面？不同的研究团队有着不同的个性和研究风格。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>想清楚你适合哪种风格的教授：</b></p><p>不同的教授有不同的指导风格。有一些教授喜欢跟工业界有很多联系，喜欢开发一些开源的软件；有一些教授希望发表尽可能多的论文；也有一些教授专注于一个相对较小的领域。你跟教授之间的联系会有多少，不同教授差别非常大。而且，有一些教授随着他们职业生涯的发展，他们会改变自己指导学生的风格。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>通过向项目在读学生或者已毕业学生问问题的方式，去搜集一些你感兴趣的项目的具体信息。</b>问很多研究生同样的问题，尤其是不同类型的研究生。每个人都带有自己的偏见。比如，你应该同一些打算呆在学术界的人聊一下，也要同那些打算进入工业界的人聊一下。搜集不同的观点，你才能获得对一个项目的完整的、客观的评价。同时，尽可能问具体的问题。去掩饰自己所在项目的一些不好的方面，这是符合人性的。比如，要问“你上次做xx是什么时候”，而不要问“在你们的团队，你是否做什么？”</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;334&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-5b46d3340ac7f753965c073312ca18bf_b.jpg\"/></figure><p><b>下面是列举了一些具体的问题</b>，以帮助你更加清晰地认识到自己的需求：</p><p><b>如果你已经决定留在学术界</b>，你可以问：</p><p>这个教授指导过的学生，已经毕业的有多少，其中有多少留在了学术界？</p><p>有多少学生在拿到学位之前退学了？他们离开之后去做什么了？</p><p>在学术会议上，你的导师有把你介绍给其他人吗？你见过谁？</p><p>有没有人最近从这个组里转出来？他们去了哪里？为什么？（最好试着跟他们聊一下）</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果你自己独立工作时，效率最高或者你更希望得到别人尽可能多的监督和指导，</b>你可以问：</p><p>你跟你的导师多久见面沟通一次？</p><p>你上次在没有预约的情况下踏进你导师的办公室是什么时候？这样的情况一般多久发生一次？</p><p>你去的时候，他们实际就在办公室的概率有多大？一般是一天中的什么时候？</p><p>导师一般需要多久回复你的邮件？他们是否经常给你发邮件？</p><p>你上一篇论文，导师写了哪个部分，你自己写了哪个部分？你的导师有读完你的全篇论文吗，有修改你写的部分吗？</p><p>你的导师会为你的项目写打码吗？写了多少？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果你不确定自己想要做什么，并且在研究一个课题时，更想要获得多的指导，</b>你可以问：</p><p>你的导师在你第一年的时候是否有给你一个具体的课题？</p><p>你是否曾经感觉迷茫过，比如毫无头绪，不知从何下手，你是怎么克服的？</p><p>在你们团队里，最长用了几年时间拿到PhD学位？这种情况多吗？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果生活在一个积极、和谐的人际环境下对你很重要，</b>你可以问：</p><p>你认为这篇论文怎么样，xx?（通过这个问题来看他们是否会认真对待你的这篇论文）</p><p>你是否做过实际的演讲？做过多少次？在你的团队面前做一次演讲，大概是怎样的一个场景？</p><p>你的团队上一次在实验室外聚会是什么时候？多久聚一次？</p><p>你的导师上一次跟你说一些积极的话，承认你的工作的价值等等，是什么时候？</p><p>在你们团队里是否会为彼此过生日或者经常会讨论一些假期等实验室之外的事情？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果你确实非常想跟其他人一起工作，更喜欢团队协作，</b>你可以问：</p><p>你的团队中的学生一般会怎么对待自己的代码，是否会共享自己的代码给其他人，让大家共同编辑？</p><p>有没有团队公用的一些资源，比如文件，还是说大家每个人都用自己的东西？</p><p>你上一次共享自己的代码是什么时候？</p><p>实验室最近发表的文章中有几篇是有多位作者共同完成的？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果你真的很喜欢自己做自己的事情，</b>你可以问：</p><p>你来到这里多久之后发表了自己的第一篇一做的文章？</p><p>大家是否都是做自己各自的不同的项目，还是大家都协作做一个或几个项目？</p><p>教授是否大部分时间都在专注于几个小的领域，还是说他的学生干什么的都有，领域涉及的非常广？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如果你希望工作和生活更好地平衡</b>，你可以问：</p><p>在周六的晚上，你大概率会在实验室见到哪位教授的学生？</p><p>如何申请去度假？你上一年去了几天，不算参加学术会议这种？</p><p>如果在没有下班时间的情况下，学生一般在实验室最晚呆到几点？</p><p>你多长时间做一次TA？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>你通过上面的问题搜集到的信息肯定或多或少都会有一定的主观性，所以你要带着批判性的眼光去看待每一个人的观点。尽可能搜集更多的人对于某件事情的看法，并从中找到共同点。有的时候一些排名靠前的项目或者明星导师并不一定就最利于你获得成功。如果你去到的是一个让你感到高兴而且工作效率非常高的地方，那读博的几年会是一个非常精彩、非常让人享受的过程！祝你好运！</p><hr/><p>注：以上内容整理自Neha Narula教授的文章，原文链接：<u><a href=\"https://link.zhihu.com/?target=https%3A//transientneha.blogspot.com/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">transientneha.blogspot.com</span><span class=\"invisible\">/</span><span class=\"ellipsis\"></span></a></u></p><p><u>如果需要了解更多，请加微信L1051212978咨询。</u></p>", 
+            "topic": [
+                {
+                    "tag": "留学申请", 
+                    "tagLink": "https://api.zhihu.com/topics/19572316"
+                }, 
+                {
+                    "tag": "留学美国", 
+                    "tagLink": "https://api.zhihu.com/topics/19599441"
+                }, 
+                {
+                    "tag": "北美PhD", 
+                    "tagLink": "https://api.zhihu.com/topics/20052343"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62624184", 
+            "userName": "李坤鹏留学咨询师", 
+            "userLink": "https://www.zhihu.com/people/a3307f27261cd0b06f03bef0325eeec8", 
+            "upvote": 7, 
+            "title": "干货||申请PhD与申请硕士侧重点有什么不同？", 
+            "content": "<p>随着出国留学越来越大众化，出国读研越来越普遍。尤其是对于PhD申请，录取大部分都有全奖，覆盖所有的花费之后，一般还会略有结余，而且本科生就可以申请，因此，这几年PhD申请人数呈现出明显的上升趋势。但是市面上，关于PhD的申请信息并不多，一方面相比于硕士申请，PhD申请还是比较小众，另一方面，真正有比较丰富的PhD申请经验的机构或者个人并不多见。本文旨在从申请难度、背景提升、申请流程三个方面来谈下硕博申请侧重点的不同：</p><hr/><p><b>申请难度</b></p><p>大部分博士项目的招生数量要远低于硕士项目的招生数量。一个教授一年招2-3个学生是很普遍的现象，甚至更少。同时，因为博士录取基本都会给全奖（全奖的意思是说学校给的资助可以覆盖你读博期间所有的花费，有的时候还会略有结余），所以申请热度并不低，尤其是一些热门方向，比如最近几年很火的机器学习、计算机视觉、自然语言处理等方向。招生少，而申的人并不少，自然申请难度也就水涨船高。</p><p>因为PhD申请难度远大于硕士，因此对于申请者的背景要求更高，需要申请者尽早开始背景的准备。比方说，对于硕士申请来说，如果你的绩点，你的标化考试成绩能够达到一个比较理想的分数，有的时候大概率上就能拿到一个不错的录取。但是，对于博士申请，你需要在背景的每一个方面，你的科研经历质量、推荐信质量、文书质量、套磁质量、面试质量等每一个环节都做到极致，才有可能拿到好的结果。前面提到的绩点、标化考试，都成了一个基础，是你必须达到的，而只做到这些，对于申博来说，远远不够。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-14bb45fc294c85685ad4dca739785197_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-14bb45fc294c85685ad4dca739785197_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;399&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-14bb45fc294c85685ad4dca739785197_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-14bb45fc294c85685ad4dca739785197_b.jpg\"/></figure><p><b>背景提升</b></p><p>申请PhD，科研经历的质量是关键。因此，竞争力提升也应该着重从科研经历入手。最建议的提升途径是海外实验室的科研机会。因为，一方面这种科研机会的含金量很高，另一方面有机会拿到海外教授的推荐信。由于国内推荐信造假严重，所以如果拿到海外教授强推，对于申请来说是很大的提升。尤其是，如果你拿到某个学校的私推或者大牛的推荐信，那有可能对申请有决定性影响。推荐信的质量在PhD申请中所起到的作用要明显高于硕士申请。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>科研经历质量和推荐信质量对于PhD申请十分关键，其他方面的背景也同样重要，只不过其他方面的背景更像是一个基础指标。PhD申请对于这些基础指标的要求也要明显高于硕士申请。比如大部分PhD对于绩点的要求都是3.5以上，而大部分硕士项目对于绩点的最低要求都是3.0.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>同时，PhD申请不同于硕士申请，需要确定具体的细分方向。而有的申请者，虽然决定申博，但是还不确定自己感兴趣的方向，这同样是一个大问题。对于申博来说，没有确定的申请方向，一切的准备工作都无从谈起。而想要探索到自己感兴趣的方向，这同样也是一个需要耗费大量时间的过程。学生只有在不断地文献研究、科研实践、与教授和同学讨论等等的过程中，才能逐步找到自己感兴趣的领域。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-61b2469d2c349646659eb1ab7bebece3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-61b2469d2c349646659eb1ab7bebece3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;333&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-61b2469d2c349646659eb1ab7bebece3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-61b2469d2c349646659eb1ab7bebece3_b.jpg\"/></figure><p><b>申请流程</b></p><p>PhD申请相比硕士申请，多了教授筛选、套磁等环节。教授筛选通常都要筛选百名左右的教授，他们的职称、研究领域、邮箱、个人主页链接等信息，这部分工作量非常大。套磁更是如此，套磁成功的关键在于对于目标教授研究方向的熟悉，并且能够提出有价值的观点或者有意义的讨论，而这个需要的工作量巨大。正常情况下，一个学生想要写出一篇高质量特别有针对性的套磁信，需要一周时间。因为你在写套磁信之前，需要去看教授的论文，你才有可能写的有针对性。而这个工作量是没有套磁过的学生难以想象的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>同时，绝大部分PhD项目的录取都要经历面试。而只有少部分的硕士项目会有面试，并且面试多以考察申请动机、英语能力、沟通能力为主。PhD项目的面试大部分以考察学术能力和学术匹配度为主。总的来说，PhD申请工作量远大于硕士申请。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>而且，PhD申请的材料审核和硕士申请是分开的，对于绝大部分项目来说，PhD申请的截止时间都要早于或者远早于硕士申请。大部分PhD项目的申请截止时间是12.1,甚至更早。而硕士申请，这个时间点截止的学校只是极少数。如果你想要申请PhD，12.1的截止时间基本上是必须要赶的一个时间。因此，PhD申请相比硕士申请，需要更早开始准备。</p><hr/><p>更多留学相关的问题，欢迎咨询微信L1051212978</p>", 
+            "topic": [
+                {
+                    "tag": "留学申请", 
+                    "tagLink": "https://api.zhihu.com/topics/19572316"
+                }, 
+                {
+                    "tag": "留学美国", 
+                    "tagLink": "https://api.zhihu.com/topics/19599441"
+                }, 
+                {
+                    "tag": "北美PhD", 
+                    "tagLink": "https://api.zhihu.com/topics/20052343"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/phdapplication"
+}

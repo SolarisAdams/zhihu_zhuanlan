@@ -1,0 +1,843 @@
+{
+    "title": "人工智能商业", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/yang-yang-4-70-26", 
+        "https://www.zhihu.com/people/wollong-92", 
+        "https://www.zhihu.com/people/victor-lee-42", 
+        "https://www.zhihu.com/people/neko-44-39", 
+        "https://www.zhihu.com/people/neko-28-33", 
+        "https://www.zhihu.com/people/ao-sheng-dong", 
+        "https://www.zhihu.com/people/sun-zhu-70", 
+        "https://www.zhihu.com/people/li-hou-lu-94", 
+        "https://www.zhihu.com/people/lingya-qian", 
+        "https://www.zhihu.com/people/mi-ma-6-34-11", 
+        "https://www.zhihu.com/people/xiao-bai-33-44-37", 
+        "https://www.zhihu.com/people/xue-luo-xin-ya", 
+        "https://www.zhihu.com/people/han-yang-30-12", 
+        "https://www.zhihu.com/people/tianzhichao", 
+        "https://www.zhihu.com/people/jiese110", 
+        "https://www.zhihu.com/people/ron-44-92", 
+        "https://www.zhihu.com/people/a-jia-luo-10", 
+        "https://www.zhihu.com/people/shengmingqijiquan", 
+        "https://www.zhihu.com/people/qiangwei-69", 
+        "https://www.zhihu.com/people/beijizhibei", 
+        "https://www.zhihu.com/people/liu-peng-fei-98", 
+        "https://www.zhihu.com/people/jin-tuo-tu-huo-luo", 
+        "https://www.zhihu.com/people/ooloongtea", 
+        "https://www.zhihu.com/people/enigmawl", 
+        "https://www.zhihu.com/people/fei-de-geng-gao-2", 
+        "https://www.zhihu.com/people/TonyStark24", 
+        "https://www.zhihu.com/people/wu-ming-48-73-51", 
+        "https://www.zhihu.com/people/gao-qiang-77-42", 
+        "https://www.zhihu.com/people/kppp-17", 
+        "https://www.zhihu.com/people/plodded", 
+        "https://www.zhihu.com/people/chen-bo-86-42", 
+        "https://www.zhihu.com/people/nan-you-jia-mu-64-81", 
+        "https://www.zhihu.com/people/zhen-xi-96-26", 
+        "https://www.zhihu.com/people/zhang-xiang-bin-69", 
+        "https://www.zhihu.com/people/kang-shao-1990", 
+        "https://www.zhihu.com/people/yong-hu-6539816114", 
+        "https://www.zhihu.com/people/turbo-67-10", 
+        "https://www.zhihu.com/people/xian-zhe-bu-hou", 
+        "https://www.zhihu.com/people/fang-huang-45-31", 
+        "https://www.zhihu.com/people/mocca-19", 
+        "https://www.zhihu.com/people/lele-12-88", 
+        "https://www.zhihu.com/people/liu-wei-min-30", 
+        "https://www.zhihu.com/people/blb-22", 
+        "https://www.zhihu.com/people/yin-tian-chou-38-24", 
+        "https://www.zhihu.com/people/wang-feng-15", 
+        "https://www.zhihu.com/people/naturali-qi-dian-ji-zhi", 
+        "https://www.zhihu.com/people/fu-ying-92-65", 
+        "https://www.zhihu.com/people/xu-shang-69", 
+        "https://www.zhihu.com/people/bi-de-yang-58", 
+        "https://www.zhihu.com/people/si-yue-shao-nu-17", 
+        "https://www.zhihu.com/people/hui-qing-14", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/wizardforcel", 
+        "https://www.zhihu.com/people/yang-you-li-11-32", 
+        "https://www.zhihu.com/people/phillip-60", 
+        "https://www.zhihu.com/people/zhang-chen-hao-30", 
+        "https://www.zhihu.com/people/zhang_guo", 
+        "https://www.zhihu.com/people/gao-tong-xuan", 
+        "https://www.zhihu.com/people/yang-yun-fei-17-27", 
+        "https://www.zhihu.com/people/li-yi-heng-60-80", 
+        "https://www.zhihu.com/people/cong-wu-zhi-dao-da-zhi", 
+        "https://www.zhihu.com/people/tang-yi-hao-98", 
+        "https://www.zhihu.com/people/zhang-chun-xia-70-51", 
+        "https://www.zhihu.com/people/cheng-wang-41-26", 
+        "https://www.zhihu.com/people/du-du-mao-8-99", 
+        "https://www.zhihu.com/people/mu-hai-xuan-yi-73", 
+        "https://www.zhihu.com/people/maf232", 
+        "https://www.zhihu.com/people/shuai-li-lai-le", 
+        "https://www.zhihu.com/people/ou-fen-15", 
+        "https://www.zhihu.com/people/mei-chuan-meng-zi", 
+        "https://www.zhihu.com/people/bai-kai-shui-79", 
+        "https://www.zhihu.com/people/yao-dong-hai-3", 
+        "https://www.zhihu.com/people/minway", 
+        "https://www.zhihu.com/people/xiao-le-meng-joy", 
+        "https://www.zhihu.com/people/ma-xiao-ding-8", 
+        "https://www.zhihu.com/people/xia-mo-er-63", 
+        "https://www.zhihu.com/people/yildhd-wang", 
+        "https://www.zhihu.com/people/mattzheng7", 
+        "https://www.zhihu.com/people/lu-yi-5-30-32", 
+        "https://www.zhihu.com/people/wang-zhu-56", 
+        "https://www.zhihu.com/people/chen-ping-66-69", 
+        "https://www.zhihu.com/people/geng-zhao-50-63", 
+        "https://www.zhihu.com/people/sevenhong-90", 
+        "https://www.zhihu.com/people/pei-pei-61", 
+        "https://www.zhihu.com/people/systemdjfjdjs", 
+        "https://www.zhihu.com/people/babe-43-45", 
+        "https://www.zhihu.com/people/vivian-zou-77", 
+        "https://www.zhihu.com/people/shi-pang-zi-59", 
+        "https://www.zhihu.com/people/yi-mo-38-39", 
+        "https://www.zhihu.com/people/fu-guang-58", 
+        "https://www.zhihu.com/people/li-yan-xiang-64", 
+        "https://www.zhihu.com/people/lucillegyl", 
+        "https://www.zhihu.com/people/ya-xin-64-52", 
+        "https://www.zhihu.com/people/song-an-34", 
+        "https://www.zhihu.com/people/ceng-xiao-zhou", 
+        "https://www.zhihu.com/people/lu-guo-0304", 
+        "https://www.zhihu.com/people/wu-hong-qiang-64", 
+        "https://www.zhihu.com/people/bi-xu-6", 
+        "https://www.zhihu.com/people/wang-xiao-tu-49", 
+        "https://www.zhihu.com/people/qian-qian-18-98-77", 
+        "https://www.zhihu.com/people/jdk-15", 
+        "https://www.zhihu.com/people/ctc-82", 
+        "https://www.zhihu.com/people/zhui-feng-zheng-de-ren-98-94", 
+        "https://www.zhihu.com/people/yizhi-liu-sha-5-73", 
+        "https://www.zhihu.com/people/lesa77", 
+        "https://www.zhihu.com/people/li-mo-94-23", 
+        "https://www.zhihu.com/people/jackson-31-56", 
+        "https://www.zhihu.com/people/xi-shawn", 
+        "https://www.zhihu.com/people/jiu-ye-20-63", 
+        "https://www.zhihu.com/people/zong-yun-feng", 
+        "https://www.zhihu.com/people/anthony-8-40-14", 
+        "https://www.zhihu.com/people/yin-ke-fei", 
+        "https://www.zhihu.com/people/li-ya-fei-38-83", 
+        "https://www.zhihu.com/people/vince-45-66", 
+        "https://www.zhihu.com/people/zhangjixiang", 
+        "https://www.zhihu.com/people/mao-peng-58", 
+        "https://www.zhihu.com/people/han-jing-39-98", 
+        "https://www.zhihu.com/people/wang-yi-di", 
+        "https://www.zhihu.com/people/cocoya-73", 
+        "https://www.zhihu.com/people/jin-jin-85-60", 
+        "https://www.zhihu.com/people/hashcode", 
+        "https://www.zhihu.com/people/ai-cps", 
+        "https://www.zhihu.com/people/jiang-cheng-you-33", 
+        "https://www.zhihu.com/people/madmax-1", 
+        "https://www.zhihu.com/people/xue-yi-17", 
+        "https://www.zhihu.com/people/tang-xian-sheng-95-96", 
+        "https://www.zhihu.com/people/mai-yi-ming", 
+        "https://www.zhihu.com/people/791106444", 
+        "https://www.zhihu.com/people/he-he-19-56-80", 
+        "https://www.zhihu.com/people/cheng-cheng-93-57-47", 
+        "https://www.zhihu.com/people/yeyin", 
+        "https://www.zhihu.com/people/he-zhi-xiong-3", 
+        "https://www.zhihu.com/people/tulufan", 
+        "https://www.zhihu.com/people/xiao-qi-e-77-51", 
+        "https://www.zhihu.com/people/zhi-xiao-76-24", 
+        "https://www.zhihu.com/people/sun-guo-hui-94", 
+        "https://www.zhihu.com/people/badan-52", 
+        "https://www.zhihu.com/people/cun-chang-evan-98", 
+        "https://www.zhihu.com/people/yvonne-42-92", 
+        "https://www.zhihu.com/people/yang-dong-95-91-20", 
+        "https://www.zhihu.com/people/first-95-77", 
+        "https://www.zhihu.com/people/feng-xing-dao-72", 
+        "https://www.zhihu.com/people/yi-la-nuo-37", 
+        "https://www.zhihu.com/people/ericashao", 
+        "https://www.zhihu.com/people/xin-de-rui-la-74-15", 
+        "https://www.zhihu.com/people/xie-xiao-wei-13-45", 
+        "https://www.zhihu.com/people/bigiceberg", 
+        "https://www.zhihu.com/people/master", 
+        "https://www.zhihu.com/people/lu-zi-long", 
+        "https://www.zhihu.com/people/cswhjiang", 
+        "https://www.zhihu.com/people/hu-qi-37", 
+        "https://www.zhihu.com/people/li-zexian-62", 
+        "https://www.zhihu.com/people/bu-yi-mi-ya", 
+        "https://www.zhihu.com/people/li-yu-xin-84", 
+        "https://www.zhihu.com/people/icantoo", 
+        "https://www.zhihu.com/people/qiu-yue-bai-41", 
+        "https://www.zhihu.com/people/hans-48-17", 
+        "https://www.zhihu.com/people/zhu-wen-ping", 
+        "https://www.zhihu.com/people/mikelao-ba", 
+        "https://www.zhihu.com/people/fleurer", 
+        "https://www.zhihu.com/people/yan-xi", 
+        "https://www.zhihu.com/people/mu-wei-kou", 
+        "https://www.zhihu.com/people/willwinworld", 
+        "https://www.zhihu.com/people/ITgeek", 
+        "https://www.zhihu.com/people/gai-ge-16", 
+        "https://www.zhihu.com/people/wj2014-59", 
+        "https://www.zhihu.com/people/atwood-zhou", 
+        "https://www.zhihu.com/people/Foreversnow", 
+        "https://www.zhihu.com/people/joexu7", 
+        "https://www.zhihu.com/people/myuan", 
+        "https://www.zhihu.com/people/han-ning-84", 
+        "https://www.zhihu.com/people/spirit-22-32", 
+        "https://www.zhihu.com/people/ruo-yi-82", 
+        "https://www.zhihu.com/people/bigfeng", 
+        "https://www.zhihu.com/people/hijackjave", 
+        "https://www.zhihu.com/people/ren-tian-you-37", 
+        "https://www.zhihu.com/people/zhang-ming-feng-91", 
+        "https://www.zhihu.com/people/feng-kao-bi-guo-44", 
+        "https://www.zhihu.com/people/jiang-xin-58", 
+        "https://www.zhihu.com/people/quxiaofeng", 
+        "https://www.zhihu.com/people/fu-hai-tian", 
+        "https://www.zhihu.com/people/yuchenbb", 
+        "https://www.zhihu.com/people/luo-tuo-2-5", 
+        "https://www.zhihu.com/people/xiaobo-kong", 
+        "https://www.zhihu.com/people/bu-ji-de-tian-kong", 
+        "https://www.zhihu.com/people/xiao-qiang-99-33-68", 
+        "https://www.zhihu.com/people/maxgu", 
+        "https://www.zhihu.com/people/hong-xie-17-5", 
+        "https://www.zhihu.com/people/xueming-36", 
+        "https://www.zhihu.com/people/yamazaki-88", 
+        "https://www.zhihu.com/people/luo-ze-70", 
+        "https://www.zhihu.com/people/xj-fu-71", 
+        "https://www.zhihu.com/people/xiao-zhi-21-19", 
+        "https://www.zhihu.com/people/wu-fei-43", 
+        "https://www.zhihu.com/people/jack-cai-15", 
+        "https://www.zhihu.com/people/zhf-55", 
+        "https://www.zhihu.com/people/meng-tian-lan-94", 
+        "https://www.zhihu.com/people/mo-lu-ren-68", 
+        "https://www.zhihu.com/people/zhou-kai-44-8-75", 
+        "https://www.zhihu.com/people/hu-zhi-lei-54", 
+        "https://www.zhihu.com/people/zhang-xiao-zhang-27-35", 
+        "https://www.zhihu.com/people/king-43-2-79", 
+        "https://www.zhihu.com/people/huang-yi-tian-75", 
+        "https://www.zhihu.com/people/xue-ding-e-de-mao-76-38", 
+        "https://www.zhihu.com/people/roya-lin", 
+        "https://www.zhihu.com/people/henrywang0121", 
+        "https://www.zhihu.com/people/tttt-92-73", 
+        "https://www.zhihu.com/people/fu-kua-9-23", 
+        "https://www.zhihu.com/people/lao-hu-56-21", 
+        "https://www.zhihu.com/people/cai-lei-77-99", 
+        "https://www.zhihu.com/people/zhou-xiao-jing-69", 
+        "https://www.zhihu.com/people/samyum", 
+        "https://www.zhihu.com/people/wei-xiao-kang-17", 
+        "https://www.zhihu.com/people/shine-93-33-59", 
+        "https://www.zhihu.com/people/wang-di-41-72", 
+        "https://www.zhihu.com/people/robi-7", 
+        "https://www.zhihu.com/people/yang-yang-8-57-92", 
+        "https://www.zhihu.com/people/Victor.LiuBin", 
+        "https://www.zhihu.com/people/yan-xian-66-53", 
+        "https://www.zhihu.com/people/feng-ya-piao-ling", 
+        "https://www.zhihu.com/people/bright", 
+        "https://www.zhihu.com/people/wu-chun-yao", 
+        "https://www.zhihu.com/people/anderson-yao", 
+        "https://www.zhihu.com/people/jin-wan-da-lao-hu-94-54", 
+        "https://www.zhihu.com/people/netlab7", 
+        "https://www.zhihu.com/people/xiao-yu-49-74-64", 
+        "https://www.zhihu.com/people/qiao-dan-di-guo", 
+        "https://www.zhihu.com/people/aliah-61", 
+        "https://www.zhihu.com/people/he-xin-6-37", 
+        "https://www.zhihu.com/people/dusktree-system", 
+        "https://www.zhihu.com/people/wang-peng-7-82-51", 
+        "https://www.zhihu.com/people/wang-mou-mou-93-42", 
+        "https://www.zhihu.com/people/zhang-lan-59-4"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37564319", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "小心！别把你的数字资产给玩丢了", 
+            "content": "<p>前些时候看了一条这样的新闻， 觉得有必要跟朋友们做个小分享，让投资者学会保护自己的数字资产，别一不小心给玩丢了。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-10610a67356025664265334513771061_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1068\" data-rawheight=\"738\" class=\"origin_image zh-lightbox-thumb\" width=\"1068\" data-original=\"https://pic2.zhimg.com/v2-10610a67356025664265334513771061_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1068&#39; height=&#39;738&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1068\" data-rawheight=\"738\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1068\" data-original=\"https://pic2.zhimg.com/v2-10610a67356025664265334513771061_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-10610a67356025664265334513771061_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这个消息啥意思呢？ 就是以太坊的钱包网站被攻击了，有黑客修改了它的DNS服务器记录。</p><p class=\"ztext-empty-paragraph\"><br/></p><p> 如果你不幸在当时使用这个网站操作了你的以太币，很遗憾地告诉你，你可能会丢失所有的以太坊资产。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>怎么样保护你的比特币、以太币等数字资产呢？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>首先，你得简单了解下啥是钱包，否则死都不知道是怎么死的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所谓的钱包只是个形象的说法，它本质上是加密学里的一对字符串钥匙。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>大家都知道数字货币是建立在数学加密学基础上的，通过椭圆加密算法ECDSA、SHA256加密、RIPEMD160加密和BASE58编码等算法得到一对字符串，一个是私钥，一个是钱包地址。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>通过私钥可以算出公钥，通过公钥可以算出钱包地址，顺序如下。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>私钥  =&gt;  公钥 =&gt;  钱包地址</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>具体原理是啥， 咱也不用费那个脑子了，那是数学家研究的课题，你只要记住：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>钱包地址  = 银行的卡号</b></p><p><b>私钥  = 银行的密码</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>钱包就是用来存储这对字符串的。黑客要盗取的就是私钥，只要拿到私钥，就拿到你的资产了，这个可不像银行卡可以挂失， 谁拿到了，资产就算是谁的了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>从这里可以看出保护私钥的重要性了吧！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>知道钱包是怎么一回事后，再来看看<b>转币是怎么操作的</b>？私钥在中间起什么作用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当你需要向别人转账时，需要用私钥加密这笔交易，然后发送给别人，别人通过你的私钥签名可以证明这笔资产是你的，然后记录到区块链里，完成交易。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>钱包的功能就是用你的私钥加密数据然后发送出去。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>从这个流程可以看出，你的私钥需要被调用，这个过程就存在被偷的可能性。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以前有交易所被黑客攻破，客户丢失资产的案例，就是因为你使用的是交易所的钱包，你的私钥都放在它的数据库中，</p><p class=\"ztext-empty-paragraph\"><br/></p><p>只要攻破数据库，你在交易所的资产就可能全部被偷了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以<b>最安全的做法是把私钥拿到自己手中</b>，不要信任任何交易所。需要交易时转账过去，交易完毕转回自己钱包。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但这个又存在一个问题，当你自己使用私钥时也是要在电脑上运行的， 如果电脑被黑客入侵了，你的私钥就可能被偷走，好烦恼，有没有？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>聪明的企业总是有办法的， 他们发明了硬件钱包（如下图，像个USB），说白了就是一个非常微型的、封闭的加密电脑，你的私钥就存在里面。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-39a0cd9fdfe324e30b8975b903ca6a01_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1215\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-39a0cd9fdfe324e30b8975b903ca6a01_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1215&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1215\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-39a0cd9fdfe324e30b8975b903ca6a01_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-39a0cd9fdfe324e30b8975b903ca6a01_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>盒子还挺漂亮，有点向苹果看齐的味道</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5bce035055aa5cc54a3b1de9bbc71553_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1188\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-5bce035055aa5cc54a3b1de9bbc71553_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1188&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1188\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-5bce035055aa5cc54a3b1de9bbc71553_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-5bce035055aa5cc54a3b1de9bbc71553_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>硬件钱包和恢复关键词记录卡</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当你需要转账时，输入密码后它发送加密后的数据，由于私钥只存在这个硬件里，没有人能盗取它。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>另外它的钱包地址是ICO所接受的，交易所的地址就不行，以前有人用交易所的地址参与ICO，结果弄丢了Token，说起来都是泪。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这是一家法国公司，具体产品的信息可以去浏览官方网站 <b><a href=\"https://link.zhihu.com/?target=http%3A//www.ledgerwallet.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">ledgerwallet.com</span><span class=\"invisible\"></span></a></b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>要购买的话，可以在官网, 也可以在他们官方亚马逊商店购买，具体链接在这个页面 <b><a href=\"https://link.zhihu.com/?target=http%3A//www.ledgerwallet.com/retailers\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">ledgerwallet.com/retail</span><span class=\"invisible\">ers</span><span class=\"ellipsis\"></span></a></b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>记得千万不要到官方之外的任何其他渠道购买，才能确保正品。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>相关使用说明最好看官网的，如果英文不好，可以搜索中文介绍视频。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>简单分享，希望能帮助到大家。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p>请关注我们微信公众号aihelps。欢迎加入社群交流区块链，请加微信号12956250。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>作者介绍</p><p class=\"ztext-empty-paragraph\"><br/></p><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<b>加拿大</b>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "资产", 
+                    "tagLink": "https://api.zhihu.com/topics/19574474"
+                }, 
+                {
+                    "tag": "区块链(Blockchain)", 
+                    "tagLink": "https://api.zhihu.com/topics/19901773"
+                }, 
+                {
+                    "tag": "比特币 (Bitcoin)", 
+                    "tagLink": "https://api.zhihu.com/topics/19600228"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31011665", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "在美国坐航班可能遇到的AI机器人", 
+            "content": "<p>美国的航空业非常发达，2016年营收入预计达到1682亿美元。票价占总营收的74.5％或1252亿美元。 2016年，航空业约占全国GDP的2.7％。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>预计未来二十年，航空客运量将翻番。今天，领先的航空公司正在探索AI如何帮助他们跟上客户需求，提高运营效率和客户满意度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文我们试图回答如下问题：</p><p class=\"ztext-empty-paragraph\"><br/></p><ol><li><b>美国各大航空公司等今天如何使用AI？</b></li><li><b>这些AI航空应用的实际成果是什么？</b></li><li><b>AI航空应用的趋势是什么？它们将如何影响行业的未来？</b></li></ol><p class=\"ztext-empty-paragraph\"><br/></p><p><b>航空业的AI - 前瞻</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前最受欢迎的AI应用有：</p><p><b>人工智能助理</b>：使用自然语言进行交互，响应客户查询和语音命令获取航班信息（美国航空和美联航）</p><p><b>智能后勤</b>：运用机器学习算法实现运营自动化。 （西南航空）。</p><p><b>面部识别</b>：面部识别技术被用于进行客户身份验证，将乘客与行李相匹配（达美航空）</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>美国航空</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2017年，美国航空年度App开发竞赛“HackWars”的重点放在“AI，无人驾驶飞机和增强虚拟现实”技术上。 HackWars IV是一个24小时的Hack-a-thon，据说吸引了超过700名开发者。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>据报道，第一名的队伍设计了一个App，允许用户在抵达机场柜台之前确定自己行李相关的各项信息。他们还声称，他们开发的App将允许用户“预付与他们的行李有关的任何潜在费用”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-37f823aab4f78feccaabd4ccb2edea53_b.jpg\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-37f823aab4f78feccaabd4ccb2edea53_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;361&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-37f823aab4f78feccaabd4ccb2edea53_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-37f823aab4f78feccaabd4ccb2edea53_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>达美航空</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>达美于二零一七年五月宣布投资六十万元于明尼阿波利斯 - 圣保罗国际机场设立四个自助式行李柜台，并声称他们运用面部识别技术来与护照照片进行比对来验证客户身份。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-c42ecc56a50868d7a00dbac27245fd58_b.jpg\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"357\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-c42ecc56a50868d7a00dbac27245fd58_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;357&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"357\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-c42ecc56a50868d7a00dbac27245fd58_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c42ecc56a50868d7a00dbac27245fd58_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>证据显示，航空公司有意将更多的自助服务和自动化融入其运营中。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>“我们依靠技术手段来提供客户服务和运营效率。例如，我们已经并继续在<a href=\"https://link.zhihu.com/?target=http%3A//delta.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">delta.com</span><span class=\"invisible\"></span></a>，移动App，登机亭，机场信息显示和网络安全方面进行重大投资。技术的性能，可靠性和安全性对于我们为客户服务的能力至关重要。“ - 达美2017年度报告</p><p class=\"ztext-empty-paragraph\"><br/></p><p>达美声称，上述创新技术有助于简化机场客流量，并大幅提升客户体验。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>西南航空</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>西南航空使用机器学习来改善运营。西南航空运营保障部前主管Jeff Hamlet表示，他和他的团队使用时间序列分析和模式识别等机器学习技术来提高数据挖掘能力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-534de8fefdcb77552cc2b168f6f4982a_b.jpg\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"406\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-534de8fefdcb77552cc2b168f6f4982a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;406&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"406\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-534de8fefdcb77552cc2b168f6f4982a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-534de8fefdcb77552cc2b168f6f4982a_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>时间序列分析可以对一系列按时间排序的数据点进行分析，通常用于识别趋势或模式。Hamlet声称，这些方法使他的团队能够确定飞行数据报告中的潜在的飞行故障，并将结果传送给目的地的空管。Hamlet声称这将有助于避免事故发生。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>美联航</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2017年9月，美联航宣布与亚马逊Alexa合作开展了一项名为“联合技能”的合作。据报道，该应用程序允许Alexa用户通过自然语言进行交流，从而找到有关美联航航班最常见问题的答案。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-122535912c248c68ad0ae0fec9792186_b.jpg\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"469\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-122535912c248c68ad0ae0fec9792186_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;469&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"640\" data-rawheight=\"469\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-122535912c248c68ad0ae0fec9792186_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-122535912c248c68ad0ae0fec9792186_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>一旦用户将“美联航”添加到他们现有的Alexa App中，他们可以询问有关航班状态，航班时间等常见问题。Alexa可以处理的语音指令包括：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>“Alexa，请问美联航：959航班的状况如何？”</p><p>“Alexa，请问美联航：869号航班是否有Wi-Fi？</p><p>“Alexa，请帮我办理登机手续”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但是，该项功能还并不成熟。例如，语音指令必须以特定的方式表述，以及某些功能（例如航空公司登机手续）仅限于国内航班。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>根据在亚马逊上的评论，到目前为止毁誉参半。一些投诉包括误听的航班号和飞行时间等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>接下来让我们拭目以待亚马逊如何解决这些问题。如果双方最终能互利互惠，那将是很有趣的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>总结</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>AI正在全方位多领域变革现代航空业，包括客户服务，机场和航班运营。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>根据国际航空运输协会公布的年度报告，未来十五年，机场发展的成本，特别是现有基础设施和运营的现代化将吸引投资超过1万亿美元。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>因此，创新将是这些努力的重要组成部分。具体来说，AI对实现高效的自助式机场柜台和智能移动App至关重要。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在航班运营领域，数据的传输和翻译是市场竞争和安全飞行的基础。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>西南航空航空运营保障部前主管Jeff Hamlet和NASA航空安全项目项目经理Ashok N. Srivastava认为，通过创新的新算法可以实现高效的数据管理和价值挖掘。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们将为飞行员，FAA等提出的新问题定制新的算法和应用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们可以预见，机器学习算法将在数据价值转化方面发挥重要作用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p>请关注我们微信公众号aihelps。欢迎加入<b>人工智能商业化</b>社群交流，请加微信号12956250。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>特别提示</b>：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<b>加拿大</b>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<b>美国</b>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "航空", 
+                    "tagLink": "https://api.zhihu.com/topics/19559460"
+                }, 
+                {
+                    "tag": "人脸识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19559196"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/29982653", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "AI在餐饮服务行业的4大应用，你看好哪个？", 
+            "content": "<p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>餐饮服务业在2016年创造了几千亿美元的产值, 占美国GDP的2.1％。目前，大家足不出户就可享用方便快捷的网络订餐。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在此之外行业也在运用大量创新方法来满足客户各式各样的需求。AI应用正在稳步进入食品服务行业。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文我们探讨AI在餐饮服务行业的应用，并为企业领导者介绍当前的新兴趋势以及可能改变业务方式的流行范例。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前在食品服务业的应用程序分为四大类：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>聊天和应用程序</b> - 餐馆使用虚拟助理来响应客户查询并处理和定制客户订单。</p><p><b>机器人</b> - 餐馆使用AI驱动的机器人来提高食物准备和烹制的效率。</p><p><b>推荐引擎</b> - 使用AI来帮助消费者根据自己的饮食习惯选择膳食。</p><p><b>自助售餐亭</b> - 快餐巨头开发自助售餐亭以减少客户等待时间并提高客户订购体验。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>接下来我们按上述类别分别讨论。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>智能对话助手（chatbot）</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Say2eat</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在纽约的创业公司Say2eat在2015年首次亮相，目标是帮助连锁店和零售商通过聊天室来提高客户参与度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>该公司声称，通过发送最喜爱的餐厅，客户可以通过品牌定制的chatbot来订购食物。 Say2eats可以通过Facebook Messenger，Amazon Echo和SMS来使用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-7fffa41341e02f4e2444ea34c0d9f2bc_b.jpg\" data-caption=\"\" data-rawwidth=\"1270\" data-rawheight=\"656\" class=\"origin_image zh-lightbox-thumb\" width=\"1270\" data-original=\"https://pic1.zhimg.com/v2-7fffa41341e02f4e2444ea34c0d9f2bc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1270&#39; height=&#39;656&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1270\" data-rawheight=\"656\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1270\" data-original=\"https://pic1.zhimg.com/v2-7fffa41341e02f4e2444ea34c0d9f2bc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-7fffa41341e02f4e2444ea34c0d9f2bc_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Dominos</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2017年2月，Domino&#39;s Pizza与美式橄榄球超级碗比赛同步发布其新版Facebook Messenger chatbot。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>这一名为“Dom”的AI应用允许消费者通过发送仅包含单词“Pizza”的消息来开始下订单。 系统更新允许客户订购其他菜单项，例如鸡翅和沙拉。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Dominos将其2015年“全球数字销售额”约47亿美元归功于创新技术，包括移动app，用于发货订单的GPS驾驶员追踪器和智能手表上的“比萨饼跟踪器”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>公司重视将技术整合到客户服务中，反映了全食品行业的一大趋势。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>食品服务和餐厅机器人</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>加州的Miso Robotics是一家致力于厨房环境的AI驱动机器人解决方案的创业公司。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>该公司的旗舰AI厨房助理“Flippy”协助烧烤，油炸，准备和装盘。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>机器人使用与传感器和摄像机集成的软件，使其能够帮助厨师准备及烹制食物。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>促成这一趋势的主要原因是快餐行业很难留住员工。2016年快餐业的员工流失率估计为72.9％。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>另外一个重要原因是最低工资上涨。在2017年，有19个州宣布提高最低工资。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-65f843314a5ec21db95581899c1976a5_b.jpg\" data-caption=\"\" data-rawwidth=\"1476\" data-rawheight=\"994\" class=\"origin_image zh-lightbox-thumb\" width=\"1476\" data-original=\"https://pic2.zhimg.com/v2-65f843314a5ec21db95581899c1976a5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1476&#39; height=&#39;994&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1476\" data-rawheight=\"994\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1476\" data-original=\"https://pic2.zhimg.com/v2-65f843314a5ec21db95581899c1976a5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-65f843314a5ec21db95581899c1976a5_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>Cali集团旗下快餐连锁店CaliBurger于二零一七年三月宣布与Miso Robotics合作，将Flippy带到其餐厅。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>Flippy首次安装在加利福尼亚州帕萨迪纳市，到2019年，CaliBurger将据称将Flippy扩展到全球超过50个地点。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Pepper</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>日本技术公司SoftBank已经与MasterCard合作，研发出一个AI驱动的人形机器人，称为Pepper。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>她是一个机器人服务员，处理客户订单及提供产品建议。它还允许客户直接通过其平板电脑进行付款。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-2f814c955d00feeb38884044af7b3887_b.jpg\" data-caption=\"\" data-rawwidth=\"1618\" data-rawheight=\"1024\" class=\"origin_image zh-lightbox-thumb\" width=\"1618\" data-original=\"https://pic4.zhimg.com/v2-2f814c955d00feeb38884044af7b3887_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1618&#39; height=&#39;1024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1618\" data-rawheight=\"1024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1618\" data-original=\"https://pic4.zhimg.com/v2-2f814c955d00feeb38884044af7b3887_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2f814c955d00feeb38884044af7b3887_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>该公司声称用户能够以与人类服务员一起使用的正常语音模式与机器人通话。 雀巢公司在2014年引入了Pepper，以加强该公司在日本的咖啡机的销售。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>雀巢报道说，到2015年底，机器人将从20个扩大到1000个。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Pizza Hut已经在其亚洲餐厅购买了几台Pepper机器人。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>为保障易用性和支付安全，客户操作的触摸屏平板电脑由万事达卡全球数字支付服务MasterPass提供支持。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>餐饮推荐App</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Halla</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>成立于2016年的洛杉矶公司Halla是一家个性化的餐厅和餐饮搜索引擎。客户可以根据他们预先选定的品位特征和规格进行匹配。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Halla确定并利用客户的餐饮喜好和位置向其推荐可能感兴趣的其他餐馆。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>截至2017年4月，该公司据报对17,000多份查询作出回应，提供了20万份餐饮建议。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Halla声称，它已经建立了数据库，可以索引及分析全国约40万家餐馆提供的2100万份食物中发现的特征属性。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-e482feffaaab11fed897f0fcd04e81cc_b.jpg\" data-caption=\"\" data-rawwidth=\"1280\" data-rawheight=\"1075\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-e482feffaaab11fed897f0fcd04e81cc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;1075&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1280\" data-rawheight=\"1075\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-e482feffaaab11fed897f0fcd04e81cc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e482feffaaab11fed897f0fcd04e81cc_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>Halla与Pandora背后的技术非常类似。使用类似推荐系统技术的巨头还包括Netflix和Amazon。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Halla CMO Spencer Price表示：“人们第一次在餐馆和酒吧花费更多的钱，而不是花钱购买杂货 - 这表明人们消费的方式发生了巨大变化。”</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Tellspec</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>TellSpec是一家成立于2013年的AI公司，在其手持式食品传感器扫描仪中使用AI来识别食品在分子水平上的含量。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>TellSpec扫描仪用光对食物进行扫描，然后使用算法对化合物进行分析以得到食物构成。 最终，这些数据通过蓝牙传送到用户的智能手机上。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>通过其精密的算法分析，TellSpec声称可以识别食品中可能有害的物质，如过敏原。除此之外，TellSpec还可识别卡路里，营养素和其他营养信息。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-1847338c84ea2e66ca6f2ffe08c72766_b.jpg\" data-caption=\"\" data-rawwidth=\"1040\" data-rawheight=\"876\" class=\"origin_image zh-lightbox-thumb\" width=\"1040\" data-original=\"https://pic3.zhimg.com/v2-1847338c84ea2e66ca6f2ffe08c72766_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1040&#39; height=&#39;876&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1040\" data-rawheight=\"876\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1040\" data-original=\"https://pic3.zhimg.com/v2-1847338c84ea2e66ca6f2ffe08c72766_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1847338c84ea2e66ca6f2ffe08c72766_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>自助售餐亭</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>肯德基</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>肯德基与中国搜索引擎巨头百度合作，正在开发一家使用人脸识别技术的餐厅，根据他们的性别，面部表情和其他视觉特征来推断客户可能有兴趣订购哪些食品。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>肯德基选择了其一家中国餐厅，首次推出了自助售餐亭技术。扫描客户脸部，以确定可能影响食物选择（如年龄，性别和当前情绪）的个人特征。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>该系统旨在处理这些客户特征，并在客户进行选择之前提供备选菜单项。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>系统将存贮对每个客户的脸部扫描，以便根据以前的订单历史向回头客提供建议。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>数据安全性将成为公司推动合作的重要考虑因素。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>肯德基和百度的面部扫描技术似乎还处于早期阶段; 新闻中并没有提供特定的餐厅开放日期。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果该技术取得成功，它可能对中国快餐消费市场，特别是年轻人餐饮市场产生重大影响。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>原文出自：</p><p><a href=\"https://link.zhihu.com/?target=https%3A//www.techemergence.com/ai-in-restaurants-food-services/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">techemergence.com/ai-in</span><span class=\"invisible\">-restaurants-food-services/</span><span class=\"ellipsis\"></span></a></p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p>请关注我们微信公众号aihelps。欢迎加入<b>人工智能商业化</b>社群交流，请加微信号12956250。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>特别提示</b>：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<b>加拿大</b>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<b>美国</b>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/sDoEHCHEM3xMrWV-92_i\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/sDoEHCH</span><span class=\"invisible\">EM3xMrWV-92_i</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "餐饮", 
+                    "tagLink": "https://api.zhihu.com/topics/19557025"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/29410386", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "保险公司应用人工智能的三个主要方向", 
+            "content": "<p>保险业是美国支柱产业之一，据估计市场规模为五千零七十亿美元，占美国国内生产总值的百分之二点七。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>随着客户对自身保险的需求越来越挑剔，领先的保险公司正在探索运用机器学习（ML）和人工智能（AI）来改善业务运营和提高客户满意度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-a26ad66846014f2420e5c0fab527bb13_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"237\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-a26ad66846014f2420e5c0fab527bb13_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;237&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"237\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-a26ad66846014f2420e5c0fab527bb13_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a26ad66846014f2420e5c0fab527bb13_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>我们深入研究了保险业中AI运用的案例，希望能帮助回答企业管理者关心的问题：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>- 领先的保险公司如Allstate和Progressive 目前正在使用什么类型的ML应用？</p><p>- 在保险公司的AI运用中有哪些扎实且卓有成效的工作？</p><p>- 他们的创新工作是否有共通之处，他们又如何影响到保险行业的未来？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在本文中我们选择四家大型保险公司，来说明相关AI是如何颠覆保险行业的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>保险业中的AI</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前保险业中最受欢迎的AI应用是：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Chatbots / AI助理：响应内部代理商查询并提供有关业务协议的指导（见下文Allstate）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>驾驶员监控：ML算法正在应用于监控客户端数据，避免分心驾驶。（见下文State Farm 和Liberty Mutual）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>保险市场分析：ML算法正在应用于分析驾驶员数据，从而监控市场趋势及聚焦可能的商业机会（见下文Progressive）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>下面我们分别详细看一下。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>State Farm</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>State Farm是2016年排名第一的保险公司。为了研究运用AI识别分心驾驶，State Farm在2016年发起了一场在线竞赛，比赛共有1,440人参加，公司总共提供了65,000美元，分为3个等级。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>State Farm提供的数据集由许多2D仪表板图像的照片组成。竞赛挑战是使用十种类别对驾驶员行为进行分类，包括：</p><p>- 安全驾驶</p><p>- 发短信</p><p>- 操作收音机</p><p>- 在讲电话</p><p class=\"ztext-empty-paragraph\"><br/></p><p>使用从0到1的对数损失度量来计算最终得分。机器学习模型的目标是使得分数尽可能接近于零，用以代表给定模型的精度水平。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>获得0.08739分的应用程序使用两个神经网络模型，分别聚焦两个主要照片区域：头部和右下角，这是司机手通常出现的位置。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-005403220e3be3a4f151285792b2af38_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"329\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-005403220e3be3a4f151285792b2af38_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;329&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"329\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-005403220e3be3a4f151285792b2af38_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-005403220e3be3a4f151285792b2af38_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Liberty Mutual</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2017年1月，Liberty Mutual宣布计划开发具有AI功能的汽车应用程序和旨在提高驾驶员安全性的产品。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>由Liberty Mutual成立的创新孵化器Solaria Labs推出了一个开放的API开发者门户网站，该门户集成了公司的专有知识和公共数据，以方便开发者运用这些技术。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>据报道，Liberty Mutual正在试验一个新手机App来帮助司机处理车祸并使用相机实时快速评估车辆的损坏情况。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>App的AI组件通过数千张车祸图像进行训练，并给出维修成本估算值。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这款App正当其时，2016年汽车的死亡人数达到40,200人，为近十年来最高。据劳工局统计估计，2016年评估汽车损害的保险调查员的中位数为63,510美元。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-c6aa3e080cf52acdc9d0076dcb4c2908_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"377\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-c6aa3e080cf52acdc9d0076dcb4c2908_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;377&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"377\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-c6aa3e080cf52acdc9d0076dcb4c2908_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c6aa3e080cf52acdc9d0076dcb4c2908_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>AllState</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>Earley Information Science（EIS）是一家旨在通过数据分析帮助企业改进业绩的机构。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>Allstate与EIS合作开发了一个名为ABle的虚拟助理（Allstate Business Insurance Expert）。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>ABIe（发音为“Abbie”），旨在协助Allstate代理商寻求关于Allstate Business Insurance（ABI）商业保险产品的信息。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在ABle部署之前，代理商习惯于销售个人产品，如健康或房屋保险。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>然而，当公司决定把重心转移到销售商业保险时，许多代理商都很不适应如何与潜在客户进行有效沟通因此急需帮助。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>结果，Allstate发现他们的代理客服中心无法承受，导致商机流失。据报道，ABle可以向保险代理提供自然语言的逐步指导。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>EIS声称，ABLE每月处理25,000次查询。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>该公司的战略举措与波士顿咨询集团和摩根士丹利发布的保险趋势研究一致。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>该报告显示，个人保险行业不断下滑，到2030年个人汽车保险市场将缩减至现在的65％。导致这一趋势的原因之一是自动驾驶汽车的不断普及。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Progressive</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>据报道，Progressive Insurance利用AI算法根据从客户端驱动程序收集的数据进行预测分析。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Progressive声称，其远程信息处理App Snapshot已经收集了140亿英里的驾驶数据。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>通过在六个月使用后提供平均为130美元的汽车保险折扣，鼓励越来越多司机使用该App。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>与目前的汽车保险趋势一致，在Progressive 2016年度报告中，公司在2014年至2016年间将商业保险从零增长到9％。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>相比之下，个人保险在同一时期从2％上升到6％。 2016年Progressive总收入达234亿美元。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>H20.ai开发了Progressive Insurance使用的开源机器学习平台软件。 H20.ai声称其软件由9,000个组织和超过8万名数据科学家使用。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>到目前为止，该公司据报在A轮和B轮融资筹集了3360万美元。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>结语</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>AI正在保险行业萌芽，正被应用于数据解读，业务运营和驾驶员安全等多个领域。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>提高驾驶安全的策略特别及时，因为保险公司都在试图在最近的车祸率飙升以及汽车保险费率的上涨之间取得平衡。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>此外，因为自动车辆有望减少汽车事故，对汽车保险的需求也许会随之减少。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>然而着名作家兼某保险公司技术创新顾问丹尼尔·布鲁斯（Daniel Burrus）认为，“风险正在从驾驶员转向汽车制造商以及设计智能技术的公司”。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>Burrus认为，保险的需求并没有降低，只是保险公司必须准备好适应这些新的商机。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>普华永道全球AI主管Anand Goa认为，虽然自动驾驶的某些要素已经集成到许多车辆中，但15到20年间才能出现真正的全自动化汽车。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>TechEmergence对自主车辆的研究显示，自主驾驶技术方向的投资相当可观，福特和丰田相继投入10亿美元。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当涉及保险公司如何准备这一转变时，AI技术专家Francesco Cesco强调，保险公司“应该积极研究新型数据并对模型进行调整，以充分发挥AI的潜力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>”他认为行业应该拥抱一种新的“文化心态”，因为它是“在保险领域早期采用AI解决方案的最大障碍”。</p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p>请关注我们微信公众号aihelps。欢迎加入<b>人工智能商业化</b>社群交流，请加微信号12956250。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>特别提示</b>：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<b>加拿大</b>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<b>美国</b>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "保险", 
+                    "tagLink": "https://api.zhihu.com/topics/19562045"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/29166197", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "智能人机交互 - 埃森哲2017关键技术趋势", 
+            "content": "<p>尽管AI已历经数十年，然而近年来，无处不在的计算，低成本的云服务，近无限的存储，数据分析和其他创新使得AI的发展一日千里。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前，AI对实现人与机器之间更智能，更无缝的交互起着至关重要的作用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在现代生活中AI无所不在：无论是与Alexa聊天，获取天气预报或要求提供汽车接送，还是使用Nest智能家居温控装置我们无时无刻都在与AI打交道。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>人机交互中的AI - 当前的一些应用</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在最简单的层面上，AI为人们提供内容推荐。例如移动应用程序Spotify就采用AI算法来根据听众从前听过的歌曲来向用户提供聆听建议。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-b6b0145f825c7f111742809b7348975e_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"421\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-b6b0145f825c7f111742809b7348975e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;421&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"421\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-b6b0145f825c7f111742809b7348975e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-b6b0145f825c7f111742809b7348975e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>再如，美国在线订阅和个人购物服务的Stitch Fix不仅使用与尺寸和风格相关的客户信息，他们还分析了购物者的社交媒体兴趣，以及一些专业设计师的建议，来为客户选择符合其偏好及个人风格的服装。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>通过收集关于客户对推荐服饰的反馈，Stitch Fix声称其推荐引擎可以不断地自动优化结果。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-a93fe8493ab5368fe4d8b97ed00d8d61_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"250\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-a93fe8493ab5368fe4d8b97ed00d8d61_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;250&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"250\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-a93fe8493ab5368fe4d8b97ed00d8d61_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a93fe8493ab5368fe4d8b97ed00d8d61_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>除此之外，另外一些AI应用则使许多传统人机交互形式彻底消失。 亚马逊的Alexa或谷歌的Google home可与用户交谈，并可为他们处理一些简单的事务。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>这对消费者和企业而言是双赢。 例如，亚马逊Echo的客户在亚马逊上的支出占据他们全部网购花费的近一半。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>未来的智能人机交互</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>然而，对许多公司而言，他们积极探索AI的重要原因不仅在于它提供了更好的用户体验，而且因为它提供了一个更自然的解决问题的方法，以及更重要的，将过去不可能的事情变为可能。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>鉴于此，埃森哲在全球范围内调查了5400家技术和企业高管。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在其新鲜出炉的名为“2017年技术愿景”的关键技术趋势年度报告中提到：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>85％的企业高管们表示未来三年计划广泛投入AI相关技术; </p><p>五分之四（79％）表示相信AI将彻底改变与客户互动的方式; </p><p>超过三分之二（68％）表示相信AI将在未来三年内大幅改变其公司的运营方式。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>下图为受访人物的构成：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-a82d82a89686c548abd59bf5a7a876b1_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"572\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-a82d82a89686c548abd59bf5a7a876b1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;572&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"572\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-a82d82a89686c548abd59bf5a7a876b1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a82d82a89686c548abd59bf5a7a876b1_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>尽管今日的AI技术已经相当复杂，幸运的是我们使用它并不必理解其复杂的背后原理。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>快速成熟的AI技术使得人机交互更加个性化和自然 - 换句话说，更人性化（Alexa，Siri和一些今天更好的chatbot体验已经展示了这一点）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这种发展为企业提供了机会和挑战，因为客户忠诚度取决于受到客户和客户品牌体验。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>好的AI客户体验能为公司留住老客户并赢得新客户，这将带来一贯的，积极的品牌体验和无与伦比的的个性化服务。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前银行，零售和消费者技术等行业在这方面走在其他行业前列。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如何实施智能人机交互</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>对于想要探索AI人机互动的公司我们建议如下步骤：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>首先，看看如何能让采取现有的沟通渠道变得更加智能（比如，采用成功的会话或语音界面应用）；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>第二，研究客户和员工之间的互动过程，探索如何能通过AI来改进；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最后，看看是否可能通过新渠道来开展多重维度的会话。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这个变化必须自上而下，公司决策者必须意识到AI对业务的重要价值。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>通过将AI置于客户体验的核心地位，公司将能够从传统事务性的客户互动形式转移到覆盖基于文本的聊天，口头会话，再到采用手势甚至虚拟现实的多维度，全方位对话。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>那些真正能够充分利用AI来改善客户体验的公司将会极具竞争力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p>请关注我们微信公众号aihelps。欢迎加入<b>人工智能商业化</b>社群交流，请加微信号12956250。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>特别提示</b>：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<b>加拿大</b>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<b>美国</b>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "人机交互", 
+                    "tagLink": "https://api.zhihu.com/topics/19553525"
+                }, 
+                {
+                    "tag": "chatbot", 
+                    "tagLink": "https://api.zhihu.com/topics/20062496"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28408358", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 1, 
+            "title": "你知道高手是如何玩弄人工智能的吗？", 
+            "content": "<p>这是一个刷脸的时代，随着机器学习的进一步普及，越来越多的地方开始使用人脸识别技术来进行安全控制。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>今天给大家分享个好玩的，看看高手是如何玩弄人工智能的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>众所周知，大部分计算机系统都存在许多安全漏洞，这大部分都是源于如代码，流程或数据中的人为错误；黑客往往就是利用这些安全漏洞对系统进行攻击。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>到了现在，虽然许多程序员的工作转而被机器学习替代，这方面的风险依然存在。AI也会犯错误，而且往往后果更严重。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在最近谷歌发表的一篇论文中写道，在AI系统中存在的巨大的风险，尤其是当AI被运用于传感器，监控照相机等物理系统中。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>”这的确是我们需要认真对待的问题&#34;，OpenAI研究员Ian Goodfellow说道。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>眼见并非为实</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>近年来，深度学习，一类非常强大的大数据学习技术，获得了空前的成功。我们往往不再具体编写程序，取而代之的是运用大量数据进行训练。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>对互联网巨头谷歌，脸谱和微软而言这已是司空见惯。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Facebook应用神经网络来识别朋友圈中的人脸。谷歌则用神经网络来识别用户的语音指令。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在不久的将来，我们将用深度学习来制造智能机器人和自动驾驶汽车等等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>今天，神经网络已经广泛用于识别人脸，动物，交通标志，语音以及书面文字等等。然而这些系统时常也会犯错误，有时错的还相当离谱。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>“没有一个系统是完美无缺的”，更糟糕的是我们能够对这类系统进行攻击，让其相信看到或听见了一些事实上并不存在的东西。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>打比方说我们能够对一幅小鸟的照片进行微调，就可轻易的骗过AI让它认为这是一架飞机。然而，通常这样的小伎俩却瞒不过人。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-6fda917368a7ddcb7b23b7f6613fec18_b.png\" data-rawwidth=\"1200\" data-rawheight=\"598\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-6fda917368a7ddcb7b23b7f6613fec18_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;598&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1200\" data-rawheight=\"598\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-6fda917368a7ddcb7b23b7f6613fec18_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6fda917368a7ddcb7b23b7f6613fec18_b.png\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>最新的论文中展示，就算图片数据是从其他照相机或传感器中直接采集的，这个问题仍然存在。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>想象一下，要是我们只需简单的在脸上特定部位涂几下，即可骗过机密场所的门禁人脸识别系统，那岂不是糟糕透顶。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>Goodfellow说这种攻击手段对于几乎所有的机器学习系统都适用，包括决策树（Decision Tree）和支撑向量机（SVM）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>事实上，他认为相似的攻击手段在其余领域也已经广泛应用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>打比方说，在金融领域，某些交易员会假装进行一些特定的交易，用以诱骗其他竞争对手进行低价抛售，然后他们再趁机回购。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>Kurakin，Bengio及Goodfellow在论文中他们展示了如何生成一张对抗图片来蒙骗AI。如下图，只需对原图做一点简单的手脚就可轻松骗过网络让其误认滚筒洗衣机为保险柜或音响设备。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-aa56c9cc8ea6eb9d9e31d21aeb34933a_b.png\" data-rawwidth=\"968\" data-rawheight=\"624\" class=\"origin_image zh-lightbox-thumb\" width=\"968\" data-original=\"https://pic3.zhimg.com/v2-aa56c9cc8ea6eb9d9e31d21aeb34933a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;968&#39; height=&#39;624&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"968\" data-rawheight=\"624\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"968\" data-original=\"https://pic3.zhimg.com/v2-aa56c9cc8ea6eb9d9e31d21aeb34933a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-aa56c9cc8ea6eb9d9e31d21aeb34933a_b.png\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>此外，作者认为更直接的攻击手段完全可能，打比方说，通过在脸上画上一些甚至不为人注意的特殊记号，理论上是可以骗过一些精密的人脸识别系统的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然攻击一个成熟的AI系统并不容易，但你也许无须知道神经网络是具体如何工作的就可以展开攻击。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>几位研究者认为，人们必须开始着手修补这些漏洞，相信这也是他们提出生成对抗网络（GAN）的初衷之一；通过对大量的可能攻击手段的模拟，神经网络才能真正具备抵御恶意攻击的能力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>特别提示：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文章由亮剑会提供，<b>亮剑会</b>是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<b>加拿大</b>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<b>美国</b>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28060708", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "道高一尺、魔高一丈，新的斗法你如何看？", 
+            "content": "<p>人工智能（AI）已经渗透人类生活的方方面面。 随着企业和政府开始使用AI，其在网络安全领域的应用潜力也日益增长。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前，黑客和企业正在进行一场激烈竞赛，运用AI技术，黑客可以开发更复杂的攻击手段，而企业则使用AI进行攻击检测，预防和补救。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p>随着近年来大规模安全漏洞数量的增加，企业应考虑采取行动，投资设计新型智能防火墙来抵御不断升级的攻击。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们预计，最快在明年，我们将会看到升级版的智能防火墙，它可以同时执行几项任务，包括不断重写加密密钥，防止被黑客在防火墙外解密。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>还有，企业可以运用AI技术进行攻击分析，检测和建模来预测潜在问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>例如，从前对系统遭受的外部攻击进行手动排查可能需要持续数周。使用AI不仅增加了额外的保护层，而且还允许企业更快地对攻击做出应对。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>不断升级的黑客攻击手段</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>从前，软件和网络中漏洞无处不在，黑客不需要AI就获得了大量机会。然而，随着防火墙水平的提高，网络中的漏洞越来越难找到。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-b9d781e27911684a3765072fc9b82ba2_b.png\" data-rawwidth=\"1318\" data-rawheight=\"780\" class=\"origin_image zh-lightbox-thumb\" width=\"1318\" data-original=\"https://pic3.zhimg.com/v2-b9d781e27911684a3765072fc9b82ba2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1318&#39; height=&#39;780&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1318\" data-rawheight=\"780\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1318\" data-original=\"https://pic3.zhimg.com/v2-b9d781e27911684a3765072fc9b82ba2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-b9d781e27911684a3765072fc9b82ba2_b.png\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>然而道高一尺，魔高一丈，可能不久后，AI将成为黑客的常规手段，他们将有更多的机会和渠道来获取敏感数据。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>例如，黑客可以运用AI技术自动扫描互联网和软件的漏洞并设计新的攻击策略。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前，网络犯罪分子主要使用AI来创建钓鱼电邮。通过使用来自目标的数据自动创建与受害者生活相关的钓鱼邮件，这些AI驱动的攻击迷惑性更大。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这些策略将使企业和个人更难识别何时遭到黑客入侵。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>监测企业内部威胁</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>一直以来，来自内部的威胁对企业一向是关注的焦点。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-11807f84a331f9df9215ce4da26a2a9a_b.png\" data-rawwidth=\"994\" data-rawheight=\"688\" class=\"origin_image zh-lightbox-thumb\" width=\"994\" data-original=\"https://pic3.zhimg.com/v2-11807f84a331f9df9215ce4da26a2a9a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;994&#39; height=&#39;688&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"994\" data-rawheight=\"688\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"994\" data-original=\"https://pic3.zhimg.com/v2-11807f84a331f9df9215ce4da26a2a9a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-11807f84a331f9df9215ce4da26a2a9a_b.png\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>AI可以帮助您检测到异常的员工行为，例如，发现正在访问公司敏感信息的员工，以及他们将信息转移到公司外部的证据。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>把它推向极端，AI也可以用来监控员工是否违反企业政策。任何员工行为，比如使用U盘的时间和地点都可以用来分析恶意意图的蛛丝马迹。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然，企业要非常小心避免触及员工隐私，雇员法及隐私法将是关键。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>人才短缺</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>由于和黑客的斗争日趋激烈，企业需要大量精通网络安全的专业人员。到2022年，世界将面临180万网络安全专业人员的短缺。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>近几个月来政府已经意识到这一现状，公布的内容预算案显示政府对解决人才和技能短缺问题的承诺。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>随着黑客攻击手段复杂度不断提高，企业需要开始考虑如何将AI纳入其网络安全策略中。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然，目前并非每个企业都是高级AI攻击的目标，简单的网络防范策略仍然行之有效。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>然而，大量证据表明，AI在网络安全中正变得无处不在。所以企业还是需要未雨绸缪，两方面都做好防范。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>请关注我们微信公众号aihelps。欢迎加入<b>人工智能商业化</b>社群交流，请加微信号12956250。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>特别提示：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<b>加拿大</b>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<b>美国</b>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "网络安全", 
+                    "tagLink": "https://api.zhihu.com/topics/19554927"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27830557", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 6, 
+            "title": "一个人工智能新电商为啥能被10亿美元收购？", 
+            "content": "<p>近年来，在总体购物环境不景气的大环境下，一类新兴的名为“订购电商”的在线零售业却异军突起，年增幅高达1000％。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>初创公司包括BarkBox，Birchbox，Blue Apron，Harry&#39;s，OwlCrate，Trunk Club和Winc等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>每月邮寄的产品包含美容，时尚，食品，个人护理，宠物产品等等，价格在10美元到80美元之间，产品直达客户的门口。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>日用消费品巨头联合利华在2016年7月份抢先收购了其中最著名的一个 - Dollar Shave Club，收购价达到了惊人的10亿美元，是其目前年收入的五倍。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这笔收购引发了公众对这些公司的兴趣，人们想要了解他们快速积聚人气的魔力以及其革命性的业务模式。\n</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这些订购电商公司的优势在于极低的启动成本，无中间商环节, 直接面向消费者的销售模式以及稳定快速增长的收入来源等等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这些公司对今天锱铢必较的消费者而言可谓福音。订购盒直接送到客户家中，大大节省了他们在商店里购物的时间和精力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>其次，这种订购模式经常可为客户省钱 - 盒中商品的总价值往往远超支付的月费。对客户而言，打开盒子经常会有意外惊喜 - 感觉就像每月收到特别的“圣诞礼物”。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>例如，最受欢迎的YouTube美容大师Michelle Phan创立的ipsy发送名为Glam Bags的个性化美容盒，月费仅为10美元，深受用户好评。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Glam Bags中每个品牌包含五种豪华化妆品，让客户每月可以以极低风险和成本尝试不同的选择。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>数据分析对于订购电商模式的成功至关重要。这些公司面临的最大挑战是客户流失。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果公司可以准确地预测客户会喜欢什么 - 有时甚至比客户自己表达的更好 - 随着时间的推移算法可从客户不断变化的口味中学习，那么用户的忠诚度则会大大提高。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>大多数公司要求新客户填写一份个人偏好资料，比如 Ipsy为新会员提供了一个“美容测验”，询问皮肤色调，眼睛和头发颜色以及喜爱的品牌。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这些信息充分保证了每个Glam Bag的独特性 - 每月有超过200种Glam Bags配置。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>堪称基于AI的数据分析的最佳范例则是“个人造型服务”Stitch Fix。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这家位于旧金山的公司成立于2011年，拥有数以千计的个人造型师，旨在为职业女性（现在也包括男性）推荐服饰。这些顾客太忙，没时间购物或跟踪时装趋势。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>他们每月给客户发送一个叫“Fix”的盒子，包含五套精心准备的服装和配饰。客户仅保留他们喜欢的，并将余下的退回。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>该公司与其竞争对手的差异在于，它拥有一个大约60位数据科学家团队，利用ML算法来协助设计师仅选择客户可能保留的服饰。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当新客户注册时，她们需要填写一个相当详细的“风格简介”，询问他们的个性，身材类型，生活方式，预算，喜欢的风格，颜色，以至于他们想要突出或掩盖的身材特征。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>此时款式预测算法则会通过客户的喜好自动生成推荐服饰。同时，他们也采用一系列其他人工智能算法跟踪客户对服务的满意度以及他们保留或退订服务的可能性。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有趣的是，这些算法从经验中学习，在每次与用户交互后变得更聪明，随着时间的推移做出更好的预测。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最终，客户会发现该服务已经成为她们不可或缺的“时尚顾问”，似乎比她们自己更了解自身的需求。\n</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>这些公司成功的最后秘诀是有效利用社交媒体营销。许多订购公司将他们的客户组织形成在线社区，他们可以提供有用的反馈，分享产品建议，吸收并协助新会员。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>NatureBox提供每月健康小吃盒子，它有超过100种可能的选择，包括纯素，无乳，无坚果类，非转基因和无大豆等等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>订阅者在每个盒子中获得五个营养师批准的零食。 NatureBox目前在Twitter，Facebook，Instagram和Pinterest等各种网站上拥有超过100万的追随者，他们会定期参与比赛，分享食谱及心得。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>据“今日美国”报道，大约50％的NatureBox成员曾在Facebook上分享他们的经验。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在线订购业务让人联想到西班牙时尚连锁Zara的成功。其业务模式基于从制造到零售的纵向整合。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这使得Zara能比其它竞争对手更快地将时尚从概念引入专卖店柜台。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>某种意义上说那些成功的订购创业公司，如Ipsy，Graze和Stitch Fix，他们主推的“更好，更快，更便宜”的模式，可以说正是“Zara in a box”的翻版。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>毫不奇怪，许多年轻的企业家和精明的风险投资家被美国及周边这个快速发展的市场所吸引。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最近，这些服务也渗透到了欧洲，其中包括Fairybox，Glossbox和Pink Box等公司。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>即使是宝洁，沃尔玛，星巴克，阿迪达斯，梅西百货以及诺德斯特伦等行业巨头也可以通过收购或者通过自己的在线订购网点加盟。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>对于想进入这个空间的企业，我们最后给出以下四个建议。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>首先，选择正确的产品类别。在线订购广泛适用于如下两类商品：1）定期补充型，如食物，宠物护理产品，保健品或个人美容产品；2）“自我犒赏”型，如服装，书籍，首饰，雪茄，葡萄酒等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>第二，采纳最新的供应链技术和数据分析技术。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>第三，为客户提供高水平个性化的服务。真正回归了客户为先的传统价值。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最后，通过社交媒体，建立互动良好，关系密切的网上社区。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>原文出处：</p><p><a href=\"https://link.zhihu.com/?target=http%3A//sloanreview.mit.edu/article/using-analytics-and-ai-subscription-e-commerce-has-personalized-marketing-all-boxed-up/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">sloanreview.mit.edu/art</span><span class=\"invisible\">icle/using-analytics-and-ai-subscription-e-commerce-has-personalized-marketing-all-boxed-up/</span><span class=\"ellipsis\"></span></a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>请点击文章最上方的蓝色字体人工智能商业 或扫描屏幕下方二维码关注我们微信公众号aihelps。欢迎加入<b>人工智能商业化</b>社群交流，请加微信号12956250。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>特别提示：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<b>加拿大</b>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<b>美国</b>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "电子商务", 
+                    "tagLink": "https://api.zhihu.com/topics/19550780"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27668198", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "亮剑会 2017 年 07 月 03 日的文章", 
+            "content": "<p>上期我们分享了<strong>药物研究/制造、临床试验研究、放射学和放射治疗</strong><strong><strong>，</strong></strong>本期我们继续分享AI在医学上的七大应用领域以及有待克服的障碍。希望能对相关领域的同学有所启发。</p><br/><p><strong>6 - 智能电子健康记录</strong></p><br/><p>使用支持向量机（SVM）进行文本分类（例如通过电子邮件来对患者查询进行排序）以及光学字符识别（或OCR，将草图手写转换为数字化字符）都是成熟的ML应用。</p><br/><p>这将有助于推动电子健康的收集和数字化。 这方面的工作包括MATLAB的ML手写识别技术和Google用于OCR的Cloud Vision API。</p><br/><p>图片：MATLAB - 手写字符识别</p><br/><p>MIT临床机器学习小组正在推动下一代智能电子健康记录的发展，他们使用内置的ML算法来帮助诊断，临床决策和提供个性化治疗建议。</p><br/><p>MIT在其网站上写道:“我们需要强大，安全及可解释的ML算法。它可以从小规模的标注训练集中学习，并支持自然语言交互，从而可推广至大量医疗机构。</p><br/><br/><p><strong>7 - 疫情爆发预测</strong></p><br/><p>根据从卫星收集的数据，网络上的历史信息，实时社交媒体更新等等，ML和AI技术也被应用于监测并预测世界各地的疫情爆发。</p><br/><p>目前已有基于支持向量机（SVM）和人工神经网络（ANN）的模型来预测疟疾疫情。</p><br/><p>采用的数据包括温度，月平均降雨量，阳性病例总数等等。</p><br/><p>疫情预测在第三世界国家尤其迫切。这些国家往往缺乏医疗基础设施，教育途径和及时治疗机会。 </p><br/><p>ProMED是一个基于互联网的邮件系统以用于监测新出现的疾病并实时提供疫情报告：</p><br/><p>图片来源：Going International</p><br/><p>利用ProMED报告和其他开采的媒体数据，HealthMap组织使用自动分类和可视化来帮助监控和提供任何国家的疾病爆发警报。</p><br/><br/><p>图片来源：CDC - HealthMap报告用于跟踪和预测登革热病毒爆发</p><br/><p><strong>有待克服的障碍</strong></p><br/><p>在将ML技术应用于制药和医疗的这场竞赛中，还有如下待解决的挑战：</p><br/><p>- 数据整合是目前最为紧迫的问题之一。医疗数据仍然是敏感的个人隐私。一向以来我们认为大多数公众会担心医疗数据中的隐私问题。有趣的是，2016年3月份的Wellcome基金会对英国公众的调查发现，只有17％的受访者明确表示不同意将他们的匿名数据提供给第三方进行研究。</p><br/><p>为满足严格的药物开发规定我们需要算法更透明;人们需要能够透过“黑盒”来理解算法结论背后的推理过程。</p><br/><p>- 招聘数据科学人才，建立健全的数据科学流程。</p><br/><p>- 打破“数据孤岛”并真正建立以数据为中心的观点。横跨部门领域至关重要，我们需要以积极推动行业的心态，看到大数据机器学习这一趋势的长期价值。</p><br/><p>- 作为实现这一切的第一步，我们需要对目前数据库中分散凌乱的电子记录进行整合。</p><br/><br/><p>请关注我们微信公众号aihelps。欢迎加入<strong>人工智能商业化</strong>社群交流，请加微信号12956250。</p><br/><br/><p><b>特别提示</b>：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "医学", 
+                    "tagLink": "https://api.zhihu.com/topics/19604128"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27577779", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 6, 
+            "title": "AI在医学上的七大应用领域（中）", 
+            "content": "<p>上期我们分享了<strong>疾病诊断和<strong>个性化医学，</strong></strong>本期我们继续分享AI在医学上的七大应用领域以及有待克服的障碍。希望能对相关领域的同学有所启发。</p><br/><br/><p><strong>3 - 药物研究/制造</strong></p><br/><p>在初步（早期）药物设计中使用机器学习具有巨大潜力，从药物化合物的初步筛选到基于个体因素的药物有效性预测，以及一系列新技术，如下一代测序等。</p><br/><p>精准药物医学是这一领域的前沿。这涉及确定“多因素”疾病的机制，或者寻找替代治疗等等。 </p><br/><p>很多这方面研究涉及无监督的学习，目前很大程度上我们仍然局限于识别数据模式（而非预测）。</p><br/><br/><p>A：监督和无监督学习问题的矩阵表示 </p><p>B：决策树将特征映射到结果 </p><p>C：神经网络基于特征的变换来预测结果 </p><p>D：最近邻算法 - 基于最相似训练样本值的分类器</p><br/><p>该领域的主要开拓者包括MIT临床机器学习小组。</p><br/><p>其精密医学研究侧重于开发算法，以更好地了解疾病过程并设计有效治疗2型糖尿病等疾病。</p><br/><p>微软的汉诺威项目正在多个计划中使用ML技术，其中包括与奈特癌症研究所合作开发用于癌症精准治疗的AI技术，目前着眼于开发治疗个性化急性骨髓性白血病（AML）的药物组合。</p><br/><p>英国皇家学会还指出，药物研究中运用ML已经成熟。</p><br/><p>来自实验或制造过程的数据有可能帮助制药厂商减少生产药物所需的时间，从而降低成本并提高重复率。</p><br/><p><strong>4 - 临床试验研究</strong></p><br/><p>机器学习可以用来指导临床试验研究。应用高级预测分析，我们可以利用比目前更广泛的数据，例如社会媒体和医生门诊记录，以及在针对特定人群时的遗传信息来确定临床试验候选人; 这一切将使得临床实验更小，更快，更便宜。</p><br/><p>ML还可用于远程监控，例如，监测患者体征以发现任何人身伤害或死亡的迹象。</p><br/><p>据麦肯锡称，ML可以帮助提高临床试验效率，包括找到最佳样本大小; 适应患者个体差异; 以及使用电子医疗记录来减少数据错误（例如重复输入）。</p><br/><p><strong>5 - 放射学和放射治疗</strong></p><br/><p>在2016年10月的“统计新闻”采访中，哈佛医学院助理教授Ziad Obermeyer博士说：</p><br/><p>“20年后，放射科医生将不复存在。他们可能看起来更像是人和机器的混合体：应用ML算法每分钟他们可以读取数千个病例。“</p><br/><p>目前，Google的DeepMind Health正在与伦敦大学学院（UCLH）合作开发能够检测健康和癌组织差异的ML算法帮助改善放射治疗。</p><br/><p>图片来源：Google DeepMind健康 - 放射治疗计划</p><br/><p>DeepMind和UCLH正在努力应用ML，以加快癌组织分割过程（确保没有健康的结构受损）并提高放射治疗的准确性。</p><br/><br/><p>在下期文章中我们会继续分享<strong>智能电子健康记录、疫情爆发预测</strong>领域的探索。</p><br/><p>待续......</p><br/><br/><p>请关注我们微信公众号aihelps。欢迎加入<strong>人工智能商业化</strong>社群交流，请加微信号12956250。</p><br/><br/><p>特别提示：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "医学", 
+                    "tagLink": "https://api.zhihu.com/topics/19604128"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27452912", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 8, 
+            "title": "AI在医学上的七大应用领域（上）", 
+            "content": "<p>从本期开始，我们会连续几期分享AI在医学上的七大应用领域以及有待克服的障碍。希望能对相关领域的同学有所启发。</p><br/><br/><p>众所周知，高质量的数据是AI引擎的宝贵助力。而医疗健康行业则是一座数据的金矿。</p><br/><p>在我们亮剑会(公众号aihelps)中就有有心人花费几年时间建立了北美所有保健营养品的数据资料。</p><br/><p>据麦肯锡估计，制药和医疗方面的大数据和机器学习每年可以产生高达1000亿美元的价值。</p><br/><p>这些价值来源于：更好的决策，优化创新，提高研究/临床试验的效率，以及为医生，病人和医疗机构创造新的诊疗手段等等。</p><br/><p>医疗数据的来源形形色色，比如研发机构，医师，诊所，病人等等; 如何能从这些不同来源的数据中提炼出真正能用于改进医疗手段的有用信息极为重要。</p><br/><p>因此，当今医疗AI的核心问题是通过有效收集和运用大量不同类型数据，进而找到更好的个性化分析，预防和治疗方案。</p><br/><p>机器学习目前在制药和医疗领域突飞猛进。本文简要介绍<strong>七个开创性的应用领域</strong>以抛砖引玉。</p><br/><p><strong>1 - 疾病诊断</strong></p><br/><p>疾病的识别诊断一直是医学研究的前沿。根据美国药物研究与制造商发布的2015年报告，有800多种药物和疫苗用于治疗癌症。 </p><br/><p>奈特（Knight）研究所研究员杰夫·特纳（Jeff Tyner）在接受彭博科技（Bloomberg）采访时表示，虽然这令人兴奋，但还是不容易找到行之有效的方法来处理所有数据结果。 </p><br/><p>Tyner表示：“生物学家与计算机专家合作非常重要。”</p><br/><p> 毫不奇怪，一些大公司已经开始这方面的研究布局，特别是在像癌症识别和治疗这样的重要领域。</p><br/><p> 2011年10月，IBM沃森健康公司（Watson Health）宣布与沃森基因组学公司（IBM Watson Genomics）合作，该计划旨在通过集成认知计算和基因组肿瘤测序，推动精密医学领域发展。</p><br/><p>总部位于波士顿的生物制药公司Berg正在使用AI来研究包括肿瘤学在内的多个领域的诊断和治疗。</p><br/><p>目前正在进行的研究项目包括静脉内肿瘤治疗的剂量试验和前列腺癌检测和后续管理。</p><br/><p>其他主要的例子包括谷歌的DeepMind Health，去年宣布与英国的多家合作伙伴关系，包括伦敦的Moorfields眼科医院，他们正在开发技术来解决老化眼睛黄斑变性的问题。</p><br/><p>图片来源：Google DeepMind Health - 对团队成员之一进行OCT扫描</p><br/><p>在脑部疾病如抑郁症等领域，牛津的“抑郁症预防及应对”（PReDicT）项目正在使用预测分析来帮助诊断并提供治疗，他们的总体目标是研发一组情绪测试问卷调查用于临床。</p><br/><p><strong>2 - 个性化医学</strong></p><br/><p>个性化医学或基于个人健康数据的预测分析也是当前一个热点研究领域。</p><br/><p>该领域目前大多采用监督学习（Supervised Learning），这让医生们可以从更有限的诊断集中进行选择，或者基于症状和遗传信息来估计患者风险。</p><br/><p>IBM沃森研究中心肿瘤学部门和斯隆凯特林纪念医院目前在该领域处于领先地位。他们致力于使用患者医疗信息和诊疗历史来选择最优治疗方案。</p><br/><p>在接下来的十年中，我们将会看到微生物传感设备以及具有更复杂的健康测量和远程监控功能的移动APP的广泛使用，这将带来可用于帮助促进研发和治疗功效的大量数据。</p><br/><p>这种个性化治疗有益于帮助提高健康，并最终降低总体医疗成本。</p><br/><p>在下期文章中我们会继续分享<strong>药物研究/制造、临床试验研究、放射学和放射治疗</strong>领域的探索。</p><br/><p>待续......</p><br/><br/><br/><p>请关注我们微信公众号aihelps。欢迎加入<strong>人工智能商业化</strong>社群交流，请加微信号12956250。</p><br/><br/><p>特别提示：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "医学", 
+                    "tagLink": "https://api.zhihu.com/topics/19604128"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27342174", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 1, 
+            "title": "美国Flipboard失败，中国今日头条成功，为啥？", 
+            "content": "<p>在美国，随着Facebook成为越来越多人的日常新闻的主要来源，像Flipboard这样的新闻聚合应用正在逐渐失去吸引力。</p><br/><p>但在中国，由于Facebook无法开展业务，一个这样的应用很受欢迎。</p><br/><p>日前，一个名字叫“今日头条&#34;的新闻门户，吸引了上亿中国用户的关注。但是它并没有自己的专栏作家和编辑。</p><br/><p>相反，它使用人工智能技术来过滤和分发新闻内容。</p><br/><br/><figure><noscript><img src=\"https://pic4.zhimg.com/v2-1f769ba546e8a12a982118d55e60f757_b.jpg\" data-rawwidth=\"960\" data-rawheight=\"1709\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-1f769ba546e8a12a982118d55e60f757_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;1709&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"960\" data-rawheight=\"1709\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-1f769ba546e8a12a982118d55e60f757_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1f769ba546e8a12a982118d55e60f757_b.jpg\"/></figure><br/><p>通过用户的位置，智能手机型号和点击历史，今日头条的算法可以通过来自4000多个合作伙伴站点的最新消息，评论和视频进行排序，找出它认为是最合适的内容推送给用户。</p><br/><p>不止于此，为吸引年轻人，它提供的很大一部分是短小精悍的Buzzfeed风格的故事，以及漫画，GIF，直播流媒体和互动问答渠道等。</p><br/><p>截至2016年底，今日头条有8000万日常活跃用户， 用户平均每天花76分钟通过该应用阅读新闻或观看视频。</p><br/><p>市场情报公司App Annie表示，今日头条是中国iOS App Store上的头号新闻应用。</p><br/><p>根据去年发布的报告，其70％以上的用户年龄在30岁以下。 86研究分析师张学儒在上海表示，这项指标已经超过了Facebook的全球平均水平50分钟。</p><br/><p>张一鸣估计，公司的收入大部分来自在线广告，去年增长了五倍，达到六十多亿元人民币（8.69亿美元）。</p><br/><p>然而据他说，今年公司并不太可能盈利，因为他们投入更多的原创内容，如视频等。</p><br/><p>今日头条受到投资者追捧。公司ByteDance在最近的一次筹款活动中的价值高达110亿美元，其中包括红杉资本中国和中国建设银行投资部门建行国际。</p><br/><p>估值相比2014年的5亿美元有巨大飞跃。据说34岁的创始人张一鸣持有30％的股份。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-d770cc4f801de0672cf4da44bf769f4f_b.jpg\" data-rawwidth=\"960\" data-rawheight=\"638\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-d770cc4f801de0672cf4da44bf769f4f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;638&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"960\" data-rawheight=\"638\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-d770cc4f801de0672cf4da44bf769f4f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d770cc4f801de0672cf4da44bf769f4f_b.jpg\"/></figure><br/><br/><p>上海创业投资集团Gobi Partners的合伙人许旭表示：“中国投资者喜欢平台型公司。 “头条拥有稳定的流量和粘性用户群。人们愿意在这样的创业公司投入大量资金。“</p><br/><p>2008年，创始人张一鸣正在帮助运营社交网站海内网，他的消息聚合理念也植根于此。</p><br/><p>当时他认为中国的市场是由国家媒体和其他新闻网站主宰的，这些新闻网站则充斥着偏狭冗长的报道。</p><br/><p>当海内网触礁时，合作伙伴王兴创立了美团，并一跃成为中国最大的本地服务供应商。</p><br/><p>张一鸣则有些迷茫，他先后担任了在线旅行网站酷讯的技术总监以及房地产网99房的总裁，但最终他的注意力还是回到新闻业并在2012年成立ByteDance公司并推出头条业务。</p><br/><p>Gobi资本的徐先生说：“当头条开始提供替代和个性化的内容时，其他中国媒体公司仍然专注于那些死板严肃的报道。 但是，年轻一代想要更多轻松搞笑的东西，而头条则很好的迎合了他们。”</p><br/><p><strong>竞争对手</strong></p><br/><p>然而，现在竞争也日趋白热化。中国的三位一体 - 阿里巴巴，百度和腾讯都在开发个性化的新闻服务。</p><br/><p>传统的新闻门户，如新浪和<a href=\"https://link.zhihu.com/?target=http%3A//163.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">163.com</span><span class=\"invisible\"></span></a>正在通过根据用户的浏览历史在他们的应用程序中添加Feed来追赶头条。</p><br/><p>另一方面，对手也正在拿起法律武器维权。四月份，腾讯和搜狐都声称头条未经许可使用他们的专属内容。</p><br/><p>腾讯QQ新闻网站报道，他们正在寻求“数百万元”的损失赔偿。但是，ByteDance的一位女发言人表示，头条采用远比其他公司“优越”的软件来识别并删除抄袭文章，并表示该公司最近也起诉了腾讯侵犯他们的知识产权。</p><br/><p>“竞争是他们的主要风险，”86研究的张学儒说。 “今年公司的势头依然强劲，但压力肯定也越来越大。”</p><br/><p>头条此时也在海外扩张寻求新的增长点。 ByteDance已经在印度和印度尼西亚投资了媒体平台。 </p><br/><p>二月份，该公司收购了美国视频应用程序Flipagram，这笔交易是由原Uber中国区CEO柳甄促成的。</p><br/><p>但中国业务仍是头条的重点。 监管机构对网络媒体一刻也不会放松，ByteDance已经因为色情和非法内容被政府反复传唤，即便其业务全在中国的“大防火墙”中。</p><br/><p>该公司表示：“我们提供严格的筛选措施，以确保[合作伙伴提供的内容]达到我们的严格标准。&#34; 它使用人力和自动化相结合的方法。 但是由于头条对其外部合作者无法做到严密监控，所以公司对那些非法内容还是有些疲于应对。</p><br/><br/><br/><p>请关注我们微信公众号aihelps。欢迎加入<strong>人工智能商业化</strong>社群交流，请加微信号12956250。</p><br/><br/><p>特别提示：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "新闻聚合", 
+                    "tagLink": "https://api.zhihu.com/topics/19559849"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "秘制地球人", 
+                    "userLink": "https://www.zhihu.com/people/7169ff74d2291c6728d7b60bfe3fd39b", 
+                    "content": "翻译文？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27177259", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 4, 
+            "title": "人工智能可以准确给房屋估价吗？", 
+            "content": "<p>房地产是当下最热门的投资领域，无论是中国，还是远在太平洋彼岸的美国、加拿大。投资之前得到一个合理的估价是很有学问的事情。今天这篇文章就聊聊这件事。</p><br/><p>在线房地产公司之间的战争正如火如荼。日前位于西雅图的Redfin发布了一项研究结果，声称他们的房屋估值模型是当前全美最好的，这如同一石激起千层浪，让竞争对手不得不正面回应。</p><br/><br/><p>Redfin委托进行的独立研究发现，Redfin估计的表现优于对手Zillow的ZEstimate以及<a href=\"https://link.zhihu.com/?target=http%3A//Homes.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">Homes.com</span><span class=\"invisible\"></span></a>。 </p><br/><p>Zillow回应说，这一研究方法有缺陷，说ZEstimate为消费者提供了有用的关键信息，而Redfin没有。</p><br/><p>市场研究公司SSRS在该项研究中评估了5000多个房屋交易，发现64％的销售额在Redfin预测的价格的3％以内。 而Zillow这一数字仅为29％，<a href=\"https://link.zhihu.com/?target=http%3A//Homes.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">Homes.com</span><span class=\"invisible\"></span></a>则是16％。</p><br/><p>Redfin的报告中说，Redfin的房屋估值平均误差率为2.06％，Zillow为5.95％，<a href=\"https://link.zhihu.com/?target=http%3A//Homes.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">Homes.com</span><span class=\"invisible\"></span></a>为10.26％。</p><br/><p>Redfin负责数据科学的首席执行官亚当·维纳（Adam Wiener）辩护说，这项研究虽说是由Redfin推动的，但这并未影响研究的独立性。他也邀请其他公司进行独立的研究。</p><br/><p>Wiener告诉GeekWire，“我们并非针对Zillow，我们只是想搞清楚我们的估值有多准确。 </p><br/><p>“这就是为什么我们将<a href=\"https://link.zhihu.com/?target=http%3A//Homes.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">Homes.com</span><span class=\"invisible\"></span></a>纳入研究中，我们也将包括其他任何对公众提供公开的房屋价值估算模型的公司或个人。”</p><br/><p>Wiener说，与一个10岁的Zillow进行的“一场友谊赛”只会使消费者受益。</p><br/><p>“如果Zillow的ZEstimate接下来也有大的算法准确性突破，我们将尽最大努力迎头赶上。”Wiener说。 “这种良性的竞争对消费者有好处，这将会不断推动房地产行业向前发展。”</p><br/><p>Wiener称SSRS是许多行业中值得信赖的研究分析供应商，并表示SSRS一直主导整个研究分析过程。</p><br/><p>“如果研究不公正，他们不会写上他们的名字，”</p><br/><p>Wiener说： “无论是Zillow还是任何其他房屋估值模型提供商，我们都会欢迎参与研究，只要研究的前提假设是公正的，您可以任选一个地区，并将同一天的估算准确率与售价。我们也会邀请其他独立研究机构，我相信他们会得到同样的结果。“</p><br/><br/><p>Zillow集团周四对Redfin的调查结果作出回应，首席分析官Stan Humphries评论说：</p><br/><p>“Zillow的Zestimate和Redfin估值的最大区别在于Redfin考虑到了房屋报价。</p><br/><p>由于房屋报价密切影响最终销售价，因此Redfin能够非常接近上市房屋的最终销售价格并不奇怪。</p><br/><p>但是，Redfin这种估值对房屋买家并没有太多帮助。</p><br/><p>一旦房屋上市，买家就得知了房屋报价。 而Zestimate提供了除报价之外的宝贵信息，这是Redfin所不能提供的。</p><br/><p>“Zillow拥有超过1亿个房屋的Zestimate。 Redfin仅有6500万，而且主要在大都会地区，估值相对容易。</p><br/><p>“这意味着在使用Redfin时，消费者经常得不到真正重要的信息。这样比较准确率是完全没有意义的。 （但是即便如此，Zestimate也有更高的总体准确率）。</p><br/><p>“SSRS研究的方法是有缺陷的。 Redfin估值的准确性度量仅按在家庭上市后的定价上计算。</p><br/><p>”严格的分析应在房屋挂牌出售前对房屋进行估价，然后将估值与最终销售价进行比较，从而计算可估房屋百分比以及准确率。</p><br/><p>房屋估值在房地产行业经常引起争议，因为房主时常认为估值并不能准确反映房产价值。房产经纪也时常对不够准确的估值导致房屋未能成交颇有微辞。</p><br/><p>Wiener表示，研究结果表明，Redfin估值的准确度比任何其他公司的都“前进了一大步”。</p><br/><p>Wiener还表示：“假设您正在使用Google地图计划从西雅图到Bellevue的路线，如果Google地图告诉您需要20分钟而实际花了40分钟，您会认为这没什么用。” </p><br/><p>“但是如果它预计20分钟而实际花了22分钟，你会想，”哦，这是一个可以信赖的工具。</p><br/><p>所以，虽然家庭价值估计已经存在了很久了，但是Redfin估值的高度准确性对于用户确实很有吸引力。“</p><br/><p>Redfin的估值系统于2015年12月正式推出，与2006年以来一直占据主导地位的Zillow Zestimate进行竞争。</p><br/><p>去年6月，Zillow宣布升级Zestimate，将其错误率全国中值从8％降低到6％。</p><br/><p>Redfin强调，其估计算法是独一无二的，因为它“使用运行在下一代云技术的专有机器学习软件来评估数十亿个数据点”。</p><br/><p>此外，Redfin认为他们的模型更准确，因为该公司的主营经纪业务他们可以获得多个上市房地产服务代理商的数据。</p><br/><br/><p>Wiener最后也承认，房屋估值还远未臻完美。</p><br/><p>Wiener说：“房屋估值仍然面临的最大的障碍是我们看不到房屋内部情况。” </p><br/><p>“我们不知道你是否升级了厨房，他们不知道你是否有一个非常好的设计，而且内部美轮美奂。 </p><br/><p>这一切将会反映在房价中。所以肯定会出现估计不准的情况。而获得房屋准确价值的最佳方法是聘请当地有经验的房地产代理“。</p><br/><p>毫不奇怪，因为Redfin主要经营房屋经纪业务，Wiener说，这就是Redfin的“终极解决方案” - 先使用在线估算，然后在销售时进行现场评估。</p><br/><p>最后，如下是SSRS的具体研究步骤：</p><br/><p>在2016年10月19日至11月30日期间的每个星期日至星期四，对于194个美国大都市地区，Redfin向SSRS发送了包括所有待售的住宅的一份文件。</p><br/><p>从该文件中，SSRS每天随机选择500到1,000个房屋，截止至11月30日共24,789个单元。</p><br/><p>这些房屋（包括独栋别墅，联排屋和公寓）涵盖了7,531个邮政编码和189个大都会区。</p><br/><p>在房屋上市36小时内，SSRS分别读取Redfin，Zillow和<a href=\"https://link.zhihu.com/?target=http%3A//Homes.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">Homes.com</span><span class=\"invisible\"></span></a>的房屋估值。当房屋出售后，SSRS将估计值与实际销售价格进行比较。 </p><br/><p>一共6,338栋房屋在11月30日前成交，其中，5,661个（89％）有来自Zillow和Redfin的估值， 5074个（80%）有同时来自<a href=\"https://link.zhihu.com/?target=http%3A//Homes.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">Homes.com</span><span class=\"invisible\"></span></a>和Redfin的估值。</p><br/><p>原文链接：<a href=\"https://link.zhihu.com/?target=https%3A//www.geekwire.com/2017/redfin-takes-shot-across-bow-cross-town-rival-zillow-claims-accurate-home-value-feature/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Redfin takes shot across bow of cross-town rival Zillow, claims most accurate home-value feature</a></p><br/><p>请关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。</p><br/><br/><p>特别提示：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "房地产", 
+                    "tagLink": "https://api.zhihu.com/topics/19555355"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "青云若水", 
+                    "userLink": "https://www.zhihu.com/people/a749c84f0e8b6ea5674a11e1e23df1c6", 
+                    "content": "<p>说老实话，redfin和zestimate的算法就类似于先射一箭，然后画个圈，我在某地买了个大概40w以内的房子 买之前redfin505k zestimate520k 买完了pending的时候redfin变成380k zestimate变成400k=-= 然后曲线都无比平滑，从来没有到达过450k以上hhhh </p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27079072", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "关于强化学习的一二三", 
+            "content": "<p>今天给大家分享关于强化学习的一些话题。希望对于你所在的行业有所启发。</p><br/><p>在一个简单的计算机模拟演示中，一群自动驾驶车正在一条虚拟四车道公路上行驶。</p><br/><p>差不多各一半的汽车分别试图从两条车道相互并线。这对自动驾驶程序是个大难题，可是似乎它们都能够自如搞定。</p><br/><p>这是我在去年12月在巴塞罗那的最大的AI会议上观看模拟驾驶的场景。</p><br/><p>最令人惊奇的是，管理汽车行为的软件根本不是传统意义上的程序；它完全是通过不断练习来掌握如何并线的。</p><br/><p>在训练过程中，控制软件一遍又一遍地尝试改变其指令。</p><br/><p>开始大多数情况下总是磕磕绊绊，汽车之间也总互相干扰。但是，一旦某次顺利并线，系统就会自动学会其背后的驾驶技巧。</p><br/><p>这种被称为强化学习(Reinforcement Learning)的方法在很大程度上归功于AlphaGo，一个由谷歌子公司DeepMind开发的计算机程序。</p><br/><p>它在去年的正式比赛中击败了曾经世界上最好的围棋棋手李世石（注：在刚刚结束的人机大战第二季第一场比赛中，AlphaGo 2.0击败了现任世界第一中国柯洁）。</p><br/><p>现在，强化学习可能会在游戏领域之外大显身手。除改善自驾车之外，该技术还可让机器人抓取其从未见过的物体，或者找出数据中心设备的最佳配置方案。</p><br/><br/><p>强化学习从大自然中复制了一个非常简单的原则。心理学家Edward Thorndike在100多年前已经记录了这一点。 </p><br/><p>Thorndike将猫放在盒子里面，只能通过按压杠杆才能从中逃脱。经过相当数量的尝试后，动物最终会偶然踩踏杠杆。</p><br/><p>在他们学会将这种行为与预期结果联系起来之后，他们最终会以越来越快的速度逃跑。</p><br/><p>早期的AI研究者认为，这个过程可以由机器简单实现。1951年，哈佛学生，MIT教授，AI先驱之一Marvin Minsky，建立了一种使用简单形式的强化学习来模拟老鼠学习逃脱迷宫的机器。</p><br/><p>Minsky的随机类神经增强计算机（SNARC），由数十个电子管，电机和离合器组成，用以模拟40个神经元和突触。</p><br/><p>一旦模拟的老鼠离开迷宫，某些突触连接的权值则会增加，从而加强了学到的正确逃脱步骤。</p><br/><p>然而，在接下来的几十年中这种方法几乎没有获得成功。 1992年，IBM的研究员Gerald Tesauro展示了一种运用该技术来玩西洋双陆棋的程序。</p><br/><p>经过训练后的程序足以与最好的人类对手比肩。然而，随后强化学习则碰到了瓶颈，它难以扩展到更复杂的问题上。</p><br/><p>英国DeepMind研究员David Silver表示：“人们曾认为这是一个很酷但是不太实用的点子。”</p><br/><p>然而，这一观点在2016年3月份发生了巨大变化。那就是AlphaGo，一个使用强化学习训练的围棋程序，打败了曾经最好的围棋棋手李世石。</p><br/><p>这个壮举令人惊讶，因为实际上不可能用传统的编程来构建一个好的围棋程序。</p><br/><p>围棋变化几乎无穷无尽，并且局面判断非常困难，因此特定代码很难编写。</p><br/><p>过去大多数AI研究人员都预计，电脑围棋程序需要至少十年时间才能和人类高手抗衡。</p><br/><br/><p><strong>深度强化学习</strong></p><br/><p>Sliver，DeepMind资深研究员，解释了为什么强化学习最近变得如此强大。</p><br/><p>他说，问题的关键是将其与深度学习相结合，这项技术涉及使用大规模神经网络来识别数据中的模式。</p><br/><p>强化学习的关键取决于搞清如何让计算机来自动评估每一步操作的价值，比如老鼠在迷宫中每个正确或错误的转弯选择。</p><br/><p>这些价值估计全部都存储在一个大表中，算法会在学习时不停地自动更新所有这些参数。对于复杂任务这背后的计算量则为天文数字。</p><br/><p>然而，近年来，飞速发展的深入学习技术已被证明是一种非常有效的方式来识别数据中深藏的模式，无论数据是迷宫中的转角，围棋棋子的位置还是电脑游戏屏幕上的像素点等等。</p><br/><p>事实上，DeepMind也是因为强化学习一时名声大噪。 </p><br/><p>在2013年，DeepMind发布了一个能够自动学习在超人类水平上玩各种Atari视频游戏的程序吸引了谷歌的注意，并最终于2014年以5亿多美元收购价加入谷歌。</p><br/><p>这也激励了许多其他公司转而研究加强学习。比如许多工业机器人制造商正在研究如何训练他们的机器人执行新任务而无需手动编程。</p><br/><p>Google也与DeepMind合作研究如何利用深层次的强化学习来改进数据中心的能效。 </p><br/><p>弄清数据中心的各项参数是如何影响能耗是个相当复杂的问题；但是加强学习算法可以从大量现有数据中学习，从而掌握如何以及何时开启冷却系统。</p><br/><p>回到文初自动驾驶的场景，今天的无人车在复杂路段往往需要与人类司机交互，比如交通转盘或四向路口。</p><br/><p>如果我们不希望引发事故，或者由于过分的犹豫而造成拥堵，软件将需要获得更多的高级驾驶技巧，比如确定在车流中的最佳位置等等。</p><br/><p>该款自动驾驶软件由Mobileye（一家以色列公司）研制，该公司的客户包括特斯拉（Tesla Motors）在内的十余家汽车制造商。 </p><br/><p>Mobileye的技术副总裁Shai Shalev-Shwartz展示了自驾车面临的复杂场景：一个耶路撒冷熙熙攘攘的交通转盘;巴黎的一个繁忙十字街口和一条超级混乱的印度公路。 </p><br/><p>“如果一辆自驾车总是循规蹈矩，那么在高峰期间，它可能会等一个小时都无法成功并线，”Shalev-Shwartz说。</p><br/><br/><p>Mobileye计划在今年晚些时候与宝马和英特尔合作测试一系列车载软件。 Google和Uber都表示，他们也在为自驾车辆进行强化学习。</p><br/><p>斯坦福助理教授Emma Brunskill说，强化学习正在越来越多的应用于这个领域。</p><br/><p>但是，她表示，它非常适合自动驾驶，因为它能够实现“良好的决策次序”。如果程序员必须提前将所有这些决定编码到驾驶软件中，进度则会慢得多。</p><br/><p>不要忘记前面还有很多挑战。</p><br/><p>前百度首席科学家吴恩达警告说，这种方法的前期仍需要大量数据，事实上当计算机可以不间断模拟时我们已经成功一大半。</p><br/><p>还有，我们仍然需要弄清楚如何使强化学习在复杂多目标的情况下工作。</p><br/><p>打比方说， Mobileye仍需要调整算法不仅能够避免卷入事故，而且也不会增加其它车辆事故的概率。</p><br/><p>至少迄今为止，Mobileye似乎已经获得巨大成功。</p><br/><p>然而接下来的路测才是终极考验；到今年晚些时候，您没准在附近的高速上就能看到他们的无人车飞驰呢。</p><br/><br/><br/><p>请点击文章最上方的蓝色字体人工智能商业 或扫描屏幕下方二维码关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。</p><br/><br/><p><b>特别提示</b>：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26944526", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "是什么技术让我们变成透明人？", 
+            "content": "<p>走进北京郊区旷视科技的大门，看见我的脸自动显示在电脑屏幕上。其中一个屏幕上提示其识别算法自动捕捉脸上83个不同的点。这有点让人起鸡皮疙瘩，不过确实给人印象深刻。</p><br/><figure><noscript><img src=\"https://pic1.zhimg.com/v2-4e0cef4fe5823dd5fd13b1d0dd04a370_b.png\" data-rawwidth=\"1192\" data-rawheight=\"674\" class=\"origin_image zh-lightbox-thumb\" width=\"1192\" data-original=\"https://pic1.zhimg.com/v2-4e0cef4fe5823dd5fd13b1d0dd04a370_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1192&#39; height=&#39;674&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1192\" data-rawheight=\"674\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1192\" data-original=\"https://pic1.zhimg.com/v2-4e0cef4fe5823dd5fd13b1d0dd04a370_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4e0cef4fe5823dd5fd13b1d0dd04a370_b.png\"/></figure><br/><br/><p>过去的几年中，计算机在识别人脸上已经取得了长足进步。这项技术在自动监控和商业自动化领域得到快速应用。过不了多久，人脸识别将在保安以及人们日常生活领域如银行，商店及交通等领域无所不在。</p><br/><p>旷视科技的技术已在一些非常流行的手机应用中采用。现在，超过1.2亿的阿里pay的用户已可采用刷脸的方式方便进行转账。与此同时，滴滴打车的乘客可采用旷视的技术来判断司机是否登记在案（在验证中，司机必须轻微转头从而避免不法分子用照片来蒙蔽算法）。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-00f6f6034c45b3057e8a5a994b9db2bf_b.png\" data-rawwidth=\"1146\" data-rawheight=\"650\" class=\"origin_image zh-lightbox-thumb\" width=\"1146\" data-original=\"https://pic4.zhimg.com/v2-00f6f6034c45b3057e8a5a994b9db2bf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1146&#39; height=&#39;650&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1146\" data-rawheight=\"650\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1146\" data-original=\"https://pic4.zhimg.com/v2-00f6f6034c45b3057e8a5a994b9db2bf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-00f6f6034c45b3057e8a5a994b9db2bf_b.png\"/></figure><br/><p>在中国，出于监控的极大需求使得这项技术在中国发展飞速。与美国不同，中国有一个大规模的中央身份证数据库系统。在旷视提供的演示中，我们看到地方政府可以随时确定监控录像中嫌疑人身份。这让人印象非常深刻，那些监控录像经常已有好几年了，而且质量普遍不高。</p><br/><p>人脸识别已经有几十年历史，但是直到最近两年它才能足够精准来满足商业交易的需要。这项技术的背后则是大规模深度学习。</p><br/><p>”人脸识别背后的市场巨大。”，北大的张史梁助理教授如是说。张教授在旷视科技不远有一间办公室，里面有十几个学生在努力工作。“在中国，安全是重中之重，因此有大量的公司投身于这个领域”。</p><br/><p>在这些公司中百度无疑是非常耀眼的一个。在最近最强大脑比赛中百度的软件打败了最强的人类选手。百度最近也在研发系统让人们自动刷脸购买火车票。在乌镇，人们已经可以不用买票来参观众多景点。百度说他们的人脸识别系统已经能达到99%的准确率。</p><br/><figure><noscript><img src=\"https://pic2.zhimg.com/v2-13def6e252d0906b33dbeb05b7191429_b.png\" data-rawwidth=\"536\" data-rawheight=\"722\" class=\"origin_image zh-lightbox-thumb\" width=\"536\" data-original=\"https://pic2.zhimg.com/v2-13def6e252d0906b33dbeb05b7191429_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;536&#39; height=&#39;722&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"536\" data-rawheight=\"722\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"536\" data-original=\"https://pic2.zhimg.com/v2-13def6e252d0906b33dbeb05b7191429_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-13def6e252d0906b33dbeb05b7191429_b.png\"/></figure><br/><br/><p>唐杰，清华大学副教授，旷视科技创始人在校时的导师，认为人脸识别所带来的巨大便利才是该技术最具吸引力的地方。许多高层公寓已逐步采用刷脸进门，餐馆和商店也逐渐采用刷脸带来极度方便的用户体验。</p><br/><p>想象一下，当你刚走进一个咖啡馆，就听见一个温暖的声音对我说:“你好，李先生”，你心中是何感受？！</p><p>请我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。</p><p>特别提示：</p><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "人脸识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19559196"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26466236", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 1, 
+            "title": "芝加哥2017能源领域AI峰会见闻", 
+            "content": "前几天在芝加哥参加Utility Analytic Summit 2017，对数据分析和人工智能在整个美国能源行业的现状有了一些更深入的了解。<figure><noscript><img src=\"https://pic2.zhimg.com/v2-40e9ed66e5d0986523fb6a6ba8599b91_b.jpg\" data-rawwidth=\"599\" data-rawheight=\"348\" class=\"origin_image zh-lightbox-thumb\" width=\"599\" data-original=\"https://pic2.zhimg.com/v2-40e9ed66e5d0986523fb6a6ba8599b91_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;599&#39; height=&#39;348&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"599\" data-rawheight=\"348\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"599\" data-original=\"https://pic2.zhimg.com/v2-40e9ed66e5d0986523fb6a6ba8599b91_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-40e9ed66e5d0986523fb6a6ba8599b91_b.jpg\"/></figure><br/><p>总体感觉是与其他行业如IT或金融保险相比，AI在能源领域才处于萌芽阶段，大部分公司对AI还抱着观望的态度。</p><br/><p>有几个实力雄厚的企业如Duke Energy，South California Edison和PG&amp;E已经开始设立数据科学部门并搭建自己的数据分析和机器学习平台，也看到几个很好的工作，相信明年会有更多有意思的工作出来。</p><br/><p><b>数据和实际业务的有机结合</b></p><br/><p>会议的中心议题是如何运用数据和模型来支持企业决策。</p><br/><p>然而对数据模型而言，无论其如何复杂精密，如果不能说服企业决策者采用则终究逃脱不了被束之高阁的命运。</p><br/><p>因此Open Energy Efficiency的Matt Gee提出，好的数据科学家也应是个谈判高手，需要与公司决策者（stakeholders）进行有效沟通，清楚告知模型具体解决的实际问题，与传统方法相比它的优点以及局限性。</p><br/><p>我感到，至少从目前而言，大部分实际采用的模型在数学上并非十分复杂，真正的难点在于相关数据采集以及与用户现有系统和实际业务如何无缝对接。</p><br/><figure><noscript><img src=\"https://pic1.zhimg.com/v2-0af3fe59752606f1027db3a243042758_b.png\" data-rawwidth=\"410\" data-rawheight=\"416\" class=\"content_image\" width=\"410\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;410&#39; height=&#39;416&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"410\" data-rawheight=\"416\" class=\"content_image lazy\" width=\"410\" data-actualsrc=\"https://pic1.zhimg.com/v2-0af3fe59752606f1027db3a243042758_b.png\"/></figure><p><b>如何成就一个好的数据科学家？</b></p><br/><p>ComEd的Norayr Matevosyan讨论了数据科学家需要的基本素质。</p><br/><p>简言之，数据科学家是统计学家+程序员+黑客+沟通者。数据科学家需要对数据具有高度敏感性，对数据中的统计关联或噪声了然于胸，可以透过纷繁复杂的数据中看到问题本质。</p><br/><p>此外，大量的数据分析，清理和可视化工作依赖程序脚本，所以扎实的程序设计功底必不可少。</p><br/><p>数据科学家的工具箱中包括Python，R，Pandas，R Shiny，D3，Scikit Learn， Hadoop，Spark，Jupyter Notebook，Zeppelin等等。</p><br/><p>还有，数据科学家也需要有些 hacker spirit，在碰到瓶颈时经常需要跳出条条框框，think out of box。</p><br/><p>最后，数据科学家也时常扮演沟通者的角色，需要具备极强的学习以及向非技术人员解释技术问题的能力。</p><br/><figure><noscript><img src=\"https://pic1.zhimg.com/v2-3cb54e9e65527870ba30a46323f46440_b.png\" data-rawwidth=\"409\" data-rawheight=\"246\" class=\"content_image\" width=\"409\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;409&#39; height=&#39;246&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"409\" data-rawheight=\"246\" class=\"content_image lazy\" width=\"409\" data-actualsrc=\"https://pic1.zhimg.com/v2-3cb54e9e65527870ba30a46323f46440_b.png\"/></figure><br/><p><b>数据科学在能源行业中的典型应用</b></p><br/><p>在整个conference我们讨论的议题包括：</p><br/><p>- <b>电网可靠性</b>：评估电网系统性风险及预测断电。</p><p>- <b>负载及价格预测</b>：对地区未来一段时间内负载以及电力价格进行预测。</p><p>- <b>设备管理及投资回报分析</b>：对变压器等重要设备进行预测维护（Predicative Maintenance）并计算投资回报。</p><p>- <b>客户端分析</b>：电表水表监控，窃电监测（Theft Detection），高用电预警，基于用电模式的用户画像（Profiling）及聚类（Clustering）。</p><p>- <b>新能源生产及消费模式</b>：可再生能源集成（Renewable Energy Integration），分时计费（TOU Rate），分布式发电及存储（Distributed Generation／Storage）和负载反馈（Demand Response）</p><br/><figure><noscript><img src=\"https://pic3.zhimg.com/v2-51920d805aa0d5932d6dfa76117a21de_b.png\" data-rawwidth=\"413\" data-rawheight=\"307\" class=\"content_image\" width=\"413\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;413&#39; height=&#39;307&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"413\" data-rawheight=\"307\" class=\"content_image lazy\" width=\"413\" data-actualsrc=\"https://pic3.zhimg.com/v2-51920d805aa0d5932d6dfa76117a21de_b.png\"/></figure><p>Duke Energy的Martin Cardenas 介绍了如何运用机器学习改进系统中变压器与电表的动态映射。这个工作对日后变压器的Predicative Maintenance相当重要。<br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-d9afe10442667f6559ce1018611b40fe_b.png\" data-rawwidth=\"407\" data-rawheight=\"234\" class=\"content_image\" width=\"407\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;407&#39; height=&#39;234&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"407\" data-rawheight=\"234\" class=\"content_image lazy\" width=\"407\" data-actualsrc=\"https://pic3.zhimg.com/v2-d9afe10442667f6559ce1018611b40fe_b.png\"/></figure><p>我也做了题为“Using Machine Learning to Solve Long Standing Utility Challenge”的报告，介绍了我们运用AI预测故障水表的工作，会后反响不错。</p><br/><p>这个工作集合大量水电消费数据建立机器学习模型，将故障水表预测准确率从20%提高至80%，大幅降低了公司出车频次和水费损失。</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-256f2eab2476378c246beafab9002922_b.png\" data-rawwidth=\"415\" data-rawheight=\"241\" class=\"content_image\" width=\"415\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;415&#39; height=&#39;241&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"415\" data-rawheight=\"241\" class=\"content_image lazy\" width=\"415\" data-actualsrc=\"https://pic3.zhimg.com/v2-256f2eab2476378c246beafab9002922_b.png\"/></figure><br/><p>点滴分享，希望能带给你一些启发。<br/></p><br/><br/><br/><p>请关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。</p><br/><br/><p>特别提示：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居加拿大后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在美国著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "能源", 
+                    "tagLink": "https://api.zhihu.com/topics/19565146"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26085121", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 1, 
+            "title": "围棋比赛“绝艺”十一连胜夺冠有何意义？", 
+            "content": "<p>这两天围棋AI又刷屏了，在日本的第十届UEC电脑围棋比赛中来自中国的绝艺（FineArt）十一连胜夺得冠军，其中包括两胜日本本土希望深禅围棋（DeepZenGo）。</p><br/><p>棋的内容也让人叹为观止，恭喜腾讯团队。</p><br/><figure><noscript><img src=\"https://pic2.zhimg.com/v2-de2ba67275fcf0853bf6d5e049c0a235_b.png\" data-rawwidth=\"1084\" data-rawheight=\"1078\" class=\"origin_image zh-lightbox-thumb\" width=\"1084\" data-original=\"https://pic2.zhimg.com/v2-de2ba67275fcf0853bf6d5e049c0a235_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1084&#39; height=&#39;1078&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1084\" data-rawheight=\"1078\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1084\" data-original=\"https://pic2.zhimg.com/v2-de2ba67275fcf0853bf6d5e049c0a235_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-de2ba67275fcf0853bf6d5e049c0a235_b.png\"/></figure><br/><br/><p>严格说来目前围棋AI真正达到或超越人类强九段水准的只有这二者，再加上世外高棋谷歌的AlphaGo或Master。</p><br/><p>古老的围棋在人工智能的年代又散发出无穷的魅力，今天我们就来聊聊电脑围棋背后这点事儿，这个问题为什么难，解决它的意义又在哪里？</p><br/><p><strong>难度</strong></p><br/><p>围棋AI的难度大家估计都有耳闻。跟其他游戏如国象相比，围棋每一步可选点很多，导致状态空间极大，大到超过宇宙中原子个数，所谓“千古无同局”。</p><br/><p>更糟糕的是局面估值函数极不平滑，经常差一路就天翻地覆；再加上打劫导致的全局关联性使得一般的alpha-beta暴力剪枝搜索难以奏效。</p><br/><p>此外，由于其极高的复杂度围棋高手的思维更多依赖经验，有很多“虚”的东西不容易量化。</p><br/><p>因此，电脑围棋被称为所谓完全信息博弈（对比德州扑克，围棋中没有不确定性）的“圣杯”（holygrail)，是当之无愧的。</p><br/><p><strong>历史</strong></p><br/><p>我们先简单回顾一下围棋AI的历史。虽说大家都知道它的难度，有如攀登珠峰，但还是有勇者在孤独地前行。</p><br/><p>从中山大学陈志行教授的手谈程序算起到现在有差不多二十多年历史。</p><br/><p>然而前十年间算法还停留在手把手教电脑下棋上，纯靠手工编制各种规则，可以说一直在山脚下徘徊；程序下出的棋极其幼稚，甚至不如一些刚入门的k级爱好者。</p><br/><p>围棋AI真正登堂入室是从2006年Remi Coulum提出运用蒙特卡洛树搜索（MCTS）开始。</p><br/><p>简单说来MCTS对搜索树当前局面进行多次快速模拟下棋直至终局，然后利用终局时的输赢情况来决定如何行棋。</p><br/><p>MCTS算法它最大的优点是不依赖于具体局面评价函数，并且算法会集中搜索那些看起来不错的选点，对像围棋这样的分支极多并且局面评估难度很高的游戏极为合适。</p><br/><p>从此，围棋程序下出的棋开始像点样了，CrazyStone, Zen（DeepZenGo的前身）等一批程序在kgs等对弈网站上也达到业余高手的水准，至此人们已经到达珠峰半山腰安营扎寨。</p><br/><p>然而MCTS算法也很快碰到了瓶颈，到了2016年人们大多认为十年内难以突破从业余到职业的天堑。</p><br/><p>然而当年Google AlphaGo横空出世，运用深度学习技术加上MCTS，人类最终登上电脑围棋绝顶。</p><br/><p>年初4-1击败纵横十年的李世石九段，震动整个围棋界。年尾又化身Master，对中日韩顶级棋手60连胜。</p><br/><p>AlphaGo下出的棋步调轻快，着眼全局，不拘泥于局部得失；许多着法为众多职业棋手所惊叹，可以说深得围棋精髓。</p><br/><figure><noscript><img src=\"https://pic1.zhimg.com/v2-17ab8e1ec05e4a4f3dc61c5c7c5ed0dc_b.png\" data-rawwidth=\"926\" data-rawheight=\"688\" class=\"origin_image zh-lightbox-thumb\" width=\"926\" data-original=\"https://pic1.zhimg.com/v2-17ab8e1ec05e4a4f3dc61c5c7c5ed0dc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;926&#39; height=&#39;688&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"926\" data-rawheight=\"688\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"926\" data-original=\"https://pic1.zhimg.com/v2-17ab8e1ec05e4a4f3dc61c5c7c5ed0dc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-17ab8e1ec05e4a4f3dc61c5c7c5ed0dc_b.png\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-b293ac9d84d7fdc92cfbb19e4fbaa81c_b.png\" data-rawwidth=\"1810\" data-rawheight=\"1064\" class=\"origin_image zh-lightbox-thumb\" width=\"1810\" data-original=\"https://pic1.zhimg.com/v2-b293ac9d84d7fdc92cfbb19e4fbaa81c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1810&#39; height=&#39;1064&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1810\" data-rawheight=\"1064\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1810\" data-original=\"https://pic1.zhimg.com/v2-b293ac9d84d7fdc92cfbb19e4fbaa81c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b293ac9d84d7fdc92cfbb19e4fbaa81c_b.png\"/></figure><br/><br/><br/><p><strong>深度学习技术</strong></p><br/><p>让围棋AI水平脱胎换骨的正是当前风靡的深度学习技术。</p><br/><p>AlphaGo在Nature的论文中提出运用两个网络的组合，一个是走子网络（policy network），目标是生成3-5个可选着点，从而大大降低降低MCTS搜索树的宽度；</p><br/><p>另一个是估值网络（value network），目标是对局面进行精确评估。</p><br/><p>网络训练中大量输入人类高手的棋谱，可以说在网络中凝聚了人类千年的围棋智慧。</p><br/><p>除此之外还采用了增强学习技术（Reinforcement Learning）通过“双手互搏”的程序自对弈对网络参数进行进一步调整。呵呵，有点像老顽童周伯通。</p><br/><p>在年末的Master上据说还采用了Adversarial Learning的思想以避免漏算（如应对李世石第四盘“神之一手”时的瞬间崩盘），以及完全摒弃人类棋谱从头开始训练等等。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-087c7fadb3a11fa7e959c19aa189b0e8_b.png\" data-rawwidth=\"820\" data-rawheight=\"704\" class=\"origin_image zh-lightbox-thumb\" width=\"820\" data-original=\"https://pic1.zhimg.com/v2-087c7fadb3a11fa7e959c19aa189b0e8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;820&#39; height=&#39;704&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"820\" data-rawheight=\"704\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"820\" data-original=\"https://pic1.zhimg.com/v2-087c7fadb3a11fa7e959c19aa189b0e8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-087c7fadb3a11fa7e959c19aa189b0e8_b.png\"/></figure><br/><p>很有意思的是，采用神经网络后电脑开始有了卓越的棋感，对大局观，厚势运用以及局面均衡的把握等等难以量化的方面已经远超人类；</p><br/><p>然而，让人稍感意外，在电脑的传统强项 - 搜索深度上，职业棋手似乎并不落下风，在一本道对杀或复杂官子局面中也许还略胜电脑。</p><br/><p>但由于电脑在大局观上的巨大优势使得人机对弈中往往无法下到人类擅长的复杂局面就结束了。</p><br/><p>当然，人类也不会轻易认输，在提高大局观的同时如何能将盘面导入人类擅长的局面将是摆在职业棋手面前的课题。</p><br/><p>可以说这场人类与电脑围棋的竞争还远未结束。</p><br/><p><strong>意义</strong></p><br/><p>为什么要去做围棋AI？</p><br/><p>人们大多认为这项研究的意义已经超越了围棋本身。</p><br/><p>一方面电脑围棋研究已成为测试各种前沿机器学习技术的试验场，如增强学习（Reinforcement Learning）和对抗学习（Adversarial Learning）等等。</p><br/><p>同样的技术可以运用在许多其他领域，一定程度上讲围棋AI的水准也反映了公司或国家整体人工智能的技术水平。</p><br/><p>另一方面，这方面研究也让我们对人脑的分析推理能力有了进一步认识。</p><br/><p>与硅基电脑相比，人类高手们仅凭一点可怜巴巴且经常出错的运算能力就能大致与之抗衡 - 意识到这一点还是很令人震撼的。</p><br/><p>最后，从哲学的高度上看电脑从人类知识出发学习并掌握如何下棋，最终“青出于蓝”，这种能力相当让人敬畏；</p><br/><p>理论上讲电脑可以学会几乎一切人类技能并比我们做的更好，无疑这会对人类未来产生深远影响。</p><br/><p>请关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。<br/></p><p>特别提示：<br/></p><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。<br/></p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "AlphaGo", 
+                    "tagLink": "https://api.zhihu.com/topics/20038840"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25796597", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 1, 
+            "title": "教育行业主要的三类商家如何启用人工智能？", 
+            "content": "<p>几个世纪以来，教育大多遵循相同的结构 - 例如&#34;师徒制”或“流水线”模型。</p><br/><p>随着AI继续颠覆消费电子，电子商务，媒体，交通和医疗等行业，教育是否是下一个大的机会？</p><br/><p>鉴于教育是帮助人们在所有其他领域取得进步的基础，它有潜力成为人工智能最具影响力的应用领域。</p><br/><figure><noscript><img src=\"https://pic3.zhimg.com/v2-8d6096b8e0f1986afcfaa0fb657c4dfa_b.png\" data-rawwidth=\"628\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb\" width=\"628\" data-original=\"https://pic3.zhimg.com/v2-8d6096b8e0f1986afcfaa0fb657c4dfa_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;628&#39; height=&#39;410&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"628\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"628\" data-original=\"https://pic3.zhimg.com/v2-8d6096b8e0f1986afcfaa0fb657c4dfa_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8d6096b8e0f1986afcfaa0fb657c4dfa_b.png\"/></figure><br/><br/><p><strong>主要趋势</strong></p><br/><p>教育市场的三个部分 - K-12（学前班到高中），高等教育和企业培训 - 正在经历重大转型。</p><br/><p>在K-12市场，我们看到更新，更严格的学术标准（共同课程核心，下一代科学标准），教育重点将转移到评估学生的批判性思维和解决问题的技能，并帮助她们为大学和未来职业做准备。</p><br/><p>在高等教育中，我们看到通过MOOC（大规模在线课程）和SPOC（小型私人在线课程）向在线学习的转变。</p><br/><p>在企业学习中，我们看到了向虚拟培训的转变，因为人力资源部门致力于削减成本和提高员工效率。</p><br/><p>教育行业主要有<strong>三类商家</strong> - 内容，平台和认证考试提供者 - 各个方面都在经历着深刻变革。</p><br/><p><strong>内容出版商</strong>正在应对印刷数字化转型带来的挑战，并为开放式教育资源提供内容。</p><br/><p><strong>学习平台</strong>提供商正集中于提供更具适应性，个性化和多样化分析手段。</p><br/><p>在从多重选择测试转向其他更具创新性的问题类型时，<strong>认证考试</strong>将继续在变革教育行业中发挥关键作用。</p><br/><p><strong>AI将如何改变教育？</strong></p><br/><p>在新技术方面，教育仍然是各行各业中的“第三世界”。</p><br/><p>然而，这也是一个优势，因为它不需要经过其他行业必经的搭建基础设施的过程，而是可以通过<strong>直接采用移动智能手机</strong>技术跳跃式发展。</p><br/><p>教育中需要颠覆性的创新。</p><br/><p>随着预算的减少和课堂规模的增加，我们必须利用技术的进步来提高教育系统的生产力和效率。</p><br/><p>特别是，AI可以在提高教育的质量和降低成本方面发挥重要作用。我们将在2017年看到AI在教育领域的多种应用，例如：</p><br/><p><strong> -AI为学生的书面答复评分</strong></p><p><strong>- 回答学生问题的机器人</strong></p><p><strong>- 辅导学生的虚拟个人助理</strong></p><p><strong>- 虚拟现实和计算机视觉的沉浸式，动手学习</strong></p><p><strong>- 模拟和游戏化与丰富的学习分析</strong></p><br/><p>以认证考试为例。这是教育的核心问题，正如一句老话所讲，如果无法评估则无从进步。</p><br/><p>认知心理学表明，评估学习结果的最好方式是开放式作文（essay），即鼓励学生用自己的话来运用所学的内容。</p><br/><p>然而，由于开放式作文耗时长，成本高，目前实际中它很少被采用，我们仍主要依靠历史悠久的多选题作为主要考试形式。</p><br/><p><strong>对话式教育AI</strong></p><br/><p>批改学生的开放式作文是一个典型的自然语言处理问题，学生作文正如社交媒体中的状态更新或者产品评论，具有相似的句法和语义结构。</p><br/><p>同样地，我们可以训练AI来自动批改学生作文，它可以与有经验的老师一样准确，并且成本比人类低几个数量级。 </p><br/><p>目前ETS已成功地使用AI来批改SAT和GRE文章。</p><br/><p>教育AI机器人也将在推广<strong>在线学习</strong>中发挥重要作用，因为佐治亚理工学院的Ashok Goel教授使用AI作为助教成功地回答了学生的问题。</p><br/><p>反过来，我们也可以让AI来出题，学生用自然语言做答；随后AI评估答案，并提供即时辅导反馈。</p><br/><p>这被称为巩固式考试，其目的是提高学生对主题的概念理解。</p><br/><p>AI将使教育生态系统的所有成员受益。</p><br/><ul><li><p>学生将能够通过即时反馈和指导更好地学习；</p></li><li><p>教师将能够通过丰富的学习分析结果和洞察进行个性化教学；</p></li><li><p>家长可以以更低的成本改善孩子的职业前景；</p></li><li><p>学校将能够扩大高质量的教育；</p></li><li><p>政府将能够为所有人提供负担得起的教育。</p></li></ul><br/><p>随着学校和大学制定在线战略以降低成本和改善成果，人们在教育AI中的投入将继续增加。</p><br/><p>在NMC / CoSN最近发布的K-12 Horizon报告中，AI和VR被认为是将在未来四到五年内改变教育的两个重要技术趋势。</p><br/><p>根据市场研究公司Technavio，教育中的人工智能市场将继续呈指数级增长，在未来四年的年均复合增长率为39％。</p><br/><p>随着AI在2017年成为中心舞台，对话式教育将成为一个关键应用，其潜在的影响力可能会比对话式商务更胜一筹。</p><br/><p>原文出处：<a href=\"https://link.zhihu.com/?target=http%3A//venturebeat.com/2017/02/04/how-ai-will-transform-education-in-2017/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">venturebeat.com/2017/02</span><span class=\"invisible\">/04/how-ai-will-transform-education-in-2017/</span><span class=\"ellipsis\"></span></a></p><br/><br/><p>请点击文章最上方的蓝色字体人工智能商业 或扫描屏幕下方二维码关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。</p><br/><br/><p>特别提示：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "教育", 
+                    "tagLink": "https://api.zhihu.com/topics/19553176"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25475174", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "企业切入人工智能的四点建议", 
+            "content": "作者：cachinese<br/>链接：<a href=\"https://zhuanlan.zhihu.com/p/25475052\" class=\"internal\">企业切入人工智能的四点建议 - 知乎专栏</a><br/>来源：知乎<br/>著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。<br/><br/><p>今天和大家分享来自<strong>哈佛商业评论</strong>的一些研究。 </p><br/><p>近年来，人工智能（AI）系统在从客户支持到癌症治疗等诸多领域得到了惊人的发展。<br/></p><br/><p>只要把‘AI&#39;做为关键字似乎成了拿到投资的保证。</p><br/><br/><p>同时媒体也在不断渲染和夸大AI对人类社会的威胁，诸如传统工作的消亡；一些政府似乎也对那些超级智能的机器人杀手有所顾虑。</p><br/><p>然而人们对于究竟什么是AI，以及该如何应对AI对商业企业的冲击等等却讨论甚少。</p><br/><p>当论及人工智能，机器学习，自动化，大数据，认知计算或深度学习时，我们指的是机器<strong>基于数据和推理实现目标</strong>的能力。</p><br/><p>这种能力机器远胜于人且极其重要，它已经在诸多领域内取得了振奋人心的成果。</p><br/><p>然而这并非AI的全部。在AI的核心仍然有几个重大问题并未取得实质性进展，比如<strong>类比学习和自然语言理解</strong>。</p><br/><p>机器学习并非魔术，事实上很多时候我们并没有足够的数据，技术也尚未成熟到能让机器像人类一样穿梭于多个领域自如地做决策。</p><br/><p>也许这会让许多狂热的AI支持者失望，但我们认为，未来十年出现全面超智能AI系统的概率微乎其微。</p><br/><p><strong>公司的决策者们应该把精力放在那些目前已出现的技术上</strong>。</p><br/><p>在未来5到10年内，<strong>AI带来的价值将主要来自于在正确的时间向正确的人群提供正确的信息</strong>。</p><br/><p>在过去几年的商业智能革命的基础上，机器学习将加速模式发现以及自动化价值提取。</p><br/><p>数据将日益推动实体经济，更有效地整合资源及按需求来提供货物或服务，从而降低故障率和提高可预测性。</p><br/><p><strong>在服务业中</strong>，我们不仅将更好地预测需求，而且还将学习在极度个性化的基础上提供正确的产品（如Netflix）。</p><br/><p><strong>在零售业中</strong>，我们将看到更复杂的供应链，以及能够更深入地了解消费者的喜好，定制产品和购买在线／离线体验的能力。零售商将专注于引领趋势，了解用户偏好及创立品牌等方面。</p><br/><p><strong>在制造业中</strong>，我们将看到全系统实时监控以及大量运用机器学习算法来自动检测异常。系统各组件间将无缝对接，从而优化组件寿命，并减少人类干预。</p><br/><p><strong>在农业中</strong>，我们将大量采用数据来决定作物种植的位置，种类及数量。这将保证以更少的资源来实现更可持续的增长。</p><br/><p>如今，管理者如何将AI纳入日常决策和长期规划？公司又将如何准备迎接机器学习的冲击？</p><br/><p><strong>我们建议考虑如下几方面</strong>：</p><br/><p><strong>首先，标准化业务流程</strong>。</p><br/><p>找出那些频繁使用的关键决定或程序，并收集尽可能多的影响结果的相关数据。</p><br/><p>打比方说银行贷款审核，我们需要记录</p><br/><p>a)贷款是否被批准， </p><p>b) 用于作出该决定的数据; 以及</p><p>c)有关决定背后情况的任何其他信息。（谁做的？一天中的什么时间？他们对决策有多大的自信？）这些都是AI的宝贵燃料。</p><br/><p><strong>其次，专注于简单明晰的问题</strong>。</p><br/><p>AI适用于问题定义明确的情形。打比方说，欺诈交易检测问题就定义非常清楚。相反，问题“做什么客户会喜欢？”则太模糊。</p><br/><p><strong>再次，如果简单标准业务逻辑已经胜任，不要为了AI而AI</strong>。</p><br/><p>AI适用于存在大量难以描述的规则，或者规则遵循复杂的非线性模式的情形。如果您希望高透明度及可靠性，请选择符合性能标准的最简单的手段。</p><br/><p><strong>第四，如果决策过程过于复杂，我们可以采用AI来辅助决策者</strong>。</p><br/><p>如果目标定义不清，可尝试用AI来创建中间结果。你可以将机器学习看作是层次决策路径的一部分，用来帮助人们对问题理解更深入。</p><br/><p><strong>结束语</strong>。现如今许多企业都可以实现一些不太复杂的AI应用来帮助大部分员工提高工作效率，并使他们的工作变得为更有趣且更有价值。</p><br/><p>记住一点，AI目前并没有扭转乾坤的魔力，然而它可以将一个平凡企业变的更加伟大。</p><br/><p>原文出处：<a href=\"https://link.zhihu.com/?target=https%3A//hbr.org/2016/11/how\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">hbr.org/2016/11/how</span><span class=\"invisible\"></span></a>-to-make-your-company-machine-learning-ready&amp;ab=Article-Links-End_of_Page_Recirculation</p><br/><br/><br/><p>请点击文章最上方的蓝色字体人工智能商业 或扫描屏幕下方二维码关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。</p><br/><br/><p>特别提示：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p><br/><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/sDoEHCHEM3xMrWV-92_i\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/sDoEHCH</span><span class=\"invisible\">EM3xMrWV-92_i</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p>", 
+            "topic": [
+                {
+                    "tag": "人工受精", 
+                    "tagLink": "https://api.zhihu.com/topics/19621796"
+                }, 
+                {
+                    "tag": "商业", 
+                    "tagLink": "https://api.zhihu.com/topics/19555457"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25222987", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "退休金可以智能选购吗？", 
+            "content": "<p>随着2017的到来，又到一年RRSP（加拿大退休储蓄计划）的购买季节。<br/></p><br/><figure><noscript><img src=\"https://pic3.zhimg.com/v2-28641b4aec30fd515ae07d32b0f46e9a_b.jpg\" data-rawwidth=\"675\" data-rawheight=\"401\" class=\"origin_image zh-lightbox-thumb\" width=\"675\" data-original=\"https://pic3.zhimg.com/v2-28641b4aec30fd515ae07d32b0f46e9a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;675&#39; height=&#39;401&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"675\" data-rawheight=\"401\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"675\" data-original=\"https://pic3.zhimg.com/v2-28641b4aec30fd515ae07d32b0f46e9a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-28641b4aec30fd515ae07d32b0f46e9a_b.jpg\"/></figure><p>每次选则投资品种时，都是约银行的经理，然后回答银行的一系列问题，比如资产情况、投资偏好、风险承受力等等，<br/></p><br/><p>然后银行会给出几个基金选项，根据这些基金的历史表现，从中间去挑选适合自己的。</p><br/><p>这种传统的人工操作模式，固然有银行安全的考虑，但时代在发展，有没有可能让智能机器人来辅助解决呢？</p><br/><p>既不需要预约、又可以准确推荐、还能根据市场情况和投资人的资产情况作出智能提醒换购其他品种呢？</p><br/><p>这个就是<strong>智能投顾</strong>（robo-advisor）</p><br/><figure><noscript><img src=\"https://pic4.zhimg.com/v2-4098a4e1c6451d5199f5782218e5d4b7_b.jpg\" data-rawwidth=\"770\" data-rawheight=\"277\" class=\"origin_image zh-lightbox-thumb\" width=\"770\" data-original=\"https://pic4.zhimg.com/v2-4098a4e1c6451d5199f5782218e5d4b7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;770&#39; height=&#39;277&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"770\" data-rawheight=\"277\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"770\" data-original=\"https://pic4.zhimg.com/v2-4098a4e1c6451d5199f5782218e5d4b7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4098a4e1c6451d5199f5782218e5d4b7_b.jpg\"/></figure><br/><br/><p>智能投顾传统上是基于Markowitz的投资组合优化理论。该理论希望同时能够最大化期望收益以及最小化风险。</p><br/><p>简言之，就是通过多样化的投资组合分散投资风险，从而得到稳定回报。</p><br/><p>过去往往将其建模成一个二次非线性优化问题并采用经典组合算法求解，然而效果往往不尽人意，因此很长一段时间停留在理论阶段，实用化系统出现时间并不长；</p><br/><p>真正进入大众视野也就是从2010年的美国，出现了BetterMent，Wealthfront和Future Advisor等一大批公司，</p><br/><p>开始面向小额个人理财用户推出基于智能算法的资产管理组合建议，包括债权，基金，股票，房地产资产配置等等。</p><br/><p>我们认为与传统理财顾问相比，智能投顾具备如下优点：</p><br/><p>第一，投资人最大的敌人就是我们自己人性中的贪婪和恐惧，而智能投顾完全依赖计算机模型则没有这些弱点。</p><br/><p>第二，通过对市场上大量数据进行建模及分析，智能投顾可以对市场上的风吹草动更能明察秋毫。</p><br/><p>第三，智能投顾对风险控制可以比人类做得更好，人们能够利用其更精准的模型和算法来获得可持续的长期稳定收益。</p><br/><p>近年来，人工智能与机器学习技术在智能投顾领域得到了迅猛发展。</p><br/><p>除上述公司外，大批的老牌hedge funds也纷纷开发人工智能应用，如Bridgewater Associates，Renaisance Technologies Two Sigma. </p><p>​<br/></p><p>另外还出现了一大批的初创企业，如Numerai，Bitanix 和Walnut Algorithms，Aidiya，Sentiment Technologies等等。</p><br/><br/><p>这些企业采用人工智能技术来分析大量结构化及非结构化数据，</p><br/><p>如公司报表，新闻，货币财经，大宗商品价格以及社交媒体等等，可以对上市公司的前景可以做到更精准的预测。</p><br/><br/><p>还有大量实际问题这里就不一一赘述了。有兴趣的朋友关注我们公众号、加入讨论组。</p><br/><br/><br/><p>请关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。</p><br/><br/><p>特别提示：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p><br/>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25056360", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "人工智能可以催生电力行业的独角兽吗？", 
+            "content": "<p>话说这机器学习横空出世，就像孙悟空抄起金箍棒一阵乱挥，打破了许许多多行业的旧秩序。</p><br/><p>过去我们聊过机器学习技术如何颠覆互联网和电商，今天咱们聊聊传统行业。</p><br/><p>希望这些观点对有电力资源的朋友有所启发，争取在电力行业培养出个独角兽。</p><br/><p>电力行业可是老行业，从爱迪生特斯拉下来少说也一百多年历史。曾经有过巨大的辉煌，现在也都还是各国经济的命脉。</p><br/><p>然而风流总被雨打风吹去，进入二十一世纪后风头早被互联网信息行业夺走。这其实也怪不的别人，虽说也在经历一场新能源革命的洗礼，但行业主体还是从父辈爷爷辈一代代传下来的那些东西。</p><br/><p>并且在世界各国能源电力多为国有，总归有些官僚主义，行业人员知识老化，不思进取的通病。</p><br/><p>如今在互联网信息行业的冲击下其实能源电力行业也在暗流涌动。</p><br/><p>在智能电表和智能互联传感器等等的带动下，电力企业一下发现自己也像很多IT企业一样突然有了很多的数据，所谓电力大数据一时甚嚣尘上。</p><br/><p>然而大家并不十分清楚，除了生成账单和报表，还能用这些数据来做些什么呢？</p><br/><p>我们认为，数据是各大电力企业的核心竞争力，而机器学习技术则让企业变得更加智能，为真正从大量企业数据中挖掘价值提供可能。下面就从几个方面初步探讨。</p><br/><p><strong>负载和可再生能源预测</strong></p><br/><p>众所周知电力行业最大的问题是每时每刻保持电力生产和消费的平衡。</p><br/><p>然而大量可再生能源，如风能，虽然有环保的优点但却非常难以驾驭，往往无需电力的时候大风呼啸，而需要大量电力时风却不见踪影。</p><br/><p>这对电力生产调度提出了极大的考验。因此精准预测地区负载以及可再生能源发电量对如何调度发电至关重要。</p><br/><p>对这些问题我们可以采用深度学习和循环神经网络对大量历史数据进行建模，从而提高预测的准确度。</p><br/><figure><noscript><img src=\"https://pic4.zhimg.com/v2-bb66aaa839de370f5657bdca814c100f_b.png\" data-rawwidth=\"460\" data-rawheight=\"342\" class=\"origin_image zh-lightbox-thumb\" width=\"460\" data-original=\"https://pic4.zhimg.com/v2-bb66aaa839de370f5657bdca814c100f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;460&#39; height=&#39;342&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"460\" data-rawheight=\"342\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"460\" data-original=\"https://pic4.zhimg.com/v2-bb66aaa839de370f5657bdca814c100f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-bb66aaa839de370f5657bdca814c100f_b.png\"/></figure><p><strong>智能设备维护</strong></p><br/><p>电力行业有大量设备需要维护，如电表，变压器及变电站等等。这些设备的可靠性相当重要，一旦失效轻则造成停电重则可能引发火灾。</p><br/><p>我们如何能够利用电力公司的大量数据来给监控设备的健康状况，从而未雨绸缪对其进行维护？</p><br/><p>打比方说变压器的健康程度与众多因素有关，如设备年限，峰值载荷，温度，雷击，是否长期过载等等。</p><br/><p>从大量变压器历史维护记录和其余相关数据中我们可以采用机器学习技术训练一个设备健康度回归模型。</p><br/><p>这背后的经济效益极为显著，据估计对一个百万级别的城市而言仅平均延长变压器寿命一年带来的收益将高达一千五百万美元。</p><br/><figure><noscript><img src=\"https://pic2.zhimg.com/v2-940289c030ae0a3c56b4e647eb02cba1_b.png\" data-rawwidth=\"390\" data-rawheight=\"322\" class=\"content_image\" width=\"390\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;390&#39; height=&#39;322&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"390\" data-rawheight=\"322\" class=\"content_image lazy\" width=\"390\" data-actualsrc=\"https://pic2.zhimg.com/v2-940289c030ae0a3c56b4e647eb02cba1_b.png\"/></figure><p><strong>窃电监测</strong></p><br/><p>对许多国家来说窃电是一个大问题。窃电不单给电力公司带来经济损失，而且对电网可靠性带来很大考验。</p><br/><p>传统的窃电监测大多依赖人工排查，效率不高并浪费大量人力物力。智能电表的出现让远程监测用电成为可能。</p><br/><p>然而道高一尺，魔高一丈，各种窃电手段层出不穷，一般基于规则的方法未必奏效。</p><br/><p>我们可以采用机器学习技术来学习用户正常用电模式，从而对大量疑似窃电行为进行自动报警。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-47d37fdc8a615c0ccaadb0856bfca85c_b.png\" data-rawwidth=\"478\" data-rawheight=\"346\" class=\"origin_image zh-lightbox-thumb\" width=\"478\" data-original=\"https://pic1.zhimg.com/v2-47d37fdc8a615c0ccaadb0856bfca85c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;478&#39; height=&#39;346&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"478\" data-rawheight=\"346\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"478\" data-original=\"https://pic1.zhimg.com/v2-47d37fdc8a615c0ccaadb0856bfca85c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-47d37fdc8a615c0ccaadb0856bfca85c_b.png\"/></figure><p>还有大量实际问题这里就不一一赘述了。有兴趣的朋友关注我们公众号、加入讨论组。</p><br/><br/><br/><p>请关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。</p><br/><br/><p>特别提示：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "电力", 
+                    "tagLink": "https://api.zhihu.com/topics/19565142"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "prink chen", 
+                    "userLink": "https://www.zhihu.com/people/b6a0ff6c9586b85705d1713d4aa41bc1", 
+                    "content": "变压器的应用是不可行的，设备一换积累的数据就没用了。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25051222", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 15, 
+            "title": "重磅，深度学习皮肤癌诊断达专家水平", 
+            "content": "<p>书接上回，前两期我们讨论了人工智能的一些成熟的应用方向，今日又看到一则新闻，拿出来给大家分享。希望有更多朋友一起来讨论。</p><br/><p>美国每年都有 540 万人患皮肤癌，在早期检测到的黑色素瘤的 5 年生存率在 97% 左右，如果晚期查出 5 年生存率将会下降 14%，皮肤癌的早期发现可能会对其结果产生巨大的影响。</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-1764ecd41100d3996f5961e08f48ea11_b.png\" data-rawwidth=\"622\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb\" width=\"622\" data-original=\"https://pic2.zhimg.com/v2-1764ecd41100d3996f5961e08f48ea11_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;622&#39; height=&#39;410&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"622\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"622\" data-original=\"https://pic2.zhimg.com/v2-1764ecd41100d3996f5961e08f48ea11_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1764ecd41100d3996f5961e08f48ea11_b.png\"/></figure><p>北美看专科医生都要预约，运气不好得等几个月，如果不能及时诊断，很可能被耽误。 如果能用手机拍个照片，立马就告知你患皮肤癌的风险，那将是极其造福人类的应用。</p><br/><p>现在看来这个不是痴人说梦了。今年1月25日的Nature杂志上发表了斯坦福大学的一篇论文。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-b6e4743f27b184dfcd33df3dbe74de0c_b.png\" data-rawwidth=\"644\" data-rawheight=\"251\" class=\"origin_image zh-lightbox-thumb\" width=\"644\" data-original=\"https://pic1.zhimg.com/v2-b6e4743f27b184dfcd33df3dbe74de0c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;644&#39; height=&#39;251&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"644\" data-rawheight=\"251\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"644\" data-original=\"https://pic1.zhimg.com/v2-b6e4743f27b184dfcd33df3dbe74de0c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b6e4743f27b184dfcd33df3dbe74de0c_b.png\"/></figure><p><strong>论文：用深度神经网络实现皮肤科医生水平的皮肤癌分类（Dermatologist-level classification of skin cancer with deep neural networks）</strong></p><br/><p>他们通过使用深度卷积神经网络（CNN），利用129450 个临床图像的数据集，在 21 位经过认证的皮肤科医生的监督下学习，完成对角质形成细胞癌（keratinocyte carcinomas）、 良性脂溢性角化病（benign seborrheic keratoses）、恶性黑色素瘤 、 普通痣等的识别。</p><p>​预计2021年人人都可以把专科医生装在手机了。</p><br/><p>最后我们来看看这几位幕后英雄。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-ad15dfd01b2d7028b58a4e8951115360_b.png\" data-rawwidth=\"383\" data-rawheight=\"570\" class=\"content_image\" width=\"383\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;383&#39; height=&#39;570&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"383\" data-rawheight=\"570\" class=\"content_image lazy\" width=\"383\" data-actualsrc=\"https://pic1.zhimg.com/v2-ad15dfd01b2d7028b58a4e8951115360_b.png\"/></figure><br/><p><em>该研究相关论文的合作者、</em><em>Thrun 实验室的研究生 Brett Kuprel</em></p><br/><figure><noscript><img src=\"https://pic1.zhimg.com/v2-58dac285b1e35822d64a2acde1e3d2f4_b.png\" data-rawwidth=\"401\" data-rawheight=\"603\" class=\"content_image\" width=\"401\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;401&#39; height=&#39;603&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"401\" data-rawheight=\"603\" class=\"content_image lazy\" width=\"401\" data-actualsrc=\"https://pic1.zhimg.com/v2-58dac285b1e35822d64a2acde1e3d2f4_b.png\"/></figure><br/><p><em>Thrun 实验室的研究生 Andre Esteva</em></p><p>有兴趣探讨人工智能商业化的朋友，可以关注我们公众号、加入讨论组。</p><br/><br/><p>请关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。</p><br/><p>特别提示：</p><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "医学", 
+                    "tagLink": "https://api.zhihu.com/topics/19604128"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "ERIC FU", 
+                    "userLink": "https://www.zhihu.com/people/41d8adb4174ac4fceb7fe5e050cb56d8", 
+                    "content": "这玩意本质与CT机之类的检验设备有何差别？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "SCP-173", 
+                    "userLink": "https://www.zhihu.com/people/363249fea700145fb16a6e2292d9683b", 
+                    "content": "这篇文章的意义在哪？", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25023868", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "人工智能到底能帮我们做什么？", 
+            "content": "<p>随着自动驾驶、机器战胜围棋高手、打败德州扑克玩家、小度机器人战胜最强大脑等等一个个生动实际的新闻报道，让机器学习进入大众眼里。</p><br/><p>细心的读者可能注意到我们这里使用的是机器学习，而不是人工智能，为啥？</p><br/><p>人工智能和机器学习在概念上还是有区别的。我们这里讨论的主要是机器学习技术，算是人工智能的一个重要分支（所谓联结主义学派）。</p><br/><p>但人工智能还有其他重要学派如符号主义等等，这些暂且按下不表，以后有时间再和大家讨论。此文主要讨论现在热门的机器学习。</p><br/><p>一些朋友开始问我机器学习到底能做什么？<strong>有哪些可能的商业机会？</strong></p><br/><p>要想回答这些问题，得先看看<strong>机器学习到底是啥</strong>。<br/></p><br/><p>具体高深的数学基础我们就不讲了，商业人士看了也基本是白看、跟天书一样。我们就深入浅出地了解下。</p><br/><p>机器学习说白了就是一个函数计算模型，对某些特定输入得到一定的结果。</p><br/><p>无论是自动驾驶，电脑围棋，德扑还是小度机器人，背后都是试图拟合一个代数函数，比如 f(x,y,z) = 2x + 3y - z，就是加减乘除加上一些简单的求指数和取绝对值运算。</p><br/><p>当然这个函数可能维度(可以理解为特征)很高并相当复杂，所以在外行看起来莫测高深。</p><br/><p>那么如何得到这样一个函数呢，机器学习的手段就是训练了 - 就像小婴儿开始认识世界一样。</p><br/><p>假如我们要教电脑如何识别一只猫，我们不必告诉它猫有两只眼睛和耳朵，身上毛茸茸的，而只要给计算机出示成千上万张猫和非猫的图片，电脑就能照着给定的模型训练出一个多维函数（这里又叫分类器），以后再有新的猫图片拿过来它就能够正确识别了。</p><br/><p>自动驾驶，小度机器人等等背后技术基本大同小异。</p><br/><p>再打比方说电脑围棋，我们同样是在训练若干函数，而训练的过程形象说来就是‘喂棋谱’，等电脑吃够了前人棋谱并吸收后它就获得了人类上百年的围棋智慧。</p><br/><p>然而电脑的可怕之处则是它从那以后还能自己跟自己下‘双手互搏’，并从模拟比赛结果中调整参数进而变得越来越厉害。</p><br/><p>下棋人类以后是不可能跟电脑抗衡了，就像跑步跑不过汽车一个道理。</p><br/><p>所以我们人类不是要和机器去赛跑，而是要利用机器为我们服务。</p><br/><p>现在的人工智能技术已经相当强大，能够处理成千上万个特征，并把每个特征的重要性指数找出来。</p><p>所以本质上说它就是个参数集合，如果理解了这一点就能很好的理解商业上的应用。那些简单输入确定的A然后能算出结果是B的都是容易商业化的。</p><br/><p>比如我们上期谈到的电力线路巡检， 就可以让机器大量观察有故障的电路，然后它就会学习到怎么去分析判断了，其准确率可能还会高于人类，诸如此类的都是很好的商业应用方向。</p><p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-7d0ca6da024405fe6f18c3ce1df9b0f1_b.png\" data-rawwidth=\"624\" data-rawheight=\"297\" class=\"origin_image zh-lightbox-thumb\" width=\"624\" data-original=\"https://pic2.zhimg.com/v2-7d0ca6da024405fe6f18c3ce1df9b0f1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;624&#39; height=&#39;297&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"624\" data-rawheight=\"297\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"624\" data-original=\"https://pic2.zhimg.com/v2-7d0ca6da024405fe6f18c3ce1df9b0f1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-7d0ca6da024405fe6f18c3ce1df9b0f1_b.png\"/></figure>​<br/></p><p>有兴趣探讨人工智能商业化的朋友，可以关注我们公众号aihelps、加入讨论组。</p><br/><br/><br/><br/><p>关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。</p><br/><br/><p>特别提示：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "商业", 
+                    "tagLink": "https://api.zhihu.com/topics/19555457"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24998436", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "如何从社交网络发现赚钱机会？", 
+            "content": "<p>回顾2016年的黑天鹅事件，特朗普入主白宫算是其一了。</p><br/><p>一个被主流媒体一致不认可的候选人</p><p>一个被党内大佬反对的党员</p><p>一个竞选资金毫无优势的人</p><p>一个绝大部分精英反对的人</p><br/><p>最后却出人意料地胜出，不得不引起我们的思考，他是靠什么？</p><br/><p>在此次大选，特朗普遭到了主流媒体的一致口诛笔伐；在媒体全盘倒向希拉里的情况下，互联网是他唯一的竞选希望，社交网络成为他制胜的利器。</p><br/><p>我们不去讨论他以后对全球政治的影响，只想思考一下社交媒体的重要性，有没有可能从社交媒体中发现一些对我们有用的线索? </p><br/><p>这就是本期想和大家分享的话题：</p><br/><p><strong>如何利用社交网络市场情绪数据预测股票价格区间？</strong></p><br/><p>众所周知，股票价格是公司业绩，行业大环境，经济政策以及市场情绪的集中反映。</p><br/><p>大多数股民的心理相当脆弱，容易被市场情绪左右，就算是身经百战的操盘手时常也难超脱于外。</p><br/><p>那么究竟能不能利用这些市场情绪信息来进行股票方面的预测呢？</p><br/><p>下面我们简要介绍一下这方面的研究。</p><br/><p>许多人时常在Twitter上发布一些自己对某些股票走势的看法, 如FB, APPL等等。</p><br/><p>现在已有一些公司提供实时在线服务（如PsychSignal），通过抓取某只股票相应的Tweets并运用机器学习来进行语义分析，从而提炼出相应的唱红，唱衰情绪信号分值。</p><br/><p>接下来我们搜集了二十只股票在PsychSignal上的情绪信号分值和Quandl上的股票历史价格和成交量信息。</p><br/><p>利用这些数据，我们训练出一个简单的模型来预测股票当天的价格波动是否会超过历史中位数。</p><br/><p>如下旭日图所示，绿色代表模型找到了一些有趣的相关性。</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-20779ebebfa4cd200c54e79777742479_b.png\" data-rawwidth=\"653\" data-rawheight=\"465\" class=\"origin_image zh-lightbox-thumb\" width=\"653\" data-original=\"https://pic2.zhimg.com/v2-20779ebebfa4cd200c54e79777742479_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;653&#39; height=&#39;465&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"653\" data-rawheight=\"465\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"653\" data-original=\"https://pic2.zhimg.com/v2-20779ebebfa4cd200c54e79777742479_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-20779ebebfa4cd200c54e79777742479_b.png\"/></figure><br/><p>打比方说如果前一天股票价格下跌超过百分之三，并且唱衰情绪信号值超过0.84，模型判断有超过百分之九十五的概率明日股票价格波动会超过历史中位数。</p><br/><p>接下来我们采用BigML API对模型进行五路交叉测试，结果模型准确度达到64%，性能远胜随机猜测。<br/></p><br/><figure><noscript><img src=\"https://pic3.zhimg.com/v2-96c9254e5aa7e543548ff071d424c092_b.png\" data-rawwidth=\"648\" data-rawheight=\"343\" class=\"origin_image zh-lightbox-thumb\" width=\"648\" data-original=\"https://pic3.zhimg.com/v2-96c9254e5aa7e543548ff071d424c092_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;648&#39; height=&#39;343&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"648\" data-rawheight=\"343\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"648\" data-original=\"https://pic3.zhimg.com/v2-96c9254e5aa7e543548ff071d424c092_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-96c9254e5aa7e543548ff071d424c092_b.png\"/></figure><br/><br/><p>另外一点有趣的发现是，上述基于市场情绪的模型对于预测股票实际价格并无太大帮助，结果仅比随机扔硬币强一点点。</p><br/><p>从这点看似乎预测股票价格区间要相对容易的多。<br/></p><br/><p>作为结束语，公司创始人James Crane-Baker如是说：“社交网络中蕴含大量投资人的实时情绪数据，如果我们不能从中提取有用信息的话我会感到非常意外。” </p><br/><p>有了这些宝贵信息，我们甚至可以试图推广本文模型进行当天股价区间的预测。</p><br/><p>本文原稿：<a href=\"https://link.zhihu.com/?target=https%3A//blog.bigml.com/2014/05/09/predicting-stock-swings/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Predicting Stock Swings with PsychSignal, Quandl and BigML</a></p><br/><p>请扫描屏幕下方二维码关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。<br/></p><br/><p><b>特别提示：</b></p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/sDoEHCHEM3xMrWV-92_i\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/sDoEHCH</span><span class=\"invisible\">EM3xMrWV-92_i</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "商业策略", 
+                    "tagLink": "https://api.zhihu.com/topics/19550407"
+                }, 
+                {
+                    "tag": "社交产品", 
+                    "tagLink": "https://api.zhihu.com/topics/19562238"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24995287", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "股价一飞冲天的秘密是什么？", 
+            "content": "<p>从技术的角度看商业，从商业的角度看技术。<br/></p><p>今天来聊聊股票那点事儿。 先看看这两张走势图，都是一年之内翻了几倍。<br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-34fff412c2db7583ad1ddef3f4ef820e_b.png\" data-rawwidth=\"612\" data-rawheight=\"336\" class=\"origin_image zh-lightbox-thumb\" width=\"612\" data-original=\"https://pic3.zhimg.com/v2-34fff412c2db7583ad1ddef3f4ef820e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;612&#39; height=&#39;336&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"612\" data-rawheight=\"336\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"612\" data-original=\"https://pic3.zhimg.com/v2-34fff412c2db7583ad1ddef3f4ef820e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-34fff412c2db7583ad1ddef3f4ef820e_b.png\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/v2-713b7403237d13393c08b3c79a12d9c3_b.png\" data-rawwidth=\"620\" data-rawheight=\"326\" class=\"origin_image zh-lightbox-thumb\" width=\"620\" data-original=\"https://pic4.zhimg.com/v2-713b7403237d13393c08b3c79a12d9c3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;620&#39; height=&#39;326&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"620\" data-rawheight=\"326\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"620\" data-original=\"https://pic4.zhimg.com/v2-713b7403237d13393c08b3c79a12d9c3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-713b7403237d13393c08b3c79a12d9c3_b.png\"/></figure><br/><p>你可能好奇这是哪两支股票，为啥这么凶猛? </p><br/><p>它们分别是AMD和NVDA， 共性是做芯片的，按理说芯片不是啥新东西了，Intel的股票一年也没啥动静，这两家又有什么不同呢？</p><br/><p>这时候如果研究下当前最热门的技术，你就不难理解他们两家的爆发了。</p><br/><p>2016年Alphago战胜顶尖围棋高手， 2017年初又是Master连胜60盘，打败所有围棋对手，让一个词进入你我寻常百姓的生活，AI, 也就是人工智能。</p><br/><p>如果能了解背后的技术实现，你就能看得懂那两支股票。</p><br/><p>人工智能里的神经网络需要的不是很强的计算能力，需要的是很密的计算能力，说白点就是要靠群狼战胜狮子。</p><br/><p>比如NVDA 的GPU是专门处理图形的芯片，我们看见的显示屏都是它在后面运算，把一个个像素显示出来。<br/></p><br/><br/><p>这样就需要大量的运算单元来处理，其特性天然符合神经网络的运算模式。就把下图中的小圆圈看成一个个GPU运算单元吧。</p><br/><br/><p>对小圆圈的需求越多，他们的产品就越好卖，也就是业绩大涨，股票市场自然反映出来了。</p><br/><p>对于投资的人，多了解技术，可以帮助选出潜力股，对于技术人员，知道哪里的资金多，也可以调整自己的专业方向。</p><br/><p>说了过去，咱再谈下未来，<strong>有什么可以选择的股票吗</strong>？</p><br/><p>百度现在在BAT里相对落后，可能有的人不看好它的未来，但笔者认为其处于投入期，如果公司内部运作不出问题，其股票价格和另外两家PK也是指日可待。为啥？</p><br/><p>环顾中国的技术市场，在AI技术的投入上，以及海量数据的拥有量，它都是数一数二的。</p><br/><p>前几天播放的最强大脑，就是它家的小度在人脸识别上战胜人类，这些只是他们技术积累的冰山一角，可以应用的领域太多了，安全领域、图片搜索等等。</p><br/><br/><p>如果再使用云技术，把技术做成服务让第三方厂家使用，想想都赚钱。 等着看吧！ </p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "股票", 
+                    "tagLink": "https://api.zhihu.com/topics/19559840"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24995252", 
+            "userName": "亮剑会", 
+            "userLink": "https://www.zhihu.com/people/455416c7ce4d75c36517f1ccd7013769", 
+            "upvote": 0, 
+            "title": "从小度机器人战胜“水哥”后想到的一二三", 
+            "content": "<p>看完最近一期《最强大脑》，百度机器人小度战胜“水哥”王昱珩，最后以3:2、1:1、2:0的成绩，两胜一平，直接晋级《脑王决赛》。</p><br/><p>这是继Alphago、Master在围棋领域战胜人类后，再一次震撼了大众对人工智能(AI)的认识，也加速了人工智能的普及。</p><br/><figure><noscript><img src=\"https://pic4.zhimg.com/v2-4d4f14faf0f48319714a0730625c36d3_b.png\" data-rawwidth=\"632\" data-rawheight=\"368\" class=\"origin_image zh-lightbox-thumb\" width=\"632\" data-original=\"https://pic4.zhimg.com/v2-4d4f14faf0f48319714a0730625c36d3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;632&#39; height=&#39;368&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"632\" data-rawheight=\"368\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"632\" data-original=\"https://pic4.zhimg.com/v2-4d4f14faf0f48319714a0730625c36d3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4d4f14faf0f48319714a0730625c36d3_b.png\"/></figure><br/><p>看完这三场比赛，可以直观地了解到人工智能在哪些领域更强、可以得到更好的商业应用。</p><br/><p>在三场比赛中，其中小度胜利的两场都是跟视觉相关的，也就是图像识别方面的，战平的一场是听力方面的。</p><br/><p><strong>这个说明什么问题呢？对于人工智能的商业化应用有什么启发呢？</strong></p><br/><p>节目中PK的项目，我相信也是经过选择了的，挑了机器人最富成就的领域。也就是说这些技术最可能最早替代人类的工作。</p><br/><p>我们沿着这个思路分析，商业化项目应该优选小度两胜的项目，也就是图像识别。</p><br/><p>百度或者其他巨头都会以输出基础技术的形式提供技术服务，他们会开放各行各业使用，基础服务这一块也是他们该得的收获，咱们普通人能做的就是祝福他们、买买他们的股票。 </p><br/><p>而作为普通商业机构完全可以抓住这些机会，率先在自己的领域引入人工智能，进行产业升级。</p><br/><p>比如为银行证券提供技术服务的公司，完全可以推出人脸识别技术来开发新的应用场景，远程开户、网络金融服务所涉及的安全认证都可以。免除安全证书、USB安全密钥等等的麻烦。</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-62020b5fcec09da66bdf3407569e5ca6_b.png\" data-rawwidth=\"551\" data-rawheight=\"221\" class=\"origin_image zh-lightbox-thumb\" width=\"551\" data-original=\"https://pic3.zhimg.com/v2-62020b5fcec09da66bdf3407569e5ca6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;551&#39; height=&#39;221&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"551\" data-rawheight=\"221\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"551\" data-original=\"https://pic3.zhimg.com/v2-62020b5fcec09da66bdf3407569e5ca6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-62020b5fcec09da66bdf3407569e5ca6_b.png\"/></figure><br/><p>再比如，现在很多电力公司的线路巡检都是派直升飞机去巡航，由人来识别哪些是可能的故障，其实这部分完全可以使用无人机执行巡检，让机器自己去判断哪些电路单元出问题，既节省成本、也提高效率和准确性。<br/></p><br/><figure><noscript><img src=\"https://pic1.zhimg.com/v2-82c5b1936b97cf85f11bb603a9fa8164_b.png\" data-rawwidth=\"632\" data-rawheight=\"304\" class=\"origin_image zh-lightbox-thumb\" width=\"632\" data-original=\"https://pic1.zhimg.com/v2-82c5b1936b97cf85f11bb603a9fa8164_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;632&#39; height=&#39;304&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"632\" data-rawheight=\"304\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"632\" data-original=\"https://pic1.zhimg.com/v2-82c5b1936b97cf85f11bb603a9fa8164_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-82c5b1936b97cf85f11bb603a9fa8164_b.png\"/></figure><br/><p>再比如说公共安全领域，可以应用到寻找失踪儿童。像在加拿大，我们每次收到信用卡账单， 信封背后都有失踪儿童的照片，还有在一些大型购物中心入口也贴有失踪人员照片。</p><br/><p>对于其成效我是打很大问号的，毕竟人的记忆内存是不够的。但是如果使用最强大脑第一场比赛类似的技术，只要在人员流动的关节点部署监控，就可以大大提高成功机率。</p><br/><p>再多说一点，其实现在火热的自动驾驶技术，本质上也是图像识别，根据周围的场景，决定拐弯、加速和刹车。这些都给我们商业应用提供一些参考。</p><br/><p> 以上这些起到一个抛砖引玉的作用，有兴趣探讨人工智能商业化的朋友，可以通过微信/QQ 12956250来加入讨论组。</p><br/><br/><br/><p>请点击文章最上方的蓝色字体人工智能商业 或扫描屏幕下方二维码关注我们微信公众号aihelps。欢迎加入人工智能商业化社群交流，请加微信号12956250。</p><br/><br/><p>特别提示：</p><br/><p>本文章由亮剑会提供，亮剑会是邹洪亮和胡曾剑联合创办的AI商业应用社群，致力于人工智能的商业化。</p><br/><p>邹洪亮，电子商务资深顾问，拥有15年丰富的互联网一线操盘经验，曾任500彩票网(纽交所: WBAI)副总裁。移居<strong>加拿大</strong>后，创办Havlek咨询公司，为加拿大著名企业MEC、JYSK、Saje、Uniserve等提供云架构设计、大规模计算、商业智能分析等服务。</p><br/><p>胡曾剑，Simon Fraser University 计算机博士，人工智能科学家，专长算法设计、运筹学、机器学习以及智能软件开发。现在<strong>美国</strong>著名能源交易服务公司The Energy Authority 任职Research Scientist，2014年作为首席架构师项目获得运筹学最高奖Edelman Prize 提名。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "商业", 
+                    "tagLink": "https://api.zhihu.com/topics/19555457"
+                }, 
+                {
+                    "tag": "最强大脑之燃烧吧大脑（综艺）", 
+                    "tagLink": "https://api.zhihu.com/topics/19930289"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_71870493"
+}

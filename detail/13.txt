@@ -1,0 +1,405 @@
+{
+    "title": "Jetson Nano 快速入门", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/mercy-35", 
+        "https://www.zhihu.com/people/rinetd", 
+        "https://www.zhihu.com/people/cha-lin-63-71", 
+        "https://www.zhihu.com/people/ren-shang-ren-59", 
+        "https://www.zhihu.com/people/peng-peng-60-40-47", 
+        "https://www.zhihu.com/people/ezio-95-26", 
+        "https://www.zhihu.com/people/shu-chong-73-83", 
+        "https://www.zhihu.com/people/xing-dong-xun-zhang-40", 
+        "https://www.zhihu.com/people/wu-yue-7-42", 
+        "https://www.zhihu.com/people/chen-lu-64-62", 
+        "https://www.zhihu.com/people/passenger-18-97", 
+        "https://www.zhihu.com/people/meap-leaf", 
+        "https://www.zhihu.com/people/lyu.haiyang", 
+        "https://www.zhihu.com/people/guting-wu", 
+        "https://www.zhihu.com/people/zhong-yue-81-56", 
+        "https://www.zhihu.com/people/cyc-91-10", 
+        "https://www.zhihu.com/people/li-xin-24-26-78", 
+        "https://www.zhihu.com/people/zhuang-ze-bin-57", 
+        "https://www.zhihu.com/people/dong-shen-1996", 
+        "https://www.zhihu.com/people/zhang-ming-6-74", 
+        "https://www.zhihu.com/people/xiao-xia-6-32", 
+        "https://www.zhihu.com/people/bitiger007", 
+        "https://www.zhihu.com/people/wu-hui-93-91", 
+        "https://www.zhihu.com/people/jason339", 
+        "https://www.zhihu.com/people/xiao-dou-ya-90", 
+        "https://www.zhihu.com/people/dong-yang-47-31", 
+        "https://www.zhihu.com/people/ke-ying-23-20", 
+        "https://www.zhihu.com/people/yuan-jin-8-79", 
+        "https://www.zhihu.com/people/memento-mori", 
+        "https://www.zhihu.com/people/shawn-32-97", 
+        "https://www.zhihu.com/people/li-zhang-jie-8", 
+        "https://www.zhihu.com/people/luo-shi-33-93", 
+        "https://www.zhihu.com/people/riptide-40", 
+        "https://www.zhihu.com/people/stardust-7-6", 
+        "https://www.zhihu.com/people/duan-shi-hong-46", 
+        "https://www.zhihu.com/people/qi-tian-da-keng", 
+        "https://www.zhihu.com/people/xiao-xiao-55-80", 
+        "https://www.zhihu.com/people/wu-hang-10", 
+        "https://www.zhihu.com/people/wef-64-19", 
+        "https://www.zhihu.com/people/leo-86-52-51", 
+        "https://www.zhihu.com/people/rxc-zai-zhao-ni", 
+        "https://www.zhihu.com/people/hao-zi-75-57-82", 
+        "https://www.zhihu.com/people/yan-jun-66-16", 
+        "https://www.zhihu.com/people/gong-da-xiao-lin", 
+        "https://www.zhihu.com/people/xiang-zuo-lin-shi-yan-yuan-de-cheng-xu-yuan-33", 
+        "https://www.zhihu.com/people/sinmon-26", 
+        "https://www.zhihu.com/people/zhui-feng-zheng-de-ren-33-70", 
+        "https://www.zhihu.com/people/wen-92-35-64", 
+        "https://www.zhihu.com/people/binaryzhu-zzcy", 
+        "https://www.zhihu.com/people/zhang-yl-28", 
+        "https://www.zhihu.com/people/cai-bao-yi-85", 
+        "https://www.zhihu.com/people/zhao-bin-77-50", 
+        "https://www.zhihu.com/people/tian-tian-chi-ji-da-dou-dou", 
+        "https://www.zhihu.com/people/whusgg-50", 
+        "https://www.zhihu.com/people/sun-lei-69-21", 
+        "https://www.zhihu.com/people/huang-peng-fei-85", 
+        "https://www.zhihu.com/people/yyyml", 
+        "https://www.zhihu.com/people/song-gu-38", 
+        "https://www.zhihu.com/people/zhang-tong-xue-38-80", 
+        "https://www.zhihu.com/people/wan-shi-bu-gong-64-21", 
+        "https://www.zhihu.com/people/ma-hui-22-12", 
+        "https://www.zhihu.com/people/lilelife", 
+        "https://www.zhihu.com/people/peng-ze-yuan-82", 
+        "https://www.zhihu.com/people/mai-mang-97", 
+        "https://www.zhihu.com/people/liu-xiao-sheng-27", 
+        "https://www.zhihu.com/people/yintao-2", 
+        "https://www.zhihu.com/people/l-wong-95", 
+        "https://www.zhihu.com/people/yizhen-qiu-feng-meng-chu-hui-29", 
+        "https://www.zhihu.com/people/ysy-55-34-78", 
+        "https://www.zhihu.com/people/yildhd-wang", 
+        "https://www.zhihu.com/people/guang-ming-26-27", 
+        "https://www.zhihu.com/people/shuang-zi-xing-xing", 
+        "https://www.zhihu.com/people/you-xi-ren-jian-30-70", 
+        "https://www.zhihu.com/people/weichen-38", 
+        "https://www.zhihu.com/people/wang-jin-long-70-35", 
+        "https://www.zhihu.com/people/zhang-huan-58-83-15", 
+        "https://www.zhihu.com/people/po-tian-85", 
+        "https://www.zhihu.com/people/wbLuo", 
+        "https://www.zhihu.com/people/xiao-xiang-zi-8-46", 
+        "https://www.zhihu.com/people/yang-yang-75-12-10", 
+        "https://www.zhihu.com/people/zhang-zi-qing-64", 
+        "https://www.zhihu.com/people/pei-gen-91", 
+        "https://www.zhihu.com/people/yan7", 
+        "https://www.zhihu.com/people/chen-wei-ru-6", 
+        "https://www.zhihu.com/people/tang-gan-kun-24", 
+        "https://www.zhihu.com/people/panovr", 
+        "https://www.zhihu.com/people/kEviN9H", 
+        "https://www.zhihu.com/people/tom-zheng-12", 
+        "https://www.zhihu.com/people/yu-xiao-dong-58-78", 
+        "https://www.zhihu.com/people/SSSS-pacer", 
+        "https://www.zhihu.com/people/anuory", 
+        "https://www.zhihu.com/people/wang-kuan-57-47", 
+        "https://www.zhihu.com/people/zhang-wen-dong-92-24", 
+        "https://www.zhihu.com/people/lan-ni-si-te-88", 
+        "https://www.zhihu.com/people/chen-xun-66", 
+        "https://www.zhihu.com/people/li-gang-14-92", 
+        "https://www.zhihu.com/people/shi-zhi-xiang-3", 
+        "https://www.zhihu.com/people/laoyoutiao_trap", 
+        "https://www.zhihu.com/people/xu-min-xing", 
+        "https://www.zhihu.com/people/xu-da-fa-14", 
+        "https://www.zhihu.com/people/qqqzmy", 
+        "https://www.zhihu.com/people/st-lo", 
+        "https://www.zhihu.com/people/ssn774", 
+        "https://www.zhihu.com/people/kan-qing-shi-jie-73", 
+        "https://www.zhihu.com/people/zhang-cun-yi-29", 
+        "https://www.zhihu.com/people/jin-gang-hai-chong", 
+        "https://www.zhihu.com/people/sha-xing-jian", 
+        "https://www.zhihu.com/people/harryzhu", 
+        "https://www.zhihu.com/people/qi-yi-ke-97", 
+        "https://www.zhihu.com/people/rong-feng-49-69", 
+        "https://www.zhihu.com/people/zhang-yi-fei-17-49", 
+        "https://www.zhihu.com/people/yuan-sheng-58", 
+        "https://www.zhihu.com/people/wj2014-59", 
+        "https://www.zhihu.com/people/yang-jiang-hua-23", 
+        "https://www.zhihu.com/people/r4veh", 
+        "https://www.zhihu.com/people/chen-jing-ru-hai-41", 
+        "https://www.zhihu.com/people/chamberswu-75", 
+        "https://www.zhihu.com/people/zhang-min-jun-90", 
+        "https://www.zhihu.com/people/flaster", 
+        "https://www.zhihu.com/people/snowden-kang", 
+        "https://www.zhihu.com/people/luck-fu", 
+        "https://www.zhihu.com/people/LiFaynman", 
+        "https://www.zhihu.com/people/cao-xian-sheng-98-71", 
+        "https://www.zhihu.com/people/mo-ye-18-36", 
+        "https://www.zhihu.com/people/richard008", 
+        "https://www.zhihu.com/people/laoz-90", 
+        "https://www.zhihu.com/people/fu-kong-67", 
+        "https://www.zhihu.com/people/hao-hai-zi-83-63", 
+        "https://www.zhihu.com/people/sunfang1cn", 
+        "https://www.zhihu.com/people/iamzjk", 
+        "https://www.zhihu.com/people/hua-luo-zhu-ji-ban", 
+        "https://www.zhihu.com/people/xiao-yi-62-17", 
+        "https://www.zhihu.com/people/pxpacey", 
+        "https://www.zhihu.com/people/qia-li-gu-la-51", 
+        "https://www.zhihu.com/people/li-ling-hui-97", 
+        "https://www.zhihu.com/people/wang-mao-53-65", 
+        "https://www.zhihu.com/people/seabiscuit-12", 
+        "https://www.zhihu.com/people/camark"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/65188026", 
+            "userName": "钛创客", 
+            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+            "upvote": 3, 
+            "title": "Jetson Nano命令行连接WiFi", 
+            "content": "<p>WiFi 联网通常需要用到屏幕，鼠标，键盘，并需要登录桌面。但是一般我们没有多余的屏幕和键鼠，导致每次设置WiFi都需要将PC的外设换来换去。</p><p>使用命令行设置WiFi只需要一根1米网线即可解决。</p><h2><b>Win10共享网络设置</b></h2><p>首先用网线把Jetson Nano和电脑连接起来。</p><p>然后依次打开：控制面板——&gt;网络和Internet——&gt;网络和共享中心——&gt;更改适配器设置——&gt;Wlan属性（或者以太网属性）——&gt;共享</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f9c2a9795d3e577d001209fe5c2eb573_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"653\" data-rawheight=\"908\" class=\"origin_image zh-lightbox-thumb\" width=\"653\" data-original=\"https://pic4.zhimg.com/v2-f9c2a9795d3e577d001209fe5c2eb573_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;653&#39; height=&#39;908&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"653\" data-rawheight=\"908\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"653\" data-original=\"https://pic4.zhimg.com/v2-f9c2a9795d3e577d001209fe5c2eb573_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f9c2a9795d3e577d001209fe5c2eb573_b.jpg\"/></figure><p>然后将“允许其他网络用户通过此计算机的Internet连接来连接”打钩。</p><h2><b>查找 Jetson Nano IP 地址</b></h2><p>使用 Advanced IP Scanner 软件进行搜索就能找到。</p><h2><b>使用 SSH 登录 Jetson Nano</b></h2><p>这里使用 PuTTY 作为终端，输入上面找到的Jetson Nano 的IP地址。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-abfaf2318b2878c7dcd7b791840db895_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"602\" data-rawheight=\"537\" class=\"origin_image zh-lightbox-thumb\" width=\"602\" data-original=\"https://pic2.zhimg.com/v2-abfaf2318b2878c7dcd7b791840db895_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;602&#39; height=&#39;537&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"602\" data-rawheight=\"537\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"602\" data-original=\"https://pic2.zhimg.com/v2-abfaf2318b2878c7dcd7b791840db895_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-abfaf2318b2878c7dcd7b791840db895_b.jpg\"/></figure><h2><b>正文开始</b></h2><p>扫描 WiFi 信号</p><div class=\"highlight\"><pre><code class=\"language-bash\">nmcli dev wifi</code></pre></div><p>连接 WiFi </p><div class=\"highlight\"><pre><code class=\"language-text\">sudo nmcli dev wifi connect wifi_name password 12345678</code></pre></div><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-0af0ccb4f5b8cb27fd2b70e79133d28a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"290\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-0af0ccb4f5b8cb27fd2b70e79133d28a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;290&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"290\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-0af0ccb4f5b8cb27fd2b70e79133d28a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-0af0ccb4f5b8cb27fd2b70e79133d28a_b.jpg\"/></figure><p>查看连接WiFi后的IP地址</p><div class=\"highlight\"><pre><code class=\"language-text\">ifconfig</code></pre></div><p>使用新IP地址连接Jetson Nano, 在PC命令行执行：</p><div class=\"highlight\"><pre><code class=\"language-text\">ssh -p 22 jetbot@192.168.1.110</code></pre></div><p>或者用PuTTY等软件进行连接。推荐使用全能终端 MobaXterm。</p><p>完成。</p>", 
+            "topic": [
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "命令行界面（CLI）", 
+                    "tagLink": "https://api.zhihu.com/topics/19584946"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64823347", 
+            "userName": "钛创客", 
+            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+            "upvote": 5, 
+            "title": "Jetson Nano 风扇调速", 
+            "content": "<p>英伟达推荐Jetson Nano使用的风扇型号是<b>NF-A4x20 5V PWM，</b>淘宝110可以买到。</p><p>该猫头鹰品牌的风扇很贵，可以用<b>钛创客</b>的风扇代替，除了颜色不一样，其他参数基本相同，价格却只有十分之一。</p><a href=\"https://link.zhihu.com/?target=https%3A//shop214630955.taobao.com/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-516e402a1d4dc95d34a294a757130e04_180x120.jpg\" data-image-width=\"950\" data-image-height=\"120\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">首页-钛创客-淘宝网</a><p>风扇主要参数：</p><p>尺寸：40*40*20 mm</p><p>供电：5 V</p><p>最大电流：0.1 A</p><p>最大功率：0.5 W</p><p>转速：5000 转/分</p><p>接口：4脚</p><p>广告吹完了，下面是正题。</p><p><b>注意：</b><i>电脑主板的风扇接口通常是3脚或者4脚，3脚风扇是电压调节速度，4脚风扇才支持PWM调速，本教程只讲解4脚风扇的PWM调速。</i></p><p><i>如有以为，加QQ群找群主或者加群主微信。</i></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"541\" data-rawheight=\"741\" class=\"origin_image zh-lightbox-thumb\" width=\"541\" data-original=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;541&#39; height=&#39;741&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"541\" data-rawheight=\"741\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"541\" data-original=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_b.jpg\"/></figure><figure data-size=\"small\"><noscript><img src=\"https://pic3.zhimg.com/v2-611f717eab9d4cf111e9134cddeb859a_b.jpg\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"752\" data-rawheight=\"974\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic3.zhimg.com/v2-611f717eab9d4cf111e9134cddeb859a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"752\" data-rawheight=\"974\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic3.zhimg.com/v2-611f717eab9d4cf111e9134cddeb859a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-611f717eab9d4cf111e9134cddeb859a_b.jpg\"/></figure><h2><b>Jetson Nano 风扇调速</b></h2><p>执行下面命令, ：</p><div class=\"highlight\"><pre><code class=\"language-bash\"><span class=\"nb\">cd</span> /etc\nsudo touch rc.local\nsudo chmod u+x rc.local\nsudo gedit rc.local <span class=\"c1\">#gedit是编辑器，可以根据个人爱好更换，通常的编辑器有nano,gedit,vim</span> </code></pre></div><p>然后填入下面内容：</p><div class=\"highlight\"><pre><code class=\"language-bash\"><span class=\"cp\">#!/bin/bash\n</span><span class=\"cp\"></span>sleep <span class=\"m\">10</span>\nsudo /usr/bin/jetson_clocks\nsudo sh -c <span class=\"s1\">&#39;echo 255 &gt; /sys/devices/pwm-fan/target_pwm&#39;</span></code></pre></div><p>上面的255就是风扇的PWM，可以设置的范围是0~255。设置为0关闭风扇，设置255风扇速度最大。</p><p>重启Jetson Nano, 那么风扇速度就改变了。</p><p>下次再修改风扇速度，可以执行下面命令：</p><div class=\"highlight\"><pre><code class=\"language-bash\"><span class=\"c1\">#临时修改风扇速度，但是下次开机会回复默认速度。</span>\nsudo sh -c <span class=\"s1\">&#39;echo 255 &gt; /sys/devices/pwm-fan/target_pwm&#39;</span> \n<span class=\"c1\">#如果想下次开机不恢复默认速度，那么还需要修改默认开机速度，请执行下面命令:</span>\n<span class=\"nb\">cd</span> /etc\nsudo gedit rc.local <span class=\"c1\">#gedit是编辑器，可以根据个人爱好更换，通常的编辑器有nano,gedit,vim</span> \n<span class=\"c1\">#修改速度值后保存退出</span></code></pre></div><p>查看风扇PWM</p><div class=\"highlight\"><pre><code class=\"language-text\">sudo jetson_clocks --show</code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "开发板", 
+                    "tagLink": "https://api.zhihu.com/topics/19883423"
+                }, 
+                {
+                    "tag": "NVIDIA Tegra", 
+                    "tagLink": "https://api.zhihu.com/topics/19883265"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "怪兽君", 
+                    "userLink": "https://www.zhihu.com/people/931e83ed30ee032202a7d979e05b7a82", 
+                    "content": "提示 nano command not found是咋回事啊", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "钛创客", 
+                            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+                            "content": "<p>nano是一个编辑器，默认ubuntu没有安装，用这个命令安装下：sudo apt-get install nano, 你也可以换为别的编辑器比如gedit代替nano</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "怪兽君"
+                        }, 
+                        {
+                            "userName": "钛创客", 
+                            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+                            "content": "执行哪个语句？", 
+                            "likes": 0, 
+                            "replyToAuthor": "怪兽君"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62501901", 
+            "userName": "钛创客", 
+            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+            "upvote": 52, 
+            "title": "零基础玩转AI小车Jetbot—基于Jetson Nano", 
+            "content": "<h2><b>前言</b></h2><p>前段时间英伟达发布了一款开发板 Jetson Nano, 价格只需$99，相当于3个树莓派或者一个RK3399, 性能却完爆它们。</p><p>相对于树莓派，RK3399, NanoPi, OrangePi等开发板，Jetson Nano 有以下优点：</p><ul><li>强大的GPU用于机器学习。这是最重要的功能，其他开发板所不能比的！</li><li>兼容树莓派周边设备。</li><li>支持TensorFlow, Pytorch等众多机器学习框架。</li><li>预装Ubuntu18, 内置Cuda, Opencv等，做机器视觉很方便。也可以作为ROS开发平台。</li><li>便宜。和TX1, TX2相比，Nano便宜太多，学生也能负担得起。</li><li>超小。核心板非常小，加上底板也只比树莓派大一圈而已。嵌入机器人更方便。</li><li>CPU是A57（树莓派A53）</li><li>内存是4G（树莓派1G），并且Nano是外置内存，说不定可以升级为8G, 16G？</li><li>外置无线网卡M2接口，可接千兆无线网卡(树莓派的板载无线，那个PCB天线速度慢的一笔，怎么传4K视频？)</li><li>4*USB3.0(树莓派4*USB2.0)</li></ul><p>总的来说，这款开发板物超所值，性价比非常高，树莓派能干的 Jetson Nano 也能干，树莓派不能干的事情，Jetson Nano 反而更擅长(GPU加速)，还有什么理由不入坑。</p><p>英伟达为了让更多开发者轻松入门 Jetson Nano, 开发Jetbot机器人，并在发布会上进行了演示。</p><h2><b>Jetbot 机器学习入门项目</b></h2><p>Jetbot 是一款入门级人工智能小车，能够通过摄像头自主识别障碍物并避开，还可以进行人脸识别，目标检测等等。目前 Jetbot 项目在 Github 上有将近 600 个 start, 该项目也成为了Jetson Nano 入门的首选实战项目。</p><p>Github传送门：</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/NVIDIA-AI-IOT/jetbot/wiki/Bill-of-Materials\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-3faae4f1269824ae0b45659c86b6b873_ipico.jpg\" data-image-width=\"174\" data-image-height=\"174\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">NVIDIA-AI-IOT/jetbot</a><h2><b>硬件购买及组装</b></h2><p>在Github上官方已经给出了所有物料配件，并给出推荐购买链接。如果完全按照官方推荐的购买几乎不可能。比如国内买不到适配60mm的轮子，不但在国内，在世界各地其他地方想拼凑一套Jetbot是很困难的。除了配件买不到，组装也困难，需要有电烙铁焊接，需要剥开数据线之类的，最后拼凑起来，非常Hack的一种DIY方式，不但价格贵还费时费力，对不了解硬件的人来说非常不友好，违背了专注于机器学习的初衷。读下issue里面的问题就知道了。</p><p>先让小车跑起来！</p><p>由于在组装官方方案的时候遇到了困难，我优化了官方的一些地方，让组装变得非常简单，无需任何硬件基础，只需安装好小车接上线可以让小车跑起来。已经有上百人通过该方法成功让小车跑起来，并可以立刻使用官方机器学习例程进行学习。这里要表扬下官方的wiki教程，如何跑例子程序写得非常详细。</p><p>钛创客淘宝店可以购买到全套的配件，在宝贝详情页可以看到全套配件表格，以及一些说明。</p><p>下面是购买二维码，保存到手机，淘宝扫一扫就能找到。</p><a href=\"https://link.zhihu.com/?target=https%3A//shop214630955.taobao.com\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-516e402a1d4dc95d34a294a757130e04_180x120.jpg\" data-image-width=\"950\" data-image-height=\"120\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">首页-钛创客-淘宝网</a><figure data-size=\"small\"><noscript><img src=\"https://pic4.zhimg.com/v2-fe7e10f0c953176fe44219525092d9a3_b.jpg\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"780\" data-rawheight=\"1356\" class=\"origin_image zh-lightbox-thumb\" width=\"780\" data-original=\"https://pic4.zhimg.com/v2-fe7e10f0c953176fe44219525092d9a3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;780&#39; height=&#39;1356&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"780\" data-rawheight=\"1356\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"780\" data-original=\"https://pic4.zhimg.com/v2-fe7e10f0c953176fe44219525092d9a3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-fe7e10f0c953176fe44219525092d9a3_b.jpg\"/></figure><p>该方案和官方方案的区别：</p><ul><li>该方案是一体式设计，开箱即用。官方是到处购买零散配件进行组装拼接。</li><li>该方案基于官方的是65mm轮子，官方推荐的是60mm轮子（不是通用的轮子，淘宝买不到，因此官方更新了65mm的模型）</li><li>该方案的电机驱动板集成了电源管理器，所以既能用充电宝给Jetbot供电也可以通过锂电池给Jetbot供电，官方只能通过充电宝供电。多说一句，电源供电重中之重，一定要选优质电源，Nano最低电压是4.75V, 并且在启动的时候消耗非常大的电流，而且对电源的纹波要求也非常高，市面上的5V2A电源不一定能满足。有些充电宝也带不起Nano, 我的20000毫安罗马仕就不行，垃圾。该方案的用3支18650锂电池串联12V供电（电压输入范围6-24V），在CPU满负荷下可以跑2个小时。</li><li>该方案带I2C转接板，预留各种接口，以后可以添加其他设备，官方不留接口。</li><li>该方案只在硬件层面改动，软件方面完全和官方一样。</li></ul><p>让 Jetbot 跑起来只需三步：</p><ul><li>组装 Jetbot</li><li>Jetbot 联网</li><li>浏览器打开 Jetbot 的IP</li></ul><p>到这里就可以看到Jetbot的代码了，点击程序运行按钮，那么Jetbot就会跑起来了。</p><h2><b>组装一台 Jetbot 需要什么配件？</b></h2><p><b>必须的配件有：</b></p><ul><li>基础套件。包含了4个小车3D模型打印件，2个电机和轮子，电机驱动板，双弯头USB数据线，万向轮（球），OLED屏幕，I2C转接板，以及各种配套的线，螺丝等配件。有了基础套件，那么就能够组装出一台小车了。</li><li>Jetson Nano 开发板。</li><li>Raspberry Pi v2 摄像头外加一个160°广角镜头模组。Jetbot 目前只支持该款，其他摄像头和镜头一律不支持，购买的时候注意了。官方采集摄像头数据的时候使用的就是这款摄像头，训练出来的模型对摄像头和镜头有依赖，如果你更换了摄像头和镜头，那么跑避障程序的时候可能会出问题。除非你用自己的摄像头采集数据并训练自己避障模型，那么你可以使用USB摄像头和其他广角镜头。对新手来说，买官方推荐的吧，可以省去不必要的麻烦。</li><li>无线网卡。官方推荐intel 8265AC无线网卡，双频1200M，支持蓝牙。当然也可以用USB无线网卡代替。intel 8265AC需要拆开nano才能安装，并且天线需要固定，有点麻烦，好处是信号强网速高。USB无线网卡网速慢信号弱，但是使用方便，通常树莓派支持的网卡到可以免驱，但是有一些是垃圾网卡，千万不要买。比如EDUP EP-N8508GS，可以用但是网速只有几百kb，而且使用jetbot的时候经常断网。因此USB网卡可以作为备用。</li><li>TF卡。Jetbot镜像非常大，需要使用64G以上内存卡才行。推荐闪迪128G高速卡，写入速度要90M以上。有客户开机一直黑屏，以为板子坏了，实际上是用了低速卡导致的，等了半小时屏幕才出图像。</li><li>18650锂电池或者充电宝。3节18650锂电池同时给电机驱动板和Jetson Nano开发板供电，可以运行2个小时。充电宝的厚度不要超过20mm, 不然塞不进jetbot。</li></ul><p><b>安装风扇</b></p><p>注意：</p><p>由于Nano的散热器是不带螺纹，因此配备的螺丝要比散热器的孔大一点，并且要大力才能拧进去。如果你发现拧不进去不是螺丝不够长，而是力气还不够大（给金属攻牙能不用力气嘛）。有客户觉得拧螺丝麻烦，就用扎带扎。(英伟达估计是忘记给散热器攻牙)</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6c467b51b79254f6eff44ff1cc8c1d7d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic2.zhimg.com/v2-6c467b51b79254f6eff44ff1cc8c1d7d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic2.zhimg.com/v2-6c467b51b79254f6eff44ff1cc8c1d7d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6c467b51b79254f6eff44ff1cc8c1d7d_b.jpg\"/></figure><p>安装I2C转接座</p><p>安装方法如下图，引脚名字在Nano板子上和板子底部到有名字的，转接板上也要对应名字。</p><p><b>注意：新版本的电机驱动需要按照下面方法接线，不要和旧版的混淆，否则烧坏oled屏幕。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4b60c5251e43b531bf622367b1824408_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pic1.zhimg.com/v2-4b60c5251e43b531bf622367b1824408_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1440&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1440\" data-original=\"https://pic1.zhimg.com/v2-4b60c5251e43b531bf622367b1824408_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4b60c5251e43b531bf622367b1824408_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1c6680e66088702ecad9f5aa8a66fa6a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pic3.zhimg.com/v2-1c6680e66088702ecad9f5aa8a66fa6a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1440&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1440\" data-original=\"https://pic3.zhimg.com/v2-1c6680e66088702ecad9f5aa8a66fa6a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1c6680e66088702ecad9f5aa8a66fa6a_b.jpg\"/></figure><p><b>注意：旧版电机驱动板还配备了6脚的增高座，插上去就不会和风扇接口冲突了。旧版本的电机驱动需要按照下面方法接线</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-bb379d6e3eac30596b1a8688787ceea3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-bb379d6e3eac30596b1a8688787ceea3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-bb379d6e3eac30596b1a8688787ceea3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-bb379d6e3eac30596b1a8688787ceea3_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-55de70d1e010db9fd28ea02d4745d006_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-55de70d1e010db9fd28ea02d4745d006_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-55de70d1e010db9fd28ea02d4745d006_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-55de70d1e010db9fd28ea02d4745d006_b.jpg\"/></figure><p>安装电机驱动板</p><p>2个电机接口，顺序随便接，后面跑官方测试程序看小车运行方向是否一致再调整。</p><p>电源接口旁边的黄色跳线帽可以接开关，控制锂电池供电。</p><p>下图是锂电池供电方法。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d1b6bc8ebf3b1b2b8af527d0394747e2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-d1b6bc8ebf3b1b2b8af527d0394747e2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-d1b6bc8ebf3b1b2b8af527d0394747e2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-d1b6bc8ebf3b1b2b8af527d0394747e2_b.jpg\"/></figure><p>如果用充电宝供电，安装下图接法。不用接锂电池，将充电宝的一个usb线接到电机控制板底部的MicroUSB接口就可以了。</p><figure data-size=\"small\"><noscript><img src=\"https://pic3.zhimg.com/v2-fb8c11497ae8554d2ec5ad4d886bc566_b.jpg\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-fb8c11497ae8554d2ec5ad4d886bc566_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"4032\" data-rawheight=\"3024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-fb8c11497ae8554d2ec5ad4d886bc566_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-fb8c11497ae8554d2ec5ad4d886bc566_b.jpg\"/></figure><h2><b>软件：启动与基本控制</b></h2><p>1.烧录网盘的镜像</p><p>需要准备一张64G以上的TF卡，推荐使用闪迪128G高速TF卡(黑色卡或者黄色卡)，镜像烧录方法见上一篇文章。</p><p>可以选择烧录官方63G镜像，也可以选择烧录钛创客的59G镜像。钛创客的镜像优化了一些Ubuntu系统的配置，Jetson Nano连接好网络之后，oled屏幕会显示IP地址，在你的PC电脑的浏览器上输入&#34;<b>IP地址:8888</b>&#34;(例如<b>192.168.1.110:8888</b>)就能看到官方提供的例子程序，点击执行按钮就能直接跑起来。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>关于Jetson Nano 和 Jetbot的所有资料都在百度网盘：</p><p>链接：<a href=\"https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1VyomyQpsXcq_I-U2G5LCBg\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">pan.baidu.com/s/1VyomyQ</span><span class=\"invisible\">psXcq_I-U2G5LCBg</span><span class=\"ellipsis\"></span></a> 提取码：2c2w  复制这段内容后打开百度网盘手机App，操作更方便哦</p><p>如果遇到困难，请加企鹅群交流：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"541\" data-rawheight=\"741\" class=\"origin_image zh-lightbox-thumb\" width=\"541\" data-original=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;541&#39; height=&#39;741&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"541\" data-rawheight=\"741\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"541\" data-original=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "树莓派（Raspberry Pi）", 
+                    "tagLink": "https://api.zhihu.com/topics/19737690"
+                }, 
+                {
+                    "tag": "TensorFlow", 
+                    "tagLink": "https://api.zhihu.com/topics/20032249"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "lilelife", 
+                    "userLink": "https://www.zhihu.com/people/9edef553cabec7cceeb98f2e711bdf7b", 
+                    "content": "楼主推荐用什么摄像头？", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "钛创客", 
+                            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+                            "content": "<p>用官方推荐的不折腾，树莓派摄像头V2.1, 800万像素，并且要配160度广角镜头</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "lilelife"
+                        }, 
+                        {
+                            "userName": "钛创客", 
+                            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+                            "content": "imx219，树莓派那个，800万像素", 
+                            "likes": 0, 
+                            "replyToAuthor": "lilelife"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "听竹先生", 
+                    "userLink": "https://www.zhihu.com/people/a2def451a820289ee51d2449ef73a051", 
+                    "content": "用来跑模型效果怎么样", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "钛创客", 
+                            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+                            "content": "做边缘计算很好用，4g内存可以跑很多模型了", 
+                            "likes": 0, 
+                            "replyToAuthor": "听竹先生"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "往上", 
+                    "userLink": "https://www.zhihu.com/people/a2005c86803c183d62c27863a0010814", 
+                    "content": "<p>arm64有点坑爹 很多软件没有编译好的，apt源慢且能换的源也稀少。总之对于(linux)初学者容易在初期陷入一些奇怪的坑里，不能专注开发</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60328851", 
+            "userName": "钛创客", 
+            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+            "upvote": 28, 
+            "title": "Jetson Nano 开发者套件入门", 
+            "content": "<h2>Jetson Nano 开发者套件入门教程</h2><ul><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E4%BB%8B%E7%BB%8D\" class=\"internal\">介绍</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E7%9B%92%E5%AD%90%E5%8C%85%E5%90%AB%E7%9A%84%E7%89%A9%E5%93%81\" class=\"internal\">盒子包含的物品</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E4%B8%8D%E5%8C%85%E6%8B%AC%E7%9A%84%E7%89%A9%E5%93%81\" class=\"internal\">不包括的物品</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E5%AE%89%E8%A3%85%E5%87%86%E5%A4%87\" class=\"internal\">安装准备</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E5%87%86%E5%A4%87%E5%BC%80%E5%A7%8B%E6%89%80%E9%9C%80%E7%89%A9%E5%93%81\" class=\"internal\">准备开始所需物品</a><br/> </li><ul><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#microSD-%E5%8D%A1\" class=\"internal\">microSD 卡</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#Micro-USB-%E7%94%B5%E6%BA%90\" class=\"internal\">Micro-USB 电源</a><br/></li></ul><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E5%8F%AF%E9%80%89%E7%89%A9%E5%93%81\" class=\"internal\">可选物品</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E5%B0%86%E9%95%9C%E5%83%8F%E5%86%99%E5%85%A5-microSD-%E5%8D%A1\" class=\"internal\">将镜像写入 microSD 卡</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#Windows-%E4%BB%8B%E7%BB%8D\" class=\"internal\">Windows 介绍</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#Mac-%E4%BB%8B%E7%BB%8D\" class=\"internal\">Mac 介绍</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#Linux-%E4%BB%8B%E7%BB%8D\" class=\"internal\">Linux 介绍</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E5%AE%89%E8%A3%85%E5%92%8C%E9%A6%96%E6%AC%A1%E5%90%AF%E5%8A%A8\" class=\"internal\">安装和首次启动</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E5%AE%89%E8%A3%85%E6%AD%A5%E9%AA%A4\" class=\"internal\">安装步骤</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E9%A6%96%E6%AC%A1%E5%90%AF%E5%8A%A8\" class=\"internal\">首次启动</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E5%9C%A8%E7%99%BB%E5%BD%95%E4%B9%8B%E5%90%8E\" class=\"internal\">在登录之后</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E4%B8%8B%E4%B8%80%E6%AD%A5\" class=\"internal\">下一步</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E6%89%BE%E5%88%B0%E4%BD%A0%E7%9A%84%E6%96%B9%E5%BC%8F\" class=\"internal\">找到你的方式</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E9%A1%B9%E7%9B%AE%E5%92%8C%E5%AD%A6%E4%B9%A0\" class=\"internal\">项目和学习</a><br/> </li><li><a href=\"https://zhuanlan.zhihu.com/p/60328851/edit#%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4\" class=\"internal\">故障排除</a><br/> </li></ul><h2>介绍</h2><h3>简介</h3><p>NVIDIA® Jetson Nano™ 开发者套件是一台适用于创客，学习者和开发人员的小型人工智能计算机。 按照这个简要的指导之后，你就可以开始构建实际的人工智能应用程序，很酷的人工智能机器人等等。 </p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-fd06b896530a515a7dc71d28f9c06f69_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"1044\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-fd06b896530a515a7dc71d28f9c06f69_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;1044&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"1044\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-fd06b896530a515a7dc71d28f9c06f69_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-fd06b896530a515a7dc71d28f9c06f69_b.jpg\"/></figure><ol><li> 用于主存储的 microSD 卡插槽<br/> </li><li> 40 个扩展引脚<br/> </li><li> 用于 5V 电源输入或数据传输的 Micro-USB 接口<br/> </li><li> 千兆以太网接口<br/> </li><li> USB 3.0 接口 (x4)<br/> </li><li> HDMI 输出接口<br/> </li><li> DisplayPort 连接器<br/> </li><li> 5V 外接直流电源插孔<br/> </li><li> MIPI CSI 相机连接器<br/> </li></ol><h3>盒子包含的物品</h3><p>你的 Jetson Nano 开发者套件盒子包含：</p><ul><li> Jetson Nano 开发者套件<br/> </li><li> 写有快速开始和技术支持信息的小卡片<br/> </li><li> 折叠纸支架<br/> </li></ul><h3>不包括的物品</h3><p>你还需要：</p><ul><li> microSD 卡(最小 16GB UHS-1)<br/> </li><li> USB 键盘和鼠标<br/> </li><li> 电脑显示器(HDMI 或者 DP)<br/> </li><li> Micro-USB 电源(5V⎓2A)<br/> </li></ul><p>开始之前，还需要能联网并且能够烧录 microSD 卡的电脑。</p><h2>安装准备</h2><h3>准备开始所需物品</h3><h3>microSD 卡</h3><p>Jetson Nano 开发者套件使用 microSD 卡作为一个引导设备和主存储器。 一个快速的，容量足够大的卡对你的项目很重要; 最低推荐是一个 16 GB UHS-1 卡。</p><p>请参阅以下说明，使用操作系统和软件烧录 microSD 卡。</p><h3>Micro-USB 电源</h3><p>您需要使用优质电源为开发者套件供电，该电源可提供开发者套件的 Micro-USB 端口需要的 5V⎓2A 电流。 并非所有额定电压为 &#34;5V⎓2A&#34; 的电源都能做到。</p><p>作为良好电源的一个例子，NVIDIA 已经过验证。</p><a href=\"https://link.zhihu.com/?target=https%3A//www.adafruit.com/product/1995\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-56714973d322d6c845b609b694c8861f_180x120.jpg\" data-image-width=\"480\" data-image-height=\"360\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">5V 2.5A Switching Power Supply with 20AWG MicroUSB Cable</a><p>它专门用于克服 USB 电源的常见问题；有关详细信息，请参阅链接的产品页。</p><blockquote><b>注意：</b><br/> USB 电源的规定功率输出能力可以在其标签上看到。<br/> USB 电源的实际供电能力确实有所不同。<br/> 请看看 <b>Jetson Nano 开发者套件用户指南</b>了解更多信息。<br/> </blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0caa7dbc450120542a477b48f6f15ab3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"942\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-0caa7dbc450120542a477b48f6f15ab3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;942&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"942\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-0caa7dbc450120542a477b48f6f15ab3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0caa7dbc450120542a477b48f6f15ab3_b.jpg\"/></figure><p><br/> 单击或点击图像查看特写。</p><h3>可选物品</h3><h3>无线网络适配器</h3><p>Jetson Nano 开发者套件有一个千兆以太网接口，但是也支持通用 USB 无线网络适配器，例如，Edimax EW-7811Un。</p><h2>将镜像写入 microSD</h2><p>要准备 microSD 卡，您需要一台具有 Internet 连接的计算机，并且能够通过内置的 SD 卡插槽或适配器读写 SD 卡。</p><ol><li> 下载 </li></ol><a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/embedded/dlc/jetson-nano-dev-kit-sd-card-image\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">JetsonNano 开发者 SD 卡镜像</a><p>, 并且清楚它保存在电脑的位置。<br/> </p><ol><li> 根据您使用的计算机类型，按照以下说明将图像写入 microSD 卡：Windows，Mac 或 Linux。<br/> </li><li> WINDOWS 介绍<br/> </li></ol><p>使用 SD Association 的 SD Memory Card Formatter 格式化 microSD 卡。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-536bb4a657e426da4620d8ed0dd50afb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"392\" data-rawheight=\"429\" class=\"content_image\" width=\"392\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;392&#39; height=&#39;429&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"392\" data-rawheight=\"429\" class=\"content_image lazy\" width=\"392\" data-actualsrc=\"https://pic4.zhimg.com/v2-536bb4a657e426da4620d8ed0dd50afb_b.jpg\"/></figure><ol><li> 下载, 安装, 并启动 </li></ol><a href=\"https://link.zhihu.com/?target=https%3A//www.sdcard.org/downloads/formatter_4/eula_windows/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-ef5bd63cf6c80cd9f5f931d31e1f7001_ipico.jpg\" data-image-width=\"171\" data-image-height=\"173\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">SD Memory Card Formatter for Windows Download</a><ol><li> 在 &#34;Select card&#34; 选择 SD 卡<br/> </li><li> 选择 &#34;Quick format&#34;<br/> </li><li> 让 &#34;Volume label&#34; 空白<br/> </li><li> 点击 “Format” 开始格式化, 并且在警告对话框选择 &#34;Yes&#34;<br/> </li></ol><p>使用 Etcher 将 Jetson Nano Developer Kit SD 卡图像写入 microSD 卡</p><ol><li>下载，安装和启动 </li></ol><a href=\"https://link.zhihu.com/?target=https%3A//www.balena.io/etcher\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-8006dca57323756b1b84fb9408742409_180x120.jpg\" data-image-width=\"1178\" data-image-height=\"264\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">balenaEtcher - Home</a><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-4869efc18dbdf9168cbd3c8cbf6fdaf1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"512\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb\" width=\"512\" data-original=\"https://pic2.zhimg.com/v2-4869efc18dbdf9168cbd3c8cbf6fdaf1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;512&#39; height=&#39;324&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"512\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"512\" data-original=\"https://pic2.zhimg.com/v2-4869efc18dbdf9168cbd3c8cbf6fdaf1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-4869efc18dbdf9168cbd3c8cbf6fdaf1_b.jpg\"/></figure><ol><li> 单击 &#34;Select image&#34;，然后选择之前下载的压缩图像文件。<br/> </li><li> 如果尚未插入 microSD 卡，请将其插入。如果 Windows 提示您使用如下对话框，请单击“ 取消”（根据<b><a href=\"https://link.zhihu.com/?target=https%3A//github.com/balena-io/etcher/issues/2024\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">此说明</a></b>）：<br/> </li></ol><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-83941e98608e51713c5fd02508136b36_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"352\" data-rawheight=\"170\" class=\"content_image\" width=\"352\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;352&#39; height=&#39;170&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"352\" data-rawheight=\"170\" class=\"content_image lazy\" width=\"352\" data-actualsrc=\"https://pic3.zhimg.com/v2-83941e98608e51713c5fd02508136b36_b.jpg\"/></figure><ol><li> 单击 &#34;Select drive&#34; 并选择正确的设备。<br/> </li><li> 点击 &#34;Flash！&#34; 如果您的 microSD 卡通过 USB3 连接，Etcher 将花费大约 10 分钟来写入并验证镜像。<br/> </li><li> Etcher 完成后，Windows 可能会让您知道它不知道如何读取 SD 卡。只需单击取消并移除 microSD 卡。</li></ol><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-83941e98608e51713c5fd02508136b36_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"352\" data-rawheight=\"170\" class=\"content_image\" width=\"352\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;352&#39; height=&#39;170&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"352\" data-rawheight=\"170\" class=\"content_image lazy\" width=\"352\" data-actualsrc=\"https://pic3.zhimg.com/v2-83941e98608e51713c5fd02508136b36_b.jpg\"/></figure><p>准备好 microSD 卡后，继续设置开发人员工具包。</p><ul><li>MAC 介绍</li><li>LINUX 介绍 </li></ul><p>准备好 microSD 卡后，继续设置开发人者套件。</p><h2>安装和首次启动</h2><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-fb71d3b4c5a30363838a88df415001c2_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"282\" data-thumbnail=\"https://pic3.zhimg.com/v2-fb71d3b4c5a30363838a88df415001c2_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-fb71d3b4c5a30363838a88df415001c2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;282&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"282\" data-thumbnail=\"https://pic3.zhimg.com/v2-fb71d3b4c5a30363838a88df415001c2_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-fb71d3b4c5a30363838a88df415001c2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-fb71d3b4c5a30363838a88df415001c2_b.gif\"/></figure><h3>安装步骤</h3><ol><li> 展开纸箱支架并放入开发者套件箱内。<br/> </li><li> 设置纸箱支架顶层的开发者套件。<br/> </li><li> 将 microSD 卡插入(已经写入系统镜像)位于 Jetson Nano 模块底部的槽中。    </li></ol><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-cc44935b61a19a45cc7a0e4a3264864a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"1090\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-cc44935b61a19a45cc7a0e4a3264864a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;1090&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"1090\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-cc44935b61a19a45cc7a0e4a3264864a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-cc44935b61a19a45cc7a0e4a3264864a_b.jpg\"/></figure><ol><li> 打开电脑显示器电源并连接它<br/> </li><li> 连接 USB 键盘和鼠标。<br/> </li><li> 连接 Micro-USB 电源（5V⎓2A）。 Jetson Nano 开发者套件将自动开机并启动。 </li></ol><h3>首次启动</h3><p>开发者套件开机后，Micro-USB 连接器旁边的绿色 LED 指示灯将亮起。当您第一次启动时，Jetson Nano 开发者套件将引导您完成一些初始设置，包括：</p><ul><li> 阅读并接受 NVIDIA Jetson 软件 EULA<br/> </li><li> 选择系统语言，键盘布局和时区<br/> </li><li> 创建用户名，密码和计算机名称<br/> </li><li> 登录 </li></ul><h3>登录之后</h3><p>你会看到这个屏幕。恭喜！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d295368d638b92644a5ef8fff05441f8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"675\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-d295368d638b92644a5ef8fff05441f8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;675&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"675\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-d295368d638b92644a5ef8fff05441f8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d295368d638b92644a5ef8fff05441f8_b.jpg\"/></figure><h2>下一步</h2><h3>找到你的方式</h3><ul><li> 阅读 <b><a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/embedded/dlc/jetson-nano-dev-kit-user-guide\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Jetson Nano 开发者套件用户指南</a></b>，它包括：<br/> </li><li> 关于开发者套件硬件的更多细节<br/> </li><li> NVIDIA JetPack 所有组件的说明，包括支持交叉编译的开发者工具。<br/> </li><li> 所有包含的例程和例程文档的列表。<br/> </li><li> 前往 <b><a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/jetson\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">NVIDIA Jetson 开发者专区</a></b> 访问所有 Jetson 平台信息。<br/> </li><li> 在 <b><a href=\"https://link.zhihu.com/?target=https%3A//devtalk.nvidia.com/default/board/372/jetson-projects/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">NVIDIA Jetson 论坛</a></b> 上提问或分享项目。</li></ul><h3>项目和学习</h3><p>Jetson Nano 开发者套件是一款用于学习和制作的 AI 计算机。</p><ul><li> 查看 <b><a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/embedded/community/jetson-projects\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Jetson 项目页面</a></b> 以获取资源，包括：<br/> </li><li><b><a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/embedded/twodaystoademo%23hello_ai_world\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Hello AI World</a></b><br/> </li><ul><li> 开始使用预训练模型进行图像分类和对象检测的计算机视觉深度学习推理。<br/> </li><li> 使用 TensorRT 和直播相机进行实时加速。<br/> </li><li> 用 C++ 编写自己的识别程序。<br/> </li><li> 对于那些有兴趣训练他们自己的网络的人，请参加完整的两天演示，其中包括训练和推理。</li></ul><br/><li><b><a href=\"https://link.zhihu.com/?target=https%3A//github.com/NVIDIA-AI-IOT/jetbot\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">JetBot</a></b> 是一个开源的 AI 项目，面向有兴趣学习 AI 和构建有趣应用程序的创客，学生和发烧友。<br/> </li><ul><li> 它易于安装和使用，并与许多流行的配件兼容。<br/> </li><li> 几个交互式教程向您展示如何利用 AI 的力量教 JetBot 跟踪对象，避免碰撞等。<br/> </li><li> JetBot 是用于创建全新 AI 项目的出色启动板。<br/> </li></ul><li> 创建你自己的！<br/> </li><li> Jetson Nano 开发者套件提供了有用的工具，如 Jetson GPIO Python 库，兼容常见的传感器和外围设备，包括许多来自 adafruit 和 raspberry pi 的设备。<br/> </li><li> 支持许多流行的 AI 框架，如 TensorFlow，PyTorch，Caffe 和 MXNet，Jetson Nano 能够并行运行多个神经网络来处理数据和驱动器。</li></ul><h2>故障排除</h2><h3>电源</h3><p>如果你无法启动你的 Jetson Nano 开发者套件，问题可能出在你的 USB 电源上。请使用一个优质电源，比如<b><a href=\"https://link.zhihu.com/?target=https%3A//www.adafruit.com/product/1995\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这个</a></b>。</p><p>使用优质电源线连接电源和开发套件也很重要：</p><ul><li> 使用永久连接电源的电源是很好的。<br/> </li><li> 较短的电缆会更低较小的电压。</li></ul><h3>显示</h3><p>不支持 HDMI 转 DVI 适配器。请使用接受 HDMI 或 DP 输入的显示器。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>Jetson Nano 镜像已上传百度云：</h2><p><b>链接：</b></p><a href=\"https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/10Rf2feDlgyOF00NWLpZb6Q\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">pan.baidu.com/s/10Rf2fe</span><span class=\"invisible\">DlgyOF00NWLpZb6Q</span><span class=\"ellipsis\"></span></a><p><b>提取码：eopy </b></p><h2><b>技术交流请加QQ群：974447094</b></h2><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"541\" data-rawheight=\"741\" class=\"origin_image zh-lightbox-thumb\" width=\"541\" data-original=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;541&#39; height=&#39;741&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"541\" data-rawheight=\"741\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"541\" data-original=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-2b664b4840b98bba7b0f7907d5289e45_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "树莓派（Raspberry Pi）", 
+                    "tagLink": "https://api.zhihu.com/topics/19737690"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Duan", 
+                    "userLink": "https://www.zhihu.com/people/e8b8ae1fb39b136faf901a04b194b114", 
+                    "content": "您好，想问下nano可以直接ros开发么，还是需要刷机Ubuntu", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "钛创客", 
+                            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+                            "content": "<p>nano本身就是ubuntu18系统，可以当桌面电脑用，非常合适跑ROS</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "Duan"
+                        }, 
+                        {
+                            "userName": "Duan", 
+                            "userLink": "https://www.zhihu.com/people/e8b8ae1fb39b136faf901a04b194b114", 
+                            "content": "<p>感谢！还想问下您，nano跑vslam(如orbslam2)实时性怎么样呢？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "钛创客"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "luck fu", 
+                    "userLink": "https://www.zhihu.com/people/e460b609ed3cb817383e86b5def8e65a", 
+                    "content": "我想知道nano跑起简单的keras项目，大概能对标intel多少的cpu", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "钛创客", 
+                            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+                            "content": "<p>还没跑过keras</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "luck fu"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "一生划船不用桨", 
+                    "userLink": "https://www.zhihu.com/people/48fb48c56f53c15ef0b96df8ad8c25ec", 
+                    "content": "<p>博主你好,我想问下,如何给GPU余出来显存啊?</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "钛创客", 
+                            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+                            "content": "<p>GPU和CPU是共用内存的，因此系统剩余内存就是GPU的剩余内存。推荐指令使用top, jtop, htop指令显示</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "一生划船不用桨"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "qqqzmy", 
+                    "userLink": "https://www.zhihu.com/people/edf91b5d5bb58142a2c4704f03905afc", 
+                    "content": "楼主，在nano上面对模型加速有做过吗？比如模型量化，剪枝？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "钛创客", 
+                            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+                            "content": "<p>Jetbot 用到了tensorrtt加速，其他我没有做过</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "qqqzmy"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "qqqzmy", 
+                    "userLink": "https://www.zhihu.com/people/edf91b5d5bb58142a2c4704f03905afc", 
+                    "content": "还有就是能否像树莓派一样，用网线连笔记本，然后用远程桌面或者ssh开发？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "钛创客", 
+                            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+                            "content": "<p>树莓派对RealVNC非常好用，但是不支持nano, 在nano上xrdp可以远程桌面，但是不是原生的，并且需要消耗非常大的带宽，不好用。现在我基本是直接连HDMI屏幕当电脑用，或者进行ssh连接，并用winscp复制文件</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "qqqzmy"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "嵌入式研究生", 
+                    "userLink": "https://www.zhihu.com/people/61608a394d7f92810b0063c8bbe0f61e", 
+                    "content": "您好，请问您用什么编程nano？python还是c++？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "钛创客", 
+                            "userLink": "https://www.zhihu.com/people/b22422e63dac98f71183efa353849f87", 
+                            "content": "它就是一台Linux电脑，支持所有语言。做深度学习一般都是用Python", 
+                            "likes": 0, 
+                            "replyToAuthor": "嵌入式研究生"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1093559321706819584"
+}

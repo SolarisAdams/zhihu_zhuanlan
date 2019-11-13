@@ -1,0 +1,402 @@
+{
+    "title": "荷鲁斯之眼", 
+    "description": "关注人工智能，机器视觉，无人驾驶方向。个人学习使用，转载请联系。", 
+    "followers": [
+        "https://www.zhihu.com/people/norton-91", 
+        "https://www.zhihu.com/people/feng-si-yu-88", 
+        "https://www.zhihu.com/people/wang-jing-bo-27-88", 
+        "https://www.zhihu.com/people/halo-12-81", 
+        "https://www.zhihu.com/people/zhao-da-peng-89", 
+        "https://www.zhihu.com/people/leef-62", 
+        "https://www.zhihu.com/people/da-lian-tu-zi-guai", 
+        "https://www.zhihu.com/people/niluo-hao-tian-ck-49", 
+        "https://www.zhihu.com/people/xchen-14-22", 
+        "https://www.zhihu.com/people/cheng-de-12", 
+        "https://www.zhihu.com/people/choiyeren", 
+        "https://www.zhihu.com/people/feng-xing-long-5", 
+        "https://www.zhihu.com/people/chen-shuai-87-4", 
+        "https://www.zhihu.com/people/zhang-david-43", 
+        "https://www.zhihu.com/people/ke-ai-42-76", 
+        "https://www.zhihu.com/people/yi-qie-jie-zai-ai-yi-zhong", 
+        "https://www.zhihu.com/people/juliet-74-58", 
+        "https://www.zhihu.com/people/yu-lu-4-37-65", 
+        "https://www.zhihu.com/people/xi-man-chen-7", 
+        "https://www.zhihu.com/people/yujiehe97", 
+        "https://www.zhihu.com/people/liu-xiao-sheng-27", 
+        "https://www.zhihu.com/people/ltstar", 
+        "https://www.zhihu.com/people/jx-hu-82", 
+        "https://www.zhihu.com/people/guo-bu-gao-30", 
+        "https://www.zhihu.com/people/chen-xiao-zheng-14", 
+        "https://www.zhihu.com/people/shen-1987", 
+        "https://www.zhihu.com/people/hanson-tian-34", 
+        "https://www.zhihu.com/people/chen-long-45-21", 
+        "https://www.zhihu.com/people/luzo", 
+        "https://www.zhihu.com/people/cjpan-73", 
+        "https://www.zhihu.com/people/uniqueit", 
+        "https://www.zhihu.com/people/ke-wu-88", 
+        "https://www.zhihu.com/people/hao-ren-79-93", 
+        "https://www.zhihu.com/people/hanspond", 
+        "https://www.zhihu.com/people/Jeffzzf", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/bai_62868", 
+        "https://www.zhihu.com/people/Yates-Liew", 
+        "https://www.zhihu.com/people/ryanaltair", 
+        "https://www.zhihu.com/people/ban-meng-ban-xing-de-gan-xian-sen", 
+        "https://www.zhihu.com/people/tyter_zcc_jn", 
+        "https://www.zhihu.com/people/XianYu_Hil", 
+        "https://www.zhihu.com/people/kylin-sherlock", 
+        "https://www.zhihu.com/people/ding-yu-cong", 
+        "https://www.zhihu.com/people/li-hong-guang", 
+        "https://www.zhihu.com/people/zhang-zhi-guang-77", 
+        "https://www.zhihu.com/people/ding-hua-wen", 
+        "https://www.zhihu.com/people/chai-mao-78", 
+        "https://www.zhihu.com/people/yang-yang-62-32", 
+        "https://www.zhihu.com/people/a-yang-19", 
+        "https://www.zhihu.com/people/ni-hao-mei-nu-67", 
+        "https://www.zhihu.com/people/ha-ha-ha-13-5", 
+        "https://www.zhihu.com/people/yang-zhen-yu-26-30", 
+        "https://www.zhihu.com/people/66666666-98-80", 
+        "https://www.zhihu.com/people/mrx-78-12", 
+        "https://www.zhihu.com/people/lee-77-22-60", 
+        "https://www.zhihu.com/people/dabingzi1990", 
+        "https://www.zhihu.com/people/bao-po-56-49", 
+        "https://www.zhihu.com/people/zhou-yin-75-81", 
+        "https://www.zhihu.com/people/xu-min-xing", 
+        "https://www.zhihu.com/people/jin-wen-tong", 
+        "https://www.zhihu.com/people/hua-kai-ji-xiang-25", 
+        "https://www.zhihu.com/people/jason-44-28-3", 
+        "https://www.zhihu.com/people/lu-wen-jian-67", 
+        "https://www.zhihu.com/people/peng-yao-xing-79", 
+        "https://www.zhihu.com/people/qing-gong-zdyshui-shang-piao", 
+        "https://www.zhihu.com/people/shan-he-yi-jiu", 
+        "https://www.zhihu.com/people/wu-ming-xiao-zu-47-36", 
+        "https://www.zhihu.com/people/zhao-sheng-60-41", 
+        "https://www.zhihu.com/people/zhupeng-5", 
+        "https://www.zhihu.com/people/aglice-39", 
+        "https://www.zhihu.com/people/yi-ke-shu-11-83", 
+        "https://www.zhihu.com/people/maseratiGT", 
+        "https://www.zhihu.com/people/yoing-63", 
+        "https://www.zhihu.com/people/zzz-zzz-91", 
+        "https://www.zhihu.com/people/tuo-luo-ci-ji-86", 
+        "https://www.zhihu.com/people/zhang-dudu-26", 
+        "https://www.zhihu.com/people/beskcom", 
+        "https://www.zhihu.com/people/yanweiyin", 
+        "https://www.zhihu.com/people/chen-zhao-wei-16-2", 
+        "https://www.zhihu.com/people/cheng-chao-53", 
+        "https://www.zhihu.com/people/min-zh-24", 
+        "https://www.zhihu.com/people/xiao-gua-31", 
+        "https://www.zhihu.com/people/steven-62-63-84", 
+        "https://www.zhihu.com/people/gui-ke-82", 
+        "https://www.zhihu.com/people/ban-meng-ban-xing-18", 
+        "https://www.zhihu.com/people/ly1036289705", 
+        "https://www.zhihu.com/people/li-zhi-long-92-10", 
+        "https://www.zhihu.com/people/mengfei-wang", 
+        "https://www.zhihu.com/people/hao-jiu-jie-10-89", 
+        "https://www.zhihu.com/people/zhang-zi-qing-64", 
+        "https://www.zhihu.com/people/sun-miao-54", 
+        "https://www.zhihu.com/people/guan-yu-lou", 
+        "https://www.zhihu.com/people/mo-fufu", 
+        "https://www.zhihu.com/people/kong-fj", 
+        "https://www.zhihu.com/people/ge-zi-shao-nian-44", 
+        "https://www.zhihu.com/people/xiao-mai-bu-zuo-ji-plus", 
+        "https://www.zhihu.com/people/liu-ya-xiang", 
+        "https://www.zhihu.com/people/xin-zi-zhu-5", 
+        "https://www.zhihu.com/people/xiaodou-li", 
+        "https://www.zhihu.com/people/happy-circle-711", 
+        "https://www.zhihu.com/people/jack-39-16-62", 
+        "https://www.zhihu.com/people/si-lang-zhe-ye", 
+        "https://www.zhihu.com/people/alchemy5", 
+        "https://www.zhihu.com/people/jiang-feng-28-63-59", 
+        "https://www.zhihu.com/people/xianjunzheng", 
+        "https://www.zhihu.com/people/ccsponge"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/83977802", 
+            "userName": "赵克鸣", 
+            "userLink": "https://www.zhihu.com/people/cc27e9a3ff2edf51e40f8a7d50d60e0e", 
+            "upvote": 0, 
+            "title": "金融大数据分析", 
+            "content": "<ol><li>获取上市公司员工人数作为参考。</li><li>获取上市公司办公地址，及其附近的运营商基站数据，可以找三大运营商的大数据团队要，有脱敏的数据。</li><li>做每天出勤员工统计，计算规则为工作日早上来到附近基站，晚上回到居住地的人群。</li><li>计算平均工作时间，按工作时长排序，买入相关top20的股票。</li><li>赢了✌️</li></ol>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36015780", 
+            "userName": "赵克鸣", 
+            "userLink": "https://www.zhihu.com/people/cc27e9a3ff2edf51e40f8a7d50d60e0e", 
+            "upvote": 4, 
+            "title": "玩转Jetson TX2 Part4 (TX2 Benchmark)", 
+            "content": "<p>最近Nvidia发布了Jetpack 3.2，CUDA 9，cuDNN 7，官方声称各种新能提升，然后还说内核支持docker了，对的，Jetpack 3.1是不可以用Docker的，这点真不如树莓派。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>YOLO 放了v3的论文和代码...，号称又快又好。</p><p>Tensorflow 1.7了，Object Detection还放了新的MobileNet V2。</p><p>还有一直想测试一下TX2是不是能跑得动Detectron上面的Mask RCNN。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>赶紧的吧...</p><p>100张图片(1280*720)的平均判别时间如下：</p><p><b>YOLO v3:</b></p><p>Darknet v3-320: 0.33s</p><p>Darknet v3-416: 0.42s</p><p>Darknet v3-608: 0.74s</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Tensorflow Object Detection:</b></p><p>ssd_mobilenet_v2: 1.87s</p><p>ssd_mobilenet_v1: 1.94s</p><p>ssd_inception_v2: 2.03s</p><p>剩下的跑步起来... Core dump</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Detectron：</b></p><p>卡在Caffe2安装了...</p><p class=\"ztext-empty-paragraph\"><br/></p><p>已经无心评价了，只说一句YOLO v3，确实又快又好。</p><p>注定这是一篇未完成，啥时候完成完全看心情，抱歉。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>对了，Docker，跟我想的一样，确实支持Docker了，但是nvidia-docker不能用，所以有啥意义呢，还是有一点点吧...</p><p class=\"ztext-empty-paragraph\"><br/></p><p>请注意，求职了，谁给买好电脑就去。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "NVIDIA Tegra", 
+                    "tagLink": "https://api.zhihu.com/topics/19883265"
+                }, 
+                {
+                    "tag": "物体识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19617234"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "DreamMaker", 
+                    "userLink": "https://www.zhihu.com/people/0373f4421f10ac24c8e07a67ee3d80f9", 
+                    "content": "<p>这速度有点慢吧。。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "你这用法不对，我在TX2上ssd_inception_v2能跑到25FPS", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "wizard Wu", 
+                            "userLink": "https://www.zhihu.com/people/e5d9a141a617b3ff36e3bc8f0927ea8d", 
+                            "content": "怎么用的", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>用TensorRT啊，YOLO V3也能到10FPS。SSD Inception V2视频见我的知乎想法。现在部署了SSD Mobilenet V2，可以16FPS实时识别601类目标。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "wizard Wu"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33882189", 
+            "userName": "赵克鸣", 
+            "userLink": "https://www.zhihu.com/people/cc27e9a3ff2edf51e40f8a7d50d60e0e", 
+            "upvote": 1, 
+            "title": "[量化]港资数据的获取", 
+            "content": "<p>节假日写写自己的兴趣爱好，国内的各种quant平台转了很长时间，写了各种策略包括人工智能的策略后，还是觉得优质的数据对于quant非常重要，最近抽空写了港资数据的抓取程序。</p><p>先上<a href=\"https://link.zhihu.com/?target=https%3A//github.com/KevinZhao/Ares\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">代码</a>，目前基本功能已具备，还在更新中。</p><p>港资数据解释：</p><ol><li>首先数据全部由香港证券交易所提供，完全公开。</li><li>每日盘后，下午5点30分，南向2个市场和北向2个市场的成交量最大的个股，<a href=\"https://link.zhihu.com/?target=http%3A//sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect/Statistics/Historic-Daily%3Fsc_lang%3Dzh-CN%23select4%3D24%26select5%3D0%26select3%3D0%26select2%3D1%26select1%3D18\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">链接</a>。</li><li>每日盘后，夜间12点30分，北向2个市场（深沪）港资持仓的股数，<a href=\"https://link.zhihu.com/?target=http%3A//sc.hkexnews.hk/TuniS/www.hkexnews.hk/sdw/search/mutualmarket_c.aspx%3Ft%3Dsh\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">链接</a>。</li><li>每日盘后，夜间12点30分，北向2个市场（深沪）港资持有人名称及持股明细，<a href=\"https://link.zhihu.com/?target=http%3A//www.hkexnews.hk/sdw/search/searchsdw_c.aspx\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">链接</a>。</li><li>每日盘中，实时更新，南向2个市场和北向2个市场的买入和卖出成交金额，<a href=\"https://link.zhihu.com/?target=http%3A//sc.hkex.com.hk/TuniS/www.hkex.com.hk/Mutual-Market/Stock-Connect%3Fsc_lang%3Dzh-CN\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">链接</a>。</li></ol><p>分析港资数据的意义所在：</p><ul><li>首先，南下港资的组成多数由境外机构组成，也要注意这里持有人户口也只是券商，真实的交易者的详细信息并不披露。这里显示的汇丰银行只是通过汇丰银行的接口进行买入的数据。</li></ul><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-a2585ede1d5e5f844311f929c3cea58f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1958\" data-rawheight=\"272\" class=\"origin_image zh-lightbox-thumb\" width=\"1958\" data-original=\"https://pic4.zhimg.com/v2-a2585ede1d5e5f844311f929c3cea58f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1958&#39; height=&#39;272&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1958\" data-rawheight=\"272\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1958\" data-original=\"https://pic4.zhimg.com/v2-a2585ede1d5e5f844311f929c3cea58f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a2585ede1d5e5f844311f929c3cea58f_b.jpg\"/></figure><ul><li>其次，上记数据3中的持仓数据，长期积累可以观察到个股持仓变化，当港资买入相对较多的情况下，说明境外投资者持有数量的集中度相对较高。</li><li>最后，上述数据仅提供参考，尤其是对手盘角度。最近一年来，大家更关注‘聪明资金’动向，也有不少的应用和公众号，进行数据统计提供相关参考。但根据证监会公布处理结果，也有内地资金在香港开户，进行炒作和影响股价的案件。</li><li>结论，不可能有单一数据决定市场或个别股票走势，数据仅供参考，决策还是要靠自己。</li></ul><p>目前我的程序中，基本已经提供了数据2和3的抓取，后续继续更新。</p><p>祝大家新的一年里，投资顺利。</p>", 
+            "topic": [
+                {
+                    "tag": "量化交易", 
+                    "tagLink": "https://api.zhihu.com/topics/19815465"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "股票", 
+                    "tagLink": "https://api.zhihu.com/topics/19559840"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33503915", 
+            "userName": "赵克鸣", 
+            "userLink": "https://www.zhihu.com/people/cc27e9a3ff2edf51e40f8a7d50d60e0e", 
+            "upvote": 5, 
+            "title": "玩转Jetson TX2 Part3 (Object Detection Model)", 
+            "content": "<p>物体识别作为基础任务，在TX2上如何选择合适的框架，性能如何？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/tensorflow/models/tree/master/research/object_detection\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Google Object Detection API</a></p><p>项目开始主要尝试的是17年比较火爆的Google物体识别框架，之前PC端做可行性分析的时候也是主要使用这个框架。</p><p>框架的优点很多，搭建步骤简单，基本上是out-of-box，再加上各种pre-trained模型，跨平台支持，甚至可以在Android上面进行部署。</p><p>项目最开始阶段，尝试了用树莓派部署，除了最简单的几个模型外，基本全部崩溃...考虑树莓派主要的问题是运行内存不足，毕竟只有1个G的RAM。</p><p>更新：2018/2/9 发布的新版本也支持了Mask-RCNN。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><a href=\"https://link.zhihu.com/?target=https%3A//pjreddie.com/darknet/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Darknet</a></p><p>这个有空自己看大神的<a href=\"https://link.zhihu.com/?target=https%3A//docs.google.com/presentation/d/14qBAiyhMOFl_wZW4dA1CkixgXwf0zKGbpw_0oHK8yEM/edit%23slide%3Did.g1ea484a13d_0_25\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">slides</a>吧，看过之后有一种不太敢用的感觉。</p><p>在TX2上尝试Faster RCNN达不到性能要求以后，开始测试YOLO v2，性能方面非常理想，准确率也达标，最后确定项目采用YOLO v2作为物体识别技术。</p><p>测试中，TX2跑YOLO v2 COCO的Pre-trained模型，可以达到实时的水平。测试了作者的视频的例子，可以稳定在15FPS。</p><p>两个问题：</p><p>一个问题是，TX2在获取板载摄像头的视频流的时候比较麻烦，需要使用Gstreamer自己写。</p><p>一个问题是，YOLO v2在小物体的识别上，出现了识别率下降的问题。这个问题主要是YOLO v2在Localization上使用的regression的方式，虽然大幅度提高速度，但是如果画网格的时候物体太小，就没法正确识别出来了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/facebookresearch/Detectron\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">facebookresearch/Detectron</a></p><p>这个不用说了，上线20天，1万star的明星项目，大家也都是冲着Mask-RCNN开源去的，看了一下model zoo，速度上恐怕很难达到YOLO的水平，但是提供了Mask输出，对于将来对于场景的理解还是很有帮助的，比如对物体的Tracking和速度的计算，之后会找时间尝试。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>下一期准备说说数据集。</p>", 
+            "topic": [
+                {
+                    "tag": "物体识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19617234"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "期待第三期。请教露珠yolo的代码有分享的地方吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "赵克鸣", 
+                            "userLink": "https://www.zhihu.com/people/cc27e9a3ff2edf51e40f8a7d50d60e0e", 
+                            "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//github.com/pjreddie/darknet\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">pjreddie/darknet</a></p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "骨朵骨朵呀", 
+                    "userLink": "https://www.zhihu.com/people/29b7d5d4c544e435768ddfd6478d597e", 
+                    "content": "<p>所以楼主是说<a href=\"http://link.zhihu.com/?target=https%3A//github.com/tensorflow/models/tree/master/research/object_detection\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Google Object Detection API</a>里面的模型需要内存大，在TX2上跑不下去吗？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "赵克鸣", 
+                            "userLink": "https://www.zhihu.com/people/cc27e9a3ff2edf51e40f8a7d50d60e0e", 
+                            "content": "实测能跑通前4个 后面的就挂了 这两天出个评测贴…", 
+                            "likes": 0, 
+                            "replyToAuthor": "骨朵骨朵呀"
+                        }, 
+                        {
+                            "userName": "骨朵骨朵呀", 
+                            "userLink": "https://www.zhihu.com/people/29b7d5d4c544e435768ddfd6478d597e", 
+                            "content": "<p>嗯嗯，多谢啦，刚好想用最后那个在TX2上测小目标</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "赵克鸣"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Menothing", 
+                    "userLink": "https://www.zhihu.com/people/0891f8333ab95f0f4d54f0c02ba05067", 
+                    "content": "想问下在板子上部署用的是darknet还是tf-python啊？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "赵克鸣", 
+                            "userLink": "https://www.zhihu.com/people/cc27e9a3ff2edf51e40f8a7d50d60e0e", 
+                            "content": "darknet", 
+                            "likes": 0, 
+                            "replyToAuthor": "Menothing"
+                        }, 
+                        {
+                            "userName": "Menothing", 
+                            "userLink": "https://www.zhihu.com/people/0891f8333ab95f0f4d54f0c02ba05067", 
+                            "content": "再打扰一下，你的模型测试是实时的还是用的本地视频？我在tx1上opencv+vgg实时的分类并显示，程序老是被杀死，你遇到过这样的问题吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "赵克鸣"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33300951", 
+            "userName": "赵克鸣", 
+            "userLink": "https://www.zhihu.com/people/cc27e9a3ff2edf51e40f8a7d50d60e0e", 
+            "upvote": 15, 
+            "title": "玩转Jetson TX2 Part 2 (Camera)", 
+            "content": "<p>用这个硬件，选个啥样的摄像头呢，看应用场景了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-8ef5f6f8fa310ba8010fb92edd8e82a5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"250\" data-rawheight=\"220\" class=\"content_image\" width=\"250\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;250&#39; height=&#39;220&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"250\" data-rawheight=\"220\" class=\"content_image lazy\" width=\"250\" data-actualsrc=\"https://pic2.zhimg.com/v2-8ef5f6f8fa310ba8010fb92edd8e82a5_b.jpg\"/></figure><p>Jetson TX2最多支持6个摄像头 CSI2 D-PHY 1.2协议(2 路/每路2.5 Gbps)，USB的普通摄像头也行，但是摄像头的底层驱动就没法访问了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-7f392dbb8c8e6120341a74ae7b8b6908_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-7f392dbb8c8e6120341a74ae7b8b6908_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;400&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-7f392dbb8c8e6120341a74ae7b8b6908_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-7f392dbb8c8e6120341a74ae7b8b6908_b.jpg\"/></figure><p>显卡直接加速CSI接口的摄像头视频流处理，所以还是直接CSI摄像头吧，参考下面链接：</p><p><a href=\"https://link.zhihu.com/?target=http%3A//petermoran.org/csi-cameras-on-tx2/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Why CSI cameras(vs USB)</a></p><p><a href=\"https://link.zhihu.com/?target=https%3A//elinux.org/Jetson/Cameras\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">可用的摄像头</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>一般的应用场景，板载的CSI接口的摄像头够用了，添加CSI摄像头还要转接卡...</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e0c38323c33cc0f9fad2d0951247c858_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"400\" class=\"content_image\" width=\"300\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;300&#39; height=&#39;400&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"400\" class=\"content_image lazy\" width=\"300\" data-actualsrc=\"https://pic1.zhimg.com/v2-e0c38323c33cc0f9fad2d0951247c858_b.jpg\"/></figure><p>板载摄像头质量一般，英伟达论坛里面问过为啥摄像头质量问题，官方回复，&#34;我们不是卖摄像头的&#34;。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>底层控制需要用GStreamer框架访问，所以如果习惯用Opencv开启摄像头的话，需要自己编译Opencv的时候enable gstreamer模块。实际应用发现，opencv调用摄像头，各种设置（白平衡，曝光...）非常不好搞。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>摄像头参数相关，官方文档<a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/embedded/dlc/l4t-accerated-gstreamer-guide-24-2-1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">链接</a>，供参考。</p><p>设置相关参数，最简单的办法，自己C语言调用GStreamer写吧。</p><p>具体怎么搞，英伟达提供了工具NVGSTCapture，官方的回答是，自己看<a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/embedded/dlc/l4t-sources-24-2-1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">代码</a>吧。</p><p>还有两个命令行工具：gst-launch, gst-inspect，调试摄像头可用。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "NVIDIA Tegra", 
+                    "tagLink": "https://api.zhihu.com/topics/19883265"
+                }, 
+                {
+                    "tag": "摄像头", 
+                    "tagLink": "https://api.zhihu.com/topics/19566046"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "张彤", 
+                    "userLink": "https://www.zhihu.com/people/5e1a9b11576394bd06058988a28eb9e3", 
+                    "content": "<p>你好，我把一个zed双目相机插到那个tx2usb3.0的接口，老说识别的是2.0，是怎么回事，tx2的3。0接口还要激活什么吗？</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "赵克鸣", 
+                    "userLink": "https://www.zhihu.com/people/cc27e9a3ff2edf51e40f8a7d50d60e0e", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//elinux.org/Jetson/Cameras\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Jetson/Cameras - eLinux.org</a> 参考这个链接中的2.2.1 应该能解决这个问题 </p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "NVIDIA: 我们不是卖摄像头的", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "yhz yhz", 
+                    "userLink": "https://www.zhihu.com/people/594f1758060ae11a9b27559c0a0e39dd", 
+                    "content": "唉，不知道如果用不支持的cmos应该怎么写驱动", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33265658", 
+            "userName": "赵克鸣", 
+            "userLink": "https://www.zhihu.com/people/cc27e9a3ff2edf51e40f8a7d50d60e0e", 
+            "upvote": 1, 
+            "title": "FAIR开源Detectron and Mask R-CNN", 
+            "content": "<p>Yann LeCun离职，Fair开源物体识别新框架，对标Google的<a href=\"https://link.zhihu.com/?target=https%3A//github.com/tensorflow/models/tree/master/research/object_detection\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Object Detection API</a>。</p><p>f<a href=\"https://link.zhihu.com/?target=https%3A//github.com/facebookresearch/Detectron/blob/master/MODEL_ZOO.md\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">acebookresearch/Detectron</a></p><p>数据集：</p><ul><li>MS COCO</li></ul><p>算法：</p><ul><li>He Kaiming的Mask R-CNN首次开源 -- ICCV 2017 Marr Prize</li><li>RetinaNet --ICCV 2017 Best Student Paper</li><li>其他的Faster RCNN, RPN, Fast RCNN, R-FCN doesn&#39;t even matter...</li></ul><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/facebookresearch/Detectron/blob/master/MODEL_ZOO.md\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Model Zoo</a>：</p><ul><li>各种Baseline的Pretrained模型</li></ul><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/facebookresearch/Detectron/blob/master/GETTING_STARTED.md\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">上手教程</a></p><p>Caffe2......</p><p>Facebook<a href=\"https://link.zhihu.com/?target=https%3A//code.facebook.com/posts/1835166200089399/introducing-big-basin\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">大盆</a>：All baselines were run on <a href=\"https://link.zhihu.com/?target=https%3A//code.facebook.com/posts/1835166200089399/introducing-big-basin\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Big Basin</a> servers with 8 NVIDIA Tesla P100 GPU accelerators (with 16GB GPU memory, CUDA 8.0, and cuDNN 6.0.21).</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-2f9ad2284546ca8284e741eb5058a973_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"736\" data-rawheight=\"414\" class=\"origin_image zh-lightbox-thumb\" width=\"736\" data-original=\"https://pic4.zhimg.com/v2-2f9ad2284546ca8284e741eb5058a973_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;736&#39; height=&#39;414&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"736\" data-rawheight=\"414\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"736\" data-original=\"https://pic4.zhimg.com/v2-2f9ad2284546ca8284e741eb5058a973_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2f9ad2284546ca8284e741eb5058a973_b.jpg\"/></figure><p>说啥好呢......</p><p>头部效应，物体识别领域除了Google，别人家机会不多了。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "物体识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19617234"
+                }, 
+                {
+                    "tag": "Mask R-CNN", 
+                    "tagLink": "https://api.zhihu.com/topics/20104198"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "徐晓龙", 
+                    "userLink": "https://www.zhihu.com/people/6785657c61e5032307fce9e7f7c5ad9e", 
+                    "content": "<p>老外的算法和代码都是要上天哈</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33229717", 
+            "userName": "赵克鸣", 
+            "userLink": "https://www.zhihu.com/people/cc27e9a3ff2edf51e40f8a7d50d60e0e", 
+            "upvote": 33, 
+            "title": "玩转Jetson TX2 (Part 1 )", 
+            "content": "<p>为啥要搞Jetson TX2 ?</p><figure data-size=\"normal\"><noscript><img data-rawheight=\"494\" src=\"https://pic3.zhimg.com/v2-411694e401d5c4665e280ab0a6b8a4b6_b.jpg\" data-size=\"normal\" data-rawwidth=\"786\" class=\"origin_image zh-lightbox-thumb\" width=\"786\" data-original=\"https://pic3.zhimg.com/v2-411694e401d5c4665e280ab0a6b8a4b6_r.jpg\"/></noscript><img data-rawheight=\"494\" src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;786&#39; height=&#39;494&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"786\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"786\" data-original=\"https://pic3.zhimg.com/v2-411694e401d5c4665e280ab0a6b8a4b6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-411694e401d5c4665e280ab0a6b8a4b6_b.jpg\"/></figure><p>性能：</p><ol><li>GPU：TX2 是Pascal架构的，256个CUDA cores，同是Pascal架构的GTX1080 Ti是3584个CUDA cores。</li><li>CPU：2个 Denver + 4个A57 相当于低功耗版本的i3，也不需要CPU干啥。</li><li>内存：8GB 128bit LPDDR4 59.7 GB/s，吞吐量还是很大的。</li><li>eMMC：32GB，装上系统和Jetpack，还剩10个G多点。</li><li>功耗：15W，有几个功耗模式可以选择。</li></ol><p>结论：</p><p>官方建议的使用场景是Inference，所以还是不要用这个训练大型神经网络了。</p><p>使用GPU试过训练mnist数据集 Tensorflow的<a href=\"https://link.zhihu.com/?target=https%3A//www.tensorflow.org/get_started/mnist/pros\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">官方教程</a>，比我2013 Late的MBP用CPU快5倍左右吧...</p><p>机器视觉物体识别(Object Detection)领域，大模型需要大内存，没得选。之前尝试过树莓派 3b（内存1GB），基本稍微大一点的模型就挂了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Jetson TX2相关资料：</p><p>学习网站：</p><ol><ol><li><a href=\"https://link.zhihu.com/?target=http%3A//www.jetsonhacks.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Jetson Hacks</a> 基础知识 + geek project</li><li><a href=\"https://link.zhihu.com/?target=https%3A//devtalk.nvidia.com/default/board/139/jetson-embedded-systems/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">英伟达的开发者论坛</a> 算是技术支持吧，毕竟花钱了...</li></ol></ol><hr/><p>刷机：预计用时 4小时</p><ol><li>键盘鼠标一台，HDMI接口的显示器一台。</li><li>Ubuntu</li><ol><li>可以实体机安装一个ubuntu 14，作为刷机的宿主机器。</li><li>因为不经常使用，在Mac上装一个Virtual Box也是可以的，空间要预留至少50GB，参考<a href=\"https://link.zhihu.com/?target=https%3A//github.com/eweill/tx2-flash/blob/5027b1990c1d736d1c21885818038a054ea3d361/FLASH_MAC.md\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">教程</a>。</li></ol><li>下载<a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/embedded/jetpack\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Jetpack</a>:</li><ol><li>内含：TensorRT，cuDNN，CUDA，Multimedia API，L4T，Development Tools，具体看<a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/embedded/jetpack\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">说明</a>。</li><li>目前官方版本3.1，3.2属于Developer Preview，非常期待3.2，因为支持了Docker，能不能用Docker版本的tensorflow-gpu，目前不确定，官方说还要等Nvidia Docker release 2.0。</li></ol><li>刷机过程按官方<a href=\"https://link.zhihu.com/?target=http%3A//docs.nvidia.com/jetpack-l4t/2_1/content/developertools/mobile/jetpack/jetpack_l4t/2.0/jetpack_l4t_install.htm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">步骤</a>一步一步来，测试一下CUDA的例子可以跑，完事了。</li></ol><p>框架安装：预计用时 4小时</p><p class=\"ztext-empty-paragraph\"><br/></p><p>OpenCV4Tegra </p><ul><li><a href=\"https://link.zhihu.com/?target=http%3A//www.jetsonhacks.com/2017/04/05/build-opencv-nvidia-jetson-tx2/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">教程1</a>，<a href=\"https://link.zhihu.com/?target=https%3A//docs.opencv.org/3.2.0/d6/d15/tutorial_building_tegra_cuda.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">教程2</a>，build很耗时，☕️?</li></ul><p>Tensorflow</p><ul><li><a href=\"https://link.zhihu.com/?target=http%3A//www.jetsonhacks.com/2017/09/22/install-tensorflow-python-nvidia-jetson-tx-dev-kits/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">教程</a>，build很耗时，☕️?</li></ul><p>一天就这么结束了。</p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "NVIDIA Tegra", 
+                    "tagLink": "https://api.zhihu.com/topics/19883265"
+                }, 
+                {
+                    "tag": "OpenCV", 
+                    "tagLink": "https://api.zhihu.com/topics/19587715"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "俞x杰", 
+                    "userLink": "https://www.zhihu.com/people/d34334fcef8d8b970a82c925706e4b51", 
+                    "content": "<p>请问直接pip3 install tensorflow-gpu安装的tensorflow与自己编译的tensorflow有什么区别么</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "猫的第七章", 
+                    "userLink": "https://www.zhihu.com/people/2236467dfe50ea26f12e2da6aecbec44", 
+                    "content": "<p>太真实了，真的是make一下，build一下，一天就没了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_158843365"
+}

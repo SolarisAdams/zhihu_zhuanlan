@@ -1,0 +1,192 @@
+{
+    "title": "Sensor Fusion", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/jing-ye-56-80", 
+        "https://www.zhihu.com/people/liu-tao-24-34", 
+        "https://www.zhihu.com/people/given-lu", 
+        "https://www.zhihu.com/people/hai-na-bai-chuan-36-24", 
+        "https://www.zhihu.com/people/liu-lu-34-98", 
+        "https://www.zhihu.com/people/ago-4-79", 
+        "https://www.zhihu.com/people/legrandamour-20", 
+        "https://www.zhihu.com/people/gelu029-99", 
+        "https://www.zhihu.com/people/di-diao-de-itnan", 
+        "https://www.zhihu.com/people/yang-lin-1234", 
+        "https://www.zhihu.com/people/dod-78", 
+        "https://www.zhihu.com/people/yang-guang-xia-de-dong-tian", 
+        "https://www.zhihu.com/people/nan-shan-75-72", 
+        "https://www.zhihu.com/people/erin-wang-87", 
+        "https://www.zhihu.com/people/dengwenwu", 
+        "https://www.zhihu.com/people/zhou-wei-85-12", 
+        "https://www.zhihu.com/people/zhang-wei-30-82", 
+        "https://www.zhihu.com/people/qi-che-ren-82", 
+        "https://www.zhihu.com/people/hf-zhang-27", 
+        "https://www.zhihu.com/people/chang-zhong-zheng-3", 
+        "https://www.zhihu.com/people/keanu-zhu", 
+        "https://www.zhihu.com/people/xxxs-89", 
+        "https://www.zhihu.com/people/fan-gao-49", 
+        "https://www.zhihu.com/people/yu-hang-yuan-55-68", 
+        "https://www.zhihu.com/people/dearchris", 
+        "https://www.zhihu.com/people/fxcarl", 
+        "https://www.zhihu.com/people/dong-yu-57-48", 
+        "https://www.zhihu.com/people/ella-15-2", 
+        "https://www.zhihu.com/people/tielang2253"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/90248843", 
+            "userName": "男山", 
+            "userLink": "https://www.zhihu.com/people/f388d94b283245dfe6b6e99025a87b0f", 
+            "upvote": 0, 
+            "title": "TJP or Super Cruise - 展望2021", 
+            "content": "<p>纵观国内外各大TR1量产规划，在2021年这个关键时间节点，ADAS行业却没有什么惊喜，大家的规划非常一致，基本以Super Cruise为benchmark，即基于高速或者城区快速路的高速巡航功能，再加上略微有些保守的低速巡航（TJP的雏形，TJA的升级版）。</p><p>笔者认为即将到来的2021将会是一场厮杀异常惨烈的ADAS淘汰赛，前有Tesla完成了AP10.0的更新，实现了自动换道功能，与传统TR1差异再次拉大；后有各自主车企的ADAS方案量产，再加上恰逢车市寒冬，所以在2019年底这个时间点，提前做好布局就显得尤为重要。</p><a href=\"https://link.zhihu.com/?target=https%3A//cleantechnica.com/2019/09/17/tesla-autopilot-lane-change-improvements-tesla-software-v10-review/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-c04154bcc8eebd7860c80e92ee09a89a_ipico.jpg\" data-image-width=\"150\" data-image-height=\"150\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Tesla Autopilot Improvements in Tesla Software V10 — CleanTechnica Review</a><p>基于笔者自己的理解，尝试总结了TJP / Super Cruise 的技术方案特点：</p><a href=\"https://zhuanlan.zhihu.com/p/64736726\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">大吉：凯迪拉克 Super Cruise 的力量与边界 | 42HOW 独家评测</a><p>可以看到：</p><p>1.Super Cruise的前向、侧向传感器布局决定了其无法应对拥堵和复杂路况；</p><p>2.Super Cruise 进入门槛相对较低，依赖高精地图和定位；核心是ODD判断；</p><p>3.TJP在障碍物、freespace感知要求上更高，因为工况更复杂；</p><p>4.TJP相对不依赖高精地图，但是对传感器的道路特征识别能力要求提升了（因为无HDmap冗余和补充）</p><p>笔者无法从车主角度预测Super Cruise是否会讨客户喜欢，但是想从另一个观点看“Super Cruise能否降低高速公路事故率。”我的答案是不能。</p><p>这里先晒一份数据。</p><a href=\"https://link.zhihu.com/?target=http%3A//aammt.tmmu.edu.cn/Upload/rhtml/201610192.htm%23rhhz\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-789935334c54fd1a79405561ea447063_180x120.jpg\" data-image-width=\"761\" data-image-height=\"237\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">2004-2015年中国高速公路与普通公路交通伤对比研究</a><p>来自一篇中国的统计文献，<i>简单说，高速公路上单位里程事故发生率是城区道路的2.2倍，里程死亡率是城区道路的4.6倍，这意味着高速公路上的功能设计，功能严重度会打分很高。</i></p><p><i>根据数据另一个事实时，在高速下，事故死亡率反而呈现驾龄越高，死亡率越高的趋势，真可谓“老司机在高速上才不靠谱”</i></p><p>所以，如果驾驶员依赖Super Cruise，会放松对环境监控意识，最终在安全性上反而不利。</p><p>感知上，本身SC在相对恶劣条件下（下午或者晚上）或者对非规则障碍物感知能力有限，所以需要严格监控驾驶员状态，以保证感知效果，个人觉得Super Cruise会成为又一个鸡肋。</p><p>最后一个开放话题：</p><p>如果选择TJP，何种条件下，能用类似特斯拉的方案实现接近TJP的功能（软件不行，硬件来怼）？</p>", 
+            "topic": [
+                {
+                    "tag": "自动驾驶", 
+                    "tagLink": "https://api.zhihu.com/topics/19635352"
+                }, 
+                {
+                    "tag": "奥迪（Audi）", 
+                    "tagLink": "https://api.zhihu.com/topics/19574850"
+                }, 
+                {
+                    "tag": "驾驶安全", 
+                    "tagLink": "https://api.zhihu.com/topics/20012721"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67745741", 
+            "userName": "男山", 
+            "userLink": "https://www.zhihu.com/people/f388d94b283245dfe6b6e99025a87b0f", 
+            "upvote": 8, 
+            "title": "基于上海0531中环事故分析L3自动驾驶传感器布局与功能设计", 
+            "content": "<p><i>“背景信息：五月三十一日晚间，上海中环发生一起因醉酒驾车引起的重大交通事故，笔者看完这个新闻非常震惊，一是酒驾查处如此严格情况下还有人顶风作案，二是被撞车辆直接被挤压、冲出高架护栏，还好驾驶员受伤不太严重，算是不幸中的万幸。</i></p><a href=\"https://link.zhihu.com/?target=https%3A//wx.qq.com/cgi-bin/mmwebwx-bin/webwxcheckurl%3Frequrl%3Dhttps%253A%252F%252Fmp.weixin.qq.com%252Fs%252FdiogQKTgOHr9Usa79g_0QA%26skey%3D%2540crypt_21189ef1_2daca21382af58625b222862539e14c2%26deviceid%3De346711225916617%26pass_ticket%3DgSTYZCiycHiWuaof9E4ZldIHwPKwDDmOxFHztr6HQVjjVJmnFVnQ2HEVI2645txu%26opcode%3D2%26scene%3D1%26username%3D%4036a8b2a77f63ab465a629f5089afec351bdf580190a4bea4b7f672a4ddb72c28\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">https://mp.weixin.qq.com/s/diogQKTgOHr9Usa79g_0QA</a><p><i>作为自动驾驶行业或者ADAS行业感知领域从业者，笔者觉得这种突发意外无法避免，因此出于职业习惯分析了该事故，希望能为大家感知架构设计和功能设计提供些材料。</i></p><p>1.场景描述：</p><p>位置：上海中环快速路，双向八车道</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-f1bfa428a2996b3c4faa90ed5b568b5d_b.jpg\" data-size=\"normal\" data-rawwidth=\"717\" data-rawheight=\"363\" class=\"origin_image zh-lightbox-thumb\" width=\"717\" data-original=\"https://pic2.zhimg.com/v2-f1bfa428a2996b3c4faa90ed5b568b5d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;717&#39; height=&#39;363&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"717\" data-rawheight=\"363\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"717\" data-original=\"https://pic2.zhimg.com/v2-f1bfa428a2996b3c4faa90ed5b568b5d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-f1bfa428a2996b3c4faa90ed5b568b5d_b.jpg\"/><figcaption>事故发生位置</figcaption></figure><p>是否处于上下匝道：无</p><p>是否有路灯：有，照明情况良好</p><p>车流量：少</p><p>道路情况：是否有施工-无；  路面附着-良好，无积水，标准快速路；   路面是否有其他障碍物-无；   车道线是否清晰-清晰；   路沿是否清晰-清晰；   道路曲率与半径（大致）- 目测曲率很小；  道路坡度-无；  道路倾斜程度- 无，影响很小），</p><p>天气情况：略微影响视线</p><p>2.情景复现：（视频上看碰撞过程在14-15s之间，实际肯定小于1s）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3e6a159228ff1ea4b48a6cc1c39c5d61_b.jpg\" data-size=\"normal\" data-rawwidth=\"941\" data-rawheight=\"414\" class=\"origin_image zh-lightbox-thumb\" width=\"941\" data-original=\"https://pic2.zhimg.com/v2-3e6a159228ff1ea4b48a6cc1c39c5d61_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;941&#39; height=&#39;414&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"941\" data-rawheight=\"414\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"941\" data-original=\"https://pic2.zhimg.com/v2-3e6a159228ff1ea4b48a6cc1c39c5d61_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-3e6a159228ff1ea4b48a6cc1c39c5d61_b.jpg\"/><figcaption>1.肇事车辆开始位于第二车道右侧，后突然向右转向（推测是第一车道车辆太靠右？？），最终车辆后轴中心基本与第二车道右侧车道线重合</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-386f1272e937a71e36cf9da6d19881db_b.jpg\" data-size=\"normal\" data-rawwidth=\"891\" data-rawheight=\"517\" class=\"origin_image zh-lightbox-thumb\" width=\"891\" data-original=\"https://pic4.zhimg.com/v2-386f1272e937a71e36cf9da6d19881db_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;891&#39; height=&#39;517&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"891\" data-rawheight=\"517\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"891\" data-original=\"https://pic4.zhimg.com/v2-386f1272e937a71e36cf9da6d19881db_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-386f1272e937a71e36cf9da6d19881db_b.jpg\"/><figcaption>2.此时肇事车辆Vy约为0，但是方向盘此时应该已经向左打了一定角度，导致车辆重心向右侧偏，肇事Vy逐渐由0提升到一定值</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4592e63c6ee55ce0cd3a3028011f3a5c_b.jpg\" data-size=\"normal\" data-rawwidth=\"819\" data-rawheight=\"466\" class=\"origin_image zh-lightbox-thumb\" width=\"819\" data-original=\"https://pic1.zhimg.com/v2-4592e63c6ee55ce0cd3a3028011f3a5c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;819&#39; height=&#39;466&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"819\" data-rawheight=\"466\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"819\" data-original=\"https://pic1.zhimg.com/v2-4592e63c6ee55ce0cd3a3028011f3a5c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4592e63c6ee55ce0cd3a3028011f3a5c_b.jpg\"/><figcaption>3.假设肇事车辆此时测速并未发生变化，可得Vx变小，Vy变大，直到路径与第一车道车辆重合发生碰撞。视频上看，直到到碰撞后，第一车道车辆才亮起刹车灯。</figcaption></figure><p><br/>3.初步定量分析：</p><p>车道线宽度：3500mm</p><p>车辆尺寸：1800mm*4300mm</p><p>肇事车车速：估测80kph左右</p><p>受损车车速：估测70kph左右</p><p>车辆轨迹分析：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d5c153f6d0be926cf444fbe9a7f5821c_b.jpg\" data-size=\"normal\" data-rawwidth=\"432\" data-rawheight=\"575\" class=\"origin_image zh-lightbox-thumb\" width=\"432\" data-original=\"https://pic1.zhimg.com/v2-d5c153f6d0be926cf444fbe9a7f5821c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;432&#39; height=&#39;575&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"432\" data-rawheight=\"575\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"432\" data-original=\"https://pic1.zhimg.com/v2-d5c153f6d0be926cf444fbe9a7f5821c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d5c153f6d0be926cf444fbe9a7f5821c_b.jpg\"/><figcaption>车辆行驶轨迹初步俯瞰</figcaption></figure><p>时间分析：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-fe64699882f71d769eb6dc33cd1e1625_b.jpg\" data-size=\"normal\" data-rawwidth=\"602\" data-rawheight=\"590\" class=\"origin_image zh-lightbox-thumb\" width=\"602\" data-original=\"https://pic2.zhimg.com/v2-fe64699882f71d769eb6dc33cd1e1625_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;602&#39; height=&#39;590&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"602\" data-rawheight=\"590\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"602\" data-original=\"https://pic2.zhimg.com/v2-fe64699882f71d769eb6dc33cd1e1625_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-fe64699882f71d769eb6dc33cd1e1625_b.jpg\"/><figcaption>如图中所示，从肇事车辆Vy&amp;amp;gt;0开始到发生碰撞。推测碰撞时目标Vy=3.3m/s,Vx=21.97m/s。留给驾驶员的反应时间0.34s左右，但是肇事车辆基本处于盲区范围（碰撞位置应该正好处于B柱），人类驾驶员很难感知到1.5车道外车辆横向速度发生了变化。途中蓝线为的角雷达140度FOV</figcaption></figure><p>肇事车辆Vy&gt;0开始到发生碰撞，留给第一车道车辆的反应距离有6.7m左右，以70kph时间计算，留给第一车道车辆反应时间也只有0.34s，意味着在这0.34s内，车辆必须感知到有运动轨迹发生重合的危险并且合理计算出减速请求。（假设该L3功能只限制在本车道）</p><p>期间，感知融合需要完成以下工作：</p><p>1）融合模块需要在目标进入传感器FOV后就建立稳定的tracker，维护住目标状态、属性；</p><p>2）传感器需要测量到目标横向速度的相对变化，并发送给融合模块；</p><p>3）融合模块需要接收传感器发来目标的尺寸，速度，位置等信息，并与内部tracker进行成功匹配关联；</p><p>3）融合模块需要对多传感器数据进行比较、评估，运行kalman滤波，需要至少N*m个（N=传感器种类）SensorUpdate步骤将传感器发出的最新的位置速度信号更新至内部tracker；</p><p>4）如果1/2/3都没有任何问题，融合模块还需要综合评估目标置信度；</p><p>以AudiA8的传感器配置为例，很遗憾，只有CornerRadar+环视摄像头在2）上可以提供足够的信息。肇事车辆位于前主摄+前雷达FOV之外。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-e3a8e2e9056a6827726b55a97eb885d7_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"2124\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-e3a8e2e9056a6827726b55a97eb885d7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;2124&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"2124\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-e3a8e2e9056a6827726b55a97eb885d7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e3a8e2e9056a6827726b55a97eb885d7_b.jpg\"/><figcaption>以AudiA8的传感器配置为例，很遗憾，只有CornerRadar+环视摄像头在2）上可以提供足够的信息</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-54d784ee0cb0e1d4f401b1348f6943b5_b.jpg\" data-size=\"normal\" data-rawwidth=\"1751\" data-rawheight=\"746\" class=\"origin_image zh-lightbox-thumb\" width=\"1751\" data-original=\"https://pic2.zhimg.com/v2-54d784ee0cb0e1d4f401b1348f6943b5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1751&#39; height=&#39;746&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1751\" data-rawheight=\"746\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1751\" data-original=\"https://pic2.zhimg.com/v2-54d784ee0cb0e1d4f401b1348f6943b5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-54d784ee0cb0e1d4f401b1348f6943b5_b.jpg\"/><figcaption>对比2：Tesla Side Camera FOV</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-31b2f5c6ca583f274a5960bbaf99f010_b.jpg\" data-size=\"normal\" data-rawwidth=\"1667\" data-rawheight=\"722\" class=\"origin_image zh-lightbox-thumb\" width=\"1667\" data-original=\"https://pic1.zhimg.com/v2-31b2f5c6ca583f274a5960bbaf99f010_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1667&#39; height=&#39;722&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1667\" data-rawheight=\"722\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1667\" data-original=\"https://pic1.zhimg.com/v2-31b2f5c6ca583f274a5960bbaf99f010_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-31b2f5c6ca583f274a5960bbaf99f010_b.jpg\"/><figcaption>对比2：Tesla Rear Side Camera FOV</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>最重要的！对传感器和融合的要求：</p><p>1）在如此短的时间内，我个人认为目前角雷达很难提供准确的横向速度，目前在雷达内部还是通过多个detector的径向速度解算目标横纵向速度，在这个场景下具体径向速度变化了多少目前还给不出答案，以radar 50ms的发送周期，在0.37s以内，7个cycle， radar 发出的目标横向速度我认为很难达到从0到3.3m/s。</p><p>2)环视摄像头，我对环视摄像头性能不是很了解，希望有人补充说明。</p><p>3）融合，如何融合来自radar的点状目标和环视的3d或者2d目标？？目前算法改动空间还是很大。</p><p>结论是，对于这种场景，可能真的需要激光雷达来覆盖车辆AB柱之间的目标探测。</p><p>从功能层面：</p><p>曾有幸参与到TJP某些功能的开发和讨论，当时不理解条件要如此苛刻，但是看到这个例子我瞬间明白了。瑞典人的经验不是白来的，虽然对他们有种种不满，但是从结果看他们的思想还是非常值得学习和钦佩。</p><p>到2022年，当OEM们都想上Hands off甚至eyes off的高速功能，那对于这种情况是否考虑到了？</p><p><b>Stay Hungry. Stay Foolish</b></p><p>AC</p><p>2019/06/01</p>", 
+            "topic": [
+                {
+                    "tag": "雷达系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19768412"
+                }, 
+                {
+                    "tag": "传感器", 
+                    "tagLink": "https://api.zhihu.com/topics/19561057"
+                }, 
+                {
+                    "tag": "自动驾驶", 
+                    "tagLink": "https://api.zhihu.com/topics/19635352"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "FXCarl", 
+                    "userLink": "https://www.zhihu.com/people/7ef22491c020c6ecb63ac31d6a1805ee", 
+                    "content": "<p>要做好这种事故无法避免的准备。从上面的假定工况看，想要避免事故需要自车在 1s（Vy / 间距） 里减掉接近 4m （一个车位）的行程才够。而 1G 的减速度在 1s 里也就能带来 5m 左右的距离缩减 …… 即使是0反应时间也是要被撞的了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Acolyte", 
+                    "userLink": "https://www.zhihu.com/people/0fe5e34807ae4536b1fe22e70428aa26", 
+                    "content": "autopilot的横向避撞是怎么实现的？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>Ap在B柱各有一个90°fov的侧视摄像头,专门用来覆盖左右方向有cut in可能的目标,理论上探测效果会比角雷达好些</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "反应时间太短，再高级的算法也没用", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>如果感知层反应快的话足够减速避撞。问题是现在感知可能达不到反应这么迅速</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "HariSheldon", 
+                    "userLink": "https://www.zhihu.com/people/09ac1857539f6b0caf60d7f28f443a5b", 
+                    "content": "环视摄像头的检测范围只有这么一点，不可能吧？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>检测范围能到10+M，但是要看检测车道线还是目标，两者的难度还是完全不同的。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "HariSheldon"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "FXCarl", 
+                    "userLink": "https://www.zhihu.com/people/7ef22491c020c6ecb63ac31d6a1805ee", 
+                    "content": "<p>要做好这种事故无法避免的准备。从上面的假定工况看，想要避免事故需要自车在 1s（Vy / 间距） 里减掉接近 4m （一个车位）的行程才够。而 1G 的减速度在 1s 里也就能带来 5m 左右的距离缩减 …… 即使是0反应时间也是要被撞的了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63877472", 
+            "userName": "男山", 
+            "userLink": "https://www.zhihu.com/people/f388d94b283245dfe6b6e99025a87b0f", 
+            "upvote": 6, 
+            "title": "Sensor Fusion for ADAS Part1-1: States Estimation", 
+            "content": "<p><i>“题记：2018年底，Waymo CEO CEO John Krafcik表示“真正的无人驾驶还有很长的路要走，而且很难”，我在最近的2019上海车展以及跟其他ADS巨头的了解中也感受到了这股“寒风”要比想象的要冷，要长。外部环境收紧的情况下，我计划花费1~2月时间，总结自己在ADAS的经历，回看过去并且积累知识，准备下一波产业爆发。</i></p><p><i>计划内容：</i></p><p><i>Part1-基于多传感器融合多目标跟踪系统</i></p><ol><li><i>RadarCamera Signal Processing/KalmanFilter的搭建与调试/基于目标类型的MotionMode的建立</i></li><li><i>DataAssociation</i></li><li><i>ObjectConfidenceEvaluation</i></li></ol><p><i>Part2-基于多信息源的RoadModelFusion</i></p><ol><li><i>CameraLaneModel处理/道路模型建立</i></li><li><i>Map与EHPEHR的使用</i></li><li><i>自车姿态与位置估计与维护”</i></li></ol><p>作为Part1-1，主要由以下内容：</p><p>对当前一代（2016左右量产，camera代表型号EyeQ3，雷达代表型号Conti ARS-408）摄像头和雷达目标探测原理的简单介绍；</p><p>其次，基于雷达摄像头目标融合的中kalman滤波器的搭建。</p><p>当前L2级别camera对目标的距离的测量大多基于小孔成像模型+车辆预先标定数据。具体原理如下图所示，可以从数学上证明基于该方法的距离误差是与距离呈二次方的关系。笔者自己在调试总也深感目前摄像头真的是短板。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-a7d5d9e336f245bb9aba38d95e78cff2_b.jpg\" data-size=\"normal\" data-rawwidth=\"896\" data-rawheight=\"391\" class=\"origin_image zh-lightbox-thumb\" width=\"896\" data-original=\"https://pic3.zhimg.com/v2-a7d5d9e336f245bb9aba38d95e78cff2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;896&#39; height=&#39;391&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"896\" data-rawheight=\"391\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"896\" data-original=\"https://pic3.zhimg.com/v2-a7d5d9e336f245bb9aba38d95e78cff2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-a7d5d9e336f245bb9aba38d95e78cff2_b.jpg\"/><figcaption>图1 基于单目摄像头的距离测量策略示意图</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-194d6ea96115aa2bbf8194a8cfca4b8d_b.jpg\" data-size=\"normal\" data-rawwidth=\"281\" data-rawheight=\"103\" class=\"content_image\" width=\"281\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;281&#39; height=&#39;103&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"281\" data-rawheight=\"103\" class=\"content_image lazy\" width=\"281\" data-actualsrc=\"https://pic2.zhimg.com/v2-194d6ea96115aa2bbf8194a8cfca4b8d_b.jpg\"/><figcaption>图2 FMCW雷达测距测速原理</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1eeaa3b35e5b8411d703e591fd82a2b9_b.jpg\" data-size=\"normal\" data-rawwidth=\"573\" data-rawheight=\"131\" class=\"origin_image zh-lightbox-thumb\" width=\"573\" data-original=\"https://pic2.zhimg.com/v2-1eeaa3b35e5b8411d703e591fd82a2b9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;573&#39; height=&#39;131&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"573\" data-rawheight=\"131\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"573\" data-original=\"https://pic2.zhimg.com/v2-1eeaa3b35e5b8411d703e591fd82a2b9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1eeaa3b35e5b8411d703e591fd82a2b9_b.jpg\"/><figcaption>表1 对于雷达摄像头精度的粗统计</figcaption></figure><p>所以，目前由于camera radar性能差异如此大的情况下如何进行融合就成了L2 fusion的核心问题，但是这部分会放在下一讲中。</p><p>今天主要进行Kalman相关的调试。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-db6783d7e9096e96672bcc6f4bf8bd06_b.jpg\" data-size=\"normal\" data-rawwidth=\"959\" data-rawheight=\"315\" class=\"origin_image zh-lightbox-thumb\" width=\"959\" data-original=\"https://pic3.zhimg.com/v2-db6783d7e9096e96672bcc6f4bf8bd06_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;959&#39; height=&#39;315&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"959\" data-rawheight=\"315\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"959\" data-original=\"https://pic3.zhimg.com/v2-db6783d7e9096e96672bcc6f4bf8bd06_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-db6783d7e9096e96672bcc6f4bf8bd06_b.jpg\"/><figcaption>图3 线性KF的过程</figcaption></figure><p>具体kalman的推导这里不做赘述，在实际使用中很多人不知道如何选择量测噪声矩阵R和过程噪声矩阵Q，这两个矩阵共同决定了kalman最终输出的状态信息是偏向量测值还是偏向预测值。</p><p>首先Q矩阵是与观测对象的运动学模型相关的，比如是恒速度模型还是恒加速度模型。</p><p>如果搭建的恒加速度模型，做时间离散化之后，Q矩阵会是这个样子：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6632d13781cb1d0e6209b34be9425050_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"537\" data-rawheight=\"149\" class=\"origin_image zh-lightbox-thumb\" width=\"537\" data-original=\"https://pic1.zhimg.com/v2-6632d13781cb1d0e6209b34be9425050_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;537&#39; height=&#39;149&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"537\" data-rawheight=\"149\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"537\" data-original=\"https://pic1.zhimg.com/v2-6632d13781cb1d0e6209b34be9425050_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6632d13781cb1d0e6209b34be9425050_b.jpg\"/></figure><p>对于R矩阵，需要建立传感器误差模型并且选择生成对应的R矩阵元素。</p><p>通过观察Q/R的值，如果Q/R的值很小，说明观测噪声较大，这时候会更多的依靠预测值；</p><p>如果Q/R很小，会更多的依靠观测值。</p><p>在搭建Kalman的时候还有一点很重要，关于运动模型的选择。不同类型的目标运行模型是不一样的，比如，对于行人可以有任意方向的运动趋势，但是对于自行车和汽车，横纵向运动模型的约束条件是不同的因此一般会选择动力学模型进行状态维护。</p><p>关于车辆动力学模型可以参考以下文章，实际使用中我个人还是推荐在适当条件下对模型进行简化以便调试。</p><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/AdamShan/article/details/78696874\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">blog.csdn.net/AdamShan/</span><span class=\"invisible\">article/details/78696874</span><span class=\"ellipsis\"></span></a><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "数据融合", 
+                    "tagLink": "https://api.zhihu.com/topics/19920094"
+                }, 
+                {
+                    "tag": "自动驾驶", 
+                    "tagLink": "https://api.zhihu.com/topics/19635352"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Alado", 
+                    "userLink": "https://www.zhihu.com/people/f5006b8c9c52cc496330bcf67caadb2b", 
+                    "content": "<p>消灭0评论，关于Fusion的文章不多，好的更少，作者加油。 ：）</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "CrazyAlexZhang", 
+                    "userLink": "https://www.zhihu.com/people/fdb472ac87f02be5a22a608293168883", 
+                    "content": "目标被部分遮挡，尤其下半部分被遮挡，通过摄像头算出的距离误差就很大了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>这个图只是示意,大部分厂家还会选择使用车宽方向的标定信息.</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "CrazyAlexZhang"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "宇航员", 
+                    "userLink": "https://www.zhihu.com/people/60ed23ea6e28c389efbf34f19a41a32c", 
+                    "content": "Q/R值选择观测值还是预测值部分，有笔误写的都是小。Q/R越小说明观测噪声大 所以偏向预测值。Q/R越大说明观测噪声小，偏向观测值，是这样吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1105857682367635456"
+}

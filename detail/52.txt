@@ -1,0 +1,104 @@
+{
+    "title": "Python爬虫实战教程", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/wang-de-fa-30-96", 
+        "https://www.zhihu.com/people/feng-zhong-zhui-feng-46-87", 
+        "https://www.zhihu.com/people/wo-jiu-shi-dian-zheng", 
+        "https://www.zhihu.com/people/jiang-ai-min-70", 
+        "https://www.zhihu.com/people/shuxuecheng-43", 
+        "https://www.zhihu.com/people/da-du-du-41-4", 
+        "https://www.zhihu.com/people/beng-long-gong-si-ban-gong-si", 
+        "https://www.zhihu.com/people/ge-bi-jia-de-xiao-shu-83", 
+        "https://www.zhihu.com/people/su-ge-la-yuan-yu", 
+        "https://www.zhihu.com/people/tanghanna", 
+        "https://www.zhihu.com/people/xuda-ye-52", 
+        "https://www.zhihu.com/people/neng-zhe-lao-88", 
+        "https://www.zhihu.com/people/skyz319", 
+        "https://www.zhihu.com/people/weien-69", 
+        "https://www.zhihu.com/people/chang-an-luo-ri-qin-huai-xue", 
+        "https://www.zhihu.com/people/li-jin-qiang-53", 
+        "https://www.zhihu.com/people/ji-qi-xue-xi-cai-niao", 
+        "https://www.zhihu.com/people/jia-jia-63-22", 
+        "https://www.zhihu.com/people/yejin", 
+        "https://www.zhihu.com/people/bao-zou-de-ma-zha-79", 
+        "https://www.zhihu.com/people/zhou-jex", 
+        "https://www.zhihu.com/people/3022632468", 
+        "https://www.zhihu.com/people/zhang-zi-cheng-81", 
+        "https://www.zhihu.com/people/miao-le-zhu-ge-mi", 
+        "https://www.zhihu.com/people/zhu-zhu-zhu-37-12", 
+        "https://www.zhihu.com/people/li-shuo-teng", 
+        "https://www.zhihu.com/people/hao-hao-tang-tang-45", 
+        "https://www.zhihu.com/people/zhu-cheng-wang-luo-ke-ji", 
+        "https://www.zhihu.com/people/raining", 
+        "https://www.zhihu.com/people/zheng-ju-ming-64", 
+        "https://www.zhihu.com/people/gareth-58-50", 
+        "https://www.zhihu.com/people/xiang-yu-60-29", 
+        "https://www.zhihu.com/people/ku281", 
+        "https://www.zhihu.com/people/mo-xiao-qi-61-82", 
+        "https://www.zhihu.com/people/feng-xin-yu-15-86", 
+        "https://www.zhihu.com/people/fys-54"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63180142", 
+            "userName": "程序员向东", 
+            "userLink": "https://www.zhihu.com/people/aaa17f9df251cedbf1dfc344b791edcd", 
+            "upvote": 39, 
+            "title": "干货！精通爬虫必须要知道的3个学习技巧", 
+            "content": "<p>学爬虫有一段时间了，期间搜集了很多爬虫相关电子和视频教程，对于爬虫的学习主要有以下3点感悟，现总结如下，希望能帮助到大家。</p><h2>1. 一定要有爬虫学习资源</h2><p>要想真正学好爬虫，最重要的是要拥有什么？聪明的大脑？不，我觉得是要拥有一份适合自己学习爬虫的资料和教程。我把学习爬虫会用到的资料分为两种：1.爬虫相关书籍（包括电子书）；2.爬虫相关视频教程；</p><p>接下来我会分上面两种情况给大家列出我搜集的各种爬虫电子书和视频教程，<b>如果你想要的话，可以关注我公众号：程序员向东</b>，<b>然后回复关键字：爬虫</b>，即可获取一个打包的百度网盘地址。真诚送，无套路。</p><h3>1.1 爬虫相关书(共10本)</h3><ul><li>《Python 3网络爬虫开发实战》，豆瓣评分8.9，我刚开始学爬虫就是用的这本书，写的很详细，推荐入手。</li><li>《自己动手写爬虫》，豆瓣评分5.6。</li><li>《用python写网络爬虫》第二版。</li><li>《精通Scrapy网络爬虫》，豆瓣评分6.3。</li><li>《精通Python网络爬虫 核心技术、框架与项目实战》。</li><li>《从零开始学Python网络爬虫》</li><li>《Python网络数据采集》</li><li>《Python爬虫开发与项目实战 》</li><li>《Python3网络爬虫数据采集》</li><li>《网络爬虫全解析 技术、原理与实践》</li></ul><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-2f47b37ab7da9d87bfd175b3b238b7fa_b.jpg\" data-rawwidth=\"1098\" data-rawheight=\"1120\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1098\" data-original=\"https://pic3.zhimg.com/v2-2f47b37ab7da9d87bfd175b3b238b7fa_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1098&#39; height=&#39;1120&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1098\" data-rawheight=\"1120\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1098\" data-original=\"https://pic3.zhimg.com/v2-2f47b37ab7da9d87bfd175b3b238b7fa_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-2f47b37ab7da9d87bfd175b3b238b7fa_b.jpg\"/></figure><h3>1.2 爬虫视频教程(共7套)</h3><ul><li> 【崔庆才_Python3爬虫入门到精通课程视频附软件与电子书资料 34课】<br/> </li><li> 【Python爬虫从入门到高级实战】<br/> </li><li> 【零基础：21天搞定Python分布爬虫】<br/> </li><li> 【Python分布式爬虫打造搜索引擎】 <br/> </li><li> 【30个小时搞定Python网络爬虫（全套详细版）】<br/> </li><li> 【21堂不写代码的信息掘金课（完结） 爬虫第一季和第二季】<br/> </li></ul><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-a472364d9d5ee220c49c842cd7ae1488_b.jpg\" data-rawwidth=\"1182\" data-rawheight=\"872\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1182\" data-original=\"https://pic1.zhimg.com/v2-a472364d9d5ee220c49c842cd7ae1488_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1182&#39; height=&#39;872&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1182\" data-rawheight=\"872\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1182\" data-original=\"https://pic1.zhimg.com/v2-a472364d9d5ee220c49c842cd7ae1488_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a472364d9d5ee220c49c842cd7ae1488_b.jpg\"/></figure><h2>2. 一定要知道爬虫学习的路径</h2><p>首先，学习爬虫之前一定要有Python语言的基础，这里我们先假定你已经对Python比较熟练了，不熟练也没有关系，在学习爬虫的过程当中一点点补起来就好啦，Python比较容易上手，对新手很友好。</p><p>然后你就要学习爬虫方面的知识了，爬虫开发大致分为四个大的方面：1.获取页面；2.解析页面；3.数据存储；4.数据分析。每个方面都有对应的python库要学习。</p><p>爬虫技术只是我们获取数据的一种手段，重头戏在数据分析这里，如果想要学数据分析的话，你还要学习pandas、numpy、Matplotlib、SciPy等库的用法。</p><p>最后，爬虫的基础知识学的差不多之后，你就可以考虑用一些比较成熟的爬虫框架了，比如说scrapy，Pyspider。</p><ul><li>页面获取需要学习的python库：requests，selenium，ChromeDriver，PhantomJS，aiohttp</li><li>解析页面需要学习的python库：lxml，BeautifulSoup，xpath，pyqwery</li><li>数据存储需要学习的python库：PyMySQL，PyMongo，redis-py，RedisDump</li><li>数据分析需要学习的python库：pandas、numpy、Matplotlib、SciPy</li><li>数据存储需要学习的数据库有：Mysql，MongoDB，Redis</li><li>APP移动端爬取相关库：Charles，mitmproxy，APPium</li><li>爬虫框架：scrapy，Pyspider。</li></ul><h2>3. 一定要做爬虫学习笔记</h2><p>为什么很多技术大佬们能够在多门编程语言之间随意切换使用？为什么他们能够熟练掌握多个技术栈？有一个很重要的原因，那就是做学习笔记或者说是写博客。俗话说好记性不如烂笔头，学习的时候感觉很爽，一直学能一直爽。</p><p>但是学完之后，过了一段时间就会有遗忘，然后你就会经常产生这种感觉：那个函数是怎么写的来着？那个python库叫什么来着？相信我，分分钟你会觉得自己得了&#34;老年痴呆&#34;…...</p><p>但是如果你在学习的时候能将一些重点内容或者代码Demo记录下来，每当忘记的时候就能立马找到，然后复习巩固一下，一来二去你就记住了。这里我给大家推荐一款特别有效率的Markdown笔记软件：Typora。</p><p>Windows系统和Mac系统都有对应的版本。用Markdown有两点好处：1.特别方便排版；2.特别方便插入代码；3.特别方便同步到各大网络平台（像CSDN和知乎都支持Mardown编辑器），下面是我最近学习Java时做的笔记：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f891fdfca1f6a0e07b4dbad699703254_b.jpg\" data-rawwidth=\"2878\" data-rawheight=\"1798\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"2878\" data-original=\"https://pic1.zhimg.com/v2-f891fdfca1f6a0e07b4dbad699703254_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2878&#39; height=&#39;1798&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"2878\" data-rawheight=\"1798\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2878\" data-original=\"https://pic1.zhimg.com/v2-f891fdfca1f6a0e07b4dbad699703254_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f891fdfca1f6a0e07b4dbad699703254_b.jpg\"/></figure><p>所以，强烈建议大家，尤其是初学者，在学习爬虫的时候能做好学习笔记！</p><p>以上就是我给大家的一份爬虫学习建议，<b>如果你想获取更多有关python、爬虫、数据分析等方面的资料和干货，欢迎大家关注我的公众号：程序员向东。</b>我在公号等你~</p>", 
+            "topic": [
+                {
+                    "tag": "python爬虫", 
+                    "tagLink": "https://api.zhihu.com/topics/20086364"
+                }, 
+                {
+                    "tag": "爬虫 (计算机网络)", 
+                    "tagLink": "https://api.zhihu.com/topics/19577498"
+                }, 
+                {
+                    "tag": "网页爬虫", 
+                    "tagLink": "https://api.zhihu.com/topics/19794679"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "张马良", 
+                    "userLink": "https://www.zhihu.com/people/3982c5c7e71490060ffa98c702d36b58", 
+                    "content": "[赞同]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "小河君", 
+                    "userLink": "https://www.zhihu.com/people/3c43b6bc5111a936532cdb825afd468e", 
+                    "content": "为啥不推荐jupyter呢，做笔记，做数据分析，都超爽。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "周小周", 
+                    "userLink": "https://www.zhihu.com/people/90bd96402af0f651d20c83e700f7db64", 
+                    "content": "你分享的文件已经取消了呢[大哭]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "雨落心安", 
+                    "userLink": "https://www.zhihu.com/people/b47f43cdbc5a3eee1cf5df1da6b435ea", 
+                    "content": "资料 分析一下", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "风中追风", 
+                    "userLink": "https://www.zhihu.com/people/5ba66d48f4aa6bbba140766dfacb0bc6", 
+                    "content": "你分享的资料已经取消了", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1101075724554829824"
+}

@@ -1,0 +1,1302 @@
+{
+    "title": "JacksBlog", 
+    "description": "不定期的分享一些技术沉淀的原创干货的，一起踏上技术成长的征程。", 
+    "followers": [
+        "https://www.zhihu.com/people/wx7493d8d080237c43", 
+        "https://www.zhihu.com/people/lu-cheng-44-6", 
+        "https://www.zhihu.com/people/sun-king-20", 
+        "https://www.zhihu.com/people/gd-wan", 
+        "https://www.zhihu.com/people/libin-sui", 
+        "https://www.zhihu.com/people/wasd-20-22", 
+        "https://www.zhihu.com/people/qiu-peng-cheng-41", 
+        "https://www.zhihu.com/people/zhu-jia-65-37", 
+        "https://www.zhihu.com/people/xiao-xiao-28-3-25", 
+        "https://www.zhihu.com/people/xuan-bing-yu-tian-que", 
+        "https://www.zhihu.com/people/zhou-zhi-ling-38", 
+        "https://www.zhihu.com/people/xu-yi-hang", 
+        "https://www.zhihu.com/people/on9supershi-shi-gou", 
+        "https://www.zhihu.com/people/qie-yi-sheng", 
+        "https://www.zhihu.com/people/openthedoors", 
+        "https://www.zhihu.com/people/dan-bo-feng-yun", 
+        "https://www.zhihu.com/people/guan-li-ming-81", 
+        "https://www.zhihu.com/people/fan-juan-93", 
+        "https://www.zhihu.com/people/keen-kuang", 
+        "https://www.zhihu.com/people/ohaha-47", 
+        "https://www.zhihu.com/people/geekbits", 
+        "https://www.zhihu.com/people/ying-zi-th-16", 
+        "https://www.zhihu.com/people/roobin.lij", 
+        "https://www.zhihu.com/people/Larryu", 
+        "https://www.zhihu.com/people/zhu-bruce-20", 
+        "https://www.zhihu.com/people/leo-21-66-11", 
+        "https://www.zhihu.com/people/he-yun-sheng", 
+        "https://www.zhihu.com/people/ybtk", 
+        "https://www.zhihu.com/people/gzifr", 
+        "https://www.zhihu.com/people/BryanYau", 
+        "https://www.zhihu.com/people/wang-jun-zhao-43-61", 
+        "https://www.zhihu.com/people/qi-xin-tian-yun-fei", 
+        "https://www.zhihu.com/people/sunrunze-48", 
+        "https://www.zhihu.com/people/ggj-15-4", 
+        "https://www.zhihu.com/people/feng-xin-zi-69-52", 
+        "https://www.zhihu.com/people/rickwang", 
+        "https://www.zhihu.com/people/fei-xing-yu-84", 
+        "https://www.zhihu.com/people/shuidf", 
+        "https://www.zhihu.com/people/frank-dong", 
+        "https://www.zhihu.com/people/docatxin", 
+        "https://www.zhihu.com/people/abc-shi-73", 
+        "https://www.zhihu.com/people/wanliqun", 
+        "https://www.zhihu.com/people/zhao-bing-chen-42", 
+        "https://www.zhihu.com/people/huang-xiao-hou-zi", 
+        "https://www.zhihu.com/people/sun-jun-4", 
+        "https://www.zhihu.com/people/robinvanyang", 
+        "https://www.zhihu.com/people/sun-cheng-wu-28", 
+        "https://www.zhihu.com/people/a-wei-xiao-sheng-39", 
+        "https://www.zhihu.com/people/zhou-rui-ming-7-95", 
+        "https://www.zhihu.com/people/frankliuyang", 
+        "https://www.zhihu.com/people/zhitops", 
+        "https://www.zhihu.com/people/wu-hong-28-46", 
+        "https://www.zhihu.com/people/li-yi-heng-60-80", 
+        "https://www.zhihu.com/people/simonhao", 
+        "https://www.zhihu.com/people/sunyake", 
+        "https://www.zhihu.com/people/she-liang", 
+        "https://www.zhihu.com/people/a-pi-70-9", 
+        "https://www.zhihu.com/people/vvccchen", 
+        "https://www.zhihu.com/people/li-zheng-cao-94", 
+        "https://www.zhihu.com/people/Minder", 
+        "https://www.zhihu.com/people/wu-xin-94-91", 
+        "https://www.zhihu.com/people/gui-luo-yan-44", 
+        "https://www.zhihu.com/people/wu-suijian", 
+        "https://www.zhihu.com/people/haixi_", 
+        "https://www.zhihu.com/people/shi-jiao-bu-yiyang", 
+        "https://www.zhihu.com/people/kingkongwang", 
+        "https://www.zhihu.com/people/you-dont-know", 
+        "https://www.zhihu.com/people/yue-da-xiang-94", 
+        "https://www.zhihu.com/people/charlex-18", 
+        "https://www.zhihu.com/people/younghuster", 
+        "https://www.zhihu.com/people/amazing_cat", 
+        "https://www.zhihu.com/people/lsanotes", 
+        "https://www.zhihu.com/people/r-brett", 
+        "https://www.zhihu.com/people/prettykernel", 
+        "https://www.zhihu.com/people/weixx3", 
+        "https://www.zhihu.com/people/fkuk", 
+        "https://www.zhihu.com/people/li-kun-yu-69", 
+        "https://www.zhihu.com/people/zhao-jing-jing-77-17", 
+        "https://www.zhihu.com/people/huang-ny", 
+        "https://www.zhihu.com/people/ge-diao-li-de-hei-bai-kong", 
+        "https://www.zhihu.com/people/cai-niao-11-34", 
+        "https://www.zhihu.com/people/zhui-xun-60", 
+        "https://www.zhihu.com/people/watsonyao", 
+        "https://www.zhihu.com/people/wj-shen", 
+        "https://www.zhihu.com/people/wen-tian-67-97", 
+        "https://www.zhihu.com/people/inextime", 
+        "https://www.zhihu.com/people/chiemy", 
+        "https://www.zhihu.com/people/james732", 
+        "https://www.zhihu.com/people/xiao-li-18-37", 
+        "https://www.zhihu.com/people/jr-lee-91", 
+        "https://www.zhihu.com/people/EricW", 
+        "https://www.zhihu.com/people/xu-chang-84-45", 
+        "https://www.zhihu.com/people/wangle-liu", 
+        "https://www.zhihu.com/people/zhang-da-huo-huo", 
+        "https://www.zhihu.com/people/shyky4it", 
+        "https://www.zhihu.com/people/mi-sa-33-78", 
+        "https://www.zhihu.com/people/tsaiPitt", 
+        "https://www.zhihu.com/people/li-wen-qi-14-93", 
+        "https://www.zhihu.com/people/xu-xiao-ying-52", 
+        "https://www.zhihu.com/people/xie-bo-yuan-23", 
+        "https://www.zhihu.com/people/shuitianyise", 
+        "https://www.zhihu.com/people/hexhex-21", 
+        "https://www.zhihu.com/people/peng-bo-37-7", 
+        "https://www.zhihu.com/people/hui-fei-de-tu-zi-79-69", 
+        "https://www.zhihu.com/people/dada123", 
+        "https://www.zhihu.com/people/dangxueyi", 
+        "https://www.zhihu.com/people/he-zhi-qiang-97", 
+        "https://www.zhihu.com/people/ding-ding-31-6", 
+        "https://www.zhihu.com/people/qy-li-41", 
+        "https://www.zhihu.com/people/zhang-yifeng", 
+        "https://www.zhihu.com/people/edidada", 
+        "https://www.zhihu.com/people/yi-jiu", 
+        "https://www.zhihu.com/people/weng-jevol"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/87980739", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 1, 
+            "title": "🔥🔥🔥字节跳动-上海-安卓客户端工程师(社招 & 校招 & 实习生)，内推码：E3AEYQG", 
+            "content": "<p>我们的团队是字节跳动在上海的安卓客户端团队，目前所做的业务面向国内&amp;海外，产品类型有 社区 / 社交 / 在线教育 等等，同时也有部分同学从事跨平台相关的技术工作。</p><p>各个Level都要，来者不拒！</p><p>我们希望你     </p><p>- 有相对扎实的计算机基础，了解基本的数据结构和算法，有一定的编程经验（重点：不需要刻意刷题）      </p><p>- 有不错的客户端编程基础，了解Android平台相关功能开发、异常分析与性能优化相关的知识</p><p>- 对于技术有热情，务实，自驱</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在这里你可以获得   </p><p>- 参与从零开始打造一款新产品的机会      </p><p>- 免费的一日三餐和健身（好像是大部分公司的标配）以及住宿补贴      </p><p>- 具有竞争力的薪资待遇和优厚的公司福利</p><p class=\"ztext-empty-paragraph\"><br/></p><p>职位描述： </p><p>- 负责今日头条新产品业务的功能研发和性能优化，完成高质量编码和测试工作；   </p><p>- 和产品经理配合，深度参与手机产品需求讨论，功能定义等 ；</p><p>- 设计良好的代码结构，不断迭代重构 ；    </p><p>- 承担重点、难点的技术攻坚。   </p><p class=\"ztext-empty-paragraph\"><br/></p><p>职位要求： </p><p>- 本科及以上学历，计算机、通信等相关专业；</p><p>- 具有扎实的编程功底，良好的设计能力和编程习惯； </p><p>- 熟练掌握Java，熟悉Android SDK ；</p><p>- 一年以上Android开发经验，能独立开发Android App； </p><p>- 有较好的产品意识优先；</p><p>- 积极乐观，责任心强，工作认真细致，具有良好的团队沟通与协作能力；</p><p>- 热爱移动产品研发，有较强的学习能力，有强烈的求知欲、好奇心和进取心 ，能及时关注和学习业界最新的移动开发技术。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>公司地址   </p><p>- 上海市闵行区宜山路 1999 号科技绿洲三期 24 号楼</p><p>投递方式（二选一均可，建议采用邮箱的方式）</p><p>邮箱：gongzhenjie@bytedance.com</p><p>官网： <a href=\"https://link.zhihu.com/?target=https%3A//job.toutiao.com/referral/pc/position/detail/%3Ftoken%3DMTsxNTcxNzUzNjU5MTExOzY2ODgyMzE0MTkyNzkzNDUxNjM7NjczMzM3OTQzOTA2MjY4MTg2OQ%253D%253D\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">社招职位这里投递</a></p>", 
+            "topic": [
+                {
+                    "tag": "校园招聘", 
+                    "tagLink": "https://api.zhihu.com/topics/19563240"
+                }, 
+                {
+                    "tag": "Android", 
+                    "tagLink": "https://api.zhihu.com/topics/19603145"
+                }, 
+                {
+                    "tag": "招聘", 
+                    "tagLink": "https://api.zhihu.com/topics/19578758"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/70969241", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 0, 
+            "title": "提高运营ROI 10000%的潘多拉魔盒", 
+            "content": "<p>好久没有更新文章了，由于最近刚刚入职字节跳动，快速融入了两个月做了一个项目，后续还是会尽量挤一点自己的时间，给大家分享一些相对极客的想法以及成长路上的知识点，有些可能纯粹是一些我觉得有意思的想法，不一定准确，发出来也是希望能够与大家沟通，欢迎大家评论拍砖。</p><hr/><p>为了更好的阅读体验与更新体验，请移步:  <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/ai-bot-writer/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">提高运营ROI 10000%的潘多拉魔盒</a></p>", 
+            "topic": [
+                {
+                    "tag": "运营", 
+                    "tagLink": "https://api.zhihu.com/topics/19564940"
+                }, 
+                {
+                    "tag": "AI技术", 
+                    "tagLink": "https://api.zhihu.com/topics/20106982"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63241259", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 0, 
+            "title": "神经网络历史以及浅析神经网络与感知机", 
+            "content": "<p>本文为吴岸城《神经网络与深度学习》学习过程中0-3章部分的学习笔记的整理。</p><hr/><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/neuro-history-perceptron/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">神经网络历史以及浅析神经网络与感知机</a></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "感知机", 
+                    "tagLink": "https://api.zhihu.com/topics/20682863"
+                }, 
+                {
+                    "tag": "神经网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19607065"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63014907", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 0, 
+            "title": "TLS握手、中断恢复与证书中心的原因", 
+            "content": "<p>我们在以前的多篇文章中都有提到各类网络协议的特征(如<a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/network_basic/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">常见网络协议优化与演进</a>)，但是对于网络安全相关这块却很零碎，我本地整理了挺多文章但是我给文章定的框架过大，导致完全无法结束，今天就把其中两个常见的问题抽出来整理成文，希望对大家有所帮助。</p><hr/><p>为了更好的阅读体验与更新体验，请移步:  <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/tls_cert/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">TLS握手、中断恢复与证书中心的原因</a></p>", 
+            "topic": [
+                {
+                    "tag": "SSL", 
+                    "tagLink": "https://api.zhihu.com/topics/19567919"
+                }, 
+                {
+                    "tag": "数字证书", 
+                    "tagLink": "https://api.zhihu.com/topics/19616890"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62774983", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 1, 
+            "title": "Mac下定制Android ROM", 
+            "content": "<p>我们经常可以在网络上看到各类的魔改ROM，甚至在Windows上有很多定制ROM的工具，只不过这些工具都会在最终打包的时候内置一些广告应用作为系统应用甚至病毒，实际上这些工具无非就是对常规的各类<code>img</code>文件进行挂载、重打包的过程，由于编译出来的ROM的目录结构大同小异，因此不用做太多的适配，无非都是删除一些系统内置应用、添加所谓杜比音效包、添加Xposed框架、Root之类的(有关Android Root可以参看<a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/android-root/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这篇文章</a>)。由于我常年使用Mac，今天我们就来看看在Mac下如何对ROM进行修改编辑以及重打包吧。</p><hr/><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/mac_diy_android_rom/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Mac下定制Android ROM</a></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "Android 第三方 ROM", 
+                    "tagLink": "https://api.zhihu.com/topics/19688480"
+                }, 
+                {
+                    "tag": "Mac", 
+                    "tagLink": "https://api.zhihu.com/topics/19550264"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/59195527", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 1, 
+            "title": "通过Xposed隐藏MIUI Launcher图标", 
+            "content": "<p>最近总看一些看雪的东西，顺便反编译了下MiuiHome，然后隐藏了下桌面的应用，虽然是很小的场景吧，但是想想记录下，虽然对大家估计没有太多帮助，开心就好。</p><hr/><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/xposed_miui_launcher/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">通过Xposed隐藏MIUI Launcher图标</a></p>", 
+            "topic": [
+                {
+                    "tag": "Xposed Framework", 
+                    "tagLink": "https://api.zhihu.com/topics/19909639"
+                }, 
+                {
+                    "tag": "米柚（MIUI）", 
+                    "tagLink": "https://api.zhihu.com/topics/19568553"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58810621", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 72, 
+            "title": "100元让MacBook Pro性能提高一倍?", 
+            "content": "<p>前段时间在油管上看到<a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DbUnm-korNUE%26t%3D379s\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">一个视频</a>，通过该方法提高了1倍的电脑速度（他买的是暴力熊，我直接上TFX理论上比暴力熊还会低几度）。</p><hr/><p>为了更好的阅读体验与更新体验，请移步:  <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/mbp_switch_silica_gel/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">100元让MacBook Pro性能提高一倍?</a></p>", 
+            "topic": [
+                {
+                    "tag": "MacBook Pro", 
+                    "tagLink": "https://api.zhihu.com/topics/19550261"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "致各位没空慢慢看那个20分钟视频的人们：YouTube 上那个视频的名字叫 Solved overheating problem on my MacBook Pro 15\" Mid 2015 by replacing the thermal paste。", 
+                    "likes": 26, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "屁股猫", 
+                    "userLink": "https://www.zhihu.com/people/e2d121c17e103d0ff56192bae8420071", 
+                    "content": "<p>换硅胶？</p><p></p>", 
+                    "likes": 12, 
+                    "childComments": [
+                        {
+                            "userName": "Eifersucht", 
+                            "userLink": "https://www.zhihu.com/people/342b2c6cb48716c3b1a859a15de83dca", 
+                            "content": "硅脂。。。", 
+                            "likes": 5, 
+                            "replyToAuthor": "屁股猫"
+                        }, 
+                        {
+                            "userName": "时间并不存在", 
+                            "userLink": "https://www.zhihu.com/people/3e5e009f4d51e9e517d3d66173c648e3", 
+                            "content": "笑出声", 
+                            "likes": 2, 
+                            "replyToAuthor": "屁股猫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>如果你慢慢看，你将浪费你人生中的二十分钟</p>", 
+                    "likes": 38, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "<p>哈哈哈哈哈</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "Desperado", 
+                            "userLink": "https://www.zhihu.com/people/fa2d6de312569e6a41583d7cd375c06a", 
+                            "content": "<p>还好我只浪费了三分钟</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "王子尧", 
+                    "userLink": "https://www.zhihu.com/people/49f00bad400ec910380d342d6df3744d", 
+                    "content": "<p>浪费人生。从知乎调到个人网站看bilibili的视频，二十分钟，啥内容都没有。哥们你去UC上班吧</p>", 
+                    "likes": 33, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "<p>特地查了下这个梗...hhhh</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王子尧"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "三銓三", 
+                    "userLink": "https://www.zhihu.com/people/a84405c481c5a2984d581cb235e77136", 
+                    "content": "我直接上液金<br><a href=\"https://zhuanlan.zhihu.com/p/56395920\" class=\"internal\"><span class=\"invisible\">https://</span><span class=\"visible\">zhuanlan.zhihu.com/p/56</span><span class=\"invisible\">395920</span><span class=\"ellipsis\"></span></a>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "琨哥", 
+                    "userLink": "https://www.zhihu.com/people/3b37701b9d1e675d526a1315f35c5971", 
+                    "content": "<p>你这个摄像头的视角啊……而且善用剪辑啊，中间不必要的时间剪掉呗，后脑勺斜后方的视角是什么鬼……什么都看不清啊</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "和尚洗头用飘柔", 
+                    "userLink": "https://www.zhihu.com/people/6289bf45cd3d2025fe4d7cd73e5cf0b1", 
+                    "content": "库克说，我大苹果还在乎这100块钱？明年升级的几亿预算都给我停了！", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Nan eNJoy", 
+                    "userLink": "https://www.zhihu.com/people/c606f6ef8a7b5658eb73d1f8bfef5d9c", 
+                    "content": "<p>懒得移步。</p>", 
+                    "likes": 4, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "猫太牛", 
+                    "userLink": "https://www.zhihu.com/people/069782f4773bb1aff7148c8d6601e507", 
+                    "content": "如果我换了没有提升一倍呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "双人份", 
+                            "userLink": "https://www.zhihu.com/people/2943c19f849bd2927379e2f1945339a8", 
+                            "content": "你就浪费了100块钱", 
+                            "likes": 16, 
+                            "replyToAuthor": "猫太牛"
+                        }, 
+                        {
+                            "userName": "猫太牛", 
+                            "userLink": "https://www.zhihu.com/people/069782f4773bb1aff7148c8d6601e507", 
+                            "content": "大实话", 
+                            "likes": 0, 
+                            "replyToAuthor": "双人份"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "简单未遂的简单", 
+                    "userLink": "https://www.zhihu.com/people/394ac95a4315ca104993215ae8512fae", 
+                    "content": "<p>所以有看了视频的人能告诉我吗，这个视频是不是就只是说换了一下硅脂？上班中没时间细看，推送点开了还要跳转，看了下要20min就放弃了……</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Derek Liu", 
+                    "userLink": "https://www.zhihu.com/people/1f731a7715bfb0d70c86fff4f5d724cb", 
+                    "content": "为了更好的阅读体验？在下输了。", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "山顶洞星人", 
+                    "userLink": "https://www.zhihu.com/people/769498485ee5976bf41cd6f543de91e5", 
+                    "content": "你知道一倍的性能是什么概念吗", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "无期徒刑", 
+                    "userLink": "https://www.zhihu.com/people/fe5cd0213203afc16e1d976ff53a0afa", 
+                    "content": "<p>优化一下散热，不降频了</p><p>性能翻倍是想多了， 这么点钱性能能翻倍，苹果敢多卖1W块</p><p>话说macbook系列的散热真的垃圾</p><p>2CM一下的，目前还没发现哪个能压得住i7 8750H的</p>", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "不如拿保鲜膜包好放在冰箱里。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "特立独行的航瑞", 
+                    "userLink": "https://www.zhihu.com/people/b74490f85f68d1416e0a12f9ead37bd9", 
+                    "content": "TFX8真的厉害，游戏本超频百分之10，然后加上外置风扇散热器，ad64烤机温度没有过50度，待机29度左右。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "有风就会飞", 
+                    "userLink": "https://www.zhihu.com/people/e1b8124e101ef0d695914613bac3174b", 
+                    "content": "无聊吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>花了100块钱废了保修</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "[捂脸]", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "者也", 
+                    "userLink": "https://www.zhihu.com/people/7cd80501a383745265ec3819ef6b5a4e", 
+                    "content": "拉黑拉黑拉黑[生气]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "张鼐", 
+                    "userLink": "https://www.zhihu.com/people/a6030ae0016f93ed57f5a33bb6b30eaf", 
+                    "content": "应该说是本身就有这个性能，只是因为散热原因没发挥出来，我直接放冰箱不是更好？100都省了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "TzuHsing Su", 
+                    "userLink": "https://www.zhihu.com/people/f3d7e5f52d03b3cb0b54a6a79fde8312", 
+                    "content": "目测是推个人博客[飙泪笑]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "致各位没空慢慢看那个20分钟视频的人们：YouTube 上那个视频的名字叫 Solved overheating problem on my MacBook Pro 15\" Mid 2015 by replacing the thermal paste。", 
+                    "likes": 26, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "屁股猫", 
+                    "userLink": "https://www.zhihu.com/people/e2d121c17e103d0ff56192bae8420071", 
+                    "content": "<p>换硅胶？</p><p></p>", 
+                    "likes": 12, 
+                    "childComments": [
+                        {
+                            "userName": "Eifersucht", 
+                            "userLink": "https://www.zhihu.com/people/342b2c6cb48716c3b1a859a15de83dca", 
+                            "content": "硅脂。。。", 
+                            "likes": 5, 
+                            "replyToAuthor": "屁股猫"
+                        }, 
+                        {
+                            "userName": "时间并不存在", 
+                            "userLink": "https://www.zhihu.com/people/3e5e009f4d51e9e517d3d66173c648e3", 
+                            "content": "笑出声", 
+                            "likes": 2, 
+                            "replyToAuthor": "屁股猫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>如果你慢慢看，你将浪费你人生中的二十分钟</p>", 
+                    "likes": 38, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "<p>哈哈哈哈哈</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "Desperado", 
+                            "userLink": "https://www.zhihu.com/people/fa2d6de312569e6a41583d7cd375c06a", 
+                            "content": "<p>还好我只浪费了三分钟</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "王子尧", 
+                    "userLink": "https://www.zhihu.com/people/49f00bad400ec910380d342d6df3744d", 
+                    "content": "<p>浪费人生。从知乎调到个人网站看bilibili的视频，二十分钟，啥内容都没有。哥们你去UC上班吧</p>", 
+                    "likes": 33, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "<p>特地查了下这个梗...hhhh</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王子尧"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "三銓三", 
+                    "userLink": "https://www.zhihu.com/people/a84405c481c5a2984d581cb235e77136", 
+                    "content": "我直接上液金<br><a href=\"https://zhuanlan.zhihu.com/p/56395920\" class=\"internal\"><span class=\"invisible\">https://</span><span class=\"visible\">zhuanlan.zhihu.com/p/56</span><span class=\"invisible\">395920</span><span class=\"ellipsis\"></span></a>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "琨哥", 
+                    "userLink": "https://www.zhihu.com/people/3b37701b9d1e675d526a1315f35c5971", 
+                    "content": "<p>你这个摄像头的视角啊……而且善用剪辑啊，中间不必要的时间剪掉呗，后脑勺斜后方的视角是什么鬼……什么都看不清啊</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "和尚洗头用飘柔", 
+                    "userLink": "https://www.zhihu.com/people/6289bf45cd3d2025fe4d7cd73e5cf0b1", 
+                    "content": "库克说，我大苹果还在乎这100块钱？明年升级的几亿预算都给我停了！", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Nan eNJoy", 
+                    "userLink": "https://www.zhihu.com/people/c606f6ef8a7b5658eb73d1f8bfef5d9c", 
+                    "content": "<p>懒得移步。</p>", 
+                    "likes": 4, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "猫太牛", 
+                    "userLink": "https://www.zhihu.com/people/069782f4773bb1aff7148c8d6601e507", 
+                    "content": "如果我换了没有提升一倍呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "双人份", 
+                            "userLink": "https://www.zhihu.com/people/2943c19f849bd2927379e2f1945339a8", 
+                            "content": "你就浪费了100块钱", 
+                            "likes": 16, 
+                            "replyToAuthor": "猫太牛"
+                        }, 
+                        {
+                            "userName": "猫太牛", 
+                            "userLink": "https://www.zhihu.com/people/069782f4773bb1aff7148c8d6601e507", 
+                            "content": "大实话", 
+                            "likes": 0, 
+                            "replyToAuthor": "双人份"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "简单未遂的简单", 
+                    "userLink": "https://www.zhihu.com/people/394ac95a4315ca104993215ae8512fae", 
+                    "content": "<p>所以有看了视频的人能告诉我吗，这个视频是不是就只是说换了一下硅脂？上班中没时间细看，推送点开了还要跳转，看了下要20min就放弃了……</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Derek Liu", 
+                    "userLink": "https://www.zhihu.com/people/1f731a7715bfb0d70c86fff4f5d724cb", 
+                    "content": "为了更好的阅读体验？在下输了。", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "山顶洞星人", 
+                    "userLink": "https://www.zhihu.com/people/769498485ee5976bf41cd6f543de91e5", 
+                    "content": "你知道一倍的性能是什么概念吗", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "无期徒刑", 
+                    "userLink": "https://www.zhihu.com/people/fe5cd0213203afc16e1d976ff53a0afa", 
+                    "content": "<p>优化一下散热，不降频了</p><p>性能翻倍是想多了， 这么点钱性能能翻倍，苹果敢多卖1W块</p><p>话说macbook系列的散热真的垃圾</p><p>2CM一下的，目前还没发现哪个能压得住i7 8750H的</p>", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "不如拿保鲜膜包好放在冰箱里。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "特立独行的航瑞", 
+                    "userLink": "https://www.zhihu.com/people/b74490f85f68d1416e0a12f9ead37bd9", 
+                    "content": "TFX8真的厉害，游戏本超频百分之10，然后加上外置风扇散热器，ad64烤机温度没有过50度，待机29度左右。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "有风就会飞", 
+                    "userLink": "https://www.zhihu.com/people/e1b8124e101ef0d695914613bac3174b", 
+                    "content": "无聊吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>花了100块钱废了保修</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "[捂脸]", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "者也", 
+                    "userLink": "https://www.zhihu.com/people/7cd80501a383745265ec3819ef6b5a4e", 
+                    "content": "拉黑拉黑拉黑[生气]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "张鼐", 
+                    "userLink": "https://www.zhihu.com/people/a6030ae0016f93ed57f5a33bb6b30eaf", 
+                    "content": "应该说是本身就有这个性能，只是因为散热原因没发挥出来，我直接放冰箱不是更好？100都省了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "TzuHsing Su", 
+                    "userLink": "https://www.zhihu.com/people/f3d7e5f52d03b3cb0b54a6a79fde8312", 
+                    "content": "目测是推个人博客[飙泪笑]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57260400", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 0, 
+            "title": "MacBook Pro 读写速度稳定翻倍 一毛没花还赚了100元!", 
+            "content": "<p>我的Macbook Pro是15款的顶配，512G的固态，原本就有计划想要升级下，因为一些大项目的开发对硬盘的读写要求还是很高的，但是一直都是观望状态，直到一次偶然的机会在闲鱼以极地的价格入了970 Pro 1TB，换上后各项速度碾压原厂。</p><hr/><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/macbookpro_ssd_970pro1tb/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">MacBook Pro 自行升级SSD 固态970 Pro 1TB 碾压原厂</a></p>", 
+            "topic": [
+                {
+                    "tag": "MacBook Pro", 
+                    "tagLink": "https://api.zhihu.com/topics/19550261"
+                }, 
+                {
+                    "tag": "固态硬盘", 
+                    "tagLink": "https://api.zhihu.com/topics/19562697"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/56886815", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 5, 
+            "title": "Mac 直播游戏，斗鱼直播，bilibili直播", 
+            "content": "<p>目前其实很少有平台有提供在Mac上进行直播的工具，因此这边不得不依赖一些第三方的工具通过推流的方式进行直播，另外还有是对将手机投屏到电脑上也是一个问题，如何做到流畅，高清呢，今天我们就来解决这些问题。</p><hr/><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/live_guideline/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Mac 直播游戏，斗鱼直播，bilibili直播</a></p>", 
+            "topic": [
+                {
+                    "tag": "直播", 
+                    "tagLink": "https://api.zhihu.com/topics/19616004"
+                }, 
+                {
+                    "tag": "rtmp", 
+                    "tagLink": "https://api.zhihu.com/topics/19720217"
+                }, 
+                {
+                    "tag": "macOS", 
+                    "tagLink": "https://api.zhihu.com/topics/19550290"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "kailin li", 
+                    "userLink": "https://www.zhihu.com/people/2bf05b4f057152c37c182fdce47ef70c", 
+                    "content": "obs了解下", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "<p>嗯，有用到</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "kailin li"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "有心了🙏🏻致敬完善Mac生态的开发大神", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "刘小白", 
+                    "userLink": "https://www.zhihu.com/people/d01830abe06eae1674750b034e308de6", 
+                    "content": "请问scrcpy投屏，手机需要下载什么软件吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53692916", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 18, 
+            "title": "家用NAS远程无缝访问", 
+            "content": "<p>这段时间家里自建了NAS，做了很多服务，不过这类服务都是基于局域网的，如果只是通过在电信猫与路由器上进行端口转发，这样回到家使用内网IP内网的端口策略，出门后又要改用公网IP，公网端口策略十分不方便，于是想到了公司目前很多AWS服务都是基于OpenVPN对其局域网内的各类服务访问，于是就打算在OpenWRT上搭建一个OpenVPN服务，这样出门只需要通过Tunnelblick连接上路由器的VPN，将所有<code>192.168.99.0/24</code>的流量路由到OpenVPN上，就可以保证出门在外也和在家时候一样的访问所有家里局域网的服务，不用走两套策略了。</p><hr/><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/openwrt_openvpn/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">OpenWRT OpenVPN配置远程访问所有家里局域网服务</a></p>", 
+            "topic": [
+                {
+                    "tag": "OpenWrt", 
+                    "tagLink": "https://api.zhihu.com/topics/19653984"
+                }, 
+                {
+                    "tag": "家用 NAS", 
+                    "tagLink": "https://api.zhihu.com/topics/19736752"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "琰璟", 
+                    "userLink": "https://www.zhihu.com/people/7fb1fcd2d3ea1438fcb74523da686aeb", 
+                    "content": "我看文章中配置客户端时，要填写远程服务端公网IP。假设1.动态公网IP怎么办2.没有公网IP怎么办。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "andy wh", 
+                    "userLink": "https://www.zhihu.com/people/99837d386ef57dc9aeca48f72747cc71", 
+                    "content": "<p>你们要进去了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Cartman", 
+                    "userLink": "https://www.zhihu.com/people/32350d3d26ded12230cb1f40788dea7d", 
+                    "content": "<p>我的方案是，弄个域名，在外ddns直接解析家里的公网ip，在家就路由器上改dns指向内网ip</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/52427737", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 1, 
+            "title": "流利说APM性能平台大盘工程实践", 
+            "content": "<p>APM全称是<code>Application Performance Management</code>，即应用性能管理平台。对于公司而言，应用发展到现在这个阶段，在人员不断扩展、业务不断复杂、新产品不断孵化，拥有一个统一质量、安全管理平台对于应用健康状况全方位实时的把脉，以及对于业务的可持续化发展的保驾护航是尤为重要的。</p><hr/><p>为了更好的阅读体验与更新体验，请移步:  <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/lls-apm/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">流利说APM性能平台大盘工程实践</a></p>", 
+            "topic": [
+                {
+                    "tag": "APM（应用性能管理）", 
+                    "tagLink": "https://api.zhihu.com/topics/20183041"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51420649", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 1, 
+            "title": "网件R7800 NAS搭建(Samba + Aria2 + OwnCloud + AFPD)", 
+            "content": "<p>购买了网件R7800后，绝不会是简单的<a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/r7800-ss-kcptun/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">YouTuBe 4K体验</a>的升级，我们更具需要的是将其打造成一整套的NAS，于是购买了一个4TB的硬盘以及相关的底座，搞起。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文主要记录了如何通过R7800的ESATA口外接一个机械硬盘(50MB/s读写)，在路由器上搭建NAS。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/r7800_nas/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">网件R7800 NAS搭建</a></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "家用 NAS", 
+                    "tagLink": "https://api.zhihu.com/topics/19736752"
+                }, 
+                {
+                    "tag": "OpenWrt", 
+                    "tagLink": "https://api.zhihu.com/topics/19653984"
+                }, 
+                {
+                    "tag": "Samba", 
+                    "tagLink": "https://api.zhihu.com/topics/19793907"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33479793", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 6, 
+            "title": "TCP 窗口", 
+            "content": "<p>在发起一个HTTP请求后，不主动读取输入流的情况下，抓包发现却莫名的下载了一小部分内容，这到底是什么原因呢?</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/tcp-window/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">TCP窗口</a></p>", 
+            "topic": [
+                {
+                    "tag": "TCP/IP", 
+                    "tagLink": "https://api.zhihu.com/topics/19614019"
+                }, 
+                {
+                    "tag": "计算机网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19572894"
+                }, 
+                {
+                    "tag": "网络工程", 
+                    "tagLink": "https://api.zhihu.com/topics/19658134"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31202097", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 8, 
+            "title": "Looper探底", 
+            "content": "<p>之前有整理过一篇<a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/2016/03/11/android_handler_looper/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Android Handler Looper机制</a>，不过细细想来，其实还是可以再探探底的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/looper/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Looper探底</a></p>", 
+            "topic": [
+                {
+                    "tag": "IO多路复用", 
+                    "tagLink": "https://api.zhihu.com/topics/20054206"
+                }, 
+                {
+                    "tag": "Loop", 
+                    "tagLink": "https://api.zhihu.com/topics/19669507"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31202046", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 13, 
+            "title": "Java(JVM) 内存模型与内存管理", 
+            "content": "<p>我们知道Java最大的特性之一就是其运行的虚拟机环境通过内存模型与管理拥有自动垃圾回收机制，今天我们就看看该模型与如果通过该模型实现垃圾回收机制的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/jmm/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Java(JVM) 内存模型与内存管理</a></p>", 
+            "topic": [
+                {
+                    "tag": "Java 虚拟机（JVM）", 
+                    "tagLink": "https://api.zhihu.com/topics/19566470"
+                }, 
+                {
+                    "tag": "Java 内存模型", 
+                    "tagLink": "https://api.zhihu.com/topics/20078824"
+                }, 
+                {
+                    "tag": "java GC", 
+                    "tagLink": "https://api.zhihu.com/topics/20041701"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "王磊", 
+                    "userLink": "https://www.zhihu.com/people/4de19d7b5c8d9a01d23740b29588bde4", 
+                    "content": "垃圾待回收", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "李国宝", 
+                    "userLink": "https://www.zhihu.com/people/4e8ca77fdc8e77c18f3f1aac94d15c56", 
+                    "content": "感觉链接那边的阅读体验也只是一般般……", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "郑小信", 
+                    "userLink": "https://www.zhihu.com/people/93e8368602c1807c662dcc45adfd94a5", 
+                    "content": "第一反应在想如果这个链接是这个网页本身那大概也是在考验虚拟机的gc😂😂", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "六眼飞鱼", 
+                    "userLink": "https://www.zhihu.com/people/d25c313545920bd2d120caa0b3d43d1c", 
+                    "content": "Java内存模型和jvm内存模型完全是两个概念", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "<p>我理解我们常说的JMM，其实指的是JVM Memory Model，并Java最终编译结果是运行在Java虚拟机中的，单单就Java语言本身而言，并没有内存模型一说，所以有些同学提到的Java内存模型也就是JVM内存模型，如果哪里理解错误，还请提点，谢谢~</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "六眼飞鱼"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/29756924", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 1, 
+            "title": "正确姿势面对macOS High Sierra升级失败的问题", 
+            "content": "<h2><b>失败现象</b></h2><figure><noscript><img src=\"https://pic4.zhimg.com/v2-673d15a8fcbe83b7ed16de12d6d8c7c7_b.jpg\" data-rawwidth=\"620\" data-rawheight=\"493\" class=\"origin_image zh-lightbox-thumb\" width=\"620\" data-original=\"https://pic4.zhimg.com/v2-673d15a8fcbe83b7ed16de12d6d8c7c7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;620&#39; height=&#39;493&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"620\" data-rawheight=\"493\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"620\" data-original=\"https://pic4.zhimg.com/v2-673d15a8fcbe83b7ed16de12d6d8c7c7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-673d15a8fcbe83b7ed16de12d6d8c7c7_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>如上图: <b>an error occurred while preparing the installation. Try running this application again.</b></p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>失败原因</b></h2><p>这个失败原因还是挺多的，无非下面这些:</p><ul><li>系统时间不对</li><li>某一个磁盘被标记为只读</li><li>磁盘分区存在问题</li><li>Applications目录的权限有问题</li><li><b>下载的安装包存在问题</b></li></ul><p>其他解决方法都很简单。这次国内小伙伴失败的原因我想主要是和我一样：</p><p>我想应该是苹果国内CDN上部分包存在问题，导致下载下来的安装包存在问题（一般下载下载是4.69G，而通过海外下载过来是5.19G)，今天就主要谈谈如何解决这个问题。。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>如何解决安装包问题</b></h2><p>一般来说你翻墙到海外去下载也是可以的，不过下面有一个现成的种子:</p><p class=\"ztext-empty-paragraph\"><br/></p><p>链接: <a href=\"https://link.zhihu.com/?target=https%3A//pan.baidu.com/s/1pKCTHEV\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">pan.baidu.com/s/1pKCTHE</span><span class=\"invisible\">V</span><span class=\"ellipsis\"></span></a> 密码: v8t5</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-7036b1cb4529aabcd40ac9a1859a233d_b.jpg\" data-rawwidth=\"653\" data-rawheight=\"134\" class=\"origin_image zh-lightbox-thumb\" width=\"653\" data-original=\"https://pic2.zhimg.com/v2-7036b1cb4529aabcd40ac9a1859a233d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;653&#39; height=&#39;134&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"653\" data-rawheight=\"134\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"653\" data-original=\"https://pic2.zhimg.com/v2-7036b1cb4529aabcd40ac9a1859a233d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-7036b1cb4529aabcd40ac9a1859a233d_b.jpg\"/></figure><p>下载了以后是一个拆分为5个的RAR包，我是通过Keka解压第一个RAR包即可。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>如何校验安装包</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p>通常来说校验其InstallESD.dmg与BaseSystem.dmg两个文件的SHA1即可，如下（往届的SHA1可以参考<a href=\"https://link.zhihu.com/?target=https%3A//github.com/notpeter/apple-installer-checksums\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这里</a>):</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-83bce8bc213c119c7a02c2f8c08c32fc_b.jpg\" data-rawwidth=\"955\" data-rawheight=\"102\" class=\"origin_image zh-lightbox-thumb\" width=\"955\" data-original=\"https://pic1.zhimg.com/v2-83bce8bc213c119c7a02c2f8c08c32fc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;955&#39; height=&#39;102&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"955\" data-rawheight=\"102\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"955\" data-original=\"https://pic1.zhimg.com/v2-83bce8bc213c119c7a02c2f8c08c32fc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-83bce8bc213c119c7a02c2f8c08c32fc_b.jpg\"/></figure><hr/><p>最后，Enjoy! </p>", 
+            "topic": [
+                {
+                    "tag": "macOS High Sierra", 
+                    "tagLink": "https://api.zhihu.com/topics/20097213"
+                }, 
+                {
+                    "tag": "教程", 
+                    "tagLink": "https://api.zhihu.com/topics/19577346"
+                }, 
+                {
+                    "tag": "macOS", 
+                    "tagLink": "https://api.zhihu.com/topics/19550290"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "林杰", 
+                    "userLink": "https://www.zhihu.com/people/3dbce5033109028cdd1217b14ea320c8", 
+                    "content": "<p>您好，我是电脑小白。已下载您提供的资源，但是对于guithub相关的东西不太了解，请问可以具体说明下么，万份感谢</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "SUNSUNK", 
+                    "userLink": "https://www.zhihu.com/people/92292d97608cf66c42d2ca18a8e531ae", 
+                    "content": "…你好，更新系统后已经不能开机了，一直显示一个带问号的文件夹", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/29379741", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 9, 
+            "title": "OkHttp3 架构分析", 
+            "content": "<p>除了<a href=\"https://link.zhihu.com/?target=https%3A//github.com/square/okhttp\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Okhttp3</a>在网络应用层方面的各类优化，支持SPDY/HTTP2(关于SPDY与HTTP2的特性可以参考<a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/network_basic/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这篇文章</a>)以及其健壮性以外，对于Okhttp3简单清新、灵活健壮、可测试性的架构也早有耳闻，本文通过对okhttp3代码分析，通过图形，将他们都梳理出来，看看其优在何处。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/okhttp3-framework/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">OkHttp3 架构分析</a></p>", 
+            "topic": [
+                {
+                    "tag": "软件架构", 
+                    "tagLink": "https://api.zhihu.com/topics/19556273"
+                }, 
+                {
+                    "tag": "开源库", 
+                    "tagLink": "https://api.zhihu.com/topics/20068185"
+                }, 
+                {
+                    "tag": "网络架构", 
+                    "tagLink": "https://api.zhihu.com/topics/19582876"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28990610", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 72, 
+            "title": "可能是最好用的日志分析工具", 
+            "content": "<blockquote>在使用这个工具之前，我一直在用<i>PID Cat</i>为ADB输出的Logcat进行分析，如果是后台拉用户日志，可能只能依靠眼力还有<i>Atom</i>之类的工具了，这些其实还好，眼力练习练习总能从密密麻麻的日志中总找到自己想要的，虽然比较费神。不过比较影响工作效率的是，经常工作被打断，原因是总有同学要我查下日志看看是不是我们网络的问题。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>     深谙如此低效的我在网上谷歌了一圈没有找到我想要的工具，最后我还是选择自己写一个，这就是今天的主角：<b>okcat</b>，写之前我列出了所有我想要的需求:</p><ul><li>支持为<b>多个关键字高亮</b>，并且不同关键字高亮的背景颜色尽可能不同</li><li>支持为<b>多个TAG的关键字过滤</b>，如果任意一个关键字被TAG包含，说明是有效日志行</li><li>支持自定义一行<b>日志的正则表达式</b>，因为几类日志每行的格式有所不同，并且很多后端的同学也有想要日志分析工具的需求</li><li>支持为多个<b>内容转译</b>，比如某行日志内容开头是<i>&#39;connected-&#39;</i>，那么在输出后应该转译为<i>&#39;| SPDY已经连接 | connected-xxx xxx&#39;</i>，并且对转译的译文进行高亮</li><li>支持为多个<b>TAG转译</b>，比如如果某行日志的TAG包含<i>&#39;ActivityLifecycle&#39;</i>，那么他肯定是事件，我可以加一个事件关键字: <i>&#39;MyActivityLifecycle [事件] MainActivity onResumed&#39;</i>，并且对转译的译文背景进行高亮</li><li>支持对多个<b>无用消息降低存在感处理</b>，比如各种心跳日志其实没有大用，而且打印很频繁，需要对其用灰色进行着色，降低其可见度</li><li>支持根据特定<b>内容进行分段</b>，比如某一段日志开始其实是一个数据包流的开始，那么就要将日志分段</li><li>支持<b>配置可长期维护</b>，并且支持维护<b>各种各样的配置</b>，如网络相关的维护一个，社交相关的维护一个</li><li>对于我来说需要<b>支持分析文件</b>，还需要支持分析运行中应用的<b>ADB LOGCAT</b></li><li>安装<b>简单</b>、操作<b>简单</b></li></ul><p>     目前，上面提到的需求都已经全部完成~。并且目前该工具已经开源: <a href=\"https://link.zhihu.com/?target=https%3A//github.com/Jacksgong/okcat\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/Jacksgong/ok</span><span class=\"invisible\">cat</span><span class=\"ellipsis\"></span></a></p><p>      使用<b>okcat</b>最大的好处是，配置可维护行，各种配置编写一次，”终身”受益，并且在提高日志分析效率的同时，也为其他原本只能通过找你才看的懂日志的同学带去希望。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>     下面我们就以完成对<a href=\"https://link.zhihu.com/?target=https%3A//github.com/lingochamp/FileDownloader\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">FileDownloader</a>开源库中的demo project的运行时ADB的实时日志进行分析为案例，进行使用<b>okcat</b>，最终你会看到如封面图片的效果:</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-7216b3206607836605f68ac715e77459_b.png\" data-rawwidth=\"3334\" data-rawheight=\"1906\" class=\"origin_image zh-lightbox-thumb\" width=\"3334\" data-original=\"https://pic2.zhimg.com/v2-7216b3206607836605f68ac715e77459_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;3334&#39; height=&#39;1906&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"3334\" data-rawheight=\"1906\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"3334\" data-original=\"https://pic2.zhimg.com/v2-7216b3206607836605f68ac715e77459_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-7216b3206607836605f68ac715e77459_b.png\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>1. 安装</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><div class=\"highlight\"><pre><code class=\"language-bash\">sudo pip install okcat</code></pre></div><h2><b>2. 拉取filedownloader.yml</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p>      创建目录<b>~/.okcat</b>，并且下载<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Jacksgong/okcat/raw/master/demo-conf/filedownloader.yml\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">filedownloader.yml</a>文件到该目录下。(这个配置文件内的配置解读可以参考<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Jacksgong/okcat/blob/master/README-zh.md%231-%25E5%25AE%259A%25E4%25B9%2589%25E4%25BD%25A0%25E7%259A%2584%25E9%2585%258D%25E7%25BD%25AE%25E6%2596%2587%25E4%25BB%25B6yml\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这里</a>)</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>3. 完成</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p>      将手机连接电脑，安装好<a href=\"https://link.zhihu.com/?target=https%3A//github.com/lingochamp/FileDownloader\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">FileDownloader</a>开源库中的demo project后运行，然后在终端执行:</p><div class=\"highlight\"><pre><code class=\"language-bash\">okcat -y<span class=\"o\">=</span>filedownloader</code></pre></div><p>      就这样，<b>非常简单</b>，现在你就可以看到实时的对ADB LOGCAT日志持续分析的输出了。当然如果需要在分析实时日志时清空前面LOGCAT的缓存，在执行命令后面加上<b>-c</b>即可。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>关于分析日志文件也非常简单，而配置文件的规则也十分清新简单，具体请参考这里的<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Jacksgong/okcat/blob/master/README-zh.md\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">中文文档</a>，也期待大家PR与STAR。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "日志分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19615655"
+                }, 
+                {
+                    "tag": "开发工具", 
+                    "tagLink": "https://api.zhihu.com/topics/19564417"
+                }, 
+                {
+                    "tag": "程序猿生存必备", 
+                    "tagLink": "https://api.zhihu.com/topics/19963617"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "baidou", 
+                    "userLink": "https://www.zhihu.com/people/c17457435d60751113f156db89a48a80", 
+                    "content": "棒棒的", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "<p>谢谢[Smart]?</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "baidou"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "wakao", 
+                    "userLink": "https://www.zhihu.com/people/b2a1ac2b5f99f4eae34e33f148e7d1a8", 
+                    "content": "notepad++有插件支持logcat日志输出啊，而且用notepad++分析日志也很方便", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "<p>嗯。谢谢你的建议，其实查询logcat或者是其他日志的工具都很多，只是没有满足我的需求..</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "wakao"
+                        }, 
+                        {
+                            "userName": "John Young", 
+                            "userLink": "https://www.zhihu.com/people/ff306a59fbfd3df2b7013d297da816ed", 
+                            "content": "<p>你用的什么插件，我记得有一个，但是不是很好过滤日志。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "wakao"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "锦安", 
+                    "userLink": "https://www.zhihu.com/people/029753dd1cedcc710fe14ed6c9b23feb", 
+                    "content": "这个比起直接在Android studio里面看日志 调试的优点是什么啊 求指点", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "<p>更加灵活可定制化吧，也不仅仅是Android adb logcat使用，可以看看案例图片，或者文中列出的需求。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "锦安"
+                        }, 
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "<p>安装使用也简单，你可以按照案例，先试试看你就清楚了。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "锦安"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28920849", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 37, 
+            "title": "初探Android ARCore", 
+            "content": "<p>今天Google Android Team突然公布<a href=\"https://link.zhihu.com/?target=https%3A//developers.google.com/ar/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ARCore</a>，这是一款对标苹果的ARKit的一套摄像头AR的解决方案。激动不已的我，终于把持不住，停下手上工作，实验了下..</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/arcore/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ARCore</a></p>", 
+            "topic": [
+                {
+                    "tag": "AR 平台", 
+                    "tagLink": "https://api.zhihu.com/topics/19822595"
+                }, 
+                {
+                    "tag": "增强现实（AR）", 
+                    "tagLink": "https://api.zhihu.com/topics/19561596"
+                }, 
+                {
+                    "tag": "Android 开发", 
+                    "tagLink": "https://api.zhihu.com/topics/19555634"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>看起来很不错，回去试一试 [~(￣▽￣)~</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Herry", 
+                    "userLink": "https://www.zhihu.com/people/2650f3d8ba5ee86ce2c121f2b593e98b", 
+                    "content": "很棒，谢谢分享！！！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "HimiH", 
+                    "userLink": "https://www.zhihu.com/people/979b77952d3a6a2d4e10e74d5964adda", 
+                    "content": "小白求问如何安装啊。。。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "PJHubs", 
+                    "userLink": "https://www.zhihu.com/people/8719717891b26b587b90228fd3611e45", 
+                    "content": "心里纠了一把，这玩意估计搞不过国内专门搞AR SDK的大厂们。。。啧啧啧", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "伦巴", 
+                            "userLink": "https://www.zhihu.com/people/9b86b7b1ea03ab6e32e0f00c2fe8667f", 
+                            "content": "<p>这不扯淡么，国内有什么AR SDK有价值了？</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "PJHubs"
+                        }, 
+                        {
+                            "userName": "Alex Jiang", 
+                            "userLink": "https://www.zhihu.com/people/7902ea8fc50b8068056a3ea51016adfd", 
+                            "content": "………别逗了，哪个厂搞的过", 
+                            "likes": 1, 
+                            "replyToAuthor": "PJHubs"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "n5x不知道能不能用", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "黑色海鸥", 
+                            "userLink": "https://www.zhihu.com/people/4e39f78bd4ae3e7f4aee11de58b36dec", 
+                            "content": "不能", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "zb lin", 
+                    "userLink": "https://www.zhihu.com/people/a17bcde4274070429d6d63c32098298d", 
+                    "content": "unity怎么通过反射更改设备支持", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>unity发布到s8无法运行是怎么回事</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "LoSealL", 
+                            "userLink": "https://www.zhihu.com/people/8decd75a0a93f78ff79b853692854abf", 
+                            "content": "有没有装core service", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>arcore-preview.apk吗？装了的。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "LoSealL"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "卓心", 
+                    "userLink": "https://www.zhihu.com/people/d26f8d8fb5cb6cbdda0822ba5aaf7faa", 
+                    "content": "运动追踪的精确度怎样？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "小青蛇", 
+                    "userLink": "https://www.zhihu.com/people/b0069a568baacc8ad21fe7924dfa760d", 
+                    "content": "大佬学习了，厉害厉害👍", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "海阔", 
+                    "userLink": "https://www.zhihu.com/people/806dfb77c62d428a308309653ae54e8b", 
+                    "content": "<p>v不现实的原因是，出现的东西太精致了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28638605", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 2, 
+            "title": "Kotlin协程的教程与案例分析", 
+            "content": "<p>在前面的<a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/2016/11/30/kotlin/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">文章</a>，我们提到了kotlin的基本语法、为什么选用kotlin、根据《Effective Java》Kotlin语法层面的优化、kotlin单元测试编写以及kotlin对包大小影响、<a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/kotlin-performance/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">kotlin与Java对比运行时性能</a>等，其实Coroutines也是选择Kotlin的重要原因之一，今天我们谈谈在Kotlin 1.1引入的强大且实用的Coroutines。本文通过解读<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Kotlin/kotlinx.coroutines/blob/master/coroutines-guide.md\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">官方案例文档</a>详细介绍了Coroutines的使用场景与各类案例。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/kotlin-coroutines/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Kotlin Coroutines</a></p>", 
+            "topic": [
+                {
+                    "tag": "Kotlin", 
+                    "tagLink": "https://api.zhihu.com/topics/20008824"
+                }, 
+                {
+                    "tag": "高并发", 
+                    "tagLink": "https://api.zhihu.com/topics/19596218"
+                }, 
+                {
+                    "tag": "非阻塞", 
+                    "tagLink": "https://api.zhihu.com/topics/19618909"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28495261", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 18, 
+            "title": "Android新Dex编译器D8与新混淆工具R8", 
+            "content": "<p>本文参考一篇介绍了Android将要推出的新的Dex编译器D8与原本Proguard 压缩与优化（minification、shrinking、optimization)部分的替代品R8。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/android_d8_r8/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Android新Dex编译器D8与新混淆工具R8</a></p>", 
+            "topic": [
+                {
+                    "tag": "Android 开发", 
+                    "tagLink": "https://api.zhihu.com/topics/19555634"
+                }, 
+                {
+                    "tag": "编译器", 
+                    "tagLink": "https://api.zhihu.com/topics/19608032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "火星上的麻瓜", 
+                    "userLink": "https://www.zhihu.com/people/949c360f8c3af4d36f727b8d9e675611", 
+                    "content": "基于Jack 的前车之鉴，我感觉还是要谨慎上车", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Jacks Gong", 
+                            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+                            "content": "<p>D8、R8与Jack不同，没有那么重，目前看来官方还是很有信心的，并且已经给出了，release的明确时机，以及设为默认开启的明确时间点，不像Jack一拖再拖。并且也明确提到，将Jack中Java8相关的也拆出来放到D8中。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "火星上的麻瓜"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27832137", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 6, 
+            "title": "Kotlin运行时性能", 
+            "content": "<p>本文参考一篇Kotlin&#39;s hidden costs文章对Kotlin运行时的性能进行的总结。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/kotlin-performance/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Kotlin运行时性能</a></p>", 
+            "topic": [
+                {
+                    "tag": "Kotlin", 
+                    "tagLink": "https://api.zhihu.com/topics/20008824"
+                }, 
+                {
+                    "tag": "性能优化", 
+                    "tagLink": "https://api.zhihu.com/topics/19633850"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27419397", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 0, 
+            "title": "Ubuntu 16.04.2 安装与配置 Phabricator", 
+            "content": "<blockquote><p>看到WunderList上面自己的point越来越多，并且很多是完成了一部分，虽然知道可以通过OmniFocus或者OmniOutliner之类的进行管理，但是介于之前对Phabricator的好感与熟悉，还有觉得Phabricator可以带来更多可能，以及自己所有的私有项目都是在自己的<a href=\"https://link.zhihu.com/?target=https%3A//git.jacksgong.com\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Sign in</a>上维护了，因此决定搭建以后Phabricator后面所有的任务在WunderList有进度后，都用Phabricator维护: <a href=\"https://link.zhihu.com/?target=https%3A//phab.jacksgong.com\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Login to Phabricator</a> (说实话，自己用刚开始还确实有点被我朋友言中 — 略显孤单.. )</p>\n</blockquote>\n<h2>先上图吧</h2><figure><noscript><img src=\"https://pic3.zhimg.com/v2-2966dffcd3dd29847ebf2c592b4214ee_b.png\" data-rawwidth=\"1180\" data-rawheight=\"739\" class=\"origin_image zh-lightbox-thumb\" width=\"1180\" data-original=\"https://pic3.zhimg.com/v2-2966dffcd3dd29847ebf2c592b4214ee_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1180&#39; height=&#39;739&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1180\" data-rawheight=\"739\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1180\" data-original=\"https://pic3.zhimg.com/v2-2966dffcd3dd29847ebf2c592b4214ee_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-2966dffcd3dd29847ebf2c592b4214ee_b.png\"/></figure><br/><p>为了更好的阅读体验，以及我容易的维护与文章迭代，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/install-config-phabricator/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Ubuntu 16.04.2 安装与配置 Phabricator</a></p>", 
+            "topic": [
+                {
+                    "tag": "Phabricator", 
+                    "tagLink": "https://api.zhihu.com/topics/19745675"
+                }, 
+                {
+                    "tag": "Ubuntu", 
+                    "tagLink": "https://api.zhihu.com/topics/19557067"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27401071", 
+            "userName": "Jacks Gong", 
+            "userLink": "https://www.zhihu.com/people/af27912df80981a2d841dac53f134703", 
+            "upvote": 5, 
+            "title": "架构设计基础知识整理", 
+            "content": "本文比较系统的介绍了部分的架构知识，后续有时间会再整理出其他部分。<br/><p>为了更好的阅读体验与更新体验，请移步: <a href=\"https://link.zhihu.com/?target=https%3A//blog.dreamtobe.cn/2016/03/09/oo_architecture/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">架构设计基础知识整理</a></p>", 
+            "topic": [
+                {
+                    "tag": "软件架构", 
+                    "tagLink": "https://api.zhihu.com/topics/19556273"
+                }, 
+                {
+                    "tag": "设计模式", 
+                    "tagLink": "https://api.zhihu.com/topics/19599592"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/jacksgong"
+}

@@ -1,0 +1,259 @@
+{
+    "title": "好玩的Cadence", 
+    "description": "Cadence是国内用的比较多的EDA工具，也是一款很强大的EDA工具。这里将介绍一些关于比较有用，但又比较冷门的技能。其中，原理图设计工具用的是OrCA D，PCB设计工具用的是Allegro。", 
+    "followers": [
+        "https://www.zhihu.com/people/tang-xue-46-5", 
+        "https://www.zhihu.com/people/und_d4", 
+        "https://www.zhihu.com/people/shine-win", 
+        "https://www.zhihu.com/people/flexcraft", 
+        "https://www.zhihu.com/people/dylan-58-1", 
+        "https://www.zhihu.com/people/any-56-13", 
+        "https://www.zhihu.com/people/qu-ji-feng-11", 
+        "https://www.zhihu.com/people/lang-li-xiao-bai-long-15-37", 
+        "https://www.zhihu.com/people/xiao-hei-46-64", 
+        "https://www.zhihu.com/people/13808035364", 
+        "https://www.zhihu.com/people/hunter-zhen", 
+        "https://www.zhihu.com/people/xianghuang-41", 
+        "https://www.zhihu.com/people/a-zhe-61-77", 
+        "https://www.zhihu.com/people/hui-ren-75-52", 
+        "https://www.zhihu.com/people/jia-ming-1-99", 
+        "https://www.zhihu.com/people/jin-tian-23-25-45", 
+        "https://www.zhihu.com/people/yi-er-san-si-5-27", 
+        "https://www.zhihu.com/people/liu-chen-xi-35-82", 
+        "https://www.zhihu.com/people/zhang-yue-qiu", 
+        "https://www.zhihu.com/people/bo-long-er", 
+        "https://www.zhihu.com/people/liuhui-22", 
+        "https://www.zhihu.com/people/hu-jie-36", 
+        "https://www.zhihu.com/people/zi-fei-60", 
+        "https://www.zhihu.com/people/80gua-niu", 
+        "https://www.zhihu.com/people/yangxiong-17", 
+        "https://www.zhihu.com/people/zhu-zhu-zhu-51-63", 
+        "https://www.zhihu.com/people/yang-feng-90-73", 
+        "https://www.zhihu.com/people/zhong-hong-tao-98", 
+        "https://www.zhihu.com/people/shishu8385", 
+        "https://www.zhihu.com/people/jiwangbujiu", 
+        "https://www.zhihu.com/people/trustywolf", 
+        "https://www.zhihu.com/people/buglin-44", 
+        "https://www.zhihu.com/people/wang-zhe-31-87", 
+        "https://www.zhihu.com/people/nan-gong-lei-88", 
+        "https://www.zhihu.com/people/guan-li-ming-81", 
+        "https://www.zhihu.com/people/guo-bi-58-30", 
+        "https://www.zhihu.com/people/cai-yang-42", 
+        "https://www.zhihu.com/people/solargazer", 
+        "https://www.zhihu.com/people/zhang-kai-qi-42-44", 
+        "https://www.zhihu.com/people/tinghai899220", 
+        "https://www.zhihu.com/people/yun-xuan-xuan-82", 
+        "https://www.zhihu.com/people/gong-jun-cong-73", 
+        "https://www.zhihu.com/people/liu-can-biao", 
+        "https://www.zhihu.com/people/ryanwang-51", 
+        "https://www.zhihu.com/people/jack_home", 
+        "https://www.zhihu.com/people/holms-holms-31", 
+        "https://www.zhihu.com/people/li-meng-yu-81-60", 
+        "https://www.zhihu.com/people/yunshan-wang", 
+        "https://www.zhihu.com/people/jing-kai-22-59", 
+        "https://www.zhihu.com/people/ao-tu-62", 
+        "https://www.zhihu.com/people/you-zi-gu-niang-99", 
+        "https://www.zhihu.com/people/tang-guo-97-25", 
+        "https://www.zhihu.com/people/mickreg", 
+        "https://www.zhihu.com/people/kun-peng-a-yong", 
+        "https://www.zhihu.com/people/shi-yao-si-tan", 
+        "https://www.zhihu.com/people/li-xi-sheng-24", 
+        "https://www.zhihu.com/people/li-wen-qi-14-93", 
+        "https://www.zhihu.com/people/xu-xiao-kang-21", 
+        "https://www.zhihu.com/people/luo-po-dian-xiao-er", 
+        "https://www.zhihu.com/people/xun-zhao-jian-dan-21", 
+        "https://www.zhihu.com/people/jeff-58-36", 
+        "https://www.zhihu.com/people/kang-kang-ready", 
+        "https://www.zhihu.com/people/he-he-85-87-76", 
+        "https://www.zhihu.com/people/mei-dao-34", 
+        "https://www.zhihu.com/people/qing-chun-he-xu-an-yi", 
+        "https://www.zhihu.com/people/monkeydz-48", 
+        "https://www.zhihu.com/people/scorpio-84-12", 
+        "https://www.zhihu.com/people/yu-yu-68-20-45", 
+        "https://www.zhihu.com/people/maddevil", 
+        "https://www.zhihu.com/people/lloydjie", 
+        "https://www.zhihu.com/people/hua-sheng-55-36", 
+        "https://www.zhihu.com/people/bi-xie-ning-xin", 
+        "https://www.zhihu.com/people/li-xiao-yao-52", 
+        "https://www.zhihu.com/people/zhou-jun-74-97", 
+        "https://www.zhihu.com/people/older123-11", 
+        "https://www.zhihu.com/people/jcchen_v", 
+        "https://www.zhihu.com/people/bei-ming-you-yu-hua-wei-niao", 
+        "https://www.zhihu.com/people/liu-jia-rong-23", 
+        "https://www.zhihu.com/people/susan-12-34", 
+        "https://www.zhihu.com/people/jamiedame", 
+        "https://www.zhihu.com/people/zhang-hao-3", 
+        "https://www.zhihu.com/people/kan-wei-du-74", 
+        "https://www.zhihu.com/people/zhou-jian-34", 
+        "https://www.zhihu.com/people/xiang-pi-fa", 
+        "https://www.zhihu.com/people/mang-guo-wei-xiao-ke-ai-26", 
+        "https://www.zhihu.com/people/zhangkunming", 
+        "https://www.zhihu.com/people/fo-mian-jiang-jun", 
+        "https://www.zhihu.com/people/mars-90-66", 
+        "https://www.zhihu.com/people/huang-xiao-xian-er-15", 
+        "https://www.zhihu.com/people/yin-hai-yang-83", 
+        "https://www.zhihu.com/people/pa-shu-de-kao-la", 
+        "https://www.zhihu.com/people/li-ying-qi-34-95", 
+        "https://www.zhihu.com/people/xiang-ben-cai", 
+        "https://www.zhihu.com/people/lll-lol", 
+        "https://www.zhihu.com/people/dong-dony", 
+        "https://www.zhihu.com/people/genius-94", 
+        "https://www.zhihu.com/people/jinanshi", 
+        "https://www.zhihu.com/people/wzj19880613"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38589205", 
+            "userName": "陈律", 
+            "userLink": "https://www.zhihu.com/people/6d18380a03edb3b7f1caf9e72ca9bf0d", 
+            "upvote": 4, 
+            "title": "CIS配置之----如何搭建CIS", 
+            "content": "<p>上一篇讲了为什么要用CIS以及如何理解CIS，这一篇讲讲如何搭建CIS库。</p><p>需要分为两部分来讲，云端和客户端。</p><p>云端就是管理员端，存放数据。客户端是具体使用者，需要去访问云端的数据。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>为了让大家能从整体更直观的了解这个过程，避免陷入繁琐的步骤中无法自拔，我把其中较为繁琐的步骤剥离出来在另一篇中单独介绍。</p><hr/><h2><b>云端</b></h2><p><b>1. 建立公司（团队）可以共同访问的服务器</b></p><p>这部分各个公司不一样，具体问题具体分析，本文就不涉及了，就当大家都已经有了可以存放相关文件的服务器。</p><p>这个服务器上保存的数据如下：</p><ul><li>原理图封装库、PCB封装库、元器件datasheet等</li><li>下面会讲到的CIS数据库文件(.mdb)</li><li>下面会讲到的CIS配置文件(.dbc)</li></ul><p><b>2. 设置网络位置</b></p><p>为了方便访问服务器以及后续步骤需要，请在本地添加一个网络位置。这样就可以像访问本地文件夹一样访问服务器上保存的那些文件了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-544da4a55a233262cb735eed01c10df5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1578\" data-rawheight=\"883\" class=\"origin_image zh-lightbox-thumb\" width=\"1578\" data-original=\"https://pic2.zhimg.com/v2-544da4a55a233262cb735eed01c10df5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1578&#39; height=&#39;883&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1578\" data-rawheight=\"883\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1578\" data-original=\"https://pic2.zhimg.com/v2-544da4a55a233262cb735eed01c10df5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-544da4a55a233262cb735eed01c10df5_b.jpg\"/></figure><p>只要在文件管理器的网络位置处，右键选择添加网络位置，会有配置引导，我这里就不展开了。</p><p><br/><b>3. 建数据库</b></p><p>使用Access建一个.mdb的数据库文件，具体需要哪些内容根据自身需求，这里只是做一个最简单的供参考。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5647d6e8b6bc3e1f8f92850e4cad4759_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1101\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb\" width=\"1101\" data-original=\"https://pic2.zhimg.com/v2-5647d6e8b6bc3e1f8f92850e4cad4759_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1101&#39; height=&#39;161&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1101\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1101\" data-original=\"https://pic2.zhimg.com/v2-5647d6e8b6bc3e1f8f92850e4cad4759_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5647d6e8b6bc3e1f8f92850e4cad4759_b.jpg\"/></figure><p>可以建一个Excel表格，把数据放在Excel去编辑，</p><p>.mdb可以从Excel去导入数据。</p><p>建好后将.mdb文件放到云端相应路径备用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4. 添加数据源</b></p><p>这部分就是被单独拎出来的，你需要用到上面的<b>.mdb</b>文件，具体请看下面这篇。</p><a href=\"https://zhuanlan.zhihu.com/p/38602617\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-71fdc4a1dfbdd92e675fe7daf5ae2c6e_180x120.jpg\" data-image-width=\"1860\" data-image-height=\"1047\" class=\"internal\">陈律：CIS配置之----添加数据源、配置CIS</a><p class=\"ztext-empty-paragraph\"><br/></p><p><b>5. 配置CIS</b></p><p>这部分也是被单独拎出来的，将会生成<b>.dbc</b>文件，详细也看上面这篇。</p><p>配置好后将.dbc文件放到云端相应路径备用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>6. 编辑INI文件</b></p><p>首先要找到ini文件。打开OrCAD，然后可以看到下面对话框里显示ini文件路径，去找到它。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-bb9f40845deb34ce65f010d11a3b5edb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"781\" data-rawheight=\"313\" class=\"origin_image zh-lightbox-thumb\" width=\"781\" data-original=\"https://pic4.zhimg.com/v2-bb9f40845deb34ce65f010d11a3b5edb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;781&#39; height=&#39;313&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"781\" data-rawheight=\"313\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"781\" data-original=\"https://pic4.zhimg.com/v2-bb9f40845deb34ce65f010d11a3b5edb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-bb9f40845deb34ce65f010d11a3b5edb_b.jpg\"/></figure><p>在ini文件中添加以下红色部分，让Cadence能找到你的原理图和PCB封装，以及元器件的datasheet。<b>注意把路径改成你自己的服务器路径。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c2b7a6b1b4aadf232ada06fc676a93ba_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"829\" data-rawheight=\"618\" class=\"origin_image zh-lightbox-thumb\" width=\"829\" data-original=\"https://pic3.zhimg.com/v2-c2b7a6b1b4aadf232ada06fc676a93ba_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;829&#39; height=&#39;618&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"829\" data-rawheight=\"618\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"829\" data-original=\"https://pic3.zhimg.com/v2-c2b7a6b1b4aadf232ada06fc676a93ba_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c2b7a6b1b4aadf232ada06fc676a93ba_b.jpg\"/></figure><p>文本如下，方便复制。</p><div class=\"highlight\"><pre><code class=\"language-text\">[Allegro Footprints]\nDir0=Z:\\cadence lib\\allegro\\package\n[Part Library Directories]\nDir0=Z:\\cadence lib\\OrCAD\n[CIS Browse Directories]\nDir0=Z:\\cadence lib\\datasheet</code></pre></div><p>保存并关闭ini文件。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>到这里，云端的设置就搞定了，接下来是使用者的配置。</p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p><b>客户端</b></p><p><b>1. 设置网络位置</b></p><p>同云端的配置方法。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2. 添加数据源</b></p><p>同云端的配置方法。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3. 配置CIS</b></p><p>云端已经把具体配置设置好了，也有了.dbc文件，客户端只需要将.dbc添加进来就可以了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1ab39129adddc21a66c57f5257de951f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"449\" data-rawheight=\"321\" class=\"origin_image zh-lightbox-thumb\" width=\"449\" data-original=\"https://pic4.zhimg.com/v2-1ab39129adddc21a66c57f5257de951f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;449&#39; height=&#39;321&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"449\" data-rawheight=\"321\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"449\" data-original=\"https://pic4.zhimg.com/v2-1ab39129adddc21a66c57f5257de951f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1ab39129adddc21a66c57f5257de951f_b.jpg\"/></figure><p>选择云端配置好的.dbc文件，然后ok。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4. 编辑INI文件</b></p><p>同云端的配置方法。</p><hr/><h2>试用一下吧</h2><p>到这里你的CIS库就建立起来了，尝试用一下吧！</p><p>打开任意一张原理图页面，按快捷键“z”，可以打开CIS Explorer。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-59e22cc1a1038594fb89d722d2486d45_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"382\" data-rawheight=\"413\" class=\"content_image\" width=\"382\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;382&#39; height=&#39;413&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"382\" data-rawheight=\"413\" class=\"content_image lazy\" width=\"382\" data-actualsrc=\"https://pic2.zhimg.com/v2-59e22cc1a1038594fb89d722d2486d45_b.jpg\"/></figure><p>你可以在默认标签Explore里去找元器件，也可以点击Query标签，通过搜索的方式去找元器件，这里搜索功能还是很好用的。</p>", 
+            "topic": [
+                {
+                    "tag": "Cadence", 
+                    "tagLink": "https://api.zhihu.com/topics/19718043"
+                }, 
+                {
+                    "tag": "原理图", 
+                    "tagLink": "https://api.zhihu.com/topics/19597625"
+                }, 
+                {
+                    "tag": "CIS", 
+                    "tagLink": "https://api.zhihu.com/topics/19572583"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "肥猫儿", 
+                    "userLink": "https://www.zhihu.com/people/88f4986380ba7a0a5abcdcf66c6c1871", 
+                    "content": "为什么我设置自己的库路径是无效的，必须把库放在软件自己的库路径才有效呢？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38602617", 
+            "userName": "陈律", 
+            "userLink": "https://www.zhihu.com/people/6d18380a03edb3b7f1caf9e72ca9bf0d", 
+            "upvote": 1, 
+            "title": "CIS配置之----添加数据源、配置CIS", 
+            "content": "<p><b>本篇主要介绍添加数据源和配置CIS的步骤。</b></p><hr/><h2>添加数据源</h2><p><b>这一步之前，你必须准备好你的数据库文件(.mdb)，并将它放置在云端。</b></p><p>由于我的系统是英文，这里路径主要用英文来写。</p><p>打开路径：Control Panel\\System and Security\\Administrative Tools，</p><p>找到“ODBC Data Sources (32-bit)”，可能里面还有个“ODBC Data Sources (64-bit)”，实测即便是64位系统，选择32-bit的就可以。</p><p>打开ODBC Data Sources (32-bit)，点击右侧Add。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-a5f97de062c661cca58c86340bca4c2a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"738\" data-rawheight=\"521\" class=\"origin_image zh-lightbox-thumb\" width=\"738\" data-original=\"https://pic3.zhimg.com/v2-a5f97de062c661cca58c86340bca4c2a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;738&#39; height=&#39;521&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"738\" data-rawheight=\"521\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"738\" data-original=\"https://pic3.zhimg.com/v2-a5f97de062c661cca58c86340bca4c2a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-a5f97de062c661cca58c86340bca4c2a_b.jpg\"/></figure><p>在下面窗口中双击打开“Microsoft Access Driver(*.mdb)”。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-36850e0ed04610ec1ed1b022af7dc8bb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"691\" data-rawheight=\"519\" class=\"origin_image zh-lightbox-thumb\" width=\"691\" data-original=\"https://pic4.zhimg.com/v2-36850e0ed04610ec1ed1b022af7dc8bb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;691&#39; height=&#39;519&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"691\" data-rawheight=\"519\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"691\" data-original=\"https://pic4.zhimg.com/v2-36850e0ed04610ec1ed1b022af7dc8bb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-36850e0ed04610ec1ed1b022af7dc8bb_b.jpg\"/></figure><p>定义并输入数据源名称，然后选择Database路径。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ac1e5dd288a66116c224d05e0ebb8cfc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"722\" data-rawheight=\"482\" class=\"origin_image zh-lightbox-thumb\" width=\"722\" data-original=\"https://pic1.zhimg.com/v2-ac1e5dd288a66116c224d05e0ebb8cfc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;722&#39; height=&#39;482&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"722\" data-rawheight=\"482\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"722\" data-original=\"https://pic1.zhimg.com/v2-ac1e5dd288a66116c224d05e0ebb8cfc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ac1e5dd288a66116c224d05e0ebb8cfc_b.jpg\"/></figure><p>由于数据库是放在云端的，所以我们在选择路径的时候要选“Network”，找到.mdb文件所在的路径，路径设置好后可以在左边对话框中看到你的.mdb文件。确认无误后点击ok。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4338a4f2359de437c25e48a51eb1906b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"928\" data-rawheight=\"577\" class=\"origin_image zh-lightbox-thumb\" width=\"928\" data-original=\"https://pic4.zhimg.com/v2-4338a4f2359de437c25e48a51eb1906b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;928&#39; height=&#39;577&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"928\" data-rawheight=\"577\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"928\" data-original=\"https://pic4.zhimg.com/v2-4338a4f2359de437c25e48a51eb1906b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4338a4f2359de437c25e48a51eb1906b_b.jpg\"/></figure><p>好了，到这里，数据源添加成功。</p><hr/><h2>配置CIS</h2><p>首先打开OrCAD，菜单中选择Options -&gt; CIS Configuration。首次配置，选择New。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1a54ef112db18add6490e88e65bd9e25_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"672\" data-rawheight=\"480\" class=\"origin_image zh-lightbox-thumb\" width=\"672\" data-original=\"https://pic2.zhimg.com/v2-1a54ef112db18add6490e88e65bd9e25_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;672&#39; height=&#39;480&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"672\" data-rawheight=\"480\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"672\" data-original=\"https://pic2.zhimg.com/v2-1a54ef112db18add6490e88e65bd9e25_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1a54ef112db18add6490e88e65bd9e25_b.jpg\"/></figure><p>数据库配置引导，点Next。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3af59123e840b088f568e14f46c06b4b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb\" width=\"934\" data-original=\"https://pic4.zhimg.com/v2-3af59123e840b088f568e14f46c06b4b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;934&#39; height=&#39;718&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"934\" data-original=\"https://pic4.zhimg.com/v2-3af59123e840b088f568e14f46c06b4b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3af59123e840b088f568e14f46c06b4b_b.jpg\"/></figure><p>Step 1：选择之前创建好的ODBC数据源，Next。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b6d4ffc1e1cf11417a544873b619e455_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"674\" data-rawheight=\"519\" class=\"origin_image zh-lightbox-thumb\" width=\"674\" data-original=\"https://pic2.zhimg.com/v2-b6d4ffc1e1cf11417a544873b619e455_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;674&#39; height=&#39;519&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"674\" data-rawheight=\"519\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"674\" data-original=\"https://pic2.zhimg.com/v2-b6d4ffc1e1cf11417a544873b619e455_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b6d4ffc1e1cf11417a544873b619e455_b.jpg\"/></figure><p>Step 2：选择需要的table，Next。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-d53740fda2d6210bd808281775a3287d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"676\" data-rawheight=\"520\" class=\"origin_image zh-lightbox-thumb\" width=\"676\" data-original=\"https://pic2.zhimg.com/v2-d53740fda2d6210bd808281775a3287d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;676&#39; height=&#39;520&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"676\" data-rawheight=\"520\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"676\" data-original=\"https://pic2.zhimg.com/v2-d53740fda2d6210bd808281775a3287d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-d53740fda2d6210bd808281775a3287d_b.jpg\"/></figure><p>Step 3~5：将数据库中的属性与CIS所要求的属性（Part_Number、Value、Part_Type、Schematic_Part、PCB_Footprint、 PSpice_Model）对应起来，每个Table都要配置。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f08b92cc3e5e8e754cfda5365288882b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb\" width=\"934\" data-original=\"https://pic4.zhimg.com/v2-f08b92cc3e5e8e754cfda5365288882b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;934&#39; height=&#39;718&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"934\" data-original=\"https://pic4.zhimg.com/v2-f08b92cc3e5e8e754cfda5365288882b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f08b92cc3e5e8e754cfda5365288882b_b.jpg\"/></figure><p>Step 6：选择需要引入到原理图中的属性。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-32979f904e8e345ab9e077e9156e3837_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb\" width=\"934\" data-original=\"https://pic4.zhimg.com/v2-32979f904e8e345ab9e077e9156e3837_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;934&#39; height=&#39;718&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"934\" data-original=\"https://pic4.zhimg.com/v2-32979f904e8e345ab9e077e9156e3837_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-32979f904e8e345ab9e077e9156e3837_b.jpg\"/></figure><p>Step 7：要不要使用在线元器件，我这边选择不需要。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-acf8f1892cff2b8315c88a6234751b22_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"676\" data-rawheight=\"521\" class=\"origin_image zh-lightbox-thumb\" width=\"676\" data-original=\"https://pic3.zhimg.com/v2-acf8f1892cff2b8315c88a6234751b22_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;676&#39; height=&#39;521&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"676\" data-rawheight=\"521\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"676\" data-original=\"https://pic3.zhimg.com/v2-acf8f1892cff2b8315c88a6234751b22_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-acf8f1892cff2b8315c88a6234751b22_b.jpg\"/></figure><p>Step 8：设置可链接属性，一般选择datasheet，设置后直接点击datasheet，就可以打开相应位置的datasheet文档，方便查看元器件详细信息。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-41b15f3813bb8a0bcbd9af54e0260a15_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb\" width=\"934\" data-original=\"https://pic2.zhimg.com/v2-41b15f3813bb8a0bcbd9af54e0260a15_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;934&#39; height=&#39;718&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"934\" data-original=\"https://pic2.zhimg.com/v2-41b15f3813bb8a0bcbd9af54e0260a15_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-41b15f3813bb8a0bcbd9af54e0260a15_b.jpg\"/></figure><p>Step 9：设置可在原理图中可见的属性。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c71439a95fa40bb72eda2716584fe9d1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb\" width=\"934\" data-original=\"https://pic2.zhimg.com/v2-c71439a95fa40bb72eda2716584fe9d1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;934&#39; height=&#39;718&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"934\" data-original=\"https://pic2.zhimg.com/v2-c71439a95fa40bb72eda2716584fe9d1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c71439a95fa40bb72eda2716584fe9d1_b.jpg\"/></figure><p>Step 10：设置关键属性，一般选择Part Value。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-df68f37a5ed113d561a19bb1223da7d4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb\" width=\"934\" data-original=\"https://pic1.zhimg.com/v2-df68f37a5ed113d561a19bb1223da7d4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;934&#39; height=&#39;718&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"934\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"934\" data-original=\"https://pic1.zhimg.com/v2-df68f37a5ed113d561a19bb1223da7d4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-df68f37a5ed113d561a19bb1223da7d4_b.jpg\"/></figure><p>上述步骤完成后，会跳出下面的窗口，确认下有没有什么问题，没问题就点击ok。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-08d6cd354d778cf3cf09d551b8d88257_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"979\" data-rawheight=\"853\" class=\"origin_image zh-lightbox-thumb\" width=\"979\" data-original=\"https://pic4.zhimg.com/v2-08d6cd354d778cf3cf09d551b8d88257_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;979&#39; height=&#39;853&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"979\" data-rawheight=\"853\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"979\" data-original=\"https://pic4.zhimg.com/v2-08d6cd354d778cf3cf09d551b8d88257_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-08d6cd354d778cf3cf09d551b8d88257_b.jpg\"/></figure><p>跳出下面这个窗口，选择NO。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ba7d767194c904aa58b44d342d87bdac_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"929\" data-rawheight=\"191\" class=\"origin_image zh-lightbox-thumb\" width=\"929\" data-original=\"https://pic1.zhimg.com/v2-ba7d767194c904aa58b44d342d87bdac_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;929&#39; height=&#39;191&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"929\" data-rawheight=\"191\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"929\" data-original=\"https://pic1.zhimg.com/v2-ba7d767194c904aa58b44d342d87bdac_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ba7d767194c904aa58b44d342d87bdac_b.jpg\"/></figure><p>然后跳出保存窗口，设置好文件名，然后保存。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-fdb0965eed77349428a7ce057023bca7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"609\" data-rawheight=\"472\" class=\"origin_image zh-lightbox-thumb\" width=\"609\" data-original=\"https://pic4.zhimg.com/v2-fdb0965eed77349428a7ce057023bca7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;609&#39; height=&#39;472&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"609\" data-rawheight=\"472\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"609\" data-original=\"https://pic4.zhimg.com/v2-fdb0965eed77349428a7ce057023bca7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-fdb0965eed77349428a7ce057023bca7_b.jpg\"/></figure><p>到这里，你已经配置好了CIS，并有了.dbc文件。</p>", 
+            "topic": [
+                {
+                    "tag": "Cadence", 
+                    "tagLink": "https://api.zhihu.com/topics/19718043"
+                }, 
+                {
+                    "tag": "CIS", 
+                    "tagLink": "https://api.zhihu.com/topics/19572583"
+                }, 
+                {
+                    "tag": "原理图", 
+                    "tagLink": "https://api.zhihu.com/topics/19597625"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38560665", 
+            "userName": "陈律", 
+            "userLink": "https://www.zhihu.com/people/6d18380a03edb3b7f1caf9e72ca9bf0d", 
+            "upvote": 4, 
+            "title": "CIS库配置之----为什么要用CIS库？如何理解CIS库？", 
+            "content": "<h2>为什么要用CIS？</h2><p>Cadence的原理图设计工具OrCAD有个很好用的功能CIS（Component Information System,元器件信息管理系统）。当团队内有多名硬件人员，CIS非常有用，尤其是对于大公司，基本上必须要用到。</p><p>顾名思义，CIS这个系统是用来管理元器件的，简单说就是建立一个数据库，包含所有需要用到的元器件，每个元器件又包含了各种参数（这里重点关注原理图封装名、PCB封装名），并分配一个物料代码，我们用到这个元器件的时候只需要调用它的物料代码就行。</p><p>CIS有很多优点，比如：</p><p>1. 避免重复建库；</p><p>2. 避免元器件库规则不统一；</p><p>3. 便于管理元器件库，减少出错率；</p><p>4. 无需手动添加原理图封装的各种属性，极大节省设计原理图的时间；</p><p>5. 极大节省导BOM的时间；</p><p>6. 。。。。。。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们在画原理图的时候，要放置某个元器件的封装，例如10k的0402电阻，在描述中搜索关键字‘10k’，找到它，系统会自动去数据库中找到这个物料的各项属性，并根据属性中的原理图封装名（RES）及PCB封装名（R-0402），去相应库中找到相应的封装，在下图右侧可预览。双击下面绿色行就可以把这个器件放置到原理图上了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-788a131bffd448552a8a66cd8a760883_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1905\" data-rawheight=\"492\" class=\"origin_image zh-lightbox-thumb\" width=\"1905\" data-original=\"https://pic4.zhimg.com/v2-788a131bffd448552a8a66cd8a760883_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1905&#39; height=&#39;492&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1905\" data-rawheight=\"492\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1905\" data-original=\"https://pic4.zhimg.com/v2-788a131bffd448552a8a66cd8a760883_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-788a131bffd448552a8a66cd8a760883_b.jpg\"/></figure><p>值得一提的是，放置的这个元器件其实还包含了其他所有参数（物料代码、详细描述、原理图及PCB封装名、价格等等等等），在导出BOM的时候会用到。</p><p>也就是说：</p><ol><li>我们设计原理图的时候不再需要给每个元器件封装配置对应的PCB封装；</li><li>在导出BOM的时候可以选择我们需要的参数直接导出，不再需要去手动添加，导出的BOM表几乎可以直接使用了。</li></ol><p>这对于硬件工程师来说效率可以大大提高！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>并且由于CIS库是放在云端，由专门人维护，各种规则都可以统一，对于使用者来说自己无需建库，调用的也都是统一的库，不会出现各种一致性问题。</p><h2>理解CIS</h2><p>首先我们知道，设计原理图需要有原理图封装库，设计PCB需要有PCB封装库。</p><p>使用CIS，这些库该有的还是得有。</p><p>CIS本质上是一个数据库！CIS本质上是一个数据库！CIS本质上是一个数据库！重要的事情说三遍！</p><p>例如我们建一个简单的数据库，如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5647d6e8b6bc3e1f8f92850e4cad4759_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1101\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb\" width=\"1101\" data-original=\"https://pic2.zhimg.com/v2-5647d6e8b6bc3e1f8f92850e4cad4759_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1101&#39; height=&#39;161&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1101\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1101\" data-original=\"https://pic2.zhimg.com/v2-5647d6e8b6bc3e1f8f92850e4cad4759_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5647d6e8b6bc3e1f8f92850e4cad4759_b.jpg\"/></figure><p>每一个物料分配一个唯一的代码，这个物料的各种属性都可以记录在数据库中，比如详细描述、数值、原理图封装名、PCB封装名、价格等。</p><p>像上面描述的在原理图上放置器件，是把传统做法只放置原理图封装，换成了放置这种元器件的所有有用数据。而这些数据预先整理在了上面的数据库中。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这里必须提醒的是，一定要把CIS库和原理图/PCB封装库概念区分开来：</p><p>CIS库是一个数据库，存放了元器件的各种信息，里面也包含了原理图封装和PCB封装信息。</p><p>原理图/PCB封装库则用来存放实际用到的图形化封装。</p><p>请务必仔细感受下其中的区别，对于后面实际操作会有帮助。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>下一篇将介绍CIS库配置方法。</p>", 
+            "topic": [
+                {
+                    "tag": "Cadence", 
+                    "tagLink": "https://api.zhihu.com/topics/19718043"
+                }, 
+                {
+                    "tag": "CIS", 
+                    "tagLink": "https://api.zhihu.com/topics/19572583"
+                }, 
+                {
+                    "tag": "EDA", 
+                    "tagLink": "https://api.zhihu.com/topics/19590301"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/29451198", 
+            "userName": "陈律", 
+            "userLink": "https://www.zhihu.com/people/6d18380a03edb3b7f1caf9e72ca9bf0d", 
+            "upvote": 17, 
+            "title": "制作高逼格3D电路板效果图，产品爆炸图必备！", 
+            "content": "<p>现在很多互联网+硬件的产品，都喜欢在官网上放上产品的3D爆炸图，以展示自己产品的组成结构，并标注自己产品哪些哪些地方用了多么牛X的技术或者元件，以凸显产品的逼格。其中便少不了电路板。</p><p>第一印象中小米的产品都喜欢这么干，所以打算找个小米的产品做下范例，首先想到的产品是小米手环，当然现在卖的只有二代。</p><p>到官网找到一看，略感失望，其中电路板部分就是一块电路上放了N个大小不一的方块，瞬间感觉逼格自由落体。</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-4fdb5fb29f579bf7e736d74530c7e1d9_b.png\" data-rawwidth=\"678\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"678\" data-original=\"https://pic2.zhimg.com/v2-4fdb5fb29f579bf7e736d74530c7e1d9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;678&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"678\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"678\" data-original=\"https://pic2.zhimg.com/v2-4fdb5fb29f579bf7e736d74530c7e1d9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-4fdb5fb29f579bf7e736d74530c7e1d9_b.png\"/></figure><p>好吧，那就算了，直接看看我今天要演示的电路。</p><p>最终效果如下。</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-ef620e027c9a1413bf18d721f70fb049_b.jpg\" data-rawwidth=\"1044\" data-rawheight=\"696\" class=\"origin_image zh-lightbox-thumb\" width=\"1044\" data-original=\"https://pic2.zhimg.com/v2-ef620e027c9a1413bf18d721f70fb049_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1044&#39; height=&#39;696&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1044\" data-rawheight=\"696\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1044\" data-original=\"https://pic2.zhimg.com/v2-ef620e027c9a1413bf18d721f70fb049_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ef620e027c9a1413bf18d721f70fb049_b.jpg\"/></figure><p>这个也没有经过很精细的制作，你学会了以后分分钟就可以作出比这更好的效果。</p><p>首先你得有已经完成的PCB文件。PCB文件有很多软件可以做，对这种3D效果支持比较好的是Altium Designer，我用的是Cadence的Allegro，Allegro以前对于这种3D效果支持一直不太好，一直到16.6才开始支持STEP文件的导出。</p><p>下面的讲解基于Allegro。</p><p>总的步骤是这么几个：</p><p>STEP 1：寻找/制作相关元件的STEP模型</p><p>STEP 2：设置Allegro的STEP模型路径</p><p>STEP 3：关联元件的PCB封装与STEP模型</p><p>STEP 4：预览效果</p><p>STEP 5：导出STEP文件</p><p>STEP 6：渲染</p><p>下面具体讲下。</p><h2>STEP 1：寻找/制作相关元件的STEP模型</h2><p>首先你需要有电路上用到的元件所对应的3D模型，这里强烈推荐一个网站，这里可以找到绝大部分你想找的元件3D模型。</p><p><a href=\"https://link.zhihu.com/?target=http%3A//www.3dcontentcentral.com/default.aspx\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">3dcontentcentral.com/de</span><span class=\"invisible\">fault.aspx</span><span class=\"ellipsis\"></span></a></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-668147c7bec5c77e60a968249cea557b_b.png\" data-rawwidth=\"1918\" data-rawheight=\"889\" class=\"origin_image zh-lightbox-thumb\" width=\"1918\" data-original=\"https://pic4.zhimg.com/v2-668147c7bec5c77e60a968249cea557b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1918&#39; height=&#39;889&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1918\" data-rawheight=\"889\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1918\" data-original=\"https://pic4.zhimg.com/v2-668147c7bec5c77e60a968249cea557b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-668147c7bec5c77e60a968249cea557b_b.png\"/></figure><p>找现成的3D模型是最快的方法，如果你用到了很特殊的元件，实在找不到，也可以自己来制作3D模型（如果你有结构设计基础的话），或者找你们的结构工程师帮忙制作。</p><h2>STEP 2：设置Allegro的STEP模型路径</h2><p>这个就跟设置PCB封装路径一样，你需要创建一个路径，专门用来放STEP模型，这个路径下的STEP文件到时会出现在后面用到的地方。</p><p>找到菜单Setup--&gt;User Preference。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-162e529ad1355c483c46d1561be3a4e7_b.png\" data-rawwidth=\"365\" data-rawheight=\"547\" class=\"content_image\" width=\"365\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;365&#39; height=&#39;547&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"365\" data-rawheight=\"547\" class=\"content_image lazy\" width=\"365\" data-actualsrc=\"https://pic4.zhimg.com/v2-162e529ad1355c483c46d1561be3a4e7_b.png\"/></figure><p>打开后点开到如下的页面，点右侧steppath旁边的省略号设置STEP文件的路径。</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-448432577a6916d5f3e052f24019ea42_b.png\" data-rawwidth=\"1048\" data-rawheight=\"1014\" class=\"origin_image zh-lightbox-thumb\" width=\"1048\" data-original=\"https://pic3.zhimg.com/v2-448432577a6916d5f3e052f24019ea42_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1048&#39; height=&#39;1014&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1048\" data-rawheight=\"1014\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1048\" data-original=\"https://pic3.zhimg.com/v2-448432577a6916d5f3e052f24019ea42_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-448432577a6916d5f3e052f24019ea42_b.png\"/></figure><h2>STEP 3：关联元件的PCB封装与STEP模型</h2><p>STEP准备好放入相应路径后，就要把它们跟你PCB文件中的各种元件封装相关联起来。这样到时PCB封装所在的位置就会放上对应的元件3D模型。</p><p>在打开的PCB文件中，找到菜单Setup--&gt;Step Package Mapping</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-eed72cb0859fa62c10380d59c5b5610b_b.png\" data-rawwidth=\"540\" data-rawheight=\"810\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic4.zhimg.com/v2-eed72cb0859fa62c10380d59c5b5610b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;540&#39; height=&#39;810&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"540\" data-rawheight=\"810\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"540\" data-original=\"https://pic4.zhimg.com/v2-eed72cb0859fa62c10380d59c5b5610b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-eed72cb0859fa62c10380d59c5b5610b_b.png\"/></figure><p>打开后出现下面的窗口。这里出现PCB文件中所用到各个封装，以及你的STEP路径中包含的文件。你要做的就是把它们一一对应起来，并且调整位置把它们完美的叠在一起。你可能需要用到上下左右平移，翻转，角度旋转等等操作，我就不细讲了，实战下就知道了，很简单。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-a9312a651ac0225fcfcbb3d8998db9b8_b.png\" data-rawwidth=\"499\" data-rawheight=\"767\" class=\"origin_image zh-lightbox-thumb\" width=\"499\" data-original=\"https://pic1.zhimg.com/v2-a9312a651ac0225fcfcbb3d8998db9b8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;499&#39; height=&#39;767&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"499\" data-rawheight=\"767\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"499\" data-original=\"https://pic1.zhimg.com/v2-a9312a651ac0225fcfcbb3d8998db9b8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a9312a651ac0225fcfcbb3d8998db9b8_b.png\"/></figure><h2>STEP 4：预览效果</h2><p>所有的PCB封装和STEP文件对应好后，可以预览下效果。找到菜单View--&gt;3D Viewer或者点工具栏上对应的图标。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-4c6d422c16481892af50b2dded787630_b.png\" data-rawwidth=\"708\" data-rawheight=\"472\" class=\"origin_image zh-lightbox-thumb\" width=\"708\" data-original=\"https://pic1.zhimg.com/v2-4c6d422c16481892af50b2dded787630_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;708&#39; height=&#39;472&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"708\" data-rawheight=\"472\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"708\" data-original=\"https://pic1.zhimg.com/v2-4c6d422c16481892af50b2dded787630_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4c6d422c16481892af50b2dded787630_b.png\"/></figure><p>打开后出现预览页面，需要注意的是，默认上面是没有元件模型的，需要在菜单中找到View--&gt;Dynamic Layer visibility前面的勾点掉，就会出现放好的元件模型了，如下图。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-3e7d2e05281a843ef37218da3e9cd0d4_b.jpg\" data-rawwidth=\"612\" data-rawheight=\"408\" class=\"origin_image zh-lightbox-thumb\" width=\"612\" data-original=\"https://pic1.zhimg.com/v2-3e7d2e05281a843ef37218da3e9cd0d4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;612&#39; height=&#39;408&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"612\" data-rawheight=\"408\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"612\" data-original=\"https://pic1.zhimg.com/v2-3e7d2e05281a843ef37218da3e9cd0d4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3e7d2e05281a843ef37218da3e9cd0d4_b.jpg\"/></figure><p>是不是已经小有成就感了？？哈哈，但是这时候离最终的效果还差得远呢。这会你要检查下有没有什么地方元件没有放好的，如果全部OK了，咱们再进入下一步。</p><h2>STEP 5：导出STEP文件</h2><p>刚才我们只是看到了3D的大概效果，但是还没有拿到3D文件。这一步就是要导出可以编辑的3D STEP文件。再一次提醒下，你的Allegro必须是16.6以上的才可以。</p><p>找到菜单File--&gt;Export--&gt;Step，打开。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-9d000aa36fc313ac259f8b0954f50693_b.png\" data-rawwidth=\"568\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb\" width=\"568\" data-original=\"https://pic4.zhimg.com/v2-9d000aa36fc313ac259f8b0954f50693_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;568&#39; height=&#39;852&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"568\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"568\" data-original=\"https://pic4.zhimg.com/v2-9d000aa36fc313ac259f8b0954f50693_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9d000aa36fc313ac259f8b0954f50693_b.png\"/></figure><p>出现下面的窗口，导出选项中你可以选择哪些要导出，哪些不要导出，都简单的，自己看下就好了。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-c23dc1e499ada44f87211cf23902c8ac_b.png\" data-rawwidth=\"733\" data-rawheight=\"654\" class=\"origin_image zh-lightbox-thumb\" width=\"733\" data-original=\"https://pic1.zhimg.com/v2-c23dc1e499ada44f87211cf23902c8ac_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;733&#39; height=&#39;654&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"733\" data-rawheight=\"654\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"733\" data-original=\"https://pic1.zhimg.com/v2-c23dc1e499ada44f87211cf23902c8ac_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c23dc1e499ada44f87211cf23902c8ac_b.png\"/></figure><p>然后你去PCB文件所在的文件夹找，会看到新生成了一个.stp后缀的文件，对了，就是它了！</p><p>温馨Tips 1：</p><p>有些同学可能会发现提示导出成功，但就是找不到.stp后缀的文件，那么，看看你这个文件夹路径是否包含中文，如果包含中文会出现没有.stp后缀的文件，改下路径吧。</p><p>温馨Tips 2：</p><p>有的同学用3D软件打开这个.stp文件会发现，所有的元件模型都叠在一起，比如你用的是PRO-E打开，那么恭喜你，中奖了，换一个3D软件吧。犀牛实测没问题，Solidworks好像也没问题。</p><h2>STEP 6：渲染</h2><p>渲染的软件推荐KeyShot，使用非常简单，我本人之前没有接触过渲染，但是这个软件上手完全没有问题，就跟用什么美图软件难度差不多吧。</p><p>先来看看渲染之前什么样。</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-04a6f4de9fb10e0e721ec599627d42bd_b.jpg\" data-rawwidth=\"911\" data-rawheight=\"607\" class=\"origin_image zh-lightbox-thumb\" width=\"911\" data-original=\"https://pic2.zhimg.com/v2-04a6f4de9fb10e0e721ec599627d42bd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;911&#39; height=&#39;607&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"911\" data-rawheight=\"607\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"911\" data-original=\"https://pic2.zhimg.com/v2-04a6f4de9fb10e0e721ec599627d42bd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-04a6f4de9fb10e0e721ec599627d42bd_b.jpg\"/></figure><p>对比下渲染后的效果，也就是开头看到的那个，怎么样，感觉好多了吧？</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-ef620e027c9a1413bf18d721f70fb049_b.jpg\" data-rawwidth=\"1044\" data-rawheight=\"696\" class=\"origin_image zh-lightbox-thumb\" width=\"1044\" data-original=\"https://pic2.zhimg.com/v2-ef620e027c9a1413bf18d721f70fb049_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1044&#39; height=&#39;696&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1044\" data-rawheight=\"696\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1044\" data-original=\"https://pic2.zhimg.com/v2-ef620e027c9a1413bf18d721f70fb049_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ef620e027c9a1413bf18d721f70fb049_b.jpg\"/></figure><p>具体渲染过程就不细讲了，无非就是选颜色选材质，让各部分更加接近真实的效果，你一定可以的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>更多专栏文章：</p><p><a href=\"https://zhuanlan.zhihu.com/p/28536370\" class=\"internal\">耳温枪怎么才能测的准？</a></p><p><a href=\"https://zhuanlan.zhihu.com/p/29058566\" class=\"internal\">运动减脂下不来？健身没效果？来了解下心率监测吧！</a></p><p><a href=\"https://zhuanlan.zhihu.com/p/29314838\" class=\"internal\">绿or红？心率监测使用哪种光比较好？</a></p><p><a href=\"https://zhuanlan.zhihu.com/p/29451198\" class=\"internal\">制作高逼格3D电路板效果图，产品爆炸图必备！</a></p>", 
+            "topic": [
+                {
+                    "tag": "Cadence", 
+                    "tagLink": "https://api.zhihu.com/topics/19718043"
+                }, 
+                {
+                    "tag": "3D 模型", 
+                    "tagLink": "https://api.zhihu.com/topics/19811662"
+                }, 
+                {
+                    "tag": "EDA", 
+                    "tagLink": "https://api.zhihu.com/topics/19590301"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "李雨君", 
+                    "userLink": "https://www.zhihu.com/people/f308e76f8b3f2fb7def51dbc337d7b9f", 
+                    "content": "<p>有cadence16.6的安装包吗，来自一个想学cadence的菜鸟的求助</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "陈律", 
+                            "userLink": "https://www.zhihu.com/people/6d18380a03edb3b7f1caf9e72ca9bf0d", 
+                            "content": "这个网上应该不难找吧", 
+                            "likes": 0, 
+                            "replyToAuthor": "李雨君"
+                        }, 
+                        {
+                            "userName": "锐致创新", 
+                            "userLink": "https://www.zhihu.com/people/4adba3e31237f14ebff8e375012c0999", 
+                            "content": "<p>我这有</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "李雨君"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "大力出奇迹啊", 
+                    "userLink": "https://www.zhihu.com/people/6aa687e20241e83f0f7c2c7960038021", 
+                    "content": "<p>你好，你的导出来就有丝印和铜皮走线的么？Altium Designer不加装插件的情况下无法导出丝印和铜皮</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "陈律", 
+                            "userLink": "https://www.zhihu.com/people/6d18380a03edb3b7f1caf9e72ca9bf0d", 
+                            "content": "导出就有。allegro可选导出内容", 
+                            "likes": 0, 
+                            "replyToAuthor": "大力出奇迹啊"
+                        }, 
+                        {
+                            "userName": "杨秀元", 
+                            "userLink": "https://www.zhihu.com/people/68c368a74f25dd7e4c3d55f32e947f67", 
+                            "content": "<p>请教一下，什么插件能导出丝印与铜皮？</p><p>谢谢</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "大力出奇迹啊"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "ysun", 
+                    "userLink": "https://www.zhihu.com/people/fda5187b5e4dfa91dd69dbc287051a42", 
+                    "content": "<p>整篇写得很清晰，谢谢！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_127256441"
+}

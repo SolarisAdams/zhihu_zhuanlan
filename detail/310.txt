@@ -1,0 +1,63 @@
+{
+    "title": "深度学习中的101个为什么", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/zhang-xue-yan-40-50", 
+        "https://www.zhihu.com/people/grace-66-24-56", 
+        "https://www.zhihu.com/people/cblian", 
+        "https://www.zhihu.com/people/yangao058", 
+        "https://www.zhihu.com/people/he-yi-a-26", 
+        "https://www.zhihu.com/people/gy-xie-60", 
+        "https://www.zhihu.com/people/yue-zhen-37-7", 
+        "https://www.zhihu.com/people/liu-tong-2-74", 
+        "https://www.zhihu.com/people/wu-hen-12-25", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/xie-yi-15-42", 
+        "https://www.zhihu.com/people/bpnekozhu-ye-ji", 
+        "https://www.zhihu.com/people/nicolarun", 
+        "https://www.zhihu.com/people/wang-chen-pku", 
+        "https://www.zhihu.com/people/bearbee-2", 
+        "https://www.zhihu.com/people/cmcslash"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32092212", 
+            "userName": "毕加索·陈", 
+            "userLink": "https://www.zhihu.com/people/7f47705343063965cd8664c9cfba9194", 
+            "upvote": 1, 
+            "title": "关于梯度下降的几个小问题？", 
+            "content": "<p>问题：什么是梯度下降？批量梯度下降（BGD），随机梯度下降（SGD）和小批量梯度下降（Mini Batch SGD）各有什么不同？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>回答：</p><p>梯度下降算法是通过沿着目标函数J(θ)参数的梯度（一阶导数）相反方向−∇θJ(θ)来不断更新模型参数来到达目标函数的极小值点（收敛），每次更新步长为η。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-00fe10bf8877137bc5957cf0cd7f9219_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"420\" data-rawheight=\"250\" class=\"content_image\" width=\"420\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;420&#39; height=&#39;250&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"420\" data-rawheight=\"250\" class=\"content_image lazy\" width=\"420\" data-actualsrc=\"https://pic2.zhimg.com/v2-00fe10bf8877137bc5957cf0cd7f9219_b.jpg\"/></figure><p>机器学习中常见的有三种梯度下降算法，它们的不同之处在于每次学习（更新模型参数）使用的样本个数，每次更新使用不同的样本会导致每次学习的准确性和学习时间不同。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>批量梯度下降(Batch gradient descent) </b></p><blockquote>每次使用全部的训练集样本来更新模型参数，即： θ=θ−η⋅∇θJ(θ)</blockquote><p>批量梯度下降每次学习都使用<b>整个训练集</b>，因此其优点在于每次更新都会朝着正确的方向进行，最后能够保证收敛于极值点(凸函数收敛于全局极值点，非凸函数可能会收敛于局部极值点)，但是其缺点在于每次学习时间过长，并且如果训练集很大以至于需要消耗大量的内存，并且批量梯度下降不能进行在线模型参数更新。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>随机梯度下降(Stochastic gradient descent)</b></p><blockquote>随机梯度下降算法每次从训练集中随机选择一个样本来进行学习，即： θ=θ−η⋅∇θJ(θ;xi;yi)</blockquote><p>随机梯度下降算法每次只随机选择<b>一个样本</b>来更新模型参数，因此每次的学习是非常快速的，并且可以进行在线更新。</p><p>随机梯度下降最大的缺点在于每次更新可能并不会按照正确的方向进行，因此可以带来优化波动。但从另一个方面来看，随机梯度下降所带来的波动有个好处，对于类似盆地区域（即很多局部极小值点）那么这个波动的特点可能会使得优化的方向从当前的局部极小值点跳到另一个更好的局部极小值点，这样便可能对于非凸函数，最终收敛于一个较好的局部极值点，甚至全局极值点。 </p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4007d58e18df1fc4756030876abbcacf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"503\" data-rawheight=\"391\" class=\"origin_image zh-lightbox-thumb\" width=\"503\" data-original=\"https://pic4.zhimg.com/v2-4007d58e18df1fc4756030876abbcacf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;503&#39; height=&#39;391&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"503\" data-rawheight=\"391\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"503\" data-original=\"https://pic4.zhimg.com/v2-4007d58e18df1fc4756030876abbcacf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4007d58e18df1fc4756030876abbcacf_b.jpg\"/></figure><p>由于波动，因此会使得迭代次数（学习次数）增多，即收敛速度变慢。不过最终其会和全量梯度下降算法一样，具有相同的收敛性，即凸函数收敛于全局极值点，非凸损失函数收敛于局部极值点。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>小批量梯度下降(Mini-batch gradient descent)</b></p><blockquote>Mini-batch 梯度下降综合了 batch 梯度下降与 stochastic 梯度下降，在每次更新速度与更新次数中间取得一个平衡，其每次更新从训练集中随机选择 m,m&lt;n 个样本进行学习，即：<br/>θ=θ−η⋅∇θJ(θ;xi:i+m;yi:i+m)</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>相对于随机梯度下降，Mini-batch梯度下降降低了收敛波动性，即降低了参数更新的方差，使得更新更加稳定。</p><p>相对于全量梯度下降，其提高了每次学习的速度。并且其不用担心内存瓶颈从而可以利用矩阵运算进行高效计算。</p><p>一般每次更新随机选择[32, 256]个样本进行学习，根据具体问题而选择，实践中可以进行多次试验，选择一个更新速度与更次次数都较适合的样本数。这里有一个小技巧是，一般我们会选择2的N次方大小的Mini-batch样本数，这样对于计算机的存储和运算会更合适。</p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31852037", 
+            "userName": "毕加索·陈", 
+            "userLink": "https://www.zhihu.com/people/7f47705343063965cd8664c9cfba9194", 
+            "upvote": 14, 
+            "title": "什么是偏差-方差权衡？", 
+            "content": "<p><b>问题：什么是偏差-方差权衡（Bias- Variance trade-off）? 为什么在深度学习中不用太过关注偏差-方差权衡？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>回答：</p><p>周志华老师的《机器学习》中对偏差和方差有以下描述：</p><p><b>偏差</b>度量了学习算法的期望预测与真实结果的偏离程度，刻画了学习算法本身的拟合能力。</p><p><b>方差</b>度量了同样大小的训练集的变动所导致的学习性能的变化，刻画了数据扰动所造成的影响。</p><p><b>噪声</b>表达了当前任务上任何学习算法所能达到的期望泛化误差的下界，也就是最小值。</p><p><b>泛化误差</b>可以分解为偏差、方差和噪声之和。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一般来说，偏差和方差是有冲突的，成为<b>偏差-方差窘境</b>（Bias- Variance  dilemma）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-76559095430dc32202d57d8177aeb572_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"354\" data-rawheight=\"248\" class=\"content_image\" width=\"354\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;354&#39; height=&#39;248&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"354\" data-rawheight=\"248\" class=\"content_image lazy\" width=\"354\" data-actualsrc=\"https://pic3.zhimg.com/v2-76559095430dc32202d57d8177aeb572_b.jpg\"/></figure><p>周老师这里描述了训练程度与偏差、方差的关系：</p><p>1） 训练程度不足时，学习器的拟合能力不够强，训练数据的扰动不足以使学习器产生显著变化，偏差将主导泛化错误率。</p><p>2）训练程度加深，学习器的拟合能力逐渐增强，训练数据发生的扰动逐渐能够被学习器学到，方差将主导泛化错误率。</p><p>3）训练程度充足后，学习器的拟合能力已经非常强，训练数据发生的轻微扰动都会导致学习器发生显著变化。训练数据非全局的特征如果被学习器学到了，将发生过拟合。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>吴恩达的《深度学习》课程中提到理解偏差和方差的两个关键数据：</p><p>Train set error（训练集误差） 和 Dev set error （开发集误差）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-45971d959a7b31d4887cb50ac1c5bda9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1105\" data-rawheight=\"536\" class=\"origin_image zh-lightbox-thumb\" width=\"1105\" data-original=\"https://pic2.zhimg.com/v2-45971d959a7b31d4887cb50ac1c5bda9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1105&#39; height=&#39;536&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1105\" data-rawheight=\"536\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1105\" data-original=\"https://pic2.zhimg.com/v2-45971d959a7b31d4887cb50ac1c5bda9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-45971d959a7b31d4887cb50ac1c5bda9_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>可以看到，若我们假设贝叶斯误差为0，也就是人类的错误率接近于0%。</p><p>1）若训练集误差很接近人类的可避免误差，并且和开发集误差相差很大时，我们称此情况为高方差。模型过度拟合了训练数据。</p><p>2）若训练集误差与贝叶斯误差相差较大，同时接近开发集误差时，称之为高偏差。算法没有在数据集上得到很好的训练，对训练数据欠拟合。</p><p>3）若训练集误差与贝叶斯误差相差较大，同时与开发集误差也相差较大时，此时为高偏差高方差情形。参见下图，这是一个整体为线性，但在局部具有高灵活性，能够过度拟合部分数据的线性分类器。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-24ca2d5362dd401e314a3046e2344c64_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"766\" data-rawheight=\"431\" class=\"origin_image zh-lightbox-thumb\" width=\"766\" data-original=\"https://pic1.zhimg.com/v2-24ca2d5362dd401e314a3046e2344c64_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;766&#39; height=&#39;431&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"766\" data-rawheight=\"431\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"766\" data-original=\"https://pic1.zhimg.com/v2-24ca2d5362dd401e314a3046e2344c64_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-24ca2d5362dd401e314a3046e2344c64_b.jpg\"/></figure><p>4）若训练集误差非常接近贝叶斯误差，同时开发集误差也非常接近训练集误差，那么就是我们期望的低偏差低方差状态。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>下面看另外一个问题，为什么在深度学习中不用太关注偏差-方差权衡？</p><p>这需要了解一下在偏差-方差权衡问题解决中的办法。</p><p>对于高偏差问题，我们一般采用：</p><p>a. <b>更加复杂的模型 </b></p><p>b. 增加训练时间</p><p class=\"ztext-empty-paragraph\"><br/></p><p>对于高方差问题，则采取：</p><p>a. <b>更多的训练数据</b></p><p>b. 正则化</p><p class=\"ztext-empty-paragraph\"><br/></p><p>因此，在目前的大数据时代和深度学习算法不断进步的今天，只要我们训练一个更大的神经网络，准备了更多的训练数据，就解决了以上问题。可以做到仅仅减小方差或偏差，而不对另一方产生过多影响。也就是方差和偏差的相关性减弱了。</p><p>这就是在深度学习中不必太过关注偏差-方差权衡的原因。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "岚岚岚岚", 
+                    "userLink": "https://www.zhihu.com/people/b84ba93ba60c5c73a374d29fad6366f3", 
+                    "content": "谢谢分享，写的很清楚。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_145748505"
+}

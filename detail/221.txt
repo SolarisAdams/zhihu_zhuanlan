@@ -1,0 +1,975 @@
+{
+    "title": "AITMR", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/kevin-72-59", 
+        "https://www.zhihu.com/people/gongy0904", 
+        "https://www.zhihu.com/people/hu-you-61-14", 
+        "https://www.zhihu.com/people/dcm-34", 
+        "https://www.zhihu.com/people/864521", 
+        "https://www.zhihu.com/people/jia-xing-ing", 
+        "https://www.zhihu.com/people/gao-zhang-50-30-7", 
+        "https://www.zhihu.com/people/xltry", 
+        "https://www.zhihu.com/people/kkjj-94", 
+        "https://www.zhihu.com/people/ai-chi-xi-mian", 
+        "https://www.zhihu.com/people/yi-tang-chun-qiu-98", 
+        "https://www.zhihu.com/people/meng-huan-mei-xing-42", 
+        "https://www.zhihu.com/people/hui-dao-yuan-dian-33-60", 
+        "https://www.zhihu.com/people/xiao-kong-long-2-71", 
+        "https://www.zhihu.com/people/liu-feng-41-66", 
+        "https://www.zhihu.com/people/liao-zi-qi-43", 
+        "https://www.zhihu.com/people/shi-kong-chuan-suo-64", 
+        "https://www.zhihu.com/people/wu-hui-jie-53-6", 
+        "https://www.zhihu.com/people/karman", 
+        "https://www.zhihu.com/people/qing-si-jiang-xue-15", 
+        "https://www.zhihu.com/people/xu-ming-hao-72", 
+        "https://www.zhihu.com/people/zhen-61-97", 
+        "https://www.zhihu.com/people/yue-ming-47-41", 
+        "https://www.zhihu.com/people/zhang-jin-long-33", 
+        "https://www.zhihu.com/people/jun-leung", 
+        "https://www.zhihu.com/people/yang-guang-ni-kuai-tiao-zhu", 
+        "https://www.zhihu.com/people/chuan-ming-62", 
+        "https://www.zhihu.com/people/xiao-jin-31-20", 
+        "https://www.zhihu.com/people/lan-pi-a-wu-xiao-dou-dou", 
+        "https://www.zhihu.com/people/bai-yue-11-39", 
+        "https://www.zhihu.com/people/xie-hui-min-51", 
+        "https://www.zhihu.com/people/chen-hao-dong-18", 
+        "https://www.zhihu.com/people/xiao-xue-gou-qiu", 
+        "https://www.zhihu.com/people/laok", 
+        "https://www.zhihu.com/people/iownu", 
+        "https://www.zhihu.com/people/liu-xiu-feng-69-50", 
+        "https://www.zhihu.com/people/cai-xiang-36", 
+        "https://www.zhihu.com/people/liu-cong-ming-liu-cong-ming", 
+        "https://www.zhihu.com/people/fan-zu-quan-51", 
+        "https://www.zhihu.com/people/bo-ti-la", 
+        "https://www.zhihu.com/people/dean-20-34", 
+        "https://www.zhihu.com/people/yizhi-hui-fei-de-xiao-bo-he", 
+        "https://www.zhihu.com/people/zam2013301282", 
+        "https://www.zhihu.com/people/DevilGrape", 
+        "https://www.zhihu.com/people/wgh-82-58", 
+        "https://www.zhihu.com/people/wen-tao-84-43-11", 
+        "https://www.zhihu.com/people/chen-64-64", 
+        "https://www.zhihu.com/people/jia-ming-70", 
+        "https://www.zhihu.com/people/fu-tian-huang", 
+        "https://www.zhihu.com/people/han-ting-hao-28", 
+        "https://www.zhihu.com/people/mu-tong-87-10-94", 
+        "https://www.zhihu.com/people/wang-mo-42", 
+        "https://www.zhihu.com/people/li-zhi-hao-32-6", 
+        "https://www.zhihu.com/people/fei-long-zai-tian-84-14", 
+        "https://www.zhihu.com/people/zhang-gg-83", 
+        "https://www.zhihu.com/people/empty-mood", 
+        "https://www.zhihu.com/people/gong-xing-71-89", 
+        "https://www.zhihu.com/people/jetthuang", 
+        "https://www.zhihu.com/people/soaringsk", 
+        "https://www.zhihu.com/people/SimonZhihu", 
+        "https://www.zhihu.com/people/ttitor", 
+        "https://www.zhihu.com/people/juljl", 
+        "https://www.zhihu.com/people/fang-fei-meng-xiang-de-niu", 
+        "https://www.zhihu.com/people/wu-ming-wei-30-82", 
+        "https://www.zhihu.com/people/si-liang-19-12", 
+        "https://www.zhihu.com/people/feng-yu-zhe-55-63", 
+        "https://www.zhihu.com/people/yang-yang-75-12-10", 
+        "https://www.zhihu.com/people/alva-az", 
+        "https://www.zhihu.com/people/feng-lin-shuang-ye", 
+        "https://www.zhihu.com/people/feng-yue-xie-73", 
+        "https://www.zhihu.com/people/hou-shi-jing-he-he", 
+        "https://www.zhihu.com/people/huang-yong-17-28", 
+        "https://www.zhihu.com/people/bob-13-26", 
+        "https://www.zhihu.com/people/huayaoyue6", 
+        "https://www.zhihu.com/people/tao-chong-91", 
+        "https://www.zhihu.com/people/xi-xi-fu-si-48-51", 
+        "https://www.zhihu.com/people/zer0-66", 
+        "https://www.zhihu.com/people/da-zhe-ge-68", 
+        "https://www.zhihu.com/people/yun-cheng-11-80-6", 
+        "https://www.zhihu.com/people/xu-yi-hang", 
+        "https://www.zhihu.com/people/xiao-ying-41-36", 
+        "https://www.zhihu.com/people/feng-ji-hao", 
+        "https://www.zhihu.com/people/skylakex64", 
+        "https://www.zhihu.com/people/zhao-xian-ping-49", 
+        "https://www.zhihu.com/people/ai00-26", 
+        "https://www.zhihu.com/people/axin-james", 
+        "https://www.zhihu.com/people/alan-73-86", 
+        "https://www.zhihu.com/people/xiao-pang-23-80-67", 
+        "https://www.zhihu.com/people/golaced", 
+        "https://www.zhihu.com/people/xin-xin-62-69-70", 
+        "https://www.zhihu.com/people/mandahuang", 
+        "https://www.zhihu.com/people/li-wei-long-78-50", 
+        "https://www.zhihu.com/people/aaronhsiao", 
+        "https://www.zhihu.com/people/tian-si-16-91", 
+        "https://www.zhihu.com/people/song-bao-shan-46", 
+        "https://www.zhihu.com/people/lu-pin-43-64", 
+        "https://www.zhihu.com/people/shen-han-feng", 
+        "https://www.zhihu.com/people/wang-hong-liang-30-70", 
+        "https://www.zhihu.com/people/zhao-wen-jie", 
+        "https://www.zhihu.com/people/shishu8385", 
+        "https://www.zhihu.com/people/qing-xu-bu-shi-cuo", 
+        "https://www.zhihu.com/people/feng-lin-86-72", 
+        "https://www.zhihu.com/people/bo-bo-59-7-53", 
+        "https://www.zhihu.com/people/gary.lxg", 
+        "https://www.zhihu.com/people/justinhan", 
+        "https://www.zhihu.com/people/wang-xiao-li-36-28", 
+        "https://www.zhihu.com/people/xie-tao-47-50", 
+        "https://www.zhihu.com/people/zhang-yong-qing-40", 
+        "https://www.zhihu.com/people/data-show", 
+        "https://www.zhihu.com/people/tian-hong-ze-9", 
+        "https://www.zhihu.com/people/feng-liu-ren-wu-10", 
+        "https://www.zhihu.com/people/jacinto-57", 
+        "https://www.zhihu.com/people/music-14-44", 
+        "https://www.zhihu.com/people/leslie-33-96", 
+        "https://www.zhihu.com/people/lian-zhi-wen", 
+        "https://www.zhihu.com/people/john-king-39", 
+        "https://www.zhihu.com/people/aaa-68-46", 
+        "https://www.zhihu.com/people/wei-dao-shi-60", 
+        "https://www.zhihu.com/people/hiking-24", 
+        "https://www.zhihu.com/people/ggbond-13", 
+        "https://www.zhihu.com/people/liu-yi-25-60", 
+        "https://www.zhihu.com/people/dingawm", 
+        "https://www.zhihu.com/people/wang-kuan-57-47", 
+        "https://www.zhihu.com/people/lan-qi-bin", 
+        "https://www.zhihu.com/people/zhu-zi-qian-78", 
+        "https://www.zhihu.com/people/aleechou", 
+        "https://www.zhihu.com/people/byron-chen", 
+        "https://www.zhihu.com/people/zang-chuan-kai", 
+        "https://www.zhihu.com/people/yi-shu-dong-62", 
+        "https://www.zhihu.com/people/yang-yiang", 
+        "https://www.zhihu.com/people/chen-xiao-fan-85", 
+        "https://www.zhihu.com/people/wei-ni-cheng-qi-yiba-san", 
+        "https://www.zhihu.com/people/heco3", 
+        "https://www.zhihu.com/people/xu-lin-53-92", 
+        "https://www.zhihu.com/people/1234566543213", 
+        "https://www.zhihu.com/people/si-ta-lin-bi-ge-di-yi-ren", 
+        "https://www.zhihu.com/people/zhangsan-97-39", 
+        "https://www.zhihu.com/people/li-kun-75-82", 
+        "https://www.zhihu.com/people/tian-ti-54", 
+        "https://www.zhihu.com/people/bu-xian-69-37", 
+        "https://www.zhihu.com/people/cang-qiong-ao", 
+        "https://www.zhihu.com/people/li-chong-bin-23", 
+        "https://www.zhihu.com/people/liang-fu-ye-12", 
+        "https://www.zhihu.com/people/ziqi-yu", 
+        "https://www.zhihu.com/people/xiao-pang-42-84", 
+        "https://www.zhihu.com/people/ke-xin-xin-13", 
+        "https://www.zhihu.com/people/lee-28-5-11", 
+        "https://www.zhihu.com/people/li-shu-lin-99", 
+        "https://www.zhihu.com/people/myking-40", 
+        "https://www.zhihu.com/people/zhi-hu-zhe-ye-13-79-16", 
+        "https://www.zhihu.com/people/gang-zhu-zi", 
+        "https://www.zhihu.com/people/shao-si-ze", 
+        "https://www.zhihu.com/people/ming-tian-20-87", 
+        "https://www.zhihu.com/people/meng-hui-tang-zhao-91", 
+        "https://www.zhihu.com/people/wei-xiang-sheng", 
+        "https://www.zhihu.com/people/shan-jian-wu", 
+        "https://www.zhihu.com/people/bing-hua-42", 
+        "https://www.zhihu.com/people/bo-shi-ye-you-ya", 
+        "https://www.zhihu.com/people/meng-yuan-liao-huan-zhui-ma", 
+        "https://www.zhihu.com/people/du-hui-guang", 
+        "https://www.zhihu.com/people/zi-fei-yu-70-99", 
+        "https://www.zhihu.com/people/shuang-kong-xiao-hun-dun", 
+        "https://www.zhihu.com/people/magic-17-97-85", 
+        "https://www.zhihu.com/people/wuwan1999", 
+        "https://www.zhihu.com/people/xiao-you-u", 
+        "https://www.zhihu.com/people/wu-jun-jie-65-96", 
+        "https://www.zhihu.com/people/yan-yan-ta-nan-piao", 
+        "https://www.zhihu.com/people/fei-de-geng-gao-2", 
+        "https://www.zhihu.com/people/li-xu-10-5", 
+        "https://www.zhihu.com/people/jiu-jian-xian-44", 
+        "https://www.zhihu.com/people/lyon-68-31", 
+        "https://www.zhihu.com/people/shao-ming-chen-63", 
+        "https://www.zhihu.com/people/xu-ming-hao-33", 
+        "https://www.zhihu.com/people/bu-dong-jiu-wen-de-frank", 
+        "https://www.zhihu.com/people/mu-yao-41-67", 
+        "https://www.zhihu.com/people/cheng-wen-jia-71", 
+        "https://www.zhihu.com/people/fu-jie-63-37", 
+        "https://www.zhihu.com/people/vincent-46-22", 
+        "https://www.zhihu.com/people/hijackjave", 
+        "https://www.zhihu.com/people/liu-gao-yong", 
+        "https://www.zhihu.com/people/zhi-bai-41-24", 
+        "https://www.zhihu.com/people/ting-feng-sheng-shuo-gu-shi", 
+        "https://www.zhihu.com/people/yesheng3838", 
+        "https://www.zhihu.com/people/xu-hua-qing-6", 
+        "https://www.zhihu.com/people/wang-xiao-yu-63-42", 
+        "https://www.zhihu.com/people/xiaosheng001", 
+        "https://www.zhihu.com/people/nmqniu-niu", 
+        "https://www.zhihu.com/people/tranquilword", 
+        "https://www.zhihu.com/people/brotherchen", 
+        "https://www.zhihu.com/people/flippedoppo", 
+        "https://www.zhihu.com/people/liyug", 
+        "https://www.zhihu.com/people/li-wen-qi-14-93", 
+        "https://www.zhihu.com/people/EElover", 
+        "https://www.zhihu.com/people/si-wen-bai-lei-31", 
+        "https://www.zhihu.com/people/jingsong-zhao", 
+        "https://www.zhihu.com/people/powermo-mei", 
+        "https://www.zhihu.com/people/qiu-xue-34-8", 
+        "https://www.zhihu.com/people/rang-tong-geng-tong", 
+        "https://www.zhihu.com/people/qiang-xi-xi-96", 
+        "https://www.zhihu.com/people/lukeliu97", 
+        "https://www.zhihu.com/people/yu-yang-96-53", 
+        "https://www.zhihu.com/people/a-a-a-93-65-87", 
+        "https://www.zhihu.com/people/li-dong-40-53", 
+        "https://www.zhihu.com/people/danielei", 
+        "https://www.zhihu.com/people/zhao-qian-92-43", 
+        "https://www.zhihu.com/people/wang-yuan-shan-61", 
+        "https://www.zhihu.com/people/wang-wang-wang-33-41", 
+        "https://www.zhihu.com/people/wen-ying-jian", 
+        "https://www.zhihu.com/people/mjun-93-17", 
+        "https://www.zhihu.com/people/chen-hao-57-6-78", 
+        "https://www.zhihu.com/people/dong-ge-wu", 
+        "https://www.zhihu.com/people/wu-wu-wu-82-38", 
+        "https://www.zhihu.com/people/re-de-xe", 
+        "https://www.zhihu.com/people/yeqiao-48", 
+        "https://www.zhihu.com/people/zhu-pan-01-04", 
+        "https://www.zhihu.com/people/yi-xian-2", 
+        "https://www.zhihu.com/people/she-de-59-76", 
+        "https://www.zhihu.com/people/qing-chu-mox", 
+        "https://www.zhihu.com/people/xue-ying-35-91", 
+        "https://www.zhihu.com/people/und_d4", 
+        "https://www.zhihu.com/people/wang-gou-zhong-de-dan-gao", 
+        "https://www.zhihu.com/people/ha-ha-17-96-16", 
+        "https://www.zhihu.com/people/qiaofengmarco", 
+        "https://www.zhihu.com/people/zhang-ang-68", 
+        "https://www.zhihu.com/people/jack-cai-15", 
+        "https://www.zhihu.com/people/yang-nu-85", 
+        "https://www.zhihu.com/people/alahlll", 
+        "https://www.zhihu.com/people/xu-zhong-qiu-33", 
+        "https://www.zhihu.com/people/TAT_hanxiao", 
+        "https://www.zhihu.com/people/cheng-zi-li-zhi", 
+        "https://www.zhihu.com/people/liu-yu-han-1-58", 
+        "https://www.zhihu.com/people/liu-bao-feng", 
+        "https://www.zhihu.com/people/javon-19", 
+        "https://www.zhihu.com/people/liu-xiao-yu-2", 
+        "https://www.zhihu.com/people/willwinworld", 
+        "https://www.zhihu.com/people/fenggege", 
+        "https://www.zhihu.com/people/Micro_Kun", 
+        "https://www.zhihu.com/people/yang-yong-61-36", 
+        "https://www.zhihu.com/people/niu-nai-qiao-ke-li-13", 
+        "https://www.zhihu.com/people/liu-lei-3-27", 
+        "https://www.zhihu.com/people/canada", 
+        "https://www.zhihu.com/people/apm-a-si-ba-tian-aspartame", 
+        "https://www.zhihu.com/people/mark-24-62", 
+        "https://www.zhihu.com/people/feiduan", 
+        "https://www.zhihu.com/people/raychowyui", 
+        "https://www.zhihu.com/people/xi-mu-xie-xia", 
+        "https://www.zhihu.com/people/ben-44-46", 
+        "https://www.zhihu.com/people/yu-wei-lian-69", 
+        "https://www.zhihu.com/people/fancy-home", 
+        "https://www.zhihu.com/people/jiang-guo-gan", 
+        "https://www.zhihu.com/people/liu-ya-nan-24-50", 
+        "https://www.zhihu.com/people/xie-shang-du-gu", 
+        "https://www.zhihu.com/people/dao-ming", 
+        "https://www.zhihu.com/people/zhang-xiang-dong-27-19", 
+        "https://www.zhihu.com/people/cang-qiong-at-zhihu", 
+        "https://www.zhihu.com/people/tt-tt-13-48", 
+        "https://www.zhihu.com/people/bu-yi-mi-ya", 
+        "https://www.zhihu.com/people/tian-ruo-wu-ying", 
+        "https://www.zhihu.com/people/xuliker", 
+        "https://www.zhihu.com/people/lei-zi-hai", 
+        "https://www.zhihu.com/people/jason-20-17-14", 
+        "https://www.zhihu.com/people/huang-xiao-mo-37", 
+        "https://www.zhihu.com/people/swjtuer-25", 
+        "https://www.zhihu.com/people/dong-shuo", 
+        "https://www.zhihu.com/people/leegang", 
+        "https://www.zhihu.com/people/yang-yi-ling-6", 
+        "https://www.zhihu.com/people/qia-er-60", 
+        "https://www.zhihu.com/people/wu-lin-yu-25", 
+        "https://www.zhihu.com/people/crowley-89", 
+        "https://www.zhihu.com/people/hongwei-tang-16", 
+        "https://www.zhihu.com/people/duanzr", 
+        "https://www.zhihu.com/people/da-wei-su", 
+        "https://www.zhihu.com/people/liu-zhao-39-22", 
+        "https://www.zhihu.com/people/guo-lin-hui", 
+        "https://www.zhihu.com/people/da-lye", 
+        "https://www.zhihu.com/people/zang-jing-er-22", 
+        "https://www.zhihu.com/people/ku-teng-lao-shu-20", 
+        "https://www.zhihu.com/people/ma-en-34", 
+        "https://www.zhihu.com/people/gao-chun-bo-90", 
+        "https://www.zhihu.com/people/HangFu", 
+        "https://www.zhihu.com/people/tong-mu-24-92", 
+        "https://www.zhihu.com/people/szabolevine", 
+        "https://www.zhihu.com/people/felix-36-81", 
+        "https://www.zhihu.com/people/liu-jian-dong-54", 
+        "https://www.zhihu.com/people/gao204", 
+        "https://www.zhihu.com/people/fu-han-31", 
+        "https://www.zhihu.com/people/xu-zhi-tao-95", 
+        "https://www.zhihu.com/people/duyan0421", 
+        "https://www.zhihu.com/people/bigloong", 
+        "https://www.zhihu.com/people/xie-yuan-dong-49", 
+        "https://www.zhihu.com/people/xian-da-xue-zhe-93", 
+        "https://www.zhihu.com/people/wu-jian-dao-55", 
+        "https://www.zhihu.com/people/dong-fang-yun-long"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36004948", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 11, 
+            "title": "谷歌愚人节的自平衡自行车，他们没有量产，我们做出来了", 
+            "content": "<p><b>有人说，人生就像骑自行车，只有一直向前行驶才能保持平衡，不会跌倒</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>但是，人生旅途这么长，一直向前奔走，我们终归会感到疲惫与劳累。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>适时的时候，我们也需要停下我们的脚步，甚至是回头望望我们走过的旅程，以便更好的出发。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>人生可以走走停停或者是回头看看，但是我们的自行车如果要停下来还能保持平衡，甚至是回头跑，那简直是太难了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>科技界巨头公司谷歌曾经在前年愚人节的时候对这一想法提出了畅想，但是到目前为止好像并没有看到真正的产品推出。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但是，我们经过多年的技术积累和连续数月的技术攻关，终于研制出了既可以静止平衡，还可以前进后退的自平衡自行车，我们称之为“推不倒的无人车”，我们先来看段Demo视频。</p><p class=\"ztext-empty-paragraph\"><br/></p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/971717996545216512\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"\" data-poster=\"https://pic3.zhimg.com/80/v2-f1a964b08e8864e2c991b05c2dcedfea_b.jpg\" data-lens-id=\"971717996545216512\"><img class=\"thumbnail\" src=\"https://pic3.zhimg.com/80/v2-f1a964b08e8864e2c991b05c2dcedfea_b.jpg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/971717996545216512</span></span></a><p>                                                         视频1. 推不倒的无人车</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>推不倒的无人车为什么难？</li></ul><p>要保持无人自行车的静止平衡，我们采用了飞轮倒立摆方案。飞轮倒立摆系统作为一种典型的高阶次、多变量、非线性、自然不稳定的控制系统，不同于一般的倒立摆系统。一般的倒立摆都是通过控制小车的速度来达到竖直摆杆的平衡，而飞轮倒立摆系统的底部却是固定的，它是通过顶部飞轮的旋转产生必要的扭矩来控制摆杆的平衡。而我们的无人自行车需要在控制自行车的平衡状态的前提下还要控制自行车的前进和后退行走，进一步加大了控制的难度。</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>推不倒的无人车背后的故事</li></ul><p>我们以前推送过一篇文章《还记得谷歌的自动驾驶自行车吗？一个中国小伙真的做了一个类似的》。当时，我们说了一句话</p><p>当然，小伙子开发的无人驾驶自行车和谷歌视频中的还是有点差距，至少目前不能达到静止的平衡，没有增加智能摄像头。But，酒得一口一口喝，路得一步一步走。至少小伙子已经迈出了第一步，后面的功能，以他的钻研精神，说不定哪天也就搞出来了。让我们共同期待。</p><p>我们的小伙子并没有食言。在经过几个月的韬光养晦之后，小伙子做出了当时无人驾驶自行车的升级版。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>说到这里，我想多唠叨几句。其实这个公众号算不了平衡小车之家的官方号，我其实只是在业余的时间写一点关于机器人相关感兴趣的东西。当然，有时候如果平衡小车之家有惊艳的新品，我也会不遗余力的去介绍介绍。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>平衡小车之家是我校友兼师弟的一个小团队，他们专门做一些机器人的创新学习产品，但是目前主要针对有一定机器人制作基础或者是对机器人有着强烈兴趣的人群。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>师弟当年在我们学校是一个奇人。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>大二时候自学机械制图软件，然后利用课余时间去外面公司给人画机械图纸，通过这种方式来养活了自己。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>从大三开始，怀着对机器人的无限热爱开始参加各类科创竞赛。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>大三的参加了飞思卡尔竞赛，在带队老师的指导下顺利进入了国赛，并拿到了我们学校在电磁组的历史最好成绩。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>大四参加了Robocon，作为队长，也是唯一的硬件电路制作和控制软件编写的熟手（当然，还有两个打下手的徒弟）带领我们学校的Robocon机器人队获得了当时我们学校的历史最好成绩——八强。</b>要知道，当时我们学校是在时隔八年之后的连续第二年参加。相当于是在完全没有积累的情况下拿到的当时这个成绩，而且电控方面成员还这么少，电控也基本没有外界指导，这都是师弟连续多个熬夜熬出来的结果。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>后来，师弟读研了。但是，读研的生活似乎无法吸引师弟。在经过一段时间的挣扎后，师弟果断放弃了读研，开始了他的创业之路。期间，面临的困难更是可以用举步维艰来形容。但是，师弟还是坚持下来了。而且，他一直坚持一个信念<b>“一定要走自主研发路线，而且是技术性的研发路线”</b>。所以，师弟他们团队的机器人产品一直有别于淘宝上很多机器人学习套件的产品。他们真正的做到了有技术含量的机器人套件，而不仅仅是让四个轮子的跑起来，或者是让机械手动起来的产品。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>现在，师弟的团队，已经慢慢步入了正规，有了非常好的开端。慢慢的也从泥腿子向正规军的方向发展。在这里，祝福师弟团队越来越好。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在这个满地都是炒房地产、炒比特币、炒视频直播的年代，在这个我们各高端行业受制于人的年代，<b>我们需要这样的一批有着工匠精神，有着拼搏精神，也有着雄心壮志的人帮助我们国家的科技进一步的发展</b>。在这里，我们也祝愿国家在机器人、高端装备制造、芯片领域越来越好。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><b></b><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/A0wDG77E9uOJrfp49xkR\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/A0wDG77</span><span class=\"invisible\">E9uOJrfp49xkR</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "机器人", 
+                    "tagLink": "https://api.zhihu.com/topics/19551273"
+                }, 
+                {
+                    "tag": "自动驾驶", 
+                    "tagLink": "https://api.zhihu.com/topics/19635352"
+                }, 
+                {
+                    "tag": "无人驾驶车", 
+                    "tagLink": "https://api.zhihu.com/topics/19653871"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Simon Lou", 
+                    "userLink": "https://www.zhihu.com/people/4b15a7d91585ad1127b599f667fb03c0", 
+                    "content": "还是普通自行车好。简单实用。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "档肿痒拎刀扔", 
+                    "userLink": "https://www.zhihu.com/people/6d1ec4e8e79f0f610dc74a8e19ec597b", 
+                    "content": "<p>大神啊</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Lazycat", 
+                    "userLink": "https://www.zhihu.com/people/8f39d75f4fe038aba95720856d483a9c", 
+                    "content": "高端领域真的都受制于人吗？[流泪]", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "遇明理", 
+                    "userLink": "https://www.zhihu.com/people/0e0fab2a7d34703b6d37a1d30b4c73e9", 
+                    "content": "中间是个相对巨大的陀螺嘛？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "勇往直前", 
+                    "userLink": "https://www.zhihu.com/people/909dd9d65dd0bc610054e47dbf8305eb", 
+                    "content": "有陀螺仪吧", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "胡兵", 
+                    "userLink": "https://www.zhihu.com/people/5d539821e0639fbc7a3392d1850609d6", 
+                    "content": "一个机械陀螺。。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "汉唐春秋", 
+                    "userLink": "https://www.zhihu.com/people/c363e3df3bdb00a7b57138e5f86945a9", 
+                    "content": "现在有什么产品吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33388424", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 36, 
+            "title": "以倒立摆为例学习自动控制（一）：传递函数模型", 
+            "content": "<p>自动控制这门课大家历来吐槽比较多。因为学习这门课不仅仅需要有一定数学基础，而且学习过程中总感觉比较抽象、非常虚幻，难以和现实中的控制系统结合起来。</p><p>我当时也是这样。虽然上大学时控制工程分数挺高，同时自己也参加了一些控制类的竞赛项目。但总感觉课堂上学习到的控制工程内容和自己平时参加竞赛时接触的控制内容有鸿沟，没办法理论联系实际。</p><p>因此，我现在在重新学习控制工程理论。当然，经过这些年的历练，现在对于控制工程也有了一些新的认识。所以，我就想以倒立摆这个最经典的控制对象为例，通过实例化的方法来分享一下控制工程这门课到底学习了一些什么内容。</p><p>我学习的参考书目为《Modern Control Engineering》（中文版本《现代控制工程 第五版》）。因此，这个学习笔记的目录也是遵循着参考书的目录：</p><p>（<i>这本书的电子版，我已放在了我们的资料分享百度网盘中。具体下载网址可以点击我们公众号首页右下角的“资料分享”，那里会有网址和密码。</i>）</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>倒立摆系统数学模型</li><li>系统瞬态响应和稳态响应分析</li><li>利用根轨迹方法分析和设计控制系统</li><li>利用频率响应方法分析和设计控制系统</li><li>倒立摆的PID控制系统设计</li><li>倒立摆控制状态空间分析</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>一、倒立摆系统数学模型</p><p>在研究控制系统时，我们必须建立系统的数学模型，并且根据建立的数学模型分析系统动态特性。这里有人可能会说，我做一些比赛时并没有建立系统的数学模型，但是我的机器人调试得也非常好啊。确实，现实中很多情况下我们确实没有通过建立系统数学模型来设计控制系统。但是这并不代表建立系统数学模型是不需要的。在一些高端应用场合，建立系统的数学模型确实是设计控制系统的第一步。我们做一些比赛项目时没有用到，不是因为他不需要，而是因为1、时间上可能不允许；2、我们知识水平有限；3、大学竞赛项目控制要求可能并不太高，等等。所以，我们还是要端正态度，打好自动控制中系统数学建模基础。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>系统数学模型主要包括：传递函数建模、状态空间建模等。这次，我主要分享倒立摆传递函数建模的方法。<br/></p><p>1.1 倒立摆传递函数建模<br/></p><p>倒立摆系统是一个复杂的、不稳定的非线性系统，被广泛应用于控制理论的教学实例，也是开展各类控制实验的理想被控对象。而其背后所包含的建模思路和控制方法可以广泛延展至其他众多被控对象，比如：平衡小车控制，人行走控制等等。（因为系统中画图和输入公式非常不方便。因此，文章的关键部分，我用图片来代替。）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-cf99306597be86d495506498030e6dce_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1526\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-cf99306597be86d495506498030e6dce_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1526&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1526\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-cf99306597be86d495506498030e6dce_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-cf99306597be86d495506498030e6dce_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0a485de907a017e046f5ba735f8dc160_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1526\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-0a485de907a017e046f5ba735f8dc160_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1526&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1526\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-0a485de907a017e046f5ba735f8dc160_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0a485de907a017e046f5ba735f8dc160_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-013da86a827eb97d97d66cbfbb499ab9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1526\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-013da86a827eb97d97d66cbfbb499ab9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1526&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1526\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-013da86a827eb97d97d66cbfbb499ab9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-013da86a827eb97d97d66cbfbb499ab9_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "机器人", 
+                    "tagLink": "https://api.zhihu.com/topics/19551273"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "fuya", 
+                    "userLink": "https://www.zhihu.com/people/8a22c6eb450ee7bcb44bacc6064004e3", 
+                    "content": "有没有更新", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "易书栋", 
+                    "userLink": "https://www.zhihu.com/people/b663482ddb63c13709cbf5863eccc4f9", 
+                    "content": "后面在哪", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32723749", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 13, 
+            "title": "机器人学习路径与书单推荐（平衡小车之家）", 
+            "content": "<p>大家在学习和制作机器人的开始阶段，通常会对于机器人相关知识的入门感到非常迷茫。感觉需要学习的内容非常之多，但是又不知道如何开始。我也曾经遇到过这样的情况，根据我自己和我周围朋友的一些认识，我们一致认为：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>只有在不断的实践中才能熟悉机器人领域用到的各种知识和技术，才会真正理解机器人控制的各类算法。<br/></p><p>因此，本文我将从三个阶段：初级阶段，中级阶段和高级阶段来分享机器人学习的相关书籍以及一些学习体会和注意事项。各个阶段，我尽量从理论和实践两方面来说明。因为是我个人的体会，估计会有很多不合理的地方，各位斟酌参考和吸收。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>需要说明的是：第一，机器人学习需要一定的数学和编程基础，但是开始阶段他们的需求也非常基础，数学上只要你学过一些基本的线性代数、高数即可；而编程方面有一些基本的C语言、MATLAB基础也行。第二，如果想很深入的学习机器人学，最好是能够从一开始就注重自己的英语阅读能力的培养。</p><p><b>1. 初级阶段：</b></p><p>这一阶段主要是对机器人的制作有一个基本的感性认识，熟悉一些基本的传感器使用方法，了解一些经典控制算法并且能够制造一个最基本的机器人模型比如一个移动机器人。</p><ul><li><b>理论：</b></li></ul><p>初级阶段的理论方面需要了解基本的坐标变换（二维、三维坐标平移和旋转等）；基本动力学建模技巧和基本控制算法（PID控制等）；基本的电子技术（数电知识，单片机）等。</p><p>《用MATLAB玩转机器人》：这虽然不是一本好书，但是对于想几个小时时间对机器人建模有个感性认识，而且还能在MATLAB中实践下来说还是可以的；</p><p>《机械工程控制基础》：写给机械专业的控制类的教材，讲得还算是比较全面；</p><p>《数字电子技术》：这种书，翻一翻即可，对基本的数字电路有一个感性的认识。</p><ul><li><b>实践：</b></li></ul><p>需要了解一些基本的硬件知识，各类电机（直流电机，步进电机，交流电机等）、舵机、常用传感器（超声波传感器、光电开关等）等。</p><p>这一阶段实践类其实没有特别好的书，大家其实可以多看看公众号，论坛之类的。其实这一阶段最好的还是动手做一个或者买一个小系统，比如平衡小车，然后跟着提供的程序跑一跑，看懂提供的程序，这样就会上手了。然后遇到不懂的，比如基本的电机、舵机等等知识可以一边实践一边去搜索引擎学习。</p><p><b>2. 中级阶段：</b></p><p>这一阶段应该能够在团队合作情况下制作一些能够完成较为复杂的动作并且完成的动作能够达到一定标准的机器人。比如能够从无到有制造一台机器人并参加一些机器人竞赛（Robocon，RoboMaster等）；能够设计并制造一些特定的机器人比如六轴机械手、四旋翼等。</p><ul><li><b>理论：</b></li></ul><p>深入动力学建模方法，并能够在MATLAB软件中建立仿真模型并进行算法验证；掌握现在控制理论和优化理论；模电知识；视觉知识（视觉识别，视觉导航）等。</p><p>《Introduction to Robotics》斯坦福Craig教授的一本机器人入门教材，写得非常好。</p><p>《Modern Control Systems Twelfth Edition》国外经典现代控制的经典教材。</p><p>《Robotics, Vision and Control》这本书绝对是良心之作，从控制到视觉都有讲解，而且现在有中文版本，强烈推荐。</p><p>《机器人控制系统的设计与MATLAB仿真先进设计方法》国内一个老师写的，里面有大量的MATLAB仿真的程序实例，大家可以作为一本参考书看看。</p><ul><li><b>实践：</b></li></ul><p>机器人常用结构的设计与制作（移动平台、机械臂等）；常用动力系统（气动、液压等）；常用加工方式（机加工、3D打印等）；常用的传感方法（激光雷达等）；ROS系统学习等。</p><p>《ROS机器人高效编程》等一系列ROS相关的书，都可以拿来看看。这一阶段，除了常用的传感器外，大家如果想以后从事机器人相关的研究或者是研发工作，可以花点力气去学习学习ROS。ROS现在不管是在国外还是在国内都挺流行的。</p><p>《视觉SLAM十四讲：从理论到实践》这本书，大家评价还挺高的，讲得也挺通俗易懂。</p><p><b>3. 高级阶段：</b></p><p>这时进入了前沿的研究阶段，这一阶段属于较为前沿的一些高校或研究结构所做的研究工作。比如开发一种性能非常好的算法；发明一中灵巧的机械手等等。</p><ul><li><b>理论：</b></li></ul><p>这一阶段主要是研究工作，因此非常细分，比如非线性控制，最优控制，智能控制等；还有高端的视觉处理，比如场景理解，视觉地图构建等。到了这一阶段，其实有些我也不太懂，这里仅仅列几个我感觉会还比较有用的。</p><p>《Convex Optimization》升级到这一阶段，优化算法是少不了的，所以看看还是要看看这本经典的方面的书；</p><p>《Deep Learning》最近几年，最火的技术莫过DL。如果想尝试这方面的研究，这本书是一本入门必看。</p><p>《非线性控制系统》非线性领域一本非常重要的书，我刚上研究生的啃过多次，没啃下来。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>列出的书有很多，其实大家学习机器人设计或者控制最关键的一步就是：<b>开始</b>。只要开始了，你会慢慢找到你感兴趣的领域或者方面，然后再在相应的子领域、子方向上去针对性的看书，相信会取得更好的效果。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最后，祝大家都能在机器人这条道路上学得幸福，玩得开心。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/A0wDG77E9uOJrfp49xkR\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/A0wDG77</span><span class=\"invisible\">E9uOJrfp49xkR</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "机器人", 
+                    "tagLink": "https://api.zhihu.com/topics/19551273"
+                }, 
+                {
+                    "tag": "控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19637343"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31159170", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 1, 
+            "title": "竟然还能后空翻，这真的还是机器人吗？来看看波士顿动力最新的Atlas", 
+            "content": "<p>     关于波士顿动力，关注过我们公众号的小伙伴们应该不会陌生。这几年来，每次波士顿动力出新品，我们都会写一篇稿子聊一聊。<br/></p><p>       Google在2013年收购了波士顿动力公司，期间波士顿动力推出了众多惊艳的机器人（比如：Atlas, Spot, Handle等）。这些机器人一经推出便会引来一场世界性的机器人大讨论。学术界的人士开始恐慌，心里默念：WC，这我还做个啥子机器人，根本不给我们活路啊，都已经达到这种水平了（PS，搞机器人研究的，尤其是人形机器人研究，真的是各种被波士顿动力虐啊！）。普罗大众也心里恐慌：完了，完了，世界要开始掌握在机器人手中了，你看你看，那个什么波士顿动力公司的机器人都已经发展到那种程度了，好可怕哦。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       但是，虽然波士顿动力的机器人很惊艳，大众也很关注。有一点点遗憾的就是这些机器人基本都是实验室产品，并没有面向大众。也许是因为Google也认为该公司不太可能在未来几年内推出可用于销售的产品，所以在今年6月（2017年6月）Google将波士顿动力公司卖给了软银（没错，就是那家在科技领域叱咤风云的软银，他们投了阿里巴巴，他们还有机器人pepper）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>      上面是一点点前言。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       不知道是波士顿动力公司前面的积累已经足够，还是卖给软银后更具商业化思维。反正，在距离卖身给软银不到5个月的时间，波士顿动力再次震撼了这个世界，而且对这家公司开始售卖机器人充满了期待。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       11月14号，波士顿动力在YouTube发布一段简短视频，该视频展示了一款新型的、更为先进的SpotMini机器人。而且不仅仅是<b>性能更为优良，颜值也提升了不少</b>，穿起了可爱的黄色马甲。这一视频一发布，便让全世界科技爱好者们高潮不已。新SpotMini<b>重25~30公斤，全电动，充电可运动90分钟</b>，运行流畅而且优雅，甚至还可能卖萌。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>      提升了性能，美化了颜值的新一代SpotMini也让我们开始对这一件传说中的机器人公司对大众出售机器人充满了期待。最后，让我们直接看看这一萌萌哒的新一代SpotMini。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-21746cc44bdb259a649e6b497a81abb7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"281\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-21746cc44bdb259a649e6b497a81abb7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;281&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"281\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-21746cc44bdb259a649e6b497a81abb7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-21746cc44bdb259a649e6b497a81abb7_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>图 1. SpotMini机器人</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//v.qq.com/x/cover/m0504iwafu6/m0564y4ioqz.html\" target=\"_blank\" data-video-id=\"914973076121350144\" data-video-playable=\"true\" data-name=\"波士顿动力公司发布全新版本的SpotMini机器人_腾讯视频\" data-poster=\"https://pic1.zhimg.com/80/v2-0ed6d8151ae321a330a92ea8eda919dc_b.jpg\" data-lens-id=\"\"><img class=\"thumbnail\" src=\"https://pic1.zhimg.com/80/v2-0ed6d8151ae321a330a92ea8eda919dc_b.jpg\"/><span class=\"content\"><span class=\"title\">波士顿动力公司发布全新版本的SpotMini机器人_腾讯视频<span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://v.qq.com/x/cover/m0504iwafu6/m0564y4ioqz.html</span></span></a><p>视频 1. SpotMini机器人视频</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       11月14号的SpotMini已经让我们高潮迭起。没想到在今天（11月17号），波士顿动力又发布了让我们看了简直爽得飞起的新一代人形机器人Atlas。在最新发布的视频中，我们竟然看到Atlas不仅仅会跳跃，<b>他竟然玩起了后空翻</b>。是的，这一笨重的机器人玩起了后空翻，我相信我们大部分人类在没有经过训练的情况都无法完成的后空翻。我不多说了，大家直接看视频吧。</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//v.qq.com/x/cover/v0506x71t5f/h0382dnwk9i.html\" target=\"_blank\" data-video-id=\"914973348180688896\" data-video-playable=\"true\" data-name=\"波士顿动力公司最新Atlas机器人会后空翻_腾讯视频\" data-poster=\"https://pic1.zhimg.com/80/v2-b2b04cc006f46eac3c9d9b9d65b00768_b.jpg\" data-lens-id=\"\"><img class=\"thumbnail\" src=\"https://pic1.zhimg.com/80/v2-b2b04cc006f46eac3c9d9b9d65b00768_b.jpg\"/><span class=\"content\"><span class=\"title\">波士顿动力公司最新Atlas机器人会后空翻_腾讯视频<span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://v.qq.com/x/cover/v0506x71t5f/h0382dnwk9i.html</span></span></a><p>视频 2. Atlas机器人视频</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       长期以来，我们都觉得人形机器人完全不实用。但是，从目前的情况来看我们也许该改变我们的想法了。<b>不是不实用，也许仅仅是因为我们的实力不够。从目前波士顿动力发布的Atlas来看，人形机器人已经能够适应各种复杂的环境，也能完成各种复杂的动作。也许，留给人形机器人实用化的时间真的不多了。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>       关注我们，让我们一起期待这个美好时代的到来。</b></p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/A0wDG77E9uOJrfp49xkR\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/A0wDG77</span><span class=\"invisible\">E9uOJrfp49xkR</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "机器人", 
+                    "tagLink": "https://api.zhihu.com/topics/19551273"
+                }, 
+                {
+                    "tag": "波士顿动力公司（Boston Dynamics）", 
+                    "tagLink": "https://api.zhihu.com/topics/19922319"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "夜冷", 
+                    "userLink": "https://www.zhihu.com/people/78339f399c83fcaeac04a68145005732", 
+                    "content": "亲眼见证   未来的雏形     <br><br>既让人兴奋 又让人害怕", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "博士爸爸STEM", 
+                            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+                            "content": "<p>是这样的。满怀期待但是也惴惴不安</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "夜冷"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31103143", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 1, 
+            "title": "Python、科学计算与自动控制 3：列表与元组介绍", 
+            "content": "<p></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4684b9126ac5694ebe039201891478df_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-4684b9126ac5694ebe039201891478df_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-4684b9126ac5694ebe039201891478df_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4684b9126ac5694ebe039201891478df_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-300edb6172e692141197a7328796ff68_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-300edb6172e692141197a7328796ff68_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-300edb6172e692141197a7328796ff68_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-300edb6172e692141197a7328796ff68_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5c93ea35d7b2c017f5cf3405d53b029d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-5c93ea35d7b2c017f5cf3405d53b029d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-5c93ea35d7b2c017f5cf3405d53b029d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5c93ea35d7b2c017f5cf3405d53b029d_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-89a7f7fccaa1a2171e87118167300b5f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-89a7f7fccaa1a2171e87118167300b5f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-89a7f7fccaa1a2171e87118167300b5f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-89a7f7fccaa1a2171e87118167300b5f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1f6ecb10868bd78861095a00fab35cff_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-1f6ecb10868bd78861095a00fab35cff_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-1f6ecb10868bd78861095a00fab35cff_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1f6ecb10868bd78861095a00fab35cff_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e195f5cc65c45c514a3fa689bdda41c4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-e195f5cc65c45c514a3fa689bdda41c4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-e195f5cc65c45c514a3fa689bdda41c4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e195f5cc65c45c514a3fa689bdda41c4_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-5e1718a7a8ff977a3b59f534e82ea6b2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-5e1718a7a8ff977a3b59f534e82ea6b2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-5e1718a7a8ff977a3b59f534e82ea6b2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-5e1718a7a8ff977a3b59f534e82ea6b2_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8d242c19f991826443d26b895130b397_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-8d242c19f991826443d26b895130b397_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-8d242c19f991826443d26b895130b397_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8d242c19f991826443d26b895130b397_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4d60bd3c9079b8ce5b403a7965cfd333_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-4d60bd3c9079b8ce5b403a7965cfd333_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-4d60bd3c9079b8ce5b403a7965cfd333_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4d60bd3c9079b8ce5b403a7965cfd333_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ec7c809f9d1cd92077ea24e480b6881b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-ec7c809f9d1cd92077ea24e480b6881b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-ec7c809f9d1cd92077ea24e480b6881b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ec7c809f9d1cd92077ea24e480b6881b_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-fb0ee89ddd0031d759425fb6bb27b8f4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-fb0ee89ddd0031d759425fb6bb27b8f4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-fb0ee89ddd0031d759425fb6bb27b8f4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-fb0ee89ddd0031d759425fb6bb27b8f4_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "Python", 
+                    "tagLink": "https://api.zhihu.com/topics/19552832"
+                }, 
+                {
+                    "tag": "Python 入门", 
+                    "tagLink": "https://api.zhihu.com/topics/19661050"
+                }, 
+                {
+                    "tag": "科学计算", 
+                    "tagLink": "https://api.zhihu.com/topics/19608617"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30793843", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 0, 
+            "title": "Python科学计算与自动控制2-变量与简单数据类型", 
+            "content": "<p></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-12b910f5a32972e4cba9ca0f16e4c36c_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-12b910f5a32972e4cba9ca0f16e4c36c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-12b910f5a32972e4cba9ca0f16e4c36c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-12b910f5a32972e4cba9ca0f16e4c36c_b.jpg\"/></figure><figure><noscript><img src=\"https://pic3.zhimg.com/v2-21547d1f6645678fc0f32bac9e6d129a_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-21547d1f6645678fc0f32bac9e6d129a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-21547d1f6645678fc0f32bac9e6d129a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-21547d1f6645678fc0f32bac9e6d129a_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-a5c109f76b45f50058d48a49b58a5428_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-a5c109f76b45f50058d48a49b58a5428_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-a5c109f76b45f50058d48a49b58a5428_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a5c109f76b45f50058d48a49b58a5428_b.jpg\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-47704e3d4983c21e2b1c99bf7ec95c55_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-47704e3d4983c21e2b1c99bf7ec95c55_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-47704e3d4983c21e2b1c99bf7ec95c55_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-47704e3d4983c21e2b1c99bf7ec95c55_b.jpg\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-9c073cb832747896184b072b34629ed9_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-9c073cb832747896184b072b34629ed9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-9c073cb832747896184b072b34629ed9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-9c073cb832747896184b072b34629ed9_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-7fba7ed707c6a2019f2495964f8f13d4_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-7fba7ed707c6a2019f2495964f8f13d4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-7fba7ed707c6a2019f2495964f8f13d4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-7fba7ed707c6a2019f2495964f8f13d4_b.jpg\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/v2-3ae425a6afc63e14856856b711a9fc63_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-3ae425a6afc63e14856856b711a9fc63_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-3ae425a6afc63e14856856b711a9fc63_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3ae425a6afc63e14856856b711a9fc63_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-9f28f64fbb359deffcdf485e16a94228_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-9f28f64fbb359deffcdf485e16a94228_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-9f28f64fbb359deffcdf485e16a94228_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9f28f64fbb359deffcdf485e16a94228_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-9f28f64fbb359deffcdf485e16a94228_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-9f28f64fbb359deffcdf485e16a94228_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-9f28f64fbb359deffcdf485e16a94228_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9f28f64fbb359deffcdf485e16a94228_b.jpg\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/v2-89330dbabd957441e23ae328506019b7_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-89330dbabd957441e23ae328506019b7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-89330dbabd957441e23ae328506019b7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-89330dbabd957441e23ae328506019b7_b.jpg\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-2e994918a793900330e7756171c4b1b1_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-2e994918a793900330e7756171c4b1b1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-2e994918a793900330e7756171c4b1b1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-2e994918a793900330e7756171c4b1b1_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "Python", 
+                    "tagLink": "https://api.zhihu.com/topics/19552832"
+                }, 
+                {
+                    "tag": "Python 入门", 
+                    "tagLink": "https://api.zhihu.com/topics/19661050"
+                }, 
+                {
+                    "tag": "科学计算", 
+                    "tagLink": "https://api.zhihu.com/topics/19608617"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30733383", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 3, 
+            "title": "Python科学计算与自动控制1-Python入门", 
+            "content": "<p></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-f7aa0db84b17ac9830b449d729792efa_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-f7aa0db84b17ac9830b449d729792efa_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-f7aa0db84b17ac9830b449d729792efa_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f7aa0db84b17ac9830b449d729792efa_b.jpg\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-bd80673b90372d82e0d0b823ed8b7c25_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-bd80673b90372d82e0d0b823ed8b7c25_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-bd80673b90372d82e0d0b823ed8b7c25_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-bd80673b90372d82e0d0b823ed8b7c25_b.jpg\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/v2-677a3ea53fb323fca6b5e2cf9560bccf_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-677a3ea53fb323fca6b5e2cf9560bccf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-677a3ea53fb323fca6b5e2cf9560bccf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-677a3ea53fb323fca6b5e2cf9560bccf_b.jpg\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-d30dd97883b55946be45ec3371a4fbcd_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-d30dd97883b55946be45ec3371a4fbcd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-d30dd97883b55946be45ec3371a4fbcd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-d30dd97883b55946be45ec3371a4fbcd_b.jpg\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/v2-19f6ccb789aef39d1af9ce1f15477313_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-19f6ccb789aef39d1af9ce1f15477313_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-19f6ccb789aef39d1af9ce1f15477313_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-19f6ccb789aef39d1af9ce1f15477313_b.jpg\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-58f1f57bcf263851fe4a944a24dd27b5_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-58f1f57bcf263851fe4a944a24dd27b5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-58f1f57bcf263851fe4a944a24dd27b5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-58f1f57bcf263851fe4a944a24dd27b5_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-bf6fb81120526efa77f3ca3cba8bfe4c_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-bf6fb81120526efa77f3ca3cba8bfe4c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-bf6fb81120526efa77f3ca3cba8bfe4c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-bf6fb81120526efa77f3ca3cba8bfe4c_b.jpg\"/></figure><figure><noscript><img src=\"https://pic3.zhimg.com/v2-ab9a10f223925a96142959c4af76505a_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-ab9a10f223925a96142959c4af76505a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-ab9a10f223925a96142959c4af76505a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-ab9a10f223925a96142959c4af76505a_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-85233f3f3e88af934b0d66a9496072bc_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-85233f3f3e88af934b0d66a9496072bc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-85233f3f3e88af934b0d66a9496072bc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-85233f3f3e88af934b0d66a9496072bc_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-8e4771e3d165fbf884428796651b3e34_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-8e4771e3d165fbf884428796651b3e34_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-8e4771e3d165fbf884428796651b3e34_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-8e4771e3d165fbf884428796651b3e34_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-d7d43399f131e7340d712328c89b4c58_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-d7d43399f131e7340d712328c89b4c58_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-d7d43399f131e7340d712328c89b4c58_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d7d43399f131e7340d712328c89b4c58_b.jpg\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/v2-0617c3b0e31ff1e1e44c23d3baa75ebf_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-0617c3b0e31ff1e1e44c23d3baa75ebf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-0617c3b0e31ff1e1e44c23d3baa75ebf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0617c3b0e31ff1e1e44c23d3baa75ebf_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-a7274236549653f1e9c4532ca8db6b1c_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-a7274236549653f1e9c4532ca8db6b1c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-a7274236549653f1e9c4532ca8db6b1c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a7274236549653f1e9c4532ca8db6b1c_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-d2c81e77fed7cd135b58f8a68b33e444_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-d2c81e77fed7cd135b58f8a68b33e444_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-d2c81e77fed7cd135b58f8a68b33e444_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d2c81e77fed7cd135b58f8a68b33e444_b.jpg\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-48ce41ce6507356c6166809dd22cf879_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-48ce41ce6507356c6166809dd22cf879_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-48ce41ce6507356c6166809dd22cf879_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-48ce41ce6507356c6166809dd22cf879_b.jpg\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/v2-3d068d37d8f5101f26cf7c2348a685d3_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-3d068d37d8f5101f26cf7c2348a685d3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-3d068d37d8f5101f26cf7c2348a685d3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3d068d37d8f5101f26cf7c2348a685d3_b.jpg\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/v2-91d3b45442f235da7a87c4c0f1dd536b_b.jpg\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-91d3b45442f235da7a87c4c0f1dd536b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"960\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-91d3b45442f235da7a87c4c0f1dd536b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-91d3b45442f235da7a87c4c0f1dd536b_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "Python", 
+                    "tagLink": "https://api.zhihu.com/topics/19552832"
+                }, 
+                {
+                    "tag": "Python 入门", 
+                    "tagLink": "https://api.zhihu.com/topics/19661050"
+                }, 
+                {
+                    "tag": "科学计算", 
+                    "tagLink": "https://api.zhihu.com/topics/19608617"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27457617", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 5, 
+            "title": "大数据背景下的PHM研究", 
+            "content": "<p>制造业是国家经济发展的主体，高端装备制造业更是关乎一个国家社会经济安全和国防安全的战略性产业。当前，新一轮科技和产业革命正如火如荼的进行。德国于2013年在汉诺威工业博览会上提出了“工业4.0”的概念，提出未来的制造业将以信息物理融合系统（Cyber-Physicalsystem，CPS）为基础，实现生产的高度数字化、网络化、及其自组织化。美国政府于2009年出台了《重振美国制造业框架》，详细分析了美国重振制造业的必要性及拥有的优势，这也为美国制造业的发展提供了战略性支持。2012年由通用电气提出了“工业互联网”的概念，并联合美国五家龙头制造企业成立了工业互联网联盟，目的在于通过制定通用化标准，消除相互之间的技术障碍，借助互联网技术加速传统工业领域的改造，以此来促进物理系统与数字系统的相互融合。与此同时，中国于2015年5月发布了《中国制造2025》，以加快新一代信息与智能技术在装备制造业的深入应用为主线，以推进智能制造为主攻方向，强化工业基础能力，提高综合集成水平。</p><p>  在上述背景下进行工业大数据与故障预测与健康管理的研究显得尤为重要。如图1所示，PHM系统通常由数据采集、信息处理、状态监测、健康评估、故障预测和保障决策等部分构成。随着我们的工业生产进入大数据时代，PHM系统的每个组成部分都打下了大数据的烙印，因此，我们需要重新审视PHM的研究。<strong>传统的数据采集需要满足采样定理，传统的信息处理需要大量的专家先验知识、传统的状态监测需要人工特征提取</strong>......等等，这一系列现象在大数据背景下都面临着一定的限制。因此，我们需要开拓新的思路来进行PHM的研究，<strong>深度学习</strong>是一类特征学习算法，近年来在各领域都得到了广泛的应用。因此，在大数据背景下，利用深度学习工具，开展PHM研究是当前PHM研究领域的重要研究方向。</p><p>图1. PHM框图</p>", 
+            "topic": [
+                {
+                    "tag": "大数据", 
+                    "tagLink": "https://api.zhihu.com/topics/19740929"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "王大锤", 
+                    "userLink": "https://www.zhihu.com/people/0be850315b4e58852e43114b096e8b66", 
+                    "content": "期待作者更新", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "WWDYY Wang", 
+                    "userLink": "https://www.zhihu.com/people/2fd7196af41a82cd7fd95a1465a2a52d", 
+                    "content": "关于大数据和PHM可有更深的研究？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26744347", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 0, 
+            "title": "Tensorflow重要函数笔记", 
+            "content": "最近的项目都是基于Tensorflow的，在使用的过程中发现很多基本的函数都不熟悉，而且用了一次后也比较容易忘记。所以，在这里记录一些常用函数的基本用法，以便后面查找。<p>1、Graph的概念</p><p>一个Tensorflow的运算，被表示为一个数据流的图。一幅图中包含一些操作（Operation）对象，这些对象是计算节点。一旦开始任务，就已经有一个默认的图已经创建好了。而且可以通过调用tf.get_default_graph()来访问。</p>", 
+            "topic": [
+                {
+                    "tag": "TensorFlow", 
+                    "tagLink": "https://api.zhihu.com/topics/20032249"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26310746", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 2, 
+            "title": "波士顿动力（Boston Dynamic）经典机器人汇总", 
+            "content": "一、波士顿动力简介<p>       波士顿动力（Boston Dynamics）由Marc Raibert和其合伙人一起创办。Marc Raibert是著名的机器人学家。其28岁毕业于MIT，随后在CMU担任过副教授，并且在那里建立了CMUleg实验室研究与机器人有关的控制和视觉处理相关的技术。在37岁时回到MIT的继续从事机器人相关的科研和教学工作。在1992年，其与合伙人一起创办了Boston Dynamics这家公司，开启了机器人研究的新纪元。</p><br/><p>二、波士顿动力历年机器人简介</p><p>2.1 BigDog</p><p>         Bigdog是Boston Dynamics在2005年研发出的四足机器人，而且该机器人的研发是由DARPA所资助的，主要用于特殊环境下的军中物资运输。Bigdog可以在负重150kg的情况下行以1.8m/s的速度行走。而且Bigdog的平衡能力惊人，自适应能力强，可以在各种不同路面自由行走。以下为相关视频。<br/></p><p>2.2 Atlas</p><p>       Atlas是Boston Dynamics研发的人形机器人。该机器人装配有液压驱动的四肢、身高1米8，主要用于搜救工作。其四肢拥有28个自由度，但是该机器人在不同的情况下也拥有非常好的平衡能力，因此其控制技术也是非常先进的。现在国外很多做机器人研究的团队都采购了该机器人来研究控制算法。以下为Atlas视频。</p><p>2.3 Spot Mini</p><p>       Spot Mini是Boston Dynamics最近发布的机器人视频。从视频我们可以看出，Boston Dynamics不仅仅只想在军工领域发光发热，在民用领域其也在积极布局，希望开发出一些能够被普罗大宗所接受和使用的服务机器人。以下为Spot Mini视频。</p>", 
+            "topic": [
+                {
+                    "tag": "波士顿动力公司（Boston Dynamics）", 
+                    "tagLink": "https://api.zhihu.com/topics/19922319"
+                }, 
+                {
+                    "tag": "机器人", 
+                    "tagLink": "https://api.zhihu.com/topics/19551273"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26269026", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 16, 
+            "title": "深度学习如何入门？", 
+            "content": "<p>一、前期准备：</p><p>1.1、数学基础知识：如果你前面对矩阵，概率的一些完全基础的知识都已经忘得差不多了。那么我建议先看看《Deep Learning》这本书的2~4章。这本书是Ian Goodfellow, Yoshua Bengio和Aaron Courville写的一本深度学习的入门教材，非常适合大家阅读，而且阅读起来由浅入深，循序渐进，公式很好，可读性非常强。Deep Learning英文版本可以在这里看到。（<a href=\"https://link.zhihu.com/?target=http%3A//www.deeplearningbook.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Deep Learning</a>）。如果您对英文实在是怵得厉害，那么现在有中文翻译版。（<a href=\"https://link.zhihu.com/?target=https%3A//github.com/ExtremeMart/DeepLearningBook-CN\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ExtremeMart/DeepLearningBook-CN</a>）。看完这几章的内容，你对要跑起来的深度学习内容估计问题就不大了。看懂一般的模型也问题不大了。</p><p>1.2、编程语言：如果你刚开始是抱着学习深度学习模型的目的来的，那么你用Python或者是Matlab就好（当然还是强烈建议用Python）。语言学习其实最开始你了解一下大概这种语言是怎么运行的，然后再添加一点基本的语法知识，就差不多了。尤其是Python这么语言，你找一个对这个语言熟知的同学叫你两个小时就不多可以了。然后调试程序这些，比较建议用Anaconda（<a href=\"https://link.zhihu.com/?target=https%3A//anaconda.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">:: Anaconda Cloud</a>），尤其是Spyder，调试程序，参看中间结果非常方面。</p><p>1.3、软件库：因为前面强烈推荐的是Python，那么这里我也主要是针对Python来推荐。现在Tensorflow特别火，受到了广大深度学习从业者和爱好者的一致好评。而这也是Google维护的一个深度学习库，因此相关的配套非常的完善，现在安装也是最方便的，不像以前的Theano安装还需要好几步，现在就算是在Windows的平台下，其安装也只要“pip install tensorflow”一条命令就可以解决。而基于tensorflow的更高一层的库Keras则对于大家学习模型、搭框架又提供了一条更加方便的途径，这里也比较推荐。</p><p>二、基本模型：</p><p>前面列去了几个前期需要准备的基础内容和平台选择方案，现在这一小节，给大家总结一下深度学习里面的基本模型。我将这些模型大致分为了这几类：多层感知机模型；深度神经网络模型和递归神经网络模型。</p><p>2.1 多层感知机模型：</p><p>2.1.1 Stacked Auto-Encoder堆叠自编码器</p><p>堆叠自编码器是一种最基础的深度学习模型，该模型的子网络结构自编码器通过假设输出与输入是相同的来训练调整网络参数，得到每一层中的权重。通过堆叠多层自编码网络可以得到输入信号的几种不同表征（每一层代表一种表征），这些表征就是特征。自动编码器就是一种尽可能复现输入信号的神经网络。为了实现这种复现，自编码器就必须捕捉可以代表输入数据的最重要的因素，就像PCA那样，找到可以代表原信息的主要成分。</p><p>2.1.1.1 网络结构</p><p>堆叠自编码器的网络结构本质上就是一种普通的多层神经网络结构。</p><br/><figure><noscript><img src=\"https://pic3.zhimg.com/v2-77b3d4b7dae8aa67be0e00a800f9f062_b.png\" data-rawwidth=\"748\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb\" width=\"748\" data-original=\"https://pic3.zhimg.com/v2-77b3d4b7dae8aa67be0e00a800f9f062_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;748&#39; height=&#39;437&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"748\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"748\" data-original=\"https://pic3.zhimg.com/v2-77b3d4b7dae8aa67be0e00a800f9f062_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-77b3d4b7dae8aa67be0e00a800f9f062_b.png\"/></figure><p>图1  自编码器网络结构</p><p>2.1.1.2 训练过程</p><p>堆叠自编码器与普通神经网络不同之处在于其训练过程，该网络结构训练主要分两步：非监督预训练和有监督微调训练。</p><p>（1）非监督预训练</p><p>自编码器通过自学习得到原始数据的压缩和分布式表征，一般用于高层特征提取与数据非线性降维。结构上类似于一个典型的三层BP神经网络，由一个输入层，一个中间隐含层和一个输出层构成。但是，输出层与输入层的神经元个数相等，且训练样本集合的标签值为输入值，即无标签值。输入层到隐含层之间的映射称为编码（Encoder），隐含层到输出层之间的映射称为解码（Decoder）。非监督预训练自编码器的中间层为特征层，在训练好第一层特征层后，第二层和第一层的训练方式相同。我们将第一层输出的特征层当成第二层的输入层，同样最小化重构误差，就会得到第二层的参数，并且得到第二层输入的特征层，也就是原输入信息的第二个表征。以此类推可以训练其他特征层。</p><p>（3）有监督微调训练</p><p>经过上面的训练方法，可以得到一个多层的堆叠自编码器，每一层都会得到原始输入的不同的表达。到这里，这个堆叠自编码器还不能用来分类数据，因为它还没有学习如何去连结一个输入和一个类。它只是学习获得了一个可以良好代表输入的特征，这个特征可以最大程度上代表原输入信号。那么，为了实现分类，我们就可以在AutoEncoder的最顶的编码层添加一个分类器（例如逻辑斯蒂回归、SVM等），然后通过标准的多层神经网络的监督训练方法（梯度下降法）微调训练。</p><p>2.1.1.3 典型改进</p><p>（1）Sparse AutoEncoder稀疏自编码器</p><p>在AutoEncoder的基础上加上L1的稀疏限制（L1主要是约束每一层中的节点中大部分都要为0，只有少数不为0，这就是Sparse名字的来源）来减小过拟合的影响，我们就可以得到稀疏自编码器。</p><p>（2）Denoising AutoEncoders降噪自编码器</p><p>降噪自动编码器是在自动编码器的基础上，训练数据加入噪声，所以自动编码器必须学习去去除这种噪声而获得真正的没有被噪声污染过的输入。因此，这就迫使编码器去学习输入信号的更加鲁棒的表达，这也是它的泛化能力比一般编码器强的原因。</p><p>2.1.1.4 模型优缺点</p><p>(1)优点：</p><p>（1）、可以利用足够多的无标签数据进行模型预训练；</p><p>（2）、具有较强的数据表征能力。</p><p>(2)缺点：</p><p>（1）、因为是全连接网络，需要训练的参数较多，容易出现过拟合；深度模型容易出现梯度消散问题。</p><p>（2）、要求输入数据具有平移不变性。</p><br/><p>2.1.2、Deep belief network 深度信念网络</p><p>2006年，Geoffrey Hinton提出深度信念网络（DBN）及其高效的学习算法，即Pre-training+Fine tuning，并发表于《Science》上，成为其后深度学习算法的主要框架。DBN是一种生成模型，通过训练其神经元间的权重，我们可以让整个神经网络按照最大概率来生成训练数据。所以，我们不仅可以使用DBN识别特征、分类数据，还可以用它来生成数据。</p><p>2.1.2.1 网络结构</p><p>深度信念网络（DBN）由若干层受限玻尔兹曼机（RBM）堆叠而成，上一层RBM的隐层作为下一层RBM的可见层。下面先介绍RBM，再介绍DBN。</p><p>（1） RBM</p><br/><figure><noscript><img src=\"https://pic2.zhimg.com/v2-7d66cb7d6a1c307af96feddc48507b4d_b.png\" data-rawwidth=\"463\" data-rawheight=\"226\" class=\"origin_image zh-lightbox-thumb\" width=\"463\" data-original=\"https://pic2.zhimg.com/v2-7d66cb7d6a1c307af96feddc48507b4d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;463&#39; height=&#39;226&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"463\" data-rawheight=\"226\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"463\" data-original=\"https://pic2.zhimg.com/v2-7d66cb7d6a1c307af96feddc48507b4d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-7d66cb7d6a1c307af96feddc48507b4d_b.png\"/></figure><p>图2  RBM网络结构</p><p>一个普通的RBM网络结构如上图所示，是一个双层模型，由m个可见层单元及n个隐层单元组成，其中，层内神经元无连接，层间神经元全连接，也就是说：在给定可见层状态时，隐层的激活状态条件独立，反之，当给定隐层状态时，可见层的激活状态条件独立。这保证了层内神经元之间的条件独立性，降低概率分布计算及训练的复杂度。RBM可以被视为一个无向图模型，可见层神经元与隐层神经元之间的连接权重是双向的，即可见层到隐层的连接权重为W，则隐层到可见层的连接权重为W’。除以上提及的参数外，RBM的参数还包括可见层偏置b及隐层偏置c。</p><p>RBM可见层和隐层单元所定义的分布可根据实际需要更换，包括：Binary单元、Gaussian单元、Rectified Linear单元等，这些不同单元的主要区别在于其激活函数不同。</p><p>（2） DBN</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-bc5614ecb4dcd1e8bad8b5f179a0e87b_b.png\" data-rawwidth=\"415\" data-rawheight=\"287\" class=\"content_image\" width=\"415\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;415&#39; height=&#39;287&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"415\" data-rawheight=\"287\" class=\"content_image lazy\" width=\"415\" data-actualsrc=\"https://pic4.zhimg.com/v2-bc5614ecb4dcd1e8bad8b5f179a0e87b_b.png\"/></figure><br/><p>图3  DBN模型结构</p><p>DBN模型由若干层RBM堆叠而成，如果在训练集中有标签数据，那么最后一层RBM的可见层中既包含前一层RBM的隐层单元，也包含标签层单元。假设顶层RBM的可见层有500个神经元，训练数据的分类一共分成了10类，那么顶层RBM的可见层有510个显性神经元，对每一训练数据，相应的标签神经元被打开设为1，而其他的则被关闭设为0。</p><p>2.1.2.2 训练过程</p><p>DBN的训练包括Pre-training和Fine tuning两步，其中Pre-training过程相当于逐层训练每一个RBM，经过Pre-training的DBN已经可用于模拟训练数据，而为了进一步提高网络的判别性能， Fine tuning过程利用标签数据通过BP算法对网络参数进行微调。</p><p>（1） Pre-training</p><p>如前面所说，DBN的Pre-training过程相当于逐层训练每一个RBM，因此进行Pre-training时直接使用RBM的训练算法。</p><p>（2） Fine tuning</p><p>建立一个与DBN相同层数的神经网络，将Pre-training过程获得的网络参数赋给此神经网络，作为其参数的初始值，然后在最后一层后添加标签层，结合训练数据标签，利用BP算法微调整个网络参数，完成Fine tuning过程。</p><p>2.1.2.3 改进模型</p><p>DBN的变体比较多，它的改进主要集中于其组成“零件”RBM的改进，下面列举两种主要的变体。（这边的改进模型暂时没有深入研究，所以大概参考网上的内容）</p><p>（1） 卷积DBN（CDBN）</p><p>DBN并没有考虑到图像的二维结构信息，因为输入是简单的将一个图像矩阵转换为一维向量。而CDBN利用邻域像素的空域关系，通过一个称为卷积RBM（CRBM）的模型达到生成模型的变换不变性，而且可以容易得变换到高维图像。</p><p>（2） 条件RBM（Conditional RBM）</p><p>DBN并没有明确地处理对观察变量的时间联系的学习上，Conditional RBM通过考虑前一时刻的可见层单元变量作为附加的条件输入，以模拟序列数据，这种变体在语音信号处理领域应用较多。</p><p>2.1.2.4 典型优缺点</p><p>对DBN优缺点的总结主要集中在生成模型与判别模型的优缺点总结上。</p><p>(1)优点：</p><p>（1）、生成模型学习联合概率密度分布，所以就可以从统计的角度表示数据的分布情况，能够反映同类数据本身的相似度；</p><p>（2）、生成模型可以还原出条件概率分布，此时相当于判别模型，而判别模型无法得到联合分布，所以不能当成生成模型使用。</p><p>(2)缺点：</p><p>（1）、 生成模型不关心不同类别之间的最优分类面到底在哪儿，所以用于分类问题时，分类精度可能没有判别模型高；</p><p>（2）、由于生成模型学习的是数据的联合分布，因此在某种程度上学习问题的复杂性更高。</p><p>（3）、要求输入数据具有平移不变性。</p><br/><p>2.2、Convolution Neural Networks卷积神经网络</p><p>卷积神经网络是人工神经网络的一种，已成为当前语音分析和图像识别领域的研究热点。它的权值共享网络结构使之更类似于生物神经网络，降低了网络模型的复杂度，减少了权值的数量。该优点在网络的输入是多维图像时表现的更为明显，使图像可以直接作为网络的输入，避免了传统识别算法中复杂的特征提取和数据重建过程。卷积网络是为识别二维形状而特殊设计的一个多层感知器，这种网络结构对平移、比例缩放、倾斜或者共他形式的变形具有高度不变性。</p><p>2.2.1 网络结构</p><p>卷积神经网络是一个多层的神经网络，其基本运算单元包括：卷积运算、池化运算、全连接运算和识别运算。</p><br/><figure><noscript><img src=\"https://pic1.zhimg.com/v2-4ae4b41191097008fe55f4ee2f5c663c_b.png\" data-rawwidth=\"802\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"802\" data-original=\"https://pic1.zhimg.com/v2-4ae4b41191097008fe55f4ee2f5c663c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;802&#39; height=&#39;300&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"802\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"802\" data-original=\"https://pic1.zhimg.com/v2-4ae4b41191097008fe55f4ee2f5c663c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4ae4b41191097008fe55f4ee2f5c663c_b.png\"/></figure><br/><p>图4  卷积神经网络结构</p><p>l 卷积运算：前一层的特征图与一个可学习的卷积核进行卷积运算，卷积的结果经过激活函数后的输出形成这一层的神经元，从而构成该层特征图，也称特征提取层，每个神经元的输入与前一层的局部感受野相连接，并提取该局部的特征，一旦该局部特征被提取，它与其它特征之间的位置关系就被确定。</p><p>l 池化运算：它把输入信号分割成不重叠的区域，对于每个区域通过池化（下采样）运算来降低网络的空间分辨率，比如最大值池化是选择区域内的最大值，均值池化是计算区域内的平均值。通过该运算来消除信号的偏移和扭曲。</p><p>l 全连接运算：输入信号经过多次卷积核池化运算后，输出为多组信号，经过全连接运算，将多组信号依次组合为一组信号。</p><p>l 识别运算：上述运算过程为特征学习运算，需在上述运算基础上根据业务需求（分类或回归问题）增加一层网络用于分类或回归计算。</p><p>2.2.2 训练过程</p><p>卷积网络在本质上是一种输入到输出的映射，它能够学习大量的输入与输出之间的映射关系，而不需要任何输入和输出之间的精确的数学表达式，只要用已知的模式对卷积网络加以训练，网络就具有输入输出对之间的映射能力。卷积网络执行的是有监督训练，所以其样本集是由形如：（输入信号，标签值）的向量对构成的。</p><p>2.2.3 典型改进</p><p>卷积神经网络因为其在各个领域中取得了好的效果，是近几年来研究和应用最为广泛的深度神经网络。比较有名的卷积神经网络模型主要包括1986年Lenet，2012年的Alexnet，2014年的GoogleNet，2014年的VGG，2015年的Deep Residual Learning。这些卷积神经网络的改进版本或者模型的深度，或者模型的组织结构有一定的差异，但是组成模型的机构构建是相同的，基本都包含了卷积运算、池化运算、全连接运算和识别运算。</p><p>2.2.4 模型优缺点</p><p>(1)优点：</p><p>（1）、权重共享策略减少了需要训练的参数，相同的权重可以让滤波器不受信号位置的影响来检测信号的特性，使得训练出来的模型的泛化能力更强；</p><p>（2）、池化运算可以降低网络的空间分辨率，从而消除信号的微小偏移和扭曲，从而对输入数据的平移不变性要求不高。</p><p>(2)缺点：</p><p>（1）、深度模型容易出现梯度消散问题。</p><br/><p>2.3、Recurrent neural network 递归神经网络</p><p>在深度学习领域，传统的多层感知机为基础的上述各网络结构具有出色的表现，取得了许多成功，它曾在许多不同的任务上——包括手写数字识别和目标分类上创造了记录。但是，他们也存在一定的问题，上述模型都无法分析输入信息之间的整体逻辑序列。这些信息序列富含有大量的内容，信息彼此间有着复杂的时间关联性，并且信息长度各种各样。这是以上模型所无法解决的，递归神经网络正是为了解决这种序列问题应运而生，其关键之处在于当前网络的隐藏状态会保留先前的输入信息，用来作当前网络的输出。</p><p>许多任务需要处理序列数据，比如Image captioning, speech synthesis, and music generation 均需要模型生成序列数据，其他领域比如 time series prediction, video analysis, and musical information retrieval 等要求模型的输入为序列数据，其他任务比如机器翻译，人机对话，controlling a robot 的模型要求输入输出均为序列数据。</p><p>2.3.1 网络结构</p><p>图4.1左侧是递归神经网络的原始结构，如果先抛弃中间那个令人生畏的闭环，那其实就是简单“输入层=&gt;隐藏层=&gt;输出层”的三层结构，但是图中多了一个非常陌生的闭环，也就是说输入到隐藏层之后，隐藏层还会输入给自己，使得该网络可以拥有记忆能力。我们说递归神经网络拥有记忆能力，而这种能力就是通过W将以往的输入状态进行总结，而作为下次输入的辅助。可以这样理解隐藏状态：</p><p>h=f(现有的输入+过去记忆总结)</p><br/><figure><noscript><img src=\"https://pic1.zhimg.com/v2-ec9d339376886784ce13d27d68f108b8_b.png\" data-rawwidth=\"529\" data-rawheight=\"258\" class=\"origin_image zh-lightbox-thumb\" width=\"529\" data-original=\"https://pic1.zhimg.com/v2-ec9d339376886784ce13d27d68f108b8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;529&#39; height=&#39;258&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"529\" data-rawheight=\"258\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"529\" data-original=\"https://pic1.zhimg.com/v2-ec9d339376886784ce13d27d68f108b8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ec9d339376886784ce13d27d68f108b8_b.png\"/></figure><br/><p>图5 递归神经网络结构图</p><p>2.3.2 训练过程</p><p>递归神经网络中由于输入时叠加了之前的信号，所以反向传导时不同于传统的神经网络，因为对于时刻<i>t</i>的输入层，其残差不仅来自于输出，还来自于之后的隐层。通过反向传递算法，利用输出层的误差，求解各个权重的梯度，然后利用梯度下降法更新各个权重。</p><p>2.3.3 典型改进</p><p>递归神经网络模型可以用来处理序列数据，递归神经网络包含了大量参数，且难于训练（时间维度的梯度消散或梯度爆炸），所以出现一系列对RNN优化，比如网络结构、求解算法与并行化。今年来bidirectional RNN （BRNN）与 LSTM在image captioning, language translation, and handwriting recognition这几个方向上有了突破性进展 。</p><p>2.3.4 模型优缺点</p><p>(1)优点：</p><p>（1）、模型是时间维度上的深度模型，可以对序列内容建模；</p><p>(2)缺点：</p><p>（1）、需要训练的参数较多，容易出现梯度消散或梯度爆炸问题；</p><p>（2）、不具有特征学习能力。</p><br/><br/><br/><br/><br/><h2><u>                                         分割线                                            </u></h2><p>上次写了一篇机器学习入门的文章后，有人留言说他是从UFLDL来进行入门的。今天我就来讲讲UFLDL及以此来入门深度学习。</p><p>背景介绍：</p><p>UFLDL是stanford大学的AndrewNG教授维护的一个其上课的wiki界面。Andrew NG此君在工业界和学术界在机器学习、机器人、在线学习等方面真的是做了很多功德无量的大事，具体的内容，下次我再写一篇八卦文深入的八一八此君的各种奇闻异事。</p><p>另外，笔者曾经参与翻译UFLDL内容。所以，对于此wiki页面及其内容还是相对熟悉的。</p><p>UFLDL其实最主要还是讲的神经网络方面及其周边的一些知识。所以其实要想靠这个页面来学习整个机器学习领域的知识其实不是特别适合的。</p><p>但是如果你是想通过UFLDL来学习深度学习尤其是深度自编码神经网络和卷积神经网络这些特定的深度学习模型却是绝佳的入门法宝。</p><p>UFLDL的内容总结起来包括了几大部分：神经网络结构及训练方法基础知识、数据预处理基础知识、深度自编码神经网络和卷积神经网络基础知识这几大部分。</p><p>其中神经网络机构及训练方法基础知识讲解了最经典的神经网络结构-BP神经网络的结构组成、基本的训练方法等内容，对于没有任何神经网络知识的小伙伴绝对是一个很好的入门教程。而且他提供的作业代码中会教你怎样一步一步将公式转化为matlab的代码以及如何分布调试算法程序。</p><p>数据预处理基础知识讲解了数据白化方法和主成成分分析（PCA）的方法，这两类方法都是数据预处理中重要而典型的方法。尤其是PCA，应用非常广泛，也是Hinton发表在Science那篇文章中做比较的一种算法。</p><p>在深度自编码神经网络和卷积神经网络的介绍也非常经典。一步一步，公式都很简单，而且很容易和代码联系起来。</p><p>综上，UFLDL确实是做深度神经网络学习不可多得的入门教材。</p><br/><p>相信只要按照网页上的内容一步一步走，入门深度学习绝对不是梦。\n</p><p>Good Luck and Have Fun</p><br/><br/><p><u>                                                                    分割线                                                               </u></p><br/><p>深度学习仅仅看看UFLDL肯定是不够的，你必须得多实践，实践实践再实践。但是目前众多优秀的开源DL库的诞生，为大家实践DL提供了非常大的方便。这里陆陆续续给大家介绍几个用过的比较好的库。</p><p>1、Theano</p><p>这个库是DL三座大山之一的Yoshua Bengio所主导建立的一个DL库，也是DL领域在开始阶段最有影响力的一个库。这个库对于DL领域常用的算法支持比较齐全，文档也非常的优秀。安装的话，如果你仅仅只用CPU非常的方面，但是如果你需要用GPU可能会稍微麻烦一点，这里面不同软件之间的兼容性和配置问题可能会让你比较头痛。</p><p>另外，如果你对Python比较熟悉（当然，现在做DL的就没有几个不用Python的）的话可以非常容易上手。但是可能最开始可能会对Tensor这种数据格式不是特别的适应，但是这也就是一个熟能生巧的过程，用得多了，自然的就熟悉啦。</p><br/><br/><br/><br/><p>广告时间：机器学习、未来智能、机器人相关话题，可关注公众号：智能学之家</p><figure><noscript><img src=\"https://pic1.zhimg.com/347576321f5955cd1f8dcd6e246782ec_b.jpg\" data-rawwidth=\"430\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb\" width=\"430\" data-original=\"https://pic1.zhimg.com/347576321f5955cd1f8dcd6e246782ec_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;430&#39; height=&#39;430&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"430\" data-rawheight=\"430\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"430\" data-original=\"https://pic1.zhimg.com/347576321f5955cd1f8dcd6e246782ec_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/347576321f5955cd1f8dcd6e246782ec_b.jpg\"/></figure>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "苏格拉木", 
+                    "userLink": "https://www.zhihu.com/people/a992b77abd6c51dd08f076a3c27a931c", 
+                    "content": "这本书要1000多，，买不起啊。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25520824", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 4, 
+            "title": "机器学习(深度学习)文章和代码积累", 
+            "content": "<p><b>1、Papers and Books</b></p><p><b>1.1、MLP(Multiple Layer Perception)</b></p><p>[1]. A practical guide to training restricted Boltzmann machines</p><p>[2]. A fast learning algorithm for deep belief nets</p><p>[3]. Greedy Layer-Wise Training of Deep Networks</p><p>[4]. Improving Deep Neural Networks For LVCSR using Rectified Linear Units and Dropout</p><p>[5]. Feature Learning in Deep Neural Networks Studies on Speech Recognition Tasks</p><p>[6]. Improving Neural Networks with Dropout</p><p>[7]. Restructuring of Deep Neural Network Acoustic Models with Singular Value </p><p>[8]. Rectified Linear Units Improve Restricted Boltzmann Machines</p><p>[9]. Reducing the Dimensionality of Data with Neural Networks</p><br/><p><b>1.2、CNN(Convolution Neural Network)</b></p><p>[1]. <a href=\"https://link.zhihu.com/?target=http%3A//yann.lecun.com/exdb/lenet/index.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. Gradient-based learning applied to document recognition. Proceedings of the IEEE, november 1998</a></p><p>[2]. <a href=\"https://link.zhihu.com/?target=http%3A//yann.lecun.com/exdb/lenet/index.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">L. Bottou, Y. LeCun, and Y. Bengio. Global training of document processing systems using graph transformer networks. In Proc. of Computer Vision and Pattern Recognition, Puerto-Rico, 1997. IEEE.</a></p><p>[3]. <a href=\"https://link.zhihu.com/?target=http%3A//yann.lecun.com/exdb/lenet/index.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Y. LeCun, L. D. Jackel, B. Boser, J. S. Denker, H. P. Graf, I. Guyon, D. Henderson, R. E. Howard, and W. Hubbard. Handwritten digit recognition: Applications of neural net chips and automatic learning. IEEE Communication, pages 41-46, November 1989. invited paper.</a></p><p>[4]. Applying Convolutional Neural Networks Concepts to Hybrid NN-HMM Model for Speech Recognition</p><p>[5]. ImageNet Classification with Deep Convolutional Neural Networks</p><p>[6]. What is the Best Multi-Stage Architecture for Object Recognition</p><p>[7]. Learning Mid-Level Features For Recognition</p><p>[8]. Convolutional Networks and Applications in Vision</p><p>[9]. Visualizing and Understanding Convolutional Networks</p><p>[11]. Stochastic Pooling for Regularization of Deep Convolutional Neural Networks</p><p>[12]. Adaptive Deconvolutional Networks for Mid and High Level Feature Learning</p><p>[13]. Notes on Convolutional Neural Networks</p><p>[14]. Deep Neural Networks for Object Detection</p><br/><p><b>1.3、RNN(Recurrent Neural Network)</b></p><p>[1]. <a href=\"https://link.zhihu.com/?target=https%3A//www.researchgate.net/publication/2453996_Convolutional_Networks_for_Images_Speech_and_Time-Series\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">LeCun Y, Bengio Y. Convolutional networks for images, speech, and time series[J]. The handbook of brain theory and neural networks, 1995, 3361(10): 1995.</a></p><p>[2].Recurrent neural network based language model</p><p>[3].Extensions of Recurrent Neural Network Language Model</p><p>[4]. Training Recurrent Neural Networks</p><p>[5]. Strategies for Training Large Scale Neural Network Language Models</p><p>[6]. On the diffculty of training Recurrent Neural Networks</p><p><b>1.4、TL(Transfer Learning)</b></p><p>[1]. <a href=\"https://link.zhihu.com/?target=http%3A//ieeexplore.ieee.org/abstract/document/5288526/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Pan S J, Yang Q. A survey on transfer learning[J]. IEEE Transactions on knowledge and data engineering, 2010, 22(10): 1345-1359.</a><br/></p><p>[2]. A Survey of Transfer Learning</p><p>[3]. Boosting for Transfer Learning</p><p>[4]. </p><p><b>1.5、Other Related Works</b></p><p>[1]. An Introduction to Deep Learning</p><p>[2]. Why Does Unsupervised Pre-training Help Deep Learning</p><p>[3]. Learning Deep Architectures for AI</p><p>[4]. Representation Learning A Review and New Perspectives</p><br/><br/><p><b>2、Codes</b></p><p><b>2.1. Platform</b></p><p>[1]. <a href=\"https://link.zhihu.com/?target=https%3A//www.tensorflow.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Tensorflow</a></p><p>[2]. <a href=\"https://link.zhihu.com/?target=https%3A//github.com/dmlc/mxnet\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">MxNet</a></p><p>[3]. <a href=\"https://link.zhihu.com/?target=http%3A//caffe.berkeleyvision.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Caffe</a></p><p>[4]. <a href=\"https://link.zhihu.com/?target=http%3A//deeplearning.net/software/theano/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Theano</a></p><p>[5]. <a href=\"https://link.zhihu.com/?target=http%3A//torch.ch/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Torch</a></p><p>[6]. <a href=\"https://link.zhihu.com/?target=https%3A//keras.io/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Keras</a></p><p>[7]. <a href=\"https://link.zhihu.com/?target=http%3A//scikit-learn.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Scikit-Learn</a></p><p><b>2.2 Algorithm Codes</b></p><p><b>2.2.1 MLP</b></p><p><b>2.2.2 CNN</b></p><p>[1]. <a href=\"https://link.zhihu.com/?target=http%3A//www.cs.toronto.edu/~guerzhoy/321/proj3/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CNN+TL</a> (Tensorflow)<br/></p><p><b>2.2.3 RNN</b></p><p><b>2.2.4 TL</b></p><p><b>2.2.5 Others</b></p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/23402826", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 3, 
+            "title": "Python冷知识", 
+            "content": "开一个专门的文章，收集平时用到的Python冷知识。<p>1、zip迭代工具</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"n\">names</span> <span class=\"o\">=</span> <span class=\"p\">[</span><span class=\"s1\">&#39;anne&#39;</span><span class=\"p\">,</span><span class=\"s1\">&#39;beth&#39;</span><span class=\"p\">,</span><span class=\"s1\">&#39;george&#39;</span><span class=\"p\">]</span>\n<span class=\"n\">ages</span> <span class=\"o\">=</span> <span class=\"p\">[</span><span class=\"mi\">12</span><span class=\"p\">,</span><span class=\"mi\">45</span><span class=\"p\">,</span><span class=\"mi\">32</span><span class=\"p\">]</span>\n<span class=\"k\">for</span> <span class=\"n\">name</span><span class=\"p\">,</span> <span class=\"n\">age</span> <span class=\"ow\">in</span> <span class=\"nb\">zip</span><span class=\"p\">(</span><span class=\"n\">names</span><span class=\"p\">,</span> <span class=\"n\">ages</span><span class=\"p\">):</span>\n    <span class=\"k\">print</span> <span class=\"n\">name</span><span class=\"p\">,</span><span class=\"n\">age</span>\n</code></pre></div><p>zip迭代可以把两个序列压缩在一起，然后返回一个元组的列表。</p><p>2、enumerate按索引迭代</p><div class=\"highlight\"><pre><code class=\"language-text\">for index, string in enumerate(strings):\n    if &#39;xxx&#39; in string:\n        string[index] = &#39;[censored]&#39;</code></pre></div><p>enumerate可以提供索引的地方迭代索引-值对。</p>", 
+            "topic": [
+                {
+                    "tag": "Python", 
+                    "tagLink": "https://api.zhihu.com/topics/19552832"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/23354318", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 85, 
+            "title": "深入浅出快速傅里叶变换（FFT）", 
+            "content": "FFT是信号处理中应用最为广泛的一个算法，但是很多入门童鞋对这个算法不甚了解，写作此文，给入门人员一个启示。<p>FFT(Fast Fourier Transform)快速傅里叶变换是离散傅里叶变换(DFT)的一种快速计算方法。傅里叶分析是将信号从原始域（比如时域）转换到其他域（比如频域）表征的一种方法。而FFT是DFT的一种快速计算方法。（PS：至于什么是时域，什么是频域的这些概念，各位自行搜索吧。）</p><p>下面的博文将以Cooley-Kuky FFT为例说明FFT的计算过程以及为什么他的计算速度非常快。并且文章还会给出一些Python代码来帮助理解算法过程和公式到代码的转化过程。希望藉此给与数据数据打交到的各位一个直观的认识。</p><p>从离散傅里叶分析到FFT</p><p>FFT是离散傅里叶变换的快速计算方法。类似于连续傅里叶变换，离散傅里叶变换也有正比变换和反变换形式，分别定义如下：</p><p>正离散傅里叶变换：</p><img src=\"https://www.zhihu.com/equation?tex=x_%7Bk%7D%3D%5Csum_%7Bn%3D0%7D%5E%7BN-1%7D%7Bx_%7Bn%7D+%5Ccdot+e%5E%7B-%5Cimath+2%5Cpi+kn%2FN%7D+%7D\" alt=\"x_{k}=\\sum_{n=0}^{N-1}{x_{n} \\cdot e^{-\\imath 2\\pi kn/N} }\" eeimg=\"1\"/>                                                                                    （1）<br/><p>反离散傅里叶变换：</p><img src=\"https://www.zhihu.com/equation?tex=x_%7Bn%7D%3D%5Cfrac%7B1%7D%7BN%7D%5Csum_%7Bk%3D0%7D%5E%7BN-1%7D%7Bx_%7Bk%7D%5Ccdot+e%5E%7B%5Cimath+2%5Cpi+kn%2FN%7D+%7D++\" alt=\"x_{n}=\\frac{1}{N}\\sum_{k=0}^{N-1}{x_{k}\\cdot e^{\\imath 2\\pi kn/N} }  \" eeimg=\"1\"/>                                                                                 （2）                  <br/><p>式中，从<img src=\"https://www.zhihu.com/equation?tex=x_%7Bn%7D%5Crightarrow+x_%7Bk%7D\" alt=\"x_{n}\\rightarrow x_{k}\" eeimg=\"1\"/>的变换是从时域空间到频率空间的变换。那个这个玩意儿到底有什么作用呢？我们来看看下面这一个例子。下图中的两个信号是两个时域信号，如果让大家去区分这两个信号，大家能怎样去区分呢？均值？均方根？......计算后你会他们他们在时域内的这些特征值都是相等的，那么该怎么去区分呢？这时候就要用到频率分析（傅里叶变换）。图2是这两个信号各自的傅里叶变换图，由图中可以看出，两个信号的频率成分明显不同。因此，这两个信号就可以容易的区分开来了。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-69195f7a82a6c106c9a7ac7b37363c6b_b.png\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb\" width=\"7200\" data-original=\"https://pic4.zhimg.com/v2-69195f7a82a6c106c9a7ac7b37363c6b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;7200&#39; height=&#39;3000&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"7200\" data-original=\"https://pic4.zhimg.com/v2-69195f7a82a6c106c9a7ac7b37363c6b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-69195f7a82a6c106c9a7ac7b37363c6b_b.png\"/></figure><p>                                                           图1. 时域信号<br/></p><p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-454c5c70e1a0615ba0e4f3a67d7210c4_b.png\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb\" width=\"7200\" data-original=\"https://pic1.zhimg.com/v2-454c5c70e1a0615ba0e4f3a67d7210c4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;7200&#39; height=&#39;3000&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"7200\" data-original=\"https://pic1.zhimg.com/v2-454c5c70e1a0615ba0e4f3a67d7210c4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-454c5c70e1a0615ba0e4f3a67d7210c4_b.png\"/></figure>                                                           图2. 频域信号<br/></p><br/><p>本文仅针对正傅里叶变换进行解释。从式（1）的离散傅里叶变换公式可以看出，他就是一个矩阵和向量的线性相乘，</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cvec%7BX%7D%3DM%5Ccdot+%5Cvec%7Bx%7D\" alt=\"\\vec{X}=M\\cdot \\vec{x}\" eeimg=\"1\"/>                                                                                                 （3）<br/></p><p>式中<img src=\"https://www.zhihu.com/equation?tex=M\" alt=\"M\" eeimg=\"1\"/>可以表示为：</p><p><img src=\"https://www.zhihu.com/equation?tex=M_%7Bkn%7D+%3D+e%5E%7B-%5Ci+2%5Cpi+kn%2FN%7D\" alt=\"M_{kn} = e^{-\\i 2\\pi kn/N}\" eeimg=\"1\"/>                                                                                          （4）<br/></p><p>综合式（3）和式（4），我们可以计算离散傅里叶变换，相应的Python代码如下：</p><br/><div class=\"highlight\"><pre><code class=\"language-text\">import numpy as np\ndef DFT_slow(x):\n    &#34;&#34;&#34;Compute the discrete Fourier Transform of the 1D array x&#34;&#34;&#34;\n    x = np.asarray(x, dtype=float)\n    N = x.shape[0]\n    n = np.arange(N)\n    k = n.reshape((N, 1))\n    M = np.exp(-2j * np.pi * k * n / N)\n    return np.dot(M, x)\n</code></pre></div><p>我们可以对比我们编写代码的处理结果和Numpy内嵌的FFT计算结果做一个对比。</p><br/><div class=\"highlight\"><pre><code class=\"language-text\">x = np.random.random(1024)\nnp.allclose(DFT_slow(x), np.fft.fft(x))\n</code></pre></div><p>当然，结果肯定是True啦。那是不是就这样的结束啦？？？</p><p>明显没有嘛，这一步仅仅是DFT的常规计算方法，我们对比我们代码和np.fft.fft计算速度的时候就会发现。F**k，为什么会慢这么多啊，差别有上千倍啊。</p><p>那么，该如何改进呢？这就轮到FFT出马啦。</p>", 
+            "topic": [
+                {
+                    "tag": "数字信号处理", 
+                    "tagLink": "https://api.zhihu.com/topics/19620019"
+                }, 
+                {
+                    "tag": "傅里叶变换（Fourier Transform）", 
+                    "tagLink": "https://api.zhihu.com/topics/19600515"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "「已注销」", 
+                    "userLink": "https://www.zhihu.com/people/1d221ce50048b627a115d2f1af799eed", 
+                    "content": "<p>请问是关评了吗，怎么发了两次都失败了</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "拉普拉斯妖", 
+                    "userLink": "https://www.zhihu.com/people/1ced5168c7a0a2d428eb6858230885e3", 
+                    "content": "什么啊", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>你这只有浅出好么</p>", 
+                    "likes": 18, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "有来头", 
+                    "userLink": "https://www.zhihu.com/people/a65c05e082a3a8e5ce9b6d0d93ad121c", 
+                    "content": "<p>那么问题来了，fft在哪里啊？</p>", 
+                    "likes": 4, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "白云", 
+                    "userLink": "https://www.zhihu.com/people/8881d8fe8b90c2a9dcc95ffa4e66bc9d", 
+                    "content": "什么鬼，你这没写完吧？", 
+                    "likes": 5, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "YeahCara", 
+                    "userLink": "https://www.zhihu.com/people/951b0a53b0ac7371cdd1212234711fb4", 
+                    "content": "接下来呢！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "豪恣", 
+                    "userLink": "https://www.zhihu.com/people/e321079c92cd54dda9ce2a31ef1d7285", 
+                    "content": "<p>这写的神马玩意</p>", 
+                    "likes": 4, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "野牛", 
+                    "userLink": "https://www.zhihu.com/people/14ec75ad8bba4806214d79d25fa6d1e7", 
+                    "content": "那么fft<br>呢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "tomK", 
+                    "userLink": "https://www.zhihu.com/people/1cddaf8c265f94b600f45301b7c9fc0f", 
+                    "content": "<p>有种看片看到最后发现打了马赛克的赶脚</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "李奇杰", 
+                    "userLink": "https://www.zhihu.com/people/d343a18ab3da0c58f7e74c919680d2ea", 
+                    "content": "<p>我懵了，挖坑不管埋？？？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "登高居士", 
+                    "userLink": "https://www.zhihu.com/people/6d4e56dfa2d27a34d3bd132ce95ace6b", 
+                    "content": "<p>点了赞同的是真的秀</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "嘚嘚侠", 
+                    "userLink": "https://www.zhihu.com/people/869d3e66e9dd883c6452d4dc0c0b84ac", 
+                    "content": "就这就完了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "韩山童", 
+                    "userLink": "https://www.zhihu.com/people/97e9531f6c173898db9d7c622f032258", 
+                    "content": "<p>各位评论区的朋友，这是一位老外的fft算法，楼主只写了前面的一部分，我把后面的补充一下吧，链接：<a href=\"https://zhuanlan.zhihu.com/p/66038836\" class=\"internal\"><span class=\"invisible\">https://</span><span class=\"visible\">zhuanlan.zhihu.com/p/66</span><span class=\"invisible\">038836</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "滴答", 
+                    "userLink": "https://www.zhihu.com/people/097f20b9edd83cb79ce16cf6ee1880c4", 
+                    "content": "下面没了？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Knight", 
+                    "userLink": "https://www.zhihu.com/people/c0ebf0645d36daddddd5073adc31883c", 
+                    "content": "既然要分享，就痛痛快快地分享，分享是一种美德", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "「已注销」", 
+                    "userLink": "https://www.zhihu.com/people/1d221ce50048b627a115d2f1af799eed", 
+                    "content": "<p>请问是关评了吗，怎么发了两次都失败了</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "拉普拉斯妖", 
+                    "userLink": "https://www.zhihu.com/people/1ced5168c7a0a2d428eb6858230885e3", 
+                    "content": "什么啊", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>你这只有浅出好么</p>", 
+                    "likes": 18, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "有来头", 
+                    "userLink": "https://www.zhihu.com/people/a65c05e082a3a8e5ce9b6d0d93ad121c", 
+                    "content": "<p>那么问题来了，fft在哪里啊？</p>", 
+                    "likes": 4, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "白云", 
+                    "userLink": "https://www.zhihu.com/people/8881d8fe8b90c2a9dcc95ffa4e66bc9d", 
+                    "content": "什么鬼，你这没写完吧？", 
+                    "likes": 5, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "YeahCara", 
+                    "userLink": "https://www.zhihu.com/people/951b0a53b0ac7371cdd1212234711fb4", 
+                    "content": "接下来呢！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "豪恣", 
+                    "userLink": "https://www.zhihu.com/people/e321079c92cd54dda9ce2a31ef1d7285", 
+                    "content": "<p>这写的神马玩意</p>", 
+                    "likes": 4, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "野牛", 
+                    "userLink": "https://www.zhihu.com/people/14ec75ad8bba4806214d79d25fa6d1e7", 
+                    "content": "那么fft<br>呢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "tomK", 
+                    "userLink": "https://www.zhihu.com/people/1cddaf8c265f94b600f45301b7c9fc0f", 
+                    "content": "<p>有种看片看到最后发现打了马赛克的赶脚</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "李奇杰", 
+                    "userLink": "https://www.zhihu.com/people/d343a18ab3da0c58f7e74c919680d2ea", 
+                    "content": "<p>我懵了，挖坑不管埋？？？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "登高居士", 
+                    "userLink": "https://www.zhihu.com/people/6d4e56dfa2d27a34d3bd132ce95ace6b", 
+                    "content": "<p>点了赞同的是真的秀</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "嘚嘚侠", 
+                    "userLink": "https://www.zhihu.com/people/869d3e66e9dd883c6452d4dc0c0b84ac", 
+                    "content": "就这就完了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "韩山童", 
+                    "userLink": "https://www.zhihu.com/people/97e9531f6c173898db9d7c622f032258", 
+                    "content": "<p>各位评论区的朋友，这是一位老外的fft算法，楼主只写了前面的一部分，我把后面的补充一下吧，链接：<a href=\"https://zhuanlan.zhihu.com/p/66038836\" class=\"internal\"><span class=\"invisible\">https://</span><span class=\"visible\">zhuanlan.zhihu.com/p/66</span><span class=\"invisible\">038836</span><span class=\"ellipsis\"></span></a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "滴答", 
+                    "userLink": "https://www.zhihu.com/people/097f20b9edd83cb79ce16cf6ee1880c4", 
+                    "content": "下面没了？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Knight", 
+                    "userLink": "https://www.zhihu.com/people/c0ebf0645d36daddddd5073adc31883c", 
+                    "content": "既然要分享，就痛痛快快地分享，分享是一种美德", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/23310475", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 28, 
+            "title": "Python画图总结", 
+            "content": "Python语言的各种好处，我这里不再赘述。进来发现Matplotlib画图实在是好看，因此，在知乎文章中记录下来，对自己是个总结，对初学者也是一份参考。<br/><br/>1、最简单的画波形、配置大小、还有X轴、Y轴说明：<br/><figure><noscript><img src=\"https://pic1.zhimg.com/v2-67be9ba81048aaa09acae619945e12f8_b.png\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb\" width=\"7200\" data-original=\"https://pic1.zhimg.com/v2-67be9ba81048aaa09acae619945e12f8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;7200&#39; height=&#39;3000&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"7200\" data-original=\"https://pic1.zhimg.com/v2-67be9ba81048aaa09acae619945e12f8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-67be9ba81048aaa09acae619945e12f8_b.png\"/></figure><div class=\"highlight\"><pre><code class=\"language-text\">import numpy as np\nimport matplotlib.pyplot as plt\n\nx = np.arange(10000)\ny = np.sin(2*0.01*x)\n\n\nfig=plt.figure(figsize=(6,2.5))\nax = fig.add_subplot(111)\nplt.plot(x,y)\nax.set_xlim(0,10000)\nax.set_ylim(-2,2)\nax.set_xticks(np.linspace(0,10000,5)) \nax.set_yticks(np.linspace(-2,2,5))\n\nax.set_xlabel(&#39;Times&#39;)\nax.set_ylabel(&#39;Amplitude&#39;)\n\nplt.tight_layout()\nfig.set_size_inches(6,2.5)\nfig.savefig(&#39;first.png&#39;,dpi=1200)\n\nplt.show()</code></pre></div><p>2、直方图</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-eab23b17cecf0ea92ac68714a026a15f_b.png\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb\" width=\"7200\" data-original=\"https://pic4.zhimg.com/v2-eab23b17cecf0ea92ac68714a026a15f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;7200&#39; height=&#39;3000&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"7200\" data-original=\"https://pic4.zhimg.com/v2-eab23b17cecf0ea92ac68714a026a15f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-eab23b17cecf0ea92ac68714a026a15f_b.png\"/></figure><div class=\"highlight\"><pre><code class=\"language-text\">import numpy as np\nfrom numpy import arange\nimport matplotlib.pyplot as plt\n\nimport scipy.io as sio\n\ncorr_m = [[0.8,0.4,0.7,0.65],[0.75,0.42,0.51,0.65],[0.45,0.91,0.34,0.51],[0.41,0.32,0.51,0.28],[0.12,0.32,0.25,0.41]]\ncorr_m = np.array(corr_m)\nmean_corr_m = np.mean(corr_m,axis=1)\n\n\n\nN1,N2 = corr_m.shape\nindex = np.arange(N1)+1\n\n################################### Plot  ##############################\nmean_corr_m_sort_location1 = np.argsort(mean_corr_m)\nmean_corr_m_sort1 = np.sort(mean_corr_m)\nmean_corr_m_sort_location = mean_corr_m_sort_location1[::-1]\nmean_corr_m_sort = mean_corr_m_sort1[::-1]\n\ncorr_m_sort = np.zeros([5,4])\nfor i in range(N1):\n    corr_m_sort[i,:] = corr_m[mean_corr_m_sort_location[i],:]\n\nfig = plt.figure(figsize=(6,2.5))\nax = fig.add_subplot(111)\nbar_width = 0.13\nopacity = 0.8\nrects1 = plt.bar(index, corr_m_sort[:,0], bar_width, alpha=opacity, color = &#39;b&#39;,label=    &#39;Men&#39;) \nrects2 = plt.bar(index+bar_width*1, corr_m_sort[:,1], bar_width, alpha=opacity, color = &#39;m&#39;)\nrects3 = plt.bar(index+bar_width*2, corr_m_sort[:,2], bar_width, alpha=opacity, color = &#39;g&#39;)\nrects4 = plt.bar(index+bar_width*3, corr_m_sort[:,3], bar_width, alpha=opacity, color = &#39;k&#39;)\n\nplt.plot(index+bar_width*3,mean_corr_m_sort[:],&#39;ro-&#39;)\n\nax.set_xlim(1,6)\nax.set_ylim(0,1)\n\nax.set_xticks(np.linspace(1,6,6))  \nax.set_yticks(np.linspace(0,1,6))\n\nplt.xticks(index + 2*bar_width, (&#39;1&#39;, &#39;2&#39;, &#39;3&#39;, &#39;4&#39;, &#39;5&#39;)) \nplt.tight_layout()\nfig.set_size_inches(6,2.5)\nfig.savefig(&#39;fig19_a.png&#39;,dpi=1200)</code></pre></div><p>3、去掉画布边框、添加曲线说明</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-435f2daa72a877c3f594338c3fd5fdd6_b.png\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb\" width=\"7200\" data-original=\"https://pic3.zhimg.com/v2-435f2daa72a877c3f594338c3fd5fdd6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;7200&#39; height=&#39;3000&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"7200\" data-original=\"https://pic3.zhimg.com/v2-435f2daa72a877c3f594338c3fd5fdd6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-435f2daa72a877c3f594338c3fd5fdd6_b.png\"/></figure><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"kn\">import</span> <span class=\"nn\">numpy</span> <span class=\"kn\">as</span> <span class=\"nn\">np</span>\n<span class=\"kn\">import</span> <span class=\"nn\">matplotlib.pyplot</span> <span class=\"kn\">as</span> <span class=\"nn\">plt</span>\n\n<span class=\"n\">x</span> <span class=\"o\">=</span> <span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">arange</span><span class=\"p\">(</span><span class=\"mi\">10000</span><span class=\"p\">)</span>\n<span class=\"n\">y</span> <span class=\"o\">=</span> <span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">sin</span><span class=\"p\">(</span><span class=\"mi\">2</span><span class=\"o\">*</span><span class=\"mf\">0.01</span><span class=\"o\">*</span><span class=\"n\">x</span><span class=\"p\">)</span>\n\n\n<span class=\"n\">fig</span><span class=\"o\">=</span><span class=\"n\">plt</span><span class=\"o\">.</span><span class=\"n\">figure</span><span class=\"p\">(</span><span class=\"n\">figsize</span><span class=\"o\">=</span><span class=\"p\">(</span><span class=\"mi\">6</span><span class=\"p\">,</span><span class=\"mf\">2.5</span><span class=\"p\">))</span>\n<span class=\"n\">ax</span> <span class=\"o\">=</span> <span class=\"n\">fig</span><span class=\"o\">.</span><span class=\"n\">add_subplot</span><span class=\"p\">(</span><span class=\"mi\">111</span><span class=\"p\">)</span>\n<span class=\"n\">plt</span><span class=\"o\">.</span><span class=\"n\">plot</span><span class=\"p\">(</span><span class=\"n\">x</span><span class=\"p\">,</span><span class=\"n\">y</span><span class=\"p\">,</span><span class=\"n\">label</span><span class=\"o\">=</span><span class=\"s2\">&#34;cosine&#34;</span><span class=\"p\">)</span>\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">set_xlim</span><span class=\"p\">(</span><span class=\"mi\">0</span><span class=\"p\">,</span><span class=\"mi\">10000</span><span class=\"p\">)</span>\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">set_ylim</span><span class=\"p\">(</span><span class=\"o\">-</span><span class=\"mi\">2</span><span class=\"p\">,</span><span class=\"mi\">2</span><span class=\"p\">)</span>\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">set_xticks</span><span class=\"p\">(</span><span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">linspace</span><span class=\"p\">(</span><span class=\"mi\">0</span><span class=\"p\">,</span><span class=\"mi\">10000</span><span class=\"p\">,</span><span class=\"mi\">5</span><span class=\"p\">))</span>  \n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">set_yticks</span><span class=\"p\">(</span><span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">linspace</span><span class=\"p\">(</span><span class=\"o\">-</span><span class=\"mi\">2</span><span class=\"p\">,</span><span class=\"mi\">2</span><span class=\"p\">,</span><span class=\"mi\">5</span><span class=\"p\">))</span>\n\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">set_xlabel</span><span class=\"p\">(</span><span class=\"s1\">&#39;Times&#39;</span><span class=\"p\">)</span>\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">set_ylabel</span><span class=\"p\">(</span><span class=\"s1\">&#39;Amplitude&#39;</span><span class=\"p\">)</span>\n\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">spines</span><span class=\"p\">[</span><span class=\"s1\">&#39;right&#39;</span><span class=\"p\">]</span><span class=\"o\">.</span><span class=\"n\">set_color</span><span class=\"p\">(</span><span class=\"s1\">&#39;none&#39;</span><span class=\"p\">)</span>\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">spines</span><span class=\"p\">[</span><span class=\"s1\">&#39;top&#39;</span><span class=\"p\">]</span><span class=\"o\">.</span><span class=\"n\">set_color</span><span class=\"p\">(</span><span class=\"s1\">&#39;none&#39;</span><span class=\"p\">)</span>\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">legend</span><span class=\"p\">(</span><span class=\"n\">loc</span><span class=\"o\">=</span><span class=\"s1\">&#39;upper left&#39;</span><span class=\"p\">)</span>\n\n<span class=\"n\">plt</span><span class=\"o\">.</span><span class=\"n\">tight_layout</span><span class=\"p\">()</span>\n<span class=\"n\">fig</span><span class=\"o\">.</span><span class=\"n\">set_size_inches</span><span class=\"p\">(</span><span class=\"mi\">6</span><span class=\"p\">,</span><span class=\"mf\">2.5</span><span class=\"p\">)</span>\n<span class=\"n\">fig</span><span class=\"o\">.</span><span class=\"n\">savefig</span><span class=\"p\">(</span><span class=\"s1\">&#39;plot3.png&#39;</span><span class=\"p\">,</span><span class=\"n\">dpi</span><span class=\"o\">=</span><span class=\"mi\">1200</span><span class=\"p\">)</span>\n\n<span class=\"n\">plt</span><span class=\"o\">.</span><span class=\"n\">show</span><span class=\"p\">()</span></code></pre></div><br/><p>4、三维画图、变换背景颜色、方向转换</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-062e3b2722279305b759b7e0996baec8_b.png\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb\" width=\"7200\" data-original=\"https://pic1.zhimg.com/v2-062e3b2722279305b759b7e0996baec8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;7200&#39; height=&#39;3000&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"7200\" data-rawheight=\"3000\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"7200\" data-original=\"https://pic1.zhimg.com/v2-062e3b2722279305b759b7e0996baec8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-062e3b2722279305b759b7e0996baec8_b.png\"/></figure><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"kn\">import</span> <span class=\"nn\">numpy</span> <span class=\"kn\">as</span> <span class=\"nn\">np</span>\n<span class=\"kn\">import</span> <span class=\"nn\">matplotlib.pyplot</span> <span class=\"kn\">as</span> <span class=\"nn\">plt</span>\n<span class=\"kn\">from</span> <span class=\"nn\">mpl_toolkits.mplot3d</span> <span class=\"kn\">import</span> <span class=\"n\">Axes3D</span>\n<span class=\"kn\">from</span> <span class=\"nn\">matplotlib.collections</span> <span class=\"kn\">import</span> <span class=\"n\">PolyCollection</span>\n<span class=\"kn\">from</span> <span class=\"nn\">matplotlib.colors</span> <span class=\"kn\">import</span> <span class=\"n\">colorConverter</span>\n\n<span class=\"kn\">import</span> <span class=\"nn\">scipy.io</span> <span class=\"kn\">as</span> <span class=\"nn\">sio</span>\n\n<span class=\"n\">t</span> <span class=\"o\">=</span> <span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">linspace</span><span class=\"p\">(</span><span class=\"mi\">0</span><span class=\"p\">,</span><span class=\"mi\">10</span><span class=\"p\">,</span><span class=\"mi\">2000</span><span class=\"p\">)</span>\n\n<span class=\"n\">z</span> <span class=\"o\">=</span> <span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">zeros</span><span class=\"p\">([</span><span class=\"mi\">5</span><span class=\"p\">,</span><span class=\"mi\">2000</span><span class=\"p\">])</span>\n\n<span class=\"k\">for</span> <span class=\"n\">i</span> <span class=\"ow\">in</span> <span class=\"nb\">range</span><span class=\"p\">(</span><span class=\"mi\">5</span><span class=\"p\">):</span>\n    <span class=\"n\">z</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,:]</span> <span class=\"o\">=</span> <span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">sin</span><span class=\"p\">(</span><span class=\"mi\">2</span><span class=\"o\">*</span><span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">pi</span><span class=\"o\">*</span><span class=\"n\">t</span><span class=\"o\">*</span><span class=\"p\">(</span><span class=\"n\">i</span><span class=\"o\">+</span><span class=\"mi\">1</span><span class=\"p\">)</span><span class=\"o\">*</span><span class=\"mf\">0.2</span><span class=\"p\">)</span>\n    \n<span class=\"n\">x</span> <span class=\"o\">=</span> <span class=\"p\">[</span><span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">linspace</span><span class=\"p\">(</span><span class=\"mi\">0</span><span class=\"p\">,</span><span class=\"mi\">9</span><span class=\"p\">,</span><span class=\"mi\">5</span><span class=\"p\">)]</span><span class=\"o\">*</span><span class=\"mi\">2000</span>\n<span class=\"n\">y</span> <span class=\"o\">=</span> <span class=\"p\">[</span><span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">linspace</span><span class=\"p\">(</span><span class=\"mi\">0</span><span class=\"p\">,</span><span class=\"mi\">1999</span><span class=\"p\">,</span><span class=\"mi\">2000</span><span class=\"p\">)]</span><span class=\"o\">*</span><span class=\"mi\">5</span>\n<span class=\"n\">x</span> <span class=\"o\">=</span> <span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">array</span><span class=\"p\">(</span><span class=\"n\">x</span><span class=\"p\">)</span><span class=\"o\">.</span><span class=\"n\">T</span>\n<span class=\"n\">y</span> <span class=\"o\">=</span> <span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">array</span><span class=\"p\">(</span><span class=\"n\">y</span><span class=\"p\">)</span>\n\n<span class=\"n\">fig</span> <span class=\"o\">=</span> <span class=\"n\">plt</span><span class=\"o\">.</span><span class=\"n\">figure</span><span class=\"p\">(</span><span class=\"n\">figsize</span><span class=\"o\">=</span><span class=\"p\">(</span><span class=\"mi\">6</span><span class=\"p\">,</span><span class=\"mf\">2.5</span><span class=\"p\">))</span>\n\n<span class=\"n\">ax</span> <span class=\"o\">=</span> <span class=\"n\">fig</span><span class=\"o\">.</span><span class=\"n\">gca</span><span class=\"p\">(</span><span class=\"n\">projection</span><span class=\"o\">=</span><span class=\"s1\">&#39;3d&#39;</span><span class=\"p\">,</span><span class=\"n\">axisbg</span><span class=\"o\">=</span><span class=\"s1\">&#39;white&#39;</span><span class=\"p\">)</span>\n<span class=\"n\">plt</span><span class=\"o\">.</span><span class=\"n\">gca</span><span class=\"p\">()</span><span class=\"o\">.</span><span class=\"n\">patch</span><span class=\"o\">.</span><span class=\"n\">set_facecolor</span><span class=\"p\">(</span><span class=\"s1\">&#39;white&#39;</span><span class=\"p\">)</span>\n\n\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">w_xaxis</span><span class=\"o\">.</span><span class=\"n\">set_pane_color</span><span class=\"p\">((</span><span class=\"mf\">1.0</span><span class=\"p\">,</span> <span class=\"mf\">1.0</span><span class=\"p\">,</span> <span class=\"mf\">1.0</span><span class=\"p\">,</span> <span class=\"mf\">1.0</span><span class=\"p\">))</span>\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">w_yaxis</span><span class=\"o\">.</span><span class=\"n\">set_pane_color</span><span class=\"p\">((</span><span class=\"mf\">1.0</span><span class=\"p\">,</span> <span class=\"mf\">1.0</span><span class=\"p\">,</span> <span class=\"mf\">1.0</span><span class=\"p\">,</span> <span class=\"mf\">1.0</span><span class=\"p\">))</span>\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">w_zaxis</span><span class=\"o\">.</span><span class=\"n\">set_pane_color</span><span class=\"p\">((</span><span class=\"mf\">1.0</span><span class=\"p\">,</span> <span class=\"mf\">1.0</span><span class=\"p\">,</span> <span class=\"mf\">1.0</span><span class=\"p\">,</span> <span class=\"mf\">1.0</span><span class=\"p\">))</span>\n\n<span class=\"k\">for</span> <span class=\"n\">i</span> <span class=\"ow\">in</span> <span class=\"nb\">range</span><span class=\"p\">(</span><span class=\"mi\">5</span><span class=\"p\">):</span>\n    <span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">plot</span><span class=\"p\">(</span><span class=\"n\">x</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,:],</span><span class=\"n\">y</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,:],</span><span class=\"n\">z</span><span class=\"p\">[</span><span class=\"n\">i</span><span class=\"p\">,:])</span>\n\n<span class=\"n\">ax</span><span class=\"o\">.</span><span class=\"n\">view_init</span><span class=\"p\">(</span><span class=\"mi\">20</span><span class=\"p\">,</span><span class=\"mi\">60</span><span class=\"p\">)</span>     \n<span class=\"n\">fig</span><span class=\"o\">.</span><span class=\"n\">set_size_inches</span><span class=\"p\">(</span><span class=\"mi\">6</span><span class=\"p\">,</span> <span class=\"mf\">2.5</span><span class=\"p\">)</span>\n<span class=\"n\">fig</span><span class=\"o\">.</span><span class=\"n\">savefig</span><span class=\"p\">(</span><span class=\"s1\">&#39;fig6.png&#39;</span><span class=\"p\">,</span><span class=\"n\">dpi</span><span class=\"o\">=</span><span class=\"mi\">1200</span><span class=\"p\">)</span>\n<span class=\"n\">plt</span><span class=\"o\">.</span><span class=\"n\">show</span><span class=\"p\">()</span>\n</code></pre></div>", 
+            "topic": [
+                {
+                    "tag": "Python", 
+                    "tagLink": "https://api.zhihu.com/topics/19552832"
+                }, 
+                {
+                    "tag": "Matplotlib", 
+                    "tagLink": "https://api.zhihu.com/topics/19748855"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "「已注销」", 
+                    "userLink": "https://www.zhihu.com/people/efd9372810466df236ce35820863b234", 
+                    "content": "请问一下，这个图片的边框（就是坐标轴）怎么调整粗细？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/23175905", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 5, 
+            "title": "深度学习如何入门", 
+            "content": "<p>上次写了一篇机器学习入门的文章后，有人留言说他是从UFLDL来进行入门的。今天我就来讲讲<strong>UFLDL及以此来入门深度学习</strong>。</p><p>背景介绍：</p><p>UFLDL是stanford大学的AndrewNG教授维护的一个其上课的wiki界面。Andrew NG此君在工业界和学术界在机器学习、机器人、在线学习等方面真的是做了很多功德无量的大事，具体的内容，下次我再写一篇八卦文深入的八一八此君的各种奇闻异事。</p><p>另外，笔者曾经参与翻译UFLDL内容。所以，对于此wiki页面及其内容还是相对熟悉的。</p><p>UFLDL其实最主要还是讲的神经网络方面及其周边的一些知识。所以其实要想靠这个页面来学习整个机器学习领域的知识其实不是特别适合的。</p><p>但是如果你是想通过UFLDL来学习深度学习尤其是深度自编码神经网络和卷积神经网络这些特定的深度学习模型却是绝佳的入门法宝。</p><p>UFLDL的内容总结起来包括了几大部分：<strong>神经网络结构及训练方法基础知识、数据预处理基础知识、深度自编码神经网络和卷积神经网络基础知识</strong>这几大部分。</p><p>其中神<strong>经网络机构及训练方法基础知识</strong>讲解了最经典的神经网络结构-BP神经网络的结构组成、基本的训练方法等内容，对于没有任何神经网络知识的小伙伴绝对是一个很好的入门教程。而且他提供的作业代码中会教你怎样一步一步将公式转化为matlab的代码以及如何分布调试算法程序。</p><p><strong>数据预处理基础知识</strong>讲解了数据白化方法和主成成分分析（PCA）的方法，这两类方法都是数据预处理中重要而典型的方法。尤其是PCA，应用非常广泛，也是Hinton发表在Science那篇文章中做比较的一种算法。</p><p><strong>在深度自编码神经网络和卷积神经网络</strong>的介绍也非常经典。一步一步，公式都很简单，而且很容易和代码联系起来。</p><p>综上，UFLDL确实是做深度神经网络学习不可多得的入门教材。</p><br/><p>另外一点，<strong>UFLDL还曾经被人众包翻译成中文（笔者有幸也是其中的翻译者之一）</strong>，所以对于英语恐惧者也可以选择看中文。而且，每一章节后面都会有作业代码需要填写，这是一个很好的检验过程。</p><p>相信只要按照网页上的内容一步一步走，入门深度学习绝对不是梦。</p><p><strong>Good Luck and Have Fun</strong></p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "小白", 
+                    "userLink": "https://www.zhihu.com/people/5fe4ea1e4908a1bf2d9c6b72015b3ed9", 
+                    "content": "建议大家从京东上买本《深度学习之TensorFlow：入门、原理与进阶实战》李金洪写的，里边视频代码都有，而且讲的特别详细，是一本不错的书籍。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/23175887", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 7, 
+            "title": "如何系统自学Python", 
+            "content": "<p>Python作为一门高级脚本语言，拥有很多的优点。尤其是近年来数据科学的火热促使Python语言大放异彩，在语言排行榜中节节攀升。今天，Leon就来和各位盘道盘道<strong>Python如何入门</strong>。（这里，<strong>Leon仅仅针对于Python做科学计算的入门进行介绍</strong>）<br/></p><p>做科学计算一般大家会用到两种语言：Matlab或Python。如果你有Matlab的编程经历再去入门Python，那么这个过程将会更加的简答。这里Leon将给大家讲讲如何零基础入门Python。</p><p>Leon在学习Python语言的时候，仅有一点c/c++和Matlab知识，而且都仅仅是了解皮毛。但是当时开始做一些机器学习的工作，了解到Python程序是一个不错的选择，从而开始转向用Python做一些计算。主要分为了这样几个步骤。</p><p><strong>第一步：当然是学习Python的语法知识</strong>，但是如果仅仅是照着Python的Tutorial来学习基本的语法知识肯定是乏味的。幸好我当时找到了<strong><a href=\"https://link.zhihu.com/?target=http%3A//www.codecademy.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">codecademy.com</span><span class=\"invisible\"></span></a></strong>这个网站，交互式的编程方式可以让你立马看到程序的运行结果。而且对于每条关键的语法内容都会有相对应的小程序需要编写，让你在写程序中学习Python的语法知识。</p><p><strong>第二步，学习第三方库和编程环境</strong>。对于做科学计算的用户来说，最重要的三个第三方库就是<strong>Scipy，Numpy和Matplotlib</strong>，而编程环境我则非常推荐<strong>Spyder</strong>。Numpy是用来做矩阵计算和数组计算的库函数。而Scipy则是建立在Numpy上面的做信号处理、统计优化等学科计算的法宝。Matplotlib是绘图的第三方库函数。因此，理论上来说拥有了Numpy，Scipy和Matplotlib的Python开发环境可以替代很多Matlab的工作，而且其实很多语言都和Matlab的很像。做数值计算时，我们非常希望看到中间变量的值，Leon入门的时候苦苦不得其法，走了很多弯路，后来才找到了Spyder这一法宝。Spyder的界面非常像Matlab的界面。因此，你可以很方便的查看变量的取值，可以查看文件夹下的文件内容等等。</p><p>第三步，有了前面两步的学习，现在对于Python这门语言的使用你已经基本入门了。因此，下面你要做的就是<strong>根据你的需求制定相应的学习路径</strong>。比如，<strong>如果你想做机器学习，那么我建议你把Scikit-Learn的原始文件下载下来</strong>，然后多读读他的源代码，这样你既学习了Python这门语言，又学习了机器学习的基本算法，一举多得的的事情。</p>", 
+            "topic": [
+                {
+                    "tag": "Python 入门", 
+                    "tagLink": "https://api.zhihu.com/topics/19661050"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/23175844", 
+            "userName": "博士爸爸STEM", 
+            "userLink": "https://www.zhihu.com/people/df380ecdb71476fc2302f6446b24312c", 
+            "upvote": 19, 
+            "title": "机器学习如何入门", 
+            "content": "<p>这几年，机器学习绝对是计算机领域最热门的话题和方向。笔者不属于专门研究机器学习，但是平时的工作会经常用到一些相关的算法。因此，对于机器学习也仅仅是入门的水平。<b>但是我想也正是因为我只是一个入门汉，所以能够从我们入门者的角度来总结如何入门，希望对还在门外的同学有一些帮助。</b></p><p><b>                                                             数   学</b></p><p>很多人翻看任何一本机器学习的书，看到一推的数学公式就开始打退堂鼓了。开始搜索，提问“机器学习需要哪些数学知识？”然后得到的结果可能会是“矩阵分析，概率论，优化设计……”而且还会有大量的人推荐一些例如“All of Statistics”，“Convex Optimation”等等外文教材。至少我当时面对的情况就是这样的。这种情况很可能后面会朝以下画风发展。</p><p>看到上述推荐的那些经典教材，你像看待圣经一样看待他们。抱着一种学会了那些课，我再看机器学习的书简直就会是探囊取物的想法，你下载了巨多相关材料。但是，慢慢你会发现，除了把他们下载了下来，你并没有任何的进步。你并没有完完整整的看完一本，你并没有在机器学习方面卓越超群。</p><p>入门阶段真的需要这么多的数学储备吗？未必。</p><p><b>入门阶段我感觉你只要有普通工科专业大一大二那几门基础数学课“线性代数”，“高数”，“概率论与数理统计”就可以让你入门了。</b></p><p>所以，千万别被机器学习中的数学所吓倒而不知道该如何下手。</p><p>只要有上述的几门课的基础，你完全可以看懂很大一部分机器学习算法。</p><p><b>                                                                程序语言</b></p><p>机器学习入门最佳的方法其实就是理论和代码一起学习。一边看相应的理论推导，一边看并且实践经典代码。<b>所以，为了更快入门，我推荐你最好能够懂点</b><b>MATLAB或者是Python语言。</b></p><p>Matlab和Python说实话做高端的机器学习肯定是不推荐的，但是如果你想的是机器学习快速入门，那这两门语言绝对是绝佳选择。 </p><br/><b>       第一步</b><p>有了上述基础后，你可以开始看点机器学习的相关内容了。我看很多人推荐elements of machine learning。我想说，你想让一个基础为零的人去看这本书，真的合适吗？？？</p><p><b>所以，我推荐的是Machine Learning in action，（这里面的完成语言为Python）这是英文版本的。当然如果你觉得英文对你是一个完全过不去的坎，（虽然我建议做技术的人都必须至少要看得懂英文）现在有中文版本，叫“机器学习实践”。</b></p><p>这本书用尽量少的公式把机器学习的基本算法都过了一遍，而且还讲得很清楚，更为重要的是他将公式和代码结合了起来。因此，你的机器学习并没有那么的抽象了，你知道算法里的公式如何的转化为代码。</p><p>所以，第一步，你可以耐着性子将这本书看完。反正我当时，把书中的代码自己敲了一次，虽然代码有的下载，你也可以选择只是把代码看懂完事。但我还是建议，自己敲一次，运行运行，这样你会得到不一样的体会。</p><br/><p><b>      第二步</b></p><p><b>学习Coursera上面Andrew Ng老师的machine learning</b><b>的课程。</b>这门课造福了众多机器学习的入门者，不仅仅是因为课程全面，内容由浅入深。更加重要的是这门课程每次课都有课堂作业，作业不需要你写出来所有的代码，但是关键代码要你写出来，而且还会教你如何调试代码。</p><p>初学者学这门课的时候很可能会买有耐心，又是英文的，又有进度要求，又有作业。没关系，你可以把视频下载下来（很多网盘里都有下载好的视频），然后慢慢的去啃。作业也是，可能你自己不能一口气写出来，没关系，在自己做了大量尝试后，去Github上面下载一些别人写好的代码看一看，找找自己的问题到底出在了哪里。</p><p><b>总之，一定要耐着性子过一遍甚至是几面这个课程。</b></p><br/><p><b>                                                                 第三步</b></p><p>这时候你已经对机器学习很多简单的算法比较清楚了，但是可能还没有一种大的全局观。所以，我建议大家可以看看这两本中文教材。<b>周志华老师的西瓜书《机器学习》和李航老师的《统计学习方法》</b>，这两本书都是作者花了大量心思编写的，也是在中国众多科技书籍中难得的两本佳作。</p><p>英文书籍，<b>可以推荐《</b><b>Patten Recognition and Machine Learning》，《Elements\nof Statistical Learning》</b>(但是这本书难度比较大，如果你有足够的耐心，可以慢慢啃，多次的啃。相信每次都会有不同的收获。我自己已经看了好几次，但是确实每次都没有完全看完，但是目前我遇到很多问题，我去翻这本书，还是能找到很多答案，尤其是我做稀疏相关的工作，里面的相关内容讲解非常清楚。）</p><br/><p><b>                                                                第四步</b></p><p>这时候，机器学习你已经可以说大概入门了。后面的事情，<b>就得根据你的需求来制定相关的学习路线。</b></p><p>比如，做大数据分析的，得去学学spark，Hadoop等计算框架；</p><p>另外，图模型，深度学习……等等内容，都是一些方向。</p><p>自然语言处理、图像识别、语音识别等等也是一些应用方向，更有大量的领域知识需要结合。</p><br/><br/><p>在前沿部分和第一到第三步的内容，如果你能按照这几步走下来，入门是肯定可以的。至于后面的机器学习精通部分，我也只能说：Good Luck and Have Fun</p>", 
+            "topic": [
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_56324009"
+}

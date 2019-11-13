@@ -1,0 +1,2094 @@
+{
+    "title": "魔法师的结界", 
+    "description": "评社会焦点，问人间冷暖", 
+    "followers": [
+        "https://www.zhihu.com/people/mi-wu-wei-cheng-19", 
+        "https://www.zhihu.com/people/leo-29-65-13", 
+        "https://www.zhihu.com/people/zhen-de-40-13", 
+        "https://www.zhihu.com/people/li-yi-ming-91", 
+        "https://www.zhihu.com/people/hu-wei-94-82", 
+        "https://www.zhihu.com/people/li-peng-jiang-14", 
+        "https://www.zhihu.com/people/zhang-meng-58-38", 
+        "https://www.zhihu.com/people/huan-xing-bu-xing-zhe", 
+        "https://www.zhihu.com/people/xiao-xiao-yin-zi-9", 
+        "https://www.zhihu.com/people/shui-mu-feng-guang", 
+        "https://www.zhihu.com/people/an-yan-yao-ming-70", 
+        "https://www.zhihu.com/people/allforone", 
+        "https://www.zhihu.com/people/mankind757", 
+        "https://www.zhihu.com/people/amos-ray", 
+        "https://www.zhihu.com/people/bukuaijia", 
+        "https://www.zhihu.com/people/shu-ke-38-84", 
+        "https://www.zhihu.com/people/Beijing-Spring", 
+        "https://www.zhihu.com/people/idabao-67", 
+        "https://www.zhihu.com/people/mu-si-lou", 
+        "https://www.zhihu.com/people/huang-shi-tao-42", 
+        "https://www.zhihu.com/people/zhang-san-feng-86-48", 
+        "https://www.zhihu.com/people/li-pei-qiang-55", 
+        "https://www.zhihu.com/people/li-yang-92-22-20", 
+        "https://www.zhihu.com/people/ji-xu-shan-31", 
+        "https://www.zhihu.com/people/shaliqi", 
+        "https://www.zhihu.com/people/georgewen", 
+        "https://www.zhihu.com/people/hai-ma-mao-64", 
+        "https://www.zhihu.com/people/wu-jing-qi-zhi-dui", 
+        "https://www.zhihu.com/people/chen-si-hao-74", 
+        "https://www.zhihu.com/people/youngfish42", 
+        "https://www.zhihu.com/people/sue-64-48-8", 
+        "https://www.zhihu.com/people/bai-fan-91-31", 
+        "https://www.zhihu.com/people/up9-96", 
+        "https://www.zhihu.com/people/yiye-xi-feng", 
+        "https://www.zhihu.com/people/Vincent0188126", 
+        "https://www.zhihu.com/people/JiBoKun", 
+        "https://www.zhihu.com/people/zhi-suo-66", 
+        "https://www.zhihu.com/people/zhao-xiao-5", 
+        "https://www.zhihu.com/people/bu-hui-shang-shu-de-a-long", 
+        "https://www.zhihu.com/people/yong-39-47-3", 
+        "https://www.zhihu.com/people/yu-sheng-19-12", 
+        "https://www.zhihu.com/people/di-zhi-yu-qin", 
+        "https://www.zhihu.com/people/xi-xi-18-2", 
+        "https://www.zhihu.com/people/mia-99-66-57", 
+        "https://www.zhihu.com/people/wo-wen-wen-25-20", 
+        "https://www.zhihu.com/people/zhangmou-ren", 
+        "https://www.zhihu.com/people/yan-zhi-wang", 
+        "https://www.zhihu.com/people/jiu-huan-qing-ai", 
+        "https://www.zhihu.com/people/jiu-jiu-46-28-43", 
+        "https://www.zhihu.com/people/xu-yuan-53-37-79", 
+        "https://www.zhihu.com/people/di-liu-tian-mo-wang-49", 
+        "https://www.zhihu.com/people/alan-turing", 
+        "https://www.zhihu.com/people/chen-chen-73-22-53", 
+        "https://www.zhihu.com/people/mu-zi-li-18-90", 
+        "https://www.zhihu.com/people/a-ding-15-33", 
+        "https://www.zhihu.com/people/facethesun", 
+        "https://www.zhihu.com/people/moshi-42-21", 
+        "https://www.zhihu.com/people/huang-yu-wei-77-97", 
+        "https://www.zhihu.com/people/bourgroiszhu-lu", 
+        "https://www.zhihu.com/people/deng-lin-pu", 
+        "https://www.zhihu.com/people/chen-meng-15-72", 
+        "https://www.zhihu.com/people/mao-xian-sheng-87-52", 
+        "https://www.zhihu.com/people/yiguan-zheng-que-2", 
+        "https://www.zhihu.com/people/xiao-sui-17", 
+        "https://www.zhihu.com/people/yi-hai-wei-47", 
+        "https://www.zhihu.com/people/kuai-jing-91", 
+        "https://www.zhihu.com/people/wang-hang-60", 
+        "https://www.zhihu.com/people/gong-yue-19", 
+        "https://www.zhihu.com/people/xu-yun-qiu-38-29", 
+        "https://www.zhihu.com/people/kou-zhao-xiao-xiao-sheng", 
+        "https://www.zhihu.com/people/bao-da-ren-36", 
+        "https://www.zhihu.com/people/wiyjx-94", 
+        "https://www.zhihu.com/people/liu-liu-43-42", 
+        "https://www.zhihu.com/people/yixiu-ge-41-19", 
+        "https://www.zhihu.com/people/hong-shu-77-71", 
+        "https://www.zhihu.com/people/xiao-ru-ru-32-55", 
+        "https://www.zhihu.com/people/jiang-gao-ming-27", 
+        "https://www.zhihu.com/people/li-meng-tian-ya", 
+        "https://www.zhihu.com/people/zhou-rui-28-49", 
+        "https://www.zhihu.com/people/rou-shan-39", 
+        "https://www.zhihu.com/people/ge-cheng-81-16", 
+        "https://www.zhihu.com/people/bao-zi-30-36", 
+        "https://www.zhihu.com/people/zhou-ding-xian", 
+        "https://www.zhihu.com/people/bianliang", 
+        "https://www.zhihu.com/people/liu-zhen-rui-48", 
+        "https://www.zhihu.com/people/chen-si-jian-72", 
+        "https://www.zhihu.com/people/fudawei", 
+        "https://www.zhihu.com/people/yan-da-jin-32", 
+        "https://www.zhihu.com/people/xiao-jun-xing-22", 
+        "https://www.zhihu.com/people/xuan-yang-74-60", 
+        "https://www.zhihu.com/people/yue-xia-xiao-he-49", 
+        "https://www.zhihu.com/people/zhou-hai-yan-76-96", 
+        "https://www.zhihu.com/people/xu-jia-hang-15", 
+        "https://www.zhihu.com/people/qing-ting-fei-lai", 
+        "https://www.zhihu.com/people/zhao-wang-7-97", 
+        "https://www.zhihu.com/people/zhang-han-yi-28", 
+        "https://www.zhihu.com/people/guo-hai-feng-3-28", 
+        "https://www.zhihu.com/people/fanfan-lu", 
+        "https://www.zhihu.com/people/sanyalander", 
+        "https://www.zhihu.com/people/cowseden", 
+        "https://www.zhihu.com/people/zzgaoyan", 
+        "https://www.zhihu.com/people/zyz-3-90", 
+        "https://www.zhihu.com/people/liao-cao-35-56", 
+        "https://www.zhihu.com/people/zhang-kun-51", 
+        "https://www.zhihu.com/people/ccjyy-53", 
+        "https://www.zhihu.com/people/sha-xiao-22-55", 
+        "https://www.zhihu.com/people/guanghuoxiang", 
+        "https://www.zhihu.com/people/yangke-9", 
+        "https://www.zhihu.com/people/wu-zhi-zhe-79-81", 
+        "https://www.zhihu.com/people/zhang-xiao-ze-59-30", 
+        "https://www.zhihu.com/people/zhang-xiao-yi-51-15", 
+        "https://www.zhihu.com/people/zhu-wan-ren", 
+        "https://www.zhihu.com/people/lian-ai-mei-shi-he-lu-xing", 
+        "https://www.zhihu.com/people/hang-zhou-he-li-zhuang-shi-xiao-zheng", 
+        "https://www.zhihu.com/people/yu-qi-miao-qi-qi-miao-miao", 
+        "https://www.zhihu.com/people/feng-mu-86-85", 
+        "https://www.zhihu.com/people/wang-xiao-nao-40-93", 
+        "https://www.zhihu.com/people/bluetomato-4", 
+        "https://www.zhihu.com/people/aaaaaaaaammp", 
+        "https://www.zhihu.com/people/liu-li-ju-55-81", 
+        "https://www.zhihu.com/people/zhuan-ye-zhi-li-jia-quan-tvoc", 
+        "https://www.zhihu.com/people/jhi-89", 
+        "https://www.zhihu.com/people/chen-san-55", 
+        "https://www.zhihu.com/people/trouble-z-53", 
+        "https://www.zhihu.com/people/yi-ban-29-50", 
+        "https://www.zhihu.com/people/wu-mo-xi-lei", 
+        "https://www.zhihu.com/people/lei-ge-60-75", 
+        "https://www.zhihu.com/people/xiao-ya-39-6-46", 
+        "https://www.zhihu.com/people/qu-kuai-lian-lian", 
+        "https://www.zhihu.com/people/tian-ya-lang-zi-111", 
+        "https://www.zhihu.com/people/bei-shu-xx", 
+        "https://www.zhihu.com/people/xie-shu-kun", 
+        "https://www.zhihu.com/people/shui-nian-xi-feng-20", 
+        "https://www.zhihu.com/people/zhao-hong-hao-29", 
+        "https://www.zhihu.com/people/zhi-feng-44-35"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/84814899", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 6, 
+            "title": "最高院判例神仙打架：律师费属于“其他费用”？是否受到年利率24%的限制？", 
+            "content": "<p>近期，最高人民法院先后在中国裁判文书网上公布了两则案例。</p><p>但两则案例对同一法律问题（律师费是否属于“其他费用”？是否受到年利率24%的限制？）的裁判结果不一致。</p><p>2019年6月26日，最高院公布了“石河子市天信典当有限公司、石河子市华泰房地产开发有限责任公司借款合同纠纷再审审查与审判监督民事裁定书”，案号：（2019）最高法民申1938号。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-31309cb0a4df0c51c3b5a9571285f89d_b.jpg\" data-rawwidth=\"865\" data-rawheight=\"574\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"865\" data-original=\"https://pic2.zhimg.com/v2-31309cb0a4df0c51c3b5a9571285f89d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;865&#39; height=&#39;574&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"865\" data-rawheight=\"574\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"865\" data-original=\"https://pic2.zhimg.com/v2-31309cb0a4df0c51c3b5a9571285f89d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-31309cb0a4df0c51c3b5a9571285f89d_b.jpg\"/></figure><p>该案例中，最高院认为：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>《民间借贷司法解释》第三十条规定：“出借人与借款人既约定了逾期利率又约定了违约金或者其他费用,出借人可以选择主张逾期利息约金或者其他费用,也可以一并主张,但总计超过年利率24%的部分,人民法院不予支持。”</p><p>根据该规定,当事人主张的逾期利息、违约金及其他费用等总计超过年利率24%的部分，人民法院将不予支持。</p><p>本案中，案涉《借款合同》约定的借款月综合服务费为1.117%,月利率为0.3%,合计息费率为月1.417%；华泰公司未按合同约定期限还款的,从逾期之日起在约定借款利率基础上上浮50%计收罚息,天信公司有权向华泰公司收取借款金额10%的一次性违约金。华泰公司违约致使贷款人采取诉讼或仲裁方式实现债权的,华泰公司承担天信公司为此支付的诉讼费、律师费、鉴定费等一切实现债权的费用。根据《借款合同》的约定，月息费率1.417%加上逾期还款上浮50%,逾期还款的月利率为2.1255%即已超过年利率24%的法律规定。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6202aac84a79d1baf22906f4e5d95859_b.jpg\" data-rawwidth=\"839\" data-rawheight=\"602\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"839\" data-original=\"https://pic2.zhimg.com/v2-6202aac84a79d1baf22906f4e5d95859_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;839&#39; height=&#39;602&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"839\" data-rawheight=\"602\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"839\" data-original=\"https://pic2.zhimg.com/v2-6202aac84a79d1baf22906f4e5d95859_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6202aac84a79d1baf22906f4e5d95859_b.jpg\"/></figure><p><b>本案二审法院根据前述法律规定和合同约定，对天信公司有关诉讼请求按照法律规定的上限年利率24%予以了支持,对天信公司超过年利率24%的有关违约金、律师费用等主张未予支持，并无不当，本院予以维持。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>按照该判例的要旨：</b></p><p><b>最高院认为，律师费属于“其他费用”，应当受到年利率24%的限制。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>以下划重点。</b></p><p>2019年5月7日，最高院公布了“山东地正实业有限公司、日照国岳热力有限公司民间借贷纠纷再审审查与审判监督民事裁定书”，案号：（2019）最高法民申1085号。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-1ca6e953850e7bba52ba09d47a92c158_b.jpg\" data-rawwidth=\"860\" data-rawheight=\"611\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"860\" data-original=\"https://pic1.zhimg.com/v2-1ca6e953850e7bba52ba09d47a92c158_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;860&#39; height=&#39;611&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"860\" data-rawheight=\"611\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"860\" data-original=\"https://pic1.zhimg.com/v2-1ca6e953850e7bba52ba09d47a92c158_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-1ca6e953850e7bba52ba09d47a92c158_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>案例中，最高院认为：</p><p>《最高人民法院关于审理民间借贷案件适用法律若干问题的规定》第三十条规定，出借人与借款人既约定了逾期利率，又约定了违约金或者其他费用，出借人可以选择主张逾期利息、违约金或者其他费用，也可以一并主张，但总计超过年利率24%的部分，人民法院不予支持。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>上述规定中的逾期利息、违约金或者其他费用应当是关于民间借贷中借用资金成本的相关费用，只有与资金成本紧密相关的相关费用才属于上述规定的范围，并非在借款合同中出现的所有费用都属于上述范围。本案中当事人约定的律师费系出借方为实现其债权而实际支出的成本，当事人明确约定由借款方承担，不属于借款资金费用</b>。故一、二审判决由地正公司承担具有事实与合同依据。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6fdb508672d3f39dc6cf78d52d4b9aed_b.jpg\" data-rawwidth=\"848\" data-rawheight=\"516\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"848\" data-original=\"https://pic2.zhimg.com/v2-6fdb508672d3f39dc6cf78d52d4b9aed_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;848&#39; height=&#39;516&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"848\" data-rawheight=\"516\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"848\" data-original=\"https://pic2.zhimg.com/v2-6fdb508672d3f39dc6cf78d52d4b9aed_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6fdb508672d3f39dc6cf78d52d4b9aed_b.jpg\"/></figure><p><b>按照该判例的要旨：</b></p><p><b>最高院认为，律师费不属于“其他费用”，无需受到年利率24%的限制。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-fb0b232b921ac926e298589fec934cbb_b.jpg\" data-rawwidth=\"1203\" data-rawheight=\"471\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1203\" data-original=\"https://pic4.zhimg.com/v2-fb0b232b921ac926e298589fec934cbb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1203&#39; height=&#39;471&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1203\" data-rawheight=\"471\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1203\" data-original=\"https://pic4.zhimg.com/v2-fb0b232b921ac926e298589fec934cbb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-fb0b232b921ac926e298589fec934cbb_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-7af73cf345ba8f121b391f4baf01f979_b.jpg\" data-rawwidth=\"440\" data-rawheight=\"440\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"440\" data-original=\"https://pic2.zhimg.com/v2-7af73cf345ba8f121b391f4baf01f979_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;440&#39; height=&#39;440&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"440\" data-rawheight=\"440\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"440\" data-original=\"https://pic2.zhimg.com/v2-7af73cf345ba8f121b391f4baf01f979_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-7af73cf345ba8f121b391f4baf01f979_b.jpg\"/></figure><p>无论是作为一个律师，还是作为一名法院的法官，看到这样的案例，特别是看到最高院公布的裁判观点大不一样的，感觉真的很崩溃。</p><p>虽然中国不是判例法国家，法官有权根据自己对法律的理解，在法律赋予的自由裁量空间内进行裁判。</p><p>但是，这样的裁判将导致公民对自己的行为、合同如何约定都不具有可预测性，无法有效指导公民从事法律行为。更严重的是，同案不同判将损害司法的权威性和公信力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>希望最高院能够对上述问题早日定调，出台一个清晰的裁判指引。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>以上。</p><p></p><p></p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>期待最高法后续更新</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "想起了化学老师<a href=\"https://pic1.zhimg.com/v2-a1bdb271107f15cd113fd63ad0e8fdd8_qhd.png\" class=\"comment_img\" data-width=\"1579\" data-height=\"648\">查看图片</a>", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/84700833", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 335, 
+            "title": "河北法官在家写判决身亡，人社局:不是工伤，法院：撤销后重作决定！", 
+            "content": "<p>原文链接，欢迎转发：</p><a href=\"https://link.zhihu.com/?target=https%3A//mp.weixin.qq.com/s/Et9gIO2Nv5jLW2LIKJmpIA\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-8948479cf5a7933c8678b6e7c2695178_180x120.jpg\" data-image-width=\"350\" data-image-height=\"149\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">河北法官在家写判决身亡，人社局:不是工伤，法院：撤销后重作决定！</a><p>一、</p><p>2019年9月23日，一则“法官在家写判决身亡”的新闻，冲上了微博热搜榜。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-00d5995c29dc036292900724f7121386_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"747\" data-rawheight=\"206\" class=\"origin_image zh-lightbox-thumb\" width=\"747\" data-original=\"https://pic3.zhimg.com/v2-00d5995c29dc036292900724f7121386_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;747&#39; height=&#39;206&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"747\" data-rawheight=\"206\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"747\" data-original=\"https://pic3.zhimg.com/v2-00d5995c29dc036292900724f7121386_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-00d5995c29dc036292900724f7121386_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>网友们纷纷热议：</p><p>这到底是是不是工伤？</p><p>在家加班猝死到底算不算工伤？</p><p>为什么人社局和法院的意见不一样？</p><p>法官的工伤认定都这么难了，更别说普通老百姓了！</p><p>幸亏是法院的法官……</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a5cb4e7c74255e8cbe70562f1872a819_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"596\" data-rawheight=\"555\" class=\"origin_image zh-lightbox-thumb\" width=\"596\" data-original=\"https://pic2.zhimg.com/v2-a5cb4e7c74255e8cbe70562f1872a819_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;596&#39; height=&#39;555&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"596\" data-rawheight=\"555\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"596\" data-original=\"https://pic2.zhimg.com/v2-a5cb4e7c74255e8cbe70562f1872a819_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a5cb4e7c74255e8cbe70562f1872a819_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3182e11a44268dd4535cc1631454cbbd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"592\" data-rawheight=\"559\" class=\"origin_image zh-lightbox-thumb\" width=\"592\" data-original=\"https://pic2.zhimg.com/v2-3182e11a44268dd4535cc1631454cbbd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;592&#39; height=&#39;559&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"592\" data-rawheight=\"559\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"592\" data-original=\"https://pic2.zhimg.com/v2-3182e11a44268dd4535cc1631454cbbd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-3182e11a44268dd4535cc1631454cbbd_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>根据新闻报道和裁判文书网公布的情况：</p><p>去世的法官，叫杨文峰，生前是三河市人民法院法官。</p><p>2017年8月12日7时左右，杨文峰在家中突发疾病。后经河北省三河市医院抢救无效，不幸于当日死亡。</p><p>2018年6月12日，杨文峰的妻子雷新宇向上诉人廊坊市人力资源和社会保障提出杨文峰的工伤认定申请。</p><p>按照常理，法官家属申请法官的工伤认定，应该挺容易的吧，还不是小菜一碟。</p><p>可是，谁也没有料到，工伤认定的进展并不如人意，可谓一波三折。</p><p>2018年7月2日，廊坊市人力资源和社会保障局受理申请。</p><p>2018年8月15日，廊坊市人力资源和社会保障局不予认定工伤决定书，该决定书认定：<b>杨文峰同志受到的伤害，不符合《工伤保险条例》第十四条、第十五条认定工伤或者视同工伤的情形，决定不予认定或者视同工伤。</b></p><p><b>人社局的理由是：</b></p><p><b>杨文峰发病是否发生在加班工作期间缺乏相关证据证明、难以确定客观事实；</b></p><h3><b>杨文峰晕倒地点是在家中厕所，不是在工作岗位发病。</b>（划重点）</h3><p>是的，普通人申请工伤认定的剧情大抵都是这样的。</p><p>连法官避免不了这种“不予认定工伤”的尴尬结局。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>二、</p><p>在家加班，不算工伤，死了也白死？看到这样的行政决定，谁都会不服气。</p><p>雷新宇提出行政诉讼要求：撤销廊坊市人社局作出的不予认定工伤决定书，责令其依法重新作出行政行为。</p><p><b>官司打到了河北省廊坊市广阳区人民法院。</b></p><p>法院通过调查，发现：事发前一天杨文峰将工作案卷带回家中，事发当天杨文峰突发疾病时，电脑桌上摆放着散开的案卷材料，电脑里存着尚未写完的判决。</p><p>能否认定杨文峰属于工伤，关键是看其发病是否发生在“在家加班工作期间”。</p><p>关于这一点，人社局认为现有证据无法证明杨文峰系在加班工作时发病；原告主张杨文峰事发前一天晚上加班至凌晨，次日早晨6时许继续加班，并在加班期间突发疾病；而本案证据证明杨文峰发病时电脑桌上摆放着散开的案卷材料。</p><p>综合以上事实，在杨文峰发病是否发生在加班工作期间缺乏相关证据证明、难以确定客观事实的情况下，人社局直接作出否定性的事实认定，缺乏事实根据，有悖《工伤保险条例》保护职工合法权益的原则和立法精神；<b>被告以杨文峰晕倒地点是在家中厕所为由主张不是在工作岗位发病，亦明显不能成立。</b></p><p><b>法院着重强调了这一点：</b></p><p>根据《工伤保险条例》第十五条第一款第一项规定，职工在工作时间和工作岗位，突发疾病死亡或者在48小时之内经抢救无效死亡的，视同工伤。该条规定中的“工作岗位”强调更多的不是工作处所和位置，而是岗位职责、工作任务。<b>职工为了单位的利益，在家加班工作期间，理应属于上述“工作时间和工作岗位”；同样，为了单位的利益，将工作带回家，占用个人时间继续工作，期间突发疾病死亡的，其权利理应受到保护。</b></p><p><b>故人社局作出的不予认定工伤决定主要证据不足，依法应予撤销。一审法院</b>依照《中华人民共和国行政诉讼法》第七十条第一项之规定，判决:</p><p><b>撤销被告廊坊市人力资源和社会保障局于2018年8月15日作出的不予认定工伤决定书；责令被告依法重新作出行政行为。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>三、<br/></p><p>看到这份判决，大家可能都舒了口气。</p><p>死者家属稳赢，工伤死亡认定妥妥的，终于可以申请工伤死亡待遇了。</p><p>可是，这回轮到廊坊市人力资源和社会保障局不服气了。</p><p>一旦上诉，一审判决就没有生效，案子还得继续二审。</p><p>廊坊市人力资源和社会保障局不服一审判决，向河北省廊坊市中级人民法院提起上诉。请求撤销一审判决，依法维持人社局作出的不予认定工伤决定书。</p><p>且看看人社局上诉的理由：</p><p>人社局认为其作出的不予认定工伤决定书事实清楚、证据确凿；</p><p>法官妻子与三河市人民法院提交的证据不能充分证明杨文峰在家中突发疾病时处于工作状态。</p><p><b>还是那个理由，在家加班死亡，想要认定工伤死亡，死也得死对地方。</b></p><p>一众吃瓜群众：……</p><p>受害人家属：……<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>四、<br/></p><p>到了廊坊市中级人民法院，法院查明：</p><p>2018年8月11日（事发前一天）杨文峰下班时将工作案卷带回家。2018年8月12日杨文峰突发疾病时，其电脑桌上摆放着散开的案卷材料。三河市人民法院及有关工作人员证明，杨文峰作为员额法官，工作量较大，经常出现回家加班的情况。</p><p>二审法院认为，根据《工伤保险条例》第十五条第一款第一项规定，职工在工作时间和工作岗位，突发疾病死亡或者在48小时之内经抢救无效死亡的，视同工伤。</p><p><b>从一审庭审查明的事实可以看出，事发前一天杨文峰将工作案卷带回家中，事发当天杨文峰突发疾病时，电脑桌上摆放着散开的案卷材料，电脑里存着尚未写完的判决。对于杨文峰在家中完成工作任务时突发疾病，送医院抢救无效死亡，能否认定杨文峰属于视同工伤，应充分考虑其工作量及工作难度等诸多因素。</b></p><p><b>上诉人在难以确定客观事实的情况下，直接作出否定性的事实认定，缺乏事实根据，有悖《工伤保险条例》保护职工合法权益的原则和立法精神；故上诉人作出的不予认定工伤决定主要证据不足，依法应予撤销。</b></p><p>二审法院果断判决：<b>驳回人社局上诉，维持一审的原判。</b></p><p>历经各种波折，案子终于有了满意的结果。</p><p>可是这个案件算啥？看看海南的老百姓维权案例，你就知道认定工伤死亡有多么难！</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ace0e74ee39cac1af8c89921f5da70db_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"322\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;322&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"322\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic4.zhimg.com/v2-ace0e74ee39cac1af8c89921f5da70db_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>五、</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2011年11月15日晚，海口市琼山中学教师冯芳弟对两个班级进行测验考试。考试结束后，冯芳弟回到家中。</p><p>次日早上七点左右，同校老师在冯芳弟家中发现其身体异常状况，立刻拨打海口市120急救中心电话，琼山人民医院到场进行抢救，冯芳弟因抢救无效不幸死亡。</p><p>2011年12月15日，琼山中学以冯芳弟因长期工作劳累过度，在工作时间、工作岗位中突发心肌梗塞死亡为由，向海口市人社局提出申请，要求认定冯芳弟为工伤死亡。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>光看看下面这个时间线就知道，这个案件中的工伤认定有多么曲折、复杂：</b></p><p>海口市人社局在受理琼山中学认定冯芳弟为工伤的申请中，于2012年5月23日作出海人社工伤认字（2012）第223号《工伤认定决定书》，<b>对冯芳弟因病死亡不认定为工伤。</b></p><p>冯芳弟的妻子俞俊杰不服，申请复议。</p><p>海南省人社厅作出琼人社复决（2012）2号《行政复议决定书》<b>，维持海口市人社局223号工伤决定。</b></p><p><b>俞俊杰不服，提起行政诉讼。</b></p><p>海口市秀英区人民法院判决驳回俞俊杰的诉讼请求。</p><p><b>俞俊杰不服并提起上诉</b>。</p><p>海口市中级人民法院于2013年5月8日作出（2013）海中法行终字第47号行政判决，以223号工伤决定认定事实不清为由，<b>判决：撤销一审判决，撤销223号工伤决定，责令海口市人社局重新作出行政行为。</b></p><p>海口市人社局不服并申请再审。</p><p>海口市中级人民法院于2013年8月16日作出（2013）海中法行监字第28号《驳回再审申请通知书》<b>，驳回其再审申请。</b></p><p><b>海口市人社局仍不服，继续申诉。</b></p><p>海南省高级人民法院于2014年２月14日作出（2013）琼行监字第69号《驳回再审申请通知书》<b>，驳回其申请。</b></p><p>2015年1月17日，海口市人社局重新作出海人社工伤认定字（2012）223-1号《不予认定工伤决定书》（以下简称223-1号工伤决定），223-1号工伤决定据此认为，晚上进行考试不是学校安排的活动，学校也没有要求老师当天必须批改完作业或试卷的规定，<b>冯芳弟发病不是工作时间，也不在工作岗位上，不符合《工伤保险条例》第十四、十五条认定工伤或视为工伤的情形，决定不认定为工伤或视为工伤。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>看清楚了吗，这是第二次、内容重复的决定。</b><br/></p><p>从2012年5月到2015年1月两年半的长时间拉锯战，并没有磨灭掉工亡家属维权的勇气。</p><p>俞俊杰这次真和社保局“杠上”了，而且还是正面硬刚到底。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>六、</p><p class=\"ztext-empty-paragraph\"><br/></p><p>俞俊杰不服上述决定并申请复议，海南省人社厅于2016年4月15日作出琼人社复决（2016）１号行政复议决定（以下简称1号复议决定），<b>维持223-1号工伤决定。</b></p><p><b>俞俊杰仍不服，</b>于2016年5月16日向海口市中级人民法院提起本案行政诉讼，请求撤销223-1号工伤决定和1号复议决定，<b>认定冯芳弟属于工伤。</b></p><p>海口市中级人民法院（2016）琼01行初180号行政判决认为，223-1号工伤决定认定“冯芳弟发病时已上床休息”。但琼山人民医院《院前急救记录交接单》上记载抢救情况是，到达时死亡，《居民死亡医学证明书》上对冯芳弟发病到死亡的大概时间间隔一栏上记载为“不详”，海口市人社局仅凭冯芳弟同事到家中看见冯芳弟卧于床上，认定冯芳弟发病时已上床休息，明显证据不足。海口市人社局未提交琼山中学的相关规章制度，仅以琼山中学校长调查陈述认定“学校规定，不得利用晚修时间上课或考试”，冯芳弟晚上安排测试，不是工作时间，事实认定依据不足。海口市人社局对冯芳弟连夜工作与突发疾病是否存在因果关系，是否因长时间工作劳累造成心肌梗塞死亡等问题均未予认定，作出223-1号工伤决定，认定部分事实不清，证据不充分。<b>依照《中华人民共和国行政诉讼法》规定，判决撤销工伤决定和复议决定，责令海口市人社局重新作出工伤认定。</b></p><p>海口市人社局不服，提起上诉。</p><p>海南省高级人民法院（2017）琼行终82号行政判决驳回上诉，维持原判。</p><p>拿到省高院终审裁判结果时，算起来距离工伤申请日（2011年12月15日）已经足足有五年了。</p><p>虽然判决生效了，很遗憾地告诉你：</p><p><b>海口市人社局又又又又双叒叕申请再审了……</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>七、</p><p>2017年8月16日，这个案件终于打到了最高院。</p><p>这是一个至关重要的大决战，案件的最终结果关系到生效的判决是否会被推翻，工伤死亡待遇能否拿到。</p><p>最高院认为：在职工发病和死亡是否发生在工作时间、工作岗位上缺乏相关证据证明、难以确定的情况下，根据工伤认定倾向性保护职工合法权益的原则，应当作出有利于职工的肯定性事实推定，而非否定性的事实认定。<b>因此，一、二审判决以事实不清、主要证据不足为由，撤销223-1号工伤决定，判决理由和结果均无不当。海口市人社局申请再审的理由，均是建立在不认可在家加班工作期间应当认定为“工作时间、工作岗位”这一前提之下，其主张与工伤认定的立法精神不符，缺乏事实根据，最高院不予支持。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>最终，最高院在2017年11月29日驳回海南省海口市人力资源和社会保障局的再审申请。</b>针对上述案件，最高院的说理非常清晰：</p><p>《工伤保险条例》第十五条第一款第（一）项规定，职工在工作时间和工作岗位，突发疾病死亡或者在48小时之内经抢救无效死亡的，视同工伤。</p><p>该项规定视同工伤包括两种情形：一是在工作时间、工作岗位上，突发疾病死亡；二是在工作时间、工作岗位上，突发疾病，48小时内经抢救无效死亡。</p><p><b>无论是经抢救无效死亡，还是未经抢救死亡，视为工伤的关键都在于，必须是在“工作时间和工作岗位”上突发疾病死亡。</b></p><p>通常理解，“工作时间和工作岗位”应当是指单位规定的上班时间和上班地点。同时，我们认为，职工为了单位的利益，在家加班工作期间，也应当属于“工作时间和工作岗位”。主要理由是：</p><p>第一，<b>在单位规定的工作时间和地点突发疾病死亡视为工伤，为了单位的利益，将工作带回家，占用个人时间继续工作，期间突发疾病死亡，其权利更应当受到保护，只有这样理解，才符合倾斜保护职工权利的工伤认定立法目的。</b></p><p>第二，<b>职工在家加班工作，就是为了完成岗位职责，当然应当属于第十五条规定的“工作时间和工作岗位”。</b></p><p>第三，视为工伤是法律规范对工伤认定的扩大保护，的确不宜将其范围再进一步做扩大理解。<b>但是，应当注意的是，第十五条将“工作场所”替换为“工作岗位”，本身就是法律规范对工作地点范围的进一步拓展，将“工作岗位”理解为包括在家加班工作，是对法律条文正常理解，不是扩大解释。</b></p><p>本案中，冯芳弟被发现时已经没有呼吸和心跳，属于深夜在家发病，无人发现、未经抢救死亡的情形，不属于经抢救无效48小时内死亡的情形。虽然冯芳弟在家中死亡，但从本案查明的事实可以看出，冯芳弟在被发现死亡的前一天晚10时许，组织学生晚修测验回家，连夜评完两个班学生的数学试卷，并进行试卷分析。显然是为学校的利益，在回家后利用个人休息时间，加班从事教学岗位职责工作，属于“在家加班工作”的情形。</p><p>是否能够认定冯芳弟属于工伤，关键是看其发病、死亡是否发生在“在家加班工作期间”。冯芳弟的《居民死亡医学证明书》对其发病至死亡的时间认定为“不详”，这就造成冯芳弟的发病时间究竟是在加班工作期间，还是在已上床睡觉期间难以判断。223-1号工伤决定根据冯芳弟的同事第二天一早发现趴卧床上的陈述，认定“冯芳弟发病时已上床休息”。正如一、二审所述，这一认定显然是缺乏充分证据予以支持的。趴卧床上，有可能是在发病后，身体不适倒卧床上，并非一定是上床睡觉后发病死亡。</p><p>在职工发病和死亡是否发生在工作时间、工作岗位上缺乏相关证据证明、难以确定的情况下，根据工伤认定倾向性保护职工合法权益的原则，应当作出有利于职工的肯定性事实推定，而非否定性的事实认定。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>八、<br/></p><p>职工工伤认定为什么这么难，连法官都无法避免，其中原因大概有以下几点：</p><p>1、时间上拖死你：</p><p>工伤认定的程序时限，法律虽有所规定，但往往会出现：人社局收到申请材料后不出回执、延期受理的情况。甚至偷偷给你送一份信访意见书，让你无所适从。</p><p>2、原地转圈一般的维权：</p><p>受害者及其家属很可能会陷入“不予工伤认定—撤销重做—不予工伤认定—撤销重做”的死循环。</p><p>人社局的“多次不予认定”，让人费解。</p><p>普通老百姓，凭借什么，又如何对抗人社局、人社厅这种庞大的国家机器？<br/></p><p>3、人社局的决定被法院撤销，说明人社局的工伤认定标准未与法院的裁判标准统一。</p><p>问题的症结在于工伤死亡的标准不够明确具体，在上述标准不够明确具体的情况下，人社局还继续机械化地适用法律规定。</p><p><b>工伤应按照有利于职工的原则进行认定。</b></p><p><b>在法律规定存在模糊地带的时候，老百姓是无辜的，他们不能成为法律“模糊地带”的牺牲品。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>最后，祝愿河北法官和海南老师的家属能够顺利申请到工伤死亡待遇。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>​</p>", 
+            "topic": [
+                {
+                    "tag": "法律", 
+                    "tagLink": "https://api.zhihu.com/topics/19550874"
+                }, 
+                {
+                    "tag": "法律常识", 
+                    "tagLink": "https://api.zhihu.com/topics/19645023"
+                }, 
+                {
+                    "tag": "劳动法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553426"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "非常感谢这样的科普!", 
+                    "likes": 16, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "成梁云端", 
+                    "userLink": "https://www.zhihu.com/people/d1e970346d943264de7d410638895b1e", 
+                    "content": "作为一名工伤认定从业人员，只能说，上述案例都是已经缴纳工伤保险的劳动者，也就是一旦认定工伤，并不需要人社部门出一分钱，而是由工伤基金报销费用。那么，我们为什么不能成人之美呢，因为我们要为国家负责，工伤基金是由千千万万名劳动者缴纳汇聚而成，我们理应从严审核。<br>下面说说具体的，诸位有看过工伤保险条例吗，国务院印发的，十四条、十五条很短，但是实际情况却很复杂，所以遇到特殊情况，只能保守。<br>说个近期遇到的案件吧，工伤职工受伤当天在本地医院拍的片子显示只有一根肋骨骨折，但是半个月后又去了外地医院拍了片子，显示八根肋骨骨折，本地医院拒绝对第一张片子作出解释，我们工伤部门真的很为难，断一根跟断八根，在赔偿方面不是一个概念。<br>最终，我们认了八根肋骨骨折，站在了劳动者一方，单位没有缴纳工伤保险，需要自身承担赔偿，单位只认可一根肋骨骨折。目测，单位很快就会提起行政复议或者行政诉讼，我们会应对的。", 
+                    "likes": 66, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "sunflowerzhong", 
+                    "userLink": "https://www.zhihu.com/people/9fad5cd14456f195841f78490973dda0", 
+                    "content": "本案错的不是人社局，而是法律。法官在家中加班，很难证明其是加班，那些文件或者现场存在伪造现场的可能。", 
+                    "likes": 12, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "山海皆可平", 
+                    "userLink": "https://www.zhihu.com/people/6e63ca285785182ab4cc27ec5e7055be", 
+                    "content": "所以一码归一码，他把工作带回家不合法，但是不影响他家人要求工伤的合法权益。", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "无力回天", 
+                    "userLink": "https://www.zhihu.com/people/40d79ad7b439da2a3e07a30f246fa94c", 
+                    "content": "法律在执法者中滥用的典范！我系统在家死亡的多了，不管是否是加班原因根本认定不了工伤。就是在工作岗位去世的认定工伤的也少！", 
+                    "likes": 5, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "非常感谢这样的科普!", 
+                    "likes": 16, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "谢谢支持。", 
+                            "likes": 3, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "徐晨", 
+                    "userLink": "https://www.zhihu.com/people/4357a392ce01509d451c5e6aa267d728", 
+                    "content": "主播主观倾向太明显", 
+                    "likes": 7, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>这里面没有主播</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "徐晨"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "同感！", 
+                            "likes": 0, 
+                            "replyToAuthor": "徐晨"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "我的妈呀，海南这个案例时间太长了吧", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "当事人选择的路径不对，应直接提起行政诉讼，不要复议。", 
+                            "likes": 4, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>行政诉讼判决撤销重做，还是判断不属于工伤，就这么无限循环下去什么时候是个头呢？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "工伤应按照有利于职工的原则进行认定。也许没错，但法律没明确的时候，应该依据立法法等法律，对原有法律法规进行修改，而不是自己造一个规则进行解释。", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "[调皮]", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "长安执金吾", 
+                            "userLink": "https://www.zhihu.com/people/5775853537d0d92f70cbe8608e750d3e", 
+                            "content": "哪里造规则了？各种法律原则和法律解释方法，并不是都要一一写在法条里。", 
+                            "likes": 4, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "肉肉", 
+                    "userLink": "https://www.zhihu.com/people/5fa86ba6e95137f0d7cdbdefacf454fa", 
+                    "content": "<p>最后两家是否都得到工伤认定了吗？有没有人知道？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>还不知道，第一个新闻是最近曝光的，按照社保局的作风，重新作出一个工伤认定，同样需要挺久时间的。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "肉肉"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "xiaoxi guan", 
+                    "userLink": "https://www.zhihu.com/people/7a78dbaf8ca48303c2c86b0382b3512e", 
+                    "content": "<p>我不能理解的是，同样都是作为职工而存在，人社局作出这些认定的人脑袋是不是有病？要是自己遇到这些事情了他又怎么办呢？</p>", 
+                    "likes": 8, 
+                    "childComments": [
+                        {
+                            "userName": "友人A", 
+                            "userLink": "https://www.zhihu.com/people/39b81ea56a26967fed89468112dc4b52", 
+                            "content": "工伤基金是我们每个人交的，从严审核对他们自己有啥好处，还不是为了防止某些人诈赔，要是谁去申请都轻松过，每月工资怕是还得少一大截", 
+                            "likes": 3, 
+                            "replyToAuthor": "xiaoxi guan"
+                        }, 
+                        {
+                            "userName": "xiaoxi guan", 
+                            "userLink": "https://www.zhihu.com/people/7a78dbaf8ca48303c2c86b0382b3512e", 
+                            "content": "<p>从严审核没问题，但严到对抗法庭判决就有问题了，正常的权益都被妨碍，这种从严估计就只能解读成私利行为了</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "友人A"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "quan li", 
+                    "userLink": "https://www.zhihu.com/people/b7cfd1c16962cd5460a5953c5b5d7734", 
+                    "content": "<p>人社局到底图啥？难道每拒绝一个他们就有1千亿可以分？</p>", 
+                    "likes": 5, 
+                    "childComments": [
+                        {
+                            "userName": "莫问君", 
+                            "userLink": "https://www.zhihu.com/people/5bcec72bda5c8c6cecb8f95157ad06d3", 
+                            "content": "因为怕被问责。这种模棱两可得案例，是上级检查，审计的重点，一旦被上级认定不是工伤，得处理一批人。", 
+                            "likes": 11, 
+                            "replyToAuthor": "quan li"
+                        }, 
+                        {
+                            "userName": "v又见炊烟加班干活", 
+                            "userLink": "https://www.zhihu.com/people/3c740e4f2d3c574099a7a52aa6d54770", 
+                            "content": "抓得很严的，太松的话你想象不到为了钱有些人会做出什么事情", 
+                            "likes": 9, 
+                            "replyToAuthor": "quan li"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "幻十郎", 
+                    "userLink": "https://www.zhihu.com/people/500267216ce73ba700be329a44b14393", 
+                    "content": "<p>这样的判例实质上起了很坏的示范作用，如果以后有任何人在家中死亡，但有手头未完成的工作，是否都能认定为工伤？</p>", 
+                    "likes": 20, 
+                    "childComments": [
+                        {
+                            "userName": "Xi Yang", 
+                            "userLink": "https://www.zhihu.com/people/c08234d11797acf6dfb365c5cb690975", 
+                            "content": "为什么不可以？", 
+                            "likes": 6, 
+                            "replyToAuthor": "幻十郎"
+                        }, 
+                        {
+                            "userName": "幻十郎", 
+                            "userLink": "https://www.zhihu.com/people/500267216ce73ba700be329a44b14393", 
+                            "content": "<p>那唯一结果就是就业的条件更加严厉，失业人群进一步加大。</p>", 
+                            "likes": 6, 
+                            "replyToAuthor": "Xi Yang"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "行知", 
+                    "userLink": "https://www.zhihu.com/people/dc328ecb954f03a98c9225a88f2eb23e", 
+                    "content": "少见终审判决败诉，还能坚持不改自己行政行为的单位。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "确实。还是省高院的裁判。", 
+                            "likes": 2, 
+                            "replyToAuthor": "行知"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "西北偏北.dll", 
+                    "userLink": "https://www.zhihu.com/people/6becc5e09c86eadf8e41daa801ca112f", 
+                    "content": "人社局的这种做法，就是让大家别把工作带到家里，加班也要在单位加班，分清工作和生活。工作是单位的，命是自己的[捂脸]", 
+                    "likes": 16, 
+                    "childComments": [
+                        {
+                            "userName": "屋外天魔", 
+                            "userLink": "https://www.zhihu.com/people/7c260d369c55485f2b16421e43ce9875", 
+                            "content": "就你说的好", 
+                            "likes": 0, 
+                            "replyToAuthor": "西北偏北.dll"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Xi Yang", 
+                    "userLink": "https://www.zhihu.com/people/c08234d11797acf6dfb365c5cb690975", 
+                    "content": "感觉很奇怪啊，人社局这么硬钢，它有什么好处？", 
+                    "likes": 4, 
+                    "childComments": [
+                        {
+                            "userName": "Cosmia Fu", 
+                            "userLink": "https://www.zhihu.com/people/2da8952c331ee7efb667581fa37185cc", 
+                            "content": "<p>同样不理解，为啥这么拼啊</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Xi Yang"
+                        }, 
+                        {
+                            "userName": "天道酬勤", 
+                            "userLink": "https://www.zhihu.com/people/940ffe3292700903725a7355a66a1b5d", 
+                            "content": "民政系统即使知道自己输会也上诉，然后申请再审，就这样拖着你，让你费很大劲才能维护到自身权益。<br>目的是什么呢？个人认为，上边案例是死掉了，所以家属才会硬刚到底不放弃，如果只是轻伤呢，在家加班摔了一跤，腿断了，这个要是轻易给你认定工伤，那民政局就有的忙了，有些心怀叵测的人也会把不是工伤的伤伪装成工伤，有太多漏洞可钻，他们敢放开这个口子么<br>譬如我在踢球，腿断了，去什么医院，赶紧回家，然后在把工作用的东西摆上，电脑打开，回头再打急救，报工伤就说在家加班，去倒水摔了，这个要怎么界定呢<br>个人一点愚见", 
+                            "likes": 19, 
+                            "replyToAuthor": "Xi Yang"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "行走的绿豆糕", 
+                    "userLink": "https://www.zhihu.com/people/20b9dd81df822bf323c85f183b51eff1", 
+                    "content": "以后soho的企业只会越来越多 难道出了事还要自己担着了？", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "成梁云端", 
+                    "userLink": "https://www.zhihu.com/people/d1e970346d943264de7d410638895b1e", 
+                    "content": "作为一名工伤认定从业人员，只能说，上述案例都是已经缴纳工伤保险的劳动者，也就是一旦认定工伤，并不需要人社部门出一分钱，而是由工伤基金报销费用。那么，我们为什么不能成人之美呢，因为我们要为国家负责，工伤基金是由千千万万名劳动者缴纳汇聚而成，我们理应从严审核。<br>下面说说具体的，诸位有看过工伤保险条例吗，国务院印发的，十四条、十五条很短，但是实际情况却很复杂，所以遇到特殊情况，只能保守。<br>说个近期遇到的案件吧，工伤职工受伤当天在本地医院拍的片子显示只有一根肋骨骨折，但是半个月后又去了外地医院拍了片子，显示八根肋骨骨折，本地医院拒绝对第一张片子作出解释，我们工伤部门真的很为难，断一根跟断八根，在赔偿方面不是一个概念。<br>最终，我们认了八根肋骨骨折，站在了劳动者一方，单位没有缴纳工伤保险，需要自身承担赔偿，单位只认可一根肋骨骨折。目测，单位很快就会提起行政复议或者行政诉讼，我们会应对的。", 
+                    "likes": 66, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "这个问题，和行政行为的特殊性有关：一方面，行政行为需要有法可依，无法明文规定则不为。另一方面，法律是滞后的，新的社会问题出现了，处理时没有法律依据。<br>人社局可以无视最高院判例，作出不予认定工伤之决定。当事人只有去起诉了，人社局才会按照法院判决来执行。", 
+                            "likes": 8, 
+                            "replyToAuthor": "成梁云端"
+                        }, 
+                        {
+                            "userName": "威力无边", 
+                            "userLink": "https://www.zhihu.com/people/ed48d7758a12af55562614f99fa708b1", 
+                            "content": "不光是应付吧，你们是处理工伤相关的部门，用人单位没有缴纳相应的保险，那么可以肯定他们很不愿意按更高赔偿支付。那么你们作为主管部门，是否可以在中间协调，为双方出具具有法律意义的调解书或赔偿协议。这样避免诉累，让伤者更快的得到救治，也保护了弱势群体。也让用人单位可以尽快的按照协商内容，积极处理，不拖沓。", 
+                            "likes": 2, 
+                            "replyToAuthor": "成梁云端"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "让您贱笑了", 
+                    "userLink": "https://www.zhihu.com/people/08f91645574bd33612af075fd6bc7606", 
+                    "content": "记得还有一个案例，一个麻醉师在手术台上突发脑出血送去ICU抢救。很快最终脑死亡，靠呼吸机维持呼吸心跳，家属不忍心撤机死亡，最终死亡时间超过了48小时，因为这个被拒绝认定工伤。", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "一塌湖涂", 
+                            "userLink": "https://www.zhihu.com/people/9cd75a43e4110b3b8a644e7e79e31cea", 
+                            "content": "工伤肯定是工伤，只是不是因工伤死亡。", 
+                            "likes": 0, 
+                            "replyToAuthor": "让您贱笑了"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "莫问君", 
+                    "userLink": "https://www.zhihu.com/people/5bcec72bda5c8c6cecb8f95157ad06d3", 
+                    "content": "顺便说一句，人社局的同志们自己的工伤到现在还没交起来。他们自己发生工伤也无法申请工伤。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "非常感谢这样的科普!", 
+                    "likes": 16, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "成梁云端", 
+                    "userLink": "https://www.zhihu.com/people/d1e970346d943264de7d410638895b1e", 
+                    "content": "作为一名工伤认定从业人员，只能说，上述案例都是已经缴纳工伤保险的劳动者，也就是一旦认定工伤，并不需要人社部门出一分钱，而是由工伤基金报销费用。那么，我们为什么不能成人之美呢，因为我们要为国家负责，工伤基金是由千千万万名劳动者缴纳汇聚而成，我们理应从严审核。<br>下面说说具体的，诸位有看过工伤保险条例吗，国务院印发的，十四条、十五条很短，但是实际情况却很复杂，所以遇到特殊情况，只能保守。<br>说个近期遇到的案件吧，工伤职工受伤当天在本地医院拍的片子显示只有一根肋骨骨折，但是半个月后又去了外地医院拍了片子，显示八根肋骨骨折，本地医院拒绝对第一张片子作出解释，我们工伤部门真的很为难，断一根跟断八根，在赔偿方面不是一个概念。<br>最终，我们认了八根肋骨骨折，站在了劳动者一方，单位没有缴纳工伤保险，需要自身承担赔偿，单位只认可一根肋骨骨折。目测，单位很快就会提起行政复议或者行政诉讼，我们会应对的。", 
+                    "likes": 66, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "sunflowerzhong", 
+                    "userLink": "https://www.zhihu.com/people/9fad5cd14456f195841f78490973dda0", 
+                    "content": "本案错的不是人社局，而是法律。法官在家中加班，很难证明其是加班，那些文件或者现场存在伪造现场的可能。", 
+                    "likes": 12, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "山海皆可平", 
+                    "userLink": "https://www.zhihu.com/people/6e63ca285785182ab4cc27ec5e7055be", 
+                    "content": "所以一码归一码，他把工作带回家不合法，但是不影响他家人要求工伤的合法权益。", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "无力回天", 
+                    "userLink": "https://www.zhihu.com/people/40d79ad7b439da2a3e07a30f246fa94c", 
+                    "content": "法律在执法者中滥用的典范！我系统在家死亡的多了，不管是否是加班原因根本认定不了工伤。就是在工作岗位去世的认定工伤的也少！", 
+                    "likes": 5, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "非常感谢这样的科普!", 
+                    "likes": 16, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "谢谢支持。", 
+                            "likes": 3, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "徐晨", 
+                    "userLink": "https://www.zhihu.com/people/4357a392ce01509d451c5e6aa267d728", 
+                    "content": "主播主观倾向太明显", 
+                    "likes": 7, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>这里面没有主播</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "徐晨"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "同感！", 
+                            "likes": 0, 
+                            "replyToAuthor": "徐晨"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "我的妈呀，海南这个案例时间太长了吧", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "当事人选择的路径不对，应直接提起行政诉讼，不要复议。", 
+                            "likes": 4, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>行政诉讼判决撤销重做，还是判断不属于工伤，就这么无限循环下去什么时候是个头呢？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "工伤应按照有利于职工的原则进行认定。也许没错，但法律没明确的时候，应该依据立法法等法律，对原有法律法规进行修改，而不是自己造一个规则进行解释。", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "[调皮]", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "长安执金吾", 
+                            "userLink": "https://www.zhihu.com/people/5775853537d0d92f70cbe8608e750d3e", 
+                            "content": "哪里造规则了？各种法律原则和法律解释方法，并不是都要一一写在法条里。", 
+                            "likes": 4, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "肉肉", 
+                    "userLink": "https://www.zhihu.com/people/5fa86ba6e95137f0d7cdbdefacf454fa", 
+                    "content": "<p>最后两家是否都得到工伤认定了吗？有没有人知道？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>还不知道，第一个新闻是最近曝光的，按照社保局的作风，重新作出一个工伤认定，同样需要挺久时间的。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "肉肉"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "xiaoxi guan", 
+                    "userLink": "https://www.zhihu.com/people/7a78dbaf8ca48303c2c86b0382b3512e", 
+                    "content": "<p>我不能理解的是，同样都是作为职工而存在，人社局作出这些认定的人脑袋是不是有病？要是自己遇到这些事情了他又怎么办呢？</p>", 
+                    "likes": 8, 
+                    "childComments": [
+                        {
+                            "userName": "友人A", 
+                            "userLink": "https://www.zhihu.com/people/39b81ea56a26967fed89468112dc4b52", 
+                            "content": "工伤基金是我们每个人交的，从严审核对他们自己有啥好处，还不是为了防止某些人诈赔，要是谁去申请都轻松过，每月工资怕是还得少一大截", 
+                            "likes": 3, 
+                            "replyToAuthor": "xiaoxi guan"
+                        }, 
+                        {
+                            "userName": "xiaoxi guan", 
+                            "userLink": "https://www.zhihu.com/people/7a78dbaf8ca48303c2c86b0382b3512e", 
+                            "content": "<p>从严审核没问题，但严到对抗法庭判决就有问题了，正常的权益都被妨碍，这种从严估计就只能解读成私利行为了</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "友人A"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "quan li", 
+                    "userLink": "https://www.zhihu.com/people/b7cfd1c16962cd5460a5953c5b5d7734", 
+                    "content": "<p>人社局到底图啥？难道每拒绝一个他们就有1千亿可以分？</p>", 
+                    "likes": 5, 
+                    "childComments": [
+                        {
+                            "userName": "莫问君", 
+                            "userLink": "https://www.zhihu.com/people/5bcec72bda5c8c6cecb8f95157ad06d3", 
+                            "content": "因为怕被问责。这种模棱两可得案例，是上级检查，审计的重点，一旦被上级认定不是工伤，得处理一批人。", 
+                            "likes": 11, 
+                            "replyToAuthor": "quan li"
+                        }, 
+                        {
+                            "userName": "v又见炊烟加班干活", 
+                            "userLink": "https://www.zhihu.com/people/3c740e4f2d3c574099a7a52aa6d54770", 
+                            "content": "抓得很严的，太松的话你想象不到为了钱有些人会做出什么事情", 
+                            "likes": 9, 
+                            "replyToAuthor": "quan li"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "幻十郎", 
+                    "userLink": "https://www.zhihu.com/people/500267216ce73ba700be329a44b14393", 
+                    "content": "<p>这样的判例实质上起了很坏的示范作用，如果以后有任何人在家中死亡，但有手头未完成的工作，是否都能认定为工伤？</p>", 
+                    "likes": 20, 
+                    "childComments": [
+                        {
+                            "userName": "Xi Yang", 
+                            "userLink": "https://www.zhihu.com/people/c08234d11797acf6dfb365c5cb690975", 
+                            "content": "为什么不可以？", 
+                            "likes": 6, 
+                            "replyToAuthor": "幻十郎"
+                        }, 
+                        {
+                            "userName": "幻十郎", 
+                            "userLink": "https://www.zhihu.com/people/500267216ce73ba700be329a44b14393", 
+                            "content": "<p>那唯一结果就是就业的条件更加严厉，失业人群进一步加大。</p>", 
+                            "likes": 6, 
+                            "replyToAuthor": "Xi Yang"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "行知", 
+                    "userLink": "https://www.zhihu.com/people/dc328ecb954f03a98c9225a88f2eb23e", 
+                    "content": "少见终审判决败诉，还能坚持不改自己行政行为的单位。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "确实。还是省高院的裁判。", 
+                            "likes": 2, 
+                            "replyToAuthor": "行知"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "西北偏北.dll", 
+                    "userLink": "https://www.zhihu.com/people/6becc5e09c86eadf8e41daa801ca112f", 
+                    "content": "人社局的这种做法，就是让大家别把工作带到家里，加班也要在单位加班，分清工作和生活。工作是单位的，命是自己的[捂脸]", 
+                    "likes": 16, 
+                    "childComments": [
+                        {
+                            "userName": "屋外天魔", 
+                            "userLink": "https://www.zhihu.com/people/7c260d369c55485f2b16421e43ce9875", 
+                            "content": "就你说的好", 
+                            "likes": 0, 
+                            "replyToAuthor": "西北偏北.dll"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Xi Yang", 
+                    "userLink": "https://www.zhihu.com/people/c08234d11797acf6dfb365c5cb690975", 
+                    "content": "感觉很奇怪啊，人社局这么硬钢，它有什么好处？", 
+                    "likes": 4, 
+                    "childComments": [
+                        {
+                            "userName": "Cosmia Fu", 
+                            "userLink": "https://www.zhihu.com/people/2da8952c331ee7efb667581fa37185cc", 
+                            "content": "<p>同样不理解，为啥这么拼啊</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Xi Yang"
+                        }, 
+                        {
+                            "userName": "天道酬勤", 
+                            "userLink": "https://www.zhihu.com/people/940ffe3292700903725a7355a66a1b5d", 
+                            "content": "民政系统即使知道自己输会也上诉，然后申请再审，就这样拖着你，让你费很大劲才能维护到自身权益。<br>目的是什么呢？个人认为，上边案例是死掉了，所以家属才会硬刚到底不放弃，如果只是轻伤呢，在家加班摔了一跤，腿断了，这个要是轻易给你认定工伤，那民政局就有的忙了，有些心怀叵测的人也会把不是工伤的伤伪装成工伤，有太多漏洞可钻，他们敢放开这个口子么<br>譬如我在踢球，腿断了，去什么医院，赶紧回家，然后在把工作用的东西摆上，电脑打开，回头再打急救，报工伤就说在家加班，去倒水摔了，这个要怎么界定呢<br>个人一点愚见", 
+                            "likes": 19, 
+                            "replyToAuthor": "Xi Yang"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "行走的绿豆糕", 
+                    "userLink": "https://www.zhihu.com/people/20b9dd81df822bf323c85f183b51eff1", 
+                    "content": "以后soho的企业只会越来越多 难道出了事还要自己担着了？", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "成梁云端", 
+                    "userLink": "https://www.zhihu.com/people/d1e970346d943264de7d410638895b1e", 
+                    "content": "作为一名工伤认定从业人员，只能说，上述案例都是已经缴纳工伤保险的劳动者，也就是一旦认定工伤，并不需要人社部门出一分钱，而是由工伤基金报销费用。那么，我们为什么不能成人之美呢，因为我们要为国家负责，工伤基金是由千千万万名劳动者缴纳汇聚而成，我们理应从严审核。<br>下面说说具体的，诸位有看过工伤保险条例吗，国务院印发的，十四条、十五条很短，但是实际情况却很复杂，所以遇到特殊情况，只能保守。<br>说个近期遇到的案件吧，工伤职工受伤当天在本地医院拍的片子显示只有一根肋骨骨折，但是半个月后又去了外地医院拍了片子，显示八根肋骨骨折，本地医院拒绝对第一张片子作出解释，我们工伤部门真的很为难，断一根跟断八根，在赔偿方面不是一个概念。<br>最终，我们认了八根肋骨骨折，站在了劳动者一方，单位没有缴纳工伤保险，需要自身承担赔偿，单位只认可一根肋骨骨折。目测，单位很快就会提起行政复议或者行政诉讼，我们会应对的。", 
+                    "likes": 66, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "这个问题，和行政行为的特殊性有关：一方面，行政行为需要有法可依，无法明文规定则不为。另一方面，法律是滞后的，新的社会问题出现了，处理时没有法律依据。<br>人社局可以无视最高院判例，作出不予认定工伤之决定。当事人只有去起诉了，人社局才会按照法院判决来执行。", 
+                            "likes": 8, 
+                            "replyToAuthor": "成梁云端"
+                        }, 
+                        {
+                            "userName": "威力无边", 
+                            "userLink": "https://www.zhihu.com/people/ed48d7758a12af55562614f99fa708b1", 
+                            "content": "不光是应付吧，你们是处理工伤相关的部门，用人单位没有缴纳相应的保险，那么可以肯定他们很不愿意按更高赔偿支付。那么你们作为主管部门，是否可以在中间协调，为双方出具具有法律意义的调解书或赔偿协议。这样避免诉累，让伤者更快的得到救治，也保护了弱势群体。也让用人单位可以尽快的按照协商内容，积极处理，不拖沓。", 
+                            "likes": 2, 
+                            "replyToAuthor": "成梁云端"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "让您贱笑了", 
+                    "userLink": "https://www.zhihu.com/people/08f91645574bd33612af075fd6bc7606", 
+                    "content": "记得还有一个案例，一个麻醉师在手术台上突发脑出血送去ICU抢救。很快最终脑死亡，靠呼吸机维持呼吸心跳，家属不忍心撤机死亡，最终死亡时间超过了48小时，因为这个被拒绝认定工伤。", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "一塌湖涂", 
+                            "userLink": "https://www.zhihu.com/people/9cd75a43e4110b3b8a644e7e79e31cea", 
+                            "content": "工伤肯定是工伤，只是不是因工伤死亡。", 
+                            "likes": 0, 
+                            "replyToAuthor": "让您贱笑了"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "莫问君", 
+                    "userLink": "https://www.zhihu.com/people/5bcec72bda5c8c6cecb8f95157ad06d3", 
+                    "content": "顺便说一句，人社局的同志们自己的工伤到现在还没交起来。他们自己发生工伤也无法申请工伤。", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/83855011", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 4, 
+            "title": "法律观察：几名儿童的非正常死亡", 
+            "content": "<p>几名儿童的非正常死亡</p><p>文中案例，来源于裁判文书网、媒体报道。如有雷同，一点也不巧合，确实是真实的故事。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1、</p><p>小郭或许永远也想不到，2019年1月3日晚上的一次作业，竟给他带来了杀身之祸。</p><p>2019年1月3日晚。咸阳武功县一母亲胡某娟在家辅导儿子郭某丙学习。</p><p>因郭某丙学习不用心，而殴打郭某丙，致其头部几处受伤。</p><p>可没想到的是，1月4日凌晨4时许郭某丙发生呕吐，胡某娟将其送医院，抢救无效死亡。</p><p>经陕西省咸阳市公安司法鉴定中心尸体检验鉴定书认定：</p><p><b>郭某丙系生前遭受钝性外力多次击打头部，造成蛛网膜下腔出血后呕吐，因误吸引起呼吸道阻塞窒息死亡。</b></p><p>2019年2月20日，因涉嫌故意伤害罪，这位母亲被武功县公安局监视居住。</p><p>经过陕西省武功县人民法院审理查明:</p><p><b>被告人胡某娟与被害人郭某丙是亲生母子关系。</b></p><p>这则新闻，不禁让我怀疑其真实性。</p><p>但这则案例已经于2019年8月28日在中国裁判文书网公布，其真实性毋庸置疑。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-359c7aa96f8d8d2e78c9ce5b5f2d8b4f_b.jpg\" data-rawwidth=\"856\" data-rawheight=\"538\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-09f05dfe810b2ba1c60c4104ecf918b3_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"856\" data-original=\"https://pic4.zhimg.com/v2-359c7aa96f8d8d2e78c9ce5b5f2d8b4f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;856&#39; height=&#39;538&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"856\" data-rawheight=\"538\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-09f05dfe810b2ba1c60c4104ecf918b3_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"856\" data-original=\"https://pic4.zhimg.com/v2-359c7aa96f8d8d2e78c9ce5b5f2d8b4f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-359c7aa96f8d8d2e78c9ce5b5f2d8b4f_b.jpg\"/></figure><p>2、</p><p>究竟是什么原因，让一个母亲对儿子大发雷霆并且致死，这不得而知。</p><p>但从该案的判决书中可见，母亲的所用的手段，残忍，难以让人理解。</p><p><b>“钝性外力”</b></p><p><b>“多次”</b></p><p><b>“击打儿子头部”</b></p><p><b>“造成蛛网膜下腔出血后呕吐”</b></p><p>更让人无法想象的是，孩子母亲犯罪时的状态是：<b>正处于怀孕期。</b></p><p>在庭审过程中，被告人认为自已因为管教孩子学习打了孩子，但没殴打孩子头部。自己已认识到其行为的危害性，请求对自己从轻处罚。</p><p>这位母亲的行为源于情绪波动，源于以爱之名，源于他还是一个孩子。</p><p>在这位母亲看来，打骂孩子似乎是合情合理的，尚未达到罪无可赦的地步。</p><p>心痛之余，很难想象这是一名母亲对子女应有的“爱之呵护”。</p><p>以前总是说父母辅导写作业进了ICU，这次受害者一方换成了儿子一方，更增加了几分悲剧色彩。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、</p><p>另一个悲剧，发生在广东。</p><p>2017年的秋天。</p><p>八岁的小杨在揭阳市一个出租屋内不幸离世。</p><p>10月14日凌晨5时许，小杨的父亲杨林葳与刘莳连下班后，回到租住的揭西县棉湖镇和缘住宿408号房。</p><p>杨林葳因其女儿小杨没有完成其布置的作业，一时气愤，遂用手推小杨头部，致小杨摔倒在地，杨林葳见小杨倒地不起，怀疑小杨故意不起来，又用脚大力踢杨某1的腰背部。</p><p>当天凌晨6时许，杨林葳见小杨身体出现抽搐现象。</p><p>杨林葳遂与刘莳连一起将小杨送往揭西县棉湖镇华侨医院救治，接诊医生经检查发现小杨已经死亡遂报警。</p><p>经司法鉴定：</p><p><b>小杨的死亡原因符合全身多处遭受钝性外力作用，尤以背部损伤造成了下腔静脉撕裂、肝脏破裂，肠系膜中动脉破裂等损伤而致的创伤性休克而死亡。</b></p><p>最终小孩的父亲被法院判决犯故意伤害罪，判处无期徒刑，剥夺政治权利终身。</p><p>在某些人眼里，特别是毫无人性的父母眼里，似乎写作业不认真，就能成为家暴的万能借口。</p><p>从来没见过这种胆大妄为的法盲，无知，让他们更加无畏。</p><p>4、</p><p>近几年来，网络上里一个词语“恐辅症”。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-13211ed4f44a17b9e3efd692084a8c32_b.jpg\" data-rawwidth=\"520\" data-rawheight=\"404\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-68632645a4d21661860727b73784e787_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"520\" data-original=\"https://pic3.zhimg.com/v2-13211ed4f44a17b9e3efd692084a8c32_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;520&#39; height=&#39;404&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"520\" data-rawheight=\"404\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-68632645a4d21661860727b73784e787_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"520\" data-original=\"https://pic3.zhimg.com/v2-13211ed4f44a17b9e3efd692084a8c32_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-13211ed4f44a17b9e3efd692084a8c32_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这个新兴词汇，形容父母辅导作业像渡劫，一辅导就情绪失控血压上升的一种当代疾病，目前八成父母患有恐辅症。</p><p>也有网友形容父母辅导写作业的状态：不写作业，母慈子孝。一写作业，鸡飞狗跳！ </p><p>也不知道从什么时候，互联网上刮起这道邪气歪风。</p><p>辅导孩子写作业，父母真的真的难以忍受，甚至想自杀？辅导写作业，见到孩子不会做，或者不满意的，父母就马上要气的进入ICU了。</p><p><b>在我看来，大多数情况应属于这样的：你的愤怒，大抵源于自己的无知和教导无方。</b></p><p>辅导作业、心力交瘁，也无法为家暴行为合法、合理的外衣。</p><p>吐槽归吐槽。</p><p>《反家庭暴力法》第五条明确规定：<b>未成年人</b>、老年人、残疾人、孕期和哺乳期的妇女、重病患者遭受家庭暴力的，应当给予特殊保护。</p><p>第十二条规定：未成年人的监护人应当以文明的方式进行家庭教育，依法履行监护和教育职责，不得实施家庭暴力。</p><p>文明，非暴力，是家庭教育的基本原则。</p><p>暴力教育孩子，不仅违法，还可能构成犯罪，一着不慎，轻则轻伤、重伤，重则可能导致子女意外死亡，施暴者还将面临严厉的刑事制裁。</p><p>5、</p><p>在内蒙古的这则案例中，案件事实则显得更加触目惊心。</p><p>法院在判决显得更加慎重，量刑上更加重：</p><p>2016年，内蒙古通辽。</p><p>五岁的小褚因为尿裤子而被父亲一脚踢死。</p><p>2016年3月14日7时30分许。</p><p>小褚的父亲在通辽市一村庄自家外屋，对小褚尿裤子一事产生不满，用脚踢小褚胸腹部，将其踢至一米外倒地，小褚爬起后躲到自家东屋。</p><p>当日15时许，小褚称其肚子疼，小褚的父亲给小孩吃了两片去痛片。</p><p>9时许，小褚在家中死亡。</p><p>当日20时30分许，小褚的父亲与袁某到通辽市科尔沁区红星派出所，小褚的父亲向警方称其将女儿打死在家中。</p><p>经法医鉴定，小褚系腹部生前曾遭受钝性外力作用导致胰腺挫伤、十二指肠挫伤伴炎性反应、肝右叶血肿而死亡。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1659f9e5fe49d21d0b563e266d3e9c9b_b.jpg\" data-rawwidth=\"610\" data-rawheight=\"280\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-e1b67a2076a92d7ea4df6ecc5cd46efb_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"610\" data-original=\"https://pic4.zhimg.com/v2-1659f9e5fe49d21d0b563e266d3e9c9b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;610&#39; height=&#39;280&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"610\" data-rawheight=\"280\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic4.zhimg.com/v2-e1b67a2076a92d7ea4df6ecc5cd46efb_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"610\" data-original=\"https://pic4.zhimg.com/v2-1659f9e5fe49d21d0b563e266d3e9c9b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1659f9e5fe49d21d0b563e266d3e9c9b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>针对小褚父亲的恶劣行为，法院判决被告人褚某犯故意伤害罪，判处无期徒刑，剥夺政治权利终身；犯虐待罪，判处有期徒刑二年，决定执行无期徒刑，剥夺政治权利终身。</p><p>6、</p><p>回到在上面谈到的陕西案件，法院最终判决被告人胡某娟犯过失致人死亡罪，判处有期徒刑三年，缓刑三年。</p><p>这里解释一下何谓缓刑：<b>对于符合刑法规定条件的人，可以或者应当宣告缓刑。</b></p><p>对宣告缓刑的犯罪分子，在缓刑考验期限内，依法实行社区矫正，如果没有本法第七十七条规定的情形，缓刑考验期满，原判的刑罚就不再执行。</p><p>宣告缓刑，可以根据犯罪情况，同时禁止犯罪分子在缓刑考验期限内从事特定活动，进入特 定区域、场所，接触特定的人。</p><p>比对其他案例，陕西这个案件判决过失致人死亡，有期徒刑三年，缓刑三年，相对较轻。</p><p>从刑罚的执行来看，犯罪分子不需要身陷囹圄以致丧失人身自由。</p><p>从这一刑事制裁手段的对广大家暴父母的影响来看，这种制裁的威慑性、指导意义远远是不足的。</p><p>《南方人物周刊》2019年的一则报道提到：经不完全统计，近十年，至少有1006起针对未成年人的家庭虐待被媒体报道或出现于法律诉讼。这其中有448个孩子遭受暴力死亡，几乎平均每周都有一名未成年人死于家中成年人之手。</p><p>在我看来，每一个因写作业被家暴孩子，其背后可能隐藏着更多次的、隐蔽性的暴力殴打、虐待。</p><p>在上面谈及的内蒙古小褚案件中亦如是：<b>在小褚死亡前，公安机关还曾接到报警，发现：</b></p><p><b>小褚父亲和后妈袁某经常辱骂、殴打小褚，致头面部、躯干、四肢多处受伤。且多名幼儿园的老师发现小褚经常身上有指掐、木棍抽打等伤痕。</b></p><p>暴力或许可以解决一时的问题。</p><p>就好像战争一样，暴力能够凸显战胜国的权威，满足父母的控制欲望、支配欲望，但永远解决不了教育的根本问题。</p><p>孩子们对待作业的态度，只是父母们家暴行为的一个导火索，甚至显得苍白无力的借口。</p><p>暴力或许可以抚平父母内心的焦虑，对于父母来说，这更像一剂安慰剂，廉价、立马见效。</p><p>对于孩子来说，暴力显然是无效的，孩子们逐渐会进化出针对家暴的“耐药性”、产生副作用。</p><p>但父母们哪怕再对孩子们多保留一点耐心，一丝宽容，也足够了，更决计不会酿成前述三个悲剧性事件。</p><p>孩子们还小，路还长着，未来还有很多试错的机会。</p><p>在辅导孩子作业时，也请多聆听孩子们的心声：</p><p>妈妈，不要再打我了，</p><p>我会好好写作业的。</p><p>如果你真的打死我，</p><p>我就再也写不成作业。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>谢父母不杀之恩，愿天国没有作业。</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60793334", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 25, 
+            "title": "凤凰少女被囚禁地洞性侵24天，犯罪嫌疑人会判处死刑吗？", 
+            "content": "<p>3月25日，湖南凤凰县检察院通过其微信公众号“凤凰检察”通报一起该县五十岁单身男子在自家房屋地下挖洞囚禁16岁在校女生为性奴的案件，女生被囚禁24天后被警方解救。经查，犯罪嫌疑人系龙某和，系凤凰县山江镇人。</p><p>很多网友鼓呼对龙某和适用无期徒刑、死刑，恐怕不能遂愿。以强奸罪、非法拘禁罪数罪并罚，也无法轻易达到无期徒刑、死刑的量刑标准。</p><p>特别提示：因案件事实了解不完整，以下仅基于新闻中披露的情况作为基础材料简单分析。</p><p>按照《刑法》第二百三十六条关于强奸罪的规定，强奸妇女、奸淫幼女情节恶劣的，处十年以上有期徒刑、无期徒刑或者死刑。</p><p>第二百三十八条　【非法拘禁罪】非法拘禁他人或者以其他方法非法剥夺他人人身自由的，处三年以下有期徒刑、拘役、管制或者剥夺政治权利。具有殴打、侮辱情节的，从重处罚。犯前款罪，致人重伤的，处三年以上十年以下有期徒刑；致人死亡的，处十年以上有期徒刑。使用暴力致人伤残、死亡的，依照本法第二百三十四条、第二百三十二条的规定定罪处罚。</p><p>龙某和犯强奸罪，可能判处十年以上有期徒刑，但是，判处无期徒刑、死刑的可能性较小。</p><p>为什么呢，按照《最高人民法院关于常见犯罪的量刑指导意见》关于强奸罪的量刑起点规定：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-08a8a239f942694451f548292088139c_b.jpg\" data-size=\"normal\" data-rawwidth=\"489\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"489\" data-original=\"https://pic1.zhimg.com/v2-08a8a239f942694451f548292088139c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;489&#39; height=&#39;300&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"489\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"489\" data-original=\"https://pic1.zhimg.com/v2-08a8a239f942694451f548292088139c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-08a8a239f942694451f548292088139c_b.jpg\"/><figcaption>量刑起点</figcaption></figure><p>有下列情形之一的，可以在十年至十三年有期徒刑幅度内确定量刑起点：强奸妇女、奸淫幼女情节恶劣的；强奸妇女、奸淫幼女三人的；在公共场所当众强奸妇女的二人以上轮奸妇女的；强奸致被害人重伤或者造成其他严重后果的。依法应当判处无期徒刑以上刑罚的除外。</p><p>在实务中，在强奸过程中肆意蹂躏妇女的或者长期多次对某一妇女进行强奸的，可认定为“强奸妇女情节恶劣的”。</p><p>那么，龙某和触犯强奸罪，情节恶劣，一般以10-13年为量刑起点，较大可能以13年为量刑起点（不是最高，这里注意一下）。</p><p>按照《最高人民法院关于常见犯罪的量刑指导意见》[ 法发[2017]7号]关于非法拘禁罪的量刑起点规定：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-f3512a1ccf5447d16d527d7bfdf54cde_b.jpg\" data-size=\"normal\" data-rawwidth=\"680\" data-rawheight=\"256\" class=\"origin_image zh-lightbox-thumb\" width=\"680\" data-original=\"https://pic3.zhimg.com/v2-f3512a1ccf5447d16d527d7bfdf54cde_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;680&#39; height=&#39;256&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"680\" data-rawheight=\"256\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"680\" data-original=\"https://pic3.zhimg.com/v2-f3512a1ccf5447d16d527d7bfdf54cde_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f3512a1ccf5447d16d527d7bfdf54cde_b.jpg\"/><figcaption>量刑起点</figcaption></figure><blockquote>1.构成非法拘禁罪的，可以根据下列不同情形在相应的幅度内确定量刑起点：<br/>（1）犯罪情节一般的，可以在一年以下有期徒刑、拘役幅度内确定量刑起点。<br/>（2）致一人重伤的，可以在三年至五年有期徒刑幅度内确定量刑起点。<br/>（3）致一人死亡的，可以在十年至十三年有期徒刑幅度内确定量刑起点。<br/>2.在量刑起点的基础上，可以根据非法拘禁人数、拘禁时间、致人伤亡后果等其他影响犯罪构成的犯罪事实增加刑罚量，确定基准刑。<br/>非法拘禁多人多次的，以非法拘禁人数作为增加刑罚量的事实，非法拘禁次数作为调节基准刑的量刑情节。<br/>3.有下列情节之一的，可以增加基准刑的10%一20%<br/>（1）具有殴打、侮辱情节的；<br/>（2）国家机关工作人员利用职权非法扣押、拘禁他人的。</blockquote><p>关于非法拘禁罪，依照刑法规定，因龙某和具有具有殴打、侮辱情节，一般量刑基准在1年有期徒刑上加10%-20%，最高可能判处三年以下有期徒刑。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一般情况下，这样数罪并罚之后的总刑期最高不超过16年。考虑到本案的社会影响极其恶劣，且被害人未成年仅16岁，应当从重处罚，强奸罪的基准刑可能高于13年，也不排除判处更高有期徒刑或无期！</p><blockquote>《最高人民法院关于常见犯罪的量刑指导意见》：<br/>在量刑起点的基础上，可以根据强奸妇女、奸淫幼女情节恶劣程度、强奸人数、致人伤害后果等其他影响犯罪构成的犯罪事实增加刑罚量，确定基准刑。<br/>强奸多人多次的，以强奸人数作为增加刑罚量的事实，强奸次数作为调节基准刑的量刑情节。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>2015年2月，曾经轰动一时的福州狗窖性奴案，法院最终宣判，被告人郭某因犯非法拘禁罪、强奸罪（未遂）和抢劫罪，数罪并罚，被晋安区法院判处有期徒刑十年六个月。注意，这一刑期还包含了抢劫罪的刑期。</p><p>最高法院公布的“典型案例选”中：</p><blockquote>被告人邵建通过网络聊天认识被害人张某某，2013年6月25日，被告人邵建约见张某某，并在吉林省榆三公路道南加油站附近，强行将被害人张某某（女，17岁）拽上一辆捷达出租车前往吉林省榆树市，在一家旅店内非法拘禁张某某至6月26日。2013年6月26日，邵建又将张某某带至黑龙江省哈尔滨市，在哈尔滨市南岗区汉广街与汉阳街交口处的北往旅店内，非法拘禁张某某至6月28日。2013年6月25日，邵建将张某某强行带至吉林省榆树市后，在一家旅店内多次强行与张某某发生性行为，6月26日邵建将张某某强行带至哈尔滨市后，在哈尔滨市南岗区汉广街与汉阳街交口处的北往旅店内，多次强行与张某某发生性关系。</blockquote><p>最终法院判决：被告人邵建犯强奸罪，判处有期徒刑九年，剥夺政治权利一年；犯非法拘禁罪，判处有期徒刑二年；数罪并罚，决定执行有期徒刑十年，剥夺政治权利一年。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>另外，我以强奸罪、非法拘禁罪、数罪并罚为关键词检索判决发现，大部分判是有期徒刑。</p><p>无期徒刑与有期徒刑所占的比例相比，相距甚远。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这就是现实，你无法直视，却又不得不接受。</p>", 
+            "topic": [
+                {
+                    "tag": "刑法", 
+                    "tagLink": "https://api.zhihu.com/topics/19591312"
+                }, 
+                {
+                    "tag": "法律", 
+                    "tagLink": "https://api.zhihu.com/topics/19550874"
+                }, 
+                {
+                    "tag": "死刑", 
+                    "tagLink": "https://api.zhihu.com/topics/19562985"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "star orchie", 
+                    "userLink": "https://www.zhihu.com/people/b5e1adc701803d294a6fc596c4aaa9c7", 
+                    "content": "说什么三年起步，最高死刑的，都这么严重了只是判十年。这盛世如谁所愿。", 
+                    "likes": 12, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>这盛世如我等所愿。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "star orchie"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>毕竟是没死人，生命至上，没死人，所以不能判死刑。</p><p><br></p><p>不然如果死人了判什么呢？诛九族吗？</p><p><br></p><p>如果不管死不死人，一律死刑，你觉得以后被抓的性奴还有活路吗？</p><p><br></p><p>不能为了某些站着说话不腰疼的人，就把黑暗中的性奴们推向绝路。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "star orchie"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "IlFiumeStige", 
+                    "userLink": "https://www.zhihu.com/people/077ee9c07f934397da5b3e5b63511065", 
+                    "content": "于情理而言已经很难让人接受了，但是就这样，还有不少人哭着喊着要“废死”呢", 
+                    "likes": 10, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "迅雷烈风", 
+                    "userLink": "https://www.zhihu.com/people/2633f6383936ad444d4bf4e980aa2322", 
+                    "content": "<p>其实，想想也知道，为什么当年把强奸的死刑取消后，还把刑罚降低的现在这种程度</p>", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "强奸罪未取消死刑", 
+                            "likes": 2, 
+                            "replyToAuthor": "迅雷烈风"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>第一，强奸最高刑仍然是死刑</p><p><br></p><p>第二，性自主权在生命权面前就是个弟弟，弟弟就应该有弟弟的样子。</p><p><br></p><p>第三，虽然贞操高于生命，但是现代社会没有谁敢明面上的支持贞操，这种封建思想不被法律认可。</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "迅雷烈风"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "无声的支付者", 
+                    "userLink": "https://www.zhihu.com/people/a8f9eb5721b162e0de577a55c95d4c9c", 
+                    "content": "我觉得大家看这件事时，可以用道德的观点看待，谴责，但不要用道德去绑架法律", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>那法律是谁规定的？以前的资本家的法律还有规定富人和穷人都不能在桥下过夜</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "无声的支付者"
+                        }, 
+                        {
+                            "userName": "无声的支付者", 
+                            "userLink": "https://www.zhihu.com/people/a8f9eb5721b162e0de577a55c95d4c9c", 
+                            "content": "那问题来了，既然这规则那么不公平，为什么大家还在遵守，的确在中国，虽然不至于说资本家来制定法律，但法律也不会说完全公平，不过问题来了，如果不按照现在的制度建设法律以及按照现有的法律执行判决，那么，该用怎样的制度维护?全民投票一个人犯不犯法该怎么判吗？还是说完全通过群体的个人情感来判断一个人的罪对社会的危害性?", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "陈权", 
+                    "userLink": "https://www.zhihu.com/people/809a6e56406a9366716eac2e167832bf", 
+                    "content": "<p>中国很多量刑真的看不懂。该轻的重了，该重的轻了。</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Shepherd", 
+                    "userLink": "https://www.zhihu.com/people/ea83e8ade8609bc88e631e6ca9a0b279", 
+                    "content": "我感到了深深的绝望。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "白菜叽0-0", 
+                    "userLink": "https://www.zhihu.com/people/a96060255c672b69da90b17de83581e5", 
+                    "content": "按这个标准，所谓最高量刑（死刑），较高量刑（无期）永远达不到?", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/59233747", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 73, 
+            "title": "奥迪车主患白血病，为什么很难得到赔偿？", 
+            "content": "<blockquote>3月11日，微信公众号“呦呦鹿鸣”上，《他们都买了奥迪车，他们都得了白血病》一文阅读量超10万+。该文章称，众多车主因购买有异味的奥迪车罹患白血病，却得不到应有的赔偿，不得不抱团维权。<br/>媒体报道称，这篇文章不仅得到广泛转发和评论，也引发了不少奥迪车主担忧：家里的爱车还能再开吗？还有奥迪车主怀疑，亲人的疾病或许就和奥迪车有关。<br/>3月12日，“奥迪A4/A6/Q5异味维权群”已增加到2400余人。他们都想得到一个回应，但目前还没有人告诉他们确切答案。</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>一、维权两座大山</p><p>在法律人看来，这个事件并不简单。</p><p>新闻中的相关案件，是就产品是否存在缺陷并造成损害而发生的纠纷，受害者一方应就所购车辆产品存在缺陷、缺陷车辆造成其损害的事实、损害后果以及缺陷车辆与损害后果之间的因果关系承担举证责任。</p><p>摆在奥迪车主面前有两座大山：</p><p>一是如何证明数年前购车时，涉案车辆内的空气质量不符合国家标准？是否存在有害气体超标的事实？</p><p>二是如何证明涉案车辆内的空气质量超标，与白血病患者所遭受的身体损害事实两者之间的因果关系。</p><p>针对这类纠纷，患者需要承担举证责任证明上述事项，如果不能证明，将面临败诉的境地。</p><p>第一项证明事项，尚可通过鉴定的方式得出结论。但由于时间久远，如事后鉴定，不能鉴定也无法推测出此前的空气质量，证明车辆存在缺陷，颇有难度。</p><p>第二项证明事项，就更加棘手了。这类案子，和自如甲醛房有些类似。受害者维权的难点就在于该因果关系，受害者举证往往难在以下几个方面：</p><p>1、白血病发病机理的特殊性，致病病因具有多样性，不排除白血病是其他原因所致。</p><p>2、医疗机构无法明确判断损害事实成因是否在于甲醛污染，就别说法院了，法院难以认定侵权行为与损害结果之间具有较高的引起与被引起的可能性。</p><p>3、鉴定机构也无法从专业角度得出两者医学及病理学方面因果关系的结论。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在我看来，奥迪车主通过正当的司法途径维权，胜诉希望渺茫。奥迪车主只能寄希望通过新闻曝光，在诉讼过程中和解。</p><p>这条道路，必然是漫长而艰辛的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>二、类似的案例</p><p>在杨童尧与临沂盛华汽车销售服务有限公司、上海大众汽车有限公司产品责任纠纷一案[（2015）临民一终字第1246号]中，有着类似的情况：</p><p>2012年11月2日原告杨童尧之父杨自动在被告临沂盛华汽车销售服务有限公司处购买上海大众汽车有限公司生产的P0L0轿车一辆。2012年12月26日原告在临沂市人民医院被诊断为患××。2013年6月7日山东省金鼎检测技术有限公司受原告之母王文慧委托，对涉案车辆内的环境污染物作出检测报告一份，检测结果为甲醛超标。</p><p>本案历经了一审、二审、后发回重审，再次经历一审、二审，可谓备尝艰辛。尽管原告一方当事人坚持认为重审将案由定性为“产品质量纠纷”不当，应为“环境污染责任纠纷”，并由汽车销售者承担举证责任，但法院最终还是没有采纳其观点。法院还认为：</p><blockquote>上诉人被诊断为患××，但上诉人患××与案涉车内有害气体是否超标以及两者之间的因果关系，上诉人方虽在原审中申请进行相关鉴定，但因鉴定机构无法鉴定，导致鉴定被退回。由于××发病因素及发病机制较为复杂且尚不确定，根据本案现有证据尚无法确定上诉人患××与涉案车辆室内空气质量存在因果关系以及存在多大程度的因果关系。</blockquote><p>最终一审法院驳回原告诉讼请求，二审法院驳回了上诉，维持原判。</p><p>我们检索发现，在杨国强与珠海市香洲一汽汽车销售有限公司买卖合同纠纷一案[（2017）粤0402民初7682号]中，法院同样持有上述观点，驳回了车主的诉讼请求：</p><blockquote>原告主张涉案车辆有异味造成其损害，但原告未能证明其身体部分检查项目偏离参考区间及头痛与使用涉案车辆具有因果关系。因此，对于原告要求被告承担原告及乘用人身体检查费用760元的诉讼请求，本院不予支持。</blockquote><p>在李太权与厦门国戎汽车销售服务有限公司、北京现代汽车有限公司产品责任纠纷一案[ （2016）闽0206民初9318号]中，法院认为：</p><blockquote>李太权提供的由厦门市厦环环境监测服务有限公司出具的监测报告不能作为认定讼争车辆存在缺陷的依据，李太权又未能提供证据证明讼争车辆存在其他缺陷，故李太权主张讼争车辆存在质量缺陷，请求国戎公司赔偿治疗费及双倍赔偿购车款，没有事实和法律依据，本院不予支持。</blockquote><p>在李志生与苏州海星汽车销售服务有限公司侵权责任纠纷一案[ （2013）吴木民初字第0538号]中，原告李志生的经历更为悲催。</p><p>2009年4月1日李志生与苏州海星汽车销售服务有限公司签订汽车销售合同及补充协议各一份，购买梅赛德斯-奔驰（C200）汽车一辆，价款318000元。在使用该车辆过程中，发觉车内空气刺鼻、刺目，致鼻、腔以及喉咙均感不适。经与被告交涉，被告称是新车的正常现象。后来，其渐感喉咙不适，声音嘶哑，遂去医院检查。2010年4月18日，其被苏州大学附属第一医院确诊为“右侧声带新生物”，并建议观察治疗。2011年5月11日，其又被该院确诊为“右侧声带高级别上皮内瘤变”即咽喉癌，当月26日行右侧声带切除术，术后进行放疗，造成口干、咽干、舌干，甲状腺破坏继发腺瘤，每天只能进流食。由于手术再加放疗后遗症，现其声音嘶哑，无法与人正常交流，且随时面临死亡威胁，恐惧无处不在。其所购车辆经苏州市消费者权益保护委员会委托苏州市产品质量监督检验所（家具室）进行检测，开了四年多，车内甲醛仍严重超标。</p><p>后，法院认为原告无证据证实被告销售的涉案车辆存在缺陷，以及原告之损害由涉案车辆所直接导致，且原告坚决不同意再次对涉案车辆进行检测，故原告的诉讼请求不予支持。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>三、关于举证责任倒置的建议</p><p>车内空气质量超标是否导致癌症，我不敢说存在因果关系，但至少可以确定的是：如果空气质量超标，与癌症、某些病因明显的疾病，存在较大关联。</p><p>民事诉讼、司法解释将这类纠纷举证责任，大多数都划给了原告一方，仍按照谁主张、谁举证的原则。</p><p>从上述案例中都可以看出来，消费者一方的举证状况，诉讼判决结果表明，以上法律司法解释的规定，都没办法达到保护消费者之立法目的。包括鉴定机构也没办法肯定地判断车内空气质量是否超标，缺陷产品与损害事实存在因果关系。</p><p>问题的症结就在于此，立法者给自己出了一道无解命题，这道命题无人可解。</p><p>常言道，解铃还需系铃人。在这类争议中，汽车的销售者和生产者，特别是后者，掌握着大量的技术资料，对于汽车使用何种材料、造成的后果都有非常充分的了解。</p><p>缺陷产品侵权责任纠纷的举证责任划分，是否也应像“环境污染侵权纠纷”一样，实行举证责任倒置：当受害者举证证明“缺陷产品与损害之间具有关联性”后，举证责任倒置，进而由汽车的销售者或生产者，对其缺陷产品与损害之间不存在因果关系承担举证责任。</p><p>这一问题，理论界早有呼吁。只可惜，立法走的慢了些。</p><p>从以上案例可以看出，车内空气污染产生的侵权，和环境污染纠纷更加相像。如果参照环境污染纠纷的举证规则，更符合立法本意，贴近现实，更加有利于保护消费者。</p><p>法律不是一成不变的，他需要与时俱进，从现实情况中汲取营养。这一系列的汽车车主患白血病案例，将形成一股强大的合力，推动立法者重新考量产品责任纠纷举证规则的合理性。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "法律", 
+                    "tagLink": "https://api.zhihu.com/topics/19550874"
+                }, 
+                {
+                    "tag": "侵权", 
+                    "tagLink": "https://api.zhihu.com/topics/19567129"
+                }, 
+                {
+                    "tag": "奥迪（Audi）", 
+                    "tagLink": "https://api.zhihu.com/topics/19574850"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "师爷孙", 
+                    "userLink": "https://www.zhihu.com/people/4c61b74646e71e02c3559522305ccf83", 
+                    "content": "这事情不可能成功，因为诉讼方都无法证明开奥迪车和白血病之间的必然联系。奥迪一年在华销量几十万辆，目前只有6个人诉讼，这个概率比白血病发病率还低，无论哪方面在法律上都构不成因果关系", 
+                    "likes": 33, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "师爷孙", 
+                    "userLink": "https://www.zhihu.com/people/4c61b74646e71e02c3559522305ccf83", 
+                    "content": "这事情不可能成功，因为诉讼方都无法证明开奥迪车和白血病之间的必然联系。奥迪一年在华销量几十万辆，目前只有6个人诉讼，这个概率比白血病发病率还低，无论哪方面在法律上都构不成因果关系", 
+                    "likes": 33, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>对，诉讼基本无望。所以才走10万+的路子</p><p></p>", 
+                            "likes": 4, 
+                            "replyToAuthor": "师爷孙"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "卖香榧的打工仔", 
+                    "userLink": "https://www.zhihu.com/people/2bd9e00b2d802e9fab0f420d748888b5", 
+                    "content": "因果太难证了！", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>确实</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "卖香榧的打工仔"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "奔腾", 
+                    "userLink": "https://www.zhihu.com/people/1b4211bdf383caabaefcd7df301698fc", 
+                    "content": "<p>奥迪的生产厂家是国企，告国企，几个人能赢？有多少先例？告赢的比例是多少？</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>想知道到底是不是车内空气超标引起的疾病或癌症</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "奔腾"
+                        }, 
+                        {
+                            "userName": "奔腾", 
+                            "userLink": "https://www.zhihu.com/people/1b4211bdf383caabaefcd7df301698fc", 
+                            "content": "我们公司实验室可以测甲醛和TVOC，刚好同事有Q5和A4l,他们跑去实验室帮忙检测下，结果IQC主管说测不了，原因是检测方法不同。(我们是用萃取法和气候箱法)，我们的实验室没有大家测试视频里的那个便携式小机器。", 
+                            "likes": 0, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "筷子", 
+                    "userLink": "https://www.zhihu.com/people/5fc684e3ee02da7a64cd100a0236c7ae", 
+                    "content": "做过两年奥迪售后爆下料吧，最早发现是Q5，新车不超标的，防火墙，后备箱等隔音材料受热或者时间久老化才会开裂，塑型底材类似沥青，是个持续性散发苯类物质的过程，新车按国标通风过后即时检测根本不超标，旧车也要看材料老化情况才能测得出来，但是旧车测谁认啊，长期使用客户反应老人小孩有恶心呕吐现象，与其批判国产奥迪不如更改国标检测方法，又不单奥迪一家用这种材料，什么车国产化率高以后质量都有一定的下降，这个问题我认为还是供应商的锅。", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "镜区", 
+                            "userLink": "https://www.zhihu.com/people/8a87aaab095982e8eb36a781f85c52ca", 
+                            "content": "<p>我看到说法是：有好几种方案，最便宜的就是你说的这种，老化后会产生有毒气体的。欧盟已经不能用这种了，国内还没有法规来约束。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "筷子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "谢宇", 
+                    "userLink": "https://www.zhihu.com/people/30866143ffa89b32ed8c6c66f49c55bd", 
+                    "content": "当年家装行业不也是这么过来的吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "小小的寂寞", 
+                    "userLink": "https://www.zhihu.com/people/b9e545da578b74e9aef9f53757690014", 
+                    "content": "<p>坐过一些汽车，表示就大众和奥迪最难受。</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>是气味难受吗？？</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "小小的寂寞"
+                        }, 
+                        {
+                            "userName": "小小的寂寞", 
+                            "userLink": "https://www.zhihu.com/people/b9e545da578b74e9aef9f53757690014", 
+                            "content": "<p>是的。。。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "超级无敌美少女", 
+                    "userLink": "https://www.zhihu.com/people/7cbc9227d4c130ae7a876394033a9631", 
+                    "content": "我家a5不晓得是空间小的问题还是什么，确实是不舒服，呼吸不畅，久了还想吐。坐到福特里就贼舒服。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>请人检测一下</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "超级无敌美少女"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/50666920", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 9, 
+            "title": "女子被半裸男扑倒暴力猥亵，店主见义勇为被罚款200元？", 
+            "content": "<p>根据近日媒体报道，这则新闻迅速爬到网络头条：</p><blockquote>11月19日晚，深圳女孩小莎发文称，15日晚她和家人到一家火锅店吃夜宵时，被一名陌生男子扑倒猥亵，在家人和饭店老板的帮助下才得以逃脱。在此过程中，饭店老板对施害男子进行过一些殴打。事后警方对该男子处以行政拘留十日，对饭店老板罚款200元。<br/><br/>小莎在微博中说：“他扑倒我后，用双腿紧紧夹住我，一只手往死里掐我脖子，一只手捂住我呼救的嘴巴，随后对我全身乱摸和猥亵，我的家人和店老板使出多大的力气都掰不开他，幸好还有旁桌其他人帮忙才得以逃脱。”<br/><br/>龙岗警方20日称，2018年11月15日23时许，深圳市公安局同乐派出所接事主报警，称其被他人猥亵。接报后，民警迅速赶赴现场处置并当场抓获违法行为人。<br/><b>经调取案发现场监控视频、走访知情群众、询问当事人等取证工作，公安机关查明案发经过如下：当晚23时许，违法行为人林某鹏（男，25岁）饮酒后来到龙岗区鸿基路附近某火锅店门前，突然搂抱正在与亲友吃宵夜的占某莎，拉扯中双方均倒地。饭店经营者曾某等人及时上前制止，将双方分开并将林某鹏控制。在林某鹏已被控制，等待警方到场处理的过程中，曾某仍对其有踢打动作，幸未造成明显伤害。</b><br/><br/><b>目前，林某鹏因猥亵他人被依法行政拘留十日。</b>就林某鹏家属反映林某鹏被殴打的情况，公安机关在肯定曾某等人见义勇为行为的同时，对曾某在已制止违法行为后仍踢打对方的行为进行了普法教育。<b>综合考虑动机、情节、后果等因素后，公安机关对曾某处以罚款人民币200元。</b></blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>1、</p><p>这种处罚方式会不会让店老板寒心？我不知道，但至少让我寒心。</p><p>给见义勇为者的行为戴上“强人所难”的枷锁，这种观点要不得。见义勇为的认定尺度，也是道德规范的指南针。</p><p>警察蜀黍是不是在暗示我们：见义勇为有风险，行动起来需谨慎？</p><p>所谓的“综合考虑动机、情节、后果等因素后，公安机关对店主处以罚款人民币200”，大概是综合考虑过以下因素吧：</p><blockquote>[北京青年报报道]微博中“施害者的家长不停骚扰威胁店老板，说店老板殴打他们儿子，要求店老板赔偿”的说法，得到饭店老板娘的证实。她向记者表示，施害者家长确实来闹过。<br/>19日早，警方让小莎夫妇及饭店老板去派出所与对方调解。小莎在微博中表示，“对方父母各种颠倒黑白，不依不饶咬定店老板多管闲事伤害他儿子，说拘留出来以后要求鉴定伤情，要店老板赔钱上门道歉，最好保证他们儿子三年内不会死。”</blockquote><p>店老板究竟有没有赔钱和赔礼道歉，我们不得而知，但警方的处理态度，至少让施害者家属在心理上获得了平衡。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2、</p><p>结合视频内容，受害者的检查情况，可以看出：饭店老板不仅仅是见义勇为，他制止了一场即将完成的随机猥亵犯罪。</p><blockquote>小莎在微博中说：“他扑倒我后，用双腿紧紧夹住我，一只手往死里掐我脖子，一只手捂住我呼救的嘴巴，随后对我全身乱摸和猥亵，我的家人和店老板使出多大的力气都掰不开他，幸好还有旁桌其他人帮忙才得以逃脱。”</blockquote><p>刑法第二百三十七条规定：以暴力、胁迫或者其他方法强制猥亵他人或者侮辱妇女的，处五年以下有期徒刑或者拘役。聚众或者在公共场所当众犯前款罪的，或者有其他恶劣情节的，处五年以上有期徒刑。</p><p>猥亵妇女，是指对妇女的抠摸、舌舔、吸吮、亲吻、搂抱、手淫等行为。看视频中的情况，受害者已经无法反抗，不能反抗，在见义勇为者的帮助之下，才摆脱恶魔的脏手。</p><p>而根据受害者的检查报告，受害者已经出现“创伤后应激障碍”，随时可能自杀自残:</p><blockquote>小莎因为这次遭到猥亵，受到很大的惊吓，出现紧张、害怕，伴有心悸、头晕、头疼、口渴、手抖、肌肉酸痛等症状，心中总是在回想当时的情景，觉得恶心，好像又被人掐住脖子，不愿意出门，蹲在墙角哭泣，两天没有入眠，感觉闭上眼睛就没命了。</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-73bbb3e69b5f31ffdcaf3b554054c943_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"785\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-73bbb3e69b5f31ffdcaf3b554054c943_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;785&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"785\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-73bbb3e69b5f31ffdcaf3b554054c943_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-73bbb3e69b5f31ffdcaf3b554054c943_b.jpg\"/></figure><p>受害者所遭的罪，比身体受伤还要难受百倍。综上，在公共场合实施猥亵行为，可能构成强制猥亵罪，且是该罪的加重情节。</p><p>等待警方期间，饭店老板临门一脚，并没有造成施害者的明显伤害，我猜测：他的初衷并不是“夹带报复私心”，而是“你小子给我老实点，等下警察就来了”。如果这一脚造成施害者受伤，自应另当别论。</p><p>如果饭店老板确实造成半裸男子受伤，处罚甚至拘留，我能点三十二个赞。但现实是，半裸男子没有受伤。针对这类暴力猥亵妇女的违法或犯罪行为，老板和其他见义勇为者已经保持了相当理性的克制。</p><p>警方是不是没有将这几个因素考虑到200元罚款里呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、</p><p>肆无忌惮的半裸男子被处以10天拘留，与他所造成的社会影响、对受害者的伤害相比，明显畸轻。</p><p>饭店老板，被罚款200元，与他制止的猥亵行为、弘扬的见义勇为精神及正能量相比，比例上明显失衡。</p><p>十天拘留对于施害者来说，只不过是过眼云烟，丝毫没有任何震慑作用。</p><p>200元罚款，将成为所有见义勇为者心头之上的一片阴影。</p><p>10天拘留，真便宜了那小子。</p><p>这个罚款，无疑是是普法教育我们：</p><p>见义勇为也要像正当防卫一样，要注意施害者施害行为的终止时间，精确到秒，在施害者施害行为的终止之后，多加一拳一脚，都属于违法行为。</p><p>再次强调，法律不强人所难，不能严厉苛责见义勇为者在见义勇为过程中存在的轻微伤害行为。</p><p>给见义勇为者的行为戴上枷锁，让他们跳舞，这种观点要不得。</p><p>所谓见义勇为的认定尺度，也是道德规范的指南针。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>4、</p><p>如果警方一定要给饭店老板那一脚定为伤害，并给予处罚的话，也罢，不如换个说法（请轻点喷）：</p><p>综合考虑饭店老板的行为的动机、情节、后果，罚款200元。但考虑到饭店老板举报有功，对公安机关抓获犯罪分子提供了重要线索，存在立功表现，其伤害结果显著轻微，没有明显伤害，不予处罚。</p><blockquote>不予处罚的法律依据：<br/>《治安管理处罚法》 第十九条 违反治安管理有下列情形之一的，减轻处罚或者不予处罚：<br/>（一）情节特别轻微的；<br/>（二）主动消除或者减轻违法后果，并取得被侵害人谅解的；<br/>（三）出于他人胁迫或者诱骗的；<br/>（四）主动投案，向公安机关如实陈述自己的违法行为的；<br/>（五）有立功表现的。</blockquote><p>对于其见义勇为的行为，是否构成见义勇为应予奖励的情形，我们已经将该案线索向见义勇为基金会反映。警方将全力配合申请，并给予必要的协助。</p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "法律", 
+                    "tagLink": "https://api.zhihu.com/topics/19550874"
+                }, 
+                {
+                    "tag": "社会", 
+                    "tagLink": "https://api.zhihu.com/topics/19566933"
+                }, 
+                {
+                    "tag": "性侵犯", 
+                    "tagLink": "https://api.zhihu.com/topics/19635114"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "陈伯", 
+                    "userLink": "https://www.zhihu.com/people/ba106f805942bd7dbddf6e92fbfe4d40", 
+                    "content": "这个应该是教育我们有什么是自己解决，不要报警，把人往死里打", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "徐长明", 
+                            "userLink": "https://www.zhihu.com/people/ccc06c0596d971caac2b8e32281868a3", 
+                            "content": "<p>这小子的爹妈都不是好东西，要么依附黑恶势力，要么自己就是黑恶势力。什么是黑恶势力？不敢解释了...</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "陈伯"
+                        }, 
+                        {
+                            "userName": "陈伯", 
+                            "userLink": "https://www.zhihu.com/people/ba106f805942bd7dbddf6e92fbfe4d40", 
+                            "content": "我们这些小井市民不懂啥黑恶势力，只知道如果受到迫害的时候连唯一能给自己公正希望的机构都给不了自己想要的公正的话，只能自己来。黑的白的都是迫害自己的那就一起消灭吧", 
+                            "likes": 0, 
+                            "replyToAuthor": "徐长明"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Arnoland", 
+                    "userLink": "https://www.zhihu.com/people/9b391fc2aade3eddaa02351df1687de0", 
+                    "content": "果然什么父母生什么儿子", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/50506962", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 1, 
+            "title": "装家律师装腔指南", 
+            "content": "<p>打击范围有点广，请慎入：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>低水平装家律师装腔指南——装家律师一般喜欢满嘴跑火车：</p><p>1、我认识最高院的院长、省高院的院长、中院的院长，关系那是铁哥们。</p><p>2、说我同学在高院当院长，我亲戚是中院院长老婆，我还认识县长、政法委书记！</p><p>3、你这个案子我保证能赢。</p><p>4、这世上没有我打不赢的官司。</p><p>5、你家属我肯定能捞出来。</p><p>6、你家属肯定无罪，我有的是人，这个案子绝对能判无罪。</p><p>7、反复强调人脉、社会资源的重要性，不讲证据，也不谈法律的具体规定，和你大谈法理、法理原则。</p><p>8、在说上述言论之前，没有认真看过案件材料，没有前去阅卷，没有仔细听你讲案情。</p><p>9、到办公室做一看，律师和某市领导、省领导的合影能晃瞎眼。</p><p>10、当你讲到案情的细节时，他会显得非常不耐烦，甚至会打断你的案情陈述，然后自己侃侃而谈。</p><p>11、不会检索案例，不主动了解当地法院、具体到某个法官的裁判观点。</p><p>12、开庭时手忙脚乱，胡言乱语，直骂对方证据都是无效证据（垃圾），却道不出不予认可证据三性的理由，不讲法言法语，讲的一口“普通话”。</p><p>13、某些装家头衔和龙女的头衔差不多长，这种头衔越多，律师的时间都投入到社会活动中，越没时间办案，越没时间提升专业水平。（还不如看律师提供法律顾问服务的对象和客户）</p><p></p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/50222455", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 28, 
+            "title": "北京外卖骑手撞垃圾桶身亡：死哪讹哪，还是正当维权？", 
+            "content": "<p>原答链接：如何评价北京男子醉酒驾驶撞垃圾桶身亡，家属起诉村委会索赔 76 万？ - 公子海的回答 - 知乎</p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://www.zhihu.com/question/302543964/answer/533812516\" class=\"internal\">如何评价北京男子醉酒驾驶撞垃圾桶身亡，家属起诉村委会索赔 76 万？</a><p class=\"ztext-empty-paragraph\"><br/></p><p>地点北京，涉案当事人：美团骑手的家属，北京某村委会。</p><p>2018年11月的这则新闻，将再次挑战人们对法律、司法和公平的认知底线。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-e25deb10f1753bdd8949e593eabe60cf_b.jpg\" data-rawwidth=\"767\" data-rawheight=\"515\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"767\" data-original=\"https://pic4.zhimg.com/v2-e25deb10f1753bdd8949e593eabe60cf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;767&#39; height=&#39;515&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"767\" data-rawheight=\"515\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"767\" data-original=\"https://pic4.zhimg.com/v2-e25deb10f1753bdd8949e593eabe60cf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e25deb10f1753bdd8949e593eabe60cf_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-44c7dd8e1c24a138e939dbb63fb72adc_b.jpg\" data-rawwidth=\"754\" data-rawheight=\"520\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"754\" data-original=\"https://pic1.zhimg.com/v2-44c7dd8e1c24a138e939dbb63fb72adc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;754&#39; height=&#39;520&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"754\" data-rawheight=\"520\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"754\" data-original=\"https://pic1.zhimg.com/v2-44c7dd8e1c24a138e939dbb63fb72adc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-44c7dd8e1c24a138e939dbb63fb72adc_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2018年11月的这则新闻，将再次挑战人们对法律、司法和公平的认知底线。看起来确实很像按闹分配，死哪讹哪，但与此同时，我们并不能否认死者家属维权的基本权利。</p><p>这个案件的影响也非常坏，似乎坏人就有理了。</p><p>本案和一个正常人被侵权不一样，死者属于酒后，无证驾驶，无牌照摩托车。</p><p>如果判令村委会承担30%的责任，无异于自毁“严厉打击酒驾”的长城，这个案例将为酒驾者打开一个新的认知大门，原来还可以这样操作。最坏的影响就是让公民丧失对法律的信仰：</p><p>对于碰瓷者，具有指导意义，以后想碰瓷，去撞垃圾桶。</p><p>对于酒驾者，更具有指导意义，全体纳税人将会为他的“自寻死路”和无知无畏买单。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>就事论事，对于本案的争议焦点问题，我总结了一下，主要以下几点：村委会是否承担侵权责任？村委会承担侵权责任的比例？我简单分析如下：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1、村委会是否承担侵权责任？</p><p>（1）村委会是否存在侵权行为？</p><p>垃圾桶放置在这个位置起码10年以上了，而且没有占用路面，是放在人行道上的。</p><p>首先，可以明确的是这个不是一个垃圾桶，而是一个垃圾车，垃圾车上存在尖锐物。</p><p>其次，垃圾车不应放置在人行道上。</p><p>再次，即使放置在人行道上，也存在安全隐患，容易对于普通的电动车、行人也将造成伤害。</p><p>初步判断：村委会没有对垃圾桶尽到管理义务。</p><p>（2）对此，《侵权责任法》第八十九条规定：在公共道路上堆放、倾倒、遗撒妨碍通行的物品造成他人损害的，有关单位或者个人应当承担侵权责任。这一条，归责原则是无过错原则。</p><p>本案关键在于认定这个垃圾桶是否妨碍摩托车通行。如妨碍通行，村委会的责任肯定逃不掉。</p><p>（3）村委会对垃圾桶的管理行为，是否与李某的死亡存在因果关系？</p><p>本案醉酒男子的死亡原因有以下几个：酒后，无证驾驶，无牌照摩托车（此案中尚未披露，醉酒男子是否戴了头盔）。</p><p>死者对死亡这一损害结果具有严重过错。而且死者的过错占死亡原因的比例至少是四分之三。</p><p>村委会放置的垃圾桶，属于正常人能够避免的因素，并不能必然导致醉驾男子的死亡，与损害后果之间无直接的必然的因果关系，但仍然存在法律上的因果关系。</p><p>本案的情况符合多因一果的认定。综上，可以得出以下结论：</p><p>（1）垃圾桶没有超出行人道，但因垃圾桶存在长期安全隐患，仍然具有违法性； </p><p>（2）垃圾桶超出或者部分超出行人道，导致垃圾桶产生更加严重的安全隐患，具有违法性。</p><p>（3）垃圾桶的放置行为与受害者的死亡结果存在因果关系。</p><p>我的初步结论是：村委会需要承担侵权责任。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2、假如法院认定村委会承担责任，担责的比例如何？</p><p>（1）村委会仅该承担与其过错、致死原因相适应的责任。</p><p>村委会放置的垃圾桶，属于正常人能够避免的因素，并不能必然导致醉驾男子的死亡，一个正常的人，即使是限制民事行人能力人，也不会主动去撞上这个垃圾桶。</p><p>因此可以判断，村委会的过错并不是严重的过错，而是一种轻微的过错。</p><p>（2）《最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释》第二条规定:&#34;受害人对同一损害的发生或者扩大有故意、过失的，依照民法通则第一百三十一条的规定，可以减轻或者免除赔偿义务人的赔偿责任。但侵权人因故意或者重大过失致人损害，受害人只有一般过失的，不减轻赔偿义务人的赔偿责任。适用民法通则第一百零六条第三款规定确定赔偿义务人的赔偿责任时，受害人有重大过失的，可以减轻赔偿义务人的赔偿责任。</p><p>本案中，死者李某明显具有无证驾驶、酒后驾驶重大过失，法院可依法适当减轻村委会的赔偿责任比例。</p><p>（3）最后，无证驾驶、酒后驾驶，属于相关法律法规，包括治安管理处罚法、刑法严格规范和制裁的行为，这是一个成年人应当具备的常识。</p><p>如果判令村委会承担30%的责任，无异于自毁“严厉打击酒驾”的长城，让公民丧失对法律的信仰，最坏的影响就是对碰瓷者更具有指导意义。</p><p>司法判决不仅仅要衡量受害者因素，考虑判决公平，还得权衡判决可能带来的社会影响性。</p><p>（4）本案的中，除了镇环境卫生管理中心，法院可能还需要追加公路管理部门、李某聚会时的劝酒人作为被告，可查明以下情况：</p><p>a、公路管理部门是否注意到垃圾桶产生的安全隐患，对于该垃圾桶是否疏于管理，对妨碍道路通行的垃圾桶未尽到及时清理义务？【案发道路是村级路,是否应由乡镇一级政府管理？】 </p><p>b、劝酒者劝酒的情况。（详见下一段分析）</p><p>只有查清上述情况，才能判断出各方主体的担责比例。</p><p>在受害者家属只请求村委会承担30%的责任，舆论大肆曝光的前提之下，我大胆预测一下：</p><p>本案主审法院可能会考虑判决引发的社会影响和指引效果，而偏向村委会，判决村委会承担10—15%的责任。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、本案中被忽略的情况——我帮村委会支招</p><p>新闻中报道：李某是一名美团外卖骑手，今年5月27日晚11时许，租住在昌平区某村的李某在聚餐回家的路上，驾驶摩托车径直撞向了村口摆放的垃圾桶。事故导致李某胸椎粉碎性骨折，经抢救无效死亡。</p><p>我注意到，李某是聚餐回家的路上死亡的。参考一下以下裁判规则：</p><p>在酒驾肇事案件中，共同饮酒人负有劝阻驾驶员醉酒驾驶行为的义务，否则应对驾驶员因醉酒驾驶所遭受的人身伤害承担相应的赔偿责任。</p><p>共同饮酒后出现人身伤亡事件，如共同饮酒人没有尽到提醒、劝阻、照顾、护送和通知义务，应对造成人身伤亡的饮酒人承担过错赔偿责任。</p><p>也就是说，在李某聚餐的朋友中，也存在侵权者，死者家属也可以请求索赔。在这里村委会可得注意了（尝试一下这个手段）：尽快请求法院调查查明李某聚会时的劝酒情况，要求法院追加被告，可以争取减免自己的责任。</p><p>村委会啊，能帮你的只能到这里了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>4、</p><p>综上，村委会确实存在一定过错，但其承担的赔偿责任不宜过高。</p><p>实践中，法官对类似本案的问题、认定村委会担责比例，具有较大的自由裁量权。</p><p>法院往往不分性质情节的主次责任，都按照七、三比例判决侵权方承担损害赔偿，或者像“老人擅自爬树摘杨梅坠亡，家属怪树太好爬、景区没风险提示”一案中的随意适用过错责任。</p><p>这种做法，在司法界相当的普遍。如此判决之后，死者家属自然欢天喜地，不再折腾shang访，但司法和法律的权威最终为此付出血的代价。</p><p>司法向无理取闹的三成责任妥协的同时，其抚平了家属的情绪，却换来大众对司法的鄙夷，对法律充满失落感。这无疑是一次又一次的失败的判决。</p><p>有时候，如何去评价一个判决是否公平，这个问题很多人都说不清，也道不明。</p><p>但这个判决，至少要符合大众心中的良知，对得起你我心中的一杆秤。</p><p>以上是法律分析，抛开上述立场，我最后说说个人观点：</p><p>对于一个酒后，无证驾驶，无牌照摩托车的成年人，自己都不知道爱惜自己，自己明知自己的行为会产生严重危害后果的人，这种人不值得法律保护。</p><p>这次你保护他了（假如他没死），下次受害的就不是垃圾桶了，而是活生生的人呐。</p>", 
+            "topic": [
+                {
+                    "tag": "如何看待/评价 X", 
+                    "tagLink": "https://api.zhihu.com/topics/19760570"
+                }, 
+                {
+                    "tag": "微博", 
+                    "tagLink": "https://api.zhihu.com/topics/19552679"
+                }, 
+                {
+                    "tag": "社会", 
+                    "tagLink": "https://api.zhihu.com/topics/19566933"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "离开苦苦", 
+                    "userLink": "https://www.zhihu.com/people/497812e4b6cfad51db20979367cb8a09", 
+                    "content": "不支持骑手，为什么？骑自行车的时候，逆行电动车比大卡车还危险。", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "对。我也不支持。", 
+                            "likes": 0, 
+                            "replyToAuthor": "离开苦苦"
+                        }, 
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "参考我最后一句话", 
+                            "likes": 0, 
+                            "replyToAuthor": "离开苦苦"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "lyc888", 
+                    "userLink": "https://www.zhihu.com/people/f92f7e0239cd319ed8eadeb89f4b8c2e", 
+                    "content": "我觉得起诉就不算讹人了，因为双方的是非曲直都交给法院去判了。法院判案公正与否另说", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "等法院判决。", 
+                            "likes": 0, 
+                            "replyToAuthor": "lyc888"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Omega-Lovecraft", 
+                    "userLink": "https://www.zhihu.com/people/0a9853ee24ab010b1e69e1474f3c7b4a", 
+                    "content": "给垃圾桶判个无期吧", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "可以，判决在人行道外终身监禁", 
+                            "likes": 2, 
+                            "replyToAuthor": "Omega-Lovecraft"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "呀呀呀", 
+                    "userLink": "https://www.zhihu.com/people/8e980cc98b8a2fc3b3b83117c05f9f44", 
+                    "content": "<p>第三人美团外卖，任用无证人员与车辆，也没有起到员工管理责任。o(╯□╰)o</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "愤怒的枕头", 
+                            "userLink": "https://www.zhihu.com/people/1d9cbbd975efb7e44b36dcac7eddf292", 
+                            "content": "话说，我个人认为他父母也有责任，为什么要生他这玩意儿出来！😂😂😂", 
+                            "likes": 0, 
+                            "replyToAuthor": "呀呀呀"
+                        }, 
+                        {
+                            "userName": "于浩", 
+                            "userLink": "https://www.zhihu.com/people/557d4b93d34f86232386778ee1327393", 
+                            "content": "<p>未成年父母肯定有责任，但成年了，就相当于骑手从美团离开了，那美团就可以不负责任了。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "愤怒的枕头"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "你的良心不会痛吗", 
+                    "userLink": "https://www.zhihu.com/people/36771ab0c38321953294f043a7e25de9", 
+                    "content": "话说长城早就毁了", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/48276786", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 5, 
+            "title": "魔幻：高铁上父亲乱摸女儿，警方说不构成猥亵违法？", 
+            "content": "<blockquote>近日，有网友拍摄一名男子疑似在高铁上猥亵一名女孩儿的视频在网上传播，警方随后表示介入调查。10月31日晚，南昌铁路公安局南昌铁路公安处发布通报称，针对10月28日网传“G1402次列车发生疑似猥亵女童”视频引起媒体和网友关注一事，南昌铁路警方高度重视，立即组织进行调查，现已查明视频中当事人周某某（男，30岁）与小女孩（5岁）系父女关系，视频中周某某行为不够成猥亵违法。</blockquote><hr/><p>公子海认为：猥亵犯罪和行为人的身份无关，这是常识！</p><p>现实中，多个血淋淋而又魔幻的案例告诉我们，未成年人保护法成为了未成年强奸犯的免死金牌。父女关系，不知道什么时候成为了猥亵犯的保护伞。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1、</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-16f06ab31f1956e53617aeaa8897ea80_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"720\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-16f06ab31f1956e53617aeaa8897ea80_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"720\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-16f06ab31f1956e53617aeaa8897ea80_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-16f06ab31f1956e53617aeaa8897ea80_b.jpg\"/></figure><p>新闻视频中可以看出来，男子的行为，已经超出了父女之间疼爱、亲昵的范畴。</p><p>猥亵儿童罪，是指以刺激或满足性欲为目的，用性交以外的方法对儿童实施的淫秽行为。不满十四周岁的男童女童都可以作为本罪的受害人或猥亵对象。猥亵的手段如抠<b>摸、舌舔、吸吮、亲吻、搂抱、</b>手淫、鸡奸等行为。</p><p>男子的行为够明显不？</p><p>《刑法》第二百三十七条规定，猥亵妇女的处以5年以下有期徒刑或者拘役;聚众或者在公共场所当众犯前款罪的，处5年以上有期徒刑;猥亵儿童的，依照两款的规定从重处罚。行为人“在公众场所当众”猥亵儿童时，将处以5年以上有期徒刑。</p><p><b>由于儿童的生理和心理发育尚未成熟,辨别能力差,我国法律并不要求行为人实施暴力、胁迫或者其他方法,不论儿童是否同意,不论儿童是否进行反抗,只要对儿童实施了猥亵行为,即构成猥亵儿童罪。</b></p><p>然而，不可思议的是警方高度重视后的调查结果：</p><blockquote>当事人周某某(男，30岁)与小女孩(5岁)系父女关系，视频中周某某行为不构成猥亵违法。</blockquote><p>个人觉得，警方混淆了亲情（道德）和法律界限。</p><p><b>在公共场合都敢这么肆无忌惮，回家之后，还不翻天了？警方的做法，不免让人又联想到和稀泥。</b></p><p><b>扪心自问：作为父亲，你会当众和孩子拥吻、激吻，不顾及旁人地，不停地摸、吸孩子，把手伸到孩子屁股里吗？孩子的母亲、奶奶毫无反应，恐怕这种事情见惯不怪、习以为常了吧？</b></p><p>本案有些类似“南京南站猥亵女童事件”：2017年8月12日晚7时许，南京南站候车室内发生一起涉嫌猥亵女童案件，南京铁路警方依据查证事实，已以涉嫌“猥亵儿童罪”对段某某依法刑事拘留，对段某某父母正在依法进行调查处理。南京南站猥亵女童事件，即为可参考的案例。</p><p>该男子的行为实质上是否构成猥亵罪，希望警方再次重视，重启调查程序，并重新公布调查的事实情况、案发经过，不能如此草草敷衍了事。</p><p>正是因为警方的公信力缺乏问题，与视频中的一些不堪入目画面相冲突，才引发公众的质疑，如果放任事态发展，塔西佗陷阱将越陷越深。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2、</p><p>我也接触过不少女性的法律咨询。有被亲戚猥亵过，也有被父亲猥亵过的。他们过来咨询的眼神，我还清楚地记得那种眼神和神情的复杂：惶恐，羞愧，还夹杂着若干恐惧，仿佛自己做错了似的。</p><p>受害者曾投诉到父母、亲戚长辈，往往被教育道：算了吧，也许你爸爸是无心的；你表哥不是有意的，他们年纪还小，无所谓。</p><p>受害者也求助过警方，被父母、亲戚诬陷为精神病：“你个禽兽不如的女儿，想让爸爸/表哥坐牢啊”，因为受到长期的斯德哥尔摩综合症的侵蚀，连她们自己都怀疑自己是不是有精神病。</p><p>于是我建议受害者取证，进一步控诉。后来，她们自己多数是跨不过父女关系这层羁绊，尽管猥亵时的那道阴影，在他们心中一直挥之不去，后来还是不了了之。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、</p><p>家庭和父女关系，不是犯罪的庇护所。我不希望警方像对待家暴案件一样，“三不管”式地处理类似的猥亵案件。借用广大网友的一句话：每一次放纵，就是变相的鼓励。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "Audrey", 
+                    "userLink": "https://www.zhihu.com/people/cd9f81dbd83167504e8a0ed991ead0f1", 
+                    "content": "从原话来看“系父女关系”和“不构成猥亵”这两句话之间没有因果关系，网友误读可能性比较大，但当事微博也有表意不明确的责任。", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>第一种假设：警方认为因父女关系，不构成猥亵。这个论断有违法律规定，父亲猥亵不能免责。</p><p>第二种假设：抛开父女关系，警方认为这个乱摸、乱吻行为不构成猥亵，这个认定更要逆天。如果按照这种认定，得有多少人逃脱刑法和治安管理处罚法的制裁</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "Audrey"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/46946950", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 58, 
+            "title": "未成年杀人犯：即使我是一个恶魔，刑法又能奈我何？", 
+            "content": "<p>广西13岁少女肢解同窗好友一案，时隔六年，再次引发争议。</p><p>新闻链接：<a href=\"https://link.zhihu.com/?target=http%3A//dsb.gzdsw.com/html/2013-05/08/content_190041.htm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">嫉恨比自己漂亮13岁少女杀害肢解同学 - 贵州都市报数字报 - 电子版 - 网络版</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>有人说：这样的恶魔，真不值得法律保护。</p><p>然而杀人犯会说：即使我是一个恶魔，刑法又能奈我何？</p><p>1、</p><p>究竟这个13岁的少女，是如何完成杀人、分尸、藏尸、清理现场？如果说她是一个天生的杀人犯，也决计不为过。</p><p>媒体报道的描述，更让人触目惊心：2012年4月10日，因同班同学、好朋友周某比自己漂亮，心生嫉妒的13岁女生覃某邀请周某到自己家玩，并趁周某不备之际用木凳砸周某头部并致其晕倒在地，后又用啤酒瓶砸周某的头部，用割纸刀、剪刀刺、割周某的喉部，最后用菜刀砍周某，导致周某当场死亡。案发后，覃某家属赔偿10000元给死者父母，广西壮族自治区公安厅作出收容教养决定书，认定被告覃某故意杀人，因其作案时未满十四岁，依法不追究刑事责任，决定对覃某收容教养三年。</p><p>三年收容教养，10.8万的赔偿，不承担刑事责任，魔幻，讽刺，恐怖，愤怒，想不出其他的字眼来形容。</p><p>看她的犯罪手法，和心中的恶意，即使是收容教养十年，也无法让这个杀人犯真心悔改。即使是赔偿100万，也无法抚平受害者家属遭受的伤痛。</p><p>显而易见，这个未成年的杀人犯，不是钻了法律的空子，而是刑法成了未成年杀人犯、强奸犯的保护伞。凭什么法律专家挖的坑，要普通百姓买单？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2、</p><p>刑法第十七条规定：【刑事责任年龄】已满十六周岁的人犯罪，应当负刑事责任。已满十四周岁不满十六周岁的人，犯故意杀人、故意伤害致人重伤或者死亡、强奸、抢劫、贩卖毒品、放火、爆炸、投毒罪的，应当负刑事责任。已满十四周岁不满十八周岁的人犯罪，应当从轻或者减轻处罚。因不满十六周岁不予刑事处罚的，责令他的家长或者监护人加以管教;在必要的时候，也可以由政府收容教养。</p><p>对于未满十四周岁的未成年人，即使是杀人、抢劫、强奸，因未达到刑事责任年龄，不承担刑事责任。</p><p>目前，刑法关于刑事责任年龄规定，很明显，已经严重滞后于时代的发展，对于十三岁的未成年人，我们已经不能称之为孩子，不少未成年人，特别是营养好的，已经具备成人般的体力和心智。</p><p>不然，那些未成年杀人犯和强奸犯们，是怎么完成犯罪既遂呢？</p><p>如果还用十四岁来保护未成年人，那样只会让杀人犯们陷入法律保护伞思维：杀人、强奸不违法，也不承担刑事责任。法律管不了我们的生殖器，我们可以为所欲为。即使我是个魔鬼，你刑法又能奈我何？</p><p>善于利用刑法的未成年犯罪分子，他们真的可以逃脱法律的制裁，逍遥法外。</p><p>法律究竟保护了谁，未成年人，还是受害者？我只知道，不是所有的未成年人都值得保护，现实中受害者没有得到公平地对待。</p><p>这时候真的很怀疑，刑法的威慑作用和指导作用。</p><p>对待未成年犯，我们一直强调“教育、感化、挽救”，“教育为主、惩罚为辅”，但大家都忽略了一点，刑法的主要功能在于以刑事处罚改造罪犯，惩处才是刑法的主要形式。</p><p>如果不惩处未成年罪犯，刑法完全丧失了法律的初衷。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、</p><p>有些专家认为：未成年心智尚不健全，很多犯罪行为都属于不顾后果的冲动而为，法律应该为他们提供更多的教育和改正的机会。</p><p>但冲动不是借口，心智不是理由，能策划犯罪、实施犯罪的，心智已可认定为健全。普通的小孩，哪里敢胡乱烧杀抢掠。</p><p>当杀人犯挥刀杀人碎尸的那一刻，他们给过受害者一个机会吗？</p><p>受害者，才是法律应予拯救的对象。</p><p>刑法不是一个圣人，不能和稀泥，也不能推卸其应负的社会责任。</p><p>在日本，经历过“光市母子杀害事件”，未成年不死刑的原则已经在这起案件的审判中被突破了。其后，日本还因为两起低龄未成年人残杀儿童案而将少年院儿童年龄从14岁修改到了12岁。</p><p>国际上，还存在“恶意补足年龄规则”，即年龄虽未达到14岁，但根据犯罪手段的残忍程度、主观故意、损害后果、社会影响等多方面，综合推定后追究刑事责任的一项制度。</p><p>强烈建议引入该制度，弥补刑法的漏洞。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>4、</p><p>广西13岁少女肢解同窗好友一案，不是一个孤案。</p><p>2010年，韦某于家乡广西掐死一名男孩，但因其当年未满14周岁而未负刑事责任。2011年，他持刀伤害一名小女孩，被判刑6年。2015年11月，时年19岁的韦某减刑保释后在广州市番禺区杀害一名11岁女孩。</p><p>新闻链接：<a href=\"https://link.zhihu.com/?target=http%3A//xian.qq.com/a/20160122/023319.htm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">对少年犯罪 应避免走入“片面保护”误区</a></p><p>2015年10月18日下午，湖南省邵阳市邵东县发生一起“未成年人杀死女教师”的恶性事件，但因3名罪犯均未满14周岁，最后不负刑责，被送往工读学校。</p><p>新闻链接：<a href=\"https://link.zhihu.com/?target=http%3A//news.youth.cn/sh/201510/t20151021_7226720.htm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">湖南邵阳3未成年学生劫杀女教师 3人中最大13岁_新闻频道_中国青年网</a></p><p>2016年6月13日，四川金川县13岁少年方某为抢一部手机，将过路23岁女老师泼汽油特重度烧伤，就在事发后几天内，方某又接连犯下盗窃和抢夺路人两起案件，最终因方某未满14周岁，不承担刑事责任，由其父亲在家看守。</p><p>新闻链接：<a href=\"https://link.zhihu.com/?target=http%3A//news.ifeng.com/a/20160812/49762296_0.shtml\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">13岁少年为抢手机泼汽油烧伤女教师 刑责年龄争议再起</a></p><p>2016年7月，广西一名13岁少年沈某杀害3人后被警方抓获，因其未满14周岁，不承担刑事责任，仅被送往未成年犯管所执行为期三年的收容教养。</p><p>新闻链接： <a href=\"https://link.zhihu.com/?target=http%3A//news.ifeng.com/a/20160810/49751273_0.shtml\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">广西一名13岁少年杀3人未担刑责！刑事责任年龄是否该降</a></p><p>以上案例，个个都是恶性犯罪。他们的犯罪手法，不比某些成年人犯罪低端，甚至更加心狠手辣，残忍程度有过之而不及。</p><p>必须承认的是，能够犯罪的少年犯，其心智和身体的早熟，已经胜过常人。</p><p>因此，针对严重的、手段残忍的暴力犯罪，在立法中考虑降低刑事责任年龄，已经刻不容缓。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>5、</p><p>守法的孩子，绝对不会去犯罪。</p><p>违法的未成年，即使是12岁，也会想着去杀人、强奸、抢劫。</p><p>对法律的无奈，只会变成复仇怒火。</p><p>最可怕的是，如果司法救济无法让杀人犯得到应有的惩处，抚平受害者及其家属遭受的伤痛，受害者及其家属必然会寻求私力救济，以血还血，以牙还牙。</p><p>这是我们最不愿意看到的。</p>", 
+            "topic": [
+                {
+                    "tag": "犯罪", 
+                    "tagLink": "https://api.zhihu.com/topics/19571583"
+                }, 
+                {
+                    "tag": "刑法", 
+                    "tagLink": "https://api.zhihu.com/topics/19591312"
+                }, 
+                {
+                    "tag": "未成年人犯罪", 
+                    "tagLink": "https://api.zhihu.com/topics/20020696"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "皓月当空", 
+                    "userLink": "https://www.zhihu.com/people/4f77bfbe10ad177fbb41d148be1b9c90", 
+                    "content": "我觉得这篇文章真的说的有道理", 
+                    "likes": 4, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<a class=\"comment_sticker\" href=\"https://pic2.zhimg.com/v2-90359a720808ff45062287127cfa1039.gif\"> [爱心]</a>", 
+                            "likes": 2, 
+                            "replyToAuthor": "皓月当空"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "凇呐", 
+                    "userLink": "https://www.zhihu.com/people/9b8a6007d446a416b6c073b286b644f3", 
+                    "content": "很棒", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<a class=\"comment_sticker\" href=\"https://pic2.zhimg.com/v2-90359a720808ff45062287127cfa1039.gif\"> [爱心]</a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "凇呐"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "花想容", 
+                    "userLink": "https://www.zhihu.com/people/289f6586b0bbc3d0ae181f9dac0f467f", 
+                    "content": "<p>嗯嗯，既然法律不能给予公道，那就没有遵守的必要，我想这也是人们崇拜黑暗英雄的原因吧。社会和法律将一个守法的良民，变成一个复仇的乱民，他们也都需要承担责任，不是站在教科书上说你错了，就可以心安理得的</p>", 
+                    "likes": 4, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "王小美", 
+                    "userLink": "https://www.zhihu.com/people/c2eb34e05bbc3f53d3738a9d755a046c", 
+                    "content": "以后少去广西，碰到个人如果是她回头踩点把我杀了都没出说理", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "李玉壶", 
+                    "userLink": "https://www.zhihu.com/people/eb3a7b05b016e9def5d16c6ed1cf5d17", 
+                    "content": "<p>然而都死了那么多人了，法律专家们还是没想过修改下，甚至还有专家喊着废除死刑。</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "何么", 
+                    "userLink": "https://www.zhihu.com/people/8ea295f3f6e408f6baeafe594046f1df", 
+                    "content": "没用的，法律修改起来太困难了，而且这是个经济社会这些又是个案如果有个官员想要修改要提议案还要人大代表投票，十年两届不是没人提过，改不动啊我们能做的就只有保护好自己了，之前的高中强奸案都违法和解了（刑事案件法律上是不能和解的）经济疯狂增长的时候没人花心思干这些事。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Blazing Sky", 
+                            "userLink": "https://www.zhihu.com/people/4310c21f590471a5e3d70c1addc61c41", 
+                            "content": "你说修改起来很困难这倒是真的，但你说没用这就有问题了", 
+                            "likes": 1, 
+                            "replyToAuthor": "何么"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "弦音", 
+                    "userLink": "https://www.zhihu.com/people/7ef7dc3b3add021d332735c012b221cd", 
+                    "content": "喜欢最后一句，经济社会才是真正的黑暗森林，只有保护自己才能适应社会。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "202", 
+                    "userLink": "https://www.zhihu.com/people/7ff5a5fd1e815414a9273cbb5a0bca04", 
+                    "content": "结果出来了，小畜生没受到惩罚放了出来<br><br><br>想要解决这种问题（十四岁以下杀人基本没惩罚）其实很简单，咱们大肆宣传十四岁以下孩子的权利，告诉他们可以随便杀人，看谁不爽就杀，随便强奸，看上哪个小姑娘漂亮约几个小伙伴一起强奸她，一个不够强奸十个，强奸的开心了可以把她虐杀掉。家长找上门就杀了她家长。还可以帮这些人指定好完整的杀人计划杀人强奸技巧 以及告诉他如何善后。<br><br>当问题足够大的时候，腐烂的垃圾彻彻底底暴露在阳光下的时候问题才会得到解决。<br><br>现在这个时代14岁可以得到什么样的信息量不用我多说了，怕是要达到当年制定这法律的年代的人的30岁的信息，他们要是彻彻底底明白了自己在这个烂国家享受着什么不可思议的特权，那可真是太有意思了。<br><br>发布于 15:10・著作权归作者所有", 
+                    "likes": 4, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "你是说杀母那个？", 
+                            "likes": 0, 
+                            "replyToAuthor": "202"
+                        }, 
+                        {
+                            "userName": "Blazing Sky", 
+                            "userLink": "https://www.zhihu.com/people/4310c21f590471a5e3d70c1addc61c41", 
+                            "content": "是的，然后2019年1月1日又来了个杀双亲的", 
+                            "likes": 0, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "韩洋", 
+                    "userLink": "https://www.zhihu.com/people/87e4da51c126425b3e8e871586037791", 
+                    "content": "可悲的是  中国普通百姓没有话语权 在日本英国发生类似的事情  普通百姓给的舆论压力直接迫使法律修改 而中国只会压制舆论", 
+                    "likes": 2, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/43464994", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 36, 
+            "title": "正当防卫：原来你只负责保护坏人！", 
+            "content": "<p>1、</p><p>2009年，5月10日晚，湖北恩施巴东县。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>邓玉娇在雄风宾馆，因拒绝提供“异性洗浴”服务，刺死了小镇官员邓贵大。</p><p>一时间，轰动全国。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>然而，最终一审判决：邓玉娇被判故意伤害罪成立，免予刑事处罚。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6d8a1b16a80bcc01f05a15e3560f203b_b.jpg\" data-rawwidth=\"516\" data-rawheight=\"637\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"516\" data-original=\"https://pic4.zhimg.com/v2-6d8a1b16a80bcc01f05a15e3560f203b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;516&#39; height=&#39;637&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"516\" data-rawheight=\"637\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"516\" data-original=\"https://pic4.zhimg.com/v2-6d8a1b16a80bcc01f05a15e3560f203b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6d8a1b16a80bcc01f05a15e3560f203b_b.jpg\"/></figure><p>法院宣判，她的行为构成故意伤害罪，但属防卫过当，她因患心境障碍，属限制刑事责任能力，同时又有自首情节，所以法院决定对其免除处罚。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>看似荒唐的理由，给了当地法院一个台阶下。宣判那一刻，当地政府胜利了，民意和舆论败了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2、　</p><p>2016年4月14日，山东。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>源大工贸负责人苏银霞及其子于欢，被11名催债人限制人身自由并受到侮辱。于欢刺伤4人，其中1人死亡。于欢一审被以故意伤害罪判处无期徒刑。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>6月23日上午9时许，山东省高级人民法院宣判，裁定于欢犯故意伤害罪，判处有期徒刑五年。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-dc81489683c1d5000ca4b82ad7d56877_b.jpg\" data-rawwidth=\"654\" data-rawheight=\"436\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"654\" data-original=\"https://pic4.zhimg.com/v2-dc81489683c1d5000ca4b82ad7d56877_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;654&#39; height=&#39;436&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"654\" data-rawheight=\"436\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"654\" data-original=\"https://pic4.zhimg.com/v2-dc81489683c1d5000ca4b82ad7d56877_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-dc81489683c1d5000ca4b82ad7d56877_b.jpg\"/></figure><p>无期徒刑，有期徒刑5年，差距大到匪夷所思。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>但，民意和舆论取得了阶段性胜利。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、</p><p>8月29日，最高检发布微博：</p><p>27日晚，江苏省昆山市发生一起持刀砍人案，昆山市检察院连夜提前介入。经调查：当晚21时许，犯罪嫌疑人于某和被害人刘某因交通问题发生口角，继而升级为持刀伤害，致使被害人死亡。目前，该案正进一步侦查中，犯罪嫌疑人已被控制。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>目前初步定性：继而升级为持刀伤害，致使被害人死亡。一石激起千层浪，这个微博必将激起万层。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这一刻，似乎民意和舆论又败了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>4、</p><p>中国裁判文书网上100份以“正当防卫”为由要求轻判的二审（终审）刑事判决书，仅有4份被法院认定，其他20份为防卫过当，76份为故意伤害罪。法治社会，“以暴制暴”不被允许，“我”拿刀戳向“你”的时候，“你”并不能理直气壮地戳回去。那该怎么办？别动手，你最正确的姿势就是跑。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4a7024427d4b2b69d5f45116237be5a3_b.jpg\" data-rawwidth=\"1125\" data-rawheight=\"764\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1125\" data-original=\"https://pic4.zhimg.com/v2-4a7024427d4b2b69d5f45116237be5a3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1125&#39; height=&#39;764&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1125\" data-rawheight=\"764\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1125\" data-original=\"https://pic4.zhimg.com/v2-4a7024427d4b2b69d5f45116237be5a3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4a7024427d4b2b69d5f45116237be5a3_b.jpg\"/></figure><p>没错，这是江苏检察在线发布的微博，你不得不相信。原来，在中国的法律体系之下，你的选择没有多少：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d326d7d331961c405c3e88c3fb3c9113_b.jpg\" data-rawwidth=\"1464\" data-rawheight=\"640\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1464\" data-original=\"https://pic4.zhimg.com/v2-d326d7d331961c405c3e88c3fb3c9113_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1464&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1464\" data-rawheight=\"640\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1464\" data-original=\"https://pic4.zhimg.com/v2-d326d7d331961c405c3e88c3fb3c9113_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d326d7d331961c405c3e88c3fb3c9113_b.jpg\"/></figure><p>面对恶人，要么杀死恶人，要么逃跑。就算你跑了，龙哥这样的人打电话叫人，骚扰、威胁你的家人，让你惶恐中度日。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>正当防卫：原来你只负责保护坏人。到诉讼阶段，你追求的无罪，是痴念妄想。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>网上一个段子，完美地道出了中国正当防卫的困窘之处：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><i>刚去查了下法律条文，终于弄明白了什么是正当防卫，吓死个人啊!什么叫“正当防卫”呢?</i></p><p><i>举个例子，当坏人拿刀对着你时，你不能反击，因为伤害“尚未开始”。</i></p><p><i>当坏人的刀插入你的身体后，你仍然不能反击，因为伤害“自动停止”。</i></p><p><i>当坏人的刀从你体内拔出后，你还是不能反击，因为伤害“实施完毕”。</i></p><p><i>违反以上任意一条都属于“防卫过当”要负刑事责任的。</i></p><p class=\"ztext-empty-paragraph\"><br/></p><p>归根到底，正当防卫的技术性标准是有问题的。一个法律制度，按照其规定的标准，竟让人们对自己的行为无法预测。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>5、</p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国著名法学家，美国最高法院大法官霍姆斯曾说出一句名言：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><i>“面对一把举起的刀，不可能要求一个人进行冷静的思考。”</i></p><p class=\"ztext-empty-paragraph\"><br/></p><p>美国有超过30个州有“不退让法”。根据这项法律，民众在与他人发生对抗时无需选择退让，可在认为生命安全遭受威胁时使用致命武力，这种情况下杀人被认为是自卫。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2012年，一名美国白人协警怀疑黑人少年行为不轨，对其实施跟踪，最终二人爆发冲突，协警开枪打死黑人少年。事后法院判决白人协警无罪，依据正是“不退让法”。2018年7月19日，美国佛罗里达州一男子因争夺车位开枪击死另一名男子，警察称其举动属于正当防卫，根据“不退让法” 他不会受刑事指控。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>截至目前，美国依据“不退让法”相关规定，已经有多起案件，均被认定为正当防卫，而不受指控。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><i>而中国裁判文书网上100份以“正当防卫”为由要求轻判的二审（终审）刑事判决书，仅有4份被法院认定，其他20份为防卫过当，76份为故意伤害罪。</i></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>相比而下，中国类似的判例太少，正当防卫制度被束之高阁，沦为冷冰冰法律条文，缺乏人性的光辉。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>6、</p><p>舆论左右司法，都是被逼的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>司法是维护社会公平正义的最后一道防线，他希望自己是公正、公平的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>法律，值得人们信仰，希望被人们信仰。他不希望被舆论左右。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>然而，在中国，越来越多的人们，都被逼的不再信仰法律，不再敬畏法律。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>由于法律的滞后性，我国的正当防卫制度标准严格，历来饱受诟病。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>当司法裁判违背正义，缺乏最基本的人性光辉时，它必将被舆论左右。舆论，多少代表了民意，代表了整个社会对正当防卫事件的基本良知。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>现在是，民意和舆论逼着法律与时俱进。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>希望龙哥被砍杀的案件，能够改变正当防卫的判定标准，能够作为指导性案例公之于众，弘扬司法正义。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>能拯救电动车主的，似乎只剩下民意和舆论了。</p>", 
+            "topic": [
+                {
+                    "tag": "正当防卫", 
+                    "tagLink": "https://api.zhihu.com/topics/19612926"
+                }, 
+                {
+                    "tag": "法律", 
+                    "tagLink": "https://api.zhihu.com/topics/19550874"
+                }, 
+                {
+                    "tag": "刑法", 
+                    "tagLink": "https://api.zhihu.com/topics/19591312"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "沙拉芥末", 
+                    "userLink": "https://www.zhihu.com/people/5a6015977ce0dd0fd720973cf5453576", 
+                    "content": "结果已经出来了，正当防卫，不追究刑事责任", 
+                    "likes": 7, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "总算出来了结果。", 
+                            "likes": 3, 
+                            "replyToAuthor": "沙拉芥末"
+                        }, 
+                        {
+                            "userName": "「已注销」", 
+                            "userLink": "https://www.zhihu.com/people/32ac17db37c12fde06b3453b7bcee1d0", 
+                            "content": "这算是人民的胜利吧[语塞]", 
+                            "likes": 0, 
+                            "replyToAuthor": "沙拉芥末"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "强中手", 
+                    "userLink": "https://www.zhihu.com/people/27c341847f3eb126d7a6eae9f1ea9b42", 
+                    "content": "症结在于故意伤害是结果犯而非行为犯，防卫过当按故意伤害追责必然也是行为无价值结果至上的，要改变目前正当防卫作为排除犯罪事由失效的问题，就必须首先改变目前刑法所持伤害罪结果化的立场！", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/41914281", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 4, 
+            "title": "法律冷知识：女友和妈落水先救谁？男人强奸男人，怎么判？？", 
+            "content": "<p>1、居民身份证上写的不是居民身份号码，而是公民身份号码！</p><p>拿出身份证看看之后不要忘了点赞。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2、女朋友和妈妈掉进河里，你只能救妈妈，不然的话构成不作为犯罪。</p><p>你对女友只有道义上而没有法律上的救助义务，所以如果先救母，女友死亡的，不构成犯罪，反之，如果先救女友而母亲死亡的，构成不作为犯罪。即故意杀人罪！</p><p>结婚了老婆就不要为难我们男性同胞了，因为两个都要救！</p><p>让无数男人纠结千年的难题，一朝终被破解。</p><p>该题目曾在司法考试中出过，但存在一定学术争议。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、红酒没有张贴中文标签，可以向销售者主张10倍赔偿</p><p>《最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定》第十五条的规定：“生产不符合安全标准的食品或者销售明知是不符合安全标准的食品，消费者除要求赔偿损失外，向生产者、销售者主张支付价款十倍赔偿金或者依照法律规定的其他赔偿标准要求赔偿的，人民法院应予支持。”</p><p>由于红酒属于食品，而根据《中华人民共和国食品安全法》第九十七条，张贴中文标签属于强制性规定。因此，没有中文标签的红酒，不符合食品安全标准，可以主张十倍赔偿。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>职业打假人就是这样发家致富的。</p><p>红酒店老板、酒吧老板会不会举报我？？</p><p>你们要是因此发达了，勿相忘。不会诉讼的，请委托公子海律师。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>4、拐卖成年男人，不构成拐卖类犯罪。</p><p>我国《刑法》只规定了拐卖妇女、儿童罪（根据有关司法解释，妇女，是指已满14周岁的女性，既包括具有中国国籍的妇女，也包括具有外国国籍和无国籍的妇女。儿童，是指不满14周岁的男女儿童），对拐卖已满14周岁的男子（包括成年男性），没有规定具体的拐卖罪名。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>5、因劝酒导致饮酒人受伤或死亡，有过错的劝酒人需承担赔偿责任。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>6、物权法第一百一十三条规定：遗失物自发布招领公告之日起六个月内无人认领的，归国家所有。要是我的手机丢了，公安局发布招领公告之日起六个月内无人认领，充公国库了？？！！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>7、婚内丈夫强奸妻子，一般不认定为强奸罪！</p><p>在刑事审判参考案例第20号：白俊峰强奸案中，被告人白俊峰的行为不构成强奸罪,主要理由是:是否违背妇女意志是构成强奸罪的必备法律要件。<b>虽然婚内夫妻两人性行为未必都是妻子同意,但这与构成强奸罪的违背妇女意志强行性交却有本质的不同。根据婚姻法的规定,合法的婚姻,产生夫妻之间特定的人身和财产关系。同居和性生活是夫妻之间对等人身权利和义务的基本内容,双方自愿登记结婚,就是对同居和性生活的法律承诺。因此,从法律上讲,合法的夫妻之间不存在丈夫对妻子性权利自由的侵犯。</b>相反,如果妻子同意与丈夫以外的男子发生性关系却构成对合法婚姻的侵犯。所以,如果在合法婚姻关系存续期间,丈夫不顾妻子反对、甚至采用暴力与妻子强行发生性关系的行为,不属刑法意义上的违背妇女意志与妇女进行性行为,不能构成强奸罪。同理,如果是非法婚姻关系或者己经进入离婚诉讼程序,婚姻关系实际已处于不确定甲,丈夫违背妻子的意志,采用暴力手段,强行与其发生性关系,从刑法理论上讲是可以构成强奸罪的。但是,实践中认定此类强奸罪,与普通强奸案件有很大不同,应当特别慎重。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>8、男人强奸男人，不定强奸罪</p><p>按照刑法规定，强奸罪的对象是女性。男性被强奸，不会判强奸。如果是强奸小孩，只能判决强制猥亵儿童罪。</p><p>在广州也发生过侵害对象为男性的案件。2011年,广州市越秀区检察院向媒体通报一起猥亵儿童罪案件:已成家、有半岁大儿子的阿明(化名),对经常来他家玩的邻居9岁小孩辉仔进行鸡奸,造成小朋友肛裂,事后还辩称对方是做俯卧撑撞伤。虽然阿明的行为对辉仔的身心造成巨大伤害,但这类案件因为法律空白而无法处理,最终阿明被判为猥亵儿童罪,一审判处其有期徒刑三年四个月。</p>", 
+            "topic": [
+                {
+                    "tag": "强奸罪", 
+                    "tagLink": "https://api.zhihu.com/topics/19635019"
+                }, 
+                {
+                    "tag": "刑法", 
+                    "tagLink": "https://api.zhihu.com/topics/19591312"
+                }, 
+                {
+                    "tag": "人口贩运", 
+                    "tagLink": "https://api.zhihu.com/topics/19874727"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "若兮姑娘", 
+                    "userLink": "https://www.zhihu.com/people/368e441bd1e43d3e00cb73f2953a0ca7", 
+                    "content": "补充:第二条，应该是在男子理应能救起母亲的情况下他不救就构成不作为犯罪 这和他救不救女友没关系。如果他不能救母亲救起了女友，不构成不作为犯罪，如果他能救母亲两个都没有救也构成不作为犯罪。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "若兮姑娘", 
+                    "userLink": "https://www.zhihu.com/people/368e441bd1e43d3e00cb73f2953a0ca7", 
+                    "content": "问题:如果是母亲和妻子同时掉进水里，水流湍急，某男子救了且条件只允许他救其中一个（但我们假设落水两人的最初位置都方便他救助），导致另一方死亡的，他构成不作为犯罪吗？这应该是道驳伦。假设他救母亲，那他由于在妻子能救助的时间没有救，对妻子构成不作为犯罪，但他由于救了母亲，之后导致条件上妻子已经无法救助，又不构成不作为犯罪，反之依然……", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/41736468", 
+            "userName": "楚国公子海", 
+            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+            "upvote": 56, 
+            "title": "异烟肼毒狗，一场私力救济的闹剧", 
+            "content": "<p>异烟肼毒狗，是以恶止恶，</p><p>也是对“遛狗不拴绳”的暴力反抗。</p><p>当公力救济渠道无法实现正义的时候，</p><p>私力救济必然取而代之。</p><p>一、以恶止恶，以暴制暴，毒狗是伪正义面具之下的报复行为</p><p>毒杀狗类，首先肯定属于侵犯他人财产权，属于侵权行为，具有相当的违法性。超过一定剂量，还会导致人受到伤害。</p><p>那异烟肼毒狗的行为，是否违反刑法规定？</p><p>这种情况需要看案件情况而定。</p><p>刑法第二百七十五条规定，故意毁坏公私财物，数额较大或者有其他严重情节的，处三年以下有期徒刑、拘役或者罚金；</p><p>数额巨大或者有其他特别严重情节的，处三年以上七年以下有期徒刑。</p><p>《最高检、公安部关于公安机关管辖的刑事案件立案追诉标准的规定》第三十三条规定：</p><p>故意毁坏公私财物，涉嫌下列情形之一的，应予立案追诉：</p><p>(一)造成公私财物损失五千元以上的;</p><p>(二)毁坏公私财物三次以上的;</p><p>(三)纠集三人以上公然毁坏公私财物的;(四)其他情节严重的情形。</p><p>按照规定，如果狗的价值五千元以上，可以进行追诉，很明显，毒狗的人明知道自己的行为为造成宠物狗的死亡，仍然希望这种结果的发生。</p><p>如果狗的价值五千元以下，则不构成犯罪。按照司法解释的规定，如果毒狗三次，无论金额，同样构成犯罪。</p><p>另外，如果异烟肼超过法定剂量，或危害公共安全，则构成投放危险物质罪。</p><p>在此，提醒诸位即将毒狗之人，请三思而行。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>二、毒狗违法，舆论并没有一边倒</p><p>既然毒狗违法，舆论并没有一边倒，支持者有之，反对者不乏少数。</p><p>原因恐怕在于：毒狗，说出了广大人民群众的心声。</p><p>目前国内部分省市出台了约束不文明养宠的法律法规措施，包括北京、广州济南、四川等地。</p><p>但大多流于形式，缺乏执行力。“遛狗不拴绳”依然随处可见。</p><p>报警有用吗？投诉有用吗？警方多会以这种情况属于民事纠纷、三不管领域来各种推诿。</p><p>执法难度大，违法成本低，这是监管者各种推诿的说辞。</p><p>执法不严，惩罚力度本身也不够，这是监管者面临的现实问题。</p><p>当公力救济渠道无法实现正义的时候，私力救济必然取而代之。</p><p>私力救济的盛行，已经折射出中国的宠物/动物公共管理领域监管者缺位。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>三、靠文明约束，没办法解决根本问题。</p><p>很多媒体一直提倡文明养狗，我一直认为，靠文明约束，靠道德的约束，都解决不了“遛狗不拴绳”。</p><p>文明和道德其本身就没有什么约束力。</p><p>依靠目前的执法机关，是没有办法解决的。普通人，只能靠私力救济。</p><p>私力救济产生的后遗症就是：</p><p>现在已经是一个人不如狗的时代。</p><p>毒狗可能判刑。</p><p>被狗咬后，什么事都没有。或仅限于民事赔偿责任。</p><p>毒狗时，狗粉们想的是：谁来拯救我的狗狗?</p><p>恶犬伤人时，谁来拯救不养狗的普通人？</p><p>谁付出的代价更高，大家心知肚明。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>四、国外有先进的规则，为什么我们还要摸着石头过河</p><p>根据媒体公开报道：</p><p>在美国，养狗主人首先必须缴纳20美元到20美元的注册费，法律还规定:除非在自家院子里，</p><p>狗在其他地方都要系上皮带或链条；</p><p>英国养狗需要在狗脖子上挂牌注明主人姓名和住址，未挂牌的狗在外游荡将被作为流浪犬收容；</p><p>日本养狗人必须为狗进行登记，详细申报养狗人的姓名、住址、所养狗的数量、种类和用途，</p><p>到街上遛狗，要随时拽紧狗项圈上的缰绳。</p><p>以上规则，国内已有借鉴，或只是东施效颦。</p><p>其实，破解上述难题，难在哪里？</p><p>难点不在于执法者执法难度大，而在于立法者能否以民主程序，制定一部管理宠物的规则，并由执法者有效、强力付诸实施。</p><p>这部规定，需得满足了狗粉的爱心，也得照顾了常人的自由和安全。</p><p>然而，在中国，这是一个破不了的难题。</p><p>难到难产的难题。</p><p>对于养狗的人来说，这是一个最好的时代。</p><p>对于不养狗的人来说，这是一个最坏的时代。</p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "刑法", 
+                    "tagLink": "https://api.zhihu.com/topics/19591312"
+                }, 
+                {
+                    "tag": "法律", 
+                    "tagLink": "https://api.zhihu.com/topics/19550874"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "王王王", 
+                    "userLink": "https://www.zhihu.com/people/8a9fa75f7f29e71e7122d7ca692ccce4", 
+                    "content": "毒狗违法，咬人不违法，人不如狗", 
+                    "likes": 90, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>现在就是人不如狗。人打狗，被抓了。狗咬人，什么事情都没有。</p>", 
+                            "likes": 38, 
+                            "replyToAuthor": "王王王"
+                        }, 
+                        {
+                            "userName": "不朽孤诣", 
+                            "userLink": "https://www.zhihu.com/people/465f5a504f911cf6c992d344b74b298d", 
+                            "content": "流浪狗不属于公私财物吧。<br>不牵绳子按照地方行政法规作流浪狗解。<br>因果断裂吧。<br>即虽然投放和毒死有直接联系，但是狗不牵绳子和不带嘴套法律上拟认定为异常，直接导致狗死。<br>所以？", 
+                            "likes": 4, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "最爱大香蕉", 
+                    "userLink": "https://www.zhihu.com/people/2f0cd7462670bbc3334bb2e63a270aef", 
+                    "content": "有投放异烟肼毒狗被处罚或者判刑的案例吗？", 
+                    "likes": 5, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "杀狗被判刑的有这种案例", 
+                            "likes": 0, 
+                            "replyToAuthor": "最爱大香蕉"
+                        }, 
+                        {
+                            "userName": "三蠹", 
+                            "userLink": "https://www.zhihu.com/people/919c8f1b8c28d0086b3e91247f9686cc", 
+                            "content": "<p>我好奇杀狗是特定目标的，如果投异烟肼香肠的人只是不特定抛洒，主观目的是毒杀流浪狗，这样还构成故意破坏公私财物罪吗？</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "最爱大香蕉", 
+                    "userLink": "https://www.zhihu.com/people/2f0cd7462670bbc3334bb2e63a270aef", 
+                    "content": "狗被异烟肼毒死了，报警警察会立案吗？", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "可以要求立案", 
+                            "likes": 0, 
+                            "replyToAuthor": "最爱大香蕉"
+                        }, 
+                        {
+                            "userName": "哈喽山", 
+                            "userLink": "https://www.zhihu.com/people/50bbb92c8978c6a18606691753c1e18d", 
+                            "content": "想知道如果丢木糖醇有事么。。。", 
+                            "likes": 1, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "呱呱爆炸蛙", 
+                    "userLink": "https://www.zhihu.com/people/61fc6bc59d8a29c33c761e429aa6a849", 
+                    "content": "异烟肼对狗的半致死剂量对人无影响。法理上没处告。另外狗无链状态法理上属于流浪狗。法律没法管。", 
+                    "likes": 42, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "不是没法管，是不想管", 
+                            "likes": 4, 
+                            "replyToAuthor": "呱呱爆炸蛙"
+                        }, 
+                        {
+                            "userName": "「已注销」", 
+                            "userLink": "https://www.zhihu.com/people/de818827d6ae88dad2284c4cc286f7c2", 
+                            "content": "终于说到点子上了，谁特么警察给你去找投药的人？这么闲我去找两个吸毒的多好？你得考虑警察的感受～", 
+                            "likes": 6, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "千里红叶", 
+                    "userLink": "https://www.zhihu.com/people/40aa4d01add929a896b1f931ab4773f4", 
+                    "content": "<p>所有人都在说以暴制暴不可取，毒狗是暴，狗咬人也是暴，但所有人都不提依法治暴，因为所有人都知道法律监管缺失了，呵呵，等法律监管到位了，谁愿意为了那些和自己无关的宠物狗去承担违法的风险。</p>", 
+                    "likes": 34, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Van一DDF 階段", 
+                    "userLink": "https://www.zhihu.com/people/961ca7a416ed376a0ec635c87518acb5", 
+                    "content": "這些東西說出來啊，沒有任何價值。法律在這個裁定上不靠譜，自然就有有人鑽法律的空子。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "大徐", 
+                    "userLink": "https://www.zhihu.com/people/89eeb1531504484bc0154eecce8baf0f", 
+                    "content": "先毒死再说，想那么多干嘛", 
+                    "likes": 18, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "请问在哪里买异Xx", 
+                            "likes": 1, 
+                            "replyToAuthor": "大徐"
+                        }, 
+                        {
+                            "userName": "快递员", 
+                            "userLink": "https://www.zhihu.com/people/0be51a76beaa16d7611746c83c23eead", 
+                            "content": "也可以用木糖醇，超市就有还便宜", 
+                            "likes": 3, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "陈小艺", 
+                    "userLink": "https://www.zhihu.com/people/da005f373f60735c0d3e84fb1ca796e8", 
+                    "content": "支持这些养狗的太没素质", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "刘昊", 
+                    "userLink": "https://www.zhihu.com/people/a8c57a3f3a78120019d8be0c563edd0b", 
+                    "content": "然而因为有流浪狗的存在，很难证明是为了杀死特定的狗而投放，告个非法狩猎罪可能性都大一点", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Acolyte", 
+                            "userLink": "https://www.zhihu.com/people/0fe5e34807ae4536b1fe22e70428aa26", 
+                            "content": "并不以获取猎物为目的，狩猎都谈不上更谈不上非法狩猎。而且流浪狗也不是国家保护野生动物。", 
+                            "likes": 2, 
+                            "replyToAuthor": "刘昊"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "刘昊", 
+                    "userLink": "https://www.zhihu.com/people/a8c57a3f3a78120019d8be0c563edd0b", 
+                    "content": "其实可以考虑授权城管用异烟肼毒杀流浪狗并作为一个长期任务布置。而且毕竟狗咬的主要风险来自于狂犬病，这个和体型是没有关系的，规定所以狗必须带嘴套也是合理的", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "然而执法部门总是吐槽执法难度大", 
+                            "likes": 0, 
+                            "replyToAuthor": "刘昊"
+                        }, 
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "只有规定之后，附带法律责任和惩戒措施，才能彻底解决不戴口罩、不牵绳的问题。", 
+                            "likes": 0, 
+                            "replyToAuthor": "刘昊"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "尤勇", 
+                    "userLink": "https://www.zhihu.com/people/cfecb9d0c6036a09c478ea27a4ad0bfd", 
+                    "content": "首先，异烟肼不是毒物，是药物。结核病人需吃上最少9个月以上，真正有毒的话早淘汰了。这个不属于投放危险物品的范围，其次，谁主张谁举证，你得首先有狗证，证明这只狗是你的，还得证明你的狗就是吃了异烟肼死，而不是其他什么问题抽风死掉的，还要举证是吃了别人投的异烟肼，而不是自己喂得！最关键的问题，你觉得警察叔叔会闲的蛋疼为一只狗去卖力破案吗？自从上次长沙打狗事件，警察被人肉辱骂，全国警察叔叔对狗奴基本没什么好感，就立案也不过走个过场！", 
+                    "likes": 10, 
+                    "childComments": [
+                        {
+                            "userName": "LordRia", 
+                            "userLink": "https://www.zhihu.com/people/0cd3719343f26e383c1ce918c2c8a472", 
+                            "content": "倒不一定非要，吃九个月以上的药，作为一个得过肺结核的患者，支持了6个月的药，可能是因为我的症状比较轻吧，而且吃的都是利福平和异福片，这种综合类的药物", 
+                            "likes": 0, 
+                            "replyToAuthor": "尤勇"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "张宏雷", 
+                    "userLink": "https://www.zhihu.com/people/9cedc04a9b74a6e0313013339431cd41", 
+                    "content": "中国人不陪养狗", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "lh900905", 
+                    "userLink": "https://www.zhihu.com/people/680fbac1e5b16316cd6669c82bb77ff0", 
+                    "content": "多点定点投放，投放处加标示！散投乱投的就是心怀不轨，恶意破坏他人私有财产！属素质极低的表现！和狗奴有何分别？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "lh900905", 
+                    "userLink": "https://www.zhihu.com/people/680fbac1e5b16316cd6669c82bb77ff0", 
+                    "content": "异烟肼属处方药，真查起来又有不少药店违规出售处方药关门？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Lynn", 
+                    "userLink": "https://www.zhihu.com/people/d8c7b89b555d46e8120285fdd92f7a61", 
+                    "content": "说自己药不小心撒了就可以，对人又无毒，说蓄意的取证难", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>被监控视频拍到就不行了</p><p></p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "Lynn"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "顾郢", 
+                    "userLink": "https://www.zhihu.com/people/8c20e09a44a7e0b248a27a969074ce24", 
+                    "content": "<p>你们这些人，一定是没有被狗咬过。才会这样站在道德的制高点上随便胡说八道，咬人的狗，就是要宰了的，因为被咬的人，都是有极大可能得狂犬病的，那些不给自己的狗栓绳子的人，不带口套的人，不清理狗屎狗毛的人，就从来没有想过他们的看门狗，会给无辜的人造成多大的伤害。这是人的责任，狗不懂事，人还能不明白这些道理？既然无法照顾好狗，没办法让狗不伤害其他人，那就强制性收容好了。毒死也是会有误伤，会被人用来恶意伤害，毒药是不能用的，大可以报警有恶犬，求救警察扑杀好了。</p>", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>让警察直接杀掉最好了。不过这样狗粉们肯定会喷了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "顾郢"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "潘敬华", 
+                    "userLink": "https://www.zhihu.com/people/70415a6cd0a1f4f7f3b4b93c79a73498", 
+                    "content": "<p>既然养狗靠自律，那么毒狗就不应该强制禁止。既然狗咬人是意外，赔偿一千，那么人毒狗就不能是谋杀，诉诸刑法。我认为毒狗应该谴责，但应该是与不文明养狗对等的谴责。</p>", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>肯定不能对等谴责，两者造成的后果都不一样</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "潘敬华"
+                        }, 
+                        {
+                            "userName": "潘敬华", 
+                            "userLink": "https://www.zhihu.com/people/70415a6cd0a1f4f7f3b4b93c79a73498", 
+                            "content": "<p>死了狗与伤了人相比，一定要说不一样，也一定是伤了人更严重。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "巨像能对空", 
+                    "userLink": "https://www.zhihu.com/people/25cf205ed776ec2a3ff5d5147e3b7f05", 
+                    "content": "<p>有啥破解不了的？道路上无绳猫狗即可扑杀，多杀几条，把规矩立下来，自然就好了</p><p>现在就是一味地维*，要办点事都办不成</p>", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>最怕狗粉喷子形成的舆论压力。之前有一些地方杀了流浪狗，都被喷成狗了</p><p></p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "巨像能对空"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "楚国公子海", 
+                    "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                    "content": "<p></p><p>所以我说人不如狗</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "哦嚯", 
+                            "userLink": "https://www.zhihu.com/people/4b2d66cee96508766234311241d7f4d9", 
+                            "content": "该评论已删除", 
+                            "likes": 0, 
+                            "replyToAuthor": "楚国公子海"
+                        }, 
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>😝</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "哦嚯"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "河里的石头", 
+                    "userLink": "https://www.zhihu.com/people/a9e08fab3b848a1b41f49414b2f9b0b1", 
+                    "content": "<p>狗逼人反， 人不得不反！</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "王王王", 
+                    "userLink": "https://www.zhihu.com/people/8a9fa75f7f29e71e7122d7ca692ccce4", 
+                    "content": "毒狗违法，咬人不违法，人不如狗", 
+                    "likes": 90, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>现在就是人不如狗。人打狗，被抓了。狗咬人，什么事情都没有。</p>", 
+                            "likes": 38, 
+                            "replyToAuthor": "王王王"
+                        }, 
+                        {
+                            "userName": "不朽孤诣", 
+                            "userLink": "https://www.zhihu.com/people/465f5a504f911cf6c992d344b74b298d", 
+                            "content": "流浪狗不属于公私财物吧。<br>不牵绳子按照地方行政法规作流浪狗解。<br>因果断裂吧。<br>即虽然投放和毒死有直接联系，但是狗不牵绳子和不带嘴套法律上拟认定为异常，直接导致狗死。<br>所以？", 
+                            "likes": 4, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "最爱大香蕉", 
+                    "userLink": "https://www.zhihu.com/people/2f0cd7462670bbc3334bb2e63a270aef", 
+                    "content": "有投放异烟肼毒狗被处罚或者判刑的案例吗？", 
+                    "likes": 5, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "杀狗被判刑的有这种案例", 
+                            "likes": 0, 
+                            "replyToAuthor": "最爱大香蕉"
+                        }, 
+                        {
+                            "userName": "三蠹", 
+                            "userLink": "https://www.zhihu.com/people/919c8f1b8c28d0086b3e91247f9686cc", 
+                            "content": "<p>我好奇杀狗是特定目标的，如果投异烟肼香肠的人只是不特定抛洒，主观目的是毒杀流浪狗，这样还构成故意破坏公私财物罪吗？</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "最爱大香蕉", 
+                    "userLink": "https://www.zhihu.com/people/2f0cd7462670bbc3334bb2e63a270aef", 
+                    "content": "狗被异烟肼毒死了，报警警察会立案吗？", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "可以要求立案", 
+                            "likes": 0, 
+                            "replyToAuthor": "最爱大香蕉"
+                        }, 
+                        {
+                            "userName": "哈喽山", 
+                            "userLink": "https://www.zhihu.com/people/50bbb92c8978c6a18606691753c1e18d", 
+                            "content": "想知道如果丢木糖醇有事么。。。", 
+                            "likes": 1, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "呱呱爆炸蛙", 
+                    "userLink": "https://www.zhihu.com/people/61fc6bc59d8a29c33c761e429aa6a849", 
+                    "content": "异烟肼对狗的半致死剂量对人无影响。法理上没处告。另外狗无链状态法理上属于流浪狗。法律没法管。", 
+                    "likes": 42, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "不是没法管，是不想管", 
+                            "likes": 4, 
+                            "replyToAuthor": "呱呱爆炸蛙"
+                        }, 
+                        {
+                            "userName": "「已注销」", 
+                            "userLink": "https://www.zhihu.com/people/de818827d6ae88dad2284c4cc286f7c2", 
+                            "content": "终于说到点子上了，谁特么警察给你去找投药的人？这么闲我去找两个吸毒的多好？你得考虑警察的感受～", 
+                            "likes": 6, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "千里红叶", 
+                    "userLink": "https://www.zhihu.com/people/40aa4d01add929a896b1f931ab4773f4", 
+                    "content": "<p>所有人都在说以暴制暴不可取，毒狗是暴，狗咬人也是暴，但所有人都不提依法治暴，因为所有人都知道法律监管缺失了，呵呵，等法律监管到位了，谁愿意为了那些和自己无关的宠物狗去承担违法的风险。</p>", 
+                    "likes": 34, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Van一DDF 階段", 
+                    "userLink": "https://www.zhihu.com/people/961ca7a416ed376a0ec635c87518acb5", 
+                    "content": "這些東西說出來啊，沒有任何價值。法律在這個裁定上不靠譜，自然就有有人鑽法律的空子。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "大徐", 
+                    "userLink": "https://www.zhihu.com/people/89eeb1531504484bc0154eecce8baf0f", 
+                    "content": "先毒死再说，想那么多干嘛", 
+                    "likes": 18, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "请问在哪里买异Xx", 
+                            "likes": 1, 
+                            "replyToAuthor": "大徐"
+                        }, 
+                        {
+                            "userName": "快递员", 
+                            "userLink": "https://www.zhihu.com/people/0be51a76beaa16d7611746c83c23eead", 
+                            "content": "也可以用木糖醇，超市就有还便宜", 
+                            "likes": 3, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "陈小艺", 
+                    "userLink": "https://www.zhihu.com/people/da005f373f60735c0d3e84fb1ca796e8", 
+                    "content": "支持这些养狗的太没素质", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "刘昊", 
+                    "userLink": "https://www.zhihu.com/people/a8c57a3f3a78120019d8be0c563edd0b", 
+                    "content": "然而因为有流浪狗的存在，很难证明是为了杀死特定的狗而投放，告个非法狩猎罪可能性都大一点", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Acolyte", 
+                            "userLink": "https://www.zhihu.com/people/0fe5e34807ae4536b1fe22e70428aa26", 
+                            "content": "并不以获取猎物为目的，狩猎都谈不上更谈不上非法狩猎。而且流浪狗也不是国家保护野生动物。", 
+                            "likes": 2, 
+                            "replyToAuthor": "刘昊"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "刘昊", 
+                    "userLink": "https://www.zhihu.com/people/a8c57a3f3a78120019d8be0c563edd0b", 
+                    "content": "其实可以考虑授权城管用异烟肼毒杀流浪狗并作为一个长期任务布置。而且毕竟狗咬的主要风险来自于狂犬病，这个和体型是没有关系的，规定所以狗必须带嘴套也是合理的", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "然而执法部门总是吐槽执法难度大", 
+                            "likes": 0, 
+                            "replyToAuthor": "刘昊"
+                        }, 
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "只有规定之后，附带法律责任和惩戒措施，才能彻底解决不戴口罩、不牵绳的问题。", 
+                            "likes": 0, 
+                            "replyToAuthor": "刘昊"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "尤勇", 
+                    "userLink": "https://www.zhihu.com/people/cfecb9d0c6036a09c478ea27a4ad0bfd", 
+                    "content": "首先，异烟肼不是毒物，是药物。结核病人需吃上最少9个月以上，真正有毒的话早淘汰了。这个不属于投放危险物品的范围，其次，谁主张谁举证，你得首先有狗证，证明这只狗是你的，还得证明你的狗就是吃了异烟肼死，而不是其他什么问题抽风死掉的，还要举证是吃了别人投的异烟肼，而不是自己喂得！最关键的问题，你觉得警察叔叔会闲的蛋疼为一只狗去卖力破案吗？自从上次长沙打狗事件，警察被人肉辱骂，全国警察叔叔对狗奴基本没什么好感，就立案也不过走个过场！", 
+                    "likes": 10, 
+                    "childComments": [
+                        {
+                            "userName": "LordRia", 
+                            "userLink": "https://www.zhihu.com/people/0cd3719343f26e383c1ce918c2c8a472", 
+                            "content": "倒不一定非要，吃九个月以上的药，作为一个得过肺结核的患者，支持了6个月的药，可能是因为我的症状比较轻吧，而且吃的都是利福平和异福片，这种综合类的药物", 
+                            "likes": 0, 
+                            "replyToAuthor": "尤勇"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "张宏雷", 
+                    "userLink": "https://www.zhihu.com/people/9cedc04a9b74a6e0313013339431cd41", 
+                    "content": "中国人不陪养狗", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "lh900905", 
+                    "userLink": "https://www.zhihu.com/people/680fbac1e5b16316cd6669c82bb77ff0", 
+                    "content": "多点定点投放，投放处加标示！散投乱投的就是心怀不轨，恶意破坏他人私有财产！属素质极低的表现！和狗奴有何分别？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "lh900905", 
+                    "userLink": "https://www.zhihu.com/people/680fbac1e5b16316cd6669c82bb77ff0", 
+                    "content": "异烟肼属处方药，真查起来又有不少药店违规出售处方药关门？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Lynn", 
+                    "userLink": "https://www.zhihu.com/people/d8c7b89b555d46e8120285fdd92f7a61", 
+                    "content": "说自己药不小心撒了就可以，对人又无毒，说蓄意的取证难", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>被监控视频拍到就不行了</p><p></p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "Lynn"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "顾郢", 
+                    "userLink": "https://www.zhihu.com/people/8c20e09a44a7e0b248a27a969074ce24", 
+                    "content": "<p>你们这些人，一定是没有被狗咬过。才会这样站在道德的制高点上随便胡说八道，咬人的狗，就是要宰了的，因为被咬的人，都是有极大可能得狂犬病的，那些不给自己的狗栓绳子的人，不带口套的人，不清理狗屎狗毛的人，就从来没有想过他们的看门狗，会给无辜的人造成多大的伤害。这是人的责任，狗不懂事，人还能不明白这些道理？既然无法照顾好狗，没办法让狗不伤害其他人，那就强制性收容好了。毒死也是会有误伤，会被人用来恶意伤害，毒药是不能用的，大可以报警有恶犬，求救警察扑杀好了。</p>", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>让警察直接杀掉最好了。不过这样狗粉们肯定会喷了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "顾郢"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "潘敬华", 
+                    "userLink": "https://www.zhihu.com/people/70415a6cd0a1f4f7f3b4b93c79a73498", 
+                    "content": "<p>既然养狗靠自律，那么毒狗就不应该强制禁止。既然狗咬人是意外，赔偿一千，那么人毒狗就不能是谋杀，诉诸刑法。我认为毒狗应该谴责，但应该是与不文明养狗对等的谴责。</p>", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>肯定不能对等谴责，两者造成的后果都不一样</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "潘敬华"
+                        }, 
+                        {
+                            "userName": "潘敬华", 
+                            "userLink": "https://www.zhihu.com/people/70415a6cd0a1f4f7f3b4b93c79a73498", 
+                            "content": "<p>死了狗与伤了人相比，一定要说不一样，也一定是伤了人更严重。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "楚国公子海"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "巨像能对空", 
+                    "userLink": "https://www.zhihu.com/people/25cf205ed776ec2a3ff5d5147e3b7f05", 
+                    "content": "<p>有啥破解不了的？道路上无绳猫狗即可扑杀，多杀几条，把规矩立下来，自然就好了</p><p>现在就是一味地维*，要办点事都办不成</p>", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>最怕狗粉喷子形成的舆论压力。之前有一些地方杀了流浪狗，都被喷成狗了</p><p></p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "巨像能对空"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "楚国公子海", 
+                    "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                    "content": "<p></p><p>所以我说人不如狗</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "哦嚯", 
+                            "userLink": "https://www.zhihu.com/people/4b2d66cee96508766234311241d7f4d9", 
+                            "content": "该评论已删除", 
+                            "likes": 0, 
+                            "replyToAuthor": "楚国公子海"
+                        }, 
+                        {
+                            "userName": "楚国公子海", 
+                            "userLink": "https://www.zhihu.com/people/09ef88404f39fc81736b6616c9082ce1", 
+                            "content": "<p>😝</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "哦嚯"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "河里的石头", 
+                    "userLink": "https://www.zhihu.com/people/a9e08fab3b848a1b41f49414b2f9b0b1", 
+                    "content": "<p>狗逼人反， 人不得不反！</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_196228849"
+}

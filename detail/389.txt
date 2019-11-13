@@ -1,0 +1,828 @@
+{
+    "title": "小提琴教学", 
+    "description": "小提琴教学专栏为广大爱好小提琴、想要学习小提琴的琴友们答疑解难。", 
+    "followers": [
+        "https://www.zhihu.com/people/vivian-wxj", 
+        "https://www.zhihu.com/people/fabian-franklin", 
+        "https://www.zhihu.com/people/leng-xue-chang-98", 
+        "https://www.zhihu.com/people/rebecca-sun-65-45", 
+        "https://www.zhihu.com/people/mo-mo-18-76-90", 
+        "https://www.zhihu.com/people/bei-hai-ju-miao", 
+        "https://www.zhihu.com/people/qian-luo-89-27", 
+        "https://www.zhihu.com/people/stella-wong-70", 
+        "https://www.zhihu.com/people/shan-mao-666", 
+        "https://www.zhihu.com/people/hei-se-you-mo-64-44", 
+        "https://www.zhihu.com/people/qing-feng-zi-lai-83-81-14", 
+        "https://www.zhihu.com/people/liu-bo-sheng-49", 
+        "https://www.zhihu.com/people/jiang-zheng-76", 
+        "https://www.zhihu.com/people/san-qin-da-di-64", 
+        "https://www.zhihu.com/people/0v00", 
+        "https://www.zhihu.com/people/huang-ling-yue-39", 
+        "https://www.zhihu.com/people/jessieya-5", 
+        "https://www.zhihu.com/people/xiansweety1102", 
+        "https://www.zhihu.com/people/wang-hao-xuan-62-76", 
+        "https://www.zhihu.com/people/mao-mao-58-91-79", 
+        "https://www.zhihu.com/people/hong-bo-19-25", 
+        "https://www.zhihu.com/people/ying-tao-fei-wu-de-chun", 
+        "https://www.zhihu.com/people/ming-ming-1-29", 
+        "https://www.zhihu.com/people/optimistic-70-97", 
+        "https://www.zhihu.com/people/ttniu-86", 
+        "https://www.zhihu.com/people/caddie", 
+        "https://www.zhihu.com/people/yi-chu-87-70", 
+        "https://www.zhihu.com/people/hui-yi-56-3", 
+        "https://www.zhihu.com/people/xi-feng-chang-yi-33", 
+        "https://www.zhihu.com/people/san-san-63-32", 
+        "https://www.zhihu.com/people/yi-yu-2016", 
+        "https://www.zhihu.com/people/likaistudi", 
+        "https://www.zhihu.com/people/yujie24", 
+        "https://www.zhihu.com/people/amber-95-54-97", 
+        "https://www.zhihu.com/people/luo-lu-22", 
+        "https://www.zhihu.com/people/czjhx1975", 
+        "https://www.zhihu.com/people/he-chu-ke-wan-yang-41", 
+        "https://www.zhihu.com/people/zhou-star", 
+        "https://www.zhihu.com/people/athniewang", 
+        "https://www.zhihu.com/people/wu-hua-14-81", 
+        "https://www.zhihu.com/people/13513615661", 
+        "https://www.zhihu.com/people/wei-ran-gu-niang", 
+        "https://www.zhihu.com/people/xiao-xiao-xiao-96-9", 
+        "https://www.zhihu.com/people/li-xiao-qing-31-15-50", 
+        "https://www.zhihu.com/people/di-qiu-shi-yuan-de-99-83", 
+        "https://www.zhihu.com/people/pan-hui-shan-16", 
+        "https://www.zhihu.com/people/a-la-lei-17-12", 
+        "https://www.zhihu.com/people/heron-18", 
+        "https://www.zhihu.com/people/jie-shi-guang-lin", 
+        "https://www.zhihu.com/people/cheri-34", 
+        "https://www.zhihu.com/people/jian-bai-13-92", 
+        "https://www.zhihu.com/people/yan-zi-90-7-99", 
+        "https://www.zhihu.com/people/yusy-yusy", 
+        "https://www.zhihu.com/people/jiao-qiao-fan-yi-ci", 
+        "https://www.zhihu.com/people/nuan-feng-mei-yang", 
+        "https://www.zhihu.com/people/xu-si-yue-46", 
+        "https://www.zhihu.com/people/zhe-ye-50-48-19", 
+        "https://www.zhihu.com/people/captainvictor", 
+        "https://www.zhihu.com/people/mogwai-28", 
+        "https://www.zhihu.com/people/meng-hui-lu-yi", 
+        "https://www.zhihu.com/people/acykah", 
+        "https://www.zhihu.com/people/range-25-55", 
+        "https://www.zhihu.com/people/clara-22-84", 
+        "https://www.zhihu.com/people/zhang-qian-91-12", 
+        "https://www.zhihu.com/people/li-xiang-he-59", 
+        "https://www.zhihu.com/people/chun-yu-84-67", 
+        "https://www.zhihu.com/people/bu-zhi-dao-8-38", 
+        "https://www.zhihu.com/people/twinkle-hwang", 
+        "https://www.zhihu.com/people/fan-jian-qiang-91-25", 
+        "https://www.zhihu.com/people/xiao-wen-55-60", 
+        "https://www.zhihu.com/people/yi-fei-84-71", 
+        "https://www.zhihu.com/people/lifeisaparty", 
+        "https://www.zhihu.com/people/alan-lau-59", 
+        "https://www.zhihu.com/people/ni-men-zhe-xie-yu-chun-de-ma-gua", 
+        "https://www.zhihu.com/people/men-xin-zi-wen-6", 
+        "https://www.zhihu.com/people/xiao-peng-you-41-96", 
+        "https://www.zhihu.com/people/zao-hua-zhong-shen-xiu-54", 
+        "https://www.zhihu.com/people/shane-55-70", 
+        "https://www.zhihu.com/people/zhaole0451", 
+        "https://www.zhihu.com/people/shi-yun-tao-72", 
+        "https://www.zhihu.com/people/wo-ben-shan-liang-67-1", 
+        "https://www.zhihu.com/people/yin-xi-xia", 
+        "https://www.zhihu.com/people/zooooe-83", 
+        "https://www.zhihu.com/people/fei-xiang-63-98", 
+        "https://www.zhihu.com/people/xiang-nuan-91-48", 
+        "https://www.zhihu.com/people/mo-zi-qian-hong-zong-shi-chi", 
+        "https://www.zhihu.com/people/da-meng-chu-jue-71", 
+        "https://www.zhihu.com/people/wang-xiang-98-73", 
+        "https://www.zhihu.com/people/wu-ping-dan", 
+        "https://www.zhihu.com/people/yu-you-you-20-13", 
+        "https://www.zhihu.com/people/sky-57-87-95", 
+        "https://www.zhihu.com/people/chen-zhu-le-le", 
+        "https://www.zhihu.com/people/hua-wei-88-56", 
+        "https://www.zhihu.com/people/hddj-66", 
+        "https://www.zhihu.com/people/xia-tian-22-17-15", 
+        "https://www.zhihu.com/people/wen-rong-80-71", 
+        "https://www.zhihu.com/people/mu-luo-xia-fei", 
+        "https://www.zhihu.com/people/guden-50", 
+        "https://www.zhihu.com/people/fei-er-sophie", 
+        "https://www.zhihu.com/people/yu-mei-ren-92-93", 
+        "https://www.zhihu.com/people/5lkad", 
+        "https://www.zhihu.com/people/red-48-11", 
+        "https://www.zhihu.com/people/zhao-zhao-62-84", 
+        "https://www.zhihu.com/people/chong-jia-68", 
+        "https://www.zhihu.com/people/he-yu-chao-65-85", 
+        "https://www.zhihu.com/people/yisuo-yan-yu-ren-ping-sheng-27-95", 
+        "https://www.zhihu.com/people/wang-yinan-42", 
+        "https://www.zhihu.com/people/chan-shi-da-jiang-jun", 
+        "https://www.zhihu.com/people/xing-lu-nan-84", 
+        "https://www.zhihu.com/people/sophie-z-41", 
+        "https://www.zhihu.com/people/sweatomes", 
+        "https://www.zhihu.com/people/Sirius-Spica", 
+        "https://www.zhihu.com/people/wang-an-ying-27-15", 
+        "https://www.zhihu.com/people/mr-engineer", 
+        "https://www.zhihu.com/people/she-yu-er-qu-xiong-zhang-ye", 
+        "https://www.zhihu.com/people/echo-29-23-11", 
+        "https://www.zhihu.com/people/yiduo-hua-34-7", 
+        "https://www.zhihu.com/people/long-xi-li-shi-yi", 
+        "https://www.zhihu.com/people/tao-tai-lang-xiao-nang", 
+        "https://www.zhihu.com/people/ycecit", 
+        "https://www.zhihu.com/people/peahlk", 
+        "https://www.zhihu.com/people/albert-trantw", 
+        "https://www.zhihu.com/people/zan-shi-de-mi-mang-42", 
+        "https://www.zhihu.com/people/feng-xie-44-83", 
+        "https://www.zhihu.com/people/g-sandara", 
+        "https://www.zhihu.com/people/gan-jia-kou-71", 
+        "https://www.zhihu.com/people/yi-zhu-yi-23", 
+        "https://www.zhihu.com/people/jie-yu-55-78", 
+        "https://www.zhihu.com/people/chenzhijing-57", 
+        "https://www.zhihu.com/people/zhang-li-96-83", 
+        "https://www.zhihu.com/people/lan-tian-83-5", 
+        "https://www.zhihu.com/people/ying-guang-fen-hong-10", 
+        "https://www.zhihu.com/people/you-zhi-bao-bao-da-chong-guan", 
+        "https://www.zhihu.com/people/zzjjww", 
+        "https://www.zhihu.com/people/tan-long-91", 
+        "https://www.zhihu.com/people/shu-16", 
+        "https://www.zhihu.com/people/xu-kai-xi-2", 
+        "https://www.zhihu.com/people/lai-lai-57-18-73", 
+        "https://www.zhihu.com/people/lu-bu-xiang", 
+        "https://www.zhihu.com/people/pi-pi-pa-pa-peng-peng-peng-62", 
+        "https://www.zhihu.com/people/alicezhou-85", 
+        "https://www.zhihu.com/people/qing-wenqing-wen", 
+        "https://www.zhihu.com/people/jiang-chun-mei-43", 
+        "https://www.zhihu.com/people/ming-ruo-xing-chen-68", 
+        "https://www.zhihu.com/people/chen-da-wen-94", 
+        "https://www.zhihu.com/people/suki-93-44", 
+        "https://www.zhihu.com/people/ya-ya-34-77-74-39", 
+        "https://www.zhihu.com/people/papo-59", 
+        "https://www.zhihu.com/people/chen-58-11-45", 
+        "https://www.zhihu.com/people/xiao-zhu-ge-52", 
+        "https://www.zhihu.com/people/jie-mo-8-52", 
+        "https://www.zhihu.com/people/shi-ba-zhuang-bei-zuo-dao-yi", 
+        "https://www.zhihu.com/people/li-lang-ke-ke", 
+        "https://www.zhihu.com/people/xu-xu-64-62", 
+        "https://www.zhihu.com/people/chris-44-70-10", 
+        "https://www.zhihu.com/people/yu-er-82-83-45", 
+        "https://www.zhihu.com/people/jessie-60-24-66", 
+        "https://www.zhihu.com/people/si-yue-49-92-48", 
+        "https://www.zhihu.com/people/li-chen-hao-61", 
+        "https://www.zhihu.com/people/carolyn-87-46", 
+        "https://www.zhihu.com/people/sunny-lee-28", 
+        "https://www.zhihu.com/people/etrom-v", 
+        "https://www.zhihu.com/people/jing-bao-bao-83-87", 
+        "https://www.zhihu.com/people/jin-se-lu-tai", 
+        "https://www.zhihu.com/people/wang-su-hong-7", 
+        "https://www.zhihu.com/people/zheng-yan-31-64", 
+        "https://www.zhihu.com/people/ou-xiao-jun-42", 
+        "https://www.zhihu.com/people/cao-tian-28-24", 
+        "https://www.zhihu.com/people/chen-ji-25-43", 
+        "https://www.zhihu.com/people/a-ai-lll", 
+        "https://www.zhihu.com/people/ska-81", 
+        "https://www.zhihu.com/people/tao-xiao-tao-63", 
+        "https://www.zhihu.com/people/huang-le-er-59", 
+        "https://www.zhihu.com/people/mai-mai-mai-mai-76-23", 
+        "https://www.zhihu.com/people/da-sen-60", 
+        "https://www.zhihu.com/people/feng-ying-93-9", 
+        "https://www.zhihu.com/people/shen-yi-tong-35-40", 
+        "https://www.zhihu.com/people/half-31-69", 
+        "https://www.zhihu.com/people/zhi-hu-zhe-ye-37-4-76", 
+        "https://www.zhihu.com/people/bi-da-ge-la-si-3", 
+        "https://www.zhihu.com/people/mai-dou-hong", 
+        "https://www.zhihu.com/people/lu-gao-fei-48", 
+        "https://www.zhihu.com/people/wu-zhei-ren-87", 
+        "https://www.zhihu.com/people/mo-er-jing", 
+        "https://www.zhihu.com/people/hao-xuan-xuan-12", 
+        "https://www.zhihu.com/people/mao-mao-chong-ye-you-chun-tian", 
+        "https://www.zhihu.com/people/mao-kun-66", 
+        "https://www.zhihu.com/people/jayeechinaski-54", 
+        "https://www.zhihu.com/people/wang-xiao-fei-75-81", 
+        "https://www.zhihu.com/people/colila", 
+        "https://www.zhihu.com/people/gong-xin-yue-36", 
+        "https://www.zhihu.com/people/geng-qi-3-34", 
+        "https://www.zhihu.com/people/thulover", 
+        "https://www.zhihu.com/people/bing-bing-22-12-32", 
+        "https://www.zhihu.com/people/nicatot", 
+        "https://www.zhihu.com/people/qi-yue-82-40", 
+        "https://www.zhihu.com/people/mr-85", 
+        "https://www.zhihu.com/people/huhu20101106", 
+        "https://www.zhihu.com/people/ji-ta-xue-xi-zhe", 
+        "https://www.zhihu.com/people/tang-wan-zi-96", 
+        "https://www.zhihu.com/people/bo-zhen-yuan-de-xiao-mi-di", 
+        "https://www.zhihu.com/people/yun-xue-4-25", 
+        "https://www.zhihu.com/people/soabfiw", 
+        "https://www.zhihu.com/people/tu-mi-8-47", 
+        "https://www.zhihu.com/people/yi-zhi-er-95", 
+        "https://www.zhihu.com/people/aimee-zhou-28", 
+        "https://www.zhihu.com/people/18510526418", 
+        "https://www.zhihu.com/people/mu-feng-26-88", 
+        "https://www.zhihu.com/people/wang-xiao-ming-66-77", 
+        "https://www.zhihu.com/people/wei-zhao-hui-19", 
+        "https://www.zhihu.com/people/qi-feng-liao-70-16-99", 
+        "https://www.zhihu.com/people/mr-right-78-2", 
+        "https://www.zhihu.com/people/kuang-shao-8", 
+        "https://www.zhihu.com/people/a-lin-97-83", 
+        "https://www.zhihu.com/people/cha-qi-82-81", 
+        "https://www.zhihu.com/people/wei-xiao-bao-zhi-wu-xie-ke-ji", 
+        "https://www.zhihu.com/people/guan-xiao-sheng-51", 
+        "https://www.zhihu.com/people/nan-hong-76", 
+        "https://www.zhihu.com/people/hai-shui-na-yao-lan", 
+        "https://www.zhihu.com/people/man-bu-25", 
+        "https://www.zhihu.com/people/jin-fan-du-jiang-14", 
+        "https://www.zhihu.com/people/xiaolaohudeya-91", 
+        "https://www.zhihu.com/people/dingxuan", 
+        "https://www.zhihu.com/people/weiyu-hu"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/84808789", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 3, 
+            "title": "小提琴提高音准的几个小细节", 
+            "content": "<p>在小提琴练习中，音准一直是初学者一直很难把控的，作为小提琴老师，我经常听到的一句话就是：老师，我听不出来准不准。对于这个问题，今天教给大家几个小细节，以及学生在平时练琴中容易忽略掉的问题。</p><p><b>1、对于听不出来的音准，要抱有正确的态度和持久的耐心。</b></p><p>对于初学者来说，或者没有任何音乐基础的人来说，听不出来音准是再正常不过的一件事了，就算是对学了几年的人来说，对于一些就差那么一点点不准的音也是很难做到完全准确的，因此，要正确面对音不准的现象，不要去躲避。很多学生在面对音不准的情况下，首先自己完全没有一个积极面对的心态，甚至越不准的音越想逃避，越想要快点演奏过去，好像拉的快了，就不会被人听出来音不准了一样。相反，音不准的时候，要有持久的耐心，去面对，去解决。</p><p><b>2、有时候不是听不出来音准，只是你没有用心听而已。</b></p><p>在给学生上课的时候，很多时候我已经观察到学生的手指，在我指出音不准之前，就已经有开始挪动手指的现象了，这个小细节说明学生有意识的是能听出来这个音是不准的，而下意识的想要通过挪动手指这个动作来把音挪准。在学生听出音不准的时候，没有及时的用耳朵把音听准，再去重新做到音的准确，而是想要“偷工减料”的掩盖音不准的事实。通常“挪”这个动作，不会帮助你去固定音准，只会害了你，因为手指每遍都不是直观的按在正确的音准的位置，反反复复的去按在音不准的位置上，再改回来，这个陋习一旦养成，你就算每天练个几个小时以上，效率依然不会高，耳朵也会越练越不灵。</p><p><b>3、怎样去练习听音准？不准音及时停下来，延长有问题音的时值。</b></p><p>很多学生练琴都有一个特点，遇到音不准不会马上停下来，而是想着我知道这里音不准了，下一遍我再拉准。又或者，知道这里音不准了，停下来单独练这个地方的音准，而在单独练的这个过程中，练的太快，导致没记住真正准确的效果，都已经练了十遍二十遍了，音到底是低了，还是高了，脑袋还是模糊的，这些都是盲目的感动自己的错误练琴方法。正确的方法是，在老师指出，或者自己发现音不准的时候，及时的停下来，把不准的这个音单独拿出来，慢练，慢练这个过程中，大脑和耳朵要反应这个为什么不准，是低了还是高了，发现问题之后，把音调整到准确的位置后，不要着急往下演奏，还是要慢拉正确的音，给耳朵和大脑充足的时间去记住正确音的位置和音响效果，这样反复的去练，正确的音准概念才会根深蒂固。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-dcff7ec33e13469b5b41507d8d1b6c87_b.jpg\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-dcff7ec33e13469b5b41507d8d1b6c87_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-dcff7ec33e13469b5b41507d8d1b6c87_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-dcff7ec33e13469b5b41507d8d1b6c87_b.jpg\"/></figure><p></p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/79056867", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 4, 
+            "title": "你们练完琴都干什么去了？", 
+            "content": "<p>真想发自肺腑的问这些个拉小提琴的孩子们，你们练完琴，都干嘛去了？？</p><p>有的小朋友什么也不顾的吃饭去了……</p><figure data-size=\"small\"><noscript><img src=\"https://pic1.zhimg.com/v2-d4d611a64c9f1833759526223301e3d4_b.gif\" data-rawwidth=\"500\" data-rawheight=\"287\" data-size=\"small\" data-thumbnail=\"https://pic1.zhimg.com/v2-d4d611a64c9f1833759526223301e3d4_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-d4d611a64c9f1833759526223301e3d4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;287&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"500\" data-rawheight=\"287\" data-size=\"small\" data-thumbnail=\"https://pic1.zhimg.com/v2-d4d611a64c9f1833759526223301e3d4_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-d4d611a64c9f1833759526223301e3d4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d4d611a64c9f1833759526223301e3d4_b.gif\"/></figure><p>有的小朋友练累了，睡觉去了……</p><figure data-size=\"small\"><noscript><img src=\"https://pic3.zhimg.com/v2-7d55ef67fb20f2b3a868b28277dbd596_b.gif\" data-rawwidth=\"316\" data-rawheight=\"288\" data-size=\"small\" data-thumbnail=\"https://pic3.zhimg.com/v2-7d55ef67fb20f2b3a868b28277dbd596_b.jpg\" class=\"content_image\" width=\"316\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;316&#39; height=&#39;288&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"316\" data-rawheight=\"288\" data-size=\"small\" data-thumbnail=\"https://pic3.zhimg.com/v2-7d55ef67fb20f2b3a868b28277dbd596_b.jpg\" class=\"content_image lazy\" width=\"316\" data-actualsrc=\"https://pic3.zhimg.com/v2-7d55ef67fb20f2b3a868b28277dbd596_b.gif\"/></figure><p>有的小朋友欢快的打游戏去了……</p><figure data-size=\"small\"><noscript><img src=\"https://pic3.zhimg.com/v2-bc3333d0494fafa423b7251edc8c7712_b.gif\" data-rawwidth=\"400\" data-rawheight=\"474\" data-size=\"small\" data-thumbnail=\"https://pic3.zhimg.com/v2-bc3333d0494fafa423b7251edc8c7712_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;474&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"400\" data-rawheight=\"474\" data-size=\"small\" data-thumbnail=\"https://pic3.zhimg.com/v2-bc3333d0494fafa423b7251edc8c7712_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic3.zhimg.com/v2-bc3333d0494fafa423b7251edc8c7712_b.gif\"/></figure><p>都给我站住，回来！！！！！</p><p>练完琴第一件事，先把弓子上的松香给我擦掉！！！！</p><figure data-size=\"small\"><noscript><img src=\"https://pic2.zhimg.com/v2-6bea378db04f1b0b3fbfc3c7b13e83c1_b.gif\" data-rawwidth=\"360\" data-rawheight=\"640\" data-size=\"small\" data-thumbnail=\"https://pic2.zhimg.com/v2-6bea378db04f1b0b3fbfc3c7b13e83c1_b.jpg\" class=\"content_image\" width=\"360\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;360&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"360\" data-rawheight=\"640\" data-size=\"small\" data-thumbnail=\"https://pic2.zhimg.com/v2-6bea378db04f1b0b3fbfc3c7b13e83c1_b.jpg\" class=\"content_image lazy\" width=\"360\" data-actualsrc=\"https://pic2.zhimg.com/v2-6bea378db04f1b0b3fbfc3c7b13e83c1_b.gif\"/></figure><p>紧接着，把琴上的松香粉尘，以及琴弦上的松香粉尘都给我通通擦掉。</p><figure data-size=\"small\"><noscript><img src=\"https://pic4.zhimg.com/v2-237aff77b28a205c5078f4acde2aa12b_b.gif\" data-rawwidth=\"360\" data-rawheight=\"640\" data-size=\"small\" data-thumbnail=\"https://pic4.zhimg.com/v2-237aff77b28a205c5078f4acde2aa12b_b.jpg\" class=\"content_image\" width=\"360\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;360&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"360\" data-rawheight=\"640\" data-size=\"small\" data-thumbnail=\"https://pic4.zhimg.com/v2-237aff77b28a205c5078f4acde2aa12b_b.jpg\" class=\"content_image lazy\" width=\"360\" data-actualsrc=\"https://pic4.zhimg.com/v2-237aff77b28a205c5078f4acde2aa12b_b.gif\"/></figure><p>你以为这就可以了？？把弓自己给我拧松，弓毛贴到弓杆即可。</p><figure data-size=\"small\"><noscript><img src=\"https://pic3.zhimg.com/v2-14d923eda78c3a6ef00ef8f00680566e_b.gif\" data-rawwidth=\"360\" data-rawheight=\"640\" data-size=\"small\" data-thumbnail=\"https://pic3.zhimg.com/v2-14d923eda78c3a6ef00ef8f00680566e_b.jpg\" class=\"content_image\" width=\"360\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;360&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"360\" data-rawheight=\"640\" data-size=\"small\" data-thumbnail=\"https://pic3.zhimg.com/v2-14d923eda78c3a6ef00ef8f00680566e_b.jpg\" class=\"content_image lazy\" width=\"360\" data-actualsrc=\"https://pic3.zhimg.com/v2-14d923eda78c3a6ef00ef8f00680566e_b.gif\"/></figure><p>有多少学生忘记把弓子拧送，以至于弓子一直绷着，到最后都变成一把弓箭的弓了，你以为你是后羿嘛？</p><figure data-size=\"small\"><noscript><img src=\"https://pic4.zhimg.com/v2-263c6466c3ac1479b3e01db014883477_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1028\" data-size=\"small\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-263c6466c3ac1479b3e01db014883477_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1028&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1080\" data-rawheight=\"1028\" data-size=\"small\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-263c6466c3ac1479b3e01db014883477_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-263c6466c3ac1479b3e01db014883477_b.jpg\"/></figure><p>然后，老老实实的把琴给我收利索了，把擦琴布盖上。</p><figure data-size=\"small\"><noscript><img src=\"https://pic1.zhimg.com/v2-07f91b03211380af9ae920fc7ead4984_b.gif\" data-rawwidth=\"640\" data-rawheight=\"359\" data-size=\"small\" data-thumbnail=\"https://pic1.zhimg.com/v2-07f91b03211380af9ae920fc7ead4984_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-07f91b03211380af9ae920fc7ead4984_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;359&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"359\" data-size=\"small\" data-thumbnail=\"https://pic1.zhimg.com/v2-07f91b03211380af9ae920fc7ead4984_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-07f91b03211380af9ae920fc7ead4984_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-07f91b03211380af9ae920fc7ead4984_b.gif\"/></figure><p>琴扣给我扣紧了，多少学生都不扣琴扣的，给我站出来，琴在琴盒里直晃悠，琴不晕嘛？扣琴扣这个小细节会很大程度上保护你得琴。别问我怎么知道的，小时候挨过打…</p><figure data-size=\"small\"><noscript><img src=\"https://pic1.zhimg.com/v2-f05f24610f9b6da4a6569ed8110e57a8_b.gif\" data-rawwidth=\"640\" data-rawheight=\"359\" data-size=\"small\" data-thumbnail=\"https://pic1.zhimg.com/v2-f05f24610f9b6da4a6569ed8110e57a8_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-f05f24610f9b6da4a6569ed8110e57a8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;359&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"359\" data-size=\"small\" data-thumbnail=\"https://pic1.zhimg.com/v2-f05f24610f9b6da4a6569ed8110e57a8_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-f05f24610f9b6da4a6569ed8110e57a8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f05f24610f9b6da4a6569ed8110e57a8_b.gif\"/></figure><p>最后一步，可以把安心的琴盒合上了，琴锁给我扣上！！太不让人省心了…</p><figure data-size=\"small\"><noscript><img src=\"https://pic3.zhimg.com/v2-da62ee0aab498d2691d0395c16b41efe_b.gif\" data-rawwidth=\"640\" data-rawheight=\"359\" data-size=\"small\" data-thumbnail=\"https://pic3.zhimg.com/v2-da62ee0aab498d2691d0395c16b41efe_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-da62ee0aab498d2691d0395c16b41efe_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;359&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"359\" data-size=\"small\" data-thumbnail=\"https://pic3.zhimg.com/v2-da62ee0aab498d2691d0395c16b41efe_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-da62ee0aab498d2691d0395c16b41efe_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-da62ee0aab498d2691d0395c16b41efe_b.gif\"/></figure><p>都给我整的明明白白的，你就可以去吧！！皮卡丘！！！</p><figure data-size=\"small\"><noscript><img src=\"https://pic1.zhimg.com/v2-f5bd0540430b0d5b16d7d9493cd2d470_b.gif\" data-rawwidth=\"360\" data-rawheight=\"240\" data-size=\"small\" data-thumbnail=\"https://pic1.zhimg.com/v2-f5bd0540430b0d5b16d7d9493cd2d470_b.jpg\" class=\"content_image\" width=\"360\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;360&#39; height=&#39;240&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"360\" data-rawheight=\"240\" data-size=\"small\" data-thumbnail=\"https://pic1.zhimg.com/v2-f5bd0540430b0d5b16d7d9493cd2d470_b.jpg\" class=\"content_image lazy\" width=\"360\" data-actualsrc=\"https://pic1.zhimg.com/v2-f5bd0540430b0d5b16d7d9493cd2d470_b.gif\"/></figure><p></p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/73790148", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 3, 
+            "title": "这样练琴 100遍=没练", 
+            "content": "<p>最近好几位家长和我说孩子放暑假了，有大量时间去练琴，想和咨询我在家练琴每首曲子应该练多少遍。这已经是我不止一次听家长、学琴爱好者问我的问题了。每每听到学生是以遍数来确定自己是否练琴了，都会觉得有些无奈，为他们在无用的浪费自己宝贵的时间而感到不值。那么怎么才是有效率的练琴呢？</p><p>1、不要以遍数代替效率，无脑练琴=重复错误。抓住重点，慢速练习。</p><p>很多人每天练琴的日常，拿到一首曲子，从头拉到尾，拉完一遍，再来一遍，反反复复从头开始到结尾，无限反复，直到练到老师规定一天的练琴量，收琴休息。这种练琴是很可怕的，一遍一遍无用的拉，遇到难点不动脑，一带而过，不懂得如何慢练。只是无限反复，这样练琴等于没练，甚至你可能在重复错误自己却不知。</p><p>2、发现问题，思考问题，解决问题。</p><p>每天开始练琴之前，不要想着这一个地方或者这一课要练几十遍，要知道课程重点在哪里，抓住重点，慢速练习，思考难点。拿最简单的例子来讲，数学题1+1=2  如果你算的是1+1=3 还会一遍一遍的草稿纸上写错误的答案吗？ 如果你还在重复写1+1=3 只能说明你没有发现错误，或者是没有动脑去思考。练琴也是一样，这课程的重点是什么，在练琴之前要在脑海里想一遍，自己经常错的地方要单独拿出来去思考如何解决，如果是你拉琴总是刮弦，拉的不干净，那就是平面换弦没有掌握好，就要单独慢练找到对应的平面。如果是音准问题，那基本是手型问题，或者手指没有按到位。找到问题后，也就不难解决问题了。</p><p>3、找到问题，解决问题，攻破难点后，重复正确演奏。 </p><p>有些人很聪明，能够找到问题，并且解决问题，但是在练琴上面缺少些耐心，常常练到解决问题这一步，就觉得是终点了，其实最重要的一步是重复正确演奏。毛病问题的形成是日积月累的，肌肉已经记住你重读太多的错误信息，你终于解决问题了，当然要让你的脑袋和肌肉都记住正确的演奏，这时候遍数就派上用处了，大量重读正确的演奏，才会使你忘掉错误而不再犯。</p><p>练琴不是体力劳动，而是脑力劳动，掌握正确的练琴方法，会使你事半功倍。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-482755d5249440e5f2e89b0e4e28753c_b.jpg\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic1.zhimg.com/v2-482755d5249440e5f2e89b0e4e28753c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic1.zhimg.com/v2-482755d5249440e5f2e89b0e4e28753c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-482755d5249440e5f2e89b0e4e28753c_b.jpg\"/></figure><p></p><p></p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "枫叶", 
+                    "userLink": "https://www.zhihu.com/people/fa2f7cf4be67332e74d215dcc8165470", 
+                    "content": "在理，共勉", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64550698", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 5, 
+            "title": "阅读【林耀基小提琴教学法】4.关于音准与音律", 
+            "content": "<p>   有些学生拉分解和弦时，大三和弦的三音总是偏高，听起来很不舒服。林耀基戏称这类同学脑子里只有单声道，没有立体声。他们虽然也上过和声课，但拉琴时脑子里只知友旋律线条，毫无和声感觉。一个演奏者在拉多声部作品——比如拉巴赫的无伴奏作品时，如果没有多声部思维，不知道和弦的运动，自然搞不清楚声部的走向，怎么能知道这个音从哪里来，这个句子到哪里去呢？自然更谈不上确定用什么律来演奏这些音了。</p><p>   那么，林耀基用什么律为标准教学生呢？他自称是用“综合平衡律”</p><p>   什么是综合平衡律呢？按他的解释是：当以旋律为主的时候（如格鲁克的《旋律》或柴可夫斯基的《旋律》的第一乐段等），照顾旋律，偏向五度相生律一点；如果以和弦或者以分解和弦为主的时候（如巴赫的《恰空》开头或是克莱斯勒的《美丽的罗斯玛琳》头五个音），就要照顾和声，偏向纯律一点；如果与钢琴是八度关系（如莫扎特和贝多芬的小提琴奏鸣曲中的某些地方），则自然要跟钢琴一致，用十二平均律；如果钢琴奏的是和弦根音，而小提琴是它上面的五音或三音（如格里格的《c小调第三小提琴奏鸣曲》的第二乐章主题的骨干音），那么应该以平均律的根音为基础，用其他两律与它的相对关系来调整音高；这叫“集各律为我所用”。至于对那些包含增减音程的和弦（例如弗兰克《A大调奏鸣曲》的开头），小提琴是和弦的七音、九音）或更不协和的和弦，人的耳朵有更宽的尺度。此外，每个人的爱好不尽相同，拉出来的音准也不同:如舒伯特《圣母颂》开头的小二度，三个一流小提琴家的录音三个样子，大家都可以接受，都认为是“准”的；柴可夫斯基协奏曲第一乐章主题开头的#F，拉纯律显的协和、稳定、雄伟，但并不是每位提琴家都拉纯律，也有高一点的。如果乐曲速度快，和声又复杂，那么大约在二十音分以下的误差，人们的耳朵是可以接受的，都可以算在“准”的范围之内。</p><p>   所以说，音准、音律也不是绝对的，但是话又说回来，在技术规格（精确度）上总还有档次的差别。</p>", 
+            "topic": [
+                {
+                    "tag": "小提琴学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19810384"
+                }, 
+                {
+                    "tag": "小提琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19590258"
+                }, 
+                {
+                    "tag": "小提琴制作", 
+                    "tagLink": "https://api.zhihu.com/topics/19928834"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64180137", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 7, 
+            "title": "阅读【林耀基小提琴教学法】3.时间与空间的关系", 
+            "content": "<p>   音乐是时间的艺术，而小提琴演奏是通过双手在一定空间范围内的运动来实现的。林耀基常对学生讲要“减少空间，争取时间”，意思是减少与发音无关的多余动作。不论左手还是右手，在运动中多余的路程（空间）都会导致减少发出音乐的时间——非但费力做了无用功，而且使本该连贯的音乐中断。</p><p>   由于小提琴这个乐器本身的结构特征（有四根弦，十几个把位和一条不满一米长的弓等），在演奏时就产生了换弦、换把、换弓和换指的客观要求。在进行这“四换”时，为了尽可能做到歌唱性和连贯性，就要走近路，别走远路。如:</p><p>   在换弦时，调整四根弦的七个平面，弓子划的扇形面越小越好；</p><p>   在换弓与换弦结合时，弓尾螺丝所走的轨迹，应是圆、半圆、扁平椭圆或八字形，无论是顺时针或逆时针方向运动，垂直的距离越短越好；</p><p>   在连弓换弦时，轨迹是若干条弧线的连接，呈蛇行波纹状或躺八字形；</p><p>   在上述这些情况下，如果走的是角状路线，就必然有多余的路程。角度越小则多余的空间越大，空间大则说明在路上浪费的时间多，而有效的时间相对减少。</p><p>   又如奏连续下弓，在拉完一弓回到弓根准备拉第二弓时，弓尾螺丝所走的路线，似乎应是“两点之间，直线最短”；但实际上完全直是做不到的，只能把弧度减到尽可能小，避免走多余的弯路。</p><p>   再如:左手用两个手指演奏四度与六度、三度与七度或二度与八度之间的连接时，指尖应进行横向动作，如有过多的垂直动作，就增加了空间，浪费时间了。这里的“空间”仍是指多余或有害的动作和无谓的消耗时间的动作所走的路程，而有用的路程是必须走的。所以他的提法是“减少”而并非“消灭”空间。我觉得分寸是恰当的。同时，对“减少空间，争取时间”这个口号的理解也不能绝对化。</p><p>   同时，对“减少空间，争取时间”这个口号的理解也不能绝对化。</p><p>   有关左手手指的垂直（起落）动作的讨论是一例：人们经常争论该不该打弦的问题。有时林耀基建议某些学生练高抬指打弦以增强指力，其练习要诀是：（1）打下去之后马上放松；（2）这个指头用力时，其他指头放松，虎口，手腕放松，所谓“手指轮休存耐力”。他认为拿这种练习当“药”吃是可以的，当“饭”吃则不可，因为高抬指起落必然要使指尖走许多多余的路。</p><p>   通常情况下，只需要用手指的自然重量放在弦上即可。但这也不是绝对的。</p><p>   如果是连弓的经过句很快地蹿上高把位，是需要把手指适当抬高打下去，这时所增加的空间是效果的需要，就不是无谓的、多余的了。这个问题在加拉米安的有关著作中也有类似的提法。同样道理，换弦时的扇形动作越小越好这条原则也不能绝对化。如帕格尼尼的《第二十四随想曲》中的第二变奏，每小节第二拍的头一个十六分音符（包括装饰音）必须扇形动作，以强调重音的效果。</p><p>   上述这三大“关系”的论述，是林耀基的教学思想中最重要的组成部分之一。</p><p>    下面如“在变化中求得稳定”讲变化与稳定的关系（与“在运动中寻找放松”对应）；艺术处理中贯彻的“复合”原则；演奏中注意个性与共性的关系，模仿与创新的关系等，也都是运用对立统一较为成功的例子。</p>", 
+            "topic": [
+                {
+                    "tag": "小提琴学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19810384"
+                }, 
+                {
+                    "tag": "小提琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19590258"
+                }, 
+                {
+                    "tag": "小提琴选购", 
+                    "tagLink": "https://api.zhihu.com/topics/19810375"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63756188", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 6, 
+            "title": "阅读【林耀基小提琴教学法】2.用力与放松的关系", 
+            "content": "<p><b>   用力与放松的关系（张与弛）的关系</b></p><p>过去马思聪先生教学爱用“重量”一词，是为了使学生避开“压力”“用力”等词可能引起肌肉的紧张，在教学上是行之有效的。但小提琴是身外之物，只要把琴弓拿起来，总有一组以上的肌肉要收缩，这就是用力。林耀基认为最重要的是“永远别用多余的力”；或者说“不断去掉多余的用力”，采取“减”的方针。</p><p>   所谓“去掉多余的用力”，其实是一个如何控制和恰当利用弓子和手的自身重量的问题。</p><p>   弓子的重量，称起来是个常熟，实际上在运动中是个变数——运弓时，在弓子的各个部位，弦所承受的压力是不相同的，弓根重，弓尖轻。为求得运弓时弓子各部位对弦的压力保持稳定，从弓子的重心到弓尖要把手的重量逐渐加上去，从重心到弓根则小指逐渐加力，通过拇指与中指的“环”作为支点，逐渐减去弓的重量。所以，整个右手的全部重量不能都放到弓子上去，大部分时候是挂在肩膀上的。双肩有如水塔，储存着随时可以流出的“水”。手上有个“水龙头”，可以通过食指开大或通过小指。而这个开与关的动作有时是可以在运弓的过程在中利用前臂的转动来完成的——这就叫在变化中求得稳定。如果要加大力度，那么，弓放弦上，手放弓上，在单纯的弓子重量的基础上适当加上手的重量就行了。这是最省力的——省力就是轻松!如果不是这样，而是用手抓弓，使弓弦分家，即食指、中指及无名指上提，使手的力量与弓子的重量互相抵消，但又要追求力度和效果，就必然用了多余的力，用多余的力就是紧张！</p><p>   这个去掉多余的道理很容易使我们联想起雕塑大师罗丹的故事。有一次，罗丹的崇拜者们问他“您创造出这么优秀的艺术品到底什么绝招？可否透漏一二？”他说“我不过是把那么多余的部分去掉而已”</p><p>   林耀基认为：越是音乐感好的人，越要注意放松，因为这种人往往爱“用感情替代政策”，一旦心血来潮，就”企图用不正当的手段来达到他们的目的”。所以，他常常告诫这些学生：热一分，须冷静两份，放松三分。所谓宁间不足，毋使有余。</p><p>   在演奏中的所谓的放松，必须是在运动过程中找到的，与用力相互交替和相互依存的有价值的放松，而不是睡觉式的绝对放松。</p><p>   关于用力与放松相互交替的问题，我们再举一个实例详细研究。比如演奏克莱斯勒的《前奏与快板》开始部分那一连串的带重音记号的四分音符时，从弓子放在弦上进行准备动作到弓子开动这一瞬间，是重量的集合点，所谓“抓弦”，这时弓子是静的；集合后，手要马上放松，接着在横向用力的瞬间爆发出一个极大的加速度，这是动；之后又马上放松，弓子呈自然滑行状态。由于静摩擦力大与动摩擦力，所以发动时用力较多，发动后，摩擦减少，就开始滑行。在滑行过程中，能量逐渐消耗，弓速逐渐缓慢，音量逐渐衰减，好像钟声的余响，然后准备重新集合进行第二个冲刺。</p><p>   在日常生活中，这样的例子很多。如踢球，球放在地上，想好目标，一脚踢出去，就不再管它了，管也没用，只能让它自身去运行，这时踢球的腿得马上放松。</p><p>  打乒乓球也是，不论长抽短吊，还是打弧圈球，只能打一下，就得马上放松肌肉，并准备接下一个球。如果打两下——吃球，就犯规了。弓子好比球，手推一下，弓子自己就走了，所谓“一次用力九下送”。</p><p>  再举擀饺子皮为例：面揉好了以后，先做成一个个小团放在案桌上，好比弓子抓弦时力量相对集中；然后将面团一擀，它就撒开成薄片，好比弓子一走，弓对弦的压力就分散了。这里所谓集合点的点，不是压死它，而是一个出发点，这个出发点要很干净。当你作为练习的时候，这个点的时间要相对地长些，而弱奏时哪怕再轻，也要有集合点，否则声音立不起来，就像牵牛没牵住牛鼻子一样。</p><p>   演奏顿弓和连顿弓的道理与此相同。</p><p>   演奏三个音一起响的和弦也和演奏重音的过程类似:把弓子放在靠近指板处，用弓子的重量加上手的重量把三条弦压平，这就是集中；然后放松、冲刺、滑翔。当然走的过程中力度也可以有别的变化，例如保持或增大音量等，可以根据弓速选择恰当的接触点，同时调整手臂的重量。 </p><p>   现在我们把视线转向左手，同样可以发现换把动作中也存在准备，发动和滑翔三个步骤。再看揉弦，好的揉弦更能体现“在运动过程中找到的，与用力相互交替、相互依存的放松”。揉弦时的腕关节，特别是指尖关节的角度，必须不断变化；没有这个变化，就无法找到放松的感觉，按弦按的太死太紧，发出来的音响必然是紧的或痉挛式的。</p><p>   上述这种在运动过程中去认识用力与放松的相互关系的观点，也是林耀基在教学思想上的一个明显特征。</p><p>                                                                             本篇取自《林耀基小提琴教学法导航》</p>", 
+            "topic": [
+                {
+                    "tag": "小提琴学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19810384"
+                }, 
+                {
+                    "tag": "小提琴选购", 
+                    "tagLink": "https://api.zhihu.com/topics/19810375"
+                }, 
+                {
+                    "tag": "小提琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19590258"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63315071", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 12, 
+            "title": "阅读【林耀基小提琴教学法】", 
+            "content": "<p>      林耀基是我国著名的小提琴演奏家和音乐教育家,是当代小提琴教育界的杰出代表人物，受到国内同行和国际音乐界的高度评价，被西方誉为“伟大的小提琴教育家”。本专栏定期更新林耀小提琴教学法精要，为喜爱小提琴的琴友们提供交流学习的平台。</p><p>     （一）贯穿在教学中的哲学思想。</p><p>1.动与静的关系</p><p>  在世界上，相对的动与相对的静是普遍存在的、对立统一的。我们经常看到：乱云翻滚时，山林是相对安静的；汽车飞奔时，马路是相对安静的。骑自行车时，车身对于蹬动着的双脚是相对安静的；对这些现象，很对人会熟视无睹，而林耀基却联想到小提琴教学。他要运用这些例子去启发学生。举例说：在演奏颤音或震音时，左手一个手指积极、灵活地上下运动，而另一个手指则应安静和稳定；在练习《马扎斯No.13》和《克莱采尔No.9》这些手指练习时，保留在弦上的手指必须稳定，不受其他手指的影响及牵制而扭曲变形—以造成音准不佳；演奏三度双音音阶，当二四指落弦时，一三指不能受牵制以致在弦上移位（很遗憾，受牵制移位的现象太普遍了）。</p><p>  在右手方面，大部分地体提琴老师都知道，运弓时的基本要求“一直、二平、三稳”，但怎么使学生领会呢？他曾通俗的用骑自行车作比：如果路很直，路面很平，骑车人的上身又不左右摇摆，那么他有可能骑得很快。反之，如果路线是九曲十八弯，而路面又凹凸不平，骑车人还东倒西歪，就很难设想能跑多快了。所谓动中有静——手动弓静，就是这个意思。</p><p>   我们经常遇到不少学生“静”的因素太少：如有些人拉下弓时身体和琴都像右摆，拉上弓时又都像左摆，拉和弦时琴身又跟着往下掉，这样，身体的动作把运弓的动作给抵消了。所以他主张：“该动的就动，不该动的最好休息。”</p><p>   有时候还可以进一步利用这种相对关系的原理，在上弓时琴微微向右摆，下弓时微微向左摆，在拉和弦时把琴身微微向上一托，以加强和弦的效果（这是海菲茨的实践所验证了的）。</p><p>   再举揉弦的例子，从另一方面探究动静关系：手指在弦上来回揉动时，不管揉弦的幅度和速度如何，他的基本音准是不能变得，否则很难听，这是不言而喻的。这里音准的稳定性和揉弦的颤动行就是静与动的对立统一。揉弦的“动”还有不同层次上的区别——林耀基曾把手比作一棵树，神经系统好比风：手指微微颤动时有如威风吹动树叶，腕揉好比和风吹动了点树枝，臂揉好比大风把树干也吹动了。在演奏时揉弦的幅度和速度是随着音乐的需要而变化的，正如自然界的风有时大有时小，甚至也有无风的时候。那种从头到尾千篇一律地用使劲大揉的拉好，就好像一日24小时狂风大作，必定使人很难受。</p><p>  以上所述时从技巧的角度看动与静的关系。</p><p>  如果我们进一步引申到音乐表现上来看：感情和理智的平衡，也是“动静统一”这个原则的体现。在演奏时，感情似乎是比较活动的因素，而理智往往与冷静联系在一起。感情过分激动了，演奏便容易失去控制，这时音准一般会偏高，速度节拍上容易赶，发音上会有过多噪音.....本来，作为一个演奏家来说，感情丰富、个性十足，这都是很好的和必要的条件，但是任何时候都不能脱离理智的控制（总不能感情一来就把弦拉断的？）当然，内心没有感情，就道学先生说教：或是矫揉做作，观众看起来很假：也不行。</p><p>  林耀基主张在舞台上要取得“冷静的头脑”与“火热的心”的平衡（这是心是指真情、热情、情绪起伏和演奏欲望等）：要把“松弛的感觉”（生理上、肌肉上）和“坚定的节奏”（精神上、意志上）相结合；最后达到“充分表现”同时又“充分享受”的结果。一个演奏者既是乐曲的解析者和再创造者，同时也是一个享受者。他与观众一起享受着自己的艺术创造。有没有这个享受的态度，在效果上是大不一样的。一个演说家，当他可以感受到自己的演说的风采时，他一定很自信——大家知道没有自信是谈不上艺术创造的。除此以外，他还得是一个舞台监督，又有客观的、被动的因素；前者是相对的“动”，后者是相对的“静”动静结合，相互促进。</p><p>   人们常说：“音乐是流动的建筑” 是的，但他的流动必须靠一些比较稳定的因素支持着，如：干净而清晰的发音，良好的音准（包括合适的音律），以及比较稳定点的节奏等。对于这个问题，林耀基打过一个比方：</p><p>  长江从源头经过无数的峡谷平原，想东流入大海；这江水一直是流动的，而两岸呢，虽然也有“猿声啼不住”的生动景色，但总的来说是相对静止的。在这里，如果没有这动与静两方面的统一，江水则无法定其流向，而三峡亦难以显其雄伟。音乐中的“情”好比流动着的江水，而“理”（对于演奏者来说首先是指上述那些比较稳定的因素）则好比江岸。但是怎样才能把握住这些相对稳定的因素呢？最重要的是冷静的头脑和安静的耳朵。拉琴时，要是头脑乱得像一个自由市场，或是心慌的好像生怕赶火车误了点，就自然不可能对发音，对音准和节奏等方面要有预先的听觉，不可能时候检查和纠正。在这种情况下，只能产生一些盲目流动着的音群，他们想决堤之水一样乱涨，至于什么乐曲的布局，各声部之间的照顾以及风格的掌握等，就更谈不上了。这种“无静之动”是不会产生好音乐的。（至于某些当代音乐也有作曲家要求“洪水泛滥”的时候，这种情况实属例外，不在此讨论范畴）</p><p>  动静统一的又一个例子是节奏与速度。节奏本身是一种律动——动中有静；不管速度有多快，各个音的时值怎么千变万化，着“拍律”在一般情况下是稳定的。就是说，每拍之间的实践、距离是个恒量，就像心脏跳动一样。古人说的“急而不乱”和戏曲界所谓“快板要稳、慢板要紧”都是这个意思。如果没有这个恒量，则渐快、渐慢、伸缩处理和随意处理都没有参照的依据了。有些学生慌慌忙忙，或是遇难则慢、遇易则快，拍律不稳，林耀基戏称这种现象为“心律不齐”，他提出“倾向——不赶，热情——不紧；软而不疲，松而不垮。”</p><p>    有时候“静”被掩盖起来了，好比海面上波涛汹涌，狂风暴雨，而海底的山脉、海沟还是静静地躺在那里；音乐再激烈，速度变化再打，我们依然不要忘了把握住“静”的因素。从另一个角度看，也有“动”被隐藏起来的时候。例如贝多芬的某些慢板乐章，我们要体会到在平静的河面底下翻滚着的暗流，要善于挖掘它内在的动力——“静中有动”，并向观众阐释出来。</p><p>  总之，把“动与静的对立统一”这条客观规律运用到小提琴教学中去，可谓是林耀基的一个贡献。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "小提琴学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19810384"
+                }, 
+                {
+                    "tag": "小提琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19590258"
+                }, 
+                {
+                    "tag": "小提琴选购", 
+                    "tagLink": "https://api.zhihu.com/topics/19810375"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57439804", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 19, 
+            "title": "关于小提琴音准，初学必看", 
+            "content": "<p>   对于很多初学小提琴的小可爱们来说，音准一直是个头疼的问题。特别是那些没有音乐基础，不懂乐理知识，没有固定音高概念的人来说，练习音准更是快把自己逼疯的节奏。一周去找老师上一节课，技术没学到啥，老师反反复复强调的都是音准问题，而上课的那么一个小时又记不住老师纠正对的固定音高，回到家里又是浪费一周时间。如果你遇到这样的问题，快过来学习吧！</p><p><b>这里我着重强调的是固定左手手型对于音准的重要性。</b></p><p>  初学者的小提琴老师都会在指板上面贴一些胶条(淘宝上那种一整张的指法贴除外），来辅助你应该把手指按在对应的位置去固定左手的手型，那么手指经常按对的位置会形成肌肉记忆，再配合耳朵去听，从而把正确的音听得越来越熟，养成固定音高概念。这看起来有些简单，但操作起来却不容易。</p><p><b>正确的左手手型：</b>指间距不要贴在一起，手指之间要有一些间隔，手指在不按弦的情况下，也要在胶带上方不远处等候，不要把手指根根直立起来，也不要把手指像拳头一样蜷缩在一起。在初学阶段充分运用保留指去固定把位，有些学生在拉琴的时候遇到临时的升降号，不是利用指间距去做升降，而是移动把位，这样会破坏手型。而不固定的手型就像开车没导航，去哪都迷茫。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6df44f82bb927cfa5559ae925f964b4f_b.jpg\" data-rawwidth=\"1351\" data-rawheight=\"1080\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1351\" data-original=\"https://pic4.zhimg.com/v2-6df44f82bb927cfa5559ae925f964b4f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1351&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1351\" data-rawheight=\"1080\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1351\" data-original=\"https://pic4.zhimg.com/v2-6df44f82bb927cfa5559ae925f964b4f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6df44f82bb927cfa5559ae925f964b4f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-134e01c0b0db7a75ed4c2cc25ed1f851_b.jpg\" data-rawwidth=\"251\" data-rawheight=\"336\" data-size=\"normal\" data-caption=\"\" class=\"content_image\" width=\"251\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;251&#39; height=&#39;336&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"251\" data-rawheight=\"336\" data-size=\"normal\" data-caption=\"\" class=\"content_image lazy\" width=\"251\" data-actualsrc=\"https://pic2.zhimg.com/v2-134e01c0b0db7a75ed4c2cc25ed1f851_b.jpg\"/></figure><p><b>错误的左手手型：</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-bb272bab980cfc56ff463e5ff3bc4950_b.jpg\" data-rawwidth=\"1788\" data-rawheight=\"1080\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1788\" data-original=\"https://pic1.zhimg.com/v2-bb272bab980cfc56ff463e5ff3bc4950_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1788&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1788\" data-rawheight=\"1080\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1788\" data-original=\"https://pic1.zhimg.com/v2-bb272bab980cfc56ff463e5ff3bc4950_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-bb272bab980cfc56ff463e5ff3bc4950_b.jpg\"/><figcaption>图一为手腕塌造成的手型扭曲，这种手型很容易在一指为降号的时候发生，要充分的去练习每个手指的独立性以及指根的灵活性，哪根手指有升降变化就去动哪根手指，而不要改变手腕直立的状态。 </figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3b796da06e227d100c974fe46205c64f_b.jpg\" data-rawwidth=\"1217\" data-rawheight=\"1080\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1217\" data-original=\"https://pic4.zhimg.com/v2-3b796da06e227d100c974fe46205c64f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1217&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1217\" data-rawheight=\"1080\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1217\" data-original=\"https://pic4.zhimg.com/v2-3b796da06e227d100c974fe46205c64f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3b796da06e227d100c974fe46205c64f_b.jpg\"/><figcaption>图二为手指过于紧凑在一起，正确的手型当你按指的时候，手指就在胶带的上方，只需按下即可，而手指过于紧凑时，当你按3指4指时再去移动到胶带的位置，就会徒增麻烦，从而大大降低了手指的灵活性。</figcaption></figure><p>总结来说记住几点：1、保持手腕直立状态，不能塌手腕，也不能突手腕</p><p>                               2、注意指间距离，不要过于紧凑</p><p>                               3、手指在不按弦的状态下，要在胶条上方等待。</p><p>                               4、练习指根的灵活性</p><p>                               5、以上做到后，打开耳朵，认真去听</p><p>这几点做到，相信你的音准会有提高。当然练音准之前，记得把琴弦调准........</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "小提琴学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19810384"
+                }, 
+                {
+                    "tag": "小提琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19590258"
+                }, 
+                {
+                    "tag": "小提琴选购", 
+                    "tagLink": "https://api.zhihu.com/topics/19810375"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "我蓝", 
+                    "userLink": "https://www.zhihu.com/people/637abc28161d6f2b5e9f85f34d69fd2f", 
+                    "content": "一把位降调不像图一一样就够不到 😂", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "指根不够灵活呀亲", 
+                            "likes": 0, 
+                            "replyToAuthor": "我蓝"
+                        }, 
+                        {
+                            "userName": "我蓝", 
+                            "userLink": "https://www.zhihu.com/people/637abc28161d6f2b5e9f85f34d69fd2f", 
+                            "content": "有没有什么练习方法，每次都是虎口酸软", 
+                            "likes": 0, 
+                            "replyToAuthor": "纯乐violin"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Ogre", 
+                    "userLink": "https://www.zhihu.com/people/0f34159dbc898e447f475b0f058399e8", 
+                    "content": "封面好评！女神哈恩", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "我是高猿猿", 
+                    "userLink": "https://www.zhihu.com/people/6a2ae6812da631ba47166a9273403075", 
+                    "content": "请问胶布是贴哪些音？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "每个老师习惯不一样，我主要贴134指", 
+                            "likes": 0, 
+                            "replyToAuthor": "我是高猿猿"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "泛泛", 
+                    "userLink": "https://www.zhihu.com/people/37845306fd6303c0ec59e56718e90f58", 
+                    "content": "我的老师教我降种调就曲下手腕 他是个30年教龄的人", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "曲下和扭曲是两个概念，而我图中是严重错误的手型", 
+                            "likes": 0, 
+                            "replyToAuthor": "泛泛"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/49759688", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 5, 
+            "title": "一部电影带你了解经典作品【柴可夫斯基D大调小提琴协奏曲】", 
+            "content": "<p>      相信不管有没有学过音乐的人都听说过一个传奇人物：柴可夫斯基。演奏过他的作品的演奏者更亲切的称呼他一声“老柴”。而小提琴作品中，最广为人知的一部作品是【D大调小提琴协奏曲】</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-1987f9893e2da6cddefd74adabd721cc_b.jpg\" data-rawwidth=\"446\" data-rawheight=\"291\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"446\" data-original=\"https://pic1.zhimg.com/v2-1987f9893e2da6cddefd74adabd721cc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;446&#39; height=&#39;291&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"446\" data-rawheight=\"291\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"446\" data-original=\"https://pic1.zhimg.com/v2-1987f9893e2da6cddefd74adabd721cc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-1987f9893e2da6cddefd74adabd721cc_b.jpg\"/></figure><p>      彼得·伊里奇·柴可夫斯基(俄文:Пётр Ильич Чайковский/英文:Pyotr Ilyich Tchaikovsky，又译为柴科夫斯基，1840年5月7日-1893年11月6日)，<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/5434256-5672555.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">十九世纪</a>伟大的俄罗斯<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/657025-695454.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">作曲家</a>、音乐<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/6128251-6341412.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">教育家</a>，被誉为伟大的&#34;俄罗斯音乐大师&#34;和&#34;旋律大师&#34;。柴可夫斯基的作品反映了<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/5416867-27313286.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">沙皇</a>统治下的俄罗斯广大知识阶层苦闷心理和对幸福美满生活的深切渴望;着力揭示人们的内心矛盾，充满强烈的戏剧冲突和炽热的感情色彩。代表作品有:第四、第五、第六(悲怆)交响曲，歌剧《叶甫根尼·奥涅金》、《黑桃皇后》，舞剧《<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/5353311-27398401.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">天鹅湖</a>》、《<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/5414859-7594990.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">睡美人</a>》、《<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/5404117-5641817.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">胡桃夹子</a>》，<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/6566586-6780345.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">第一钢琴协奏曲</a>、小提琴协奏曲、《罗科主题变奏曲》、第一弦乐四重奏、钢琴三重奏《纪念伟大的艺术家》、交响序曲《<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/238890-252717.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">1812年</a>》、幻想序曲《<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/5403506-7575587.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">罗密欧与朱丽叶</a>》、<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/24835667-25769689.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">交响幻想曲</a>《里米尼的弗兰切斯卡》、<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/596245-631219.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">意大利随想曲</a>、<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/5212082-5444148.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">弦乐小夜曲</a>以及大量声乐<a href=\"https://link.zhihu.com/?target=https%3A//baike.so.com/doc/6059121-6272171.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">浪漫曲</a>。</p><p>   【柴可夫斯基D大调小提琴协奏曲】 全曲共分三个乐章：</p><p>第一乐章，中庸的快板，D大调，4/4拍子，奏鸣曲形式。规模宏大的第一乐章表现了生活的乐趣。具有俄罗斯民间音乐的宽广气息和明朗悠扬的诗意。其主部主题具有动人的歌唱性，体现了俄罗斯歌曲宽广动人的气息，仿佛在歌唱青春、生命和大自然。</p><p>第二乐章，短歌，行板，<a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/g%25E5%25B0%258F%25E8%25B0%2583\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">g小调</a>，3/4拍，三段体。其沉思般的抒情，被称为“小抒情曲”“如歌的行板”。主要旋律真挚动人，略带伤感。仿佛从远处传来一阵悠扬的歌声，使人嗅到了大自然清新的气息。</p><p>第三乐章，终曲，活泼的快板，D大调，2/4拍子，回旋奏鸣曲形式。主题令人有俄国风激烈地敲击之感，是属于俄国民俗舞曲特雷<a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E5%25B7%25B4%25E5%2585%258B\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">巴克</a>的一种。以很强的节奏，快活地进行，宛如一幅人民欢庆节日的图画。</p><p><br/>   今天推荐一部电影【<b>交响人生</b>】，故事励志而感人，情节很像莫斯科交响乐版本的功夫足球。苏联时代的指挥大师安德烈，曾经当过最伟大的交响乐团“波修瓦“的乐团指挥。但因拒绝驱逐乐团里的犹太乐手而被解雇，染上的酗酒的毛病。”波修瓦“现在的经理为了愚弄和羞辱安德烈，让他留在乐团当清洁工。安德烈在无意中发现了一份传真，法国办理最大的普莱耶音乐邀请“波修瓦”去演出，并要求在两周之内给予回复。安德烈突然想到一个疯狂的计划，他要把以前那些音乐伙伴重新聚拢起来。那些被乐团流放之后乐手。他们现在已经变成了一群混杂在莫斯科街头最普通的人，从出租车死机，搬运工，跳蚤市场的地摊主到色情电影的配音演员，做的都是勉强维持生活的底层工作。他们决定顶替真正的“波修瓦”去巴黎。在安德烈的召集下，他们拼凑了起草台班子，做出了一番不可能的努力，抵达巴黎，并成功的演出了他们的民族作品【柴可夫斯基D大调小提琴协奏曲】</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c42ab472f5527b3227ea20d744ab963e_b.jpg\" data-rawwidth=\"768\" data-rawheight=\"326\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"768\" data-original=\"https://pic3.zhimg.com/v2-c42ab472f5527b3227ea20d744ab963e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;768&#39; height=&#39;326&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"768\" data-rawheight=\"326\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"768\" data-original=\"https://pic3.zhimg.com/v2-c42ab472f5527b3227ea20d744ab963e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c42ab472f5527b3227ea20d744ab963e_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-592a294181eef398442e9d48cafd26e0_b.jpg\" data-rawwidth=\"768\" data-rawheight=\"326\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"768\" data-original=\"https://pic1.zhimg.com/v2-592a294181eef398442e9d48cafd26e0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;768&#39; height=&#39;326&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"768\" data-rawheight=\"326\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"768\" data-original=\"https://pic1.zhimg.com/v2-592a294181eef398442e9d48cafd26e0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-592a294181eef398442e9d48cafd26e0_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-2c66a459117b3a83a81c46c6a3fee3d7_b.jpg\" data-rawwidth=\"768\" data-rawheight=\"326\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"768\" data-original=\"https://pic4.zhimg.com/v2-2c66a459117b3a83a81c46c6a3fee3d7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;768&#39; height=&#39;326&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"768\" data-rawheight=\"326\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"768\" data-original=\"https://pic4.zhimg.com/v2-2c66a459117b3a83a81c46c6a3fee3d7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2c66a459117b3a83a81c46c6a3fee3d7_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-17f1e1c8ae2b042a6c5514129d9a4a78_b.jpg\" data-rawwidth=\"768\" data-rawheight=\"326\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"768\" data-original=\"https://pic1.zhimg.com/v2-17f1e1c8ae2b042a6c5514129d9a4a78_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;768&#39; height=&#39;326&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"768\" data-rawheight=\"326\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"768\" data-original=\"https://pic1.zhimg.com/v2-17f1e1c8ae2b042a6c5514129d9a4a78_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-17f1e1c8ae2b042a6c5514129d9a4a78_b.jpg\"/></figure><p><a href=\"https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XNDc2MzYzNzA4.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">v.youku.com/v_show/id_X</span><span class=\"invisible\">NDc2MzYzNzA4.html</span><span class=\"ellipsis\"></span></a>  柴可夫斯基小提琴协奏曲在电影中片段链接。</p><p>    当我写这篇文章回看这部电影时依旧被这部作品的感染力所打动而落泪，喜欢小提琴和柴可夫斯基的乐迷乐手们更是不要错过这部电影。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\"/></figure><p><br/><br/></p><p><br/> </p>", 
+            "topic": [
+                {
+                    "tag": "小提琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19590258"
+                }, 
+                {
+                    "tag": "小提琴学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19810384"
+                }, 
+                {
+                    "tag": "小提琴曲", 
+                    "tagLink": "https://api.zhihu.com/topics/19810388"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/48935155", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 3, 
+            "title": "谈谈练琴先练脑这件【小】事", 
+            "content": "<p>    我经常和学生说的一句话就是: “练琴的终极目标是练脑”。</p><p>    你可能会想说，不练手指灵活性吗？不练运弓吗？不练发音？不去练琴各种弓法吗？不练揉弦吗等等……   练！这些当然要练，但你要知道你练这些技巧之前，要准备的是你的大脑能够控制住自己身体的各个部位，只有大脑足够有控制能力，才能够支配自己的身体。这里为什么我没有刻意的强调去控制双手呢？小提琴难就难在，要控制身体的协调性，大到站姿，小到手指关节，都需要利用大脑的支配性去控制。</p><p>   我见过用功的学生，每天能够练六七个小时，一个难点能够练上成百上千遍，但本质上的问题，却没有因为他的用功而得到解决，当我叫停，问他知道哪里不足吗？回答绝大部分知道，但再继续问为什么会这样？却语塞回答不上来。当我把细节一一解答，瞬间茅塞顿开的样子，但实际，这些技巧难点问题只要稍微动脑分析，不难解决，而学生会把这种技巧问题归根到，我大量的练琴就会解决。这种想法是错误的。老师有时候讲过的点，是能通过思考，举一反三的解决的，而不带思考练琴的人，只记住当下的问题，换一种方式，却又完全忘记怎么演奏。小提琴的技巧和要掌握的点当然要依靠大量练习，才能做到熟能生巧，但熟能生巧的前提是整体意识的正确性，而不是毫无目的无限反复，这会使你进入死循环里。就会出现一个大多数人都困惑的问题，练琴时间达到了，而没有练琴效率。致命的原因就是，并没有带着思考去练琴。</p><p>   在你开始练琴之前，请在大脑里清楚的过一遍发生的问题，可能发生的问题，即将发生的问题，和为什么会发生这种问题，想清楚，再去解决，比一遍遍的重复来的效果好的多。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\"/></figure><p></p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "lucifer", 
+                    "userLink": "https://www.zhihu.com/people/3e2408c43b3e430e4b3d7c5c50b3ea8a", 
+                    "content": "以至于现在一想起练琴就头疼", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "哈哈哈哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "lucifer"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/43194507", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 15, 
+            "title": "如何有效率的练琴", 
+            "content": "<p>作为一名小提琴老师，和学生的日常对话一般是这样：</p><p>老师：最近练琴了吗？</p><p>学生：练了…….</p><p>老师：每天练几个小时？</p><p>学生：如果上学至少一两个小时，放假时间多了四五个小时。</p><p>老师：每天都练琴，怎么还拉成这样？</p><p>学生：……沉默……沉默…….</p><p>很多学生、家长都很痛苦的一件事情，为什么每天都练琴了，进步不大，老师讲过的东西还是没练到位呢？</p><p>这里我想说的是：你真的会练琴嘛？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>今天我们来讲一讲如何在有限的时间内，有效率的练琴</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第一：不带脑子练琴，不如不练。</b></p><p>很多人练琴确实做到了每天都能抽出一两个小时的时间去练琴，但是真正有效率的时间可能连30分钟都不到。练琴之前首先明确，你今天要练习什么，主要出现的毛病在哪里，为什么会出现这样问题，老师是怎么教的，怎么样去练等等….把出现的问题要在大脑里面过一遍，而不是拿起琴，不管不顾就开始拉，而这个时候往往你拉的是什么自己都不知道，更别提去改正问题了。长期不带脑子去练琴，你就是每天练七八个小时，感动的只有你自己，在老师那里，几乎等于没练。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第二：练琴是主要，其他都让道。</b></p><p>确定好拉琴之前，要把一些琐事都做完再去练琴。既然决定这段时间练琴了，那么其他的事情都不要去想，一会儿渴了，喝口水。一会儿饿了，吃点东西，一会儿又要上厕所，忽然想起来作业好像有个地方没写完，这时候手机又响了…………一系列琐碎的事情都会干扰你大脑集中去思考，强烈建议一些成人练琴，手机静音、飞行、关机！</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>第三：遇到困难不要怕，重复错误才可怕。</b></p><p>大家都知道小提琴是个非常难的乐器，有很多困难的技巧需要你非常有耐心的逐一突破的。而很多人练琴，追求曲目的数量，练琴时间长短，而忽略了练琴的质量，遇到一些问题，没有第一时间去停下来解决，而是囫囵吞枣的继续练下去，长期积累的隐患只会让你的错误根深蒂固，一旦错误根深蒂固形成习惯，再想改就难上加难了。比如，音准问题，碰到这个音不准了，应该马上停下来，用耳朵去校对音准，熟悉固定正确音准的位置，一遍一遍的去重复慢速的练习正确的音准，以确保下次再拉到这里能够一次就按准，这是正确的练法，而很多人练琴，碰到音不准了，自己觉得下次就准了，这次只是失误，而手指没有得到正确的练习，久而久之，耳朵就会把错误的音准听的越来越熟，最后，一个完美的错误就这么形成，很难改掉。所以，不管是怎样的困难，耐心练习，慢速练习，避免重复错误才是有效率的练琴。</p><p><b>第四：慢练！慢练！慢练！</b></p><p>慢练永远是小提琴老师说的最多的一句话，但也是学生们最不爱做的一件事。</p><p>慢练的重要性请翻阅我的专栏【小提琴练习中慢练的重要性】。</p><blockquote>小提琴教学</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\"/></figure><blockquote></blockquote>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "张海晖", 
+                    "userLink": "https://www.zhihu.com/people/754f2f437f9b391ed9256edd9e7762c1", 
+                    "content": "每节课都要重复的话", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37587235", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 5, 
+            "title": "节拍器在练琴中的重要性", 
+            "content": "<ul><li><b>节拍器</b>是一种能在各种速度中发出一种稳定节拍的机械、电动、或电子装置。</li><li><b>在练琴中学会【听】节拍器</b></li></ul><p>很多人在初学小提琴，练琴时对于节拍器的使用显得很不适应，一些人甚至认为用节拍器是画蛇添足，认为节拍器会不会出现问题了，为什么没有自己的打的节拍那么准确。初学者在练琴初期往往顾前顾不了后，往往很多技术问题会让练习者应接不暇，要顾忌音准，指法，弓法等等，而忘记了去听节拍，从而导致练琴的过程中，节奏太过于随意，而忽略了很多节奏型，更有甚者习惯用脚打拍子，而且觉得自己节奏是准确的，练琴的时候是不能用脚打拍子的，在你碰到这些技术方面的问题的时候，脚会去下意识的等拍子，而不是像节拍器一样持续发出稳定的节拍，所以会让练习者误以为自己的节奏是准确的。而在我教学理论中，从开始拉空弦，就会让学生使用节拍器，无论是音阶、练习曲、协奏曲、节拍器都是练习中必不可少的，长期使用节拍器练琴的学生能够稳定的掌握各种各样的节奏型，要知道速度感再好的人，都不会有机械来的准确。</p><ul><li><b>在练琴中学会【用】节拍器</b></li></ul><p>当你开始接触一部新的作品，就要学会用节拍器去帮助你练琴，最基本的、最直接的就是把速度调慢，用慢速去逐步练习节奏型、技巧、指法，弓法等、慢慢熟悉乐谱与技巧后，用递增的方式增加速度，假如当开始你用一拍50的速度去熟悉乐谱，50的速度稳定后，尝试用55、或者60的速度再去练习，直至熟练到原速。这里需要注意的一点是，再提速的过程中，一旦有跟不上的情况下，不要盲目的用现有的速度再去练习，跟不上节拍器，一定是技术出了问题，这时候需要做的是耐心的把节拍器调回更慢的速度去熟悉技巧，才会在原速练习中不出现技巧模糊的问题。</p><blockquote>小提琴教学</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\"/></figure><blockquote></blockquote>", 
+            "topic": [
+                {
+                    "tag": "小提琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19590258"
+                }, 
+                {
+                    "tag": "小提琴学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19810384"
+                }, 
+                {
+                    "tag": "小提琴选购", 
+                    "tagLink": "https://api.zhihu.com/topics/19810375"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "善于匿名", 
+                    "userLink": "https://www.zhihu.com/people/9b999db54ed4fb2f0dc69f60f6c0a19e", 
+                    "content": "记得刚开始学琴那会，对谱子的节奏感很是不敏感，老师就建议用节拍器，到后来一边拉一边脚踩着打节奏，特容易练嗨，自己越踩越嗨越踩越嗨越踩越嗨…", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "大文豪", 
+                    "userLink": "https://www.zhihu.com/people/650013d41967e3b4f8d27080ed065cc6", 
+                    "content": "刚刚艺考完，拉的维二第三乐章平时用节拍器用的少，考试感觉速度飘到160了😲😲", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "chris", 
+                    "userLink": "https://www.zhihu.com/people/fae9200eba29db5ab689a5e532356e1b", 
+                    "content": "老师好，，业余九级，如果已经到了节拍器顾头不顾尾的阶段，怎么办，再从音阶开始慢练吗", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "能详细说下顾头不顾尾嘛？", 
+                            "likes": 0, 
+                            "replyToAuthor": "chris"
+                        }, 
+                        {
+                            "userName": "chris", 
+                            "userLink": "https://www.zhihu.com/people/fae9200eba29db5ab689a5e532356e1b", 
+                            "content": "谢谢，就是我女儿，节拍不准的，特别熟练的或者是比较有气势的就不自觉快，也是没养成好习惯，以前节拍器用的少，按照习惯在拉，就产生一用节拍器反而对不上了", 
+                            "likes": 0, 
+                            "replyToAuthor": "纯乐violin"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "奶咖不加啡", 
+                    "userLink": "https://www.zhihu.com/people/9e2abb17435f233ff1b7ce6cc5de316d", 
+                    "content": "有推荐的节拍器的牌子吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "intelli电子节拍器", 
+                            "likes": 0, 
+                            "replyToAuthor": "奶咖不加啡"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36629652", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 83, 
+            "title": "初学小提琴，多数人都会问的问题！", 
+            "content": "<p><b>1、我已经xx岁了，还能学小提琴？</b></p><p> 小提琴的最佳学习年龄在4-7岁之间，想要从小就坚定走音乐道路的家长都会选择在这个年龄段开始让孩子学琴。<b>但是！！</b>如果你想要当做业余<b>爱好</b>学习小提琴，那不管你年龄多大，都可以学习，还在上中学的学生，已经工作的上班族，退休的叔叔阿姨，只要你有练琴时间，都可以学习小提琴。</p><p><b>2、小提琴难学吗？</b></p><p> 小提琴是非常非常难的乐器，练琴的枯燥程度非一般人能够承受的，不仅需要扎实的基本功，手指的灵活，肢体的协调度，清醒的头脑，一定的乐理知识 ，练到最后还需要你对音乐作品的理解等等...... 有些人把小提琴想的过于简单，练到最后，发现难度真的难以想象。这也是很多人最后坚持不下去的原因之一。</p><p><b>3、小提琴可以自学吗？</b></p><p> 不可以！不可以！不可以！小提琴是不可以自学的，很多爱好小提琴的人会去上网找一些视频，跟着自学，而很多时候，没有老师针对性的指出你的问题，你自己是很难发现的，而小提琴很多隐形的问题都是很危险的，最基本的持琴，持弓，运弓角度，走向，弓段，固定手型，各种演奏法如何熟练的掌握，并如何有效率的练琴等等，这些都是需要老师一步一步非常详细的去调整与指导。而最重要的其实小提琴的音准很难掌握，而小提琴不是十二平均率的乐器，其音准难度是需要非常灵敏的耳朵去听，辨别的，而初学者想要在指板上找到标准的音准位置，而单纯的利用电子调音器也是不科学的，这是需要老师来帮助你去反复校对你的音准，慢慢的帮你调整左手手型的位置，辅助你有音高意识，再加上自己大量的练习去熟练把位，才能对于音准有一定的把握。而很多小提琴作品，协奏曲，技巧性乐曲，奏鸣曲都是非常注有音乐色彩和音乐风格的，而这些对于音乐作品的理解，没有老师指导，讲解是很难理解与处理的。</p><p>4、<b>初学小提琴，我应该买多少钱的小提琴？</b></p><p> 这个问题，是最多人问过的问题，而回答也是众说纷纭，见多最误导的信息是选择几百的块钱的琴，这种回答，直接举报不客气。初学小提琴一定要选择一个可以拉的琴，价位2000~5000不等，什么叫做可以“拉”的琴，就是在工艺上没有毛病，不会给学生在练琴中，因为琴自身的毛病去给学生增加负担。我见过太多拿着在网上买的琴，几百元的琴，给学生在练琴中造成的毛病是非常严重的。首先小提琴制作工艺非常繁琐，而选择小提琴一定要选择纯手工的小提琴，很多人会买到工场琴，这种琴制作工艺粗糙，琴和指板的比例都会有问题，会对初学这的手型造成很大的影响，而手型不对，直接影响音准。很多便宜的小提琴看起来样子不错，和正常的琴没什么区别，而只能会拉琴的人，试过才知道，问题的严重性，最常见的的问题，指板比例不对，宽度、长度、直度都会造成五度不准，有个学生拿过一把琴来找我上课，我给她调弦的时候就发现她的指板有问题，指板比一般的琴短很多，问了才知道，当时买这把琴是因为这把琴做的时候，做琴的人把儿童四分之三的琴的指板按到了成人琴上，所以卖的时候比较便宜，学生刚学也不懂严重性，会拉琴的人应该都知道这简直就是误人子弟。很多人认为，我想先学着试试看，如果能学，那么再换一把好琴。这样的想法无可厚非，也很正常。但是一把演奏性能较好，发音优良的琴，是可以促进你的学习。否则你会整日和一把发音不良的琴较劲。有谁会穿着一双挤脚的鞋子练习长跑呢?道理是一样的。此外，成人学琴不涉及到换琴的问题，这是和小孩子学琴很大的区别，一把音色优良的琴，可以伴随你走过很艰苦的学琴之路。使用几年，甚至几十年，不需要更换。(钢琴的自然寿命大概为20年，管乐的自然寿命大概为10-15年，而小提琴的寿命可以长达数百年。)</p><p><b>5、初学者买琴应该去哪里买？</b></p><p> 相信很多初学者都会被这个问题所困扰，挑选一把优良的小提琴是个难题，是需要会拉琴，懂琴的人帮助你去挑的，要看木料、看做工，听声音，辩音色，挑选小提琴一定要试琴，就算你是初学者你不会拉琴，但最起码你会听，也是能出来好的声音和不好的声音的区别的，好的琴一般音色高音亮而不燥，低音浑厚有力，琴本身对于演奏者给予的力量和技巧都能有很快的反应，在我们这俗称琴的灵敏度。而很多人喜欢去淘宝、京东各类网上去买琴，第一这种琴你见不到实物，不能辨别是否是一只琴，第二不能试，体会不到琴的音色与震动的好坏，更体会不好上手的灵敏度，可能有一些商家给你一些音频视频，但很难保证出自同一把琴，而音频后期有无制作痕迹。而琴行的琴价格浮动会很大，而很多琴行卖琴的销售并不会拉琴，也不懂琴。所以挑琴最好找制琴工作室，提琴作坊，或者如果你相信你的老师，让老师帮忙挑琴。</p><p><b>6、平时学习/工作特别忙，没时间去练琴，可以学琴嘛？</b></p><p> 小提琴是一个需要日积月累去练习的乐器，每天至少保证1-2个小时去练习，专业演奏者更是每天练七八个小时，而初学者是需要打扎实的基本功，对于左右手的控制都是需要每天固定的时间去练习的，而有一两天不去练琴，就会忘记刚学会的技巧，所以如果你刚刚学习小提琴，每天连一个小时的时间都空不出来练琴的话，那么不建议学习小提琴。</p><p><b>7、我是零基础，喜欢（xx）这首曲子，多久能学会？</b></p><p>  这也是我经常被问到的一个问题，很多喜欢小提琴是因为一首唯美的曲子，也许是电影里的插曲，也许是午后坐在咖啡厅无意听到的，那种感觉会让你突然有想学小提琴的冲动，尤为是把自己喜欢的这首曲子学会，但是<b>！</b>就算是你听到的曲子无论简单与否，都需要从最基本的空弦开始练习，而拉好空弦才会稍微掌握正确的发音，这是需要一段时间的，（很多专业演奏者，每天都会练习空弦），而掌握了空弦练习之后，需要掌握左手的把位练习，固定手型，练习音准，而这是小提琴学习中非常困难的环节，因为很多人是听不出来音准的，去练习音准又需要大量的时间，而你想要拉出你喜欢的曲子还要认识五线谱，五线谱好学，但是如果你能快速的反应在指板上的位置，对于初学者来说是难上加难，是需要不断的练习大脑反应五线谱，大脑控制左手的意识的。所以很多人问我他是零基础，想学习xx曲子，这个问题我回答不上来，你如果单纯就是记指法，把音拉出来，那也很快，但是这种机械的拉出来的曲子连你自己都不愿意听，何以打动别人呢？踏踏实实，逐一攻破小提琴的每一个技巧，才是正确开启学习小提琴的模式。</p><p><b>8、小提琴是应该上集体课，还是一对一的学习？</b></p><p> 小提琴一定需要一对一的学习乐器，很多家长/初学者一开始接触学习小提琴是上的集体课，而小提琴是一个对于音准要求及其严格的乐器，而初学者是没有固定音高概念的，需要老师听你的音准反复调整的，而集体课人数多，很多人一起拉，在音不准的情况下很难被发现，而且每个人身体技能不一定，所以出现的毛病不一样，这也是上集体课很难发现的问题。偶尔的集体课会促进学习的氛围和练琴的劲头，但如果你从一开始接触小提琴就一直在上集体课的话，那么抓紧换老师，不要耽误你自己宝贵的时间了。</p><blockquote>小提琴教学</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\"/></figure><blockquote></blockquote>", 
+            "topic": [
+                {
+                    "tag": "小提琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19590258"
+                }, 
+                {
+                    "tag": "小提琴学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19810384"
+                }, 
+                {
+                    "tag": "小提琴选购", 
+                    "tagLink": "https://api.zhihu.com/topics/19810375"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "cai", 
+                    "userLink": "https://www.zhihu.com/people/22a7036eded42bd3c9f93dd039a473fa", 
+                    "content": "小提琴2000～5000感觉学生党有点支付不来……请问不能要稍微低点价格的琴么？", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "这个价位的琴，是不会给练琴的人本身造成影响的，再便宜的琴，你平时练琴，琴都是毛病，那学起来太吃力了，得不偿失", 
+                            "likes": 4, 
+                            "replyToAuthor": "cai"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "录音机", 
+                    "userLink": "https://www.zhihu.com/people/fc0068e9fa7420e42a3eadb6aba382d0", 
+                    "content": "看来还要加一项了，请老师的费用。好像不便宜啊，一个小时五六百。<br>以后慢慢积累了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>这东西，无品，不好学。</p><p>女儿小指短，正犹豫要不要学呢，ε=(´ο｀*)))唉</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "是的，小提琴难学，对于音准要求极高  孩子学的乐器的话，看孩子的兴趣来培养", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "玥牙啦啦", 
+                    "userLink": "https://www.zhihu.com/people/e467c4c656daffc57f66bbc0d274249f", 
+                    "content": "您好！我想请问一下，三百多的小提换一千多的琴是否有必要？成人初学者", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "我是你的小迷弟", 
+                    "userLink": "https://www.zhihu.com/people/3542376f278da5084022916dceee3714", 
+                    "content": "你好，能咨询你一些事情吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "可以", 
+                            "likes": 0, 
+                            "replyToAuthor": "我是你的小迷弟"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "小提琴石家庄", 
+                    "userLink": "https://www.zhihu.com/people/cf208bc50706ddbb9f0ec5e4786b36a9", 
+                    "content": "同情那些自学的", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "不建议自学的，很多细节的问题，没有老师是解决不了的", 
+                            "likes": 0, 
+                            "replyToAuthor": "小提琴石家庄"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "恶魔糖果", 
+                    "userLink": "https://www.zhihu.com/people/00f71a40dd9c8eac612e5d87eb36f3c4", 
+                    "content": "楼主你好，我家孩子周岁4周半，学了半年小提琴，左手总是往下掉，之前10/1的琴，就算有标记也不按标记上，没有固定手型，总是并拢，右手总是往上跑，无名指小拇指都靠着中指，不知道她听不听的出没拉准音，反正一个劲拉，还好乖是挺乖，就是没魂，说几遍还是会不自觉变形，现在换老师换了8/1的琴，没标记了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "您好，孩子在没有固定好手型的情况下，是不建议不贴标记的，更何况您说孩子就算是有标记，也不往上面按，而且现在8/1的琴比之前的琴大了一点，对于左手指的间距也会增大，还是现在太小，控制能力弱，这需要家长能够经常的辅助他的", 
+                            "likes": 0, 
+                            "replyToAuthor": "恶魔糖果"
+                        }, 
+                        {
+                            "userName": "恶魔糖果", 
+                            "userLink": "https://www.zhihu.com/people/00f71a40dd9c8eac612e5d87eb36f3c4", 
+                            "content": "嗯嗯，希望通过监督练习能改回来，谢谢您的回复", 
+                            "likes": 0, 
+                            "replyToAuthor": "纯乐violin"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36246200", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 35, 
+            "title": "小提琴练习中慢练的重要性", 
+            "content": "<p>  在小提琴练习中，慢练是一种非常实用且效果好的方法，对于小提琴学习者来说，再没有比“有效率的练习”的能力更可贵的东西了，而慢速练习可以在最少的时间内获得最大的练习效果。但实际学习中，很多人并不能彻底明白慢速练习的真正意义，小提琴练习中的慢练，能够使大脑从容的把演奏概念及要求想的清楚正确，慢速练习也可以充分调动大难的积极性，而不是光用手。也使持弓与按指左右两个方向保持协调一致。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>   当练习一首新作品时，要从慢速练习开始，用眼睛看清乐谱，脑子能指挥手指的速度练习。慢练主要是为了分析技术上感到困难的地方，用慢速练习可以细看分句的结构以及每一种力度的转变标记，而较快的速度就容易忽略细致的分析作品以及技术层面的准确性。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>   不喜欢慢练和不会慢练是很多小提琴学习者练琴时的通病，有些学习者从视谱开始就不肯放慢速度，而是马虎的快练，结果谱子认的一塌糊涂。也有的学生节奏不问，忽快忽慢，遇到容易的地方就往上“冲”碰到稍微难的地方就“卡”住拉不下去。这些问题都暴露出平时练琴时就没有养成慢练的习惯。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>    放慢速度进行练习，眼睛来得及看，手指来的及准备，使之能按照乐谱规定的正确节奏关系把音符认准确。并能兼顾到运用正确的指法和演奏。慢速练习可以看到一些较为细致的东西，比如乐曲的表情记号，这是学习者对乐曲进行处理的依据。也可以分析乐句，乐段，解决句式走向问题，强弱连段等表情问题。慢速练习也可以在最大程度上保证音准。慢练是将练习时所遇到的问题，依简单至困难的顺序，呈现在脑海中，以传送到肌肉上。每当遇到困难技巧是，只有慢练才能做到认真分析，找到困难的根源。</p><blockquote>小提琴教学</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\"/></figure><blockquote></blockquote>", 
+            "topic": [
+                {
+                    "tag": "小提琴学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19810384"
+                }, 
+                {
+                    "tag": "小提琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19590258"
+                }, 
+                {
+                    "tag": "小提琴选购", 
+                    "tagLink": "https://api.zhihu.com/topics/19810375"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "晨晨", 
+                    "userLink": "https://www.zhihu.com/people/4e07bc3b5069dc27ef3fd40e91e6cdf1", 
+                    "content": "很赞同，孩子有时候练琴，速度快了，就来不及改错。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "木沐", 
+                    "userLink": "https://www.zhihu.com/people/0598c74e8f8d931c063df5fdc5fcd8d8", 
+                    "content": "<p>赞同~</p><p>所以现在上小课一直被老师狂吼“带脑子去拉琴”</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "我也经常和学生讲，练琴除了基本功练手指，最后练的其实是脑袋，脑袋清楚，思路清晰，懂得分析的人，练琴效率极高，相反，那些自认为每天练琴六七个小时，却机械的练琴的人，很长时间是在浪费自己宝贵的时间", 
+                            "likes": 0, 
+                            "replyToAuthor": "木沐"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "犭苗女又", 
+                    "userLink": "https://www.zhihu.com/people/3b9782f060380315f98d3717a4eb62f3", 
+                    "content": "太对了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "航迹云", 
+                    "userLink": "https://www.zhihu.com/people/8b13368ef83ff478a6ef0df901da9e14", 
+                    "content": "那玲玲是如何每天练40小时呢（笑）", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "玲玲是谁哈哈哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "航迹云"
+                        }, 
+                        {
+                            "userName": "52dq85dq", 
+                            "userLink": "https://www.zhihu.com/people/38fa2d141efdc8b8df635d98e46c594a", 
+                            "content": "油管播主，两名前交响乐团成员，澳籍华裔小哥为了普及古典音乐，辞去工作后开始走 脱口秀小品+油管段子手的路线，以小提琴为主题发布吐槽视频。这就是他们创造的梗之一。Ling Ling是他们虚拟出来的一个练琴很勤奋的女孩，有很严格爸爸妈妈经常逼她练琴，通常由他们自己女装扮演，戏称自己拥有超能力，练琴时时间变慢，一天练琴40小时", 
+                            "likes": 0, 
+                            "replyToAuthor": "纯乐violin"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "雅典娜", 
+                    "userLink": "https://www.zhihu.com/people/b4a6c8c744e93ead272f2e62f2fe9517", 
+                    "content": "孩子考了业余8级，今年参加高考，专业分130多，高考分不够本科线，他又不想上专科，但是放弃了又好可惜，失去了去本科院校专业学习的机会还能在继续学习吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "纯乐violin", 
+                            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+                            "content": "可以继续学习啊", 
+                            "likes": 0, 
+                            "replyToAuthor": "雅典娜"
+                        }, 
+                        {
+                            "userName": "雅典娜", 
+                            "userLink": "https://www.zhihu.com/people/b4a6c8c744e93ead272f2e62f2fe9517", 
+                            "content": "孩子不知道去从哪个方向继续求学了，我也很迷茫。", 
+                            "likes": 0, 
+                            "replyToAuthor": "纯乐violin"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36048376", 
+            "userName": "纯乐violin", 
+            "userLink": "https://www.zhihu.com/people/b2bc759a045937f5b7491c902e9793be", 
+            "upvote": 13, 
+            "title": "音阶对于小提琴练习中的重要性", 
+            "content": "<p>    所谓音阶就是“音的阶梯”，即从主音开始，把调式中的各个音按照音高的顺序排列起来，形成向上到上方主音，或向下到下方主音，音阶是音乐的基石，在通往音乐的殿堂中，坚持系统的音阶练习是学习小提琴成功的关键。但目前业余学习小提琴的学生，有好多都没有充分认识到小提琴音阶练习的重要性，因而忽视了对小提琴音阶的系统训练。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>  在教学实践中，学生谱遍对单纯的小提琴音阶练习没有兴趣，即使老师布置音阶练习，也是为了还课，更多的则是为了应付考级。当然也有些教师本身不够重视音阶训练，没有真正从内心认识到小提琴音阶的重要性，这在考级中得到验证，音阶掌握好的学生聊聊无几。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>  小提琴不像钢琴有现成的键盘，所有的升降记号，只要搞清黑键，白键，按准就行了。而小提琴的音淮完全要左手在指板上按指来调整的，有1、2指，2、3指，3、4指各排列成半音的，也有1指后退与空弦排列成半音的，虽基本排列是这四种，但在各个把位上每个手指的距离是不同的，是要靠耳朵的听准来决定的，这就决定了小提琴音准的复杂性，要想熟练的驾驭小提琴这匹难以驯服的马，左手手指在指板上各把位的起落必须做到正确无误，并成为下意识的动作，并通过反复练习做到左手的手型固定，而这只能通过每天的音阶练习来逐步达到，所以坚持长期系统的音阶练习，才能真正熟悉指板，掌握指板，建立起属于自己的无形的空中键盘。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>  很多初学小提琴的学生，在接触一条音阶，往往是头脑不清晰，没有构建整条音阶的框架，说白了就是根本没有搞清楚调式调性，升降记号在指板上所对应的位置，过度的依赖规律性的指法，这样练习的后果就是音名与唱名和左手的位置对不上。小提琴有24个大小调，在小提琴演奏中，没有掌握好调式与调性是寸步难行的，要想掌握好调式与调性，只有通过每天的音阶练习，这是唯一有效的方法。在练习的过程中，慢练音阶是极为重要的，慢速的练习不但能够训练正确的音准意识，还能在慢练的过程中练习发音，和减少可能出现任何小问题的几率。而现在大部分学生却往往忽视或者没有足够重视音阶练习，所以常常会导致演奏时调式与调性观念模糊，从而音准没保证。</p><blockquote>小提琴教学</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;974&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"752\" data-rawheight=\"974\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6dacec4957b61ee320128dfb84d7f33f_b.jpg\"/></figure><blockquote></blockquote>", 
+            "topic": [
+                {
+                    "tag": "乐器", 
+                    "tagLink": "https://api.zhihu.com/topics/19556192"
+                }, 
+                {
+                    "tag": "小提琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19590258"
+                }, 
+                {
+                    "tag": "钢琴", 
+                    "tagLink": "https://api.zhihu.com/topics/19551861"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_155424192"
+}

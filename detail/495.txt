@@ -1,0 +1,467 @@
+{
+    "title": "农村老伯学AI", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/lee-7-42-41", 
+        "https://www.zhihu.com/people/Justin-wu-", 
+        "https://www.zhihu.com/people/xiao-ma-67-21-5", 
+        "https://www.zhihu.com/people/295452", 
+        "https://www.zhihu.com/people/muyaba", 
+        "https://www.zhihu.com/people/zhuri008", 
+        "https://www.zhihu.com/people/tan-fluent", 
+        "https://www.zhihu.com/people/xiao-mi-feng-15-94", 
+        "https://www.zhihu.com/people/shui-mu-qing-hua-88-16", 
+        "https://www.zhihu.com/people/liu-xing-yu-93-87", 
+        "https://www.zhihu.com/people/wen-jia-31-43", 
+        "https://www.zhihu.com/people/luo-wei-bin-35", 
+        "https://www.zhihu.com/people/shao-lin-xiao-zi-24", 
+        "https://www.zhihu.com/people/xuan-xiao-bai-47", 
+        "https://www.zhihu.com/people/liao-zhao-po", 
+        "https://www.zhihu.com/people/hai-tian-1du", 
+        "https://www.zhihu.com/people/lai-wei-15-21", 
+        "https://www.zhihu.com/people/shu-li-hua-79", 
+        "https://www.zhihu.com/people/wenqifan", 
+        "https://www.zhihu.com/people/a-zhu-60-55", 
+        "https://www.zhihu.com/people/sun-xiao-fei-75-94", 
+        "https://www.zhihu.com/people/kim-74-51", 
+        "https://www.zhihu.com/people/sun-zhan-53-6", 
+        "https://www.zhihu.com/people/dentiny-31", 
+        "https://www.zhihu.com/people/eng-feng", 
+        "https://www.zhihu.com/people/ok1022", 
+        "https://www.zhihu.com/people/hu-hao-38-5", 
+        "https://www.zhihu.com/people/aitracker", 
+        "https://www.zhihu.com/people/narsil-zhang", 
+        "https://www.zhihu.com/people/da-shui-ren", 
+        "https://www.zhihu.com/people/li-fei-78-5-22", 
+        "https://www.zhihu.com/people/wang-kang-90-77", 
+        "https://www.zhihu.com/people/chang-he-luo-ri-11-79", 
+        "https://www.zhihu.com/people/ge-ting-gen-shu-xue-xue-pai", 
+        "https://www.zhihu.com/people/du-xiao-dong-2", 
+        "https://www.zhihu.com/people/xdu_zdc_iacas", 
+        "https://www.zhihu.com/people/loveday160102", 
+        "https://www.zhihu.com/people/cao-xiao-tian-41", 
+        "https://www.zhihu.com/people/zhou-xiao-di-96", 
+        "https://www.zhihu.com/people/wang-ling-ye", 
+        "https://www.zhihu.com/people/san-yue-po-xiao", 
+        "https://www.zhihu.com/people/zhao-hu-41-13", 
+        "https://www.zhihu.com/people/boblinp", 
+        "https://www.zhihu.com/people/xuhaiyang-86", 
+        "https://www.zhihu.com/people/kai-xin-mian-dui-65", 
+        "https://www.zhihu.com/people/tchk-5", 
+        "https://www.zhihu.com/people/hei-hong-ling-jin", 
+        "https://www.zhihu.com/people/edwin-yi-69", 
+        "https://www.zhihu.com/people/bigpo", 
+        "https://www.zhihu.com/people/wenhu", 
+        "https://www.zhihu.com/people/zhao-rong-wen", 
+        "https://www.zhihu.com/people/ziqiiii", 
+        "https://www.zhihu.com/people/XiaMin1314", 
+        "https://www.zhihu.com/people/tan-wei-43", 
+        "https://www.zhihu.com/people/willwinworld", 
+        "https://www.zhihu.com/people/liu-da-wei-83-74", 
+        "https://www.zhihu.com/people/lin-lian-lian-7", 
+        "https://www.zhihu.com/people/xiang-tu-365", 
+        "https://www.zhihu.com/people/zhong-2-91", 
+        "https://www.zhihu.com/people/kong-xiao-de-41", 
+        "https://www.zhihu.com/people/tinker-34-37", 
+        "https://www.zhihu.com/people/ben-hembert", 
+        "https://www.zhihu.com/people/flacro", 
+        "https://www.zhihu.com/people/fang-qing-19-24", 
+        "https://www.zhihu.com/people/jeff-soong", 
+        "https://www.zhihu.com/people/bingjunchen", 
+        "https://www.zhihu.com/people/ma-ti-ji-36", 
+        "https://www.zhihu.com/people/huangxiaowen", 
+        "https://www.zhihu.com/people/derwee-yang", 
+        "https://www.zhihu.com/people/murongsina", 
+        "https://www.zhihu.com/people/haiyinpiao", 
+        "https://www.zhihu.com/people/li-xin-sheng-92", 
+        "https://www.zhihu.com/people/cherry-lin-83", 
+        "https://www.zhihu.com/people/ha-wooo", 
+        "https://www.zhihu.com/people/teddylee", 
+        "https://www.zhihu.com/people/wait4hope", 
+        "https://www.zhihu.com/people/ni-yong-hu-97-91", 
+        "https://www.zhihu.com/people/FPCN", 
+        "https://www.zhihu.com/people/DiXinkai", 
+        "https://www.zhihu.com/people/liu-xiao-hua-65-8", 
+        "https://www.zhihu.com/people/jin-chen-xi-12", 
+        "https://www.zhihu.com/people/jyshee", 
+        "https://www.zhihu.com/people/suning-1688", 
+        "https://www.zhihu.com/people/yu-yue-mou-yue", 
+        "https://www.zhihu.com/people/rtying-cai", 
+        "https://www.zhihu.com/people/Idiotnick", 
+        "https://www.zhihu.com/people/dennisgan", 
+        "https://www.zhihu.com/people/zhangruolan", 
+        "https://www.zhihu.com/people/hao-zhao-73", 
+        "https://www.zhihu.com/people/hua-yang-nian-hua-94-92", 
+        "https://www.zhihu.com/people/wu-yu-5-40-49", 
+        "https://www.zhihu.com/people/wo-de-zhong-jie-shi-jie", 
+        "https://www.zhihu.com/people/mata-fu", 
+        "https://www.zhihu.com/people/wang-qiang-8", 
+        "https://www.zhihu.com/people/wrs-95", 
+        "https://www.zhihu.com/people/zhang-xuan-chen-76", 
+        "https://www.zhihu.com/people/dian-shang-jie-zhi-zhong-gou-shi-1", 
+        "https://www.zhihu.com/people/ba-shi-san-dian", 
+        "https://www.zhihu.com/people/jian-jian-dan-21", 
+        "https://www.zhihu.com/people/du-jia-chang", 
+        "https://www.zhihu.com/people/ke-xin-xin-13", 
+        "https://www.zhihu.com/people/xiong-ming-kang", 
+        "https://www.zhihu.com/people/xi-cheng-27-96", 
+        "https://www.zhihu.com/people/liu-de-ya-pi-5", 
+        "https://www.zhihu.com/people/saiyulong", 
+        "https://www.zhihu.com/people/you-chen-shi-dai", 
+        "https://www.zhihu.com/people/mai-ke-75-41", 
+        "https://www.zhihu.com/people/kiraqJ", 
+        "https://www.zhihu.com/people/kuang-xiang-de-lan", 
+        "https://www.zhihu.com/people/tan-bang-yu-21", 
+        "https://www.zhihu.com/people/huang-chao-lin-6", 
+        "https://www.zhihu.com/people/adorable_carrotie", 
+        "https://www.zhihu.com/people/li-pei-ran-65", 
+        "https://www.zhihu.com/people/long-shang-bang", 
+        "https://www.zhihu.com/people/luo-sheng-31-63", 
+        "https://www.zhihu.com/people/shuai-liu-77", 
+        "https://www.zhihu.com/people/danny-20-62", 
+        "https://www.zhihu.com/people/forrest_z", 
+        "https://www.zhihu.com/people/yuan-hong", 
+        "https://www.zhihu.com/people/tian-mu-ge-37", 
+        "https://www.zhihu.com/people/li-xia-67-51", 
+        "https://www.zhihu.com/people/zhang-xiong-46-98", 
+        "https://www.zhihu.com/people/homer-wong-33", 
+        "https://www.zhihu.com/people/pyw-34-56", 
+        "https://www.zhihu.com/people/feng-yue-17", 
+        "https://www.zhihu.com/people/tai-hen-65", 
+        "https://www.zhihu.com/people/lee-pcheng", 
+        "https://www.zhihu.com/people/yang-fan-92-39", 
+        "https://www.zhihu.com/people/jiu-ye-20-63", 
+        "https://www.zhihu.com/people/feip-zxy-12-16", 
+        "https://www.zhihu.com/people/snow-ma", 
+        "https://www.zhihu.com/people/yu-ying-hong-92", 
+        "https://www.zhihu.com/people/changfeng-95", 
+        "https://www.zhihu.com/people/bai-bai-87-80-88", 
+        "https://www.zhihu.com/people/zhan-xue-jian", 
+        "https://www.zhihu.com/people/shen-zi-jian-mo-ru-yun-piao-bo-88", 
+        "https://www.zhihu.com/people/li-jun-chao-40", 
+        "https://www.zhihu.com/people/xiao-er-lai-ge-id", 
+        "https://www.zhihu.com/people/applegfbf", 
+        "https://www.zhihu.com/people/shao-tian-zun", 
+        "https://www.zhihu.com/people/xiao-qi-e-77-51", 
+        "https://www.zhihu.com/people/jue-zhi-17", 
+        "https://www.zhihu.com/people/tian-jing-56-85", 
+        "https://www.zhihu.com/people/kevin-liang-47", 
+        "https://www.zhihu.com/people/gu-zheng-yu-38", 
+        "https://www.zhihu.com/people/sam-hu-27", 
+        "https://www.zhihu.com/people/si-chuan-tu-te-chan-dai-gou-21", 
+        "https://www.zhihu.com/people/gao-yuan-46-75", 
+        "https://www.zhihu.com/people/li-xin-95-42-23", 
+        "https://www.zhihu.com/people/chris-han-56", 
+        "https://www.zhihu.com/people/xingm-61", 
+        "https://www.zhihu.com/people/fang-sheng-feng", 
+        "https://www.zhihu.com/people/la-geek", 
+        "https://www.zhihu.com/people/liuyuemaicha", 
+        "https://www.zhihu.com/people/hua-zuo-qian-feng-65", 
+        "https://www.zhihu.com/people/huanglgnauh", 
+        "https://www.zhihu.com/people/wang-chen-pku", 
+        "https://www.zhihu.com/people/startraveller", 
+        "https://www.zhihu.com/people/hzew", 
+        "https://www.zhihu.com/people/liang-jun-97", 
+        "https://www.zhihu.com/people/xia-chu-15-98", 
+        "https://www.zhihu.com/people/xiao-shan-94-8", 
+        "https://www.zhihu.com/people/qichao-tang", 
+        "https://www.zhihu.com/people/rryen", 
+        "https://www.zhihu.com/people/StarWong94", 
+        "https://www.zhihu.com/people/li-jia-ni-12-80", 
+        "https://www.zhihu.com/people/neveralso", 
+        "https://www.zhihu.com/people/jinyu0310", 
+        "https://www.zhihu.com/people/johnson-salomon", 
+        "https://www.zhihu.com/people/tian-ruo-wu-ying", 
+        "https://www.zhihu.com/people/ustc9501", 
+        "https://www.zhihu.com/people/chang-hao-nan"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24446336", 
+            "userName": "Zhenghao Fei", 
+            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+            "upvote": 279, 
+            "title": "深度强化学习 Deep Reinforcement Learning 学习整理", 
+            "content": "这学期的一门机器学习课程中突发奇想，既然卷积神经网络可以识别一副图片，解决分类问题，那如果用神经网络去控制‘自动驾驶’，在一个虚拟的环境中不停的给网络输入车周围环境的图片，让它去选择前后左右中的一个操作，并给予适当的反馈，是否能够把‘驾驶问题’，转化为分类的问题，用神经网络解决呢。<p>和经典的强化学习 Reinforcement Learning 最大的区别是，它将直接处理像素级的超高维度raw image state input， 而非事先人为的抽象将状态抽象为低维度state。更加贴近现实的状况。<br/></p><p>赶紧趁着课程项目的机会，试试这个想法。<br/><figure><noscript><img src=\"https://pic2.zhimg.com/v2-97f39669d72b73a91742ad2868772eb9_b.png\" data-rawwidth=\"717\" data-rawheight=\"311\" class=\"origin_image zh-lightbox-thumb\" width=\"717\" data-original=\"https://pic2.zhimg.com/v2-97f39669d72b73a91742ad2868772eb9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;717&#39; height=&#39;311&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"717\" data-rawheight=\"311\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"717\" data-original=\"https://pic2.zhimg.com/v2-97f39669d72b73a91742ad2868772eb9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-97f39669d72b73a91742ad2868772eb9_b.png\"/></figure></p><p>回去一做文献查阅，一看发现，唉？已经有很成熟的一个领域叫做 Deep Reinforcement Learning 在用非常类似且完备的方法去这么做了，而且创始还是由Deepmind公司的人开始做的。Deepmind最出名的就是Alpha Go了，在这之前他们用Deep Q Learning 来玩 Atari 2600游戏，玩的比人还要好，非常有意思。 看来‘创新’失败，不过花了一学期利用课程项目的机会好好学了学这个领域也是非常有收货。趁着圣诞假期记录下来，分享心得给大家，也给自己一个回顾。</p><br/> Deep Reinforcement Learning  最初始的成功算法莫属 Deep Q Learning. 这个算法可以通过直接观察 Atari 2600的游戏画面和得分信息，自主的学会玩游戏，并且一个算法对几乎所有的游戏通用，非常强大，论文发表在了Nature上。<figure><noscript><img src=\"https://pic1.zhimg.com/v2-d7cb80b798a07c7509a41f73a19d75d8_b.png\" data-rawwidth=\"761\" data-rawheight=\"580\" class=\"origin_image zh-lightbox-thumb\" width=\"761\" data-original=\"https://pic1.zhimg.com/v2-d7cb80b798a07c7509a41f73a19d75d8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;761&#39; height=&#39;580&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"761\" data-rawheight=\"580\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"761\" data-original=\"https://pic1.zhimg.com/v2-d7cb80b798a07c7509a41f73a19d75d8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d7cb80b798a07c7509a41f73a19d75d8_b.png\"/></figure><br/><h2><ul><li><b>Q Learning</b></li></ul></h2><p>在了解 Deep Q Learning 之前，先来了解下他的鼻祖<b> Q Learning</b>。这也是一个在强化学习领域非常经典的算法。<br/></p><p>（推荐阅读David Silver的强化学习课程 <a href=\"https://link.zhihu.com/?target=http%3A//www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">UCL Course on RL</a>）</p><p>在这儿我们以赛车游戏为例子来说理论上如何应用Q Learning解决玩赛车游戏的。<br/></p><p>先解释一些符号表示的意义，接下来会在整篇中用到：</p><ul><li><b>State s:</b> 在每一个时间节点，agent（车） 所处的<b>环境</b>的表示即为State，例如整个游戏画面，或者已经抽象为位置，方向，障碍物位置等的信息。</li><li><b>Action a:</b> 在每一个 state 中，agent 可以采取的<b>动作</b>即为Action. 例如前，后，左，右，刹车，油门。每采取一个 action， agent 将相应会到下一个 state (可以理解为车往前开了，环境就相应变化了)。</li><li><b>Reward r</b><b>: </b>每到一个state，agent 就有可能会收到一个 reward <b>反馈</b>，例如撞了墙就会收到一个负的反馈，而如果顺利到达终点就会收到一个正的反馈<b>。</b></li><li><p><b>Policy P：</b>如何选择动作的策略，我们希望能够学习到一个策略可以让 agent 得到最大的累积反馈。</p><br/></li></ul><br/><p>一轮游戏可以被定义为一个马尔可夫决策过程 (MDPs), 反复在 state, action reward, state ... 之间转换直到游戏结束<br/></p><br/><p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-412fffab3e1698ac3c1397db9cda4c75_b.png\" data-rawwidth=\"536\" data-rawheight=\"36\" class=\"origin_image zh-lightbox-thumb\" width=\"536\" data-original=\"https://pic2.zhimg.com/v2-412fffab3e1698ac3c1397db9cda4c75_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;536&#39; height=&#39;36&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"536\" data-rawheight=\"36\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"536\" data-original=\"https://pic2.zhimg.com/v2-412fffab3e1698ac3c1397db9cda4c75_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-412fffab3e1698ac3c1397db9cda4c75_b.png\"/></figure><br/>我们的目标是学会一个好的策略，我们在这儿使用discounted future reward R，discount rate为<img src=\"https://www.zhihu.com/equation?tex=%5Cgamma\" alt=\"\\gamma\" eeimg=\"1\"/>。在一个 state 例如<img src=\"https://www.zhihu.com/equation?tex=s_0%0A\" alt=\"s_0\n\" eeimg=\"1\"/>中，总计反馈可以这样计算：<br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-1062cc96b8f10fd105c45317ed7c05a8_b.png\" data-rawwidth=\"684\" data-rawheight=\"64\" class=\"origin_image zh-lightbox-thumb\" width=\"684\" data-original=\"https://pic1.zhimg.com/v2-1062cc96b8f10fd105c45317ed7c05a8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;684&#39; height=&#39;64&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"684\" data-rawheight=\"64\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"684\" data-original=\"https://pic1.zhimg.com/v2-1062cc96b8f10fd105c45317ed7c05a8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-1062cc96b8f10fd105c45317ed7c05a8_b.png\"/></figure><p>我们希望我们的车能够总是选择一个能得到最大反馈R的动作。如果我们知道每个动作相对应的R，那我们只要选择最大的那个就可以了，可事实是在每个状态中，每个动作所对应的R并不是容易得到的。</p><p>在Q Learning中，我们定义了一个Q函数 <img src=\"https://www.zhihu.com/equation?tex=Q%28s%2Ca%29\" alt=\"Q(s,a)\" eeimg=\"1\"/>去表示在状态 s 中 采取动作 a 能够得到的最大R，在 Bell equation的帮助下，我们可以通过迭代的方法不停地更新Q值。</p><br/><p>如果我们的Q函数足够准确，并且环境是确定的，我们只需要采取选择最大Q值动作的策略即可。<br/></p><br/><p>在传统的Q Learning中，Q值被储存在一个Q表格中，想象一个表格行为所有可能的 state 列为所有可能的 action。 这个方法可以很好的解决一些问题，尤其是 state 并不多，比如可以用几个量来表示的时候。但是在现实中，我们经常要用一些 raw image 来作为 state 的表示，一张10 × 10 像素 8 位的灰度图像就会有<img src=\"https://www.zhihu.com/equation?tex=256%5E%7B100%0A%7D+\" alt=\"256^{100\n} \" eeimg=\"1\"/>个不同 state， 我们不可能建立如此大的一个Q table，这也导致了Q  Learning 很难被应用到现实问题中去.</p><br/><br/><h2><ul><li><b>Deep Q Learning</b></li></ul></h2><p>那没法建立这么大的Q table 怎么办？ 现在该是 Deep Q Learning登场的时候了。我们知道神经网络Neural Network可以很好对图片提取特征信息，进行抽象，分类等。那能否用Neural Network进行 Q 函数的模拟，让它去学习一副图片 state 所对应的 Q 值呢？<br/></p><p>答案当然是可以的啊，不然我就不写了。XD</p><p>这个一个网络玩通 Atari 2600游戏，惊动Nature的方法就用Neural network 代替了Q table.<br/></p><p><a href=\"https://link.zhihu.com/?target=http%3A//www.nature.com/nature/journal/v518/n7540/abs/nature14236.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Human-level control through deep reinforcement learning</a></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-becd9f5907c1581715fa4145e338a805_b.png\" data-rawwidth=\"549\" data-rawheight=\"302\" class=\"origin_image zh-lightbox-thumb\" width=\"549\" data-original=\"https://pic2.zhimg.com/v2-becd9f5907c1581715fa4145e338a805_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;549&#39; height=&#39;302&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"549\" data-rawheight=\"302\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"549\" data-original=\"https://pic2.zhimg.com/v2-becd9f5907c1581715fa4145e338a805_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-becd9f5907c1581715fa4145e338a805_b.png\"/></figure><p>在用模拟器不停地模拟采取各种动作，收到各种反馈，再用 Bell equation 不停的训练 Q  Network，并且得到一个能相对准确的估计Q值的网络以后。</p><p>我们只要在给定Q值的情况下选择相应的策略即可，比如贪心策略：</p><p>或者其他的广义上贪心策略，比如<img src=\"https://www.zhihu.com/equation?tex=%5Cepsilon\" alt=\"\\epsilon\" eeimg=\"1\"/>贪心策略或者 log概率搜索，去更好的探索整个问题，防止被困在一个局部最优中。</p><br/><h2><ul><li><b>Policy Gradient</b></li></ul></h2><p>Deep Q Learning的思维还是非常受Q Learning影响，基本的框架依然是Q Learning只是用神经网络去代替了Q Table，那还有一种更加 End to End的方法，叫做Policy Gradient。和 Deep Q Learning 用Ｑ网络去估计Q 表然后在规定一种策略去依据Ｑ值采取行动不同，Policy Gradient直的策略网络直接输出的就是策略，比如采取每一种行动的概率（对于离散控制问题），或者每一个动作的值（对于连续控制问题）。</p><p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-92bc8c6f99bfe291c67ac83573cafce7_b.png\" data-rawwidth=\"505\" data-rawheight=\"347\" class=\"origin_image zh-lightbox-thumb\" width=\"505\" data-original=\"https://pic4.zhimg.com/v2-92bc8c6f99bfe291c67ac83573cafce7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;505&#39; height=&#39;347&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"505\" data-rawheight=\"347\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"505\" data-original=\"https://pic4.zhimg.com/v2-92bc8c6f99bfe291c67ac83573cafce7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-92bc8c6f99bfe291c67ac83573cafce7_b.png\"/></figure>Policy Gradient　相对于　Deep Q Learning有两个主要优点，</p><p>一来是这样更加的 End to End，不用借用强化学习的理论框架。</p><p>二来是这样既可以通过直接输出动作相应的连续量处理连续的控制量（比如对于汽车来说，油门的力度，刹车力度，转向角度），而用通过Ｑ值选动作的方法则无法处理连续量。<br/></p><p>在　Policy Gradient　中我们希望学会一个策略能够达到最大的期望回馈。用<img src=\"https://www.zhihu.com/equation?tex=%5Cpi_%5Ctheta%28s%29\" alt=\"\\pi_\\theta(s)\" eeimg=\"1\"/>表示策略<img src=\"https://www.zhihu.com/equation?tex=%5Ctheta\" alt=\"\\theta\" eeimg=\"1\"/>表示策略网络的weights，通过学习不断更新。目标函数可以表示为<img src=\"https://www.zhihu.com/equation?tex=J%28%5Ctheta%29+%3D+E_%7B%5Cpi%28%5Ctheta%29%7D%5Br%5D\" alt=\"J(\\theta) = E_{\\pi(\\theta)}[r]\" eeimg=\"1\"/>。David Silver在RL课程中为我们推导它对<img src=\"https://www.zhihu.com/equation?tex=%5Ctheta\" alt=\"\\theta\" eeimg=\"1\"/>的导数：</p><p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-4ea053474306110d18687e963d4132f9_b.png\" data-rawwidth=\"360\" data-rawheight=\"54\" class=\"content_image\" width=\"360\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;360&#39; height=&#39;54&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"360\" data-rawheight=\"54\" class=\"content_image lazy\" width=\"360\" data-actualsrc=\"https://pic2.zhimg.com/v2-4ea053474306110d18687e963d4132f9_b.png\"/></figure>由此导数，我们可以把每轮的折扣回馈<img src=\"https://www.zhihu.com/equation?tex=v_t\" alt=\"v_t\" eeimg=\"1\"/>看做该state真实价值<img src=\"https://www.zhihu.com/equation?tex=G_t\" alt=\"G_t\" eeimg=\"1\"/>的无偏估计。利用Gradient ascent的方法去,　<img src=\"https://www.zhihu.com/equation?tex=%5Calpha\" alt=\"\\alpha\" eeimg=\"1\"/>的 learning rate，不停地更新<img src=\"https://www.zhihu.com/equation?tex=%5Ctheta\" alt=\"\\theta\" eeimg=\"1\"/>训练一个能够达到最大期望回馈的策略网络。</p><br/><figure><noscript><img src=\"https://pic1.zhimg.com/v2-c5d084c293eb36849b64b4eb9175d7e4_b.png\" data-rawwidth=\"197\" data-rawheight=\"27\" class=\"content_image\" width=\"197\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;197&#39; height=&#39;27&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"197\" data-rawheight=\"27\" class=\"content_image lazy\" width=\"197\" data-actualsrc=\"https://pic1.zhimg.com/v2-c5d084c293eb36849b64b4eb9175d7e4_b.png\"/></figure><br/><h2><ul><li><b>Deep Deterministic Policy Gradient</b><br/></li></ul></h2><p>Policy Gradient　听起来很美好是不是，但是呢，试试就发现，它基本没法学会任何东西啊！低配乞丐版的　Policy Gradient　理论上一切都好，但是实践中会有很多致命的问题让它很难收敛，例如：</p><p>1. 反馈分配，反馈在大多时候都是不存在的，比如赛车游戏，只有游戏结束，例如到达终点或者撞墙而亡的时候才收到反馈，那如何将反馈很好的和之前进行的一系列策略和动作联系到一起去是一个很大的问题。</p><p>２. 我们的算法有一个内在的假设，假设所有的抽样都是独立，并且处于相同分布的(independently and identically distributed, iid ),　但是实际上，在游戏进行的过程中，同一时间段前后的抽样是明显具有相关性的，这个iid假设并不成立，也就会影响到学习的效果。</p><p>3. 在我们通过获取反馈，折扣，然后ＴＤ来更新Ｑ值的方法，或者直接估计策略的方法中，这些反馈信号都有非常多的噪声，这些噪声可能会让整个网络很难收敛，甚至很容易发散。</p><p>我在尝试的过程中也确实遇到了基本所有的这些问题，经常怎么训练都没法看到整个网络开始收敛，直到发现这个更加高级的方法DDPG：<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1509.02971\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Continuous control with deep reinforcement learning</a></p><p>在这个方法中，除了有一个动作网络 Actor Network 用于直接估计动作之外，还有一个校正网络 Critic Network 用来估计Q值，其中 Actor Network 就像低配版 Policy Gradient中的 Policy Network，输入State，给出动作值 Actions。而 Critic Network 则在输入 State 的同时还输入由Actor Network 产生的 Actions，给出相应的 Q 值，并不断的用 bellman equation来进行更新。Actor Network 则是从Critic Network 对应 Actions 输入计算出的导数来进行更新。</p><p>用上面文章中的定义，动作方程 actor function 表示为<img src=\"https://www.zhihu.com/equation?tex=%5Cmu+%28s%7C%5Ctheta%5E%5Cmu%29\" alt=\"\\mu (s|\\theta^\\mu)\" eeimg=\"1\"/>, 校正方程 critic function 表示为 <img src=\"https://www.zhihu.com/equation?tex=Q%28s%2Ca%7C%5Ctheta%5EQ%29\" alt=\"Q(s,a|\\theta^Q)\" eeimg=\"1\"/>, Cost function J 对于<img src=\"https://www.zhihu.com/equation?tex=%5Ctheta\" alt=\"\\theta\" eeimg=\"1\"/>的导数为：</p><p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-3b957ba43162bf90a1261609a74a4d6b_b.png\" data-rawwidth=\"570\" data-rawheight=\"59\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pic4.zhimg.com/v2-3b957ba43162bf90a1261609a74a4d6b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;570&#39; height=&#39;59&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"570\" data-rawheight=\"59\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"570\" data-original=\"https://pic4.zhimg.com/v2-3b957ba43162bf90a1261609a74a4d6b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3b957ba43162bf90a1261609a74a4d6b_b.png\"/></figure>这个算法将对动作的Q值估计和策略估计给分离，让 agent 能够在探索更多的同时保持对一个确定策略的学习，让整个网络学习变得更容易。</p><br/>除了将 Actor Network 和  Critic Network 分离以外，以下的一些小技巧也能更有利于网络的收敛（结果来看，这些小技巧才是重点……）。<p><b>Replay Buffer：</b>这是一个近乎于无限大的缓存，每次进行动作以后得到的 状态-动作-反馈- 新状态<img src=\"https://www.zhihu.com/equation?tex=%28s_t%2C+a_t%2C+r_t%2C++s_%7Bt%2B1%7D%29\" alt=\"(s_t, a_t, r_t,  s_{t+1})\" eeimg=\"1\"/>都会被保存到这个缓存中去，不同于之前的方法直接拿游戏进行过程中得到的 <img src=\"https://www.zhihu.com/equation?tex=%28s_t%2C+a_t%2C+r_t%2C++s_%7Bt%2B1%7D%29\" alt=\"(s_t, a_t, r_t,  s_{t+1})\" eeimg=\"1\"/> 来进行训练，采用了Replay Buffer 以后，训练采用的 sample 则从这个缓存中随机抽样，通过这样的方法，理论上可以打破抽样直接的相关性，解决iid假设不成立的困扰<br/></p><p><b>Target Network</b>:  在训练过程中，由于环境是相对混沌的，用于更新Q网络的反馈具有很大的噪声，直接训练一个网络会非常容易让它发散而非收敛。因此，在DDPG的文章当中，有一种叫做目标网络Target Network的方法，创建Actor和Critic网络的副本<img src=\"https://www.zhihu.com/equation?tex=%5Cmu%27%28s%7C%5Ctheta%5E%7B%5Cmu%27%7D%29\" alt=\"\\mu&#39;(s|\\theta^{\\mu&#39;})\" eeimg=\"1\"/>和<img src=\"https://www.zhihu.com/equation?tex=Q%27%28s%2Ca%7C%5Ctheta%5E%7BQ%27%7D%29\" alt=\"Q&#39;(s,a|\\theta^{Q&#39;})\" eeimg=\"1\"/>来计算目标值，然后以<img src=\"https://www.zhihu.com/equation?tex=%5Ctau\" alt=\"\\tau\" eeimg=\"1\"/>的比例缓慢的跟随原网络更新<img src=\"https://www.zhihu.com/equation?tex=%5Ctau%5Ctheta%27%5Cleftarrow+%5Ctau%5Ctheta%2B%281-%5Ctau%29%5Ctheta%27\" alt=\"\\tau\\theta&#39;\\leftarrow \\tau\\theta+(1-\\tau)\\theta&#39;\" eeimg=\"1\"/>。如此一来，目标值就会相对变得稳定许多，非常有利于学习的效果。</p><br/><h2><ul><li><b>伪代码</b><br/></li></ul><br/></h2><p>讲了那么多昏昏欲睡的废话，现在直接贴上伪代码吧!</p><p><b>低配乞丐版　Policy Gradient</b></p><p><b><figure><noscript><img src=\"https://pic4.zhimg.com/v2-51826681a0479994cc73515c61c1eaa7_b.png\" data-rawwidth=\"653\" data-rawheight=\"344\" class=\"origin_image zh-lightbox-thumb\" width=\"653\" data-original=\"https://pic4.zhimg.com/v2-51826681a0479994cc73515c61c1eaa7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;653&#39; height=&#39;344&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"653\" data-rawheight=\"344\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"653\" data-original=\"https://pic4.zhimg.com/v2-51826681a0479994cc73515c61c1eaa7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-51826681a0479994cc73515c61c1eaa7_b.png\"/></figure>高配　Deep Deterministic Policy Gradient</b></p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-9050fcdd3f26bf1e77e902cbf92e39bf_b.png\" data-rawwidth=\"798\" data-rawheight=\"638\" class=\"origin_image zh-lightbox-thumb\" width=\"798\" data-original=\"https://pic4.zhimg.com/v2-9050fcdd3f26bf1e77e902cbf92e39bf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;798&#39; height=&#39;638&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"798\" data-rawheight=\"638\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"798\" data-original=\"https://pic4.zhimg.com/v2-9050fcdd3f26bf1e77e902cbf92e39bf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9050fcdd3f26bf1e77e902cbf92e39bf_b.png\"/></figure><br/><h2><ul><li><b>训练结果</b><br/></li></ul><br/></h2><p>对于不同的游戏环境，训练结果也不尽相同，在经过一定时间的训练以后，一般都能看到初步的收敛，但是真正的收敛到一个接近最优的位置可能会需要好几天的训练时间。(基于Tensorflow，辣鸡GPU加速)</p><p>在寻找环境的过程中不得不提一下 <a href=\"https://link.zhihu.com/?target=https%3A//gym.openai.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">OpenAI Gym.</a>这个由 Elon Musk 赞助的非盈利性平台，提供了上百个游戏环境，搭建了一个训练General AI的平台，所有的游戏有统一的接口使用非常方便。</p><p><b>CartPole</b>： 最简单的情况，这个控制木棍不倒下的问题应该是最经典的RL控制问题，由于相应的 State 和Action 维度很低因此也非常容易完成。我们使用了ＤＤＰＧ，在训练中记录了Ｑ估计的最大值，代表了网络认为能够达到的最大收货。以及实际的 Reward，尽管非常嘈杂，但是依然可以明显的看到正在收敛。从游戏的视频来看，小木棍在后期确实非常稳定不容易倒下。</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-0290a73d27beb1517aacc763ee207b41_b.png\" data-rawwidth=\"272\" data-rawheight=\"175\" class=\"content_image\" width=\"272\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;272&#39; height=&#39;175&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"272\" data-rawheight=\"175\" class=\"content_image lazy\" width=\"272\" data-actualsrc=\"https://pic2.zhimg.com/v2-0290a73d27beb1517aacc763ee207b41_b.png\"/></figure><br/><br/><figure><noscript><img src=\"https://pic2.zhimg.com/v2-a7b770e6bc72e3124e7295e227767f85_b.png\" data-rawwidth=\"348\" data-rawheight=\"243\" class=\"content_image\" width=\"348\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;348&#39; height=&#39;243&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"348\" data-rawheight=\"243\" class=\"content_image lazy\" width=\"348\" data-actualsrc=\"https://pic2.zhimg.com/v2-a7b770e6bc72e3124e7295e227767f85_b.png\"/></figure><br/><figure><noscript><img src=\"https://pic2.zhimg.com/v2-28088ae1e50e775c48a5ed12d3ffe019_b.png\" data-rawwidth=\"323\" data-rawheight=\"202\" class=\"content_image\" width=\"323\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;323&#39; height=&#39;202&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"323\" data-rawheight=\"202\" class=\"content_image lazy\" width=\"323\" data-actualsrc=\"https://pic2.zhimg.com/v2-28088ae1e50e775c48a5ed12d3ffe019_b.png\"/></figure><p><b>CarRacing</b>: 相比于控制小木棍，这个控制小车的游戏相应的就困难很多，在这里并没有明确的抽象好了的state，需要直接接受画面作为state。目前这个游戏在OpenAI Gym中还没人完成（他们定义了达成一定的反馈才算做完成），经过长时间的调试和训练，我们让这个游戏的网络开始收敛，由于时间太长并且我们自己做了很多限制（比如每局最大步数）以加快训练速度，我们最终也没完成OpenAI Gym的要求，但是依然可以看到ＤＤＰＧ正在学到一些东西。有兴趣的朋友可以再研究研究。</p><br/><figure><noscript><img src=\"https://pic3.zhimg.com/v2-32496d215755612eec741c33f2796822_b.png\" data-rawwidth=\"276\" data-rawheight=\"179\" class=\"content_image\" width=\"276\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;276&#39; height=&#39;179&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"276\" data-rawheight=\"179\" class=\"content_image lazy\" width=\"276\" data-actualsrc=\"https://pic3.zhimg.com/v2-32496d215755612eec741c33f2796822_b.png\"/></figure><figure><noscript><img src=\"https://pic3.zhimg.com/v2-7646a6f5ed16dd843670d88ecf8a1286_b.png\" data-rawwidth=\"1106\" data-rawheight=\"560\" class=\"origin_image zh-lightbox-thumb\" width=\"1106\" data-original=\"https://pic3.zhimg.com/v2-7646a6f5ed16dd843670d88ecf8a1286_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1106&#39; height=&#39;560&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1106\" data-rawheight=\"560\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1106\" data-original=\"https://pic3.zhimg.com/v2-7646a6f5ed16dd843670d88ecf8a1286_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7646a6f5ed16dd843670d88ecf8a1286_b.png\"/></figure><br/><figure><noscript><img src=\"https://pic1.zhimg.com/v2-02a08746cc41990ba57e1f932e6b3888_b.png\" data-rawwidth=\"1107\" data-rawheight=\"555\" class=\"origin_image zh-lightbox-thumb\" width=\"1107\" data-original=\"https://pic1.zhimg.com/v2-02a08746cc41990ba57e1f932e6b3888_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1107&#39; height=&#39;555&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1107\" data-rawheight=\"555\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1107\" data-original=\"https://pic1.zhimg.com/v2-02a08746cc41990ba57e1f932e6b3888_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-02a08746cc41990ba57e1f932e6b3888_b.png\"/></figure><br/><br/><h2><ul><li><b>阅读材料</b><br/></li></ul><br/></h2><p>这些材料包括一些网页和博客都对学习Deep Reinforcement Learning 非常有帮助! 祝大家ＲＬ的愉快！</p><div class=\"highlight\"><pre><code class=\"language-text\">[1] Andrej Karpathy. &#34;Deep Reinforcement Learning: Pong from Pixels&#34; http://karpathy.github.io/2016/05/31/rl/\n\n[2] Mnih, Volodymyr, et al. &#34;Human-level control through deep reinforcement learning&#34; Nature  518.7540 (2015)\n\n[3] Lever, Guy. &#34;Deterministic policy gradient algorithms.&#34; (2014).\n\n[4] Patrick Emami. &#34;Deep Deterministic Policy Gradients in TensorFlow&#34; http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html#References\n\n[5] Tambet Matiisen: “Guest Post (Part I): Demystifying Deep Reinforcement Learning” : \nhttps://www.nervanasys.com/demystifying-deep-reinforcement-learning/\n\n[6] Lillicrap, Timothy P., et al. &#34;Continuous control with deep reinforcement learning.&#34; arXiv preprint  arXiv:1509.02971 (2015).\n\n[7] Heess, Nicolas, et al. &#34;Learning continuous control policies by stochastic value gradients.&#34; Advances in Neural Information Processing Systems. 2015.\n\n[8] Mnih, Volodymyr, et al. &#34;Asynchronous methods for deep reinforcement learning.&#34; arXiv preprint arXiv:1602.01783 (2016).\n\n[9] David Silver. Reinforcement learning Course: http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html\n\n[10] OpenAI Gym blog: https://gym.openai.com/docs/rl\n\n[11] Dulac-Arnold, Gabriel, et al. &#34;Deep Reinforcement Learning in Large Discrete Action Spaces.&#34;\n\n[12] Mnih, Volodymyr, et al. &#34;Asynchronous methods for deep reinforcement learning.&#34; arXiv preprint arXiv:1602.01783 (2016).\n\n[13] Yu, April, Raphael Palefsky-Smith, and Rishi Bedi. &#34;Deep Reinforcement Learning for Simulated Autonomous Vehicle Control.&#34;\n</code></pre></div>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "强化学习 (Reinforcement Learning)", 
+                    "tagLink": "https://api.zhihu.com/topics/20039099"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Junhong Xu", 
+                    "userLink": "https://www.zhihu.com/people/02d85b2b7360a28af229888c2f215c8b", 
+                    "content": "感谢分享！我最近也在看深度强化学习，想应用到现实的机器人导航中。但是深度强化学习要求example的数量太大了，而且通过trial and error也有可能造成硬件损坏，直接应用到现实环境中不可能，制造simulation又会有transfer learning的问题。所以想先用supervised learning在用rl。不知道作者有没有把supervised learning跟深度强化学习结合起来的经验？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Zhenghao Fei", 
+                            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+                            "content": "我也很想做这样的！ 我觉得这样才能真的应用到机器人中。 你可以试试先人工控制或者用传统算法控制，然后把相应的s, a, r, s'加入到Replay Buffer里面当作学习的example试试", 
+                            "likes": 1, 
+                            "replyToAuthor": "Junhong Xu"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "老董", 
+                    "userLink": "https://www.zhihu.com/people/70545ab6ee1b1143c602a3888c46a953", 
+                    "content": "敢问作者是拿什么样的电脑训练的？家用pc吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Zhenghao Fei", 
+                            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+                            "content": "同学的游戏机哈哈，只要有个还不错的显卡就行，就是速度肯定没有专业的深度学习卡快", 
+                            "likes": 0, 
+                            "replyToAuthor": "老董"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "米德兰小铁匠", 
+                    "userLink": "https://www.zhihu.com/people/72dd357d1c65a217505868ea67f6caac", 
+                    "content": "那个低配版的policy gradient应该是基于R J Williams的REINFORCE来做的吧！应该还有一个重要的东西就是那个likelihood ratio gradient 对应的trajectory里面的cumulative rewards应该减去一个baseline才能降低学习过程中的variance吧！那个带base line的才是乞丐版，另外答主对于natural policy gradient有什么看法啊？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Zhenghao Fei", 
+                            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+                            "content": "嗯，对的没错！ 主要基于REINFORCE。<p>降低Variance 用减去baseline的方法也对的！ 我当时还没学到那儿哈哈</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "米德兰小铁匠"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "感谢作者呀！有个问题，Deep Deterministic Policy Gradient似乎只能解决 连续状态、离散动作 的问题，如果是 连续状态、连续动作 怎么解决呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Zhenghao Fei", 
+                            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+                            "content": "它可以解决连续动作的， 你最后一层的输出 可以不用softmax，直接全连接用tanh或者relu输出一个值就行了！这儿有个例子就是输出连续量，<a href=\"http://link.zhihu.com/?target=http%3A//pemami4911.github.io/blog/2016/08/21/ddpg-rl.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Deep Deterministic Policy Gradients in TensorFlow</a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "李睿昕", 
+                    "userLink": "https://www.zhihu.com/people/a25e4bb328ed76d551f29d907aa8010c", 
+                    "content": "正在DOTA2上尝试DQN，感觉好难。。", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "止忽", 
+                    "userLink": "https://www.zhihu.com/people/ac76870321cc3bb08f6702054b6962d0", 
+                    "content": "谢谢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "看得我好激动呀 _(:з」∠)_ 作者在读phd嘛？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Zhenghao Fei", 
+                            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+                            "content": "嗯嗯。。。 不归路，学一会儿觉得自己懂了，再学一会儿发现P都不懂", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "好向往啊2333，可以反复体验「我好牛逼啊」的感受", 
+                            "likes": 0, 
+                            "replyToAuthor": "Zhenghao Fei"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "余顽", 
+                    "userLink": "https://www.zhihu.com/people/f4e61762ba5f8d5829c95a3fa8eb2709", 
+                    "content": "在policy gradient那儿您说这种方法更加end to end，请问您对end to end是怎么理解的呢？为什么说DDPG比DQN更加end to end？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Zhenghao Fei", 
+                            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+                            "content": "我的理解是因为DQN中还是很显式的应用了Q的概念，最后输出的也是Q值，还需要一个Policy去根据Q决定动作。而PG直接出动作了，所以更E2E，只是我自己理解&gt;.&lt;", 
+                            "likes": 0, 
+                            "replyToAuthor": "余顽"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "米德兰小铁匠", 
+                    "userLink": "https://www.zhihu.com/people/72dd357d1c65a217505868ea67f6caac", 
+                    "content": "<p>REINFORCE 算法好像能让cart-pole永远不倒下，亲测，但是这个算法的收敛性实在是太糟了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "简单名", 
+                    "userLink": "https://www.zhihu.com/people/33f6c2f92383bb90fb46db856d1d36d3", 
+                    "content": "<p>请问， qmax value  和 reward 这两张图是 gym 自动生成的吗？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Zhenghao Fei", 
+                            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+                            "content": "<p>是Tensorflow的Tensorboard的一部分 可以可视化训练过程</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "简单名"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "chenjian46", 
+                    "userLink": "https://www.zhihu.com/people/e4660afbcbd37115b9c378aa17d8e4cb", 
+                    "content": "<p>您好！我想请教您，深度强化学习怎么计算长期受益？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Zhenghao Fei", 
+                            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+                            "content": "<p>你好！不啊好意思好久没看知乎了。长期的收益的话在可以定义为一个episode的环境中就是discounted return G = r1 + gamma*r2 + gamma^2 * r3.... 如果你说的是连续环境不存在episode的那种可以参考Sutton对average return的定义</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "chenjian46"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "周晓欢", 
+                    "userLink": "https://www.zhihu.com/people/5502c3e62ca4d76f0e87f63b9f21c83c", 
+                    "content": "<p>谢谢分享！但是有一个疑问，DDPG似乎没有解决反馈分配的问题，因为critic network的loss 也包含了ri，而replay buffer和target network分别解决了样本间独立以及不容易收敛的问题。那这里用actor-critic的作用是什么？这个地方我还是有些疑惑，希望能帮我解惑，非常感谢！🙏</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "蓝颂", 
+                    "userLink": "https://www.zhihu.com/people/416b3d96d1274b3ec032bb7a53909dbc", 
+                    "content": "你好，我最近也在看深度强化学习，但是现在好像好多资料论文都是把强化学习应用到控制方面，我想用深度强化学习来实现图片的分类，但是还没有想到切入点，不知道怎么把深度学习的输出和强化学习结合？有点迷糊，敢问作者有没有这方面结合做分类的经验，求分享", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Zhenghao Fei", 
+                            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+                            "content": "<p>对分类问题直接使用Supervise Learning会有比较好的效果了。强化学习主要解决的就是在某一个环境中根据Reward来学习的方法，如果你想用RL做图片分类就需要建立一个对于分类正确给予正向Reward之类的环境，不过这样可能最后还是等价于SL。</p><p></p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "蓝颂"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "算法小白", 
+                    "userLink": "https://www.zhihu.com/people/fada60ec1a6af71b44898bcfc4af0f8c", 
+                    "content": "<p>谢谢分享</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "郑帅", 
+                    "userLink": "https://www.zhihu.com/people/f8140eea86fb0dfc56d6e27e233aad81", 
+                    "content": "请问小车这个案例在gym官网上有吗", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "mr.kevin", 
+                    "userLink": "https://www.zhihu.com/people/48c1e799619f838a58b3d44f6d8996d5", 
+                    "content": "<p>请问，DDPG的Actor网络一直输出action的最大值是怎么回事？ 拿倒立摆的立在来说，就是摆锤一直朝着一个方向转，一直学不到一个比较好的策略，q值也是掉到一个值后，一直在这个值周围上线震荡。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/22725844", 
+            "userName": "Zhenghao Fei", 
+            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+            "upvote": 17, 
+            "title": "Caffe + CUDA 安装，Ubuntu 16.04", 
+            "content": "从上个学期开始接触Neural Network, 在一门AI课程的最后一部分做了一个最简单的二层神经网络，虽然只是最简单的结构，但它强大的辨识图片男女的能力给我留下了深刻的印象。因此开始越来越多的接触Deep Learning 和 Convolutional Neural Network。<p>       最近在多台机器上安装Caffe，虽然不难，但是一整个过程下来也经常耗费不少时间，因此记录下来，方便之后复制安装。</p><p>       安装的环境：Ubuntu 16.04 (14.04应该也行)， 包含Anaconda2安装在默认位置。</p><p>安装步骤，便于查阅更改和理解：</p><p><b>安装CUDA8：（仅使用CPU可以不安装）</b></p><p><a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/compute/cuda/8.0/prod/local_installers/cuda-repo-ubuntu1604-8-0-local_8.0.44-1_amd64-deb\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">developer.nvidia.com/co</span><span class=\"invisible\">mpute/cuda/8.0/prod/local_installers/cuda-repo-ubuntu1604-8-0-local_8.0.44-1_amd64-deb</span><span class=\"ellipsis\"></span></a><br/></p><ol><div class=\"highlight\"><pre><code class=\"language-text\">sudo dpkg -i cuda-repo-ubuntu1604-8-0-local_8.0.44-1_amd64.deb\nsudo apt-get update\nsudo apt-get install cuda</code></pre></div></ol><p><b>安装 Protocol Buffers: </b></p><div class=\"highlight\"><pre><code class=\"language-text\">cd ~\ngit clone https://github.com/google/protobuf.git\nsudo apt-get install autoconf automake libtool curl make g++ unzip\ncd protobuf\n./autogen.sh\n./configure --prefix=/usr\nmake \nmake check \nsudo make install \nsudo ldconfig # refresh shared library cache.\n</code></pre></div><p><b>安装Caffe:</b></p><p><b>BLAS</b></p><div class=\"highlight\"><pre><code class=\"language-text\">sudo apt-get install libatlas-base-dev</code></pre></div><p><b>General dependencies</b><br/></p><br/><div class=\"highlight\"><pre><code class=\"language-text\">cd ~\ngit clone https://github.com/BVLC/caffe.git\ncd caffe\nsudo apt-get install libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler\nsudo apt-get install --no-install-recommends libboost-all-dev</code></pre></div><p><b>Remaining dependencies, 14.04<br/></b></p><div class=\"highlight\"><pre><code class=\"language-text\">sudo apt-get install libgflags-dev libgoogle-glog-dev liblmdb-dev</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">cp Makefile.config.example Makefile.config\n# Adjust Makefile.config (for example, if using Anaconda Python, or if cuDNN is desired)</code></pre></div><p>Adjust Makefile.config 具体来说就是将所以涉及到Anaconda的部分取消注释，如果你只用CPU那取消全部cpu only部分。</p><div class=\"highlight\"><pre><code class=\"language-text\">make all\nmake test\nmake runtest</code></pre></div><p><br/><b>添加PATH<br/></b></p><div class=\"highlight\"><pre><code class=\"language-text\">echo &#34;export PYTHONPATH=~/protobuf/python:$PYTHONPATH&#34; &gt;&gt; ~/.bashrc\necho &#34;export PYTHONPATH=~/caffe/python:$PYTHONPATH&#34; &gt;&gt; ~/.bashrc \necho &#34;export PATH=~/caffe/build/tools:$PATH&#34; &gt;&gt; ~/.bashrc</code></pre></div><p><br/><b>整合shell script文件：复制到任何新建.sh文件中，bash name.sh</b></p><div class=\"highlight\"><pre><code class=\"language-text\">#!/bin/bash\ncd ~\ngit clone GitHub - google/protobuf: Protocol Buffers\nsudo apt-get install autoconf automake libtool curl make g++ unzip\ncd protobuf\n./autogen.sh\n./configure --prefix=/usr\nmake\nmake check\nsudo make install\nsudo ldconfig # refresh shared library cache.\n\ncd ~\ngit clone GitHub - BVLC/caffe: Caffe: a fast open framework for deep learning.\ncd caffe\nsudo apt-get install libprotobuf-dev libleveldb-dev libsnappy-dev libopencv-dev libhdf5-serial-dev protobuf-compiler\nsudo apt-get install --no-install-recommends libboost-all-dev\nsudo apt-get install libatlas-base-dev\nsudo apt-get install libgflags-dev libgoogle-glog-dev liblmdb-dev\ncp Makefile.config.example Makefile.config\n\n\nread -rsp $&#39;更改你的Makefile.config, 完成后Press any key to continue...\\n&#39; -n1 key\n  \nmake all\nmake test\nmake runtest\n\necho &#34;export PYTHONPATH=~/protobuf/python:$PYTHONPATH&#34; &gt;&gt; ~/.bashrc\necho &#34;export PYTHONPATH=~/caffe/python:$PYTHONPATH&#34; &gt;&gt; ~/.bashrc \necho &#34;export PATH=~/caffe/build/tools:$PATH&#34; &gt;&gt; ~/.bashrc</code></pre></div>", 
+            "topic": [
+                {
+                    "tag": "Caffe（深度学习框架）", 
+                    "tagLink": "https://api.zhihu.com/topics/20019488"
+                }, 
+                {
+                    "tag": "机器视觉", 
+                    "tagLink": "https://api.zhihu.com/topics/19590206"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "LordSteven", 
+                    "userLink": "https://www.zhihu.com/people/37d2a04c28e450b7b4673a6ea22afe99", 
+                    "content": "您好，请问下只有NVIDIA的显卡支持CUDA吗？我的amd显卡是不是就不能使用caffe时用gpu了啊？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Zhenghao Fei", 
+                            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+                            "content": "恩，目前是的，绝大多深度学习的库都只支持CUDA来调用GPU", 
+                            "likes": 0, 
+                            "replyToAuthor": "LordSteven"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "jinkirakira", 
+                    "userLink": "https://www.zhihu.com/people/279fa1241a52837e56b7fbbf8d9cd4c6", 
+                    "content": "您好，请问我的显卡为 quadro fx 1800，对应的驱动为 340，请问我也可以用cuda 8.0吗？还是要用其他版本的cuda？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Zhenghao Fei", 
+                            "userLink": "https://www.zhihu.com/people/0021f8dec6bc3b06cc37abc2d2e53eae", 
+                            "content": "你先直接下载下来安装试试？ 这个卡来跑可能会有些慢 纯学习的话可以CPU版本的", 
+                            "likes": 0, 
+                            "replyToAuthor": "jinkirakira"
+                        }, 
+                        {
+                            "userName": "jinkirakira", 
+                            "userLink": "https://www.zhihu.com/people/279fa1241a52837e56b7fbbf8d9cd4c6", 
+                            "content": "我是想用caffmodel然后来做一个形状识别的程序，电脑是学校配的没法还啦。假如我想安装CPU版本的话请问能帮我提供一个安装，学习的教程网站吗？麻烦作者大人了。", 
+                            "likes": 0, 
+                            "replyToAuthor": "Zhenghao Fei"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Zhuolin Zhang", 
+                    "userLink": "https://www.zhihu.com/people/268495f08bc086342f6f3901dc641450", 
+                    "content": "作者能否提供一下联系方式，我安装如果有问题的话可以问下作者，不知作者是否同意？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Pb320888", 
+                    "userLink": "https://www.zhihu.com/people/79338219f14f921f385f2b0a92c76b18", 
+                    "content": "请问cuda10.0能支持caffe吗", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/zhenghaofei"
+}

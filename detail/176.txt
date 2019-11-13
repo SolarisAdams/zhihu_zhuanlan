@@ -1,0 +1,766 @@
+{
+    "title": "隐之书", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/wei-xian-hao-34", 
+        "https://www.zhihu.com/people/ares1899", 
+        "https://www.zhihu.com/people/yang-fa-zhi", 
+        "https://www.zhihu.com/people/xing-kong-40-10", 
+        "https://www.zhihu.com/people/holy-17-77", 
+        "https://www.zhihu.com/people/jin-yu-yu-34-90", 
+        "https://www.zhihu.com/people/cai-yi-di-shou-34", 
+        "https://www.zhihu.com/people/wanglar-47", 
+        "https://www.zhihu.com/people/chang-liang-97-74", 
+        "https://www.zhihu.com/people/chen-hao-4-24", 
+        "https://www.zhihu.com/people/anqi-mu", 
+        "https://www.zhihu.com/people/ouroboros-83", 
+        "https://www.zhihu.com/people/zhu-da-peng-96-20", 
+        "https://www.zhihu.com/people/wang-xuan-lan-35", 
+        "https://www.zhihu.com/people/dan-xi-kai-81", 
+        "https://www.zhihu.com/people/tardis8012", 
+        "https://www.zhihu.com/people/wei-rui-shan-chuan", 
+        "https://www.zhihu.com/people/cynthia-68-38-47", 
+        "https://www.zhihu.com/people/he-zheng-e", 
+        "https://www.zhihu.com/people/ci-jun-yiye", 
+        "https://www.zhihu.com/people/zhao-yu-50-4-38", 
+        "https://www.zhihu.com/people/resthome", 
+        "https://www.zhihu.com/people/su-ji-bai-89", 
+        "https://www.zhihu.com/people/yuanchao-li-4", 
+        "https://www.zhihu.com/people/mou-chen-38", 
+        "https://www.zhihu.com/people/ye-du-68", 
+        "https://www.zhihu.com/people/lleibnitz", 
+        "https://www.zhihu.com/people/xiao-guai-wu-5-6", 
+        "https://www.zhihu.com/people/jin-ze-hao-20", 
+        "https://www.zhihu.com/people/curiosity-97-60", 
+        "https://www.zhihu.com/people/ryan-24-90", 
+        "https://www.zhihu.com/people/shi-liang-chang-36", 
+        "https://www.zhihu.com/people/xiao-tan-43", 
+        "https://www.zhihu.com/people/lu-chan-67-54", 
+        "https://www.zhihu.com/people/chen-yang-95-8", 
+        "https://www.zhihu.com/people/yosida-9", 
+        "https://www.zhihu.com/people/gcauchy", 
+        "https://www.zhihu.com/people/gao-jian-xiong-85", 
+        "https://www.zhihu.com/people/jisi-chen", 
+        "https://www.zhihu.com/people/ys-xu-58", 
+        "https://www.zhihu.com/people/ye-he-zhu-xian-yun", 
+        "https://www.zhihu.com/people/chevson", 
+        "https://www.zhihu.com/people/double-84-20", 
+        "https://www.zhihu.com/people/you-tiao-0916", 
+        "https://www.zhihu.com/people/zhang-de-ci", 
+        "https://www.zhihu.com/people/jiang-min-16-57", 
+        "https://www.zhihu.com/people/zhang-zi-cheng-81", 
+        "https://www.zhihu.com/people/tian-yu-68-67-78", 
+        "https://www.zhihu.com/people/buming-93", 
+        "https://www.zhihu.com/people/di-la-ke-51", 
+        "https://www.zhihu.com/people/ying-ge-22-92", 
+        "https://www.zhihu.com/people/PriscaYang", 
+        "https://www.zhihu.com/people/deng-yuan-han-79", 
+        "https://www.zhihu.com/people/lu-shi-qi-22-93", 
+        "https://www.zhihu.com/people/tian-chang-di-jiu-63-41", 
+        "https://www.zhihu.com/people/rainson-5", 
+        "https://www.zhihu.com/people/zhang-yan-bing-89", 
+        "https://www.zhihu.com/people/thu_phy_zdf", 
+        "https://www.zhihu.com/people/yu-kang-21-63", 
+        "https://www.zhihu.com/people/ling-feng-48-92", 
+        "https://www.zhihu.com/people/lu-ke-jian-5", 
+        "https://www.zhihu.com/people/onlygalois", 
+        "https://www.zhihu.com/people/wei-bo-zhang-73", 
+        "https://www.zhihu.com/people/zong-ze-31", 
+        "https://www.zhihu.com/people/DreamoChan", 
+        "https://www.zhihu.com/people/xun-yu-38-91", 
+        "https://www.zhihu.com/people/hao-jie-shen", 
+        "https://www.zhihu.com/people/troy-loop", 
+        "https://www.zhihu.com/people/yin-quan-huo-hu", 
+        "https://www.zhihu.com/people/li-qi-qian-37", 
+        "https://www.zhihu.com/people/cui-chang-6", 
+        "https://www.zhihu.com/people/lao-guo-2-44", 
+        "https://www.zhihu.com/people/lin-sheng-14-11", 
+        "https://www.zhihu.com/people/1234567890-33-16-94", 
+        "https://www.zhihu.com/people/fen-hai-kuang-qu-13", 
+        "https://www.zhihu.com/people/porrike", 
+        "https://www.zhihu.com/people/wen-xiao-yuan-87", 
+        "https://www.zhihu.com/people/zhang-kai-7-20", 
+        "https://www.zhihu.com/people/li-ping-an-13-10", 
+        "https://www.zhihu.com/people/eicmly", 
+        "https://www.zhihu.com/people/duan-cheng-bo", 
+        "https://www.zhihu.com/people/jia-jia-81-7-82", 
+        "https://www.zhihu.com/people/iceland-sunrise", 
+        "https://www.zhihu.com/people/bing-yuan-meng-41", 
+        "https://www.zhihu.com/people/wang-ting-ran-98", 
+        "https://www.zhihu.com/people/lin-an-chen-81", 
+        "https://www.zhihu.com/people/mount_cristo", 
+        "https://www.zhihu.com/people/obaica", 
+        "https://www.zhihu.com/people/pan-wei-yi-74", 
+        "https://www.zhihu.com/people/yi-yi-feng-chen", 
+        "https://www.zhihu.com/people/fang-ke-15", 
+        "https://www.zhihu.com/people/UnitaryZh", 
+        "https://www.zhihu.com/people/oldtownzju", 
+        "https://www.zhihu.com/people/oldtownzj", 
+        "https://www.zhihu.com/people/bang-di-70", 
+        "https://www.zhihu.com/people/youatme", 
+        "https://www.zhihu.com/people/yifan-qu", 
+        "https://www.zhihu.com/people/reedthought", 
+        "https://www.zhihu.com/people/jiang-jie-shi-39", 
+        "https://www.zhihu.com/people/sun-li-66-61", 
+        "https://www.zhihu.com/people/du-hui-guang", 
+        "https://www.zhihu.com/people/lala-lala-55-91", 
+        "https://www.zhihu.com/people/M-P-P-P", 
+        "https://www.zhihu.com/people/hai-bian-de-sha-zi-67", 
+        "https://www.zhihu.com/people/jiao-yang-si-wo-95-48", 
+        "https://www.zhihu.com/people/yang-zhi-long-77", 
+        "https://www.zhihu.com/people/hong-jian-song-77", 
+        "https://www.zhihu.com/people/kj-li-99", 
+        "https://www.zhihu.com/people/hephysics", 
+        "https://www.zhihu.com/people/zhengnengliang52690", 
+        "https://www.zhihu.com/people/wang-zi-heng-48-61", 
+        "https://www.zhihu.com/people/howhaw-jocky", 
+        "https://www.zhihu.com/people/eric-shao-8", 
+        "https://www.zhihu.com/people/bai-jun-yan-48", 
+        "https://www.zhihu.com/people/zopassionalambda", 
+        "https://www.zhihu.com/people/xia-can-yang-11", 
+        "https://www.zhihu.com/people/dr-ph-51", 
+        "https://www.zhihu.com/people/yang-cheng-72-49", 
+        "https://www.zhihu.com/people/zzy-64-81", 
+        "https://www.zhihu.com/people/chenxp2015", 
+        "https://www.zhihu.com/people/yang-shou-kang", 
+        "https://www.zhihu.com/people/alfredldong", 
+        "https://www.zhihu.com/people/ggmm-28", 
+        "https://www.zhihu.com/people/dai-mo-19-67", 
+        "https://www.zhihu.com/people/zhou-bo-ran-79", 
+        "https://www.zhihu.com/people/run-tu-54-61", 
+        "https://www.zhihu.com/people/fu-yun-song-78", 
+        "https://www.zhihu.com/people/wei-he-chuan", 
+        "https://www.zhihu.com/people/you-sang-de-zao-gao", 
+        "https://www.zhihu.com/people/wangcheng-46-67", 
+        "https://www.zhihu.com/people/feng-ning-du", 
+        "https://www.zhihu.com/people/sd89456123", 
+        "https://www.zhihu.com/people/powertyuui", 
+        "https://www.zhihu.com/people/1111112222", 
+        "https://www.zhihu.com/people/leo121000", 
+        "https://www.zhihu.com/people/shi-zhe-92-91", 
+        "https://www.zhihu.com/people/xiao-xiao-niao-53-10-5", 
+        "https://www.zhihu.com/people/a-mao-zhi", 
+        "https://www.zhihu.com/people/jiang-yu-xin-60-17", 
+        "https://www.zhihu.com/people/zyy-11-79", 
+        "https://www.zhihu.com/people/li-hua-zong", 
+        "https://www.zhihu.com/people/yongfuy", 
+        "https://www.zhihu.com/people/zhang-de-zhao-68", 
+        "https://www.zhihu.com/people/yupeng-zhang-78", 
+        "https://www.zhihu.com/people/gei-cun-zai-fu-yu-yi-yi", 
+        "https://www.zhihu.com/people/p-s-8", 
+        "https://www.zhihu.com/people/gogo-74-91", 
+        "https://www.zhihu.com/people/yuan-zhen-yu-1995", 
+        "https://www.zhihu.com/people/phylinux", 
+        "https://www.zhihu.com/people/bruce-wayne-60", 
+        "https://www.zhihu.com/people/li-peng-cheng-17-8", 
+        "https://www.zhihu.com/people/sen-m", 
+        "https://www.zhihu.com/people/la-ge-lang-ri-69", 
+        "https://www.zhihu.com/people/dong-jin-xi-54", 
+        "https://www.zhihu.com/people/zhang-ze-66-25", 
+        "https://www.zhihu.com/people/mao-lan-mao-lu", 
+        "https://www.zhihu.com/people/ye-jiu-bai", 
+        "https://www.zhihu.com/people/hu-da-shi-13-44", 
+        "https://www.zhihu.com/people/wo-bei-56", 
+        "https://www.zhihu.com/people/laveinti", 
+        "https://www.zhihu.com/people/gu-du-shi-yi-chong-xin-yang", 
+        "https://www.zhihu.com/people/coffee-cat", 
+        "https://www.zhihu.com/people/wo-gakkixie-xie", 
+        "https://www.zhihu.com/people/huang-dc-88", 
+        "https://www.zhihu.com/people/hai-gu-si-ji", 
+        "https://www.zhihu.com/people/zhang-zhi-hao-58-94", 
+        "https://www.zhihu.com/people/wei-guan-qun-zhong-48", 
+        "https://www.zhihu.com/people/trace-anomaly", 
+        "https://www.zhihu.com/people/shu-xue-xing-kong", 
+        "https://www.zhihu.com/people/alex-green-40", 
+        "https://www.zhihu.com/people/buzuosijiubuhuisi", 
+        "https://www.zhihu.com/people/tian-zhong-zheng-4", 
+        "https://www.zhihu.com/people/lian-dan-shi-39", 
+        "https://www.zhihu.com/people/wang-xu-76-21-82", 
+        "https://www.zhihu.com/people/gwynpleina", 
+        "https://www.zhihu.com/people/zhang-kai-99-78", 
+        "https://www.zhihu.com/people/antitree-ong", 
+        "https://www.zhihu.com/people/123456-76-11-2", 
+        "https://www.zhihu.com/people/zhu-hao-fu-67", 
+        "https://www.zhihu.com/people/dao-cheng-kong-68", 
+        "https://www.zhihu.com/people/lu-ya-lei", 
+        "https://www.zhihu.com/people/mu-nian-78-70", 
+        "https://www.zhihu.com/people/lvhungta-69", 
+        "https://www.zhihu.com/people/zhou-geng-dong-30", 
+        "https://www.zhihu.com/people/li-bo-hai", 
+        "https://www.zhihu.com/people/le-er-wu-huang", 
+        "https://www.zhihu.com/people/xiyao-lin", 
+        "https://www.zhihu.com/people/meng-lang-lang", 
+        "https://www.zhihu.com/people/gu-wen-hao-68", 
+        "https://www.zhihu.com/people/lailailailai-34", 
+        "https://www.zhihu.com/people/chen-ping-62-38", 
+        "https://www.zhihu.com/people/li-zexian-62", 
+        "https://www.zhihu.com/people/gu-lu-gu-lu-dan-44", 
+        "https://www.zhihu.com/people/lxh-67-46", 
+        "https://www.zhihu.com/people/qfzklm", 
+        "https://www.zhihu.com/people/wang-wen-jie-72", 
+        "https://www.zhihu.com/people/freezingsummer", 
+        "https://www.zhihu.com/people/li-lin-hao-90", 
+        "https://www.zhihu.com/people/cao-xiong-hui", 
+        "https://www.zhihu.com/people/wan-ling-yun-24", 
+        "https://www.zhihu.com/people/han-jin-zhe-95", 
+        "https://www.zhihu.com/people/liu-tong-86-60", 
+        "https://www.zhihu.com/people/qu-le-chen-57", 
+        "https://www.zhihu.com/people/wei-ming-ren-52", 
+        "https://www.zhihu.com/people/mou-zhao-44-79", 
+        "https://www.zhihu.com/people/zhong-shan-90-70", 
+        "https://www.zhihu.com/people/jin-42-66-83", 
+        "https://www.zhihu.com/people/jerry-20-8", 
+        "https://www.zhihu.com/people/zheng-xiang-76", 
+        "https://www.zhihu.com/people/zzzzzz-57-8", 
+        "https://www.zhihu.com/people/fang-kuai-a-1", 
+        "https://www.zhihu.com/people/Ouadriwlor", 
+        "https://www.zhihu.com/people/xin-de-zhu-chang-qu", 
+        "https://www.zhihu.com/people/kang-shao-1990", 
+        "https://www.zhihu.com/people/yu-sui-wu-tong", 
+        "https://www.zhihu.com/people/wan-bills", 
+        "https://www.zhihu.com/people/shi-ting-xiu-wei-hong", 
+        "https://www.zhihu.com/people/zhou-jun-89-57", 
+        "https://www.zhihu.com/people/warren-65-7", 
+        "https://www.zhihu.com/people/yaphets-80-67", 
+        "https://www.zhihu.com/people/meng-zhi-zhuang-zhou", 
+        "https://www.zhihu.com/people/ping-fan-de-ren-2-53", 
+        "https://www.zhihu.com/people/mei-you-ying-tao-de-xiao-wan-zi", 
+        "https://www.zhihu.com/people/liu-zhou-fei-88", 
+        "https://www.zhihu.com/people/mu-mi-70-78", 
+        "https://www.zhihu.com/people/lengyeo", 
+        "https://www.zhihu.com/people/zhong-song-ze-56", 
+        "https://www.zhihu.com/people/miao-jian-jian"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/70650173", 
+            "userName": "也疏寒", 
+            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+            "upvote": 34, 
+            "title": "拓扑序的点缺陷理论", 
+            "content": "<p>在共形场论和拓扑场论里面，边界和点缺陷理论都已经有非常多的研究了。对应到 <img src=\"https://www.zhihu.com/equation?tex=%282%2B1%29+D\" alt=\"(2+1) D\" eeimg=\"1\"/> 拓扑序里面，我们很自然地也可以考虑一维和零维的缺陷，一维就对应boundary和domain wall（我想畴壁应该是个不错的翻译），而零维的缺陷就是一个点缺陷。</p><p>为什么需要考虑缺陷理论呢，这里给些理由：首先，我们知道在实际体系里面实现闭曲面上的lattice是十分困难的，实际的材料必定会有边界和点缺陷，而且这些边界往往有非常丰富的物理结构，比如表面态，分数量子霍尔效应里面的gapless边界模等等；其次，对于某些没有拓扑简并的体系，比如球面上的拓扑序，通过引入边界和点缺陷就可以引入拓扑简并，而拓扑简并是实现拓扑量子计算的第一步，所以这使得缺陷理论有相当的重要性；再次，点缺陷的引入还可以给讲对称引入到拓扑序里面，比如有名电磁对偶等，并且这些点缺陷可以在ablian相里面引入nonabelian的charge，这对于拓扑量子计算来书是非常重要的，因为nonabelian phase的存在性还未被完全确认单abelian phase的存在性已经是众所周知的了。所有研究缺陷理论有相当的实际和理论需求。</p><p>对于一个给定的拓扑序(一个相可以看成是一些Hilbert空间 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BH%7D\" alt=\"\\mathcal{H}\" eeimg=\"1\"/> 和它上面的Hamiltonian <img src=\"https://www.zhihu.com/equation?tex=H\" alt=\"H\" eeimg=\"1\"/>构成的等价类 <img src=\"https://www.zhihu.com/equation?tex=%5C%7B%5Cmathcal%7BH%7D%2CH%5C%7D\" alt=\"\\{\\mathcal{H},H\\}\" eeimg=\"1\"/> )，他的边界理论和点缺陷必须是强加在体系上面的，也就是说，我们必须对哈密顿量做一定的修正，引入边界项和点缺陷项，这也是他们常常被称为extrinsic defect的原因。</p><p>边界和domain wall的代数理论已经在《<a href=\"https://zhuanlan.zhihu.com/p/68782906\" class=\"internal\">拓扑序的边界理论：代数理论框架</a>》和《<a href=\"https://zhuanlan.zhihu.com/p/69819265\" class=\"internal\">拓扑序的domain wall的代数理论</a>》里面做了一些简要的介绍，这里主要介绍一下点缺陷的理论。</p><p>实际上，点缺陷的理论会更加的复杂。通常由于点缺陷会引入对称性到拓扑序里面，所以对应的相实际上是（symmetry enriched topological）SET相。</p><p>为了说明这个问题，首先可以考虑一下toric code的例子。我们知道toric code有四种拓扑荷，分别为：</p><blockquote><b>Toric code</b><br/>topological charge: <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbf%7B1%7D%2Ce%2Cm%2C%5Cvarepsilon\" alt=\"\\mathbf{1},e,m,\\varepsilon\" eeimg=\"1\"/> <br/>fusion rule: <img src=\"https://www.zhihu.com/equation?tex=e%5Ctimes+e%3Dm%5Ctimes+m%3D%5Cvarepsilon%5Ctimes%5Cvarepsilon%3D+%5Cmathbf%7B1%7D\" alt=\"e\\times e=m\\times m=\\varepsilon\\times\\varepsilon= \\mathbf{1}\" eeimg=\"1\"/> ; <img src=\"https://www.zhihu.com/equation?tex=e%5Ctimes+m%3D%5Cvarepsilon\" alt=\"e\\times m=\\varepsilon\" eeimg=\"1\"/> ; <img src=\"https://www.zhihu.com/equation?tex=e%5Ctimes+%5Cvarepsilon%3Dm\" alt=\"e\\times \\varepsilon=m\" eeimg=\"1\"/> ; <img src=\"https://www.zhihu.com/equation?tex=m%5Ctimes+%5Cvarepsilon%3De\" alt=\"m\\times \\varepsilon=e\" eeimg=\"1\"/> </blockquote><p>他的bulk对应的input data是unirary fusion category <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D%3D%5Cmathsf%7BRep%7D%28%5Cmathbb%7BZ%7D_2%29\" alt=\"\\mathcal{C}=\\mathsf{Rep}(\\mathbb{Z}_2)\" eeimg=\"1\"/> ，在toric code里面引入点缺陷会导致磁荷 <img src=\"https://www.zhihu.com/equation?tex=m\" alt=\"m\" eeimg=\"1\"/> 和电荷 <img src=\"https://www.zhihu.com/equation?tex=e\" alt=\"e\" eeimg=\"1\"/> 互换，但我们可以看到，这种互换并不会影响fusion rule。这是电磁对偶的一个toy model。也就是说点缺陷会对饮一个 <img src=\"https://www.zhihu.com/equation?tex=G%3D%5Cmathbb%7BZ%7D_2\" alt=\"G=\\mathbb{Z}_2\" eeimg=\"1\"/> symmetry。</p><p>我们很自然地会问，点缺陷的物理本质是什么。我们知道boundary代表的是一些拓扑荷的凝聚体，也就是说是一些拓扑荷的叠加。很自然地，我们会想到，点缺陷实际上应该就表现为某种点粒子。这种直观的猜测可以被证明是正确的。在最简单的toric code模型下，我们可以分析发现，实际上有两种点缺陷，他们分别可以被表示为 <img src=\"https://www.zhihu.com/equation?tex=%5Csigma_%7B-%7D\" alt=\"\\sigma_{-}\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=%5Csigma_%7B%2B%7D\" alt=\"\\sigma_{+}\" eeimg=\"1\"/> 。通过string operator的分析，我们甚至可以定义良好的点缺陷的fusion rule。</p><blockquote><b>Toric code with defect</b><br/>fusion rule： <img src=\"https://www.zhihu.com/equation?tex=%5Csigma_%7B+%5Cpm%7D+%5Ctimes+%5Csigma_%7B+%5Cpm%7D%3D1%2B%5Cvarepsilon\" alt=\"\\sigma_{ \\pm} \\times \\sigma_{ \\pm}=1+\\varepsilon\" eeimg=\"1\"/> ； <img src=\"https://www.zhihu.com/equation?tex=%5Csigma_%7B+%5Cpm%7D+%5Ctimes+%5Csigma_%7B%5Cmp%7D%3De%2Bm\" alt=\"\\sigma_{ \\pm} \\times \\sigma_{\\mp}=e+m\" eeimg=\"1\"/> ； <img src=\"https://www.zhihu.com/equation?tex=%5Csigma+%5Cpm+%5Ctimes+%5Cvarepsilon%3D%5Csigma_%7B+%5Cpm%7D\" alt=\"\\sigma \\pm \\times \\varepsilon=\\sigma_{ \\pm}\" eeimg=\"1\"/> ; <img src=\"https://www.zhihu.com/equation?tex=%5Csigma_%7B+%5Cpm%7D+%5Ctimes+e%3D%5Csigma_%7B+%5Cpm%7D+%5Ctimes+m%3D%5Csigma_%7B%5Cmp%7D\" alt=\"\\sigma_{ \\pm} \\times e=\\sigma_{ \\pm} \\times m=\\sigma_{\\mp}\" eeimg=\"1\"/> </blockquote><p>对比Ising anyon model</p><blockquote><b>Ising anyon model</b><br/>topological charge： <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbf%7B1%7D%2C+%5Csigma%2C%5Cvarepsilon\" alt=\"\\mathbf{1}, \\sigma,\\varepsilon\" eeimg=\"1\"/> <br/>fusion rule: <img src=\"https://www.zhihu.com/equation?tex=%5Cvarepsilon+%5Ctimes+%5Cvarepsilon%3D1\" alt=\"\\varepsilon \\times \\varepsilon=1\" eeimg=\"1\"/> ; <img src=\"https://www.zhihu.com/equation?tex=+%5Cvarepsilon+%5Ctimes+%5Csigma%3D%5Csigma\" alt=\" \\varepsilon \\times \\sigma=\\sigma\" eeimg=\"1\"/> ; <img src=\"https://www.zhihu.com/equation?tex=+%5Csigma+%5Ctimes+%5Csigma%3D1%2B%5Cvarepsilon\" alt=\" \\sigma \\times \\sigma=1+\\varepsilon\" eeimg=\"1\"/> </blockquote><p>可以看到这些点缺陷就像是ising anyon一样。这不是一件很平凡的事，因为toric code是abelian phase但他里面的点缺陷却是nonabelian的，这对于拓扑量子计算来说是非常重要的。</p><p>有了上面的一些直观印象，我们现在来看一下怎么去构建抽象的代数理论。实际上在上面的描述里面我们回避了更加难的braiding的问题（这个问题实际上到目前为止仍究没有被解决，虽然我们可以给一个well-defined的定义，但是具体怎么去给一个物理实现是极其困难的）。</p><p>参考toric code的模型，我们知道，原来的无缺陷bulk phase <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BB%7D%3DZ%28%5Cmathcal%7BC%7D%29\" alt=\"\\mathcal{B}=Z(\\mathcal{C})\" eeimg=\"1\"/> 上引入缺陷实际上就是引入了一个对称群 <img src=\"https://www.zhihu.com/equation?tex=G\" alt=\"G\" eeimg=\"1\"/> ，考虑bulk phase <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BB%7D%3DZ%28%5Cmathcal%7BC%7D%29\" alt=\"\\mathcal{B}=Z(\\mathcal{C})\" eeimg=\"1\"/>的autoequivalence <img src=\"https://www.zhihu.com/equation?tex=%5Cmathrm%7BAut%7D%28%5Cmathcal%7BB%7D%29\" alt=\"\\mathrm{Aut}(\\mathcal{B})\" eeimg=\"1\"/> ，点缺陷就对应一个态射 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathfrak%7Bd%7D%3AG%5Cto%5Cmathrm%7BAut%7D%28%5Cmathcal%7BB%7D%29\" alt=\"\\mathfrak{d}:G\\to\\mathrm{Aut}(\\mathcal{B})\" eeimg=\"1\"/> 。也就是说每个defect就对应一个 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BB%7D\" alt=\"\\mathcal{B}\" eeimg=\"1\"/> 上的对称操作 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathfrak%7Bd%7D_g%3A%5Cmathcal%7BB%7D%5Cto%5Cmathcal%7BB%7D\" alt=\"\\mathfrak{d}_g:\\mathcal{B}\\to\\mathcal{B}\" eeimg=\"1\"/> 。比如toric code里面，这就对应的是一个电荷磁荷置换的对称，而原来的phase可以看成恒等对称操作作用的结果。那如果我们需要去考虑所有的包含缺陷在内的物理性质，我们所需要的结构是什么呢，直观上看，这就是把所有对称操作作用在bulk phase上得到各个对应的phase并把它们放在一起。数学上看，这就对应的是一个G-graded fusion category</p><blockquote><b>Phase with defect</b>： <img src=\"https://www.zhihu.com/equation?tex=%5Coplus_%7Bg%5Cin+G%7D%5Cmathcal%7BB%7D_g\" alt=\"\\oplus_{g\\in G}\\mathcal{B}_g\" eeimg=\"1\"/> </blockquote><p>其中每个 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BB%7D_g\" alt=\"\\mathcal{B}_g\" eeimg=\"1\"/> 就对应具有 <img src=\"https://www.zhihu.com/equation?tex=g\" alt=\"g\" eeimg=\"1\"/> -defect的拓扑序。在这个框架下可以定义G-crossed fusion，G-crossed braiding等一系列我们需要的操作。</p><p>=======待补充======</p><p>考虑 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BRep%7D%28G%29\" alt=\"\\mathsf{Rep}(G)\" eeimg=\"1\"/> 以及 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BVect%7D%5EG\" alt=\"\\mathsf{Vect}^G\" eeimg=\"1\"/> 的情形</p><p>defect可以看成module category之间的functor</p><p>Dijkgraaf-Witten theory 情形下的分析</p><p>Chern-Simons情形下的分析</p><p>Wormhole in material</p><h2>Reference：</h2><ul><li>Kitaev and Kong，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1104.5047\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Models for gapped boundaries and domain walls</a>，totic code模型的边界和defect的哈密顿量构造</li><li>Bombin，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1004.1838\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Topological Order with a Twist: Ising Anyons from an Abelian Model</a> ，详细计算了toric code的fusion rule</li><li>Cong et al.，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1707.04564\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Hamiltonian and Algebraic Theories of Gapped Boundaries in Topological Phases of Matter</a>，kitaev模型的边界理论，以及部分的代数讨论</li></ul>", 
+            "topic": [
+                {
+                    "tag": "凝聚态理论", 
+                    "tagLink": "https://api.zhihu.com/topics/20099496"
+                }, 
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }, 
+                {
+                    "tag": "量子物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19577481"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "张智浩", 
+                    "userLink": "https://www.zhihu.com/people/e3cf160c11d91ea71674eae48f2fe470", 
+                    "content": "有两个地方我没看明白：<br>1. toric code 里面这两个 σ 是什么（比如具体 lattice model 里面怎么构造的）？<br>2. 后面用对称性来说点缺陷似乎有些奇怪，因为 Aut(B) = Pic(B) = BrPic(C) 应该是对应于 invertible domain wall 的，有一种做 SET 的办法就是这么做的。也许还需要一个「点缺陷的代数描述」？<br>（其实我不太懂的是「点缺陷」和原来这个拓扑序的拓扑激发有什么联系/区别）", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "1 可以参考kong-kitaev的文章，需要在点缺陷那里引入一个新的local term。一般的kitaev模型里面的构造也已经有了iris cong的文章里面详细写了。治<br>至于fusion rule的话，就是用wilson loop来判断，比如用e loop和m loop的取值来判定，但在有点缺陷时，无法定义e或mloop，需要引入一个混合型的loop来做，也是可以详细构造的。<br>2 的话，有许多别的看法的，这只是其中一种。对于最简单的boundary上的点缺陷，我们是可以把它看成两个boundary module之间的模范畴函子，这部分可能后面了我会尝试写一下。", 
+                            "likes": 2, 
+                            "replyToAuthor": "张智浩"
+                        }, 
+                        {
+                            "userName": "张智浩", 
+                            "userLink": "https://www.zhihu.com/people/e3cf160c11d91ea71674eae48f2fe470", 
+                            "content": "看起来你说的点缺陷就是 domain wall 之间的 0d defect 吗？Kitaev-Kong 那个我知道，不过具体 fusion 倒是没算过。", 
+                            "likes": 0, 
+                            "replyToAuthor": "也疏寒"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "van der Hans", 
+                    "userLink": "https://www.zhihu.com/people/43c469604a13c97d5ec5e507f8e77e24", 
+                    "content": "求更新（", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "<p>最近有点忙，抽时间把这个补全、</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "van der Hans"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/69819265", 
+            "userName": "也疏寒", 
+            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+            "upvote": 42, 
+            "title": "拓扑序的domain wall的代数理论", 
+            "content": "<p>在之前的一篇<a href=\"https://zhuanlan.zhihu.com/p/68782906\" class=\"internal\">拓扑序的边界理论</a>文章中，我大致写了一下拓扑序的边界理论，在这里，我接着谈一下拓扑序的domain wall理论。</p><p>在Levin-Wen弦网模型下，对于一个bulk由unitary fusion category <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 给出的拓扑序，他的边界理论由<img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/>模范畴 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BM%7D\" alt=\"\\mathcal{M}\" eeimg=\"1\"/> 给出。一个边界可以看成是bulk phase和真空之间的domain wall。也就是说，如果我们有一个非常完整的domain wall的理论，那我们就会自然地拥有一个边界理论。于是我们详细来看怎么去描述一个拓扑序的domain wall。实际上，反过来看也是可以的。我们可以通过折叠技术，对应在范畴里面就是Deligne tensor product，来把一个domain wall 转化成边界。所以说domain wall 理论和边界理论是互为对偶的理论。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-2a580fb9492e3baa2bf9ca0e3b5cbaa6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3942\" data-rawheight=\"2541\" class=\"origin_image zh-lightbox-thumb\" width=\"3942\" data-original=\"https://pic3.zhimg.com/v2-2a580fb9492e3baa2bf9ca0e3b5cbaa6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;3942&#39; height=&#39;2541&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3942\" data-rawheight=\"2541\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"3942\" data-original=\"https://pic3.zhimg.com/v2-2a580fb9492e3baa2bf9ca0e3b5cbaa6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-2a580fb9492e3baa2bf9ca0e3b5cbaa6_b.jpg\"/></figure><p>对于两个不同phase <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BD%7D\" alt=\"\\mathcal{D}\" eeimg=\"1\"/> 之间的domain wall <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BW%7D\" alt=\"\\mathcal{W}\" eeimg=\"1\"/> ，我们很自然地会想到，<img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BW%7D\" alt=\"\\mathcal{W}\" eeimg=\"1\"/>应该是一个双模范畴。更加清楚地说来，在给定domain wall方向的情形下，如果沿着domain wall走，拓扑序 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 位于wall的左手边，而 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BD%7D\" alt=\"\\mathcal{D}\" eeimg=\"1\"/> 位于wall的右手边，那么<img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BW%7D\" alt=\"\\mathcal{W}\" eeimg=\"1\"/>应该是一个左 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 右 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BD%7D\" alt=\"\\mathcal{D}\" eeimg=\"1\"/> 模范畴。</p><p>边界上的拓扑激发是由模范畴之间的函子给出的，即 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%7D%28%5Cmathcal%7BM%7D%2C%5Cmathcal%7BM%7D%29\" alt=\"\\mathsf{Fun}_{\\mathcal{C}}(\\mathcal{M},\\mathcal{M})\" eeimg=\"1\"/> 。那很自然地，在domain wall情形下我们就会有，wall上的激发是由双模范畴之间的函子给出的，即 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%2C%5Cmathcal%7BD%7D%7D%28%5Cmathcal%7BW%7D%2C%5Cmathcal%7BW%7D%29\" alt=\"\\mathsf{Fun}_{\\mathcal{C},\\mathcal{D}}(\\mathcal{W},\\mathcal{W})\" eeimg=\"1\"/> 。</p><p>折叠技巧可以把domain wall转化成一个新的拓扑序 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D%5Cboxtimes%5Cbar%7BD%7D\" alt=\"\\mathcal{C}\\boxtimes\\bar{D}\" eeimg=\"1\"/> 的边界，也就是说 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BW%7D\" alt=\"\\mathcal{W}\" eeimg=\"1\"/> 通过折叠技巧可以变成 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BD%7D\" alt=\"\\mathcal{D}\" eeimg=\"1\"/>的Deligne tensor product所构成的拓扑序的一个左模范畴。</p><p>于是我们会有下面的一些等价关系：</p><blockquote>Boundary excitation as domain wall excitation:  <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%7D%28%5Cmathcal%7BM%7D%2C%5Cmathcal%7BM%7D%29%5Csimeq+%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%2C%5Cmathsf%7BHilb%7D%7D%28%5Cmathcal%7BM%7D%2C%5Cmathcal%7BM%7D%29\" alt=\"\\mathsf{Fun}_{\\mathcal{C}}(\\mathcal{M},\\mathcal{M})\\simeq \\mathsf{Fun}_{\\mathcal{C},\\mathsf{Hilb}}(\\mathcal{M},\\mathcal{M})\" eeimg=\"1\"/><br/>Domain Wall excitation as boundary excitation:  <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%2C%5Cmathcal%7BD%7D%7D%28%5Cmathcal%7BW%7D%2C%5Cmathcal%7BW%7D%29%5Csimeq+%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%5Cboxtimes%5Cbar%7B%5Cmathcal%7BD%7D%7D%7D%28%5Cmathcal%7BW%7D%2C%5Cmathcal%7BW%7D%29\" alt=\"\\mathsf{Fun}_{\\mathcal{C},\\mathcal{D}}(\\mathcal{W},\\mathcal{W})\\simeq \\mathsf{Fun}_{\\mathcal{C}\\boxtimes\\bar{\\mathcal{D}}}(\\mathcal{W},\\mathcal{W})\" eeimg=\"1\"/></blockquote><p>所以对于没有边界也没有domain wall的phase，我们同样也可以把他转化为domain wall的情形。因为 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 可以看成 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 上的模，于是我们可以假想成 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 中有一个平凡的domain wall  <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> ，我们知道正常无边界情形下，bulk的拓扑激发是通过Drinfeld center来描述的，即， <img src=\"https://www.zhihu.com/equation?tex=Z%28%5Cmathcal%7BC%7D%29\" alt=\"Z(\\mathcal{C})\" eeimg=\"1\"/> 。另一方面，通过domain wall的观点我们会有，domain wall  <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/>上的拓扑激发为 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%2C%5Cmathcal%7BC%7D%7D%28%5Cmathcal%7BC%7D%2C%5Cmathcal%7BC%7D%29\" alt=\"\\mathsf{Fun}_{\\mathcal{C},\\mathcal{C}}(\\mathcal{C},\\mathcal{C})\" eeimg=\"1\"/> 。于是我们就会有另一组等价关系：</p><blockquote>Bulk excitaion as domain wall excitation:  <img src=\"https://www.zhihu.com/equation?tex=Z%28%5Cmathcal%7BC%7D%29%5Csimeq+%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%2C%5Cmathcal%7BC%7D%7D%28%5Cmathcal%7BC%7D%2C%5Cmathcal%7BC%7D%29\" alt=\"Z(\\mathcal{C})\\simeq \\mathsf{Fun}_{\\mathcal{C},\\mathcal{C}}(\\mathcal{C},\\mathcal{C})\" eeimg=\"1\"/> <br/>Bulk excitation as boundary excitation:  <img src=\"https://www.zhihu.com/equation?tex=Z%28%5Cmathcal%7BC%7D%29%5Csimeq+%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%5Cboxtimes%5Cbar%7B%5Cmathcal%7BC%7D%7D%7D%28%5Cmathcal%7BC%7D%2C%5Cmathcal%7BC%7D%29\" alt=\"Z(\\mathcal{C})\\simeq \\mathsf{Fun}_{\\mathcal{C}\\boxtimes\\bar{\\mathcal{C}}}(\\mathcal{C},\\mathcal{C})\" eeimg=\"1\"/></blockquote><p>这些构成来一个丰富完整的理论，我们可以从各个不同的角度去看拓扑激发，并且各种观点相互印证，也是物理和数学优美的地方所在。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>References</h2><ol><li>Kitaev， <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/quant-ph/9707021\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Fault-tolerant quantum computation by anyons</a>，kitaev 模型</li><li>Kitaev，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/cond-mat/0506438\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Anyons in an exactly solved model and beyond</a> ，Appexdix E详细阐述了tensor category与anyon的联系</li><li>Levin and Wen，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/cond-mat/0404617\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">String-net condensation: A physical mechanism for topological phases</a> ，levin-wen 模型</li><li>Kitaev and Kong，<u><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1104.5047\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Models for gapped boundaries and domain walls</a></u> ，Levin-Wen 模型的边界理论，也就是利用module category构建boundary theory</li><li>Hu et al.，<a href=\"https://link.zhihu.com/?target=https%3A//link.springer.com/article/10.1007/JHEP01%282018%29134\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Boundary Hamiltonian theory for gapped topological phases on an open surface</a>levin-wen模型的边界理论，主要是用Frobenius代数的方法</li><li>Beigi et al.，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1006.5479\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">The Quantum Double Model with Boundary: Condensations and Symmetries</a>kitaev模型的边界理论</li><li>Cong et al.，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1707.04564\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Hamiltonian and Algebraic Theories of Gapped Boundaries in Topological Phases of Matter</a> ，kitaev模型的边界理论，以及部分的代数讨论</li><li>Kong，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1307.8244\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Anyon condensation and tensor categories</a> ，关于任意子凝聚与tensor category 的非常详细的阐述。</li><li>Fuchs，Schweigert, Valentino，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1203.4568.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Bicategories for boundary conditions and for surface defects in 3-d TFT</a>，对folding trick的数学严格化。</li></ol>", 
+            "topic": [
+                {
+                    "tag": "凝聚态理论", 
+                    "tagLink": "https://api.zhihu.com/topics/20099496"
+                }, 
+                {
+                    "tag": "量子物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19577481"
+                }, 
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "道成空", 
+                    "userLink": "https://www.zhihu.com/people/fdfdb39edab2a04e0fd48454ba1aba46", 
+                    "content": "没人看[好奇]", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "[赞同]", 
+                            "likes": 0, 
+                            "replyToAuthor": "道成空"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "张智浩", 
+                    "userLink": "https://www.zhihu.com/people/e3cf160c11d91ea71674eae48f2fe470", 
+                    "content": "这个描述应该只对 Levin-Wen 成立，一般的情况似乎要复杂一些。其实在 Levin-Wen 的情形我反而看不出来为什么 domain wall 用双模范畴描述，我不知道物理上怎么理解（如果不从一般的情况转一圈回来的话）。<br>我觉得主要问题是这时候只有 Z(C) 作为 bulk excitations 是可观测量，而范畴 C 本身似乎没有物理意义（或者说应当去看 C 的 Morita 等价类？）。。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "这个里的代数理论是模型无关的，如果针对gapped的domain wall的话，这应该就是一个general的理论框架。只不过在levin-wen的模型框架下会比较容易arguedomain wall是bimodule category，因为wall的label是W里面的simple object，而由于wall上的vertex对应的hom space是左右label与wall label组合到wall label的map，所以就必须事一歌bimodule cat。如果是gapless或者extended的活着高于二维的情形，的确是需要更复杂的结构的，三维以上就需要引入higher category才最自然。而gapless需要添加central charge。", 
+                            "likes": 0, 
+                            "replyToAuthor": "张智浩"
+                        }, 
+                        {
+                            "userName": "张智浩", 
+                            "userLink": "https://www.zhihu.com/people/e3cf160c11d91ea71674eae48f2fe470", 
+                            "content": "所以你的意思是从 Levin-Wen 具体的构造来看 domain wall 的描述应当是 bimodule category。<br>其实我指的是，直接从两个 bulk-to-boundary map 和 boundary-bulk correspondence 来获得 gapped domain wall 的描述。这样和具体的 lattice model 无关，也比 Levin-Wen 更广泛一些。", 
+                            "likes": 2, 
+                            "replyToAuthor": "也疏寒"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "孔良", 
+                    "userLink": "https://www.zhihu.com/people/f515c6bdf14ca82d1141b27f2511dd75", 
+                    "content": "<p>I prefer the following mathematical description of a gapped domain wall between C and D: a closed fusion C-D-bimodule, which means a fusion category M, equipped with a braided monoidal equivalence: C \\boxtimes \\bar{D} ---&gt; Z(M). A fusion C-D-bimodule can be viewed as an E<i>1-algebra over an E2 algebra  C boxtimes bar{D} in the sense Jacob Lurie. </i></p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "孔良", 
+                    "userLink": "https://www.zhihu.com/people/f515c6bdf14ca82d1141b27f2511dd75", 
+                    "content": "<p>我仔细读了一下，“对于一个bulk由unitary fusion category [公式] 给出的拓扑序” 这句话很容易带来误解。你应该是指Levin-Wen模型的情况。In this case, the bulk is given by Z(C). 这样清楚一些。</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "<p>已经对正文做了一些补充说明</p><a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-cfc14c7293afd962ecbd1dc31dafd002.gif\" data-width=\"\" data-height=\"\">[赞同]</a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "孔良"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/69254724", 
+            "userName": "也疏寒", 
+            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+            "upvote": 26, 
+            "title": "Bell不等式及其证明", 
+            "content": "<p>Bell不等式的证明有许多方法，归谬的假设不一样，物理上的出发点就会不一样，现在量子信息里面发展出来的，除了局域隐变量理论（LHV），局域多面体，还有互斥性原理（exclusivity principle），熵型局域隐变量模型，局域锥，局域正交性原理等等。Bell定理是一种no-go theorem，也就是我们不知道什么是正确的东西，但我们知道这中必然是不正确的东西。虽然随着量子信息的发展，Bell不等式的方方面面都被分析和拓展了，但实际上大量最核心但问题仍然没有解决。</p><p>推荐详细阅读这两篇review of modern physics的综述：</p><ul><li>Brunner et al., <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1303.2849\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Bell nonlocality</a></li><li>Horodecki family, <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/quant-ph/0702225\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Quantum entanglement</a></li></ul><p>书的话，两本名著：</p><ul><li>Chuang and Nielsen， <a href=\"https://link.zhihu.com/?target=http%3A//mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Quantum computation and quantum information</a></li><li>Preskill 的note（Cambridge出版社要出这本，结果Preskill一拖拖了二十年还没出版），<a href=\"https://link.zhihu.com/?target=http%3A//www.theory.caltech.edu/~preskill/ph219/ph219_2018-19\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Physics 219/Computer Science 219：Quantum Computation</a></li></ul><p>另外两本较少本提及的的也是值得读的</p><ul><li>Peres的 <a href=\"https://link.zhihu.com/?target=https%3A//www.fisica.net/mecanica-quantica/Peres%2520-%2520Quantum%2520Theory%2520Concepts%2520and%2520Methods.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Quantum Theory: Concepts and Methods</a> 比较强调量子力学的基本层面的问题 </li><li>Pitowsky的<a href=\"https://link.zhihu.com/?target=https%3A//www.springer.com/gp/book/9783662137352\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Quantum Probability — Quantum Logic</a> 概率polytope处理bell定理的一本重要参考书</li></ul><hr/><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-e202e63c262551680303dd30ff909c1a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1100\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb\" width=\"1100\" data-original=\"https://pic3.zhimg.com/v2-e202e63c262551680303dd30ff909c1a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1100&#39; height=&#39;1056&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1100\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1100\" data-original=\"https://pic3.zhimg.com/v2-e202e63c262551680303dd30ff909c1a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-e202e63c262551680303dd30ff909c1a_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-66508c00bced6511a2ac6f7bb0e55a3d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1010\" data-rawheight=\"1374\" class=\"origin_image zh-lightbox-thumb\" width=\"1010\" data-original=\"https://pic2.zhimg.com/v2-66508c00bced6511a2ac6f7bb0e55a3d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1010&#39; height=&#39;1374&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1010\" data-rawheight=\"1374\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1010\" data-original=\"https://pic2.zhimg.com/v2-66508c00bced6511a2ac6f7bb0e55a3d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-66508c00bced6511a2ac6f7bb0e55a3d_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-fd15adac1750296cc34c9718f62666cf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"982\" data-rawheight=\"1378\" class=\"origin_image zh-lightbox-thumb\" width=\"982\" data-original=\"https://pic4.zhimg.com/v2-fd15adac1750296cc34c9718f62666cf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;982&#39; height=&#39;1378&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"982\" data-rawheight=\"1378\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"982\" data-original=\"https://pic4.zhimg.com/v2-fd15adac1750296cc34c9718f62666cf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-fd15adac1750296cc34c9718f62666cf_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6cea3a975807fb61f34a9a7f2ffa20d7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"1362\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-6cea3a975807fb61f34a9a7f2ffa20d7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;1362&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"1362\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-6cea3a975807fb61f34a9a7f2ffa20d7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6cea3a975807fb61f34a9a7f2ffa20d7_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-bf6db3d61b86bc9a070f0f7368112290_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"948\" data-rawheight=\"1376\" class=\"origin_image zh-lightbox-thumb\" width=\"948\" data-original=\"https://pic1.zhimg.com/v2-bf6db3d61b86bc9a070f0f7368112290_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;948&#39; height=&#39;1376&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"948\" data-rawheight=\"1376\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"948\" data-original=\"https://pic1.zhimg.com/v2-bf6db3d61b86bc9a070f0f7368112290_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-bf6db3d61b86bc9a070f0f7368112290_b.jpg\"/></figure><hr/><p>latex编辑pdf方便许多，所以这里就直接上pdf了。 希望知乎能支持一下html，这样就方便能用python之类的小程序把latex直接转成博文了，不然直接在知乎上写公式实在是太累了。</p>", 
+            "topic": [
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }, 
+                {
+                    "tag": "量子物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19577481"
+                }, 
+                {
+                    "tag": "量子计算与量子信息", 
+                    "tagLink": "https://api.zhihu.com/topics/19611129"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>赞！我就是被知乎的网页公式编辑器虐了才转成发LaTeX做的PDF转成的图片的。</p>", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "是的是的，很不好用。", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "一点也不慌的YZL", 
+                    "userLink": "https://www.zhihu.com/people/9dcadb827108239d0a88682e74696f75", 
+                    "content": "感谢干货！一直在找quantum information相关的教材", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "[大笑][大笑]", 
+                            "likes": 0, 
+                            "replyToAuthor": "一点也不慌的YZL"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "贝尔不等式的数学部分没什么错误空间<br>实验部分也没什么错误空间<br>但实验时测到的那些值，一般是光子的偏振量子态，我们对它们的理解是否正确？<br>细节问题就是<br>偏振方向是由什么决定？<br>选择一 是光子被发出时的方向<br>选择二 是光子通过验偏器是坍缩形成<br>选择三 是有偏振方向的光子在经过验偏器时两者的相互作用，从而形成新的偏振方向<br><br>我的选择是三，所以我不是很认可说贝尔不等式否认了隐变量<br><br>当然我的选择不重要，但如果有人能介绍一下实验的过程和数据选取就更好了", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/69224086", 
+            "userName": "也疏寒", 
+            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+            "upvote": 15, 
+            "title": "研究型的极简主义子弹笔记（Bullet Journal）", 
+            "content": "<p>韶华易逝，盛年难再。已经拖延癌晚期的我重入时间管理教，只为追寻一剂挽救我被毁的人生的的良药。我知道这个世界上没有这号东西，但我已经走火入魔。（我的好友Y的感叹果然很到位）。</p><p>我发现bullet journal的确对时间管理有很大的帮助，但我并不想花太多时间去设计，但让他更美观之类的。当然能让它很美观的话固然很好，对于一个物理系又毫无绘画才能的我来说，也许极简主义才是更好的法则。仅仅是为了对效率的追求去做这个，发现的确有点效果。因为长期的研究，如果没有一个规划的话，所有东西都压在一起很容易让人在心理上承受巨大的压力。设置一个时间节点的话，会让你有相当的成就感。一个project结束了去做下一个，会让一切更加张弛有度，能减轻焦虑感，这点对我来说很重要。而且需要读的论文，需要读的书还有需要回复的邮件，投稿之类的事情，越来越多的东西积攒在一切，不好好规划一下的话也容易让人变得很疲惫。陶哲轩写过一些关于<a href=\"https://link.zhihu.com/?target=https%3A//terrytao.wordpress.com/career-advice/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">时间管理的经验和学术生涯规划的文章</a>，我觉得受益良多，感兴趣的可以看看。</p><p>今天终于spring quarter结束了，有闲时间了。这里我主要想写一写自己做bullet journal的方式，主要是想做一个学术性的bullet journal，所以生活的事情包含的很少，只不过在habit tracker部分，我写了一些，比如跑步啊，游泳之类的，感觉会对休息身心很有帮助的活动。</p><p>Disclaimer：这个主要是供我参考和fix一些条目的，并不具有任何指导意义，一笑置之就好。可能后面会根据我的使用进行大幅度的调整。</p><hr/><p>我用的本子是<a href=\"https://link.zhihu.com/?target=https%3A//www.amazon.com/gp/product/B07GWPYDC9/ref%3Dppx_yo_dt_b_asin_title_o01_s00%3Fie%3DUTF8%26psc%3D1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">amazon上</a>随便买的Grid本，需要买带页码的本子，会方便很多。笔的话主要是zebra的笔以及荧光笔，还有彩色标签贴，如前所述，尽量从简。我下面按我的bullet journal里面的顺序罗列一下我自己的规划。比如各种最近的idea，要做的project，心得与体会之类的东西。我个人觉得这个东西的确有一定的科学性，虽然我以前是个彻头彻尾的自由派，但最近觉得，还是稍微规划一点会好很多。</p><hr/><h2>扉页（TITLE PAGE）</h2><div class=\"highlight\"><pre><code class=\"language-text\">20xx Bullet Journal   20xx年的子弹笔记\nName：xxx   姓名：xxx\nFrom：Mon. Day，20xx   从20xx年x月x日开始</code></pre></div><hr/><h2>符号表（KEY）</h2><div class=\"highlight\"><pre><code class=\"language-text\">○ TASK 待办学术事项\n⊕ TASK DONE 待办学术事项完成\n▷ PUSH FORWARD 推迟\n◁ PUSH BACK 提前\n□ EVENT 重要事件，Email，投稿等，签证，会议注册等等\n■ URGENT 亟需办理的事项，截稿日期等</code></pre></div><hr/><h2>目录（CONTENT）</h2><p>目录这里一开始是不需要写的，随着慢慢积累逐渐把各个条目加进去就好了。所以最好用带有页码的本子。标签贴实际上也很有帮助。</p><hr/><h2>一年计划（20xx GOAL）</h2><p>【年历（Calendar）】</p><p>这里需要有一个详细的年历，以及学术年的详细安排</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-44cafa3bbb8b4d07b91468d929b7c4c9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2172\" data-rawheight=\"1046\" class=\"origin_image zh-lightbox-thumb\" width=\"2172\" data-original=\"https://pic2.zhimg.com/v2-44cafa3bbb8b4d07b91468d929b7c4c9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2172&#39; height=&#39;1046&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2172\" data-rawheight=\"1046\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2172\" data-original=\"https://pic2.zhimg.com/v2-44cafa3bbb8b4d07b91468d929b7c4c9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-44cafa3bbb8b4d07b91468d929b7c4c9_b.jpg\"/></figure><p>【年计划（Yearly planning）】</p><p>一年的计划的计划这里我大概是做了下面这几部分吧，包括了一年要做的project，要读的书，要学的东西，其中的条目只是举例，并不代表真实的内容</p><div class=\"highlight\"><pre><code class=\"language-text\">PROJECT TASK：（一年内需要完成的一些project的目标）\n① TQFT point defec\n② Chern-Simons defect\n③ GSD\n···</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><div class=\"highlight\"><pre><code class=\"language-text\">READING TASK：（书籍阅读的目标）：\n① Foudations of algebraic geometry\n② Group cohomology\n③ Geometric representation theory\n···</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><div class=\"highlight\"><pre><code class=\"language-text\">LEARNING TASK：（学习目标）\n① 日语N4 \n② Python\n③ higher spin theory\n···</code></pre></div><p>【心愿单（wishlist）】</p><p>这部分主要列一下一年的心愿单，比如想买个相机、想去一次日本镰仓或者别的之类的。有这一部分能让生活更加有趣一点吧。</p><p>年规划结束了以后就直接到各个月的详细的内容了。比如以Jan为例</p><hr/><h2>一月（January）</h2><p>【月历】</p><p>首先在这里的确有必要有个Jan的月历（包含各种假期，各种节日），旁边附上本月的一些重要待办事项</p><figure data-size=\"small\"><noscript><img src=\"https://pic4.zhimg.com/v2-326a4fe6fb4b285f7664515644e02797_b.jpg\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"910\" data-rawheight=\"703\" class=\"origin_image zh-lightbox-thumb\" width=\"910\" data-original=\"https://pic4.zhimg.com/v2-326a4fe6fb4b285f7664515644e02797_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;910&#39; height=&#39;703&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"910\" data-rawheight=\"703\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"910\" data-original=\"https://pic4.zhimg.com/v2-326a4fe6fb4b285f7664515644e02797_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-326a4fe6fb4b285f7664515644e02797_b.jpg\"/></figure><div class=\"highlight\"><pre><code class=\"language-text\">○ xxx文章的某个定理部分的详细论证，xxx文章的阅读，xxx的talk需要去听，\n研究boog上需要就某个主题写篇文章，etc.\n□ Email xxx 讨论xxx的后续工作，etc.\n■ 某某论文截稿日期之前回复编辑，etc.</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>【月计划（monthly plan）】</p><p>例如下面的一些内容</p><div class=\"highlight\"><pre><code class=\"language-text\">PROJECT TASK：（一月内需要完成的一些project的目标）\n① establish the entanglement area law for lattice TQFT\n② writing Sec. 3 of paper 《entanglement area law of lattice TQFT》\n···</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><div class=\"highlight\"><pre><code class=\"language-text\">READING TASK：（书籍阅读的目标）： \n① Foudations of algebraic geometry 阅读2.1-2.3内容\n② Group cohomology 阅读并理解tate cohomology\n ···</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><div class=\"highlight\"><pre><code class=\"language-text\">LEARNING TASK：（学习目标） \n① 日语N4  识记world list xx，阅读短文xxx\n② Python 学习phthon中的模块部分\n···</code></pre></div><p>【打卡/习惯养成追踪（Tracker/Log）】</p><p>这部分需要列一个日期表，并标注各种事项，比如，睡眠，运动，etc. 有些人喜欢用电子产品，手环之类的，我觉得也挺不错的。</p><div class=\"highlight\"><pre><code class=\"language-text\">      sleeping        sporting    Japanese   ···\n1 T   7h30min 略困     1h 跑步     Yes\n2 W   8h  不错         1h 游泳     No\n3 T   10h 赖床         0          Yes\n···</code></pre></div><h2><br/>一月份第一周（Jan Week One）</h2><p>与上面更加类似，只不过更加详细一点。</p><p>【周历】</p><p>一些主要的事件要包含在里面，如</p><div class=\"highlight\"><pre><code class=\"language-text\">Jan 1st T：answer referee‘s comments\nJan 2bd W：meet with peter</code></pre></div><p>【周计划】</p><p>例如下面的一些内容</p><div class=\"highlight\"><pre><code class=\"language-text\">PROJECT TASK：（一周内需要完成的一些project的目标）\n① establish the entanglement area law for lattice TQFT\n···\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><div class=\"highlight\"><pre><code class=\"language-text\">READING TASK：（书籍阅读的目标）： \n① Foudations of algebraic geometry 阅读2.1-2.3内容\n② Group cohomology 阅读并理解tate cohomology\n ···\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><div class=\"highlight\"><pre><code class=\"language-text\">LEARNING TASK：（学习目标） \n① 日语N4  识记world list xx，阅读短文xxx\n② Python 学习phthon中的模块部分\n···</code></pre></div><p>【一周的新idea纪录】</p><div class=\"highlight\"><pre><code class=\"language-text\">IDEAS：\n① 也许boundary verlinder formula可以辅助构造boundary module\n② 也许T，S matrices 可以共同决定modular tensor category by···</code></pre></div><p>这里都是用实物笔记本做的，没尝试过用notability之类的做，我想应该也是可以的。</p><hr/><h2>Appendix I 符号表</h2><p>后面会继续添加（参考这个<a href=\"https://link.zhihu.com/?target=https%3A//cn.piliapp.com/symbol/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">链接</a>）</p><div class=\"highlight\"><pre><code class=\"language-text\">\n❤ ❥ 웃 유 ♋ ☮ ✌ ☏ ☢ ☠ ✔ ☑ ♚ ▲ ♪ ✈ ✞ ÷ ↑ ↓ ◆ ◇ ⊙ ■ □ △ ▽ ¿ ─ │\n♥ ❣ ♂ ♀ ☿ Ⓐ ✍ ✉ ☣ ☤ ✘ ☒ ♛ ▼ ♫ ⌘ ☪ ≈ ← → ◈ ◎ ☉ ★ ☆ ⊿ ※ ¡ ━ ┃\n♡ ღ ツ ☼ ☁ ❅ ♒ ✎ © ® ™ Σ ✪ ✯ ☭ ➳ 卐 √ ↖ ↗ ● ◐ Θ ◤ ◥ ︻ 〖 〗 ┄ ┆\n℃ ℉ ° ✿ ϟ ☃ ☂ ✄ ¢ € £ ∞ ✫ ★ ½ ☯ ✡ × ↙ ↘ ○ ◑ ⊕ ◣ ◢ ︼ 【 】 ┅ ┇\n☽ ☾ ✚ 〓 ▂ ▃ ▄ ▅ ▆ ▇ █ ▉ ▊ ▋ ▌ ▍ ▎ ▏ ↔ ↕ ☽ ☾ の · ▸ ◂ ▴ ▾ ┈ ┊\n① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ Ⅰ Ⅱ Ⅲ Ⅳ Ⅴ Ⅵ Ⅶ Ⅷ Ⅸ Ⅹ ㍿ ▓ ♨ ♛ ❖ ♓ ☪ ✙ ┉ ┋\n▷▷▷▷◁◁◁◁▶▶▶▶◀◀◀◀</code></pre></div><h2>Appexdix II 一些不错的bullet journal 参考</h2><p>遗憾的是完全没有看到专门针对学术研究类型的bullet journal的教程，下面几个仅供参考，虽然我觉得大部分bullet journal都过度设计，我比较喜欢极简主义的类型。</p><ul><li>这个<a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DvuFfVuctjNo%26t%3D450s\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">油管视屏</a>，比较简洁，可以看看</li><li><a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3D27yvy4olbUg%26list%3DPLVSGDmVAiNgYYFDoNDYTLF4FtOl1K13tL%26index%3D6%26t%3D238s\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这个</a>也可以看看</li><li>有些比较推荐BJ创始人Ryder Carroll的<a href=\"https://link.zhihu.com/?target=https%3A//bulletjournal.com/pages/about\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">教程</a></li></ul><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "学习规划", 
+                    "tagLink": "https://api.zhihu.com/topics/19590342"
+                }, 
+                {
+                    "tag": "科研", 
+                    "tagLink": "https://api.zhihu.com/topics/19556895"
+                }, 
+                {
+                    "tag": "时间管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19550921"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68787780", 
+            "userName": "也疏寒", 
+            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+            "upvote": 43, 
+            "title": "2019年复旦大学量子信息与计算暑期学校", 
+            "content": "<p>打个广告，文小刚，徐一鸿都将作报告，质量很高的暑期学校，感兴趣的可以参加一下。</p><hr/><p>复旦量子信息与计算暑期学校将于今年7月8日至7月21日在上海复旦大学举办。我们热诚邀请您参与并推荐优秀本科生、研究生、博士后或青年教师参加，并请相互转告。今年涉及的研究方向包括：量子模拟、量子精密测量与量子计算。</p><p>暑期学校的教师均为活跃在学术前沿并有丰富教学经验的国际知名学者共7人，包括Stephen Bartlett, Renbao Liu, Zhengfeng Ji, Dieter Suter, Xiao-Gang Wen，Li You, Anthony Zee，授课语言为英文。每位教师将讲授3个半天（9个学时）。课程之间的休息天将不定期地安排学术交流，包括学术报告以及口头报告/墙报专场等活动。</p><p>本暑期课程结束时为所有合格的正式学员颁发结业证书。考查方式为出勤记录以及课程结束前交纳的读书笔记或课程论文，出勤率的基本要求为课程的2/3。课程结束后，每位学员的出勤记录以及课程的读书笔记将呈送给相关的院/系/所以及导师。主办方鼓励学员参与全部课程，对于表现优秀者将给予奖励。</p><p>每位学员须交纳注册费人民币1200元（本科生学员可申请豁免）。暑期学校将为全体学员统一提供用餐，学员的往返差旅费和住宿费自理。我们将协助联系学校附近的经济型宾馆。招生报名的表格见复旦大学物理学系网站（<a href=\"https://link.zhihu.com/?target=http%3A//phys.fudan.edu.cn/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">phys.fudan.edu.cn/</span><span class=\"invisible\"></span></a>）—通知公告栏。申请人请如实填写，经导师和（或）院/系/所出具推荐意见后，于报名截止日（6月22日）之前将电子版发送至指定邮箱lidia080503@163.com。主办方将于6月25日在复旦大学物理学系网站上公布录取名单，每位获录取的学员也将收到电子邮件。</p><p>暑期学校课程的具体日程安排，各位教师讲授的教学大纲，以及其它详细说明，请见即将于6月25日左右发出的后续通知。                             </p><p>链接：<a href=\"https://link.zhihu.com/?target=http%3A//phys.fudan.edu.cn/9c/5b/c7453a171099/page.htm\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">phys.fudan.edu.cn/9c/5b</span><span class=\"invisible\">/c7453a171099/page.htm</span><span class=\"ellipsis\"></span></a></p>", 
+            "topic": [
+                {
+                    "tag": "量子计算与量子信息", 
+                    "tagLink": "https://api.zhihu.com/topics/19611129"
+                }, 
+                {
+                    "tag": "凝聚态物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19658521"
+                }, 
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "lavieival", 
+                    "userLink": "https://www.zhihu.com/people/42526d7c541f5ab56218f7a9243fe773", 
+                    "content": "请问下我到时人在上海可以进去听几次课吗？不太了解复旦那边的管理情况，谢谢了。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "课程应该是可以的，不过进校门的时候会比较麻烦，有时候保安会拦住不让进。", 
+                            "likes": 0, 
+                            "replyToAuthor": "lavieival"
+                        }, 
+                        {
+                            "userName": "lavieival", 
+                            "userLink": "https://www.zhihu.com/people/42526d7c541f5ab56218f7a9243fe773", 
+                            "content": "我记得清华是可预订，复旦可有此项操作？或是出示外校的学生证也无效吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "也疏寒"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "tom", 
+                    "userLink": "https://www.zhihu.com/people/93b690d2be6b5866ae21b0c41e016cc5", 
+                    "content": "请问报名的时候推荐信是自己的邮箱发过去还是让导师发过去呀⚆_⚆？谢谢", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "以往是都可以的", 
+                            "likes": 0, 
+                            "replyToAuthor": "tom"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "DogYang", 
+                    "userLink": "https://www.zhihu.com/people/e0051d8e82f947e42ba78ea55c6c600d", 
+                    "content": "<p>接受国外博士的申请吗，还是只对国内开放</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "都可以去的", 
+                            "likes": 0, 
+                            "replyToAuthor": "DogYang"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "edmond", 
+                    "userLink": "https://www.zhihu.com/people/533935975ed88f3819e72696845068ff", 
+                    "content": "呜呜呜呜，看到的时候已经截止了", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "直接过去听应该也可以。", 
+                            "likes": 0, 
+                            "replyToAuthor": "edmond"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "鱼羊", 
+                    "userLink": "https://www.zhihu.com/people/29950c024009872f513571cdd3ec5e4b", 
+                    "content": "我想报明年的[捂脸]", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68782906", 
+            "userName": "也疏寒", 
+            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+            "upvote": 120, 
+            "title": "拓扑序的边界理论：代数理论框架", 
+            "content": "<p>随着凝聚态物理和高能物理里面对给定模型的边界理论的研究，人们逐渐意识到，在某些情况下，边界理论包含着比体理论更加丰富的结构。这些结果目前都属于一个统一的框架，即全息原理（holographic principle），这个原理囊括的内容十分广泛，包括gravity-gauge theory duality（AdS/CFT duality），string theory里面的open-close string duality，以及凝聚态物理中的各种各样的bulk-boundary correspondence。这里我主要想大致讲一些关于拓扑序理论的边界理论以及bulk-boundary correspondence。</p><p>什么是拓扑序呢？我们知道传统的相变理论是由Landau和Ginzburg的对称性自发破缺理论给出的，从一个相到另一个相的相变，对应着从一个群G到他的子群H的变换，也就是说系统的对称性降低了，某些对称性破缺了。传统的相变理论后面的数学结构是群论，表征这种对称性破缺的参量叫序参量。但人们对分数量子霍尔效应（FQHE）的研究发现，存在某些相变，他们不破缺任何对称性，这使得研究者们提出，存在新的超出Landau-Ginzburg理论框架的相变理论，他们的序参量是一些拓扑准粒子（anyon）的集合，等价地说，是一个张量范畴 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 。也就是说，这种新的相变后面的数学结构是张量范畴。</p><p>更加严格地来说，gapped拓扑序对应一个unitary fusion category <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> ；而对于更加复杂的gapless的拓扑序，我们需要加一个central charge <img src=\"https://www.zhihu.com/equation?tex=c\" alt=\"c\" eeimg=\"1\"/> ，也就是说gapless 拓扑序由 <img src=\"https://www.zhihu.com/equation?tex=%28%5Cmathcal%7BC%7D%2Cc%29\" alt=\"(\\mathcal{C},c)\" eeimg=\"1\"/> 给出。这里我们从简讨论gapped拓扑序和他的gapped boundary，也就是我们这里关心的是有一个unitary fusion category <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 所描述的topological phase。实际上，gapless拓扑序的理论和他的边界理论也已经被建立起来了，后面有机会详述。关于gapped拓扑序的一个很重要的事实是：给定一个unitary fusion category <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/>，它所对应的bulk topological phase是<img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/>的Drinfeld中心 <img src=\"https://www.zhihu.com/equation?tex=Z%28%5Cmathcal%7BC%7D%29\" alt=\"Z(\\mathcal{C})\" eeimg=\"1\"/> 。</p><p>首先我们先明确一下topological phase和传统的phase的差别，以及他和更加复杂的Symmetry enriched topological （SET）phase 和 symmetry protected topological （SPT） phase的关系。这是由分析有无对称性和有无anyon来刻画的。具体关系可以由下面这个表格来看：</p><figure data-size=\"small\"><noscript><img src=\"https://pic2.zhimg.com/v2-33918e7dc70f31c3c74270106419bcf9_b.jpg\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"709\" data-rawheight=\"382\" class=\"origin_image zh-lightbox-thumb\" width=\"709\" data-original=\"https://pic2.zhimg.com/v2-33918e7dc70f31c3c74270106419bcf9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;709&#39; height=&#39;382&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"709\" data-rawheight=\"382\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"709\" data-original=\"https://pic2.zhimg.com/v2-33918e7dc70f31c3c74270106419bcf9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-33918e7dc70f31c3c74270106419bcf9_b.jpg\"/></figure><p>也就是说，我们这里主要讨论topological phase，SET和SPT我们后面了再详细讨论。所谓trivial phase就是没有拓扑准粒子的phase，也就是通常Landau-Ginzburg框架下的phase，这种phase对应的张量范畴为 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BFDHilb%7D\" alt=\"\\mathsf{FDHilb}\" eeimg=\"1\"/> 或者通常直接记为 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BHilb%7D\" alt=\"\\mathsf{Hilb}\" eeimg=\"1\"/> ，即有限维Hilbert空间所组成的张量范畴。</p><p>有了这些基本的东西，让我们详细讨论一些严格可解的拓扑序模型，这样的模型现在有很多，但通常有两大类被经常提到，一类是Kitaev的 <img src=\"https://www.zhihu.com/equation?tex=D%28G%29\" alt=\"D(G)\" eeimg=\"1\"/> quantum double模型，这个模型的输入范畴可以看成是有限群 <img src=\"https://www.zhihu.com/equation?tex=G\" alt=\"G\" eeimg=\"1\"/> 的表示范畴 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BRep%7D%28G%29\" alt=\"\\mathsf{Rep}(G)\" eeimg=\"1\"/> ，而它的bulk excitation或者说bulk phase就是群 <img src=\"https://www.zhihu.com/equation?tex=G\" alt=\"G\" eeimg=\"1\"/> 的quantum double的表示范畴 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BRep%7D%28D%28G%29%29\" alt=\"\\mathsf{Rep}(D(G))\" eeimg=\"1\"/> 或者也可以记为 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathfrak%7BD%7D%28G%29\" alt=\"\\mathfrak{D}(G)\" eeimg=\"1\"/> ，它同构于<img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BRep%7D%28G%29\" alt=\"\\mathsf{Rep}(G)\" eeimg=\"1\"/>的Drinfeld中心 <img src=\"https://www.zhihu.com/equation?tex=Z%28%5Cmathsf%7BRep%7D%28G%29%29\" alt=\"Z(\\mathsf{Rep}(G))\" eeimg=\"1\"/> 。另一类是Levin-Wen的String-net模型，这个模型的输入范畴比Kitaev模型更加广泛，对应的是任意一个unirary fusion category <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/>。而体系所对应的bulk phase就由<img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/>的Drinfeld中心 <img src=\"https://www.zhihu.com/equation?tex=Z%28%5Cmathcal%7BC%7D%29\" alt=\"Z(\\mathcal{C})\" eeimg=\"1\"/> 给出。</p><p>我们可以从严格的lattice模型入手去研究和构造对应的边界模型，实际上，这也的确是物理学家通常的做法，但这里我们主要从一个比较数学家的角度来看这个问题，我们构造代数的理论去研究边界模型和bulk-boundary correspondence。</p><p>最广泛地来看，一个给定的bulk phase <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BB%7D%3DZ%28%5Cmathcal%7BC%7D%29\" alt=\"\\mathcal{B}=Z(\\mathcal{C})\" eeimg=\"1\"/> 所对应的边界理论是一个 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 模范畴 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BM%7D\" alt=\"\\mathcal{M}\" eeimg=\"1\"/> 。假定我们选择bulk永远位于边界的左手边，那么 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BM%7D\" alt=\"\\mathcal{M}\" eeimg=\"1\"/> 就选为一个左模。那边界上的拓扑激发，或者说边界拓扑序通过什么来描述呢，实际上，这就对应的是<img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BM%7D\" alt=\"\\mathcal{M}\" eeimg=\"1\"/>到<img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BM%7D\" alt=\"\\mathcal{M}\" eeimg=\"1\"/>的模范畴函子的集合 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%7D%28%5Cmathcal%7BM%7D%2C%5Cmathcal%7BM%7D%29\" alt=\"\\mathsf{Fun}_{\\mathcal{C}}(\\mathcal{M},\\mathcal{M})\" eeimg=\"1\"/> 。可以证明<img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%7D%28%5Cmathcal%7BM%7D%2C%5Cmathcal%7BM%7D%29\" alt=\"\\mathsf{Fun}_{\\mathcal{C}}(\\mathcal{M},\\mathcal{M})\" eeimg=\"1\"/>是一个unitary fusion category。有一个很有名的数学结果，说的是<img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%7D%28%5Cmathcal%7BM%7D%2C%5Cmathcal%7BM%7D%29\" alt=\"\\mathsf{Fun}_{\\mathcal{C}}(\\mathcal{M},\\mathcal{M})\" eeimg=\"1\"/>的Drinfeld中心 <img src=\"https://www.zhihu.com/equation?tex=Z%28%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%7D%28%5Cmathcal%7BM%7D%2C%5Cmathcal%7BM%7D%29%29\" alt=\"Z(\\mathsf{Fun}_{\\mathcal{C}}(\\mathcal{M},\\mathcal{M}))\" eeimg=\"1\"/> 是等价于<img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/>的Drinfeld中心 <img src=\"https://www.zhihu.com/equation?tex=Z%28%5Cmathcal%7BC%7D%29\" alt=\"Z(\\mathcal{C})\" eeimg=\"1\"/> 的，即 <img src=\"https://www.zhihu.com/equation?tex=Z%28%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%7D%28%5Cmathcal%7BM%7D%2C%5Cmathcal%7BM%7D%29%29%5Csimeq+Z%28%5Cmathcal%7BC%7D%29\" alt=\"Z(\\mathsf{Fun}_{\\mathcal{C}}(\\mathcal{M},\\mathcal{M}))\\simeq Z(\\mathcal{C})\" eeimg=\"1\"/>。也就是说边界phase取Drinfeld中心就能恢复bulk phase，这正是bulk-boundary对应的一部分。那么怎们去从bulk phase获得boundary phase呢？这是通过非常有名的anyon condensation来实现的。也就是说对bulk phase <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BB%7D%3DZ%28%5Cmathcal%7BC%7D%29\" alt=\"\\mathcal{B}=Z(\\mathcal{C})\" eeimg=\"1\"/> （要注意它是一个modular Tensor category，也即是说anyon除了能fusion和split，还能进行braiding，并且每个anyon都有topological spin），而对于边界phase <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%7D%28%5Cmathcal%7BM%7D%2C%5Cmathcal%7BM%7D%29\" alt=\"\\mathsf{Fun}_{\\mathcal{C}}(\\mathcal{M},\\mathcal{M})\" eeimg=\"1\"/>（他是一个(1+1)D phase，只能fusion和split，无法braiding，所以是一个unirary fusion category），我们有一个对应于anyon condensation的condensation functor <img src=\"https://www.zhihu.com/equation?tex=F%3A+%5Cmathcal%7BB%7D%5Cto+%5Cmathsf%7BFun%7D_%7B%5Cmathcal%7BC%7D%7D%28%5Cmathcal%7BM%7D%2C%5Cmathcal%7BM%7D%29\" alt=\"F: \\mathcal{B}\\to \\mathsf{Fun}_{\\mathcal{C}}(\\mathcal{M},\\mathcal{M})\" eeimg=\"1\"/> ，一些anyon到了边界上之后被condesed掉了（变成了边界里面的真空），所以说boundary anyon比bulk anyon要少。总结起来就是这样：</p><blockquote><b>Bulk-boundary correspondence：</b><br/> <img src=\"https://www.zhihu.com/equation?tex=%5Cmathrm%7BBulk%7D+%5Coverset%7Banyon%5C%2C+condesation%7D%7B%5Clongrightarrow%7D%5Cmathrm%7BBoundary%7D\" alt=\"\\mathrm{Bulk} \\overset{anyon\\, condesation}{\\longrightarrow}\\mathrm{Boundary}\" eeimg=\"1\"/> <br/><img src=\"https://www.zhihu.com/equation?tex=%5Cmathrm%7BBoundary%7D+%5Coverset%7BDrinfeld%5C%2C+center%7D%7B%5Clongrightarrow%7D%5Cmathrm%7BBulk%7D\" alt=\"\\mathrm{Boundary} \\overset{Drinfeld\\, center}{\\longrightarrow}\\mathrm{Bulk}\" eeimg=\"1\"/> </blockquote><p>同一个bulk可以对应很多不同的boundary。那怎么确定有多少种呢，有好几种办法可以做，最常被物理学家使用的是Lagrangian algebra的做法，也即是说，我们需要数 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BC%7D\" alt=\"\\mathcal{C}\" eeimg=\"1\"/> 里面有几个Lagrangian algebra，那就是有几个边界。在Kitaev的 <img src=\"https://www.zhihu.com/equation?tex=D%28G%29\" alt=\"D(G)\" eeimg=\"1\"/> quantum double模型下，有一种更加简便的办法。在数学上有一个很有名的结果，那就是对于bulk phase 为<img src=\"https://www.zhihu.com/equation?tex=%5Cmathcal%7BB%7D%3DZ%28%5Cmathsf%7BRep%7D%28G%29%29\" alt=\"\\mathcal{B}=Z(\\mathsf{Rep}(G))\" eeimg=\"1\"/>的情形，我们需要数 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathsf%7BRep%7D%28G%29\" alt=\"\\mathsf{Rep}(G)\" eeimg=\"1\"/> 上的模范畴的个数，这可以通过数G的子群 <img src=\"https://www.zhihu.com/equation?tex=K\" alt=\"K\" eeimg=\"1\"/> （共轭类）以及对应的K群上同调的2-cocyle <img src=\"https://www.zhihu.com/equation?tex=%5Cphi+%5Cin+H%5E2%28K%2C%5Cmathbb%7BC%7D%5E%7B%5Ctimes%7D%29\" alt=\"\\phi \\in H^2(K,\\mathbb{C}^{\\times})\" eeimg=\"1\"/> 来实现，这个结果是有Ostrick于2003年给出来的，现在在拓扑序理论里面有广泛的应用。</p><p>我们很惊讶，数学理论可以和物理理论吻合得这么好，并且等互相给以指引。</p><p>（实际上，这只是一个优美故事的一小部分，后面逐渐展开吧）</p><h2>References</h2><ol><li>Kitaev， <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/quant-ph/9707021\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Fault-tolerant quantum computation by anyons</a>，kitaev 模型</li><li>Kitaev，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/cond-mat/0506438\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Anyons in an exactly solved model and beyond</a> ，Appexdix E详细阐述了tensor category与anyon的联系</li><li>Levin and Wen，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/cond-mat/0404617\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">String-net condensation: A physical mechanism for topological phases</a> ，levin-wen 模型 </li><li>Kitaev and Kong，<u><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1104.5047\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Models for gapped boundaries and domain walls</a></u> ，Levin-Wen 模型的边界理论，也就是利用module category构建boundary theory</li><li> Hu et al.，<a href=\"https://link.zhihu.com/?target=https%3A//link.springer.com/article/10.1007/JHEP01%282018%29134\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Boundary Hamiltonian theory for gapped topological phases on an open surface</a>  levin-wen模型的边界理论，主要是用Frobenius代数的方法</li><li>Beigi et al.，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1006.5479\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">The Quantum Double Model with Boundary: Condensations and Symmetries</a>   kitaev模型的边界理论</li><li>Cong et al.，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1707.04564\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Hamiltonian and Algebraic Theories of Gapped Boundaries in Topological Phases of Matter</a> ，kitaev模型的边界理论，以及部分的代数讨论</li><li>Kong，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1307.8244\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Anyon condensation and tensor categories</a> ，关于任意子凝聚与tensor category 的非常详细的阐述。   </li></ol>", 
+            "topic": [
+                {
+                    "tag": "凝聚态理论", 
+                    "tagLink": "https://api.zhihu.com/topics/20099496"
+                }, 
+                {
+                    "tag": "量子物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19577481"
+                }, 
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "高唐客", 
+                    "userLink": "https://www.zhihu.com/people/35932960e32f505db565406fee4cb343", 
+                    "content": "请问这些有什么主要的reference呀", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "<p>部分主要的reference已经添加在正文里面了。</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "高唐客"
+                        }, 
+                        {
+                            "userName": "高唐客", 
+                            "userLink": "https://www.zhihu.com/people/35932960e32f505db565406fee4cb343", 
+                            "content": "谢谢", 
+                            "likes": 0, 
+                            "replyToAuthor": "也疏寒"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "这个标题图片口..口", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "游歌", 
+                            "userLink": "https://www.zhihu.com/people/826d818753edcec6fc3ae375e53bf83d", 
+                            "content": "你这样是会被杀头的", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "孔良", 
+                    "userLink": "https://www.zhihu.com/people/f515c6bdf14ca82d1141b27f2511dd75", 
+                    "content": "<p>我很好奇作者是谁？ this result can be generalized to all dimensions. </p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67620756", 
+            "userName": "也疏寒", 
+            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+            "upvote": 21, 
+            "title": "一些有趣好用的学术小软件", 
+            "content": "<p>我想收集一些有趣又好用的学术软件/网站，主要针对数学和物理党。这里主要针对windows系统和mac os，我自己用这两个比较多一点，linux用得很少。这里主要是我自己使用过的一些觉得还不错的软件或者插件，如果大家有什么有趣的软件或者插件欢迎推荐。</p><h2>常规的软件：</h2><ul><li>Matlab</li><li>Mathematica</li><li>Oringin</li><li>ATK</li><li>VASP</li><li>Visual studio</li><li>github</li><li>Vim</li></ul><h2>论文阅读软件</h2><ul><li>PDF reader pro，mac下面的神器，有许多设计非常人性化，比如引文超链接或者引用的公式之类鼠标移上去就可以阅览，不用文本反复跳来跳去，而且可以裁边，诸如此类的细节不一而足，总之很好用，非常推荐。免费版有广告，虽然不影响使用，强迫症患者可能得升级一下收费版。</li><li>福昕阅读器，ipad和window下面的还挺好用的，ipad下面的裁边，背景色之类的都很完整，推荐ipad下面使用，mac下面的版本就是垃圾一个。</li><li>Adobe pdf reader，可编辑pdf的版本非常好用，合并编辑pdf，以及针对别的格式的转换，这些功能很好用。</li><li>djvu阅读器，也有许多电子档会是djvu格式的，所以这个官方阅读器一般我会装上，在windows下面挺好用的，不过mac下面偶尔卡退或者完全没反应，不知道什么原因。android设备上可以使用ebookdroid，这款非常好用，不知道现在更新成什么样子了。</li><li>notability，ipad上面的神器，写note看pdf都很方便，并且可以在pdf上写写画画，不错，相比于别的pdf阅读器自带的功能简直天壤之别，不过我自己主要拿来写note。</li></ul><h2>文献管理小软件</h2><ul><li>JabRef，bibtex库管理的软件，一次录入可以反复调用，我自己最喜欢的一款，虽然windows下面的最新版本字非常小，而且keyword复制有点bug，怀念以前的版本，希望以后能变成和从前一样好用。这个可以配合Chrome浏览器的google scholar插件使用，直接复制bibtex粘贴进去，非常方便。也可以从各个学术杂志下面下载bibtex term导入。</li><li>Endnote，我自己用的比较少。很早以前用过，可以到处各种格式的引文，还挺好用的。最方便的在于可以很好地管理看过的论文，这一点别的软件有所不及。</li></ul><h2>论文LaTex写作的相关的小软件</h2><ul><li>LaTex编辑器，一般Windows下面winedit用得比较多，开了公式bar之后其实还挺方便的，mac下面主要是自带的mactex，我觉得还挺好用的，之前也尝试了Sublime text，TeXstudio，不过总体来说我用mactex比较多一点，其实还挺好用的。</li><li>LaTex模版，在overleaf上有许多<a href=\"https://link.zhihu.com/?target=https%3A//www.overleaf.com/latex/templates\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">模版</a>，挺好用的。而且许多杂志提供了自己的模版，在投稿指南里面能找到很多。用模版是为了省时省事，当然有许多人喜欢搭建自己的模版那也很好。</li><li>Mathpix snip 有Mac、Windows，Ubuntu，通过截图把公式转化成latex代码，非常好用。</li><li>现在有许多人也在使用wordpress之类的博客来贴一些数学物理之类的有许多数学公式的博文，Luca Trevisan的python脚本小工具<a href=\"https://link.zhihu.com/?target=https%3A//lucatrevisan.wordpress.com/latex-to-wordpress/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">LaTex2WP</a>很好用，现在几经修改，基本没有bug，可以满足日常所需。</li></ul><h2>手写note扫描</h2><ul><li>CamScanner，这个最好用，手机就可以完成。</li></ul><h2>绘图软件（主要指画简图）</h2><ul><li>GeoGbra，目前似乎只有mac版。</li><li>数学家<a href=\"https://link.zhihu.com/?target=http%3A//www.geometrygames.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Jeff Weeks的主页</a>上有许多他设计的几何和拓扑画图的工具，有些很有趣，不过大部分也是只有mac版。</li><li>PPT，实际上一些简单的示意图用ppt画也很好，可直接转成pdf。</li><li>CaRMetal，windows下的画图小工具，很好用。支持latex标记饿，很好用。</li><li>Inkscape，也是个不错的绘图工具。</li></ul><h2>英语词汇和语法错误查找修改</h2><ul><li>Grammarly，感觉还可以，初等的拼写错误和语法错误可以查出来的，对第一轮修改来说很有用。</li></ul><h2>邮件学术交流</h2><ul><li><a href=\"https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/tex-for-gmail/gjnmclkoadjdljnfmbnnhaahilafoeji%3Fhl%3Den\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">TeX for Gmail</a>，非常好用，可以在email里面编辑公式。</li></ul><p>=========许多别的，想起来了补充=====</p>", 
+            "topic": [
+                {
+                    "tag": "学术", 
+                    "tagLink": "https://api.zhihu.com/topics/19558360"
+                }, 
+                {
+                    "tag": "科研", 
+                    "tagLink": "https://api.zhihu.com/topics/19556895"
+                }, 
+                {
+                    "tag": "绘图软件", 
+                    "tagLink": "https://api.zhihu.com/topics/19650798"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "clover", 
+                    "userLink": "https://www.zhihu.com/people/fc126d158058ddbf8fd47196588e6c68", 
+                    "content": "<p>zotero感觉还可以</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "yuyumagic424", 
+                    "userLink": "https://www.zhihu.com/people/6f4c9727e325231fc0ac8e8260570715", 
+                    "content": "MacTex不是編輯器吧……  GeoGebra是誇平台的。", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63089060", 
+            "userName": "也疏寒", 
+            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+            "upvote": 110, 
+            "title": "来自非成名理论物理学家的理论物理学习建议", 
+            "content": "<blockquote>To profit from good advice requires more wisdom than to give it.<br/>——Wilson Mizner</blockquote><hr/><h2>Prologue</h2><p>在早期的学术生涯里面，我们免不了要阅读大量的书籍和文献，进行大量的重复计算，这有时候我们会蓦然觉得这一切都很枯燥和无聊，甚至让我们怀疑自己是不是选择了一条正确的道路。但说到底，人生也就这样，有时候就是个相信并且坚持或者不相信并且放弃的过程，我们永远面临的不是right way和wrong way的选择，很多时候，我们面临的都是right way和easy way的选择。所以我想鼓励大家，迎难而上，虽然岁月流逝，我们最初对于学术研究的那份热情也许会退却，但剩下来的一身本事也足以让我们在学术界立足。</p><p>在网上已经有不少关于理论物理学习的资料和建议了，比较著名的应该是诺奖得主t&#39;Hooft的<a href=\"https://link.zhihu.com/?target=http%3A//www.goodtheorist.science/index.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">How to become a GOOD Theoretical Physicist</a>。</p><p>但不管怎样，我依旧觉得将我自己曾经学习的一些经验罗列出来也许是有用的。至少对我自己来说，聊以慰藉那些曾经在寂寞里驱驰的岁月。</p><p>在这里，我打算罗列曾经读过的，或者部分读过的觉得十分有益的资料，视频以及诸如此类的东西，我想慢慢做一个特别完整的东西。</p><hr/><h2>基础数学</h2><p>数学工具层出不穷，所以不要指望将所有工具都学好以后再去做研究，那是不可能的，我们只能在不停地做研究的过程中去熟悉一个工具，了解他所能达到的极限。</p><p>往往最简单最基础的东西才是最重要的，我们会不停地用到它们。当然，在我更加年轻的时候，我也追求更加fancy的东西，比如higher category，各种cohomology theory，topos theory等等，越是时髦的东西越喜欢，但最终，你会发现，无论数学工具怎样发展，实际上最简单的东西往往最重要，也最能给我们一些intuition。还有就是basic不意味着容易。</p><p>我们需要的基础的数学，当然包括基本的实数复数的概念（有时候还可能会用到一些四元数、八元数）、数列、简单平面几何、立体几何、简单的组合论、集合理论、微积分、级数理论、复变函数、积分变换、常微分方程和偏微分方程，特殊函数、线性代数、群论、一些环和模的知识。这些是最最基础的东西，一定要熟练掌握。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>基础物理学</h2><p>对物理学或者科学感兴趣的人应该在青少年的时候大多都对各种科学现象比较痴迷吧，至少我是这样，喜欢看各种解释现象背后原因的科普书，这也是物理学运作的方式，我们看到现象，找到现象的共同性并且提出假设去解释它。</p><p>最基础的物理学（以理论物理学现在发展的复杂程度来看），是牛顿力学、热学、电磁学、光学。同时我们还要了解各种单位制，单位制的变换，量纲分析，这些东西看上去不是很重要，但实际上却有更加深刻的意义。比如当你去思考什么是单位制的时候，你会发现很多有趣的东西（我想做一个关于单位制以及物理常熟的视屏，to be completed）。</p><p>一些有用的阅读资料（我倾向于推荐英文的，是因为我觉得，越早读英文的资料越好，因为一开始可能会很痛苦，但越早读就越快适应，国内有些学校对这点做得很不够。当然有些人会反驳说，母语学习更快，但迟早你会发现，所谓世界通用语言是多么重要。）：</p><ul><li><a href=\"https://link.zhihu.com/?target=http%3A//www.feynmanlectures.caltech.edu/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">The Feynman Lectures on Physics</a>，费曼物理学讲义现在也有中文版，很受欢迎，这个网站现在由加州理工维护，阅读体验很好，清华是专门开课讲费曼物理学讲义的，有兴趣但可以去旁听。总之反复阅读这个一定能受益良多。</li><li><a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject_search%3Fsearch_text%3D%25E4%25BC%25AF%25E5%2585%258B%25E5%2588%25A9%25E7%2589%25A9%25E7%2590%2586%25E5%25AD%25A6%25E6%2595%2599%25E7%25A8%258B%26cat%3D1001\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">伯克利物理学教程</a>，这一套书总共五卷，包括：第一卷力学；第二卷电磁学；第三卷波动学；第四卷量子物理学；第五卷统计物理学。现在有影印版，机械工业出的（不得不说世图和机械工业出版社造福的千千万万人，良心出版社，虽然纸质通常不怎么样，尤其世图的早期的书，不过有书读就很开心了）。我尤其强烈建议好好地耐心地反复地去学习波动学相关但东西。</li><li>David Tong的<a href=\"https://link.zhihu.com/?target=http%3A//www.damtp.cam.ac.uk/user/tong/teaching.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">note</a>我非常喜欢，强烈推荐学习。</li><li>赵凯华，新概念物理教程，力学，电磁学，热学，光学，还有一本量子物理学，不过不建议阅读，许多学校这套书是教材，我想读一读还是有帮助的</li><li>中科大普通物理学教程，力学与经典力学，电磁学与电动力学，热力学与统计物理，原子物理学，科大教材编的挺不错的，我之前学过这四本，虽然typos很多。</li></ul><p>视频资料：</p><ul><li>Leonard Susskind的<a href=\"https://link.zhihu.com/?target=https%3A//theoreticalminimum.com/courses\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">讲座视频</a>，susskind是全息原理的提出者之一，现在这是目前理论物理研究的大热点。这些讲座他称之为<a href=\"https://link.zhihu.com/?target=https%3A//theoreticalminimum.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">The Theoretical Minimum</a>，主要是与朗道较真，hh。</li><li>Perimeter institute的<a href=\"https://link.zhihu.com/?target=https%3A//www.perimeterinstitute.ca/training/perimeter-scholars-international/psi-lectures\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">讲座视频</a>，造福各个物理系学生，非常喜欢PI。</li></ul><p>这一阶段的学习我想大家都基本上去上课之类的，所以我也就不再赘加太多内容了，我之前是自学的，所以就喜欢收集一些资料，个人癖好。</p><p>【时间所限，后面我要逐步补充】</p><hr/><h2>理论力学</h2><p>理论力学我主要指的是分析力学，这一部分是学习整个现代物理学的基础，需要建立抽象的思维方式，理解各种不同的力学体系以及他们之间的联系。</p><ul><li>Landau 《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/2059252/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">力学</a>》，高教社这本价格非常便宜。我非常推荐阅读朗道的力学，从这里面能学很多东西。这本的中译本质量很高，当然也可以参考英译本，不过我自己当时看的是中译本。</li><li>Goldstein， 《Classical mechanics》，有<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1628826/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">影印版</a>。这本书也常常被提到，因为这本书更加厚并且包含的内容足够多，所以很适合拿来做补充阅读。</li><li>Arnold， 《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1239364/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">mathematical methods of classical mechanics</a>》，世图影印版很不错。这本也有中译本，是齐民友先生翻译的，但似乎排版的时候引入了许多错误，强烈建议读英文版。这本也是名著，可以和朗道配合阅读。</li><li>Greiner理论物理系列里面的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/2359417/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Classical mechanics：systems of particles and Hamiltonian dynamics</a>》和《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/2359416/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Classical mechanics: point particles and relativity</a>》很值得参考阅读。</li><li>David Tong的<a href=\"https://link.zhihu.com/?target=http%3A//www.damtp.cam.ac.uk/user/tong/dynamics.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">note</a>，很不错，不太长，比书读起来快一点，可以帮助建立大图景</li><li>尹西的<a href=\"https://link.zhihu.com/?target=http%3A//www.people.fas.harvard.edu/~xiyin/Site/Notes.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">note</a>，可以作为topics内容阅读，比较强调动力系统。</li></ul><p>在这个阶段的学习中需要补充学习一些数学知识，主要是变分法和常微分方程，偏微分方程的知识：</p><ul><li>钱伟长的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/2327497/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">变分法和有限元</a>》可以读一读，入门变分法，这书现在似乎没得买，可以去图书馆找找。</li><li>Gelfand和Fomin的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/2193375/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Calculus of Variations</a>》，这本是变分法中的经典，非常适合物理系学生，苏联学派，比较强调计算。</li><li>斯米尔诺夫的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject_search%3Fsearch_text%3D%25E6%2596%25AF%25E7%25B1%25B3%25E5%25B0%2594%25E8%25AF%25BA%25E5%25A4%25AB%25E9%25AB%2598%25E7%25AD%2589%25E6%2595%25B0%25E5%25AD%25A6%25E7%25BC%2596%25E8%25AF%2591%25E7%25BB%2584\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">高等数学教程</a>》很全面的数学教程，现在似乎再版了。适合物理系学生做参考。</li><li>谷超豪 et al.，《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/10785440/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">数学物理方程</a>》，学些基本的偏微分方程知识。</li></ul><p>实际上这阶段主要算是打基础，所以不需要过于细致地掌握一些很琐碎的细节，主要是掌握现代物理系处理问题的思想和各种逻辑框架，为学习后面的更加抽象的内容提供一些直观想象。</p><hr/><h2>电动力学</h2><p>电动力学可以说是现代物理学想法的一大来源，因为场的概念在现代物理学里面已经占据了基本意义上的重要性。无论是相对论还是量子力学，以及现代的各种版本的量子场论，量子引力理论都在试图阐述场这个概念的方方面面。经典的电动力学的学习就显得相当重要。电动力学的学习过程中需要大量的数学物理的工具，尤其是特殊函数的引入，偏微分方程和常微分方程，向量场和张量符号的计算等等。可以说这是物理里面第一个工具比较全面的学科，所以反复地从不同深度去学习电动力学是十分重要的。</p><p>首先，可以从电磁学的程度去学习，建立各种直观。</p><ul><li>赵凯华，罗蔚茵的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1988423/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">电磁学</a>》，梁灿彬的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/20494487/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">电磁学</a>》，科大的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/3165625/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">电磁学与电动力学</a>I》，以及《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/26220625/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">物理学难题集萃</a>》，《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/30607364/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">电磁学千题解</a>》这些书都是很值得读的。而且作为初修的话，是很有必要做许多题目来建立直观的</li><li>Feynman物理学讲义的第二卷</li><li>视屏的话，我印像中比较有名的是<a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av1199067/%3Fspm_id_from%3D333.788.videocard.0\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">陈秉乾先生的电磁学</a>。</li></ul><p>如果已经顺利过了这一关的话，那接下来就是具有一定数学抽象性的电动力学的学习。</p><ul><li>数学物理的工具，谷超豪 et al.，《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/10785440/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">数学物理方程</a>》，王竹溪和郭敦仁的名著《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1231554/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">特殊函数概论</a>》</li><li>郭硕鸿《电动力学》国内大部分高校用这个教材。科大的《电磁学与电动力学II》，俞允强的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1209008/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">电动力学</a>》小册子，张宗燧的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1155721/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">电动力学和狭义相对论</a>》，张以前在电动力学方面做过很不错的工作，这本也值得读读。</li><li>David J. Griffiths的《Introduction to Electrodynamics》，Griffiths写书写得很不错，这本书很适合阅读，我自己也比较喜欢。世图有影印版。</li><li>Jackson的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1667522/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Classical Electrodynamics</a>》，这本是电动力学的超级名著，里面非常全面地用了各种特殊函数和各种数学方法，据说霍金当时做完了这本书的所有习题。应该说这是一本必备的书，但并不是很容易读。</li><li>Greiner的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/2251165/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Classical Electrodynamics</a>》，这本也是Greiner理论物理系列中的，写得还可以，但他的书typos比较多。</li><li>巨星Schwinger的讲义《Classical Electrodynamics》，我个人很喜欢这本，可能是出于对偶像的崇敬。只不过这本书目前只能看电子版。</li><li>Anupam Garg的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/12280338/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Classical Electromagnetism in a Nutshell</a>》也是最近一些年出版的书里面很不错的。</li><li>Andrew Zangwill的《Modern Electrodynamics》也是不错的，重视现代观点。</li><li>最后想推荐的就是两本偏向于几何的，一本是John Baez的《Gauge Fields, Knots and Gravity》，这本书很值得读，写得很简明易读，对理论物理来书是不可多得的好书，另一本是William E. Baylis的《<a href=\"https://link.zhihu.com/?target=https%3A//www.amazon.com/Electrodynamics-Geometric-Approach-Progress-Mathematical/dp/0817640258/ref%3Dasc_df_0817640258/%3Ftag%3Dhyprod-20%26linkCode%3Ddf0%26hvadid%3D312090128349%26hvpos%3D1o1%26hvnetw%3Dg%26hvrand%3D7195699466249532371%26hvpone%3D%26hvptwo%3D%26hvqmt%3D%26hvdev%3Dc%26hvdvcmdl%3D%26hvlocint%3D%26hvlocphy%3D9031645%26hvtargid%3Dpla-491977219424%26psc%3D1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Electrodynamics: A Modern Geometric Approach</a>》这本算是比较小众，但对于学点数学的想法应该是有帮助的，看完这些我想如果有感兴趣的应该读些几何的书，当然，这部分在相对论里面会重新出现。</li><li>Landau的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/19895513/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">场论</a>》和《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1551292/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">连续介质电动力学</a> 》不过第二本我不是非常推荐，一般来说，如果不专门研究凝聚态理论和材料理论这样的，就不是非常必要。</li></ul><hr/><p>热力学和统计力学</p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><h2>量子力学</h2><p>量子力学是现代物理但源头，现代物理但抽象性大多是与量子力学但出现和广义相对论但建立又直接关系的。量子力学是非常需要反复学习，从不同深度不同侧面去理解的。一般来说，入门级量子力学学的是Schrodinger的波动方法和Heisenberd的矩阵方法。在这个过程中，我们首先需要掌握量子力学的一些基本概念，学会一些基本的计算，建立一些抽象的直观。接着，在advanced量子力学中，我们就需要接触新的方法，主要是Feynman路径积分的阐述，他给我们提供了一个以经典图景去看量子力学的方法。在最后的话，就是量子信息和量子计算的学习，量子场论的学习，这些不同阶段的学习能让我们从不同的深度去理解量子力学，是运用量子力学，去解释量子力学。</p><p><b>入门级量子力学</b></p><p>这一阶段主要还是打基础，也是最难的一个阶段，因为量子力学不同于传统物理学，它是一门非常抽象的学科（从物理的角度看，而不是数学）。所以多读多讨论建立抽象直观是很重要的。</p><ul><li> 首先推荐David J. Griffiths的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1869923/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Introduction to Quantum Mechanics </a>》，现在已经出到了第二版，这本书讲解的比较浅显易懂，非常适合初学者。</li><li>钱伯初老师在兰大讲的<a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av35066145/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学</a>，虽然我大一的时候看过一部分，没看完，但我还是觉得讲得很好，值得推荐，钱伯初老师自己也编写了教材《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1728334/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学</a>》，强烈推荐去读一读。他和段一士、汪志诚、王定百、葛墨林（现在在南开）以前是兰大物理系非常有名的几位老师，讲课很有经验。但现在也相继去世了好几位。</li><li>周世勋的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/3852014/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学教程</a>》，这本书是中国建国后早期编写的教材，也是用得最久的教材，有许多地方是借鉴了苏联学派的写法的，比较薄，适合入门学习。</li><li>曾谨言的《<a href=\"https://link.zhihu.com/?target=https%3A//search.douban.com/book/subject_search%3Fsearch_text%3D%25E6%259B%25BE%25E8%25B0%25A8%25E8%25A8%2580%26cat%3D1001\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学教程</a>》，我现在已经有点搞不清这书现在出到第几版了，我当时看的是第四版，可以配合《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/25977441/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学 I</a>》学习。</li><li>科大张永德老师编写的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/3216565/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学</a>》，这书写的也很不错，张老师还不停在完善这书，印象中这两年又出了新版。</li><li>复旦苏汝铿编写的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1720891/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学</a>》，这本也是不错，分开讲解波动力学与矩阵力学，并讲解两者等价性，唯一的缺陷就是没有再进行更新，typos非常多。苏汝铿老师讲<a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av34042133%3Ffrom%3Dsearch%26seid%3D6744279248818361439\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学的视频</a>网上应该有，可以配套学习。</li><li>曾谨言和钱伯初《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/3142949/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学习题剖析</a>》这本书写的非常好，我个人非常喜欢。习题书中科大阮图南等老师编写的《量子力学习题解答与剖析》专门针对曾谨言教程的习题集；还有山东大学陈鄂生的《<a href=\"https://link.zhihu.com/?target=https%3A//www.douban.com/link2/%3Furl%3Dhttps%253A%252F%252Fbook.douban.com%252Fsubject%252F7067177%252F%26query%3D%25E9%2587%258F%25E5%25AD%2590%25E5%258A%259B%25E5%25AD%25A6%25E4%25B9%25A0%25E9%25A2%2598%26cat_id%3D1001%26type%3Dsearch%26pos%3D5\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学习题与解答</a>》；以及物理学大题典《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1445650/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学</a>》</li><li>看完了这些可以看看北大王正行的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1120290/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学原理</a>》，他的这本相当于一个知识点概括论述的书，简明扼要。</li><li>R Shankar的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/2187612/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Principles of Quantum Mechanics</a>》大红书也是一本名著，有影印本。</li><li>Leonard Susskind的量子力学<a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av53480408%3Ffrom%3Dsearch%26seid%3D13544005167576679784\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">讲座视频</a>。不过他的个人风格比较强烈，不适宜初次学习的时候看，最好先学一遍再看，收获更多。也可以参考阅读他的书《Quantum Mechanics: The Theoretical Minimum》</li><li><a href=\"https://link.zhihu.com/?target=http%3A//www.feynmanlectures.caltech.edu/III_toc.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Feynman 物理学讲义第三卷</a></li><li>Weinberg大师最近热衷于写出，他这两年写了本量子力学的教材《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/26390079/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Lectures on quantum mechanics</a>》，值的一读，不过他比较讨厌Dirac符号，所以用Dirac符号比较少。他出了第一版，结果里面关于开放系统有个打错，于是迅速又出了第二版。他的书都是自己排版校订，质量有保证。</li><li>朗道道的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/3269798/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">量子力学</a>（非相对论理论）》，无须多言，写得非常好，非常朗道风格。</li><li>最后我建议学完上面这些之后，读一读Dirac的名著《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/3117484/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">The principles of quantum mechanics</a>》，应该能收获不少。</li></ul><p>还有许多我这里没有提到的教材，量子力学的教材实在是太多了，浩如烟海，学一点之后就应该自己开始思考，建立自己的体系，反复读过多教材是不太推荐的，毕竟青春有限。</p><p><b>进阶量子力学</b></p><p>通过入门级量子力学的学习之后，我们还有一些关于量子力学的知识点的缺失，主要是关于路径积分和相对论量子力学的内容。作为一个严肃的理论物理研究者，这些东西必须要懂（当然，如果你只是学着玩一玩，你可以忽略我说的）。</p><ul><li>接着就是J. J. Sakurai 的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1768544/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Modern quantum mechanics</a>》，这本书基本是通用教科书，足见其写的有多好。</li><li> Greiner 的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/4732882/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">quantum mechanics：symmetries</a>》，这本书详细解释了量子力学中的对称性，这是现代物理里面很重要的题目。</li><li>大师Schwinger的的lecture教材《<a href=\"https://link.zhihu.com/?target=https%3A//www.amazon.com/Quantum-Mechanics-Symbolism-Atomic-Measurements/dp/3540414088\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Quantum Mechanics: Symbolism of Atomic Measurements</a>》。这本是Schwinger教课的lecture notes的合集，值得一读（暴露了我是他狂热粉丝的秘密）。</li><li>诺奖得主Claude Cohen-Tannoudji等人编写的《Quantum Mechanics, <a href=\"https://link.zhihu.com/?target=https%3A//www.amazon.com/Quantum-Mechanics-Vol-Claude-Cohen-Tannoudji/dp/047116433X\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Vol. 1</a>，<a href=\"https://link.zhihu.com/?target=https%3A//www.amazon.com/Quantum-Mechanics-2-Claude-Cohen-Tannoudji/dp/0471164356/ref%3Dpd_cp_14_3/136-7738352-0324225%3F_encoding%3DUTF8%26pd_rd_i%3D0471164356%26pd_rd_r%3Db176f6f6-073f-46ac-967b-844060d4b5cf%26pd_rd_w%3DU8qXt%26pd_rd_wg%3DbHJJq%26pf_rd_p%3D0e5324e1-c848-4872-bbd5-5be6baedf80e%26pf_rd_r%3DX1VNSRE5KNHJRFXYEMHM%26psc%3D1%26refRID%3DX1VNSRE5KNHJRFXYEMHM\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Vol. 2</a>》两卷本，这两部大块头对量子力学做了非常详细但阐述，方方面面做得很周到，好像高教社这两年出了<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/25954720/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">中译本</a>，可以参考阅读。 </li><li>David Bohm的《<a href=\"https://link.zhihu.com/?target=https%3A//www.amazon.com/Quantum-Theory-Dover-Books-Physics/dp/0486659690\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Quantum theory</a>》，实际上这书放在这里做推荐教材多少有点不合适，不过Bohm对量子力学基本问题有很多深入的思考，知识也是著名的自旋ERP态的最早提出的地方。适合做阅读材料。</li><li>我尤其想推荐一下A Peres的《<a href=\"https://link.zhihu.com/?target=https%3A//www.springer.com/gp/book/9780792325499\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Quantum Theory: Concepts and Methods</a>》，这本书不常被作为进阶量子力学的教材被提到，但我觉得它应该被加入，它是接轨现代量子信息倾向但量子力学但教材里面最早但尝试。</li></ul><p>接下来是路径积分方法的学习。</p><ul><li>首先我推荐Feynman和他学生合著的《<a href=\"https://link.zhihu.com/?target=https%3A//www.amazon.com/Quantum-Mechanics-Path-Integrals-Emended/dp/0486477223\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Quantum Mechanics and Path Integrals</a>》，这本书有中译本，质量很不错，他里面非常重视物理直观，讲解路径积分的基本思想，以及许多计算。最好能配合Feynman的早期论文和他的<a href=\"https://link.zhihu.com/?target=https%3A//cds.cern.ch/record/101498/files/Thesis-1942-Feynman.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">博士毕业论文</a>一起读，收获会更多。</li><li>Feynman物理学讲义卷三</li><li>Barry R. Holstein的《<a href=\"https://link.zhihu.com/?target=https%3A//www.amazon.com/Topics-Advanced-Quantum-Mechanics-Physics/dp/0486499855\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Topics in advanced quantum mechanics</a>》，这本书讲路径积分方法讲的很全面和细致。</li></ul><p>接着就需要学一些相对论量子力学的知识，这部分和路径积分方法一样，是给量子场论等后续课程打基础的。我比较推荐</p><ul><li>Bjorken《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/2869258/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Relativistic Quantum Mechanics</a>》，这书比较老，不过是一本名著，写得很好，推荐看前几章。</li><li>大师F Dyson的《<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/quant-ph/0608140.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Advanced quantum mechanics</a>》，详细阐述了Dirac方程的方方面面。</li><li>Greiner的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1463265/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Relativistic Quantum Mechanics</a>》，比较中规中矩的相对论量子力学教材。</li><li>J J Sakurai的《Advanced quantum mechanics》，Sakurai本身是高能物理学家，他写的这本教材虽然不及他的modern quantum mechanics有名，不过也不失为一本好教材。</li></ul><p>有了上面这些学习，量子力学已经足足够用了，如果学得扎实，对后面量子场论，弦论，凝聚态理论的学习会有很大的帮助。</p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><h2>狭义相对论和广义相对论</h2><p>对于学习理论物理来说是非常重要的。至少得了解他们的基本原理。如果要学习弦理论或者其他与量子引力相关的理论，那么广义相对论是必须的，但学习平之空间的量子场论的话，狭义相对论就够用。所以我觉得可以先学狭义相对论，然后学习量子场论，因为量子场论非常复杂，需要在以后的学术生涯里面反复学习。等学完量子场论之后可以接着学习广义相对论，引力理论以及弦理论。</p><p>狭义相对论一般普通物理的书里面都会介绍一点基本的东西。总体来说，国内开相对论课程的学校不多。</p><ul><li>吴大猷的理论物理教程理论物理(第4册)<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/5277831/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">《相对论》</a>是很好的阅读材料。</li><li>朗道的理论物理教程第二卷 <a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/19895513/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">《场论》</a>的第一章是非常好的，我很喜欢。</li><li>俞允强老师的北大版<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1044494/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">广义相对论引论</a>和<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1133950/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">物理宇宙学</a></li><li>兰大钱伯初老师讲过一点点相对论，没找到视频，大家可以自己找找</li><li>湖南师大王永久老师的教程相对论</li><li>北师大梁灿彬、刘辽、赵峥他们也编写过基本还不错的教材</li><li>Dirac，<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/5406272/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">广义相对论</a>小册子，时候快速阅读获得big picture。</li></ul><p>上面这些我就当做是相对论的入门讲义，虽然也包含一些广义相对论的教程，但总体上来说还是铺垫。而广义相对论是一门非常优美和完整的理论，现在的发展更是精彩纷呈，所以需要花更多时间去学习。</p><p>广义相对论和引力理论以及宇宙学，讲广义相对论的教程主要有两种风格，一种是Hawking，Wald等人所提倡的借用大量先进的数学工具，构建非常严格的数学体系的风格；另一种是Weinberg, Hartle提倡的更加强调物理的方式，以尽量少的数学知识强调物理直观。个人口味不一样，但我觉得还是两者都要重视，不能偏废，但我自己更加倾向于比较有数学的严密框架的方式，因为我是先学数学再学相对论的。但最终，我们还是需要在理解物理的基础上不停地扩充需要的数学知识，甚至努力去发掘新的数学工具。</p><p>首先我想，广义相对论想在有基本我觉得是十分经典的书</p><ul><li>首先推荐Hawking和Ellis的《<a href=\"https://link.zhihu.com/?target=https%3A//yale.learningu.org/download/2edd46dc-7ff5-4084-8161-5b5328974fa0/E2143_The%2520Large-Scale%2520Structure%2520of%2520Spacetime%2520%281973%29%2520-%2520Hawking%2C%2520Ellis.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">The Large Scale Structure of Space-Time</a>》，这本书是偏向于严格数学分格的代表之一，非常值得反复阅读，而且具有相当难度</li><li>然后是Wald的《general relativity》，这本书是Wald那个时期首次用现代的观点写的广义相对论教材，前面一部分基础理论只有一百多页，后面是些topic的阐述，梁灿彬老师以前曾经跟着Wald学习过一段时间，写的相对论三卷本师承一派。</li><li>Weinberg的教程《<a href=\"https://link.zhihu.com/?target=https%3A//ftp.space.dtu.dk/pub/Henrik/Weinberg%2520S.%2520Gravitation%2520and%2520cosmology..%2520principles%2520and%2520applications%2520of%2520the%2520general%2520theory%2520of%2520relativity%2520%2528Wiley%2C%25201972%2529%2528ISBN%25200471925675%2529%2528685s%2529.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">gravitation and cosmology</a>》以及以及《cosmology》，weinberg自称比较强调物理直观，的确与hawking和wald的是不同风格，但两本也都是大部头，现在高教社似乎都已经有了<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/30165509/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">翻译版</a>，不过建议英语过关的还是读原版。</li><li>Carroll的《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/2346708/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">space time and geometry</a>》，我个人非常喜欢这本书，学习的时候主要也是学这本的，Carroll的主页上也保留了许多<a href=\"https://link.zhihu.com/?target=https%3A//www.preposterousuniverse.com/spacetimeandgeometry/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">note</a>值得好好读。</li><li>Misner，Thorne 和Wheeler的名著《<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/1463278/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Gravitation</a>》，自从Thorne因为用激光干涉的方法拿了诺奖之后，好事者（如我一样）常常翻到次数中说干涉法因为太微弱所以不能拿来探测引力波那一页找Thorne签名。当然玩笑归玩笑，这的确是一本超级名著，不过块头真的很大。</li></ul><hr/><p class=\"ztext-empty-paragraph\"><br/></p><p>量子信息和量子计算</p><hr/><p>凝聚态物理学</p><hr/><p>量子场论</p><hr/><p>弦理论、超对称理论、超弦理论、M理论</p>", 
+            "topic": [
+                {
+                    "tag": "物理学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19860534"
+                }, 
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }, 
+                {
+                    "tag": "普通物理", 
+                    "tagLink": "https://api.zhihu.com/topics/20179926"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Espresso", 
+                    "userLink": "https://www.zhihu.com/people/12428b642bf7d825927e29c2dd0918e5", 
+                    "content": "期待更多干货[赞同]", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "火箭统", 
+                    "userLink": "https://www.zhihu.com/people/98974463e3cbb36e179f7897172421d1", 
+                    "content": "这个坑挖的够大的，我觉得没个半年你填不完", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "幻灭凌王", 
+                    "userLink": "https://www.zhihu.com/people/f7e00695f49902b4caad12c35ab84b23", 
+                    "content": "静待更新，已关[调皮]", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>坑王，看你什么时候填平</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "九点", 
+                    "userLink": "https://www.zhihu.com/people/2ebd73008f4b82aab5767b37a69d4d6a", 
+                    "content": "<p>求填坑</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "<p>最近抽时间再更新一下</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "九点"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "van der Hans", 
+                    "userLink": "https://www.zhihu.com/people/43c469604a13c97d5ec5e507f8e77e24", 
+                    "content": "有空希望能讲讲表示论代数几何范畴这边有没有什么比较好的学习路径）", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "有机会了写一写^_^", 
+                            "likes": 0, 
+                            "replyToAuthor": "van der Hans"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Xkshan", 
+                    "userLink": "https://www.zhihu.com/people/ce07c1402046fda0cab57f7eb7a97333", 
+                    "content": "weinberg的引力与宇宙学读不下去，没有几何思想，我转不过来脑筋", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "也疏寒", 
+                            "userLink": "https://www.zhihu.com/people/d8965960db851164318a1de374ca3c9a", 
+                            "content": "可以先学一学古典微分几何，读读陈维桓，de carmo的书建立一些直观，抽象的黎曼几何第一次接触会比较难以适应，加油💪", 
+                            "likes": 0, 
+                            "replyToAuthor": "Xkshan"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1094922677671772160"
+}

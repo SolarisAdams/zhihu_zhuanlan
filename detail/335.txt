@@ -1,0 +1,257 @@
+{
+    "title": "浅度学习", 
+    "description": "可能会有CV，NLP，高性能计算等相关内容", 
+    "followers": [
+        "https://www.zhihu.com/people/du-yihua", 
+        "https://www.zhihu.com/people/xuhaiyang-86", 
+        "https://www.zhihu.com/people/silently-19", 
+        "https://www.zhihu.com/people/xu-xie-hua-34", 
+        "https://www.zhihu.com/people/wang-ming-66-71", 
+        "https://www.zhihu.com/people/dan-mo-46-93", 
+        "https://www.zhihu.com/people/wwkinu", 
+        "https://www.zhihu.com/people/xia-zheng-79", 
+        "https://www.zhihu.com/people/guang-ming-26-27", 
+        "https://www.zhihu.com/people/luo-ke-li-84", 
+        "https://www.zhihu.com/people/hqwsky", 
+        "https://www.zhihu.com/people/ethan-shi-71", 
+        "https://www.zhihu.com/people/yu-hai-long-22", 
+        "https://www.zhihu.com/people/zhang-ze-hua", 
+        "https://www.zhihu.com/people/yu-sui-wu-tong", 
+        "https://www.zhihu.com/people/hijackjave", 
+        "https://www.zhihu.com/people/wayne-43-34", 
+        "https://www.zhihu.com/people/ban-du-xiao-shu-tong-29-14", 
+        "https://www.zhihu.com/people/wang-liao-52", 
+        "https://www.zhihu.com/people/yawu-99", 
+        "https://www.zhihu.com/people/zhaoenhui", 
+        "https://www.zhihu.com/people/li-rui-hong-33", 
+        "https://www.zhihu.com/people/ll-uncle", 
+        "https://www.zhihu.com/people/j99999999955555", 
+        "https://www.zhihu.com/people/wu-bing-7-30", 
+        "https://www.zhihu.com/people/xiao-han-13-60", 
+        "https://www.zhihu.com/people/roger-gou", 
+        "https://www.zhihu.com/people/wu-ye-nan-30", 
+        "https://www.zhihu.com/people/yildhd-wang", 
+        "https://www.zhihu.com/people/cong-xin-6-11", 
+        "https://www.zhihu.com/people/ramboo-ramboo", 
+        "https://www.zhihu.com/people/wang-da-chui-83-45", 
+        "https://www.zhihu.com/people/fanfan123"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60692852", 
+            "userName": "bbbbbbbbbbbbbbox", 
+            "userLink": "https://www.zhihu.com/people/5168909de798dc4c81d0f4f16290a107", 
+            "upvote": 0, 
+            "title": "全监督检测之YOLO", 
+            "content": "<p>     最近大半年一直在准备论文，没有时间更新。最近论文投了打算来回顾一下经典的目标检测论文。之后会写一些弱监督检测的介绍，为了与弱监督检测区分，这里把所有使用包围盒标注的检测算法都叫做全监督检测算法。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2fa9d0b279b62fa77229de1a30ca0028_b.jpg\" data-size=\"normal\" data-rawwidth=\"842\" data-rawheight=\"216\" class=\"origin_image zh-lightbox-thumb\" width=\"842\" data-original=\"https://pic1.zhimg.com/v2-2fa9d0b279b62fa77229de1a30ca0028_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;842&#39; height=&#39;216&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"842\" data-rawheight=\"216\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"842\" data-original=\"https://pic1.zhimg.com/v2-2fa9d0b279b62fa77229de1a30ca0028_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2fa9d0b279b62fa77229de1a30ca0028_b.jpg\"/><figcaption>yolo预测时的工作流程</figcaption></figure><p>    说YOLO之前，先简单回顾一下经典的RCNN系列，RCNN系列方法都是先产生propoosals,然后提取proposals的特征之后利用特征来预测proposals是目标的概率以及对proposals进行修正。RCNN直接把proposals切割下来然后利用CNN提取特征，fast-RTCNN通过roi-pooling直接从共享的feature-map上得到proposals的特征，大大提升了检测速度。faster通过RPN先来生成数量更精确数量更少的proposal.能够进一步提升检测速度和精度。但是提取proposals特征的过程终究还是很耗时。YOLO没有region proposals的生成和特征提取过程，而是直接将图片划分成S*S的格子，然后直接在格子的基础上回归到目标框。每个格子会预测B个框的（x,y,w,h,confidence)五个个值，以及一个C类的分类置信度。也就是网络一共输出 (S*S)*(B*5+C)维的一个tensor。在VOC数据集中，S为7，B为2, C为20。所以最后的输出为7*7*30。这些输出通过在最后的feature-map之后通过两个全连接层可以直接拿到，所以网络速度非常快.</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-b4da4365b55281e430dbd21443191e42_b.jpg\" data-size=\"normal\" data-rawwidth=\"930\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb\" width=\"930\" data-original=\"https://pic3.zhimg.com/v2-b4da4365b55281e430dbd21443191e42_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;930&#39; height=&#39;384&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"930\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"930\" data-original=\"https://pic3.zhimg.com/v2-b4da4365b55281e430dbd21443191e42_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-b4da4365b55281e430dbd21443191e42_b.jpg\"/><figcaption>yolo网络结构</figcaption></figure><p>      下面将会按照YOLO的训练过程，YOLO的预测过程以及自己的一些理解的过程叙述。</p><h2><b>1.YOLO的训练</b></h2><p>   以VOC数据集举例，YOLO会把图像分为7*7的grid，网络输出每个grid cell中2个bounding box的坐标和置信度，同时每个grid cell还会预测20类的分类置信度。这样最后的输出就是7*7*30维。训练过程中最重要的就是确定这些输出值的回归目标，以及loss的计算方法。</p><h3>1.1 gt assignment</h3><p>     训练网络时，首先要确定gt assignment ,也就是 每个ground-truth框由哪一个bounding box负责，反过来说就是每个bounding box的训练目标到底是什么，确定了训练目标之后，才能计算loss训练网络。不是每一个bounding box的预测值都会参与求loss的过程。假设一共有K个ground-truth，有7*7个grid cell，每个cell会预测出两个bounding-box.在yolo中，每个ground-truth只会assign给一个bounding box,如果gt的中心落在某个cell中，那么这个gt将会assign给cell中和gt IOU比较大的bounding-box。也就是</p><p>1）根据ground-truth的中心来选择grid-cell，</p><p>2）根据选中的grid-cell中和ground-truth IOU比较大的一个bounding box.</p><p>选出来的和ground-truth绑定的bounding box，在训练时就会当做正样本来计算位置回归的损失。这一点和RCNN系列是一样的，RCNN系列也会通过和ground-truth的IOU来选取一些proposals作为正样本，同样在计算位置回归损失时，只考虑采样出来的正样本的损失。</p><h3>1.2 输出值的意义及其回归目标</h3><p>    之前说了，在YOLO中，针对每个grid-cell，网络会输出两个bounding box的位置信息预测（x,y,w,h）和bounding box的置信度。和RCNN类似，位置信息预测（x,y,w ,h）的回归目标都是经过归一化的值。中心位置(x,y)的回归目标实际上是相对于grid-cell左上角的偏移值，用grid-cell的size对其进行归一化，长宽（w,h)的回归目标也是图像的长宽进行了归一化。这样这四个值理论上来说都是0到1之间。置信度的回归目标是一个条件概率Pr(Object)*IOU(truth,pred),当gt assign给某个bounding box时，Pr(Object) =1,预测值就是bounding-box和这个gt的IOU，否则Pr(Object)为0，这个值就是0。此外每个grid-cell还会预测一个20维的分类置信度，如果某个类的中心落在这个cell中，那么对应的这个类的分类置信度就是1，否则为0.</p><h3>1.3 Loss的计算</h3><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5f61cdfd12fe95f79ea2ab09d126ad97_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"398\" data-rawheight=\"270\" class=\"content_image\" width=\"398\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;398&#39; height=&#39;270&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"398\" data-rawheight=\"270\" class=\"content_image lazy\" width=\"398\" data-actualsrc=\"https://pic4.zhimg.com/v2-5f61cdfd12fe95f79ea2ab09d126ad97_b.jpg\"/></figure><p>yolo将目标检测看做回归问题，所有的loss都采用均方误差。公式中的 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbb%7B1%7D_%7Bij%7D%5E%7Bobj%7D\" alt=\"\\mathbb{1}_{ij}^{obj}\" eeimg=\"1\"/> 表示cell i 中bounding box j 是否有ground truth与之绑定（1.1节），如果某个ground-truth object assign给cell i 中的bounding box  j，那么这个值为1，否则为0，<img src=\"https://www.zhihu.com/equation?tex=%5Cmathbb%7B1%7D_%7Bij%7D%5E%7Bnoobj%7D\" alt=\"\\mathbb{1}_{ij}^{noobj}\" eeimg=\"1\"/>与之相反。<img src=\"https://www.zhihu.com/equation?tex=%5Cmathbb%7B1%7D_%7Bi%7D%5E%7Bobj%7D\" alt=\"\\mathbb{1}_{i}^{obj}\" eeimg=\"1\"/>表示是否有ground truth的中心落入cell i中 </p><p>从上往下看loss一共分为五项,其中前两项是位置回归loss，后面两项是正负样本bounding box的置信度的loss，最后一项是每个cell的分类loss。</p><p><b>位置回归Loss</b>包括中心点和长宽两项，位置回归Loss只考虑和ground truth绑定的bounding box，也就是<img src=\"https://www.zhihu.com/equation?tex=%5Cmathbb%7B1%7D_%7Bij%7D%5E%7Bobj%7D\" alt=\"\\mathbb{1}_{ij}^{obj}\" eeimg=\"1\"/>为1的项。因为大部分的bounding-box都没有gt与之绑定，导致位置回归的训练样本非常少，为了防止网络训歪，作者给位置回归损失前都加了参数 <img src=\"https://www.zhihu.com/equation?tex=%5Clambda_%7Bcoord%7D\" alt=\"\\lambda_{coord}\" eeimg=\"1\"/>来增加回归损失的权重，在VOC2007里 <img src=\"https://www.zhihu.com/equation?tex=%5Clambda_%7Bcoord%7D\" alt=\"\\lambda_{coord}\" eeimg=\"1\"/> 取5。需要注意的是，这里w,h的均方误差在计算的时候进行了开方。这里是考虑到对于尺寸较小的框对于宽高系数更敏感。开方之后能增加小框的偏差对loss的影响。具体可以看下面这张图，开方之后，小框的尺寸变动对loss的影响更大。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-2ffc7d0a062964ab3fa53d801c9b6f2f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-2ffc7d0a062964ab3fa53d801c9b6f2f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;384&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-2ffc7d0a062964ab3fa53d801c9b6f2f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2ffc7d0a062964ab3fa53d801c9b6f2f_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>boudingbox 置信度loss</b>的包括正样本（ <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbb%7B1%7D_%7Bij%7D%5E%7Bobj%7D+%3D1\" alt=\"\\mathbb{1}_{ij}^{obj} =1\" eeimg=\"1\"/> ）的分类损失和负样本（ <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbb%7B1%7D_%7Bij%7D%5E%7Bnoobj%7D%3D1\" alt=\"\\mathbb{1}_{ij}^{noobj}=1\" eeimg=\"1\"/> ）的损失，根据1.2所说，正样本的回归目标是bounding box和gt的IOU(也有一些博客说这里可以直接设置为1）负样本的回归目标就是0. 因为YOLO里分类损失里没有特殊的背景类，这里框的置信度能够起到区分前景背景和衡量框的好坏的作用。同样，因为负样本太多，所以这里给loss加了一个系数 <img src=\"https://www.zhihu.com/equation?tex=%5Clambda_%7Bnoobj%7D\" alt=\"\\lambda_{noobj}\" eeimg=\"1\"/>来平衡训练过程，在论文里这个值取0.5.</p><p><b>cell的分类损失，</b>因为分类损失中不包含背景类，这里同样只计算中心点落在其中的cell的分类损失。</p><h2><b>3.Inference</b></h2><p>输出包含每个grid cell两个bounding box的坐标预测和置信度预测，以及每个grid cell的分类置信度。最后每个框的得分通过将框的置信度和cell的分类置信度相乘得到</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-af503a2af3c363e6f215a351bb2e688a_b.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"390\" data-rawheight=\"48\" class=\"content_image\" width=\"390\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;390&#39; height=&#39;48&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"390\" data-rawheight=\"48\" class=\"content_image lazy\" width=\"390\" data-actualsrc=\"https://pic3.zhimg.com/v2-af503a2af3c363e6f215a351bb2e688a_b.png\"/></figure><p>坐标预测要按照grid cell的位置和图片的大小变换到实际的坐标和尺寸。最后在所有结果上进行NMS就能得到最后的输出。<br/></p><hr/><h2>只是粗略的看了一下YOLO的论文，没有看过具体的代码实现，上述内容掺杂了自己的理解，如果有错，希望大家多多指正。</h2><p>另外，看完论文还有一个疑惑，YOLO不像RCNN和SSD，RCNN对于所有proposals 使用的是相同的回归器和分类器，SSD也是通过卷积操作共享了回归器和分类器，而YOLO没有一个统一的回归器，而是通过两个全连接层直接得到各个bounding box的预测值，这样做的好处在于可以让每一个预测都来自于全图的特征，不会受到卷积感受野或者roi-pooling这样提取局部特征的方法的限制，但是我理解这种情况下每个位置的bounding box的检测器参数都是不同的，训练时，只有出现过目标的位置的参数得到了训练，那么如果在测试数据里，目标出现在训练集里没出现过的位置上，这个位置的网络参数还能检测出物体吗？</p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "目标检测", 
+                    "tagLink": "https://api.zhihu.com/topics/19596960"
+                }, 
+                {
+                    "tag": "计算机视觉", 
+                    "tagLink": "https://api.zhihu.com/topics/19590195"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/46566618", 
+            "userName": "bbbbbbbbbbbbbbox", 
+            "userLink": "https://www.zhihu.com/people/5168909de798dc4c81d0f4f16290a107", 
+            "upvote": 25, 
+            "title": "tensorflow c++ API的编译和调用", 
+            "content": "<p>最近项目需求，要用c++调用tensorflow练好的丹，之前用c++调用Python的方式实现的，但是速度太慢，就打算改成tensorflow的c++ api。本以为是个很简单的事情，结果在编译API的时候遇到几个大坑。下面我简单梳理一下流程，把遇到的坑都标出来。</p><p><b>1.简介</b></p><p>    tensorflow不仅提供了python的api，对c++,java,go等语言也提供了api，但是其中python的功能是最全的。不过用c++载入一个训练好的模型然后inference是没有任何问题的。调用tensorflow的c++ api有两种方式，一种是google推荐的用bazel的方式，另一种就是自己编译动态库，然后链接到自己的项目就可以。这里采用第二种方式。</p><p><b>2.安装bazel,protocbuf,eigen3</b></p><p>     我的系统是centos，bazel和protocbuf都是源码安装，这个网上教程很多，但是这里有一个大坑，就是protocbuf的版本必须和你编译的tensorflow版本的protocbuf相同。如果不一样，后面编译你自己的代码时是跑不起来的。protoc的版本怎么看后面再说。</p><p>     安装eigen比较简单，yum install eigen3就可以</p><p><b>3.下载tensorflow源码，编译c++ api</b></p><div class=\"highlight\"><pre><code class=\"language-bash\">git clone --recursive https://github.com/tensorflow/tensorflow\nbazel build //tensorflow:libtensorflow_cc.so </code></pre></div><p>等待一段时间编译好之后，会多出bazel-genfiles,bazel-out,bazel-tensorflow,bazel-testlogs,bazel-bin几个文件夹。等编译完之后，把头文件和库文件拷贝到系统目录下</p><div class=\"highlight\"><pre><code class=\"language-text\">mkdir /usr/local/include/tf\ncp -r bazel-genfiles/ /usr/local/include/tf/\ncp -r tensorflow/* /usr/local/include/tf/tensorflow/\ncp -r third_party /usr/local/include/tf/\ncp -r bazel-bin/tensorflow/*.so /usr/local/lib/</code></pre></div><p>在这里可能会遇到另一个坑，这里拷贝了bazel-genfile到新建的tf目录下面</p><p>bazel-genfile的目录结构如下所示</p><div class=\"highlight\"><pre><code class=\"language-text\">bazel-genfile\n       =&gt;external\n       =&gt;tensorflow\n</code></pre></div><p>然后又拷贝了tensorflow目录到tf/tensorflow下面，这里如果不注意，会让tensorflow目录直接取代tf/tensorflow，会导致后面编译时提示缺少很多文件，而我们希望的是两个文件夹的内容合并，所以这里采用</p><div class=\"highlight\"><pre><code class=\"language-text\">cp -r bazel-genfiles/ /usr/local/include/tf/\ncp -r tensorflow/* /usr/local/include/tf/tensorflow/</code></pre></div><p><b>之前提到的protobuf的版本可以在tensorflow/worksapce.bzl里找到下载链接</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4.编译链接自己的程序</b></p><p>    直接用g++编译</p><div class=\"highlight\"><pre><code class=\"language-text\">  1 g++ -std=c++11 -o tfcpp_demo \\\n  2 -I /usr/include/eigen3 \\\n  3 -I /usr/local/include/tf \\\n  4 -g -Wall -D_DEBUG -Wshadow -Wno-sign-compare -w \\\n  5 -L /usr/local/lib/libtensorflow_cc \\\n  6 `pkg-config --cflags --libs protobuf` \\\n  7 -ltensorflow_framework \\\n  8 -ltensorflow_cc yourfile.cpp\n</code></pre></div><p><b>5.总结几个注意事项</b></p><ul><li><b>第一就是tensorflow和你安装的protocbuf的版本必须相同，可以在tensorflow/workspace.bzl里找到tensorflow使用的protocbuf的下载链接</b></li><li><b>如果你的Protoc版本安装错了，记住使用make uninstall卸载，不然会卸载不全</b></li><li><b>更新protoc版本和so文件后，记得ldconfig更新配置</b></li><li><b>拷贝生成的文件时，记得防止文件夹被替换，我们需要的是合并两个文件夹</b></li></ul><p>好久不写C++,对编译链接这些玩意儿都生疏了，以后还是要多写c++······</p><p><b>水平有限，如果文中有什么错误欢迎大家批评指正</b></p><p>6.Reference</p><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/rockingdingo/article/details/75452711\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Tensorflow C++ 编译和调用图模型</a><a href=\"https://link.zhihu.com/?target=https%3A//stackoverflow.com/questions/35508866/tensorflow-different-ways-to-export-and-run-graph-in-c\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-2d47e939feed796bcf7483d306661c88_ipico.jpg\" data-image-width=\"316\" data-image-height=\"316\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Tensorflow Different ways to Export and Run graph in C++</a><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/tensorflow/tensorflow/issues/12539\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-b9c3b06e8f5b95e3c95c6e2af7d33a8a_ipico.jpg\" data-image-width=\"400\" data-image-height=\"400\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">libtensorflow_cc.so linker issues with r 1.3 on Mac OS X Undefined symbols for architecture · Issue #12539 · tensorflow/tensorflow</a><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/tensorflow/tensorflow/issues/1248\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-51a41e8c50b92172324f6cdecda2b0fa_ipico.jpg\" data-image-width=\"277\" data-image-height=\"277\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">libtensorflow_framework.so: cannot open shared object file: No such file or directory · Issue #1248 · tensorflow/tensorflow</a><p><br/> <br/> <br/><br/> <br/> </p>", 
+            "topic": [
+                {
+                    "tag": "TensorFlow", 
+                    "tagLink": "https://api.zhihu.com/topics/20032249"
+                }, 
+                {
+                    "tag": "编译", 
+                    "tagLink": "https://api.zhihu.com/topics/19629384"
+                }, 
+                {
+                    "tag": "API", 
+                    "tagLink": "https://api.zhihu.com/topics/19553051"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "虞朝阳", 
+                    "userLink": "https://www.zhihu.com/people/9da3dd116ce1a0a7b8398c36e6a9e5d0", 
+                    "content": "有没有研究过Windows系统上用C++调用tensorflow的API的？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "bbbbbbbbbbbbbbox", 
+                            "userLink": "https://www.zhihu.com/people/5168909de798dc4c81d0f4f16290a107", 
+                            "content": "<p>木有，不知道bazel有没有windows的，有的话应该可以吧</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "虞朝阳"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "几何", 
+                    "userLink": "https://www.zhihu.com/people/30687ebe365d925d5055257af90b1d56", 
+                    "content": "<p>“cp -r bazel-genfiles/ /usr/local/include/tf/<br>cp -r tensorflow/* /usr/local/include/tf/tensorflow/”</p><p>lz您好，这两个命令并不可以合并文件吧，因为两个是不同的文件啊。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "刘双", 
+                            "userLink": "https://www.zhihu.com/people/fc984a72e3bb4529411c7f1ba8b40d46", 
+                            "content": "<p>我在想楼主是不是这个意思，bazel-genfiles里面的内容拷贝到tf目录下，所以加个星号</p><p>“cp -r bazel-genfiles/* /usr/local/include/tf/</p><p>cp -r tensorflow/* /usr/local/include/tf/tensorflow/</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "几何"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "苍山负雪", 
+                    "userLink": "https://www.zhihu.com/people/09281a2c6b2032903ad397e45ba280d3", 
+                    "content": "<p>执行 bazel build 这步 总是 一些文件下载失败，怎么办啊</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "bbbbbbbbbbbbbbox", 
+                            "userLink": "https://www.zhihu.com/people/5168909de798dc4c81d0f4f16290a107", 
+                            "content": "可能要挂vpn吧", 
+                            "likes": 0, 
+                            "replyToAuthor": "苍山负雪"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "朝歌", 
+                    "userLink": "https://www.zhihu.com/people/65742ac72aa0b0e41549cfd25060d0bb", 
+                    "content": "<p>很纳闷 取裸数据 简单写个解析引擎不才是最好的解决方案吗？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "只想静静的那啥啥", 
+                            "userLink": "https://www.zhihu.com/people/b347fb366ea0e05bd0102dcbb5a429c4", 
+                            "content": "<p>没有理解</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "朝歌"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Dreamer", 
+                    "userLink": "https://www.zhihu.com/people/bc0ddb91560dc8563a593f2d9a2f5d89", 
+                    "content": "<p>bazel build //tensorflow:libtensorflow_cc.so 这个是编译没有cuda的版本吧？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "bbbbbbbbbbbbbbox", 
+                            "userLink": "https://www.zhihu.com/people/5168909de798dc4c81d0f4f16290a107", 
+                            "content": "对", 
+                            "likes": 0, 
+                            "replyToAuthor": "Dreamer"
+                        }, 
+                        {
+                            "userName": "Dreamer", 
+                            "userLink": "https://www.zhihu.com/people/bc0ddb91560dc8563a593f2d9a2f5d89", 
+                            "content": "这个还是写清楚点吧不然容易误导人", 
+                            "likes": 0, 
+                            "replyToAuthor": "Dreamer"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "风雪夜归人语", 
+                    "userLink": "https://www.zhihu.com/people/caaded86a06fcac2b62fa39853e1b95b", 
+                    "content": "<p>bazel之前,需要先./config一下吧</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/41995132", 
+            "userName": "bbbbbbbbbbbbbbox", 
+            "userLink": "https://www.zhihu.com/people/5168909de798dc4c81d0f4f16290a107", 
+            "upvote": 8, 
+            "title": "Cascade-RCNN论文阅读笔记", 
+            "content": "<p>   Cascade R-CNN是今年CVPR关于目标检测的一篇论文，作者通过观察目标检测中正样本选取时的IOU不同时分类器和回归器的不同表现，设计了级联的分类回归结构，取得了很大的mAp提升。</p><hr/><p><br/><b> 1.目标检测网络训练时的正样本选取</b></p><p>        介绍Cascade-RCNN之前，先简单介绍一下目标检测网络训练时正样本的选取。<br/>        不同于分类任务，检测任务要求同时得到图像中物体的位置（包围盒）和分类。物体的位置需要通过回归来得到，也就是先随机生成一些框，然后用一个回归器来对这些框进行位置修正，如下图，先通过RPN（H0,C0,B0）得到一些候选框，然后再进一步的对这些框进行修正B1，和分类C1。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-7e28694d582b398a0d930d1e31a373ec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"308\" data-rawheight=\"367\" class=\"content_image\" width=\"308\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;308&#39; height=&#39;367&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"308\" data-rawheight=\"367\" class=\"content_image lazy\" width=\"308\" data-actualsrc=\"https://pic1.zhimg.com/v2-7e28694d582b398a0d930d1e31a373ec_b.jpg\"/></figure><p>        随机生成的框中有些包含目标物体，有些只包含背景，包含目标物体的框称为positive,不包含的称为negative，目标检测网络所做的就是把positive的框，进行进一步的修正和分类，得到最终的目标物体包围盒。<br/>         在训练时，一般通过和ground-truth的IOU值的大小来选取positive的框，来训练回归器。IOU的计算方法如下图所示，就是交集面积除以并集面积。<br/> </p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-13eeab7d52be220cf0dc2a158519d667_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"469\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb\" width=\"469\" data-original=\"https://pic4.zhimg.com/v2-13eeab7d52be220cf0dc2a158519d667_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;469&#39; height=&#39;444&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"469\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"469\" data-original=\"https://pic4.zhimg.com/v2-13eeab7d52be220cf0dc2a158519d667_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-13eeab7d52be220cf0dc2a158519d667_b.jpg\"/></figure><p><br/>  如果一个框和ground-truth中一个框的IOU大于某个阈值，那么就认为这个框是positive,这个框就会参与回归器的训练。一般情况下，IOU的阈值取0.5。</p><hr/><p><br/><b> 2.IOU的选取</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>         前面说了，用来选取positive样本的IOU阈值是一个超参数，如果这个值太小，会导致很多与ground-truth重合并不多的框被选中，最后就会导致检测出很多false positive。如果这个值太大，那么positive的样本就会非常少，导致over fitting。如下图所示，IOU阈值太高反而导致检测性能下降。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ee3c4e664ce9e6d9081d393c56ffe444_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"436\" data-rawheight=\"408\" class=\"origin_image zh-lightbox-thumb\" width=\"436\" data-original=\"https://pic1.zhimg.com/v2-ee3c4e664ce9e6d9081d393c56ffe444_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;436&#39; height=&#39;408&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"436\" data-rawheight=\"408\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"436\" data-original=\"https://pic1.zhimg.com/v2-ee3c4e664ce9e6d9081d393c56ffe444_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ee3c4e664ce9e6d9081d393c56ffe444_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>         此外，只通过IOU阈值一刀切来选取positive有什么问题呢？假设阈值是0.5，那么positive的样本就会有IOU是0.5,0.6,0.7,0.8的样本，不难想象，不同IOU的样本的特征是完全不同的，有些和ground-truth交集多，有些和ground-truth交集少。可想而知，只通过一个分类器和一个回归器来对不同的样本进行分类和回归是比较困难的。</p><p>         看下面这个图c，横轴表示输入回归器之前的IOU，纵轴表示输出时的IOU，不同颜色的线表示IOU取不同阈值时的情况，从这个图可以看出来</p><p>        ①：高于灰色的线条说明回归器是的确把输入的框向正确的位置修正了。</p><p><b> ②：以阈值u训练的回归器，对输入阈值也是u时效果最好。</b></p><p>        ③：<b>以低阈值训练的回归器对于高IOU的输入表现很差，以高阈值训练的回归器对低IOU的输入表现很差</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-bf2c4d71d6472f149232810756385896_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"446\" data-rawheight=\"398\" class=\"origin_image zh-lightbox-thumb\" width=\"446\" data-original=\"https://pic3.zhimg.com/v2-bf2c4d71d6472f149232810756385896_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;446&#39; height=&#39;398&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"446\" data-rawheight=\"398\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"446\" data-original=\"https://pic3.zhimg.com/v2-bf2c4d71d6472f149232810756385896_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-bf2c4d71d6472f149232810756385896_b.jpg\"/></figure><p>          作者从这个观察出发，提出了quality level的概念，不同阈值训练的回归器处于不同的quality level，不同level的回归器对于该level的输入表现最好，而对于不同level的输入的表现就比较差。</p><hr/><p><br/><b>3.Cascade-RCNN</b></p><p>        从上面的结论出发，作者设计了Cascade-RCNN结构，如下图所示</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-35e8cdedf77c52b257f5a71e0153eb44_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"579\" data-rawheight=\"367\" class=\"origin_image zh-lightbox-thumb\" width=\"579\" data-original=\"https://pic1.zhimg.com/v2-35e8cdedf77c52b257f5a71e0153eb44_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;579&#39; height=&#39;367&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"579\" data-rawheight=\"367\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"579\" data-original=\"https://pic1.zhimg.com/v2-35e8cdedf77c52b257f5a71e0153eb44_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-35e8cdedf77c52b257f5a71e0153eb44_b.jpg\"/></figure><p>         将原来单个的回归和分类器改成了多个回归分类器的级联，将上一级回归器输出的框输入下一级的回归和分类器。这样做有什么好处呢？从之前的图我们看出，回归器对于输入的框都会有一定程度的修正，这样每一级都会提高框的IOU然后输入下一级。于是不同级别的分类器和回归器都是在不同的quality level上进行训练，并且都能够有足够的正样本，防止过拟合的问题。如下图所示，每一级处理后，样本的IOU都会变的更大。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9527172f662c497117b0357b347e07ba_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"376\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-9527172f662c497117b0357b347e07ba_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;376&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"376\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-9527172f662c497117b0357b347e07ba_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9527172f662c497117b0357b347e07ba_b.jpg\"/></figure><p>        实验结果：可以看到，Cascade R-CNN比当前最好的结果还要好接近4个点，可以说是非常强了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-410c9ee9fbfec4b46b00eed025a07394_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1236\" data-rawheight=\"458\" class=\"origin_image zh-lightbox-thumb\" width=\"1236\" data-original=\"https://pic1.zhimg.com/v2-410c9ee9fbfec4b46b00eed025a07394_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1236&#39; height=&#39;458&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1236\" data-rawheight=\"458\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1236\" data-original=\"https://pic1.zhimg.com/v2-410c9ee9fbfec4b46b00eed025a07394_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-410c9ee9fbfec4b46b00eed025a07394_b.jpg\"/></figure><hr/><p><b>4. 一些其他结构</b><br/> 作者在论文中还介绍了针对IOU问题设计的其他两种结构</p><p><b>1).Iterative Bbox at inference</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ac9ec29d98d8354039f9686dfc889f84_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"610\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb\" width=\"610\" data-original=\"https://pic1.zhimg.com/v2-ac9ec29d98d8354039f9686dfc889f84_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;610&#39; height=&#39;334&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"610\" data-rawheight=\"334\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"610\" data-original=\"https://pic1.zhimg.com/v2-ac9ec29d98d8354039f9686dfc889f84_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ac9ec29d98d8354039f9686dfc889f84_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>        这个方法是级联的分类器和回归器，但是只是在Inference时进行级联，也就是说这些分类器和回归器本质上还是对于初始化输入的那些候选区域训练的，和之前的操作没有什么区别，而且，从之前IOU的输入输出曲线上可以看到，高IOU的输入在经过低quality的回归器后，IOU反而会降低，造成负的效果。</p><p><b>2).Intergral Loss</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-05ee8d96a3f8a174e9842e8a858660f1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"406\" data-rawheight=\"372\" class=\"content_image\" width=\"406\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;406&#39; height=&#39;372&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"406\" data-rawheight=\"372\" class=\"content_image lazy\" width=\"406\" data-actualsrc=\"https://pic2.zhimg.com/v2-05ee8d96a3f8a174e9842e8a858660f1_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>        在roi-pooling之后，根据IOU将样本分成不同的集合，不同IOU的样本进入不同的分类器，但是回归器只有一个。这么做的目的是为了提高分类的精度，对不同IOU的样本采用不同的分类器，但是一方面，高IOU的样本其实非常少，那么高IOU的分类器就不能被充分的训练。另一方面一个回归器也难以对所有IOU的输入都表现良好</p><hr/><p><b>6.总结</b></p><p>        总结一下，Cascade R-CNN其实主要解决了两个问题，一个是<b>不同IOU的输入框的分布不同</b>，需要不同的分类器和回归器。<b>另一个是随机生成的框中高IOU的样本太少</b>，难以充分训练。通过Cascade的结构同时解决了这两个问题，虽然方法很简单，但是其中蕴含了对目标检测任务的观察和深刻理解，最后效果也非常好，比当前最好的结果提升了4个点。</p><p>        如果本文中有什么理解错误的地方，还请大家指正。后续我还会发出CVPR2018中一些其他个人觉得有趣的文章的阅读笔记。</p><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1712.00726.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/pdf/1712.0072</span><span class=\"invisible\">6.pdf</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1506.01497.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/pdf/1506.0149</span><span class=\"invisible\">7.pdf</span><span class=\"ellipsis\"></span></a><p></p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "卷积神经网络（CNN）", 
+                    "tagLink": "https://api.zhihu.com/topics/20043586"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/41117510", 
+            "userName": "bbbbbbbbbbbbbbox", 
+            "userLink": "https://www.zhihu.com/people/5168909de798dc4c81d0f4f16290a107", 
+            "upvote": 12, 
+            "title": "tf slim.batch_norm使用时的一些问题", 
+            "content": "<p>        最近做一个小实验时，遇到了一个很奇怪的问题。训练好的网络，在训练时准确率已经非常高了，但是在测试时总是输出同一个label。开始时怀疑模型restore时参数没有加载正确，于是把训练和测试时每个参数的mean打印出来看diff,发现没有任何问题，后面又尝试让模型去拟合一个样本，测试时也用这一个样本，发现还是不行。</p><p>        后面在网上找了半天，看到CSDN和stack上都有很多遇到同样问题的人，看了一些答案，自己又研究了一下，找到了问题所在：</p><p>        我在模型中用到了slim的batchnorm。大家都知道batch_norm有两个重要的值，一个是mean,一个是variance。这两个值在训练时，是这个batch的输出的均值和方差，在测试时是整个训练过程中每个batch的mean和variance的moving average。</p><p><i>在slim.batch_norm的代码里这么一段注释：</i></p><div class=\"highlight\"><pre><code class=\"language-text\">  Note: when training, the moving_mean and moving_variance need to be updated.\n  By default the update ops are placed in `tf.GraphKeys.UPDATE_OPS`, so they\n  need to be added as a dependency to the `train_op`. For example:\n  ```python\n    update_ops = tf.get_collection(tf.GraphKeys.UPDATE_OPS)\n    with tf.control_dependencies(update_ops):\n      train_op = optimizer.minimize(loss)\n  ```</code></pre></div><p>        也就是说，在train op之前要先更新moving_variance和moving_mean,如果不设置任何节点去依赖update_ops，就会导致这两个值的更新永远不会被执行。最后你训练完restore模型参数的时候，加载进来的也只是0和1这两个默认值，就导致预测的结果完全不对（至于为什么所有输入都输出一个label，我猜测是因为，如果batch_norm时的均值和方差是0,1的话，就相当于没有进行batch norm，导致输出的值的scale特别大，最后都分类到某一个训练时输出scale特别大的类上去了）。除了手动添加update_ops的依赖之外，使用slim.learning.create_train_op(loss,optimizer)也会自动添加update_ops的依赖</p><div class=\"highlight\"><pre><code class=\"language-text\">  # Make sure update_ops are computed before total_loss.\n  if update_ops:\n    with ops.control_dependencies(update_ops):\n      barrier = control_flow_ops.no_op(name=&#39;update_barrier&#39;)\n    total_loss = control_flow_ops.with_dependencies([barrier], total_loss)</code></pre></div><p>        解决了moving average的问题之后，我发现训练时的准确率已经非常高了，但是测试时输出的结果依然和随机数差不多= =，后面在stack上看到一个小哥说用batch norm要非常耐心的等待他warm up,这才想到moving average的计算方式是以一个参数renorm_decay来 计算滑动平均的，这个值的默认值是0.99，如果训练的轮次太少，moving_average还保持在一个和初始值很接近的值，远远没有收敛，导致预测时结果错误。</p><p>        如果要看moving average有没有收敛，可以把某个moving_mean打印出来，如果每轮moving_mean都在增加的话，那么说明还没有warm up,如果moving_mean的值开始上下震荡，说明这个时候moving average 收敛了，这个时候再去预测，就会发现准确率和训练时差不多了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>参考：</p><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/u013735511/article/details/79216024\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">slim的batch_norm出现的问题 - CSDN博客</a><a href=\"https://link.zhihu.com/?target=https%3A//stackoverflow.com/questions/42240696/how-could-i-use-batch-normalization-in-tensorflow-slim\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-2d47e939feed796bcf7483d306661c88_ipico.jpg\" data-image-width=\"316\" data-image-height=\"316\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">How could I use batch normalization in tensorflow slim?</a><a href=\"https://link.zhihu.com/?target=https%3A//stackoverflow.com/questions/42240696/how-could-i-use-batch-normalization-in-tensorflow-slim\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-2d47e939feed796bcf7483d306661c88_ipico.jpg\" data-image-width=\"316\" data-image-height=\"316\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">How could I use batch normalization in tensorflow slim?</a><a href=\"https://link.zhihu.com/?target=https%3A//github.com/tensorflow/tensorflow/issues/7469\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-4050dcb9fe3c83c0474de21923c05a9d_ipico.jpg\" data-image-width=\"184\" data-image-height=\"184\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">docs: batch normalization usage in slim · Issue #7469 · tensorflow/tensorflow</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "TensorFlow", 
+                    "tagLink": "https://api.zhihu.com/topics/20032249"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "SH1NYRU0", 
+                    "userLink": "https://www.zhihu.com/people/30b057d66eefb8bb5ebfe7d0ad72f61d", 
+                    "content": "<p>那怎么样才能是mean和variance稳定呢？是不是意味着要training一段时间才test？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "bbbbbbbbbbbbbbox", 
+                            "userLink": "https://www.zhihu.com/people/5168909de798dc4c81d0f4f16290a107", 
+                            "content": "对的，可以看文章最后一段", 
+                            "likes": 0, 
+                            "replyToAuthor": "SH1NYRU0"
+                        }, 
+                        {
+                            "userName": "SH1NYRU0", 
+                            "userLink": "https://www.zhihu.com/people/30b057d66eefb8bb5ebfe7d0ad72f61d", 
+                            "content": "感谢", 
+                            "likes": 0, 
+                            "replyToAuthor": "bbbbbbbbbbbbbbox"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "蛮牛之王", 
+                    "userLink": "https://www.zhihu.com/people/7c48ee353908101f44e4ab5f3a4088ce", 
+                    "content": "<p>大佬，那你知道为啥BN层的beta也不训练么，明明放在self.trainable_variables这个变量里面了……</p><p>        update_BN_ops = tf.get_collection(tf.GraphKeys.UPDATE_OPS, scope=BN_TRAINABLE_SCOPES)<br>        with tf.control_dependencies(update_BN_ops):<br>            self.optimizer = tf.train.RMSPropOptimizer(learning_rate=self.learning_rate).minimize(<br>                tf.losses.get_total_loss(), var_list=self.trainable_variables)</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "王天舒", 
+                    "userLink": "https://www.zhihu.com/people/15ac0cc20e92eeb3373937de467e37d9", 
+                    "content": "很强老哥", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/shallow-learning"
+}

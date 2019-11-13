@@ -1,0 +1,88 @@
+{
+    "title": "无人驾驶系统中路径规划模块的探讨", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/liu-lu-34-98", 
+        "https://www.zhihu.com/people/zonezone", 
+        "https://www.zhihu.com/people/gino-56-30-12", 
+        "https://www.zhihu.com/people/erich-yang-63", 
+        "https://www.zhihu.com/people/forrest_z", 
+        "https://www.zhihu.com/people/moqi-11-77", 
+        "https://www.zhihu.com/people/qi-che-ren-82", 
+        "https://www.zhihu.com/people/insight-jing", 
+        "https://www.zhihu.com/people/byheaven", 
+        "https://www.zhihu.com/people/shao-ze-28"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/48203613", 
+            "userName": "Zhzzzzzh", 
+            "userLink": "https://www.zhihu.com/people/d8d492f71ca3f305efd96e8b366cea4c", 
+            "upvote": 2, 
+            "title": "关于STL的学习心得", 
+            "content": "<ol><li>在写A* 算法时候，之前对于openlist 和 closelist，为了图省事，只是采用了STL 库中的 vector容器，好处是，操作简单。缺点是，没有考虑到这两个存储结构的使用特点。对于A星算法中的openlist，每个节点需要比较详细的内容，例如f值、nodeid。对于closelist，有时只需要查询每个节点的nodeid即可。</li><li>可以考虑对closelist采用set进行存储，可以选择使用unordered_set，如果不需要考虑元素的排列顺序的话。同时需要评估 使用成员函数find()和count()哪个时间复杂度更小。需要了解set, map 底层是使用红黑树结构实现的。</li><li>STL中的map, set， vector, 会用到push<i>back() 或 insert() 这类的插入成员函数，这些函数的底层操作顺序为，先有插入对象的初始化构造，然后进行进行一次复制，有一次拷贝构造（概念？），最后销毁临时对象（执行析构函数），而emplace()和emplace_</i>back() 是新的插入操作，只调用一次构造函数。效率比传统的push<i>back 或 insert 是要高的，所以尽量使用 emplace 或 emplace_</i>back 进行插入操作。[1]</li><li>关于openlist的操作：之前一直使用vector存储关键一些节点的node<i>id，parent_</i>id, f,g,h等消息，然后调用一个函数专门进行处理、对vector排序，使用sort()排序算法， vector中的sort()排序是快排算法。 参考了Apollo的routing模块对于openlist的处理，是采用priority_queue的STL数据结构，底层是由vector实现的，且插入新元素之后，默认会按照元素的优先级排在所有优先级比它低的元素前面。不需要特地调用排序算法。这样操作比较快捷。</li></ol><p>5.set, list, map, vector各个数据结构特性都要了解，总结。</p><p>参考文献</p><ol><li><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/windpenguin/article/details/75581552\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">C++优化之使用emplace - windpenguin的专栏 - CSDN博客</a></li><li>C++ primer 第五版</li><li>Baidu Apollo 代码</li></ol>", 
+            "topic": [
+                {
+                    "tag": "STL", 
+                    "tagLink": "https://api.zhihu.com/topics/19583423"
+                }, 
+                {
+                    "tag": "算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553510"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "罗竹影", 
+                    "userLink": "https://www.zhihu.com/people/7ff5662be62b32a2c1ede536a3c48d5a", 
+                    "content": "hi ，zhzzzzh，我来踩踩你的空间噢", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/48207843", 
+            "userName": "Zhzzzzzh", 
+            "userLink": "https://www.zhihu.com/people/d8d492f71ca3f305efd96e8b366cea4c", 
+            "upvote": 3, 
+            "title": "关于自动驾驶的路径规划模块的粗浅心得", 
+            "content": "<p>持续更新中</p><p>本文从工程的角度，参考了2016年的MIT的一篇survey，总结了自动驾驶系统中，路径规划（path planning or routing）的方法和细节。</p><p>1、对于路径规划使用地图的构造</p><ul><li>lane graph : hand-making map, 例如 osm 地图格式，可以灵活编辑地图上的waypoint 信息和每段lane上的限速等信息</li><li>几何的方法： 由搭载的传感器接收到的周围信息，通过几何方法，产生地图，例如通过产生维诺图，获取到沿着道路中心线的地图</li><li>采样方法： 暂时不推荐使用，工程上使用的优势不大</li></ul><p>1.1 使用的地图格式</p><ul><li>osm地图格式：类xml的文件格式，对传感器产生的周围环境信息，通过脚本生成，可以手动编辑所需要的信息。在使用路径规划算法时候，读取地图文件，转换成自己所需要的数据存储格式</li><li>voronoi diagram：暂时没有使用过，所需的硬件成本比较高（？） </li></ul><p>2、路径规划算法的使用场景</p><blockquote>路径规划中有几个名词：<br/>完备性：是指如果在起始点和目标点间有路径解存在，那么一定可以得到解，如果得不到解那么一定说明没有解存在；<br/>概率完备性：是指如果在起始点和目标点间有路径解存在，只要规划或搜索的时间足够长，就一定能确保找到一条路径解；<br/>最优性：是指规划得到的路径在某个评价指标上是最优的（评价指标一般为路径的长度）；<br/>渐进最优性：是指经过有限次规划迭代后得到的路径是接近最优的次优路径，且每次迭代后都与最优路径更加接近，是一个逐渐收敛的过程；</blockquote><ul><li>迪杰斯特拉算法</li></ul><p>        迪杰斯特拉算法可以作为离线计算最优路径的算法，给定起始点，逐步向外扩散，直到遇到终点为止。优点是：给出的路径是最优的，缺点是：计算时间复杂度比较高，O( <img src=\"https://www.zhihu.com/equation?tex=N%5E2\" alt=\"N^2\" eeimg=\"1\"/> ),因为是向周围进行探索，没有明确的方向。</p><p>        迪杰斯特拉算法的结果可以作为参考解。该算法是完备且最优的</p><ul><li>A* 及其变形算法</li></ul><p>       A*算法是一种启发式的算法，使用比较广泛。该算法计算路径的方向比较明确。A*对每个关键点计算g值（从起点到该点已经走过的路径累计代价，可以使用欧式距离进行累计），h值（启发式代价，从该点到终点的代价，可以使用距离、所需时间等等作为代价），f值（f = g +h）。在关键点的下一个点的选择上，比较邻近点的f值，选择f值最小的点作为下一步的点。一直到终点。</p><p>         目前实践中发现的A*的使用难点有以下几点：</p><p>        （1）起始点在地图上的接入点的选择，例如可以考虑距离起始点最近的地图上的点，或者需要考虑车当前的朝向角度，选取比较合适的接入点。</p><p>        （2）启发式代价的选择，最简单的有考虑距离，考虑所剩时间，考虑每段路的代价等等。如何选择启发项的代价，需要不断学习积累</p><p>         （3）关于所用地图的形式，使用图形式osm地图，和使用voronoi的地图的情况下，A*算法如何使用的问题，需要学习。</p><p>          A*的一些变形算法，有在f = a *g + b *h的式子上进行考虑，例如加大h的权重b，快速得到一条路径,有加大a的值等等。需要花时间研究一下</p><ul><li>Hybrid A* 算法</li></ul><p>        hybrid A*算法，在A*算法的基础上考虑了车的最大转向问题，例如限定计算的路径上车最大转向不超过5°。该算法目前的应用场景有车掉头（Stanford 参加DARPA 挑战赛使用的Junior车采用了该算法进行uturn），泊车等等对方向盘控制要求较高的场景。该算法的缺点在于，计算复杂度较高，所占的内存空间大。</p><ul><li>动态规划，D*算法及其变形算法</li></ul><p>         迪杰斯特拉算法和 A*算法 都是考虑静态环境的情况。动态规划算法考虑在地图大部分信息不变的情况下，某段路临时变得无法通行的情况。D*算法可以用来解决这个问题。</p><p>         D*算法 事先由终点向起点进行搜索，使用迪杰斯特拉算法，存储路网中目标点到每个点的最短路径长度k, 和该节点到目标点的实际长度值h，开始情况下 k ==h， 并且存储每个节点的上一个节点，保证能够沿着链接走下去。计算结束后，获取了一条当时最优路径。当车行驶到某个节点时，通过传感器发现该节点已经无法通行（有障碍物），则对已存储的路网信息一些相关点的h值进行修改（变大），选择一个邻居点满足仍然h==k的，即仍然是最优路径上的点，作为下一个点。然后走到终点。</p><p>      D*算法的变形由Focussed D*, (存疑：是优化在线计算最优点的方法，只计算一些距离目标点最近的邻居点，减少计算量 ) 和D* Lite算法 （计算时间复杂度较低），需要学习。</p><p>3、学习资料</p><ul><li>MIT 2016年的综述论文</li><li>Apollo 代码</li><li>Stanford Junior车系统相关文献</li></ul>", 
+            "topic": [
+                {
+                    "tag": "算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553510"
+                }, 
+                {
+                    "tag": "规划", 
+                    "tagLink": "https://api.zhihu.com/topics/19570630"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "罗竹影", 
+                    "userLink": "https://www.zhihu.com/people/7ff5662be62b32a2c1ede536a3c48d5a", 
+                    "content": "踩一下～", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>A star<b>本来就可以考虑运动学的约束，比如最大转向半径，这和hybrid a*无关。</b>hybrid a star<b>干的是不要求node落在lattice上，可以在一个格子内部，第二，一个x,y空间上格子上有两个node，那么默认他们是一个，即使对应的其他变量，比如方向角是不同的。 第二点是Thrun他们为了让算法更快而弄的，结果造成了hybrid a*是一个不解析完备的算法。</b></p>", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "yhb", 
+                            "userLink": "https://www.zhihu.com/people/e3e0f946dea4b38af84ec50ab1db13da", 
+                            "content": "<p>可以私聊您请教一下<b>hybrid a* </b>算法吗？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1041322059313524736"
+}

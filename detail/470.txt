@@ -1,0 +1,944 @@
+{
+    "title": "体育老师很忙", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/xuan-wo-lu-mian", 
+        "https://www.zhihu.com/people/lu-da-dao-92", 
+        "https://www.zhihu.com/people/csl-76-31", 
+        "https://www.zhihu.com/people/ju-wai-ren-80-89", 
+        "https://www.zhihu.com/people/alexanderwang-72", 
+        "https://www.zhihu.com/people/wen-er-31-88", 
+        "https://www.zhihu.com/people/chen-xiao-yu-91-92", 
+        "https://www.zhihu.com/people/fan-chen-xi-84", 
+        "https://www.zhihu.com/people/wen-hao-ran-1", 
+        "https://www.zhihu.com/people/dong-bo-19-65", 
+        "https://www.zhihu.com/people/sanchez-2", 
+        "https://www.zhihu.com/people/shi-dan-li", 
+        "https://www.zhihu.com/people/zhi-zhi-21-50-74", 
+        "https://www.zhihu.com/people/crystal-c-61", 
+        "https://www.zhihu.com/people/wang-yuan-ming-41-43", 
+        "https://www.zhihu.com/people/cai-jia-ren-60", 
+        "https://www.zhihu.com/people/bao-jun-hua-9", 
+        "https://www.zhihu.com/people/jing-tai-lan-49-26", 
+        "https://www.zhihu.com/people/zheng-kun-85-17", 
+        "https://www.zhihu.com/people/qiu-qiu-72-80-29", 
+        "https://www.zhihu.com/people/patric-m", 
+        "https://www.zhihu.com/people/zhu-zhen-hua-72-51", 
+        "https://www.zhihu.com/people/ai-shi-da-duo", 
+        "https://www.zhihu.com/people/lu-bo-liang-64", 
+        "https://www.zhihu.com/people/you-ran-38-70-8", 
+        "https://www.zhihu.com/people/zhou-zhu-zhi-78", 
+        "https://www.zhihu.com/people/wen-ga-ga-59", 
+        "https://www.zhihu.com/people/xiao-hai-91-10", 
+        "https://www.zhihu.com/people/cooooool-20", 
+        "https://www.zhihu.com/people/yesyesbc", 
+        "https://www.zhihu.com/people/zhe-ge-14-47", 
+        "https://www.zhihu.com/people/xia-mi-80-5", 
+        "https://www.zhihu.com/people/lian-97-25-24", 
+        "https://www.zhihu.com/people/eric-lee-12", 
+        "https://www.zhihu.com/people/jian-hong-ji-cheng", 
+        "https://www.zhihu.com/people/zhen-jia-69-74", 
+        "https://www.zhihu.com/people/da-da-fang-fang-de", 
+        "https://www.zhihu.com/people/shui-yu-qing-dan", 
+        "https://www.zhihu.com/people/wen-jun-67-89", 
+        "https://www.zhihu.com/people/zhou-bu-cuo-90", 
+        "https://www.zhihu.com/people/zhu-xiao-lei-23-34", 
+        "https://www.zhihu.com/people/sparks-96", 
+        "https://www.zhihu.com/people/ma-lao-wu-84", 
+        "https://www.zhihu.com/people/lao-zhao-81-97", 
+        "https://www.zhihu.com/people/xiao-zhi-29-67", 
+        "https://www.zhihu.com/people/wang-wang-53-47", 
+        "https://www.zhihu.com/people/xiao-xiang-ye-yu-62", 
+        "https://www.zhihu.com/people/newnew-40-21", 
+        "https://www.zhihu.com/people/fan-ren-91-30", 
+        "https://www.zhihu.com/people/123whynq", 
+        "https://www.zhihu.com/people/xie-xiao-ruo-72", 
+        "https://www.zhihu.com/people/zhi-xiao-xu-4", 
+        "https://www.zhihu.com/people/zhaody-10", 
+        "https://www.zhihu.com/people/liu-zhong-65-67", 
+        "https://www.zhihu.com/people/feng-hui-mou", 
+        "https://www.zhihu.com/people/wan-yao-xi-xie-dai-70", 
+        "https://www.zhihu.com/people/guo-yong-hao-48", 
+        "https://www.zhihu.com/people/ou-yang-zi-cheng-54", 
+        "https://www.zhihu.com/people/ji-mo-de-tuo-niao-71", 
+        "https://www.zhihu.com/people/huang-ting-9-98", 
+        "https://www.zhihu.com/people/kyoya-31-76", 
+        "https://www.zhihu.com/people/wei-le-22-66", 
+        "https://www.zhihu.com/people/hit-47-52", 
+        "https://www.zhihu.com/people/geng-xiao", 
+        "https://www.zhihu.com/people/guilty-43", 
+        "https://www.zhihu.com/people/hagiwara-31", 
+        "https://www.zhihu.com/people/fan-da-neng-24", 
+        "https://www.zhihu.com/people/xxxyzz", 
+        "https://www.zhihu.com/people/zhang-kai-shen-57", 
+        "https://www.zhihu.com/people/cai-lei-32-59", 
+        "https://www.zhihu.com/people/yojouhan", 
+        "https://www.zhihu.com/people/wu-ya-44-81", 
+        "https://www.zhihu.com/people/chou-cheng-wei-nan", 
+        "https://www.zhihu.com/people/howl-57-1", 
+        "https://www.zhihu.com/people/xueshu-sheng", 
+        "https://www.zhihu.com/people/su-xiao-run", 
+        "https://www.zhihu.com/people/yeee", 
+        "https://www.zhihu.com/people/yong-bu-yan-hui-57", 
+        "https://www.zhihu.com/people/yihui-yang", 
+        "https://www.zhihu.com/people/zmykl", 
+        "https://www.zhihu.com/people/zhang-shi-bo-56-14", 
+        "https://www.zhihu.com/people/ayu-74-35", 
+        "https://www.zhihu.com/people/fang-cheng-11-90", 
+        "https://www.zhihu.com/people/a-lu-ba-30", 
+        "https://www.zhihu.com/people/da-long-55-68", 
+        "https://www.zhihu.com/people/god-lin", 
+        "https://www.zhihu.com/people/shui-na-zou-liao-wo-de-xiao-yu-gan", 
+        "https://www.zhihu.com/people/li-wen-tao-83", 
+        "https://www.zhihu.com/people/zhang-da-gui-63", 
+        "https://www.zhihu.com/people/yidi-suan-pi", 
+        "https://www.zhihu.com/people/dao-jiang-hu-82", 
+        "https://www.zhihu.com/people/ai-shang-nu-zhuang", 
+        "https://www.zhihu.com/people/pan-xiao-ming-74", 
+        "https://www.zhihu.com/people/la-la-la-1-57-68", 
+        "https://www.zhihu.com/people/lynpow", 
+        "https://www.zhihu.com/people/D.B.JIAN", 
+        "https://www.zhihu.com/people/liu-ji-de-nuo-jiang", 
+        "https://www.zhihu.com/people/lian-hua-yibu-11", 
+        "https://www.zhihu.com/people/lu-chu-88-79", 
+        "https://www.zhihu.com/people/afishindouban", 
+        "https://www.zhihu.com/people/lao-zhang-1-84", 
+        "https://www.zhihu.com/people/lin-jian-ping-45", 
+        "https://www.zhihu.com/people/da-la-si-66", 
+        "https://www.zhihu.com/people/God-is-love", 
+        "https://www.zhihu.com/people/henson-89", 
+        "https://www.zhihu.com/people/lian-xiao-feng-5", 
+        "https://www.zhihu.com/people/wang-shuai-70-55", 
+        "https://www.zhihu.com/people/jiang-shi-fen-50", 
+        "https://www.zhihu.com/people/han-qiang-26", 
+        "https://www.zhihu.com/people/liang-zao-peng", 
+        "https://www.zhihu.com/people/zhagyuan_maxmin", 
+        "https://www.zhihu.com/people/liu-hong-15-11", 
+        "https://www.zhihu.com/people/nian-zhi-mou", 
+        "https://www.zhihu.com/people/zheng-zhu-jun-61", 
+        "https://www.zhihu.com/people/zi-yun-neng-dan", 
+        "https://www.zhihu.com/people/qin-long-guang", 
+        "https://www.zhihu.com/people/wu-wu-wu-wu-55-12", 
+        "https://www.zhihu.com/people/huang-xin-peng", 
+        "https://www.zhihu.com/people/zhang-qing-jin-12", 
+        "https://www.zhihu.com/people/000-32-68", 
+        "https://www.zhihu.com/people/wu-wei-lin-51", 
+        "https://www.zhihu.com/people/lu-zi-jun-45", 
+        "https://www.zhihu.com/people/liang-xiao-87-24", 
+        "https://www.zhihu.com/people/abracadabra1994", 
+        "https://www.zhihu.com/people/wang-jun-qiang-59-74", 
+        "https://www.zhihu.com/people/zhou-yue-15-57", 
+        "https://www.zhihu.com/people/xiao-yu-50-63-46", 
+        "https://www.zhihu.com/people/kun-kun-3-50", 
+        "https://www.zhihu.com/people/yue-chu-liang-qing-niao", 
+        "https://www.zhihu.com/people/jing-ran-shi-ren-70", 
+        "https://www.zhihu.com/people/captain-mew", 
+        "https://www.zhihu.com/people/da-quan-99", 
+        "https://www.zhihu.com/people/madao-68-76", 
+        "https://www.zhihu.com/people/real-68", 
+        "https://www.zhihu.com/people/zhe-ge-shou-cha-bu-tai-ling-71-81", 
+        "https://www.zhihu.com/people/zhu-wang-5-25", 
+        "https://www.zhihu.com/people/jenny-34-78", 
+        "https://www.zhihu.com/people/ma-ke-21-64", 
+        "https://www.zhihu.com/people/duo-jie-57", 
+        "https://www.zhihu.com/people/ji-xu-87-61", 
+        "https://www.zhihu.com/people/cf.zhang", 
+        "https://www.zhihu.com/people/tao-sun-97", 
+        "https://www.zhihu.com/people/an-tian-ye-2", 
+        "https://www.zhihu.com/people/yao-fa-cai-74", 
+        "https://www.zhihu.com/people/cai-si-de-lai-te", 
+        "https://www.zhihu.com/people/xue-tu-79-41", 
+        "https://www.zhihu.com/people/shan-dian-xia-31-77", 
+        "https://www.zhihu.com/people/qw4040", 
+        "https://www.zhihu.com/people/yu-can-5-9", 
+        "https://www.zhihu.com/people/hu-wen-da-51", 
+        "https://www.zhihu.com/people/li-yang-64-54-44", 
+        "https://www.zhihu.com/people/jiang-teng-fei-81", 
+        "https://www.zhihu.com/people/phantomplanet", 
+        "https://www.zhihu.com/people/joy-14-41", 
+        "https://www.zhihu.com/people/yang-yang-6-98-66-34", 
+        "https://www.zhihu.com/people/qing-hong-xian-zi", 
+        "https://www.zhihu.com/people/chen-xin-feng-8", 
+        "https://www.zhihu.com/people/xu-hong-yu-1", 
+        "https://www.zhihu.com/people/mrskio", 
+        "https://www.zhihu.com/people/dan-dan-yan-cao-wei-90", 
+        "https://www.zhihu.com/people/tang-hit", 
+        "https://www.zhihu.com/people/zhong-yuan-bin-93", 
+        "https://www.zhihu.com/people/wang-yan-85-52-75", 
+        "https://www.zhihu.com/people/hei-bai-25-97", 
+        "https://www.zhihu.com/people/joesir"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/50236394", 
+            "userName": "大鹏", 
+            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+            "upvote": 33, 
+            "title": "每次练肩，脖子都很酸？", 
+            "content": "<p><i>练肩这个说法可能并不是很准确，之前也说过了，肩是一个复合体，由4个关节复合而成，我们通常意义上的练肩指的更多是锻炼三角肌这块肌肉，下面还是用练肩来指代练三角肌，这里做一个补充说明。</i></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-48e3bf91c064faf37a4c7b6dccbe428a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"330\" data-rawheight=\"184\" class=\"content_image\" width=\"330\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;330&#39; height=&#39;184&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"330\" data-rawheight=\"184\" class=\"content_image lazy\" width=\"330\" data-actualsrc=\"https://pic3.zhimg.com/v2-48e3bf91c064faf37a4c7b6dccbe428a_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>我们训练三角肌时，脖子比较酸的位置更多的是斜方肌在代偿参与发力。</p><p>我们先来对比一下这两块肌肉的解剖功能：</p><p>三角肌：</p><p>①外展肩关节（所有肌纤维）</p><p>②屈曲、内旋、水平内收肩关节（前部肌纤维）</p><p>③伸展、外旋、水平外展肩关节（后部肌纤维）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>斜方肌（上束）：</p><p>①肩胛骨上提</p><p>②肩胛骨后缩</p><p>③肩胛骨上回旋</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们说的耸肩指的就是肩胛骨的上提，也是让我们脖子酸的元凶。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-be2a33e9f1d7af69957d142a14f42810_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"270\" data-rawheight=\"247\" data-thumbnail=\"https://pic1.zhimg.com/v2-be2a33e9f1d7af69957d142a14f42810_b.jpg\" class=\"content_image\" width=\"270\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;270&#39; height=&#39;247&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"270\" data-rawheight=\"247\" data-thumbnail=\"https://pic1.zhimg.com/v2-be2a33e9f1d7af69957d142a14f42810_b.jpg\" class=\"content_image lazy\" width=\"270\" data-actualsrc=\"https://pic1.zhimg.com/v2-be2a33e9f1d7af69957d142a14f42810_b.gif\"/></figure><p>那我们练肩的时候，只要控制住肩胛骨不发生上提也就是耸肩动作是不是就能比较好的避免脖子酸痛了呢?</p><p>是的，只要相对的稳定住肩胛骨，脖子酸痛的问题就能得到很大的改善，那问题来了怎么稳定住肩胛骨不发生耸肩动作呢？<br/></p><p>有这么几种情况：</p><p>1.缺乏控制</p><p>第一种情况也是相对最好解决的情况，就是练肩的时候，下意识的轻轻下压住肩胛骨，做出沉肩的动作。</p><p>这种情况下的练肩脖子痛，往往是缺乏动作的控制造成的，加入有意识的沉肩控制后，就能很好的解决了。</p><p>以下就是需要加入的沉肩动作</p><p>沉肩动作①</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2777deb72f0704bb6096d90f4c5a6644_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"480\" data-thumbnail=\"https://pic1.zhimg.com/v2-2777deb72f0704bb6096d90f4c5a6644_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-2777deb72f0704bb6096d90f4c5a6644_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;480&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"480\" data-thumbnail=\"https://pic1.zhimg.com/v2-2777deb72f0704bb6096d90f4c5a6644_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-2777deb72f0704bb6096d90f4c5a6644_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2777deb72f0704bb6096d90f4c5a6644_b.gif\"/></figure><p>手臂上举状态下的沉肩动作②</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-50edf7bb01fdd20ac7909e13a79c387e_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"480\" data-thumbnail=\"https://pic3.zhimg.com/v2-50edf7bb01fdd20ac7909e13a79c387e_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-50edf7bb01fdd20ac7909e13a79c387e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;480&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"480\" data-thumbnail=\"https://pic3.zhimg.com/v2-50edf7bb01fdd20ac7909e13a79c387e_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-50edf7bb01fdd20ac7909e13a79c387e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-50edf7bb01fdd20ac7909e13a79c387e_b.gif\"/></figure><p>2.力偶失衡</p><p>第二种情况：做出有意识的沉肩动作后，脖子酸痛的问题还是没有任何改善，这种情况下，往往是肩胛骨周围的肌肉群配合协调工作出现了问题。</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1047590503440343040\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"\" data-poster=\"https://pic4.zhimg.com/80/v2-3ff079c903a0714eef0f649cb100c727_b.jpg\" data-lens-id=\"1047590503440343040\"><img class=\"thumbnail\" src=\"https://pic4.zhimg.com/80/v2-3ff079c903a0714eef0f649cb100c727_b.jpg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1047590503440343040</span></span></a><p>肩胛骨周围肌群的力学机制有点像打方向盘，比如要实现向右的转弯，右手要像下使劲，左手要向反方向用力，是方向不同的多肌群协同配合实现的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-38b3e20b5686c66739c31fa99e8c5784_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"560\" data-rawheight=\"564\" class=\"origin_image zh-lightbox-thumb\" width=\"560\" data-original=\"https://pic1.zhimg.com/v2-38b3e20b5686c66739c31fa99e8c5784_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;560&#39; height=&#39;564&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"560\" data-rawheight=\"564\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"560\" data-original=\"https://pic1.zhimg.com/v2-38b3e20b5686c66739c31fa99e8c5784_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-38b3e20b5686c66739c31fa99e8c5784_b.jpg\"/></figure><p>练肩动作外展过程中，要伴随有肩胛骨的上回旋（见视频）。</p><p>要实现肩胛骨的上回旋动作，主要参与的肌肉有斜方肌上束、前锯肌、斜方肌下束。</p><p>其中斜方肌上束跟前锯肌是主要发力肌肉，斜方肌下束负责辅助拉住，避免产生上提动作。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当斜方肌下束过弱，斜方肌上束过强时，肩胛骨上回旋过程中，下束就很难平衡上束上提的力，出现耸肩，导致脖子酸。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当前锯肌肌力过弱，承担不了上回旋发力任务时，斜方肌上束负担变大，时间久了，容易紧张，出现耸肩，导致脖子酸。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当出现上述的情况时，不是你不想沉肩，是根本沉不住。解决问题的办法就是重新平衡肩胛骨的力偶。</p><p>处理方向：</p><p>需要拉伸斜方肌上束，对前锯肌跟斜方肌下束进行训练。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>斜方肌上束拉伸：以拉伸左侧为例</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-5f917c37245dbcef475c488433bed0b8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic1.zhimg.com/v2-5f917c37245dbcef475c488433bed0b8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;600&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic1.zhimg.com/v2-5f917c37245dbcef475c488433bed0b8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-5f917c37245dbcef475c488433bed0b8_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-010a285426b4a2f037e4722a850e5673_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-010a285426b4a2f037e4722a850e5673_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;600&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-010a285426b4a2f037e4722a850e5673_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-010a285426b4a2f037e4722a850e5673_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-14977e02cafd1be5c19dd7556a195796_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-14977e02cafd1be5c19dd7556a195796_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;600&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-14977e02cafd1be5c19dd7556a195796_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-14977e02cafd1be5c19dd7556a195796_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>前锯肌的训练前面的文章提过啦，这里放一个传送门→<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzUxNjM0MjY2MA%3D%3D%26mid%3D2247484134%26idx%3D1%26sn%3Def56c0d79b1140e7e55a605ec8e82f7c%26chksm%3Df9a9940dcede1d1ba164a72c2f036cc191d3ae8de7ba6c1f4cec4732d9c96545bc6cd5958359%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">练胸没感觉，可能是它在作怪</a><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-ee20cbcbf332638b99cc73fad3f3c27e_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic3.zhimg.com/v2-ee20cbcbf332638b99cc73fad3f3c27e_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic3.zhimg.com/v2-ee20cbcbf332638b99cc73fad3f3c27e_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic3.zhimg.com/v2-ee20cbcbf332638b99cc73fad3f3c27e_b.gif\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6f08381dc9fbd0378d6fc634ac6e76e4_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"400\" data-thumbnail=\"https://pic1.zhimg.com/v2-6f08381dc9fbd0378d6fc634ac6e76e4_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-6f08381dc9fbd0378d6fc634ac6e76e4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;400&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"400\" data-thumbnail=\"https://pic1.zhimg.com/v2-6f08381dc9fbd0378d6fc634ac6e76e4_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-6f08381dc9fbd0378d6fc634ac6e76e4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6f08381dc9fbd0378d6fc634ac6e76e4_b.gif\"/></figure><p>斜方肌下束的训练：</p><p>下图的动作是俯卧位，如果感觉比较难，可以站姿或附身位训练会简单一些。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-784bbc5c99790296f81e8298b591927d_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"480\" data-thumbnail=\"https://pic2.zhimg.com/v2-784bbc5c99790296f81e8298b591927d_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-784bbc5c99790296f81e8298b591927d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;480&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"480\" data-thumbnail=\"https://pic2.zhimg.com/v2-784bbc5c99790296f81e8298b591927d_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-784bbc5c99790296f81e8298b591927d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-784bbc5c99790296f81e8298b591927d_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>结论</p><p class=\"ztext-empty-paragraph\"><br/></p><p>练肩造成脖子酸痛的原因：</p><ol><li>缺乏动作控制，加入肩胛下沉能帮助解决这个问题</li><li>力偶失衡   放松斜方肌上束，训练前锯肌跟斜方肌下束。</li></ol><p>那今天的内容就到这里啦，读完本文有收获记得关注、点赞、转发呦（素质三连），下期再见。</p>", 
+            "topic": [
+                {
+                    "tag": "健身", 
+                    "tagLink": "https://api.zhihu.com/topics/19552192"
+                }, 
+                {
+                    "tag": "健身技术", 
+                    "tagLink": "https://api.zhihu.com/topics/19738196"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "向马问路", 
+                    "userLink": "https://www.zhihu.com/people/bef7777402b3fc0836803aaef78f5afd", 
+                    "content": "很好的一篇文章，感谢。我就是长期伏案斜方肌过度紧张，练肩特别痛苦", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "liu", 
+                    "userLink": "https://www.zhihu.com/people/171d1d07bff464af785473af4e8b2874", 
+                    "content": "非常好。不只是介绍动作，而是先把出现问题的根本原因—骨头位置差异（肩胛骨上升），这样就能准确知道自己应该控制骨头保持到哪个位置。非常有用！[赞]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/49014655", 
+            "userName": "大鹏", 
+            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+            "upvote": 51, 
+            "title": "这块肌肉这么差，难怪你的背部练不好", 
+            "content": "<h2><b>“前锯肌不强，不练胸；</b></h2><h2><b>   菱形肌不强，不练背。”</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p>上篇文章小编讲了前半句前锯肌与胸大肌的关系，还没有看的朋友，这里是传送门<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzUxNjM0MjY2MA%3D%3D%26mid%3D2247484134%26idx%3D1%26sn%3Def56c0d79b1140e7e55a605ec8e82f7c%26chksm%3Df9a9940dcede1d1ba164a72c2f036cc191d3ae8de7ba6c1f4cec4732d9c96545bc6cd5958359%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">练胸没感觉，可能是它在作怪</a><br/></p><p>这篇文章我们承接上文，继续来说一说菱形肌与背部练习的紧密关系。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>先来看一下菱形肌的解剖：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5de9964f83c357e539ed17939871478b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"910\" data-rawheight=\"789\" class=\"origin_image zh-lightbox-thumb\" width=\"910\" data-original=\"https://pic4.zhimg.com/v2-5de9964f83c357e539ed17939871478b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;910&#39; height=&#39;789&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"910\" data-rawheight=\"789\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"910\" data-original=\"https://pic4.zhimg.com/v2-5de9964f83c357e539ed17939871478b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-5de9964f83c357e539ed17939871478b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>菱形肌在中斜方肌的深层，连接在脊柱的椎体和肩胛骨的内侧，属于肩胛带肌群，在肩胛骨的运动中起到很重要的作用。</p><p>在解剖学上的功能有3个：</p><p>①肩胛骨的后缩</p><p>②肩胛骨的下回旋</p><p>③两侧同时收缩可以有一定的脊柱的伸展</p><p class=\"ztext-empty-paragraph\"><br/></p><p>说了那么多，菱形肌跟背部训练究竟有什么关系？？？</p><p>别急，别急，先把背景知识介绍清楚，才能把这个问题阐述清楚。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1471fb66faca3d7733cb5bf89dd12617_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"564\" data-rawheight=\"504\" class=\"origin_image zh-lightbox-thumb\" width=\"564\" data-original=\"https://pic4.zhimg.com/v2-1471fb66faca3d7733cb5bf89dd12617_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;564&#39; height=&#39;504&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"564\" data-rawheight=\"504\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"564\" data-original=\"https://pic4.zhimg.com/v2-1471fb66faca3d7733cb5bf89dd12617_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1471fb66faca3d7733cb5bf89dd12617_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>肩关节其实是一个很复杂的结构，它是一个复合体，有四个关节构成，分别是：</p><p>①肩锁关节</p><p>②胸锁关节</p><p>③肩胛胸壁关节</p><p>④盂肱关节</p><p>在很多人的认识的肩关节中只是它其中的一部分盂肱关节。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>肩复合体的关节是一系列的纽带，互相配合来实现上肢活动范围的最大化。链中任何纽带的无力、疼痛或不稳定都会大大降低整个复合体的效力。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在手臂外展180°的过程中，伴有4个关节的协调运动。</p><p>如果没有其他关节的协调运动，只是上举手臂的话是到不了180°的，不信你可以压住自己的肩胛骨，然后手臂在外展看看是不是在120°左右就卡住了。<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-9709ac40ba042b76f2cefb19c96e873b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-9709ac40ba042b76f2cefb19c96e873b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;600&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-9709ac40ba042b76f2cefb19c96e873b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9709ac40ba042b76f2cefb19c96e873b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>不太明白的话，看下这个视频：</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1044138656478556160\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"\" data-poster=\"https://pic3.zhimg.com/80/v2-02ae3f7615b245dc911e9c6a1afe13d2_b.jpg\" data-lens-id=\"1044138656478556160\"><img class=\"thumbnail\" src=\"https://pic3.zhimg.com/80/v2-02ae3f7615b245dc911e9c6a1afe13d2_b.jpg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1044138656478556160</span></span></a><p>背景知识介绍完毕，我们进入今天的正餐</p><p class=\"ztext-empty-paragraph\"><br/></p><p>背部是由很多肌肉组成的，其中背阔肌是面积特别大的一块肌肉，也是特别容易练不好的一块肌肉，也就是今天我们要讲的主角了。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-262aa0091b301cd5ee6484847692760e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"430\" data-rawheight=\"590\" class=\"origin_image zh-lightbox-thumb\" width=\"430\" data-original=\"https://pic3.zhimg.com/v2-262aa0091b301cd5ee6484847692760e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;430&#39; height=&#39;590&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"430\" data-rawheight=\"590\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"430\" data-original=\"https://pic3.zhimg.com/v2-262aa0091b301cd5ee6484847692760e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-262aa0091b301cd5ee6484847692760e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>今天还是先不说发力技巧，因为小编觉得不先解决训练这块肌肉的前提条件，有再高超的技巧也没什么卵用。</p><p>我们要有发达的背阔肌需要做很多符合它功能的训练动作，竖直方位的拉类训练是刺激背阔肌特别好的动作</p><p>比如：高位下拉和引体向上</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8f608655b02251757a47a7fafdeb32f7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"478\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-8f608655b02251757a47a7fafdeb32f7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;478&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"478\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-8f608655b02251757a47a7fafdeb32f7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8f608655b02251757a47a7fafdeb32f7_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-93352b910e7192c3e257cfd81eb2414b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-93352b910e7192c3e257cfd81eb2414b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;450&#39; height=&#39;300&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"300\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-93352b910e7192c3e257cfd81eb2414b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-93352b910e7192c3e257cfd81eb2414b_b.jpg\"/></figure><p>它们有个共同的特点，在手臂从过头位做内收的过程中都伴有肩胛骨的下回旋。</p><p>类似前面视频里看到的上回旋动作，肩胛骨做下回旋也是通过几块肌肉协同的力偶作用。</p><p>三块下回旋的肌肉有：</p><p> ①菱形肌 </p><p> ②肩胛提肌</p><p> ③胸小肌</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>其中菱形肌是下回旋主要发力的肌肉，肩胛提肌和胸小肌起到悬吊稳定的作用，当老大菱形肌过于薄弱，不干活，老二、老三就要担负更多的发力工作，而老二、老三肌肉收缩就会出现耸肩和肩往前引的情况。</b><br/></p><p>下回旋出现障碍，在做竖直拉的过程中，背阔肌就很难启动，出现手臂跟大圆肌的代偿，很努力训练的结果就是背阔肌没练起来，手臂粗了。。。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5c20952b5b794b249be1fdb7d4f57dd5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"610\" data-rawheight=\"283\" class=\"origin_image zh-lightbox-thumb\" width=\"610\" data-original=\"https://pic2.zhimg.com/v2-5c20952b5b794b249be1fdb7d4f57dd5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;610&#39; height=&#39;283&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"610\" data-rawheight=\"283\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"610\" data-original=\"https://pic2.zhimg.com/v2-5c20952b5b794b249be1fdb7d4f57dd5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5c20952b5b794b249be1fdb7d4f57dd5_b.jpg\"/></figure><p>所以为什么“菱形肌不强，不练背。” 当然是因为练不到啦。<br/></p><p>如果你是健身的新手或者练了很久背阔肌依旧如上图般羸弱的老铁，你该好好强化下菱形肌啦。</p><p>怎么强化呢？</p><p>动作1：花生球菱形肌激活：</p><p>将一个花生球放在菱形肌的位置，做含胸抱起的动作，反复按摩，30s左右</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2e4a2488e87d2769d4163e9de7403a89_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"250\" data-thumbnail=\"https://pic2.zhimg.com/v2-2e4a2488e87d2769d4163e9de7403a89_b.jpg\" class=\"content_image\" width=\"300\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;300&#39; height=&#39;250&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"250\" data-thumbnail=\"https://pic2.zhimg.com/v2-2e4a2488e87d2769d4163e9de7403a89_b.jpg\" class=\"content_image lazy\" width=\"300\" data-actualsrc=\"https://pic2.zhimg.com/v2-2e4a2488e87d2769d4163e9de7403a89_b.gif\"/></figure><p>动作2：A字伸展</p><p>手臂与身体呈a字型，在这个位置，肩胛骨处于下回旋位，能更好的强化菱形肌，同时做的时候，肩胛内收夹紧，稍稍挺胸。 15-20次为一组，做3-4组。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-015ffa7e6d3200aa4d429cd223b95683_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"300\" data-thumbnail=\"https://pic4.zhimg.com/v2-015ffa7e6d3200aa4d429cd223b95683_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;300&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"300\" data-thumbnail=\"https://pic4.zhimg.com/v2-015ffa7e6d3200aa4d429cd223b95683_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic4.zhimg.com/v2-015ffa7e6d3200aa4d429cd223b95683_b.gif\"/></figure><p>理解了背阔肌的训练与菱形肌的关系了吧，那今天的内容就到这里啦，</p>", 
+            "topic": [
+                {
+                    "tag": "肌肉训练", 
+                    "tagLink": "https://api.zhihu.com/topics/19752524"
+                }, 
+                {
+                    "tag": "力量训练", 
+                    "tagLink": "https://api.zhihu.com/topics/19721659"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "约翰兰博", 
+                    "userLink": "https://www.zhihu.com/people/841735ac06d21ac04392e814e13f495e", 
+                    "content": "什么软件", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/48332113", 
+            "userName": "大鹏", 
+            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+            "upvote": 1662, 
+            "title": "练胸没感觉，可能是它在作怪", 
+            "content": "<blockquote>适用人群：健身 入门<br/><br/>内容标签:   没感觉  手臂粗<br/>文章撰写：徐老师</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-74160ae7418264555608fe866bfebe32_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"701\" data-rawheight=\"676\" class=\"origin_image zh-lightbox-thumb\" width=\"701\" data-original=\"https://pic3.zhimg.com/v2-74160ae7418264555608fe866bfebe32_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;701&#39; height=&#39;676&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"701\" data-rawheight=\"676\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"701\" data-original=\"https://pic3.zhimg.com/v2-74160ae7418264555608fe866bfebe32_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-74160ae7418264555608fe866bfebe32_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>发达，饱满的胸大肌是极具视觉冲击力的，看到这样的胸大肌不止小姐姐小哥哥们都忍不住要舔屏了（信息量有点大，慢慢消化）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>怎么练就这样男女通杀的胸大肌呢，现在网络信息这么发达，有很多这样的练胸秘籍教你各种各样的动作从不同角度去轰炸你的胸大肌，为什么有些人练了有用，有些人练了没什么卵用呢？</p><p><i>想要让身体的某些肌肉发达，你就要对它施加足够的负荷来刺激它生长，就像家里养得花一样，它需要足够的阳光雨露才能绽放的更美。</i></p><p><i>选用的动作就像浇花的水壶一样是工具，负荷是通过动作来承载的，就像水壶里的水，水倒得太少，花儿长不好，水倒得太多，花儿也长不好。对肌肉施加的负荷也是如此。</i></p><p class=\"ztext-empty-paragraph\"><br/></p><p><i>当然人体要复杂的多，对肌肉施加负荷前，你还要保证关节功能的正常，不然好心办坏事，练胸，胸没练起来，手臂却粗了，你找谁说理去。</i></p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们下面就来说一说，练胸前的基本保障，如何你平时练胸动作没问题，但却很难找到感觉，认真的读一读，应该会有答案了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>我放一个俯卧撑的动作分析视频，仔细看一下正确动作跟错误动作的区别：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1041737039670173696\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"\" data-poster=\"https://pic3.zhimg.com/80/v2-94c387a77dbfea4a080b3a9107620a4e_b.jpg\" data-lens-id=\"1041737039670173696\"><img class=\"thumbnail\" src=\"https://pic3.zhimg.com/80/v2-94c387a77dbfea4a080b3a9107620a4e_b.jpg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1041737039670173696</span></span></a><p>区别在于肩胛骨的位置，一个是动作过程中一直贴到后胸廓上的，一个是动作过程中翘起来的。仔细看看是不是？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>肩胛骨能平贴胸廓，是练习大部分动作能找到正确感觉和无痛的前提，动作过程中如果肩胛骨是翘起来的，肩部的整个力学结构是有问题的，不具备良好的稳定性。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在肩失稳的情况下，强化练习胸大肌是很低效的，在这种低效的模式下，做大量重复的练习，胸没怎么练大，手臂粗了就不是一个意外结果了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>那说了这么多如何改善呢？</p><p>记住这句话：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>“前锯肌不强不练胸，菱形肌不强不练背。”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们今天先来解释下前半句，那首先看下前锯肌长什么模样</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ab1c015e50f88d2a2f62306b0e43b2d9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-ab1c015e50f88d2a2f62306b0e43b2d9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;540&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-ab1c015e50f88d2a2f62306b0e43b2d9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ab1c015e50f88d2a2f62306b0e43b2d9_b.jpg\"/></figure><p>红色部分就是前锯肌了，前锯肌是肩胛骨周围特别重要的肌肉中的一块，它使我们的肩胛骨平贴到胸廓上，如果前锯肌肌力过弱且被拉长的情况下的话肩胛骨的下角会翘起，呈现“翼状肩”</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-10dcfb460c3dfa5d1c60197a027861e0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"596\" data-rawheight=\"378\" class=\"origin_image zh-lightbox-thumb\" width=\"596\" data-original=\"https://pic1.zhimg.com/v2-10dcfb460c3dfa5d1c60197a027861e0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;596&#39; height=&#39;378&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"596\" data-rawheight=\"378\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"596\" data-original=\"https://pic1.zhimg.com/v2-10dcfb460c3dfa5d1c60197a027861e0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-10dcfb460c3dfa5d1c60197a027861e0_b.jpg\"/></figure><p><br/>有翼状肩的人没跑了，前锯肌肯定很弱；但没有的人也不代表前锯肌就不弱，从训练角度来讲，判断你前锯肌够不够强，很简答做俯卧撑就好了，撑不起来或者做的过程中出现刚刚视频里的肩胛骨翘起的情况，练胸之前，最好先强化前锯肌。</p><p>怎么强化前锯肌呢？</p><p>动作1</p><p>初级训练版</p><p>拿一个泡沫轴或者瑜伽球，小臂压在墙面上，做如下图动作，15-20次一组，3-5组</p><p>腋窝靠下（前锯肌的位置）会有轻微的酸痛感。适合翼状肩特别明显，前锯肌特别弱的健友。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-35cea946aa727c281852cf889189d9f7_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic4.zhimg.com/v2-35cea946aa727c281852cf889189d9f7_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic4.zhimg.com/v2-35cea946aa727c281852cf889189d9f7_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic4.zhimg.com/v2-35cea946aa727c281852cf889189d9f7_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>动作2：A字支撑，比动作1难度要大很多，适合做进阶性的训练，如图，用掌根把身体撑起呈一个倒V型，15-20次一组，3-5组</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d977e12ace9ccaa201ae324227d68e07_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"400\" data-thumbnail=\"https://pic4.zhimg.com/v2-d977e12ace9ccaa201ae324227d68e07_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-d977e12ace9ccaa201ae324227d68e07_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;400&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"400\" data-thumbnail=\"https://pic4.zhimg.com/v2-d977e12ace9ccaa201ae324227d68e07_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-d977e12ace9ccaa201ae324227d68e07_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d977e12ace9ccaa201ae324227d68e07_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>前锯肌是一块很重要的肌肉，今天主要介绍了它的强弱与胸大肌训练的关系，后面小编还会详细介绍它的其他重要功能，读完本文有收获记得关注、点赞、转发呦（素质三连）今天就到这里，下期再见。</p><p>微信公众号：体育老师很忙     欢迎关注交流</p>", 
+            "topic": [
+                {
+                    "tag": "健身", 
+                    "tagLink": "https://api.zhihu.com/topics/19552192"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "朱俊", 
+                    "userLink": "https://www.zhihu.com/people/3f0d6188e4776b3d626738ab26e02824", 
+                    "content": "这是什么视频或者课程里面的能提供一下吗？", 
+                    "likes": 18, 
+                    "childComments": [
+                        {
+                            "userName": "熳丁芽子", 
+                            "userLink": "https://www.zhihu.com/people/2023487517d954121f624f4687f46f3f", 
+                            "content": "同问", 
+                            "likes": 3, 
+                            "replyToAuthor": "朱俊"
+                        }, 
+                        {
+                            "userName": "大鹏", 
+                            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+                            "content": "<p>苹果商店里有个app叫strength by muscle＆motion</p>", 
+                            "likes": 26, 
+                            "replyToAuthor": "朱俊"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "镜像鳄鱼脸河马身", 
+                    "userLink": "https://www.zhihu.com/people/262eb4ff2dff739c93984ed7318f2d61", 
+                    "content": "视频牛，可以说一下在哪看吗", 
+                    "likes": 7, 
+                    "childComments": [
+                        {
+                            "userName": "大鹏", 
+                            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+                            "content": "<p>苹果商店里有个app叫strength by muscle＆motion</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "镜像鳄鱼脸河马身"
+                        }, 
+                        {
+                            "userName": "honriy", 
+                            "userLink": "https://www.zhihu.com/people/20a3df6540d27988960c61cccfbe8f95", 
+                            "content": "请教有安卓版本么？没搜到", 
+                            "likes": 0, 
+                            "replyToAuthor": "大鹏"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "大大大大大帆", 
+                    "userLink": "https://www.zhihu.com/people/542e81f5714115fe98f682a510757332", 
+                    "content": "这是什么视频教程呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "大鹏", 
+                            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+                            "content": "<p>苹果商店里有个app叫strength by muscle＆motion</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "大大大大大帆"
+                        }, 
+                        {
+                            "userName": "镜像鳄鱼脸河马身", 
+                            "userLink": "https://www.zhihu.com/people/262eb4ff2dff739c93984ed7318f2d61", 
+                            "content": "感谢", 
+                            "likes": 0, 
+                            "replyToAuthor": "大鹏"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "洒潇", 
+                    "userLink": "https://www.zhihu.com/people/5c07afa24dd57462a3ae4fe0740cf30c", 
+                    "content": "学到了一个练背阔的方法 #滑稽", 
+                    "likes": 13, 
+                    "childComments": [
+                        {
+                            "userName": "Elijah", 
+                            "userLink": "https://www.zhihu.com/people/42d26468085658360c57907a4cbb5c20", 
+                            "content": "那是前锯，大哥", 
+                            "likes": 1, 
+                            "replyToAuthor": "洒潇"
+                        }, 
+                        {
+                            "userName": "洒潇", 
+                            "userLink": "https://www.zhihu.com/people/5c07afa24dd57462a3ae4fe0740cf30c", 
+                            "content": "好吧，二弟", 
+                            "likes": 5, 
+                            "replyToAuthor": "Elijah"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "银针叶藤", 
+                    "userLink": "https://www.zhihu.com/people/8d688e9f69bd81978653963f9ba55d50", 
+                    "content": "。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Mini逗", 
+                    "userLink": "https://www.zhihu.com/people/790603ea6760cc9a061ecab4216fc32e", 
+                    "content": "发现了个不错的app", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "跑啊主人家追来了", 
+                            "userLink": "https://www.zhihu.com/people/bae8f2dc205237e2068b282daf177cd0", 
+                            "content": "额，全英文看不懂脑袋大", 
+                            "likes": 1, 
+                            "replyToAuthor": "Mini逗"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Henry", 
+                    "userLink": "https://www.zhihu.com/people/6b0b6e134fe50ec8f8c4b279f3742103", 
+                    "content": "那个假人趴在那里看是认真的吗", 
+                    "likes": 6, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "香菇", 
+                    "userLink": "https://www.zhihu.com/people/2798a2768bdf8e5d018547d87784e025", 
+                    "content": "饿了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "查无此人", 
+                    "userLink": "https://www.zhihu.com/people/ff23390edbdcf2b10d10dda3aa3f090c", 
+                    "content": "想起来一句话来了，你这是在干什么呢！“小鸡啄米吗？”[捂脸][捂脸][捂脸][捂脸]", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "尤里", 
+                    "userLink": "https://www.zhihu.com/people/04cb83a2d41c472f1e3dcede74e3e439", 
+                    "content": "传教士式啊！？", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "米耗耗", 
+                    "userLink": "https://www.zhihu.com/people/c8095697a6d11f3802b7dda354f69f1c", 
+                    "content": "怪不得", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "熙本邶", 
+                    "userLink": "https://www.zhihu.com/people/8091d793758e46e8fc3e5e0fd4a8a26f", 
+                    "content": "我看的怎么都一样[捂脸]", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "撤销键入", 
+                            "userLink": "https://www.zhihu.com/people/e589e9e9cb6d3e4edfd8eadc3276f5da", 
+                            "content": "第一个胳膊机会没怎么弯下去，就肩膀位置在动", 
+                            "likes": 2, 
+                            "replyToAuthor": "熙本邶"
+                        }, 
+                        {
+                            "userName": "熙本邶", 
+                            "userLink": "https://www.zhihu.com/people/8091d793758e46e8fc3e5e0fd4a8a26f", 
+                            "content": "又看了一遍，谢谢😜", 
+                            "likes": 0, 
+                            "replyToAuthor": "撤销键入"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "有人看着看着，就去打开了浏览器", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "冷血狼", 
+                    "userLink": "https://www.zhihu.com/people/373ab8fb38fdcdf17e2484372227f071", 
+                    "content": "女生最喜欢的姿势吧", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "边关月", 
+                    "userLink": "https://www.zhihu.com/people/db2c2241b6e7dab260ddfa843947e398", 
+                    "content": "期待菱形肌讲解", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "潮流分布", 
+                    "userLink": "https://www.zhihu.com/people/fea2855e826b568ee99111e525bd9b84", 
+                    "content": "Mark", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "特殊字符", 
+                    "userLink": "https://www.zhihu.com/people/30f428ed680905dde075bdcb2fc477b0", 
+                    "content": "所以说做俯卧撑的时候肩胛骨要夹紧，这个视频很直观", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "李墨白", 
+                    "userLink": "https://www.zhihu.com/people/7dbd5ddf61529cb30492e04f0be4ab7a", 
+                    "content": "666", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "晚安的安", 
+                    "userLink": "https://www.zhihu.com/people/fc85cec4b2df4f35c5aad32931106ae9", 
+                    "content": "say something I'm giving up on you。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "某人", 
+                    "userLink": "https://www.zhihu.com/people/84d2f20d598609f92987da1daa793765", 
+                    "content": "插眼[害羞][爱]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "朱俊", 
+                    "userLink": "https://www.zhihu.com/people/3f0d6188e4776b3d626738ab26e02824", 
+                    "content": "这是什么视频或者课程里面的能提供一下吗？", 
+                    "likes": 18, 
+                    "childComments": [
+                        {
+                            "userName": "熳丁芽子", 
+                            "userLink": "https://www.zhihu.com/people/2023487517d954121f624f4687f46f3f", 
+                            "content": "同问", 
+                            "likes": 3, 
+                            "replyToAuthor": "朱俊"
+                        }, 
+                        {
+                            "userName": "大鹏", 
+                            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+                            "content": "<p>苹果商店里有个app叫strength by muscle＆motion</p>", 
+                            "likes": 26, 
+                            "replyToAuthor": "朱俊"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "镜像鳄鱼脸河马身", 
+                    "userLink": "https://www.zhihu.com/people/262eb4ff2dff739c93984ed7318f2d61", 
+                    "content": "视频牛，可以说一下在哪看吗", 
+                    "likes": 7, 
+                    "childComments": [
+                        {
+                            "userName": "大鹏", 
+                            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+                            "content": "<p>苹果商店里有个app叫strength by muscle＆motion</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "镜像鳄鱼脸河马身"
+                        }, 
+                        {
+                            "userName": "honriy", 
+                            "userLink": "https://www.zhihu.com/people/20a3df6540d27988960c61cccfbe8f95", 
+                            "content": "请教有安卓版本么？没搜到", 
+                            "likes": 0, 
+                            "replyToAuthor": "大鹏"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "大大大大大帆", 
+                    "userLink": "https://www.zhihu.com/people/542e81f5714115fe98f682a510757332", 
+                    "content": "这是什么视频教程呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "大鹏", 
+                            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+                            "content": "<p>苹果商店里有个app叫strength by muscle＆motion</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "大大大大大帆"
+                        }, 
+                        {
+                            "userName": "镜像鳄鱼脸河马身", 
+                            "userLink": "https://www.zhihu.com/people/262eb4ff2dff739c93984ed7318f2d61", 
+                            "content": "感谢", 
+                            "likes": 0, 
+                            "replyToAuthor": "大鹏"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "洒潇", 
+                    "userLink": "https://www.zhihu.com/people/5c07afa24dd57462a3ae4fe0740cf30c", 
+                    "content": "学到了一个练背阔的方法 #滑稽", 
+                    "likes": 13, 
+                    "childComments": [
+                        {
+                            "userName": "Elijah", 
+                            "userLink": "https://www.zhihu.com/people/42d26468085658360c57907a4cbb5c20", 
+                            "content": "那是前锯，大哥", 
+                            "likes": 1, 
+                            "replyToAuthor": "洒潇"
+                        }, 
+                        {
+                            "userName": "洒潇", 
+                            "userLink": "https://www.zhihu.com/people/5c07afa24dd57462a3ae4fe0740cf30c", 
+                            "content": "好吧，二弟", 
+                            "likes": 5, 
+                            "replyToAuthor": "Elijah"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "银针叶藤", 
+                    "userLink": "https://www.zhihu.com/people/8d688e9f69bd81978653963f9ba55d50", 
+                    "content": "。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Mini逗", 
+                    "userLink": "https://www.zhihu.com/people/790603ea6760cc9a061ecab4216fc32e", 
+                    "content": "发现了个不错的app", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "跑啊主人家追来了", 
+                            "userLink": "https://www.zhihu.com/people/bae8f2dc205237e2068b282daf177cd0", 
+                            "content": "额，全英文看不懂脑袋大", 
+                            "likes": 1, 
+                            "replyToAuthor": "Mini逗"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Henry", 
+                    "userLink": "https://www.zhihu.com/people/6b0b6e134fe50ec8f8c4b279f3742103", 
+                    "content": "那个假人趴在那里看是认真的吗", 
+                    "likes": 6, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "香菇", 
+                    "userLink": "https://www.zhihu.com/people/2798a2768bdf8e5d018547d87784e025", 
+                    "content": "饿了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "查无此人", 
+                    "userLink": "https://www.zhihu.com/people/ff23390edbdcf2b10d10dda3aa3f090c", 
+                    "content": "想起来一句话来了，你这是在干什么呢！“小鸡啄米吗？”[捂脸][捂脸][捂脸][捂脸]", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "尤里", 
+                    "userLink": "https://www.zhihu.com/people/04cb83a2d41c472f1e3dcede74e3e439", 
+                    "content": "传教士式啊！？", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "米耗耗", 
+                    "userLink": "https://www.zhihu.com/people/c8095697a6d11f3802b7dda354f69f1c", 
+                    "content": "怪不得", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "熙本邶", 
+                    "userLink": "https://www.zhihu.com/people/8091d793758e46e8fc3e5e0fd4a8a26f", 
+                    "content": "我看的怎么都一样[捂脸]", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "撤销键入", 
+                            "userLink": "https://www.zhihu.com/people/e589e9e9cb6d3e4edfd8eadc3276f5da", 
+                            "content": "第一个胳膊机会没怎么弯下去，就肩膀位置在动", 
+                            "likes": 2, 
+                            "replyToAuthor": "熙本邶"
+                        }, 
+                        {
+                            "userName": "熙本邶", 
+                            "userLink": "https://www.zhihu.com/people/8091d793758e46e8fc3e5e0fd4a8a26f", 
+                            "content": "又看了一遍，谢谢😜", 
+                            "likes": 0, 
+                            "replyToAuthor": "撤销键入"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "有人看着看着，就去打开了浏览器", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "冷血狼", 
+                    "userLink": "https://www.zhihu.com/people/373ab8fb38fdcdf17e2484372227f071", 
+                    "content": "女生最喜欢的姿势吧", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "边关月", 
+                    "userLink": "https://www.zhihu.com/people/db2c2241b6e7dab260ddfa843947e398", 
+                    "content": "期待菱形肌讲解", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "潮流分布", 
+                    "userLink": "https://www.zhihu.com/people/fea2855e826b568ee99111e525bd9b84", 
+                    "content": "Mark", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "特殊字符", 
+                    "userLink": "https://www.zhihu.com/people/30f428ed680905dde075bdcb2fc477b0", 
+                    "content": "所以说做俯卧撑的时候肩胛骨要夹紧，这个视频很直观", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "李墨白", 
+                    "userLink": "https://www.zhihu.com/people/7dbd5ddf61529cb30492e04f0be4ab7a", 
+                    "content": "666", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "晚安的安", 
+                    "userLink": "https://www.zhihu.com/people/fc85cec4b2df4f35c5aad32931106ae9", 
+                    "content": "say something I'm giving up on you。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "某人", 
+                    "userLink": "https://www.zhihu.com/people/84d2f20d598609f92987da1daa793765", 
+                    "content": "插眼[害羞][爱]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38184309", 
+            "userName": "大鹏", 
+            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+            "upvote": 0, 
+            "title": "减脂老失败？你可能忽略了这个问题", 
+            "content": "<p><b>导言</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>今天我们来聊一聊关于食物的情感作用</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们都知道，要想减肥成功，调整饮食结构打开热量缺口是一个很重要的环节，如果饮食不控制，只是一味的训练，你可能从一个虚弱的胖子变成一个健壮的胖子，虽然身体确实变好了，但你依然是个胖子。。。。<br/></p><p>戒除垃圾食品、高热量食品是每个想变瘦的胖子的必修课，意味着你需要跟爱吃的烧烤、啤酒、小龙虾、奶油蛋糕、薯条、可乐、冰激凌、饼干、巧克力。。。。Say goodbye</p><p>（含着泪说分手）</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-8344649881c1a54318b36d3ecb9fd0c5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"549\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb\" width=\"549\" data-original=\"https://pic2.zhimg.com/v2-8344649881c1a54318b36d3ecb9fd0c5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;549&#39; height=&#39;366&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"549\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"549\" data-original=\"https://pic2.zhimg.com/v2-8344649881c1a54318b36d3ecb9fd0c5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8344649881c1a54318b36d3ecb9fd0c5_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>但是呢，正在减脂，每天严格控制饮食的你有没有这样的经历：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>    每次到进超市采购，路过家附近常去的蛋糕店、茶饮店时，会一遍遍的克制自己的眼神尽量不要在你曾经最爱的甜食上，终于有一天你对这些食物的渴望越来越强烈，直到最后难以抑制。然后你对自己说坚持这么久了，吃一口没事的，吃完我就乖乖地继续控制。</p><p>    然后你买下了最近一直想吃的蛋糕，并迫不及待地打开包装，津津有味地吃起来。。。</p><p>    然后，苦苦坚持几周的自律意识瞬间崩塌，抱着反正都这样了的念头，你又买下了过去几周努力戒掉的所有蛋糕，然后又去买了你爱的奶茶。。。</p><p>    然后减脂失败。。。</p><p>    你痛苦反思之后，又开始新一轮的控制，几周之后又失败了。。。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一气之下，减肥是不可能减肥的啦，这辈子都不可能减肥的啦，因为臣妾实在是做不到啊。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-8d7c993d6d18b8a65b986e0d408534d4_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"264\" data-rawheight=\"200\" data-thumbnail=\"https://pic1.zhimg.com/v2-8d7c993d6d18b8a65b986e0d408534d4_b.jpg\" class=\"content_image\" width=\"264\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;264&#39; height=&#39;200&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"264\" data-rawheight=\"200\" data-thumbnail=\"https://pic1.zhimg.com/v2-8d7c993d6d18b8a65b986e0d408534d4_b.jpg\" class=\"content_image lazy\" width=\"264\" data-actualsrc=\"https://pic1.zhimg.com/v2-8d7c993d6d18b8a65b986e0d408534d4_b.gif\"/></figure><p>减肥要控制饮食是肯定的啦，但有时候控制不住嘴其实并不是我们的意志薄弱，而是忽略了食物本身的情感作用。</p><p>不管我们进食还是挨饿，都会让我们的内心情感发生变化。特别是曾经严格控制饮食或长期不吃某些特定食物的人应该深有感触。这是人体内发生了某些生化反应的缘故。</p><p>比如说，富含碳水化合物的甜食会刺激大脑特殊区域的信号物质血清素的分泌，会让我们产生幸福感。相反饥饿或减少碳水化合物的摄入会使血清素的水平下降，从而让我们意志消沉（宝宝不开心）。</p><p>情绪上得不到满足，难怪你一直想吃吃吃</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-470b38c93968d295f359609f799db087_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"270\" data-rawheight=\"270\" data-thumbnail=\"https://pic4.zhimg.com/v2-470b38c93968d295f359609f799db087_b.jpg\" class=\"content_image\" width=\"270\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;270&#39; height=&#39;270&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"270\" data-rawheight=\"270\" data-thumbnail=\"https://pic4.zhimg.com/v2-470b38c93968d295f359609f799db087_b.jpg\" class=\"content_image lazy\" width=\"270\" data-actualsrc=\"https://pic4.zhimg.com/v2-470b38c93968d295f359609f799db087_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>还有人经常会在晚上翻冰箱找吃的，这种频繁发生的行为被称为“夜食症”，这类人的话只有通过进食才能使精神放松。特别是正在执行严苛的饮食法的健身者更容易受到这种症状的困扰。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然，进食引起的积极情绪体验并不仅仅是血清素这类信号物质起作用的结果。有些人吃下巧克力后就会立刻愉快起来。摄入食物和幸福感之间的间隔如此短，所以不可能巧克力本身含有的物质引起的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>很有可能是食物的外表、气味和口感直接唤起了我们的愉悦感</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6f7fa25f1573d894cce9cde1b657cdd8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"651\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic1.zhimg.com/v2-6f7fa25f1573d894cce9cde1b657cdd8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1000&#39; height=&#39;651&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"651\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://pic1.zhimg.com/v2-6f7fa25f1573d894cce9cde1b657cdd8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6f7fa25f1573d894cce9cde1b657cdd8_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>如果我们发现自己在压力大的时候吃得更多，那么即使在严格的减脂期间也不要将自己喜欢的食物（哪怕热量很高）完全排除，我们应该更主动地食用这些食物，可以分成小份，有针对性地安排到日常的饮食里。<br/></p><p>我们的饮食行为是非常稳定的，一旦发现快餐很好吃，之后也很难改变这种看法。我们体内的节俭基因跟我们开了个大玩笑，尽管囤积的脂肪已经很多了，它还是会告诉我们的身体：富含热量的食物对维持生命很重要，要多吃，这也可以解释为什么很多人对高热量的食物特别渴望。</p><p class=\"ztext-empty-paragraph\"><br/></p><p> 而且一般来说，我们想通过运动获得马甲线、八块腹肌，可能需要坚持几个月，而且我们必须时刻提醒自己才能保持振奋的状态，但是巧克力却近在眼前，触手可及。很多时候我们都会选择唾手可得的东西。。。</p><p>梦想太远，只争朝夕</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-4b3b53833337d85b84d07d4085dacc31_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"475\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-4b3b53833337d85b84d07d4085dacc31_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;475&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"475\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-4b3b53833337d85b84d07d4085dacc31_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-4b3b53833337d85b84d07d4085dacc31_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>很多时候都是这样，我知道不吃甜食对我有好处，但是我就是做不到啊o(╥﹏╥)o</p><p>给这样的小伙伴一点建议：</p><p>1</p><p><b>调整进食行为</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>由情绪主导的进食行为总是占据上风的，所以所谓的决定再也不多吃甜点没有太大意义。我们应该更灵活的控制自己的进食行为。</p><p>喜欢吃甜点，那就在严格的减脂期间把它分成小份，按计划的去吃，只要平日里积极运动，依然保证能量的缺口，并不会影响我们的减脂变美大计划。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2</p><p><b>积极的运动</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>运动既是我们消耗多余的热量的手段，而且积极的运动能对我们的情绪产生有益的影响，有助于缓解压力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3</p><p><b>选小一号的盘子</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>吃光所有食物，不浪费。是从小父母教我们的良好品德了，但是有时候我们产生饱腹感，不仅来源于内在的刺激（比如胃的胀大），也来源于外界的信号——盘子空了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>4</p><p><b>成果巩固行为</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>开始减脂时，你应该规律的测量自己的腰围以及拍照来进行对比，以发现自己的变化。</p><p>更瘦的腰围，更明显的线条，这类的成果可以帮助我们维持新的行为。</p><p>我们可以设置一个可以实现又有一定挑战性和吸引力的目标，比如借助饮食和运动，在4周内腰围减少4公分。</p><p>有明确的目标可以激励我们更好的坚持下去。</p><p>正确的引导我们的情绪，才能在减脂这条路上走的更远。祝各位小伙伴都减脂成功。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-3d128657324b65b3e8020495e0533c52_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"435\" data-rawheight=\"201\" data-thumbnail=\"https://pic3.zhimg.com/v2-3d128657324b65b3e8020495e0533c52_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"435\" data-original=\"https://pic3.zhimg.com/v2-3d128657324b65b3e8020495e0533c52_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;435&#39; height=&#39;201&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"435\" data-rawheight=\"201\" data-thumbnail=\"https://pic3.zhimg.com/v2-3d128657324b65b3e8020495e0533c52_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"435\" data-original=\"https://pic3.zhimg.com/v2-3d128657324b65b3e8020495e0533c52_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-3d128657324b65b3e8020495e0533c52_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>好了，今天的内容就到这里，下期见！</p>", 
+            "topic": [
+                {
+                    "tag": "健身", 
+                    "tagLink": "https://api.zhihu.com/topics/19552192"
+                }, 
+                {
+                    "tag": "减脂", 
+                    "tagLink": "https://api.zhihu.com/topics/19710607"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37397719", 
+            "userName": "大鹏", 
+            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+            "upvote": 4, 
+            "title": "强大而稳定的保障——扭矩", 
+            "content": "<p>这篇文章要讲述的问题</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1.什么是扭矩？(What)</p><p>2.为什么要产生扭矩？(Why)</p><p>3.怎样产生扭矩？(How)</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1.what?</p><p>什么是扭矩？</p><p>扭矩就是身体扭转的力矩。本文中将要介绍的，肩部和髋部发出的旋转或某个物体产生的转动效应就是扭矩。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-1f8339e4e356d54b007427fa88d57900_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"796\" data-rawheight=\"506\" class=\"origin_image zh-lightbox-thumb\" width=\"796\" data-original=\"https://pic1.zhimg.com/v2-1f8339e4e356d54b007427fa88d57900_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;796&#39; height=&#39;506&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"796\" data-rawheight=\"506\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"796\" data-original=\"https://pic1.zhimg.com/v2-1f8339e4e356d54b007427fa88d57900_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-1f8339e4e356d54b007427fa88d57900_b.jpg\"/></figure><p>没看懂？不要紧，仔细读完这篇文章，就懂了。</p><p>2.Why?</p><p>为什么要产生扭矩？</p><p>下图是一位资深的健美运动员在做大重量的颈后深蹲，要移动如此大的重量并避免在负重时受伤，他并不是仅仅靠肌肉和骨骼来支撑身体，更需要的是身体内在的张力。这种张力会通过扭矩表现出来：将大腿的股骨向外旋转(膝关节向外侧打开），陷入地面，从髋部产生外旋的力，以便支撑起自身的体重和杠铃的重量。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-294b225db3def6c53fa9c192e2a7cc91_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"427\" data-rawheight=\"240\" data-thumbnail=\"https://pic2.zhimg.com/v2-294b225db3def6c53fa9c192e2a7cc91_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"427\" data-original=\"https://pic2.zhimg.com/v2-294b225db3def6c53fa9c192e2a7cc91_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;427&#39; height=&#39;240&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"427\" data-rawheight=\"240\" data-thumbnail=\"https://pic2.zhimg.com/v2-294b225db3def6c53fa9c192e2a7cc91_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"427\" data-original=\"https://pic2.zhimg.com/v2-294b225db3def6c53fa9c192e2a7cc91_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-294b225db3def6c53fa9c192e2a7cc91_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>如果没有产生扭矩，膝盖向内扣，或者背部由于极大的重量而弯曲，就有可能造成极大的损伤。</p><p>扭矩的作用是使举重者稳定他的姿势，并且使动作产生尽可能的变化，也就是说可以更好的保持背部挺直，保持髋部和肩部的张力，避免潜在的、具有损伤性的动作错误。</p><p>简而言之，在一些动作中加入扭矩，可以使我们的身体形成张力，从而更稳定，也会获得更好的发力感。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>做俯卧撑、卧推总是肩膀受力，手臂酸？深蹲、硬拉时总是不自觉地膝盖内扣？很大一部分原因也是你在肩部或髋部产生扭矩。</p><p>3.How？</p><p> 那应该怎样产生扭矩呢？</p><p>扭矩主要应用在负责发力的关节：肩关节（上肢）和髋关节（下肢）</p><p><b>通过双手外旋在肩部产生扭矩</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>双手“旋进”地面，可以稳定肩部。</p><p>例如做俯卧撑时，左右手做出外旋的姿态，不是双手朝外侧打开呈外展，而是双手方向不变加一个向外侧旋转的力，来产生扭矩。</p><p>产生扭矩之后，能够明显地感受到整个上半身，从手掌，小臂，上臂到肩部形成了一个整体。</p><p>这样做的好处是减少了肩和手臂的受力，能够更明显的感受胸部的发力。</p><p>再加上之前我们说过的中立位技巧，俯身时也保持胸廓跟骨盆的相对位置，腹部收紧，臀部夹紧。身体能更好的作为一个整体在运动，而不是做蛇形俯卧撑或者撅屁股俯卧撑。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-e9b94cc8bb3cc27151996b8990462faf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"579\" data-rawheight=\"574\" class=\"origin_image zh-lightbox-thumb\" width=\"579\" data-original=\"https://pic4.zhimg.com/v2-e9b94cc8bb3cc27151996b8990462faf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;579&#39; height=&#39;574&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"579\" data-rawheight=\"574\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"579\" data-original=\"https://pic4.zhimg.com/v2-e9b94cc8bb3cc27151996b8990462faf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e9b94cc8bb3cc27151996b8990462faf_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>卧推时，双手握着杠铃，施加一个要掰弯杠铃的力就能很好的产生扭矩。既能更明显的感受胸部的发力感，而且在大重量的卧推中能更好的保护我们的关节更不容易受伤，大重量卧推损伤肩部绝对是健身房常见损伤之一。</p><p>其他动作如 硬拉、划船、推举 同样适用。</p><p><b>通过双脚外旋在髋部产生扭矩</b></p><p>外旋髋关节的同时保持双脚平直向前并旋进地面。同样，双脚旋进地面的意思是：在脚部保持不动的同时使出向外的力；不是双脚脚尖向外侧打开，是双脚向外侧发力。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-25648229e2bc32ca1aad79c825ef8fbf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"793\" data-rawheight=\"544\" class=\"origin_image zh-lightbox-thumb\" width=\"793\" data-original=\"https://pic4.zhimg.com/v2-25648229e2bc32ca1aad79c825ef8fbf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;793&#39; height=&#39;544&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"793\" data-rawheight=\"544\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"793\" data-original=\"https://pic4.zhimg.com/v2-25648229e2bc32ca1aad79c825ef8fbf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-25648229e2bc32ca1aad79c825ef8fbf_b.jpg\"/></figure><p>产生扭矩后可以比较明显的感受到小腿，大腿，臀部都比较紧张，形成了一个整体。</p><p>深蹲时，主动形成扭矩，能很好的改善蹲起时膝盖内扣的问题，也能更好的感受到深蹲时臀部的发力感。</p><p>其他动作如硬拉，划船等同样适用。</p><p>扭矩不是凭空创造出来的概念。实际上，在健身房里，深蹲时，教练告诉你要保持膝关节外展，这就是在提示你去外旋髋关节产生扭矩。</p><p>常见的说法有以下几种：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>做出肩部稳定姿态的说法：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>折断（掰弯）杠铃杆</p><p>保持肘部向内</p><p>腋窝朝前</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>做出髋部稳定姿态的说法：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>双脚旋进地面</p><p>撕开地板</p><p>膝关节外展</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>产生扭矩所需的张力</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>前边我们也说了，扭矩是利用身体自身产生的张力达到稳定姿态的，那产生的扭矩是越大越好么？</p><p>答案是：NO</p><p>如果只是做基本的自重训练动作，如俯卧撑，自重深蹲时并不需要最大的扭矩，如果产生扭矩时用力过度，大于所需时，也会让你的姿势变形。仅仅维持扭矩存在的力即可。</p><p>为了支撑一个正确的姿势，我们需要刚好足够的张力，而不是过大的、使动作变形的张力。要想掌握其中的微妙平衡，需要我们花时间多去练习。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>最后的总结</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>扭矩可以让我们的关节在运动时处于安全而稳定的姿势，形成张力，打通力线，躯干能够更加稳定，肌肉也会有更好的发力感。</p><p>外界给身体造成的压力越大，身体越难保持正确的稳定姿态。你有没有过这样的经历：你可以很轻松完美的做出一个徒手深蹲的姿态，但是一负重哪怕是空的杠铃杆做深蹲时，身体就很难维持力学结构的完美了。负重越大，越需要利用身体自身的张力来维持稳定，扭矩就是你又强又稳定的保障。</p>", 
+            "topic": [
+                {
+                    "tag": "健身", 
+                    "tagLink": "https://api.zhihu.com/topics/19552192"
+                }, 
+                {
+                    "tag": "健身技术", 
+                    "tagLink": "https://api.zhihu.com/topics/19738196"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Ch-ZJ", 
+                    "userLink": "https://www.zhihu.com/people/e50c468f8371df7d7c96bb4b8a62552a", 
+                    "content": "看了豹式健身搬运过来的吧", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36840824", 
+            "userName": "大鹏", 
+            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+            "upvote": 7, 
+            "title": "中线的稳定与调整——脊柱的中立位", 
+            "content": "<p><b>导言</b></p><p>     这篇文章主要解决三个问题</p><p>1. 什么是脊柱的中立位？（What）</p><p>2. 为什么要保持脊柱的中立位?（Why）</p><p>3. 怎样保持脊柱的中立位？(How)</p><p><i>QA</i>&amp;</p><p><b>1. What？</b></p><p>脊柱的中立位就是胸廓平衡地位于骨盆上方，双耳与双肩对齐并调动躯干肌肉组织保持稳定的姿势。简单来说就是保持脊柱的自然生理弯曲。从侧面看就是挺胸收腹腰背挺直的状态。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-9b901024834dc828643a40df79b77b13_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-9b901024834dc828643a40df79b77b13_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;800&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-9b901024834dc828643a40df79b77b13_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9b901024834dc828643a40df79b77b13_b.jpg\"/></figure><p>更直观一点的话，就在身后架一根木棍，保持枕骨（后脑勺）胸椎，骶骨三点在一线上。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-9c235af56403ec6027a4fa4390ce40d1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-9c235af56403ec6027a4fa4390ce40d1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;800&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-9c235af56403ec6027a4fa4390ce40d1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-9c235af56403ec6027a4fa4390ce40d1_b.jpg\"/></figure><p><i>QA</i>&amp;</p><p><b>2.Why？</b></p><p>现在大多数的人都会有一些体态方面的问题：头前引，圆肩，翼状肩，骨盆前倾，腰椎过伸。。。在这样的姿势下久坐肩颈和腰开始酸痛，你想改善这些问题去健身房找教练或者网上找资料</p><p>通常来说得到的答案是这样的：是长期的错误姿势下，肌力不平衡导致的，我们会去放松紧张的肌肉，训练无力的肌肉来改善，比如说放松胸小肌，训练斜方肌中束，菱形肌；放松紧张的腰椎和股四（大腿前侧），训练腹部和臀部。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-86480993a5d00823d1b78c20ad227e23_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"354\" data-rawheight=\"240\" class=\"content_image\" width=\"354\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;354&#39; height=&#39;240&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"354\" data-rawheight=\"240\" class=\"content_image lazy\" width=\"354\" data-actualsrc=\"https://pic4.zhimg.com/v2-86480993a5d00823d1b78c20ad227e23_b.jpg\"/></figure><p>休息下班的时间你开始努力的练习，然后上班时间继续重复原来的姿势久坐在座位上。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我有个朋友是个医生，肩颈问题特别严重，经常痛的厉害有时候还伴随头晕。痛的受不了的时候就去找她们康复科的同事做理疗或者去健身房练一下，只要不痛了就又回到原来的状态。训练一个小时，然后继续日复一日的8个小时以上的坐在办公室，有没有觉得哪里有问题？</p><p>我们来捋一捋：</p><p>我们训练的原因是为了改善不美观的体态问题或困扰我们的肩颈和腰的不适</p><p>↓</p><p>不美观的体态或肩颈腰的不适是因为前后肌力的不平衡。</p><p>↓</p><p>那前后肌力的不平衡是为什么呢？</p><p>↓</p><p>是因为长久的错误姿态导致。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>所以我们在训练的同时，更应该关注的是保持正确的姿态-脊柱的中立位。</p><p>当然，坐姿时我们很难长久的维持脊柱的中立位，可以每隔10-15分钟就起身，重新调整自己的姿势。虽然频繁的起身调整自己的姿态并不适合所有人，但是如果想避免身体受到损失改善自己的姿态，就必须有所行动，必须做出牺牲。当然能帮助我们维持脊柱中立位的工程学座椅也是可以的，但是我更建议你多起来走动。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>力量训练特别是下肢力量训练时，保持脊柱的中立位尤为重要。</p><p>得到支撑的中立位是人体大部分动作理想的基础姿势，</p><p>当脊柱调整到中立位，所有的脊柱节段都完美的排列时，力量可以高效、通畅地传递，此时身体也处于承重的最佳姿势，可以自如地应对脊柱的压力。</p><p>为了有效地承重，躯干的结构必须保持平衡和稳定，如果一或两个脊柱节段发生错位，上半身的重量就会压迫错位处，对脊柱节段产生剪力。也就是说，如果你做某个姿势时有一两个局部的脊柱节段偏离了中立位，就会使该脊柱节段的弯曲处遭受剪力。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-079b9526bf12c67ddf74df392d66f73c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"431\" data-rawheight=\"322\" class=\"origin_image zh-lightbox-thumb\" width=\"431\" data-original=\"https://pic1.zhimg.com/v2-079b9526bf12c67ddf74df392d66f73c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;431&#39; height=&#39;322&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"431\" data-rawheight=\"322\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"431\" data-original=\"https://pic1.zhimg.com/v2-079b9526bf12c67ddf74df392d66f73c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-079b9526bf12c67ddf74df392d66f73c_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-62b181336f1c27b305d4db6de6b7ded7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"797\" data-rawheight=\"372\" class=\"origin_image zh-lightbox-thumb\" width=\"797\" data-original=\"https://pic4.zhimg.com/v2-62b181336f1c27b305d4db6de6b7ded7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;797&#39; height=&#39;372&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"797\" data-rawheight=\"372\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"797\" data-original=\"https://pic4.zhimg.com/v2-62b181336f1c27b305d4db6de6b7ded7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-62b181336f1c27b305d4db6de6b7ded7_b.jpg\"/></figure><p>很多人说深蹲、硬拉练多了对腰不好。真的是动作本身的原因导致的伤痛么？</p><p>更多的是因为许多人在深蹲时过度反弓背部，硬拉时弓背启动，没有保持脊柱的中立位，正如上边所说的在脊柱在承受整体压力的同时，局部节段又产生了剪切力，当然容易导致损伤了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3f3a8310bfb350350e82b21adc0e82b1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-3f3a8310bfb350350e82b21adc0e82b1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-3f3a8310bfb350350e82b21adc0e82b1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-3f3a8310bfb350350e82b21adc0e82b1_b.jpg\"/></figure><p>还有现在腰椎间盘突出的越来越年轻化，究其原因更多的是久坐缺乏运动的同时，不良的发力模式造成的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-399baf2fda42999121f813abacd024b1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"475\" data-rawheight=\"325\" class=\"origin_image zh-lightbox-thumb\" width=\"475\" data-original=\"https://pic2.zhimg.com/v2-399baf2fda42999121f813abacd024b1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;475&#39; height=&#39;325&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"475\" data-rawheight=\"325\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"475\" data-original=\"https://pic2.zhimg.com/v2-399baf2fda42999121f813abacd024b1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-399baf2fda42999121f813abacd024b1_b.jpg\"/></figure><p><i>QA</i>&amp;</p><p><b>3.How？</b></p><p>学会脊柱作为一个整体运动的功能性姿态。</p><p>颈椎、胸椎、腰椎每个部分都是由单块的椎骨连接而成的，这些椎骨的功能类似于铰链。一到两个脊柱节段相对脊柱的其他部分做更大幅度的运动时——不论该运动实在头部（颈椎）、胸廓底部（胸椎）还是在骨盆（腰椎），都会限制力量的生成并降低肩部和髋部的稳定性。</p><p>所以应该怎么做呢？</p><p>髋关节铰链，学会以髋部作为运动的起点，整体屈伸的运动模式（屈髋）</p><p>在保持后背成一条直线，小腿垂直于地面的情况下，做髋关节的屈跟伸</p><p>如果你平时运动比较少，刚开始可能很难掌握，没事，我们从初级慢慢来。</p><p><b>step1</b></p><p>背后架根pvc杆，保证后脑勺、胸椎、骶骨三点始终贴住杆，背部保持紧张，搬张凳子，放在自己的小腿前面，让自己的小腿始终碰到凳子，然后做一下步骤：微屈膝，臀部往后推，上半身顺势前倾注意小腿后没有给凳子往前顶开的力。</p><p>建议10-12个为一组，练习4-5组，练习时主要感受大腿后侧的拉扯感，上半身成中立位时，身体的感受。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a53e382fdd30eba4147cd0f3ef005319_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic2.zhimg.com/v2-a53e382fdd30eba4147cd0f3ef005319_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic2.zhimg.com/v2-a53e382fdd30eba4147cd0f3ef005319_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic2.zhimg.com/v2-a53e382fdd30eba4147cd0f3ef005319_b.gif\"/></figure><p><b>step2</b></p><p>去掉pvc杆，其他同step1</p><p>建议10-12个为一组，练习4-5组，继续感受大腿后侧的拉扯感，髋关节屈伸的过程中感受臀部的发力感，如果腰部的感觉强烈回到step1继续体会</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-2c90cfdcc8cc8a86b42a40e04a48d2e3_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic4.zhimg.com/v2-2c90cfdcc8cc8a86b42a40e04a48d2e3_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic4.zhimg.com/v2-2c90cfdcc8cc8a86b42a40e04a48d2e3_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic4.zhimg.com/v2-2c90cfdcc8cc8a86b42a40e04a48d2e3_b.gif\"/></figure><p><b>step3——负重版</b></p><p>建议女生负重5kg左右，男生负重10kg左右，继续完成这个动作，每组10次左右，4-5组，仍旧要求保持后背成一条直线，感受臀部的发力，还是如果腰部的感觉更强烈退阶回到step2或者1.</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-3819f9299e6daaf19e41386543329656_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic3.zhimg.com/v2-3819f9299e6daaf19e41386543329656_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic3.zhimg.com/v2-3819f9299e6daaf19e41386543329656_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic3.zhimg.com/v2-3819f9299e6daaf19e41386543329656_b.gif\"/></figure><p><b>step4</b></p><p>去掉膝盖前面的凳子，完成步骤3，如果你仍然能标准的完成后背成一条直线的前提下的屈伸髋动作，那么恭喜你对脊柱中立位这个状态有了很好的感受。</p><p>健身中力量训练中经典的深蹲和硬拉都需要脊柱中立位的支撑下，才能更安全的训练</p><p>生活中学会保持脊柱的中立位，搬重物时能更好的保护我们的腰椎不受伤，甚至在日常生活中有意识的去保持脊柱的中立位，腰部酸痛的问题也能很大的得到改善。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1eb3822e8021b9241704acc0684f56c6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-1eb3822e8021b9241704acc0684f56c6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-1eb3822e8021b9241704acc0684f56c6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1eb3822e8021b9241704acc0684f56c6_b.jpg\"/></figure><p><b>最后的总结</b></p><p>无论是在生活还在健身中，我们都应该学会保持脊柱中立位的姿势，不仅可以让你拥有一个优美的体态，同时也可以规避很多风险。<br/></p><p>合理的使用并强化身体的功能，才会越来越好，越来越健康。下层基础决定上层建筑，你想要的“捷径”未必是真的捷径。我反而觉得踏踏实实的打好基础，才是唯一的捷径。</p>", 
+            "topic": [
+                {
+                    "tag": "零基础", 
+                    "tagLink": "https://api.zhihu.com/topics/19740775"
+                }, 
+                {
+                    "tag": "健身", 
+                    "tagLink": "https://api.zhihu.com/topics/19552192"
+                }, 
+                {
+                    "tag": "健身技术", 
+                    "tagLink": "https://api.zhihu.com/topics/19738196"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "李弋笙", 
+                    "userLink": "https://www.zhihu.com/people/f34281387dfdfea3315472125ccb21fd", 
+                    "content": "讲的好棒，👍", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "任平生", 
+                    "userLink": "https://www.zhihu.com/people/a99bd468afb14423c09fcf6477adae9b", 
+                    "content": "豹式健身里的，应该把呼吸（膈肌和腹横肌的利用）和脊柱中立位一起讲，才能让人全面理解。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/35845234", 
+            "userName": "大鹏", 
+            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+            "upvote": 4, 
+            "title": "健身开始前的自我评估", 
+            "content": "<p>为什么要做关节的基础功能评估？</p><p>因为我们在运动中，关节承受的压力比不运动时要大的多，比如跑步，膝盖承受的压力大概是自身体重4-6倍，运动前进行关节基本功能的评估，可以发现自己的弱项，不仅降低运动受伤的风险，还可以改善关节周围肌肉的发力问题。</p><p>考虑到操作性，今天分享一些核心区域的简单自我评估方法。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>核心基础稳定性</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>评测：</p><p>如下图，手放在腰部的位置，大腿抬到90度左右，有控制的慢慢下方回地面，在下放过程中腰部能不能始终紧贴手背。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-9bd0cd95315ce0e6f37811af44b44ceb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-9bd0cd95315ce0e6f37811af44b44ceb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;600&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic4.zhimg.com/v2-9bd0cd95315ce0e6f37811af44b44ceb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9bd0cd95315ce0e6f37811af44b44ceb_b.jpg\"/></figure><p>能：正常</p><p>不能的话，要引起重视了，核心的基础稳定能力不够，下方过程中，骨盆发生了偏转。：</p><p>主要是前侧的骨盆和胸廓的悬吊肌——腹直肌的肌力不足，需重点加强。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>影响做腹部的训练，特别是腿抬高类的下腹部训练，感受更多的可能是腰酸；做臀部训练，臀部的感觉不明显。改善</p><p class=\"ztext-empty-paragraph\"><br/></p><p>① 呼吸——核心训练的第一课 </p><p>腹式呼吸——最基础的方式是采用仰卧姿态，双腿屈曲，腹部可以放一个轻的重物，吸气腹部鼓起把重物顶高，呼气腹部回缩重物下降。鼻吸口呼，吸气2秒，顶部停顿2秒，呼气用2秒，尽量控制节奏，可以多练习找感觉。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-7ade7a0da1d22ca674cc3a5637c71add_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic2.zhimg.com/v2-7ade7a0da1d22ca674cc3a5637c71add_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;600&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic2.zhimg.com/v2-7ade7a0da1d22ca674cc3a5637c71add_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-7ade7a0da1d22ca674cc3a5637c71add_b.jpg\"/></figure><p>②吐气卷腹  （学会腹式呼吸后练习）平躺于地面，双膝屈曲90度左右，手放于头部两侧或者腹部，鼻子吸气把腹部鼓起来，然后呼气的同时，向上卷起至肩胛抬离地面即可，动作过程中注意下巴保持微收，肋弓下沉。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-296964988b5eb65fd6ea0cdd8d03b87a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-296964988b5eb65fd6ea0cdd8d03b87a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;600&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-296964988b5eb65fd6ea0cdd8d03b87a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-296964988b5eb65fd6ea0cdd8d03b87a_b.jpg\"/></figure><p>更多的核心训练可参照之前写过的这篇文章<a href=\"https://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzUxNjM0MjY2MA%3D%3D%26mid%3D2247483790%26idx%3D1%26sn%3D542ae705173f1cd6918c7e51508869e8%26chksm%3Df9a99765cede1e7390858cc9cc810745098a3f914d7856ac31f01acad42db5ddc2f1b9d11ed5%26scene%3D21%23wechat_redirect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">《你的核心训练练对了么》</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>脊柱灵活性</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>评测</p><p>并腿站直，慢慢低头含胸，在保证腿伸直的前提下，手沿大腿前侧往下，看是否能摸到外踝（脚外上侧的两个大突起）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3fc2241196c04b83aff236ff7280cee1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-3fc2241196c04b83aff236ff7280cee1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-3fc2241196c04b83aff236ff7280cee1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-3fc2241196c04b83aff236ff7280cee1_b.jpg\"/></figure><p>能，正常</p><p>不能，脊柱屈的能力比较差</p><p class=\"ztext-empty-paragraph\"><br/></p><p>影响</p><p>①肩的活动幅度，特别是双手举过头顶时，会一定的脊柱伸展（其伸展受限必然会影响肩的活动范围</p><p>②影响胸，背等肌群的发力感受</p><p>改善</p><p class=\"ztext-empty-paragraph\"><br/></p><p>①胶球,泡沫轴按压</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c8355a6b3b73f02aa98d44af7632b236_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-c8355a6b3b73f02aa98d44af7632b236_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;410&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-c8355a6b3b73f02aa98d44af7632b236_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c8355a6b3b73f02aa98d44af7632b236_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7ad65ea021bbabbc07005983a66f17e2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"810\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-7ad65ea021bbabbc07005983a66f17e2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;810&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"810\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-7ad65ea021bbabbc07005983a66f17e2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7ad65ea021bbabbc07005983a66f17e2_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>②猫式伸展 四肢跪地 吸气低头含胸眼睛看向肚脐，背部向天花板顶起，呼气，抬头向天花板看，腰向下塌</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-587a5cb214b127a468b090a1a1b412bf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-587a5cb214b127a468b090a1a1b412bf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;410&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-587a5cb214b127a468b090a1a1b412bf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-587a5cb214b127a468b090a1a1b412bf_b.jpg\"/></figure><p>②滚动 双手抱于小腿 团身成一个“虾米”来回滚动。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-c56be332e3d65f9a71a86294ab3532fb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-c56be332e3d65f9a71a86294ab3532fb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;410&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-c56be332e3d65f9a71a86294ab3532fb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-c56be332e3d65f9a71a86294ab3532fb_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>胸椎旋转灵活性</b></p><p>评侧</p><p>做一个弓箭步，尽量保证前后腿的大腿跟小腿都成90度左右，手锁住对侧膝盖，胳膊始终保持伸直，另一侧手臂伸直，抬到腰侧的高度，眼睛看着手，慢慢往后转，看是否能过身体的中线。（两边都测） </p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-32dcb7ef81da72f2a48b8b73f408bcf6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-32dcb7ef81da72f2a48b8b73f408bcf6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;410&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-32dcb7ef81da72f2a48b8b73f408bcf6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-32dcb7ef81da72f2a48b8b73f408bcf6_b.jpg\"/></figure><p>能，正常</p><p>不能，脊柱旋转功能受限。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>影响</p><p>①“大哥”步态，正常人走路，胸椎会有轻度的旋转，旋转受限的人，走路可能会出现脊柱左右侧屈的代偿，表现出现就是走路身体会左右摇晃，一副很吊的大哥感觉。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7144a73accfa4b8de9a5b35bb907a48a_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic3.zhimg.com/v2-7144a73accfa4b8de9a5b35bb907a48a_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic3.zhimg.com/v2-7144a73accfa4b8de9a5b35bb907a48a_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic3.zhimg.com/v2-7144a73accfa4b8de9a5b35bb907a48a_b.gif\"/></figure><p>②肩颈的疼痛，做个简单测试，如下图，双手往前伸到极限，然后放下一只胳膊，手又可以往前伸了，这个时候发挥作用的主要是胸椎的旋转，当胸椎的旋转受限时，需要肩的代偿，长期会造成肩部的磨损，从而引发疼痛，特别是像羽毛球，棒球类的运动</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2dfdb3ea7044975bd8e27bbb2b86097c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-2dfdb3ea7044975bd8e27bbb2b86097c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;410&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-2dfdb3ea7044975bd8e27bbb2b86097c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2dfdb3ea7044975bd8e27bbb2b86097c_b.jpg\"/></figure><p>③腰痛，脊柱由于其结构本身的原因，胸椎更适合旋转，腰椎更适合稳定承载重量，胸椎旋转受限，腰椎将承载更多的旋转任务，不该做的工作做久了就容易产生损伤。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>改善</p><p class=\"ztext-empty-paragraph\"><br/></p><p>①评估动作即是很好的改善动作  可以加一条弹力带 </p><p>②箱式胸椎旋转 四肢跪地，膝盖略向两侧打开，固定骨盆，一手撑地，另一手扶于耳侧，肘向上打开，眼随肘动。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-65211ea53f9e8bdeeb8d34b5d2e8070e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-65211ea53f9e8bdeeb8d34b5d2e8070e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;410&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-65211ea53f9e8bdeeb8d34b5d2e8070e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-65211ea53f9e8bdeeb8d34b5d2e8070e_b.jpg\"/></figure><p><b>髋关节稳定性</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>评侧</p><p>单足着地，在保证上半身挺直和小腿垂直于地面的前提下，臀部慢速后移，幅度不用很大，有明显曲髋角度即可，然后返回直立状态，反复三次（两边都测）<br/></p><p>看身体有无明显歪斜，动作过程中，身体有无明显晃动不稳的情况。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d829b4003815472b8a04b8cb27756b80_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-d829b4003815472b8a04b8cb27756b80_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-d829b4003815472b8a04b8cb27756b80_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d829b4003815472b8a04b8cb27756b80_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>稳定完成，髋部稳定性正常</p><p>身体明显偏向一侧，或者过程中，晃动明显，髋部稳定性差。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>影响</p><p class=\"ztext-empty-paragraph\"><br/></p><p>①摇曳步态，正常人走路，骨盆在水平面趋于稳定，髋关节周围的稳定肌群肌力不足时可能会出现走路胯往下“掉”的问题。（下图属于比较严重的情况）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4c7c9a733d6577bb20f7961a8ee78e76_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic3.zhimg.com/v2-4c7c9a733d6577bb20f7961a8ee78e76_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;640&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"640\" data-thumbnail=\"https://pic3.zhimg.com/v2-4c7c9a733d6577bb20f7961a8ee78e76_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic3.zhimg.com/v2-4c7c9a733d6577bb20f7961a8ee78e76_b.gif\"/></figure><p>②腰痛，骨盆的不稳定，会造成腰部的挤压，长期会引发腰痛</p><p>③膝痛  髋关节的问题向上影响腰椎，向下影响邻近的膝关节，髋部的稳定性差经常导致跑步膝，造成膝盖内侧的疼痛。</p><p>④影响髋周围肌群的发力  肌肉的发力需要一个稳定的环境，人很难在一个光滑的冰面上站稳，缺乏了稳定的支撑，肌肉的产力能力也会下降，这可能就是你翘臀练不起来的原因。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>改善</p><p class=\"ztext-empty-paragraph\"><br/></p><p>①蚌式 侧卧位，大腿小腿呈120度左右，脚跟内侧相贴的情况下，上侧的腿慢慢向上打开，像开合的蚌，注意幅度不用太大，骨盆保持稳定，没用明显的翻转。 </p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-42d87eb93286fff0bf4d8199c62be845_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"354\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-42d87eb93286fff0bf4d8199c62be845_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;354&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"354\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-42d87eb93286fff0bf4d8199c62be845_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-42d87eb93286fff0bf4d8199c62be845_b.jpg\"/></figure><p>②狗式  四肢跪地，大腿小腿成90度，一侧腿慢慢向外侧打开，动作有点像狗撒尿。。。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-00496f791fc9fa501d3e963a0fc9de1d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-00496f791fc9fa501d3e963a0fc9de1d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;410&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"410\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-00496f791fc9fa501d3e963a0fc9de1d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-00496f791fc9fa501d3e963a0fc9de1d_b.jpg\"/></figure><p>③弹力带侧向移动  </p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-cc02b70d20c7d147596d021a31e028a7_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"400\" data-thumbnail=\"https://pic4.zhimg.com/v2-cc02b70d20c7d147596d021a31e028a7_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-cc02b70d20c7d147596d021a31e028a7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;400&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"400\" data-thumbnail=\"https://pic4.zhimg.com/v2-cc02b70d20c7d147596d021a31e028a7_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-cc02b70d20c7d147596d021a31e028a7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-cc02b70d20c7d147596d021a31e028a7_b.gif\"/></figure><p>总结</p><p class=\"ztext-empty-paragraph\"><br/></p><p>评估动作比较简单也比较基础，评估的是你有多弱而不是有多强，都能完美完成是正常的，完成不了需要引起重视了，对照一下自己是不是存在类似疼痛或者发力的问题。</p><p>还等什么，赶紧动手测一下吧。</p>", 
+            "topic": [
+                {
+                    "tag": "评估", 
+                    "tagLink": "https://api.zhihu.com/topics/19914479"
+                }, 
+                {
+                    "tag": "健身", 
+                    "tagLink": "https://api.zhihu.com/topics/19552192"
+                }, 
+                {
+                    "tag": "零基础", 
+                    "tagLink": "https://api.zhihu.com/topics/19740775"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "这个手刹不太灵", 
+                    "userLink": "https://www.zhihu.com/people/74e21dd6336cf9f6e2a8a45dea37294a", 
+                    "content": "很多人都不会注意到的这些细节，看了很有收获，愿越来越多人能关注到这些知识，谢谢分享。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/35605557", 
+            "userName": "大鹏", 
+            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+            "upvote": 6, 
+            "title": "关于零基础健身入门", 
+            "content": "<blockquote>文章标签：零基础  流程 关节<br/><br/><br/>文章撰写：徐老师</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>首先，看到“健身”这个词在你脑海中的第一幅闪过的画面是不是类似这样的</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6f5abe119eba47cf373eda4f20e2f05b_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"270\" data-thumbnail=\"https://pic4.zhimg.com/v2-6f5abe119eba47cf373eda4f20e2f05b_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;270&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"270\" data-thumbnail=\"https://pic4.zhimg.com/v2-6f5abe119eba47cf373eda4f20e2f05b_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic4.zhimg.com/v2-6f5abe119eba47cf373eda4f20e2f05b_b.gif\"/></figure><p>在当下的大众认知中，健身的概念几乎等同于健美，是否有一身强壮性感的肌肉也成为衡量健身水平的指标。</p><p>但实际上，健身从力量训练的角度来讲，也包含非常多的体系——体能训练，举重、力量举、crossfit。。。健美式的训练只是其中之一。</p><p>目标不同选择的训练体系也不一样，像健美式的训练又叫bodybuilding，雕塑形体更有优势，而力量举式的训练其目的更多在于挑战人体极限，举起更大的重量，体能训练的目的更多在于发展人体的综合素质。</p><p>就像篮球、足球、排球同样是球，但具体的规则，玩法却完全不一样。</p><p>但不管你健身的目标是什么，选择什么样的训练体系去训练，想要安全有效地达到自己的健身目标，相同的一点是都需要动用人体的运动系统，都要遵循基本的关节运动功能。准确的掌握符合人体生物力学的几大基础运动模式（推，拉，蹲，旋转等），然后基于基础的动作模式，逐步的进阶，来达成自己的训练目标。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-27bacad0cde7b942ff42bd239ec91c68_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"510\" data-rawheight=\"340\" class=\"origin_image zh-lightbox-thumb\" width=\"510\" data-original=\"https://pic1.zhimg.com/v2-27bacad0cde7b942ff42bd239ec91c68_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;510&#39; height=&#39;340&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"510\" data-rawheight=\"340\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"510\" data-original=\"https://pic1.zhimg.com/v2-27bacad0cde7b942ff42bd239ec91c68_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-27bacad0cde7b942ff42bd239ec91c68_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>我认为相对科学的健身入门必须要经过的流程应该是这样的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>①基础的关节基本功能强化</p><p>②中线的稳定与调整</p><p>③基础动作模式的学习（推、拉、蹲、旋转等）</p><p>④不同训练体系的训练</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>为什么首先要进行关节功能的强化？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>人体的动作是基于关节的运动组合而成的，关节可以说是运动的最小单位，人体大部分的动作都需要多关节的协作完成，而不同的关节在整体运动中都有不同的功能表现。如果某些关节功能存在缺陷，势必对其他关节的功能产生影响。</p><p>比如：在深蹲这个动作中，髋关节主发力，膝关节主稳定，起顺势发力的作用，如果髋关节的功能存在缺陷，发力的功能障碍，那膝关节势必承担更多的发力任务，久而久之，一是很容易导致膝关节的损伤，二是很容易出现大腿前侧凸了，屁股没起来的问题。</p><p>所以在基本的动作模式学习之前，我们首先要确保基本的关节功能的完备，</p><p>关节功能在运动中的体现有两个方面：灵活性跟稳定性</p><p class=\"ztext-empty-paragraph\"><br/></p><p>灵活性是指关节的活动范围及产力的能力</p><p>稳定性是指维持关节基本姿态的能力</p><p class=\"ztext-empty-paragraph\"><br/></p><p>同样拿髋关节举例：灵活性不足，关节活动范围受限，最直观的体现就是蹲不下去，或者能蹲下去，但姿势崩溃。</p><p>稳定性不足，如下左图，骨盆稳定性差，不断的对腰椎挤压，长久会有腰疼的隐患。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-aa0e1a684f827eb30e90bf771e14c91f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1234\" data-rawheight=\"820\" class=\"origin_image zh-lightbox-thumb\" width=\"1234\" data-original=\"https://pic4.zhimg.com/v2-aa0e1a684f827eb30e90bf771e14c91f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1234&#39; height=&#39;820&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1234\" data-rawheight=\"820\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1234\" data-original=\"https://pic4.zhimg.com/v2-aa0e1a684f827eb30e90bf771e14c91f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-aa0e1a684f827eb30e90bf771e14c91f_b.jpg\"/></figure><p>关于基本关节功能的自测，今天这里挖个坑，下次再埋（怕说的多了，又臭又长）。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>中线的稳定与调整为什么很重要？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>脊柱位于我们身体的中央区域，在力量表现中呈现特别重要的作用，所有我们考虑优化脊柱周围的力学机制</p><p>在做力量训练时，我们一直会强调把脊柱调整到正确的姿势，绷紧身体，收紧腹部以及稳定躯干的重要性。力量的传递遵循“由核心区到四肢”的路线，如果不将脊柱调整到最佳的中立位（头部位于肩部正上方，胸廓位于骨盆正上方并处于平衡状态）我 们就很难有效的从髋部和肩部等主要发力部位产生力量，并会严重削弱稳定性、力量和爆发力，导致疼痛和伤病的频繁发生。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>基础的动作模式学习的意义是什么？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>基础的动作模式——推、拉、蹲、旋转等</p><p class=\"ztext-empty-paragraph\"><br/></p><p>推系的代表动作如水平推——俯卧撑</p><p>                           竖直推——实力举</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-9b9588253431cfeaae1cd159f5e6a88f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"620\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic4.zhimg.com/v2-9b9588253431cfeaae1cd159f5e6a88f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;620&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"620\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic4.zhimg.com/v2-9b9588253431cfeaae1cd159f5e6a88f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9b9588253431cfeaae1cd159f5e6a88f_b.jpg\"/></figure><p>拉系的代表动作如水平拉——杠铃划船</p><p>                           竖直拉——引体向上</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-bd3d549e26e0122da6f7ec8722057634_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"853\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-bd3d549e26e0122da6f7ec8722057634_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;853&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"853\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-bd3d549e26e0122da6f7ec8722057634_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-bd3d549e26e0122da6f7ec8722057634_b.jpg\"/></figure><p>蹲系的代表动作 如膝主导——深蹲</p><p>                            髋主导——硬拉</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7a615dbbe8da779b6ee64f1fd909e857_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"853\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic4.zhimg.com/v2-7a615dbbe8da779b6ee64f1fd909e857_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;853&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"853\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic4.zhimg.com/v2-7a615dbbe8da779b6ee64f1fd909e857_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7a615dbbe8da779b6ee64f1fd909e857_b.jpg\"/></figure><p>旋转系的代表动作 如 伐木、棒球、网球</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7f8857d646cf07e57be1e1595e7f0086_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic3.zhimg.com/v2-7f8857d646cf07e57be1e1595e7f0086_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;960&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1280\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic3.zhimg.com/v2-7f8857d646cf07e57be1e1595e7f0086_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7f8857d646cf07e57be1e1595e7f0086_b.jpg\"/></figure><p>正确的基础的运动模式最符合人体动力系统的发力规律。可以教会我们正确的使用我们的身体。你遵从它运动安全高效，相反你违背它，就会有很高的运动风险。</p><p>同时，基础的运动模式也往往是评估我们的关节功能是否存在缺陷的工具，当我们连最基本的基础动作都不能完成的时候，关节功能肯定是由缺陷的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>不同体系的训练</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>基本关节功能完备，具备了核心（中线）稳定的能力，基础动作模式完美掌握，你可以根据自己的目标选择合适你的训练体系。</p><p>想做力拔山兮气盖世，建议你选择力量举</p><p>想撑爆衣袖翘臀马甲线，健美式的训练可能更适合你</p><p>想综合强健，无所不能，体能训练，crossfit供你选择。</p><p>其他还没想好。。。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>                                                          总结</b></p><p>具体良好的关节功能是训练的前提，你的训练瓶颈、伤痛可能都跟某些关节功能的缺陷有关。发现问题，解决问题，补足短板，你的训练才会更高效。</p><p>科学入门，少走弯路。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "零基础", 
+                    "tagLink": "https://api.zhihu.com/topics/19740775"
+                }, 
+                {
+                    "tag": "健身", 
+                    "tagLink": "https://api.zhihu.com/topics/19552192"
+                }, 
+                {
+                    "tag": "小白", 
+                    "tagLink": "https://api.zhihu.com/topics/19570574"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/35347589", 
+            "userName": "大鹏", 
+            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+            "upvote": 3, 
+            "title": "一个肠胃不好的瘦子的增重血泪史（二）", 
+            "content": "<p>承接上篇，对自己训练状态的一个记录。<br/></p><p>我的训练计划</p><p class=\"ztext-empty-paragraph\"><br/></p><p> 需求目标：1.体重增长到140</p><p>                2.整体力量增长</p><p>                3.改善肩的灵活性问题</p><p>                4.加强核心</p><p class=\"ztext-empty-paragraph\"><br/></p><p>总计划时间10周</p><p class=\"ztext-empty-paragraph\"><br/></p><p> 第一阶段：1-3周  恢复训练状态（训练断了有一个多月）8-12rm中低负荷训练为     主。</p><p> 第二阶段：4-6周  力量增长     3-6rm中高负荷训练为主。</p><p> 第三阶段：7-9周  爆发性训练   快速，超等长训练为主。</p><p> 第10周    恢复期 1周，不刻意安排，缓冲休息。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>具体安排如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-848c8507edfc779d8e843037b3c57d92_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"583\" data-rawheight=\"265\" class=\"origin_image zh-lightbox-thumb\" width=\"583\" data-original=\"https://pic3.zhimg.com/v2-848c8507edfc779d8e843037b3c57d92_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;583&#39; height=&#39;265&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"583\" data-rawheight=\"265\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"583\" data-original=\"https://pic3.zhimg.com/v2-848c8507edfc779d8e843037b3c57d92_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-848c8507edfc779d8e843037b3c57d92_b.jpg\"/></figure><p>目前是计划的第二阶段：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>力量增长：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>第二阶段的训练动作跟第一阶段是一样的，不同的是强度变大（重量上升，重复次数3-6次）</p><p>训练以2个双组式和一个三组式训练为主（上图以颜色区分）</p><p>每个组式做3个正式组 </p><p>                   计划第一周 每组数5次</p><p>                          第二周  重量升 每组5次</p><p>                          第三周 重量升 每组5次</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这个阶段的训练变动由于3月24日参加了斯巴达勇士赛的缘故，变动有点大，第一周的四次训练都完成了，第二周只训练了2次（勇士赛前2天就停训了），第三周也只练了2次（勇士赛完全身酸痛了好几天才恢复）。</p><p>第三阶段 爆发的训练打算放弃了，手腕有点点不适，高翻这个动作还练得不是很到位，在轻重量琢磨下，现阶段不太适合上大重量，重量一大，动作感觉变形严重。准备换新的计划，先适用一周再微调。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d86aae76099654c9ca840900b462b693_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"675\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-d86aae76099654c9ca840900b462b693_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;675&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"675\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-d86aae76099654c9ca840900b462b693_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d86aae76099654c9ca840900b462b693_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-78555fc6e542d59bb54ccbfaae485cce_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"675\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-78555fc6e542d59bb54ccbfaae485cce_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;675&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"675\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-78555fc6e542d59bb54ccbfaae485cce_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-78555fc6e542d59bb54ccbfaae485cce_b.jpg\"/></figure><p>关于力量：</p><p>   测了一次硬拉1rm 目前是145kg<br/></p><p>     1rm深蹲没测，110kg 3组5次的训练完成度还可以，推测1rm在120kg-125kg。</p><p>     卧推1rm重量推测在85-90千克左右</p><p>     当然这个成绩比较渣，也没想跟谁比，主要还是对自己的一个交代，总要有一颗变强的决心吧。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>关于体重：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>三周变化如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-c75b696c4cbcfeff68e8ebe3e6cc4c88_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"722\" data-rawheight=\"434\" class=\"origin_image zh-lightbox-thumb\" width=\"722\" data-original=\"https://pic1.zhimg.com/v2-c75b696c4cbcfeff68e8ebe3e6cc4c88_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;722&#39; height=&#39;434&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"722\" data-rawheight=\"434\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"722\" data-original=\"https://pic1.zhimg.com/v2-c75b696c4cbcfeff68e8ebe3e6cc4c88_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c75b696c4cbcfeff68e8ebe3e6cc4c88_b.jpg\"/></figure><p>分析：本来经过第一阶段的摸索，第二阶段初期的一周已经渐入佳境，结合训练，体重基本上是稳步上升的，3月22号达到了巅峰的68.85kg，这个时候一度觉得可能都不用第三阶段，70kg的目标3月底应该就能完成了。</p><p>但是呢，很快就美梦破裂了，勇士赛来了，虽然没有刻意的备赛，临近的前两天还是停训了，没参加过的嘛，保存体能。</p><p>另外一个比较大的影响就是饮食了，因为没训练，增肌粉也停了（我重要的热量来源）每天的热量不够了，再加上勇士赛当天状态很差，我基本上都是12点前入睡，那天跟2个参赛的队友一起住酒店，两人吃鸡玩得挺晚，我受影响大概2点才睡，结果就是没休息好，早上肠胃特别不舒服，什么都没吃，喝了半瓶乳酸菌饮料也全都吐了。</p><p>然后之后的几天都受到影响，什么都不想吃，体重很快就掉下来了，长点肉不容易，一下回到解放前。</p><p>目前体重68.1kg算是小有增长吧。</p><p>还有4周左右的时间，顺利的话应该还是可以完成目标任务的</p><p class=\"ztext-empty-paragraph\"><br/></p><p>革命尚未成功，老铁们仍须努力。。。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1216d2210f1e9f13e546017bf4a30e8e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-1216d2210f1e9f13e546017bf4a30e8e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-1216d2210f1e9f13e546017bf4a30e8e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1216d2210f1e9f13e546017bf4a30e8e_b.jpg\"/></figure><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "瘦子", 
+                    "tagLink": "https://api.zhihu.com/topics/19596852"
+                }, 
+                {
+                    "tag": "瘦人增肥", 
+                    "tagLink": "https://api.zhihu.com/topics/19888503"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/35151877", 
+            "userName": "大鹏", 
+            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+            "upvote": 55, 
+            "title": "第一视角感受斯巴达勇士赛", 
+            "content": "<p>内容标签：斯巴达  障碍    <br/></p><p>文章撰写：大鹏</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f1a234de4f7002f1ba65849fbcfd6d8c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"947\" data-rawheight=\"823\" class=\"origin_image zh-lightbox-thumb\" width=\"947\" data-original=\"https://pic1.zhimg.com/v2-f1a234de4f7002f1ba65849fbcfd6d8c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;947&#39; height=&#39;823&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"947\" data-rawheight=\"823\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"947\" data-original=\"https://pic1.zhimg.com/v2-f1a234de4f7002f1ba65849fbcfd6d8c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f1a234de4f7002f1ba65849fbcfd6d8c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>对斯巴达（玩泥巴）勇士赛种草已久，刚好今年的第一场赛事在深圳落地，就和2个小伙伴（Bruce和tony）一起赶紧报名。</p><p>什么第一次听说“斯巴达勇士赛”，来我们先了解下是怎么回事。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>斯巴达勇士赛始于2005年，吸收了古斯巴达人军事训练传统科目，改造演化成一项风靡全球的顶级系列障碍赛，系列赛包含三个级别的常规赛事，分别是：初级斯巴达勇士竞速赛（Spartan Sprint Race）（6公里多，超过21个障碍），中级斯巴达勇士超级赛（Spartan Super Race）（12公里多，超过24个障碍），高级斯巴达勇士野兽赛（Spartan Beast Race）（21公里以上，超过30个障碍）。</p><p>斯巴达的奖牌也很特别，每次完成比赛，除了获得一块完整奖牌之外，还会得到一块代表该难度的1/3奖牌，分别完成一场竞速赛（红色奖章）、一场超级赛（蓝色奖章）和一场野兽赛（绿色奖章），将三种难度的1/3奖牌收集全，就能拼成一个完整的三色奖牌（Trifectal），感觉像龙珠。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-02dcd5e79d42e6adc60ed74c3fe1fe41_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"562\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb\" width=\"562\" data-original=\"https://pic2.zhimg.com/v2-02dcd5e79d42e6adc60ed74c3fe1fe41_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;562&#39; height=&#39;383&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"562\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"562\" data-original=\"https://pic2.zhimg.com/v2-02dcd5e79d42e6adc60ed74c3fe1fe41_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-02dcd5e79d42e6adc60ed74c3fe1fe41_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-43a8c6335a57dfd360b898f952f9da79_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"526\" data-rawheight=\"573\" class=\"origin_image zh-lightbox-thumb\" width=\"526\" data-original=\"https://pic2.zhimg.com/v2-43a8c6335a57dfd360b898f952f9da79_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;526&#39; height=&#39;573&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"526\" data-rawheight=\"573\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"526\" data-original=\"https://pic2.zhimg.com/v2-43a8c6335a57dfd360b898f952f9da79_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-43a8c6335a57dfd360b898f952f9da79_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>3月24日的斯巴达勇士赛在观澜湖生态体育园举办，第一次来这个体育园感觉环境真心不错，周围配套的体育设施也很齐全，下次想去玩下附近的蹦床。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-96a6a1f99dc0dbead92fff0b9224bfd1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"810\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-96a6a1f99dc0dbead92fff0b9224bfd1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;810&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"810\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-96a6a1f99dc0dbead92fff0b9224bfd1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-96a6a1f99dc0dbead92fff0b9224bfd1_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-38984bac5888ecde8fc7d365be2f7773_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"280\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-38984bac5888ecde8fc7d365be2f7773_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;450&#39; height=&#39;280&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"280\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-38984bac5888ecde8fc7d365be2f7773_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-38984bac5888ecde8fc7d365be2f7773_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>比赛地图可以清晰看出路线和每个障碍的位置，全程7+公里，设置了22个障碍，3个补给站</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-aa610e011bf4b63d53539d7d14056012_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"789\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-aa610e011bf4b63d53539d7d14056012_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;789&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"789\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-aa610e011bf4b63d53539d7d14056012_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-aa610e011bf4b63d53539d7d14056012_b.jpg\"/></figure><p>我们3个人报的最早出发的精英组，</p><p>我全程胸前系了一台Gopro，全程第一视角记录（后面悲剧的没电了）出发前主持人一通喊口号，打鸡血~~~巴拉巴拉，9点，一声令下，众勇士如恶狗捕食般汹涌而出。</p><p>（下图是出发前）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-2fad72ea63e84049387094f4f08e7373_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic4.zhimg.com/v2-2fad72ea63e84049387094f4f08e7373_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-2fad72ea63e84049387094f4f08e7373_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic4.zhimg.com/v2-2fad72ea63e84049387094f4f08e7373_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-2fad72ea63e84049387094f4f08e7373_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2fad72ea63e84049387094f4f08e7373_b.gif\"/></figure><p>两个小伙伴 Bruce（左）Tony（右）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-05afa47a97f739d97639fb5f2836a7d2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"771\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-05afa47a97f739d97639fb5f2836a7d2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;771&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"771\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-05afa47a97f739d97639fb5f2836a7d2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-05afa47a97f739d97639fb5f2836a7d2_b.jpg\"/></figure><p>第一个障碍距离出发点有一公里，期间各种上坡下坡，平时专注撸铁从来不做有氧的bruce表示，1公里跑完大腿已经充血发胀，哈哈哈</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1. 第一个障碍——翻越高栏  一共三个，每个相聚10米左右，高度大概1米，零难度 轻松搞定。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-7a0ce3e93b3ff7a994dd7646e17c5198_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-7a0ce3e93b3ff7a994dd7646e17c5198_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-7a0ce3e93b3ff7a994dd7646e17c5198_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-7a0ce3e93b3ff7a994dd7646e17c5198_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-7a0ce3e93b3ff7a994dd7646e17c5198_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-7a0ce3e93b3ff7a994dd7646e17c5198_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>2. 障碍2——伊卡洛斯之翼   高度也就1.2米，基本也都没问题。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>3. 障碍3——跨越屋脊看着挺唬人，其实特简单，一步一步慢慢来就好。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-907328b2ad976f3e46ac38438bb345b2_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic3.zhimg.com/v2-907328b2ad976f3e46ac38438bb345b2_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-907328b2ad976f3e46ac38438bb345b2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic3.zhimg.com/v2-907328b2ad976f3e46ac38438bb345b2_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-907328b2ad976f3e46ac38438bb345b2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-907328b2ad976f3e46ac38438bb345b2_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-22587c36fe7962cc76767ba945f91bd9_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic2.zhimg.com/v2-22587c36fe7962cc76767ba945f91bd9_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-22587c36fe7962cc76767ba945f91bd9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic2.zhimg.com/v2-22587c36fe7962cc76767ba945f91bd9_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-22587c36fe7962cc76767ba945f91bd9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-22587c36fe7962cc76767ba945f91bd9_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>4. 障碍4——海格力斯的挑战 第一个下马威，自此形象什么的都是浮云了。水深1.2米，连续四个水坑有点小狼狈。难度比较低，就是上岸的时候脚下比较滑。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-4d6964b1e2567d745cbc0c055041c3d5_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic2.zhimg.com/v2-4d6964b1e2567d745cbc0c055041c3d5_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-4d6964b1e2567d745cbc0c055041c3d5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic2.zhimg.com/v2-4d6964b1e2567d745cbc0c055041c3d5_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-4d6964b1e2567d745cbc0c055041c3d5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-4d6964b1e2567d745cbc0c055041c3d5_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>5. 障碍5——冥河洗礼反正前面都已经湿身了，这里就无所谓了，憋口气，从下面钻过去就可以了。</p><p>这个全程入水，没敢开机</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2bc716d2dfef369e49ecdb1811ae78d4_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"224\" data-thumbnail=\"https://pic1.zhimg.com/v2-2bc716d2dfef369e49ecdb1811ae78d4_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;224&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"224\" data-thumbnail=\"https://pic1.zhimg.com/v2-2bc716d2dfef369e49ecdb1811ae78d4_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic1.zhimg.com/v2-2bc716d2dfef369e49ecdb1811ae78d4_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-727b19941653a7aae75345938dff6ce5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-727b19941653a7aae75345938dff6ce5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-727b19941653a7aae75345938dff6ce5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-727b19941653a7aae75345938dff6ce5_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>6.障碍6——俄尔普斯之禁刚变完落汤鸡，迎面而来的是障碍6——俄尔普斯之禁，爬大约40米距离的烂泥铁丝网，开始内心是拒绝的，还是咬咬牙上吧，此时穿短裤的弊端就来了，磨得有点疼，不敢动作太大，至于我怎么爬得，你可以脑补下街头腿有残疾的乞丐，这一段还真挺累，也可能是我打开的方式不对。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-d1c66d5c06ea9b58155b1265a7252f01_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic2.zhimg.com/v2-d1c66d5c06ea9b58155b1265a7252f01_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-d1c66d5c06ea9b58155b1265a7252f01_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic2.zhimg.com/v2-d1c66d5c06ea9b58155b1265a7252f01_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-d1c66d5c06ea9b58155b1265a7252f01_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-d1c66d5c06ea9b58155b1265a7252f01_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-358ac2a67666c23f3aaab307889ac387_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-358ac2a67666c23f3aaab307889ac387_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-358ac2a67666c23f3aaab307889ac387_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-358ac2a67666c23f3aaab307889ac387_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>7. 上一关爬完基本都变小黄人了，又是1公里左右的上坡下坡式丛林穿越路程，期间看到有只运动鞋的断底，不知道是哪位悲催哥们的装备。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f2648c3311e05cbddf55a9d6b8c73424_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-f2648c3311e05cbddf55a9d6b8c73424_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-f2648c3311e05cbddf55a9d6b8c73424_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-f2648c3311e05cbddf55a9d6b8c73424_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-f2648c3311e05cbddf55a9d6b8c73424_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f2648c3311e05cbddf55a9d6b8c73424_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>8. 障碍7——空中栈道平时单玩的话也不算太难，这会全身又湿又滑，实在抓不住，还是直接来惩罚30个波比吧</p><p>镜头上沾了泥巴，自带朦胧效果</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d3c852b5e3c42ff2879138db1c6fcb78_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-d3c852b5e3c42ff2879138db1c6fcb78_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-d3c852b5e3c42ff2879138db1c6fcb78_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-d3c852b5e3c42ff2879138db1c6fcb78_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-d3c852b5e3c42ff2879138db1c6fcb78_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d3c852b5e3c42ff2879138db1c6fcb78_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>9. 障碍8——宙斯的惩罚 男性23公斤，女性13公斤的沙包，扛在背上负重走大约200米，期间有个上下坡，感觉走快一点比较节省体能。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a2bcdc36fbbeefda3fb85227e74140e5_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic2.zhimg.com/v2-a2bcdc36fbbeefda3fb85227e74140e5_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-a2bcdc36fbbeefda3fb85227e74140e5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic2.zhimg.com/v2-a2bcdc36fbbeefda3fb85227e74140e5_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-a2bcdc36fbbeefda3fb85227e74140e5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a2bcdc36fbbeefda3fb85227e74140e5_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-2d297257b36edc54045baaf7758a9ba2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1620\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-2d297257b36edc54045baaf7758a9ba2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1620&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1620\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-2d297257b36edc54045baaf7758a9ba2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-2d297257b36edc54045baaf7758a9ba2_b.jpg\"/></figure><p>10. 障碍9——雅各布天梯这个跟跨越屋脊一样，特简单，只要你不恐高，一步一步稳稳来就好 。 </p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-410415b6c1865e50bd06b341f2167c43_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic4.zhimg.com/v2-410415b6c1865e50bd06b341f2167c43_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-410415b6c1865e50bd06b341f2167c43_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic4.zhimg.com/v2-410415b6c1865e50bd06b341f2167c43_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-410415b6c1865e50bd06b341f2167c43_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-410415b6c1865e50bd06b341f2167c43_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0343d1b5db5052be2e75bca8b3dd5e0c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"565\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic1.zhimg.com/v2-0343d1b5db5052be2e75bca8b3dd5e0c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1000&#39; height=&#39;565&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"565\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://pic1.zhimg.com/v2-0343d1b5db5052be2e75bca8b3dd5e0c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0343d1b5db5052be2e75bca8b3dd5e0c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>11. 障碍10——伊卡洛斯之翼跟障碍2一样，但是高度更高了，难度也稍微增加了些，感觉还好，一鼓作气翻过，走人</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-43fb74a9242d804507c79fb07cdbd95c_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>11. 期间路过第二个补给点，喝口水继续。。。恩，已过3公里了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>12. 障碍11——海格力斯之臂</p><p>坐在地上把重约40公斤（女性20公斤）的沙袋通过绳子拉到高处（大概有10来米），抵住栏杆，身体尽量往后倒，会好拉一点，不用脚抵住的话，感觉会有很强的发拉扯感，还算有点难度吧，路过的时候，看到几个失败的在做波比。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-279c15ca5b93cf52f446e975aa7a26ca_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic3.zhimg.com/v2-279c15ca5b93cf52f446e975aa7a26ca_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-279c15ca5b93cf52f446e975aa7a26ca_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic3.zhimg.com/v2-279c15ca5b93cf52f446e975aa7a26ca_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-279c15ca5b93cf52f446e975aa7a26ca_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-279c15ca5b93cf52f446e975aa7a26ca_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>13，障碍12——翻越奥林匹斯  斜的高墙大概2.2米，可借助凸起的横杆，感觉比伊卡洛斯之翼这些直的高墙难度要大一些，翻的时候差点没挂住，有点惊险。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-61bc8369f17d38f81be01309ca3fa1a9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"480\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic2.zhimg.com/v2-61bc8369f17d38f81be01309ca3fa1a9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;720&#39; height=&#39;480&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"480\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic2.zhimg.com/v2-61bc8369f17d38f81be01309ca3fa1a9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-61bc8369f17d38f81be01309ca3fa1a9_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-160f8e363a1276d635486a000f55f39f_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic4.zhimg.com/v2-160f8e363a1276d635486a000f55f39f_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-160f8e363a1276d635486a000f55f39f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic4.zhimg.com/v2-160f8e363a1276d635486a000f55f39f_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-160f8e363a1276d635486a000f55f39f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-160f8e363a1276d635486a000f55f39f_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>14.障碍13——牵素越坡拉着绳子越过45度的斜坡再爬下去，so easy 没什么难度</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-13f31d1de4e560de2f352be31dade519_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic2.zhimg.com/v2-13f31d1de4e560de2f352be31dade519_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-13f31d1de4e560de2f352be31dade519_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic2.zhimg.com/v2-13f31d1de4e560de2f352be31dade519_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-13f31d1de4e560de2f352be31dade519_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-13f31d1de4e560de2f352be31dade519_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>15.障碍14——三阶穿越 翻过第一座墙，从第二座墙下钻过，从第三座墙中间穿过，也没什么难度，用最帅的姿势搞定</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-5cbff562a554b5f070f62b3174cfb7be_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic3.zhimg.com/v2-5cbff562a554b5f070f62b3174cfb7be_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-5cbff562a554b5f070f62b3174cfb7be_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic3.zhimg.com/v2-5cbff562a554b5f070f62b3174cfb7be_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-5cbff562a554b5f070f62b3174cfb7be_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-5cbff562a554b5f070f62b3174cfb7be_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>16.又见伊卡洛斯之翼不过一次比以前高，有些人翻不过去了，波比惩罚，还好我还挺得住。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4fa764dbfe36c22fcb1b860420b60e3c_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-4fa764dbfe36c22fcb1b860420b60e3c_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-4fa764dbfe36c22fcb1b860420b60e3c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic1.zhimg.com/v2-4fa764dbfe36c22fcb1b860420b60e3c_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-4fa764dbfe36c22fcb1b860420b60e3c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4fa764dbfe36c22fcb1b860420b60e3c_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>又是一段很长的丛林式穿越，途中遇到几个陌生的赛友，互相鼓励加油，感觉满满的能量。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>17.障碍16——神庙基石取一个桶（女性是红色的，男性黑色）装石头超过桶内打洞的标记处，感觉男的有30多公斤重，只能双手抱住前进，不能扛在肩上， 总路程大概有200米，个人感觉这个是最耗体能的项目了，那是真的累，看下图表情你就知道了，走完腿有点飘。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7c505793b8cda3a8e85faac85bc6ba9f_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic4.zhimg.com/v2-7c505793b8cda3a8e85faac85bc6ba9f_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-7c505793b8cda3a8e85faac85bc6ba9f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic4.zhimg.com/v2-7c505793b8cda3a8e85faac85bc6ba9f_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-7c505793b8cda3a8e85faac85bc6ba9f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7c505793b8cda3a8e85faac85bc6ba9f_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8d6b3f543d4477e42b852360bb94742e_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic3.zhimg.com/v2-8d6b3f543d4477e42b852360bb94742e_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-8d6b3f543d4477e42b852360bb94742e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" data-thumbnail=\"https://pic3.zhimg.com/v2-8d6b3f543d4477e42b852360bb94742e_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-8d6b3f543d4477e42b852360bb94742e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8d6b3f543d4477e42b852360bb94742e_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ac389453beda20fa2038fa042b3bc14b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1620\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-ac389453beda20fa2038fa042b3bc14b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1620&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1620\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-ac389453beda20fa2038fa042b3bc14b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ac389453beda20fa2038fa042b3bc14b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>18.障碍17——人猿泰山总长约9米，每根横杆相距约1米，横杆巨粗，不能全握住。这一关对上肢力量，握力和身体的协调性要求比较高。恩，我看了一样，果断去做波比了。。。</p><p>这里开始Gopro就悲剧的彻底没电了。。。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-17fa51a07956b46a45993ee7bb535ea3_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"224\" data-thumbnail=\"https://pic4.zhimg.com/v2-17fa51a07956b46a45993ee7bb535ea3_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;224&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"224\" data-thumbnail=\"https://pic4.zhimg.com/v2-17fa51a07956b46a45993ee7bb535ea3_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic4.zhimg.com/v2-17fa51a07956b46a45993ee7bb535ea3_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-538d2460751e90aa44eaff87d60afb0e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"449\" data-rawheight=\"673\" class=\"origin_image zh-lightbox-thumb\" width=\"449\" data-original=\"https://pic3.zhimg.com/v2-538d2460751e90aa44eaff87d60afb0e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;449&#39; height=&#39;673&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"449\" data-rawheight=\"673\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"449\" data-original=\"https://pic3.zhimg.com/v2-538d2460751e90aa44eaff87d60afb0e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-538d2460751e90aa44eaff87d60afb0e_b.jpg\"/></figure><p>19.障碍18——胜利之矛 技巧型项目，据说这关的通过率不足10%，扔了2次，果然都没中，加入了波比大军，后来看了下前人的经验，要点是握在长矛的重心位置，助跑几部，瞄准靶心稍上方，保持长矛超前的方向，像投标枪一样全力投出，剩下的就看运气了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-65703ff9a77a864b608a5ac41e5e3912_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"479\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-65703ff9a77a864b608a5ac41e5e3912_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;720&#39; height=&#39;479&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"479\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic3.zhimg.com/v2-65703ff9a77a864b608a5ac41e5e3912_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-65703ff9a77a864b608a5ac41e5e3912_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>20.障碍19——金苹果的守护爬5米高的绳，绳子较细（直径25mm），攀爬有力的只用双手没几下就到顶了，能力差的可配合用脚，用J型爬绳法。最好选前人用的少的绳，不然又湿又滑，不好爬。在赛程接近尾声的情况下，这个还是难度，身边好多人在做波比惩罚，还好我没三连跪。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-77238ec51ff2566eef92bccfbccf26f3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"678\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-77238ec51ff2566eef92bccfbccf26f3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;450&#39; height=&#39;678&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"678\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"450\" data-original=\"https://pic4.zhimg.com/v2-77238ec51ff2566eef92bccfbccf26f3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-77238ec51ff2566eef92bccfbccf26f3_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>完赛前最后一段长约1公里的的丛林穿越了，路过一座浮桥，据说也算障碍，不过后来翻的时候里面是没有的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>21.障碍20-普罗米修斯之火 宽大约半米的小火堆，装逼拍照专用的，用最帅的姿势越过就好，有摄影师抓拍呦。</p><p>看tony帅气的穿越火线。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1216d2210f1e9f13e546017bf4a30e8e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-1216d2210f1e9f13e546017bf4a30e8e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-1216d2210f1e9f13e546017bf4a30e8e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1216d2210f1e9f13e546017bf4a30e8e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>22 倒数第二个障碍 阿特拉斯之石男性52公斤，女性34公斤的一块圆石搬运5米后做5个波比跳，再搬回去。这个还是有点重，不过还好距离不长，咬咬牙还是可以的。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-4abc0cfcbd32a69c90cb7dc1d252a469_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"224\" data-thumbnail=\"https://pic2.zhimg.com/v2-4abc0cfcbd32a69c90cb7dc1d252a469_b.jpg\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;224&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"224\" data-thumbnail=\"https://pic2.zhimg.com/v2-4abc0cfcbd32a69c90cb7dc1d252a469_b.jpg\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic2.zhimg.com/v2-4abc0cfcbd32a69c90cb7dc1d252a469_b.gif\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b48221f66eae9844095a25902a5c2f9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"606\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-b48221f66eae9844095a25902a5c2f9c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;606&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"606\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-b48221f66eae9844095a25902a5c2f9c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b48221f66eae9844095a25902a5c2f9c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>23 最后一个障碍 奥林匹斯之巅  有点像攀岩，只能利用扶手通过墙，不能使用墙体上沿和踩地，难度系数也比较高，还好顺利通过，赛后听另外两个小伙伴，这关都失败做了波比。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-072a765d68291bcec7b93ef274f43c1c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"611\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-072a765d68291bcec7b93ef274f43c1c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;611&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"611\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-072a765d68291bcec7b93ef274f43c1c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-072a765d68291bcec7b93ef274f43c1c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>终点啦，挂上奖牌，先来张酷酷的照片</p><p class=\"ztext-empty-paragraph\"><br/></p><p>三人组完赛照</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-2892699c1b5cc889fce3ff3f505ed5ba_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-2892699c1b5cc889fce3ff3f505ed5ba_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-2892699c1b5cc889fce3ff3f505ed5ba_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-2892699c1b5cc889fce3ff3f505ed5ba_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>和国际友人的合影</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-554ef52d026b8482e78b29ab8384f39c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"810\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-554ef52d026b8482e78b29ab8384f39c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;810&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"810\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-554ef52d026b8482e78b29ab8384f39c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-554ef52d026b8482e78b29ab8384f39c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>女子组第一名的小姐姐</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-a98d5340d1258f54a8c730a9a70c245b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1440\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-a98d5340d1258f54a8c730a9a70c245b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1440&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1440\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-a98d5340d1258f54a8c730a9a70c245b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a98d5340d1258f54a8c730a9a70c245b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>最美DJ</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-bee3989073f3c6676f0a019e40e57dec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"675\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-bee3989073f3c6676f0a019e40e57dec_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;675&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"675\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-bee3989073f3c6676f0a019e40e57dec_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-bee3989073f3c6676f0a019e40e57dec_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>赛后总结</b>：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>装备：1.建议全套长袖长裤紧身衣 我这次穿了纯棉的短袖，沾了水和泥巴，真的重</p><p>     2.最好戴个护膝和护肘，匍匐过泥塘的时候不容易擦伤，我这次短裤，膝盖和肘部还是磨得有点痛</p><p>     3. 最好穿双防滑的鞋，有水的几关，我鞋子太滑，差点上不去</p><p>     4. 护手不是很推荐，沾了水跟泥巴，基本上也起不到防滑的作用。</p><p>     5. 其他 一身换洗的衣服，几个塑料袋装脏衣服，一双拖鞋。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一些小体会，这次一起参加的我（徐老师），Bruce，Tony我们三个人，其中我平时的训练比较偏向综合体能，初力量训练以外还会涉及比较多的抗旋、不稳定的训练，Tony平时的训练属于体能跟健美式训练混合型的，Bruce就是力量型的健美式训练，平时心肺、体能训练几乎为0。</p><p>这次比赛就体现出差距了，tony一骑绝尘，我肩负录制任务，刻意放慢了节奏，总体来说我俩还是应付的比较自如，Bruce上文中提到了开场的1公里大腿就充血发胀了，哈哈哈，掉队严重，据他反应有个肌肉比他还大的大哥还在他后面。（倒数第一的有力争夺者哈哈哈） </p><p>无敌是多么寂寞——耍酷的小白鞋</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9a2a326957a4feb71e92e9fbc8fbdc6a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"792\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb\" width=\"792\" data-original=\"https://pic3.zhimg.com/v2-9a2a326957a4feb71e92e9fbc8fbdc6a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;792&#39; height=&#39;800&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"792\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"792\" data-original=\"https://pic3.zhimg.com/v2-9a2a326957a4feb71e92e9fbc8fbdc6a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9a2a326957a4feb71e92e9fbc8fbdc6a_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>完赛体验：我觉得斯巴达这种类型的比赛是一个很好的平台，平时安安静静，衣冠楚楚的日子过多了，很难得有这样一个机会，让你在挣扎和超越中重新认识自己，参加过一次之后容易上瘾，这不Tony刚比赛完就开始问香港的超级赛要不要去了。。。over</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3dd1e39af425e75eb5671af457db883b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1079\" data-rawheight=\"1422\" class=\"origin_image zh-lightbox-thumb\" width=\"1079\" data-original=\"https://pic4.zhimg.com/v2-3dd1e39af425e75eb5671af457db883b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1079&#39; height=&#39;1422&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1079\" data-rawheight=\"1422\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1079\" data-original=\"https://pic4.zhimg.com/v2-3dd1e39af425e75eb5671af457db883b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3dd1e39af425e75eb5671af457db883b_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "斯巴达", 
+                    "tagLink": "https://api.zhihu.com/topics/19759423"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "正在", 
+                    "userLink": "https://www.zhihu.com/people/debfcbb10100cfc70fdc64531eda72b4", 
+                    "content": "明天北京竞速赛，感谢分享经验", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "老教练", 
+                    "userLink": "https://www.zhihu.com/people/f94b1c3d7953ce73a43383150c781692", 
+                    "content": "明天北京精英赛，感谢分享", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "马明", 
+                    "userLink": "https://www.zhihu.com/people/f64f4c31288bcec0475305d31db8fe55", 
+                    "content": "报名费是多少啊，有啥报名条件吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "正在", 
+                            "userLink": "https://www.zhihu.com/people/debfcbb10100cfc70fdc64531eda72b4", 
+                            "content": "<p>400左右，给件衣服</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "马明"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "刘思源", 
+                    "userLink": "https://www.zhihu.com/people/901b565e7120ff7206354f84c581deda", 
+                    "content": "默默的问一句，衣服好洗吗", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Ethan", 
+                    "userLink": "https://www.zhihu.com/people/f1cda12d64f8fc7d89764fa420ef562a", 
+                    "content": "马上厦门站。 这次准备带上gopro 。胸带全程好用吗？ 臂带如何呢？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34795591", 
+            "userName": "大鹏", 
+            "userLink": "https://www.zhihu.com/people/e5243cb645eb1d9a8aa89fd8ab1c1de0", 
+            "upvote": 7, 
+            "title": "酒精对健身的影响", 
+            "content": "<blockquote>内容标签：酒精  增肌  减脂 <br/></blockquote><p>“抛开剂量谈影响都是耍流氓”</p><p>只要剂量足，万物皆有毒，这句话也同样适用于酒精。</p><p>那从健康角度来讲，喝酒，多少算多，多少算少呢？</p><p>根据目前德国、瑞士和奥地利的营养学观点，<b>男性每天摄入20克酒精，女性每天摄入10克酒精对健康来说是无害的①</b>。（20克酒精的摄入量相当于喝大约0.5升啤酒或者0.25升葡萄酒）。</p><p><b>美国对男性不建议每日摄入超过28克酒精，中国营养学会的建议也类似，《中国男性病及其危险因素检测报告（2010）》里面也给了一个界定，男性每日酒精超过41克，就属于危险饮酒。</b></p><p>少量饮酒被认为对心血管系统有益，但这并不适用于所有人群。女性要特别注意的是，经常摄入酒精可能会增加罹患乳腺癌及其他癌症的风险②。</p><p>那酒精对健身有什么影响呢？</p><p>从减脂和增肌两个角度分开来讲。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>对减脂的影响</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>酒精本身也能提供能量，7kcal/g，能量密度仅次于脂肪9kcal/g,高于碳水化合物和蛋白质的4kcal/g。</p><p>酒精本身不会直接转化为脂肪囤积起来，但酒精在人体的胃部就进行吸收，消化吸收的速度相对于其他供能物质更快。</p><p>而且，对人体来说酒精有毒性，摄入后身体会优先动用其供能，直到身体完全去除为止。在这段时间，酒精替代了其他供能源，间接就造成脂肪的囤积。</p><p>另外，对于大部分人来说，饮酒的同时伴随热量的大量摄入（啤酒跟撸串小龙虾更配），那很显然容易加速人的变胖。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>结论：从能量供应的角度来说，喝酒不利于减脂</b>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>对增肌的影响</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>单次过量饮酒对人体内睾酮的分泌没有明显的影响。但大量酒精的摄入会影响训练后的体能恢复。例如，运动加饮酒会阻碍肌糖原的再生③。另外有项研究显示，偶尔一次的饮酒行为会延长训练而造成的应激激素皮质醇的分泌④（皮质醇激素的一个重要作用是分解蛋白质）。</p><p>所以喝完酒，你的这次撸铁训练可能白练了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>长期过度饮酒对增肌的影响：</p><p>1. 可能造成营养不良。长期摄入酒精可能造成体内维生素B1、B6和叶酸以及其他微量营养素的缺乏。从而直接或间接地影响训练后的恢复水平和蛋白质的合成。</p><p>2. 酒精会加快肾脏排出水分的速度，严重扰乱血液中的矿物质镁、钾、锌等的平衡。造成身体无力和抽筋等（有没有喝完酒，第二天浑身无力的经历？）。</p><p>3. 长期的饮酒可能也会对肌肉造成直接的负面影响。动物实验显示，在一定量的酒精作用下，动物体内在力量训练中发挥重要作用的Ⅱb型肌纤维中的睾酮受体受到明显抑制⑤，即使进行力量训练也无法抑制这种因酒精引起的睾酮受体的减少。从动物实验中获得的研究成果是否适用于人体，目前还没有定论。但长期过量饮酒造成的慢性酒精中毒的症状除了各种身体机能失调以外，大多还伴随明显的肌肉萎缩。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>吃那么多苦，流那么多汗，健身不易呀，喝酒还是戒了吧。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>参考文献</p><hr/><p>①Anonym:D-A-CH(Hrsg.).Lehrbuch der Physiologie.Thieme-Verlag 2005.</p><p>②Anonym:Zusammenfassung:Ernahrung,Korperliche Aktivitat und Krebspravention:Eine globale Perspektive.World Cancer Research Fund American Institute for Cancer Research,2007.</p><p>③Burke LM,Collier GR,Broad EM,Davis PG,Martin DT,Sanigorski AJ,Hargreaves M:Effect of alcohol intake on muscle glycogen storage after prolonged exercise.J Appl Physiol 95:983-990,2003.</p><p>④Koziris LP,Kraemer WJ,Gordon SE,Incledon T,Knuttgen H,G:Effect of acute postexercise ethanol intoxication on the neuroendocrine response to resistance exercise.J Appl Physiol 88:165-172,2000.</p><p>⑤Vingren JL,Koziris LP,Gordon SE,Kraemer WJ,Turner RT,Westerlind KC:Chronic alconhol intake,resistance training,and muscle androgen receptor content.Med Sci Sports Exerc 37:1842-1848,2005.</p>", 
+            "topic": [
+                {
+                    "tag": "健身", 
+                    "tagLink": "https://api.zhihu.com/topics/19552192"
+                }, 
+                {
+                    "tag": "酒精", 
+                    "tagLink": "https://api.zhihu.com/topics/19619001"
+                }, 
+                {
+                    "tag": "饮酒", 
+                    "tagLink": "https://api.zhihu.com/topics/19595524"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "FIORA嘛", 
+                    "userLink": "https://www.zhihu.com/people/41812cedf6a3dd36139e201ad35046e9", 
+                    "content": "谢谢作者", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_170720767"
+}

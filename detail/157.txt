@@ -1,0 +1,388 @@
+{
+    "title": "翔翔车评", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/liu-bo-qiang", 
+        "https://www.zhihu.com/people/alan-3-84", 
+        "https://www.zhihu.com/people/zhang-xiao-fan-52-3", 
+        "https://www.zhihu.com/people/mei-yu-gao-666", 
+        "https://www.zhihu.com/people/nefur", 
+        "https://www.zhihu.com/people/wang-zi-86-29-52", 
+        "https://www.zhihu.com/people/shuai-yuan-yuan-81", 
+        "https://www.zhihu.com/people/tianbao-zhang", 
+        "https://www.zhihu.com/people/jing-ji-jing-ji-jing-ji", 
+        "https://www.zhihu.com/people/xiang-qian-kan-28-11", 
+        "https://www.zhihu.com/people/da-chi-yi-jin-12", 
+        "https://www.zhihu.com/people/112-34-7", 
+        "https://www.zhihu.com/people/a-dan-85-16-86", 
+        "https://www.zhihu.com/people/fei-meng-11-10", 
+        "https://www.zhihu.com/people/wang-shuai-7-79", 
+        "https://www.zhihu.com/people/ji-jing-zhi-sheng-38", 
+        "https://www.zhihu.com/people/liu-xiao-37-78-73", 
+        "https://www.zhihu.com/people/yu-zeng-20-52", 
+        "https://www.zhihu.com/people/xiao-an-ge-13", 
+        "https://www.zhihu.com/people/sang-ye-16", 
+        "https://www.zhihu.com/people/frankwang-97", 
+        "https://www.zhihu.com/people/tian-gong-jian-zhu-jie-gou-gong-cheng-shi", 
+        "https://www.zhihu.com/people/shuai-ge-yimei-80", 
+        "https://www.zhihu.com/people/zhou-meng-59-36", 
+        "https://www.zhihu.com/people/san-yu-76-19", 
+        "https://www.zhihu.com/people/liu-chuan-feng-1", 
+        "https://www.zhihu.com/people/OnlyTimeWillTell", 
+        "https://www.zhihu.com/people/janet-19-18", 
+        "https://www.zhihu.com/people/wood-leon", 
+        "https://www.zhihu.com/people/ye-xiao-yang-99", 
+        "https://www.zhihu.com/people/a-guang-60-4", 
+        "https://www.zhihu.com/people/zhi-xin-tang-98", 
+        "https://www.zhihu.com/people/lu-si-ke", 
+        "https://www.zhihu.com/people/qiao-le-che", 
+        "https://www.zhihu.com/people/xu-wan-li-34", 
+        "https://www.zhihu.com/people/gu-yu-71-65", 
+        "https://www.zhihu.com/people/j_yi_fan", 
+        "https://www.zhihu.com/people/wei-sheng-zhi-zhu", 
+        "https://www.zhihu.com/people/shang-shan-ruo-shui-29-51-16", 
+        "https://www.zhihu.com/people/gao-xiao-min-52-33", 
+        "https://www.zhihu.com/people/jason-35-64-76", 
+        "https://www.zhihu.com/people/yxbells", 
+        "https://www.zhihu.com/people/lin-91", 
+        "https://www.zhihu.com/people/wang-zheng-ming-29-33", 
+        "https://www.zhihu.com/people/cao-yang-23-59", 
+        "https://www.zhihu.com/people/gao-shi-lei", 
+        "https://www.zhihu.com/people/sorlinchen-56", 
+        "https://www.zhihu.com/people/ai-tou-de-xiao-hao", 
+        "https://www.zhihu.com/people/shi-luo-jiang-35", 
+        "https://www.zhihu.com/people/bai-yun-85-77", 
+        "https://www.zhihu.com/people/tao-yin", 
+        "https://www.zhihu.com/people/lu-cheng-32-24", 
+        "https://www.zhihu.com/people/yang-song-shan-46", 
+        "https://www.zhihu.com/people/mi-lao-shu-atji-qi-mao", 
+        "https://www.zhihu.com/people/liang-jian-ming-9", 
+        "https://www.zhihu.com/people/su-su-55-88", 
+        "https://www.zhihu.com/people/zhaosuixin", 
+        "https://www.zhihu.com/people/huang-xin-43", 
+        "https://www.zhihu.com/people/jin-ge-ge-49-28", 
+        "https://www.zhihu.com/people/hu-bang-xin-98", 
+        "https://www.zhihu.com/people/coburn", 
+        "https://www.zhihu.com/people/wujiangyong", 
+        "https://www.zhihu.com/people/li-zi-qiang-45-10", 
+        "https://www.zhihu.com/people/encore-stig-13", 
+        "https://www.zhihu.com/people/ai-gai-zu", 
+        "https://www.zhihu.com/people/ceng-bo-xian-9", 
+        "https://www.zhihu.com/people/he-yu-sheng-60", 
+        "https://www.zhihu.com/people/al-pean", 
+        "https://www.zhihu.com/people/lin-xi-75-53", 
+        "https://www.zhihu.com/people/ChauLY", 
+        "https://www.zhihu.com/people/cheng-chen-44-7", 
+        "https://www.zhihu.com/people/gang-zi-87-78", 
+        "https://www.zhihu.com/people/ma-jun-21-33", 
+        "https://www.zhihu.com/people/aikahe", 
+        "https://www.zhihu.com/people/cheng-jun-64", 
+        "https://www.zhihu.com/people/xiao-guai-a-guai-31", 
+        "https://www.zhihu.com/people/lovely-sara", 
+        "https://www.zhihu.com/people/luo-ji-5-40", 
+        "https://www.zhihu.com/people/kang0206", 
+        "https://www.zhihu.com/people/lth_sea", 
+        "https://www.zhihu.com/people/allison-85", 
+        "https://www.zhihu.com/people/tianyadaxian", 
+        "https://www.zhihu.com/people/cowseden", 
+        "https://www.zhihu.com/people/lin-da-60", 
+        "https://www.zhihu.com/people/huo-xiao-ping-1989", 
+        "https://www.zhihu.com/people/Bearleft", 
+        "https://www.zhihu.com/people/cai-shi-chang-130", 
+        "https://www.zhihu.com/people/jian-fei-60", 
+        "https://www.zhihu.com/people/gu-shi-qi-88", 
+        "https://www.zhihu.com/people/provar", 
+        "https://www.zhihu.com/people/tiger-njmueent", 
+        "https://www.zhihu.com/people/loshan", 
+        "https://www.zhihu.com/people/fan-li-4", 
+        "https://www.zhihu.com/people/gu-lu-gu-lu-chui-ni", 
+        "https://www.zhihu.com/people/guo-xue-da-shi-han-fu-qu", 
+        "https://www.zhihu.com/people/Kevin91", 
+        "https://www.zhihu.com/people/hong-sheng-55", 
+        "https://www.zhihu.com/people/jpshuimu", 
+        "https://www.zhihu.com/people/SUNYATSEN", 
+        "https://www.zhihu.com/people/ding-xiao-88", 
+        "https://www.zhihu.com/people/gao-yi-14-74", 
+        "https://www.zhihu.com/people/ruo-ze-81"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20850480", 
+            "userName": "翔翔翔", 
+            "userLink": "https://www.zhihu.com/people/0eaca7664b39f6da087e3821c7f98c85", 
+            "upvote": 37, 
+            "title": "汽车参数到底有多不靠谱（1）——发动机功率、扭矩", 
+            "content": "<p>最近好久没更新了，给自己挖个大坑，写一个系列栏目，名字就通俗一点吧，就叫《汽车参数到底有多不靠谱》。</p><p>既然聊了这个话题，就要使劲刨，往根上刨，往祖坟上刨。我为什么这么做呢？因为现在汽车的各项参数指标，已经不是反映一个车真实表现的数据了，加上很多厂家的偷换概念般的宣传，让数据变成了厂家的秀场，普通的汽车用户越来越难知道每个参数背后的意义，是时候来一波科普了。</p><p>=========================================================================</p><br/><p>第一期呢，咱们就来聊聊发动机参数中的功率和扭矩。<br/></p><p>对汽车不太了解的人呢，可能不会去看汽车功率和扭矩参数后面的转速区间。举个例子：这是福特金牛座2.0T和2.7T两款车型的发动机功率和扭矩参数。<figure><noscript><img src=\"https://pic2.zhimg.com/44f72060e9145a2b866f742c6c5c9c81_b.png\" data-rawwidth=\"454\" data-rawheight=\"57\" class=\"origin_image zh-lightbox-thumb\" width=\"454\" data-original=\"https://pic2.zhimg.com/44f72060e9145a2b866f742c6c5c9c81_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;454&#39; height=&#39;57&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"454\" data-rawheight=\"57\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"454\" data-original=\"https://pic2.zhimg.com/44f72060e9145a2b866f742c6c5c9c81_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/44f72060e9145a2b866f742c6c5c9c81_b.png\"/></figure></p><p>然而看了转速区间的人也未必真的明白这个转速区间是什么意思，于是乎网上就出现了这么一个说法。</p><p>就拿上面的表格举例，2.0T的车型1750转涡轮就介入了，而2.7T的2500转才介入。</p><p>这就是目前汽车行业最扯淡的一个说法。请问那些大神甚至包括一些自称媒体老师的人：<b><u>什么叫涡轮介入？</u></b></p><p>发动机点火，就会排气，就会推动发动机涡轮机旋转（<a href=\"https://zhuanlan.zhihu.com/p/20739962?refer=xxxxx\" class=\"internal\">关于什么是涡轮机压气机请看之前的文章，这是传送门</a>），那么涡轮机就会带动压气机旋转。也就是说，<b>涡轮增压本身是不存在在某个转速突然开始工作这样的特性的。</b>不存在！！</p><p>而且如果真是这么回事，那么谁给我解释一下自然吸气发动机的最大扭矩也有一个转速区间，那么请问这个奥迪A6L的2.5L自吸发动机在3000r/min的时候，什么东西介入了？</p><figure><noscript><img src=\"https://pic3.zhimg.com/d93a77eb46a2f06df675139eaeed1c62_b.png\" data-rawwidth=\"301\" data-rawheight=\"64\" class=\"content_image\" width=\"301\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;301&#39; height=&#39;64&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"301\" data-rawheight=\"64\" class=\"content_image lazy\" width=\"301\" data-actualsrc=\"https://pic3.zhimg.com/d93a77eb46a2f06df675139eaeed1c62_b.png\"/></figure><p>========================================================================<br/></p><p>那么，这个扭矩后面的转速区间到底是啥意思？</p><p>这就要从发动机的扭矩曲线聊起了。</p><p>一个正常的发动机的扭矩曲线应该是这样的。</p><figure><noscript><img src=\"https://pic4.zhimg.com/6c4f92c29336590e8eca042cb40bd6c3_b.jpg\" data-rawwidth=\"602\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb\" width=\"602\" data-original=\"https://pic4.zhimg.com/6c4f92c29336590e8eca042cb40bd6c3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;602&#39; height=&#39;324&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"602\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"602\" data-original=\"https://pic4.zhimg.com/6c4f92c29336590e8eca042cb40bd6c3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/6c4f92c29336590e8eca042cb40bd6c3_b.jpg\"/></figure><p>看上去扭矩输出就是一直走到一个最大值，然后随着转速升高扭矩开始降低，也没有所谓的扭矩输出平台呀。</p><p>========================================================================</p><br/><p>其实，为了保证发动机和变速器的寿命，在扭矩达到一定程度的时候，ECU就开始限制喷油量，从而限制动力输出了，涡轮增压发动机更是如此，因为进气压力大，所以每次作功可以烧掉的汽油更多，动力输出的极限就越高。所以，当扭矩达到一定程度的时候，控制动力输出，发动机的扭矩曲线就变成这个样子了。<br/></p><figure><noscript><img src=\"https://pic1.zhimg.com/918260d4b92d43bb1e3b23fe96e4918c_b.jpg\" data-rawwidth=\"565\" data-rawheight=\"329\" class=\"origin_image zh-lightbox-thumb\" width=\"565\" data-original=\"https://pic1.zhimg.com/918260d4b92d43bb1e3b23fe96e4918c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;565&#39; height=&#39;329&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"565\" data-rawheight=\"329\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"565\" data-original=\"https://pic1.zhimg.com/918260d4b92d43bb1e3b23fe96e4918c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/918260d4b92d43bb1e3b23fe96e4918c_b.jpg\"/></figure><br/><p>这回我们就可以明白发动机扭矩平台是怎么来的了，就拿金牛座2.0T的发动机举例子，n1就对应着1750转/分钟，n2就对应着4000转/分钟。</p><p>所以我们也就可以明白，发动机扭矩平台的早晚跟发动机动力表现并没有什么直接的关系。2.7T的金牛座虽然扭矩平台来的晚，虽然在1750转/分钟的时候扭矩并没有到达最大值，但这不意味着它在1750转/分钟的时候扭矩就比2.0T的差，因为它的扭矩曲线可能是这样的。</p><figure><noscript><img src=\"https://pic2.zhimg.com/281038d903edc04918b8115e54cfb225_b.jpg\" data-rawwidth=\"551\" data-rawheight=\"317\" class=\"origin_image zh-lightbox-thumb\" width=\"551\" data-original=\"https://pic2.zhimg.com/281038d903edc04918b8115e54cfb225_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;551&#39; height=&#39;317&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"551\" data-rawheight=\"317\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"551\" data-original=\"https://pic2.zhimg.com/281038d903edc04918b8115e54cfb225_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/281038d903edc04918b8115e54cfb225_b.jpg\"/></figure><br/><p>所以说，在1750转的时候，虽然2.7T的发动机没有到达最大扭矩，但是扭矩值已经比2.0T的大很多了。</p><p>========================================================================</p><br/><p>所以，参数真的不是表面上看起来那么简单，这里面可说的确实是不少。关于发动机的功率和扭矩参数，我们今天就以扭矩为例先聊到这，是时候得出一个结论了，看了上面还迷糊的朋友看这里就好啦。关于发动机的扭矩平台，来的早晚跟车的实际表现关系并不大。决定一个车加速能力、平顺性的不仅仅只有发动机，而且还有变速器。另外很多所谓的媒体老师所说的因为扭矩平台来的晚所以车很不平顺，这个结论真是太扯淡，自然吸气扭矩平台来的不是更晚么，他们所谓的涡轮增压发动机不平顺其实是源于涡轮迟滞。</p><p>========================================================================<br/></p><p>在这里呢，翔翔要告诉大家一个终极结论，这个结论同样适合我们后面的文章。选车的时候，关于各种参数，你只要抱着一个心态，不要信就好了。关于加速、舒适性这类感受类的东西呢，我们就去试驾，试驾你的目标车型和竞争车型，有对比才能得出结论到底谁好谁不好。</p><br/><p>这一期就到这里啦，喜欢记得点个关注哦~~</p><br/><p>* 文中图片仅为解释原理，并非实际的扭矩曲线</p><p>*文章并非最终版本，细节表达仍在修改中……</p>", 
+            "topic": [
+                {
+                    "tag": "汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19551915"
+                }, 
+                {
+                    "tag": "发动机", 
+                    "tagLink": "https://api.zhihu.com/topics/19577780"
+                }, 
+                {
+                    "tag": "参数", 
+                    "tagLink": "https://api.zhihu.com/topics/19574019"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "刘彬", 
+                    "userLink": "https://www.zhihu.com/people/9240e9fc48e97c62aa29b6364e9aa9cf", 
+                    "content": "看了之后终于明白了 感谢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "玉笙", 
+                    "userLink": "https://www.zhihu.com/people/b4a90b6ef7d38ac6cc9aa9f3a42134d1", 
+                    "content": "最近打算买大众凌渡 最后纠结在 是买1.4 还是买1.8问题上了 1.4便宜但是担心不够用 1.8的只有一款可是觉得有点贵 您给推荐下", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "曹飞", 
+                    "userLink": "https://www.zhihu.com/people/6c6c62056968b992d99c067f230b2c02", 
+                    "content": "还可以更详细点", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Single", 
+                    "userLink": "https://www.zhihu.com/people/0bee76b5a7a3198f8e186ccd4b1ca5a5", 
+                    "content": "涡轮机有旁通阀啊，可由车载电脑控制是否开启旁通阀，当旁通阀开启时，涡轮并未达到工作转速，所以进气压力并没有增大，可看成涡轮没有介入，这一控制条件通常是跟油门踏板被踩下的角度有关。<br>涡轮机是没有明确的介入转速的，但确实不是一启动就一直在介入", 
+                    "likes": 5, 
+                    "childComments": [
+                        {
+                            "userName": "叶阳", 
+                            "userLink": "https://www.zhihu.com/people/ea2b2694fb22c1ece2256689943bf785", 
+                            "content": "正解！", 
+                            "likes": 0, 
+                            "replyToAuthor": "Single"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "刘彬", 
+                    "userLink": "https://www.zhihu.com/people/9240e9fc48e97c62aa29b6364e9aa9cf", 
+                    "content": "看了之后终于明白了 感谢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "玉笙", 
+                    "userLink": "https://www.zhihu.com/people/b4a90b6ef7d38ac6cc9aa9f3a42134d1", 
+                    "content": "最近打算买大众凌渡 最后纠结在 是买1.4 还是买1.8问题上了 1.4便宜但是担心不够用 1.8的只有一款可是觉得有点贵 您给推荐下", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "曹飞", 
+                    "userLink": "https://www.zhihu.com/people/6c6c62056968b992d99c067f230b2c02", 
+                    "content": "还可以更详细点", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Single", 
+                    "userLink": "https://www.zhihu.com/people/0bee76b5a7a3198f8e186ccd4b1ca5a5", 
+                    "content": "涡轮机有旁通阀啊，可由车载电脑控制是否开启旁通阀，当旁通阀开启时，涡轮并未达到工作转速，所以进气压力并没有增大，可看成涡轮没有介入，这一控制条件通常是跟油门踏板被踩下的角度有关。<br>涡轮机是没有明确的介入转速的，但确实不是一启动就一直在介入", 
+                    "likes": 5, 
+                    "childComments": [
+                        {
+                            "userName": "叶阳", 
+                            "userLink": "https://www.zhihu.com/people/ea2b2694fb22c1ece2256689943bf785", 
+                            "content": "正解！", 
+                            "likes": 0, 
+                            "replyToAuthor": "Single"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20770725", 
+            "userName": "翔翔翔", 
+            "userLink": "https://www.zhihu.com/people/0eaca7664b39f6da087e3821c7f98c85", 
+            "upvote": 24, 
+            "title": "各种大灯一看就懂，改灯前必看……", 
+            "content": "<p>人们常说，车灯是汽车的眼睛，而大灯所充当的地位，那就应该是眼珠了。很多人问我，卤素、氙气、LED和激光大灯，到底有什么区别？到底哪个更好呢？今天，咱们就从原理上来聊一聊，各种大灯的原理以及优缺点。</p><br/><p>============================↓↓↓↓↓卤素大灯↓↓↓↓↓============================</p><p>那咱们就先从卤素大灯开始吧。因为这个最便宜也最普及。卤素灯的基本发光原理和过去我们家里常用的白炽灯是一样的，都是给钨治灯丝导通足够的电流，使灯丝发热至白炽状态而发出光亮。差别在于卤素灯的玻璃外壳中充有卤族元素气体，可以减缓钨制灯丝在高温下的损耗，也让灯丝可以工作在更高的温度下，从而获得更高的亮度。也正是因为有卤族元素的气体，所以这种大灯被叫做卤素大灯。<figure><noscript><img src=\"https://pic2.zhimg.com/7ad3a3b6f406ac86f9591ecd46fa5291_b.png\" data-rawwidth=\"482\" data-rawheight=\"325\" class=\"origin_image zh-lightbox-thumb\" width=\"482\" data-original=\"https://pic2.zhimg.com/7ad3a3b6f406ac86f9591ecd46fa5291_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;482&#39; height=&#39;325&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"482\" data-rawheight=\"325\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"482\" data-original=\"https://pic2.zhimg.com/7ad3a3b6f406ac86f9591ecd46fa5291_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/7ad3a3b6f406ac86f9591ecd46fa5291_b.png\"/></figure></p><p>你看呀，因为它其实就是改良版的家用的白炽灯泡，所以它的成本低廉，结构简单，而且色温低，穿透力强。不过也正是因为这样，它的缺点也是原理上带来的，比如说能耗高，家里还在用普通白炽灯炮的同学们可以感受一下点了一会的灯泡有多烫，是的，绝大多数的能量都以热量的形式散失了，而不是用来发光了。<figure><noscript><img src=\"https://pic1.zhimg.com/45430c524bdd07cd26cbcf2f6cb471a8_b.jpg\" data-rawwidth=\"712\" data-rawheight=\"413\" class=\"origin_image zh-lightbox-thumb\" width=\"712\" data-original=\"https://pic1.zhimg.com/45430c524bdd07cd26cbcf2f6cb471a8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;712&#39; height=&#39;413&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"712\" data-rawheight=\"413\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"712\" data-original=\"https://pic1.zhimg.com/45430c524bdd07cd26cbcf2f6cb471a8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/45430c524bdd07cd26cbcf2f6cb471a8_b.jpg\"/></figure></p><p>============================↓↓↓↓↓氙气大灯↓↓↓↓↓============================</p><p>后来，汽车圈里又开始流行氙气大灯了。对，是氙气大灯，不是疝气大灯，疝气是一种病，这种病不能用来做大灯！！谁再把这种灯叫疝气大灯请嘲讽他。= =||| </p><p>氙气灯又叫高强度放电式气体灯。它打破了爱迪生发明的钨丝发光原理，在石英灯管内填充高压氙气，取代传统的灯丝，在两段电极上有水银和碳素化合物，透过安定器以23000伏高压电流刺激氙气发光，在两极间形成完美的白色电弧，发出的光接近太阳光。哎，这里我们就要说说安定器的重要性了，要改装氙灯的朋友注意听一下。<figure><noscript><img src=\"https://pic4.zhimg.com/957d16f8ce7a7b6b82d460dcd641c087_b.jpg\" data-rawwidth=\"550\" data-rawheight=\"163\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/957d16f8ce7a7b6b82d460dcd641c087_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;550&#39; height=&#39;163&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"550\" data-rawheight=\"163\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"550\" data-original=\"https://pic4.zhimg.com/957d16f8ce7a7b6b82d460dcd641c087_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/957d16f8ce7a7b6b82d460dcd641c087_b.jpg\"/></figure></p><p>刚刚翔翔说，要想让氙气大灯启动，必须要有一个2.3万伏的电压才行，而车载电瓶的电压是12伏，所以必须有一个好的安定器，这样才能在尽可能短的时间内完成氙气大灯的启动。所以在改装氙灯的时候，一定要改一个好的安定器。如果在4秒内还不能让氙气大灯达到工作亮度的80%，那么它就不是一个好的安定器。<figure><noscript><img src=\"https://pic3.zhimg.com/1d80bcab7b076348b3626655f0c05da6_b.png\" data-rawwidth=\"590\" data-rawheight=\"353\" class=\"origin_image zh-lightbox-thumb\" width=\"590\" data-original=\"https://pic3.zhimg.com/1d80bcab7b076348b3626655f0c05da6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;590&#39; height=&#39;353&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"590\" data-rawheight=\"353\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"590\" data-original=\"https://pic3.zhimg.com/1d80bcab7b076348b3626655f0c05da6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/1d80bcab7b076348b3626655f0c05da6_b.png\"/></figure></p><p>知道了原理，那么氙气大灯的优缺点也就明朗啦。<figure><noscript><img src=\"https://pic4.zhimg.com/70819176443d3b42723aa096b9e46abb_b.png\" data-rawwidth=\"566\" data-rawheight=\"364\" class=\"origin_image zh-lightbox-thumb\" width=\"566\" data-original=\"https://pic4.zhimg.com/70819176443d3b42723aa096b9e46abb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;566&#39; height=&#39;364&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"566\" data-rawheight=\"364\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"566\" data-original=\"https://pic4.zhimg.com/70819176443d3b42723aa096b9e46abb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/70819176443d3b42723aa096b9e46abb_b.png\"/></figure></p><br/><p>它是利用电子激发气体发光，并没有钨丝，所以寿命更长；用卤素灯三分之二的能量消耗就能达到卤素灯3倍的亮度。所以改装氙气大灯一定要装透镜，透镜能把散乱的光线汇聚成平行光，让灯光有更好的指向性。因为氙气大灯的亮度太高了，如果没有透镜，散乱的灯光和很容易让人炫目，看起来就是对方开远光的感觉，对行车安全影响很大。</p><p>那么氙气大灯有什么问题呢？首先，太贵，成本比卤素灯高很多。而且氙气大灯的发光颜色接近自然光，色温相对卤素大灯要高，色温高穿透力就差。所以很多豪车的氙气大灯的色温都在4000K左右，都是微微发黄的，我们真的要改装氙气大灯也尽量别改的太白或者太蓝，这样对穿透力都有影响。</p><figure><noscript><img src=\"https://pic1.zhimg.com/fded33bbad421eb49f990ec7f611b420_b.png\" data-rawwidth=\"455\" data-rawheight=\"113\" class=\"origin_image zh-lightbox-thumb\" width=\"455\" data-original=\"https://pic1.zhimg.com/fded33bbad421eb49f990ec7f611b420_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;455&#39; height=&#39;113&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"455\" data-rawheight=\"113\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"455\" data-original=\"https://pic1.zhimg.com/fded33bbad421eb49f990ec7f611b420_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/fded33bbad421eb49f990ec7f611b420_b.png\"/></figure><p>============================↓↓↓↓↓LED大灯↓↓↓↓↓============================</p><p>再后来呀，LED又出现了。2008年，奥迪首先在A4上使用了LED日间行车灯，开启了LED前照灯时代。2010年的奥迪A8的推出，真正意义的全LED大灯出现在人们的视线。所以奥迪灯厂的名号也确实是名副其实的，至少它推动了LED大灯的发展，意义重大，要知道全LED大灯几乎所有的性能都超越了现有的氙气大灯，它的能耗低至卤素大灯的1/20，寿命很长，好一点的LED灯的寿命可以达到100000小时，是的，是十万小时，换算一下也就是11年半。而且直流12V就能点亮，不需要安定器，安全性也更高，同时还能做到瞬间点亮。体积也更小，这更有利于车灯的设计。而且成本更低。这意味着在车灯方面，我们可以用更少的钱用全方面超越过去的产品了。当然啦，现在这项技术还没有普及，厂家还在拿这项技术作为卖点，虽然成本低，但卖给你的价格还都不便宜。不过在不久的将来，全LED大灯没有理由不取代传统的大灯，这也仅仅是时间问题。<figure><noscript><img src=\"https://pic2.zhimg.com/1d62def1374dab1af57ef15edf832829_b.png\" data-rawwidth=\"511\" data-rawheight=\"298\" class=\"origin_image zh-lightbox-thumb\" width=\"511\" data-original=\"https://pic2.zhimg.com/1d62def1374dab1af57ef15edf832829_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;511&#39; height=&#39;298&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"511\" data-rawheight=\"298\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"511\" data-original=\"https://pic2.zhimg.com/1d62def1374dab1af57ef15edf832829_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/1d62def1374dab1af57ef15edf832829_b.png\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/36f6ea3648ba7f6266ecdb6aac56fced_b.png\" data-rawwidth=\"692\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic2.zhimg.com/36f6ea3648ba7f6266ecdb6aac56fced_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;161&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"692\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic2.zhimg.com/36f6ea3648ba7f6266ecdb6aac56fced_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/36f6ea3648ba7f6266ecdb6aac56fced_b.png\"/></figure>============================↓↓↓↓↓激光大灯↓↓↓↓↓============================</p><p>至于激光大灯，依照目前汽车的速度和限速相关的法规，LED大灯已经完全能满足我们日常用车的需求了，哪怕你开的是法拉利。而激光大灯炫技的成分更多一些，目前也只有宝马和奥迪在研发激光大灯，它们友谊的小船也因为激光大灯说翻就翻了。（具体原理咱们以后再补充）</p><p>============================↓↓↓↓↓关于改装↓↓↓↓↓============================</p><p>最后，如果你的车是卤素大灯并且有改装需求的话呢，目前改装氙气大灯是最节省的方案。改装氙灯的时候要注意，如果原车没有透镜一定要加一个透镜，同时选一个好一些的安定器。当然啦，最好的方式还是更换一个大灯总成，虽然价格高，但是更方便更安全。最后翔翔提醒大家，如果不是觉得亮度不够，真的不建议大家为了好看去改装大灯，毕竟，原厂的东西质量和安全性都更靠谱一些。</p><p>关于改灯之后验车的问题呢，大家也不用担心，只要你别做贴个黑膜这类的明显的改变外观的改装，并且亮度和照射范围符合规范，就不会有问题。</p><p>如果您有什么汽车相关的问题，欢迎您提问哦~~</p>", 
+            "topic": [
+                {
+                    "tag": "汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19551915"
+                }, 
+                {
+                    "tag": "汽车改装", 
+                    "tagLink": "https://api.zhihu.com/topics/19645465"
+                }, 
+                {
+                    "tag": "汽车选购", 
+                    "tagLink": "https://api.zhihu.com/topics/19923719"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "yhz yhz", 
+                    "userLink": "https://www.zhihu.com/people/594f1758060ae11a9b27559c0a0e39dd", 
+                    "content": "想问一下，卤素灯和雾灯有没有关系。我的车是卤素灯的，黄黄的很暗也很难看，但是没有雾灯。本身带了透镜，有换hid的想法，但是担心雾天会影响安全", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "泽宇", 
+                            "userLink": "https://www.zhihu.com/people/581d106bf92a9ddd351031f5cd9463ce", 
+                            "content": "原车卤素灯泡带透镜，一般情况下都是单光透镜，配卤素，效果都不不理想，如果加氙气灯泡，那么和原车透镜对比，焦点不在一个地方！也会呈现，不聚光，不对焦，铺路效果不是很好！建议还是替换原车透镜，改双光透镜，实现，2近4远的光源！光型好，铺路棒，照射范围大大提高！行车更安全！", 
+                            "likes": 0, 
+                            "replyToAuthor": "yhz yhz"
+                        }, 
+                        {
+                            "userName": "廖颖", 
+                            "userLink": "https://www.zhihu.com/people/69b3d5c42dcd375f4c75f512a6f9c592", 
+                            "content": "可以改双光透镜，国内的阿帕套装可以考虑，", 
+                            "likes": 0, 
+                            "replyToAuthor": "泽宇"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "我的是奇峻，改装哪个灯会好些，远近光都需要改装吗？最好的方案都需要购买什么配件，谢谢！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "廖颖", 
+                            "userLink": "https://www.zhihu.com/people/69b3d5c42dcd375f4c75f512a6f9c592", 
+                            "content": "一般都是改近光的，国内的阿帕套装可以考虑，改装的话都是透镜，氙气灯，安定器三大主件，需要经过深度匹配才能达到更好的效果", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20739962", 
+            "userName": "翔翔翔", 
+            "userLink": "https://www.zhihu.com/people/0eaca7664b39f6da087e3821c7f98c85", 
+            "upvote": 15, 
+            "title": "涡轮增压到底有什么缺点？", 
+            "content": "<p>要解释涡轮增压有什么缺点，我们先来说说涡轮增压是怎么工作的？它其实就是用排气的动力推动排气端的涡轮旋转，排气端的涡轮带动进气端的涡轮旋转，增加进气量。我们把进气端的涡轮叫做压气机，排气端的涡轮叫做涡轮机。我们把发动机的结构简化一下，把涡轮增压的原理图放在这里，大家对照着看。<figure><noscript><img src=\"https://pic3.zhimg.com/021e0c9d13c563d9f5dc87f95e2a751e_b.png\" data-rawwidth=\"1133\" data-rawheight=\"504\" class=\"origin_image zh-lightbox-thumb\" width=\"1133\" data-original=\"https://pic3.zhimg.com/021e0c9d13c563d9f5dc87f95e2a751e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1133&#39; height=&#39;504&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1133\" data-rawheight=\"504\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1133\" data-original=\"https://pic3.zhimg.com/021e0c9d13c563d9f5dc87f95e2a751e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/021e0c9d13c563d9f5dc87f95e2a751e_b.png\"/></figure></p><p>为什么增加进气量就能增加动力了呢？我在之前的30秒懂车的节目里跟大家聊过这个问题，空气跟汽油按照14.7：1的体积进行混合的时候燃烧最充分，进气量多了就意味着可以在每次活塞作功的时候多烧掉一些汽油，多烧汽油就会多产生能量。这就是为什么涡轮增压能增加动力的原因。</p><br/><p>知道了基本的原理，我们就可以解释涡轮增压的各种问题了。</p><br/><p>========================轻踩不走，再踩就蹿==========================</p><br/><p>咱们先来说说涡轮增压一直被人诟病的不平顺的现象。涡轮增压是靠废气推动的，当转速比较低的时候，涡轮机旋转的速度很慢，它带动的压气机旋转得也很慢，这时候往进气道里吹气的速度还没有自己刮进来的风大呢，涡轮增压完全起不到作用，这时候它就是个小排量的自然吸气发动机，而随着转速的升高，逐渐的涡轮转速提高了，这时候对进气量才有明显的影响。这就会导致很多涡轮增压的车型<b>轻踩油门不走，再踩深点就窜</b>了的原因。</p><br/><p>============================涡轮迟滞=============================</p><p>咱们再说说<b><u>涡轮迟滞</u></b>。发动机在低转速时，由于产生的废气量低，不足以带动涡轮的运转。所以，需要等到发动机转速提高之后，废气动力较大时，涡轮才能启动。这个时间差就是涡轮迟滞。</p><br/><p>大家想这么一个画面，当你需要急加速的时候，突然一脚油门踩到底，但是由于涡轮有惯性，踩下油门的一瞬间涡轮的转速还保持在踩油门之前的状态，然后发动机转速逐渐升高，排气速度逐渐加快，推动着涡轮逐渐加速，这时候涡轮所增加的进气量才逐渐增多，动力也逐渐变大。所以，涡轮增压就不可能像自然吸气一样随着踩油门的深度动力能有线性的变化，想要动力踩多少有多少？那是大排量自然吸气的本事。</p><br/><p>===========================机油消耗量升高==========================</p><br/><p>还有机油消耗的问题，也就是我们常说的<b>烧机油</b>。涡轮增压对机油的消耗往往会更大，其实之前的秒爷嘚吧嘚节目里也已经说过涡轮增压烧机油的原因了，一个是由于涡轮增压发动机工作温度高，很多用来让机油回流的零部件由于要有更高的热胀冷缩率，所以在冷车阶段对机油的回流作用不够好，机油消耗会增加。另外很多车型的曲轴通风箱设计的不合理，让带着机油的废气蒸汽再次回到进气道然后进入汽缸烧掉了，导致机油消耗量过大。</p><br/><p>========================此文章来自翔翔翔的大脑==========================</p><br/><p>这些都是涡轮增压从原理上难以解决的问题，无论是哪个厂商，都只能尽量减小这些问题，不可能从根本上避免。</p><p>所以，大排量自然吸气发动机是真的从原理上就表现得更从容，大排量自吸的粉丝们也真的未必都是情怀驱使，然而，自吸时代，已经过去了……</p>", 
+            "topic": [
+                {
+                    "tag": "汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19551915"
+                }, 
+                {
+                    "tag": "涡轮增压", 
+                    "tagLink": "https://api.zhihu.com/topics/19659173"
+                }, 
+                {
+                    "tag": "汽车行业", 
+                    "tagLink": "https://api.zhihu.com/topics/19585985"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "老段", 
+                    "userLink": "https://www.zhihu.com/people/8dbb1139ea656953826d0b80cad23ae0", 
+                    "content": "涡轮增压比自吸式保养时是否贵得多？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "查不到此人", 
+                            "userLink": "https://www.zhihu.com/people/92d08ca7d6aa260cebc0b7f2b869cd32", 
+                            "content": "单纯比较涡轮自吸比不了，要看具体车型的保养费用，虽然从原理上讲自吸无论是寿命还是保养还是燃油要求都要有优势，不过厂家都是测试过的，在正常使用时间内，按厂家要求的保养加油，不会出现问题的，两者在油耗上也没有太大差别，只是出力方式不太一样", 
+                            "likes": 0, 
+                            "replyToAuthor": "老段"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "浮华", 
+                    "userLink": "https://www.zhihu.com/people/41b0e2d7e363408421db2ee3a441d36f", 
+                    "content": "涡轮是以政策的名义，以技术的外衣，堂而皇之的登场。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "紫荆树下", 
+                    "userLink": "https://www.zhihu.com/people/7a5c97a94f94942d4b780a44cf412cc5", 
+                    "content": "肯定是大排量自吸最好平顺稳定，结构简单。前提一定是大排量，为啥说前提是大排量呢？因为1.5的发动机带紧凑级车是满足不了人民群众日益上升的物质需求的。买2.0或2.4L的每年的车船税会多不少，所以只能选择小排量涡轮，这是无奈之举。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "细旧", 
+                    "userLink": "https://www.zhihu.com/people/22396494d9071475ddfc45c2d57edb83", 
+                    "content": "进气多，自然排气也多了，小排量指的只是缸容积小了？", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "巴旦木", 
+                            "userLink": "https://www.zhihu.com/people/ee8a235486a477bf0cca43687eb1c672", 
+                            "content": "我也有这种疑问！是否涡轮增压就有利于减少废气排放！？会不会是自欺欺人的东西！", 
+                            "likes": 0, 
+                            "replyToAuthor": "细旧"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "稀粥咸菜", 
+                    "userLink": "https://www.zhihu.com/people/5512508766a4f5e52e0999829f705491", 
+                    "content": "涡轮增压好像在重量、油耗方面并没什么优势，而且不能A循环和O循环交替使用，压缩比普遍偏低，热效率不高。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "花肥", 
+                    "userLink": "https://www.zhihu.com/people/b5da56a31d3f1c5b31d3262d46901892", 
+                    "content": "这是个误导文章，废气不足不会转?只是转的慢好吧", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "神小鹰", 
+                    "userLink": "https://www.zhihu.com/people/0a1cc9b9632c66f6a24d5170bca9ce6b", 
+                    "content": "还是没明白，为什么好多文章都是不同排量对比。 却没有大排量自吸和大排量涡轮的区别。比如5.5自吸和5.5增压的优缺点是什么", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20696129", 
+            "userName": "翔翔翔", 
+            "userLink": "https://www.zhihu.com/people/0eaca7664b39f6da087e3821c7f98c85", 
+            "upvote": 5, 
+            "title": "说汽车操控好到底说的是什么？", 
+            "content": "<p>其实关于操控性这个话题，已经被很多人神话了，这个问题真的不是只能从体验感受的角度上得出结论，在原理上也能找得到根据。</p><p>据大学学过的《汽车理论》，汽车操控稳定性是指以下几个方面的内容：</p><p>1、转向盘角阶跃输入下进入的稳态响应；</p><p>2、横摆角速度频率响应特性；</p><p>3、转向盘中间位置操控性；</p><p>4、回正性；</p><p>5、转向半径；</p><p>6、转向轻便性；</p><p>7、直线行驶性能；</p><p>8、典型行驶工况性能（比如蛇行性能、移线性能、双移线性能等等）；</p><p>9、极限行驶能力。</p><p>这里我们也简单说说什么叫做驾驶乐趣或者操控乐趣，很多人认为漂移很好玩，在赛道能轻松准确地切进弯道很好玩，但是没有人认为失控很好玩吧……所以我认为，在车辆接近极限行驶的状态下，越容易控制，就越有乐趣。</p><br/><p>========================此文章来自翔翔翔的大脑==========================</p><br/><p>由此，我们不难推断，很多人所说的一辆车操控性好，很有驾驶乐趣，其实就是指汽车操控稳定性中的第8、9两条，也就是汽车在极限状况下驾驶的难易程度。</p><p>那么，影响汽车在极限条件下的表现的因素有哪些呢？</p><p>一，轮胎的侧偏特性。</p><p>这点大家可以先看图，</p><figure><noscript><img src=\"https://pic3.zhimg.com/b065ffca9e90dca9639fa4b92a80c756_b.png\" data-rawwidth=\"204\" data-rawheight=\"469\" class=\"content_image\" width=\"204\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;204&#39; height=&#39;469&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"204\" data-rawheight=\"469\" class=\"content_image lazy\" width=\"204\" data-actualsrc=\"https://pic3.zhimg.com/b065ffca9e90dca9639fa4b92a80c756_b.png\"/></figure><p>图中的各个符号：</p><p>Fy是侧偏力。当汽车曲线行驶、倾斜行驶等沿汽车横向方向运动时，地面将会对车轮产生一个反作用力，这个力就是侧偏力，这时候我们只分析侧偏力向右的情况，向左的反过来就好。</p><p>△u是车轮侧向滑移的速度。</p><p>u是车轮滚动的速度。</p><p>u’是速度的合成方向。</p><p>当车轮有侧向弹性时，即使Fy没有达到附着极限，（也就是说这个车轮还有附着力），车轮行驶方向也会偏离车轮平面cc，这就是轮胎的侧偏现象。</p><p>这部分可能有点抽象，没看懂没关系，我们只要知道侧偏特性对操控性有很大影响就对了。</p><p>反应侧偏特性的参数是侧偏刚度，那么，影响侧偏刚度的因素有哪些呢？</p><br/><p>1、轮胎类型。这个大家也不用担心，目前乘用车采用的都是子午线轮胎，都属于侧偏刚度很大的轮胎类型，普通的斜交轮胎现在也着实是不好找了。不过在子午线轮胎里，相同条件下，钢丝子午线轮胎的侧偏刚度最高。（具体的轮胎知识以后聊到轮胎再说吧……）</p><br/><p>2、轮胎扁平比。扁平比越小的车，侧偏刚度越大，这也是跑车轮胎的扁平比往往很小的一个原因。所以很多外行车评人认为很多性能车采用很薄的轮胎只是为了保留路感和美观，其实这对汽车操控性有着不小的影响。</p><br/><p>3、轮胎气压。随着起亚的增加，侧偏刚度会有所增大，但是气压过高后刚度就不会再变化了。</p><br/><p>========================此文章来自翔翔翔的大脑==========================</p><p>二、悬架。</p><p>悬架影响着汽车的侧倾、垂直载荷在左、右侧车轮上的分配以及对稳态响应的影响，所以，想要一辆操控性好的车，有一副好的悬架是必不可少的。</p><br/><p>那怎么才算是一副好悬悬架呢？</p><br/><p>首先，这副悬架要能保证在工作时让车轮在沿汽车横向方向上尽可能小的发生位移。为了保证这一点，大家要尽可能的去买独立悬架的车型，因为装备非独立悬的车，它的转向系与悬架在运动学生关系不协调，会引起转向轮干涉转向。而且独立悬架最好是多连杆的，连杆数越多越好……这也证明着我之前在节目中经常提到的一点，独立悬架并不是都好，很多车的悬架是两连杆悬架结构，看似是独立悬架，实际工作时对车轮的限制能力还不如加了个瓦特连杆的半独立悬架。</p><br/><p>其次，减震器对弹簧的限制能力要强，防止车身颠簸导致轮胎附着力时小时大，影响车辆的操控性。简单来说，过个沟坎，弹簧被压缩了，如果一次回弹就正好弹到弹簧原厂，这是最理想的工作状况。这就要靠减震器来限制了，这里给大家说下减震器，很多人把减震器和悬架混为一谈，实际上减震器只是悬架系统中的一部分，它的作用是让受到压缩或者拉伸的弹簧尽快回到原厂的位置上去，保证车身不会一直上下起伏。</p><br/><p>========================此文章来自翔翔翔的大脑==========================</p><br/><p>三、转向</p><p>转向的作用不仅仅是操控转向轮让车辆实现转弯行驶，还有更重要的一个功能，那就是传递路感。</p><p>哎？又是一个车评人常说的词汇，但是我看到目前没什么人给路感下一个准确的定义。路感的定义就是凭借转向盘给手的反作用力，将整车及轮胎的运动、受力情况反馈给驾驶者的能力。</p><br/><p>为什么路感很重要？因为，人在驾驶时，只有能及时、准确地掌握汽车的行驶状况，才能有把握稳定地操控汽车，所以，良好的路感是构建良好操控性的必不可少的一部分。</p><br/><p>这部分我们分析再多的原理都没有用了，因为现在的乘用车无论如何都会有一个助力装置，而且越来越多的车为了追求轻便的手感，都采用了电子助力。至于为什么助力会削弱路感这件事其实也很好理解，你用更少的力就能搬动方向盘控制车轮转向了，那么车轮的运动反馈到方向盘上的力就会越小。</p><br/><p>========================此文章来自翔翔翔的大脑==========================</p><br/><p>四、驱动形式</p><p>这里引用汽车理论上的一个结论<br/></p><blockquote><p>以前驱车为例，从以下几个方面说明驱动力对转向特性的影响。</p><p>1、加速时前轴侧偏角增加，后轴侧偏角减小，汽车有增加转向不足的趋势；</p><p>2、随着驱动力的增加，同一侧偏角下的侧偏力下降；</p><p>3、前轮受半轴驱动转矩的影响会产生不足变形转向；</p><p>4、随着驱动力的增加，轮胎回正力矩通常会有所增大，这也增加了不足转向的趋势。</p></blockquote><p>引用这样一段话，其实就是想告诉大家，前驱车在驱动力的作用下，是趋向于增加不足转向的趋势的。</p><br/><p>再说的通俗一点，进了弯道大脚油门，前驱车一定是往赛道外侧滑移而不是做出一个漂亮的漂移……</p><br/><p>所以前驱车并不太适合真的拿来玩，撩撩妹子原地烧个胎做个定点漂移还是不现实的。</p><p>以上是前驱车不适合拿来玩的理论基础，其实也有过相关的实验论证。还是来自汽车理论</p><blockquote>让三种不同驱动形式的车在冰雪路面上以一定的初速度按照圆周行驶，固定放线盘角度，然后以不同的纵向加速强度加速行驶1S后，绘制汽车横摆角速度曲线，结果显示：前驱车有强不足转向特性，后驱车有过多转向特性，而前后驱动力等分的4轮驱动汽车的横摆角速度没有明显变化，即有不足转向特性。<br/></blockquote><br/><p>而进行极限操控，比如漂移的时候，怎么也得先飘起来再说吧，所以如果想要一辆操控性好的车，后驱车其实是最好玩的选择。</p><br/><p>========================此文章来自翔翔翔的大脑==========================</p><br/><p>五、能提高操控性的电子系统和元件</p><p>这里咱们就简单说说ESP和限滑差速器。</p><br/><p>1、ESP：</p><p>很多人说ESP不是会限制车辆动力输出么？很多赛车手在开民用车跑山路之类的不是都会把它关掉么？但其实对于普通人来说，一套宽容度更好的ESP更容易让我们获得驾驶乐趣。在进行激烈驾驶的时候不作出反应，在接近失控边缘能拉你一把，不要问我哪家的ESP能匹配到这个程度，避免广告嫌疑。</p><br/><p>2、限滑差速器：</p><p>这个东西这几年应用的越来越多，其实原理并不复杂。作为一辆后轮驱动的车，当出完大脚油门加速时，内侧车轮转速低扭矩大，很容易产生滑移，这就好比没有差速锁的车一个驱动轮陷入泥地里一样，动力全都从这个打滑的车轮流走一样，导致动力从内测驱动轮白白流失，降低了加速度。限滑差速器的作用就是在检测到有驱动轮大幅空转时将差速器锁止，防止空转进一步的恶化损失动力。</p><br/><p>========================此文章来自翔翔翔的大脑==========================</p><br/><p>总结一下，想要一辆操控性好的车，必须要满足以下这几个条件：</p><p>1、轮胎的扁平比高</p><p>2、有多连杆独立悬架和较硬的减震器，当然不是越硬越好……</p><p>3、最好是没有助力或者是采用传统的液压助力（这是现在玩车的人觉得现在的车不好玩的最根源的因素之一）</p><p>4、后驱</p><p>5、有一些有利于驾驶的装备</p><br/><p>所以想找一辆操控性好的车就按照这几个方面去找就好了……</p><p>========================此文章来自翔翔翔的大脑==========================</p><br/><p>感谢您关注翔翔翔的知乎专栏~~我也非常希望能跟大家一起讨论汽车相关的话题，说的不对的地方也欢迎大家指正，我要进步！~</p>", 
+            "topic": [
+                {
+                    "tag": "汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19551915"
+                }, 
+                {
+                    "tag": "汽车选购", 
+                    "tagLink": "https://api.zhihu.com/topics/19923719"
+                }, 
+                {
+                    "tag": "汽车行业", 
+                    "tagLink": "https://api.zhihu.com/topics/19585985"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "师军波", 
+                    "userLink": "https://www.zhihu.com/people/9cf855cd4cda0b23277b000fe38b75f3", 
+                    "content": "<p>总结一下，想要一辆操控性好的车，必须要满足以下这几个条件：<br><br>1、轮胎的扁平比高<br><br>说错了吧。不应该是扁平比越低越好吗？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/xxxxx"
+}

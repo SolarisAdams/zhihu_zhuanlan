@@ -1,0 +1,138 @@
+{
+    "title": "C#从入门到转行", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/yang-cheng-kun-86", 
+        "https://www.zhihu.com/people/hong-deng-85-51", 
+        "https://www.zhihu.com/people/chl-48-26", 
+        "https://www.zhihu.com/people/liweifeng-47", 
+        "https://www.zhihu.com/people/li-tony-92", 
+        "https://www.zhihu.com/people/miao-miao-95-13", 
+        "https://www.zhihu.com/people/ding-yang-11-64", 
+        "https://www.zhihu.com/people/zhi-fou-53-18", 
+        "https://www.zhihu.com/people/zheng-jin-94", 
+        "https://www.zhihu.com/people/zai-xu-qian-yuan-80", 
+        "https://www.zhihu.com/people/tang-nu-wu-liang-hai", 
+        "https://www.zhihu.com/people/bing-meng-yu-chen", 
+        "https://www.zhihu.com/people/zhang-ting-70-6-66", 
+        "https://www.zhihu.com/people/chen-long-16-37-67", 
+        "https://www.zhihu.com/people/hei-ye-de-yan-jing-80", 
+        "https://www.zhihu.com/people/kong-kong-de-nao-dai-75", 
+        "https://www.zhihu.com/people/dong-ni-da-shu-30", 
+        "https://www.zhihu.com/people/qi-cai-lei-3", 
+        "https://www.zhihu.com/people/gong-shi-feng-11", 
+        "https://www.zhihu.com/people/yu-kai-96-23", 
+        "https://www.zhihu.com/people/da-jia-hao-wo-shi-tang-mu-mao", 
+        "https://www.zhihu.com/people/sheng-sheng-9-14-10", 
+        "https://www.zhihu.com/people/itxiao-sheng-53", 
+        "https://www.zhihu.com/people/kasama1981", 
+        "https://www.zhihu.com/people/yechengyuan1986", 
+        "https://www.zhihu.com/people/castiel-zhao", 
+        "https://www.zhihu.com/people/whis-19-80", 
+        "https://www.zhihu.com/people/wang-cong-95-38", 
+        "https://www.zhihu.com/people/xiao-hong-xing-91", 
+        "https://www.zhihu.com/people/cui-san-quan", 
+        "https://www.zhihu.com/people/dong-jie-61-70-86", 
+        "https://www.zhihu.com/people/qia-la-shi-tiao-gou-59", 
+        "https://www.zhihu.com/people/hai-long-74-50", 
+        "https://www.zhihu.com/people/bian-bian-9-24", 
+        "https://www.zhihu.com/people/yanxy-62", 
+        "https://www.zhihu.com/people/jia-wan-ying-42", 
+        "https://www.zhihu.com/people/liu-xin-12-74-99", 
+        "https://www.zhihu.com/people/li-xiao-yu-84-70", 
+        "https://www.zhihu.com/people/goss-kalec", 
+        "https://www.zhihu.com/people/yin-yan-guo-5", 
+        "https://www.zhihu.com/people/zhou-hua-56", 
+        "https://www.zhihu.com/people/bie-qi-ma-yi", 
+        "https://www.zhihu.com/people/wu-shi-mi-62", 
+        "https://www.zhihu.com/people/he-jie-39-64", 
+        "https://www.zhihu.com/people/hai-di-yu-25", 
+        "https://www.zhihu.com/people/li-ying-fei-94", 
+        "https://www.zhihu.com/people/bu-lang-man", 
+        "https://www.zhihu.com/people/nan-sheng-29-97", 
+        "https://www.zhihu.com/people/suncaomei", 
+        "https://www.zhihu.com/people/wang-cary-20", 
+        "https://www.zhihu.com/people/qiong-qiong-jie-li-86", 
+        "https://www.zhihu.com/people/li-xiao-dong-18-60", 
+        "https://www.zhihu.com/people/li-jin-72-18", 
+        "https://www.zhihu.com/people/linuxcpp", 
+        "https://www.zhihu.com/people/chuang-jing-ji-jie", 
+        "https://www.zhihu.com/people/yao-dao-69-55", 
+        "https://www.zhihu.com/people/wen-zhi-hong", 
+        "https://www.zhihu.com/people/hou-lao-da-52-8", 
+        "https://www.zhihu.com/people/an-jing-92-39", 
+        "https://www.zhihu.com/people/yong-heng-3-3", 
+        "https://www.zhihu.com/people/liu-jin-peng-35-39"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33715664", 
+            "userName": "铁匠周师傅", 
+            "userLink": "https://www.zhihu.com/people/98823a8d0fda030f3ef0a4ac843672bb", 
+            "upvote": 0, 
+            "title": "常用聚合函数（Transact SQL）", 
+            "content": "<p>1  count    2   sum    3   avg    4   max    5   min </p><p>使用规范时 默认的是all   </p><p>distinct   指定所有的唯一非空值行</p><p>count  (行的数目)</p><p>select count (  列或者*)  from  表</p><p>sum  (总和)</p><p>select  sum（计数规范）from</p><p class=\"ztext-empty-paragraph\"><br/></p><p>分组  （group by）</p><p>select  列a  ， 聚合函数 from 表      where 过滤条件      group  by  列a （以列a来分组）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>过滤聚合函数（having）</p><p>select  列a  ， 聚合函数 from 表      where 过滤条件      group  by  列a    having  聚合函数过滤条件 </p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>要注意的是  SQL语句的执行顺序</p><p>(5)select  列a  ， 聚合函数  （1） from 表    （2）  where 过滤条件    （3）  group by  列a  （4）  having   聚合函数过滤条件  （6） order   by</p><p class=\"ztext-empty-paragraph\"><br/></p><p>练习</p><p>select * from nobel</p><p>-- 1获奖总人数<br/>select count (distinct winner) from nobel</p><p>-- 2 诺贝尔 物理奖的获奖总次数<br/>select count(subject)from nobel where subject=&#39;Physics&#39;</p><p>-- 3 显示每个奖项的获奖总次数<br/>select subject,count(subject)from nobel group by subject</p><p>-- 4显示每个奖项第一次获得的年份<br/>select min(yr) 年份,subject 奖项 from nobel group by subject</p><p>-- 5 显示每个奖项在2000年来获得的人数<br/>select subject 奖项,yr 年份 from nobel where yr=2000 group by subject ,yr</p><p>-- 6 显示每个奖项不同获奖者的人数<br/>select subject 奖项,count (distinct winner)from nobel group by subject</p><p>-- 7  显示每个奖项 有多少年获奖<br/>select subject 奖项,count (distinct yr)from nobel group by subject</p><p>-- 8 显示当年有三个Physic的年份<br/>select subject 奖项,yr 年份 from nobel where  subject=&#39;Physics&#39; group by yr, subject having count(winner)=3</p><p>-- 9 得奖大于1的winner<br/>select winner 获奖者 from nobel group by winner having count(subject)&gt;1</p><p>--10 得到多个奖项的winner<br/>select winner 获奖者 from nobel group by winner having count(distinct subject)&gt;1</p><p>--11</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><a href=\"https://link.zhihu.com/?target=http%3A//blog.csdn.net/dandanyisheng/article/details/52503078\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">转载自 CSDN博客</a></p>", 
+            "topic": [
+                {
+                    "tag": "SQL", 
+                    "tagLink": "https://api.zhihu.com/topics/19553557"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30754956", 
+            "userName": "铁匠周师傅", 
+            "userLink": "https://www.zhihu.com/people/98823a8d0fda030f3ef0a4ac843672bb", 
+            "upvote": 3, 
+            "title": "凯撒密码、移位密码-ROT13", 
+            "content": "<p>ROT13是一种简单的加密方式，主要是把26个英文字母前13个和后13个对调，起到一定的英文文字加密保护作用。</p><p>虽然加密方式简单，但是Windows的注册表里面都使用了ROT13加密，可见其使用还是比较多的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><i>思路</i></p><p><i>26字母所对应的</i>unicode码</p><p><b>大写字母在65(A)与90(Z)之间  第13位M(77) </b></p><p><b>小写字母在97(a)与112(z)之间 第13位m(109)</b></p><p>  把单个字符转为unicode编码<br/>  其中非字母形式不做修改<br/>  后13位字母减去13<br/>  前13位字母加上13<br/>  把unicode转化为字母 添加到字符串</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>JavaScripts实现</blockquote><p><b>.charCodeAt() </b>        字母转unicode编码</p><p><b>.fromCharCode()</b>    unicode编码转化为字母</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"kd\">function</span> <span class=\"nx\">rot13</span><span class=\"p\">(</span><span class=\"nx\">str</span><span class=\"p\">)</span> <span class=\"p\">{</span>    \n <span class=\"kd\">var</span> <span class=\"nx\">Text</span><span class=\"o\">=</span><span class=\"s2\">&#34;&#34;</span><span class=\"p\">;</span>\n  <span class=\"k\">for</span><span class=\"p\">(</span><span class=\"kd\">var</span> <span class=\"nx\">i</span><span class=\"o\">=</span><span class=\"mi\">0</span><span class=\"p\">;</span><span class=\"nx\">i</span><span class=\"o\">&lt;</span><span class=\"nx\">str</span><span class=\"p\">.</span><span class=\"nx\">length</span><span class=\"p\">;</span><span class=\"nx\">i</span><span class=\"o\">++</span><span class=\"p\">){</span>    \n    <span class=\"kd\">var</span> <span class=\"nx\">Code</span><span class=\"o\">=</span><span class=\"nx\">str</span><span class=\"p\">.</span><span class=\"nx\">charCodeAt</span><span class=\"p\">(</span><span class=\"nx\">i</span><span class=\"p\">);</span>    \n    <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">Code</span> <span class=\"o\">&gt;=</span><span class=\"mi\">65</span> <span class=\"o\">&amp;&amp;</span> <span class=\"nx\">Code</span> <span class=\"o\">&lt;=</span><span class=\"mi\">77</span><span class=\"p\">){</span>\n     <span class=\"nx\">Code</span><span class=\"o\">=</span><span class=\"nx\">Code</span><span class=\"o\">+</span><span class=\"mi\">13</span><span class=\"p\">;</span>      \n    <span class=\"p\">}</span><span class=\"k\">else</span> <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">Code</span> <span class=\"o\">&gt;=</span><span class=\"mi\">78</span> <span class=\"o\">&amp;&amp;</span> <span class=\"nx\">Code</span> <span class=\"o\">&lt;=</span><span class=\"mi\">90</span><span class=\"p\">){</span>\n      <span class=\"nx\">Code</span><span class=\"o\">=</span><span class=\"nx\">Code</span><span class=\"o\">-</span><span class=\"mi\">13</span><span class=\"p\">;</span>\n    <span class=\"p\">}</span>\n\n    <span class=\"nx\">Text</span><span class=\"o\">=</span><span class=\"nx\">Text</span><span class=\"o\">+</span><span class=\"nb\">String</span><span class=\"p\">.</span><span class=\"nx\">fromCharCode</span><span class=\"p\">(</span><span class=\"nx\">Code</span><span class=\"p\">);</span>\n  <span class=\"p\">}</span>\n  <span class=\"k\">return</span> <span class=\"nx\">Text</span><span class=\"p\">;</span>  \n<span class=\"p\">}</span>\n</code></pre></div><blockquote>C#实现</blockquote><p><b>System.Convert.ToChar()</b></p><div class=\"highlight\"><pre><code class=\"language-csharp\"><span class=\"k\">public</span> <span class=\"kt\">string</span> <span class=\"n\">Rot13</span><span class=\"p\">(</span><span class=\"kt\">string</span> <span class=\"n\">str</span><span class=\"p\">)</span>\n<span class=\"p\">{</span>\n    <span class=\"kt\">string</span> <span class=\"n\">Text</span> <span class=\"p\">=</span> <span class=\"s\">&#34;&#34;</span><span class=\"p\">;</span>\n    <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kt\">int</span> <span class=\"n\">i</span> <span class=\"p\">=</span> <span class=\"m\">0</span><span class=\"p\">;</span> <span class=\"n\">i</span> <span class=\"p\">&lt;</span> <span class=\"n\">str</span><span class=\"p\">.</span><span class=\"n\">Length</span><span class=\"p\">;</span> <span class=\"n\">i</span><span class=\"p\">++)</span>\n    <span class=\"p\">{</span>\n        <span class=\"kt\">char</span> <span class=\"n\">Code</span> <span class=\"p\">=</span> <span class=\"n\">System</span><span class=\"p\">.</span><span class=\"n\">Convert</span><span class=\"p\">.</span><span class=\"n\">ToChar</span><span class=\"p\">(</span><span class=\"n\">str</span><span class=\"p\">.</span><span class=\"n\">Substring</span><span class=\"p\">(</span><span class=\"n\">i</span><span class=\"p\">,</span> <span class=\"m\">1</span><span class=\"p\">));</span>\n        <span class=\"k\">if</span> <span class=\"p\">(</span><span class=\"n\">Code</span> <span class=\"p\">&gt;=</span> <span class=\"m\">65</span> <span class=\"p\">&amp;&amp;</span> <span class=\"n\">Code</span> <span class=\"p\">&lt;=</span> <span class=\"m\">77</span><span class=\"p\">)</span>\n        <span class=\"p\">{</span>\n            <span class=\"n\">Code</span> <span class=\"p\">=</span> <span class=\"p\">(</span><span class=\"kt\">char</span><span class=\"p\">)(</span><span class=\"n\">Code</span> <span class=\"p\">+</span> <span class=\"m\">13</span><span class=\"p\">);</span>\n        <span class=\"p\">}</span>\n        <span class=\"k\">else</span> <span class=\"k\">if</span> <span class=\"p\">(</span><span class=\"n\">Code</span> <span class=\"p\">&gt;=</span> <span class=\"m\">78</span> <span class=\"p\">&amp;&amp;</span> <span class=\"n\">Code</span> <span class=\"p\">&lt;=</span> <span class=\"m\">90</span><span class=\"p\">)</span>\n        <span class=\"p\">{</span>\n            <span class=\"n\">Code</span> <span class=\"p\">=</span> <span class=\"p\">(</span><span class=\"kt\">char</span><span class=\"p\">)(</span><span class=\"n\">Code</span> <span class=\"p\">-</span> <span class=\"m\">13</span><span class=\"p\">);</span>\n        <span class=\"p\">}</span>\n        <span class=\"k\">else</span> <span class=\"k\">if</span> <span class=\"p\">(</span><span class=\"n\">Code</span> <span class=\"p\">&gt;=</span> <span class=\"m\">97</span> <span class=\"p\">&amp;&amp;</span> <span class=\"n\">Code</span> <span class=\"p\">&lt;=</span> <span class=\"m\">109</span><span class=\"p\">)</span>\n        <span class=\"p\">{</span>\n            <span class=\"n\">Code</span> <span class=\"p\">=</span> <span class=\"p\">(</span><span class=\"kt\">char</span><span class=\"p\">)(</span><span class=\"n\">Code</span> <span class=\"p\">+</span> <span class=\"m\">13</span><span class=\"p\">);</span>\n        <span class=\"p\">}</span>\n        <span class=\"k\">else</span> <span class=\"k\">if</span> <span class=\"p\">(</span><span class=\"n\">Code</span> <span class=\"p\">&gt;=</span> <span class=\"m\">110</span> <span class=\"p\">&amp;&amp;</span> <span class=\"n\">Code</span> <span class=\"p\">&lt;=</span> <span class=\"m\">122</span><span class=\"p\">)</span>\n        <span class=\"p\">{</span>\n            <span class=\"n\">Code</span> <span class=\"p\">=</span> <span class=\"p\">(</span><span class=\"kt\">char</span><span class=\"p\">)(</span><span class=\"n\">Code</span> <span class=\"p\">-</span> <span class=\"m\">13</span><span class=\"p\">);</span>\n        <span class=\"p\">}</span>                \n        <span class=\"n\">Text</span> <span class=\"p\">=</span> <span class=\"n\">Text</span> <span class=\"p\">+</span> <span class=\"n\">Code</span><span class=\"p\">;</span>\n    <span class=\"p\">}</span>\n    <span class=\"k\">return</span> <span class=\"n\">Text</span><span class=\"p\">;</span>          \n<span class=\"p\">}</span>\n</code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553510"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28639236", 
+            "userName": "铁匠周师傅", 
+            "userLink": "https://www.zhihu.com/people/98823a8d0fda030f3ef0a4ac843672bb", 
+            "upvote": 1, 
+            "title": "基础算法(1)-反转字符串", 
+            "content": "<p>输入 hello  返回  olleh</p><p>思路</p><p><b>一、</b>数组反转，字符串转化成数组，再借助数组的reverse方法翻转数组顺序，最后把数组转化成字符串</p><p><b>二、</b>朴素解法，倒序遍历，字符串拼接</p><blockquote><b>JavaScripts实现</b></blockquote><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"kd\">var</span> <span class=\"nx\">str</span><span class=\"o\">=</span><span class=\"s2\">&#34;hello&#34;</span><span class=\"p\">;</span>\n<span class=\"k\">return</span>  <span class=\"nx\">str</span><span class=\"p\">.</span><span class=\"nx\">split</span><span class=\"p\">(</span><span class=\"s2\">&#34;&#34;</span><span class=\"p\">).</span><span class=\"nx\">reverse</span><span class=\"p\">().</span><span class=\"nx\">join</span><span class=\"p\">(</span><span class=\"s2\">&#34;&#34;</span><span class=\"p\">)</span> <span class=\"p\">;</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"kd\">var</span> <span class=\"nx\">str</span><span class=\"o\">=</span><span class=\"s2\">&#34;hello&#34;</span><span class=\"p\">;</span>\n<span class=\"kd\">var</span> <span class=\"nx\">string</span><span class=\"o\">=</span><span class=\"s2\">&#34;&#34;</span><span class=\"p\">;</span>\n<span class=\"k\">for</span><span class=\"p\">(</span><span class=\"kd\">var</span> <span class=\"nx\">i</span><span class=\"o\">=</span><span class=\"nx\">str</span><span class=\"p\">.</span><span class=\"nx\">length</span><span class=\"o\">-</span><span class=\"mi\">1</span><span class=\"p\">;</span><span class=\"nx\">i</span><span class=\"o\">&gt;=</span><span class=\"mi\">0</span><span class=\"p\">;</span><span class=\"nx\">i</span><span class=\"o\">--</span><span class=\"p\">){</span>\n    <span class=\"nx\">string</span><span class=\"o\">+=</span> <span class=\"nx\">str</span><span class=\"p\">.</span><span class=\"nx\">charAt</span><span class=\"p\">(</span><span class=\"nx\">i</span><span class=\"p\">);</span>\n<span class=\"p\">}</span> \n<span class=\"k\">return</span> <span class=\"nx\">string</span><span class=\"p\">;</span>\n</code></pre></div><blockquote><b>C#实现</b></blockquote><div class=\"highlight\"><pre><code class=\"language-csharp\"><span class=\"kt\">string</span> <span class=\"n\">text</span> <span class=\"p\">=</span> <span class=\"s\">&#34;hello&#34;</span><span class=\"p\">;</span>\n<span class=\"kt\">char</span><span class=\"na\">[]</span> <span class=\"n\">charArray</span> <span class=\"p\">=</span> <span class=\"n\">text</span><span class=\"p\">.</span><span class=\"n\">ToCharArray</span><span class=\"p\">();</span>\n<span class=\"n\">Array</span><span class=\"p\">.</span><span class=\"n\">Reverse</span><span class=\"p\">(</span><span class=\"n\">charArray</span><span class=\"p\">);</span>\n<span class=\"k\">return</span> <span class=\"k\">new</span> <span class=\"kt\">string</span><span class=\"p\">(</span><span class=\"n\">charArray</span><span class=\"p\">);</span>\n</code></pre></div><p>字符串性能低下，使用StringBuilder进行拼接字符串</p><div class=\"highlight\"><pre><code class=\"language-csharp\"><span class=\"kt\">string</span> <span class=\"n\">text</span> <span class=\"p\">=</span> <span class=\"s\">&#34;hello&#34;</span><span class=\"p\">;</span>\n<span class=\"n\">StringBuilder</span> <span class=\"n\">builder</span> <span class=\"p\">=</span> <span class=\"k\">new</span> <span class=\"n\">StringBuilder</span><span class=\"p\">(</span><span class=\"n\">text</span><span class=\"p\">.</span><span class=\"n\">Length</span><span class=\"p\">);</span>\n<span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kt\">int</span> <span class=\"n\">i</span> <span class=\"p\">=</span> <span class=\"n\">text</span><span class=\"p\">.</span><span class=\"n\">Length</span> <span class=\"p\">-</span> <span class=\"m\">1</span><span class=\"p\">;</span> <span class=\"n\">i</span> <span class=\"p\">&gt;=</span> <span class=\"m\">0</span><span class=\"p\">;</span> <span class=\"n\">i</span><span class=\"p\">--)</span>\n<span class=\"p\">{</span>\n    <span class=\"n\">builder</span><span class=\"p\">.</span><span class=\"n\">Append</span><span class=\"p\">(</span><span class=\"n\">text</span><span class=\"na\">[i]</span><span class=\"p\">);</span>\n<span class=\"p\">}</span> \n<span class=\"k\">return</span> <span class=\"n\">builder</span><span class=\"p\">.</span><span class=\"n\">ToString</span><span class=\"p\">();</span>\n</code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "JavaScript", 
+                    "tagLink": "https://api.zhihu.com/topics/19552521"
+                }, 
+                {
+                    "tag": "C#", 
+                    "tagLink": "https://api.zhihu.com/topics/19590712"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28297580", 
+            "userName": "铁匠周师傅", 
+            "userLink": "https://www.zhihu.com/people/98823a8d0fda030f3ef0a4ac843672bb", 
+            "upvote": 0, 
+            "title": "ASP.NET学习之路 MVC 实践篇（一）", 
+            "content": "<p>开发环境</p><p>IED        <a href=\"https://link.zhihu.com/?target=http%3A//www.baidu.com/link%3Furl%3DBG_pyo3DUd-tBiy7-ifgUQRzl8q_Ko8WxiEveW_odNy6UiBPyxPdxXddMildpZESdM2kDUZugfLz_3xqiydedK\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Visual Studio 2017</a>     (哈哈 世界上最强大的开发工具)</p><p>数据库    SQL Server 2008 R2</p><p>数据管理   Navicat</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一、创建 Web 应用程序</p><p>启动 VS  点文件-&gt;新建-&gt;项目</p><p>选择Web 应用 输入项目名称 选择存放路径 点击确定 </p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-d77acd3d3d7c050b5e61b83dc43d2ee7_b.png\" data-rawwidth=\"1920\" data-rawheight=\"1048\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic4.zhimg.com/v2-d77acd3d3d7c050b5e61b83dc43d2ee7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1920&#39; height=&#39;1048&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"1048\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic4.zhimg.com/v2-d77acd3d3d7c050b5e61b83dc43d2ee7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d77acd3d3d7c050b5e61b83dc43d2ee7_b.png\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>选择MVC 模板 点击确定</p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-c6d53b62018bb93db2a63d39ac26451a_b.png\" data-rawwidth=\"800\" data-rawheight=\"520\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-c6d53b62018bb93db2a63d39ac26451a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;520&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"800\" data-rawheight=\"520\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-c6d53b62018bb93db2a63d39ac26451a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c6d53b62018bb93db2a63d39ac26451a_b.png\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>二、创建控制器</p><p>在资源管理器中 右击controller文件夹 选择添加-&gt;Controller(控制器)</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-1f0ae586b48530de8163917fabe4592e_b.png\" data-rawwidth=\"1073\" data-rawheight=\"958\" class=\"origin_image zh-lightbox-thumb\" width=\"1073\" data-original=\"https://pic3.zhimg.com/v2-1f0ae586b48530de8163917fabe4592e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1073&#39; height=&#39;958&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1073\" data-rawheight=\"958\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1073\" data-original=\"https://pic3.zhimg.com/v2-1f0ae586b48530de8163917fabe4592e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1f0ae586b48530de8163917fabe4592e_b.png\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>选择空 MVC 5控制器  点击添加</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-f8eae530c79a60ae2ba55d7b0db4c9a2_b.png\" data-rawwidth=\"955\" data-rawheight=\"660\" class=\"origin_image zh-lightbox-thumb\" width=\"955\" data-original=\"https://pic3.zhimg.com/v2-f8eae530c79a60ae2ba55d7b0db4c9a2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;955&#39; height=&#39;660&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"955\" data-rawheight=\"660\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"955\" data-original=\"https://pic3.zhimg.com/v2-f8eae530c79a60ae2ba55d7b0db4c9a2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f8eae530c79a60ae2ba55d7b0db4c9a2_b.png\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>名称中必须包含Controller关键字</p><p>输入控制器的名称 TestController 点击添加</p><p>在这一步骤中，要特别注意千万不能删除名称中的  Controller 关键字</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-94c21e8c036c84191b0ea009730eff12_b.png\" data-rawwidth=\"600\" data-rawheight=\"129\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-94c21e8c036c84191b0ea009730eff12_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;129&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"600\" data-rawheight=\"129\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-94c21e8c036c84191b0ea009730eff12_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-94c21e8c036c84191b0ea009730eff12_b.png\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>三、创建行为方法</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>待更新、、、、、</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "MVC", 
+                    "tagLink": "https://api.zhihu.com/topics/19583976"
+                }, 
+                {
+                    "tag": "C#", 
+                    "tagLink": "https://api.zhihu.com/topics/19590712"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_111871643"
+}

@@ -1,0 +1,536 @@
+{
+    "title": "自动控制开始入门到入门一半", 
+    "description": "工程地址 https://github.com/greedyhao/trembling-ball-pid", 
+    "followers": [
+        "https://www.zhihu.com/people/yong-gan-de-xin-98-12", 
+        "https://www.zhihu.com/people/jiu-yue-de-jiu-yue", 
+        "https://www.zhihu.com/people/liu-xiao-97-35-81", 
+        "https://www.zhihu.com/people/chen-xiao-shou-18-64", 
+        "https://www.zhihu.com/people/tanzimat", 
+        "https://www.zhihu.com/people/la-ge-la-ge-la-ge-27-27", 
+        "https://www.zhihu.com/people/mao-yijian", 
+        "https://www.zhihu.com/people/hu-zhi-22-55", 
+        "https://www.zhihu.com/people/huang-di-50-36", 
+        "https://www.zhihu.com/people/deathxi-ren-ko", 
+        "https://www.zhihu.com/people/bu-er-31-56-28", 
+        "https://www.zhihu.com/people/dgf-97-63", 
+        "https://www.zhihu.com/people/wtaowinnie", 
+        "https://www.zhihu.com/people/wang-tao-27-72", 
+        "https://www.zhihu.com/people/shi-ke-49", 
+        "https://www.zhihu.com/people/jason-73-67-71", 
+        "https://www.zhihu.com/people/zhang-yong-qing-40", 
+        "https://www.zhihu.com/people/ban-dao-ji-mo", 
+        "https://www.zhihu.com/people/lakerswrr", 
+        "https://www.zhihu.com/people/ding-bei-27-33", 
+        "https://www.zhihu.com/people/huang-chao-lin-6", 
+        "https://www.zhihu.com/people/zmein-10", 
+        "https://www.zhihu.com/people/tda-keng", 
+        "https://www.zhihu.com/people/bai-zhuo-yu-34", 
+        "https://www.zhihu.com/people/xiang-zheng-lei", 
+        "https://www.zhihu.com/people/lang-lang-gan-kun-32-91", 
+        "https://www.zhihu.com/people/meng-hu-14-67", 
+        "https://www.zhihu.com/people/zheng-feng-80-24", 
+        "https://www.zhihu.com/people/xiao-ya-22-97", 
+        "https://www.zhihu.com/people/lin-jie-84-33", 
+        "https://www.zhihu.com/people/feng-chui-pi-pi-liang-28-53", 
+        "https://www.zhihu.com/people/ying-zhi-92", 
+        "https://www.zhihu.com/people/brightbirdhuang", 
+        "https://www.zhihu.com/people/fangxin-lu", 
+        "https://www.zhihu.com/people/wang-qi-gai-4", 
+        "https://www.zhihu.com/people/elite-35-52", 
+        "https://www.zhihu.com/people/jjww-71-58", 
+        "https://www.zhihu.com/people/123-73-5-6", 
+        "https://www.zhihu.com/people/jia-quan-81-92", 
+        "https://www.zhihu.com/people/du-shen-zi-ni", 
+        "https://www.zhihu.com/people/zi-fei-yu-76-10", 
+        "https://www.zhihu.com/people/ba-bu-tian-long-93", 
+        "https://www.zhihu.com/people/chehche", 
+        "https://www.zhihu.com/people/xh-lv-11", 
+        "https://www.zhihu.com/people/luckydog-81", 
+        "https://www.zhihu.com/people/xia-tian-87-17-35", 
+        "https://www.zhihu.com/people/wei-liao-na-mo-yun-cai-27", 
+        "https://www.zhihu.com/people/zhang-san-65-62", 
+        "https://www.zhihu.com/people/niu-wen-qiao", 
+        "https://www.zhihu.com/people/liu-lang-36-27", 
+        "https://www.zhihu.com/people/shenqingwo", 
+        "https://www.zhihu.com/people/ping-zi-5-6", 
+        "https://www.zhihu.com/people/dong-gua-15-26-93", 
+        "https://www.zhihu.com/people/yan-zhi-chang-han-xue-zuo-hua-24", 
+        "https://www.zhihu.com/people/xu-shao-zhi", 
+        "https://www.zhihu.com/people/tao-wang-95-84", 
+        "https://www.zhihu.com/people/zhaoxy990913", 
+        "https://www.zhihu.com/people/da-long-mao-25-70", 
+        "https://www.zhihu.com/people/juljl", 
+        "https://www.zhihu.com/people/da-mai-guo-48", 
+        "https://www.zhihu.com/people/demllie", 
+        "https://www.zhihu.com/people/wxcang-shan-xi-shui", 
+        "https://www.zhihu.com/people/zhou-xiao-shuai-83", 
+        "https://www.zhihu.com/people/xi-meng-tian", 
+        "https://www.zhihu.com/people/wu-nai-qian-chang", 
+        "https://www.zhihu.com/people/sha-mo-luo-tuo-61-54", 
+        "https://www.zhihu.com/people/i1602", 
+        "https://www.zhihu.com/people/xiaofengdianzi", 
+        "https://www.zhihu.com/people/yang-fan-47", 
+        "https://www.zhihu.com/people/shushengyiqi-", 
+        "https://www.zhihu.com/people/ni-hao-zai-jian-50-10", 
+        "https://www.zhihu.com/people/di-guo-qiang-17", 
+        "https://www.zhihu.com/people/gao-jian-wei-82-10", 
+        "https://www.zhihu.com/people/xiao-yan-60-76-50", 
+        "https://www.zhihu.com/people/youfulin-72", 
+        "https://www.zhihu.com/people/nothing-serious-35", 
+        "https://www.zhihu.com/people/wei-hai-chen-65", 
+        "https://www.zhihu.com/people/ren-wan-nian", 
+        "https://www.zhihu.com/people/lao-zi-de-yi-da-li-pao-ni-70", 
+        "https://www.zhihu.com/people/tang-tang-35-45", 
+        "https://www.zhihu.com/people/great-jason", 
+        "https://www.zhihu.com/people/wang-xu-96-23", 
+        "https://www.zhihu.com/people/li-ling-12-18-63", 
+        "https://www.zhihu.com/people/han-xiao-fu-48", 
+        "https://www.zhihu.com/people/ji-guang-sy", 
+        "https://www.zhihu.com/people/yu-ge-78-72", 
+        "https://www.zhihu.com/people/zxs-95-52", 
+        "https://www.zhihu.com/people/Tian_mos", 
+        "https://www.zhihu.com/people/bunanya", 
+        "https://www.zhihu.com/people/hal-47", 
+        "https://www.zhihu.com/people/chen-jia-jun-22-12-47", 
+        "https://www.zhihu.com/people/zhang-rui-18-58-7", 
+        "https://www.zhihu.com/people/shao-jie-89", 
+        "https://www.zhihu.com/people/mywyd-61", 
+        "https://www.zhihu.com/people/liu-xiao-9-13", 
+        "https://www.zhihu.com/people/li-peixin", 
+        "https://www.zhihu.com/people/lrk1992", 
+        "https://www.zhihu.com/people/cao-man-man-84", 
+        "https://www.zhihu.com/people/zangze", 
+        "https://www.zhihu.com/people/tian-ma-xing-kong-5-54", 
+        "https://www.zhihu.com/people/cui-yu-kang", 
+        "https://www.zhihu.com/people/shi-kong-chuan-suo-64", 
+        "https://www.zhihu.com/people/shen-han-feng", 
+        "https://www.zhihu.com/people/nan-xi-han-sheng-66-89", 
+        "https://www.zhihu.com/people/shi-liu-ye-31-40", 
+        "https://www.zhihu.com/people/Joyce-ShC-18", 
+        "https://www.zhihu.com/people/qian-bi-86-60", 
+        "https://www.zhihu.com/people/guo-tai-san-ge", 
+        "https://www.zhihu.com/people/si-liang-19-12", 
+        "https://www.zhihu.com/people/li-zhi-hao-21", 
+        "https://www.zhihu.com/people/bing-tang-xue-yang", 
+        "https://www.zhihu.com/people/xue-bo-zero", 
+        "https://www.zhihu.com/people/Joshua-Wang-65-89", 
+        "https://www.zhihu.com/people/li-jian-36-46", 
+        "https://www.zhihu.com/people/mcfly-54", 
+        "https://www.zhihu.com/people/liu-ban-pian", 
+        "https://www.zhihu.com/people/yang-yang-75-12-10", 
+        "https://www.zhihu.com/people/hum-75", 
+        "https://www.zhihu.com/people/MagicRabbit", 
+        "https://www.zhihu.com/people/liangzhuo-10", 
+        "https://www.zhihu.com/people/dong-yun-long-5", 
+        "https://www.zhihu.com/people/wang-an-qi-33-4", 
+        "https://www.zhihu.com/people/chen-jing-feng-61", 
+        "https://www.zhihu.com/people/hong-guang-zhu-60", 
+        "https://www.zhihu.com/people/bigmammoth", 
+        "https://www.zhihu.com/people/xi-guan-yin-xing-mai-ming", 
+        "https://www.zhihu.com/people/jin-jiang-78", 
+        "https://www.zhihu.com/people/yong-heng-zhi-xin-30", 
+        "https://www.zhihu.com/people/liang-zi-die-jia-tai-74", 
+        "https://www.zhihu.com/people/dz-li-4", 
+        "https://www.zhihu.com/people/dennis-92-13-5", 
+        "https://www.zhihu.com/people/he-sheng-lei-98", 
+        "https://www.zhihu.com/people/zhang-guo-62-19", 
+        "https://www.zhihu.com/people/jiang-yi-yi-11", 
+        "https://www.zhihu.com/people/a-kun-18-6", 
+        "https://www.zhihu.com/people/duanduanr", 
+        "https://www.zhihu.com/people/martin-song", 
+        "https://www.zhihu.com/people/le-lang-", 
+        "https://www.zhihu.com/people/yu-yu-68-20-45", 
+        "https://www.zhihu.com/people/yanghuoer", 
+        "https://www.zhihu.com/people/tongsky-49", 
+        "https://www.zhihu.com/people/long-shao-42-72", 
+        "https://www.zhihu.com/people/zhong-dong-11-51", 
+        "https://www.zhihu.com/people/zhang-hai-wang-90", 
+        "https://www.zhihu.com/people/yang-guang-cao-di-59", 
+        "https://www.zhihu.com/people/these-images", 
+        "https://www.zhihu.com/people/dongyu-66", 
+        "https://www.zhihu.com/people/shi-tao-66-82", 
+        "https://www.zhihu.com/people/suo-shi-chong-chong", 
+        "https://www.zhihu.com/people/ly0519-49", 
+        "https://www.zhihu.com/people/yang-miao-9-66-51", 
+        "https://www.zhihu.com/people/liao-xiang-zhi-92", 
+        "https://www.zhihu.com/people/xiaoyou-98", 
+        "https://www.zhihu.com/people/fafafaaa", 
+        "https://www.zhihu.com/people/lizhen-75", 
+        "https://www.zhihu.com/people/cheng-xing-43", 
+        "https://www.zhihu.com/people/da-er-huo-83", 
+        "https://www.zhihu.com/people/xia-zhi-yong-56", 
+        "https://www.zhihu.com/people/wang-zhe-93-20", 
+        "https://www.zhihu.com/people/yuan-zi-93-53", 
+        "https://www.zhihu.com/people/nan-shang-jia-nan-59", 
+        "https://www.zhihu.com/people/yu-bin-34-30", 
+        "https://www.zhihu.com/people/zhong-jin-rui-56", 
+        "https://www.zhihu.com/people/111-26-68-79", 
+        "https://www.zhihu.com/people/wang-jia-bin-30-91", 
+        "https://www.zhihu.com/people/steel-13-83", 
+        "https://www.zhihu.com/people/jzl1", 
+        "https://www.zhihu.com/people/lailai-roy-13", 
+        "https://www.zhihu.com/people/xjt-13", 
+        "https://www.zhihu.com/people/kai-shi-dong-liao-50-35", 
+        "https://www.zhihu.com/people/li-yang-83-38-14", 
+        "https://www.zhihu.com/people/she-liang", 
+        "https://www.zhihu.com/people/wang-zhaokun", 
+        "https://www.zhihu.com/people/chang-tian-gu-mu-33", 
+        "https://www.zhihu.com/people/zhang-xiao-yu-71-47", 
+        "https://www.zhihu.com/people/wang-zhong-zheng-89-37", 
+        "https://www.zhihu.com/people/peng-tong-xing-24", 
+        "https://www.zhihu.com/people/zhang-xin-hao-11", 
+        "https://www.zhihu.com/people/ling-dong-88-54", 
+        "https://www.zhihu.com/people/axida19970406", 
+        "https://www.zhihu.com/people/liu-lang-yuan-zui", 
+        "https://www.zhihu.com/people/xia-yi-xi-2-90", 
+        "https://www.zhihu.com/people/lightdrops", 
+        "https://www.zhihu.com/people/haozi-56", 
+        "https://www.zhihu.com/people/reymond2000", 
+        "https://www.zhihu.com/people/jiang-song-ji", 
+        "https://www.zhihu.com/people/bai-ding-12", 
+        "https://www.zhihu.com/people/huang-bo-jun-32", 
+        "https://www.zhihu.com/people/rui-jia-33-6", 
+        "https://www.zhihu.com/people/17706278636", 
+        "https://www.zhihu.com/people/lao-wu-ren-78", 
+        "https://www.zhihu.com/people/ying-zheng-78-49", 
+        "https://www.zhihu.com/people/zhao-qing-5-36", 
+        "https://www.zhihu.com/people/fsyshuo-xnysjdq", 
+        "https://www.zhihu.com/people/wang-zi-fan-90", 
+        "https://www.zhihu.com/people/li-jeanie", 
+        "https://www.zhihu.com/people/tanson-33", 
+        "https://www.zhihu.com/people/cabbage-im", 
+        "https://www.zhihu.com/people/li-jun-50-58", 
+        "https://www.zhihu.com/people/cyy-7", 
+        "https://www.zhihu.com/people/gao-hua-80", 
+        "https://www.zhihu.com/people/sun-yu-68-22", 
+        "https://www.zhihu.com/people/mo-se-92-56", 
+        "https://www.zhihu.com/people/sui-xin-suo-yu-44", 
+        "https://www.zhihu.com/people/xiao-ai-43-45-82", 
+        "https://www.zhihu.com/people/he-he-you-ming-68-43", 
+        "https://www.zhihu.com/people/shuang-kong-xiao-hun-dun", 
+        "https://www.zhihu.com/people/huang-jin-bei-9527", 
+        "https://www.zhihu.com/people/zuo-xiang-he", 
+        "https://www.zhihu.com/people/huang-hai-ming-40", 
+        "https://www.zhihu.com/people/tyrant-29-38", 
+        "https://www.zhihu.com/people/wgco", 
+        "https://www.zhihu.com/people/hitljx", 
+        "https://www.zhihu.com/people/golaced", 
+        "https://www.zhihu.com/people/sha-la-bo-wa-63", 
+        "https://www.zhihu.com/people/HangFu", 
+        "https://www.zhihu.com/people/bo-shi-81", 
+        "https://www.zhihu.com/people/wen-zhe-95", 
+        "https://www.zhihu.com/people/xinghaitec", 
+        "https://www.zhihu.com/people/wu-tha-n", 
+        "https://www.zhihu.com/people/devins", 
+        "https://www.zhihu.com/people/zhang-wei-72-65", 
+        "https://www.zhihu.com/people/zhu-meng-15-31", 
+        "https://www.zhihu.com/people/kan-qing-shi-jie-73", 
+        "https://www.zhihu.com/people/pie-dao-chuan-5-45", 
+        "https://www.zhihu.com/people/tu-zi-jun-yu-bai-dou-fu-mei-zhi", 
+        "https://www.zhihu.com/people/stackingrule", 
+        "https://www.zhihu.com/people/zhou-jie-10-30", 
+        "https://www.zhihu.com/people/dengwenwu", 
+        "https://www.zhihu.com/people/zhao-hui-bo-79", 
+        "https://www.zhihu.com/people/wangtwing", 
+        "https://www.zhihu.com/people/wen-dao-er-yue-ban", 
+        "https://www.zhihu.com/people/jax-59", 
+        "https://www.zhihu.com/people/xu-gang-96-72", 
+        "https://www.zhihu.com/people/liu-hui-81-69-66", 
+        "https://www.zhihu.com/people/zhang-gan-30-67", 
+        "https://www.zhihu.com/people/dylan-68-55", 
+        "https://www.zhihu.com/people/ele-ing", 
+        "https://www.zhihu.com/people/chen-guang-lei-76", 
+        "https://www.zhihu.com/people/aleechou", 
+        "https://www.zhihu.com/people/ye-cha-4", 
+        "https://www.zhihu.com/people/garden-su", 
+        "https://www.zhihu.com/people/li-chang-qing-83"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/66215634", 
+            "userName": "greedyhao", 
+            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+            "upvote": 0, 
+            "title": "说说实际应用PID算法时的情况吧", 
+            "content": "<p>说起来很尴尬，准备做板球控制的，校内赛都准备开始了，开始前两天才搞好机械结构</p><p>之前一个月的时间，每天空闲时间就抽一点来看自控相关知识，然后就在比赛开始前一天开始使用了，通宵钢完代码，但是PID调参相关的知识还是不全，参数整定不合理，根本是一个失败的作品。虽然有名额去参加国赛，不过还是不想去了，通宵完感觉腰酸背痛的，四天三夜感觉是自己是受不了了，更别说自己相关的知识水平还不够</p><p>下面还是说说这次尝试的相关经历吧</p><h2>应用算法时遇到的相关问题</h2><h2>处理串口接收数据</h2><p>设计了自己的数据格式，但在截断字符串的时候遇到了问题，截断后的数字字符串本应该只有两位的时候，它的值会多一个位，变成三位数字</p><p>调试了很久程序都找不到问题，逻辑查不出问题</p><p>最后想起来字符串的原理，末尾有个&#39;/0&#39;字符，找不到这个字符会继续向后查找</p><h2>结构体指针赋值被覆盖</h2><p>我有两个结构体指针pid_x和pid_y，在对它的结构体成员赋值时发现，对第二个结构体部分成员赋值时会覆盖第一个结构体的成员的值</p><p>想了很长时间，突然注意到了我的这两个结构体是用 typedef 定义的指针型变量，我在初始化的时候没有给他们分配内存空间（有点小崩溃..），可能这就是使用 typedef 的小缺点吧，如果是使用 struct XXX 来定义的话，就不会遇见这个问题了</p><h2>系统辨识建立模型</h2><p>我试着使用mpu6050去采集数据建模，和上次一样还是失败了，基本就让我以后都放弃使用mpu6050去做系统辨识了</p><p>后面了解到有人用电机编码器去做系统辨识成功，但是我也没去具体了解性能怎么样，有机会可以试试</p><h2>PID调参问题</h2><p>凌晨的时候开始调参，但效果一直很差。按照别人说的经验法，比例-&gt;积分-&gt;微分，还说比例增大到震荡时开始调积分，但是我调参时，一直感觉不到震荡的感觉...</p><p>后来开始换PID算法，用单神经网络，hebb学习规则来调参，但是和想象中的效果也完全不同，比例积分微分的自动整定效果还是不行，球完全无法稳定(此时开始崩溃了..)</p><h2>谈谈收获吧</h2><p>最大的收获应当是对 RT-Thread 系统有了更深一步的了解，也是从这个项目开始，才真正了解到了有系统的好处。移植好 BSP 后，使用设备是通过操纵对应的设备框架来控制，使得代码看起来舒服很多；特别是在读取mpu6050的时候感觉最明显，mpu6050的fifo要求在1ms内读取，否则会溢出，不使用系统使用起来会比较麻烦，而在系统上只需要开个定时器，定时发送一个事件，让系统去处理对应事件就可以。</p><p>其次的话就是对自控有了一定的了解，了解到了这个专业的很多的名词对应的知识，这次体验还行，就是花费了我很多时间</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "电子", 
+                    "tagLink": "https://api.zhihu.com/topics/19573169"
+                }, 
+                {
+                    "tag": "PID Controller PID控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20032309"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>系统辨识不明了。我用PID一般没有模型这个概念。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64634202", 
+            "userName": "greedyhao", 
+            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+            "upvote": 4, 
+            "title": "pid算法的基础应用", 
+            "content": "<p>五一放假终于有空，先验证一下之前了解的pid算法。</p><p>本次实验是应用pid算法，保持舵机与平面的角度保持在一定的数值。</p><p>感觉表述有点不清楚，从视频中看看吧。</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1108157632287854592\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"\" data-poster=\"https://pic2.zhimg.com/v2-27b494a8a4d801ab0b1fd759f94c43bd.jpg\" data-lens-id=\"1108157632287854592\"><img class=\"thumbnail\" src=\"https://pic2.zhimg.com/v2-27b494a8a4d801ab0b1fd759f94c43bd.jpg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1108157632287854592</span></span></a><h2><b>说说我做了的尝试</b></h2><h2><b>系统辨识建立模型</b></h2><p>本来之前以为可以通过matlab工具箱的系统辨识建立模型，然后通过工具箱自动调参</p><p>但是！自动调参更新完pid参数后，阶跃响应为负值</p><p>没办法，只能放弃这个操作了</p><h2><b>瞎调参数</b></h2><p>之后就随便乱调参数，发现要不抖的厉害，要不就迟滞时间太长</p><p>随便调了几下后就放弃这个方法了</p><h2><b>Arduino中的自整定算法</b></h2><p>就是<a href=\"https://link.zhihu.com/?target=https%3A//github.com/br3ttb/Arduino-PID-Library/blob/master/examples/PID_AdaptiveTunings/PID_AdaptiveTunings.ino\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Arduino-PID-Library</a>的自整定例子</p><p>在疯狂调节相关参数后，还是抖的厉害，没法用</p><h2><b>系统整体框架</b></h2><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7483689ec38a35e6feb41aaae77b5583_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1742\" data-rawheight=\"432\" class=\"origin_image zh-lightbox-thumb\" width=\"1742\" data-original=\"https://pic4.zhimg.com/v2-7483689ec38a35e6feb41aaae77b5583_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1742&#39; height=&#39;432&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1742\" data-rawheight=\"432\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1742\" data-original=\"https://pic4.zhimg.com/v2-7483689ec38a35e6feb41aaae77b5583_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7483689ec38a35e6feb41aaae77b5583_b.jpg\"/></figure><h2><b>模糊PID</b></h2><p>最后还是选择了模糊PID的方法</p><p>随便在网上找到了一个用于Arduino的开源算法，<a href=\"https://link.zhihu.com/?target=https%3A//github.com/afakharany93/Fuzzy-like-PI-controller\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Fuzzy-like-PI-controller</a></p><p>整合了mpu6050和舵机的相关代码后，得到了这个项目</p><p>这是这个项目的简单流程描述</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-016e733763468c66e6cf89b2b93d8086_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1673\" data-rawheight=\"826\" class=\"origin_image zh-lightbox-thumb\" width=\"1673\" data-original=\"https://pic3.zhimg.com/v2-016e733763468c66e6cf89b2b93d8086_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1673&#39; height=&#39;826&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1673\" data-rawheight=\"826\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1673\" data-original=\"https://pic3.zhimg.com/v2-016e733763468c66e6cf89b2b93d8086_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-016e733763468c66e6cf89b2b93d8086_b.jpg\"/></figure><h2><b>存在问题</b></h2><p>为了验证pid的算法，今天一整天就没得了，心态有点爆炸了，所以最后这代码写的很随意了</p><p>就存在了那么些问题，对代码有兴趣的可以自行去github下载，目录下的README有问题的描述</p><p>代码地址</p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/greedyhao/servo_mpu6050_pid/tree/master/Arduino\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/greedyhao/se</span><span class=\"invisible\">rvo_mpu6050_pid/tree/master/Arduino</span><span class=\"ellipsis\"></span></a></p><h2><b>后记</b></h2><p>总算又完成一个任务，舒服</p><hr/><p><a href=\"https://link.zhihu.com/?target=http%3A//greedyhao.cc/2019/05/04/%25E8%2587%25AA%25E5%258A%25A8%25E6%258E%25A7%25E5%2588%25B6-PID-2019-05-04-pid%25E7%25AE%2597%25E6%25B3%2595%25E7%259A%2584%25E5%259F%25BA%25E7%25A1%2580%25E5%25BA%2594%25E7%2594%25A8/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">个人博客</a></p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/greedyhao/greedyhao.github.io/blob/master/img/wechat_official_accounts.jpg\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">公众号：greedyhao</a></p>", 
+            "topic": [
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "PID Controller PID控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20032309"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "赵牛顿", 
+                    "userLink": "https://www.zhihu.com/people/0d41f9ae6f539dedb3e1af6aa9af7015", 
+                    "content": "楼主估计是个学生，所以回答有些长者的心理优势，欢迎打脸随时。<br>……咳咳，…哈<br>用9g舵机伺候6050，实在过于委屈6050，尽管6050已经够简易，这个mini系统做到视频的程度，其实还没开始，这个平衡完全没有精细度，只是个原理演示，这使得6050看上去更像个水银方向开关。你可能会说，陀螺仪到单片机到舵机的数据链已经打通，精细程度只是个工作量，错啦，如果比较，比较稳定是个结果，您这个阶段还不到1%，因为99%的人都停留在这1%。后面带T指标的平衡才是大海汪洋。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "greedyhao", 
+                            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+                            "content": "确实说的没错，那个demo只是刚刚开始，代码是我那天在github上随便找的一个模糊pid的代码，然后用arduino随便测试的结果。当时还不知道模糊pid也是要调初始pid的参数的，至于论域的参数怎么调的还没弄清楚，在别人的代码中还没有找到论域的相关参数[捂脸]<br>主要还是太忙了，没时间去仔细研究，自控相关的知识都是去了几次图书馆和在网上学习补的", 
+                            "likes": 0, 
+                            "replyToAuthor": "赵牛顿"
+                        }, 
+                        {
+                            "userName": "greedyhao", 
+                            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+                            "content": "我想请教一下，当今这个时代是用什么方法调pid的呢，因为我不是自控的学生只有浅薄的了解，我试着用系统辨识的方法对系统建立模型，但是在pid参数整定后的阶跃响应，输出稳定在-1就超出我的知识范围了", 
+                            "likes": 0, 
+                            "replyToAuthor": "赵牛顿"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "赵牛顿", 
+                    "userLink": "https://www.zhihu.com/people/0d41f9ae6f539dedb3e1af6aa9af7015", 
+                    "content": "对了，忘记说抖的问题了，示波器仔细看脉宽，再看下电源的启动电流", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "啊淞", 
+                    "userLink": "https://www.zhihu.com/people/5e8f598aeb4f15d12e9f2e39764ba05c", 
+                    "content": "可以试一下引入分数阶pid", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64539813", 
+            "userName": "greedyhao", 
+            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+            "upvote": 0, 
+            "title": "移植MotionDriver到RTT", 
+            "content": "<p>这个移植花费了我好多时间…</p><p>本来是想使用<a href=\"https://link.zhihu.com/?target=http%3A//packages.rt-thread.org/itemDetail.html%3Fpackage%3Dmpu6xxx\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">mpu6xxx的软件包</a>的，但是得到的数据抖动太厉害了</p><p>在网上找到了两种得到稳定的数据的方法</p><ul><li>DMP</li><li>Kalman滤波</li></ul><p>看到DMP的效果更好，就选择DMP的方案</p><p>了解到 InvenSense 公司提供的 MotionDriver 可以用DMP的方式读取mpu，就开始移植 MotionDriver 这个库</p><p>本项目的地址 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/greedyhao/MotionDriver2RTT\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/greedyhao/Mo</span><span class=\"invisible\">tionDriver2RTT</span><span class=\"ellipsis\"></span></a></p><h2><b>移植步骤</b></h2><p>简单的说，就是把 core/driver/eMPL/inv_mpu.c 这个文件中需要使用到的函数实现就行了</p><p>这个文件中也有相关说明</p><div class=\"highlight\"><pre><code class=\"language-text\">/* The following functions must be defined for this platform:\n * i2c_write(unsigned char slave_addr, unsigned char reg_addr,\n *      unsigned char length, unsigned char const *data)\n * i2c_read(unsigned char slave_addr, unsigned char reg_addr,\n *      unsigned char length, unsigned char *data)\n * delay_ms(unsigned long num_ms)\n * get_ms(unsigned long *count)\n * reg_int_cb(void (*cb)(void), unsigned char port, unsigned char pin)\n * labs(long x)\n * fabsf(float x)\n * min(int a, int b)\n */\n</code></pre></div><p>不过实际需要实现的只有 i2c_write i2c_read delay_ms get_ms，以及 core/driver/stm32L/log_stm32.c 下的 log_i 与 log_e 的底层函数</p><div class=\"highlight\"><pre><code class=\"language-text\">#define i2c_write   imu_i2c_write_regs\n#define i2c_read    imu_i2c_read_regs \n#define delay_ms    thread_mdelay\n#define get_ms      get_tick_count\n#define log_i       MPL_LOGI\n#define log_e       MPL_LOGE\n#define min(a,b)    ((a&lt;b)?a:b)\n#define labs(n)     (((n) &lt; 0) ? (-(n)) : (n))\n</code></pre></div><h2><b>i2c的实现</b></h2><div class=\"highlight\"><pre><code class=\"language-text\">struct rt_mpu_device *mpu_dev;\n</code></pre></div><p>通过 mpu_dev 这个全局指针来保存mpu设备的相关信息</p><p>不过全局指针的方式进行i2c通信不知道会不会不太好，暂时没有其他方式实现</p><div class=\"highlight\"><pre><code class=\"language-text\">rt_err_t imu_i2c_write_regs(unsigned char slave_addr, unsigned char reg_addr, unsigned short length, const unsigned char *data_ptr)\n{\n    ...\n    if (!rt_mpu_write_reg(mpu_dev, reg_addr, length, data_ptr))\n    {\n        res = RT_EOK;\n    }\n    ...\n}\n\nrt_err_t imu_i2c_read_regs(unsigned char slave_addr, unsigned char reg_addr, unsigned char length, unsigned char *data)\n{\n    ...    \n    if (!rt_mpu_read_regs(mpu_dev, reg_addr, length, data))\n    {\n        res = RT_EOK;\n    }\n    ...\n}\n</code></pre></div><p>因为 rt-thread 的i2c接口和 MotionDriver 中需要的i2c接口不一致，就写了个中间层适配，从 MotionDriver 的i2c接口传入的 slave_addr 直接使用 mpu_dev 中的地址，这样就可以使用 rt-thread 的 i2c设备框架了</p><p>i2c驱动的实现很重要，不然这个库没办法用的，遇到问题先检查i2c驱动的实现</p><h2><b>其他函数</b></h2><p>其他的函数都可以使用 rt-thread 系统中自带函数</p><h2><b>遇到问题</b></h2><h2><b>fifo overflow</b></h2><p>卡在这个问题好久，偶然间从网上了解到，DMP程序要考虑到DMP数据的输出速率</p><p>本项目中设置的是100Hz，读取的速度也要相对应，不然就会overflow</p><p>为了防止溢出，我直接加大了fifo的大小，并加快了读取速度</p><h2><b>效果图</b></h2><p>现在数据稳得一批</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b5c68e215a49c2e70072fcdcce176df8_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"442\" data-rawheight=\"470\" data-thumbnail=\"https://pic1.zhimg.com/v2-b5c68e215a49c2e70072fcdcce176df8_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"442\" data-original=\"https://pic1.zhimg.com/v2-b5c68e215a49c2e70072fcdcce176df8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;442&#39; height=&#39;470&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"442\" data-rawheight=\"470\" data-thumbnail=\"https://pic1.zhimg.com/v2-b5c68e215a49c2e70072fcdcce176df8_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"442\" data-original=\"https://pic1.zhimg.com/v2-b5c68e215a49c2e70072fcdcce176df8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b5c68e215a49c2e70072fcdcce176df8_b.gif\"/></figure><p><a href=\"https://link.zhihu.com/?target=http%3A//greedyhao.cc/2019/05/03/%25E5%25B7%25A5%25E4%25BD%259C-rt-thread-2019-05-03-%25E7%25A7%25BB%25E6%25A4%258DMotionDriver%25E5%2588%25B0RTT/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">个人博客</a></p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/greedyhao/greedyhao.github.io/blob/master/img/wechat_official_accounts.jpg\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">公众号：greedyhao</a></p>", 
+            "topic": [
+                {
+                    "tag": "姿态解算", 
+                    "tagLink": "https://api.zhihu.com/topics/20029625"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62264295", 
+            "userName": "greedyhao", 
+            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+            "upvote": 17, 
+            "title": "pid调节的方法", 
+            "content": "<p>上一篇介绍了建立系统模型的三种方法，这一篇介绍如何调节pid，并用MATLAB仿真</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d409cefc55b73e082937b0d33fe2ccf0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1048\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb\" width=\"1048\" data-original=\"https://pic1.zhimg.com/v2-d409cefc55b73e082937b0d33fe2ccf0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1048&#39; height=&#39;399&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1048\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1048\" data-original=\"https://pic1.zhimg.com/v2-d409cefc55b73e082937b0d33fe2ccf0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d409cefc55b73e082937b0d33fe2ccf0_b.jpg\"/></figure><p>调节pid的目标就是使得从模型中得到的增益能够使物理系统正常工作</p><h2><b>调节pid的理论分析</b></h2><p>pid的一般形式如下图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3a68ee912bd59e5f93b0a81298ad31d3_b.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"943\" data-rawheight=\"103\" class=\"origin_image zh-lightbox-thumb\" width=\"943\" data-original=\"https://pic4.zhimg.com/v2-3a68ee912bd59e5f93b0a81298ad31d3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;943&#39; height=&#39;103&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"943\" data-rawheight=\"103\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"943\" data-original=\"https://pic4.zhimg.com/v2-3a68ee912bd59e5f93b0a81298ad31d3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3a68ee912bd59e5f93b0a81298ad31d3_b.png\"/></figure><p>经过移动化简可以得到</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-121c5de5b42f1c7a1d1a27424d982a45_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"978\" data-rawheight=\"190\" class=\"origin_image zh-lightbox-thumb\" width=\"978\" data-original=\"https://pic2.zhimg.com/v2-121c5de5b42f1c7a1d1a27424d982a45_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;978&#39; height=&#39;190&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"978\" data-rawheight=\"190\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"978\" data-original=\"https://pic2.zhimg.com/v2-121c5de5b42f1c7a1d1a27424d982a45_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-121c5de5b42f1c7a1d1a27424d982a45_b.jpg\"/></figure><p>现在我们的问题就简化成了在哪里放置这两个极点，和设置多大的增益？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b3bb8fe6aa6529492e9e0109a024ca3d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1097\" data-rawheight=\"284\" class=\"origin_image zh-lightbox-thumb\" width=\"1097\" data-original=\"https://pic2.zhimg.com/v2-b3bb8fe6aa6529492e9e0109a024ca3d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1097&#39; height=&#39;284&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1097\" data-rawheight=\"284\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1097\" data-original=\"https://pic2.zhimg.com/v2-b3bb8fe6aa6529492e9e0109a024ca3d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b3bb8fe6aa6529492e9e0109a024ca3d_b.jpg\"/></figure><p>在给微分器加上滤波器，相当于系统多了一个极点，滤波器的相关内容之后介绍</p><h2><b>MATLAB仿真</b></h2><p>仿真使用的模型还是我们上一篇使用的电机模型</p><p>随便取一个之前的模型进行pid控制仿真</p><p>先初始化电机模型的变量，再加上pid的必要模型，开始仿真</p><p>随便调了几下pid参数，得到下图的效果</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1769ab631c1682ad199a20713d5134e1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic2.zhimg.com/v2-1769ab631c1682ad199a20713d5134e1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;366&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic2.zhimg.com/v2-1769ab631c1682ad199a20713d5134e1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1769ab631c1682ad199a20713d5134e1_b.jpg\"/></figure><h2><b>调节零点位置和增益的方法</b></h2><h2><b>新名词介绍</b></h2><p>根轨迹图(root locus)是控制理论及稳定性理论中，绘图分析的方式，可以看到在特定参数（一般会是反馈系统的环路增益）变化时，系统极点的变化。</p><p>说实话，这东西以前我听都没听过，在经过线上线下查找资料才算知道了这么个东西。</p><p>简单的说，这个图可以用来判断非时变系统系统的稳定性，以及计算系统增益并实现它的控制器</p><p>手画这个图是有许多规则的，不过我没有去了解，毕竟我时间也不多，只知道可以用MATLAB画</p><h2><b>进入主题</b></h2><p>有两种方法用于调节：Pole placement 和 Loop shaping</p><p><b>Pole placement</b></p><p>一个简单的开环系统，他的根轨迹图是这样的</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7643012ec5ef32c37a4a47c1bbf4177e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"388\" data-rawheight=\"244\" class=\"content_image\" width=\"388\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;388&#39; height=&#39;244&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"388\" data-rawheight=\"244\" class=\"content_image lazy\" width=\"388\" data-actualsrc=\"https://pic3.zhimg.com/v2-7643012ec5ef32c37a4a47c1bbf4177e_b.jpg\"/></figure><p>在加入PID后，会引入新的零点和极点，就会变成这样</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3e5458c0f55f34b62e734fd4fa5696c7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"469\" data-rawheight=\"265\" class=\"origin_image zh-lightbox-thumb\" width=\"469\" data-original=\"https://pic4.zhimg.com/v2-3e5458c0f55f34b62e734fd4fa5696c7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;469&#39; height=&#39;265&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"469\" data-rawheight=\"265\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"469\" data-original=\"https://pic4.zhimg.com/v2-3e5458c0f55f34b62e734fd4fa5696c7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3e5458c0f55f34b62e734fd4fa5696c7_b.jpg\"/></figure><p>这种调节方法就是通过调节增益，从而得到希望的系统性能</p><p><b>Loop shaping</b></p><p>这个方法和上面的类似，换了种形式的图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6472ea3a974b0c1b99fae9b4948b7091_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"507\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;507&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"507\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic2.zhimg.com/v2-6472ea3a974b0c1b99fae9b4948b7091_b.jpg\"/></figure><p>据<a href=\"https://link.zhihu.com/?target=http%3A//folk.ntnu.no/skoge/prost/proceedings/ecc03/pdfs/148.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">论文</a>介绍，这两种方法的性能都是差不多的，loop-shaping多了两个优点，(i)不需要在FRF上拟合LTI模型来设计控制器，并且(ii)随着控制器系数的平滑变化，增益调度的实现更加缓慢。</p><p>对于我来说，暂时只管怎么用，好不好用，就没有深入学习了</p><h2><b>MATLAB仿真</b></h2><p>下图是我用之前的模型随意调的pid的阶跃响应，可以看出是不符合我们的期望的，下面我们就使用MATLAB进行pid调节</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ecc317742e9e4f11336546733b79af8d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1098\" data-rawheight=\"597\" class=\"origin_image zh-lightbox-thumb\" width=\"1098\" data-original=\"https://pic2.zhimg.com/v2-ecc317742e9e4f11336546733b79af8d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1098&#39; height=&#39;597&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1098\" data-rawheight=\"597\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1098\" data-original=\"https://pic2.zhimg.com/v2-ecc317742e9e4f11336546733b79af8d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ecc317742e9e4f11336546733b79af8d_b.jpg\"/></figure><p>我们首先需要做的是打开<i>analysis-&gt;control design-&gt;control system designer</i>，然后按照下面三张图所示，添加需要调节的pid模块，添加需要的信号</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-12127ca86822050d98a21a744e0f47c6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"388\" data-rawheight=\"365\" class=\"content_image\" width=\"388\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;388&#39; height=&#39;365&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"388\" data-rawheight=\"365\" class=\"content_image lazy\" width=\"388\" data-actualsrc=\"https://pic3.zhimg.com/v2-12127ca86822050d98a21a744e0f47c6_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-dc35be867786341002cea180a77380fc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"601\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb\" width=\"601\" data-original=\"https://pic1.zhimg.com/v2-dc35be867786341002cea180a77380fc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;601&#39; height=&#39;324&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"601\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"601\" data-original=\"https://pic1.zhimg.com/v2-dc35be867786341002cea180a77380fc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-dc35be867786341002cea180a77380fc_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6b86de1ae7efdd071a66e6a6e23cbc01_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"929\" data-rawheight=\"594\" class=\"origin_image zh-lightbox-thumb\" width=\"929\" data-original=\"https://pic2.zhimg.com/v2-6b86de1ae7efdd071a66e6a6e23cbc01_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;929&#39; height=&#39;594&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"929\" data-rawheight=\"594\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"929\" data-original=\"https://pic2.zhimg.com/v2-6b86de1ae7efdd071a66e6a6e23cbc01_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6b86de1ae7efdd071a66e6a6e23cbc01_b.jpg\"/></figure><p>在control system designer的菜单栏中点击tuning methods，在下拉框中选择root locus editor，就可以得到下图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8007083ad9391306644b3e570b864dc7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"961\" data-rawheight=\"704\" class=\"origin_image zh-lightbox-thumb\" width=\"961\" data-original=\"https://pic4.zhimg.com/v2-8007083ad9391306644b3e570b864dc7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;961&#39; height=&#39;704&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"961\" data-rawheight=\"704\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"961\" data-original=\"https://pic4.zhimg.com/v2-8007083ad9391306644b3e570b864dc7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8007083ad9391306644b3e570b864dc7_b.jpg\"/></figure><p>在new plot下选择new step，在弹出窗口按下图配置</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-ee06b3e6c5e4874488e9eb416920bb56_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"395\" data-rawheight=\"436\" class=\"content_image\" width=\"395\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;395&#39; height=&#39;436&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"395\" data-rawheight=\"436\" class=\"content_image lazy\" width=\"395\" data-actualsrc=\"https://pic3.zhimg.com/v2-ee06b3e6c5e4874488e9eb416920bb56_b.jpg\"/></figure><p>最终效果如下</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-c4845710fef8d620e4ce9b780346e0a7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"871\" data-rawheight=\"499\" class=\"origin_image zh-lightbox-thumb\" width=\"871\" data-original=\"https://pic4.zhimg.com/v2-c4845710fef8d620e4ce9b780346e0a7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;871&#39; height=&#39;499&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"871\" data-rawheight=\"499\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"871\" data-original=\"https://pic4.zhimg.com/v2-c4845710fef8d620e4ce9b780346e0a7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-c4845710fef8d620e4ce9b780346e0a7_b.jpg\"/></figure><p><b>手动pid调节</b></p><p>手动调节说实话我是不太懂，我这里只是随便乱调一下表示可以手动修整而已</p><p>这里使用的是pole placement的方法，loop shaping也是类似的</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0ab182c5b86f7b54c030d63068cb4b4b_b.gif\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1237\" data-rawheight=\"670\" data-thumbnail=\"https://pic4.zhimg.com/v2-0ab182c5b86f7b54c030d63068cb4b4b_b.jpg\" class=\"origin_image zh-lightbox-thumb\" width=\"1237\" data-original=\"https://pic4.zhimg.com/v2-0ab182c5b86f7b54c030d63068cb4b4b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1237&#39; height=&#39;670&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1237\" data-rawheight=\"670\" data-thumbnail=\"https://pic4.zhimg.com/v2-0ab182c5b86f7b54c030d63068cb4b4b_b.jpg\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1237\" data-original=\"https://pic4.zhimg.com/v2-0ab182c5b86f7b54c030d63068cb4b4b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0ab182c5b86f7b54c030d63068cb4b4b_b.gif\"/></figure><p><b>自整定pid</b></p><p>这里主要还是介绍自整定pid，毕竟方便，不需要懂太多相关知识</p><p>在tuning methods下选择pid tuning</p><p>可以在弹出窗口中选择pid控制器的类型、性能等等，最后附上调节效果图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7519b8be337fb73599a2959cd7e2e21f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"938\" data-rawheight=\"466\" class=\"origin_image zh-lightbox-thumb\" width=\"938\" data-original=\"https://pic4.zhimg.com/v2-7519b8be337fb73599a2959cd7e2e21f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;938&#39; height=&#39;466&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"938\" data-rawheight=\"466\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"938\" data-original=\"https://pic4.zhimg.com/v2-7519b8be337fb73599a2959cd7e2e21f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7519b8be337fb73599a2959cd7e2e21f_b.jpg\"/></figure><p>最后弄完后要在菜单栏选择update blocks</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-89aa33b183ee58260d1137e30324f642_b.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"768\" data-rawheight=\"119\" class=\"origin_image zh-lightbox-thumb\" width=\"768\" data-original=\"https://pic3.zhimg.com/v2-89aa33b183ee58260d1137e30324f642_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;768&#39; height=&#39;119&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"768\" data-rawheight=\"119\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"768\" data-original=\"https://pic3.zhimg.com/v2-89aa33b183ee58260d1137e30324f642_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-89aa33b183ee58260d1137e30324f642_b.png\"/></figure><h2><b>结尾</b></h2><p>调节好的模型已上传github的<a href=\"https://link.zhihu.com/?target=https%3A//github.com/greedyhao/trembling-ball-pid/tree/master/software/matlab/motor_model_pid.slx\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">项目库</a></p><h2><b>参考资料</b></h2><ul><li><a href=\"https://link.zhihu.com/?target=https%3A//ww2.mathworks.cn/help/slcontrol/ug/design-compensator-in-simulink-using-automated-pid-tuning.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Design Compensator Using Automated PID Tuning and Graphical Bode Design</a></li><li><a href=\"https://link.zhihu.com/?target=https%3A//ww2.mathworks.cn/help/control/getstart/designing-pid-controllers-with-the-pid-tuner-gui.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Designing PID Controllers with PID Tuner</a></li></ul><hr/><p><a href=\"https://link.zhihu.com/?target=http%3A//greedyhao.cc/2019/04/12/%25E8%2587%25AA%25E5%258A%25A8%25E6%258E%25A7%25E5%2588%25B6-PID-2019-04-12-pid%25E8%25B0%2583%25E8%258A%2582%25E7%259A%2584%25E6%2596%25B9%25E6%25B3%2595/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">个人博客</a></p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/greedyhao/greedyhao.github.io/blob/master/img/wechat_official_accounts.jpg\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">公众号：greedyhao</a></p>", 
+            "topic": [
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "PID Controller PID控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20032309"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "KyrieIrving", 
+                    "userLink": "https://www.zhihu.com/people/228ee19e79f63c3fc9596ea5a6c1b0bc", 
+                    "content": "作者您好 为什么到add locations的时候select signals框里是空的 也没法选中模型中的位置或者模块。。。盼回复", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61583239", 
+            "userName": "greedyhao", 
+            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+            "upvote": 20, 
+            "title": "pid建立模型", 
+            "content": "<p>上一篇文章是一份pid的指南，目的是为pid建立一个整体的概念，这一篇简单介绍了pid建立模型的三种方法</p><h2><b>根据元件性质直接得到模型</b></h2><p>适用于简单的系统，需要关注整个系统的具体组成</p><p>通过欧姆定律等电路定律，为元件建模，最终得到系统模型</p><p>这种方式很麻烦，不在这里讨论</p><h2><b>系统识别的方法</b></h2><p>这种方法不需要关注系统的具体实现，将系统当做一个双端口的加工器，给定输入可以得到想要的输出</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-82bf4bd16ecc862543b2c1eedd0c8572_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"737\" data-rawheight=\"269\" class=\"origin_image zh-lightbox-thumb\" width=\"737\" data-original=\"https://pic3.zhimg.com/v2-82bf4bd16ecc862543b2c1eedd0c8572_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;737&#39; height=&#39;269&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"737\" data-rawheight=\"269\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"737\" data-original=\"https://pic3.zhimg.com/v2-82bf4bd16ecc862543b2c1eedd0c8572_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-82bf4bd16ecc862543b2c1eedd0c8572_b.jpg\"/></figure><p>就好像图中所示的一个加热器，面包经过加热器后上升了10度，就可以给加热器建立相关的方程了，并不需要知道加热器是电阻加热还是红外光热</p><p>还需要注意的是，给定输入是否在系统输入范围，避免对系统造成损伤</p><h2><b>MATLAB仿真</b></h2><p>这里使用到了MATLAB的system identification的工具库</p><p>本次仿真是对一个电机建立模型</p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/greedyhao/trembling-ball-pid/tree/master/software/matlab/motor_model_sys_id.slx\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">电机模型在这里提供</a></p><p>首先需要在matlab命令行初始化模型相关的以下变量</p><div class=\"highlight\"><pre><code class=\"language-text\">J = 0.01;\nb = 0.1;\nK = 0.01;\nR = 1;\nL = 0.5;\n</code></pre></div><p>在simulink中运行一遍模型，回到matlab，这时候会发现工作区多了<b>step_input</b>和<b>/img/matlab/motor_speed</b>这两个变量</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d624e944d930910dec7d02b1eab74f02_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"267\" data-rawheight=\"234\" class=\"content_image\" width=\"267\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;267&#39; height=&#39;234&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"267\" data-rawheight=\"234\" class=\"content_image lazy\" width=\"267\" data-actualsrc=\"https://pic3.zhimg.com/v2-d624e944d930910dec7d02b1eab74f02_b.jpg\"/></figure><p>在matlab的工具箱中找到system identification这个工具，打开</p><p><b>import data</b>下选择<b>time domain data</b>，在弹出的窗口填入下图中的信息，点击import</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d84e78b18c0789e2200dddc846ee2360_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"926\" data-rawheight=\"456\" class=\"origin_image zh-lightbox-thumb\" width=\"926\" data-original=\"https://pic1.zhimg.com/v2-d84e78b18c0789e2200dddc846ee2360_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;926&#39; height=&#39;456&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"926\" data-rawheight=\"456\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"926\" data-original=\"https://pic1.zhimg.com/v2-d84e78b18c0789e2200dddc846ee2360_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d84e78b18c0789e2200dddc846ee2360_b.jpg\"/></figure><p>接下来在<b>estimate</b>的下拉框中选择<b>transfer function model</b>，点击<b>estimate</b>，运行完后，如图所示把结果<b>tf1</b>拖入<b>to workspace</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0957b624d327eb56b132f5fd2921d163_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1207\" data-rawheight=\"861\" class=\"origin_image zh-lightbox-thumb\" width=\"1207\" data-original=\"https://pic4.zhimg.com/v2-0957b624d327eb56b132f5fd2921d163_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1207&#39; height=&#39;861&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1207\" data-rawheight=\"861\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1207\" data-original=\"https://pic4.zhimg.com/v2-0957b624d327eb56b132f5fd2921d163_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0957b624d327eb56b132f5fd2921d163_b.jpg\"/></figure><p>此时在MATLAB的工作区中应该能看见<b>tf1</b>这个变量，在命令行输入<b>tf1</b>，就能看见传递函数</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt;&gt; tf1\n\ntf1 =\n\n  From input &#34;u1&#34; to output &#34;y1&#34;:\n   -1.042e-08 s + 2\n  ------------------\n  s^2 + 12 s + 20.02\n\nName: tf1\nContinuous-time identified transfer function.\n\nParameterization:\n   Number of poles: 2   Number of zeros: 1\n   Number of free coefficients: 4\n   Use &#34;tfdata&#34;, &#34;getpvec&#34;, &#34;getcov&#34; for parameters and their uncertainties.\n\nStatus:                                            \nEstimated using TFEST on time domain data &#34;mydata&#34;.\nFit to estimation data: 100% (stability enforced)  \nFPE: 4.857e-33, MSE: 4.851e-33                     \n</code></pre></div><p>回到simulink，修改<b>DC Motor Transfer Fcn</b>为对应的传递函数，开始仿真。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c6590517b1bb72eed62fe211b9e15239_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1191\" data-rawheight=\"378\" class=\"origin_image zh-lightbox-thumb\" width=\"1191\" data-original=\"https://pic2.zhimg.com/v2-c6590517b1bb72eed62fe211b9e15239_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1191&#39; height=&#39;378&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1191\" data-rawheight=\"378\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1191\" data-original=\"https://pic2.zhimg.com/v2-c6590517b1bb72eed62fe211b9e15239_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c6590517b1bb72eed62fe211b9e15239_b.jpg\"/></figure><p>仿真结束后打开scope查看，结果如下图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-565f76e6ccd8c8b3c7a4d58cd9012d85_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"530\" data-rawheight=\"547\" class=\"origin_image zh-lightbox-thumb\" width=\"530\" data-original=\"https://pic2.zhimg.com/v2-565f76e6ccd8c8b3c7a4d58cd9012d85_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;530&#39; height=&#39;547&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"530\" data-rawheight=\"547\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"530\" data-original=\"https://pic2.zhimg.com/v2-565f76e6ccd8c8b3c7a4d58cd9012d85_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-565f76e6ccd8c8b3c7a4d58cd9012d85_b.jpg\"/></figure><p>从结果可以看出这个传递函数是正确的</p><h2><b>对现有非线性模型线性化</b></h2><p>这个方法和前面系统辨识的方法很类似，不过上一个方法使用的是模型的输入输出结果建立模型，这个是通过对系统线性化得到模型</p><h2><b>MATLAB仿真</b></h2><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/greedyhao/trembling-ball-pid/tree/master/software/matlab/motor_model_linear.slx\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">最终效果的模型在这里提供</a></p><p>如下图所示，先添加<b>linear analysis points</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-56b5c4dc630ccb48f750f77f9eb388fe_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"891\" data-rawheight=\"561\" class=\"origin_image zh-lightbox-thumb\" width=\"891\" data-original=\"https://pic3.zhimg.com/v2-56b5c4dc630ccb48f750f77f9eb388fe_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;891&#39; height=&#39;561&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"891\" data-rawheight=\"561\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"891\" data-original=\"https://pic3.zhimg.com/v2-56b5c4dc630ccb48f750f77f9eb388fe_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-56b5c4dc630ccb48f750f77f9eb388fe_b.jpg\"/></figure><p>在菜单栏打开<i>Analysis-&gt;Control Design-&gt;Linear Analysis..</i></p><p>如下图所示，设置<i>t=2</i>，点击<b>Step Plot 1</b>，双击点开<b>linsys1</b>，显示线性化的选项选择<b>Transfer Function</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-d70f56787360ebceb1ea7d1f428c9d4d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"956\" data-rawheight=\"670\" class=\"origin_image zh-lightbox-thumb\" width=\"956\" data-original=\"https://pic2.zhimg.com/v2-d70f56787360ebceb1ea7d1f428c9d4d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;956&#39; height=&#39;670&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"956\" data-rawheight=\"670\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"956\" data-original=\"https://pic2.zhimg.com/v2-d70f56787360ebceb1ea7d1f428c9d4d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-d70f56787360ebceb1ea7d1f428c9d4d_b.jpg\"/></figure><p>如下图所示，验证这个传输函数的正确性</p><p>可以看出这个传递函数是正确的</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-235ded41297988f690dfd94112318fea_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1351\" data-rawheight=\"724\" class=\"origin_image zh-lightbox-thumb\" width=\"1351\" data-original=\"https://pic3.zhimg.com/v2-235ded41297988f690dfd94112318fea_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1351&#39; height=&#39;724&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1351\" data-rawheight=\"724\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1351\" data-original=\"https://pic3.zhimg.com/v2-235ded41297988f690dfd94112318fea_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-235ded41297988f690dfd94112318fea_b.jpg\"/></figure><hr/><p><a href=\"https://link.zhihu.com/?target=http%3A//greedyhao.cc/2019/04/06/pid%25E5%25BB%25BA%25E7%25AB%258B%25E6%25A8%25A1%25E5%259E%258B/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">个人博客</a></p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/greedyhao/greedyhao.github.io/blob/master/img/wechat_official_accounts.jpg\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">公众号：greedyhao</a></p>", 
+            "topic": [
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "PID Controller PID控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20032309"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60638733", 
+            "userName": "greedyhao", 
+            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+            "upvote": 4, 
+            "title": "pid整定概述", 
+            "content": "<p><b><i>这篇文章感觉需要在我pid的知识体系建立好以后重新完善一遍，很多地方很模糊，先占个位，保持顺序，先写后面的文章先</i></b></p><p>之前的文章都是介绍pid的原理，现在要说的就是在实际中应用所需要遇到的问题，pid的整定问题</p><h2><b>pid系统设计流程</b></h2><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1f6e49ee63dc7836800a630046b093cd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1725\" data-rawheight=\"1009\" class=\"origin_image zh-lightbox-thumb\" width=\"1725\" data-original=\"https://pic2.zhimg.com/v2-1f6e49ee63dc7836800a630046b093cd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1725&#39; height=&#39;1009&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1725\" data-rawheight=\"1009\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1725\" data-original=\"https://pic2.zhimg.com/v2-1f6e49ee63dc7836800a630046b093cd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1f6e49ee63dc7836800a630046b093cd_b.jpg\"/></figure><p>设计一个pid控制系统的流程大致就上面这几个阶段</p><p>本篇文章注重的控制器架构为PID，和这种架构如何调整或者说如何调优</p><h2><b>pid整定指南</b></h2><p>先判断系统是否表现良好，是否存在高非线性、开环不稳定、很多延时、非最小相位等问题，如果表现不良好，需要使用进阶方法</p><p>在系统表现良好的情况下，可以基于数学模型，也可以基于物理模型进行调整pid</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8c9566185eec44341214ddc24e8edd36_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"761\" data-rawheight=\"529\" class=\"origin_image zh-lightbox-thumb\" width=\"761\" data-original=\"https://pic3.zhimg.com/v2-8c9566185eec44341214ddc24e8edd36_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;761&#39; height=&#39;529&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"761\" data-rawheight=\"529\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"761\" data-original=\"https://pic3.zhimg.com/v2-8c9566185eec44341214ddc24e8edd36_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8c9566185eec44341214ddc24e8edd36_b.jpg\"/></figure><ul><li>增加P可以减少rise time</li><li>增加D提升稳定性和减小超调(overshoot)</li></ul><p>基于物理模型调整pid时，可以通过给系统一个阶跃序列，通过观察系统响应，来调整pid</p><p>这种观察系统响应的启发式方法有<b>Cohen-Coon Method</b>和<b>Ziegler-Nichols</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-cd9e25ce42b8984cfd3b5f1a260f246a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"607\" data-rawheight=\"789\" class=\"origin_image zh-lightbox-thumb\" width=\"607\" data-original=\"https://pic3.zhimg.com/v2-cd9e25ce42b8984cfd3b5f1a260f246a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;607&#39; height=&#39;789&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"607\" data-rawheight=\"789\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"607\" data-original=\"https://pic3.zhimg.com/v2-cd9e25ce42b8984cfd3b5f1a260f246a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-cd9e25ce42b8984cfd3b5f1a260f246a_b.jpg\"/></figure><p>我们还可以通过第一性原理，通过实验从物理系统中得到数学模型；也可以通过给物理系统一个阶跃信号，通过阶跃响应得到数学模型。再通过数学模型进行pid调整</p><p>手动调整有<b>Pole placement</b>, <b>loop shaping</b>, <b>heuristics</b>的方法</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7549ec8cf229834ab29cd83faefe9146_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"327\" data-rawheight=\"631\" class=\"content_image\" width=\"327\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;327&#39; height=&#39;631&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"327\" data-rawheight=\"631\" class=\"content_image lazy\" width=\"327\" data-actualsrc=\"https://pic3.zhimg.com/v2-7549ec8cf229834ab29cd83faefe9146_b.jpg\"/></figure><p>此外还可以通过软件的方法，让pid系统自整定</p><h2><b>参考资料</b></h2><ul><li><a href=\"https://link.zhihu.com/?target=https%3A//ww2.mathworks.cn/help/control/ref/stepinfo.html%3FrequestedDomain%3Dzh\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">stepinfo</a></li><li><a href=\"https://link.zhihu.com/?target=http%3A//support.motioneng.com/downloads-notes/tuning/pid_overshoot.htm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">PID Tuning:Step Behavior</a></li></ul>", 
+            "topic": [
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "PID Controller PID控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20032309"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60572288", 
+            "userName": "greedyhao", 
+            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+            "upvote": 6, 
+            "title": "pid对微分器的优化", 
+            "content": "<p><a href=\"https://zhuanlan.zhihu.com/p/60276589\" class=\"internal\">上一篇</a>文章写了对积分器的优化，这一篇写对微分器的优化</p><h2><b>为什么要优化微分器</b></h2><p>微分器对于噪声很敏感，我们可以从微分器的laplace传递函数G(s)=s看出来</p><p>通过简单的求导也可以看得出</p><p>假设噪声n(t)是一个正弦函数</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ab21f855ac7c9c6b1396cc29b697ba51_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"273\" data-rawheight=\"81\" class=\"content_image\" width=\"273\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;273&#39; height=&#39;81&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"273\" data-rawheight=\"81\" class=\"content_image lazy\" width=\"273\" data-actualsrc=\"https://pic2.zhimg.com/v2-ab21f855ac7c9c6b1396cc29b697ba51_b.jpg\"/></figure><p>Aω就是经过微分得到的幅度，可以看出，频率越高，对控制信号的影响就越大</p><h2><b>关于噪声</b></h2><p>现实中，一般情况下无法避免噪声的存在</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-14fa3abe46ad3c16a5f6623dd5127e68_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1112\" data-rawheight=\"927\" class=\"origin_image zh-lightbox-thumb\" width=\"1112\" data-original=\"https://pic1.zhimg.com/v2-14fa3abe46ad3c16a5f6623dd5127e68_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1112&#39; height=&#39;927&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1112\" data-rawheight=\"927\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1112\" data-original=\"https://pic1.zhimg.com/v2-14fa3abe46ad3c16a5f6623dd5127e68_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-14fa3abe46ad3c16a5f6623dd5127e68_b.jpg\"/></figure><p>在pid系统中，一般通过传感器来将设备的信息采集出来，通过反馈回路送回pid系统入口处</p><p>但是采集信息的时候会不可避免的被噪声干扰，有热噪声、散射噪声等，这些噪声的存在会干扰pid系统的稳定性</p><h2><b>如何优化微分器</b></h2><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-23053b2c2640832abe27400d3d58e845_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"833\" data-rawheight=\"1054\" class=\"origin_image zh-lightbox-thumb\" width=\"833\" data-original=\"https://pic2.zhimg.com/v2-23053b2c2640832abe27400d3d58e845_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;833&#39; height=&#39;1054&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"833\" data-rawheight=\"1054\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"833\" data-original=\"https://pic2.zhimg.com/v2-23053b2c2640832abe27400d3d58e845_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-23053b2c2640832abe27400d3d58e845_b.jpg\"/></figure><p>很多噪声在整个频域内均匀分布，但是我们的信号却大部分都是低频信号</p><p>为了优化我们得到的信号，一个简单有效的方法就是使用低通滤波器</p><p>通过设置一个合适的截止频率，滤除掉大部分的噪声</p><hr/><p></p>", 
+            "topic": [
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "PID Controller PID控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20032309"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60276589", 
+            "userName": "greedyhao", 
+            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+            "upvote": 14, 
+            "title": "pid抗饱和积分", 
+            "content": "<p><a href=\"https://zhuanlan.zhihu.com/p/60222865\" class=\"internal\">上文</a>介绍了PID在理想情况下的工作原理，接下来是对实际中使用积分器的展开</p><h2><b>积分器的饱和情况</b></h2><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-092440364637cc9c791e7de0c4a6f2ff_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1261\" data-rawheight=\"724\" class=\"origin_image zh-lightbox-thumb\" width=\"1261\" data-original=\"https://pic4.zhimg.com/v2-092440364637cc9c791e7de0c4a6f2ff_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1261&#39; height=&#39;724&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1261\" data-rawheight=\"724\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1261\" data-original=\"https://pic4.zhimg.com/v2-092440364637cc9c791e7de0c4a6f2ff_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-092440364637cc9c791e7de0c4a6f2ff_b.jpg\"/></figure><p>(actuator:机器的一部分)</p><p>我们知道常量的误差值在经过积分器的作用会成为一个递增的函数，也就是说，给设备的指令(command)的转速会不断增加。</p><p>但是我们知道，现实中的电机转速是有限的，在设备指令增加到一定的转速时，电机的转速就不会上升了，这种情况叫做<b>饱和</b></p><h2><b>还是以无人机为例</b></h2><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-420ca37489349b0a78a71b84379ea597_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1525\" data-rawheight=\"1148\" class=\"origin_image zh-lightbox-thumb\" width=\"1525\" data-original=\"https://pic4.zhimg.com/v2-420ca37489349b0a78a71b84379ea597_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1525&#39; height=&#39;1148&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1525\" data-rawheight=\"1148\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1525\" data-original=\"https://pic4.zhimg.com/v2-420ca37489349b0a78a71b84379ea597_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-420ca37489349b0a78a71b84379ea597_b.jpg\"/></figure><p>还是像之前一样，有一个无人机，目标是悬停在50m处的空中</p><p>但是我们在一开始的时候先<b>固定</b>住无人机</p><p>由于被固定住，高度误差不会减小，从而电机指令会不断增加，从而电机转速不断上升，但增加到1000rpm时，达到电机转速的极限，电机转速不再增加</p><p>但是电机指令由于<b>没有收到高度误差减小</b>的反馈，依然会不断增加</p><p>直到放开无人机时，电机指令开始减小，减小到1000rpm时，电机转速开始减小，但是高度误差早已经为负，意思就是无人机已经超过50m的高度，飞向自由了</p><h2><b>如何抗饱和积分</b></h2><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-0cbd3307b6d12f03989ee09841a622ba_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1858\" data-rawheight=\"1285\" class=\"origin_image zh-lightbox-thumb\" width=\"1858\" data-original=\"https://pic3.zhimg.com/v2-0cbd3307b6d12f03989ee09841a622ba_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1858&#39; height=&#39;1285&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1858\" data-rawheight=\"1285\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1858\" data-original=\"https://pic3.zhimg.com/v2-0cbd3307b6d12f03989ee09841a622ba_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-0cbd3307b6d12f03989ee09841a622ba_b.jpg\"/></figure><p>有三种方法抗饱和积分</p><ul><li><b>clamping</b>(钳位):根据条件关闭积分器</li><li><b>back-calculation</b>(反算)</li><li><b>observer opproach</b>(跟踪模式)</li></ul><p>一般比较常用的是钳位的方法，也称条件积分，因为简单、方便，下面介绍的也是钳位的配置</p><p>我们现在不让设备指令直接给设备了，而是在设备前加一个限定，也就是<b>钳位饱和限定</b>，通过判定限定前和限定后的值，判断控制器是否饱和</p><p>对于钳位的情况可以描述如下：</p><ol><li>积分器的值会被限定在一个指定的值</li><li>积分器的值会在系统误差过大的时候停止，即|e|&gt;e，e为指定的值</li><li>当控制器饱和的时候，积分器的值会停止增大，即，当u≠us时</li><li>当控制器饱和并且系统误差和操作变量符号相同，即，当u≠us且e*u&gt;0时</li></ol><h2><b>参考资料</b></h2><p>公众号内回复 下载|PID资料 获得</p><ul><li>Visioli, A., &#34;Modified Anti-Windup Scheme for PID Controllers,&#34; IEE Proceedings - Control Theory and Applications, Vol. 150, Number 1, January 2003</li></ul><hr/><p><a href=\"https://link.zhihu.com/?target=http%3A//greedyhao.cc/2019/03/25/%25E8%2587%25AA%25E5%258A%25A8%25E6%258E%25A7%25E5%2588%25B6-PID-2019-03-25-pid%25E6%258A%2597%25E9%25A5%25B1%25E5%2592%258C%25E7%25A7%25AF%25E5%2588%2586/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">个人博客</a></p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/greedyhao/greedyhao.github.io/blob/master/img/wechat_official_accounts.jpg\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">公众号：greedyhao</a></p>", 
+            "topic": [
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "PID Controller PID控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20032309"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60222865", 
+            "userName": "greedyhao", 
+            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+            "upvote": 34, 
+            "title": "pid是什么", 
+            "content": "<p>本人想做做之前的电赛题--滚球平衡，但这涉及到了一些自动控制的东西，比如PID。</p><p>对PID之前只是略有耳闻，为了复现滚球平衡，只能来现学PID了。</p><blockquote> 本系列内容是看了MATLAB的教学视频后写的，<a href=\"https://zhuanlan.zhihu.com/p/59928003\" class=\"internal\">视频链接在此</a><br/> </blockquote><p>PID的公式在此</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0c747c73b4b12aa13ff4cd2254cef895_b.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"353\" data-rawheight=\"55\" class=\"content_image\" width=\"353\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;353&#39; height=&#39;55&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"353\" data-rawheight=\"55\" class=\"content_image lazy\" width=\"353\" data-actualsrc=\"https://pic2.zhimg.com/v2-0c747c73b4b12aa13ff4cd2254cef895_b.png\"/></figure><p>看着是不是觉得挺复杂，不过放心，让我们先抛弃公式，从PID是什么以及为什么要有PID开始讲起</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-546cdccb8adf78fbd3702434ea53bb32_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"581\" data-rawheight=\"274\" class=\"origin_image zh-lightbox-thumb\" width=\"581\" data-original=\"https://pic3.zhimg.com/v2-546cdccb8adf78fbd3702434ea53bb32_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;581&#39; height=&#39;274&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"581\" data-rawheight=\"274\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"581\" data-original=\"https://pic3.zhimg.com/v2-546cdccb8adf78fbd3702434ea53bb32_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-546cdccb8adf78fbd3702434ea53bb32_b.jpg\"/></figure><p>这里有这么一个我们需要控制的设备，我们需要使用<b>驱动信号(actuating signal)</b>取控制它，同时，我们可以获得设备的当前信息，也就是<b>受控变量(controlled variable)</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9724eb96cd8ca1cc6bb02ac8062dc0be_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1660\" data-rawheight=\"684\" class=\"origin_image zh-lightbox-thumb\" width=\"1660\" data-original=\"https://pic3.zhimg.com/v2-9724eb96cd8ca1cc6bb02ac8062dc0be_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1660&#39; height=&#39;684&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1660\" data-rawheight=\"684\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1660\" data-original=\"https://pic3.zhimg.com/v2-9724eb96cd8ca1cc6bb02ac8062dc0be_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9724eb96cd8ca1cc6bb02ac8062dc0be_b.jpg\"/></figure><p>这个驱动信号由一个控制器产生，控制器的作用是使得系统的error为0，error则是控制变量减去受控变量的值。<b>控制变量(commanded variable)</b>是我们对这个系统的需求，比如将烙铁加热到xx度；<b>受控变量</b>是从设备获得的信息，比如当前烙铁xx度。</p><p>接下来就将这个PID模型具象化，以球场上一个人走向半场的过程为例</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-23b4a1391ac98da1a602a5f4aaba0f8e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1842\" data-rawheight=\"1037\" class=\"origin_image zh-lightbox-thumb\" width=\"1842\" data-original=\"https://pic3.zhimg.com/v2-23b4a1391ac98da1a602a5f4aaba0f8e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1842&#39; height=&#39;1037&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1842\" data-rawheight=\"1037\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1842\" data-original=\"https://pic3.zhimg.com/v2-23b4a1391ac98da1a602a5f4aaba0f8e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-23b4a1391ac98da1a602a5f4aaba0f8e_b.jpg\"/></figure><p>如图所示，假设这个人离半场的距离有50m，那么控制变量为50m，设定控制器的值为0.1，那么初始速度为5m/s，人接收到速度的指令后行走，反馈回路将当前位置返回累计器，从而调整走路速度，随着人离中场越近，人的速度越慢，直到走到中场，速度为0</p><p>右下角的两张图分别是<b>路程/时间</b>、<b>走路速度/时间</b>的关系图，体现了控制器不同的值时的区别</p><p>看起来似乎一个比例就可以解决控制器的问题了，那还要积分和微分器干嘛，下面换一个无人机的例子来说明</p><p>如的图所示，有这么个无人机，想悬停在50m的空中</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-b4af23486dc4ce7bb4a17592b732eee7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1147\" data-rawheight=\"870\" class=\"origin_image zh-lightbox-thumb\" width=\"1147\" data-original=\"https://pic4.zhimg.com/v2-b4af23486dc4ce7bb4a17592b732eee7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1147&#39; height=&#39;870&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1147\" data-rawheight=\"870\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1147\" data-original=\"https://pic4.zhimg.com/v2-b4af23486dc4ce7bb4a17592b732eee7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-b4af23486dc4ce7bb4a17592b732eee7_b.jpg\"/></figure><p>无人机无法像上面人走路一样简单的比例就可以完成了，因为无人机会因为重力的作用下坠，如果到了50m的空中电机就定制转动，无人机会直接下坠</p><p>我们假定无人机的悬停需要100rpm的电机速度</p><p>通过增加增益，无人机电机转速会增加，然后上升，反馈使得误差减小，转速降低，降到100rpm时保持悬浮。只有继续增大增益，无人机才会继续上升</p><p>但是无论增益怎么增加，都没办法悬浮在50m处，如图中表格所示，最终会有误差无法消除，管这种误差叫做<b>稳态误差(steady state error)</b></p><p>为了消除这种<b>稳态误差</b>，可以请积分器出场了</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0e01535bff6235e48b4495b5cd2775e1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"879\" data-rawheight=\"1064\" class=\"origin_image zh-lightbox-thumb\" width=\"879\" data-original=\"https://pic2.zhimg.com/v2-0e01535bff6235e48b4495b5cd2775e1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;879&#39; height=&#39;1064&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"879\" data-rawheight=\"1064\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"879\" data-original=\"https://pic2.zhimg.com/v2-0e01535bff6235e48b4495b5cd2775e1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-0e01535bff6235e48b4495b5cd2775e1_b.jpg\"/></figure><p>如图所示，一个常数值经过积分器后得到一个增大的函数，会使得转速增加，从而使得无人机上升减小误差</p><p>当误差为0时，只有积分器的输出100rpm，而比例输出为0</p><p>但是现实中并不是这么理想的，当误差E比较小的时候积分器的输出会大于100rpm，而比例的输出大于0，会使得总输出大于100rpm，会使得无人机突然超越50m的高度。这种情况叫做<b>超调</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-b2f4a28852e001fdb51d6c7281ec11ce_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1152\" data-rawheight=\"636\" class=\"origin_image zh-lightbox-thumb\" width=\"1152\" data-original=\"https://pic3.zhimg.com/v2-b2f4a28852e001fdb51d6c7281ec11ce_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1152&#39; height=&#39;636&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1152\" data-rawheight=\"636\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1152\" data-original=\"https://pic3.zhimg.com/v2-b2f4a28852e001fdb51d6c7281ec11ce_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-b2f4a28852e001fdb51d6c7281ec11ce_b.jpg\"/></figure><p>为了减小这种<b>超调</b>的问题，就需要使用微分器了</p><p>对函数的求导可以得到它的斜率。误差函数由于是下降的趋势，微分得到的斜率是小于0的，并且随着下降的速度增大，误差函数斜率的绝对值也增大，这个负值的斜率输出到电机时会减慢电机的速度，这样就可以减小超调量</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ad5b3afb58cd1949cad4ec83a63bb290_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1188\" data-rawheight=\"490\" class=\"origin_image zh-lightbox-thumb\" width=\"1188\" data-original=\"https://pic1.zhimg.com/v2-ad5b3afb58cd1949cad4ec83a63bb290_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1188&#39; height=&#39;490&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1188\" data-rawheight=\"490\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1188\" data-original=\"https://pic1.zhimg.com/v2-ad5b3afb58cd1949cad4ec83a63bb290_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ad5b3afb58cd1949cad4ec83a63bb290_b.jpg\"/></figure><p>比例、微分、积分组合起来就是我们常说的PID控制器了，通过调整Kp Ki Kd权重因子，还可以只使用PI PD P等等</p><p>下一篇会讲到<b>积分器的保护</b>或者说<b>抗饱和积分</b>问题</p><hr/><p><a href=\"https://link.zhihu.com/?target=http%3A//greedyhao.cc/2019/03/24/%25E8%2587%25AA%25E5%258A%25A8%25E6%258E%25A7%25E5%2588%25B6-PID-2019-03-24-pid%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">个人博客</a></p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/greedyhao/greedyhao.github.io/blob/master/img/wechat_official_accounts.jpg\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">公众号：greedyhao</a></p>", 
+            "topic": [
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "PID Controller PID控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20032309"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "风雨叶", 
+                    "userLink": "https://www.zhihu.com/people/b0597e0e8cd1ec4a02b643b7a859062f", 
+                    "content": "<p>“如图所示，一个常数值经过积分器后得到一个增大的函数，会使得转速增加，从而使得无人机上升减小误差”这句话不太理解，积分器具体作用的过程不是很清楚。。</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "greedyhao", 
+                            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+                            "content": "因为只靠比例的时候，会存在一个无法消除的静态误差，大致是一个常数值。积分器可以通过对常数的积分，减小系统误差，使得系统最终稳定", 
+                            "likes": 1, 
+                            "replyToAuthor": "风雨叶"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "卖蟑螂的boy", 
+                    "userLink": "https://www.zhihu.com/people/017303c96a2078152ffc174cdc2dc0ce", 
+                    "content": "想问楼主滚球系统pid问题解决了吗？最近也在做这个，看了pid还是不知道怎么用。有什么经验，谢谢楼主。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "greedyhao", 
+                            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+                            "content": "还没有开始弄pid，比较忙，之前一直在弄mpu的数据不稳定问题，刚刚解决<a href=\"https://zhuanlan.zhihu.com/p/64539813\" class=\"internal\"><span class=\"invisible\">https://</span><span class=\"visible\">zhuanlan.zhihu.com/p/64</span><span class=\"invisible\">539813</span><span class=\"ellipsis\"></span></a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "卖蟑螂的boy"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "native", 
+                    "userLink": "https://www.zhihu.com/people/8acda68126ec7f1664929d603e94c39b", 
+                    "content": "哇 老哥，你的解释真的很接地气啊", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "greedyhao", 
+                            "userLink": "https://www.zhihu.com/people/abf05bb507ba34fdf10d18428264059e", 
+                            "content": "内容是视频中的[飙泪笑]", 
+                            "likes": 0, 
+                            "replyToAuthor": "native"
+                        }, 
+                        {
+                            "userName": "native", 
+                            "userLink": "https://www.zhihu.com/people/8acda68126ec7f1664929d603e94c39b", 
+                            "content": "[赞][赞][赞]", 
+                            "likes": 0, 
+                            "replyToAuthor": "greedyhao"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "書生", 
+                    "userLink": "https://www.zhihu.com/people/78f2b8d73c2868eb4672aacfd413d06b", 
+                    "content": "工控网求助大佬吧[谢邀]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1092370785808764928"
+}

@@ -1,0 +1,154 @@
+{
+    "title": "想到的都扔进来", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/liu-fu-hong-36-8", 
+        "https://www.zhihu.com/people/J_z1", 
+        "https://www.zhihu.com/people/huangwolong", 
+        "https://www.zhihu.com/people/qbug", 
+        "https://www.zhihu.com/people/Raytlty", 
+        "https://www.zhihu.com/people/hjforever", 
+        "https://www.zhihu.com/people/li-ling-fei-16-48", 
+        "https://www.zhihu.com/people/zacklocx-12", 
+        "https://www.zhihu.com/people/wei-98-52", 
+        "https://www.zhihu.com/people/qian-jun-41", 
+        "https://www.zhihu.com/people/lan-yao-82", 
+        "https://www.zhihu.com/people/wayne-liu", 
+        "https://www.zhihu.com/people/quxiaofeng", 
+        "https://www.zhihu.com/people/long-jing-tao-74", 
+        "https://www.zhihu.com/people/morder-fox", 
+        "https://www.zhihu.com/people/zhi-hu-19-88", 
+        "https://www.zhihu.com/people/qiyi", 
+        "https://www.zhihu.com/people/xu-yi-hang", 
+        "https://www.zhihu.com/people/mr-lin-82-68", 
+        "https://www.zhihu.com/people/heyang-36", 
+        "https://www.zhihu.com/people/chen-hong-45-16", 
+        "https://www.zhihu.com/people/kong-fj", 
+        "https://www.zhihu.com/people/alanzeng-69", 
+        "https://www.zhihu.com/people/bian-zhi-qiang-6-46", 
+        "https://www.zhihu.com/people/stephen-34-51"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61944984", 
+            "userName": "跖少", 
+            "userLink": "https://www.zhihu.com/people/d74251289b35171a89c545e32194a63d", 
+            "upvote": 28, 
+            "title": "有些人的代码驾驭能力真的是可怕（Leetcoder 004）", 
+            "content": "<p>其实004要A还是很容易的，一开始看是个hard,还是有复杂度要求的。当时挺好奇leetcode使用什么黑科技来算复杂度，于是直接合并了两个vector之后拍了个序交上去了，居然还给过了。。。闹了半天全靠自觉啊。。。</p><p>正文开始，虽然有复杂度要求，但也不是什么很难。简单的方法特别简单，直接先按奇数偶数分情况讨论，奇数找中间项，偶数找中间两项，找见一算就结束了。复杂度O(log (m+n)/2)吧。</p><p>当然这个难度就对不起他25.9的通过率了。我去瞟了眼discussion,就看到了 完全不一样的解法--KTH（K-th smallest number），大概意思就是从好多数找到k个最小的数的方法。核心思想就是你要找k个最小值，假设就是前k个，然后经过跟后面的比较找出真正的最小的k个。</p><p>原来的大佬的代码我贴在下面，你能看懂就不用浪费时间看我啰嗦啦~~</p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://link.zhihu.com/?target=https%3A//leetcode.com/problems/median-of-two-sorted-arrays/discuss/2588/O%28lg%28m%252Bn%29%29-c%252B%252B-solution-using-kth-smallest-number\" data-image=\"https://pic1.zhimg.com/v2-0c435ab948b151fd834be55f80a09794_180x120.jpg\" data-image-width=\"500\" data-image-height=\"260\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Loading...</a><p>在这个题当中其实无非就是在找前一半最小的数在两个数组里面的位置。我们上来先假装有i个在第一个vector（我们这里为了方便默认第一个vector比较短），于是就有k-i个在第二个vector中。然后重点来了，你需要比一下nums1[i-1]和nums2[k-i-1]的大小<b>。小的那个组中所有小于该基准值的值一定是小于最后求出的中位数的。</b>例如nums1[i-1]&lt;nums2[k-i-1],那么nums1中所有排在nums1[i-1]前的值都是小于将来求出的中位数的。这里很关键，也不难懂，所以我希望你能明白之后再继续看。</p><p>所以我们要做的很简单，再两个数组里随便找k个值，做上面的操作，把确定了属于k个值的部分去掉，继续重复上面的操作直到一个数组不含任何元素，或者k值被减成1为止。这就是整体的算法思路了，下面我会上我写的代码。其实跟上面区别不大，毕竟我是看了之后才写的啊~~</p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://link.zhihu.com/?target=https%3A//github.com/iceiceice123/LeetCode/blob/master/004%2520recursion.cpp\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/iceiceice123</span><span class=\"invisible\">/LeetCode/blob/master/004%20recursion.cpp</span><span class=\"ellipsis\"></span></a><p>具体复杂度我不太会算递归的复杂度，我估测应该是O(log m)（假设m&lt;n）。</p><p>思路大概就是上面这样，有些我写的时候的细节问题：</p><p>1.注意int 和double的切换，int有时候会吃掉尾数，注意及时转换。</p><p>2.注意状态改变时的参数，参数忘记修改很容易引发数组越界。</p><p>3. vector在去除项的时候有三种方法 pop_back(),erase(),remove().第一种是单向的而且改变数组大小。第二种是可以随机读写的，而且可以删除单个和多个项，且改变大小。最后一个remove（），我是第一次见到，以前没用过，api也查不到，vs里面也找不到。。。</p><p>反正就是这么多了~~ 有不明白的就在评论区问了，知道的尽量回答~~</p><hr/><p>简单方法的复杂度貌似应该是logm*logn，看了轮子哥的回复发现了，居然挂了这么久。。。</p><hr/><p><b>本人水平一般，能力有限，本文内容，仅供参考，如有错误，还望指点。</b></p>", 
+            "topic": [
+                {
+                    "tag": "C++", 
+                    "tagLink": "https://api.zhihu.com/topics/19584970"
+                }, 
+                {
+                    "tag": "力扣（LeetCode）", 
+                    "tagLink": "https://api.zhihu.com/topics/19925162"
+                }, 
+                {
+                    "tag": "算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553510"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>哈哈，这题我WA蛮久的，主要没想出一个好的办法。</p>", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "我叫拉斐尔", 
+                    "userLink": "https://www.zhihu.com/people/cd76875866219ed1f2b7e114069d26d9", 
+                    "content": "<p>复杂度要求是靠自觉的，没错，你那个方法居然能过。。。我觉得说不定换种语言，用你那个逻辑可能就过不去了</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>这个方法学到了，感谢答主</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>我只想问封面什么番</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "碧蓝之海", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>谢谢 看起来挺有趣</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "vczh", 
+                    "userLink": "https://www.zhihu.com/people/0970f947b898ecc0ec035f9126dd4e08", 
+                    "content": "<p>我直觉想到的是可以从第一个数组的中间开始找，然后找这个数字在第二个数组中的位置，两个位置加起来的值如果小于k就证明还太小，然后就在第一个数组里面二分查找，最后的复杂度应该小于logm*logn，但是这样还不够log(m+n)小。</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>可以同时比较两个数组中位数，然后在来判断k处于哪个数组来进行下一步二分，每一次进行下一步可以减少k/2, 直至k等于1.</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "vczh"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "罗瑾韬", 
+                    "userLink": "https://www.zhihu.com/people/011b47a15c818c2a3bafd2bf1496a7c0", 
+                    "content": "封面好评[机智]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61826229", 
+            "userName": "跖少", 
+            "userLink": "https://www.zhihu.com/people/d74251289b35171a89c545e32194a63d", 
+            "upvote": 0, 
+            "title": "第一篇文章，从代码复健开始（leetcode 003）", 
+            "content": "<p>从上次好好写代码到现在已经快一年了，现在下手写个链表都生疏的要死也是醉了（手动扇子笑）。准备拿leetcode来上上手，毕竟OJ是不可能去的，一辈子都不可能去的，项目又不会，只能随便写写leetcode生活了。</p><p>这一篇是leetcode 的003，没有002和001是因为写的太难看了又不想改，所以就划过去了，开始正文。</p><p>题目很简单，就是找一个串里面最长的不重复字串，最简单的当然是一个一个搜，每个字符做一次开头取搜最长字串，这里就不说了。</p><p>我的想法是当看到第一个重复的字符时去找重复的那个字符，然后以那个重复的字符后面那个字母再开始搜。</p><p>很难懂是不是，我语文就是这么好。</p><p>举个例子</p><p>&#34;skdabcabcbb&#34;，先一个一个搜，很快在&#34;skdabc&#34;后面有个“a”,碰到重复的了。我们要做的就是从第一个a后面的b开始继续搜最长不重复字串，不需要再从k开始搜了。这么做的原因是<b>以b之前的这些字符打头的子串长度一定比第一个字符到当前字符前一个字符的子串（skdabc）更长的子串了</b>。懂我意思吗？不懂就再品品。</p><p>所以这就是核心思想，接下来放下代码</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/iceiceice123/LeetCode/blob/master/003.cpp\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/iceiceice123</span><span class=\"invisible\">/LeetCode/blob/master/003.cpp</span><span class=\"ellipsis\"></span></a><p class=\"ztext-empty-paragraph\"><br/></p><p>在discussion上还看到一个更厉害的代码，大神还是多啊。</p><a href=\"https://link.zhihu.com/?target=https%3A//leetcode.com/problems/longest-substring-without-repeating-characters/discuss/1737/C%252B%252B-code-in-9-lines.\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-0c435ab948b151fd834be55f80a09794_180x120.jpg\" data-image-width=\"500\" data-image-height=\"260\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Loading...</a><p>这里还有个问题想问下大神。我文中的代码，开了一个200的数组，后来想想ascall码也就126个，于是想减下内存，改成130后运行速度反而慢了好多，有人知道原因吗？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最后的最后，本人语言功底真的一般，有什么不懂的随时可以在评论栏里问，知道的都会尽量说。</p><hr/><h2><b>本人水平一般，能力有限，本文内容，仅供参考，如有错误，还望指点。</b></h2>", 
+            "topic": [
+                {
+                    "tag": "力扣（LeetCode）", 
+                    "tagLink": "https://api.zhihu.com/topics/19925162"
+                }, 
+                {
+                    "tag": "C++", 
+                    "tagLink": "https://api.zhihu.com/topics/19584970"
+                }, 
+                {
+                    "tag": "算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553510"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Skiiii", 
+                    "userLink": "https://www.zhihu.com/people/936ac49d37ccffe05d723c45ff03f161", 
+                    "content": "<p>“改成130后运行速度反而慢了好多，有人知道原因吗？“</p><p>Leetcode 上面的统计时间是相当不准确的，同样的代码重复 run 几次时间可能天差地别</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/The-game"
+}

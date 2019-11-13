@@ -1,0 +1,318 @@
+{
+    "title": "Java", 
+    "description": "会不定时的更新文章，推荐技术讨论交流群：809340374", 
+    "followers": [
+        "https://www.zhihu.com/people/ldsg-30", 
+        "https://www.zhihu.com/people/526131483", 
+        "https://www.zhihu.com/people/chang-feng-po-lang-dang-ci-ke", 
+        "https://www.zhihu.com/people/gu-liang-shuo-hu-lian-wang", 
+        "https://www.zhihu.com/people/li-ya-peng-78-33", 
+        "https://www.zhihu.com/people/yang-liu-yi-yi-wayne", 
+        "https://www.zhihu.com/people/zhou-wen-hui-36", 
+        "https://www.zhihu.com/people/zhi-hu-zhe-ye-65-33-4", 
+        "https://www.zhihu.com/people/liao-liao-50-17", 
+        "https://www.zhihu.com/people/xue-ye-wu-tong", 
+        "https://www.zhihu.com/people/RockSSoul", 
+        "https://www.zhihu.com/people/tian-xiao-tao-20", 
+        "https://www.zhihu.com/people/zi-mo-wei-yang-bi-hong-liu-li-76", 
+        "https://www.zhihu.com/people/zheng-jian-yang-56", 
+        "https://www.zhihu.com/people/hu-peng-81-40", 
+        "https://www.zhihu.com/people/wang-qiang-17-94-36", 
+        "https://www.zhihu.com/people/jing-xiu-64-31", 
+        "https://www.zhihu.com/people/liu-huan-54-83", 
+        "https://www.zhihu.com/people/qi-shi-ni-jiu-shi-da-an", 
+        "https://www.zhihu.com/people/peng-wei-77-47", 
+        "https://www.zhihu.com/people/Micro-Kun", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/liu-er-gou-64", 
+        "https://www.zhihu.com/people/zheng-zhong-wei", 
+        "https://www.zhihu.com/people/qi-jun-53", 
+        "https://www.zhihu.com/people/donald-57-31", 
+        "https://www.zhihu.com/people/yi-yan-34-25", 
+        "https://www.zhihu.com/people/fu-hao-63-86", 
+        "https://www.zhihu.com/people/woshiamiaojiang", 
+        "https://www.zhihu.com/people/yang-hai-quan-82-87", 
+        "https://www.zhihu.com/people/zhou-feng-77-44", 
+        "https://www.zhihu.com/people/chen-sheng-en-17", 
+        "https://www.zhihu.com/people/louis-luo"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/45119310", 
+            "userName": "Java后端", 
+            "userLink": "https://www.zhihu.com/people/e0e07fe9a5c013d8485cd9e1e92b1c4e", 
+            "upvote": 0, 
+            "title": "实战讲解高并发和秒杀抢购系统设计", 
+            "content": "<p></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8f41bb5764f47ba31b5bfc948f88f227_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"425\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-8f41bb5764f47ba31b5bfc948f88f227_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;425&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"425\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-8f41bb5764f47ba31b5bfc948f88f227_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8f41bb5764f47ba31b5bfc948f88f227_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>互联网特别是电商平台，阿里双11秒杀、还有12306春运抢票、以及平时各种节假日抢购活动等，都是典型的高并发场景。</p><p>这类场景最大的特征就是<b>活动周期短，瞬间流量大（高并发）</b>，大量的人短期涌入服务器抢购，但是数量有限，最终只有少数人能成功下单。</p><p>这里，就来讲一讲对应该场景下需要考虑的技术实现。</p><p>先从基本的概念的建立，再讲对应的实现部分。</p><p><b>第一：高并发</b></p><p>技术要做的事，一方面优化程序，让程序性能最优，单次请求时间能从50ms优化到25ms，那就可以在一秒钟内成功响应翻倍的请求了。</p><p>另一方面就是增加服务器，用更大的集群来处理用户请求，设计好一个可靠且灵活扩充的分布式方案就更加重要了。</p><p><b>第二：时间短</b></p><p>火热的秒杀活动，真的是一秒钟以内就会把商品抢购一空，而大部分用户的感受是，提交订单的过程却要等待好几秒、甚至十几秒，更糟糕的当然是请求报错。</p><p>那么一个好的秒杀体验，当然希望尽可能减少用户等待时间，准确的提示用户当前是否还有商品库存。而这些，也是需要有优秀的程序设计来保证的。</p><p><b>第三：系统容量预估</b></p><p>系统设计的时候，都需要有一个容量预估，<b>那就是要提前计算好，我们设计的系统，要承载多大的数量级。</b></p><p>假如线上前端服务器规格是8核16G内存的服务器，而提交订单的处理程序耗时100ms，那么可以简单计算一下：</p><p>每秒可以处理的订单请求数=1000ms/100ms*8=80qps</p><p>上面这个结果，对于秒杀系统来说，肯定是非常不理想的。</p><p>如果能将处理程序耗时优化后，降低到10ms，那么就可以达到800qps。</p><p>如果我们可以把程序继续优化，能快速区分开有库存和无库存处理，那么无库存时处理就有可能做到1ms甚至更低的耗时。这样无库存时就能有更好的性能，上万的qps也是可以达到的。</p><p>上面的预估，都是针对单机，那么简单的增加前端服务器，是不是就能有更好的并发处理量呢？</p><p>肯定没这么简单，因为数据库、缓存系统甚至机房网络带宽都会成为瓶颈。</p><p>于是就要有一个更好的分布式方案。</p><p><b>第四：好的分布式方案</b></p><p>一个好的分布式方案，首先当然是稳定可靠，不要出乱子，然后就是<b>方便扩充</b>，最好的效果当然是增加一台服务器，并发处理量可以1:1线性增长。</p><p>比如：单机qps是1k，那么10台服务器可以做到1w，100台可以做到10w每秒。</p><p>要做到这样的线性增长效果，就要杜绝出现瓶颈，否则还是会代价太大。</p><p>拒绝假的分布式尤其重要，比如：前端服务器是可以独立存在的，但是都依赖集中的一个数据库或者缓存系统，那最后，一定是集中的那个数据库或者缓存系统受不了，同样无法做到一个好的分布式。</p><p><b>第五：关注系统的瓶颈</b></p><p>大家先有几个基本的共识，系统的处理速度</p><p>程序内数据读写 &gt; redis &gt; mysql &gt; 磁盘</p><p>单机网络请求 &gt; 局域网内请求 &gt; 跨机房请求</p><p>我们优化程序的时候，尽量用最快的方式，尽量用最简短的逻辑。</p><p>用redis替代mysql来保存订单处理中依赖的数据，用程序中的提交的数据代替从redis中二次获取数据，比如：商品库存信息，用户订单信息。</p><p>逻辑处理中，把速度快且提前中断的逻辑放在最前面，比如：验证登录，验证问答。</p><p>我们做分布式方案的时候，尽量把资源调用放在最近的地方。</p><p>前端服务器依赖的数据尽量就在局域网内，如果能在单机都有读的redis服务当然更好，程序维护数据响应会复杂些。</p><p>不要出现跨机房网络请求，不要出现跨机房网络请求，不要出现跨机房网络请求，重要的事情说三遍。</p><p><b>第六：什么语言更适合这类系统</b></p><p>当然，像是用golang, ngx_lua可能在高并发和性能方面会更有优势。</p><p>如果使用java、php当然也是可以的，作为一个系统，语言只是工具，更好的设计和优化，才能达到最终想要的效果。</p><p>有了上面的基本概念，我们接下来再来看看，具体运行时，会出现什么状况。</p><p>下面是一些具体的实现问题：</p><p><b>问题1：库存超卖</b></p><p>只有10个库存，但是一秒钟有1k个订单，怎么能不超卖呢？</p><p>核心思想就是<b>保证库存递减是原子性操作</b>，10--返回9，9--返回8，8--返回7。</p><p>而不能是读取出来库存10，10-1=9再更新回去。因为这个读取和更新是并发执行的，很可能就会有1k个订单都成功了，而库存实际只有10。</p><p><b>那么，怎么保证原子性操作呢？</b></p><p><b>1 数据库：</b></p><p>update product set left_num=left_num-1 where left_num&gt;0;</p><p>这里用到的是left_num=left_num-1，如果left_num&gt;0才能执行成功，数据库查询、更新的时候有用到锁，是可以保证更新操作的原子性的。</p><p>数据库性能较差，不建议使用。</p><p><b>2 分布式锁</b></p><p>用redis来做一个分布式锁，reids-&gt;setnx(&#39;lock&#39;, 1) 设置一个锁，程序执行完成再del这个锁。</p><p>锁定的过程，不利于并发执行，大家都在等待锁解开，不建议使用。</p><p><b>3 消息队列</b></p><p>将订单请求全部放入消息队列，然后另外一个后台程序一个个处理队列中的订单请求。</p><p>并发不受影响，但是用户等待的时间较长，进入队列的订单也会很多，体验上并不好，也不建议使用。</p><p><b>4 redis递减</b></p><p>通过 redis-&gt;incrby(&#39;product&#39;, -1) 得到递减之后的库存数。</p><p><b>问题2：集群怎么来规划</b></p><p>前端服务器因为没有相互间关联，集群的数量不受影响。</p><p>redis的性能可以达到每秒几万次响应，所以一个集群的规模，也就是redis服务可以承载的数量。</p><p>比如：一台前端服务器是1~2k的qps（有库存时），那么10台+1台redis就可以是一个独立的集群，可以支撑1~2w每秒订单量。</p><p>10个上述的集群就可以做到一秒钟处理10w~20w的有效订单。</p><p>如果秒杀活动的库存量在1w以内，预计参与的人数在百万左右，那么有一个集群也就可以搞定。</p><p>如果秒杀参与的人数超过千万，那么就要用到不止一个集群了。</p><p><b>问题3：多个集群的数据怎么保持一致性</b></p><p>不要做多集群的数据同步，而是用散列，每个集群的数据是独立存在的。</p><p>假设，有10个商品，每个商品有1w库存，规划用10个集群，那么每个集群有10个商品，每个商品是1k库存。</p><p>每个集群只需要负责把自己的库存卖掉即可，至于说，会不会有用户知道有10个集群，然后每个集群都去抢。</p><p>这种情况就不要用程序来处理了，利用运营规则，活动结束后汇总订单的时候再去处理就好了。</p><p>如果担心散列的不合理，比如：某个集群用户访问量特别少，那么可以引入一个中控服务，来监控各个集群的库存，然后再做平衡。</p><p><b>问题4：机器人抢购怎么办：</b></p><p>没什么太好的办法，类似DDOS攻击，只能是让自身更强大才是王道。</p><p>运营策略上，可以严格控制用户注册，必须登录，提交订单的时候引入图像验证码，问答，交互式验证等。</p><p><b>以上是高并发和秒杀实战，</b> <b><a href=\"https://link.zhihu.com/?target=https%3A//jq.qq.com/%3F_wv%3D1027%26k%3D5gMi803\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">更多架构资料请狂戳</a></b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-215403de71a8c36c966146f2cdeb2b53_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"728\" data-rawheight=\"513\" class=\"origin_image zh-lightbox-thumb\" width=\"728\" data-original=\"https://pic4.zhimg.com/v2-215403de71a8c36c966146f2cdeb2b53_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;728&#39; height=&#39;513&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"728\" data-rawheight=\"513\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"728\" data-original=\"https://pic4.zhimg.com/v2-215403de71a8c36c966146f2cdeb2b53_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-215403de71a8c36c966146f2cdeb2b53_b.jpg\"/></figure><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "高并发", 
+                    "tagLink": "https://api.zhihu.com/topics/19596218"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44723766", 
+            "userName": "Java后端", 
+            "userLink": "https://www.zhihu.com/people/e0e07fe9a5c013d8485cd9e1e92b1c4e", 
+            "upvote": 1, 
+            "title": "阿里P8架构师谈：如何搭建亿级并发系统的性能指标体系", 
+            "content": "<p><b>性能指标的分类</b></p><p>为了更好的去监控整个系统的性能，做好全流程的优化，主要分为3类：</p><p><b>1.感知系统性能</b></p><p>这类指标主要从工程师的角度去衡量，如后端的：</p><ul><li>响应时间</li><li>当前并发的用户数</li><li>请求数</li><li>请求的错误率等等。</li></ul><p><b>2.用户体验性能</b></p><p><b>用户实际感觉网页是否加载延迟</b></p><ul><li>首屏时间</li><li>白屏时间</li><li>完全加载时间之类</li></ul><p><b>3.系统性能</b></p><p><b>这类指标重点查看服务器</b>：</p><ul><li>服务器的cpu</li><li>内存</li><li>网络带宽</li><li>流量等等物理资源。</li></ul><p>对于上述的每一类，衡量标准可能都不一样，在数据展示方面，主要通过趋势图和汇总表格来展现，下面来对这3类指标分别细说：</p><p><b>感知系统性能</b></p><p>这类指标主要为工程师设计，来衡量业务后端的处理速度，主要从以下几个方面去衡量：</p><p><b>1) 响应时间</b></p><p>响应时间是性能的主要kpi。</p><p>首先对每个业务的整体(集群)响应时间有个衡量：</p><ul><li><b>95%的响应时间</b>：将一段时间内所有请求的响应时间中取一个值，使95%的请求响应时间均小于或等于它，此值即为95%请求覆盖的响应时间。</li><li><b>90%的响应时间</b>：将一段时间内所有请求的响应时间中取一个值，使90%的请求响应时间均小于或等于它，此值即为90%请求覆盖的响应时间。</li><li><b>50%的响应时间</b>：将一段时间内所有请求的响应时间中取一个值，使50%的请求响应时间均小于或等于它，此值即为50%请求覆盖的响应时间。</li></ul><p>另外为了方便工程师的优化，对具体到每个请求url都做了更精细化的统计，不光统计了上述的指标，还增加了：</p><ul><li><b>最大响应时间</b>：某请求的某段时间范围内响应时间的最大值。</li><li><b>最小响应时间</b>: 某请求的某段时间范围内响应时间的最小值。</li><li><b>时间标准差</b>：某请求某段时间范围内的波动情况，用来衡量某请求是否存在很大波动，标准差越大，波动越大。</li></ul><p><b>2）请求数（按天或小时统计）</b></p><p>根据不同的时间维度去统计系统每天或每小时的请求数。</p><p><b>3）错误率</b></p><p>关于错误率的统计主要有以下几种：</p><ul><li>connection timeout:http请求中出现504的次数和比例。</li><li>error response：http请求中出现500的次数和比例。</li><li>错误网关数：http请求中出现502的次数和比例。</li><li>异常日志统计:统计业务中出现得异常的数量和趋势。</li></ul><p><b>用户体验性能</b></p><p>这类指标从用户的角度出发，通过模拟用户请求或对真实用户抽样，来监控用户对网站的实际体验效果，主要利用js来收集不同浏览器下访问网站的加载速度和性能；对于一次完整用户请求来说，http请求可以划分为如下几个阶段：</p><ul><li>DNS：域名解析阶段，通常在几毫秒左右</li><li>TCP：建立网络连接</li><li>Requesting：发送请求</li><li>WebServer处理</li><li>Transferring：传输数据</li><li>Parsing：浏览器解析。几个重要的时间点为：</li><li>a. 首屏时间 客户端第一屏资源加载完毕</li><li>b. domready时间 DOM解析完毕，可以进行动态修改</li><li>c. load时间 所有资源加载完毕</li></ul><p>对于上述的几个阶段，设立了多种时间参数（每个参数又有 90% 和 50% 两种指标）来衡量，具体如下：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5d3f2dafa9a457ed79eaa95530de305f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"382\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-5d3f2dafa9a457ed79eaa95530de305f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;382&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"382\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-5d3f2dafa9a457ed79eaa95530de305f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-5d3f2dafa9a457ed79eaa95530de305f_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>查找域名</b>：开始查找域名到查找结束,计算公式为（domainLookupEnd - domainLookupStart）</li><li><b>建立连接</b>：开始发出连接请求到连接成功,计算公式为（connectEnd - connectStart）</li><li><b>请求文档</b>：开始请求文档到开始接收文档,计算公式为（responseStart - requestStart）</li><li><b>接收文档</b>：开始接收文档到文档接收完成,计算公式为（responseEnd - responseStart）</li><li><b>domready</b>：开始解析文档到 DOMContentLoaded 事件被触发,计算公式为（domContentLoadedEventStart - domLoading）</li><li><b>load事件持续</b>：load 事件被触发到 load 事件完成,计算公式为（loadEventEnd - loadEventStart）</li><li><b>完全加载</b>：开始解析文档到文档完全加载,计算公式为（domComplete - domLoading）</li><li><b>首屏加载</b>：开始解析文档到首屏加载完毕,计算公式为（firstscreenready - domLoading）</li><li><b>完全加载</b>【全过程】：此次浏览最开始时刻到完全加载完毕,计算公式为（domComplete - navigationStart）</li><li><b>首屏加载</b>【全过程】：此次浏览最开始时刻到首屏加载完毕,计算公式为（firstscreenready - navigationStart）</li></ul><p>其中不同的指标对于用户体验的影响权重不同，对于用户来说白屏时间（浏览最开始时刻到首屏加载前）和首屏时间是最重要的。</p><p><b>系统性能</b></p><p>这类指标主要监测目前服务器的</p><ul><li>cpu</li><li>内存</li><li>硬盘io率</li><li>网络带宽</li><li>流量等等物理资源的使用情况</li></ul><p>这类指标比较常见，就不细说了,举几个例子。</p><p><b>1.cpu使用率监控图</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-063b248e6e64bf12f183caba12c4b7bc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"224\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-063b248e6e64bf12f183caba12c4b7bc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;224&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"224\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-063b248e6e64bf12f183caba12c4b7bc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-063b248e6e64bf12f183caba12c4b7bc_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>2<b>.服务的硬盘io监控图</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ed94d7f4f10af3cb9d2d10d2ce2aa464_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1998\" data-rawheight=\"588\" class=\"origin_image zh-lightbox-thumb\" width=\"1998\" data-original=\"https://pic1.zhimg.com/v2-ed94d7f4f10af3cb9d2d10d2ce2aa464_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1998&#39; height=&#39;588&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1998\" data-rawheight=\"588\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1998\" data-original=\"https://pic1.zhimg.com/v2-ed94d7f4f10af3cb9d2d10d2ce2aa464_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ed94d7f4f10af3cb9d2d10d2ce2aa464_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.服务的网络io监控图</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-411ce918c49832907b87a385f7d4442e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1994\" data-rawheight=\"588\" class=\"origin_image zh-lightbox-thumb\" width=\"1994\" data-original=\"https://pic3.zhimg.com/v2-411ce918c49832907b87a385f7d4442e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1994&#39; height=&#39;588&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1994\" data-rawheight=\"588\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1994\" data-original=\"https://pic3.zhimg.com/v2-411ce918c49832907b87a385f7d4442e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-411ce918c49832907b87a385f7d4442e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>总结</b></p><p><b>监控-&gt;分析-&gt;优化</b>，号称是性能优化的三部曲，为了更容易地找到性能优化的关键点，建立一个统一的精细化的性能监控平台，做到数据驱动型的性能优化，是公司的长远目标，也是值得公司投入的一个方向，<b>性能优化，从监控开始</b>，只有监控的性能指标体系建立好了，才能更好地去做分析和优化！</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "Java", 
+                    "tagLink": "https://api.zhihu.com/topics/19561132"
+                }, 
+                {
+                    "tag": "高并发", 
+                    "tagLink": "https://api.zhihu.com/topics/19596218"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/43978134", 
+            "userName": "Java后端", 
+            "userLink": "https://www.zhihu.com/people/e0e07fe9a5c013d8485cd9e1e92b1c4e", 
+            "upvote": 20, 
+            "title": "java程序员越来越多，为啥工资反而越来越高？", 
+            "content": "<p>2018届的计算机毕业生薪水再创新高，最高50万以上：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-a1876743a531edba816342f7944959fc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"473\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic1.zhimg.com/v2-a1876743a531edba816342f7944959fc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;550&#39; height=&#39;473&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"473\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"550\" data-original=\"https://pic1.zhimg.com/v2-a1876743a531edba816342f7944959fc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a1876743a531edba816342f7944959fc_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>据不完全统计中国的程序员已经超过200万，而且每年这个数字还在不停的上升，按道理从业人数逐渐增多工资应该越来越低，但是工资还是大幅度的在上涨，导致是什么原因导致？中国特色国情决定的？还是另有原因。<br/></p><p>中国软件的起步相比欧美国家还是晚的多，现在70后的程序员从实际年龄有40多岁，已经算是很老的，在欧美40，50岁的老程序员数量不在少数，在中国40多岁的程序员如果还在写代码就会被周围的人以异样的眼光看待，在欧美就不存在这种问题，欧美的IT公司里，五六十岁一脸大胡子的程序员也不担心被年轻人取代。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-86c77e41e2198d78e53a21b405de730f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"379\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-86c77e41e2198d78e53a21b405de730f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;550&#39; height=&#39;379&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"379\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"550\" data-original=\"https://pic4.zhimg.com/v2-86c77e41e2198d78e53a21b405de730f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-86c77e41e2198d78e53a21b405de730f_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>*注意，在本报告中，Tech Worker —— “科技工作者”的定义是指软件工程师，设计师，产品经理和数据分析角色。</p><p>如果用中国的行业薪资对标欧美国家的话，IT行业能算得上是唯一薪资接近的，且没有国有垄断的行业，而欧美国家IT行业发展历史很久，且还在不断增长，所以可以想象未来中国程序员的工资还会上涨，决定程序员持续上涨大致有以下几方面的原因。</p><p>01、国家战略规划</p><p>十三五规划中，大方向是加快壮大战略性新兴产业，打造经济社会发展新引擎。在战略性新兴产业中，主要集中在信息技术产业和网络经济，国家层面将会提供各种政策、资金、资源的支持，保障它快速、广泛的发展。</p><p>互联网+、大数据、人工智能，将是重中之重，未来十年，软件、互联网、数据、智能化等相关领域，依然是时代发展大趋势，而支撑这些领域发展的程序员，平均收入依然会远高于其他行业。</p><p>02、中国软件还处在高速发展期</p><p>在这些年发展过程中诞生了很多技术公司，都需要大量的程序员为之服务，所以整个市场的态势还是求大于供，现在很多人觉得为啥毕业生直接找软件工作还是很难，必须要不错的基本功或者参加培训磨练一下。</p><p>主要中国近些年发展虽然还是存在大量的缺口，但缺的是软件高手，也就是顶梁柱类型的程序员，因为普通的程序员每年都会有很多来选择，根本原因还是软件从业门槛变高了，想要找到工作必须有真才实学，想要蒙混过关基本不可能了。</p><p>03、程序员入门的门槛相对比较高</p><p>想从一个学生成为一个标准的程序员需要经过很多历练，中间坚持不下来就会直接选择放弃了，无论中间是自学成才还是参加培训，不要觉得交了钱参加培训就一定能找到工作。</p><p>花钱去培训可能会让你更有动力去学习，但是培训只是带你去入门，后面能走多远还是要靠你的学习能力以及持续不断的努力，如果你认为花钱就可以高枕无忧，那么你可以放弃这个行业了。</p><p>04、不断提高薪水竞争人才</p><p>互联网IT行业工资高还有一个原因，IT公司属于轻资产型公司，人力资源是唯一的成本，人是唯一生产力，只要有一帮会编程的人就可以开个公司。行业飞速发展，对IT行业人才的需求远大于毕业生+培训班所能提供的，为了能找到合适的人才，IT公司就需要不断提高薪水，与其他竞品公司竞争人才。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "Java", 
+                    "tagLink": "https://api.zhihu.com/topics/19561132"
+                }, 
+                {
+                    "tag": "Java程序员", 
+                    "tagLink": "https://api.zhihu.com/topics/19692501"
+                }, 
+                {
+                    "tag": "Java 程序员", 
+                    "tagLink": "https://api.zhihu.com/topics/19629329"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "殇丶小木", 
+                    "userLink": "https://www.zhihu.com/people/68b5459237172ce414fb19a1d6dd7c50", 
+                    "content": "为啥？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>因为人民币贬值了。</p>", 
+                    "likes": 22, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "沈苍生", 
+                    "userLink": "https://www.zhihu.com/people/d2913bacac96cdc3aedd48a46ce37524", 
+                    "content": "初级java饱和，中高级供不应求，高工资的都是算法方向  ，初级java工资越来越低 中高级越来越高", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "陈智广", 
+                            "userLink": "https://www.zhihu.com/people/14bf1776472db45e953c51d91bd18864", 
+                            "content": "<p>算法今年投的人太多了，工资已经快跟做工程的一样了...</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "沈苍生"
+                        }, 
+                        {
+                            "userName": "好热啊", 
+                            "userLink": "https://www.zhihu.com/people/f5f7d000ad29df2494d37534eb5f6453", 
+                            "content": "<p>我李玄通不服</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "沈苍生"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "叶子", 
+                    "userLink": "https://www.zhihu.com/people/0f79cf9995be92f52a0e93def8b9ef16", 
+                    "content": "需求哪有那么多，我们公司北京就招一个java，两天hr收九十多份简历还有跑我们公司毛遂自荐的", 
+                    "likes": 7, 
+                    "childComments": [
+                        {
+                            "userName": "Petter", 
+                            "userLink": "https://www.zhihu.com/people/954c5a8fdc369a943ff440e8a6e07c4b", 
+                            "content": "你们可能不是it公司吧", 
+                            "likes": 0, 
+                            "replyToAuthor": "叶子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "尚硅谷教育", 
+                    "userLink": "https://www.zhihu.com/people/4440695906274086c769b508f76c37a5", 
+                    "content": "<p>与之相应的是对程序员的要求越来越高了，企业特别是中小企业更倾向于招纳直接就能干活的，而非自行培养，宁愿多支付一些费用，主要是跳槽很严重，如若没有大平台背书。</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "大宋", 
+                    "userLink": "https://www.zhihu.com/people/6f703a0a2f40eaa845c5d7eac6524fe7", 
+                    "content": "<p>真不高，现在java3年以下都烂大街了</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>程序员培养成本太高，培养两年技术经验和业务能力有所提高，肯定选择跳槽。公司会陷入反复招初级程序员的怪圈，公司整体的技术能力就无法提高。初级变中级跳槽的原因很多很多，例如一家公司做两年后能学到的东西会越来越少，而跳槽去另一家公司工资可以翻倍涨，还能学新技术和新业务，傻子才留。。。</p>", 
+                    "likes": 5, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "「已注销」", 
+                    "userLink": "https://www.zhihu.com/people/d75deefa3aad56e3b000c388833dc97d", 
+                    "content": "<p>你这文章大几百字，跟标题有神马关系？</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "少年游", 
+                    "userLink": "https://www.zhihu.com/people/b1f842e75b6248265ecba43922ebdb15", 
+                    "content": "这图p的不错哦", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "lolololoheihei", 
+                    "userLink": "https://www.zhihu.com/people/0c38a8b31a6d0b0ccb8a3aca9b2948de", 
+                    "content": "这图我看了一年多了", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "lolololoheihei", 
+                    "userLink": "https://www.zhihu.com/people/0c38a8b31a6d0b0ccb8a3aca9b2948de", 
+                    "content": "而且之前看的时候还没有这里的这么av画质", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "zzxxppp", 
+                    "userLink": "https://www.zhihu.com/people/58c213769cb011adf742ade455648dbd", 
+                    "content": "又要找高手又要年轻又要能加班", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Tyrion", 
+                    "userLink": "https://www.zhihu.com/people/196d81dc82d4f378aa70802768b77ed8", 
+                    "content": "机械专业，大四，想转行，刚刚开始学java,看了评论，五味杂陈。。。", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "ACE嗯", 
+                            "userLink": "https://www.zhihu.com/people/9667682b733fb65ea40f782bead53fe2", 
+                            "content": "遵循自己想法就好了，就跟房价一样，有喊涨有喊跌的，以后怎么样谁知道？反正有钱涨跌都能买得起，有技术饱和不饱和的也都能找到工作。", 
+                            "likes": 1, 
+                            "replyToAuthor": "Tyrion"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>还是别了大兄弟，人太挤了。去年面试，济南某家小公司，办公室还是在居民楼里的那种，就招两个java程序员，么的那简历收了一大堆。目测最少得五十份以上。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Tyrion"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "灵魂对撞机", 
+                    "userLink": "https://www.zhihu.com/people/f4ca959f981c310af429ca25b3b4721d", 
+                    "content": "好多的java开发的，还不够，人海战术不是盖的", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>新人工资很低的</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "现在已经快要饱和，步入土木和机械后尘了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Shark", 
+                    "userLink": "https://www.zhihu.com/people/3bf16ec0425e7ecb64fb474f8c6cf63a", 
+                    "content": "每一个公司，都应该有至少一两个web程序员，两三个移动端程序员，而不是外包。每一个政府门户网站，都应该有专职程序员维护。现在看起来，中国程序员依然主要集中在互联网公司里，而不是分布于需要互联网的公司里。外包的水平真的是参差不齐，严格的说很多外包的都是扒皮换皮，已经算是违法了。而且外包大多是一锤子买卖，不存在长期维护。", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/42238042", 
+            "userName": "Java后端", 
+            "userLink": "https://www.zhihu.com/people/e0e07fe9a5c013d8485cd9e1e92b1c4e", 
+            "upvote": 6, 
+            "title": "阿里巴巴 java 1+2+3+hr面", 
+            "content": "<p>阿里数据技术与产品部门 1面+2面+3面面筋</p><h2><b>1面（48分钟）：基础+项目</b></h2><p>自我介绍，项目介绍，遇到的最大困难是什么？怎么解决的？你觉得你能怎么优化这个项目？</p><p>1）讲一下JVM</p><p>2）讲一下JVM的分代回收以及具体算法</p><p>3）将一下JVM的垃圾收集器，G1和CMS有啥区别？</p><p>4）讲一下一个变量从产生到结束所经历的过程，讲一下字符串常量的过程？</p><p>5）将一下线程安全问题产生的原因？</p><p>6）讲一下乐观锁和悲观锁</p><p>7）乐观锁是怎么保证一致性的</p><p>8）Integer和int有啥区别，integer中有哪些特殊的函数？</p><p>9）讲一下数据库的隔离等级</p><p>10）说一下MVCC</p><p>11）说一聚簇索引和非聚簇索引的有什么不同</p><h2><b>2面（1h）：主要聊项目，基础问得不多</b></h2><p>主要怼项目，你做过哪些项目，用过哪些技术？你为什么读研？了解哪些框架？你觉得对你技术提升最高的是哪一件事情，提升了你哪一方面的技术？</p><p>1）讲一下Spring AOP和IOC的底层实现</p><p>2）说一下hashcode的作用？HashMap的底层实现？HashMap和HashTable的区别</p><p>3）说一下concurrentHashMap和hashTable在性能上的区别？以及这种差异形成的原因</p><p>4）讲一下堆以及堆排序</p><p>5）说一下B+tree和二叉搜索树的区别？说一下二叉搜索树和AVL树、红黑树之间的差别</p><p>6）给你两个文件（字符串形式的）如何找出他们之间的不同地方？</p><p>7）你刚刚说的能怎么优化？</p><p>8）知道倒排索引嘛</p><h2><b>3面（35分钟）：总共四个问题（其实是两个）</b></h2><p>1. 给你50亿行字符串，机器4G内存（只能一台机器），找出重复次数最多的那行字符串？（以行为单位，每行不超过10个字符）</p><p>2. 一个圆上三个点形成钝角的概率是多少？</p><p>3. 假如两个点和圆心形成的圆心角已经是直角，那么第三个和这两个点形成钝角的概率是多少？（接上一题）</p><p>4. 快速排序的平均复杂多少？最坏情况是什么？（这个题估计就是缓和一下尴尬的气氛）</p><p>吐槽一下三面：本来说好的是机试，但是下午临时打电话过来直接就面了，就这么四个题，面试官普通话也说不标准，很难懂他说的是啥！哎。。。无语</p><p>HR面（40分钟）：</p><p>1）对数据技术与产品部有什么了解？</p><p>2）你更愿意从事算法还是开发方面的工作？</p><p>3）聊了聊论文</p><p>4）聊了聊读研的事儿？</p><p>5）讲一讲你遇到过的最大困哪</p><p>6）有女朋友嘛？（我老实说了有，然后hr就和我说阿里招聘的时候，一方可能会受另一方影响比较大，哎感觉凉凉）</p><p>HR面带给我的恐惧感是最强的，虽然hr态度很好，但是阿里巴巴HR面刷人是最多的，所以也没抱太大期望，已经走到了这一步，已经没有什么遗憾了，也认清了自己和大佬们的差距。</p><p>PS:HR没有给口头offer，也没有问期望薪资，八成是凉得不能再凉了。</p><p>记录下阿里的招聘之路与诸位牛油共勉！</p><p>作者： <b><i><a href=\"https://link.zhihu.com/?target=https%3A//www.nowcoder.com/discuss/94656%3Ftype%3D2%26order%3D3%26pos%3D4%26page%3D1%26from%3Djianshu\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">团子s1</a></i></b></p><p>来源：牛客网（<a href=\"https://link.zhihu.com/?target=http%3A//www.nowcoder.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">nowcoder.com</span><span class=\"invisible\"></span></a>）</p><p>原文链接：<a href=\"https://link.zhihu.com/?target=https%3A//www.jianshu.com/p/9402759e41fa%3Futm_source%3Dtuicool%26utm_medium%3Dreferral\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">阿里巴巴 java 1+2+3+hr面</a></p>", 
+            "topic": [
+                {
+                    "tag": "阿里巴巴集团", 
+                    "tagLink": "https://api.zhihu.com/topics/19551577"
+                }, 
+                {
+                    "tag": "Java", 
+                    "tagLink": "https://api.zhihu.com/topics/19561132"
+                }, 
+                {
+                    "tag": "面试技巧", 
+                    "tagLink": "https://api.zhihu.com/topics/19591490"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "阿阿龙啊", 
+                    "userLink": "https://www.zhihu.com/people/13418ffdf3f33e82e6f7560ebbf025f5", 
+                    "content": "兄弟，我想问下那个在圆上任取3点形成钝角的概率的问题。我试了三种解决方法出来三个答案，1/2，1/4，3/4，重点是每种方法还找不出来问题出在哪。准确答案是什么？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "阿阿龙啊", 
+                    "userLink": "https://www.zhihu.com/people/13418ffdf3f33e82e6f7560ebbf025f5", 
+                    "content": "然后后面那个圆心角是直角再求钝角的概率肯定3/4了", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/42030230", 
+            "userName": "Java后端", 
+            "userLink": "https://www.zhihu.com/people/e0e07fe9a5c013d8485cd9e1e92b1c4e", 
+            "upvote": 4, 
+            "title": "Spring面试题", 
+            "content": "<p>Spring Framework 现在几乎已成为 Java Web 开发的标配框架。那么，作为 Java 程序员，你对 Spring 的主要技术点又掌握了多少呢？不妨用本文的问题来检测一下。<br/>1、一般问题<br/>1.1. 不同版本的 Spring Framework 有哪些主要功能？<br/>VersionFeatureSpring 2.5发布于 2007 年。这是第一个支持注解的版本。Spring 3.0发布于 2009 年。它完全利用了 Java5 中的改进，并为 JEE6 提供了支持。Spring 4.0发布于 2013 年。这是第一个完全支持 JAVA8 的版本。<br/>1.2. 什么是 Spring Framework？<br/></p><ul><li>Spring 是一个开源应用框架，旨在降低应用程序开发的复杂度。</li><li>它是轻量级、松散耦合的。</li><li>它具有分层体系结构，允许用户选择组件，同时还为 J2EE 应用程序开发提供了一个有凝聚力的框架。</li><li>它可以集成其他框架，如 Structs、Hibernate、EJB 等，所以又称为框架的框架。</li></ul><p>1.3. 列举 Spring Framework 的优点。<br/></p><ul><li>由于 Spring Frameworks 的分层架构，用户可以自由选择自己需要的组件。</li><li>Spring Framework 支持 POJO(Plain Old Java Object) 编程，从而具备持续集成和可测试性。</li><li>由于依赖注入和控制反转，JDBC 得以简化。</li><li>它是开源免费的。</li></ul><p>1.4. Spring Framework 有哪些不同的功能？<br/></p><ul><li><b>轻量级</b> - Spring 在代码量和透明度方面都很轻便。</li><li><b>IOC</b> - 控制反转</li><li><b>AOP</b> - 面向切面编程可以将应用业务逻辑和系统服务分离，以实现高内聚。</li><li><b>容器</b> - Spring 负责创建和管理对象（Bean）的生命周期和配置。</li><li><b>MVC</b> - 对 web 应用提供了高度可配置性，其他框架的集成也十分方便。</li><li><b>事务管理</b> - 提供了用于事务管理的通用抽象层。Spring 的事务支持也可用于容器较少的环境。</li><li><b>JDBC 异常</b> - Spring 的 JDBC 抽象层提供了一个异常层次结构，简化了错误处理策略。</li></ul><p>1.5. Spring Framework 中有多少个模块，它们分别是什么？<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-cceeba860625e21e3a5dd05598b70a5b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-cceeba860625e21e3a5dd05598b70a5b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-cceeba860625e21e3a5dd05598b70a5b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-cceeba860625e21e3a5dd05598b70a5b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>Spring 核心容器</b> – 该层基本上是 Spring Framework 的核心。它包含以下模块：</li><ul><li>Spring Core</li><li>Spring Bean</li><li>SpEL (Spring Expression Language)</li><li>Spring Context</li></ul><li><b>数据访问/集成</b> – 该层提供与数据库交互的支持。它包含以下模块：</li><ul><li>JDBC (Java DataBase Connectivity)</li><li>ORM (Object Relational Mapping)</li><li>OXM (Object XML Mappers)</li><li>JMS (Java Messaging Service)</li><li>Transaction</li></ul><li><b>Web</b> – 该层提供了创建 Web 应用程序的支持。它包含以下模块：</li><ul><li>Web</li><li>Web – Servlet</li><li>Web – Socket</li><li>Web – Portlet</li></ul><li><b>AOP</b> – 该层支持面向切面编程</li><li><b>Instrumentation</b> – 该层为类检测和类加载器实现提供支持。</li><li><b>Test</b> – 该层为使用 JUnit 和 TestNG 进行测试提供支持。</li><li><b>几个杂项模块:</b></li><ul><li>Messaging – 该模块为 STOMP 提供支持。它还支持注解编程模型，该模型用于从 WebSocket 客户端路由和处理 STOMP 消息。</li><li>Aspects – 该模块为与 AspectJ 的集成提供支持。</li></ul></ul><p>1.6. 什么是 Spring 配置文件？<br/>Spring 配置文件是 XML 文件。该文件主要包含类信息。它描述了这些类是如何配置以及相互引入的。但是，XML 配置文件冗长且更加干净。如果没有正确规划和编写，那么在大项目中管理变得非常困难。<br/>1.7. Spring 应用程序有哪些不同组件？<br/>Spring 应用一般有以下组件：<br/></p><ul><li><b>接口</b> - 定义功能。</li><li><b>Bean 类</b> - 它包含属性，setter 和 getter 方法，函数等。</li><li><b>Spring 面向切面编程（AOP）</b> - 提供面向切面编程的功能。</li><li><b>Bean 配置文件</b> - 包含类的信息以及如何配置它们。</li><li><b>用户程序</b> - 它使用接口。</li></ul><p>1.8. 使用 Spring 有哪些方式？<br/>使用 Spring 有以下方式：<br/></p><ul><li>作为一个成熟的 Spring Web 应用程序。</li><li>作为第三方 Web 框架，使用 Spring Frameworks 中间层。</li><li>用于远程使用。</li><li>作为企业级 Java Bean，它可以包装现有的 POJO（Plain Old Java Objects）。</li></ul><p>2、依赖注入（Ioc）<br/>2.1. 什么是 Spring IOC 容器？<br/>Spring 框架的核心是 Spring 容器。容器创建对象，将它们装配在一起，配置它们并管理它们的完整生命周期。Spring 容器使用依赖注入来管理组成应用程序的组件。容器通过读取提供的配置元数据来接收对象进行实例化，配置和组装的指令。该元数据可以通过 XML，Java 注解或 Java 代码提供。<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-605e6bcdaefe3325fbfbbf3112cde827_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"252\" class=\"content_image\" width=\"300\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;300&#39; height=&#39;252&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"252\" class=\"content_image lazy\" width=\"300\" data-actualsrc=\"https://pic4.zhimg.com/v2-605e6bcdaefe3325fbfbbf3112cde827_b.jpg\"/></figure><p><br/>2.2. 什么是依赖注入？<br/>在依赖注入中，您不必创建对象，但必须描述如何创建它们。您不是直接在代码中将组件和服务连接在一起，而是描述配置文件中哪些组件需要哪些服务。由 IoC 容器将它们装配在一起。<br/>2.3. 可以通过多少种方式完成依赖注入？<br/>通常，依赖注入可以通过三种方式完成，即：<br/></p><ul><li>构造函数注入</li><li>setter 注入</li><li>接口注入</li></ul><p>在 Spring Framework 中，仅使用构造函数和 setter 注入。<br/>2.4. 区分构造函数注入和 setter 注入。<br/>构造函数注入setter 注入没有部分注入有部分注入不会覆盖 setter 属性会覆盖 setter 属性任意修改都会创建一个新实例任意修改不会创建一个新实例适用于设置很多属性适用于设置少量属性<br/>2.5. spring 中有多少种 IOC 容器？<br/></p><ul><li>BeanFactory - BeanFactory 就像一个包含 bean 集合的工厂类。它会在客户端要求时实例化 bean。</li><li>ApplicationContext - ApplicationContext 接口扩展了 BeanFactory 接口。它在 BeanFactory 基础上提供了一些额外的功能。</li></ul><p>2.6. 区分 BeanFactory 和 ApplicationContext。<br/>BeanFactoryApplicationContext它使用懒加载它使用即时加载它使用语法显式提供资源对象它自己创建和管理资源对象不支持国际化支持国际化不支持基于依赖的注解支持基于依赖的注解<br/>2.7. 列举 IoC 的一些好处。<br/>IoC 的一些好处是：<br/></p><ul><li>它将最小化应用程序中的代码量。</li><li>它将使您的应用程序易于测试，因为它不需要单元测试用例中的任何单例或 JNDI 查找机制。</li><li>它以最小的影响和最少的侵入机制促进松耦合。</li><li>它支持即时的实例化和延迟加载服务。</li></ul><p>2.8. Spring IoC 的实现机制。<br/>Spring 中的 IoC 的实现原理就是工厂模式加反射机制。<br/>示例：<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3366df3bc0c63b6d1b0c720f4f7c776f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"650\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-3366df3bc0c63b6d1b0c720f4f7c776f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;650&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"650\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-3366df3bc0c63b6d1b0c720f4f7c776f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3366df3bc0c63b6d1b0c720f4f7c776f_b.jpg\"/></figure><p><br/>3. Beans<br/>3.1. 什么是 spring bean？<br/></p><ul><li>它们是构成用户应用程序主干的对象。</li><li>Bean 由 Spring IoC 容器管理。</li><li>它们由 Spring IoC 容器实例化，配置，装配和管理。</li><li>Bean 是基于用户提供给容器的配置元数据创建。</li></ul><p>3.2. spring 提供了哪些配置方式？<br/></p><ul><li>基于 xml 配置</li></ul><p>bean 所需的依赖项和服务在 XML 格式的配置文件中指定。这些配置文件通常包含许多 bean 定义和特定于应用程序的配置选项。它们通常以 bean 标签开头。例如：</p><blockquote>&lt;bean id=&#34;studentbean&#34; class=&#34;org.edureka.firstSpring.StudentBean&#34;&gt;  &lt;property name=&#34;name&#34; value=&#34;Edureka&#34;&gt;&lt;/property&gt;  &lt;/bean&gt; </blockquote><ul><li>基于注解配置</li></ul><p>您可以通过在相关的类，方法或字段声明上使用注解，将 bean 配置为组件类本身，而不是使用 XML 来描述 bean 装配。默认情况下，Spring 容器中未打开注解装配。因此，您需要在使用它之前在 Spring 配置文件中启用它。例如：</p><blockquote>&lt;beans&gt;  &lt;context:annotation-config/&gt;  &lt;!-- bean definitions go here --&gt;  &lt;/beans&gt;  </blockquote><ul><li>基于 Java API 配置</li></ul><p>Spring 的 Java 配置是通过使用 @Bean 和 @Configuration 来实现。<br/></p><ol><li>@Bean 注解扮演与 &lt;bean /&gt; 元素相同的角色。</li><li>@Configuration 类允许通过简单地调用同一个类中的其他 @Bean 方法来定义 bean 间依赖关系。</li></ol><p>例如：</p><blockquote>@Configuration  public class StudentConfig {  @Bean  public StudentBean myStudent() {  return new StudentBean();  }  } </blockquote><p><br/>3.3. spring 支持集中 bean scope？<br/>Spring bean 支持 5 种 scope：<br/></p><ul><li><b>Singleton</b> - 每个 Spring IoC 容器仅有一个单实例。</li><li><b>Prototype</b> - 每次请求都会产生一个新的实例。</li><li><b>Request</b> - 每一次 HTTP 请求都会产生一个新的实例，并且该 bean 仅在当前 HTTP 请求内有效。</li><li><b>Session</b> - 每一次 HTTP 请求都会产生一个新的 bean，同时该 bean 仅在当前 HTTP session 内有效。</li><li><b>Global-session</b> - 类似于标准的 HTTP Session 作用域，不过它仅仅在基于 portlet 的 web 应用中才有意义。Portlet 规范定义了全局 Session 的概念，它被所有构成某个 portlet web 应用的各种不同的 portlet 所共享。在 global session 作用域中定义的 bean 被限定于全局 portlet Session 的生命周期范围内。如果你在 web 中使用 global session 作用域来标识 bean，那么 web 会自动当成 session 类型来使用。</li></ul><p>仅当用户使用支持 Web 的 ApplicationContext 时，最后三个才可用。<br/>3.4. spring bean 容器的生命周期是什么样的？<br/>spring bean 容器的生命周期流程如下：<br/></p><ol><li>Spring 容器根据配置中的 bean 定义中实例化 bean。</li><li>Spring 使用依赖注入填充所有属性，如 bean 中所定义的配置。</li><li>如果 bean 实现 BeanNameAware 接口，则工厂通过传递 bean 的 ID 来调用 setBeanName()。</li><li>如果 bean 实现 BeanFactoryAware 接口，工厂通过传递自身的实例来调用 setBeanFactory()。</li><li>如果存在与 bean 关联的任何 BeanPostProcessors，则调用 preProcessBeforeInitialization() 方法。</li><li>如果为 bean 指定了 init 方法（&lt;bean&gt; 的 init-method 属性），那么将调用它。</li><li>最后，如果存在与 bean 关联的任何 BeanPostProcessors，则将调用 postProcessAfterInitialization() 方法。</li><li>如果 bean 实现 DisposableBean 接口，当 spring 容器关闭时，会调用 destory()。</li><li>如果为 bean 指定了 destroy 方法（&lt;bean&gt; 的 destroy-method 属性），那么将调用它。<br/></li></ol><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0beaadb66c7b4b7482f281732a562e94_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"263\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-0beaadb66c7b4b7482f281732a562e94_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;263&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"263\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-0beaadb66c7b4b7482f281732a562e94_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0beaadb66c7b4b7482f281732a562e94_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>3.5. 什么是 spring 的内部 bean？<br/>只有将 bean 用作另一个 bean 的属性时，才能将 bean 声明为内部 bean。为了定义 bean，Spring 的基于 XML 的配置元数据在 &lt;property&gt; 或 &lt;constructor-arg&gt;中提供了 &lt;bean&gt; 元素的使用。内部 bean 总是匿名的，它们总是作为原型。<br/>例如，假设我们有一个 Student 类，其中引用了 Person 类。这里我们将只创建一个 Person 类实例并在 Student 中使用它。</p><blockquote>Student.java  public class Student {  private Person person;  //Setters and Getters  }  public class Person {  private String name;  private String address;  //Setters and Getters  }  bean.xml  &lt;bean id=“StudentBean&#34; class=&#34;com.edureka.Student&#34;&gt;  &lt;property name=&#34;person&#34;&gt;  &lt;!--This is inner bean --&gt;  &lt;bean class=&#34;com.edureka.Person&#34;&gt;  &lt;property name=&#34;name&#34; value=“Scott&#34;&gt;&lt;/property&gt;  &lt;property name=&#34;address&#34; value=“Bangalore&#34;&gt;&lt;/property&gt;  &lt;/bean&gt;  &lt;/property&gt;  &lt;/bean&gt;  </blockquote><p><br/>3.6. 什么是 spring 装配？<br/>当 bean 在 Spring 容器中组合在一起时，它被称为装配或 bean 装配。 Spring 容器需要知道需要什么 bean 以及容器应该如何使用依赖注入来将 bean 绑定在一起，同时装配 bean。<br/>3.7. 自动装配有哪些方式？<br/>Spring 容器能够自动装配 bean。也就是说，可以通过检查 BeanFactory 的内容让 Spring 自动解析 bean 的协作者。<br/>自动装配的不同模式：<br/></p><ul><li><b>no</b> - 这是默认设置，表示没有自动装配。应使用显式 bean 引用进行装配。</li><li><b>byName</b> - 它根据 bean 的名称注入对象依赖项。它匹配并装配其属性与 XML 文件中由相同名称定义的 bean。</li><li><b>byType</b> - 它根据类型注入对象依赖项。如果属性的类型与 XML 文件中的一个 bean 名称匹配，则匹配并装配属性。</li><li><b>构造函数</b> - 它通过调用类的构造函数来注入依赖项。它有大量的参数。</li><li><b>autodetect</b> - 首先容器尝试通过构造函数使用 autowire 装配，如果不能，则尝试通过 byType 自动装配。</li></ul><p>3.8. 自动装配有什么局限？<br/></p><ul><li>覆盖的可能性 - 您始终可以使用 &lt;constructor-arg&gt; 和 &lt;property&gt; 设置指定依赖项，这将覆盖自动装配。</li><li>基本元数据类型 - 简单属性（如原数据类型，字符串和类）无法自动装配。</li><li>令人困惑的性质 - 总是喜欢使用明确的装配，因为自动装配不太精确。</li></ul><p><br/>4、注解<br/>4.1. 什么是基于注解的容器配置？<br/>不使用 XML 来描述 bean 装配，开发人员通过在相关的类，方法或字段声明上使用注解将配置移动到组件类本身。它可以作为 XML 设置的替代方案。例如：<br/>Spring 的 Java 配置是通过使用 @Bean 和 @Configuration 来实现。<br/></p><ul><li>@Bean 注解扮演与</li><li>元素相同的角色。</li><li>@Configuration 类允许通过简单地调用同一个类中的其他 @Bean 方法来定义 bean 间依赖关系。</li></ul><p>例如：</p><blockquote>@Configuration  public class StudentConfig {  @Bean  public StudentBean myStudent() {  return new StudentBean();  }  }  </blockquote><p><br/>4.2. 如何在 spring 中启动注解装配？<br/>默认情况下，Spring 容器中未打开注解装配。因此，要使用基于注解装配，我们必须通过配置&lt;context：annotation-config /&gt; 元素在 Spring 配置文件中启用它。<br/>4.3. @Component, @Controller, @Repository, @Service 有何区别？<br/></p><ul><li>@Component：这将 java 类标记为 bean。它是任何 Spring 管理组件的通用构造型。spring 的组件扫描机制现在可以将其拾取并将其拉入应用程序环境中。</li><li>@Controller：这将一个类标记为 Spring Web MVC 控制器。标有它的 Bean 会自动导入到 IoC 容器中。</li><li>@Service：此注解是组件注解的特化。它不会对 @Component 注解提供任何其他行为。您可以在服务层类中使用 @Service 而不是 @Component，因为它以更好的方式指定了意图。</li><li>@Repository：这个注解是具有类似用途和功能的 @Component 注解的特化。它为 DAO 提供了额外的好处。它将 DAO 导入 IoC 容器，并使未经检查的异常有资格转换为 Spring DataAccessException。</li></ul><p>4.4. @Required 注解有什么用？<br/>@Required 应用于 bean 属性 setter 方法。此注解仅指示必须在配置时使用 bean 定义中的显式属性值或使用自动装配填充受影响的 bean 属性。如果尚未填充受影响的 bean 属性，则容器将抛出 BeanInitializationException。<br/>示例：</p><blockquote>public class Employee {  private String name;  @Required  public void setName(String name){  this.name=name;  }  public string getName(){  return name;  }  }  </blockquote><p><br/>4.5. @Autowired 注解有什么用？<br/>@Autowired 可以更准确地控制应该在何处以及如何进行自动装配。此注解用于在 setter 方法，构造函数，具有任意名称或多个参数的属性或方法上自动装配 bean。默认情况下，它是类型驱动的注入。</p><blockquote>public class Employee {  private String name;  @Autowired  public void setName(String name) {  this.name=name;  }  public string getName(){  return name;  }  }  </blockquote><p><br/>4.6. @Qualifier 注解有什么用？<br/>当您创建多个相同类型的 bean 并希望仅使用属性装配其中一个 bean 时，您可以使用@Qualifier 注解和 @Autowired 通过指定应该装配哪个确切的 bean 来消除歧义。<br/>例如，这里我们分别有两个类，Employee 和 EmpAccount。在 EmpAccount 中，使用@Qualifier 指定了必须装配 id 为 emp1 的 bean。</p><blockquote>Employee.java  public class Employee {  private String name;  @Autowired  public void setName(String name) {  this.name=name;  }  public string getName() {  return name;  }  }  EmpAccount.java  public class EmpAccount {  private Employee emp;  @Autowired  @Qualifier(emp1)  public void showName() {  System.out.println(“Employee name : ”+emp.getName);  }  }  </blockquote><p><br/>4.7. @RequestMapping 注解有什么用？<br/>@RequestMapping 注解用于将特定 HTTP 请求方法映射到将处理相应请求的控制器中的特定类/方法。此注释可应用于两个级别：<br/></p><ul><li>类级别：映射请求的 URL</li><li>方法级别：映射 URL 以及 HTTP 请求方法</li></ul><p><br/>5、数据访问<br/>5.1. spring DAO 有什么用？<br/>Spring DAO 使得 JDBC，Hibernate 或 JDO 这样的数据访问技术更容易以一种统一的方式工作。这使得用户容易在持久性技术之间切换。它还允许您在编写代码时，无需考虑捕获每种技术不同的异常。<br/>5.2. 列举 Spring DAO 抛出的异常。<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-417b5e60c104aefb664fd14e041583ca_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"454\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-417b5e60c104aefb664fd14e041583ca_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;454&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"454\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-417b5e60c104aefb664fd14e041583ca_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-417b5e60c104aefb664fd14e041583ca_b.jpg\"/></figure><p><br/>5.3. spring JDBC API 中存在哪些类？<br/></p><ul><li>JdbcTemplate</li><li>SimpleJdbcTemplate</li><li>NamedParameterJdbcTemplate</li><li>SimpleJdbcInsert</li><li>SimpleJdbcCall</li></ul><p>5.4. 使用 Spring 访问 Hibernate 的方法有哪些？<br/>我们可以通过两种方式使用 Spring 访问 Hibernate：<br/></p><ol><li>使用 Hibernate 模板和回调进行控制反转</li><li>扩展 HibernateDAOSupport 并应用 AOP 拦截器节点</li></ol><p>5.5. 列举 spring 支持的事务管理类型<br/>Spring 支持两种类型的事务管理：<br/></p><ol><li>程序化事务管理：在此过程中，在编程的帮助下管理事务。它为您提供极大的灵活性，但维护起来非常困难。</li><li>声明式事务管理：在此，事务管理与业务代码分离。仅使用注解或基于 XML 的配置来管理事务。</li></ol><p>5.6. spring 支持哪些 ORM 框架？<br/></p><ul><li>Hibernate</li><li>iBatis</li><li>JPA</li><li>JDO</li><li>OJB</li></ul><p><br/>6、AOP<br/>6.1. 什么是 AOP？<br/>AOP(Aspect-Oriented Programming), 即 <b>面向切面编程</b>, 它与 OOP( Object-Oriented Programming, 面向对象编程) 相辅相成, 提供了与 OOP 不同的抽象软件结构的视角.<br/>在 OOP 中, 我们以类(class)作为我们的基本单元, 而 AOP 中的基本单元是 <b>Aspect(切面)</b><br/>6.2. 什么是 Aspect？<br/>aspect 由 pointcount 和 advice 组成, 它既包含了横切逻辑的定义, 也包括了连接点的定义. Spring AOP 就是负责实施切面的框架, 它将切面所定义的横切逻辑编织到切面所指定的连接点中.<br/>AOP 的工作重心在于如何将增强编织目标对象的连接点上, 这里包含两个工作:<br/></p><ol><li>如何通过 pointcut 和 advice 定位到特定的 joinpoint 上</li><li>如何在 advice 中编写切面代码.</li></ol><p><b>可以简单地认为, 使用 @Aspect 注解的类就是切面.</b><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-5a29b949edf004877c4f4a9db0f9c136_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"454\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-5a29b949edf004877c4f4a9db0f9c136_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;454&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"454\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-5a29b949edf004877c4f4a9db0f9c136_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-5a29b949edf004877c4f4a9db0f9c136_b.jpg\"/></figure><p><br/>6.3. 什么是切点（JoinPoint）<br/>程序运行中的一些时间点, 例如一个方法的执行, 或者是一个异常的处理.<br/>在 Spring AOP 中, join point 总是方法的执行点。<br/>6.4. 什么是通知（Advice）？<br/>特定 JoinPoint 处的 Aspect 所采取的动作称为 Advice。Spring AOP 使用一个 Advice 作为拦截器，在 JoinPoint “周围”维护一系列的拦截器。<br/>6.5. 有哪些类型的通知（Advice）？<br/></p><ul><li><b>Before</b> - 这些类型的 Advice 在 joinpoint 方法之前执行，并使用 @Before 注解标记进行配置。</li><li><b>After Returning</b> - 这些类型的 Advice 在连接点方法正常执行后执行，并使用@AfterReturning 注解标记进行配置。</li><li><b>After Throwing</b> - 这些类型的 Advice 仅在 joinpoint 方法通过抛出异常退出并使用 @AfterThrowing 注解标记配置时执行。</li><li><b>After (finally)</b> - 这些类型的 Advice 在连接点方法之后执行，无论方法退出是正常还是异常返回，并使用 @After 注解标记进行配置。</li><li><b>Around</b> - 这些类型的 Advice 在连接点之前和之后执行，并使用 @Around 注解标记进行配置。</li></ul><p>6.6. 指出在 spring aop 中 concern 和 cross-cutting concern 的不同之处<br/>concern 是我们想要在应用程序的特定模块中定义的行为。它可以定义为我们想要实现的功能。<br/>cross-cutting concern 是一个适用于整个应用的行为，这会影响整个应用程序。例如，日志记录，安全性和数据传输是应用程序几乎每个模块都需要关注的问题，因此它们是跨领域的问题。<br/>6.7. AOP 有哪些实现方式<br/>实现 AOP 的技术，主要分为两大类：<br/></p><ul><li>静态代理 - 指使用 AOP 框架提供的命令进行编译，从而在编译阶段就可生成 AOP 代理类，因此也称为编译时增强；</li><li>编译时编织（特殊编译器实现）</li><li>类加载时编织（特殊的类加载器实现）。</li><li>动态代理 - 在运行时在内存中“临时”生成 AOP 动态代理类，因此也被称为运行时增强。</li><li>JDK 动态代理</li><li>CGLIB</li></ul><p>6.8. Spring AOP and AspectJ AOP 有什么区别？<br/>Spring AOP 基于动态代理方式实现；AspectJ 基于静态代理方式实现。<br/>Spring AOP 仅支持方法级别的 PointCut；提供了完全的 AOP 支持，它还支持属性级别的 PointCut。<br/>6.9. 如何理解 Spring 中的代理？<br/>将 Advice 应用于目标对象后创建的对象称为代理。在客户端对象的情况下，目标对象和代理对象是相同的。<br/>Advice + Target Object = Proxy<br/>6.10. 什么是编织（Weaving）？<br/>为了创建一个 advice 对象而链接一个 aspect 和其它应用类型或对象，称为编织（Weaving）。在 Spring AOP 中，编织在运行时执行。请参考下图：<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-69cc500cc7252591146b2c0dd325c0fc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"458\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb\" width=\"458\" data-original=\"https://pic1.zhimg.com/v2-69cc500cc7252591146b2c0dd325c0fc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;458&#39; height=&#39;180&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"458\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"458\" data-original=\"https://pic1.zhimg.com/v2-69cc500cc7252591146b2c0dd325c0fc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-69cc500cc7252591146b2c0dd325c0fc_b.jpg\"/></figure><p><br/><br/>7、MVC<br/>7.1. Spring MVC 框架有什么用？<br/>Spring Web MVC 框架提供 <b>模型-视图-控制器</b> 架构和随时可用的组件，用于开发灵活且松散耦合的 Web 应用程序。 MVC 模式有助于分离应用程序的不同方面，如输入逻辑，业务逻辑和 UI 逻辑，同时在所有这些元素之间提供松散耦合。<br/><b>7.2. 描述一下 DispatcherServlet 的工作流程</b><br/>DispatcherServlet 的工作流程可以用一幅图来说明：<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b0b19dc743627d63cf22e3a7e4e2d6ad_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"363\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-b0b19dc743627d63cf22e3a7e4e2d6ad_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;363&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"363\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic2.zhimg.com/v2-b0b19dc743627d63cf22e3a7e4e2d6ad_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b0b19dc743627d63cf22e3a7e4e2d6ad_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><ol><li>向服务器发送 HTTP 请求，请求被前端控制器 DispatcherServlet 捕获。</li><li>DispatcherServlet 根据 <b>-servlet.xml</b> 中的配置对请求的 URL 进行解析，得到请求资源标识符（URI）。然后根据该 URI，调用 HandlerMapping 获得该 Handler 配置的所有相关的对象（包括 Handler 对象以及 Handler 对象对应的拦截器），最后以HandlerExecutionChain 对象的形式返回。</li><li>DispatcherServlet 根据获得的Handler，选择一个合适的HandlerAdapter。（附注：如果成功获得HandlerAdapter后，此时将开始执行拦截器的 preHandler(...)方法）。</li><li>提取Request中的模型数据，填充Handler入参，开始执行Handler（Controller)。 在填充Handler的入参过程中，根据你的配置，Spring 将帮你做一些额外的工作：</li></ol><ul><li>HttpMessageConveter： 将请求消息（如 Json、xml 等数据）转换成一个对象，将对象转换为指定的响应信息。</li><li>数据转换：对请求消息进行数据转换。如String转换成Integer、Double等。</li><li>数据根式化：对请求消息进行数据格式化。 如将字符串转换成格式化数字或格式化日期等。</li><li>数据验证： 验证数据的有效性（长度、格式等），验证结果存储到BindingResult或Error中。</li></ul><ol><li>Handler(Controller)执行完成后，向 DispatcherServlet 返回一个ModelAndView 对象；</li><li>根据返回的ModelAndView，选择一个适合的 ViewResolver（必须是已经注册到 Spring 容器中的ViewResolver)返回给DispatcherServlet。</li><li>ViewResolver 结合Model和View，来渲染视图。</li><li>视图负责将渲染结果返回给客户端。</li></ol><p><b>7.3. 介绍一下 WebApplicationContext</b><br/>WebApplicationContext 是 ApplicationContext 的扩展。它具有 Web 应用程序所需的一些额外功能。它与普通的 ApplicationContext 在解析主题和决定与哪个 servlet 关联的能力方面有所不同。</p>", 
+            "topic": [
+                {
+                    "tag": "Spring", 
+                    "tagLink": "https://api.zhihu.com/topics/19599516"
+                }, 
+                {
+                    "tag": "Java", 
+                    "tagLink": "https://api.zhihu.com/topics/19561132"
+                }, 
+                {
+                    "tag": "面试问题", 
+                    "tagLink": "https://api.zhihu.com/topics/19591867"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1012352217390727168"
+}

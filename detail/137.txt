@@ -1,0 +1,501 @@
+{
+    "title": "我是大缺弦", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/li-hang-25-21", 
+        "https://www.zhihu.com/people/hong-song-hong-86", 
+        "https://www.zhihu.com/people/lifeifei-49", 
+        "https://www.zhihu.com/people/liu-dun-qiang-11", 
+        "https://www.zhihu.com/people/song-xiao-fan", 
+        "https://www.zhihu.com/people/cao-ji-49-42", 
+        "https://www.zhihu.com/people/cai-lin-jin", 
+        "https://www.zhihu.com/people/chris-stoughton", 
+        "https://www.zhihu.com/people/yann-timberlake", 
+        "https://www.zhihu.com/people/visomsucker", 
+        "https://www.zhihu.com/people/swepthong", 
+        "https://www.zhihu.com/people/stephen-lu-21", 
+        "https://www.zhihu.com/people/li-xian-tang-51", 
+        "https://www.zhihu.com/people/mi-ze-shuang", 
+        "https://www.zhihu.com/people/liu-guan-shi-9", 
+        "https://www.zhihu.com/people/ni-fu-qin-56", 
+        "https://www.zhihu.com/people/chen-fu-duo-98", 
+        "https://www.zhihu.com/people/yang-pei-wen-22", 
+        "https://www.zhihu.com/people/niu-ba-84", 
+        "https://www.zhihu.com/people/ackerkwok", 
+        "https://www.zhihu.com/people/senflyboy", 
+        "https://www.zhihu.com/people/litelu", 
+        "https://www.zhihu.com/people/gan-you-wu-wu", 
+        "https://www.zhihu.com/people/an-dong-ni-35-74", 
+        "https://www.zhihu.com/people/wu-chun-sheng-71", 
+        "https://www.zhihu.com/people/chen-jia-qi-59-57", 
+        "https://www.zhihu.com/people/tian-wang-82", 
+        "https://www.zhihu.com/people/cai-60", 
+        "https://www.zhihu.com/people/liuqixuan", 
+        "https://www.zhihu.com/people/shui-zhi-qing-ze-wu-yun", 
+        "https://www.zhihu.com/people/jenifer-yao", 
+        "https://www.zhihu.com/people/da-xiong-33", 
+        "https://www.zhihu.com/people/yuan-hao-80-83", 
+        "https://www.zhihu.com/people/lovecraft", 
+        "https://www.zhihu.com/people/za-jia-han-ma-gan", 
+        "https://www.zhihu.com/people/li-yan-lin-7", 
+        "https://www.zhihu.com/people/eric-3-92", 
+        "https://www.zhihu.com/people/JackLi1115"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/56376295", 
+            "userName": "大缺弦", 
+            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+            "upvote": 21, 
+            "title": "Android NNAPI 即将在 Android Q 迎来大更新", 
+            "content": "<p>感谢 <a class=\"member_mention\" href=\"https://www.zhihu.com/people/4ef2bd5152ba312925032f72404b5a94\" data-hash=\"4ef2bd5152ba312925032f72404b5a94\" data-hovercard=\"p$b$4ef2bd5152ba312925032f72404b5a94\">@Siemon</a> 一起润色和补充这篇文章！ </p><p>---------------------</p><p>2017 年年底的时候，Android 8.1 推出了集成于 Android 系统内的神经网络 API，当时我很快做了一个封装库，也写了一篇专栏 <a href=\"https://zhuanlan.zhihu.com/p/30926958\" class=\"internal\">大缺弦：Android 8.1 NNAPI 评测以及可能是全球第一个的 NNAPI 库</a></p><p>一年多过去了，Android 模型部署也有了巨大的变化，<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Tencent/ncnn\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ncnn</a> 继续活跃的维护，加入了 int8 和 vulkan 的支持，大量的新框架例如 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/Tencent/FeatherCNN\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">FeatherCNN</a> 和 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/XiaoMi/mace\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Mace</a> 也产生了。另一方面，NPU 越来越火热，几乎成为了每一款新手机芯片的标配。</p><p>与 iOS 端模型部署早早被 iOS 内置的 CoreML 统一不同，Android 内置的 NNAPI 因为 Android 系统的碎片化，普及的进度要慢很多，但也有越来越多的设备为 NNAPI 提供额外支持，例如 <a href=\"https://link.zhihu.com/?target=http%3A//en.t-firefly.com/news/info/index/id/516.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">RK3399</a>、<a href=\"https://link.zhihu.com/?target=https%3A//www.anandtech.com/show/13503/the-mate-20-mate-20-pro-review/4\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Huawei Mate 20</a> 等等（在这些设备上 NNAPI 可以调用 GPU 或 NPU）。</p><p>令人激动的是，根据 <a href=\"https://link.zhihu.com/?target=https%3A//android.googlesource.com/platform/frameworks/ml/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">AOSP 最新的源码</a>，今年即将随 Android Q 推出的 NNAPI 1.2 有非常多的重量级更新，增加了很多 operations（包括 detection、keypoint 领域需要的 operations）、有了更好的 NPU 支持、新的量化方式、float16、NCHW layout 等等。</p><p><b>新增的 operations</b></p><p>NNAPI 1.0 有 29 个 operations，NNAPI 1.1 有 38 个，而 NNAPI 1.2 有 94 个，新增了 56 个 operations，增加了一倍还多。</p><p>新增的 operations 包括 GREATER、LOGICAL_AND、MINIMUM、REDUCE_ANY、SELECT 这些通用操作，还包括为检测网络准备的  BOX_WITH_NMS_LIMIT、ROI_ALIGN、ROI_POOLING 和 GENERATE_PROPOSALS，为 keypoint 准备的 HEATMAP_MAX_KEYPOINT， shufflenet 必需的 CHANNEL_SHUFFLE、GROUP_CONV 等等。</p><p>因此在 Android Q 里，NNAPI 的表达能力将会获得极大的提升，原先 NNAPI 只能支持普通的分类网络和部分分割网络，加入这许多的新 operations 之后，Faster R-CNN、Mask R-CNN、ShuffleNet 这些网络都可以支持了。</p><p><b>更好的 NPU 支持</b></p><p>NPU 越来越火热，Kirin 970、Snapdragon 855 等等芯片都集成了 NPU 或类似的加速芯片。NNAPI 从推出时就宣称可以在 CPU、GPU、DSP 上运行，但开发者却无法查看和指定模型运行在什么设备上。我在 Google Pixel 2 上测试时，发现尽管 Pixel 2 有类似于 NPU 的 Vision Core，但实际上仍只有 CPU 可以被使用。</p><p>NNAPI 1.2 在这一点上有重大的更新，它新增了一个 ANeuralNetworksDevice 类，表示每个支持 NNAPI 的设备，并分为 UNKNOWN、OTHER、CPU、GPU、ACCELERATOR 几类，还有 getSupportedOperationsForDevices、getVersion、getFeatureLevel 等等细粒度的接口。开发者可以判断设备是否支持给定的模型，也可以指定模型在哪几个设备上运行。这对融合日渐火热的 NPU 生态非常重要。</p><p><b>新的量化方法</b></p><p>NNAPI 从 1.0 版本开始就支持 int8 量化。int8 量化是将原先由浮点数表示的权重和中间特征替换成 8-bit 的整数格式，将 float32 运算替换为 int8 运算，这样减小了内存访问量，也能一次计算更多组数据，所以会大大加速模型的运行速度。但具体如何描述 float 和 8-bit integer 之间的映射关系则有不同的手段，TensorFlow/TensorFlow Lite 一直使用的是包含 zero point 的非对称量化方式，</p><p><img src=\"https://www.zhihu.com/equation?tex=real%5C_value+%3D+%28integer%5C_value+-+zero%5C_point%29+%2A+scale\" alt=\"real\\_value = (integer\\_value - zero\\_point) * scale\" eeimg=\"1\"/> </p><p>，<a href=\"https://link.zhihu.com/?target=http%3A//openaccess.thecvf.com/content_cvpr_2018/papers/Jacob_Quantization_and_Training_CVPR_2018_paper.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这篇 Google 的 paper</a> 有详细的描述，<a href=\"https://link.zhihu.com/?target=http%3A//on-demand.gputechconf.com/gtc/2017/presentation/s7310-8-bit-inference-with-tensorrt.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Tensor RT</a> 使用的是不含 zero point 的对称量化，</p><p><img src=\"https://www.zhihu.com/equation?tex=real%5C_value+%3D+integer%5C_value+%2A+scale\" alt=\"real\\_value = integer\\_value * scale\" eeimg=\"1\"/> </p><p>对称量化因为不含涉及到 zero point 的计算，速度会稍快一些。</p><p>NNAPI 1.2 也支持了这种对称量化方式，不过 NNAPI 的实现只会包含某种量化方法下的具体运算的实现，至于如何获取每个 8-bit tensor 的 scale 和 zero point 就需要上游的库的配合，例如 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/daquexian/DNNLibrary/wiki/Quantization\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">DNNLibrary</a> 提供了一个脚本生成非对称量化需要的 scale 和 zero point</p><p>此外，NNAPI 1.2 也加入了对分通道量化的支持，即每个通道都有一个自己的 scale，而不是整个 tensor 使用同一个 scale，在这种分通道的情况下 float 和 int8 之间的映射会更精确，量化模型的准确率也就会更高一些。</p><p><b>其它的新变化</b></p><p>除了上面说到的之外，NNAPI 1.2 还有更多其它的更新：</p><ol><li>增加了 TENSOR_FLOAT16 和 FLOAT16 数据类型。float16 相比 float32 既不会损失太多精度，也有很大的加速，但只有 ARM8.2-A 以上的新 ARM 架构才能使用 float16 格式进行计算。NNAPI 1.1 中，开发者可以指定是否允许浮点数以 float16 的精度计算，<a href=\"https://link.zhihu.com/?target=https%3A//www.anandtech.com/show/13503/the-mate-20-mate-20-pro-review/4\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">允许 float16 的精度对某些芯片的加速效果明显</a>。NNAPI 1.2 加入了两个 float16 的数据类型，许多 operations 也做了相应的更新，意味着 NNAPI 对 float16 有了更多的支持。不过需要指出的是 Android 自带的 NNAPI 实现里，对 float16 的数据会转回 float32 进行计算，计算完成再转回 float16（因为大部分芯片不支持 float16 计算），反而会比 float32 慢，所以建议只在支持 float16 计算的设备上使用 float16 数据类型</li><li>支持了 NCHW 数据布局。NNAPI 1.1 中，只有 NHWC 数据布局是被支持的，而大部分训练框架常用的是 NCHW 布局。NNAPI 1.2 支持了 NCHW，开发者可以自行选择数据布局。</li></ol><p><b>结尾</b></p><p>如此多的更新是非常令人激动的，有理由相信 NPU 越来越普及之后，NNAPI 将成为 Android 上部署模型的重要选择之一——让开发者去逐个适配不同厂商的 NPU 显然是费时费力又不聪明的办法。</p><p>此外，我的 Android NNAPI 封装库 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/JDAI-CV/DNNLibrary\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">DNNLibrary</a> 今天从我的个人 GitHub 账号 transfer 到<a href=\"https://link.zhihu.com/?target=https%3A//github.com/JDAI-CV\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">我们部门（JDAI Computer Vision）的 GitHub 账号</a>下了。DNNLibrary 支持 onnx 模型，可以弥补 TensorFlow Lite 只能使用 TensorFlow 模型的空缺，并且支持了一些 TensorFlow Lite 在开启 NNAPI 时无法使用的操作（例如 dilated conv 和 prelu），日前也加入了对 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/JDAI-CV/DNNLibrary/wiki/Quantization\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">8-bit 量化</a> 的支持，DNNLibrary 会第一时间跟进本文所介绍的 NNAPI 1.2 中的新功能，欢迎持续关注和试用 :)</p><p>以及，有一个 DNNLibrary &amp; NNAPI 交流群，欢迎 DNNLibrary 用户或者对 NNAPI 有兴趣的小伙伴加入 QAQ，群号 948989771，入群答案：哈哈哈哈</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4822819debdf06dfa805e7a1813d9972_b.jpg\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"740\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic3.zhimg.com/v2-4822819debdf06dfa805e7a1813d9972_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;540&#39; height=&#39;740&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"740\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"540\" data-original=\"https://pic3.zhimg.com/v2-4822819debdf06dfa805e7a1813d9972_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4822819debdf06dfa805e7a1813d9972_b.jpg\"/><figcaption>dnnlibrary &amp;amp;amp;amp;amp;amp; NNAPI 交流 QQ 群二维码</figcaption></figure><p>和一个纯讨论 Android NNAPI 的微信群：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-84b731530cd1a455bdbcb2884566ca52_b.jpg\" data-size=\"normal\" data-rawwidth=\"861\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"861\" data-original=\"https://pic3.zhimg.com/v2-84b731530cd1a455bdbcb2884566ca52_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;861&#39; height=&#39;1280&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"861\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"861\" data-original=\"https://pic3.zhimg.com/v2-84b731530cd1a455bdbcb2884566ca52_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-84b731530cd1a455bdbcb2884566ca52_b.jpg\"/><figcaption>NNAPI 交流微信群二维码</figcaption></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "Android", 
+                    "tagLink": "https://api.zhihu.com/topics/19603145"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "圈圈虫", 
+                    "userLink": "https://www.zhihu.com/people/647087f95394a5f589bf72bf3edcb44f", 
+                    "content": "<p>分通道量化，目前TensorRT的实现中，只是weight基于outch进行了分通道量化，bottom blob只使用一个scale。</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "圈圈虫", 
+                    "userLink": "https://www.zhihu.com/people/647087f95394a5f589bf72bf3edcb44f", 
+                    "content": "<p>分通道量化，目前TensorRT的实现中，只是weight基于outch进行了分通道量化，bottom blob只使用一个scale。</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "大缺弦", 
+                            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+                            "content": "向虫叔学习", 
+                            "likes": 1, 
+                            "replyToAuthor": "圈圈虫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "欧丁之矛", 
+                    "userLink": "https://www.zhihu.com/people/0dfe0bcc74062d5373295b04a43b2c8a", 
+                    "content": "从朋友圈赶来给大佬点赞", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Q2019", 
+                    "userLink": "https://www.zhihu.com/people/ceba255ab1c314a7883343b3800adb06", 
+                    "content": "<p>二维码过期了</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "大缺弦", 
+                            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+                            "content": "加我微信好友吧~ 我的 id 是 daquexian", 
+                            "likes": 0, 
+                            "replyToAuthor": "Q2019"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/56387422", 
+            "userName": "大缺弦", 
+            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+            "upvote": 2, 
+            "title": "DNNLibrary 支持量化了", 
+            "content": "<p></p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/daquexian/DNNLibrary/wiki/Quantization\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-34a8386fbd4bb2a1f35d8cc2df226916_ipico.jpg\" data-image-width=\"128\" data-image-height=\"128\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">daquexian/DNNLibrary</a><p>DNNLibrary 发布了 0.6.10 版，支持了 Android NNAPI 的 QUANT8_ASYMM 类型（也就是 int8 需要的数据类型），并且给出了一个把一个普通的预训练模型转换成 int8 模型的脚本</p><p>生成 int8 模型只需两步：</p><ol><li>用 <a href=\"https://link.zhihu.com/?target=http%3A//quant.py\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">quant.py</a> 在一个数据集上跑一下，收集相关数据，生成一个包含 scale 和 zero point 的文本文件和一个存储了量化权重 onnx 模型</li></ol><p>2. 然后在用 onnx2daq 把上一步产生的文本文件和 onnx 模型转换成 DNNLibrary 的 daq 模型</p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/daquexian/dnnlibrary-example\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">dnnlibrary-example</a> 有使用 int8 模型的例子</p><p>量化功能还处在初步阶段，还没有正式测试过准确率，欢迎各种尝试和体验，我也会根据反馈不断迭代</p><p>另外今年即将推出的 Android Q 会新增新的量化方法，DNNLibrary 也会第一时间跟进</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "Android", 
+                    "tagLink": "https://api.zhihu.com/topics/19603145"
+                }, 
+                {
+                    "tag": "意识", 
+                    "tagLink": "https://api.zhihu.com/topics/19564106"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "神经网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19607065"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "烟花长安", 
+                    "userLink": "https://www.zhihu.com/people/ec2a264f7f79f6a12ae20377460ad237", 
+                    "content": "此处应该有虫叔", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "大缺弦", 
+                            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+                            "content": "虫叔已经赞了", 
+                            "likes": 0, 
+                            "replyToAuthor": "烟花长安"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "圈圈虫", 
+                    "userLink": "https://www.zhihu.com/people/647087f95394a5f589bf72bf3edcb44f", 
+                    "content": "<p>Android Q 会新增新的量化方法是神马呀</p><a class=\"comment_sticker\" href=\"https://pic1.zhimg.com/v2-12562ad40366818a1ea39bcecb2599a0.gif\" data-width=\"\" data-height=\"\">[害羞]</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30926958", 
+            "userName": "大缺弦", 
+            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+            "upvote": 142, 
+            "title": "Android 8.1 NNAPI 评测以及可能是全球第一个的 NNAPI 库", 
+            "content": "<p>Android Q 更新：<a href=\"https://zhuanlan.zhihu.com/p/56376295\" class=\"internal\">大缺弦：Android NNAPI 即将在 Android Q 迎来大更新</a></p><p>DNNLibrary 重构了一波，现在支持 onnx 模型，放弃了原先对 caffe 模型的支持。</p><p>GitHub：<a href=\"https://link.zhihu.com/?target=https%3A//github.com/daquexian/DNNLibrary\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">DNNLibrary</a>，欢迎 star，更欢迎 issue 以及 PR。 </p><p>---------- 谷粉的分割线 ----------</p><p>十几天前更新的 Android 8.1 Preview 引入了传说中的神经网络 API —— NNAPI。近几年来深度学习正在进入各行各业，机器翻译、自动美颜等等的背后都可能有深度学习的支持，目前为止大部分的深度学习任务都在云端进行，但在手机上直接运行神经网络的好处是显而易见的，可以避免对网络的依赖，也省去网络传输的延迟，今年在手机上装备的专用于神经网络的各种 XPU 也说明了这一点。</p><p>几个月前，想要在手机上运行神经网络，不管是 iOS 还是 Android，都要求助于各种第三方库，它们通常配置起来并不方便，专门针对手机做优化的也十分稀少（<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Tencent/ncnn\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ncnn</a> 是十分良心的一个）。然而苹果和谷歌都已经认识到了在手机上运行神经网络的重要性，纷纷亲自下场，推出了自己的神经网络框架——苹果在 WWDC 2017 上推出了 iOS 11 上的神经网络框架 <a href=\"https://link.zhihu.com/?target=https%3A//developer.apple.com/videos/play/wwdc2017/703/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Core ML</a>，Google 在十几天前也推出了集成于 Android 8.1 的 NNAPI（介绍戳<a href=\"https://link.zhihu.com/?target=https%3A//developer.android.com/ndk/guides/neuralnetworks/index.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这里</a>）。</p><p>据官方的文档，NNAPI 会尝试调用各种硬件——包括 CPU，GPU，DSP 以及专用芯片，在只能使用 CPU 的时候，会退而求其次在 CPU 上执行经过优化后的代码。不知道对其他手机是否有足够的普适性，不过这至少对亲儿子 Pixel 来说是一个福音——Google 拒绝在亲儿子上支持 OpenCL，因此许多宣称支持手机 GPU 的神经网络框架，例如 <a href=\"https://link.zhihu.com/?target=https%3A//developer.qualcomm.com/software/snapdragon-neural-processing-engine\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">SNPE</a> 和 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/BVLC/caffe/tree/opencl\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">clcaffe</a>，都在亲儿子上无能为力。</p><p>我做过一些 Android 开发方面的项目（可以戳我的 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/daquexian\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">GitHub</a>），在 MSRA 打杂的期间也接触了许多神经网络的知识。于是我偷偷在上班期间以及利用这两天的周末时间做了一个拿来即用的 NNAPI 封装库并开源在 GitHub： <a href=\"https://link.zhihu.com/?target=https%3A//github.com/daquexian/DNNLibrary\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Daquexian&#39;s NNAPI Library</a>，简称 DNNLibrary， 和一个把 caffemodel 转成可以被我的 NNAPI 库使用的格式的 <a href=\"https://link.zhihu.com/?target=https%3A//github.com/daquexian/DNNConvertTool\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">转换工具</a>。</p><p>于是我使用自己的封装库对 NNAPI 做了一些评测，结果非常令人满意，</p><ol><li>NNAPI 支持 in-place 计算，即输出和输入指向同一块内存，但当有连续多个 in-place 的操作的时候，计算的顺序是后添加的操作先执行，即当输入为 2，依次添加 +2 和 *2 操作之后，运算结果是 6，如果依次添加 *2 和 +2 结果是 8。</li><li>NNAPI 的速度很快。224 * 224 的输入，20 个 5 * 5 kernel 组成的卷积，在我的 Pixel 上使用 caffe-android-lib 连续计算 100 次，平均时间是 43.42ms，最短时间 18.70ms，而 NNAPI 的平均时间是 15.45ms，最短时间 11.51ms。平均时间是 caffe-android-lib 的约三分之一。</li><li>针对移动设备上常用的操作，NNAPI 做了一些优化。经常用 caffe 的炼丹师应该知道，depthwise convolution 理论上可以在准确率不下降太多的情况下令网络减小数倍的计算量，所以非常适用于移动端，但在 caffe 上的实际表现和论文中相差很远，因为 caffe 中的 depthwise conv 没有专门的实现，而只是碰巧存在一个可以实现 depthwise conv 效果的参数。而据我的实验，针对于 Android 设备的 NNAPI 对 depthwise convolution 是做了优化的。在我的实验中，224 * 224 * 20 的输入，5 * 5 kernel 的 depthwise conv 在 caffe-android-lib 中运行 100 次的平均时间是 82.32ms，而 NNAPI 的平均时间是 16.93ms，只有五分之一左右。</li></ol><p>考虑到 NNAPI 现在还只是在测试阶段，能有这样的性能是十分令人高兴的，有理由期望在进入正式版后会有进一步的性能提升。</p><p>并且我有一些个人的展望，现在有许多支持移动端的神经网络框架，但最终一定大家都会使用苹果和谷歌自己的框架/API，理由很明显，对开发者来说，它们内置于系统，需要的第三方依赖少，CoreML 甚至得到了 IDE 的支持，对用户来说，app 的体积会有所减小，“官方”的框架的计算速度也会比第三方框架快——苹果和谷歌的开发实力还是值得相信的，何况连操作系统都是自家的。</p><p>---------- 谷粉的分割线 ----------</p><p>接下来介绍一下自己的 DNNLibrary 库，花时间写这个库的原因是这个技能树和我有一点搭，并且，CoreML 推出之后 iOS 开发者们都积极响应，而 NNAPI 推出之后，除了科技媒体发了文章之外，没有哪个开发者跟进（根据我的搜索结果这大概是本星球第一篇关于 NNAPI 的评测）。可能有 NNAPI 还只能在大部分人都还不能升级的测试版系统上运行的原因（但是也可以用模拟器），也有长期以来 Android 设备缓慢的系统更新速度使得开发者们对 NNAPI 短期之内的应用不抱太大希望的原因（我还发现了一个 <a href=\"https://link.zhihu.com/?target=https%3A//issuetracker.google.com/issues/68413544\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">NNAPI 的 bug</a>，不知道解决方法的话就无法编译，也许这也是一个原因）。但是我相信它是未来。</p><p>DNNLibrary 可以直接读取转换后的模型文件，并且根据模型文件自动搭好网络、填好权重，并且提供简洁的接口。一个使用 NNAPI 进行手写数字识别的 Demo 截图如下（使用在 MNIST 上训练的 LeNet 的权重）：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-95c6f2a4b45e633b865a28fab9cb08d8_b.jpg\" data-size=\"normal\" data-rawwidth=\"378\" data-rawheight=\"672\" class=\"content_image\" width=\"378\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;378&#39; height=&#39;672&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"378\" data-rawheight=\"672\" class=\"content_image lazy\" width=\"378\" data-actualsrc=\"https://pic1.zhimg.com/v2-95c6f2a4b45e633b865a28fab9cb08d8_b.jpg\"/><figcaption>读取图片并识别数字</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-0eee20ab0ebd2c737f751af341873d72_b.jpg\" data-size=\"normal\" data-rawwidth=\"378\" data-rawheight=\"672\" class=\"content_image\" width=\"378\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;378&#39; height=&#39;672&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"378\" data-rawheight=\"672\" class=\"content_image lazy\" width=\"378\" data-actualsrc=\"https://pic3.zhimg.com/v2-0eee20ab0ebd2c737f751af341873d72_b.jpg\"/><figcaption>从摄像头图像中识别数字</figcaption></figure><p>还有在手机上跑 ResNet-18 进行图像识别：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ac3d73e67e8c346caf95addd66c29f70_b.jpg\" data-size=\"normal\" data-rawwidth=\"378\" data-rawheight=\"672\" class=\"content_image\" width=\"378\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;378&#39; height=&#39;672&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"378\" data-rawheight=\"672\" class=\"content_image lazy\" width=\"378\" data-actualsrc=\"https://pic1.zhimg.com/v2-ac3d73e67e8c346caf95addd66c29f70_b.jpg\"/><figcaption>ResNet-18</figcaption></figure><p>还有一个配套的转换工具，把训练好的 caffemodel 转换成 DNNLibrary 的格式。</p><p>详情欢迎戳 GitHub，觉得值得一个 star 的话给一个 star 就更好了：</p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/daquexian/DNNLibrary\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">DNNLibrary</a></p><p>此外，这个东西是我这几天在上班时间偷偷做的，现在还有不少层和属性没有支持，但大概接下来不会有很多时间维护，所以欢迎 PR，欢迎 PR，欢迎 PR</p>", 
+            "topic": [
+                {
+                    "tag": "Android", 
+                    "tagLink": "https://api.zhihu.com/topics/19603145"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "小智的皮神", 
+                    "userLink": "https://www.zhihu.com/people/bceaa3676ca89e44ec8e2dccd398ad6b", 
+                    "content": "前排沙发（", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "圈圈虫", 
+                    "userLink": "https://www.zhihu.com/people/647087f95394a5f589bf72bf3edcb44f", 
+                    "content": "厉害了，有没有直接单核跑squeezenet的评测呀？更直观些", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "大缺弦", 
+                            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+                            "content": "<p>等我有空吧&gt;_&lt; 最近该赶紧干工作的事情了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "圈圈虫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "德川家康薛定谔", 
+                    "userLink": "https://www.zhihu.com/people/3d1e8ce4b777c3c139e9792c53f9c10d", 
+                    "content": "<p>厉害了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "陈洪锐", 
+                    "userLink": "https://www.zhihu.com/people/7db1fe3ce1c0a89f81b664fb3b8e6305", 
+                    "content": "<p>不错啊，支持，就是现在这种Android 5.x-6.x占多数的环境下，不知道能用上要过几年。。。。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "nekocode", 
+                    "userLink": "https://www.zhihu.com/people/f831ab5871ee8baa46770ed7728ab0cd", 
+                    "content": "上班时间偷偷做哈哈哈", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Monkana王珮竹", 
+                    "userLink": "https://www.zhihu.com/people/85b1841d3e4c973b21c38eff5dba0df5", 
+                    "content": "加油💪 支持你。在我看来你一直都是一个专心聪明的人，不管做哪方面都能很优秀。哈哈哈你现在已经是一个很棒的计算机大神了，希望看到你更多的专栏和新的想法～", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "NOspy", 
+                    "userLink": "https://www.zhihu.com/people/0d8da6356ac4454985f6ad6fdcf7dd5e", 
+                    "content": "老板:等下到我办公室来", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Nafix", 
+                    "userLink": "https://www.zhihu.com/people/6bfcab671aa7a6d25e064aad3ec2b941", 
+                    "content": "厉害了，我觉得OK 毕业答辩拿来玩玩", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "愤怒的泡面", 
+                    "userLink": "https://www.zhihu.com/people/d2ffc0b141affc7d146b81ef0e51f793", 
+                    "content": "<p>告诉你老板了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "大缺弦", 
+                    "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+                    "content": "<p>楼上的各位预言成真了，刚刚分享到朋友圈已经被 mentor 看到了</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Monkana王珮竹", 
+                            "userLink": "https://www.zhihu.com/people/85b1841d3e4c973b21c38eff5dba0df5", 
+                            "content": "哈哈哈哈哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "大缺弦"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "王汪", 
+                    "userLink": "https://www.zhihu.com/people/eb8f128004f27c3f1254edfd32d9d41d", 
+                    "content": "听说ncnn已经内部不维护了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "大缺弦", 
+                            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+                            "content": "并没有不维护，ncnn 作者很上心，还经常在群里和大家交流", 
+                            "likes": 0, 
+                            "replyToAuthor": "王汪"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Ryan-0x2", 
+                    "userLink": "https://www.zhihu.com/people/0bbfc77afe4c820bc372a45297637db4", 
+                    "content": "然而，进入大陆还是一样糟阉割", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Alex.inc", 
+                    "userLink": "https://www.zhihu.com/people/064e1e436f17d23107a559f12045e1e1", 
+                    "content": "太厉害了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "proud的C语言", 
+                    "userLink": "https://www.zhihu.com/people/f849b6e14f145f4a5828af895d779931", 
+                    "content": "行了，坐等开源", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "大缺弦", 
+                            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+                            "content": "我的封装库已经开源了，链接在文章里有，求 star 🙈", 
+                            "likes": 0, 
+                            "replyToAuthor": "proud的C语言"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "小康同学", 
+                    "userLink": "https://www.zhihu.com/people/82f6806314db9e09177d590b7690fccd", 
+                    "content": "不明觉厉", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "RanRanRan", 
+                    "userLink": "https://www.zhihu.com/people/418babcf99290c38e2f5fc85dd6e90d7", 
+                    "content": "<p>哈哈哈谢谢大佬，看了下你的代码，终于明白我的代码为什么不能运行了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "法兰西第一藏剑", 
+                    "userLink": "https://www.zhihu.com/people/4e747a41e79d5cb5e7c1a335b613b92b", 
+                    "content": "马克支持下！如果有常用网络对比就更好了！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "风兮雨兮", 
+                    "userLink": "https://www.zhihu.com/people/273db3e2002150756452464d0304ef6b", 
+                    "content": "<p>其实并不是Google拒绝在Pixel上支持OPENCL，而是高通的处理器GPU并不支持OOPENCL。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "小智的皮神", 
+                    "userLink": "https://www.zhihu.com/people/bceaa3676ca89e44ec8e2dccd398ad6b", 
+                    "content": "前排沙发（", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "圈圈虫", 
+                    "userLink": "https://www.zhihu.com/people/647087f95394a5f589bf72bf3edcb44f", 
+                    "content": "厉害了，有没有直接单核跑squeezenet的评测呀？更直观些", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "大缺弦", 
+                            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+                            "content": "<p>等我有空吧&gt;_&lt; 最近该赶紧干工作的事情了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "圈圈虫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "德川家康薛定谔", 
+                    "userLink": "https://www.zhihu.com/people/3d1e8ce4b777c3c139e9792c53f9c10d", 
+                    "content": "<p>厉害了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "陈洪锐", 
+                    "userLink": "https://www.zhihu.com/people/7db1fe3ce1c0a89f81b664fb3b8e6305", 
+                    "content": "<p>不错啊，支持，就是现在这种Android 5.x-6.x占多数的环境下，不知道能用上要过几年。。。。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "nekocode", 
+                    "userLink": "https://www.zhihu.com/people/f831ab5871ee8baa46770ed7728ab0cd", 
+                    "content": "上班时间偷偷做哈哈哈", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Monkana王珮竹", 
+                    "userLink": "https://www.zhihu.com/people/85b1841d3e4c973b21c38eff5dba0df5", 
+                    "content": "加油💪 支持你。在我看来你一直都是一个专心聪明的人，不管做哪方面都能很优秀。哈哈哈你现在已经是一个很棒的计算机大神了，希望看到你更多的专栏和新的想法～", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "NOspy", 
+                    "userLink": "https://www.zhihu.com/people/0d8da6356ac4454985f6ad6fdcf7dd5e", 
+                    "content": "老板:等下到我办公室来", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Nafix", 
+                    "userLink": "https://www.zhihu.com/people/6bfcab671aa7a6d25e064aad3ec2b941", 
+                    "content": "厉害了，我觉得OK 毕业答辩拿来玩玩", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "愤怒的泡面", 
+                    "userLink": "https://www.zhihu.com/people/d2ffc0b141affc7d146b81ef0e51f793", 
+                    "content": "<p>告诉你老板了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "大缺弦", 
+                    "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+                    "content": "<p>楼上的各位预言成真了，刚刚分享到朋友圈已经被 mentor 看到了</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Monkana王珮竹", 
+                            "userLink": "https://www.zhihu.com/people/85b1841d3e4c973b21c38eff5dba0df5", 
+                            "content": "哈哈哈哈哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "大缺弦"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "王汪", 
+                    "userLink": "https://www.zhihu.com/people/eb8f128004f27c3f1254edfd32d9d41d", 
+                    "content": "听说ncnn已经内部不维护了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "大缺弦", 
+                            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+                            "content": "并没有不维护，ncnn 作者很上心，还经常在群里和大家交流", 
+                            "likes": 0, 
+                            "replyToAuthor": "王汪"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Ryan-0x2", 
+                    "userLink": "https://www.zhihu.com/people/0bbfc77afe4c820bc372a45297637db4", 
+                    "content": "然而，进入大陆还是一样糟阉割", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Alex.inc", 
+                    "userLink": "https://www.zhihu.com/people/064e1e436f17d23107a559f12045e1e1", 
+                    "content": "太厉害了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "proud的C语言", 
+                    "userLink": "https://www.zhihu.com/people/f849b6e14f145f4a5828af895d779931", 
+                    "content": "行了，坐等开源", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "大缺弦", 
+                            "userLink": "https://www.zhihu.com/people/33295f2791c588f9df071dddb701278a", 
+                            "content": "我的封装库已经开源了，链接在文章里有，求 star 🙈", 
+                            "likes": 0, 
+                            "replyToAuthor": "proud的C语言"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "小康同学", 
+                    "userLink": "https://www.zhihu.com/people/82f6806314db9e09177d590b7690fccd", 
+                    "content": "不明觉厉", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "RanRanRan", 
+                    "userLink": "https://www.zhihu.com/people/418babcf99290c38e2f5fc85dd6e90d7", 
+                    "content": "<p>哈哈哈谢谢大佬，看了下你的代码，终于明白我的代码为什么不能运行了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "法兰西第一藏剑", 
+                    "userLink": "https://www.zhihu.com/people/4e747a41e79d5cb5e7c1a335b613b92b", 
+                    "content": "马克支持下！如果有常用网络对比就更好了！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "风兮雨兮", 
+                    "userLink": "https://www.zhihu.com/people/273db3e2002150756452464d0304ef6b", 
+                    "content": "<p>其实并不是Google拒绝在Pixel上支持OPENCL，而是高通的处理器GPU并不支持OOPENCL。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_118503621"
+}

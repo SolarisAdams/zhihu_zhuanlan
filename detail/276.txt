@@ -1,0 +1,380 @@
+{
+    "title": "计算机视觉一隅", 
+    "description": "人工智能，计算机视觉下的一小块地方", 
+    "followers": [
+        "https://www.zhihu.com/people/wuliebuchan", 
+        "https://www.zhihu.com/people/zhu-yu-heng-46", 
+        "https://www.zhihu.com/people/sun-zhu-70", 
+        "https://www.zhihu.com/people/xun-xin-76", 
+        "https://www.zhihu.com/people/lou-shi-liao-fan", 
+        "https://www.zhihu.com/people/hexin_marsggbo", 
+        "https://www.zhihu.com/people/Steven_Jokes", 
+        "https://www.zhihu.com/people/lyguo-guo-de-a-mi", 
+        "https://www.zhihu.com/people/li-ling-12-18-63", 
+        "https://www.zhihu.com/people/kunnan-xue", 
+        "https://www.zhihu.com/people/xingangli", 
+        "https://www.zhihu.com/people/li-mo-68-36", 
+        "https://www.zhihu.com/people/he-jiong-chen", 
+        "https://www.zhihu.com/people/yu-tao-61-90", 
+        "https://www.zhihu.com/people/dreamshun", 
+        "https://www.zhihu.com/people/hong-kai-duo-75", 
+        "https://www.zhihu.com/people/2121yyy", 
+        "https://www.zhihu.com/people/aitracker", 
+        "https://www.zhihu.com/people/bug-38-73", 
+        "https://www.zhihu.com/people/tian-jia-jie", 
+        "https://www.zhihu.com/people/alex-96-59", 
+        "https://www.zhihu.com/people/miao-miao-88-24-41", 
+        "https://www.zhihu.com/people/chenwuchen", 
+        "https://www.zhihu.com/people/292681029", 
+        "https://www.zhihu.com/people/zhi-hu-6-45-73", 
+        "https://www.zhihu.com/people/sha-feng-82", 
+        "https://www.zhihu.com/people/wu-bing-7-30", 
+        "https://www.zhihu.com/people/chen-xiao-fan-14", 
+        "https://www.zhihu.com/people/yxchi", 
+        "https://www.zhihu.com/people/chong-chong-35-35", 
+        "https://www.zhihu.com/people/bu-chi-pu-tao-pi-2", 
+        "https://www.zhihu.com/people/smalljiang-81", 
+        "https://www.zhihu.com/people/haior", 
+        "https://www.zhihu.com/people/wu-ye-nan-30", 
+        "https://www.zhihu.com/people/lu_xiao_yao", 
+        "https://www.zhihu.com/people/qf-gqf-46", 
+        "https://www.zhihu.com/people/zhao-zhi-yong-24", 
+        "https://www.zhihu.com/people/tianwai", 
+        "https://www.zhihu.com/people/liu-feng-96-66-33", 
+        "https://www.zhihu.com/people/anymake", 
+        "https://www.zhihu.com/people/cv2019", 
+        "https://www.zhihu.com/people/xin-xin-zhang-46", 
+        "https://www.zhihu.com/people/jiang-xiang-hong-41", 
+        "https://www.zhihu.com/people/sun-xiao-fei-75-94", 
+        "https://www.zhihu.com/people/skomn", 
+        "https://www.zhihu.com/people/mian-gui-zhong", 
+        "https://www.zhihu.com/people/qiu-zhi-bu-de-98", 
+        "https://www.zhihu.com/people/xiang-jing-78", 
+        "https://www.zhihu.com/people/mark-24-62", 
+        "https://www.zhihu.com/people/yan-hua-chang-an", 
+        "https://www.zhihu.com/people/zhimu", 
+        "https://www.zhihu.com/people/wang-wei-9-55-18", 
+        "https://www.zhihu.com/people/huang-chao-lin-6", 
+        "https://www.zhihu.com/people/lai-ge-tu-zi", 
+        "https://www.zhihu.com/people/chang-wei-kuo-zui", 
+        "https://www.zhihu.com/people/tuo-53-91", 
+        "https://www.zhihu.com/people/chang-qing-72-53", 
+        "https://www.zhihu.com/people/wang-yang-68-44", 
+        "https://www.zhihu.com/people/di-hong-jia-4", 
+        "https://www.zhihu.com/people/ri-yue-dang-kong-zhao-37", 
+        "https://www.zhihu.com/people/guting-wu", 
+        "https://www.zhihu.com/people/rui-zhu-95", 
+        "https://www.zhihu.com/people/liangxhao", 
+        "https://www.zhihu.com/people/ye-cha-4", 
+        "https://www.zhihu.com/people/da-fu-hao-43", 
+        "https://www.zhihu.com/people/cha-tu-91-3", 
+        "https://www.zhihu.com/people/ming-ri-zhi-xing-14-38", 
+        "https://www.zhihu.com/people/ypwang0905", 
+        "https://www.zhihu.com/people/luozhongbin", 
+        "https://www.zhihu.com/people/han-wo-san-shi-jun", 
+        "https://www.zhihu.com/people/wu-yan-28-99", 
+        "https://www.zhihu.com/people/luo-xiao-qi-39", 
+        "https://www.zhihu.com/people/wu-kai-68-71", 
+        "https://www.zhihu.com/people/yang-jing-lin-16", 
+        "https://www.zhihu.com/people/zhulongyun", 
+        "https://www.zhihu.com/people/ggff-ss", 
+        "https://www.zhihu.com/people/fang-hui-98", 
+        "https://www.zhihu.com/people/xia-zheng-79", 
+        "https://www.zhihu.com/people/spongebob-53-24", 
+        "https://www.zhihu.com/people/zhang-zhe-10-93-4", 
+        "https://www.zhihu.com/people/xing-mai-mi-mi-3", 
+        "https://www.zhihu.com/people/yyy-25-77", 
+        "https://www.zhihu.com/people/htf666", 
+        "https://www.zhihu.com/people/zxp-yingzi", 
+        "https://www.zhihu.com/people/zhang-chen-62-22", 
+        "https://www.zhihu.com/people/lizhengxian", 
+        "https://www.zhihu.com/people/song-wang-71-67", 
+        "https://www.zhihu.com/people/lei-le-qi", 
+        "https://www.zhihu.com/people/huo-chen-87", 
+        "https://www.zhihu.com/people/eric-3-92", 
+        "https://www.zhihu.com/people/tim-81-17", 
+        "https://www.zhihu.com/people/huyichuan", 
+        "https://www.zhihu.com/people/ni-shuo-29-27", 
+        "https://www.zhihu.com/people/guang-ming-gmg", 
+        "https://www.zhihu.com/people/zui-shu-shu", 
+        "https://www.zhihu.com/people/heyang-36", 
+        "https://www.zhihu.com/people/cerena-8", 
+        "https://www.zhihu.com/people/lipin-01", 
+        "https://www.zhihu.com/people/dgjk1010", 
+        "https://www.zhihu.com/people/shenyinian", 
+        "https://www.zhihu.com/people/1000-5", 
+        "https://www.zhihu.com/people/shuo-shuai-87", 
+        "https://www.zhihu.com/people/guan-shen-29", 
+        "https://www.zhihu.com/people/wen-dong-nan", 
+        "https://www.zhihu.com/people/jiahua-wu", 
+        "https://www.zhihu.com/people/guan-yue-60", 
+        "https://www.zhihu.com/people/loser-tow", 
+        "https://www.zhihu.com/people/hao.omni", 
+        "https://www.zhihu.com/people/wu-zhe-ming", 
+        "https://www.zhihu.com/people/zhou-mi-84-22", 
+        "https://www.zhihu.com/people/cancanxinxin", 
+        "https://www.zhihu.com/people/tu-xiao-feng-76", 
+        "https://www.zhihu.com/people/liu-ke-zha", 
+        "https://www.zhihu.com/people/la-lian-86", 
+        "https://www.zhihu.com/people/andrewsher", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/wang-xun-yan-67", 
+        "https://www.zhihu.com/people/whjxnyzh", 
+        "https://www.zhihu.com/people/qinlibo_nlp", 
+        "https://www.zhihu.com/people/yang-mn", 
+        "https://www.zhihu.com/people/xu-jun-yang-16", 
+        "https://www.zhihu.com/people/atom-74", 
+        "https://www.zhihu.com/people/feng-xing-long-5", 
+        "https://www.zhihu.com/people/leo-lee-58-57", 
+        "https://www.zhihu.com/people/wang-fei-80-61", 
+        "https://www.zhihu.com/people/wu-long-69", 
+        "https://www.zhihu.com/people/hao-xiao-yang-87", 
+        "https://www.zhihu.com/people/hai-jiao-xing-chen", 
+        "https://www.zhihu.com/people/jie-si-47-70", 
+        "https://www.zhihu.com/people/undefinedj", 
+        "https://www.zhihu.com/people/tu-tu-27-23-17", 
+        "https://www.zhihu.com/people/yao-ze-ping", 
+        "https://www.zhihu.com/people/haoyuachen", 
+        "https://www.zhihu.com/people/forloverj", 
+        "https://www.zhihu.com/people/freeman-96-88", 
+        "https://www.zhihu.com/people/guo-yan-chao-64", 
+        "https://www.zhihu.com/people/sunnyos", 
+        "https://www.zhihu.com/people/lucygogo", 
+        "https://www.zhihu.com/people/wang-jing-bo-27-88", 
+        "https://www.zhihu.com/people/long-gzwen-ran", 
+        "https://www.zhihu.com/people/shuai-qi-de-xiang", 
+        "https://www.zhihu.com/people/hu-xiao-ming-9", 
+        "https://www.zhihu.com/people/lzb-3", 
+        "https://www.zhihu.com/people/shao-qing-bin", 
+        "https://www.zhihu.com/people/yang-feng-11-49", 
+        "https://www.zhihu.com/people/lygwangyp", 
+        "https://www.zhihu.com/people/wu-shi-93-35", 
+        "https://www.zhihu.com/people/si-wen-58-37", 
+        "https://www.zhihu.com/people/xiao-yu-18-39-64", 
+        "https://www.zhihu.com/people/qinyi20060410", 
+        "https://www.zhihu.com/people/kevin-hill", 
+        "https://www.zhihu.com/people/moni-gg", 
+        "https://www.zhihu.com/people/xiao-jie-32"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/49314996", 
+            "userName": "z止于至善", 
+            "userLink": "https://www.zhihu.com/people/d421e3e894ff9d61ae561f976c94a942", 
+            "upvote": 15, 
+            "title": "ICCV2017｜Multi-Attention CNN for FGVC：MA-CNN", 
+            "content": "<p>论文来自中国科学技术大学、微软亚洲研究院以及University of Rochester，做细粒度图像分类。</p><p>论文下载：</p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://link.zhihu.com/?target=http%3A//openaccess.thecvf.com/content_ICCV_2017/papers/Zheng_Learning_Multi-Attention_Convolutional_ICCV_2017_paper.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition</a><h2>Abstract</h2><p>识别细粒度类别（例如，鸟类）高度依赖于判别性部分定位（discriminative part localization）和基于部分的细粒度特征学习（part-based fine-grained feature learning）。<b>现有方法主要独立地解决这些挑战，而忽略了部分定位（例如，鸟的头部）和细粒度特征学习（例如，头部形状）相互关联的事实。</b>在本文中，我们通过<b><i>multi-attention convolutional neural network（MA-CNN）</i></b>提出了一种新颖的part learning方法，其中part generation和feature learning可以相互加强。</p><p>MA-CNN由<b><i>convolution, channel grouping 和 part classification</i></b>子网络组成。channel grouping网络从卷积层中获取输入特征通道，并通过从空间相关通道中聚类、加权和池化来生成多个部分。part classification网络进一步按每个单独的部分对图像进行分类，通过该图像可以学习更多的判别性细粒度特征。提出了两个loss来指导channel grouping和part classification的多任务学习，这鼓励MA-CNN从特征通道生成更多的判别部分，并以相互强化的方式从判别部分中学习更好的细粒度特征。</p><p>MA-CNN不需要边界框/部分注释，可以端到端地进行训练。文章将来自MA-CNN的学习部分与部分CNN结合起来进行识别，并在三个具有挑战性的已发布的细粒度数据集上展示最佳性能，例如CUB-Birds，FGVC-Aircraft和Stanford-Cars。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-698dbba1cd19499d56c63ea3e16a4458_b.jpg\" data-rawwidth=\"744\" data-rawheight=\"800\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"744\" data-original=\"https://pic1.zhimg.com/v2-698dbba1cd19499d56c63ea3e16a4458_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;744&#39; height=&#39;800&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"744\" data-rawheight=\"800\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"744\" data-original=\"https://pic1.zhimg.com/v2-698dbba1cd19499d56c63ea3e16a4458_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-698dbba1cd19499d56c63ea3e16a4458_b.jpg\"/></figure><h2>1. Introduction </h2><p>首先，卷积特征通道（convolutional feature channel）通常对应于某种类型的视觉模式。因此，channel grouping子网络将空间相关模式聚类和加权成来自其峰值响应出现在相邻位置的通道的部分关注映射（part attention maps）。多样化的高响应位置进一步构成multiple part attention maps，通过裁剪成固定大小从中提取multiple part proposals。</p><p>其次，一旦获得part proposals，part classification网络进一步通过基于部分的特征对图像进行分类，基于部分特征是在全卷积特征图上空间池化得到的。这样的设计可以通过消除对其他部分的依赖性来特别优化与特定部分相关的一组特征通道，因此可以学习该部分上的更好的细粒度特征。</p><p>第三，联合实施两个优化损失函数来指导channel grouping和part classification的多任务学习，这促使MA-CNN从特征通道生成更多的判别部分，并以相互加强的方式从部分中学习更细粒度的特征。具体地，文章提出了一种channel grouping loss function来优化channel grouping子网络，其考虑了空间区域上的高类内相似性和类间可分性的信道簇作为部分关注，因此可以产生紧凑和多样化的部分提议。</p><p>一旦定位了part，从图像中放大每个注意部分并将其馈送到part-CNNs管道，其中每个part-CNN通过使用相应的part作为输入来学习到类别。 为了进一步利用部分集合的强大功能，通过学习全连接的融合层，将来自多个部分的特征被深度融合，来对图像进行分类。 </p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1139e532aaf45f1e32b1ba60dfc34d27_b.jpg\" data-rawwidth=\"1147\" data-rawheight=\"588\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1147\" data-original=\"https://pic4.zhimg.com/v2-1139e532aaf45f1e32b1ba60dfc34d27_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1147&#39; height=&#39;588&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1147\" data-rawheight=\"588\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1147\" data-original=\"https://pic4.zhimg.com/v2-1139e532aaf45f1e32b1ba60dfc34d27_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1139e532aaf45f1e32b1ba60dfc34d27_b.jpg\"/></figure><h2> 3. Approach</h2><h2>MA-CNN</h2><p>这是一个找到mask的过程。<br/>一张图像输入VGG19取conv5_4输出的特征表示为<b>WxX</b>.。论文分别通过N个全链接层，得到4个d；然后将d与<b>WxX</b>对应元素相乘，在并在channel维度上取总和再通过sigmoid激活函数，得到N个Mask(Mi)；再将mask与<b>WxX</b>对应元素相乘并channel上取总和得到带attention的特征P。</p><h2>Loss</h2><p>multi-attention顾名思义有多个注意点，那么如何让多个特征图的关注点在不同的位置？论文提出可以通过loss的监督来实现。<br/>Loss由L_cls和L_cng组成。L_cls是用于图像分类的softmaxloss，L_cng是用于监督关注区域的.</p><h2>Part-CNN + details</h2><p>找到带不同的关键区域的Mask后去他们的峰值点位置映射到原图对应点。<br/>以其为中心点切割N块9696的小块并将他们放大到224224再放到VGG19中得到关键区域的特征，将原特征和关键区域特征拼接起来喂到网络最后的分类器中。</p><h2>4. Experiment</h2><p>类似fastRCNN的使用循环式的训练方式。</p><ul><li>首先固定VGG的参数，优化L_cng找到不同的关注点。</li><li>其次固定关键区域的位置，优化L_cls调整VGG的参数。</li></ul>", 
+            "topic": [
+                {
+                    "tag": "图像识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19588774"
+                }, 
+                {
+                    "tag": "计算机视觉", 
+                    "tagLink": "https://api.zhihu.com/topics/19590195"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "张悠悠", 
+                    "userLink": "https://www.zhihu.com/people/024f66f6c7aa8cea8dd14b16c5334969", 
+                    "content": "请问MACNN在ten1下的架构怎么写呢？[捂脸]毕设要用但丝毫没有头绪", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "花间一只图", 
+                    "userLink": "https://www.zhihu.com/people/a1119fab449bf428d2111adbbbd76360", 
+                    "content": "<p>你好，请问论文公式(3)：di(x)=fi(W*X)中W*X是指所有channel的feature map吗？刚开始哪个channel属于哪个group是不知道的，为什么可以得到4个di啊？谢谢了！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/48800265", 
+            "userName": "z止于至善", 
+            "userLink": "https://www.zhihu.com/people/d421e3e894ff9d61ae561f976c94a942", 
+            "upvote": 16, 
+            "title": "ECCV2018｜Learning to Navigate for FGVC (详细版)", 
+            "content": "<p>论文来自北京大学，做细粒度图像分类。</p><p>论文下载：</p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1809.00287\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[1809.00287] Learning to Navigate for Fine-grained Classification</a><h2>Abstract</h2><p>由于找出判别特征比较困难，细粒度图像分类具有挑战性。找到完全表征对象的那些细微特征并不简单。为了处理这种情况，文章提出了一种新颖的自监督（self-supervision ）机制，可以有效地定位信息区域而无需边界框/部分注释（bounding box/part annotations）。</p><p>提出的模型，称为<b>Navigator-Teacher-Scrutinizer Network（NTS-Net</b>），由Navigator agent，Teacher agent和Scrutinizer agent组成。考虑到informativeness of the regions与ground-truth class概率之间的内在一致性，设计了一种新颖的训练机制，<b>使Navigator能够在Teacher的指导下检测大部分信息区域（informative regions)。之后，Scrutinizer仔细检查Navigator中建议区域(proposed regions)并进行预测</b>。</p><p>文章提出的模型可以被视为一种多代理合作（multi-agent cooperation），其中agents彼此相互受益，共同进步。 NTS-Net可以端到端地进行训练，同时在推理过程中提供准确的细粒度分类预测以及更大的信息区域。在广泛的基准数据集中实现了最先进的性能。</p><h2><b>1 Introduction</b></h2><p>细粒度分类旨在区分同一超类的从属类（subordinate classes），例如， 区分野生鸟类，汽车模型等。 挑战来源于找出信息区域（informative regions）和提取其中的判别特征（discriminative features）。因此，细粒度分类的关键在于开发自动方法以准确识别图像中的信息区域。</p><h2>Previous works</h2><ul><li>监督学习：利用细粒度的人工注释，如bird classification中鸟类部分的注释。虽然取得了不错的结果，但它们所需的细粒度人工注释代价昂贵，使得这些方法在实践中不太适用。</li><li>无监督学习：学习规则定位信息区域，不需要昂贵的注释，但缺乏保证模型聚焦于正确区域的机制，这通常会导致精度降低。</li></ul><p>文章提出了一种新颖的自监督（self-supervision ）机制，可以有效地定位信息区域而无需边界框/部分注释（bounding box/part annotations）。开发的模型称为NTS-Net，采用multi-agent cooperative学习方法来解决准确识别图像中的信息区域的问题。 直观地，被赋予地ground-truth class的概率较高的区域应该包含更多的对象特征语义，从而增强整个图像的分类性能。 因此，设计了一种新的<b>损失函数</b>来优化每个选定区域的信息量，使其具有与概率为ground-truth class相同的顺序，并且我们将完整图像的ground-truth class作为区域的ground-truth class。</p><h2>概括阐述self-supervision机制</h2><p>NTS-Net由Navigator agent，Teacher agent和Scrutinizer agent组成。</p><ol><li>Navigator导航模型以关注最具信息性的区域：对于图像中的每个区域，Navigator预测区域的信息量，并使用预测来提出（propose）信息量最大的区域。</li><li>Teacher评估Navigator建议的区域并提供反馈：对于每个建议区域（proposed region），Teacher评估其属于ground-truth class的概率；置信度（confidence）评估指导Navigator使用新颖的<b>排序一致（ordering-consistent）损失函数</b>来提出更多信息区域。</li><li>Scrutinizer仔细检查Navigator中建议区域并完成细粒度分类：每个建议区域被放大到相同的大小，并且Scrutinizer提取其中的特征；区域特征和整个图像的特征被联合处理，以完成细粒度分类。</li></ol><p>总的来说，本文的方法可以被视为<b>强化学习（reinforcement learning）</b>中的actor-critic<a href=\"https://link.zhihu.com/?target=https%3A//papers.nips.cc/paper/1786-actor-critic-algorithms.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[21]</a>机制，其中Navigator是actor，Teacher是critic。通过Teacher提供的更精确的监督，Navigator将定位更多信息区域，这反过来将有利于Teacher。因此，agents共同进步并最终得到一个模型，该模型提供准确的细粒度分类预测以及更大的信息区域。</p><p>下图是模型的概览。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7ccb40aa733d16dc187796dcd060dc46_b.jpg\" data-rawwidth=\"1077\" data-rawheight=\"670\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1077\" data-original=\"https://pic3.zhimg.com/v2-7ccb40aa733d16dc187796dcd060dc46_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1077&#39; height=&#39;670&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1077\" data-rawheight=\"670\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1077\" data-original=\"https://pic3.zhimg.com/v2-7ccb40aa733d16dc187796dcd060dc46_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7ccb40aa733d16dc187796dcd060dc46_b.jpg\"/></figure><h2><b>3 Methods</b></h2><h2>3.1 Approach Overview</h2><p>本文方法依赖于一个假设，即信息区域有助于更好地表征对象，因此融合信息区域和全图像的特征将获得更好的性能。 因此，目标是定位对象的信息最丰富的区域（localize the most informative regions）。</p><p>信息量较大的区域应该有更高的置信度。The following condition should hold：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7e0a21d7355e2d8af186c10eee7dfd17_b.jpg\" data-rawwidth=\"931\" data-rawheight=\"51\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"931\" data-original=\"https://pic4.zhimg.com/v2-7e0a21d7355e2d8af186c10eee7dfd17_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;931&#39; height=&#39;51&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"931\" data-rawheight=\"51\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"931\" data-original=\"https://pic4.zhimg.com/v2-7e0a21d7355e2d8af186c10eee7dfd17_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7e0a21d7355e2d8af186c10eee7dfd17_b.jpg\"/></figure><p>使用Navigator网络来近似信息函数（information function）<b><i>I </i></b>和Teacher网络来近似置信度函数（confidence function）<b><i>C</i></b>.</p><p>Navigator网络评估其信息性<b><i>I</i></b>（Ri），Teacher网络评估其置信度<b><i>C</i></b>（Ri）。 为了满足Condition1，我们优化Navigator网络使  {<b><i>I</i></b>（R1），<b><i>I</i></b>（R2），...，<b><i>I</i></b>（RM）} 和 {<b><i>C</i></b>（R1），<b><i>C</i></b>（R2），...， <b><i>C</i></b>（RM）} 具有相同的顺序。</p><p><b>随着Navigator网络根据Teacher网络的改进，它将产生更多信息区域，以帮助Scrutinizer网络产生更好的细粒度分类结果。</b></p><h2>3.2 Navigator and Teacher</h2><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e432d723ee4f6f6deeb5ee748a24d7f8_b.jpg\" data-rawwidth=\"807\" data-rawheight=\"444\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"807\" data-original=\"https://pic1.zhimg.com/v2-e432d723ee4f6f6deeb5ee748a24d7f8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;807&#39; height=&#39;444&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"807\" data-rawheight=\"444\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"807\" data-original=\"https://pic1.zhimg.com/v2-e432d723ee4f6f6deeb5ee748a24d7f8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e432d723ee4f6f6deeb5ee748a24d7f8_b.jpg\"/></figure><p>导航到可能的信息区域可被视为区域建议问题，已进行了广泛研究。 其中大多数都基于滑动窗口搜索（sliding-windows search）机制。 <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/search/cs%3Fsearchtype%3Dauthor%26query%3DRen%252C%2BS\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Shaoqing Ren</a>, <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/search/cs%3Fsearchtype%3Dauthor%26query%3DHe%252C%2BK\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Kaiming He</a>等人<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1506.01497\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[38]</a>引入了一种新颖的区域建议网络<b>（RPN）</b>，它与分类器共享卷积层并减轻计算建议的边际成本。他们使用anchors来同时预测多个区域建议。每个anchor与滑动窗口的位置、纵横比（aspect ratio）和箱尺度（box scale）相关联。</p><p>受anchors概念的启发，文章的Navigator network将图像作为输入，并产生一堆矩形区域{R’1, R’2, ... R’A}，每个都有一个表示该区域信息量的分数（图2显示了anchors的设计）。对于大小为448的输入图像X，我们选择具有{48,96,192}和比率{1:1, 3:2, 2:3}的anchors，然后Navigator network将生成一个表示所有anchors的信息量的列表。 我们按照下面式子中的信息列表进行排序。 其中A是anchors的数量，I(Ri)是排序信息列表中的第i个元素。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1e5b55c075634b62bd6c9fa2cc5e5d9d_b.jpg\" data-rawwidth=\"746\" data-rawheight=\"51\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"746\" data-original=\"https://pic2.zhimg.com/v2-1e5b55c075634b62bd6c9fa2cc5e5d9d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;746&#39; height=&#39;51&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"746\" data-rawheight=\"51\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"746\" data-original=\"https://pic2.zhimg.com/v2-1e5b55c075634b62bd6c9fa2cc5e5d9d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1e5b55c075634b62bd6c9fa2cc5e5d9d_b.jpg\"/></figure><p>为了减少区域冗余，根据其信息量对区域采用<b>non-maximum suppression（NMS）</b>。 然后我们采取前M个信息区域{R1, R2, ... RM}并将它们输入Teacher network以获得{C(R1), C(R2）), ... C(RM)}。 图3显示了M = 3的概述，其中M表示用于训练Navigator network的区域数量的超参数。 我们优化Navigator network使{I(R1), I(R2), ... I(RM)}和{C(R1), C(R2）), ... C(RM)}具有相同的顺序。 每个建议区域通过最小化ground-truth class和predicted confidence之间的<b>交叉熵损失（cross-entropy）</b>来用于优化Teacher。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-50b5804abbe6f1e82a654e0217d7ffe1_b.jpg\" data-rawwidth=\"807\" data-rawheight=\"743\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"807\" data-original=\"https://pic2.zhimg.com/v2-50b5804abbe6f1e82a654e0217d7ffe1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;807&#39; height=&#39;743&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"807\" data-rawheight=\"743\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"807\" data-original=\"https://pic2.zhimg.com/v2-50b5804abbe6f1e82a654e0217d7ffe1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-50b5804abbe6f1e82a654e0217d7ffe1_b.jpg\"/></figure><h2>​3.3 Scrutinizer</h2><p>随着Navigator network逐渐收敛，它将产生信息性的对象特征区域，以帮助Scrutinizer network做出决策。 我们使用前K个信息区域与完整图像相结合作为输入来训练Scrutinizer network。 换句话说，那些K个区域用于促进细粒度识别。 图4证明了该过程，其中K = 3。<a href=\"https://link.zhihu.com/?target=https%3A//ieeexplore.ieee.org/search/searchresult.jsp%3FsearchWithin%3D%2522First%2520Name%2522%3A%2522Michael%2522%26searchWithin%3D%2522Last%2520Name%2522%3A%2522Lam%2522%26newsearch%3Dtrue%26sortType%3Dnewest\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Michael Lam</a>等人 <a href=\"https://link.zhihu.com/?target=https%3A//ieeexplore.ieee.org/document/8100171\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[25]</a>表示，使用信息区域可以减少类内差异，并可能在正确的标签上产生更高的置信度。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-38cef007ce203e5765f86618bb37067d_b.jpg\" data-rawwidth=\"803\" data-rawheight=\"581\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"803\" data-original=\"https://pic2.zhimg.com/v2-38cef007ce203e5765f86618bb37067d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;803&#39; height=&#39;581&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"803\" data-rawheight=\"581\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"803\" data-original=\"https://pic2.zhimg.com/v2-38cef007ce203e5765f86618bb37067d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-38cef007ce203e5765f86618bb37067d_b.jpg\"/></figure><h2>该网络主体分为三个组件：Navigator、Teacher、Scrutinizer</h2><p>1) Navigator：类似于Feature Pyramid Networks（FPN）结构，在不同尺度Feature maps上生成多个候选框，每个候选框的坐标与预先设计好的Anchors相对应。Navigator做的就是给每一个候选区域的“信息量”打分，信息量大的区域分数高。</p><p>2) Teacher：就是普通的Feature Extractor + FC + softmax，判断输入区域属于target lable的概率。</p><p>3) Scrutinizer：就是一个全连接层，输入是把“各个局部区域和全图提取出来的logits”concat到一起的一个长向量，输出对应200个类别的logits。</p><h2>流程：</h2><p>1）尺寸（448，448，3）的原图进入网络，进过Resnet-50提取特征以后，变成一个（14，14，2048）的Feature map，还有一个经过Global Pooling之后2048维的Feature Vector和 一个经过Global Pooling+ FC之后的200维的Logits。</p><p>2）预设的RPN在（14，14） （7，7） （4，4）这三种尺度上根据不同的Size, aspect ration生成对应的Anchors 一共1614个。</p><p>3）用步骤1中的Feature map，到Navigator中打分，用NMS根据打分结果只保留N个信息量最多的局部候选框。</p><p>4）把那N个局部区域双线性插值到（224，224），输入Teacher网络，得到这些局部区域的Feature Vector和logits</p><p>5）把步骤1和4中的全图feature vector和局部feature vector给concat在一起，之后接FC层，得到联合分类logits用于最终决策。</p><h2>监督：</h2><p>1）普通的Cross-Entropy：步骤1中的全图logits, 步骤4中的part logits,步骤5中的concat logits都用label进行最简单的监督。</p><p>2）Ranking Loss: 步骤3中的信息量打分需要用步骤4中的分类概率进行监督，即对于4中的判断的属于目标Label概率高的局部区域，必须在3中判断的信息量也高。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>参考资料：</p><p>Xavier CHEN《简评 | Fine-Grained Classification》</p>", 
+            "topic": [
+                {
+                    "tag": "图像识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19588774"
+                }, 
+                {
+                    "tag": "计算机视觉", 
+                    "tagLink": "https://api.zhihu.com/topics/19590195"
+                }, 
+                {
+                    "tag": "强化学习 (Reinforcement Learning)", 
+                    "tagLink": "https://api.zhihu.com/topics/20039099"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "张建虎", 
+                    "userLink": "https://www.zhihu.com/people/6f059502f3131a7697c73fabf4e9bd75", 
+                    "content": "<p>非常感谢您的解析，两点疑问：</p><p>1、“一个经过Global Pooling+ FC之后的200维的Logits”，什么意思？</p><p>2、“用步骤1中的Feature map，到Navigator中打分”应该是用对应的一共1614个Anchors 吧。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>原图进入网络，进过Resnet-50提取特征以后，会得到3个分量</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "张建虎"
+                        }, 
+                        {
+                            "userName": "那就这样吧", 
+                            "userLink": "https://www.zhihu.com/people/f088914ffb339fc5fdd4b4008fe76c5e", 
+                            "content": "<p>2个分支不行么  在得到Global Pooling后的特征向量后接一个200个分类的fc？？？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "那就这样吧", 
+                    "userLink": "https://www.zhihu.com/people/f088914ffb339fc5fdd4b4008fe76c5e", 
+                    "content": "<p>2）预设的RPN在（14，14） （7，7） （4，4）这三种尺度上根据不同的Size, aspect ration生成对应的Anchors 一共1614个。</p><p>为什么生成anchors的数量不是(14*<b>14*3+7*7*3+4*4*3)=783????</b></p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Yeeeeeee", 
+                            "userLink": "https://www.zhihu.com/people/a065713d65854794cedb68ca864c0965", 
+                            "content": "<p>14*14*3*2 + 7*7*3*2 + 4*4 *3*3 = 1614</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "那就这样吧"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/42067661", 
+            "userName": "z止于至善", 
+            "userLink": "https://www.zhihu.com/people/d421e3e894ff9d61ae561f976c94a942", 
+            "upvote": 14, 
+            "title": "CVPR2017｜Recurrent Attention CNN for FGVC：RA-CNN", 
+            "content": "<p>论文来自微软亚洲研究院，做细粒度分类。</p><p>论文下载：</p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://link.zhihu.com/?target=http%3A//openaccess.thecvf.com/content_cvpr_2017/papers/Fu_Look_Closer_to_CVPR_2017_paper.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Look Closer to See Better：Recurrent Attention Convolutional Neural Network for Fine-Grained Image Recognition</a><p><b>Abstract</b></p><p>识别纹理细密的物体类别（比如鸟类）是很困难的，这是因为判别区域定位（discriminative region localization）和细粒度特征学习（fine-grained feature learning）是很具有挑战性的。现有方法主要都是单独地来解决这些挑战性问题，然而却忽略了区域检测（region detection）和细粒度特征学习（fine-grained feature learning）之间的相互关联性，而且它们可以互相强化。</p><p>本文中，提出了一个全新的循环注意力卷积神经网络（recurrent attention convolutional neural network——<b>RA-CNN</b>），用互相强化的方式对判别区域注意力（discriminative region attention）和基于区域的特征表征（region-based feature representation）进行递归学习。在每一尺度规模（scale）上进行的学习都包含一个分类子网络（classification sub-network）和一个注意力建议子网络（attention proposal sub-network——APN）。APN 从完整图像开始，通过把先期预测作为参考，由粗到细迭代地生成区域注意力（region attention），同时精调器尺度网络（finer scale network）以循环的方式从先前的尺度规格输入一个放大的注意区域（amplified attended region）。</p><p>RA-CNN 通过尺度内分类损失（intra-scale classification loss）和尺度间排序损失（inter-scale ranking loss）进行优化，以相互学习精准的区域注意力（region attention）和细粒度表征（fine-grained representation）。RA-CNN 并不需要边界框（bounding box）或边界部分的标注（part annotations），而且可以进行端到端的训练。</p><p><b>Introduction</b></p><p>识别细粒度物体这一类任务往往是极具挑战性的，这是因为一些纹理细密的物体种类只能被该领域的专家所识别出来。与一般的识别不同，细粒度图像识别（fine-grained image recognition）是应该能够进行局部定位（localizing），并且能在其从属（subordinate）类别中表征很小的视觉差异的，从而使各种应用受益，比如专家级的图像识别、图像标注等等。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-802978ba162c4b89881b69921e38b99e_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"428\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-802978ba162c4b89881b69921e38b99e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;428&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"428\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-802978ba162c4b89881b69921e38b99e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-802978ba162c4b89881b69921e38b99e_b.jpg\"/></figure><p>图 1. 两种啄木鸟。我们可以从高度局部区域（highly local regions），比如黄色框里的头部，观察到非常不易察觉的视觉差异，这是难以在原始图像规格中进行学习的。然而，如果我们可以学着去把注意区域放大到一个精细的尺度，差异可能就会更加生动和显著。</p><p>如图1所示，精确的头部定位可以促进学习辨别头部特征，这进一步帮助精确定位后脑中存在的不同颜色。</p><p>提出的RA-CNN是一个叠加网络（stacked network），其输入为从全图像到多尺度的细粒度局部区域（fine-grained local regions）。在网络结构设计上主要包含3个scale子网络，每个scale子网络的网络结构都是一样的，只是网络参数不一样，在每个scale子网络中包含两种类型的网络：<b>分类网络和APN网络</b>。因此数据流是这样的：输入图像通过分类网络提取特征并进行分类，然后APN网络基于提取到的特征进行训练得到attention region信息，再将attention region剪裁（crop）出来并放大（zoom in），再作为第二个scale网络的输入，这样重复进行3次就能得到3个scale网络的输出结果，通过融合不同scale网络的结果能达到更好的效果。</p><p><b>Related Work</b></p><p>关于细粒度图像识别的研究沿着两个维度进行:<br/>1. Discriminative Feature Learning<br/>依赖于强大的卷积深层特征<br/>2. Sophisticated Part Localization<br/>使用无监督的方法来挖掘注意力区域<br/>放大判别性的局部区域,以提高细粒度识别性能.</p><p><b>Approach</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-dc1754833fca9e5957531a228563d846_b.jpg\" data-rawwidth=\"1275\" data-rawheight=\"657\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1275\" data-original=\"https://pic3.zhimg.com/v2-dc1754833fca9e5957531a228563d846_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1275&#39; height=&#39;657&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1275\" data-rawheight=\"657\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1275\" data-original=\"https://pic3.zhimg.com/v2-dc1754833fca9e5957531a228563d846_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-dc1754833fca9e5957531a228563d846_b.jpg\"/></figure><p>图 2. RA-CNN框架。</p><p>输入图像从上到下按粗糙的完整大小的图像到精炼后的区域注意力图像排列。不同的网络分类模块（蓝色部分）通过同一尺度的标注预测 Y(s) 和真实 Y∗之间的分类损失 Lcl 进行优化，注意力建议（红色部分）通过相邻尺度的 p (s) t 和 p (s+1) t 之间的成对排序损失 Lrank（pairwise ranking loss Lrank）进行优化。其中 p (s) t 和 p (s+1) t 表示预测在正确类别的概率，s 代表尺度。APN 是注意力建议网络，fc 代表全连接层，softmax 层通过 fc 层与类别条目（category entry）匹配，然后进行 softmax 操作。+代表「剪裁（crop）」和「放大（zoom in）」。</p><p><b>每个scale网络是有两个输出的multi-task结构:</b></p><p>1. 分类<br/>p(X) = f(Wc* X)<br/>Wc: (b1)或(b2)或(b3)网络的参数,也就是一些卷积层、池化层和激活层的集合,用来从输入图像中提取特征.<br/>Wc* X: 就是最后提取到的特征.</p><p>f()函数: 就是fully-connected层和softmax层,用来将学习到的特征映射成类别概率,也就是p(X).</p><p>2. 区域检测<br/>[tx, ty, tl] = g(Wc* X)<br/>这里假设检测出来的区域都是正方形,即tx和ty表示区域的中心点坐标,tl表示正方形区域边长的一半.</p><p>g()函数: 也就是APN网络,可以用两个fully-connected层实现,其中最后一个fully-connected层的输出channel是3,分别对应tx、ty、tl。</p><p><b>Loss:</b></p><p>a. intra-scale classification loss</p><p>b. inter-scale pairwise ranking loss​</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a70d01dc75ea48f396844e36272f29ad_b.jpg\" data-rawwidth=\"761\" data-rawheight=\"105\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"761\" data-original=\"https://pic2.zhimg.com/v2-a70d01dc75ea48f396844e36272f29ad_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;761&#39; height=&#39;105&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"761\" data-rawheight=\"105\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"761\" data-original=\"https://pic2.zhimg.com/v2-a70d01dc75ea48f396844e36272f29ad_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a70d01dc75ea48f396844e36272f29ad_b.jpg\"/></figure><p>一部分是Lcls,也就是classification loss.</p><p>Y(s)表示预测的类别概率,Y*表示真实类别.</p><p>pairwise ranking loss:​</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d6257cef14aa5a350c8be2d7ed0d5a57_b.jpg\" data-rawwidth=\"730\" data-rawheight=\"65\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"730\" data-original=\"https://pic4.zhimg.com/v2-d6257cef14aa5a350c8be2d7ed0d5a57_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;730&#39; height=&#39;65&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"730\" data-rawheight=\"65\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"730\" data-original=\"https://pic4.zhimg.com/v2-d6257cef14aa5a350c8be2d7ed0d5a57_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d6257cef14aa5a350c8be2d7ed0d5a57_b.jpg\"/></figure><p>pt(s): prediction probability on the correct category labels t.</p><p>从Lrank损失函数可以看出,当更后面的scale网络的pt大于相邻的前面的scale网络的pt时,损失较小.</p><p>通俗讲模型的训练目标是希望更后面的scale网络的预测更准.</p><p>于是这样的网络就可以得到输入图像X的不同scale特征,用{F1, F2, ... FN}表示.<br/>N: scale的数量<br/>Fi: 第i个scale的分类子网络全连接层输出,文中称Fi为descriptor.<br/>融合不同scale网络的输出结果:</p><p>把每个分类子网络的最后的全连接层堆叠起来,然后将它们连接到一个全连接层,随后通过softmax层,进行分类.</p><p><b>Training strategy:</b></p><p>a. 初始化分类子网络: 用预训练的VGG-Net初始化分类子网络中卷积层和全连接层的参数;<br/>b. 初始化APN: 查找分类子网络的最后一层卷积层(conv5_4 in VGG-19)具有最高响应值(highest response)的区域,用该区域的中心点坐标和原图边长的一半来初始化(tx,ty,tl);</p><p>c. 固定APN的参数,训练分类子网络直至Lcls收敛; 随后固定分类子网络的参数,训练APN网络直至Lrank收敛.这个训练过程是迭代交替进行的,直到两个网络的损失收敛.</p><p><b>Experiments</b></p><p><b>Datasets:</b></p><p>Caltech-UCSD Birds (CUB-200-2011)<br/>Stanford Dogs</p><p>Stanford Cars</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ecab64c6f7baf1170472becbc4a06760_b.jpg\" data-rawwidth=\"754\" data-rawheight=\"183\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"754\" data-original=\"https://pic1.zhimg.com/v2-ecab64c6f7baf1170472becbc4a06760_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;754&#39; height=&#39;183&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"754\" data-rawheight=\"183\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"754\" data-original=\"https://pic1.zhimg.com/v2-ecab64c6f7baf1170472becbc4a06760_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ecab64c6f7baf1170472becbc4a06760_b.jpg\"/></figure><p>The statistics of fine-grained datasets used in this paper</p><p><b>Baselines:</b></p><p>采用bounding box/part annotation标注的监督式训练和不采用bounding box标注的无监督式训练这两种不同的attention localization算法。<br/>输入图像尺寸方面：</p><p>Input images (at scale 1) and attended regions (at scale 2,3) are resized to 448×448 and 224×224 pixels respectively in training, due to the smaller object size in the coarse scale.</p><p><b>Conclusion</b></p><p>Propose a recurrent attention convolutional neural network(RA-CNN) for fine-grained recognition, which recursively learns discriminative region attention and region-based feature representation at multiple scales.</p><p>RA-CNN does not need bounding box/part annotations for training and can be trained end-to-end.</p><p>In the future:<br/>1. How to simultaneously preserve global image structure and model local visual cues, to keep improving the performance at finer scales;<br/>2. How to integrate multiple region attention to model more complex fine-grained categories.</p>", 
+            "topic": [
+                {
+                    "tag": "计算机视觉", 
+                    "tagLink": "https://api.zhihu.com/topics/19590195"
+                }, 
+                {
+                    "tag": "图像识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19588774"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "smile", 
+                    "userLink": "https://www.zhihu.com/people/2714486aaf10a0bd02ce483cbcb37551", 
+                    "content": "<p>您好 ，请问您复现了论文中的工作吗？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>作者公布的代码<a href=\"http://link.zhihu.com/?target=https%3A//github.com/Jianlong-Fu/Recurrent-Attention-CNN\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Jianlong-Fu/Recurrent-Attention-CNN</a></p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "smile"
+                        }, 
+                        {
+                            "userName": "zimuyuan", 
+                            "userLink": "https://www.zhihu.com/people/fdc25c815a65bfa6bfdedc0df0398975", 
+                            "content": "<p>您好 ，我现在也想请问您复现了论文中的工作吗？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "smile"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/42110753", 
+            "userName": "z止于至善", 
+            "userLink": "https://www.zhihu.com/people/d421e3e894ff9d61ae561f976c94a942", 
+            "upvote": 38, 
+            "title": "计算机视觉目标检测算法综述", 
+            "content": "<p>传统目标检测三步走：区域选择、特征提取、分类回归</p><p>遇到的问题：</p><p>1.区域选择的策略效果差、时间复杂度高</p><p>2.手工提取的特征鲁棒性较差</p><p>深度学习时代目标检测算法的发展：</p><p><b>Two-Stage：</b></p><p><b>R-CNN</b></p><p>论文地址：<a href=\"https://link.zhihu.com/?target=http%3A//fcv2011.ulsan.ac.kr/files/announcement/513/r-cnn-cvpr.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Rich feature hierarchies for accurate object detection and semantic segmentation</a></p><p>地位：是用卷积神经网络（CNN）做目标检测的第一篇，意义影响深远。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c97792a1e78d4cdfde1926898808b871_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1226\" data-rawheight=\"438\" class=\"origin_image zh-lightbox-thumb\" width=\"1226\" data-original=\"https://pic2.zhimg.com/v2-c97792a1e78d4cdfde1926898808b871_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1226&#39; height=&#39;438&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1226\" data-rawheight=\"438\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1226\" data-original=\"https://pic2.zhimg.com/v2-c97792a1e78d4cdfde1926898808b871_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c97792a1e78d4cdfde1926898808b871_b.jpg\"/></figure><p><b>核心思想：</b></p><p>1.区域选择不再使用滑窗，而是采用启发式候选区域生成算法（Selective Search）</p><p>2.特征提取也从手工变成利用CNN自动提取特征，增强了鲁棒性。</p><p><b>流程步骤：</b></p><p>1.使用Selective Search算法从待检测图像中提取2000个左右的区域候选框</p><p>2.把所有侯选框缩放成固定大小（原文采用227×227）</p><p>3.使用CNN（有5个卷积层和2个全连接层）提取候选区域图像的特征，得到固定长度的特征向量</p><p>4.将特征向量输入到SVM分类器，判别输入类别；送入到全连接网络以回归的方式精修候选框</p><p><b>优点：</b></p><p>1.速度<br/>传统的区域选择使用滑窗，每滑一个窗口检测一次，相邻窗口信息重叠高，检测速度慢。R-CNN 使用一个启发式方法（Selective Search），<b>先生成候选区域再检测，降低信息冗余程度</b>，从而提高检测速度。</p><p>2.特征提取<br/>传统的手工提取特征鲁棒性差，限于如颜色、纹理等低层次（Low level）的特征。</p><p><b>不足：</b></p><p>1.算力冗余<br/>先生成候选区域，再对区域进行卷积，这里有两个问题：其一是候选区域会有一定程度的重叠，对相同区域进行重复卷积；其二是每个区域进行新的卷积需要新的存储空间。</p><p>2.图片缩放</p><p>候选区域中的图像输入CNN（卷积层并不要求输入图像的尺寸固定，只有第一个全连接层需要确定输入维度，因为它和前一层之间的权重矩阵是固定大小的，其他的全连接层也不要求图像的尺寸固定）中需要固定尺寸（227 * 227），会造成物体形变，导致检测性能下降。</p><p>3.训练测试不简洁</p><p>候选区域生成、特征提取、分类、回归都是分开操作，中间数据还需要单独保存。</p><p><b>SPP Net</b></p><p>论文地址：<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1406.4729\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition</a></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2d52274f1e5d802f9a59d5f9b2cf41c5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"946\" data-rawheight=\"796\" class=\"origin_image zh-lightbox-thumb\" width=\"946\" data-original=\"https://pic2.zhimg.com/v2-2d52274f1e5d802f9a59d5f9b2cf41c5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;946&#39; height=&#39;796&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"946\" data-rawheight=\"796\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"946\" data-original=\"https://pic2.zhimg.com/v2-2d52274f1e5d802f9a59d5f9b2cf41c5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-2d52274f1e5d802f9a59d5f9b2cf41c5_b.jpg\"/></figure><p><b>优点：</b></p><p>1.将提取候选框特征向量的操作转移到卷积后的特征图上进行，将R-CNN中的多次卷积变为一次卷积，大大降低了计算量，不仅减少存储量而且加快了训练速度。</p><p>2.在最后一个卷积层和第一个全连接层之间做一些处理，引入了Spatial Pyramid pooling层，对卷积特征图像进行空间金字塔采样获得固定长度的输出，可对特征层任意长宽比和尺度区域进行特征提取。</p><p>Spatial Pyramid pooling具体做法：</p><p>在得到卷积特征图之后，对卷积特征图进行三种尺度的切分：4*4，2*2，1*1，对于切分出来的每个小块进行max-pooling下采样，之后再将下采样的结果全排列成一个列向量，送入全连接层。</p><p>Sptial Pyramid pooling操作示意图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4fd445f3e3b73cc746951b8a05f28b83_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1271\" data-rawheight=\"688\" class=\"origin_image zh-lightbox-thumb\" width=\"1271\" data-original=\"https://pic4.zhimg.com/v2-4fd445f3e3b73cc746951b8a05f28b83_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1271&#39; height=&#39;688&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1271\" data-rawheight=\"688\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1271\" data-original=\"https://pic4.zhimg.com/v2-4fd445f3e3b73cc746951b8a05f28b83_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4fd445f3e3b73cc746951b8a05f28b83_b.jpg\"/></figure><p>例如每个候选区域在最后的512张卷积特征图中得到了512个该区域的卷积特征图，通过spp-net下采样后得到了一个512×（4×4+2×2+1×1）维的特征向量，这样就将大小不一的候选区的特征向量统一到了一个维度。</p><p>总结：<b>不仅减少了计算冗余，更重要的是打破了固定尺寸输入这一束缚。</b></p><p><b>Fast R-CNN</b></p><p>论文地址：<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1504.08083\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Fast R-CNN</a></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-2af1b9f0d715cc93952ac5ffb28c7633_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1271\" data-rawheight=\"502\" class=\"origin_image zh-lightbox-thumb\" width=\"1271\" data-original=\"https://pic4.zhimg.com/v2-2af1b9f0d715cc93952ac5ffb28c7633_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1271&#39; height=&#39;502&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1271\" data-rawheight=\"502\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1271\" data-original=\"https://pic4.zhimg.com/v2-2af1b9f0d715cc93952ac5ffb28c7633_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2af1b9f0d715cc93952ac5ffb28c7633_b.jpg\"/></figure><p><b>结构创新：</b>将原来的串行结构改成并行结构。</p><p><b>网络创新：</b>加入<b>RoI pooling layer</b>，它将不同大小候选框的卷积特征图统一采样成固定大小的特征。ROI池化层的做法和SPP层类似，但只使用一个尺度进行网格划分和池化。</p><p>Fast R-CNN针对R-CNN和SPPNet在训练时是多阶段的和训练的过程中很耗费时间空间的问题进行改进。设计了多任务损失函数(multi-task loss)，将分类任务和边框回归统一到了一个框架之内。</p><p><b>Faster R-CNN</b></p><p>论文地址：<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1506.01497\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks</a></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-96aaa475462a900970e6f851147ee6fd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1110\" data-rawheight=\"1306\" class=\"origin_image zh-lightbox-thumb\" width=\"1110\" data-original=\"https://pic2.zhimg.com/v2-96aaa475462a900970e6f851147ee6fd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1110&#39; height=&#39;1306&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1110\" data-rawheight=\"1306\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1110\" data-original=\"https://pic2.zhimg.com/v2-96aaa475462a900970e6f851147ee6fd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-96aaa475462a900970e6f851147ee6fd_b.jpg\"/></figure><p>在Faster R-CNN之前，生成候选区域都是用的一系列启发式算法（Selective Search），基于Low Level特征生成区域。</p><p><b>存在的问题：</b></p><p>1.生成区域的靠谱程度随缘，而Two Stage算法正是依靠生成区域的靠谱程度——生成大量无效区域则会造成算力的浪费、少生成区域则会漏检；</p><p>2.生成候选区域的算法（Selective Search）是在 CPU 上运行的，而训练在GPU上面，跨结构交互必定会有损效率。</p><p><b>革新：</b>提出Region Proposal Network（RPN）网络替代Selective Search算法，利用神经网络自己学习去生成候选区域。</p><p>这种生成方法同时解决了上述的两个问题，神经网络可以学到更加高层、语义、抽象的特征，生成的候选区域的可靠程度大大提高。</p><p>使得整个目标识别真正实现了端到端的计算，将所有的任务都统一在了深度学习的框架之下，所有计算都在GPU内进行，使得计算的速度和精度都有了大幅度提升。</p><p>从上图看出RPN和RoI pooling共用前面的卷积神经网络——将RPN嵌入原有网络，原有网络和RPN一起预测，大大地减少了参数量和预测时间。</p><p>Faster R-CNN在做下采样和RoI Pooling时都对特征图大小做了取整操作。</p><p><b>整体思路：</b>首先对整张图片进行卷积计算，得到卷积特征，然后利用RPN进行候选框选择，再返回卷积特征图取出候选框内的卷积特征利用ROI提取特征向量最终送入全连接层进行精确定位和分类，总之：RPN+Fast R-CNN=Faster R-CNN。</p><p><b>RPN网络</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-140e3c7ef74fb1c68e10df3ab4b9aba4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"822\" data-rawheight=\"498\" class=\"origin_image zh-lightbox-thumb\" width=\"822\" data-original=\"https://pic1.zhimg.com/v2-140e3c7ef74fb1c68e10df3ab4b9aba4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;822&#39; height=&#39;498&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"822\" data-rawheight=\"498\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"822\" data-original=\"https://pic1.zhimg.com/v2-140e3c7ef74fb1c68e10df3ab4b9aba4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-140e3c7ef74fb1c68e10df3ab4b9aba4_b.jpg\"/></figure><p>在RPN中引入了anchor的概念，feature map中每个滑窗位置都会生成 k 个anchor，然后判断anchor覆盖的图像是<b>前景</b>还是<b>背景</b>，同时回归Bounding box（Bbox）的精细位置，预测的Bbox更加精确。</p><p><b>解释：</b>为了提取候选框，作者使用了一个小的神经网络也即就是一个n×n的卷积核(文中采用了3×3的网络)，在经过一系列卷积计算的特征图上进行滑移，进行卷积计算。每一个滑窗计算之后得到一个低维向量（例如VGG net 最终有512张卷积特征图，每个滑窗进行卷积计算的时候可以得到512维的低维向量），得到的特征向量，送入两种层：一种是边框回归层进行定位，另一种是分类层判断该区域是前景还是背景。3*3滑窗对应的每个特征区域同时预测输入图像3种尺度（128,256,512），3种长宽比（1:1,1:2,2:1）的region proposal，这种映射的机制称为anchor。所以对于40*60图图，总共有约20000(40*60*9)个anchor，也就是预测20000个region proposal。</p><p><b>总结：</b>Faster R-CNN可以说是真正意义上的深度学习目标检测算法。Faster R-CNN将一直以来分离的region proposal和CNN分类融合到了一起，使用端到端的网络进行目标检测，无论在速度上还是精度上都得到了不错的提高。然而Faster R-CNN还是达不到实时的目标检测，预先获取region proposal，然后在对每个proposal分类计算量还是比较大。</p><p><b>小结：</b></p><b><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-31ce4ed8cbdee553a5190d6a06d7f6a7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1226\" data-rawheight=\"570\" class=\"origin_image zh-lightbox-thumb\" width=\"1226\" data-original=\"https://pic4.zhimg.com/v2-31ce4ed8cbdee553a5190d6a06d7f6a7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1226&#39; height=&#39;570&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1226\" data-rawheight=\"570\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1226\" data-original=\"https://pic4.zhimg.com/v2-31ce4ed8cbdee553a5190d6a06d7f6a7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-31ce4ed8cbdee553a5190d6a06d7f6a7_b.jpg\"/></figure></b><p><b>一开始的串行到并行，从单一信息流到两条信息流。</b></p><p>总的来说，从R-CNN, SPP NET, Fast R-CNN, Faster R-CNN一路走来，基于深度学习目标检测的流程变得越来越精简，精度越来越高，速度也越来越快。可以说基于region proposal的R-CNN系列目标检测方法是当前目标最主要的一个分支。</p><p><b>One-Stage：</b></p><p>尽管Faster R-CNN在计算速度方面已经取得了很大进展，但是仍然无法满足实时检测的要求，因此有人提出了基于回归的方法直接从图片中回归出目标物体的位置以及种类。具有代表性的两种方法是YOLO和SSD。</p><p><b>YOLO</b></p><p>论文地址：<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1506.02640\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">You Only Look Once: Unified, Real-Time Object Detection</a></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b985c94e59eb7ca419e08d59c692e830_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1268\" data-rawheight=\"654\" class=\"origin_image zh-lightbox-thumb\" width=\"1268\" data-original=\"https://pic1.zhimg.com/v2-b985c94e59eb7ca419e08d59c692e830_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1268&#39; height=&#39;654&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1268\" data-rawheight=\"654\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1268\" data-original=\"https://pic1.zhimg.com/v2-b985c94e59eb7ca419e08d59c692e830_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b985c94e59eb7ca419e08d59c692e830_b.jpg\"/></figure><p>区别于R-CNN系列为代表的两步检测算法，YOLO舍去了候选框提取分支（Proposal阶段），直接将特征提取、候选框回归和分类在同一个无分支的卷积网络中完成，使得网络结构变得简单，检测速度较Faster R-CNN也有近10倍的提升。这使得深度学习目标检测算法在当时的计算能力下开始能够满足实时检测任务的需求。</p><p><b>网络结构：</b></p><p>首先将图片resize到固定尺寸（448 * 448），然后通过一套卷积神经网络，最后接上全连接直接输出结果，这就他们整个网络的基本结构。</p><p>更具体地做法，是将输入图片划分成一个S*S的网格，每个网格负责检测网格里面的物体是啥，并输出Bbox Info和置信度。这里的置信度指的是该网格内含有什么物体和预测这个物体的准确定。</p><p>更具体的是如下定义：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c31afec7adee293c39f147abdba24069_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"713\" data-rawheight=\"60\" class=\"origin_image zh-lightbox-thumb\" width=\"713\" data-original=\"https://pic2.zhimg.com/v2-c31afec7adee293c39f147abdba24069_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;713&#39; height=&#39;60&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"713\" data-rawheight=\"60\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"713\" data-original=\"https://pic2.zhimg.com/v2-c31afec7adee293c39f147abdba24069_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c31afec7adee293c39f147abdba24069_b.jpg\"/></figure><p>从这个定义得知，当框中没有物体的时候，整个置信度都会变为 0 。</p><p>这个想法其实就是一个简单的分而治之想法，将图片卷积后提取的特征图分为S*S块，然后利用优秀的分类模型对每一块进行分类，将每个网格处理完使用NMS（非极大值抑制）的算法去除重叠的框，最后得到我们的结果。</p><p><b>YOLO模型：</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-cc5871a3fd325ace0d66081dbd056579_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"765\" data-rawheight=\"699\" class=\"origin_image zh-lightbox-thumb\" width=\"765\" data-original=\"https://pic2.zhimg.com/v2-cc5871a3fd325ace0d66081dbd056579_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;765&#39; height=&#39;699&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"765\" data-rawheight=\"699\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"765\" data-original=\"https://pic2.zhimg.com/v2-cc5871a3fd325ace0d66081dbd056579_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-cc5871a3fd325ace0d66081dbd056579_b.jpg\"/></figure><p>图片描述：</p><p>(1) 给个一个输入图像，首先将图像划分成7*7的网格。</p><p>(2) 对于每个网格，我们都预测2个边框（包括每个边框是目标的置信度以及每个边框区域在多个类别上的概率）。</p><p>(3)根据上一步可以预测出7*7*2个目标窗口，然后根据阈值去除可能性比较低的目标窗口，最后非极大值抑制去除冗余窗口即可。</p><p>可以看到整个过程非常简单，不需要中间的region proposal在找目标，直接回归便完成了位置和类别的判定。</p><p><b>SSD</b></p><p>论文地址：<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1512.02325.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">SSD: Single Shot MultiBox Detector</a></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-51262da821b461ea2f851c34c86e3dfe_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"858\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb\" width=\"858\" data-original=\"https://pic3.zhimg.com/v2-51262da821b461ea2f851c34c86e3dfe_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;858&#39; height=&#39;333&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"858\" data-rawheight=\"333\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"858\" data-original=\"https://pic3.zhimg.com/v2-51262da821b461ea2f851c34c86e3dfe_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-51262da821b461ea2f851c34c86e3dfe_b.jpg\"/></figure><p>YOLO 这样做的确非常快，但是问题就在于这个框有点大，就会变得粗糙——小物体就容易从这个大网中漏出去，因此对小物体的检测效果不好。</p><p>所以 SSD 就在 YOLO 的主意上添加了 Faster R-CNN 的 Anchor 概念，并融合不同卷积层的特征做出预测。</p><p>上图是SSD的一个框架图，首先SSD获取目标位置和类别的方法跟YOLO一样，都是使用回归，但是YOLO预测某个位置使用的是全图的特征，SSD预测某个位置使用的是这个位置周围的特征（感觉更合理一些）。</p><p>假如某一层特征图大小是8*8，那么就使用3*3的滑窗提取每个位置的特征，然后这个特征回归得到目标的坐标信息和类别信息(图c)。不同于Faster R-CNN，这个anchor是在多个feature map上，这样可以利用多层的特征并且自然的达到多尺度（不同层的feature map 3*3滑窗感受野不同）。</p><p><b>特点：</b></p><p>1.基于多尺度特征图像的检测：在多个尺度的卷积特征图上进行预测，以检测不同大小的目标，一定程度上提升了小目标物体的检测精度。</p><p>2.借鉴了Faster R-CNN中的Anchor思想，在不同尺度的特征图上采样候选区域，一定程度上提升了检测的召回率以及小目标的检测效果。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7fccceef69cde3c2708053142078d593_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"793\" data-rawheight=\"424\" class=\"origin_image zh-lightbox-thumb\" width=\"793\" data-original=\"https://pic4.zhimg.com/v2-7fccceef69cde3c2708053142078d593_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;793&#39; height=&#39;424&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"793\" data-rawheight=\"424\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"793\" data-original=\"https://pic4.zhimg.com/v2-7fccceef69cde3c2708053142078d593_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7fccceef69cde3c2708053142078d593_b.jpg\"/></figure><p>还有一个重大的进步是结合了不同尺寸大小 Feature Maps 所提取的特征，然后进行预测。</p><p>这个尝试就大大地提高了识别的精度，且高分辨率（尺寸大）的 Feature Map 中含有更多小物体的信息，也是因为这个原因 SSD 能够较好的识别小物体。</p><p><b>总结：</b>和 YOLO 最大的区别是，SSD 没有接 FC 减少了大量的参数量、提高了速度。</p><p><b>小结：</b></p><p>SSD和YOLO采用了回归方法进行目标检测使得目标检测速度大大加快，SSD引入Faster R-CNN的anchor机制使得目标定位和分类精度都较YOLO有了大幅度提高。基于回归方法的目标检测基本达到了实时的要求，是目标检测的另一个主要思路。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "目标检测", 
+                    "tagLink": "https://api.zhihu.com/topics/19596960"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "计算机视觉", 
+                    "tagLink": "https://api.zhihu.com/topics/19590195"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "YOLOv3也有anchor?", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>基本的原理还是一样的，只不过做了一些改动。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>与之前yolo版本一样，yolov3的anchor boxes也是通过聚类的方法得到的</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/48192930", 
+            "userName": "z止于至善", 
+            "userLink": "https://www.zhihu.com/people/d421e3e894ff9d61ae561f976c94a942", 
+            "upvote": 19, 
+            "title": "TIP2018｜Object-Part Attention Model for FGVC", 
+            "content": "<p>论文来自北京大学计算机科学技术研究所多媒体信息处理研究室(Multimedia Information Processing Lab, 简称MIPL)，做细粒度图像分类。</p><p>论文下载：</p><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1704.01740\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[1704.01740] Object-Part Attention Model for Fine-grained Image Classification</a><h2>Abstract</h2><p>细粒度图像分类（Fine-grained Image Classification）是识别属于相同基本级别类别（basic-level category）的数百个子类别（subcategories），例如属于鸟类的200个子类别，由于<b>类内差异大</b>和<b>类间差异小</b>，这是非常具有挑战性的。</p><p>现有方法通常首先定位对象或部分（locate the objects or parts)，然后区分图像属于哪个子类别。但是，它们主要有两个局限:</p><ol><li>依赖大量劳动力的对象或部分注释(object or part annotations)。</li><li>忽略对象与其各部分之间以及这些部分之间的空间关系。</li></ol><p>这两者对于找到辨别部分都非常有帮助。</p><p>因此，本文提出了<b>弱监督</b>细粒度图像分类的对象注意模型（OPAM），主要的新颖性是：</p><ol><li>Object-part attention model集成了两级注意：对象级注意定位图像中的对象，部分级注意选择对象的判别部分。两者共同用于学习多视图和多尺度特征，以增强他们的相互促进。</li><li>Object-part spatial constraint model结合了两个空间约束：对象空间约束确保所选部分具有高度代表性，部分空间约束消除冗余并增强对所选部分的判别。两者共同用于利用细微和局部差异来区分子类别。</li></ol><p>重要的是，文章提出的方法中既没有使用对象也没有使用部分注释，这避免了标签的大量劳动力消耗。在4个广泛使用的数据集上与10种以上最先进的方法相比，文章的OPAM方法实现了最佳性能。</p><h2>INTRODUCTION</h2><p>细粒度图像分类极具挑战性，旨在识别相同基本类别下的数百个子类别，例如数百个鸟类，汽车，宠物，花卉和飞机的子类别。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2d585f0f303b5acadf0dc0fc8fb67a2c_b.jpg\" data-rawwidth=\"591\" data-rawheight=\"334\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"591\" data-original=\"https://pic1.zhimg.com/v2-2d585f0f303b5acadf0dc0fc8fb67a2c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;591&#39; height=&#39;334&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"591\" data-rawheight=\"334\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"591\" data-original=\"https://pic1.zhimg.com/v2-2d585f0f303b5acadf0dc0fc8fb67a2c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2d585f0f303b5acadf0dc0fc8fb67a2c_b.jpg\"/></figure><p>基本级和细粒度图像分类的区别如图1所示。细粒度图像分类是一项非常重要的任务，具有广泛的应用，如自动驾驶，生物保护（biological conservation）和癌症检测。图2显示了相同子类别中的大方差（variance）和不同子类别之间的小方差，并且人类很难识别数百个子类别，例如200个鸟类别或196个汽车子类别。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3b531a7437e3ce0d22a9d6d35f8083b1_b.jpg\" data-rawwidth=\"1194\" data-rawheight=\"336\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1194\" data-original=\"https://pic2.zhimg.com/v2-3b531a7437e3ce0d22a9d6d35f8083b1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1194&#39; height=&#39;336&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1194\" data-rawheight=\"336\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1194\" data-original=\"https://pic2.zhimg.com/v2-3b531a7437e3ce0d22a9d6d35f8083b1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-3b531a7437e3ce0d22a9d6d35f8083b1_b.jpg\"/></figure><p>由于物体外观的微小差异，<b>细微和局部差异是细粒度图像分类的关键点</b>，例如鸟的背部的颜色和羽毛纹理。由于这些微妙和局部差异位于判别对象和部分，大多数现有方法通常遵循这样一个策略，即<b>定位图像中的对象或部分，然后区分图像属于哪个子类别</b>。</p><p>为了定位判别对象和部分，通常，首先执行通过自下而上处理（bottom-up process）生成具有高对象性（high objectness）的图像块（image patches），这意味着所生成的块包含一个或多个判别对象或部分。选择性搜索（Selective search）是一种无监督的方法，可以生成数千个这样的图像块。由于自下而上的过程具有高召回率但是精度低，因此必须<b>去除噪声图像块并保留包含对象或有判别部分的图像块</b>，这可以通过自上而下的注意模型来实现。在细粒度图像分类的上下文中，找到对象和判别部分可以被视为两级注意过程（two-level attention process），其中一个是对象级别（object-level）而另一个是部分级别（part-level）。直观的想法是使用对象注释（即，对象的边界框）用于对象级注意和部分注释（即，部分位置）用于部分级注意。大多数现有方法依赖于对象或部分注释来寻找对象或判别部分，但这种标记耗费大量劳动力。这是第一个限制。</p><p>为了解决上述问题，研究人员开始关注如何在弱监督环境下达到良好的性能，即在训练和测试阶段都不使用对象或部分注释。 Yu Zhang;Xiushen Wei等人<a href=\"https://link.zhihu.com/?target=https%3A//ieeexplore.ieee.org/document/7410088\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[14]</a>提出通过利用部分集群中的有用信息来选择判别部分。Xiaopeng Zhang等人<a href=\"https://link.zhihu.com/?target=https%3A//ieeexplore.ieee.org/document/7780497\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[7]</a>提出了一种自动细粒度图像分类方法，结合深度卷积滤波器用于部分选择和描述（both part selection<br/>and description）。 然而，当他们选择辨别部分时，对象及其部分之间以及这些部分之间的空间关系被忽略，但是它们都非常有助于找到判别部分。 这导致所选择的部分：（1）具有大面积的背景噪声和小面积的对象区域，（2）彼此具有大的重叠，产生冗余信息。 这是第二个限制。</p><p>为了解决上述两个局限性，本文提出了弱监督细粒度图像分类的对象 - 部分注意模型（<b>OPAM</b>）。 其主要的新颖性和贡献可归纳如下：</p><p><b><i>Object-Part Attention Model. </i></b>大多数现有工作依赖于对象或部分注释，而标签则耗费大量人力。为了解决这个重要问题，文章提出了弱监督细粒度图像分类的对象 - 部分注意模型，以避免使用对象和部分注释，并向实际应用迈进。它集成了两级注意力：</p><ol><li>Object-level attention model利用CNN中的全局平均池化（global average pooling）来提取用于定位图像对象的显著性映射（saliency map），即<b>学习对象特征</b>。</li><li>Part-level attention model首先选择判别部分，然后基于神经网络的聚类模式对齐部分（aligns the parts），即<b>学习细微和局部特征</b>。</li></ol><p>Object-level attention model侧重于representative object appearance，而Part-level attention model侧重于区分子类别之间的部分特定差异。它们共同用于促进多视图和多尺度特征学习，并增强它们的相互促进以实现细粒度图像分类的良好性能。</p><p><b><i>Object-Part Spatial Constraint Model.</i></b> 大多数现有的弱监督方法<a href=\"https://link.zhihu.com/?target=https%3A//ieeexplore.ieee.org/document/7780497\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[7]</a>，<a href=\"https://link.zhihu.com/?target=https%3A//ieeexplore.ieee.org/document/7410088\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[14]</a>忽略了对象及其各部分之间以及这些部分之间的空间关系，这两者对于判别部分选择都非常有用。 为了解决这个问题，我们提出了由对象 - 部分空间约束模型（object-part spatial constraint model）驱动的部分选择方法（part selection approach），它结合了两种类型的空间约束：</p><ol><li>Object spatial constraint强制所选部分位于对象区域并具有高度表征性（highly representative）。</li><li>Part spatial constraint减少了部分之间的重叠并突出了部分的显著性，这消除了冗余并增强了对所选部分的判别。</li></ol><p>两种空间约束的结合不仅通过利用细微和局部区分显著地促进了判别部分的选择，而且在细粒度图像分类方面也实现了显著的改进。</p><h2>OPAM APPROACH</h2><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-378dc9de596c9df1726500877791ff46_b.jpg\" data-rawwidth=\"1192\" data-rawheight=\"573\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1192\" data-original=\"https://pic3.zhimg.com/v2-378dc9de596c9df1726500877791ff46_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1192&#39; height=&#39;573&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1192\" data-rawheight=\"573\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1192\" data-original=\"https://pic3.zhimg.com/v2-378dc9de596c9df1726500877791ff46_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-378dc9de596c9df1726500877791ff46_b.jpg\"/></figure><p>文章的方法基于一个直观的想法：细粒度图像分类通常首先<b>localizes the object </b>(object-level attention)，然后<b>discriminative parts</b> (part-level attention)。例如，识别包含Field Sparrow的图像遵循过程，即首先找到一只鸟，然后专注于区别于其他鸟类别的辨别部分。 文章提出了弱监督细粒度图像分类的对象 - 部分注意模型，它既不在训练阶段也不在测试阶段使用对象和部分注释，而只使用图像级别子类别标签。 如图3所示，<b>文章的OPAM方法首先通过对象级注意模型进行图像对象的定位来学习对象特征，然后通过部分级注意模型选择判别部分来学习细微和局部特征。</b></p><p><b><i>A. Object-level Attention Model</i></b></p><p>大多数现有的弱监督工作<a href=\"https://link.zhihu.com/?target=https%3A//ieeexplore.ieee.org/document/7780497\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[7]</a>，<a href=\"https://link.zhihu.com/?target=https%3A//ieeexplore.ieee.org/document/7410088\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[14]</a>，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1504.08289\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[20]</a>致力于判别部分选择（discriminative part selection），但忽略了对象定位（object localization），这可以消除图像中背景噪声的影响，以学习有意义和有代表性的对象特征。虽然有些方法同时考虑对象定位和部分选择，但它们依赖于对象和部分注释（object and part annotations）<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1407.3867\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[6]</a>，<a href=\"https://link.zhihu.com/?target=https%3A//people.eecs.berkeley.edu/~nzhang/papers/iccv13_dpd.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[19]</a>。</p><p>为了解决这个重要问题，文章提出了一种基于显著性提取（saliency extraction）的对象级注意模型，用于仅使用图像级子类别标签自动定位图像对象，而无需任何对象或部分注释。该模型由两部分组成：<b>patch filtering</b> 和 <b>saliency extraction</b>。第一个组件是过滤掉噪声图像块并保留与对象相关的图像块，用于训练CNN，称为ClassNet，以学习特定子类别的多视图和多尺度特征。第二个组件是通过CNN中的全局平均池化来提取显著性映射，以便定位图像对象。</p><p><i>1) Patch Filtering: </i>大量的训练数据对于CNN的表现具有重要意义，因此我们首先关注如何扩展训练数据。 自下而上的过程可以通过将像素分组到可能包含对象的区域中来生成数千个候选图像块。 由于它们与对象的相关性，这些图像块可以用作训练数据的扩展。 因此，采用选择性搜索（selective search）<a href=\"https://link.zhihu.com/?target=http%3A//www.huppelen.nl/publications/selectiveSearchDraft.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[9]</a>来生成给定图像的候选图像块，这是一种无监督且广泛使用的自底向上处理方法。 这些候选图像块提供原始图像的多个视图和尺度，这有利于训练有效的CNN以实现更好的细粒度图像分类准确性。 然而，由于高召回率但精度低，这些图像块不能直接使用，这意味着存在一些噪声。 对象级注意模型非常有助于选择与对象相关的图像块。</p><p>移除噪声图像块，通过CNN选择相关图像块，称为<b>FilterNet</b>，这是在ImageNet 1K数据集上预先训练的，然后对训练数据进行微调。我们将属于输入图像子类别的softmax层中神经元的激活函数定义为selection confidence score，然后设置阈值以决定是否应该选择给定的候选图像块。然后我们获得具有多个视图和尺度的与对象相关的图像块。扩展训练数据提高了ClassNet的训练效果，这对OPAM方法有两个好处：（1）ClassNet本身就是一种有效的细粒度图像分类器。 （2）其内部特征对于构建用于将具有相同语义的部分对齐在一起的部分集群非常有帮助，这将在后面的子部分B中进行描述。应注意，<b>patch filtering</b>仅在训练阶段执行且仅使用图像级子类别标签。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ac50dc0047c1a0d26058de7dbfff547b_b.jpg\" data-rawwidth=\"1190\" data-rawheight=\"349\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1190\" data-original=\"https://pic4.zhimg.com/v2-ac50dc0047c1a0d26058de7dbfff547b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1190&#39; height=&#39;349&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1190\" data-rawheight=\"349\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1190\" data-original=\"https://pic4.zhimg.com/v2-ac50dc0047c1a0d26058de7dbfff547b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ac50dc0047c1a0d26058de7dbfff547b_b.jpg\"/></figure><p>2）<i>Saliency Extraction: </i>在该阶段，采用CAM <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1512.04150\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[28]</a>来获得子类别c的图像的显著性图Mc以定位对象。 显著图表示CNN用于识别图像的子类别的代表区域（representative regions），如图4的第二行所示。然后，如图4的第三行所示，通过在显著性图上执行二值化和连通性区域提取（binarization and connectivity area extraction）来获得图像的对象区域。</p><p><b><i>B. Part-level Attention Model</i></b></p><p>由于诸如头部和身体之类的辨别部分对于细粒度图像分类是至关重要的，因此先前的工作<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1407.3867\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[6]</a>通过自下而上过程，如选择性搜索，产生的候选图像块中选择判别部分。 然而，这些工作依赖于非常耗费人力的部分注释。 虽然有些工作开始专注于在不使用任何部分注释的情况下找到判别部分<a href=\"https://link.zhihu.com/?target=https%3A//ieeexplore.ieee.org/document/7780497\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[7]</a>，<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1411.6447\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[15]</a>，但它们忽略了对象及其部分之间以及这些部分之间的空间关系。 因此，文章提出了一种新的部分选择方法，由部分级注意力驱动，利用细微和局部判别来区分子类别，既不使用对象注释也不使用部分注释。 它由两部分组成：bject-part spatial constraint model 和 part alignment。 第一部分是选择判别部分，第二部分是通过语义将所选部分对齐成簇。</p>", 
+            "topic": [
+                {
+                    "tag": "图像识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19588774"
+                }, 
+                {
+                    "tag": "计算机视觉", 
+                    "tagLink": "https://api.zhihu.com/topics/19590195"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "那就这样吧", 
+                    "userLink": "https://www.zhihu.com/people/f088914ffb339fc5fdd4b4008fe76c5e", 
+                    "content": "<p>你好请问还有后面部分的分析么</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1041277122668662784"
+}

@@ -1,0 +1,111 @@
+{
+    "title": "Studio", 
+    "description": "随笔日记，处于自然语言处理，机器学习，文化的交界", 
+    "followers": [
+        "https://www.zhihu.com/people/zhou-zhou-35-29", 
+        "https://www.zhihu.com/people/ins-32", 
+        "https://www.zhihu.com/people/xi-mei-er-37", 
+        "https://www.zhihu.com/people/li-hai-xia-63", 
+        "https://www.zhihu.com/people/song-ying-shuai", 
+        "https://www.zhihu.com/people/li-ming-hao-79", 
+        "https://www.zhihu.com/people/limou-59", 
+        "https://www.zhihu.com/people/wang-teng-59-87", 
+        "https://www.zhihu.com/people/hunter-12-98", 
+        "https://www.zhihu.com/people/qet159357", 
+        "https://www.zhihu.com/people/linuxcpp", 
+        "https://www.zhihu.com/people/zhang-yan-bing-89", 
+        "https://www.zhihu.com/people/bessie-65-74", 
+        "https://www.zhihu.com/people/kong-chui-shun", 
+        "https://www.zhihu.com/people/sjhstone", 
+        "https://www.zhihu.com/people/homer-wong-33", 
+        "https://www.zhihu.com/people/gong-pan-94", 
+        "https://www.zhihu.com/people/li-wen-qi-14-93", 
+        "https://www.zhihu.com/people/ray-35-89", 
+        "https://www.zhihu.com/people/jianping", 
+        "https://www.zhihu.com/people/lee-14-34-89", 
+        "https://www.zhihu.com/people/vipfuture", 
+        "https://www.zhihu.com/people/an-ge-29", 
+        "https://www.zhihu.com/people/edwin7", 
+        "https://www.zhihu.com/people/zhao-zhong-90-51", 
+        "https://www.zhihu.com/people/xl-xl", 
+        "https://www.zhihu.com/people/liu-xiao-yao-12", 
+        "https://www.zhihu.com/people/song-41-62-24", 
+        "https://www.zhihu.com/people/sausantt", 
+        "https://www.zhihu.com/people/jacquesdong", 
+        "https://www.zhihu.com/people/qixubin", 
+        "https://www.zhihu.com/people/itsliupeng", 
+        "https://www.zhihu.com/people/wang-yong-bo-94", 
+        "https://www.zhihu.com/people/yan-rui-3-24", 
+        "https://www.zhihu.com/people/cheng-wallace", 
+        "https://www.zhihu.com/people/yuan-li08", 
+        "https://www.zhihu.com/people/aegeaner", 
+        "https://www.zhihu.com/people/bluesky0", 
+        "https://www.zhihu.com/people/acykah", 
+        "https://www.zhihu.com/people/zhou-li-xing-90", 
+        "https://www.zhihu.com/people/lambda42", 
+        "https://www.zhihu.com/people/GFR.E", 
+        "https://www.zhihu.com/people/wu-kong-89-99", 
+        "https://www.zhihu.com/people/nick-won", 
+        "https://www.zhihu.com/people/xu-tai-yuan-44", 
+        "https://www.zhihu.com/people/weiai", 
+        "https://www.zhihu.com/people/bian-yuan-qing-nian-free", 
+        "https://www.zhihu.com/people/ariwaranosai", 
+        "https://www.zhihu.com/people/bingrun-yau"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20327596", 
+            "userName": "紫杉", 
+            "userLink": "https://www.zhihu.com/people/d56d775bba37cc18bfdea8ec67ab91cb", 
+            "upvote": 5, 
+            "title": "Theano (1)", 
+            "content": "Palo Alto的早晨好冷。。再加上没有太阳，所以就不想出门了。不想把这个叫做“学习笔记”，因为实在有太多学习笔记，看多了就觉得很烦。但是如果叫做Tutorial（教程），又必须到达把人教会的地步为止，所以只好写个伟大的Theano当做标题，就当做是Theano中让人感到惊奇的地方了吧（我还算是Python新手，对Cython，Numpy，Scipy等等还不够熟悉，所以对我来讲很惊异的事情，不一定对高手来讲很惊奇，所以这点请见谅）。<p>各种知识点来自于<a href=\"https://link.zhihu.com/?target=http%3A//deeplearning.net/software/theano/tutorial/examples.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">More Examples</a>（官方指南的某页）和一本暂时还没开卖的书，是Manning出版社的MEAP系列，叫做《Fundamentals of Deep Learning》（深度学习基础），希望以后国内能有所翻译。</p><p>这不是教程，这不是教程，这不是教程，所以在对Theano一点知识都没有的情况下，请不要阅读这玩意。这是一篇变相吐槽文。</p><p>包含知识点：</p><p>Shared Variable 共享变量</p><p>Given 函数对象的其中一个参数</p><p>Borrowing 租赁（指针）</p><br/><p>= Shared Variable =</p><p>共享变量。《深度学习基础》书里说这玩意是（Stateful function）有状态方程的必备物。这种说了等于没说的东西其实还是不提的好。实际上共享变量基本上算是值会变化的变量，尤其是能让人手动调整其变化的变量。所有在</p><div class=\"highlight\"><pre><code class=\"language-text\">theano.function(updates=((a, b), (c,d)))</code></pre></div><p>updates里面的变量，都必须是共享变量。比较常见的“共享”变量包括机器学习算法中的权重（weights），或者需要学到的参数（比如回归中的beta值等等）</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"n\">w</span> <span class=\"o\">=</span> <span class=\"n\">theano</span><span class=\"o\">.</span><span class=\"n\">shared</span><span class=\"p\">(</span><span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">random</span><span class=\"o\">.</span><span class=\"n\">randn</span><span class=\"p\">(</span><span class=\"mi\">700</span><span class=\"p\">),</span> <span class=\"n\">name</span><span class=\"o\">=</span><span class=\"s2\">&#34;w&#34;</span><span class=\"p\">)</span> \n<span class=\"n\">b</span> <span class=\"o\">=</span> <span class=\"n\">theano</span><span class=\"o\">.</span><span class=\"n\">shared</span><span class=\"p\">(</span><span class=\"mf\">0.</span><span class=\"p\">,</span> <span class=\"n\">name</span><span class=\"o\">=</span><span class=\"s2\">&#34;b&#34;</span><span class=\"p\">)</span>\n<span class=\"n\">train</span> <span class=\"o\">=</span> <span class=\"n\">theano</span><span class=\"o\">.</span><span class=\"n\">function</span><span class=\"p\">(</span><span class=\"n\">inputs</span><span class=\"o\">=</span><span class=\"p\">[</span><span class=\"n\">x</span><span class=\"p\">,</span> <span class=\"n\">y</span><span class=\"p\">],</span> <span class=\"n\">outputs</span><span class=\"o\">=</span><span class=\"p\">[</span><span class=\"n\">prediction</span><span class=\"p\">,</span> <span class=\"n\">xent</span><span class=\"p\">],</span> <span class=\"n\">updates</span><span class=\"o\">=</span><span class=\"p\">((</span><span class=\"n\">w</span><span class=\"p\">,</span> <span class=\"n\">w</span> <span class=\"o\">-</span> <span class=\"mf\">0.1</span> <span class=\"o\">*</span> <span class=\"n\">gw</span><span class=\"p\">),</span> <span class=\"p\">(</span><span class=\"n\">b</span><span class=\"p\">,</span> <span class=\"n\">b</span> <span class=\"o\">-</span> <span class=\"mf\">0.1</span> <span class=\"o\">*</span> <span class=\"n\">gb</span><span class=\"p\">)))</span></code></pre></div><p>= Givens =</p><p>这是在theano.function()中的一个参数（Parameter），和update很像，也是接受一个Pair，一组变量，当然也可以是一个key-value map（数值键）。从某种意义上来讲——至少官方指南是这样说得，given可以用来保持共享变量的状态不变，来动态替换共享变量——好奇葩的用途。</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"n\">state</span> <span class=\"o\">=</span> <span class=\"n\">shared</span><span class=\"p\">(</span><span class=\"mi\">0</span><span class=\"p\">)</span>\n<span class=\"n\">inc</span> <span class=\"o\">=</span> <span class=\"n\">T</span><span class=\"o\">.</span><span class=\"n\">iscalar</span><span class=\"p\">(</span><span class=\"s1\">&#39;inc&#39;</span><span class=\"p\">)</span>\n<span class=\"n\">fn_of_state</span> <span class=\"o\">=</span> <span class=\"n\">state</span> <span class=\"o\">*</span> <span class=\"mi\">2</span> <span class=\"o\">+</span> <span class=\"n\">inc</span>\n<span class=\"n\">foo</span> <span class=\"o\">=</span> <span class=\"n\">T</span><span class=\"o\">.</span><span class=\"n\">scalar</span><span class=\"p\">(</span><span class=\"n\">dtype</span><span class=\"o\">=</span><span class=\"n\">state</span><span class=\"o\">.</span><span class=\"n\">dtype</span><span class=\"p\">)</span>\n<span class=\"n\">skip_shared</span> <span class=\"o\">=</span> <span class=\"n\">function</span><span class=\"p\">([</span><span class=\"n\">inc</span><span class=\"p\">,</span> <span class=\"n\">foo</span><span class=\"p\">],</span> <span class=\"n\">fn_of_state</span><span class=\"p\">,</span> <span class=\"n\">givens</span><span class=\"o\">=</span><span class=\"p\">[(</span><span class=\"n\">state</span><span class=\"p\">,</span> <span class=\"n\">foo</span><span class=\"p\">)])</span>\n</code></pre></div><p>就这样，每次将foo替换state，所以如果执行</p><div class=\"highlight\"><pre><code class=\"language-text\">skip_shared(1, 3)</code></pre></div><p>我们会自然的得到7（[foo=3] * 2 + [inc=1] = 7）。然后如果我们查看state的值：state.get_value()，我们会发现值一直为0。现在让我们来试试官方指南没有进行的尝试，如果我将上面的简单代码改成如下，什么会发生呢？</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"n\">skip_shared</span> <span class=\"o\">=</span> <span class=\"n\">function</span><span class=\"p\">([</span><span class=\"n\">inc</span><span class=\"p\">,</span> <span class=\"n\">foo</span><span class=\"p\">],</span> <span class=\"n\">fn_of_state</span><span class=\"p\">,</span> \n<span class=\"n\">updates</span><span class=\"o\">=</span><span class=\"p\">[(</span><span class=\"n\">state</span><span class=\"p\">,</span> <span class=\"n\">state</span> <span class=\"o\">+</span> <span class=\"n\">inc</span><span class=\"p\">)],</span> <span class=\"n\">givens</span><span class=\"o\">=</span><span class=\"p\">[(</span><span class=\"n\">state</span><span class=\"p\">,</span> <span class=\"n\">foo</span><span class=\"p\">)])</span>\n</code></pre></div><p>如果在这里加上updates条件，state变量在一次执行后会变成什么呢？答案是4。为什么？因为整个state变量的值被foo替换了，包括在updates中，state = state + inc，实际变为了state = foo + inc。而且state的值将会一直为4，不会改变。是不是挺有趣的？（但是一点实际作用都木有）</p><p>好歹还有《深度学习基础》图书来拯救。这本书提供了一个比较有用的用法：<br/></p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"n\">state</span> <span class=\"o\">=</span> <span class=\"n\">shared</span><span class=\"p\">(</span><span class=\"mi\">0</span><span class=\"p\">)</span>\n<span class=\"n\">query</span> <span class=\"o\">=</span> <span class=\"n\">T</span><span class=\"o\">.</span><span class=\"n\">dvector</span><span class=\"p\">(</span><span class=\"s1\">&#39;query&#39;</span><span class=\"p\">)</span>\n<span class=\"n\">W</span> <span class=\"o\">=</span> <span class=\"n\">T</span><span class=\"o\">.</span><span class=\"n\">dvector</span><span class=\"p\">(</span><span class=\"s2\">&#34;W&#34;</span><span class=\"p\">)</span>  <span class=\"c1\"># model parameter</span>\n<span class=\"n\">result</span> <span class=\"o\">=</span> <span class=\"n\">T</span><span class=\"o\">.</span><span class=\"n\">dot</span><span class=\"p\">(</span><span class=\"n\">W</span><span class=\"p\">,</span> <span class=\"n\">query</span><span class=\"p\">)</span> <span class=\"o\">&gt;</span> <span class=\"mi\">0</span>\n<span class=\"n\">sentiment</span> <span class=\"o\">=</span> <span class=\"n\">function</span><span class=\"p\">(</span><span class=\"n\">inputs</span><span class=\"o\">=</span><span class=\"p\">[</span><span class=\"n\">query</span><span class=\"p\">],</span> <span class=\"n\">outputs</span><span class=\"o\">=</span><span class=\"n\">result</span><span class=\"p\">,</span>\n                     <span class=\"n\">updates</span><span class=\"o\">=</span><span class=\"p\">[(</span><span class=\"n\">state</span><span class=\"p\">,</span> <span class=\"n\">state</span> <span class=\"o\">+</span> <span class=\"mi\">1</span><span class=\"p\">)],</span>\n                     <span class=\"n\">givens</span><span class=\"o\">=</span><span class=\"p\">{</span>\n                         <span class=\"n\">W</span><span class=\"p\">:</span> <span class=\"n\">np</span><span class=\"o\">.</span><span class=\"n\">array</span><span class=\"p\">([</span><span class=\"mi\">1</span><span class=\"p\">,</span> <span class=\"o\">-</span><span class=\"mi\">2</span><span class=\"p\">,</span> <span class=\"mi\">3</span><span class=\"p\">,</span> <span class=\"o\">-</span><span class=\"mf\">0.5</span><span class=\"p\">,</span> <span class=\"mi\">1</span><span class=\"p\">])</span>\n                     <span class=\"p\">})</span></code></pre></div><p>这是什么意思呢？把given作为一个赋值器，传入不变的常量，这样读者就不用自己传入了。该书声明如此赋值能让Theano对graph structure（图结构）进行优化，但我还没能进行验证：）说不定以后验证了再来补完这一节。</p><p>小记：关于不改变变量，no_default_updates=False 可以关闭对变量的自动更新，但这一般是针对随机变量的。方程会自动更新所有变量（在完成一次执行后），除了那些有特殊标记的变量，或者在updates=中的变量。</p><p>= Borrowing =</p><p>这是Theano里面第一个让我吃惊的概念，这仿佛让我看到了“指针”这样的存在——虽然对于Python来讲，估计都是Pass-by-reference。官方的教程厚颜无耻的在最基础的部分各种使用borrow，看得我这个初学者是一愣一愣的。于是仔细研究了一下，发现这玩意还真的比较有趣。</p><p>一共有三种Borrow模式，前两种我稍有探索，最后一种只是在这里提及一下，以后有机会再补充。</p><p>== Borrowing When Creating Shared Variable ==</p><p>在创造共享变量的时候实现Borrow。</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"kn\">import</span> <span class=\"nn\">numpy</span><span class=\"o\">,</span> <span class=\"nn\">theano</span>\n<span class=\"n\">np_array</span> <span class=\"o\">=</span> <span class=\"n\">numpy</span><span class=\"o\">.</span><span class=\"n\">ones</span><span class=\"p\">(</span><span class=\"mi\">2</span><span class=\"p\">,</span> <span class=\"n\">dtype</span><span class=\"o\">=</span><span class=\"s1\">&#39;float32&#39;</span><span class=\"p\">)</span>\n\n<span class=\"n\">s_default</span> <span class=\"o\">=</span> <span class=\"n\">theano</span><span class=\"o\">.</span><span class=\"n\">shared</span><span class=\"p\">(</span><span class=\"n\">np_array</span><span class=\"p\">)</span>\n<span class=\"n\">s_false</span>   <span class=\"o\">=</span> <span class=\"n\">theano</span><span class=\"o\">.</span><span class=\"n\">shared</span><span class=\"p\">(</span><span class=\"n\">np_array</span><span class=\"p\">,</span> <span class=\"n\">borrow</span><span class=\"o\">=</span><span class=\"bp\">False</span><span class=\"p\">)</span>\n<span class=\"n\">s_true</span>    <span class=\"o\">=</span> <span class=\"n\">theano</span><span class=\"o\">.</span><span class=\"n\">shared</span><span class=\"p\">(</span><span class=\"n\">np_array</span><span class=\"p\">,</span> <span class=\"n\">borrow</span><span class=\"o\">=</span><span class=\"bp\">True</span><span class=\"p\">)</span> </code></pre></div><p>其实真心就是指针杠杠的。当创造一个共享变量，开启Borrow模式，任何在np_array上进行的操作就会影响到s_true共享变量了。</p><p>== Borrowing When Accessing Value of Shared Variables ==</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"n\">v_false</span> <span class=\"o\">=</span> <span class=\"n\">s</span><span class=\"o\">.</span><span class=\"n\">get_value</span><span class=\"p\">(</span><span class=\"n\">borrow</span><span class=\"o\">=</span><span class=\"bp\">False</span><span class=\"p\">)</span> \n<span class=\"n\">v_true</span> <span class=\"o\">=</span> <span class=\"n\">s</span><span class=\"o\">.</span><span class=\"n\">get_value</span><span class=\"p\">(</span><span class=\"n\">borrow</span><span class=\"o\">=</span><span class=\"bp\">True</span><span class=\"p\">)</span>\n<span class=\"n\">v_internal</span> <span class=\"o\">=</span> <span class=\"n\">s</span><span class=\"o\">.</span><span class=\"n\">get_value</span><span class=\"p\">(</span><span class=\"n\">borrow</span><span class=\"o\">=</span><span class=\"bp\">True</span><span class=\"p\">,</span> <span class=\"n\">return_internal_type</span><span class=\"o\">=</span><span class=\"bp\">True</span><span class=\"p\">)</span></code></pre></div><p>在这里，官方指南讲了一堆，实际上就是一点，当你读取共享变量值的时候（很多时候是在某theano function已经改变值了后，如果不开启borrow，Theano会另外创建一个变量，将原本值拷贝给那个变量，然后给你——简直是劳民伤财啊，估计就是怕程序员乱搞吧。所以传入一个borrow=True，告诉Theano不必大费周章，会提高很多运行速度。</p><p>聪明的中国程序员们一定会想，既然能拿出在内部的变量，能否进行更改呢？好想法，但是因为Theano也会在GPU上跑，所以如果创造的算法依赖对共享变量的取出更改操作，那么该算法就不能在GPU上跑了。</p><p>最后一个return_internal_type=True，是强制（保证一定）返回Theano内部的变量，并不一定是你传进去变量的数据类型。但经过一些尝试，只要不在GPU上跑，就算是开启了return_internal_type=True，返回来的也和传进去的值相同：）</p><p>== Borrowing When Constructing Function Objects ==</p><p>这算是很无聊但是比较有趣的一节了。强调的是，在创建函数时，应该尽可能的开启Borrow模式，来提升运算速度。</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"n\">x</span> <span class=\"o\">=</span> <span class=\"n\">theano</span><span class=\"o\">.</span><span class=\"n\">tensor</span><span class=\"o\">.</span><span class=\"n\">matrix</span><span class=\"p\">()</span>\n<span class=\"n\">y</span> <span class=\"o\">=</span> <span class=\"mi\">2</span> <span class=\"o\">*</span> <span class=\"n\">x</span>\n<span class=\"n\">f</span> <span class=\"o\">=</span> <span class=\"n\">theano</span><span class=\"o\">.</span><span class=\"n\">function</span><span class=\"p\">([</span><span class=\"n\">theano</span><span class=\"o\">.</span><span class=\"n\">In</span><span class=\"p\">(</span><span class=\"n\">x</span><span class=\"p\">,</span> <span class=\"n\">borrow</span><span class=\"o\">=</span><span class=\"bp\">True</span><span class=\"p\">)],</span> <span class=\"n\">theano</span><span class=\"o\">.</span><span class=\"n\">Out</span><span class=\"p\">(</span><span class=\"n\">y</span><span class=\"p\">,</span> <span class=\"n\">borrow</span><span class=\"o\">=</span><span class=\"bp\">True</span><span class=\"p\">))</span></code></pre></div><p>官方指南介绍的很长，但简单来讲，这玩意也是给GPU提速用的，开启之后，提速15倍左右（有测试）。使用的条件是，如果你传入后就不再用x变量了，就该开启传入，当你返回一个很大的y值（占记忆量很大），而你只需要读取一次的情况下，开启borrow也能让速度大幅提升。</p><p>写了这么多，本来承诺不写机器学习的内容，只写我稍微比较了解的Scala或者自然语言处理。但正在学Theano嘛，不写不好玩。。。所以各种请见谅。（这篇文章会再更新一两节，直到我想写第二篇系列文为止）</p>", 
+            "topic": [
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "ulysses", 
+                    "userLink": "https://www.zhihu.com/people/d66c7c7e95b09b097bb405423074ee26", 
+                    "content": "为什么没人评论了。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "紫杉", 
+                            "userLink": "https://www.zhihu.com/people/d56d775bba37cc18bfdea8ec67ab91cb", 
+                            "content": "因为是很早以前随手写的。。现在大家用tensotflow了", 
+                            "likes": 0, 
+                            "replyToAuthor": "ulysses"
+                        }, 
+                        {
+                            "userName": "ulysses", 
+                            "userLink": "https://www.zhihu.com/people/d66c7c7e95b09b097bb405423074ee26", 
+                            "content": "哦？博主能否告知一下你本科国内哪个学校的，在下CS专业一名大三本科生，今年暑假去过Stanford，仰望你现在里面做研究。", 
+                            "likes": 0, 
+                            "replyToAuthor": "紫杉"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "徐宁", 
+                    "userLink": "https://www.zhihu.com/people/440c962d086b274aba8a968cb0fad5fb", 
+                    "content": "到处都没找到manning版的《深度学习基础》，只有o'relly版的，能给个链接吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "紫杉", 
+                            "userLink": "https://www.zhihu.com/people/d56d775bba37cc18bfdea8ec67ab91cb", 
+                            "content": "<p>Manning版本我是买的- -！不过现在都不太推荐了。。直接去看各种公开课的代码集会更好，然后直接学TF吧！</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "徐宁"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/wstudio"
+}

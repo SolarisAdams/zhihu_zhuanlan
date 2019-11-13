@@ -1,0 +1,802 @@
+{
+    "title": "小熊猫的数据分析学习之路", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/ge-shi-jing-nian-de-ss", 
+        "https://www.zhihu.com/people/cloud-44-66", 
+        "https://www.zhihu.com/people/pi-pi-de-wo-74-23", 
+        "https://www.zhihu.com/people/jardeko", 
+        "https://www.zhihu.com/people/chu-yan-hun", 
+        "https://www.zhihu.com/people/tiffanywq", 
+        "https://www.zhihu.com/people/jiang-yi-32-63", 
+        "https://www.zhihu.com/people/deyu-36", 
+        "https://www.zhihu.com/people/mo-zi-huang-6", 
+        "https://www.zhihu.com/people/du-du-6-13", 
+        "https://www.zhihu.com/people/da-wei-14-74", 
+        "https://www.zhihu.com/people/si-lang-31-39", 
+        "https://www.zhihu.com/people/kai-la-76", 
+        "https://www.zhihu.com/people/qiu-yi-rong-27", 
+        "https://www.zhihu.com/people/liu-yi-ting-2-81", 
+        "https://www.zhihu.com/people/chen-zhe-36-56", 
+        "https://www.zhihu.com/people/sxsl-47", 
+        "https://www.zhihu.com/people/wang-yu-64-5", 
+        "https://www.zhihu.com/people/nan-jun-han", 
+        "https://www.zhihu.com/people/yi-ke-deng-dai-kai-hua-de-yang-cong", 
+        "https://www.zhihu.com/people/su-geng-sheng-70", 
+        "https://www.zhihu.com/people/ge-bi-lao-47", 
+        "https://www.zhihu.com/people/chenyi-68", 
+        "https://www.zhihu.com/people/wengting", 
+        "https://www.zhihu.com/people/chen-mou-ren-52-99", 
+        "https://www.zhihu.com/people/uniquemai", 
+        "https://www.zhihu.com/people/112-81-76", 
+        "https://www.zhihu.com/people/hades-31-93", 
+        "https://www.zhihu.com/people/yu-wei-kang", 
+        "https://www.zhihu.com/people/minway", 
+        "https://www.zhihu.com/people/AI_Technology", 
+        "https://www.zhihu.com/people/han-yao-bin-178", 
+        "https://www.zhihu.com/people/jia-li-96-11", 
+        "https://www.zhihu.com/people/123-75-28-61", 
+        "https://www.zhihu.com/people/bian-fu-xiao-wan-zi", 
+        "https://www.zhihu.com/people/zhou-yi-lun-89", 
+        "https://www.zhihu.com/people/he-xiao-xiao-43", 
+        "https://www.zhihu.com/people/dong-fang-xiao-xiao-feng", 
+        "https://www.zhihu.com/people/fu-yi-ming-50-73", 
+        "https://www.zhihu.com/people/hgs7", 
+        "https://www.zhihu.com/people/mi-mi-mi-la", 
+        "https://www.zhihu.com/people/lucillegyl", 
+        "https://www.zhihu.com/people/quan-yuan-you-de-mai-mai", 
+        "https://www.zhihu.com/people/lin-chun-65-28", 
+        "https://www.zhihu.com/people/rebecca-deng", 
+        "https://www.zhihu.com/people/wang-ming-66-71", 
+        "https://www.zhihu.com/people/dong-dong-19-86", 
+        "https://www.zhihu.com/people/liu-yu-chen-66-65", 
+        "https://www.zhihu.com/people/jony-84", 
+        "https://www.zhihu.com/people/CN_zou", 
+        "https://www.zhihu.com/people/mo-shang-70-31", 
+        "https://www.zhihu.com/people/allen-li-73-5", 
+        "https://www.zhihu.com/people/gua-niu-bei-shang-de-ma-yi-98", 
+        "https://www.zhihu.com/people/xi-xi-33-58-11", 
+        "https://www.zhihu.com/people/du-lin-47-67", 
+        "https://www.zhihu.com/people/jian-zhuang-zhuang-1", 
+        "https://www.zhihu.com/people/cai-tou-84-7", 
+        "https://www.zhihu.com/people/shepherd-xray", 
+        "https://www.zhihu.com/people/ireneliu", 
+        "https://www.zhihu.com/people/dan-dan-82-52-64", 
+        "https://www.zhihu.com/people/ren-zhi-jie-4", 
+        "https://www.zhihu.com/people/biao-dao-cao-la", 
+        "https://www.zhihu.com/people/la-la-la-15-65", 
+        "https://www.zhihu.com/people/zhao-ya-xi-66", 
+        "https://www.zhihu.com/people/li-jia-jia-15-88", 
+        "https://www.zhihu.com/people/li-xue-46-70", 
+        "https://www.zhihu.com/people/wei-84-56-44", 
+        "https://www.zhihu.com/people/de-zi-hao-qiao-ke-li", 
+        "https://www.zhihu.com/people/mirror-sun", 
+        "https://www.zhihu.com/people/mi-xue-81-86", 
+        "https://www.zhihu.com/people/cheng-feng-yixie", 
+        "https://www.zhihu.com/people/mu-ou-75-49", 
+        "https://www.zhihu.com/people/zang568", 
+        "https://www.zhihu.com/people/zhui-feng-30-19", 
+        "https://www.zhihu.com/people/xiaobinzhan", 
+        "https://www.zhihu.com/people/zoey-12-81", 
+        "https://www.zhihu.com/people/yema69", 
+        "https://www.zhihu.com/people/sakurai-95", 
+        "https://www.zhihu.com/people/xiang-ri-kui-xiao-wan-zi-93", 
+        "https://www.zhihu.com/people/xiao-cao-48-16", 
+        "https://www.zhihu.com/people/xin-jing-44-86", 
+        "https://www.zhihu.com/people/hou-xiang-26-60", 
+        "https://www.zhihu.com/people/hao-jian-yi-55", 
+        "https://www.zhihu.com/people/zha-ke-81", 
+        "https://www.zhihu.com/people/xia-xian-jun-75", 
+        "https://www.zhihu.com/people/lin-sen-65-73", 
+        "https://www.zhihu.com/people/xiao-wei-42-54", 
+        "https://www.zhihu.com/people/binfelix", 
+        "https://www.zhihu.com/people/floverman", 
+        "https://www.zhihu.com/people/sanghaibo", 
+        "https://www.zhihu.com/people/li-qiang-19-47", 
+        "https://www.zhihu.com/people/maggie_ling", 
+        "https://www.zhihu.com/people/qin-yan-chao-53", 
+        "https://www.zhihu.com/people/yin-yan-guo-5", 
+        "https://www.zhihu.com/people/nizi2905", 
+        "https://www.zhihu.com/people/wang-shang-ou-ba", 
+        "https://www.zhihu.com/people/murrddol", 
+        "https://www.zhihu.com/people/xiao-wei-82-8-25", 
+        "https://www.zhihu.com/people/jackkychoi", 
+        "https://www.zhihu.com/people/xiao-yi-69-71", 
+        "https://www.zhihu.com/people/zong-yuan-zi-2", 
+        "https://www.zhihu.com/people/tang-tang-17-78", 
+        "https://www.zhihu.com/people/bai-du-78-13", 
+        "https://www.zhihu.com/people/zhang-jian-93-42", 
+        "https://www.zhihu.com/people/wu-peng-28-61", 
+        "https://www.zhihu.com/people/hhhhhh-7-72", 
+        "https://www.zhihu.com/people/zai-zai-72-89", 
+        "https://www.zhihu.com/people/bei-hou-you-ren-cy", 
+        "https://www.zhihu.com/people/ren-xiao-ma-29", 
+        "https://www.zhihu.com/people/wang-xin-98-8-84", 
+        "https://www.zhihu.com/people/jiu-bu-gao-su-ni-41", 
+        "https://www.zhihu.com/people/fang-ning-74-39", 
+        "https://www.zhihu.com/people/dong-tao-23", 
+        "https://www.zhihu.com/people/axurez", 
+        "https://www.zhihu.com/people/suan-zi", 
+        "https://www.zhihu.com/people/hua-dong-yu", 
+        "https://www.zhihu.com/people/hope.com", 
+        "https://www.zhihu.com/people/zhang-yu-chao-42", 
+        "https://www.zhihu.com/people/huc_zhangjingxin", 
+        "https://www.zhihu.com/people/NetInfo", 
+        "https://www.zhihu.com/people/lu-yu-47-12", 
+        "https://www.zhihu.com/people/yun-duo-li-de-cai-hong-tang", 
+        "https://www.zhihu.com/people/over457", 
+        "https://www.zhihu.com/people/lew-ak", 
+        "https://www.zhihu.com/people/shao-yu-yue", 
+        "https://www.zhihu.com/people/qu-bo-ya", 
+        "https://www.zhihu.com/people/xu-ying-79-83", 
+        "https://www.zhihu.com/people/zhang-wei-qiang-16", 
+        "https://www.zhihu.com/people/ting-feng-39-21", 
+        "https://www.zhihu.com/people/cao-ming-de", 
+        "https://www.zhihu.com/people/zhang-yi-yin-96", 
+        "https://www.zhihu.com/people/ljcassano", 
+        "https://www.zhihu.com/people/chenke-73", 
+        "https://www.zhihu.com/people/qq-www", 
+        "https://www.zhihu.com/people/du-ming-xin-yue", 
+        "https://www.zhihu.com/people/zhang-bing-yu-94", 
+        "https://www.zhihu.com/people/li-bo-90-94", 
+        "https://www.zhihu.com/people/rath-do", 
+        "https://www.zhihu.com/people/bao-bei-44", 
+        "https://www.zhihu.com/people/zhou-rong-ji-71", 
+        "https://www.zhihu.com/people/yesp", 
+        "https://www.zhihu.com/people/WaJueJiPrince", 
+        "https://www.zhihu.com/people/liu-meng-meng-68-28", 
+        "https://www.zhihu.com/people/lamlee-65", 
+        "https://www.zhihu.com/people/tang-long-30-1", 
+        "https://www.zhihu.com/people/chen-xiao-hui-26-86", 
+        "https://www.zhihu.com/people/ce-fa", 
+        "https://www.zhihu.com/people/xia-zhi-89-9", 
+        "https://www.zhihu.com/people/huang-fred-44", 
+        "https://www.zhihu.com/people/yjl-42", 
+        "https://www.zhihu.com/people/lynx-34", 
+        "https://www.zhihu.com/people/jia-wen-jian-17", 
+        "https://www.zhihu.com/people/jian-xiaoxi", 
+        "https://www.zhihu.com/people/lun-wen-59", 
+        "https://www.zhihu.com/people/greeneric", 
+        "https://www.zhihu.com/people/maizhi", 
+        "https://www.zhihu.com/people/baierhuo", 
+        "https://www.zhihu.com/people/locus-liu-87", 
+        "https://www.zhihu.com/people/yan-ru-yang-84", 
+        "https://www.zhihu.com/people/dgs-2", 
+        "https://www.zhihu.com/people/DreamerChenG", 
+        "https://www.zhihu.com/people/raymond-84-68", 
+        "https://www.zhihu.com/people/xiong-wei-wei-97", 
+        "https://www.zhihu.com/people/joannawherever", 
+        "https://www.zhihu.com/people/mu-mu-99-65-70", 
+        "https://www.zhihu.com/people/wei-han-88", 
+        "https://www.zhihu.com/people/ethanguo-74", 
+        "https://www.zhihu.com/people/raindu", 
+        "https://www.zhihu.com/people/yuan-fang-20-16", 
+        "https://www.zhihu.com/people/2yi-si-bu-gou-2", 
+        "https://www.zhihu.com/people/Deerpink", 
+        "https://www.zhihu.com/people/chen-zi-ang-67-4", 
+        "https://www.zhihu.com/people/liu-tong-geng", 
+        "https://www.zhihu.com/people/balalaika8229", 
+        "https://www.zhihu.com/people/shaina-33-30", 
+        "https://www.zhihu.com/people/Unscramble-Practice", 
+        "https://www.zhihu.com/people/datascience.summer"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26552236", 
+            "userName": "小熊猫", 
+            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+            "upvote": 27, 
+            "title": "数据分析小白的实践分享", 
+            "content": "4月22日下午，数据分析社群在广州的的7位小伙伴在某咖啡厅小聚，大家围绕数据分析进行了交流和分享，在不在意的鼓励下，我把四个月来的数据分析实践经验进行了总结，并进行了分享，如下为内容和PPT。<p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-70e8fd25cbcd8f9387eb8c770530fdd9_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic2.zhimg.com/v2-70e8fd25cbcd8f9387eb8c770530fdd9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic2.zhimg.com/v2-70e8fd25cbcd8f9387eb8c770530fdd9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-70e8fd25cbcd8f9387eb8c770530fdd9_b.jpg\"/></figure>自我介绍省略，此处略去两百字……</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-40e07f78c638370d90c9ea857cd5fd69_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic2.zhimg.com/v2-40e07f78c638370d90c9ea857cd5fd69_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic2.zhimg.com/v2-40e07f78c638370d90c9ea857cd5fd69_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-40e07f78c638370d90c9ea857cd5fd69_b.jpg\"/></figure><p>学习进度方面，主要跟随猴子的进度学习。</p><p>学习成果有10篇文章，每学习完一章，每听一场live和讲座，我都会及时的把要点记录下来。这也是我在刻意培养的学习习惯。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-41696b12136c6751ab8eccd01a63730c_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-41696b12136c6751ab8eccd01a63730c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-41696b12136c6751ab8eccd01a63730c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-41696b12136c6751ab8eccd01a63730c_b.jpg\"/></figure><p>我今天的实践经验分享，主要有三点想要分享给大家。</p><p>第一点是听课后及时记笔记，温故而知新。这个在我的学习成果里已经有所体现，10篇文章哈。这一点对我来说非常重要。因为我属于记忆力不是特别好的人，有些事情过眼就忘，如果当时没有记下来，可能以后就没有痕迹了。再者，我觉得数据分析正如猴子来说，本身就是很多套路，把套路记住，碰到问题的时候再去查资料就可以。这个查我认为就是查自己的学习笔记。</p><br/><p>第二点，在学习中不断质疑，提出自己的看法。我举一个例子来说。在第四讲里有这样一个案例，提示员工是否应该充饭卡的。我不知道这个例子你们看懂了没有，反正我是没看懂。首先，案例里面着重提到的王思聪每天吃3次饭和周星驰每天吃2次饭，在后面的代码里没有体现。其次，代码也有看不懂的地方。比如for循环里的eatNumber根本没有输入值，是不可能做数值计算的。还有对每次重复输出今天吃第几次饭也很困惑不解。总之，这个案例看得我有点晕。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-b8799749b19f6c972674ab764a2672d8_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-b8799749b19f6c972674ab764a2672d8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-b8799749b19f6c972674ab764a2672d8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b8799749b19f6c972674ab764a2672d8_b.jpg\"/></figure><p>本来我以为是不是自己没有理解，就手动敲了代码，发现果然提示有错误。</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-697d91fa90fa27603aa1dca813d795aa_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic3.zhimg.com/v2-697d91fa90fa27603aa1dca813d795aa_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic3.zhimg.com/v2-697d91fa90fa27603aa1dca813d795aa_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-697d91fa90fa27603aa1dca813d795aa_b.jpg\"/></figure><p>后来，我联系了前文猴子讲课的语境，觉得猴子可能把问题说复杂了。他应该就是想让大家练习循环语句的使用，那么有吃饭次数，和初始金额给出员工是否要取钱充卡的提示就可以了。显然这里更适合的循环是while循环。于是，我就把代码改了。</p><p>如上图所示，非常的清晰明了。有次数和金额，给出是否要充钱的提示。跟猴子沟通了之后，他也说我这样比较好，回头要更新到共享代码。</p><p>但是，这事儿还没有完。</p><p>因为，我发现，这个问题太简单了。口算就可以得出答案，用不着编程。我就想难度能不能提高一些，让题目更具有实际意义，最好把王思聪每天吃3顿饭，周星驰每天吃2顿饭的条件也用上。一般来说，都是某人某一天入职，饭卡里有多少钱，想预知到哪一天要充值。这样才符合正常的逻辑。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-5b410c27e87cd9fd89ed5248e0e40ed4_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-5b410c27e87cd9fd89ed5248e0e40ed4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-5b410c27e87cd9fd89ed5248e0e40ed4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-5b410c27e87cd9fd89ed5248e0e40ed4_b.jpg\"/></figure><p>出现了日期，可以把前期字符串类型的转换也用到。</p><p>经过对题目的质疑和思考，自己不仅搞得更清楚了，也复习了前面的知识，更重要的是加入了自己的思想，没有一味的被老师牵着鼻子走。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-9b5759abe671c60fcbb31e77bdbf6740_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-9b5759abe671c60fcbb31e77bdbf6740_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic1.zhimg.com/v2-9b5759abe671c60fcbb31e77bdbf6740_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9b5759abe671c60fcbb31e77bdbf6740_b.jpg\"/></figure><p>第三点是多用，勤实践。其实这一点我还做得很不够，我知道不在意在这一点做得挺好，她的简书和知乎里有很多实践的文章，推荐大家向她学习。</p><p>因为做得还不够，所以我现在在培养自己一个习惯：碰到一个问题就想这个问题我能不能跟数据分析挂上钩。比如有一天工作上，我需要下载很多的海关数据，我找到了海关网站，想要复制表格，但发现表格被保护，不能复制。要是在以前，我肯定要手动，一个个的敲了。但是这次的数据量非常大，有2014-2017年三年多数据，每年有12个月，每个月又有7个表，每张表有n个数据。纯手工输入肯定是不行的。就在发愁的时候，我突然想到书上讲过用R语言可以爬取网页数据，于是我咨询了一个朋友，得到“可以”的答复后就开始谷歌如何“用R语言爬取网页表格数据”，几经尝试很快就找到了答案，顺利下载到了表格。粗略一算，这几乎节省了我一天的工作时间。</p><p>后来，本着第一条“及时记笔记”的原则，我把这次的经历写成了文章发到了我的知乎专栏里。出乎我预料的是，我得到了62个赞和25条评论，评论区里各路大神还给了各种各样优化的建议。这次的赞和评论是我以前任何一篇文章都没有得到的数量，在这件事上我不仅提升了自己的工作效率，也通过大家的反馈有了更大的信心去学习。</p><p>实践这一环就像滚雪球，一旦建立，就会形成正向循环，知识的雪球也会越滚越大。</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-b89ef95608bcafbecfd36d1fdfb37aa5_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic2.zhimg.com/v2-b89ef95608bcafbecfd36d1fdfb37aa5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic2.zhimg.com/v2-b89ef95608bcafbecfd36d1fdfb37aa5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b89ef95608bcafbecfd36d1fdfb37aa5_b.jpg\"/></figure><p>我的实践分享就到这里了，主要有三点，勤记笔记，勤思考，勤实践。这只能算是一个数据分析小白的一点点心得，希望以后我们能够在数据分析的路上走得更远。</p><br/><p>PS：这次的分享只是一个刚刚跨入门槛的小白的感悟，没有涉及到很高深的数据分析的知识。与小伙伴的交流也让我深刻的意识到了自己的不足，特别是不在意强大的执行力，让我既佩服又惭愧。期待下次的小聚，也期待我和小伙伴们都能更快更好的进步。</p>", 
+            "topic": [
+                {
+                    "tag": "数据分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19559424"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "猴子", 
+                    "userLink": "https://www.zhihu.com/people/c9b28ce4b50bf0444d17d010224cb06f", 
+                    "content": "<p>看着蛮激动的，这个世界属于实践者</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "<p>是啊，多实践进步更快。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "猴子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>好赞，又得到了继续不断学习实践的推动力</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "<p>一起加油吧</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "卷睫盼", 
+                    "userLink": "https://www.zhihu.com/people/eb91a0663f4935f5b04a7f0b94abcec7", 
+                    "content": "同广州，怎么加入数据分析社群啊", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "<p>你看看第一个评论猴子的首页，上面有加入方式，加入社群后我再拉你进广州的小群</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "卷睫盼"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "邱杰", 
+                    "userLink": "https://www.zhihu.com/people/dc236c2fae79b1329844824149a5a5f8", 
+                    "content": "转行做数据需要多长时间", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "<p>我没有转行哈，这个要看个人情况。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "邱杰"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "little 5", 
+                    "userLink": "https://www.zhihu.com/people/d64c1b09b53f9a4a4a83bf7faf5a706d", 
+                    "content": "广州+1，求进", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "李强", 
+                    "userLink": "https://www.zhihu.com/people/a490a7134e2aa449da467d69e5dd9d67", 
+                    "content": "我想加入广州大数据社群，谢谢你", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "云海飘逸", 
+                    "userLink": "https://www.zhihu.com/people/031e1e7f2d5b642974573d6541ee548b", 
+                    "content": "<p>你的实践经历和总结的很棒，很贴地气。向你学习。另外你文章中提到的“不在意在这一点做得挺好，她的简书和知乎里有很多实践的文章，推荐大家向她学习。”不在意同学的文章能发出来分享下吗？相信你推荐的文章应该也很不错，谢谢！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25713408", 
+            "userName": "小熊猫", 
+            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+            "upvote": 2, 
+            "title": "学习笔记-《R语言实战》第5章高级数据管理", 
+            "content": "本章主要介绍了如下知识点：<p>一、数学函数、统计函数、概率函数、字符处理函数等函数</p><p>二、循环和条件执行</p><p>三、自编函数</p><p>四、数据整合与重塑</p><p><b>5.1一个例子</b></p><p>内容见5.3</p><br/><p><b>5.2 数值和字符处理函数</b></p><p>5.2.1 数学函数</p><p>常见数学函数如下表所示：</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-592f86371b5003401234b37ce173d72d_b.png\" data-rawwidth=\"864\" data-rawheight=\"292\" class=\"origin_image zh-lightbox-thumb\" width=\"864\" data-original=\"https://pic2.zhimg.com/v2-592f86371b5003401234b37ce173d72d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;864&#39; height=&#39;292&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"864\" data-rawheight=\"292\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"864\" data-original=\"https://pic2.zhimg.com/v2-592f86371b5003401234b37ce173d72d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-592f86371b5003401234b37ce173d72d_b.png\"/></figure><p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-588c660fd0d4e69abcee2b44f3dc9325_b.png\" data-rawwidth=\"709\" data-rawheight=\"592\" class=\"origin_image zh-lightbox-thumb\" width=\"709\" data-original=\"https://pic2.zhimg.com/v2-588c660fd0d4e69abcee2b44f3dc9325_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;709&#39; height=&#39;592&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"709\" data-rawheight=\"592\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"709\" data-original=\"https://pic2.zhimg.com/v2-588c660fd0d4e69abcee2b44f3dc9325_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-588c660fd0d4e69abcee2b44f3dc9325_b.png\"/></figure>练习代码如下：</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #数学函数\n&gt; abs(-4)\n[1] 4\n&gt; sqrt(25)\n[1] 5\n&gt; ceiling(2.111) #不小于x的最小整数\n[1] 3\n&gt; floor(2.111) #不大于x的最大整数\n[1] 2\n&gt; trunc(2.111)#向0的方向截取的x中的整数部分\n[1] 2\n&gt; round(2.111,digits=2)#将x舍入为指定位的小数\n[1] 2.11\n&gt; signif(2.111,digits=2)#将x舍入为指定的有效数字位数\n[1] 2.1\n</code></pre></div><p>5.2.2 统计函数</p><p>常见统计函数如下表：</p><p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-99d90a10625a1608be835d29811eeb85_b.png\" data-rawwidth=\"737\" data-rawheight=\"622\" class=\"origin_image zh-lightbox-thumb\" width=\"737\" data-original=\"https://pic2.zhimg.com/v2-99d90a10625a1608be835d29811eeb85_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;737&#39; height=&#39;622&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"737\" data-rawheight=\"622\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"737\" data-original=\"https://pic2.zhimg.com/v2-99d90a10625a1608be835d29811eeb85_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-99d90a10625a1608be835d29811eeb85_b.png\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-d29d759c2e58d0cc37f3014822acfcb8_b.png\" data-rawwidth=\"722\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb\" width=\"722\" data-original=\"https://pic1.zhimg.com/v2-d29d759c2e58d0cc37f3014822acfcb8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;722&#39; height=&#39;180&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"722\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"722\" data-original=\"https://pic1.zhimg.com/v2-d29d759c2e58d0cc37f3014822acfcb8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d29d759c2e58d0cc37f3014822acfcb8_b.png\"/></figure>练习代码如下：</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; mean(c(1,2,3,4))\n[1] 2.5\n&gt; median(c(1,2,3,4)) #中位数\n[1] 2.5\n&gt; sd(c(1,2,3,4)) #标准差\n[1] 1.290994\n&gt; var(c(1,2,3,4)) #方差\n[1] 1.666667\n&gt; mad(c(1,2,3,4)) #绝对中位数\n[1] 1.4826\n&gt; quantile(1,c(0.3,0.84))\n30% 84% \n  1   1 \n&gt; quantile(2,c(0.3,0.84))\n30% 84% \n  2   2 \n&gt; quantile(2.2,c(0.3,0.84))\n30% 84% \n2.2 2.2 \n&gt; x&lt;-c(1,2,3,4)\n&gt; range(x)\n[1] 1 4\n&gt; ?diff\n&gt; sum(c(1,2,3,4))\n[1] 10\n&gt; diff(x)\n[1] 1 1 1\n&gt; x&lt;-c(1,5,23,29)\n&gt; diff(x)\n[1]  4 18  6\n&gt; min(c(1,2,3,4))\n[1] 1\n&gt; max(c(1,2,3,4))\n[1] 4\n</code></pre></div><br/><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #均值和标准差的计算 \n&gt; #简洁的方式\n&gt; x&lt;-c(1,2,3,4,5,6,7,8)\n&gt;  mean(x)\n[1] 4.5\n&gt;  sd(x) #标准差\n[1] 2.44949\n&gt;  #复杂的方式\n&gt;  n&lt;-length(x)\n&gt;  n\n[1] 8\n&gt;  meanx&lt;-sum(x)/n\n&gt;  css&lt;-sum((x-meanx)^2)\n&gt;  sdx&lt;-sqrt(css/(n-1))\n&gt;  meanx\n[1] 4.5\n&gt;  sdx\n[1] 2.44949\n</code></pre></div><p>数据的标准化用函数scale（）来实现，默认情况下，其对矩阵或数据框的指定咧进行均值为0，标准差为1的标准化。</p><div class=\"highlight\"><pre><code class=\"language-text\">newdata&lt;-scale(mydata)</code></pre></div><p>要对每一列进行任意均值和标准差的标准化，可使用如下代码：</p><div class=\"highlight\"><pre><code class=\"language-text\">newdata&lt;-scale(mydata)*SD+M</code></pre></div><p>其中M是想要的均值，SD是想要的标准差。</p><br/><p>5.2.3概率函数</p><p>常用的概率函数如下：</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-6fcb3c6aef71fa304be2a3f9337b7c06_b.png\" data-rawwidth=\"856\" data-rawheight=\"392\" class=\"origin_image zh-lightbox-thumb\" width=\"856\" data-original=\"https://pic3.zhimg.com/v2-6fcb3c6aef71fa304be2a3f9337b7c06_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;856&#39; height=&#39;392&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"856\" data-rawheight=\"392\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"856\" data-original=\"https://pic3.zhimg.com/v2-6fcb3c6aef71fa304be2a3f9337b7c06_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-6fcb3c6aef71fa304be2a3f9337b7c06_b.png\"/></figure><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #在区间[-3,3]上绘制标准正态曲线\n&gt;  x&lt;-pretty(c(-3,3),30) #pretty创建分割点，在（-3,3）上创建30个等长区间\n&gt;  y&lt;-dnorm(x) #密度函数\n&gt;  plot(x,y,\n+       type=&#34;l&#34;,\n+       xlab=&#34;Normal Deviate&#34;,\n+       ylab=&#34;Density&#34;,\n+       yaxs=&#34;i&#34;)\n</code></pre></div><figure><noscript><img src=\"https://pic2.zhimg.com/v2-f878728eabe5c5f04cd45942fecbed99_b.png\" data-rawwidth=\"670\" data-rawheight=\"482\" class=\"origin_image zh-lightbox-thumb\" width=\"670\" data-original=\"https://pic2.zhimg.com/v2-f878728eabe5c5f04cd45942fecbed99_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;670&#39; height=&#39;482&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"670\" data-rawheight=\"482\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"670\" data-original=\"https://pic2.zhimg.com/v2-f878728eabe5c5f04cd45942fecbed99_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-f878728eabe5c5f04cd45942fecbed99_b.png\"/></figure><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #分布函数(pnnorm)\n&gt;  #位于z=1.96左侧的标准正态曲线下方面积是多少\n&gt;  pnorm(1.96) \n[1] 0.9750021\n&gt;  #分位数函数(qnorm)\n&gt;  #均值为500，标准差为100的正态分布的0.9分位点值为多少\n&gt;  qnorm(.9,mean=500,sd=100) \n[1] 628.1552\n&gt;  #随机数生成函数rnorm()\n&gt;  #生成50个均值为50，标准差为10的正态随机数\n&gt;  rnorm(50,mean=50,sd=10)\n [1] 49.40122 50.11531 52.69111 44.71839 43.82926 47.37627 59.12347 61.23611\n [9] 43.96480 50.55323 39.99342 42.41821 43.88564 36.83278 29.92585 57.68002\n[17] 54.05761 41.68284 59.58076 68.10719 24.49986 61.50255 62.27894 51.52103\n[25] 44.76916 38.98407 41.20270 43.63300 28.94069 43.53742 59.86793 42.45100\n[33] 65.65205 49.49951 51.11029 54.75471 40.60996 42.25954 45.76442 67.72879\n[41] 54.26551 49.05530 38.83405 49.12565 53.92526 46.39378 41.12016 40.53583\n[49] 47.80088 53.42220\n</code></pre></div><p>1、设定随机数种子</p><p>函数runif()可以生成0到1区间上服从均匀分布的伪随机数，但每次的数字由于随机产生，所以是不重复的。用set.seed()可以指定种子，让结果重现。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #生成服从正态分布的伪随机数\n&gt;  runif(5)\n[1] 0.83395784 0.09536403 0.09086404 0.16266641 0.21160071\n&gt;  runif(5)\n[1] 0.75777056 0.02033904 0.05907393 0.54381760 0.39072482\n&gt;  set.seed(1234)\n&gt;  runif(5)\n[1] 0.1137034 0.6222994 0.6092747 0.6233794 0.8609154\n&gt;  set.seed(1234)\n&gt;  runif(5)\n[1] 0.1137034 0.6222994 0.6092747 0.6233794 0.8609154\n</code></pre></div><p>2、生成多元正态数据</p><p>用MASS包中的mvnorm()函数可获取来自给定均值向量和协方差阵的多元正态分布的数据</p><div class=\"highlight\"><pre><code class=\"language-text\">mvrnorm(n,mean,sigma)</code></pre></div><p>n是想要的样本大小，mean为均值向量，sigma是方差—协方差矩阵。</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-49ff0962c328e50812754f4d7f879ca1_b.png\" data-rawwidth=\"856\" data-rawheight=\"138\" class=\"origin_image zh-lightbox-thumb\" width=\"856\" data-original=\"https://pic2.zhimg.com/v2-49ff0962c328e50812754f4d7f879ca1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;856&#39; height=&#39;138&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"856\" data-rawheight=\"138\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"856\" data-original=\"https://pic2.zhimg.com/v2-49ff0962c328e50812754f4d7f879ca1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-49ff0962c328e50812754f4d7f879ca1_b.png\"/></figure><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #生成服从多元正态分布的数据\n&gt; library(MASS)\nWarning message:\n程辑包‘MASS’是用R版本3.3.3 来建造的 \n&gt; options(digits=3)\n&gt;  set.seed(1234)\n&gt;  mean&lt;-c(230.7,146.7,3.6)\n&gt;  sigma&lt;-matrix(c(15360.8,6721.2,-47.1,\n+                  6721.2,4700.9,-16.5,\n+                  -47.1,-16.5,0.3),nrow=3,ncol=3)\n&gt;  mydata&lt;-mvrnorm(500,mean,sigma)\n&gt;  mydata&lt;-as.data.frame(mydata)\n&gt;  names(mydata)&lt;-c(&#34;y&#34;,&#34;x1&#34;,&#34;x2&#34;)\n&gt;  \n&gt;  dim(mydata)\n[1] 500   3\n&gt;  ?dim\n&gt;  head(mydata,n=10)\n       y    x1   x2\n1   98.8  41.3 3.43\n2  244.5 205.2 3.80\n3  375.7 186.7 2.51\n4  -59.2  11.2 4.71\n5  313.0 111.0 3.45\n6  288.8 185.1 2.72\n7  134.8 165.0 4.39\n8  171.7  97.4 3.64\n9  167.2 101.0 3.50\n10 121.1  94.5 4.10\n</code></pre></div><br/><p>5.2.4 字符处理函数</p><p>常用字符处理函数如下表所示：</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-5829e1c350e3ebffa0523ce2a7d4d759_b.png\" data-rawwidth=\"845\" data-rawheight=\"620\" class=\"origin_image zh-lightbox-thumb\" width=\"845\" data-original=\"https://pic2.zhimg.com/v2-5829e1c350e3ebffa0523ce2a7d4d759_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;845&#39; height=&#39;620&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"845\" data-rawheight=\"620\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"845\" data-original=\"https://pic2.zhimg.com/v2-5829e1c350e3ebffa0523ce2a7d4d759_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5829e1c350e3ebffa0523ce2a7d4d759_b.png\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-81cfa9fd559851fe23d2faf3ad36b65d_b.png\" data-rawwidth=\"863\" data-rawheight=\"283\" class=\"origin_image zh-lightbox-thumb\" width=\"863\" data-original=\"https://pic2.zhimg.com/v2-81cfa9fd559851fe23d2faf3ad36b65d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;863&#39; height=&#39;283&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"863\" data-rawheight=\"283\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"863\" data-original=\"https://pic2.zhimg.com/v2-81cfa9fd559851fe23d2faf3ad36b65d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-81cfa9fd559851fe23d2faf3ad36b65d_b.png\"/></figure><br/><p>5.2.5 其他实用函数</p><p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-32217326f915fe5c0dcf601d6ea1a041_b.png\" data-rawwidth=\"861\" data-rawheight=\"518\" class=\"origin_image zh-lightbox-thumb\" width=\"861\" data-original=\"https://pic2.zhimg.com/v2-32217326f915fe5c0dcf601d6ea1a041_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;861&#39; height=&#39;518&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"861\" data-rawheight=\"518\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"861\" data-original=\"https://pic2.zhimg.com/v2-32217326f915fe5c0dcf601d6ea1a041_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-32217326f915fe5c0dcf601d6ea1a041_b.png\"/></figure>5.2.6 将函数应用于矩阵和数据框</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #将函数应用于数据对象\n&gt;  a&lt;-5\n&gt;  sqrt(a)\n[1] 2.24\n&gt;  b&lt;-c(1.243,5.654,2.99)\n&gt;  round(b) #将b舍入为指定位的小数\n[1] 1 6 3\n&gt;  c&lt;-matrix(runif(12),nrow=3) #生成0到1区间上服从均匀正态分布的伪随机数\n&gt;  c\n      [,1]  [,2]  [,3]  [,4]\n[1,] 0.677 0.357 0.289 0.881\n[2,] 0.350 0.299 0.287 0.273\n[3,] 0.104 0.932 0.354 0.920\n&gt;  log(c)\n       [,1]    [,2]  [,3]    [,4]\n[1,] -0.391 -1.0296 -1.24 -0.1263\n[2,] -1.049 -1.2075 -1.25 -1.2991\n[3,] -2.267 -0.0706 -1.04 -0.0838\n&gt;  mean(c)\n[1] 0.477\n</code></pre></div><p>apply（）函数，可将一个任意函数“应用”到矩阵、数组、数据框的任何维度上。</p><div class=\"highlight\"><pre><code class=\"language-text\">apply(x,MARGIN,FUN,……)</code></pre></div><p>其中，x为数据对象，MARGIN是维度的下标，FUN是由你指定的函数，而……则包括了任何想传递给FUN的参数。在矩阵或数据框中，MARGIN=1表示行，MARGIN=2表示列。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #apply函数可将一个任意函数“应用”到矩阵、数组、数据框的任何维度上\n&gt;  #将一个函数应用到矩阵的所有行（列）\n&gt;  mydata&lt;-matrix(rnorm(30),nrow=6) \n&gt;  mydata\n       [,1]   [,2]   [,3]   [,4]    [,5]\n[1,]  1.203  1.234  0.591 -0.281 -0.0599\n[2,]  0.769 -1.891 -0.435  0.812  0.0115\n[3,]  0.238 -0.223 -0.251 -0.208  0.2691\n[4,] -1.415  0.768 -0.926  1.451 -0.5282\n[5,]  2.934  0.388  1.087  0.841 -0.6171\n[6,]  0.935  0.609 -1.944 -0.866 -0.2624\n&gt;  apply(mydata,1,mean) #计算6行的均值\n[1]  0.5374 -0.1468 -0.0347 -0.1301  0.9267 -0.3056\n&gt;  apply(mydata,2,mean) #计算5列的均值\n[1]  0.777  0.148 -0.313  0.292 -0.198\n&gt;  apply(mydata,2,mean,trim=0.2) #计算每列的截尾均值，本例中基于中间60%的数据\n[1]  0.786  0.386 -0.255  0.291 -0.210\n</code></pre></div><br/><p><b>5.3 示例的一种解决方案</b></p><p>问题：下表为学生的成绩数据，想将学生的各科考试成绩组合为单一的成绩衡量指标，基于相对名次（前20%，后20%等）给出从A到F的评分，根据学生姓氏和名字的首字母对花名册进行排序。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-a9157647b308f895170afbf3c35ed487_b.png\" data-rawwidth=\"851\" data-rawheight=\"342\" class=\"origin_image zh-lightbox-thumb\" width=\"851\" data-original=\"https://pic4.zhimg.com/v2-a9157647b308f895170afbf3c35ed487_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;851&#39; height=&#39;342&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"851\" data-rawheight=\"342\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"851\" data-original=\"https://pic4.zhimg.com/v2-a9157647b308f895170afbf3c35ed487_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a9157647b308f895170afbf3c35ed487_b.png\"/></figure><br/><p>步骤1：将数据输入数据框中</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; options(digits=2)\n&gt;  Student&lt;-c(&#34;John Davis&#34;,&#34;Angela Williams&#34;,&#34;Bullwinkle Moose&#34;,\n+             &#34;David Jones&#34;,&#34;Janice Markhammer&#34;,&#34;Cheryl Cushing&#34;,\n+             &#34;Reuven Ytzrhak&#34;,&#34;Greg Knox&#34;,&#34;Joel England&#34;,\n+             &#34;Mary Rayburn&#34;)\n&gt;  Math&lt;-c(502,600,412,358,495,512,410,625,573,522)\n&gt;  Science&lt;-c(95,99,80,82,75,85,80,95,89,86)\n&gt;  English&lt;-c(25,22,18,15,20,28,15,30,27,18)\n&gt;  roster&lt;-data.frame(Student,Math,Science,English,\n+                     stringsAsFactors = F)\n</code></pre></div><p>步骤2：将成绩进行标准化，每科成绩都用单位标准差来表示</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; z&lt;-scale(roster[,2:4])\n&gt;  z\n        Math Science English\n [1,]  0.013   1.078   0.587\n [2,]  1.143   1.591   0.037\n [3,] -1.026  -0.847  -0.697\n [4,] -1.649  -0.590  -1.247\n [5,] -0.068  -1.489  -0.330\n [6,]  0.128  -0.205   1.137\n [7,] -1.049  -0.847  -1.247\n [8,]  1.432   1.078   1.504\n [9,]  0.832   0.308   0.954\n[10,]  0.243  -0.077  -0.697\nattr(,&#34;scaled:center&#34;)\n   Math Science English \n    501      87      22 \nattr(,&#34;scaled:scale&#34;)\n   Math Science English \n   86.7     7.8     5.5 \n</code></pre></div><p>步骤3：通过mean（）函数计算各行的均值以获得综合得分，并使用cbind（）将其添加到花名册中。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; score&lt;-apply(z,1,mean)\n&gt;  roster&lt;-cbind(roster,score)\n&gt;  score\n [1]  0.56  0.92 -0.86 -1.16 -0.63  0.35 -1.05  1.34  0.70 -0.18\n&gt; roster\n             Student Math Science English score\n1         John Davis  502      95      25  0.56\n2    Angela Williams  600      99      22  0.92\n3   Bullwinkle Moose  412      80      18 -0.86\n4        David Jones  358      82      15 -1.16\n5  Janice Markhammer  495      75      20 -0.63\n6     Cheryl Cushing  512      85      28  0.35\n7     Reuven Ytzrhak  410      80      15 -1.05\n8          Greg Knox  625      95      30  1.34\n9       Joel England  573      89      27  0.70\n10      Mary Rayburn  522      86      18 -0.18\n</code></pre></div><p>步骤4：使用函数quantile（）给出学生综合得分的百分位数。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #quantile()给出学生综合得分的百分位数\n&gt; y&lt;-quantile(score,c(0.8,0.6,0.4,0.2))\n&gt; y\n  80%   60%   40%   20% \n 0.74  0.44 -0.36 -0.89 \n</code></pre></div><p>步骤5：使用逻辑运算符，将学生的百分位数排名中编码为一个新的类别型成绩变量。在数据框roster中创建了变量grade。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; roster$grade[score&gt;=y[1]]&lt;-&#34;A&#34;\n&gt; roster$grade[score&lt;y[1]&amp;score&gt;=y[2]]&lt;-&#34;B&#34;\n&gt; roster$grade[score&lt;y[2]&amp;score&gt;=y[3]]&lt;-&#34;C&#34;\n&gt; roster$grade[score&lt;y[3]&amp;score&gt;=y[4]]&lt;-&#34;D&#34;\n&gt; roster$grade[score&lt;y[4]]&lt;-&#34;F&#34;\n&gt; roster\n             Student Math Science English score grade\n1         John Davis  502      95      25  0.56     B\n2    Angela Williams  600      99      22  0.92     A\n3   Bullwinkle Moose  412      80      18 -0.86     D\n4        David Jones  358      82      15 -1.16     F\n5  Janice Markhammer  495      75      20 -0.63     D\n6     Cheryl Cushing  512      85      28  0.35     C\n7     Reuven Ytzrhak  410      80      15 -1.05     F\n8          Greg Knox  625      95      30  1.34     A\n9       Joel England  573      89      27  0.70     B\n10      Mary Rayburn  522      86      18 -0.18     C\n</code></pre></div><p>步骤6：使用函数strsplit（）以空格为界把学生姓名拆分为姓氏和名字。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #拆分姓名\n&gt; name&lt;-strsplit((roster$Student),&#34; &#34;)\n&gt; name\n[[1]]\n[1] &#34;John&#34;  &#34;Davis&#34;\n\n[[2]]\n[1] &#34;Angela&#34;   &#34;Williams&#34;\n\n[[3]]\n[1] &#34;Bullwinkle&#34; &#34;Moose&#34;     \n\n[[4]]\n[1] &#34;David&#34; &#34;Jones&#34;\n\n[[5]]\n[1] &#34;Janice&#34;     &#34;Markhammer&#34;\n\n[[6]]\n[1] &#34;Cheryl&#34;  &#34;Cushing&#34;\n\n[[7]]\n[1] &#34;Reuven&#34;  &#34;Ytzrhak&#34;\n\n[[8]]\n[1] &#34;Greg&#34; &#34;Knox&#34;\n\n[[9]]\n[1] &#34;Joel&#34;    &#34;England&#34;\n\n[[10]]\n[1] &#34;Mary&#34;    &#34;Rayburn&#34;\n</code></pre></div><p>步骤7：使用函数sapply（）提取列表中的元素，提取第一个元素放入一个储存名字的向量Firstname，提取每个成分的第二个元素放入一个储存姓氏的向量Lastname。“[&#34;是一个可提取某个对象的一部分的函数。使用cbind将其添加到花名册中。由于不再需要student变量，将其丢弃（在下标中使用-1）</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #用sapply()提取列表中的第一个元素和第二个元素，再将二者合并到roster中\n&gt; Firstname&lt;-sapply(name,&#34;[&#34;,1)\n&gt; Lastname&lt;-sapply(name,&#34;[&#34;,2)\n&gt; roster&lt;-cbind(Firstname,Lastname,roster[,-1])\n&gt; roster\n    Firstname   Lastname Math Science English score grade\n1        John      Davis  502      95      25  0.56     B\n2      Angela   Williams  600      99      22  0.92     A\n3  Bullwinkle      Moose  412      80      18 -0.86     D\n4       David      Jones  358      82      15 -1.16     F\n5      Janice Markhammer  495      75      20 -0.63     D\n6      Cheryl    Cushing  512      85      28  0.35     C\n7      Reuven    Ytzrhak  410      80      15 -1.05     F\n8        Greg       Knox  625      95      30  1.34     A\n9        Joel    England  573      89      27  0.70     B\n10       Mary    Rayburn  522      86      18 -0.18     C\n</code></pre></div><p>步骤8：使用函数order（）按照姓氏和姓名对数据集排序</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; roster[order(Lastname,Firstname),]\n    Firstname   Lastname Math Science English score grade\n6      Cheryl    Cushing  512      85      28  0.35     C\n1        John      Davis  502      95      25  0.56     B\n9        Joel    England  573      89      27  0.70     B\n4       David      Jones  358      82      15 -1.16     F\n8        Greg       Knox  625      95      30  1.34     A\n5      Janice Markhammer  495      75      20 -0.63     D\n3  Bullwinkle      Moose  412      80      18 -0.86     D\n10       Mary    Rayburn  522      86      18 -0.18     C\n2      Angela   Williams  600      99      22  0.92     A\n7      Reuven    Ytzrhak  410      80      15 -1.05     F\n</code></pre></div><p>按成绩排序</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; roster[order(roster$grade),]\n    Firstname   Lastname Math Science English score grade\n2      Angela   Williams  600      99      22  0.92     A\n8        Greg       Knox  625      95      30  1.34     A\n1        John      Davis  502      95      25  0.56     B\n9        Joel    England  573      89      27  0.70     B\n6      Cheryl    Cushing  512      85      28  0.35     C\n10       Mary    Rayburn  522      86      18 -0.18     C\n3  Bullwinkle      Moose  412      80      18 -0.86     D\n5      Janice Markhammer  495      75      20 -0.63     D\n4       David      Jones  358      82      15 -1.16     F\n7      Reuven    Ytzrhak  410      80      15 -1.05     F\n</code></pre></div><br/><p><b>5.4 控制流</b></p><p>5.4.1 重复和循环</p><p>1、for 结构</p><p>循环重复的执行一个语句，直到某个变量的值不再包含在序列seq中为止。</p><div class=\"highlight\"><pre><code class=\"language-text\">for(var in seq) statement</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">&gt; for(i in 1:10) print(&#34;Hello&#34;)\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n</code></pre></div><p>2、while结构</p><p>while循环重复的执行一个语句，直到条件不为真为止</p><div class=\"highlight\"><pre><code class=\"language-text\">while(cond) statement</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">&gt; i&lt;-10\n&gt; while(i&gt;0) {print(&#34;Hello&#34;);i&lt;-i-1}\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n[1] &#34;Hello&#34;\n</code></pre></div><br/><p>5.4.2 条件执行</p><p>1、if-else结构</p><div class=\"highlight\"><pre><code class=\"language-text\">if(cond) statement\nif(cond) statement1 else statement2</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">#if-else\nif(is.character(grade)) grade&lt;-as.factor(grade)\nif(!is.facter(grade)) grade&lt;-as.factor(grade) else print(&#34;Grade already\n                                                         is a facter&#34;)\n</code></pre></div><p>2、ifelse结构</p><div class=\"highlight\"><pre><code class=\"language-text\">#ifelse是if-else比较紧凑的向量化版本\n#ifelse(cond,statement1,statement2)\noutcome&lt;-ifelse(score&gt;0.5,&#34;Passed&#34;,&#34;Failed&#34;)\n</code></pre></div><p>3、switch结构</p><p>switch根据一个表达式的值选择语句执行。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #switch\n&gt; feelings&lt;-c(&#34;sad&#34;,&#34;afraid&#34;)\n&gt; for(i in feelings)\n+   print(\n+     switch(i,\n+            happy=&#34;I am glad you are happy&#34;,\n+            afraid=&#34;There is nothing to fear&#34;,\n+            sad=&#34;Cheer up&#34;,\n+            angry=&#34;Calm down now&#34;)\n+   )\n[1] &#34;Cheer up&#34;\n[1] &#34;There is nothing to fear&#34;\n</code></pre></div><br/><p><b>5.5 用户自编函数</b></p><p>自编函数的结构大致结构如下所示：</p><div class=\"highlight\"><pre><code class=\"language-text\">myfunction&lt;-function(arg1,arg2,……){\nstatements\nreturn(object)\n}</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #使用了switch结构的用户自编函数，可让用户选择输出当天日期的格式\n&gt; mydate&lt;-function(type=&#34;long&#34;){\n+   switch(type,\n+          long=format(Sys.time(),&#34;%A %B %d %Y&#34;),\n+          short=format(Sys.time(),&#34;%m-%d-%y&#34;),\n+          cat(type,&#34;is not a recognized type\\n&#34;))\n+ }\n&gt; mydate(&#34;long&#34;)\n[1] &#34;星期日 三月 12 2017&#34;\n&gt; mydate(&#34;short&#34;)\n[1] &#34;03-12-17&#34;\n&gt; mydate()\n[1] &#34;星期日 三月 12 2017&#34;\n&gt; mydate(&#34;medium&#34;)\nmedium is not a recognized type\n&gt; mydate(&#34;red&#34;)\nred is not a recognized type\n</code></pre></div><br/><p><b>5.6 整合与重构</b></p><p>5.6.1 转置</p><p>使用函数t（）对一个矩阵或数据框进行转置</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; cars&lt;-mtcars[1:5,1:4]\n&gt; cars\n                  mpg cyl disp  hp\nMazda RX4          21   6  160 110\nMazda RX4 Wag      21   6  160 110\nDatsun 710         23   4  108  93\nHornet 4 Drive     21   6  258 110\nHornet Sportabout  19   8  360 175\n&gt; t(cars)\n     Mazda RX4 Mazda RX4 Wag Datsun 710 Hornet 4 Drive Hornet Sportabout\nmpg         21            21         23             21                19\ncyl          6             6          4              6                 8\ndisp       160           160        108            258               360\nhp         110           110         93            110               175\n</code></pre></div><p>5.6.2 整合数据</p><p>使用aggregate（）来整合数据，调用格式为</p><div class=\"highlight\"><pre><code class=\"language-text\">aggregate(x,by,FUN)</code></pre></div><p>其中，x是待折叠的数据对象，by是一个变量名组成的列表，这些变量将被去掉以形成新的观测，FUN是用来计算描述性统计量的标量函数。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; options(digits=3)\n&gt; attach(mtcars)\n&gt; mtcars\n                     mpg cyl  disp  hp drat   wt qsec vs am gear carb\nMazda RX4           21.0   6 160.0 110 3.90 2.62 16.5  0  1    4    4\nMazda RX4 Wag       21.0   6 160.0 110 3.90 2.88 17.0  0  1    4    4\nDatsun 710          22.8   4 108.0  93 3.85 2.32 18.6  1  1    4    1\nHornet 4 Drive      21.4   6 258.0 110 3.08 3.21 19.4  1  0    3    1\nHornet Sportabout   18.7   8 360.0 175 3.15 3.44 17.0  0  0    3    2\nValiant             18.1   6 225.0 105 2.76 3.46 20.2  1  0    3    1\nDuster 360          14.3   8 360.0 245 3.21 3.57 15.8  0  0    3    4\nMerc 240D           24.4   4 146.7  62 3.69 3.19 20.0  1  0    4    2\nMerc 230            22.8   4 140.8  95 3.92 3.15 22.9  1  0    4    2\nMerc 280            19.2   6 167.6 123 3.92 3.44 18.3  1  0    4    4\nMerc 280C           17.8   6 167.6 123 3.92 3.44 18.9  1  0    4    4\nMerc 450SE          16.4   8 275.8 180 3.07 4.07 17.4  0  0    3    3\nMerc 450SL          17.3   8 275.8 180 3.07 3.73 17.6  0  0    3    3\nMerc 450SLC         15.2   8 275.8 180 3.07 3.78 18.0  0  0    3    3\nCadillac Fleetwood  10.4   8 472.0 205 2.93 5.25 18.0  0  0    3    4\nLincoln Continental 10.4   8 460.0 215 3.00 5.42 17.8  0  0    3    4\nChrysler Imperial   14.7   8 440.0 230 3.23 5.34 17.4  0  0    3    4\nFiat 128            32.4   4  78.7  66 4.08 2.20 19.5  1  1    4    1\nHonda Civic         30.4   4  75.7  52 4.93 1.61 18.5  1  1    4    2\nToyota Corolla      33.9   4  71.1  65 4.22 1.83 19.9  1  1    4    1\nToyota Corona       21.5   4 120.1  97 3.70 2.46 20.0  1  0    3    1\nDodge Challenger    15.5   8 318.0 150 2.76 3.52 16.9  0  0    3    2\nAMC Javelin         15.2   8 304.0 150 3.15 3.44 17.3  0  0    3    2\nCamaro Z28          13.3   8 350.0 245 3.73 3.84 15.4  0  0    3    4\nPontiac Firebird    19.2   8 400.0 175 3.08 3.85 17.1  0  0    3    2\nFiat X1-9           27.3   4  79.0  66 4.08 1.94 18.9  1  1    4    1\nPorsche 914-2       26.0   4 120.3  91 4.43 2.14 16.7  0  1    5    2\nLotus Europa        30.4   4  95.1 113 3.77 1.51 16.9  1  1    5    2\nFord Pantera L      15.8   8 351.0 264 4.22 3.17 14.5  0  1    5    4\nFerrari Dino        19.7   6 145.0 175 3.62 2.77 15.5  0  1    5    6\nMaserati Bora       15.0   8 301.0 335 3.54 3.57 14.6  0  1    5    8\nVolvo 142E          21.4   4 121.0 109 4.11 2.78 18.6  1  1    4    2\n&gt; aggdata&lt;-aggregate(mtcars,by=list(cyl,gear),FUN=mean,na.rm=T)\n&gt; aggdata\n  Group.1 Group.2  mpg cyl disp  hp drat   wt qsec  vs   am gear carb\n1       4       3 21.5   4  120  97 3.70 2.46 20.0 1.0 0.00    3 1.00\n2       6       3 19.8   6  242 108 2.92 3.34 19.8 1.0 0.00    3 1.00\n3       8       3 15.1   8  358 194 3.12 4.10 17.1 0.0 0.00    3 3.08\n4       4       4 26.9   4  103  76 4.11 2.38 19.6 1.0 0.75    4 1.50\n5       6       4 19.8   6  164 116 3.91 3.09 17.7 0.5 0.50    4 4.00\n6       4       5 28.2   4  108 102 4.10 1.83 16.8 0.5 1.00    5 2.00\n7       6       5 19.7   6  145 175 3.62 2.77 15.5 0.0 1.00    5 6.00\n8       8       5 15.4   8  326 300 3.88 3.37 14.6 0.0 1.00    5 6.00</code></pre></div><p>Group.1表示气缸数量（cyl)4、6或8，Group.2表示档位数（gear）3、4或5。即，拥有4个气缸和3个档位车型的每加仑汽油行驶英里数（mpg）均值为21.5，这样即可实现数据的整合。</p><br/><p>5.6.3 reshape2包</p><p>reshape2是一套重构和整合数据集的万能工具。使用方法为，先将数据融合（melt），使每一行都是唯一的标识符——变量组合。然后再将数据重铸（cast）为想要的任何形状。</p><p>例子：</p><p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-f787f81264e3f72196adc9423f02af23_b.png\" data-rawwidth=\"850\" data-rawheight=\"183\" class=\"origin_image zh-lightbox-thumb\" width=\"850\" data-original=\"https://pic4.zhimg.com/v2-f787f81264e3f72196adc9423f02af23_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;850&#39; height=&#39;183&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"850\" data-rawheight=\"183\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"850\" data-original=\"https://pic4.zhimg.com/v2-f787f81264e3f72196adc9423f02af23_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f787f81264e3f72196adc9423f02af23_b.png\"/></figure>1、融合</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; library(reshape2)\nWarning message:\n程辑包‘reshape2’是用R版本3.3.3 来建造的 \n&gt; ID&lt;-c(1,1,2,2)\n&gt; Time&lt;-c(1,2,1,2)\n&gt; X1&lt;-c(5,3,6,2)\n&gt; X2&lt;-c(6,5,1,4)\n&gt; mydata&lt;-data.frame(ID,Time,X1,X2)\n&gt; mydata\n  ID Time X1 X2\n1  1    1  5  6\n2  1    2  3  5\n3  2    1  6  1\n4  2    2  2  4\n&gt; #1、融合\n&gt; md&lt;-melt(mydata,id=c(&#34;ID&#34;,&#34;Time&#34;))#必须指定要唯一确定每个测量所需的变量(ID和Time)\n&gt; md\n  ID Time variable value\n1  1    1       X1     5\n2  1    2       X1     3\n3  2    1       X1     6\n4  2    2       X1     2\n5  1    1       X2     6\n6  1    2       X2     5\n7  2    1       X2     1\n8  2    2       X2     4\n</code></pre></div><p>2、重铸</p><p>dcast（）函数读取已融入的数据，并使用函数中提供的公式和一个用于整合数据的函数将其重塑。调用格式为：</p><div class=\"highlight\"><pre><code class=\"language-text\">newdata&lt;-dcast(md,formula,fun.aggregate)</code></pre></div><p>其中，md为已融入的数据，formula描述了想要的最后结果，而fun.aggregate是数据整合函数。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #2、重铸\n&gt; dcast(md,ID~variable,mean)\nError in vaggregate(.value = value, .group = overall, .fun = fun.aggregate,  : \n  could not find function &#34;.fun&#34;\n</code></pre></div><p>此处出现错误，经求助，社群的同学王智博提醒我可能是mean之前赋值其他东西了，使用rm(mean)可解决问题。rm（）意味将对象从某一环境中移除（remove objects from a specified environment)。实验后，果然成功了。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; rm(mean)\n&gt; dcast(md,ID~variable,mean)\n  ID X1  X2\n1  1  4 5.5\n2  2  4 2.5\n</code></pre></div><p>再次感谢王智博同学~</p>", 
+            "topic": [
+                {
+                    "tag": "R", 
+                    "tagLink": "https://api.zhihu.com/topics/19752776"
+                }, 
+                {
+                    "tag": "R（编程语言）", 
+                    "tagLink": "https://api.zhihu.com/topics/19674181"
+                }, 
+                {
+                    "tag": "数据分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19559424"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Ting", 
+                    "userLink": "https://www.zhihu.com/people/0dc800f816db9d18160f7c2a98daabe9", 
+                    "content": "<p>请问代码是用什么软件排版的？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "就是用知乎自带的编辑栏，有个〈〉符号，专门插入代码的，你找找", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ting"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "1234", 
+                    "userLink": "https://www.zhihu.com/people/0e4ec18d64b7b250f4d2da0c19493200", 
+                    "content": "<p>请问&gt;  x &lt;- pmin(3, pmax(-3,stats::rnorm(50)))这条命令是什么意思</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25554046", 
+            "userName": "小熊猫", 
+            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+            "upvote": 16, 
+            "title": "讲座与思考|4步成为大数据产品经理——徐倩", 
+            "content": "嘉宾：徐倩，微软大数据部门工作<p><b>一、大数据产品是什么</b></p><p>1、大数据产品的用户是谁？</p><p>互联网大公司有专业的数据团队，小公司有友盟、数据魔方完成数据工作</p><p>2、大数据产品长什么样？</p><p>不同职位，不同技能的用户需要不同交互形式的大数据产品</p><p>不同的用户适用的产品类型不同：</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-cad3e4ddcd2fb863c89b7b5f50eb8e9a_b.png\" data-rawwidth=\"718\" data-rawheight=\"1278\" class=\"origin_image zh-lightbox-thumb\" width=\"718\" data-original=\"https://pic3.zhimg.com/v2-cad3e4ddcd2fb863c89b7b5f50eb8e9a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;718&#39; height=&#39;1278&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"718\" data-rawheight=\"1278\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"718\" data-original=\"https://pic3.zhimg.com/v2-cad3e4ddcd2fb863c89b7b5f50eb8e9a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-cad3e4ddcd2fb863c89b7b5f50eb8e9a_b.png\"/></figure><p>3、大数据流水线</p><p>大数据产品的背后是一条架构在大数据平台上的流水线。</p><ul><li>获取用户行为的原始数据</li><li>上传和处理用户大数据</li><li>存储大数据</li><li>设计大数据的交互形式</li><li>数据精确度管控（最重要的环节）</li></ul><br/><br/><p><b>二、大数据产品经理必备技能</b></p><p>1、大数据产品经理的本质是产品经理</p><ul><li> 吃透用户痛点</li><li>专注细节</li><li>团队合作（和开发经理沟通，告诉他如果自己没有提供价值，请及时告诉他，然后调整合作方式）</li><li>失败的勇气</li></ul><br/>2、大数据产品经理核心技能<ul><li> 掌握大数据平台和数据分析专业知识</li><li>理工科背景的大学毕业生通过快速学习均可胜任</li></ul><br/>3、大数据产品经理的竞争力<ul><li> 用数据做决策——数据的获取与分析</li><li>大数据前沿知识——Streaming/NRT/AI</li><li>广阔的视野——与不同产品团队合作</li></ul><br/>4、大数据产品经理进阶流程<ol><li> 起步，1个月。建立起互联网产品经理的思维模式<br/></li></ol><p>《人人都是产品经理》，建立产品经理基础思维模式</p><p>《结网》，产品经理与互联网入门知识</p><p>《Don&#39;t Make Me Think》，网站设计经典原则</p><p>2.积累2-3个月。学习大数据基础专业只是和用户需求分析技能。</p><p>《The Data Warehouse Toolkit》，数据仓库设计，可只阅读前两章，后面是案例，可挑选阅读。</p><p>《Hadoop权威指南》，大数据基础知识，推荐前三章，熟悉名词和基本概念。</p><p>《用户力》，用户需求分析和产品运营技能。</p><p>《Lean Analytics》，利用数据分析推进产品迭代</p><p>3.实战3-6个月。提交简历，去互联网公司应聘大数据产品经理实习岗位。</p><ul><li>实习是最好的学习</li><li>面试是次好的学习</li><li>无惧失败</li></ul><br/><p><b>三、如何打造你的大数据产品</b></p><br/>1、用户需求的收集和分析<figure><noscript><img src=\"https://pic3.zhimg.com/v2-3e122f071b76fec5a8478e708369bdee_b.png\" data-rawwidth=\"718\" data-rawheight=\"1278\" class=\"origin_image zh-lightbox-thumb\" width=\"718\" data-original=\"https://pic3.zhimg.com/v2-3e122f071b76fec5a8478e708369bdee_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;718&#39; height=&#39;1278&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"718\" data-rawheight=\"1278\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"718\" data-original=\"https://pic3.zhimg.com/v2-3e122f071b76fec5a8478e708369bdee_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-3e122f071b76fec5a8478e708369bdee_b.png\"/></figure><p>2、四步搭建大数据流水线</p><ul><li> 第一步，获取用户行为的原始数据——Ingestion</li></ul><br/>原始数据一般内容较多，信息较杂乱。<br/><br/><ul><li>第二步，上传和处理大数据——Upload&amp;Process</li></ul><br/>将用户原始日志转到大数据平台（hadoop或spark等），然后通过数据清洗和数据聚合，将大数据转换成自己需要的小数据。<br/><br/><ul><li>第三步，存储大数据——Storage</li></ul><p>数据量大，操作难度高，挖取的信息丰富</p><br/><p>数据量小，操作难度低，适合演示和决策</p><p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-fe203e7ea4bf9dfe448624d40298d1ea_b.png\" data-rawwidth=\"718\" data-rawheight=\"1278\" class=\"origin_image zh-lightbox-thumb\" width=\"718\" data-original=\"https://pic3.zhimg.com/v2-fe203e7ea4bf9dfe448624d40298d1ea_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;718&#39; height=&#39;1278&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"718\" data-rawheight=\"1278\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"718\" data-original=\"https://pic3.zhimg.com/v2-fe203e7ea4bf9dfe448624d40298d1ea_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-fe203e7ea4bf9dfe448624d40298d1ea_b.png\"/></figure><br/>根据数据级别存储在不同的平台上<br/></p><ul><li>第四步，设计大数据的交互形式——Interface</li></ul><br/><p>深入理解用户需求：</p>五个“为什么”<p>资源有限，不可能为所有用户将数据处理成他想要的形式</p><p>3、数据精确度管控</p><ul><li>数据如果不精确，做出的决定便没有可信度</li><li>在流水线的每一步都需要对数据的精确度进行衡量和管制</li></ul><br/><b>四、大数据产品应用案例</b><br/>借鉴其他的案例。<p>案例1：我负责的APP近三个月用户活跃度下降，怎么办？</p><p>1、季度同比——去年同期也有下降吗？</p><p>查看是否受到季节（大型活动/节假日）的影响，或因为学生用户等原因。</p><p>2、多维分解——问题出在哪个维度？OLAP Cube是最适合多维分解的软件。</p><p>常见的拆解纬度有：性别/年龄/地区/产品版本/用户类别</p><p>操作系统/手机型号/上游渠道等影响。</p><p>3、排除偏差——数据有问题吗？调出原始数据对比。</p><p>查看数据接口是否有问题？数据流水线代码是否出现bug，或业务部门的产品变动未与数据部门沟通等问题。</p><p>4、刨根问底——深挖“问题维度”</p><p>针对出现问题的那一纬度进行深入的分析，我觉得这是又一层级的多维分解。</p><p>常见的分析方法有：长趋势分析/漏斗分析和用户分类。</p><p>5、追根溯源——到底是因为什么？</p><p>最后通过市场访问、竞品分析和团队讨论最终确定。</p><p>常见的原因主要有：新的竞争者出现，上游渠道失效，或产品新功能不受欢迎。</p><p><b>五、这是最好的时代</b></p><p>微软内推：xq1988pk@sina.com</p><p>要求：三年以上开发或产品经理经验，简历发到邮箱</p><p><b>六、思考</b></p><p>听了徐倩老师的分享，感觉进入大数据产品经理的门槛不算很高，最好具备理工科背景，在理论学习之后有一定的实践。最重要的是在阅读相关书籍时，培养大数据思维能力，其次是在实习和实践中加深认识。</p><p>产品经理必备的核心技能：1、用户需求分析；2、团队合作；3、扎实的大数据基础知识和数据分析的基础知识。</p>", 
+            "topic": [
+                {
+                    "tag": "产品经理", 
+                    "tagLink": "https://api.zhihu.com/topics/19551325"
+                }, 
+                {
+                    "tag": "大数据", 
+                    "tagLink": "https://api.zhihu.com/topics/19740929"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "猴子", 
+                    "userLink": "https://www.zhihu.com/people/c9b28ce4b50bf0444d17d010224cb06f", 
+                    "content": "<p>好认真的笔记</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "<p>谢谢~我是听后赶紧记下来比较有效果，方便日后翻看。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "猴子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "徐小圈", 
+                    "userLink": "https://www.zhihu.com/people/4914b0cec38ac4ebf6ec286823a46c12", 
+                    "content": "<p>产品经理就是这样，看上去门槛不高，实际工作做好非常的难</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "<p>是啊，觉得是一个细致活，需要搭建自己的数据思维模式，同时还要了解很多专业外的东西，比如心理、营销、经济等。另外，觉得徐老师声音蛮好听的，讲得也很清晰，赞一个！谢谢！</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "徐小圈"
+                        }, 
+                        {
+                            "userName": "徐小圈", 
+                            "userLink": "https://www.zhihu.com/people/4914b0cec38ac4ebf6ec286823a46c12", 
+                            "content": "<p>谢谢！如果你们喜欢听的话，我以后还可以再做一些数据方面的讲座。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "小熊猫"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25441538", 
+            "userName": "小熊猫", 
+            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+            "upvote": 6, 
+            "title": "学习与实践笔记—第三讲简单数据处理", 
+            "content": "<p>本次案例以朝阳医院2016年的销售数据为例，进行了数据读取、数据预处理和数据分析的实践。</p><p><b>一、数据读取</b></p><p>读取excel数据，可采用XLConnect包或openxlsx，更推荐openxlsx包，用以下代码读取数据</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt;install.packages(&#34;openxlsx&#34;)\n&gt;library(&#34;openxlsx&#34;)\n&gt;readFilePath&lt;-&#34;E:/朝阳医院2016年销售数据.xlsx&#34;\n&gt;excelData&lt;-read.xlsx(readFilePath,&#34;Sheet1&#34;)\n</code></pre></div><p>数据导入到excelData中。</p><br/><p><b>二、数据预处理</b></p><p>1、删除含有缺失数据的行</p><p>数据中经常含有缺失数据，需要提前删除以免影响分析。</p><p>na(Not Available,不可用），na.omit()可删除所有含有缺失数据的行，但要注意如果缺失数据的行太多，则不适合。</p><p>本例采用！is.na来保留未缺失时间的数据，使用了逻辑运算非。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt;excelData&lt;-excelData[!is.na(excelData$购药时间),] #保留未缺失时间的数据\n</code></pre></div><figure><noscript><img src=\"https://pic4.zhimg.com/v2-4098a48271e578fc15001bf6274a886b_b.png\" data-rawwidth=\"724\" data-rawheight=\"331\" class=\"origin_image zh-lightbox-thumb\" width=\"724\" data-original=\"https://pic4.zhimg.com/v2-4098a48271e578fc15001bf6274a886b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;724&#39; height=&#39;331&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"724\" data-rawheight=\"331\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"724\" data-original=\"https://pic4.zhimg.com/v2-4098a48271e578fc15001bf6274a886b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4098a48271e578fc15001bf6274a886b_b.png\"/></figure><br/><p>2、列名重命名</p><p>将初始的中文列名改成英文列名</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt;names(excelData)&lt;-c(&#34;time&#34;,&#34;cardno&#34;,&#34;drugId&#34;,&#34;drugName&#34;,\n                    &#34;saleNumber&#34;,&#34;virtualmoney&#34;,&#34;actualmoney&#34;)\n&gt;excelData\n                  time        cardno drugId                           drugName\n1    2016-01-01 星期五     001616528 861307                  G降压片(6盒/疗程)\n2    2016-01-03 星期日     001616528 861307                  G降压片(6盒/疗程)\n</code></pre></div><br/><p>3、处理日期列</p><p>将time列中的星期几删掉，只保留日期。此处首先需要把两个字符串元素给分开，再选取需要的元素。采用R语言字符串处理包stringr中的str_split_fixed()来实现。以后关于字符串的处理均可使用stringr包。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; library(stringr)#载入R语言字符串处理包stringr\n&gt; timeSplit&lt;-str_split_fixed(excelData$time,&#34; &#34;,n=2)#将time列分成两列\n&gt; excelData$time&lt;-timeSplit[,1] #选取第一列\n&gt; excelData\n           time        cardno drugId\n1    2016-01-01     001616528 861307\n2    2016-01-03     001616528 861307\n</code></pre></div><p>然后，将time数据从字符类型转成时间格式的数据</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; class(excelData$time)\n[1] &#34;character&#34;\n&gt; #将字符串转换成日期格式\n&gt; excelData$time&lt;-as.Date(excelData$time,&#34;%Y-%m-%d&#34;)\n&gt; class(excelData$time) #验证得出已转换成功\n[1] &#34;Date&#34;\n</code></pre></div><br/><p>4、数据类型转换</p><p>为了后期计算的顺利进行，需要对销售金额、销售次数进行数据类型转换，转换成数值类型。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #将字符串转换成数字类型\n&gt; #销售数量\n&gt; excelData$saleNumber&lt;-as.numeric(excelData$saleNumber)\n&gt; #应收金额(打折前金额)\n&gt; excelData$virtualmoney&lt;-as.numeric(excelData$virtualmoney)\n&gt; #实收金额(打折后的金额)\n&gt; excelData$actualmoney&lt;-as.numeric(excelData$actualmoney)\n</code></pre></div><p>采用class（）函数可进行验证。</p><p>类型的判断与转换采用is和as。</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-289a2c437f0a0da62d6cbb65ecc30997_b.png\" data-rawwidth=\"1088\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb\" width=\"1088\" data-original=\"https://pic4.zhimg.com/v2-289a2c437f0a0da62d6cbb65ecc30997_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1088&#39; height=&#39;320&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1088\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1088\" data-original=\"https://pic4.zhimg.com/v2-289a2c437f0a0da62d6cbb65ecc30997_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-289a2c437f0a0da62d6cbb65ecc30997_b.png\"/></figure><br/><p>5、销售数据排序</p><p>采用order（）函数实现</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #数据排序order()\n&gt; #按销售时间对数据进行降序排序\n&gt; excelData&lt;-excelData[order(excelData$time,decreasing=FALSE),]#默认是升序\n</code></pre></div><br/><p><b>三、数据分析</b></p><p>共分析月均消费次数、月均消费金额、客单价和消费趋势四个指标。</p><p>1、月均消费次数</p><p>月均消费次数=总消费次数/月份数。其中，同一天内，同一个人发生的所有消费算作一次消费，因此要剔除重复的次数。<br/></p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; kpi1&lt;-excelData[!duplicated(excelData[,c(&#34;time&#34;,&#34;cardno&#34;)]),]\n&gt; consumeNumber&lt;-nrow(kpi1)\n</code></pre></div><p>总月份数需要用最后的时间减去开始时间，再除以30取整数。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #计算月份数\n&gt; #最小的时间值\n&gt; startTime&lt;-kpi1$time[1]\n&gt; #最大时间值\n&gt; endTime&lt;-kpi1$time[nrow(kpi1)]\n&gt; day&lt;-endTime-startTime\n&gt; #月份数\n&gt; month&lt;-as.numeric(day)%/%30 #整数除法\n&gt; class(day)\n[1] &#34;difftime&#34;\n</code></pre></div><p>以上需要注意，day的格式为difftime，因此需要转换成数字格式才能进行整数除法。</p><p>x%/%y表示，x除以y取整。</p><p>计算月均消费次数：</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; monthConsume&lt;-consumeNumber/month\n&gt; monthConsume\n[1] 899\n</code></pre></div><p>2、月均消费金额</p><p>月均消费金额=总消费金额/总月份，总月份已计算出，次数需要得出总消费金额。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #月均消费金额，总消费金额/月份数\n&gt; totalmoney&lt;-sum(excelData$actualmoney,na.rm=TRUE)\n&gt; monthmoney&lt;-totalmoney/month\n&gt; monthmoney\n[1] 50776.38\n</code></pre></div><p>sum()函数中，na.rm参数设置为TRUE，即在计算总金额时去除缺失的数据，na.rm默认是FALSE。</p><p>3、客单价</p><p>客单价=总消费金额/总消费次数，可直接计算</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #客单价，总消费金额/总消费次数\n&gt; pct&lt;-totalmoney/consumeNumber\n&gt; pct\n[1] 56.48095\n</code></pre></div><p>4、消费趋势</p><p>计算每周消费金额的变化</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #计算每周的消费金额，分组函数tapply\n&gt; weekConsume&lt;-tapply(excelData$actualmoney,format(excelData$time,&#34;%Y-%U&#34;),sum)\n&gt; weekConsume\n 2016-00  2016-01  2016-02  2016-03  2016-04  2016-05  2016-06  2016-07  2016-08  2016-09 \n 1734.80  9639.95 10925.29  8719.73 15457.23 18518.82  3665.70  8243.47  8406.46  9939.38 \n 2016-10  2016-11  2016-12  2016-13  2016-14  2016-15  2016-16  2016-17  2016-18  2016-19 \n 8507.50  9829.02 10135.23  8536.40 11407.60 14559.17 10620.04 10696.94  9524.06  9728.40 \n 2016-20  2016-21  2016-22  2016-23  2016-24  2016-25  2016-26  2016-27  2016-28  2016-29 \n11863.40 11537.63  9558.70 10788.49 11877.43 14130.16 10894.90  8358.10 13369.76  3484.50 \n</code></pre></div><p>主要用到分组函数tapply()，tappy()函数中传入了三个参数，第一个是actualmoney列，按照第二个参数format(excelData$time, &#34;%Y-%U&#34;)的格式要求（年-周数）进行分组，第三个参数也是一个函数，即对分组后的数据用sum()函数进行计算，然后返回一个数组（array）。</p><p>另外，关于R语言当中时间的格式，%U 表示Week of the year as decimal number (00-53)</p><p>using the ﬁrst Sunday as day 1 of week 1，其他参考<a href=\"https://link.zhihu.com/?target=http%3A//www.jianshu.com/p/59c03182f792\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">R语言的时间格式</a>。这段tapply（）函数的介绍参考了Datacruiser的学习笔记，在此感谢。</p><p><b>四、结果输出与展示</b></p><p>使用plot（）展示周消费随时间的变化。</p><p>首先将weekConsume数据存储到数据框中，然后对数据进行命名。通过plot（）定义x轴，y轴等。最后，通过axis（）定义坐标轴的显示。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #绘制图形\n&gt; weekConsume&lt;-as.data.frame.table(weekConsume)\n&gt; weekConsume\n      Var1     Freq\n1  2016-00  1734.80\n2  2016-01  9639.95\n3  2016-02 10925.29\n4  2016-03  8719.73\n5  2016-04 15457.23\n6  2016-05 18518.82\n7  2016-06  3665.70\n8  2016-07  8243.47\n9  2016-08  8406.46\n10 2016-09  9939.38\n11 2016-10  8507.50\n12 2016-11  9829.02\n13 2016-12 10135.23\n14 2016-13  8536.40\n15 2016-14 11407.60\n16 2016-15 14559.17\n17 2016-16 10620.04\n18 2016-17 10696.94\n19 2016-18  9524.06\n20 2016-19  9728.40\n21 2016-20 11863.40\n22 2016-21 11537.63\n23 2016-22  9558.70\n24 2016-23 10788.49\n25 2016-24 11877.43\n26 2016-25 14130.16\n27 2016-26 10894.90\n28 2016-27  8358.10\n29 2016-28 13369.76\n30 2016-29  3484.50\n&gt; names(weekConsume)&lt;-c(&#34;time&#34;,&#34;actualmoney&#34;)\n&gt; class(weekConsume$time)\n[1] &#34;factor&#34;\n&gt; weekConsume$time&lt;-as.character(weekConsume$time)\n&gt; weekConsume$timeNumber&lt;-c(1:nrow(weekConsume))\n&gt; plot(weekConsume$timeNumber,weekConsume$actualmoney,\n+      xlab=&#34;时间（年份-第几周）&#34;,\n+      ylab=&#34;消费金额&#34;,\n+      xaxt=&#34;n&#34;,\n+      main=&#34;2016年朝阳医院消费曲线&#34;,\n+      col=&#34;blue&#34;,\n+      type=&#34;b&#34;)\n&gt; \n&gt; axis(1,at=weekConsume$timeNumber,labels=weekConsume$time,cex.axis=1.5)\n</code></pre></div><figure><noscript><img src=\"https://pic4.zhimg.com/v2-09f95a6b4b89ab170f710cb53aaeb7a7_b.png\" data-rawwidth=\"683\" data-rawheight=\"482\" class=\"origin_image zh-lightbox-thumb\" width=\"683\" data-original=\"https://pic4.zhimg.com/v2-09f95a6b4b89ab170f710cb53aaeb7a7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;683&#39; height=&#39;482&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"683\" data-rawheight=\"482\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"683\" data-original=\"https://pic4.zhimg.com/v2-09f95a6b4b89ab170f710cb53aaeb7a7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-09f95a6b4b89ab170f710cb53aaeb7a7_b.png\"/></figure><br/><p><b>五、总结</b></p><p>本次案例通过一组医院数据，完成了数据分析的整套流程。读取数据——数据预处理——数据分析——数据输出，其中用到了openxlsx()，is.na，stringr，order()，duplicated()，class()，plot()等函数，使用了数据重命名、拆分列、数据格式的转换、排序、求和、绘图等操作。尤其要注意字符串的应用，数据计算时要进行数据格式的转换等问题。</p><p><b>六、实践</b></p><p>根据某城市各小区的价格数据进行练习，找出均价最高的小区。如图所示。因为数据量太大，所以此次练习只选取了前50行。</p><p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-a9f049d03dffbfdf970cd68743e36a17_b.png\" data-rawwidth=\"757\" data-rawheight=\"370\" class=\"origin_image zh-lightbox-thumb\" width=\"757\" data-original=\"https://pic4.zhimg.com/v2-a9f049d03dffbfdf970cd68743e36a17_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;757&#39; height=&#39;370&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"757\" data-rawheight=\"370\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"757\" data-original=\"https://pic4.zhimg.com/v2-a9f049d03dffbfdf970cd68743e36a17_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a9f049d03dffbfdf970cd68743e36a17_b.png\"/></figure>1、数据导入</p><div class=\"highlight\"><pre><code class=\"language-text\">library(&#34;openxlsx&#34;)\nreadFilePath&lt;-&#34;F:/data111.xlsx&#34;\nexcelData&lt;-read.xlsx(readFilePath,&#34;Sheet1&#34;)\n</code></pre></div><p>2、删除空缺行</p><div class=\"highlight\"><pre><code class=\"language-text\">mydata&lt;-na.omit(excelData)\n</code></pre></div><p>3、重命名</p><div class=\"highlight\"><pre><code class=\"language-text\">names(mydata)&lt;-c(&#34;community&#34;,&#34;price&#34;,&#34;longitude&#34;,&#34;latitude&#34;)\n</code></pre></div><p>4、数据类型转换</p><p>首先查看各列数据类型</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; class(mydata$community)\n[1] &#34;character&#34;\n&gt; class(mydata$price)\n[1] &#34;character&#34;\n&gt; class(mydata$longitude)\n[1] &#34;character&#34;\n&gt; class(mydata$latitude)\n[1] &#34;character&#34;\n</code></pre></div><p>数据类型不符合要求，进行数据类型转换</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; mydata$community&lt;-as.factor(mydata$community)\n&gt; mydata$price&lt;-as.numeric(mydata$price)\n&gt; mydata$longitude&lt;-as.numeric(mydata$longitude)\n&gt; mydata$latitude&lt;-as.numeric(mydata$latitude)\n</code></pre></div><p>5、计算</p><p>因为数据中有小区多次重复出现，故先删除重复行。</p><div class=\"highlight\"><pre><code class=\"language-text\">#剔除重复行\ncommunity_price&lt;-mydata[!duplicated(mydata[,c(&#34;community&#34;)]),]\n</code></pre></div><p>发现，数据由50行删减为47行。</p><p>对各小区按照价格进行排序</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; community_price&lt;-\n+   community_price[order(community_price$price),]\n&gt; community_price\n          community price longitude latitude\n41       台鼎工业园  9888  121.3590 31.32148\n33      南奉公路5幢  9911  121.4912 30.92275\n25         钱桥新苑  9927  121.5454 30.87515\n49         永嘉大楼 98375  121.4555 31.21105\n48         沧州大楼 98456  121.4641 31.23341\n47         东昌新村 98468  121.5182 31.23832\n46      广元路139弄 98554  121.4464 31.20548\n45         江湾翰林 98597  121.5167 31.31222\n44           兴国苑 98740  121.4443 31.21541\n43         复地雅园 98743  121.4973 31.22904\n42         中信君廷 98859  121.4605 31.18647\n40       吴兴路26号 98971  121.4483 31.21203\n39         浦江公馆 98993  121.5059 31.22781\n38         皮裘公寓 99019  121.4565 31.23356\n37         梧桐花园 99027  121.4670 31.21159\n36      常熟路104弄 99035  121.4542 31.22301\n34    南京西路995弄 99057  121.4647 31.23525\n32           润康邨 99118  121.4721 31.23682\n31     恒陇丽晶公寓 99133  121.4166 31.23902\n30           华侨城 99146  121.4476 31.24612\n29       王家沙花苑 99149  121.4692 31.23950\n28      永嘉路525号 99150  121.4578 31.21188\n27    延安西路489弄 99184  121.4441 31.22328\n26         泉东小区 99197  121.5279 31.23366\n24         耀江花园 99271  121.4992 31.20454\n23       长阳路24弄 99290  121.5152 31.25983\n22       柿子湾小区 99336  121.4354 31.19543\n21         南山大楼 99353  121.4370 31.19566\n20    陕西北路141弄 99494  121.4624 31.23231\n19     虬江路1491号 99502  121.4710 31.25609\n18           明德里 99504  121.4656 31.22900\n17       富民路22弄 99531  121.4562 31.22724\n16         岳阳公寓 99541  121.4595 31.21013\n15         东湖公寓 99572  121.4606 31.22403\n14      蓬莱路217号 99585  121.4973 31.22363\n13         上海别墅 99601  121.4748 31.22537\n12 鼎邦丽池（别墅） 99653  121.3791 31.20320\n10      永康路124号 99700  121.4634 31.21685\n9        绍兴路26号 99722  121.4718 31.21619\n8       太原路238号 99744  121.4620 31.21003\n7     陕西南路271弄 99752  121.4691 31.21410\n6          新梅泉苑 99800  121.4250 31.21129\n5        天平路36弄 99807  121.4442 31.20958\n4      长乐路1238号 99895  121.4474 31.22125\n3     瑞金二路130号 99896  121.4723 31.21708\n2            美丽园 99959  121.4456 31.22460\n1            太原邸 99981  121.4624 31.20954\n</code></pre></div><p>均价最高的为 太原邸，均价99981元/平，均价最低的为台鼎工业园，均价 9888元/平。根据图表中的经纬度，后期应该可以实现地图定位输出。</p><p>6、图形输出</p><p>做图展示各小区房价。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; plot(community_price$community,community_price$price,\n+      xlab=&#34;小区&#34;,\n+      ylab=&#34;价格&#34;,\n+      xaxt=&#34;n&#34;,\n+      main=&#34;某城市小区价格&#34;,\n+      type=&#34;b&#34;)\n</code></pre></div><p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-df4aa10a8e9a3017253e4b3bc3842b7a_b.png\" data-rawwidth=\"715\" data-rawheight=\"476\" class=\"origin_image zh-lightbox-thumb\" width=\"715\" data-original=\"https://pic3.zhimg.com/v2-df4aa10a8e9a3017253e4b3bc3842b7a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;715&#39; height=&#39;476&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"715\" data-rawheight=\"476\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"715\" data-original=\"https://pic3.zhimg.com/v2-df4aa10a8e9a3017253e4b3bc3842b7a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-df4aa10a8e9a3017253e4b3bc3842b7a_b.png\"/></figure>发现x轴不能显示各小区名称，原因暂时未知，怀疑是数据类型的原因，因为前面的练习中输出的图形x轴数据均为数字类型。后面找出原因后再改进。</p><p>由图可知，各小区均价均在10万元附近，但有三个小区出现1万均价。由于数据仅为部分数据，不能说明问题，所以不再做详细讨论，仅为练手。</p>", 
+            "topic": [
+                {
+                    "tag": "R", 
+                    "tagLink": "https://api.zhihu.com/topics/19752776"
+                }, 
+                {
+                    "tag": "R（编程语言）", 
+                    "tagLink": "https://api.zhihu.com/topics/19674181"
+                }, 
+                {
+                    "tag": "数据分析工具", 
+                    "tagLink": "https://api.zhihu.com/topics/19569775"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "猴子", 
+                    "userLink": "https://www.zhihu.com/people/c9b28ce4b50bf0444d17d010224cb06f", 
+                    "content": "<p>补一下课后实践作业才算通关，期待你的实践</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "好，没问题哈，在思考用哪个数据", 
+                            "likes": 0, 
+                            "replyToAuthor": "猴子"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24876678", 
+            "userName": "小熊猫", 
+            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+            "upvote": 1, 
+            "title": "学习笔记-《R语言实战》第2章创建数据集", 
+            "content": "2.1 数据集的概念<p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-23264f40aa226aa5a0068d63d4041b3e_b.png\" data-rawwidth=\"882\" data-rawheight=\"210\" class=\"origin_image zh-lightbox-thumb\" width=\"882\" data-original=\"https://pic3.zhimg.com/v2-23264f40aa226aa5a0068d63d4041b3e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;882&#39; height=&#39;210&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"882\" data-rawheight=\"210\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"882\" data-original=\"https://pic3.zhimg.com/v2-23264f40aa226aa5a0068d63d4041b3e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-23264f40aa226aa5a0068d63d4041b3e_b.png\"/></figure>行表示观测（observation），列表示变量（variable）</p><p>表对应着一个数据框。R中存储数据结构的有：标量、向量、矩阵、数组、数据框和列表。</p><p>R可以处理的数据类型包括数值型（PatientID，AdmDate,Age)、字符型(Diabetes,Status)、逻辑型、复数型（虚数）和原生型（字节）。</p><p>2.2数据结构</p><p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-c1d8aa1bddf4f6e17b712e93867cbf3e_b.png\" data-rawwidth=\"449\" data-rawheight=\"290\" class=\"origin_image zh-lightbox-thumb\" width=\"449\" data-original=\"https://pic3.zhimg.com/v2-c1d8aa1bddf4f6e17b712e93867cbf3e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;449&#39; height=&#39;290&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"449\" data-rawheight=\"290\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"449\" data-original=\"https://pic3.zhimg.com/v2-c1d8aa1bddf4f6e17b712e93867cbf3e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c1d8aa1bddf4f6e17b712e93867cbf3e_b.png\"/></figure>2.2.1向量</p><p>用于存储数值型、字符型或逻辑型数据的一维数组。</p><p>标量是只含一个元素的向量。</p><p>a &lt;- c(1, 2, 5, 3, 6, -2, 4)   数值型向量</p><p>b &lt;- c(&#34;one&#34;, &#34;two&#34;, &#34;three&#34;) 字符型向量</p><p>c &lt;- c(TRUE, TRUE, TRUE, FALSE, TRUE, FALSE) 逻辑型向量</p><p>通过在方括号中给定元素所处的位置，来访问数据，如</p><p>a[3]</p><p>a[c(1,3,5)]</p><p>a[2:6]</p><p>2.2.2矩阵</p><p>矩阵是二维数组，每个元素都有相同的模式（数值型、字符型或逻辑型）。通过matrix创建 。</p><p> mymatrix&lt;-matrix(vector,nrow=number_of_rows,ncol=number_of_columns,byrow_logical_value,dimnames=list(char_vector_rownames,char_vector_colnames))</p><p>vector表示包含了矩阵的元素，nrow和ncol用以指定行和列的维数，bynow表明矩阵应当按行填充（byrow=TRUE)还是按列填充（byrow=FALSE)，默认情况下按列填充。</p><p>2.2.3数组</p><p>数组与矩阵类似，维度可以大于2。通过array创建。</p><p>array&lt;-array(vector,dimensions,dimnames)</p><p>如：</p><p>dim1&lt;-c(&#34;A1&#34;,&#34;A2&#34;)</p><p>dim2&lt;-c(&#34;B1&#34;,&#34;B2&#34;,&#34;B3&#34;)</p><p>dim3&lt;-c(&#34;C1&#34;,&#34;C2&#34;,&#34;C3&#34;,&#34;C4&#34;)</p><p>z&lt;-array(1:24,c(2,3,4),dimnames=list(dim1,dim2,dim3))</p><p>2.2.4数据框</p><p>数据框可以是多种向量的集合，向量的模式不必相同，可以是数值型、字符型或逻辑型</p><p>mydata&lt;-data.frame(col1,col2,col3,…）</p><p>&gt; patientID &lt;- c(1, 2, 3, 4)</p><p>&gt; age &lt;- c(25, 34, 28, 52)</p><p>&gt; diabetes &lt;- c(&#34;Type1&#34;, &#34;Type2&#34;, &#34;Type1&#34;, &#34;Type1&#34;)</p><p>&gt; status &lt;- c(&#34;Poor&#34;, &#34;Improved&#34;, &#34;Excellent&#34;, &#34;Poor&#34;)</p><p>&gt; patientdata &lt;- data.frame(patientID, age, diabetes, status)</p><p>&gt; patientdata</p><p>选取数据框中的数据，</p><p>1、通过在方括号中输入位置选取</p><p> patientdata[1:2]</p><p>2、通过指明“观测”名选取</p><p>patientdata[c(&#34;diabetes&#34;,&#34;status&#34;)]</p><p>3、通过$符号选取</p><p>patientdata$age</p><p>为了免于每次都要重复输入数据框名称的麻烦，可以联合使用函数attach（）和detach或单独使用使用函数with（）来简化代码。</p>", 
+            "topic": [
+                {
+                    "tag": "R", 
+                    "tagLink": "https://api.zhihu.com/topics/19752776"
+                }, 
+                {
+                    "tag": "R（编程语言）", 
+                    "tagLink": "https://api.zhihu.com/topics/19674181"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25381407", 
+            "userName": "小熊猫", 
+            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+            "upvote": 1, 
+            "title": "学习笔记-R语言实战第4章", 
+            "content": "<b>本章主要知识点：</b><p>1、操纵日期和缺失值</p><p>2、熟悉数据类型的转换</p><p>3、变量的创建和重编码</p><p>4、数据集的排序、合并与取子集</p><p>5、选入和丢弃变量</p><br/><p><b>4.1 一个示例</b></p><div class=\"highlight\"><pre><code class=\"language-text\">#创建leadership数据框\nmanager&lt;-c(1,2,3,4,5)\ndate&lt;-c(&#34;10/24/08&#34;,&#34;10/28/08&#34;,&#34;10/1/08&#34;,&#34;10/12/08&#34;,&#34;5/1/09&#34;)\ncountry&lt;-c(&#34;US&#34;,&#34;US&#34;,&#34;UK&#34;,&#34;UK&#34;,&#34;UK&#34;)\ngender&lt;-c(&#34;M&#34;,&#34;F&#34;,&#34;F&#34;,&#34;M&#34;,&#34;F&#34;)\nage&lt;-c(32,45,25,39,99)\nq1&lt;-c(5,3,3,3,2)\nq2&lt;-c(4,5,5,3,2)\nq3&lt;-c(5,2,5,4,1)\nq4&lt;-c(5,5,5,NA,2)\nq5&lt;-c(5,5,2,NA,1)\nleadership&lt;-data.frame(manager,date,country,gender,age,\n                       q1,q2,q3,q4,q5,stringsAsFactors = FALSE)\n</code></pre></div><p><b>4.2 创建新变量</b></p><div class=\"highlight\"><pre><code class=\"language-text\">mydata&lt;-data.frame(x1=c(2,2,6,4),\n                   x2=c(3,4,2,8))\nmydata$sumx&lt;-mydata$x1+mydata$x2\nmydata$meanx&lt;-(mydata$x1+mydata$x2)/2\n\nattach(mydata)\nmydata$sumx&lt;-x1+x2\nmydata$meanx&lt;-(x1+x2)/2\ndetach(mydata)\n\nmydata&lt;-transform(mydata,\n                  sumx=x1+x2,\n                  meanx=(x1+x2)/2)\n\n</code></pre></div><p><b>4.3 变量的重编码</b></p><div class=\"highlight\"><pre><code class=\"language-text\">leadership$age[leadership$age==99]&lt;-NA #将99岁的年龄值重编码为缺失值\nleadership$agecat[leadership$age&gt;75]&lt;-&#34;Elder&#34;\nleadership$agecat[leadership$age&gt;=55&amp;\n                    leadership&lt;=75]&lt;-&#34;Middle Aged&#34;\nleadership$agecat[leadership$age&lt;55]&lt;-&#34;Young&#34;\n</code></pre></div><p>更紧凑的写法</p><div class=\"highlight\"><pre><code class=\"language-text\">leadership&lt;- within(leadership,{\n  agecat&lt;-NA\n  agecat[age&gt;75]           &lt;-&#34;Elder&#34;\n  agecat[age&gt;=55 &amp; age&lt;=75]&lt;-&#34;Middle Aged&#34;\n  agecat[age&lt;55]           &lt;-&#34;Young&#34;})</code></pre></div><p>4.4 变量的重命名</p><p>通过fix（leadership）调用一个交互式的编辑器</p><p>采用编程方式进行变量的重命名</p><div class=\"highlight\"><pre><code class=\"language-text\">#通过names()函数来重命名变量\nnames(leadership)[2]&lt;-&#34;testDate&#34; #重命名date为testDate\nnames(leadership)[6:10]&lt;-c(&#34;item1&#34;,&#34;item2&#34;,&#34;item3&#34;,&#34;item4&#34;,&#34;item5&#34;)#将重命名q1到q5为item1到item5</code></pre></div><p>使用plyr包中的rename（）函数来进行重命名</p><div class=\"highlight\"><pre><code class=\"language-text\">install.packages(&#34;plyr&#34;)\nlibrary(plyr)\nleadership&lt;-rename(leadership,\n                   c(manager=&#34;managerID&#34;,date=&#34;testDate&#34;))#使用rename修改变量名\nleadership\n</code></pre></div><p><b>4.5 缺失值</b></p><div class=\"highlight\"><pre><code class=\"language-text\">#is.na()用于检测缺失值是否存在\ny&lt;-c(1,2,3,NA)\nis.na(y)\n[1] FALSE FALSE FALSE  TRUE\n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">#示例：使用is.na()函数\nis.na(leadership[,6:10])\n        q1    q2    q3    q4    q5\n[1,] FALSE FALSE FALSE FALSE FALSE\n[2,] FALSE FALSE FALSE FALSE FALSE\n[3,] FALSE FALSE FALSE FALSE FALSE\n[4,] FALSE FALSE FALSE  TRUE  TRUE\n[5,] FALSE FALSE FALSE FALSE FALSE\n</code></pre></div><p>4.5.1 重编码某些值为缺失值</p><div class=\"highlight\"><pre><code class=\"language-text\">leadership$age[leadership$age==99]&lt;-NA #等于99的年龄值被修改为NA\n</code></pre></div><p>4.5.2 在分析中排除缺失值</p><div class=\"highlight\"><pre><code class=\"language-text\">#用na.rm=TRUE 在计算之前移除缺失值并使用剩余值进行计算\nx&lt;-c(1,2,NA,3)\ny&lt;-sum(x,na.rm=T)\ny\n6</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">#na.omit()可删除所有含有缺失数据的行\nleadership\n  managerID testDate country gender age q1 q2 q3 q4 q5\n1         1 10/24/08      US      M  32  5  4  5  5  5\n2         2 10/28/08      US      F  45  3  5  2  5  5\n3         3  10/1/08      UK      F  25  3  5  5  5  2\n4         4 10/12/08      UK      M  39  3  3  4 NA NA\n5         5   5/1/09      UK      F  NA  2  2  1  2  1\nnewdata&lt;-na.omit(leadership)\nnewdata\n  managerID testDate country gender age q1 q2 q3 q4 q5\n1         1 10/24/08      US      M  32  5  4  5  5  5\n2         2 10/28/08      US      F  45  3  5  2  5  5\n3         3  10/1/08      UK      F  25  3  5  5  5  2\n</code></pre></div><p><b>4.6 日期值</b></p><div class=\"highlight\"><pre><code class=\"language-text\">#as.Date()将输入R中的字符串，转化为以数值形式存储的日期变量\n#Sys.Date()可返回当天的日期，Date则返回当前的日期和时间\n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">#Sys.Date() 可返回当天的日期，date() 则返回当前的日期和时间\n&gt; Sys.Date() \n[1] &#34;2017-02-25&#34;\n&gt; date()\n[1] &#34;Sat Feb 25 23:20:20 2017&#34;\n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #使用函数format(x,format=&#34;output_format)来输出指定格式的日期值，并可以提取日期值中的某些部分\n&gt; today&lt;-Sys.Date()\n&gt; format(today,format=&#34;%B %d %Y&#34;) #非缩写月份，数字表示的日期，四位数的年份\n[1] &#34;二月 25 2017&#34;\n&gt; format(today,format=&#34;%A&#34;) #非缩写的星期名\n[1] &#34;星期六&#34;\n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #可在日期值上执行算术运算\n&gt; startdate&lt;-as.Date(&#34;2004-02-13&#34;)\n&gt; enddate&lt;-as.Date(&#34;2011-01-22&#34;)\n&gt; days&lt;-enddate-startdate\n&gt; days\nTime difference of 2535 days\n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">&gt; #用函数difftime()计算时间间隔\n&gt; today&lt;-Sys.Date()\n&gt; dob&lt;-as.Date(&#34;1956-10-12&#34;)\n&gt; difftime(today,dob,units=&#34;weeks&#34;)\nTime difference of 3150.143 weeks\n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">#猜猜作者生于星期几\n&gt; format(dob,format=&#34;%A&#34;)\n[1] &#34;星期五&#34;\n</code></pre></div><p>4.6.1 将日期转换为字符型变量</p><p>#as.character()可将日期值转换为字符型<br/></p><p><b>4.7 类型转换</b></p><p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-83497187cc7ebfba1dd6add01d2200b9_b.png\" data-rawwidth=\"864\" data-rawheight=\"234\" class=\"origin_image zh-lightbox-thumb\" width=\"864\" data-original=\"https://pic2.zhimg.com/v2-83497187cc7ebfba1dd6add01d2200b9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;864&#39; height=&#39;234&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"864\" data-rawheight=\"234\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"864\" data-original=\"https://pic2.zhimg.com/v2-83497187cc7ebfba1dd6add01d2200b9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-83497187cc7ebfba1dd6add01d2200b9_b.png\"/></figure>名为is.datatype（）这样的函数返回TRUE或FALSE，而as.datatype()这样的函数则将参数转换为对应的类型。</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; a&lt;-c(1,2,3)\n&gt; a\n[1] 1 2 3\n&gt; is.numeric(a)\n[1] TRUE\n&gt; is.vector(a)\n[1] TRUE\n&gt; a&lt;-as.character(a)\n&gt; a\n[1] &#34;1&#34; &#34;2&#34; &#34;3&#34;\n&gt; is.numeric(a)\n[1] FALSE\n&gt; is.vector(a)\n[1] TRUE\n&gt; is.character(a)\n[1] TRUE\n</code></pre></div><p><b>4.8 数据排序</b></p><div class=\"highlight\"><pre><code class=\"language-text\">#order()函数对一个数据框进行排序，默认的排序是升序，在排序变量前边加一个减号即可得到降序的排序结果\n&gt; attach(leadership)\nThe following objects are masked _by_ .GlobalEnv:\n\n    age, country, gender, q1, q2, q3, q4, q5\n\n&gt; newdata&lt;-leadership[order(leadership$gender,leadership$age),]\n&gt; detach(leadership)\n&gt; newdata # #各行依女性到男性、同样性别中按年龄升序排序\n  managerID testDate country gender age q1 q2 q3 q4 q5\n3         3  10/1/08      UK      F  25  3  5  5  5  2\n2         2 10/28/08      US      F  45  3  5  2  5  5\n5         5   5/1/09      UK      F  NA  2  2  1  2  1\n1         1 10/24/08      US      M  32  5  4  5  5  5\n4         4 10/12/08      UK      M  39  3  3  4 NA NA\n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">#各行依经理人的性别和年龄降序排序\n&gt; attach(leadership)\nThe following objects are masked _by_ .GlobalEnv:\n\n    age, country, gender, q1, q2, q3, q4, q5\n\n&gt; newdata&lt;-leadership[order(gender,-age),]\n&gt; detach(leadership)\n&gt; newdata\n  managerID testDate country gender age q1 q2 q3 q4 q5\n5         5   5/1/09      UK      F  NA  2  2  1  2  1\n2         2 10/28/08      US      F  45  3  5  2  5  5\n3         3  10/1/08      UK      F  25  3  5  5  5  2\n4         4 10/12/08      UK      M  39  3  3  4 NA NA\n1         1 10/24/08      US      M  32  5  4  5  5  5\n</code></pre></div><p><b>4.9 数据集的合并</b></p><p>4.9.1 向数据框添加列</p><div class=\"highlight\"><pre><code class=\"language-text\">#横向合并两个数据框，使用merge()函数\ntotal&lt;-merge(dataframeA,dataframeB,by=&#34;ID&#34;)\n#直接横向合并两个矩阵或数据框，且不需要指定一个公共索引，可直接用cbind()函数\ntotal&lt;-cbind(A,B)\n</code></pre></div><p>4.9.2 向数据框添加行</p><div class=\"highlight\"><pre><code class=\"language-text\">#纵向合并两个数据框，使用rbind()函数\ntotal&lt;-rbind(dataframeA,dataframeB)\n</code></pre></div><p><b>4.10 数据集取子集</b></p><p>4.10.1 选入变量</p><div class=\"highlight\"><pre><code class=\"language-text\">newdata&lt;-leadership[,c(6:10)]\nnewdata #从leadership数据框中选择了变量q1，q2,q3，q4和q5，并将它们保存到了数据框newdata中\n</code></pre></div><p>使用paste()函数创建了与上例中相同的字符型向量</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt; myvars&lt;-paste(&#34;q&#34;,1:5,sep=&#34;&#34;)\n&gt; newdata1&lt;-leadership[myvars]\n&gt; newdata1\n  q1 q2 q3 q4 q5\n1  5  4  5  5  5\n2  3  5  2  5  5\n3  3  5  5  5  2\n4  3  3  4 NA NA\n5  2  2  1  2  1\n</code></pre></div><p>4.10.2 剔除变量</p><div class=\"highlight\"><pre><code class=\"language-text\">#剔除变量q3和q4\nmyvars&lt;-names(leadership) %in% c(&#34;q3&#34;,&#34;q4&#34;)\nnewdata&lt;-leadership[!myvars]\n</code></pre></div><p>1 names（leadership）生成了一个包含所有变量名的字符型向量：c(&#34;managerID&#34;,&#34;testDate&#34;,&#34;country&#34;,&#34;gender&#34;,&#34;age&#34;,&#34;q1&#34;,&#34;q2&#34;,&#34;q3&#34;,&#34;q4&#34;,&#34;q5&#34;)</p><p>2 names(leadership) %in% c(&#34;q3&#34;,&#34;q4&#34;)返回了一个逻辑型向量，names（leadership）中每个匹配q3或q4的元素的值为TRUE，反之为FALSE:c(FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE).</p><p>3 运算符非（！）将逻辑值反转：c(TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE).</p><p>4 leadership[c(TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE)]选择了逻辑值为TRUE的列，于是q3和q4被剔除了。<br/></p><br/><p>当知道q3和q4是娜依列时，可通过如下代码实现。</p><div class=\"highlight\"><pre><code class=\"language-text\">newdata&lt;-leadership[c(-8,-9)]\n</code></pre></div><p>也可通过以下方式完成</p><div class=\"highlight\"><pre><code class=\"language-text\">leadership$q3&lt;-leadership$q4&lt;-NULL\n</code></pre></div><p>4.10.3 选入观测</p><div class=\"highlight\"><pre><code class=\"language-text\">newdata&lt;-leadership[1:3,] #选择第1行到第3行\n\nnewdata&lt;-leadership[leadership$gender==&#34;M&#34;&amp;\n                      leadership$age&gt;30,] #选择30岁以上的男性\n\nattach(leadership)\nnewdata&lt;-leadership[gender==&#34;M&#34;&amp;age&gt;30,]\ndetach(leadership)#使用attach()函数，就不用再变量名前加数据框名称了\n\n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">#将研究范围限定在2009年1月1日到2009年12月31日之间\nleadership$date&lt;-as.Date(leadership$date,&#34;%m/%d/%y&#34;)#将开始作为字符值读入的日期转换为日期值\nstartdate&lt;-as.Date(&#34;2009-01-01&#34;)#创建开始日期\nenddate&lt;-as.Date(&#34;2009-10-31&#34;)#创建结束日期\nnewdata&lt;-leadership[which(leadership$date&gt;=startdate&amp;\n                            leadership$date&lt;=enddate),]\n</code></pre></div><p>4.10.4 subset（）函数</p><p>采用subset()函数来选择变量和观测</p><div class=\"highlight\"><pre><code class=\"language-text\">newdata&lt;-subset(leadership,age&gt;=35|age&lt;24,\n                select=c(q1,q2,q3,q4)) #选择所有age值大于等于35或age值小于24的行，保留变量q1到q4\nnewdata\nnewdata&lt;-subset(leadership,gender==&#34;M&#34;&amp;age&gt;25,\n                select=gender:q4) #选择所有25岁以上的男性，并保留变量gender到q4的列\n</code></pre></div><p>4.10.5 随机抽样</p><div class=\"highlight\"><pre><code class=\"language-text\">#sample()函数能够让你从数据集中抽取大小为n的一个随机样本\n#从leadership数据集中随机抽取一个大小为3的样本\nmysample&lt;-leadership[sample(1:nrow(leadership),3,replace=F)]\n#无放回抽样\n</code></pre></div>", 
+            "topic": [
+                {
+                    "tag": "R", 
+                    "tagLink": "https://api.zhihu.com/topics/19752776"
+                }, 
+                {
+                    "tag": "R（编程语言）", 
+                    "tagLink": "https://api.zhihu.com/topics/19674181"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "白马少年", 
+                    "userLink": "https://www.zhihu.com/people/885f636d1307baa26087615da5b6849b", 
+                    "content": "<p>向你学习…↖(^ω^)↗</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "<p>加油加油~</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "白马少年"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25167581", 
+            "userName": "小熊猫", 
+            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+            "upvote": 11, 
+            "title": "学习笔记-R语言实战第3章", 
+            "content": "本章主要知识点：<p>1、图形的创建和保存</p><p>2、自定义符号、线条、颜色和坐标轴</p><p>3、标注文本和标题</p><p>4、控制图形维度</p><p>5、组合多个图形</p><p>通过学习其他同学的学习方法，发现可以直接在脚本文件中备注，这样既方便日后查看程序文件含义，又可以节省写文章的时间，简直一举两得。</p><div class=\"highlight\"><pre><code class=\"language-text\">#3.1 使用图形\n#示例：将图形保存到当前工作目录中名为mygraph.pdf的PDF文件中\npdf(&#34;mygraph.pdf&#34;)\nattach(mtcars)\nplot(wt,mpg)\nabline(lm(mpg~wt))\ntitle(&#34;Regression of MPG on Weight&#34;)\ndetach(mtcars)\ndev.off()\n</code></pre></div><p>图形的保存也可直接通过界面操作，Export——Save as Image/save as PDF,Copy to Clipboard。在导出图像时发现，导出的图片只能是桌面上显示的内容，如果某些元素由于被覆盖没有在桌面显示，则图片中也同样不会显示。<b>而PDF不论桌面显示与否，都会保存完整的元素，因此建议导出PDF为佳。</b></p><div class=\"highlight\"><pre><code class=\"language-text\">#3.2 一个简单的例子，plot绘图\ndose&lt;-c(20,30,40,45,60)\ndrugA&lt;-c(16,20,27,40,60)\ndrugB&lt;-c(15,18,25,31,40)\nplot(dose,drugA,type=&#34;b&#34;)#type=&#34;b&#34;表示同时绘制点和线\n</code></pre></div><figure><noscript><img src=\"https://pic1.zhimg.com/v2-4ed191f35d9e1c345d7f5583aff6acac_b.png\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"542\" data-original=\"https://pic1.zhimg.com/v2-4ed191f35d9e1c345d7f5583aff6acac_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;542&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"542\" data-original=\"https://pic1.zhimg.com/v2-4ed191f35d9e1c345d7f5583aff6acac_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4ed191f35d9e1c345d7f5583aff6acac_b.png\"/></figure><div class=\"highlight\"><pre><code class=\"language-text\">#3.3图形参数\n#3.3.1符号和线条\n#示例1：图形为虚线、三角形\nopar&lt;-par(no.readonly=TRUE)#生成一个可以修改的当前图形参数列表\npar(lty=2,pch=17) #通过par()来定义图形的字体、颜色、坐标轴、标签等\nplot(dose,drugA,type=&#34;b&#34;)\npar(opar)\n</code></pre></div><figure><noscript><img src=\"https://pic4.zhimg.com/v2-0716bef055ab4e80c64c32744c55a6cb_b.png\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"542\" data-original=\"https://pic4.zhimg.com/v2-0716bef055ab4e80c64c32744c55a6cb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;542&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"542\" data-original=\"https://pic4.zhimg.com/v2-0716bef055ab4e80c64c32744c55a6cb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0716bef055ab4e80c64c32744c55a6cb_b.png\"/></figure><div class=\"highlight\"><pre><code class=\"language-text\">#示例2：图形为点画线，方形，符号大小为标准的两倍，线宽为标准的三倍\nplot(dose,drugA,type=&#34;b&#34;,lty=3,lwd=3,pch=15,cex=2)\n</code></pre></div><p><b><figure><noscript><img src=\"https://pic2.zhimg.com/v2-8eaaa2d2c4970fcd8ee94055a4014ff5_b.png\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"542\" data-original=\"https://pic2.zhimg.com/v2-8eaaa2d2c4970fcd8ee94055a4014ff5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;542&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"542\" data-original=\"https://pic2.zhimg.com/v2-8eaaa2d2c4970fcd8ee94055a4014ff5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8eaaa2d2c4970fcd8ee94055a4014ff5_b.png\"/></figure>3.3.2 颜色</b></p><p>颜色可通过颜色小标、颜色名称、十六进制的颜色值、RGB值或HSV值来指定颜色。</p><p>col=1,col=&#34;white&#34;,col=&#34;#FFFFFF&#34;,col=rgb(1,1,1),col=hsv(0,0,1)均表示白色。</p><p>用RColorBrewer创建吸引人的颜色配对：</p><div class=\"highlight\"><pre><code class=\"language-text\">#从Set1调色板中抽取了7种用十六进制表示的颜色并返回一个向量\ninstalled.packages(&#34;RColorBrewer&#34;)\ninstall.packages(&#34;RColorBrewer&#34;)\nlibrary(RColorBrewer)\nn&lt;-7\nmycolors&lt;-brewer.pal(n,&#34;Set1&#34;)\nbarplot(rep(1,n),col=mycolors)</code></pre></div><p>gray（0:10/10)将生成10阶灰度色</p><div class=\"highlight\"><pre><code class=\"language-as\"><span class=\"nx\">n</span><span class=\"o\">&lt;-</span><span class=\"mi\">10</span>\n<span class=\"nx\">mycolors</span><span class=\"o\">&lt;-</span><span class=\"nx\">rainbow</span><span class=\"p\">(</span><span class=\"nx\">n</span><span class=\"p\">)</span>\n<span class=\"nx\">pie</span><span class=\"p\">(</span><span class=\"nx\">rep</span><span class=\"p\">(</span><span class=\"mi\">1</span><span class=\"o\">,</span><span class=\"nx\">n</span><span class=\"p\">)</span><span class=\"o\">,</span><span class=\"nx\">labels</span><span class=\"o\">=</span><span class=\"nx\">mycolors</span><span class=\"o\">,</span><span class=\"nx\">col</span><span class=\"o\">=</span><span class=\"nx\">mycolors</span><span class=\"p\">)</span>\n<span class=\"nx\">mygrays</span><span class=\"o\">&lt;-</span><span class=\"nx\">gray</span><span class=\"p\">(</span><span class=\"mi\">0</span><span class=\"o\">:</span><span class=\"nx\">n</span><span class=\"o\">/</span><span class=\"nx\">n</span><span class=\"p\">)</span>\n<span class=\"nx\">pie</span><span class=\"p\">(</span><span class=\"nx\">rep</span><span class=\"p\">(</span><span class=\"mi\">1</span><span class=\"o\">,</span><span class=\"nx\">n</span><span class=\"p\">)</span><span class=\"o\">,</span><span class=\"nx\">labels</span><span class=\"o\">=</span><span class=\"nx\">mygrays</span><span class=\"o\">,</span><span class=\"nx\">col</span><span class=\"o\">=</span><span class=\"nx\">mygrays</span><span class=\"p\">)</span>\n</code></pre></div><figure><noscript><img src=\"https://pic4.zhimg.com/v2-f5325988ab0c9a6dcb6298bfd86d66bb_b.png\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"593\" data-original=\"https://pic4.zhimg.com/v2-f5325988ab0c9a6dcb6298bfd86d66bb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;593&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"593\" data-original=\"https://pic4.zhimg.com/v2-f5325988ab0c9a6dcb6298bfd86d66bb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f5325988ab0c9a6dcb6298bfd86d66bb_b.png\"/></figure><figure><noscript><img src=\"https://pic3.zhimg.com/v2-bad90bfb93482884b3a91249e20a3c42_b.png\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"593\" data-original=\"https://pic3.zhimg.com/v2-bad90bfb93482884b3a91249e20a3c42_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;593&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"593\" data-original=\"https://pic3.zhimg.com/v2-bad90bfb93482884b3a91249e20a3c42_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-bad90bfb93482884b3a91249e20a3c42_b.png\"/></figure><br/>3.3.3文本属性<br/><br/><p><b>3.3.4图形尺寸与边界尺寸</b></p><p>示例：使用图形参数控制图形外观<br/></p><div class=\"highlight\"><pre><code class=\"language-text\">dose&lt;-c(20,30,40,45,60)\ndrugA&lt;-c(16,20,27,40,60)\ndrugB&lt;-c(15,18,25,31,40)\nopar&lt;-par(no.readonly=TRUE)\npar(pin=c(2,3))#宽和高分别为2,3英寸\npar(lwd=2,cex=1.5)#线条宽度为默认的2倍，符号为默认大小的1.5倍\npar(cex.axis=.75,font.axis=3)#坐标轴的刻度文本被设置为斜体，大小为默认的0.75倍\nplot(dose,drugA,type=&#34;b&#34;,pch=19,lty=2,col=&#34;red&#34;)#图形符号为圆圈，线条为虚线，颜色为红色\nplot(dose,drugB,type=&#34;b&#34;,pch=23,lty=6,col=&#34;blue&#34;,bg=&#34;green&#34;)#图形符号为菱形，线条为点画线，颜色为绿色\npar(opar)#还原初始的图形参数设置\n</code></pre></div><figure><noscript><img src=\"https://pic3.zhimg.com/v2-6256ae48c2fded66fdf24711743977ca_b.png\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"542\" data-original=\"https://pic3.zhimg.com/v2-6256ae48c2fded66fdf24711743977ca_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;542&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"542\" data-original=\"https://pic3.zhimg.com/v2-6256ae48c2fded66fdf24711743977ca_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-6256ae48c2fded66fdf24711743977ca_b.png\"/></figure><figure><noscript><img src=\"https://pic3.zhimg.com/v2-45ad613ecf30845c1cec668e40ee712a_b.png\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"542\" data-original=\"https://pic3.zhimg.com/v2-45ad613ecf30845c1cec668e40ee712a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;542&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"542\" data-original=\"https://pic3.zhimg.com/v2-45ad613ecf30845c1cec668e40ee712a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-45ad613ecf30845c1cec668e40ee712a_b.png\"/></figure><br/><p><b>3.4添加文本、自定义坐标轴和图例</b></p><div class=\"highlight\"><pre><code class=\"language-text\">plot(dose,drugA,type=&#34;b&#34;,\n     col=&#34;red&#34;,lty=2,pch=2,lwd=2,#lty用于指定想要的线条类型，pch用于指定绘制点时使用的符号#\n     main=&#34;Clinical Trials for Drug A&#34;,#主标题\n     sub=&#34;This is hypothetical data&#34;,#副标题\n     xlab=&#34;Dosage&#34;,ylab=&#34;Drug Response&#34;,\n     xlim=c(0,60),ylim=c(0,70))\n</code></pre></div><p>#此处注意：1、图框要足够大，才能显示全部图像内容；</p><p>2、另存为图片只能显示屏幕内容，而另存为PDF则能显示完整图像。以后尽量都另存为PDF#</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-62abddc9b7be3a6adb8459d68783ee74_b.png\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"542\" data-original=\"https://pic1.zhimg.com/v2-62abddc9b7be3a6adb8459d68783ee74_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;542&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"542\" data-original=\"https://pic1.zhimg.com/v2-62abddc9b7be3a6adb8459d68783ee74_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-62abddc9b7be3a6adb8459d68783ee74_b.png\"/></figure><br/><p><b>3.4.1 标题</b></p><div class=\"highlight\"><pre><code class=\"language-text\">title(main=&#34;main title&#34;,sub=&#34;subtitle&#34;,\n      xlab=&#34;x-axis label&#34;,ylab=&#34;y-axis label&#34;)\n</code></pre></div><p><b>3.4.2 坐标轴</b></p><div class=\"highlight\"><pre><code class=\"language-text\">#使用函数axis(side,at=,labels=,pos,lty=,col=,las=,tck=,……) \n</code></pre></div><div class=\"highlight\"><pre><code class=\"language-text\">#自定义坐标轴的示例\nx&lt;-c(1:10)\ny&lt;-x\nz&lt;-10/x\nopar&lt;-par(no.readonly=TRUE)\n\npar(mar=c(5,4,4,8)+0.1)#增加边界大小\nplot(x,y,type=&#34;b&#34;,\n     pch=21,col=&#34;red&#34;,\n     yaxt=&#34;n&#34;,lty=3,ann=FALSE)#圆形符号，红色，点状线\nlines(x,z,type=&#34;b&#34;,\n      pch=22,col=&#34;blue&#34;,lty=2)#矩形符号，蓝色，虚线\naxis(2,at=x,labels=x,col.axis=&#34;red&#34;,las=2) #坐标轴在左侧，绘制在x轴上，坐标轴颜色为红色，垂直坐标轴\naxis(4,at=z,labels=round(z,digits=2),\n     col.axis=&#34;blue&#34;,las=2,cex.axis=0.7,tck=-.01)\n#坐标轴在右侧，绘制在z轴上，蓝色，垂直于坐标轴，符号缩小为默认值的0.7倍，刻度线长度为0.01\nmtext(&#34;y=1/x&#34;,side=4,line=3,cex.lab=1,las=2,col=&#34;blue&#34;)\ntitle(&#34;An Example of Creative Axes&#34;,\n      xlab=&#34;X values&#34;,\n      ylab=&#34;Y=X&#34;)\npar(opar)</code></pre></div><p><b><figure><noscript><img src=\"https://pic2.zhimg.com/v2-36a4424e523a05956d7ecc1c0899d4a1_b.png\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"542\" data-original=\"https://pic2.zhimg.com/v2-36a4424e523a05956d7ecc1c0899d4a1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;542&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"542\" data-original=\"https://pic2.zhimg.com/v2-36a4424e523a05956d7ecc1c0899d4a1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-36a4424e523a05956d7ecc1c0899d4a1_b.png\"/></figure>3.4.3参考线</b></p><p>#使用函数abline(h=yvalues,v=xvalues)来添加参考线<br/></p><p><b>3.4.4 图例</b></p><p>#使用函数legend(location,title,legend,……)来添加参考线<br/></p><div class=\"highlight\"><pre><code class=\"language-text\">#示例，依剂量对比药物A和药物B的响应情况\ndose&lt;-c(20,30,40,45,60)\ndrugA&lt;-c(16,20,27,40,60)\ndrugB&lt;-c(15,18,25,31,40)\nopar&lt;-par(no.readonly = TRUE)\npar(lwd=2,cex=1.5,font.lab=2)#线条宽度为默认的2倍，符号大小为默认的1.5倍，坐标轴刻度文字为粗体\nplot(dose,drugA,type=&#34;b&#34;,\n     pch=15,lty=1,col=&#34;red&#34;,ylim=c(0,60),\n     main=&#34;Drug A vs.Drug B&#34;,\n     xlab=&#34;Drug Dosage&#34;,ylab=&#34;Drug Response&#34;)#添加DrugA曲线，正方形，实线，红色\n#y轴从0到60，主标题为Drug AvsDrug B，x轴标签为Drug Dosage，y轴标签为Drug Response\n\nlines(dose,drugB,type=&#34;b&#34;,\n      pch=17,lty=2,col=&#34;blue&#34;) #添加Drug曲线，三角形符号，虚线，蓝色\n\nabline(h=c(30),lwd=1.5,lty=2,col=&#34;gray&#34;)#添加辅助线，30处，虚线，线条宽度为默认的1.5倍\n\ninstall.packages(&#34;Hmisc&#34;)\nlibrary(Hmisc)\nminor.tick(nx=3,ny=3,tick.ratio=0.5)#添加次要刻度线，分3段，长度为主要刻度线的一半\n\nlegend(&#34;topleft&#34;,inset=.05,title=&#34;Drug Type&#34;,c(&#34;A&#34;,&#34;B&#34;),\n       lty=c(1,2),pch=c(15,17),col=c(&#34;red&#34;,&#34;blue&#34;))\n#添加图例，在左上方，标题为Drug Type，A为正方形红色实线，B为三角形蓝色虚线\npar(opar)\n</code></pre></div><p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-22935c41735f2da65369c19b6d8412b8_b.png\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"542\" data-original=\"https://pic1.zhimg.com/v2-22935c41735f2da65369c19b6d8412b8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;542&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"542\" data-original=\"https://pic1.zhimg.com/v2-22935c41735f2da65369c19b6d8412b8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-22935c41735f2da65369c19b6d8412b8_b.png\"/></figure><b>3.4.5文本标注</b></p><p>#text()可向绘图区域内部添加文本,text（location，”text to place&#34;,pos,……)</p><p>#mtext()向图形的四个边界之一添加文本，mtext(&#34;text to place&#34;,side,line=n,……)</p><div class=\"highlight\"><pre><code class=\"language-text\">#示例1\nattach(mtcars)\nplot(wt,mpg,\n     main=&#34;Mileage vs. Car Weight&#34;,\n     xlab =&#34;weight&#34;,ylab=&#34;Mileage&#34;,\n     pch=18,col=&#34;blue&#34;)\n#做以wt为x轴，mpg为y轴的图像，标题为Mileage vs.Car Weight,\n#x轴标签为weight，y轴标签为Mileage.坐标点为蓝色菱形。\ntext(wt,mpg,\n     row.names(mtcars),\n     cex=0.6,pos=4,col=&#34;red&#34;)\n#对坐标点标注，文字为汽车型号，大小为标准的0.6倍，在点的右侧，红色\ndetach(mtcars)\n</code></pre></div><figure><noscript><img src=\"https://pic1.zhimg.com/v2-363552da139b8e1110b1c3455bc75fa8_b.png\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"542\" data-original=\"https://pic1.zhimg.com/v2-363552da139b8e1110b1c3455bc75fa8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;542&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"542\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"542\" data-original=\"https://pic1.zhimg.com/v2-363552da139b8e1110b1c3455bc75fa8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-363552da139b8e1110b1c3455bc75fa8_b.png\"/></figure><div class=\"highlight\"><pre><code class=\"language-text\">#示例2\nopar&lt;-par(no.readonly = TRUE)\npar(cex=1.5)\nplot(1:7,1:7,type=&#34;n&#34;)\ntext(3,3,&#34;Example of default text&#34;)\ntext(4,4,family=&#34;mono&#34;,&#34;Example of mono-spaced text&#34;)\ntext(5,5,family=&#34;serif&#34;,&#34;Example of serif text&#34;)\npar(opar)\n</code></pre></div><figure><noscript><img src=\"https://pic3.zhimg.com/v2-380ad933459a91a37e980f3bef7fc6f2_b.png\" data-rawwidth=\"591\" data-rawheight=\"482\" class=\"origin_image zh-lightbox-thumb\" width=\"591\" data-original=\"https://pic3.zhimg.com/v2-380ad933459a91a37e980f3bef7fc6f2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;591&#39; height=&#39;482&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"591\" data-rawheight=\"482\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"591\" data-original=\"https://pic3.zhimg.com/v2-380ad933459a91a37e980f3bef7fc6f2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-380ad933459a91a37e980f3bef7fc6f2_b.png\"/></figure><p><b>3.4.6 数学标注</b></p><p>#函数plotmath()可以为图形主题或边界上的标题、坐标轴名称或文本标注添加数学符号</p><p>#使用help(plotmath)或demo(plotmath)查看</p><p><b>3.5 图形的组合</b></p><p>使用函数par（）或layout（）来组合</p><div class=\"highlight\"><pre><code class=\"language-text\">#示例1：通过par(mfrow=c(2,2))按行组合四副图形\nattach(mtcars)\nopar&lt;-par(no.readonly = TRUE)\npar(mfrow=c(2,2))\nplot(wt,mpg,main=&#34;Scatterplot of wt vs.mpg&#34;)\nplot(wt,disp,main=&#34;Scatterplot of wt vs.disp&#34;)\nhist(wt,main=&#34;Histogram of wt&#34;)\nboxplot(wt,main=&#34;Boxplot of wt&#34;)\npar(opar)\ndetach(mtcars)\n</code></pre></div><figure><noscript><img src=\"https://pic3.zhimg.com/v2-8cbd53c960c1a0bf0de29b812bb50e0e_b.png\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"593\" data-original=\"https://pic3.zhimg.com/v2-8cbd53c960c1a0bf0de29b812bb50e0e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;593&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"593\" data-original=\"https://pic3.zhimg.com/v2-8cbd53c960c1a0bf0de29b812bb50e0e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8cbd53c960c1a0bf0de29b812bb50e0e_b.png\"/></figure><br/><div class=\"highlight\"><pre><code class=\"language-text\">#示例2：以3行1列来排布三幅图形\nattach(mtcars)\nopar&lt;-par(no.readonly = TRUE)\npar(mfrow=c(3,1))\nhist(wt)\nhist(mpg)\nhist(disp)\npar(opar)\ndetach(mtcars)\n</code></pre></div><p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-539847804bd3241263106dccaf0de301_b.png\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"593\" data-original=\"https://pic2.zhimg.com/v2-539847804bd3241263106dccaf0de301_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;593&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"593\" data-original=\"https://pic2.zhimg.com/v2-539847804bd3241263106dccaf0de301_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-539847804bd3241263106dccaf0de301_b.png\"/></figure>用layout（）排列图形</p><div class=\"highlight\"><pre><code class=\"language-text\">#示例3，layout(mat)指定所要组合的多个图形的位置\nattach(mtcars)\nlayout(matrix(c(1,2,1,3),2,2,byrow = TRUE))\nhist(wt)\nhist(mpg)\nhist(disp)\ndetach(mtcars)\n##矩阵中的数字表示图形的序号，序号在哪个位置图形就出现在哪个位置。\n##如果矩阵中的最大值为N，则1-N-1这N-1个元素每个都会至少出现一次以保证相应图形有位置\n</code></pre></div><br/><figure><noscript><img src=\"https://pic4.zhimg.com/v2-7439490d4f25fc3d644e10bd9436ce63_b.png\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"593\" data-original=\"https://pic4.zhimg.com/v2-7439490d4f25fc3d644e10bd9436ce63_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;593&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"593\" data-original=\"https://pic4.zhimg.com/v2-7439490d4f25fc3d644e10bd9436ce63_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7439490d4f25fc3d644e10bd9436ce63_b.png\"/></figure><p>#使用widths=和heights=两个参数控制每幅图形的大小</p><p>#widths=各列宽度值组成的一个向量</p><p>#heights=各行高度值组成的一个向量</p><div class=\"highlight\"><pre><code class=\"language-text\">attach(mtcars)\nlayout(matrix(c(1,2,1,3),2,2,byrow = TRUE),\n       widths = c(3,1),heights=c(1,2))\nhist(wt)\nhist(mpg)\nhist(disp)\ndetach(mtcars)</code></pre></div><p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-e95a30b22dd57fea027118dfdf530f20_b.png\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"593\" data-original=\"https://pic1.zhimg.com/v2-e95a30b22dd57fea027118dfdf530f20_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;593&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"593\" data-original=\"https://pic1.zhimg.com/v2-e95a30b22dd57fea027118dfdf530f20_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e95a30b22dd57fea027118dfdf530f20_b.png\"/></figure>对图形布局的精细控制使用图形参数<b>fig=</b>完成</p><div class=\"highlight\"><pre><code class=\"language-text\">opar&lt;-par(no.readonly = T)\npar(fig=c(0,0.8,0,0.8))\nplot(mtcars$wt,mtcars$mpg,\n     xlab=&#34;Miles Per Gallon&#34;,\n     ylab=&#34;Car Weight&#34;)\n#绘制散点图，并设置图形范围横向为0~0.8，纵向为0~0.8\npar(fig=c(0,0.8,0.55,1),new=T)\nboxplot(mtcars$wt,horizontal=T,axes=F)\n#在上方添加箱线图，并设置图形范围横向为0~0.8，纵向为0.55~1，水平放置，new=T代表在原有图像添加\npar(fig=c(0.6,1,0,0.8),new=T)\nboxplot(mtcars$mpg,axes=F)\n#在右侧添加箱线图，并设置图形范围横向为0.6~1，纵向为0~0.8，默认竖直放置\nmtext(&#34;Enhanced Scatterplot&#34;,side=3,outer=T,line=-3)#-3数值的确定是试出来的\npar(opar)\n</code></pre></div><figure><noscript><img src=\"https://pic3.zhimg.com/v2-4f20f0601bee1a0fe387a2fdf529160a_b.png\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"593\" data-original=\"https://pic3.zhimg.com/v2-4f20f0601bee1a0fe387a2fdf529160a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;593&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"593\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"593\" data-original=\"https://pic3.zhimg.com/v2-4f20f0601bee1a0fe387a2fdf529160a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4f20f0601bee1a0fe387a2fdf529160a_b.png\"/></figure>", 
+            "topic": [
+                {
+                    "tag": "R", 
+                    "tagLink": "https://api.zhihu.com/topics/19752776"
+                }, 
+                {
+                    "tag": "R（编程语言）", 
+                    "tagLink": "https://api.zhihu.com/topics/19674181"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "白马少年", 
+                    "userLink": "https://www.zhihu.com/people/885f636d1307baa26087615da5b6849b", 
+                    "content": "写的很好，值得我学习…", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "谢谢啦，我们都加油！", 
+                            "likes": 0, 
+                            "replyToAuthor": "白马少年"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "春丽的小肚子", 
+                    "userLink": "https://www.zhihu.com/people/8e3e65386d20a1cc5614c9f097b11193", 
+                    "content": "写的太好了，这么醒目简洁直观，请允许我赞你一下", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "感谢！我觉得自己有点笨，只是想说得清楚些让自己明白。", 
+                            "likes": 0, 
+                            "replyToAuthor": "春丽的小肚子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "白马少年", 
+                    "userLink": "https://www.zhihu.com/people/885f636d1307baa26087615da5b6849b", 
+                    "content": "可以在脚本文件中备注？我一直使用截图功能，脚本文件中备注后，如何保存出来呢？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "XY工作与能力发展", 
+                    "userLink": "https://www.zhihu.com/people/97761df8c4b2720167b7cd571b0b4575", 
+                    "content": "也可以试试ggplot,好像有很多很美观的效果！", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25165450", 
+            "userName": "小熊猫", 
+            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+            "upvote": 86, 
+            "title": "如何用R语言爬取网页表格数据节省一天工作时间", 
+            "content": "今天R语言给我帮了一个大忙，简单的几行代码几乎节省了我一天的时间，小白表示R语言太有用了！<p>问题如下：</p><p>我想获取网页中表格里的数据，网页表格如下图</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-e7c8fc0d4ae838649c1fef72329dbdf9_b.png\" data-rawwidth=\"1076\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb\" width=\"1076\" data-original=\"https://pic2.zhimg.com/v2-e7c8fc0d4ae838649c1fef72329dbdf9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1076&#39; height=&#39;426&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1076\" data-rawheight=\"426\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1076\" data-original=\"https://pic2.zhimg.com/v2-e7c8fc0d4ae838649c1fef72329dbdf9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e7c8fc0d4ae838649c1fef72329dbdf9_b.png\"/></figure><p>但是呢，很坑爹的是，这个表格不能复制粘贴，Ctrl+C，Ctrl+V后出来的只是网址，估计是被禁用了复制粘贴功能。而如果一个一个敲的话工作量会很大，估计最后眼都要瞎了……</p><p>整个数据量如下，<a href=\"https://link.zhihu.com/?target=http%3A//www.chinacustomsstat.com/aspx/1/NewData/Stat_Data.aspx%3Fstate%3D1%26next%3D2%26currency%3Dusd%26year%3D2016\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">chinacustomsstat.com/as</span><span class=\"invisible\">px/1/NewData/Stat_Data.aspx?state=1&amp;next=2&amp;currency=usd&amp;year=2016</span><span class=\"ellipsis\"></span></a></p><p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-677ab4e135c843f6050d12cb8ffac739_b.png\" data-rawwidth=\"708\" data-rawheight=\"298\" class=\"origin_image zh-lightbox-thumb\" width=\"708\" data-original=\"https://pic2.zhimg.com/v2-677ab4e135c843f6050d12cb8ffac739_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;708&#39; height=&#39;298&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"708\" data-rawheight=\"298\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"708\" data-original=\"https://pic2.zhimg.com/v2-677ab4e135c843f6050d12cb8ffac739_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-677ab4e135c843f6050d12cb8ffac739_b.png\"/></figure>有2014-2017年四年，每年有7个项目，每个项目分成12个月，共计336个表，有的表内容还特别多，数字特别大，如下所示：</p><p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-d441be40a89cc9fbb86aaf9ebb8ef42b_b.png\" data-rawwidth=\"873\" data-rawheight=\"766\" class=\"origin_image zh-lightbox-thumb\" width=\"873\" data-original=\"https://pic4.zhimg.com/v2-d441be40a89cc9fbb86aaf9ebb8ef42b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;873&#39; height=&#39;766&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"873\" data-rawheight=\"766\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"873\" data-original=\"https://pic4.zhimg.com/v2-d441be40a89cc9fbb86aaf9ebb8ef42b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d441be40a89cc9fbb86aaf9ebb8ef42b_b.png\"/></figure>照这个工作量，一个数一个数敲到Excel中的话，一天不吃不喝估计都搞不定。</p><br/><p>幸好，我最近刚入门了R……</p><p>听说R语言也有爬取数据的功能，于是在网上简单的搜了一些帖子后，利用了XML包，成功的将这网页中的336个表存成了Excel格式。</p><p>代码如下：</p><p>&gt;install.packages（“XML”）#安装XML包</p><p>&gt;library(XML) #载入XML包</p><p>&gt;u&lt;-&#34;<a href=\"https://link.zhihu.com/?target=http%3A//www.chinacustomsstat.com/aspx/1/NewData/Stat_Class.aspx%3Fstate%3D1%26t%3D2%26guid%3D7146\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">chinacustomsstat.com/as</span><span class=\"invisible\">px/1/NewData/Stat_Class.aspx?state=1&amp;t=2&amp;guid=7146</span><span class=\"ellipsis\"></span></a>&#34;  #写入表格所在的网址</p><p>&gt;tbls&lt;-readHTMLTable(u) #分析网页中的表格，如果网页包含多个表格，需要确定读取哪个表。可通过识别表的行数来确定，具体见<a href=\"https://link.zhihu.com/?target=http%3A//blog.sina.com.cn/s/blog_ebf594400102v3am.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">R语言网页数据抓取的一个实例_戊甲_新浪博客</a></p><p>&gt;pop&lt;-readHTMLTable(u,which=1) #读取网页中的第一张表</p><p>&gt;write.csv(pop,file=&#34;d:/pop.csv&#34;) #存储pop为CSV文档至D盘中</p><br/><p>这样，就快速实现了网页中的数据爬取。第一次将R语言运用到工作中去，灰常有成就感~但是毕竟有336个网页，最后要运行336次代码，工作量也是有的。各位童鞋如果有更好的方法可以更快速的导出数据的欢迎提供~</p>", 
+            "topic": [
+                {
+                    "tag": "R（编程语言）", 
+                    "tagLink": "https://api.zhihu.com/topics/19674181"
+                }, 
+                {
+                    "tag": "R", 
+                    "tagLink": "https://api.zhihu.com/topics/19752776"
+                }, 
+                {
+                    "tag": "网页爬虫", 
+                    "tagLink": "https://api.zhihu.com/topics/19794679"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "huang Fred", 
+                    "userLink": "https://www.zhihu.com/people/4afcf633fc0b7c3800ba05de0c9a42d8", 
+                    "content": "请选择Python", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "听说过python的爬取功能，不过我现在刚入门r，打算r学好了再学python～", 
+                            "likes": 1, 
+                            "replyToAuthor": "huang Fred"
+                        }, 
+                        {
+                            "userName": "huang Fred", 
+                            "userLink": "https://www.zhihu.com/people/4afcf633fc0b7c3800ba05de0c9a42d8", 
+                            "content": "下面的<a href=\"http://www.zhihu.com/people/87beb6e642ad1e174493e69cbd126a97\" data-hash=\"87beb6e642ad1e174493e69cbd126a97\" class=\"member_mention\" data-hovercard=\"p$b$87beb6e642ad1e174493e69cbd126a97\">@正南</a> 说的很对，循环一下就好了。", 
+                            "likes": 0, 
+                            "replyToAuthor": "小熊猫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "正南", 
+                    "userLink": "https://www.zhihu.com/people/87beb6e642ad1e174493e69cbd126a97", 
+                    "content": "看看各个表格网址可有规则，用循环处理一下，就不需要一次次运行了", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Dr.House", 
+                    "userLink": "https://www.zhihu.com/people/8f83ad8140c918cc8b2202a2e460551a", 
+                    "content": "网址应该是有规律的，可以参考一下我在最近的一篇文章里的做法，先把网址拆开来，再将年份和月份填进去，做两个循环<br>months &lt;- sprintf(\"%02d\", 1:12)<br>years &lt;- 2014:2016<br>for(i in years) {<br>  for(j in months) {<br>    print(paste(i, j, sep = \"\"))<br>    url_a=\"<a href=\"http://link.zhihu.com/?target=http%3A//www.tianqihoubao.com/aqi/beijing-\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">tianqihoubao.com/aqi/be</span><span class=\"invisible\">ijing-</span><span class=\"ellipsis\"></span></a>\"<br>    url_b=\".html\"<br>    url_all=paste(url_a, i, j, url_b, sep = \"\")<br>    temp &lt;- getURL(url_all, .encoding=\"GBK\")", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "多谢！正在拜读你的文章！", 
+                            "likes": 0, 
+                            "replyToAuthor": "Dr.House"
+                        }, 
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "根据你的提示，我发现同一类的网址只有最后四位数字不一样，根据此我尝试做了一个for循环。但还是有些问题，每次保存的CSV文件都会覆盖前次的文件，最后循环完只是最后一个表格的内容。求指导如何保存成不同的CSV文件，或者保存成同一个CSV中的不同sheet。非常感谢！以下是我的代码：<br>difference&lt;-c(7129,7154,7179,7206,7231,7256,7284,7309,7334,7359,7394,7419)<br>for(i in difference){<br>  ur_1=\"<a href=\"http://link.zhihu.com/?target=http%3A//www.chinacustomsstat.com/aspx/1/NewData/Stat_Class.aspx%3Fstate%3D1%26t%3D2%26guid%3D\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">chinacustomsstat.com/as</span><span class=\"invisible\">px/1/NewData/Stat_Class.aspx?state=1&amp;t=2&amp;guid=</span><span class=\"ellipsis\"></span></a>\"<br>  ur_all=paste(ur_1,i,sep=\"\")<br>  tbls&lt;-readHTMLTable(ur_all)<br>  data&lt;-readHTMLTable(ur_all,which=1)<br>  write.csv(data,file=\"d:/data.csv\") <br>}", 
+                            "likes": 0, 
+                            "replyToAuthor": "Dr.House"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "LINQG", 
+                    "userLink": "https://www.zhihu.com/people/af76de35992f0f9b882daffb119c9991", 
+                    "content": "用循环遍历网址", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "猴子", 
+                    "userLink": "https://www.zhihu.com/people/c9b28ce4b50bf0444d17d010224cb06f", 
+                    "content": "学以致用，最棒啦，实践的不错。可以进一步考虑：如何抓取罗辑思维得到app订阅专栏下留言区的数据", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "好的，我试试看哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "猴子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "猴子", 
+                    "userLink": "https://www.zhihu.com/people/c9b28ce4b50bf0444d17d010224cb06f", 
+                    "content": "下一次课会将如何使用函数做复杂的数据分析，到时候你就可以返回来进一步修改你的代码变的高效，或者看《R语言实战》第5章学习如何使用函数", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "嗯，一步一步来~", 
+                            "likes": 2, 
+                            "replyToAuthor": "猴子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "醉梦长空", 
+                    "userLink": "https://www.zhihu.com/people/9cfb757daedbcc06391081648bba1b72", 
+                    "content": "如果网址类似的话可以用一个正则表达，而不是每次手动输入。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "kaolixin", 
+                    "userLink": "https://www.zhihu.com/people/9e16607bd6a06ce417263c422d6d6c50", 
+                    "content": "k &lt;- c(1:20)<br>for(i in k){url_t=\"<a href=\"http://link.zhihu.com/?target=http%3A//www.chinacustomsstat.com/aspx/1/NewData/Stat_Class.aspx%3Fstate%3D1%26t%3D2%26guid%3D\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">chinacustomsstat.com/as</span><span class=\"invisible\">px/1/NewData/Stat_Class.aspx?state=1&amp;t=2&amp;guid=</span><span class=\"ellipsis\"></span></a>\"<br>+ j=i*25+7117<br>+ url_all=paste(url_t,j,sep=\"\")<br>+ print(url_all)<br>+ tbls &lt;- readHTMLTable(url_all)<br>+ cus &lt;- readHTMLTable(url_all,which = 1)<br>+ datapath=paste(\"c:/cus\",j,\".csv\",sep=\"\")<br>+ write.csv(cus,file = datapath)}", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "谢谢你的代码哈，我运行了一下发现还是有两点错误。第一个，网址最后四位数字的循环那里并不是等差数列，有不是相差25的情况，所以直接循环应该不行；第二点，我在进行第二个循环的时候出现了错误，<br>In addition: Warning message:<br>In file(file, ifelse(append, \"a\", \"w\")) :<br>  cannot open file 'c:/cus7142.csv': Permission denied", 
+                            "likes": 0, 
+                            "replyToAuthor": "kaolixin"
+                        }, 
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "谢谢你的代码哈，我运行了一下发现还是有两点错误。第一个，网址最后四位数字的循环那里并不是等差数列，有不是相差25的情况，所以直接循环应该不行；第二点，我在进行第二个循环的时候出现了错误，<br>In addition: Warning message:<br>In file(file, ifelse(append, \"a\", \"w\")) :<br>  cannot open file 'c:/cus7142.csv': Permission denied", 
+                            "likes": 0, 
+                            "replyToAuthor": "kaolixin"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "kaolixin", 
+                    "userLink": "https://www.zhihu.com/people/9e16607bd6a06ce417263c422d6d6c50", 
+                    "content": "difference&lt;-c(7129,7154,7179,7206,7231,7256,7284,7309,7334,7359,7394,7419) for(i in difference){url_t=\"<a href=\"http://link.zhihu.com/?target=http%3A//www.chinacustomsstat.com/aspx/1/NewData/Stat_Class.aspx%3Fstate%3D1%26t%3D2%26guid%3D\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">chinacustomsstat.com/as</span><span class=\"invisible\">px/1/NewData/Stat_Class.aspx?state=1&amp;t=2&amp;guid=</span><span class=\"ellipsis\"></span></a>\"<br>url_all=paste(url_t,i,sep=\"\")<br> print(url_all)<br>tbls &lt;- readHTMLTable(url_all)<br> cus &lt;- readHTMLTable(url_all,which = 1)<br>datapath=paste(\"c:/cus\",i,\".csv\",sep=\"\")<br>write.csv(cus,file = datapath)}", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "9号球", 
+                    "userLink": "https://www.zhihu.com/people/f8cecbb08fa559512e76ced100db8c29", 
+                    "content": "将学习带来的知识为工作带来便利，也是我的目标，现在属于零基础初学者，向你看齐！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "<p>加油喽</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "9号球"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "2元钱的咖啡", 
+                    "userLink": "https://www.zhihu.com/people/77e3474fb8af9449553f4d2f08b8f2bc", 
+                    "content": "应该可以利用循环，不需要运行三百多次", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24836316", 
+            "userName": "小熊猫", 
+            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+            "upvote": 8, 
+            "title": "学习与实践笔记-猴子知乎live“数据结构入门”", 
+            "content": "<p>这是一门实践的课程。</p>1、做语义分析需要编程能力，谷歌搜索即可<p>2、大数据需要非常了解关系型数据库和非关系型数据库，以方便从数据库中提取数据</p><p>3、数据分析师分数据分析和数据挖掘，前者偏业务，后者偏算法。</p><p>4、R语言的面试可以网上搜</p><p>5、数据结构经典入门书，清华大学严蔚敏《数据结构》</p><p>6、入门自学到什么程度可以找到一份工作？跟着课程和《R语言实战》学习，跟着敲代码，同时以专栏记录学习进程。</p><br/><p>正式上课</p><p><b>一、R语言和Python的比较</b></p><p>1、中国数据分析师的年薪在20-40万，美国数据分析师年薪60-80万</p><p>2、招聘要求上一般是要两种语言都要会</p><p>3、R使用最多，天然的统计分析和绘图语言</p><br/><p><b>二、数据结构是什么</b></p><p>类比盖房子</p><p>1、房子设计  ——架构师（搞清楚用户需求）</p><p>2、盖房子的区域——R环境</p><p>3、准备材料——数据结构（放数据的一个容器）</p><p>4、组合材料——算法（分析和展示）</p><p>盖房子=材料+整合材料</p><p>程序=数据结构+算法</p><br/><p><b>三、RStudio的使用</b></p><p>R是运行环境（R是地基）</p><p>RStudio是开发工具（为了方便开发而产生的）</p><br/><p><b>四、数据结构</b></p><p>1、常用数据结构：向量、矩阵、数组、数据框、列表、因子（暂不介绍）</p><p>2、如何定义一个数据结构</p><p>3、如何使用一个数据结构</p><p>4、向量：相同数据类型的容器（数值或字符串，必须一致）</p><p>向量的长度：length()</p><p>访问向量中的某个元素：name[1]</p><p>5、矩阵：matrix(vector,nrow=2,ncol=2,byrow=logical_value,dimnames=list(rnames,cnames))</p><p>如何访问矩阵中的元素：a[1,] ,a[,1],a[1,1]</p><p>6、数组：多维度</p><p>array（vector，数组中的元素</p><p>dimensions,各维度元素个数</p><p>dimnames);各维度名称</p><p>7、数据框</p><p>定义：mydata&lt;-data.frame(col1,col2,col3……)</p><p>查找：age1&lt;-patientdata$age 选取某个向量</p><p>subdata&lt;-patientdata[c(&#34;age&#34;,&#34;status&#34;)]  选取部分向量</p><p>计算个数：patientnumber&lt;-nrow(patientdata) 计算数量</p><p>选出部分：</p><p>type1&lt;-patientdata[patientdata$diabets==&#34;1型糖尿病&#34;,]   选出具有某些特征的病人 </p><p>新增加行：</p><p>newPatient&lt;-data.frame(patientID,age,diabets,status,stringsAsfactors=FALSE)</p><p>patientdata&lt;-rbind(patientdata,newPatient)</p><p>新增加列：</p><p>patientdata&lt;-cbind(patientdata,inTime)</p><p>8、列表：集合各个数据结构</p><p>list(name1=object1,name2=object2,name3=object3,…）</p><p>获取某个数据框：number&lt;-kpi[[&#34;number&#34;]]</p><br/><br/><p><b>五、实践</b></p><p>练习：将excel数据导入到R中，并选取其中的内容</p><p>1、导入</p><p>我先按照书中载入xlsx包的方法走了一遍，后来又自己搜索了几种方法，最简单的是直接用File，Import Dataset，From Excel，窗口选择文件即可，这种太简单，后续就不说了。</p><p>1.1 书本方法</p><p>书中的方法是安装xlsx包，但由于xlsx是依赖于xlsxjars和RJava包存在的，因此三个包都要安装并载入。</p><p>首先，安装xlsx包，install.packages(&#34;xlsx&#34;)；</p><p>成功之后，载入，系统提示载入需要的程辑包：rJava   载入需要的程辑包：xlsxjars</p><p>install.packages(&#34;xlsxjars&#34;)  install.packages(&#34;Java&#34;) 系统提示下载错误，然后去Java官网下载，下载成功了之后，依次载入xlsxjars和Java，再载入xlsx就成功了。<br/></p><p>&gt; library(rJava)</p><p>&gt; library(xlsxjars)</p><p>&gt; library(xlsx)</p><p>&gt; workbook&lt;-&#34;E:/data.xlsx&#34;</p><p>&gt; mydataframe&lt;-read.xlsx(workbook,1)</p><p>&gt; mydataframe</p><p>这一串代码之后，excel中的内容导入进来了，但是出现的全是乱码，如下图</p><p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-477961910efdb16ef82f631b77ac160b_b.png\" data-rawheight=\"167\" data-rawwidth=\"519\" class=\"origin_image zh-lightbox-thumb\" width=\"519\" data-original=\"https://pic4.zhimg.com/v2-477961910efdb16ef82f631b77ac160b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;519&#39; height=&#39;167&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"167\" data-rawwidth=\"519\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"519\" data-original=\"https://pic4.zhimg.com/v2-477961910efdb16ef82f631b77ac160b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-477961910efdb16ef82f631b77ac160b_b.png\"/></figure>谷歌之后发现是会有这样的情况出现，属于bug，我没有发现很好的解决方法。于是，这种方法导入数据是可以的，但是在我电脑上没有多大作用，后期数据基本无法使用，遂寻找其他的导入方法。</p><p>后来，易成凡同学出手相助，给出了一个解决中文乱码问题的方法：在括号内加入encoding=&#39;UTF-8&#39;，完美解决了问题。</p><p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-69cfa7a19a30c2713b37248ced4f758e_b.png\" data-rawwidth=\"444\" data-rawheight=\"170\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic3.zhimg.com/v2-69cfa7a19a30c2713b37248ced4f758e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;444&#39; height=&#39;170&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"444\" data-rawheight=\"170\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic3.zhimg.com/v2-69cfa7a19a30c2713b37248ced4f758e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-69cfa7a19a30c2713b37248ced4f758e_b.png\"/></figure>如上图，乱码问题就不见啦。再次感谢易成凡同学！</p><p>1.2 使用粘贴板导入</p><p>首先，先复制excel中想要导入的内容，</p><p>然后，在Rstudio中敲入如下代码</p><div class=\"highlight\"><pre><code class=\"language-text\">read.table(&#34;clipboard&#34;,header=T)</code></pre></div><p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-7b692de8c92022ff8db8b824aad29a13_b.png\" data-rawheight=\"90\" data-rawwidth=\"409\" class=\"content_image\" width=\"409\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;409&#39; height=&#39;90&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"90\" data-rawwidth=\"409\" class=\"content_image lazy\" width=\"409\" data-actualsrc=\"https://pic4.zhimg.com/v2-7b692de8c92022ff8db8b824aad29a13_b.png\"/></figure>如上图，完美呈现，而且非常方便，想选哪里选哪里。</p><p>1.3 安装 “readxl&#34;包</p><p>这种方法也是我喜欢的，可以跨平台、无依赖的读取xls,xlsx中的表格数据。</p><p>&gt; install.packages(&#34;readxl&#34;)<br/></p><p>&gt; library(readxl)<br/></p><p>&gt; read_excel(&#34;data&#34;)<br/></p><p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-9a54548e003e49f8255f7d4e0e6ec712_b.png\" data-rawheight=\"136\" data-rawwidth=\"482\" class=\"origin_image zh-lightbox-thumb\" width=\"482\" data-original=\"https://pic3.zhimg.com/v2-9a54548e003e49f8255f7d4e0e6ec712_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;482&#39; height=&#39;136&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"136\" data-rawwidth=\"482\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"482\" data-original=\"https://pic3.zhimg.com/v2-9a54548e003e49f8255f7d4e0e6ec712_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9a54548e003e49f8255f7d4e0e6ec712_b.png\"/></figure>如上图，也导入了excel的结果。但要注意data所在的位置必须是工作目录，如果不是就用setwd进行修改。</p><p>2、使用表格中的内容</p><p>如果要使用表格中的内容，上述介绍的后两种方法就直接定义成数据框，然后再在数据框中选择。如下图所示，两种方法定义了dataframe和dataframe1两个数据框。</p><p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-16c0a9ddc69859c5bc720c663392d975_b.png\" data-rawheight=\"209\" data-rawwidth=\"420\" class=\"content_image\" width=\"420\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;420&#39; height=&#39;209&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"209\" data-rawwidth=\"420\" class=\"content_image lazy\" width=\"420\" data-actualsrc=\"https://pic2.zhimg.com/v2-16c0a9ddc69859c5bc720c663392d975_b.png\"/></figure>然后，以dataframe1为例进行操作，选择age列，选择部分列，显示行数</p><p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-28850143df900f872c9a2d207127eac7_b.png\" data-rawheight=\"193\" data-rawwidth=\"358\" class=\"content_image\" width=\"358\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;358&#39; height=&#39;193&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"193\" data-rawwidth=\"358\" class=\"content_image lazy\" width=\"358\" data-actualsrc=\"https://pic4.zhimg.com/v2-28850143df900f872c9a2d207127eac7_b.png\"/></figure>在选取具有某些特征的数据时发现一个很容易忽略的错误，<b>一个逗号。</b>比如，选择患有1型糖尿病的病人。</p><p>正确代码应该是：</p><p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-24d91f0afaa143ee82d5e9f8d8085a6c_b.png\" data-rawheight=\"79\" data-rawwidth=\"441\" class=\"origin_image zh-lightbox-thumb\" width=\"441\" data-original=\"https://pic1.zhimg.com/v2-24d91f0afaa143ee82d5e9f8d8085a6c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;441&#39; height=&#39;79&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"79\" data-rawwidth=\"441\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"441\" data-original=\"https://pic1.zhimg.com/v2-24d91f0afaa143ee82d5e9f8d8085a6c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-24d91f0afaa143ee82d5e9f8d8085a6c_b.png\"/></figure>但我第一次不小心少些了最后一个逗号，于是结果就变成了：</p><p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-8fc2c2e23a45b99b167b2e0633f68676_b.png\" data-rawheight=\"107\" data-rawwidth=\"451\" class=\"origin_image zh-lightbox-thumb\" width=\"451\" data-original=\"https://pic3.zhimg.com/v2-8fc2c2e23a45b99b167b2e0633f68676_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;451&#39; height=&#39;107&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"107\" data-rawwidth=\"451\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"451\" data-original=\"https://pic3.zhimg.com/v2-8fc2c2e23a45b99b167b2e0633f68676_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8fc2c2e23a45b99b167b2e0633f68676_b.png\"/></figure>对照了半天才发现其中的差距，R语言果然是实践的课程。</p>", 
+            "topic": [
+                {
+                    "tag": "R（编程语言）", 
+                    "tagLink": "https://api.zhihu.com/topics/19674181"
+                }, 
+                {
+                    "tag": "Microsoft Excel", 
+                    "tagLink": "https://api.zhihu.com/topics/19567930"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "20-40w??", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24812730", 
+            "userName": "小熊猫", 
+            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+            "upvote": 2, 
+            "title": "学习笔记-R语言实战第1章", 
+            "content": "<b>一、在数据分析上R的优点</b><p>R是一种为统计计算和绘图而生的语言和环境，完美契合大数据时代数据分析和展示的需求</p><p>1、免费开源</p><p>2、R提供各式各样的数据分析技术</p><p>3、R拥有顶尖水准的绘图功能<br/></p><p>4、可进行交互式数据分析和探索的强大平台</p><p>5、轻松的从各类数据源导入数据，包括文本文件、Excel、数据库管理系统、专门的数据仓库</p><p>6、可运行于多种平台之上，包括Windows、Unix和Mac OSX</p><p><b>二、R的下载和安装</b></p><p>从<a href=\"https://link.zhihu.com/?target=http%3A//cran.r-project.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">The Comprehensive R Archive Network</a>上下载，选择好安装平台下载，并按照要求安装即可，有中文简体版。</p><p><b>三、R的使用</b></p><p>1、R的赋值符号为&lt;-，而不是传统的=</p><p>2、注释由符号#开头，#之后的任何文本都会被R解释器忽略</p><p>3、函数c()可将括号内的参数组合成向量或列表，如</p><p>&gt;age&lt;-c(1,3,5,2,11,9,3)</p><p>4、均值：mean();</p><p>标准差：sd();</p><p>相关度：cor()</p><p>绘图：plot（）</p><p>5、获取帮助</p><p>help.start()</p><p>help(&#34;foo &#34;)或？foo  查看函数foo的帮助</p><p>6、使用上下方向键查看已输入的命令的历史记录</p><p>7、包</p><p>7.1包的安装</p><p>install.packages(&#34;name&#34;)  一个包仅需安装一次</p><p>7.2包的载入</p><p>library（name）载入之前必须已安装，在一个绘画中，包只需载入一次</p>", 
+            "topic": [
+                {
+                    "tag": "R（编程语言）", 
+                    "tagLink": "https://api.zhihu.com/topics/19674181"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "猴子", 
+                    "userLink": "https://www.zhihu.com/people/c9b28ce4b50bf0444d17d010224cb06f", 
+                    "content": "继续加油，接着看第2章，多敲代码", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/24798741", 
+            "userName": "小熊猫", 
+            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+            "upvote": 5, 
+            "title": "2017年上半年数据分析学习计划", 
+            "content": "<p><b>起源</b></p><p>我是在2016年12月29日加入猴子老师创办的“大数据思维社群”的，发现这个社群是从李笑来老师的财富自由战斗组中，而订阅笑来老师 的《通往财务自由之路》也仅仅是2016年12月6日的事情，短短不到一个月的时间我仿佛找到了通往新世界的大门。</p><p>当然找到通往新世界的大门也不是单凭好运气，最近半年我也一直在寻找大数据学习的资料，先后发现了“城市数据团”“数据研学社”等团体，跟着视频学了一招半式，但发现这些东西都过于碎片化，甚至对于没有数据分析基础的小白来说根本理解很困难。所以，学了一段之后都想放弃了。再加上从十月份开始工作突然很忙，也就没想这件事了。</p><p>不过我不是一个很安分的人，工作环境的传统与守旧让我感觉自己在逐渐被未来抛弃。待12月份没那么忙了之后，我想起了李笑来的得到专栏，果断订阅了。李笑来一直强调要活在未来，而大数据就是未来，这几乎是一个毋庸置疑但会被很多人忽略的简单又重要的道理。所以，在发现猴子老师的零基础教程后，我如获至宝，决定跟随老师的课程好好的把基础打牢。</p><p><b>个人背景</b></p><p>我在在交通行业工作，受大数据和人工智能的影响，这个行业以后将面临着不小的变革，因此我非常渴望尽快掌握这方面的知识。但是公司目前并不具备大数据分析的实力，同时由于种种条件的制约，公司在大数据方面的进展可以说是收效甚微。</p><p>至于我本人，既然相信了笑来老师所说的“要活在未来”，现在就是我践行的机会。一方面我会把基础打牢，另一方面也会有意的利用公司的资源和环境，将所学应用到工作中去，也许会给职业生涯带来好的转机。</p><p><b>学习目标</b></p><p>1、跟随猴子老师的数据分析学习课程和《R语言实战》教程，7月份完成基本的学习，9月份与社群成员完成一个盈利项目。</p><p>2、在本职工作上，根据所掌握的数据应用学到的数据分析知识，2017年完成一个项目的大数据分析的应用。</p><p><b>学习计划</b><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-a4e9c31b4d68f8da225706ed31d71aad_b.png\" data-rawheight=\"458\" data-rawwidth=\"606\" class=\"origin_image zh-lightbox-thumb\" width=\"606\" data-original=\"https://pic2.zhimg.com/v2-a4e9c31b4d68f8da225706ed31d71aad_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;606&#39; height=&#39;458&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"458\" data-rawwidth=\"606\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"606\" data-original=\"https://pic2.zhimg.com/v2-a4e9c31b4d68f8da225706ed31d71aad_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a4e9c31b4d68f8da225706ed31d71aad_b.png\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-730207cf51583fe0326a7f1c2ff30b09_b.png\" data-rawheight=\"292\" data-rawwidth=\"605\" class=\"origin_image zh-lightbox-thumb\" width=\"605\" data-original=\"https://pic2.zhimg.com/v2-730207cf51583fe0326a7f1c2ff30b09_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;605&#39; height=&#39;292&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"292\" data-rawwidth=\"605\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"605\" data-original=\"https://pic2.zhimg.com/v2-730207cf51583fe0326a7f1c2ff30b09_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-730207cf51583fe0326a7f1c2ff30b09_b.png\"/></figure><br/><p>以上两表为书籍和课程的计划表，因为入群较晚，所以1月份任务比较重，要看完4章内容，好在前面的比较简单，应该可以完成。后面基本上是每月2章。live课程就完全按照猴子老师的进度。书籍和课程在完成后都需要完成学习笔记，书籍和课程的笔记可合在一起写。每个时间节点之前完成任务可以有相应的奖励用于娱乐休闲。</p><p><b>最后</b></p><p>自从上大学后，我就逐渐脱离了社群学习的氛围，不管是校内校外考试还是新技能，基本都是孤军奋战的模式，最多3人小团体作战，现在工作后这种模式更是有增无减。这种模式有时会进步很快，但过一段时间就会感觉很辛苦没有动力。“一个人走得快，一群人走得远”也许很在理。这次我尝试加入一个社群，希望能在团体作战的模式下，在大数据的路上走得更远。这份计划我就是在参考了社群里诸多小伙伴的计划后做出来的，感觉小伙伴的热情与优秀时刻都在鞭打着我不要掉队，而且社群成员分享的很多资料对我理解大数据提供了很多帮助。</p><p>2017年，希望自己能够创造2个小奇迹：1、具备基础的数据分析能力，并完成一个项目；2、和大数据思维社群的一众小伙伴走得更远。</p>", 
+            "topic": [
+                {
+                    "tag": "大数据", 
+                    "tagLink": "https://api.zhihu.com/topics/19740929"
+                }, 
+                {
+                    "tag": "数据分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19559424"
+                }, 
+                {
+                    "tag": "R（编程语言）", 
+                    "tagLink": "https://api.zhihu.com/topics/19674181"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "猴子", 
+                    "userLink": "https://www.zhihu.com/people/c9b28ce4b50bf0444d17d010224cb06f", 
+                    "content": "<p>现在回过头来看你的实践计划，发现你执行力很强，进步非常快</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "小熊猫", 
+                            "userLink": "https://www.zhihu.com/people/bc02d78364133a4062d7d72bd527c1b1", 
+                            "content": "<p>哈哈，谢谢鼓励啊，我觉得我进步不算最快的，不过制定了计划基本都会想着去完成</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "猴子"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/xiaoxiongmao"
+}

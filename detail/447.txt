@@ -1,0 +1,463 @@
+{
+    "title": "菜鸟学知识图谱", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/camille-79-46-7", 
+        "https://www.zhihu.com/people/ke-la-65", 
+        "https://www.zhihu.com/people/fan-xiao-lin-45", 
+        "https://www.zhihu.com/people/lyxdy", 
+        "https://www.zhihu.com/people/gogo-30-43", 
+        "https://www.zhihu.com/people/liu-zheng-guang-93-13", 
+        "https://www.zhihu.com/people/zi-jin-tian-xia-126", 
+        "https://www.zhihu.com/people/li-jia-lei-56-75", 
+        "https://www.zhihu.com/people/resurgam-95-25", 
+        "https://www.zhihu.com/people/zai-lu-shang-27-67", 
+        "https://www.zhihu.com/people/light001", 
+        "https://www.zhihu.com/people/chen-qing-cheng-18", 
+        "https://www.zhihu.com/people/stitchlalala", 
+        "https://www.zhihu.com/people/hu-zhong-93-60", 
+        "https://www.zhihu.com/people/huang-wei-67-95", 
+        "https://www.zhihu.com/people/stone-82-84", 
+        "https://www.zhihu.com/people/mu-xin-27-83", 
+        "https://www.zhihu.com/people/xin-you-meng-hu-98", 
+        "https://www.zhihu.com/people/nan-nan-nan-10-14", 
+        "https://www.zhihu.com/people/gua-niu-56-24", 
+        "https://www.zhihu.com/people/whenwin", 
+        "https://www.zhihu.com/people/qing-shan-19-56", 
+        "https://www.zhihu.com/people/4recommend", 
+        "https://www.zhihu.com/people/tao-fen-47-9", 
+        "https://www.zhihu.com/people/yu-zhou-zhou-75-79", 
+        "https://www.zhihu.com/people/941215yyt", 
+        "https://www.zhihu.com/people/eric-xie-8", 
+        "https://www.zhihu.com/people/xiao-fei-28-72-38", 
+        "https://www.zhihu.com/people/yinian-wu-chen", 
+        "https://www.zhihu.com/people/shangzhi-huang", 
+        "https://www.zhihu.com/people/zu-zi", 
+        "https://www.zhihu.com/people/albert-18-79", 
+        "https://www.zhihu.com/people/xing-er-97-5", 
+        "https://www.zhihu.com/people/wei-wei-72-27-37", 
+        "https://www.zhihu.com/people/fu-qi-song-47", 
+        "https://www.zhihu.com/people/lixxx333", 
+        "https://www.zhihu.com/people/nickgu", 
+        "https://www.zhihu.com/people/xiao-he-chen", 
+        "https://www.zhihu.com/people/boblee002", 
+        "https://www.zhihu.com/people/miserai", 
+        "https://www.zhihu.com/people/fu-wei-yu-42", 
+        "https://www.zhihu.com/people/stevenchen2002", 
+        "https://www.zhihu.com/people/jin-san-pang-41-21", 
+        "https://www.zhihu.com/people/bibilater", 
+        "https://www.zhihu.com/people/xian-shi-ban-luo-ji", 
+        "https://www.zhihu.com/people/li-hua-shu-yu", 
+        "https://www.zhihu.com/people/hhhh-89-75-51", 
+        "https://www.zhihu.com/people/william-19-37", 
+        "https://www.zhihu.com/people/xiao-ke-55-48-70", 
+        "https://www.zhihu.com/people/ke-bi-60-fen", 
+        "https://www.zhihu.com/people/yao-6-73", 
+        "https://www.zhihu.com/people/clement-dong", 
+        "https://www.zhihu.com/people/g8gg", 
+        "https://www.zhihu.com/people/treasure-86-23", 
+        "https://www.zhihu.com/people/qiao-yi-28-68", 
+        "https://www.zhihu.com/people/sleeptranquil", 
+        "https://www.zhihu.com/people/isabel-lai", 
+        "https://www.zhihu.com/people/lao-liao-50-67", 
+        "https://www.zhihu.com/people/liwei-21", 
+        "https://www.zhihu.com/people/crazy_fight", 
+        "https://www.zhihu.com/people/wu-ye-nan-30", 
+        "https://www.zhihu.com/people/xiao-guang-xuan", 
+        "https://www.zhihu.com/people/deng-xiao-bing-36", 
+        "https://www.zhihu.com/people/xing-meng-8", 
+        "https://www.zhihu.com/people/cao-di-51-53", 
+        "https://www.zhihu.com/people/xiu-lei-5", 
+        "https://www.zhihu.com/people/medivhc", 
+        "https://www.zhihu.com/people/guanyuan-67", 
+        "https://www.zhihu.com/people/philskye", 
+        "https://www.zhihu.com/people/lao-zuan-ge", 
+        "https://www.zhihu.com/people/wu-gang-1-87", 
+        "https://www.zhihu.com/people/da-pen-gu-du-21", 
+        "https://www.zhihu.com/people/qing-qing-qing-qing-qing-666", 
+        "https://www.zhihu.com/people/yan-han-tian-xia", 
+        "https://www.zhihu.com/people/hui-hui-78-76", 
+        "https://www.zhihu.com/people/ke-hu-58-46", 
+        "https://www.zhihu.com/people/de-sui", 
+        "https://www.zhihu.com/people/fei-xiang-de-xi-gua-pi-95", 
+        "https://www.zhihu.com/people/troublekid-72", 
+        "https://www.zhihu.com/people/wyszh", 
+        "https://www.zhihu.com/people/wang-pei-yi-48", 
+        "https://www.zhihu.com/people/feng-yu-xiao-xiao-84", 
+        "https://www.zhihu.com/people/zhang-si-heng-39", 
+        "https://www.zhihu.com/people/ace-37-70", 
+        "https://www.zhihu.com/people/chang-an-lu-yuan", 
+        "https://www.zhihu.com/people/daniel-liu-67-42", 
+        "https://www.zhihu.com/people/luo-xia-97-67", 
+        "https://www.zhihu.com/people/liu-zhen-ye", 
+        "https://www.zhihu.com/people/liang-long-xiao-yu", 
+        "https://www.zhihu.com/people/chang-zhao-yizhang-yan-jiu-sheng-lian", 
+        "https://www.zhihu.com/people/ben98", 
+        "https://www.zhihu.com/people/lee-64-59-48", 
+        "https://www.zhihu.com/people/mars-37-12-44", 
+        "https://www.zhihu.com/people/a-wen-41-93", 
+        "https://www.zhihu.com/people/sun-jia-tong-59", 
+        "https://www.zhihu.com/people/er-jin-zhi-43", 
+        "https://www.zhihu.com/people/sweetsummers", 
+        "https://www.zhihu.com/people/wangqide", 
+        "https://www.zhihu.com/people/kong-de-chao-94", 
+        "https://www.zhihu.com/people/kuai-chuan-zhi-huan-bu-shui", 
+        "https://www.zhihu.com/people/tan-shi-cheng-11", 
+        "https://www.zhihu.com/people/gao-shuo-31", 
+        "https://www.zhihu.com/people/xu-yi-hang", 
+        "https://www.zhihu.com/people/luo-si-ming-23", 
+        "https://www.zhihu.com/people/li-xiang-dong-4", 
+        "https://www.zhihu.com/people/wu-ji-15-56", 
+        "https://www.zhihu.com/people/liu-xuan-lin", 
+        "https://www.zhihu.com/people/lucky-45-9-77", 
+        "https://www.zhihu.com/people/chen-zhi-yuan-88-74", 
+        "https://www.zhihu.com/people/tbswang", 
+        "https://www.zhihu.com/people/bertramlau", 
+        "https://www.zhihu.com/people/zai-lu-shang-44-39", 
+        "https://www.zhihu.com/people/11wan-yixia", 
+        "https://www.zhihu.com/people/lonelyelectron", 
+        "https://www.zhihu.com/people/tian-lan-lan-ming-jing-jing", 
+        "https://www.zhihu.com/people/yun-zhen-58", 
+        "https://www.zhihu.com/people/yoho-6-40", 
+        "https://www.zhihu.com/people/zhang-guan-hua-56-32", 
+        "https://www.zhihu.com/people/hu-xiao-rui-78", 
+        "https://www.zhihu.com/people/howrain", 
+        "https://www.zhihu.com/people/chen-yun-shi-75", 
+        "https://www.zhihu.com/people/wu-shao-qing-21", 
+        "https://www.zhihu.com/people/oppor15xing-yun-xing-yun", 
+        "https://www.zhihu.com/people/alisa-52-23", 
+        "https://www.zhihu.com/people/alexlau-2", 
+        "https://www.zhihu.com/people/inin-74", 
+        "https://www.zhihu.com/people/shi-jin-quan", 
+        "https://www.zhihu.com/people/iwaterstone", 
+        "https://www.zhihu.com/people/aiah-15", 
+        "https://www.zhihu.com/people/xu-jian-zhi", 
+        "https://www.zhihu.com/people/liu-da-long-32-69", 
+        "https://www.zhihu.com/people/xiaoxaio-70", 
+        "https://www.zhihu.com/people/wangshengguang", 
+        "https://www.zhihu.com/people/zhang-shuai-92-1-11", 
+        "https://www.zhihu.com/people/jun-lin-tian-xia-80-68", 
+        "https://www.zhihu.com/people/a-ai-41-94-79", 
+        "https://www.zhihu.com/people/plodded", 
+        "https://www.zhihu.com/people/chen-bo-86-42", 
+        "https://www.zhihu.com/people/lan-feng-49-75", 
+        "https://www.zhihu.com/people/qihonggang", 
+        "https://www.zhihu.com/people/zhang-xi-meng-36", 
+        "https://www.zhihu.com/people/lq8-23", 
+        "https://www.zhihu.com/people/zhilingth", 
+        "https://www.zhihu.com/people/fei-cun-37", 
+        "https://www.zhihu.com/people/ha-ha-mo-mo-32", 
+        "https://www.zhihu.com/people/wang-jing-yue-10", 
+        "https://www.zhihu.com/people/rou-niu-niu-35", 
+        "https://www.zhihu.com/people/xiao-yu-ren-21", 
+        "https://www.zhihu.com/people/tony-32-58", 
+        "https://www.zhihu.com/people/wang-zhong-guo-1-70", 
+        "https://www.zhihu.com/people/xfu_shi", 
+        "https://www.zhihu.com/people/tsuijing", 
+        "https://www.zhihu.com/people/xue-zha-96-95-7", 
+        "https://www.zhihu.com/people/liu-yuan-zhen-68", 
+        "https://www.zhihu.com/people/luo-jian-29-43", 
+        "https://www.zhihu.com/people/jiang-min-yue-97", 
+        "https://www.zhihu.com/people/lu-jie-10-70", 
+        "https://www.zhihu.com/people/wang-san-65-63", 
+        "https://www.zhihu.com/people/yan-mao-tian-di-xiao-king", 
+        "https://www.zhihu.com/people/yun-shen-wu-ji-95-87", 
+        "https://www.zhihu.com/people/liu-fei-94-95", 
+        "https://www.zhihu.com/people/ren-wo-xing-59-44", 
+        "https://www.zhihu.com/people/cubesugarZhang", 
+        "https://www.zhihu.com/people/xie-gu-cheng-92-6", 
+        "https://www.zhihu.com/people/jacky-nix", 
+        "https://www.zhihu.com/people/ban-hai-shan", 
+        "https://www.zhihu.com/people/zhang-da-xian-1973", 
+        "https://www.zhihu.com/people/huang-yong-ping-75", 
+        "https://www.zhihu.com/people/mao-seng-84", 
+        "https://www.zhihu.com/people/lauren-32", 
+        "https://www.zhihu.com/people/ni-yong-hu-97-91", 
+        "https://www.zhihu.com/people/yang-xu-dong-6", 
+        "https://www.zhihu.com/people/ping-an-yiyu", 
+        "https://www.zhihu.com/people/rolinston", 
+        "https://www.zhihu.com/people/StoneforestWHU", 
+        "https://www.zhihu.com/people/Lee-Bai-cheng", 
+        "https://www.zhihu.com/people/sinoxutong", 
+        "https://www.zhihu.com/people/Zweig.S", 
+        "https://www.zhihu.com/people/chen-fei-xiong-23", 
+        "https://www.zhihu.com/people/phyzyb", 
+        "https://www.zhihu.com/people/ziko-wang", 
+        "https://www.zhihu.com/people/uloveqian", 
+        "https://www.zhihu.com/people/chen-ming-yu-48", 
+        "https://www.zhihu.com/people/yu-dan-shuang-xie-75", 
+        "https://www.zhihu.com/people/dong-wan-30-10", 
+        "https://www.zhihu.com/people/chen-jun-li-90"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/79901238", 
+            "userName": "夏小沫", 
+            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+            "upvote": 3, 
+            "title": "近来关于知识图谱的顶会文章解读合辑", 
+            "content": "<p>收藏是为了留着自己看</p><a href=\"https://zhuanlan.zhihu.com/p/41637843\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-e449f0afbece10eebbef5a1250edb1f1_180x120.jpg\" data-image-width=\"800\" data-image-height=\"450\" class=\"internal\">张俊：《知识图谱》专题论文解读（6篇顶会/顶刊论文）</a><a href=\"https://zhuanlan.zhihu.com/p/36589996\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-56ddc1425098b3270be547e7c83d14ed_180x120.jpg\" data-image-width=\"3840\" data-image-height=\"2160\" class=\"internal\">张俊：从 6 篇顶会论文看「知识图谱」领域最新研究进展 | 解读 &amp; 代码</a><a href=\"https://zhuanlan.zhihu.com/p/57401515\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-7454814c6a700eba39e725278ff18719_180x120.jpg\" data-image-width=\"1920\" data-image-height=\"1080\" class=\"internal\">张俊：5篇顶会论文带你了解知识图谱最新研究进展</a><a href=\"https://zhuanlan.zhihu.com/p/52232316\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-46e3a9177e22b52b6ff143ce48ac2c7a_180x120.jpg\" data-image-width=\"2048\" data-image-height=\"1096\" class=\"internal\">张俊：近期知识图谱顶会论文推荐（附解读）</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "知识图谱", 
+                    "tagLink": "https://api.zhihu.com/topics/19838204"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/60696872", 
+            "userName": "夏小沫", 
+            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+            "upvote": 6, 
+            "title": "【转】知识图谱与知识发现领域的顶级期刊与会议", 
+            "content": "<p>中国计算机学会推荐 国际学术期刊 ( 数据库/ 数据挖掘/ 内容检索)</p><p>A 类</p><p>刊物简称 刊物全称 出版社 网址</p><p>TKDE IEEE Transactions on Knowledge and Data Engineering IEEE <a href=\"https://link.zhihu.com/?target=http%3A//dblp.uni-trier.de/db/journals/tkde/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">IEEE Transactions on Knowledge and Data Engineering</a></p><p>B 类</p><p>刊物简称 刊物全称 出版社 网址</p><p>TKDD ACM Transactions on Knowledge Discovery from Data ACM <a href=\"https://link.zhihu.com/?target=http%3A//dblp.uni-trier.de/db/journals/tkdd/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ACM Transactions on Knowledge Discovery from Data (TKDD)</a></p><p>DKE Data and Knowledge Engineering Elsevier <a href=\"https://link.zhihu.com/?target=http%3A//dblp.uni-trier.de/db/journals/dke/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Data &amp; Knowledge Engineering</a></p><p>DMKD Data Mining and Knowledge Discovery Springer <a href=\"https://link.zhihu.com/?target=http%3A//dblp.uni-trier.de/db/journals/datamine/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Data Mining and Knowledge Discovery</a></p><p>KIS Knowledge and Information Systems Springer <a href=\"https://link.zhihu.com/?target=http%3A//dblp.uni-trier.de/db/journals/kais/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Knowledge and Information Systems</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>中国计算机学会推荐 国际学术会议 ( 数据库 ／ 数据挖掘 ／ 内容检索)</p><p>A类</p><p>刊物简称 刊物全称 出版社 网址</p><p>SIGKDD ACM Knowledge Discovery and Data Mining ACM <a href=\"https://link.zhihu.com/?target=http%3A//dblp.uni-trier.de/db/conf/kdd/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">dblp: KDD</a></p><p>B 类</p><p>会议简称 会议全称 出版社 网址</p><p>CIKM ACM International Conference on Information and Knowledge Management ACM <a href=\"https://link.zhihu.com/?target=http%3A//dblp.uni-trier.de/db/conf/cikm/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">dblp: CIKM</a></p><p>ECML-PKDD</p><p>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases Springer</p><p><a href=\"https://link.zhihu.com/?target=http%3A//dblp.uni-trier.de/db/conf/ecml/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">dblp: ECML</a></p><p><a href=\"https://link.zhihu.com/?target=http%3A//dblp.uni-trier.de/db/conf/pkdd/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">dblp: PKDD</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>中国计算机学会推荐 国际学术 期刊（人工智能）</p><p>B类</p><p>刊物简称 刊物全称 出版社 网址</p><p>DKE Data and Knowledge Engineering Elsevier <a href=\"https://link.zhihu.com/?target=http%3A//dblp.uni-trier.de/db/journals/dke/index.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Data &amp; Knowledge Engineering</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>中国计算机学会推荐 国际学术会议 （人工智能）</p><p>B类</p><p>刊物简称 刊物全称 出版社 网址</p><p>KR International Conference on Morgan Kaufmann Principles of Knowledge Representation and Reasoning <a href=\"https://link.zhihu.com/?target=http%3A//dblp.uni-trier.de/db/conf/kr/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">dblp: KR</a></p><p>--------------------- </p><p>作者：engineerxin </p><p>来源：CSDN </p><p>原文：<a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/engineerxin/article/details/83866508\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">blog.csdn.net/engineerx</span><span class=\"invisible\">in/article/details/83866508</span><span class=\"ellipsis\"></span></a> </p><p>版权声明：本文为博主原创文章，转载请附上博文链接！</p>", 
+            "topic": [
+                {
+                    "tag": "知识图谱", 
+                    "tagLink": "https://api.zhihu.com/topics/19838204"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58206440", 
+            "userName": "夏小沫", 
+            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+            "upvote": 34, 
+            "title": "赵军《知识图谱》全书脉络整理", 
+            "content": "<p>这本书是2018年12月出版的。全书第一章是概述，阐述了知识图谱相关的概念等基本内容外，主要是提到了知识图谱的生命周期，而后面的章节基本是按照知识图谱的各生命周期进行组织的。</p><p>因此，本人按照图书的章节目录整理了如下的导图，可以为知识图谱的知识体系有大致的了解。</p><p>转载请注明出处~欢迎共同探讨和交流学习！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-494081785b050892255fe4c0a4b59506_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2075\" data-rawheight=\"2969\" class=\"origin_image zh-lightbox-thumb\" width=\"2075\" data-original=\"https://pic3.zhimg.com/v2-494081785b050892255fe4c0a4b59506_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2075&#39; height=&#39;2969&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2075\" data-rawheight=\"2969\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2075\" data-original=\"https://pic3.zhimg.com/v2-494081785b050892255fe4c0a4b59506_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-494081785b050892255fe4c0a4b59506_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "知识图谱", 
+                    "tagLink": "https://api.zhihu.com/topics/19838204"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "[赞同]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "霍华德", 
+                    "userLink": "https://www.zhihu.com/people/4a0d3a504b9859139f2c003005230717", 
+                    "content": "这书质量怎么样", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "夏小沫", 
+                            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+                            "content": "<p>教材级的书。知识体系很完整，主要的知识点讲的也深入浅出。但是这个不是那种算法层面的书，有点像综述类的，相关的模型和算法也会提，但没有全部细讲。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "霍华德"
+                        }, 
+                        {
+                            "userName": "旭晖", 
+                            "userLink": "https://www.zhihu.com/people/3a7e1b6ea5137535463902aa331a6503", 
+                            "content": "更像是科普", 
+                            "likes": 0, 
+                            "replyToAuthor": "霍华德"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>请教一个小问题，已有书籍目录的情况下，整理如您这样的思维导图是否还有必要？真的很好奇</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "夏小沫", 
+                            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+                            "content": "<p>导图其实是自己学习过程的一种梳理过程，不同于目录的地方在于各章节之间的关系。</p><p>就是学习交流，非喜勿喷。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>好的谢谢。并无冒犯之意~</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "夏小沫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "我不是高圆圆", 
+                    "userLink": "https://www.zhihu.com/people/0fe1890dd0a220ccf24f16ced8ffd392", 
+                    "content": "学姐？！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "夏小沫", 
+                            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+                            "content": "<p>昂？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "我不是高圆圆"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "赤乐君", 
+                    "userLink": "https://www.zhihu.com/people/ab3ba482b732040c6d115b83976603d2", 
+                    "content": "我也想问感想如何，没有电子版只能等回国再买了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "夏小沫", 
+                            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+                            "content": "<p>如果已经是知识图谱的资深学者，估计收益不太大。</p><p>个人觉得这本书最大的贡献是把知识图谱的整个知识体系梳理出来了，每一个研究点作了基本的解释，但没有深入到算法层面。</p><p>个人觉得适合初学者，从宏观层面全面了解知识图谱。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "赤乐君"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57916281", 
+            "userName": "夏小沫", 
+            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+            "upvote": 0, 
+            "title": "《知识图谱》第三章学习笔记 （导图）", 
+            "content": "<p>第三章，知识体系构建与知识融合</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-bb172b22d2a0b42c0fde507c88bab7d7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4096\" data-rawheight=\"2571\" class=\"origin_image zh-lightbox-thumb\" width=\"4096\" data-original=\"https://pic4.zhimg.com/v2-bb172b22d2a0b42c0fde507c88bab7d7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4096&#39; height=&#39;2571&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4096\" data-rawheight=\"2571\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4096\" data-original=\"https://pic4.zhimg.com/v2-bb172b22d2a0b42c0fde507c88bab7d7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-bb172b22d2a0b42c0fde507c88bab7d7_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "知识图谱", 
+                    "tagLink": "https://api.zhihu.com/topics/19838204"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57847305", 
+            "userName": "夏小沫", 
+            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+            "upvote": 0, 
+            "title": "《知识图谱》（赵军）第二章学习笔记 （导图）", 
+            "content": "<p>第二章主要是“知识表示 ”。知识应用的难点在于知识推理，知识推理的难点在于知识表示。本章介绍了经典的知识表示理论，包括逻辑、语义网络、框架、脚本，后三者都是基于槽的表示方法。接着介绍了语义网中的知识表示方法及其知识描述体系。最重要的部分，是讲到数值化表示部分，是将知识图谱与人工智能相结合最重要的工作之一。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-39349189d52b7d315077b8875dd4f1c6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4096\" data-rawheight=\"1960\" class=\"origin_image zh-lightbox-thumb\" width=\"4096\" data-original=\"https://pic3.zhimg.com/v2-39349189d52b7d315077b8875dd4f1c6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4096&#39; height=&#39;1960&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"4096\" data-rawheight=\"1960\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4096\" data-original=\"https://pic3.zhimg.com/v2-39349189d52b7d315077b8875dd4f1c6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-39349189d52b7d315077b8875dd4f1c6_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "知识图谱", 
+                    "tagLink": "https://api.zhihu.com/topics/19838204"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57845285", 
+            "userName": "夏小沫", 
+            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+            "upvote": 3, 
+            "title": "《知识图谱》（赵军）第一章学习笔记（导图）", 
+            "content": "<p>近来阅读赵军老师的《知识图谱》，受益匪浅。</p><p>《知识图谱》“聚焦于知识图谱，分十个章节围绕知识建模、知识获取、知识融合、存储和检索、知识推理以及知识服务等知识图谱生命周期各个主要环节展开介绍。每章以任务为导引，引出任务描述、难点问题、基本方法、研究现状和存在的问题，并从多个相关的研究方向对各个任务的发展进程进行系统的、多维度的梳理，注重介绍传统知识工程的思想和理论以及机器学习和深度学习在知识图谱各个环节中应用的技术和方法，从而使读者能够了解发展脉络，激发研究兴趣，思考核心问题，领悟发展方向。本书可以作为自然语言处理、知识工程、人工智能等相关课程的研究生教材，也可供计算机科学技术领域相关工程技术人员学习参考。”（转自豆瓣）</p><p>作者：赵军。中国科学院自动化研究所研究员，博士生导师。1998年在清华大学计算机科学与技术系获得博士学位。1998年—2002年在香港科技大学计算机科学系做博士后、访问学者。2002年5月至今在中科院自动化所模式识别国家重点实验室工作。目前主持国家自然科学基金、863计划、中国出版集团科技项目等项目。研究方向为信息检索、信息提取、网络挖掘、问答系统等。在IEEE TKDE、JMLR等顶级国际期刊和ACL、SIGIR、CIKM、AAAI、IJCAI、EMNLP、COLING等顶级国际会议上发表论文六十余篇，获COLING-2014最佳论文奖，获KDD-CUP2011亚军（2/1297）。研发了汉语文本分析、信息抽取和知识工程、百科问答等软件工具和平台，在中国大百科全书出版社、华为公司、讯飞公司等得到应用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本书是一本“知识图谱”的教材级图书，纵向知识体系相对完整，既有基础性的知识解释，比如什么是“命题”，又有顶层知识架构描述，能够帮助我们围绕知识图谱构建一个完整的体系。而且2018年12月出版的图书，基本将近期主流的技术进展和模型都囊括进来，知识图谱生命周期各阶段的主要任务、主要难点、主流而且前沿的技术进展都讲到了。</p><p>书中内容很精炼，干货满满，骨架清晰，内容明朗，实为好书一本。书中提到很多算法、模型，有很多国内外作者在某一个研究点的创新发现，但更多是脉络式地梳理，如果想要对某一个模型、算法、方法深入了解，可参考其中的参考文献，深入了解。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>下图是图书第一章的导图，仅供学习交流使用，转载请注明来处。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-2d18da0716ced039c91e5dcc0f384782_b.jpg\" data-size=\"normal\" data-rawwidth=\"4096\" data-rawheight=\"3472\" class=\"origin_image zh-lightbox-thumb\" width=\"4096\" data-original=\"https://pic3.zhimg.com/v2-2d18da0716ced039c91e5dcc0f384782_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4096&#39; height=&#39;3472&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"4096\" data-rawheight=\"3472\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4096\" data-original=\"https://pic3.zhimg.com/v2-2d18da0716ced039c91e5dcc0f384782_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-2d18da0716ced039c91e5dcc0f384782_b.jpg\"/><figcaption>《知识图谱》第一章</figcaption></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }, 
+                {
+                    "tag": "知识图谱", 
+                    "tagLink": "https://api.zhihu.com/topics/19838204"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "袁铭鸿", 
+                    "userLink": "https://www.zhihu.com/people/8022b44830118923fab857a4d057e68f", 
+                    "content": "<p>你好，是否方便分享一下知识图谱这个pdf</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "夏小沫", 
+                            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+                            "content": "<p>是说图书的pdf？我是看的纸质书，所以很抱歉没有pdf电子书~</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "袁铭鸿"
+                        }, 
+                        {
+                            "userName": "袁铭鸿", 
+                            "userLink": "https://www.zhihu.com/people/8022b44830118923fab857a4d057e68f", 
+                            "content": "没事～ 我也买了～ thx～", 
+                            "likes": 0, 
+                            "replyToAuthor": "夏小沫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "横贯八方二狗子", 
+                    "userLink": "https://www.zhihu.com/people/d8bcfa63f20f373d81f6b1396512ea20", 
+                    "content": "<p>有没有导图的原版格式的，谢谢啊，我也在看这本书</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/54350401", 
+            "userName": "夏小沫", 
+            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+            "upvote": 0, 
+            "title": "知识图谱学习笔记（1）", 
+            "content": "<p>近期在集中学习知识工场的相关成果资料，笔记比较零散，不成体系，本文有多处摘录自“学习资料”原文，侵删。仅供学习交流。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>学习资料：</p><a href=\"https://zhuanlan.zhihu.com/p/30803950\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-5ad4df2337e346da594d4d2ac7845156_180x120.jpg\" data-image-width=\"550\" data-image-height=\"237\" class=\"internal\">知识工场：深度 | 梁家卿：百科知识图谱同步更新</a><h2><b>Problem：</b></h2><p>基于百科构建的知识图谱，如何与线上百科的更新同步。</p><h2><b>Solution：</b></h2><p>根据实体的更新频率将实体区分为稳定实体和易变实体（比如热词）。比如“橙子”这样的基本概念就是稳定实体，而“特朗普”则是易变实体。</p><p>问题转换为：如何预测实体更新频率，确定待更新的实体及更新的优先级。</p><h2><b>Implementation</b>:</h2><p>问题定义：最大化问题，选择最需要更新的K个实体。</p><p>总体框架：首先监控热词获得种子实体，然后同步这些种子实体。接下来通过实体的相关实体来扩展得到更多的待更新实体，最后根据这些待更新实体的优先级来进行更新。</p><p>具体步骤：</p><p>（1）种子发现</p><p>（2）种子同步</p><p>从互联网上搜集热门新闻，热门搜索关键字和热点话题，通过分词等方法，提取出其中的热门实体，然后加以同步。</p><p>（3）实体扩展</p><p>找到与最近更新的实体相关的实体。</p><p>总体优先级的确定：新词最高；旧词（估计的更新频率 * 时间间隔）</p><p>针对旧词更新频率的确定：选择实体8维特征，通过线性回归/随机森林回归方法估计更新频率（后者效果更佳）。</p><p>8维特征：存在周数；更新次数（历史）；用户访问次数；外链数；实体链接数；页面长度；正文长度；历史更新频率；</p><p>（4）实际应用：按上述优先级的计算模型/方法，每天选取1000个词进行更新。（与百科中的最后修改时间进行比对）。</p><p>应用的效果：更新范围内，70%的词发生了变化。</p><hr/><h2><b>个人总结</b></h2><p>目前知识图谱的更新有两种方法，一种是周期性的全库更新，另一种就是复旦大学知识工场提到的增量更新。这种更新某种程度上运用了“二八定律”，需要经常更新的实体可能只有20%，因此问题转化为如何找到那个“20%”。这种思路非常巧妙，而且很有效。</p>", 
+            "topic": [
+                {
+                    "tag": "知识图谱", 
+                    "tagLink": "https://api.zhihu.com/topics/19838204"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/52938654", 
+            "userName": "夏小沫", 
+            "userLink": "https://www.zhihu.com/people/1c2ebde0a8a23fcefc8ef072f27b7d1c", 
+            "upvote": 25, 
+            "title": "知识图谱学习的资源汇总（持续更新）", 
+            "content": "<p>作为一个初学知识图谱的菜鸟，最近收集了一些知识图谱相关的资源。这些资源主要包括知识方面、数据方面、学术交流方面的资源。</p><p>持续更新中……（最近更新时间：20181220）</p><h2><b>资源目录：</b></h2><ol><li>知乎专栏</li><li>微信公众号</li><li>相关机构及专家学者</li><li>开源知识库数据来源</li><li>相关会议及期刊</li></ol><hr/><h2>一、知乎专栏</h2><a href=\"https://zhuanlan.zhihu.com/c_139352501\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-f2e55f24ee81bf339dadc036318ab52e_ipico.jpg\" data-image-width=\"152\" data-image-height=\"152\" class=\"internal\">知识工场</a><p>复旦大学知识工场实验室开的专栏。</p><a href=\"https://zhuanlan.zhihu.com/knowledgegraph\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-c436875f7e808bf5bd2d8f20561fd113_ipico.jpg\" data-image-width=\"689\" data-image-height=\"689\" class=\"internal\">知识图谱-给AI装个大脑</a><p>浙江大学，黄诗磊的公众号。</p><p>（专栏具体内容后续补充）</p><h2>二、微信公众号</h2><p>仍然推荐复旦大学“知识工厂”，微信号“fudankw”。</p><h2>三、相关机构及专家学者</h2><ol><li>德国曼海姆大学Prof. Dr. Heiko Paulheim （<a href=\"https://link.zhihu.com/?target=https%3A//dws.informatik.uni-mannheim.de/en/people/professors/dr-heiko-paulheim/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Prof. Dr. Heiko Paulheim</a> ）</li><li>东南大学，漆桂林（<a href=\"https://link.zhihu.com/?target=http%3A//cse.seu.edu.cn/people/qgl/index.htm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Guilin&#39;s homepage</a>）</li></ol><h2>四、开源知识库数据资源</h2><h2>1. OPENKG开放的中文知识图谱</h2><a href=\"https://link.zhihu.com/?target=http%3A//openkg.cn/home\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">OpenKG.CN - 开放的中文知识图谱</a><h2>2. LOD(Linked Open Data)：</h2><p> 链接：</p><a href=\"https://link.zhihu.com/?target=https%3A//lod-cloud.net/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">LOD(Linked Open Data)</a><p> 语种：多种混合语种</p><h2>3.DBPedia：</h2><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/dbpedia/dbpedia/tree/master/tools/DBpediaAsTables\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-9c1cb0d1c6113057ddf97dd1092225f3_ipico.jpg\" data-image-width=\"160\" data-image-height=\"160\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">dbpedia/dbpedia</a><p> 语种：多种语种，英语的数据最全</p><h2>4.NELL：</h2><p> 链接：<a href=\"https://link.zhihu.com/?target=http%3A//rtw.ml.cmu.edu/rtw/resources\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">NELL</a></p><p> 语种：英语</p><p> 机构：卡内基梅隆大学</p><h2>5.YAGO：</h2><a href=\"https://link.zhihu.com/?target=https%3A//www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago/downloads/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-1db23bb144d13994b20f32c13793cdbc_180x120.jpg\" data-image-width=\"200\" data-image-height=\"103\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Max-Planck-Institut für Informatik: Downloads</a><p> 语种：英语、德语、法语、荷兰语、意大利语、西班牙语、波兰语、罗马尼亚语、波斯语、阿拉伯语</p><p>机构：德国马普研究所</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>6.Cyc：</h2><p> OpenCyc的api链接：<a href=\"https://link.zhihu.com/?target=https%3A//www.ime.usp.br/~fr/opencyc/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">ime.usp.br/~fr/opencyc/</span><span class=\"invisible\"></span></a></p><p> OpenCyc中文机翻版：<a href=\"https://link.zhihu.com/?target=http%3A//openkg.cn/dataset/opencyc\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">openkg.cn/dataset/openc</span><span class=\"invisible\">yc</span><span class=\"ellipsis\"></span></a></p><p> 语种：英语</p><h2><a href=\"https://link.zhihu.com/?target=http%3A//7.Zhishi.me\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">7.Zhishi.me</span><span class=\"invisible\"></span></a></h2><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://link.zhihu.com/?target=http%3A//openkg.cn/dataset/zhishi-me\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Zhishi.me - 开放知识图谱</a><p>语种：中文</p><p>作者：<a href=\"mailto:wang_haofen@gowild.cn\">王昊奋</a></p><p class=\"ztext-empty-paragraph\"><br/></p><h2>8.CN-DBPedia：</h2><a href=\"https://link.zhihu.com/?target=http%3A//kw.fudan.edu.cn/cndbpedia/download/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CN-DBpedia</a><p> 语种：中文</p><p>单位：复旦大学</p><h2>9.PKU-PIE</h2><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://link.zhihu.com/?target=http%3A//openkg.cn/dataset/pku-pie\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">北京大学中文百科知识图谱-PKU-PIE 知识库 - 开放知识图谱</a><p>语种：中文</p><p>单位：北京大学</p><h2>10.XLORE</h2><a href=\"https://link.zhihu.com/?target=http%3A//openkg.cn/dataset/xlore\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">XLORE双语百科知识图谱 - 开放知识图谱</a><p>单位：清华大学</p><p>语种：汉语为主，英-汉百科全书式图谱</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>11.Belief-Engine</h2><p class=\"ztext-empty-paragraph\"><br/></p><a href=\"https://link.zhihu.com/?target=http%3A//openkg.cn/dataset/belief-engine\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Belief Engine中英文知识图谱 - 开放知识图谱</a><p>语种：英-汉</p><p>类型：常识知识库。</p><p>单位：中国科学院自动化研究所</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>12. cnSchema</h2><a href=\"https://link.zhihu.com/?target=http%3A//cnschema.org/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">cnSchema</a><p class=\"ztext-empty-paragraph\"><br/></p><p>语言：中文</p><p><a href=\"https://link.zhihu.com/?target=http%3A//cnSchema.org\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">cnSchema.org</span><span class=\"invisible\"></span></a>是由来自清华大学、浙江大学、北京大学、复旦大学、东南大学、南京大学、英国阿伯丁大学等十多所国内外高校的计算机科学专家，以及微软亚洲研究院、海知智能、狗尾草科技、文因互联等企业所共同发起、建立并维护。cnSchema也得到<a href=\"https://link.zhihu.com/?target=http%3A//Schema.org\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">Schema.org</span><span class=\"invisible\"></span></a>的负责人R.V. Guha和Dan Brickley的指导和支持。cnSchema是完全开放的，有关它的讨论也是完全公开的。也欢迎对知识图谱schema感兴趣的同仁加入我们，共同为建设OpenKG倡导的开放知识图谱添砖加瓦。具体方法参见<a href=\"https://link.zhihu.com/?target=https%3A//github.com/cnschema/cnschema/issues/10\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/cnschema/cns</span><span class=\"invisible\">chema/issues/10</span><span class=\"ellipsis\"></span></a></p><p class=\"ztext-empty-paragraph\"><br/></p><h2>13.Linked Open Schema</h2><p class=\"ztext-empty-paragraph\"><br/></p><p>链接：</p><a href=\"https://link.zhihu.com/?target=http%3A//openkg.cn/dataset/linked-open-schema\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Linked Open Schema - 开放知识图谱</a><p>单位：东南大学  知识科学与工程实验室  </p><p>语种：英-汉双语</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>五、相关学术会议及期刊</h2><p></p>", 
+            "topic": [
+                {
+                    "tag": "知识图谱", 
+                    "tagLink": "https://api.zhihu.com/topics/19838204"
+                }, 
+                {
+                    "tag": "语义识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19626971"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "RookieBoy", 
+                    "userLink": "https://www.zhihu.com/people/4ea0dbe781e164b41db129d587f60e37", 
+                    "content": "有使用教程吗！？[可怜][可怜]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1060473703493603328"
+}

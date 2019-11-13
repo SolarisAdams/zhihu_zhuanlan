@@ -1,0 +1,510 @@
+{
+    "title": "野蛮其体魄", 
+    "description": "一只white belt naive的学习记录和思考，以及碎碎念。", 
+    "followers": [
+        "https://www.zhihu.com/people/liu-dong-98-54", 
+        "https://www.zhihu.com/people/joannaluo", 
+        "https://www.zhihu.com/people/meng-hui-xiang-ge-li-la", 
+        "https://www.zhihu.com/people/tscherwu", 
+        "https://www.zhihu.com/people/fei-fei-xiong-3", 
+        "https://www.zhihu.com/people/wang-li-37-77", 
+        "https://www.zhihu.com/people/xian-gou-8", 
+        "https://www.zhihu.com/people/li-zhan-8-83", 
+        "https://www.zhihu.com/people/xu-jim-yang", 
+        "https://www.zhihu.com/people/hui-fei-de-zhu-21-19-30", 
+        "https://www.zhihu.com/people/xin-tian-weng-87-24", 
+        "https://www.zhihu.com/people/si-shi-qi-ge-ren-fan-de-qi-lai-ma", 
+        "https://www.zhihu.com/people/he-di-82-59", 
+        "https://www.zhihu.com/people/xu-xiang-73-27", 
+        "https://www.zhihu.com/people/zhang-meng-45-41-74", 
+        "https://www.zhihu.com/people/yu-gu-15-50", 
+        "https://www.zhihu.com/people/jiao-fei-77", 
+        "https://www.zhihu.com/people/yu-tou-17", 
+        "https://www.zhihu.com/people/xia-chong-95", 
+        "https://www.zhihu.com/people/pa-si-qia-29", 
+        "https://www.zhihu.com/people/gu-ha-68", 
+        "https://www.zhihu.com/people/mei-du-95-66", 
+        "https://www.zhihu.com/people/huang-dou-tang-39", 
+        "https://www.zhihu.com/people/jasmine-99-97-97", 
+        "https://www.zhihu.com/people/hr-pro", 
+        "https://www.zhihu.com/people/hao-ba-45-48", 
+        "https://www.zhihu.com/people/fei-hei-ji-bai-15-38", 
+        "https://www.zhihu.com/people/fu-xu-dong-63", 
+        "https://www.zhihu.com/people/bee-we", 
+        "https://www.zhihu.com/people/ma-kou-47", 
+        "https://www.zhihu.com/people/wo-tou-shang-you-ji-jiao-30", 
+        "https://www.zhihu.com/people/lu-dou-fu-92", 
+        "https://www.zhihu.com/people/yw-cao", 
+        "https://www.zhihu.com/people/cang-hai-heng-liu-23", 
+        "https://www.zhihu.com/people/nuan-feng-33-79", 
+        "https://www.zhihu.com/people/yang-zhi-hao-79-8", 
+        "https://www.zhihu.com/people/li-lei-35-4", 
+        "https://www.zhihu.com/people/gangjun-wang", 
+        "https://www.zhihu.com/people/sen-mei-24", 
+        "https://www.zhihu.com/people/li-yang-64-54-44", 
+        "https://www.zhihu.com/people/xiang-chen-5-73", 
+        "https://www.zhihu.com/people/mukizoo-50", 
+        "https://www.zhihu.com/people/yun-lin-13-2", 
+        "https://www.zhihu.com/people/luo-yu-21-70", 
+        "https://www.zhihu.com/people/du-yiwu-er-47-12", 
+        "https://www.zhihu.com/people/li-ye-95", 
+        "https://www.zhihu.com/people/jinni", 
+        "https://www.zhihu.com/people/zhang-tian-jie", 
+        "https://www.zhihu.com/people/chen-si-chong-66", 
+        "https://www.zhihu.com/people/sheng-shi-yong-an", 
+        "https://www.zhihu.com/people/tian-ma-xing-kong-9-8", 
+        "https://www.zhihu.com/people/zheng-wei-32-15-54", 
+        "https://www.zhihu.com/people/hua-er-32-95-32", 
+        "https://www.zhihu.com/people/woo-blank", 
+        "https://www.zhihu.com/people/xu-ling-xin-44", 
+        "https://www.zhihu.com/people/zhu-en-yi-96", 
+        "https://www.zhihu.com/people/tchk-5", 
+        "https://www.zhihu.com/people/tsy111", 
+        "https://www.zhihu.com/people/tang-gong-min-50", 
+        "https://www.zhihu.com/people/Simon.Yin", 
+        "https://www.zhihu.com/people/yige-xiao-rui", 
+        "https://www.zhihu.com/people/huang-yue-14-29", 
+        "https://www.zhihu.com/people/kevin-zero", 
+        "https://www.zhihu.com/people/bitch-55-73", 
+        "https://www.zhihu.com/people/la-la-la-la-la-67-82-39", 
+        "https://www.zhihu.com/people/sen-lin-lang-63-40", 
+        "https://www.zhihu.com/people/xiao-kan-xing-dou", 
+        "https://www.zhihu.com/people/lin-can-yang", 
+        "https://www.zhihu.com/people/tie-tui-shui-shang-piao-92", 
+        "https://www.zhihu.com/people/huang-jin-64-50", 
+        "https://www.zhihu.com/people/su-gu-sheng", 
+        "https://www.zhihu.com/people/zzmin-gan", 
+        "https://www.zhihu.com/people/wenqian-zheng", 
+        "https://www.zhihu.com/people/wang-chen-pku", 
+        "https://www.zhihu.com/people/han-bing-20-97", 
+        "https://www.zhihu.com/people/xu-jin-gang-80", 
+        "https://www.zhihu.com/people/jyn-69-96", 
+        "https://www.zhihu.com/people/duan-duan-72-54", 
+        "https://www.zhihu.com/people/xiao-ming-75-44", 
+        "https://www.zhihu.com/people/zhen-ming-shi-xing-6", 
+        "https://www.zhihu.com/people/shi-hua-lun", 
+        "https://www.zhihu.com/people/pi-pi-78-54-74", 
+        "https://www.zhihu.com/people/ice-bear-53", 
+        "https://www.zhihu.com/people/chen-kai-yong-13", 
+        "https://www.zhihu.com/people/qing-huan-18-91", 
+        "https://www.zhihu.com/people/zhou-zhi-hao-18", 
+        "https://www.zhihu.com/people/zhao-zhi-qing-92-24", 
+        "https://www.zhihu.com/people/ryan-22-65", 
+        "https://www.zhihu.com/people/liu-chang-32-36", 
+        "https://www.zhihu.com/people/nvnc", 
+        "https://www.zhihu.com/people/feng-ge-57-31", 
+        "https://www.zhihu.com/people/shuo-shu-27", 
+        "https://www.zhihu.com/people/hu-zi-ji-rou-mao-da-tui", 
+        "https://www.zhihu.com/people/da-ma-47", 
+        "https://www.zhihu.com/people/kuai-le-de-hun-dan", 
+        "https://www.zhihu.com/people/deepshine", 
+        "https://www.zhihu.com/people/ju-ming-xin", 
+        "https://www.zhihu.com/people/yamyam", 
+        "https://www.zhihu.com/people/zhu-guang-zhe-20", 
+        "https://www.zhihu.com/people/gllj", 
+        "https://www.zhihu.com/people/liu-bei-90-5-30", 
+        "https://www.zhihu.com/people/huang-an-jie-6", 
+        "https://www.zhihu.com/people/zhang-yu-fei-50-34", 
+        "https://www.zhihu.com/people/lu-jiang-23", 
+        "https://www.zhihu.com/people/sydneyocean", 
+        "https://www.zhihu.com/people/guo-yi-wen-41", 
+        "https://www.zhihu.com/people/yue-guang-ji-feng-97-73", 
+        "https://www.zhihu.com/people/KingThor", 
+        "https://www.zhihu.com/people/da-feng-ge-85-20", 
+        "https://www.zhihu.com/people/wen-jia-jia-66", 
+        "https://www.zhihu.com/people/zhang-zhi-zhen-33", 
+        "https://www.zhihu.com/people/xiong-da-mao-46", 
+        "https://www.zhihu.com/people/OIUHJNOI", 
+        "https://www.zhihu.com/people/peter_song", 
+        "https://www.zhihu.com/people/zou-liang-26", 
+        "https://www.zhihu.com/people/bei-ji-xiong-24-92", 
+        "https://www.zhihu.com/people/wang-da-53", 
+        "https://www.zhihu.com/people/shi-chen-hui-47", 
+        "https://www.zhihu.com/people/cheng-xu-137", 
+        "https://www.zhihu.com/people/louge", 
+        "https://www.zhihu.com/people/wen-he-45-2", 
+        "https://www.zhihu.com/people/mars-54-50-54", 
+        "https://www.zhihu.com/people/zi-fei-yu-43-71", 
+        "https://www.zhihu.com/people/mocuyu", 
+        "https://www.zhihu.com/people/li-yan-chi-24", 
+        "https://www.zhihu.com/people/3hh1-74", 
+        "https://www.zhihu.com/people/san-you-jia-mu-22", 
+        "https://www.zhihu.com/people/zhi-hu-zhe-ye-67-89", 
+        "https://www.zhihu.com/people/liang-zhi-7", 
+        "https://www.zhihu.com/people/titanium-80", 
+        "https://www.zhihu.com/people/wu-xin-yu-86-73", 
+        "https://www.zhihu.com/people/wanna-purify", 
+        "https://www.zhihu.com/people/wo-ci-yo-nei", 
+        "https://www.zhihu.com/people/gu-lu-gu-lu-mao-5", 
+        "https://www.zhihu.com/people/ming-jian-67-17", 
+        "https://www.zhihu.com/people/lai-zi-xin-jiang-de-zha-ba-yi", 
+        "https://www.zhihu.com/people/dobletap", 
+        "https://www.zhihu.com/people/cao-alex-62", 
+        "https://www.zhihu.com/people/wu-dui-lun", 
+        "https://www.zhihu.com/people/yiren-shi-13", 
+        "https://www.zhihu.com/people/xiao-yan-77-69", 
+        "https://www.zhihu.com/people/xiao-wang-82-50", 
+        "https://www.zhihu.com/people/ao-li-ao-90-20", 
+        "https://www.zhihu.com/people/tomato8", 
+        "https://www.zhihu.com/people/ji-cun-chun-dai-79", 
+        "https://www.zhihu.com/people/a-niu-46-20", 
+        "https://www.zhihu.com/people/a-la-deng-shen-ding-88-83", 
+        "https://www.zhihu.com/people/yang-dong-66-34", 
+        "https://www.zhihu.com/people/zen-yao-zhao-zhong-tang-zan-fan-ne", 
+        "https://www.zhihu.com/people/zhen-zi-68", 
+        "https://www.zhihu.com/people/yi-sheng-50", 
+        "https://www.zhihu.com/people/wu-song-87-6-35", 
+        "https://www.zhihu.com/people/xie-shu-kun", 
+        "https://www.zhihu.com/people/jing-zhun-liu-xie-dao", 
+        "https://www.zhihu.com/people/gu-yu-71-65", 
+        "https://www.zhihu.com/people/todd-cicero", 
+        "https://www.zhihu.com/people/qiao-ke-li-45", 
+        "https://www.zhihu.com/people/zzz-zz-54-17", 
+        "https://www.zhihu.com/people/li-lu-sheng", 
+        "https://www.zhihu.com/people/zhu-rou-tan-li-de-bo-luo-wang-zi", 
+        "https://www.zhihu.com/people/xiao-zhen-ge-ge-65", 
+        "https://www.zhihu.com/people/mr-amazing-62", 
+        "https://www.zhihu.com/people/fanyu83", 
+        "https://www.zhihu.com/people/dudo", 
+        "https://www.zhihu.com/people/da-wan-niu-rou-mian-19", 
+        "https://www.zhihu.com/people/cui-zi-wei-73-14", 
+        "https://www.zhihu.com/people/zhou-xing-chang", 
+        "https://www.zhihu.com/people/cheng-tian-94", 
+        "https://www.zhihu.com/people/lfrfhf", 
+        "https://www.zhihu.com/people/ling-leng-chen", 
+        "https://www.zhihu.com/people/liu-aj-21", 
+        "https://www.zhihu.com/people/ya-ba-quan-shi"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/86463404", 
+            "userName": "吕小番", 
+            "userLink": "https://www.zhihu.com/people/74c072b5523337bca2b2188ea5938b9b", 
+            "upvote": 1, 
+            "title": "John Dnaher有道服基础-Half Guard（半防守）-第一段视频第46分钟到结束", 
+            "content": "<p>今日份音频：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/audio/au1110291\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">哔哩哔哩音乐</a><p>今天这部分内容很有干货，介绍了半防时背被压平后的两种脱困方式。</p><p>我们正常打半防时，很容易被压成这样，不知道怎么逃的话，几乎和被侧压没区别了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-4cad941e1536733ba79cdbc494f6144d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-4cad941e1536733ba79cdbc494f6144d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;540&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-4cad941e1536733ba79cdbc494f6144d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-4cad941e1536733ba79cdbc494f6144d_b.jpg\"/></figure><p>双手推上位者的髋部，方向是往后，不是往上。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-eec3d030c48f4ab13f7c4a43d3734d2a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-eec3d030c48f4ab13f7c4a43d3734d2a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;540&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-eec3d030c48f4ab13f7c4a43d3734d2a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-eec3d030c48f4ab13f7c4a43d3734d2a_b.jpg\"/></figure><p>推开一点空隙了，起个Danaher式的斜桥，趁机把腿拿进来，顶住上位者的髋部。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b8c73c16e9431338b435e18673774a88_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-b8c73c16e9431338b435e18673774a88_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;540&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-b8c73c16e9431338b435e18673774a88_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b8c73c16e9431338b435e18673774a88_b.jpg\"/></figure><p>有了膝盖这个楔子，下位者再趁机左右扭动，将上位者往后推，并找到机会，反抄上位者之前用来控制自己头部的手的腋下位置。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4a332b8b82c090b695184dc943466997_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-4a332b8b82c090b695184dc943466997_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;540&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-4a332b8b82c090b695184dc943466997_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4a332b8b82c090b695184dc943466997_b.jpg\"/></figure><p>之后控制余地就很大，可以采用各种方向的扫和挑。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3a66a1aec42c3e275f64272683a66c91_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-3a66a1aec42c3e275f64272683a66c91_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;540&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic2.zhimg.com/v2-3a66a1aec42c3e275f64272683a66c91_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-3a66a1aec42c3e275f64272683a66c91_b.jpg\"/></figure><p>还有一种脱困方式，前半部分都跟上一种一样，只是在反抄腋下处，改为手从中间穿出。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ef9518197353190fd0f0cb11f73cad2c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-ef9518197353190fd0f0cb11f73cad2c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;540&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/v2-ef9518197353190fd0f0cb11f73cad2c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ef9518197353190fd0f0cb11f73cad2c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>本音频所提及的视频请参考这里：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av67150463\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">bilibili.com/video/av67</span><span class=\"invisible\">150463</span><span class=\"ellipsis\"></span></a><p></p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/85215597", 
+            "userName": "吕小番", 
+            "userLink": "https://www.zhihu.com/people/74c072b5523337bca2b2188ea5938b9b", 
+            "upvote": 1, 
+            "title": "John Dnaher有道服基础-Half Guard（半防守）-第一段视频第38到第46分钟", 
+            "content": "<p>今天解说的部分以动作为主。</p><p>重要的概念是：对打下位的人来说，控制距离非常重要。具体到半防，膝盾是半防控制距离的重要手段。</p><p>膝盾的技术要领：做盾的那条腿，要斜45度左右顶在对方胸口，膝盖对着上位者的下巴，不要打横顶在腰上。与膝盾同侧的手，去抓上位者对侧的衣襟，齐对方耳朵处。</p><p>防守时，抓衣襟的手往上拎起，膝盖有往外顶的力量，如此避免上位者从上方或前方扑入。</p><p>其余的内容请听音频：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/audio/au1095571%3Ftype%3D3\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">哔哩哔哩音乐</a><p>相关的视频点此（对应第38分钟到第46分钟）：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av67150463\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">bilibili.com/video/av67</span><span class=\"invisible\">150463</span><span class=\"ellipsis\"></span></a><p></p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "周旖", 
+                    "userLink": "https://www.zhihu.com/people/b0bde1481244c703b908e44f312700f0", 
+                    "content": "知乎不能直接上传视频么？直接在文内看要好一些。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "知乎传不到那么长。而且主要是听个思路啊。而且这种你直接自己看就完了。不需要我解说[捂脸][捂脸]", 
+                            "likes": 0, 
+                            "replyToAuthor": "周旖"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/84610678", 
+            "userName": "吕小番", 
+            "userLink": "https://www.zhihu.com/people/74c072b5523337bca2b2188ea5938b9b", 
+            "upvote": 3, 
+            "title": "John Dnaher有道服基础-Half Guard-视频解说-第一段视频第25-38分钟", 
+            "content": "<p></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/audio/au1086234%3Ftype%3D3\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">哔哩哔哩音乐</a><p>今天的视频内容主要是讲练习半防守的3个方面。今天这部分内容不看视频是不行的，请务必结合视频食用。</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av67150463\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">bilibili.com/video/av67</span><span class=\"invisible\">150463</span><span class=\"ellipsis\"></span></a><p>一是要建立有效连接，半防的两条腿对上位者一条腿有哪些有效阻拦方式：内侧腿钩，外侧腿钩（又分为钩搭在上位者膝盖上方，以及钩搭在膝盖下方），蝎尾和半蝴蝶。</p><p>二是破坏对方平衡的几种做法：大风车，膝杠杆，蝴蝶挑，蝎尾挑。</p><p>三是半防下需要练习的高效身体动作：虾行（虾行起桥），虾行向前，单腿钟摆转坐起，hip heist（半坐起转龟防）。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-61edc9d346bb1e00b5f49f36fe3a3eea_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1283\" data-rawheight=\"516\" class=\"origin_image zh-lightbox-thumb\" width=\"1283\" data-original=\"https://pic3.zhimg.com/v2-61edc9d346bb1e00b5f49f36fe3a3eea_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1283&#39; height=&#39;516&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1283\" data-rawheight=\"516\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1283\" data-original=\"https://pic3.zhimg.com/v2-61edc9d346bb1e00b5f49f36fe3a3eea_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-61edc9d346bb1e00b5f49f36fe3a3eea_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "匿户名用", 
+                    "userLink": "https://www.zhihu.com/people/40433411840582dd14822a52374d93ea", 
+                    "content": "加油💪终于来了", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/83539406", 
+            "userName": "吕小番", 
+            "userLink": "https://www.zhihu.com/people/74c072b5523337bca2b2188ea5938b9b", 
+            "upvote": 1, 
+            "title": "John Dnaher有道服基础-Half Guard-视频解说-第一段视频第8-25分钟", 
+            "content": "<p></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/audio/au1077041%3Ftype%3D1\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">哔哩哔哩音乐</a><p>音频见上。</p><p>今天的解说部分有几处新思路。</p><p>第一点是，上位者过下位者的腿时，主动选择进入对方的半防，是过腿的一个好方式。只要能控制住下位者的头部和肩部，过腿就很容易。（所以半防守的关键就是双方争夺对下位者的头与肩的控制。）</p><p>第二点是，下位者选择打半防的好处有四点：半防跟对方的身体贴得近，更容易用两条腿控制对手的一条腿；更容易控制上位者下半身的重心；更有效地把对手的身体分为左右两侧，并有效地控制了对方身体的一侧；在某些姿势下，半防距离拿上位者的背只有一步之遥。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/82422620", 
+            "userName": "吕小番", 
+            "userLink": "https://www.zhihu.com/people/74c072b5523337bca2b2188ea5938b9b", 
+            "upvote": 3, 
+            "title": "John Dnaher有道服基础-Half Guard（半防守）-视频解说-第一段视频前7分钟", 
+            "content": "<p>正常人打半防都会打得无比纠结。因为一般而言，下位的人都是被动转入下位半防的：已经被过了腿，甚至被压制，无比痛苦地翻啊滚啊折腾啊，终于！钩住了上位的人的一条腿，转入半防。但这种时候，下位的人的背往往是被控制住的，实际上根本就没办法通过半防向对手展开攻击，反而，上位的对手扭啊转啊，就破掉了下位的半防。</p><p>这也是我这么迫不及待地开始做Danaher半防教学的综述的原因（一边翻译一边学习也是极好的）。</p><p>首先解释一下手的两个位置。</p><figure data-size=\"small\"><noscript><img src=\"https://pic3.zhimg.com/v2-7bae5dc1487234e9fed8bb4f90379252_b.jpg\" data-size=\"small\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-7bae5dc1487234e9fed8bb4f90379252_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;540&#39;&gt;&lt;/svg&gt;\" data-size=\"small\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic3.zhimg.com/v2-7bae5dc1487234e9fed8bb4f90379252_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7bae5dc1487234e9fed8bb4f90379252_b.jpg\"/><figcaption>下位者使用underhook</figcaption></figure><p>下位的人，在这个时候，叫抄到了上位者的腋下，Underhook，此时，下位者可进行的动作变数最多。这个位置上有个最重要的扫技叫roll through sweep。扫不成，还另有两种应对变数。</p><figure data-size=\"small\"><noscript><img src=\"https://pic4.zhimg.com/v2-e66cff4ec10c0b97f5b8db76599d01b7_b.jpg\" data-size=\"small\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-e66cff4ec10c0b97f5b8db76599d01b7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;540&#39;&gt;&lt;/svg&gt;\" data-size=\"small\" data-rawwidth=\"960\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-e66cff4ec10c0b97f5b8db76599d01b7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e66cff4ec10c0b97f5b8db76599d01b7_b.jpg\"/><figcaption>下位者使用overhook</figcaption></figure><p>这时下位者被上位抄到了腋下，此时切勿被控制头部，必须保持肩膀不被压平。在这两个前提下，可采用单肘逃脱和双肘逃脱两种方式。</p><p>半防还可转入好用的膝盾，也是这套教学里会介绍的动作。</p><p>半防的价值在于：</p><p>第一，身体接触得紧，减缓攻击方的速度；第二，有道服无道服都可以用；第三，用得好的话，是腿短者的福音！</p><p>音频在这里（音频前几秒好像顺序放错了，请略过）：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/audio/au1066630%3Ftype%3D1\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">哔哩哔哩音乐</a><p>配套视频：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av67150463\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">bilibili.com/video/av67</span><span class=\"invisible\">150463</span><span class=\"ellipsis\"></span></a><p></p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>居然开始做半防了，社会社会</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/82409042", 
+            "userName": "「已注销」", 
+            "userLink": "https://www.zhihu.com/people/fdb35d9c52381401b4ade870a91d78ed", 
+            "upvote": 2, 
+            "title": "小鸡今天破壳了", 
+            "content": "<p>知道工作量大，但是没有想到工作量这么大，大家真的很辛苦，付出了很多精力，克服了很多困难，但是无论如何，小鸡已经破壳了，让我们继续看它慢慢长大吧，感谢DTS小组，感谢群里所有支持我们的人，很幸运能有一帮拥有相同热爱和激情的人，一起做一件有意义的事！oss !</p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><a data-draft-node=\"block\" data-draft-type=\"link-card\" href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av67592872\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Pin Escapes &amp; Turtle Escapes 逃脱系列字幕版（试水片段）</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/81874313", 
+            "userName": "吕小番", 
+            "userLink": "https://www.zhihu.com/people/74c072b5523337bca2b2188ea5938b9b", 
+            "upvote": 7, 
+            "title": "John Danaher有道服基础-Guard Retention（第一段视频结束）", 
+            "content": "<p>今天的更新好水，实在是因为John Danaher这段视频的后半段，基本上就是重复总论，没有任何新东西，只是加入了动作做演示。</p><p>所以，如果你已经有了足够的垫上训练时间，这套视频看前24分钟，就领悟了他的精华。</p><p>音频在此：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/audio/au1060836%3Ftype%3D1\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">哔哩哔哩音乐</a><p>好吧，这里我再用文字做一下总结。</p><p>过腿的5项要求（总论里是5项，到了后面变成了6项，但内容没有不同）：</p><p>一，过腿者破防守者的把位控制。</p><p>二，过腿者在防守者身上建立自己的把位控制，至少有一只手控制住下位者的一条腿。</p><p>三，拉近双方距离，找到角度，过腿。（此处引入身体四横三纵的分界线理论，其中，身体侧边线与髋位线形成的两个点，叫危险点。）</p><p>四，上位者改变身体的高度，与下位者胸贴胸。</p><p>五，完成压制，将下位者的一侧肩膀压平至少三秒。</p><p>以上是过腿的流程。</p><p>防守方的防守，与上述5项要求一一对应。而这5项要求，对防守者的威胁是依次递增的。</p><p>一，防守方建立与过腿方的把位，如果能双手双脚同时建立连接，则防守方处在攻击循环，此时形势最为有利。</p><p>二，如果防守方被破把，努力恢复把位。</p><p>三，如果过腿方到达防守方的危险点，则防守方需要通过改变身体动作，将自己的腿恢复到两人之间，形成屏障。</p><p>四，如果过腿方已经在改变身体的高度，要与防守方胸贴胸，则防守方通过手臂建立框架，形成暂时性的屏障，推开对手，拉远距离，回到身体中线相对，或将腿恢复到两人之间。</p><p>五，如果肩膀已经被压平，过腿的游戏就结束了。</p><p>下一段音频我打算做新出的半防守视频的总论。</p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/81404933", 
+            "userName": "吕小番", 
+            "userLink": "https://www.zhihu.com/people/74c072b5523337bca2b2188ea5938b9b", 
+            "upvote": 3, 
+            "title": "John Dnaher有道服基础-Guard Retention（第四段，总论部分结束）", 
+            "content": "<p>这下算是把防过腿教程总论的总论部分给讲完了。</p><p>最后还总结了常用且有效的过腿方法，六种：</p><p>double under pass，over/under pass，龙卷风，拽腿，切膝和长步。</p><p>另外，关于练习巴柔做笔记的事情，我私心里觉得没必要做得太详细，因为这毕竟是个实践性的运动，而不是理论学习。做笔记的目的主要是为了整理思路，不是为了做笔记而做笔记。</p><p>如果不是为了系统性地教学，普通人学习和练习的时候，把关键的大框架搭起来就行。比如说过腿或者防过腿，教练教的时候，你知道他在教的是哪一种方法，所应用的层面属于哪一层（什么时候是调整角度，什么时候是拉近距离，什么时候在降低身体高度，等等），也就够了。剩下的就是多练习，多在比自己弱的搭档身上试着用出来，多用几次，觉得适合自己，再更多地去练习，直到练成一种身体习惯。</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/audio/au1054317%3Ftype%3D1\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">哔哩哔哩音乐</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/81243170", 
+            "userName": "吕小番", 
+            "userLink": "https://www.zhihu.com/people/74c072b5523337bca2b2188ea5938b9b", 
+            "upvote": 8, 
+            "title": "John Dnaher有道服基础-Guard Retention（第三段试运行，音频加思维导图）", 
+            "content": "<p>这两天真是忙得四脚朝天。但音频解说的方式方法，似乎在一次次的尝试中逐渐清晰起来。当然，我自己的解说技能还需要锻炼，语速该多快合适，也还在尝试之中。还请大家务必给予反馈，以便及时调整。</p><p>第三段的音频其实前几天就做出来了，没来得及更新知乎。</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/audio/au1051429%3Ftype%3D7\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">哔哩哔哩音乐</a><p>今天把防过腿的总体思路整理了一下，请看如下思维导图。我觉得练到蓝带以后，有这个思维导图，基本就能理解Danaher教学的意思了。</p><p>有一些内容的具体解释，我会在第四段音频里做补充。</p><p>请多提意见，喜欢就请点赞或转发推荐。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-acfaf877c5ceaf596a296385defea6c3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3283\" data-rawheight=\"1781\" class=\"origin_image zh-lightbox-thumb\" width=\"3283\" data-original=\"https://pic4.zhimg.com/v2-acfaf877c5ceaf596a296385defea6c3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;3283&#39; height=&#39;1781&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3283\" data-rawheight=\"1781\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"3283\" data-original=\"https://pic4.zhimg.com/v2-acfaf877c5ceaf596a296385defea6c3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-acfaf877c5ceaf596a296385defea6c3_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "匿户名用", 
+                    "userLink": "https://www.zhihu.com/people/40433411840582dd14822a52374d93ea", 
+                    "content": "粉丝来了，粉丝走了", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/80711034", 
+            "userName": "吕小番", 
+            "userLink": "https://www.zhihu.com/people/74c072b5523337bca2b2188ea5938b9b", 
+            "upvote": 4, 
+            "title": "John Danaher教程音频试上线", 
+            "content": "<p>这个周末把自己想做的东西弄了两段。还非常不完美。不知道为什么声音忽大忽小，还在找原因。</p><p>其余还请各位多提意见。这两天有时间就继续往下做。</p><p>自我介绍的部分：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/audio/au1049572%3Ftype%3D7\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">哔哩哔哩音乐</a><p>以下音频怎么用呢？可以对照防过腿的总论视频看（暂时只有它的前6分钟，见此：<a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av62313753%3Ffrom%3Dsearch%26seid%3D12279403387057195580\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">bilibili.com/video/av62</span><span class=\"invisible\">313753?from=search&amp;seid=12279403387057195580</span><span class=\"ellipsis\"></span></a>）电脑上开两个网页即可。手机上嘛，哈哈，手机听音频，平板可以看视频。</p><p>不想这么麻烦，光是当个音频节目听，我自己感觉也行。</p><p>防过腿总论前6分钟：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/audio/au1049873%3Ftype%3D7\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">哔哩哔哩音乐</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/80276670", 
+            "userName": "吕小番", 
+            "userLink": "https://www.zhihu.com/people/74c072b5523337bca2b2188ea5938b9b", 
+            "upvote": 10, 
+            "title": "围绕John Danaher的视频教程搞搞事情", 
+            "content": "<p>先简单地介绍一下自己，我是个职业翻译，这不用说了。（可以参见我知乎的另一个专栏。）</p><p>2014年12月30日，我找到了本地巴西柔术道馆，正式开始练习这门格斗术（我们道馆是超·硬派道馆，全年几乎无休）。</p><p>巴柔直到现在都是项小众运动，当时练的人更少，道馆里一半的人都是外籍人士，包括教练。而且大家的体格也跟我有比较大的差异，所以我练得很佛系，一周一练不超过两练，2017年11月26日，才升到蓝带。这期间肩膀受伤、肘关节受伤、膝盖受伤，不过还是坚持老年揉，一周两练，不超过三练。</p><p>大概是频率练得不够高的缘故，我直到今年年初，听到本馆的一位教练介绍“巴西柔术就是三大体系：抱摔、过腿、降服”，才有如醍醐灌顶，仿佛打通了筋脉。再之后又看到John Danaher的一套教程，惊为天人。</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av60700233%3Ffrom%3Dsearch%26seid%3D2951664549218343950\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">John Danaher介绍巴西柔术的四大步骤</a><p>（这段视频一定要看，很短，Danaher把整个思路说得非常透彻。）</p><p>紧接着，我发现知乎和B站发布相关视频的科科，居然是跟我在同一家道馆训练的。（世界太小了。）</p><p>他是Danaher的热心粉丝，拉了个群想给这套教程做字幕，然而……做得心力憔悴。工程太过浩大，进展也，很很很很慢，毕竟，纯粹的听译做字幕，这难度，我只能说哈哈。更何况，受众群体又太小太小太小。</p><p>从一开始，只要我去道馆上课，又需要有人进行现场翻译的时候，这件事就舍我其谁，所以翻译对我来说并不是什么问题。但是我并不看好做字幕的形式。除了受众群体小，还涉及到版权问题。</p><p>所以我想到了另外一种新的形式，好玩，有趣，而且相对来说，启动和持续推进的速度比做生肉字幕快，也能帮到所有想理解这套视频教程的人，更无关视频的版权。但能不能行得通，还得做了才知道。</p><p>写这篇文章，是为了先预热一下，做个宣传，也给自己打打鸡血。想围观学习的，请加科科建的群。</p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }, 
+                {
+                    "tag": "综合格斗", 
+                    "tagLink": "https://api.zhihu.com/topics/19679789"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>职业翻译+巴柔蓝带，这项任务舍你其谁？哈哈</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "你们居然互相不认识，这个世界一点也不小啊[捂脸]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "James", 
+                    "userLink": "https://www.zhihu.com/people/a8171b3afb0fc6eaf097f644a6d3e336", 
+                    "content": "可以翻拍。按照原来的讲解，再用中文自己拍一遍。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "哈哈哈，翻拍以我们现在的资历还不够。而且工程量也就大了。现在希望尽量走快速启动的路线。", 
+                            "likes": 0, 
+                            "replyToAuthor": "James"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "王路国", 
+                    "userLink": "https://www.zhihu.com/people/757f8c3cd309bc06b0abed6c3d9647e4", 
+                    "content": "准备怎么做呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>请看专栏的下一篇文章，我已经试着做了两段音频出来。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王路国"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/76888939", 
+            "userName": "「已注销」", 
+            "userLink": "https://www.zhihu.com/people/fdb35d9c52381401b4ade870a91d78ed", 
+            "upvote": 12, 
+            "title": "John Danaher系列教程完结", 
+            "content": "<p></p><h2>Enter The System 系列</h2><p class=\"ztext-empty-paragraph\"><br/></p><p><b>十字固系列</b></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av62314717\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">BJJ Fanatics - Enter The System Arm Bar by John Danaher</a><p><b>木村锁系列</b></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av44514904\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Kimura: Enter The System - John Danaher</a><p><b>头锁系列</b></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av44066672\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Front Headlock: Enter The System - John Danaher</a><p><b>腿锁系列</b></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av43414193\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Leglocks: Enter The System Remastered - John Danaher</a><p><b>三角锁系列</b></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av43332233\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Triangles: Enter The System - John Danaher</a><p><b>拿背系统</b></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av43386012\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Back Attacks: Enter The System - John Danaher</a><hr/><h2><b>Go Further Faster - </b>Gi Fundamentals <b>系列</b></h2><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Guard Retention 系列</b></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av62313753\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Go Further Faster Gi Fundamentals - Guard Retention by John Danaher</a><p><b>Escapes 系列</b></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av61493760\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">John Danaher - Go Further Faster - Gi Fundamentals - Escapes</a><p><b>Half Guard系列</b></p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av67150463\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Go Further Faster - Half Guard By John Danaher</a><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "巴西柔术", 
+                    "tagLink": "https://api.zhihu.com/topics/20003310"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "Gsp的教练", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>Danaher门下人才济济，GSP只是其中之一哦</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "是的哈哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Peter", 
+                    "userLink": "https://www.zhihu.com/people/3d3ebc119ecc6a48d6fbceb454b7a7ed", 
+                    "content": "哭了，想要字幕，当初应该好好学英语的", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>慢慢听，他语速慢又没有口音，能听懂的</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Peter"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "吕豆腐", 
+                    "userLink": "https://www.zhihu.com/people/2640bdf5c25882ee8ef4887d3beb9942", 
+                    "content": "还是建议众筹翻译", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>众筹翻译具体怎么操作？可以讲一下吗？没有这方面的经验</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "吕豆腐"
+                        }, 
+                        {
+                            "userName": "Paul", 
+                            "userLink": "https://www.zhihu.com/people/5546384d1cd4fe4a3b2e83fee7b2768a", 
+                            "content": "哈哈哈哈 众筹我 我来翻译", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/forever-young"
+}

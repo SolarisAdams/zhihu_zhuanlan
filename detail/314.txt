@@ -1,0 +1,459 @@
+{
+    "title": "码农——深度学习之路，探索人工智能奥秘", 
+    "description": "古人学问无遗力，\n少壮工夫老始成。\n纸上得来终觉浅，\n绝知此事要躬行。", 
+    "followers": [
+        "https://www.zhihu.com/people/yang-ye-79", 
+        "https://www.zhihu.com/people/yeu-yang", 
+        "https://www.zhihu.com/people/xie-yk", 
+        "https://www.zhihu.com/people/wu-yi-shan-92-12", 
+        "https://www.zhihu.com/people/liu-chen-19-24", 
+        "https://www.zhihu.com/people/chen-meng-jie-85", 
+        "https://www.zhihu.com/people/tian-yao-54-24", 
+        "https://www.zhihu.com/people/jiang-hai-yun-92", 
+        "https://www.zhihu.com/people/lan-nuo-24", 
+        "https://www.zhihu.com/people/sunnyos", 
+        "https://www.zhihu.com/people/locker87", 
+        "https://www.zhihu.com/people/na-lan-56-89", 
+        "https://www.zhihu.com/people/ji-qi-xue-xi-97", 
+        "https://www.zhihu.com/people/chen-tong-tian-tian", 
+        "https://www.zhihu.com/people/tang-xin-78", 
+        "https://www.zhihu.com/people/gu-ge-ge-62", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/happyqq", 
+        "https://www.zhihu.com/people/muyaba", 
+        "https://www.zhihu.com/people/doraemon-57", 
+        "https://www.zhihu.com/people/zhu-zhao-tong", 
+        "https://www.zhihu.com/people/dong-feng-66-72", 
+        "https://www.zhihu.com/people/AI_Technology", 
+        "https://www.zhihu.com/people/hang-27", 
+        "https://www.zhihu.com/people/feng-xing-long-5", 
+        "https://www.zhihu.com/people/chu-yun-fei-42-59", 
+        "https://www.zhihu.com/people/xiao-er-lai-ge-id", 
+        "https://www.zhihu.com/people/nie-bo", 
+        "https://www.zhihu.com/people/homer-wong-33", 
+        "https://www.zhihu.com/people/da-pu-28", 
+        "https://www.zhihu.com/people/willwinworld", 
+        "https://www.zhihu.com/people/biao-biao-74-74", 
+        "https://www.zhihu.com/people/bo-bing-16-57", 
+        "https://www.zhihu.com/people/cou-stu", 
+        "https://www.zhihu.com/people/Jonah_Jrue", 
+        "https://www.zhihu.com/people/jiu-ye-20-63", 
+        "https://www.zhihu.com/people/rui-zong-yun", 
+        "https://www.zhihu.com/people/zhi-shi-ren-de-si-xiang", 
+        "https://www.zhihu.com/people/cutest-piggy", 
+        "https://www.zhihu.com/people/yildhd-wang", 
+        "https://www.zhihu.com/people/wzx-26-35", 
+        "https://www.zhihu.com/people/andykung", 
+        "https://www.zhihu.com/people/xiaobao-19-36", 
+        "https://www.zhihu.com/people/xin-ba-33-19", 
+        "https://www.zhihu.com/people/li.xin.peng", 
+        "https://www.zhihu.com/people/cheng-xu-yuan-can-lin", 
+        "https://www.zhihu.com/people/chevson", 
+        "https://www.zhihu.com/people/a-dong-97-4", 
+        "https://www.zhihu.com/people/Lquartz", 
+        "https://www.zhihu.com/people/james-liu-62-62", 
+        "https://www.zhihu.com/people/tan-guo-fu-44", 
+        "https://www.zhihu.com/people/he-shui-dong-liu-95", 
+        "https://www.zhihu.com/people/jing-jing-37-43-34", 
+        "https://www.zhihu.com/people/wangcheny91", 
+        "https://www.zhihu.com/people/xieyu-10-62", 
+        "https://www.zhihu.com/people/chmmn-chmmn", 
+        "https://www.zhihu.com/people/cyp-4-35", 
+        "https://www.zhihu.com/people/li-sheng-jie-5-48", 
+        "https://www.zhihu.com/people/mo-xi-lao-lao"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/65300827", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 0, 
+            "title": "Neural Architecture Search系列论文", 
+            "content": "<p>Google Brain的相关系列论文：</p><p>1） Neural Architecture Search With Reinforcement Learning</p><p>2）Learning Transferable Architecture for Scalable Image Recognition</p><p>3）Progressive Neural Architecture Search</p><p>4）MnasNet:Platform-Aware Neural Architecture Search for Mobile</p><p>5）NAS-FPN:Learning Scalable Feature Pyramid Architecture for Object Detection</p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53761542", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 0, 
+            "title": "19年必须研读的书目", 
+            "content": "<p></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-269c87d3d143563a8ec8c07134247fea_b.jpg\" data-rawwidth=\"1536\" data-rawheight=\"2048\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1536\" data-original=\"https://pic3.zhimg.com/v2-269c87d3d143563a8ec8c07134247fea_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1536&#39; height=&#39;2048&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1536\" data-rawheight=\"2048\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1536\" data-original=\"https://pic3.zhimg.com/v2-269c87d3d143563a8ec8c07134247fea_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-269c87d3d143563a8ec8c07134247fea_b.jpg\"/></figure><p></p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53051510", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 0, 
+            "title": "机器学习的数学基础", 
+            "content": "<p>需要系统掌握的数学书：</p><p>0 Knuth的《具体数学》</p><p>1 Walter Rudin的三部曲</p><p>《数学分析原理》</p><p>《实分析与复分析》</p><p>《泛函分析》</p><p>2 Sheldon M. Ross的</p><p>《概率论基础教程》</p><p>《随机过程》</p><p>《统计模拟》</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/49050747", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 0, 
+            "title": "问题：Darknet下ShuffleNetV2 训练不收敛", 
+            "content": "<p>最近在Darknet上训练ShuffleNetV2网络，发现这个网络结构不能收敛，下图是基于MobileNet上加入一小部分ShuffleNetV2的网络结构，很明显不收敛（为了节约内存，将shuffle功能放在route layer中了），<b>个人觉得ShuffleNetV2的结构不太能够进行训练使用。</b></p><p>内存使用情况：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-de6ee4ca2dc4a11e76fbd444c4f88af1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb\" width=\"1855\" data-original=\"https://pic2.zhimg.com/v2-de6ee4ca2dc4a11e76fbd444c4f88af1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1855&#39; height=&#39;1056&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1855\" data-original=\"https://pic2.zhimg.com/v2-de6ee4ca2dc4a11e76fbd444c4f88af1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-de6ee4ca2dc4a11e76fbd444c4f88af1_b.jpg\"/></figure><p>MobileNet运行情况</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-aa37aeafcc320c214fa5d331b245f024_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb\" width=\"1855\" data-original=\"https://pic1.zhimg.com/v2-aa37aeafcc320c214fa5d331b245f024_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1855&#39; height=&#39;1056&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1855\" data-original=\"https://pic1.zhimg.com/v2-aa37aeafcc320c214fa5d331b245f024_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-aa37aeafcc320c214fa5d331b245f024_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-f4346fb01539605bd10663f714b5141a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1920\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic3.zhimg.com/v2-f4346fb01539605bd10663f714b5141a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1920&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1920\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic3.zhimg.com/v2-f4346fb01539605bd10663f714b5141a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f4346fb01539605bd10663f714b5141a_b.jpg\"/></figure><p>加入Shuffle结构的MobileNet运行情况</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-510f37344c4f5e47b7ae3b38b0a235f2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb\" width=\"1855\" data-original=\"https://pic3.zhimg.com/v2-510f37344c4f5e47b7ae3b38b0a235f2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1855&#39; height=&#39;1056&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1855\" data-original=\"https://pic3.zhimg.com/v2-510f37344c4f5e47b7ae3b38b0a235f2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-510f37344c4f5e47b7ae3b38b0a235f2_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-b02993cca3f754b03eeaa733ae8ef40b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb\" width=\"1855\" data-original=\"https://pic4.zhimg.com/v2-b02993cca3f754b03eeaa733ae8ef40b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1855&#39; height=&#39;1056&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1855\" data-original=\"https://pic4.zhimg.com/v2-b02993cca3f754b03eeaa733ae8ef40b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-b02993cca3f754b03eeaa733ae8ef40b_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b03d2dfffbb9766ece9fe33d48637690_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb\" width=\"1855\" data-original=\"https://pic1.zhimg.com/v2-b03d2dfffbb9766ece9fe33d48637690_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1855&#39; height=&#39;1056&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1855\" data-original=\"https://pic1.zhimg.com/v2-b03d2dfffbb9766ece9fe33d48637690_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b03d2dfffbb9766ece9fe33d48637690_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>根据我们的尝试，darknet完全可以复现shuffleNetV2和mobileNetV2的，mobileNetV2+shuffleNetV2的混合结构也是可以训练，性能还不错，不过没有仔细调超参</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>了解了，谢谢</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37232001", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 0, 
+            "title": "荟萃：关于DNN加速的一些博客", 
+            "content": "<p>对韩松老师的经典论文进行了解读以及展开，不错。</p><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/linolzhang/article/details/78231341%3FlocationNum%3D3%26fps%3D1\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">深度网络模型压缩 - CNN Compression - CSDN博客</a><p>-----------------------------------------------------------------------------------------------------------------</p><p>感觉是一个学生的读书笔记，不错。</p><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/haima1998/article/details/78249881\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CNN的压缩和加速 - CSDN博客</a><p>-----------------------------------------------------------------------------------------------------------------</p><p>关注量化相关内容。</p><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/shuzfan/article/details/51678499\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">网络压缩-量化方法对比 - CSDN博客</a><p>----------------------------------------------------------------------------------------------------------------</p><p>有特色的一篇博客</p><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/cookie_234/article/details/75386737\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Incremental Network Quantization: Towards Lossless CNNs with Low-precision Weights</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "博客", 
+                    "tagLink": "https://api.zhihu.com/topics/19550419"
+                }, 
+                {
+                    "tag": "个人博客", 
+                    "tagLink": "https://api.zhihu.com/topics/19593765"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33621080", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 4, 
+            "title": "基础知识：信息熵、交叉熵和相对熵", 
+            "content": "<p>百度百科：</p><p><b><a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E4%25BF%25A1%25E6%2581%25AF%25E7%2586%25B5\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">信息熵</a></b>，是随机变量或整个系统的不确定性。熵越大，随机变量或系统的不确定性就越大。所谓信息熵，是一个<a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E6%2595%25B0%25E5%25AD%25A6\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">数学</a>上颇为抽象的概念，在这里不妨把信息熵理解成某种特定信息的出现概率。而信息熵和热力学熵是紧密相关的。根据Charles H. Bennett对Maxwell&#39;s Demon的重新解释，对信息的销毁是一个不可逆过程，所以销毁信息是符合<a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E7%2583%25AD%25E5%258A%259B%25E5%25AD%25A6%25E7%25AC%25AC%25E4%25BA%258C%25E5%25AE%259A%25E5%25BE%258B\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">热力学第二定律</a>的。而产生信息，则是为系统引入负（<a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E7%2583%25AD%25E5%258A%259B%25E5%25AD%25A6\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">热力学</a>）熵的过程。所以信息熵的符号与热力学熵应该是相反的。</p><p>一般而言，当一种信息出现概率更高的时候，表明它被传播得更广泛，或者说，被引用的程度更高。我们可以认为，从信息传播的角度来看，信息熵可以表示信息的价值。这样子我们就有一个衡量信息价值高低的标准，可以做出关于知识流通问题的更多推论。</p><p>H(x) = E[I(xi)] = E[ log(2,1/p(xi)) ] = -∑p(xi)log(2,p(xi)) (i=1,2,..n)</p><p>其中，x表示随机变量，与之相对应的是所有可能输出的集合，定义为符号集,随机变量的输出用x表示。P(x)表示输出概率函数。变量的不确定性越大，熵也就越大，把它搞清楚所需要的信息量也就越大.</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E4%25BA%25A4%25E5%258F%2589%25E7%2586%25B5\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">交叉熵</a></b>，用来衡量在给定的真实分布下，使用非真实分布所指定的策略消除系统的不确定性所需要付出的努力的大小。</p><p>对于离散变量采用以下的方式计算：H(p,q)= </p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d5f0b5f91a6c4ffd913a4cf108212252_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"138\" data-rawheight=\"46\" class=\"content_image\" width=\"138\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;138&#39; height=&#39;46&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"138\" data-rawheight=\"46\" class=\"content_image lazy\" width=\"138\" data-actualsrc=\"https://pic3.zhimg.com/v2-d5f0b5f91a6c4ffd913a4cf108212252_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>对于连续变量采用以下的方式计算： </p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-a772988b5482d596fd74a7f856f41644_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"263\" data-rawheight=\"39\" class=\"content_image\" width=\"263\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;263&#39; height=&#39;39&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"263\" data-rawheight=\"39\" class=\"content_image lazy\" width=\"263\" data-actualsrc=\"https://pic1.zhimg.com/v2-a772988b5482d596fd74a7f856f41644_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>相对熵</b>，用来衡量两个取值为正的函数或概率分布之间的差异。又称KL散度( Kullback–Leibler divergence)，是描述两个概率分布P和Q差异的一种方法。它是非对称的，这意味着D(P||Q) ≠ D(Q||P)。特别的，在信息论中，D(P||Q)表示当用概率分布Q来拟合真实分布P时，产生的信息损耗，其中P表示真实分布，Q表示P的拟合分布。</p><p>设 P(x)和Q(x)是X 取值的两个离散概率分布，则 P对 Q的相对熵为：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ac0397ae55a80d1246676f6c19bec5a5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"245\" data-rawheight=\"28\" class=\"content_image\" width=\"245\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;245&#39; height=&#39;28&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"245\" data-rawheight=\"28\" class=\"content_image lazy\" width=\"245\" data-actualsrc=\"https://pic2.zhimg.com/v2-ac0397ae55a80d1246676f6c19bec5a5_b.jpg\"/></figure><p>对于连续的随机变量，定义为： </p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7659c976bd0119b12131cc0910b90f63_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"260\" data-rawheight=\"38\" class=\"content_image\" width=\"260\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;260&#39; height=&#39;38&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"260\" data-rawheight=\"38\" class=\"content_image lazy\" width=\"260\" data-actualsrc=\"https://pic4.zhimg.com/v2-7659c976bd0119b12131cc0910b90f63_b.jpg\"/></figure><p>相对熵=交叉熵-信息熵： </p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-75f2b440e393174a3ae8eb507e14bf19_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"192\" data-rawheight=\"18\" class=\"content_image\" width=\"192\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;192&#39; height=&#39;18&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"192\" data-rawheight=\"18\" class=\"content_image lazy\" width=\"192\" data-actualsrc=\"https://pic2.zhimg.com/v2-75f2b440e393174a3ae8eb507e14bf19_b.jpg\"/></figure><p>维基：</p><p><b>Information entropy</b> is defined as the <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Expected_value\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">average</a> amount of <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Information\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">information</a> produced by a <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Stochastic\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">stochastic</a> source of data.</p><p>The measure of information entropy associated with each possible data value is the negative <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Logarithm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">logarithm</a> of the <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Probability_mass_function\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">probability mass function</a><br/> for the value. Thus, when the data source has a lower-probability value<br/> (i.e., when a low-probability event occurs), the event carries more <br/>&#34;information&#34; (&#34;surprisal&#34;) than when the source data has a <br/>higher-probability value. The amount of information conveyed by each <br/>event defined in this way becomes a <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Random_variable\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">random variable</a> whose expected value is the information entropy. Generally, <i>entropy</i> refers to disorder or uncertainty, and the definition of entropy used in information theory is directly analogous to the <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Entropy_%28statistical_thermodynamics%29\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">definition used</a> in <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Statistical_thermodynamics\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">statistical thermodynamics</a>. The concept of information entropy was introduced by <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Claude_Shannon\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Claude Shannon</a> in his 1948 paper &#34;<a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">A Mathematical Theory of Communication</a>&#34;.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>In <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Information_theory\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">information theory</a>, the <b>cross entropy</b> between two <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Probability_distribution\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">probability distributions</a>     p  and     q  over the same underlying set of events measures the average number of <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Bit\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">bits</a><br/> needed to identify an event drawn from the set, if a coding scheme is used that is optimized for an &#34;unnatural&#34; probability distribution   q  , rather than the &#34;true&#34; distribution  p </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>Generalized relative entropy</b> （ϵ-relative entropy) is a measure of dissimilarity between two <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Quantum_states\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">quantum states</a>. It is a &#34;one-shot&#34; analogue of <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Quantum_relative_entropy\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">quantum relative entropy</a> and shares many properties of the latter quantity.</p><p>In the study of <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Quantum_information_theory\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">quantum information theory</a>,  we typically assume that information processing tasks are repeated multiple times, independently. The corresponding information-theoretic notions are therefore defined in the asymptotic limit. The <br/>quintessential entropy measure, <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Von_Neumann_entropy\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">von Neumann entropy</a>,  is one such notion. In contrast, the study of one-shot quantum information theory is concerned with information processing when a task is conducted only once. New entropic measures emerge in this scenario, as traditional notions cease to give a precise characterization of resource requirements.     ϵ-relative entropy is one such particularly interesting measure.</p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32644842", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 1, 
+            "title": "荟萃：GAN的一些好的网页", 
+            "content": "<p>最近，将部分精力转到GAN上了，以下是看到感觉比较好的相关网页，与大家分享一下：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1 <a href=\"https://zhuanlan.zhihu.com/p/25439613\" class=\"internal\">火热的生成对抗网络(GAN),你究竟好在哪里</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2 <a href=\"https://zhuanlan.zhihu.com/p/25071913\" class=\"internal\">令人拍案叫绝的Wasserstein GAN</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>3 <a href=\"https://zhuanlan.zhihu.com/p/27159510\" class=\"internal\">从PM到GAN——LSTM之父Schmidhuber横跨22年的怨念（文字版）</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>4 <a href=\"https://www.zhihu.com/question/52602529\" class=\"internal\">生成式对抗网络GAN有哪些最新的发展，可以实际应用到哪些场景中？</a></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "生成对抗网络（GAN）", 
+                    "tagLink": "https://api.zhihu.com/topics/20070859"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32174091", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 0, 
+            "title": "荟萃：GAN入门", 
+            "content": "<p>开始关注GAN，推荐一个适合入门的网页连接<a href=\"https://link.zhihu.com/?target=https%3A//phillipi.github.io/pix2pix/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Image-to-Image Translation with Conditional Adversarial Networks</a>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以下网页中整理的GAN经典的论文，希望能给大家一个帮助：</p><p> ----------------------------------------------------------------------------------------------------</p><h2>Recent Related Work</h2><p><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1406.2661\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Generative adversarial networks</a><br/> have been vigorously explored in the last two years, and many <br/>conditional variants have been proposed. Please see the discussion of <br/>related work in <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1611.07004\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">our paper</a>. Below we point out three papers that especially influenced this work: the original GAN paper from Goodfellow et al., the <a href=\"https://link.zhihu.com/?target=https%3A//github.com/soumith/dcgan.torch\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">DCGAN framework</a>,<br/> from which our code is derived, and the iGAN paper, from our lab, that <br/>first explored the idea of using GANs for mapping user strokes to <br/>images.<br/><br/>Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David <br/>Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. <b>Generative Adversarial Networks</b>. NIPS, 2014. <a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1406.2661v1.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[PDF]</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>Alec Radford, Luke Metz, Soumith Chintala. <b>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</b>. ICLR, 2016. [<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1511.06434v2.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">PDF</a>][<a href=\"https://link.zhihu.com/?target=https%3A//github.com/soumith/dcgan.torch\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Code</a>]</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Jun-Yan Zhu, Philipp Krahenbuhl, Eli Shechtman, Alexei A. Efros. <b>Generative Visual Manipulation on the Natural Image Manifold</b>. ECCV, 2016. [<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1609.03552v2.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">PDF</a>][<a href=\"https://link.zhihu.com/?target=https%3A//people.eecs.berkeley.edu/~junyanz/projects/gvm/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Webpage</a>][<a href=\"https://link.zhihu.com/?target=https%3A//github.com/junyanz/iGAN\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Code</a>]</p><p> Also, please check out our follow-up work on image-to-image translation *without* paired training examples:<br/>                 </p><p>Jun-Yan Zhu*, Taesung Park*, Phillip Isola, Alexei A. Efros. <b>Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks</b>. arXiv, 2017. [<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1703.10593\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">PDF</a>][<a href=\"https://link.zhihu.com/?target=https%3A//junyanz.github.io/CycleGAN/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Webpage</a>][<a href=\"https://link.zhihu.com/?target=https%3A//github.com/junyanz/CycleGAN\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Code</a>]</p><p>---------------------------------------------------------------------------------------------------------</p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "生成对抗网络（GAN）", 
+                    "tagLink": "https://api.zhihu.com/topics/20070859"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31313958", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 2, 
+            "title": "深度学习中的Dropout", 
+            "content": "<p>什么是关于深度学习中的Dropout？</p><p class=\"ztext-empty-paragraph\"><br/></p><p> Dropout就是指在深度学习网络的训练过程中，对于神经网络单元，按照一定的概率将其暂时从网络中丢弃。注意是暂时，对于随机梯度下降来说，由于是随机丢弃，故而每一个mini-batch都在训练不同的网络。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>可参考下边两个连接解释的比较清楚。</p><p>1）<a href=\"https://link.zhihu.com/?target=http%3A//blog.csdn.net/stdcoutzyx/article/details/49022443\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">理解 Dropout</a> </p><p>2）<a href=\"https://link.zhihu.com/?target=http%3A//www.jianshu.com/p/ba9ca3b07922\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">分析 Dropout</a> </p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30265793", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 1, 
+            "title": "基础知识：Rademacher Complexity", 
+            "content": "<p>*读周志华老师的《机器学习》笔记</p><p>WIKI：<a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Rademacher_complexity\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Rademacher complexity</a></p><p>拉德马赫复杂度是一种刻画假设空间复杂度的途径，与VC不同的是它在一定程度上考虑了数据分布。</p><p>定义：</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-3e3ab47ef7842fbbe73823850989c292_b.jpg\" data-caption=\"\" data-rawwidth=\"1600\" data-rawheight=\"750\" class=\"origin_image zh-lightbox-thumb\" width=\"1600\" data-original=\"https://pic3.zhimg.com/v2-3e3ab47ef7842fbbe73823850989c292_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1600&#39; height=&#39;750&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1600\" data-rawheight=\"750\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1600\" data-original=\"https://pic3.zhimg.com/v2-3e3ab47ef7842fbbe73823850989c292_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-3e3ab47ef7842fbbe73823850989c292_b.jpg\"/></figure><p>主要文献：</p><p>《Foundations of Machine Learning》</p><p>《On the method of bounded differences》</p><p>《Rademacher and Gaussian Complexities:Risk Bounds and Structural Results》</p><p>《LOCAL RADEMACHER COMPLEXITIES》</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28931179", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 1, 
+            "title": "小技巧：计算卷积、池化等输出图像的size", 
+            "content": "<p>以TensorFlow为例总结以下怎么计算卷积、池化输出的Size:</p><p>输出图像的Size与Kernel 的Size, Stride的Size，以及Padding类型有关，</p><p>一般常用的KernelSize=1, 3, 5, 7;   StrideSize = 1, 2</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1 当Padding = SAME 时，</p><p> Input Size为输入Size，Output Size = INT((InputSize  + (StrideSize - 1) )/ StrideSize)</p><p>2 当Padding = VALID 时，</p><p>  Input Size为输入Size，Output Size = INT((InputSize -( KernelSize - 1)  + (StrideSize - 1) )/ StrideSize)</p><p>另外，对于pytorch, 基本上是一样的， padding=0 (默认）相当于Padding = VALID ，</p><p> padding=(KernelSize-1)/2 相当于Padding = SAME。</p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "TensorFlow", 
+                    "tagLink": "https://api.zhihu.com/topics/20032249"
+                }, 
+                {
+                    "tag": "Torch (深度学习框架)", 
+                    "tagLink": "https://api.zhihu.com/topics/20047018"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "JunMa", 
+                    "userLink": "https://www.zhihu.com/people/8ab363ce8e4f5c9724673742069ce80f", 
+                    "content": "<p>请问INT是四舍五入取整吗</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "nane纯牛奶", 
+                            "userLink": "https://www.zhihu.com/people/91450e45a93cae5a8c38b4ed585c0c9c", 
+                            "content": "<p>向下取整吧</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "JunMa"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28429478", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 12, 
+            "title": "荟萃： ResNet六大变体的Github地址", 
+            "content": "<p></p><p><a href=\"https://link.zhihu.com/?target=http%3A//blog.csdn.net/zchang81/article/details/76019778\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">1</a> ResNeXt</p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/facebook/fb.resnet.torch\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/facebook/fb.</span><span class=\"invisible\">resnet.torch</span><span class=\"ellipsis\"></span></a></p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/wenxinxu/resnet-in-tensorflow\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/wenxinxu/res</span><span class=\"invisible\">net-in-tensorflow</span><span class=\"ellipsis\"></span></a></p><p>2 Wide Residual Network（WRN）</p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/szagoruyko/wide-residual-networks\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/szagoruyko/w</span><span class=\"invisible\">ide-residual-networks</span><span class=\"ellipsis\"></span></a></p><p>3 DenseNet</p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/liuzhuang13/DenseNet\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/liuzhuang13/</span><span class=\"invisible\">DenseNet</span><span class=\"ellipsis\"></span></a></p><p>4 MobileNet</p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/Zehaos/MobileNet\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/Zehaos/Mobil</span><span class=\"invisible\">eNet</span><span class=\"ellipsis\"></span></a></p><p>5 ShuffeNet：</p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/camel007/Caffe-ShuffleNet\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/camel007/Caf</span><span class=\"invisible\">fe-ShuffleNet</span><span class=\"ellipsis\"></span></a></p><p>6 DPN (Dual Path Network)</p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/cypw/DPNs\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/cypw/DPNs</span><span class=\"invisible\"></span></a></p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "David 9", 
+                    "userLink": "https://www.zhihu.com/people/b1b4702f5c5e535176afef5292b42750", 
+                    "content": "<p>还有一个参数化的非硬连接ResNet：</p><p><a href=\"http://link.zhihu.com/?target=http%3A//nooverfit.com/wp/cvpr2018%25E6%258A%25A2%25E5%2585%2588%25E7%259C%258B%25EF%25BC%258Cdiracnets%25EF%25BC%259A%25E6%2597%25A0%25E9%259C%2580%25E8%25B7%25B3%25E5%25B1%2582%25E8%25BF%259E%25E6%258E%25A5%25EF%25BC%258C%25E8%25AE%25AD%25E7%25BB%2583%25E6%259B%25B4%25E6%25B7%25B1%25E7%25A5%259E%25E7%25BB%258F%25E7%25BD%2591%25E7%25BB%259C/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CVPR2018抢先看，DiracNets：无需跳层连接，训练更深神经网络，结构参数化与Dirac参数化的ResNet</a></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28418607", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 4, 
+            "title": "随笔：对比TensorFlow和PyTorch的基本操作", 
+            "content": "<p>通过对比TensorFlow和PyTorch 例子代码，能够快速理解两种工具的特点：</p><p>1 TensorFlow 是先构造Graph，在计算，Graph是静态的，不太符合一般开发人员习惯，sess.run挺特别的</p><p>2 Pytorch可以在运行时，按照顺序执行各个公式，更符合一般编程习惯</p><p>3 Pytorch整个来说，API定义不太严谨</p><p class=\"ztext-empty-paragraph\"><br/></p><p>import tensorflow as tf</p><p>import numpy as np</p><p><b>import torch</b></p><p><b>from torch.autograd import Variable</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p># First we set up the computational graph:</p><p class=\"ztext-empty-paragraph\"><br/></p><p># N is batch size; D_in is input dimension;</p><p># H is hidden dimension; D_out is output dimension.</p><p>N, D_in, H, D_out = 64, 1000, 100, 10</p><p class=\"ztext-empty-paragraph\"><br/></p><p># Create placeholders for the input and target data; these will be filled</p><p># with real data when we execute the graph.</p><p>x = tf.placeholder(tf.float32, shape=(None, D_in))</p><p>y = tf.placeholder(tf.float32, shape=(None, D_out))</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>x = Variable(torch.randn(N, D_in).type(dtype), requires_grad=False) #Pytorch</b></p><p><b>y = Variable(torch.randn(N, D_out).type(dtype), requires_grad=False) #Pytorch</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p># Create Variables for the weights and initialize them with random data.</p><p># A TensorFlow Variable persists its value across executions of the graph.</p><p>w1 = tf.Variable(tf.random_normal((D_in, H)))</p><p>w2 = tf.Variable(tf.random_normal((H, D_out)))</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>w1 = Variable(torch.randn(D_in, H).type(dtype), requires_grad=True)</b></p><p><b>w2 = Variable(torch.randn(H, D_out).type(dtype), requires_grad=True)</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p># Forward pass: Compute the predicted y using operations on TensorFlow Tensors.</p><p># Note that this code does not actually perform any numeric operations; it</p><p># merely sets up the computational graph that we will later execute.</p><p>h = tf.matmul(x, w1)</p><p>h_relu = tf.maximum(h, tf.zeros(1))</p><p>y_pred = tf.matmul(h_relu, w2)</p><p class=\"ztext-empty-paragraph\"><br/></p><p># Compute loss using operations on TensorFlow Tensors</p><p>loss = tf.reduce_sum((y - y_pred) ** 2.0)</p><p class=\"ztext-empty-paragraph\"><br/></p><p># Compute gradient of the loss with respect to w1 and w2.</p><p>grad_w1, grad_w2 = tf.gradients(loss, [w1, w2])</p><p class=\"ztext-empty-paragraph\"><br/></p><p># Update the weights using gradient descent. To actually update the weights</p><p># we need to evaluate new_w1 and new_w2 when executing the graph. Note that</p><p># in TensorFlow the the act of updating the value of the weights is part of</p><p># the computational graph; in PyTorch this happens outside the computational</p><p># graph.</p><p>learning_rate = 1e-6</p><p>new_w1 = w1.assign(w1 - learning_rate * grad_w1)</p><p>new_w2 = w2.assign(w2 - learning_rate * grad_w2)</p><p class=\"ztext-empty-paragraph\"><br/></p><p># Now we have built our computational graph, so we enter a TensorFlow session to</p><p># actually execute the graph.</p><p>with tf.Session() as sess:</p><p>    # Run the graph once to initialize the Variables w1 and w2.</p><p><a href=\"https://link.zhihu.com/?target=http%3A//sess.run\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">sess.run</a>(tf.global_variables_initializer())</p><p>    x_value = np.random.randn(N, D_in)</p><p>    y_value = np.random.randn(N, D_out)</p><p>    for _ in range(500):</p><p>        loss_value, _, _ = <a href=\"https://link.zhihu.com/?target=http%3A//sess.run\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">sess.run</a>([loss, new_w1, new_w2],</p><p>                                    feed_dict={x: x_value, y: y_value})</p><p>        print(loss_value)</p><p><b>for t in range(500):</b></p><p><b>    y_pred = <a href=\"https://link.zhihu.com/?target=http%3A//x.mm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">x.mm</a>(w1).clamp(min=0).mm(w2)</b></p><p><b>    loss = (y_pred - y).pow(2).sum()</b></p><p><b>    print(t, <a href=\"https://link.zhihu.com/?target=http%3A//loss.data\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">loss.data</a>[0])</b></p><p><b>    loss.backward()</b></p><p><b><a href=\"https://link.zhihu.com/?target=http%3A//w1.data\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">w1.data</a> -= learning_rate * <a href=\"https://link.zhihu.com/?target=http%3A//w1.grad.data\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">w1.grad.data</a></b></p><p><b><a href=\"https://link.zhihu.com/?target=http%3A//w2.data\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">w2.data</a> -= learning_rate * <a href=\"https://link.zhihu.com/?target=http%3A//w2.grad.data\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">w2.grad.data</a></b></p><p><b>    w1.grad.data.zero_()</b></p><p><b>    w2.grad.data.zero_()</b></p>", 
+            "topic": [
+                {
+                    "tag": "TensorFlow", 
+                    "tagLink": "https://api.zhihu.com/topics/20032249"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28310798", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 0, 
+            "title": "随笔：TensorFlow基础操作", 
+            "content": "<p>重新阅读了&#34;TensorFlow-Examples&#34;中的代码，将对basic_operations.py的体会，与大家分享一下（汉字部分是我的体会，TensorFlow缩写为TF）。</p><p>首先，总结一下：</p><p>1 TF常量定义</p><p>   常量名= tf.constant(常量)</p><p>2 TF变量定义</p><p>  变量名=  tf.placeholder(tf.数据类型)</p><p>3 操作定义</p><p>3.1 方式一：</p><p>      简单操作可以直接在sess.run(操作)运行</p><p>3.2 方式二：</p><p>      Step1：定义操作</p><p>                操作名=tf.操作。。。。</p><p>      Step2：sess.run（操作名）</p><p>              注：可通过 feed_dict={变量名: 值, 变量名: 值}的方式传递参数</p><p>其次：以下是代码，请参考      </p><p>&#39;&#39;&#39;</p><p>Basic Operations example using TensorFlow library.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Author: Aymeric Damien</p><p>Project: <a href=\"https://link.zhihu.com/?target=https%3A//github.com/aymericdamien/TensorFlow-Examples/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">aymericdamien/TensorFlow-Examples</a></p><p>&#39;&#39;&#39;</p><p class=\"ztext-empty-paragraph\"><br/></p><p>from __future__ import print_function</p><p class=\"ztext-empty-paragraph\"><br/></p><p>import tensorflow as tf</p><p class=\"ztext-empty-paragraph\"><br/></p><p># Basic constant operations</p><p># The value returned by the constructor represents the output</p><p># of the Constant op.</p><p>a = tf.constant(2)   <b>#TF的定义常量的方式，将TF作为一种特殊的编程语言来看待</b></p><p>b = tf.constant(3)</p><p class=\"ztext-empty-paragraph\"><br/></p><p># Launch the default graph.</p><p>with tf.Session() as sess:   <b> #TF自己运行的方式</b></p><p>    print(&#34;a=2, b=3&#34;)</p><p>    print(&#34;Addition with constants: %i&#34; % <a href=\"https://link.zhihu.com/?target=http%3A//sess.run\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">sess.run</a>(a+b))       <b>#TF执行加法操作</b>   </p><p>    print(&#34;Multiplication with constants: %i&#34; % <a href=\"https://link.zhihu.com/?target=http%3A//sess.run\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">sess.run</a>(a*b))    <b>#TF执行乘法操作</b> </p><p class=\"ztext-empty-paragraph\"><br/></p><p># Basic Operations with variable as graph input</p><p># The value returned by the constructor represents the output</p><p># of the Variable op. (define as input when running session)</p><p># tf Graph input</p><p>a = tf.placeholder(tf.int16) <b> #TF的定义变量的方式</b></p><p>b = tf.placeholder(tf.int16) <b>#TF的定义变量的方式</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p># Define some operations</p><p>add = tf.add(a, b)  <b> #TF的定义的加法操作</b></p><p>mul = tf.multiply(a, b) <b>#TF的定义的乘法操作</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p># Launch the default graph.</p><p>with tf.Session() as sess:  <b> #TF自己运行的方式</b></p><p>    # Run every operation with variable input</p><p>    print(&#34;Addition with variables: %i&#34; % <a href=\"https://link.zhihu.com/?target=http%3A//sess.run\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">sess.run</a>(add, feed_dict={a: 2, b: 3}))        <b>#add是要执行的， feed_dict={a: 2, b: 3}输入参数</b></p><p>    print(&#34;Multiplication with variables: %i&#34; % <a href=\"https://link.zhihu.com/?target=http%3A//sess.run\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">sess.run</a>(mul, feed_dict={a: 2, b: 3}))  <b>#mul是要执行的， feed_dict={a: 2, b: 3}输入参数</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p># ----------------</p><p># More in details:</p><p># Matrix Multiplication from TensorFlow official tutorial</p><p class=\"ztext-empty-paragraph\"><br/></p><p># Create a Constant op that produces a 1x2 matrix.  The op is</p><p># added as a node to the default graph.</p><p>#</p><p># The value returned by the constructor represents the output</p><p># of the Constant op.</p><p>matrix1 = tf.constant([[3., 3.]]) <b> #TF的定义1x2常量数组的方式</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p># Create another Constant that produces a 2x1 matrix.</p><p>matrix2 = tf.constant([[2.],[2.]]) <b>#TF的定义2x1常量数组的方式</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p># Create a Matmul op that takes &#39;matrix1&#39; and &#39;matrix2&#39; as inputs.</p><p># The returned value, &#39;product&#39;, represents the result of the matrix</p><p># multiplication.</p><p>product = tf.matmul(matrix1, matrix2) <b>#TF的定义的矩阵乘法操作</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p># To run the matmul op we call the session &#39;run()&#39; method, passing &#39;product&#39;</p><p># which represents the output of the matmul op.  This indicates to the call</p><p># that we want to get the output of the matmul op back.</p><p>#</p><p># All inputs needed by the op are run automatically by the session.  They</p><p># typically are run in parallel.</p><p>#</p><p># The call &#39;run(product)&#39; thus causes the execution of threes ops in the</p><p># graph: the two constants and matmul.</p><p>#</p><p># The output of the op is returned in &#39;result&#39; as a numpy `ndarray` object.</p><p>with tf.Session() as sess:</p><p>    result = <a href=\"https://link.zhihu.com/?target=http%3A//sess.run\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">sess.run</a>(product) #执行操作</p><p>    print(result)</p>", 
+            "topic": [
+                {
+                    "tag": "TensorFlow", 
+                    "tagLink": "https://api.zhihu.com/topics/20032249"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27555614", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 3, 
+            "title": "小技巧：TensorFlow调试", 
+            "content": "<p>在使用TensorFlow过程中，希望能够了解运行中的相关内容，目前使用以下两种方法：</p><p>1 使用变量 = Sess.run（变量,.....， feed_dict={}）的方法，获得运行中变量的内容</p><p>2 使用tfdbg, 参考TensorFLow中的example</p><p>from tensorflow.python import debug as tf_debug</p><p>sess = tf_debug.LocalCLIDebugWrapperSession(sess)<br/>sess.add_tensor_filter(&#34;has_inf_or_nan&#34;, tf_debug.has_inf_or_nan)</p><p>就可以通过CLI来在运行时，通过list_tensors、print_tensor等命令来观察相应的内容了。</p><p>以上，请参考。</p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "TensorFlow", 
+                    "tagLink": "https://api.zhihu.com/topics/20032249"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "天命", 
+                    "userLink": "https://www.zhihu.com/people/9684ae254ebb6fbe5ea682bdd10c0ffd", 
+                    "content": "怎样进行断点调试", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27389873", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 0, 
+            "title": "PyTorch修改模型参数", 
+            "content": "<p>在PyTorch中非常容易修改模型的参数，因此，很容易在基础网络模型的基础上进行，重新进行自己的模型训练，请参考下列将一个模型参数复制到另外一个模型的代码：</p><p>   trained_dict = train_model.state_dict()</p><p>   my_trained_dict = my_.state_dict()<br/>    for k, v in trained_dict.items():<br/>        for _k, _v in my_trained_dict.items():<br/>            if k.find(_k) &gt; 0:<br/>                size_ = v.size()<br/>                if len(size_) == 1:<br/>                    for k0 in range(size_[0]):<br/>                        _v[k0] = v[k0]<br/>                else:<br/>                    for k0 in range(size_[0]):<br/>                        for k1 in range(size_[1]):<br/>                            for k2 in range(size_[2]):<br/>                                for k3 in range(size_[3]):<br/>                                    _v[k0, k1, k2, k3] = v[k0, k1, k2, k3]</p><p>    my_model.load_state_dict(my_trained_dict)</p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "Torch (深度学习框架)", 
+                    "tagLink": "https://api.zhihu.com/topics/20047018"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26857560", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 0, 
+            "title": "通过线性回归小例子比较TensorFlow和Pytorch", 
+            "content": "<p><b>以下是个人使用TensorFlow和Pytorchf分别实现线性回归进行两种框架的比较，请多多指教</b></p><p><b>1 TensorFlow选择TensorFlow-Examples中的例程：</b></p><p>&#39;&#39;&#39;<br/>A linear regression learning algorithm example using TensorFlow library.<br/><br/>Author: Aymeric Damien<br/>Project: <a href=\"https://link.zhihu.com/?target=https%3A//github.com/aymericdamien/TensorFlow-Examples/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">aymericdamien/TensorFlow-Examples</a><br/>&#39;&#39;&#39;<br/><br/>from __future__ import print_function<br/><br/>import tensorflow as tf<br/>import numpy<br/>import matplotlib.pyplot as plt<br/>rng = numpy.random<br/><br/># Parameters<br/>learning_rate = 0.01<br/>training_epochs = 1000<br/>display_step = 50<br/><br/># Training Data<br/>train_X = numpy.asarray([3.3,4.4,5.5,6.71,6.93,4.168,9.779,6.182,7.59,2.167,<br/>                         7.042,10.791,5.313,7.997,5.654,9.27,3.1])<br/>train_Y = numpy.asarray([1.7,2.76,2.09,3.19,1.694,1.573,3.366,2.596,2.53,1.221,<br/>                         2.827,3.465,1.65,2.904,2.42,2.94,1.3])<br/>n_samples = train_X.shape[0]<br/><br/># tf Graph Input<br/>X = tf.placeholder(&#34;float&#34;)<br/>Y = tf.placeholder(&#34;float&#34;)<br/><br/># Set model weights<br/>W = tf.Variable(rng.randn(), name=&#34;weight&#34;)<br/>b = tf.Variable(rng.randn(), name=&#34;bias&#34;)<br/><br/># Construct a linear model<br/>pred = tf.add(tf.multiply(X, W), b)<br/><br/># Mean squared error<br/>cost = tf.reduce_sum(tf.pow(pred-Y, 2))/(2*n_samples)<br/># Gradient descent<br/>optimizer = tf.train.GradientDescentOptimizer(learning_rate).minimize(cost)<br/><br/># Initializing the variables<br/>init = tf.global_variables_initializer()<br/><br/># Launch the graph<br/>with tf.Session() as sess:<br/>    sess.run(init)<br/><br/>    # Fit all training data<br/>    for epoch in range(training_epochs):<br/>        for (x, y) in zip(train_X, train_Y):<br/>            sess.run(optimizer, feed_dict={X: x, Y: y})<br/><br/>        # Display logs per epoch step<br/>        if (epoch+1) % display_step == 0:<br/>            c = sess.run(cost, feed_dict={X: train_X, Y:train_Y})<br/>            print(&#34;Epoch:&#34;, &#39;%04d&#39; % (epoch+1), &#34;cost=&#34;, &#34;{:.9f}&#34;.format(c), \\<br/>                &#34;W=&#34;, sess.run(W), &#34;b=&#34;, sess.run(b))<br/><br/>    print(&#34;Optimization Finished!&#34;)<br/>    training_cost = sess.run(cost, feed_dict={X: train_X, Y: train_Y})<br/>    print(&#34;Training cost=&#34;, training_cost, &#34;W=&#34;, sess.run(W), &#34;b=&#34;, sess.run(b), &#39;\\n&#39;)<br/><br/>    # Graphic display<br/>    plt.plot(train_X, train_Y, &#39;ro&#39;, label=&#39;Original data&#39;)<br/>    plt.plot(train_X, sess.run(W) * train_X + sess.run(b), label=&#39;Fitted line&#39;)<br/>    plt.legend()<br/>    plt.show()<br/><br/>    # Testing example, as requested (Issue #2)<br/>    test_X = numpy.asarray([6.83, 4.668, 8.9, 7.91, 5.7, 8.7, 3.1, 2.1])<br/>    test_Y = numpy.asarray([1.84, 2.273, 3.2, 2.831, 2.92, 3.24, 1.35, 1.03])<br/><br/>    print(&#34;Testing... (Mean square loss Comparison)&#34;)<br/>    testing_cost = sess.run(<br/>        tf.reduce_sum(tf.pow(pred - Y, 2)) / (2 * test_X.shape[0]),<br/>        feed_dict={X: test_X, Y: test_Y})  # same function as cost above<br/>    print(&#34;Testing cost=&#34;, testing_cost)<br/>    print(&#34;Absolute mean square loss difference:&#34;, abs(<br/>        training_cost - testing_cost))<br/><br/>    plt.plot(test_X, test_Y, &#39;bo&#39;, label=&#39;Testing data&#39;)<br/>    plt.plot(train_X, sess.run(W) * train_X + sess.run(b), label=&#39;Fitted line&#39;)<br/>    plt.legend()<br/>    plt.show()</p><p>运行结果：</p><p>Epoch: 0050 cost= 0.078356884 W= 0.270469 b= 0.651292<br/>Epoch: 0100 cost= 0.078197494 W= 0.269227 b= 0.660223<br/>Epoch: 0150 cost= 0.078056574 W= 0.26806 b= 0.668623<br/>Epoch: 0200 cost= 0.077932023 W= 0.266961 b= 0.676524<br/>Epoch: 0250 cost= 0.077821963 W= 0.265929 b= 0.683954<br/>Epoch: 0300 cost= 0.077724658 W= 0.264957 b= 0.690943<br/>Epoch: 0350 cost= 0.077638686 W= 0.264043 b= 0.697516<br/>Epoch: 0400 cost= 0.077562720 W= 0.263184 b= 0.703698<br/>Epoch: 0450 cost= 0.077495560 W= 0.262376 b= 0.709513<br/>Epoch: 0500 cost= 0.077436239 W= 0.261615 b= 0.714982<br/>Epoch: 0550 cost= 0.077383809 W= 0.2609 b= 0.720127<br/>Epoch: 0600 cost= 0.077337489 W= 0.260228 b= 0.724965<br/>Epoch: 0650 cost= 0.077296577 W= 0.259595 b= 0.729515<br/>Epoch: 0700 cost= 0.077260435 W= 0.259 b= 0.733795<br/>Epoch: 0750 cost= 0.077228539 W= 0.258441 b= 0.737821<br/>Epoch: 0800 cost= 0.077200346 W= 0.257915 b= 0.741606<br/>Epoch: 0850 cost= 0.077175461 W= 0.25742 b= 0.745167<br/>Epoch: 0900 cost= 0.077153504 W= 0.256954 b= 0.748516<br/>Epoch: 0950 cost= 0.077134073 W= 0.256516 b= 0.751667<br/>Epoch: 1000 cost= 0.077116951 W= 0.256104 b= 0.75463<br/>Optimization Finished!<br/>Training cost= 0.077117 W= 0.256104 b= 0.75463 <br/><br/>Testing... (Mean square loss Comparison)<br/>Testing cost= 0.0779602<br/>Absolute mean square loss difference: 0.000843212<br/></p><p><b>2 使用pytorch实现上边的例程</b></p><p>from __future__ import print_function<br/>import numpy<br/>import matplotlib.pyplot as plt<br/><br/>import torch<br/>import torch.nn.functional as F<br/>from torch.autograd import Variable<br/><br/># Parameters<br/>learning_rate = 0.01<br/>training_epochs = 1000<br/>display_step = 50<br/><br/>_train_X = [3.3,4.4,5.5,6.71,6.93,4.168,9.779,6.182,7.59,2.167,<br/>            7.042,10.791,5.313,7.997,5.654,9.27,3.1]<br/><br/>_train_Y = [1.7,2.76,2.09,3.19,1.694,1.573,3.366,2.596,2.53,1.221,<br/>            2.827,3.465,1.65,2.904,2.42,2.94,1.3]<br/><br/>x = Variable(torch.FloatTensor(_train_X).view(len(_train_X),1), requires_grad=True)<br/><br/>y = Variable(torch.FloatTensor(_train_Y).view(len(_train_X),1), requires_grad=False)<br/>W = 0.0<br/>b = 0.0<br/><br/># Define model<br/>fc = torch.nn.Linear(1, 1)<br/><br/>for epoch in range(training_epochs):<br/><br/>    # Reset gradients<br/>    fc.zero_grad()<br/><br/>    # Forward pass<br/>    output = F.smooth_l1_loss(fc(x), y)<br/>    training_cost = output.data[0]<br/><br/>    # Backward pass<br/>    output.backward()<br/><br/>    # Apply gradients<br/>    for param in fc.parameters():<br/>        param.data.add_(-learning_rate * param.grad.data)<br/><br/>    # Stop criterion<br/>    if training_cost &lt; 1e-3:<br/>        break<br/>    W = fc.weight.data[0][0]<br/>    b = fc.bias.data[0]<br/>    if (epoch+1) % display_step == 0:<br/>        print(&#39;Epoch:{} cost={:.6f} W={:.6f} b={:.6f}\\t&#39;.format((epoch+1), training_cost, W, b))<br/><br/>print(&#34;Optimization Finished!&#34;)<br/>print(&#39;Training cost={:.6f} W={:.6f} b={:.6f}\\t&#39;.format(training_cost, W, b))<br/># Graphic display<br/>#<br/>train_X = numpy.asarray(_train_X)<br/>train_Y = numpy.asarray(_train_Y)<br/>plt.plot(train_X, train_Y, &#39;ro&#39;, label=&#39;Original data&#39;)<br/>plt.plot(train_X, W * train_X + b, label=&#39;Fitted line&#39;)<br/>plt.legend()<br/>plt.show()<br/><br/><br/># Testing example, as requested (Issue #2)<br/>_test_X = [6.83, 4.668, 8.9, 7.91, 5.7, 8.7, 3.1, 2.1]<br/><br/>_test_Y = [1.84, 2.273, 3.2, 2.831, 2.92, 3.24, 1.35, 1.03]<br/><br/>_x = Variable(torch.FloatTensor(_test_X).view(len(_test_X),1), requires_grad=True)<br/><br/>_y = Variable(torch.FloatTensor(_test_Y).view(len(_test_Y),1), requires_grad=False)<br/><br/>output = F.smooth_l1_loss(fc(_x), _y)<br/><br/>testing_cost = output.data[0]<br/><br/>print(&#34;&#34;)<br/><br/>print(&#34;Testing cost={:.6f}&#34;.format(testing_cost))<br/><br/>print(&#34;Loss difference: {:.6f}&#34;.format(abs(training_cost - testing_cost)))<br/><br/>test_X = numpy.asarray(_test_X)<br/>test_Y = numpy.asarray(_test_Y)<br/>plt.plot(test_X, test_Y, &#39;bo&#39;, label=&#39;Testing data&#39;)<br/>plt.plot(test_X, W * test_X + b, label=&#39;Fitted line&#39;)<br/>plt.legend()<br/>plt.show()</p><p>运行结果：</p><p>Epoch:50 cost=0.079686 W=0.281367 b=0.588013    <br/>Epoch:100 cost=0.079371 W=0.279615 b=0.600433    <br/>Epoch:150 cost=0.079091 W=0.277967 b=0.612121    <br/>Epoch:200 cost=0.078844 W=0.276415 b=0.623120    <br/>Epoch:250 cost=0.078625 W=0.274955 b=0.633472    <br/>Epoch:300 cost=0.078431 W=0.273581 b=0.643213    <br/>Epoch:350 cost=0.078259 W=0.272288 b=0.652380    <br/>Epoch:400 cost=0.078107 W=0.271071 b=0.661008    <br/>Epoch:450 cost=0.077972 W=0.269926 b=0.669127    <br/>Epoch:500 cost=0.077853 W=0.268848 b=0.676767    <br/>Epoch:550 cost=0.077747 W=0.267834 b=0.683957    <br/>Epoch:600 cost=0.077654 W=0.266879 b=0.690724    <br/>Epoch:650 cost=0.077571 W=0.265981 b=0.697092    <br/>Epoch:700 cost=0.077497 W=0.265136 b=0.703085    <br/>Epoch:750 cost=0.077432 W=0.264340 b=0.708725    <br/>Epoch:800 cost=0.077375 W=0.263592 b=0.714032    <br/>Epoch:850 cost=0.077324 W=0.262887 b=0.719027    <br/>Epoch:900 cost=0.077279 W=0.262224 b=0.723727    <br/>Epoch:950 cost=0.077239 W=0.261600 b=0.728151    <br/>Epoch:1000 cost=0.077203 W=0.261013 b=0.732314    <br/>Optimization Finished!<br/>Training cost=0.077203 W=0.261013 b=0.732314    <br/><br/>Testing cost=0.076686<br/>Loss difference: 0.000517<br/></p><p>结论：</p><p>1 从程序来看，pytorch更加自然随意，TensorFlow更偏向工程，个人更喜欢pytorch</p><p>2 另外，TensorFlow比Pytorch使用更多的GPU资源</p><p>详细比较请参考：<a href=\"https://link.zhihu.com/?target=http%3A//www.oschina.net/news/82411/pytorch-or-tensorflow-is-better\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">PyTorch 和 TensorFlow 哪个更好？看一线开发者怎么说</a></p>", 
+            "topic": [
+                {
+                    "tag": "Torch (深度学习框架)", 
+                    "tagLink": "https://api.zhihu.com/topics/20047018"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26593250", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 0, 
+            "title": "k-NN与K-means的维基百科的说明", 
+            "content": "In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification and regression. In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether k-NN is used for classification or regression:<br/><br/>    -In k-NN classification, the output is a class membership. An object is classified by a majority vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.<br/>    -In k-NN regression, the output is the property value for the object. This value is the average of the values of its k nearest neighbors.<br/><br/>k-means clustering is a method of vector quantization, originally from signal processing, that is popular for cluster analysis in data mining. k-means clustering aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster. This results in a partitioning of the data space into Voronoi cells.", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "概念的理解", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26684478", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 1, 
+            "title": "使用Lua实现梯度下降", 
+            "content": "<p>参考了<a href=\"https://link.zhihu.com/?target=http%3A//blog.csdn.net/yhao2014/article/details/51554910\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">梯度下降法及其Python实现</a>使用Lua重新实现了一下。</p><p>代码段一：改写上述链接的python代码,<br/></p><p> require &#34;math&#34;<br/><br/>x = {{1, 0., 3}, {1, 1., 3}, {1, 2., 3}, {1, 3., 2}, {1, 4., 4}}<br/><br/>y = {95.364, 97.217205, 75.195834, 60.105519, 49.342380}<br/><br/>-- 迭代阀值，当两次迭代损失函数之差小于该阀值时停止迭代  <br/>epsilon = 0.0001  <br/><br/>loss_thrd = 60<br/><br/>-- 学习率  <br/>alpha = 0.01  <br/>diff = {0, 0}  <br/>max_itor = 1000  <br/>error1 = 0  <br/>error0 = 0  <br/>cnt = 0  <br/>m = #x<br/>-- 初始化参数  <br/>theta0 = 0<br/>theta1 = 0<br/>theta2 = 0<br/><br/>while true do<br/><br/>    cnt = cnt + 1<br/>    -- 参数迭代计算<br/>    for i = 1, m do<br/>        -- 拟合函数为 y = theta0 * x[0] + theta1 * x[1] +theta2 * x[2]  <br/>        -- 计算残差  <br/>        diff[1] = (theta0 * x[i][1] + theta1 * x[i][2] + theta2 * x[i][3]) - y[i]<br/>        -- 梯度 = diff[0] * x[i][j]<br/>        theta0 = theta0 - alpha * diff[1] * x[i][1]<br/>        theta1 = theta1 - alpha * diff[1] * x[i][2]<br/>        theta2 = theta2 - alpha * diff[1] * x[i][3]<br/>    end<br/>    -- 计算损失函数  <br/>    error1 = 0  <br/>    for i =1, m do<br/>        t00 = (y[i]-(theta0  * x[i][1] + theta1 * x[i][2] + theta2 * x[i][3]))<br/>        error1 = error1 + (t00 * t00)/2  <br/>    end<br/><br/>    if math.abs(error1) &lt; math.abs(loss_thrd) then<br/>        break<br/>    else<br/>        error0 = error1  <br/>    end<br/>    --print(string.format(&#39; theta0 : %f, theta1 : %f, theta2 : %f, error1 : %f&#39;, theta0, theta1, theta2, error1))<br/>end <br/>print(string.format(&#39;Done: theta0 : %f, theta1 : %f, theta2 : %f, error : %f &#39;, theta0, theta1, theta2, error1))<br/>print(string.format(&#39;迭代次数: %d&#39;, cnt))</p><p><br/>代码段二：上述代码感觉还不是典型的随机梯度下降代码，以下是改写的代码</p><p>error1 = 0  <br/>error0 = 0  <br/>cnt = 0<br/>-- 初始化参数 <br/>theta0 = 0<br/>theta1 = 0<br/>theta2 = 0<br/><br/>math.randomseed(os.time())<br/>while true do<br/><br/>    cnt = cnt + 1<br/>    --   <br/>    index = math.random(5)<br/><br/>    -- 拟合函数为 y = theta0 * x[0] + theta1 * x[1] +theta2 * x[2]  <br/>    -- 计算残差(偏导)<br/>    diff[1] = (theta0 * x[index][1] + theta1 * x[index][2] + theta2 * x[index][3]) - y[index]<br/>    -- 梯度 = diff[0] * x[i][j]<br/>    theta0 = theta0 - alpha * diff[1] * x[index][1]<br/>    theta1 = theta1 - alpha * diff[1] * x[index][2]<br/>    theta2 = theta2 - alpha * diff[1] * x[index][3]<br/><br/>    -- 计算损失函数<br/><br/>    error1 = 0  <br/>    for i =1, m do<br/>        t00 = (y[i]-(theta0  * x[i][1] + theta1 * x[i][2] + theta2 * x[i][3]))<br/>        error1 = error1 + (t00 * t00)/2  <br/>    end<br/><br/><br/>    if math.abs(error1) &lt; math.abs(loss_thrd) then<br/>        break<br/>    else<br/>        error0 = error1  <br/>    end<br/>    --print(string.format(&#39; [%d  %d ] theta0 : %f, theta1 : %f, theta2 : %f, error1 : %f&#39;, cnt, index, theta0, theta1, theta2, error1))<br/>end <br/>print(string.format(&#39;Done: theta0 : %f, theta1 : %f, theta2 : %f, error : %f &#39;, theta0, theta1, theta2, error1))<br/>print(string.format(&#39;迭代次数: %d&#39;, cnt))</p><p>代码段三：想了想，按照公式实现一下批量梯度下降算法</p><p>error1 = 0  <br/>error0 = 0  <br/>-- 初始化参数  <br/>theta0 = 0<br/>theta1 = 0<br/>theta2 = 0<br/>cnt = 0<br/>while true do<br/><br/>    cnt = cnt + 1<br/><br/>    -- 参数迭代计算<br/>    sum_theta0 = 0.0<br/>    sum_theta1 = 0.0<br/>    sum_theta2 = 0.0<br/>    for i = 1, m do<br/>        -- 拟合函数为 y = theta0 * x[0] + theta1 * x[1] +theta2 * x[2]  <br/>        -- 计算残差(偏导)<br/>        diff[1] = (theta0 * x[i][1] + theta1 * x[i][2] + theta2 * x[i][3]) - y[i]<br/>        -- 梯度 = diff[0] * x[i][j]<br/>        sum_theta0 = sum_theta0 - alpha * diff[1] * x[i][1]<br/>        sum_theta1 = sum_theta1 - alpha * diff[1] * x[i][2]<br/>        sum_theta2 = sum_theta2 - alpha * diff[1] * x[i][3]<br/>    end<br/>    theta0 = theta0 + sum_theta0 / m<br/>    theta1 = theta1 + sum_theta1 / m<br/>    theta2 = theta2 + sum_theta2 / m<br/>    -- 计算损失函数<br/>    error1 = 0  <br/>    for i =1, m do<br/>        t00 = (y[i]-(theta0  * x[i][1] + theta1 * x[i][2] + theta2 * x[i][3]))<br/>        error1 = error1 + (t00 * t00)/2  <br/>    end<br/><br/>    if math.abs(error1) &lt; math.abs(loss_thrd) then<br/>        break<br/>    else<br/>        error0 = error1  <br/>    end<br/>    --print(string.format(&#39; %d  %d : theta0 : %f, theta1 : %f, theta2 : %f, error1 : %f&#39;, cnt, m, theta0, theta1, theta2, error1))<br/>end <br/>print(string.format(&#39;Done: theta0 : %f, theta1 : %f, theta2 : %f, error : %f &#39;, theta0, theta1, theta2, error1))<br/>print(string.format(&#39;迭代次数: %d&#39;, cnt))</p><br/><p>以下是三段代码执行结果：</p><p>$ th gd__0.lua <br/>Done: theta0 : 94.922311, theta1 : -13.257404, theta2 : 2.229821, error : 59.999908     <br/>迭代次数: 1553    <br/>Done: theta0 : 94.407306, theta1 : -13.084272, theta2 : 2.370412, error : 59.984057     <br/>迭代次数: 8337    <br/>Done: theta0 : 94.319786, theta1 : -13.001983, theta2 : 2.327799, error : 59.999851     <br/>迭代次数: 8195    <br/></p><p>问题：</p><p>1 为什么代码段一迭代次数最少？ <br/></p><p>参考：</p><p>1<a href=\"https://link.zhihu.com/?target=http%3A//blog.csdn.net/yhao2014/article/details/51554910\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">梯度下降法及其Python实现 </a></p><p>2  <a href=\"https://link.zhihu.com/?target=http%3A//blog.csdn.net/lilyth_lilyth/article/details/8973972\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">随机梯度下降（Stochastic gradient descent）和 批量梯度下降（Batch gradient descent ）的公式对比、实现对比            \n        </a>\n    \n</p>", 
+            "topic": [
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "Torch (深度学习框架)", 
+                    "tagLink": "https://api.zhihu.com/topics/20047018"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "flowercpu", 
+                    "userLink": "https://www.zhihu.com/people/c6d7467ce5ebc0cd65c8f783e33497e5", 
+                    "content": "太专业了，感觉自己是文科生。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/neujiasj-jiazi"
+}

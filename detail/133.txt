@@ -1,0 +1,988 @@
+{
+    "title": "路遥的投资成长史", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/neko-44-39", 
+        "https://www.zhihu.com/people/yi-yi-12-59-96", 
+        "https://www.zhihu.com/people/ou-yang-yao-ling", 
+        "https://www.zhihu.com/people/ke-la-wu-cheng", 
+        "https://www.zhihu.com/people/tai-keng", 
+        "https://www.zhihu.com/people/wo-shi-ceng-zhu", 
+        "https://www.zhihu.com/people/dong-13-20", 
+        "https://www.zhihu.com/people/xin-zhong-you-wo-lun-20", 
+        "https://www.zhihu.com/people/zhang-bai-ren-73-91", 
+        "https://www.zhihu.com/people/zhang-yue-sheng-92", 
+        "https://www.zhihu.com/people/li-yi-heng-60-80", 
+        "https://www.zhihu.com/people/wo-shi-zhen-ni-shi-shui-70", 
+        "https://www.zhihu.com/people/cowseden", 
+        "https://www.zhihu.com/people/yu-jia-10-24", 
+        "https://www.zhihu.com/people/shan-you-mu-xi-43-96", 
+        "https://www.zhihu.com/people/jiao-sha-lai-zhao-76", 
+        "https://www.zhihu.com/people/yi-qu-chi-shang-luo", 
+        "https://www.zhihu.com/people/yi-han-54-25", 
+        "https://www.zhihu.com/people/wu-xiao-shuai-16", 
+        "https://www.zhihu.com/people/lucillegyl", 
+        "https://www.zhihu.com/people/mxkscg", 
+        "https://www.zhihu.com/people/fu-zi-62", 
+        "https://www.zhihu.com/people/bruceray", 
+        "https://www.zhihu.com/people/cyc315", 
+        "https://www.zhihu.com/people/li-long-57-9", 
+        "https://www.zhihu.com/people/mina-31-17", 
+        "https://www.zhihu.com/people/bai-ma-xiao-xi-feng-16-20", 
+        "https://www.zhihu.com/people/xiao-tai-yang-85-14", 
+        "https://www.zhihu.com/people/chen-zong-86-21", 
+        "https://www.zhihu.com/people/meng-xiang-chao-30", 
+        "https://www.zhihu.com/people/liu-chi-24-41", 
+        "https://www.zhihu.com/people/peking-95", 
+        "https://www.zhihu.com/people/lin-du-43", 
+        "https://www.zhihu.com/people/li655189", 
+        "https://www.zhihu.com/people/li-wen-qi-14-93", 
+        "https://www.zhihu.com/people/cao-xi-61-34-71", 
+        "https://www.zhihu.com/people/lao-liu-11-32", 
+        "https://www.zhihu.com/people/lu-yan-78-50", 
+        "https://www.zhihu.com/people/les2045", 
+        "https://www.zhihu.com/people/jia-you-sha-gou", 
+        "https://www.zhihu.com/people/huai-nian-guo-qu-39", 
+        "https://www.zhihu.com/people/gao-si-te-1", 
+        "https://www.zhihu.com/people/hgrtwh", 
+        "https://www.zhihu.com/people/la-la-97-73-35", 
+        "https://www.zhihu.com/people/fu-11-99", 
+        "https://www.zhihu.com/people/zzx211314", 
+        "https://www.zhihu.com/people/mao-zhong-hua-31", 
+        "https://www.zhihu.com/people/sheng-zhe-65", 
+        "https://www.zhihu.com/people/jin-wan-da-lao-hu-94-54", 
+        "https://www.zhihu.com/people/yang-chen-16-39-79", 
+        "https://www.zhihu.com/people/da-quan-quan-98-46", 
+        "https://www.zhihu.com/people/si-xi-56-53", 
+        "https://www.zhihu.com/people/zheng-quan-zi-xun-pin-dao", 
+        "https://www.zhihu.com/people/wu-yi-62-22", 
+        "https://www.zhihu.com/people/xia-qing-95-41-24", 
+        "https://www.zhihu.com/people/lo-yi-40", 
+        "https://www.zhihu.com/people/zhao-jing-27-2", 
+        "https://www.zhihu.com/people/alicedream-67", 
+        "https://www.zhihu.com/people/wu-meng-yu-69-69", 
+        "https://www.zhihu.com/people/han-yin-28-44", 
+        "https://www.zhihu.com/people/pan-yuan-hong-2", 
+        "https://www.zhihu.com/people/wang-yi-10-7", 
+        "https://www.zhihu.com/people/dean-98-10", 
+        "https://www.zhihu.com/people/duowenzhangzhishi", 
+        "https://www.zhihu.com/people/hei-xin-xiao-pi-ao", 
+        "https://www.zhihu.com/people/david-98-42", 
+        "https://www.zhihu.com/people/swenney817", 
+        "https://www.zhihu.com/people/yifan-12", 
+        "https://www.zhihu.com/people/ww-jj", 
+        "https://www.zhihu.com/people/dxdaiaiyun", 
+        "https://www.zhihu.com/people/hou-shuang-xi", 
+        "https://www.zhihu.com/people/zhou-rui-80-73", 
+        "https://www.zhihu.com/people/huang-wei-bin-99-60", 
+        "https://www.zhihu.com/people/joyzy", 
+        "https://www.zhihu.com/people/long-long-long-66-85", 
+        "https://www.zhihu.com/people/chihang-yim-36", 
+        "https://www.zhihu.com/people/gao-xiao-feng-37", 
+        "https://www.zhihu.com/people/sha-mo-zhi-hu-41", 
+        "https://www.zhihu.com/people/lily7868", 
+        "https://www.zhihu.com/people/yang-ye-79", 
+        "https://www.zhihu.com/people/zhang-yi-fan-48", 
+        "https://www.zhihu.com/people/x-w-35-68", 
+        "https://www.zhihu.com/people/li-sheng-74-15", 
+        "https://www.zhihu.com/people/wang-er-xiao-49-16", 
+        "https://www.zhihu.com/people/zheng-bo-hong-55", 
+        "https://www.zhihu.com/people/li-qi-85-30", 
+        "https://www.zhihu.com/people/kk-kk-10", 
+        "https://www.zhihu.com/people/qian-yu-18-68-14", 
+        "https://www.zhihu.com/people/li-lmsoya", 
+        "https://www.zhihu.com/people/yang-xiao-fei-40", 
+        "https://www.zhihu.com/people/shengli-lin-6", 
+        "https://www.zhihu.com/people/nan-nan-29-10", 
+        "https://www.zhihu.com/people/songvirgo", 
+        "https://www.zhihu.com/people/wang-er-bu", 
+        "https://www.zhihu.com/people/zhu-tao-69", 
+        "https://www.zhihu.com/people/yu-huan-16", 
+        "https://www.zhihu.com/people/luo-hua-sui-feng", 
+        "https://www.zhihu.com/people/xu-jie-67-22", 
+        "https://www.zhihu.com/people/liu-jun-wei-94", 
+        "https://www.zhihu.com/people/dongsheng2000", 
+        "https://www.zhihu.com/people/bow-67", 
+        "https://www.zhihu.com/people/wo-zai-yue-xia-yang-wang-61", 
+        "https://www.zhihu.com/people/ran-si-yue", 
+        "https://www.zhihu.com/people/leo-jack", 
+        "https://www.zhihu.com/people/zhou-zhou-67-44", 
+        "https://www.zhihu.com/people/liu-zhen-yu-53", 
+        "https://www.zhihu.com/people/mai-ba-cai-dao-da-jia-qu", 
+        "https://www.zhihu.com/people/hai-mian-bao-bao-15-79", 
+        "https://www.zhihu.com/people/cheng-jm-66", 
+        "https://www.zhihu.com/people/cheng-wei-99", 
+        "https://www.zhihu.com/people/zhang-rui-57-64", 
+        "https://www.zhihu.com/people/ding-yong-an", 
+        "https://www.zhihu.com/people/jay-medusa", 
+        "https://www.zhihu.com/people/yafei-fei-fei-fei", 
+        "https://www.zhihu.com/people/dong-xiao-san-59", 
+        "https://www.zhihu.com/people/lan-mao-xiao-zheng-tai", 
+        "https://www.zhihu.com/people/xue-hua-ye-wu", 
+        "https://www.zhihu.com/people/howard-wei", 
+        "https://www.zhihu.com/people/liang-hong-yipie-49", 
+        "https://www.zhihu.com/people/liu-heng-33-2", 
+        "https://www.zhihu.com/people/wu-zuo-dong-88", 
+        "https://www.zhihu.com/people/bi-hu-39", 
+        "https://www.zhihu.com/people/a-di-li-73", 
+        "https://www.zhihu.com/people/leooon", 
+        "https://www.zhihu.com/people/weiqi-yin-47", 
+        "https://www.zhihu.com/people/nkwk", 
+        "https://www.zhihu.com/people/wang-yao-53-2", 
+        "https://www.zhihu.com/people/xie-ang-38", 
+        "https://www.zhihu.com/people/KUROROO", 
+        "https://www.zhihu.com/people/mu-xin-82", 
+        "https://www.zhihu.com/people/ding-shao-65-62", 
+        "https://www.zhihu.com/people/mo-han-37-97", 
+        "https://www.zhihu.com/people/nei-si-zhu-15", 
+        "https://www.zhihu.com/people/chen-dong-qing-25", 
+        "https://www.zhihu.com/people/chen-jin-jian-95", 
+        "https://www.zhihu.com/people/yang-huai-de", 
+        "https://www.zhihu.com/people/xiao-an-wen-92", 
+        "https://www.zhihu.com/people/da-shuai-58-36", 
+        "https://www.zhihu.com/people/sunshiny", 
+        "https://www.zhihu.com/people/song-rui-jian", 
+        "https://www.zhihu.com/people/lu-zhi-wei-78-56", 
+        "https://www.zhihu.com/people/jin-cong-1", 
+        "https://www.zhihu.com/people/Trader43", 
+        "https://www.zhihu.com/people/zjbzhs", 
+        "https://www.zhihu.com/people/huangmaolaoshi", 
+        "https://www.zhihu.com/people/ji-wu-shang-35", 
+        "https://www.zhihu.com/people/been-81", 
+        "https://www.zhihu.com/people/ma-li-ao-6-28", 
+        "https://www.zhihu.com/people/qi-mou-81", 
+        "https://www.zhihu.com/people/ssshang-meracle", 
+        "https://www.zhihu.com/people/guo-zhe-lin", 
+        "https://www.zhihu.com/people/chen-jun-kai-84", 
+        "https://www.zhihu.com/people/chen-mao-mao-9-25", 
+        "https://www.zhihu.com/people/xia-mi-001", 
+        "https://www.zhihu.com/people/lu-xiao-yuan-92", 
+        "https://www.zhihu.com/people/liu-bai-90-45", 
+        "https://www.zhihu.com/people/wang-bo-20-58", 
+        "https://www.zhihu.com/people/dan-zi-jun-41", 
+        "https://www.zhihu.com/people/woigakki", 
+        "https://www.zhihu.com/people/hu-luo-bu-xiong", 
+        "https://www.zhihu.com/people/tdytdy", 
+        "https://www.zhihu.com/people/ma-wei-sen", 
+        "https://www.zhihu.com/people/wei-yi-ran-16-76", 
+        "https://www.zhihu.com/people/zheng-shu-zhu-71", 
+        "https://www.zhihu.com/people/feng-zhe-xin", 
+        "https://www.zhihu.com/people/absolute-lee", 
+        "https://www.zhihu.com/people/zhou-xing-xing-60-51", 
+        "https://www.zhihu.com/people/Livermorelin", 
+        "https://www.zhihu.com/people/WorldTrick", 
+        "https://www.zhihu.com/people/chang-gu-chuan-zhong", 
+        "https://www.zhihu.com/people/ko-ni-55-32", 
+        "https://www.zhihu.com/people/wu-fan-30-59", 
+        "https://www.zhihu.com/people/shi-meng-mo-25", 
+        "https://www.zhihu.com/people/wu-tong-guo-zi", 
+        "https://www.zhihu.com/people/tbsamsara", 
+        "https://www.zhihu.com/people/sisyphus-18", 
+        "https://www.zhihu.com/people/ping-an-shi-fu-16", 
+        "https://www.zhihu.com/people/chen-da-cheng-85", 
+        "https://www.zhihu.com/people/fongang"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57677314", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 1, 
+            "title": "关于浙江美大的几点思考（一）", 
+            "content": "<p>事件：</p><p>2019年2月20日浙江美大发布业绩快报，2018年度,公司总体经营状况良好，销售持续增长，盈利能力稳步提升。实现营业总收入1,400,899,590.33 元，较上年同期增长36.49%；实现归属于上市公司股东的净利润378,045,855.58元，较上年同期增长23.87%。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-dc5d4740bb784f0b4f7406aa34a9f0c4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"218\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-dc5d4740bb784f0b4f7406aa34a9f0c4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;218&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"218\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-dc5d4740bb784f0b4f7406aa34a9f0c4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-dc5d4740bb784f0b4f7406aa34a9f0c4_b.jpg\"/></figure><p>一、 营收、利润继续高增长，但增速在放缓</p><p>查看浙江美大的报表，Q4收入和利润端增速放缓，公司Q4收入端增速为26.15%，而公司2018年Q1-3收入增速为42.46%，Q4利润增速为5.65%，Q1-3利润增速为36.87%。</p><p>厨电产品受地产行业增速变化影响非常大，具有非常强的“后地产”属性。厨电在消购置时间和数量上与地产相关度非常高，大致上较地产销售的滞后约为 3-4个季度。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-094f2c65cb00760120b3ae56075f6b53_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"480\" data-rawheight=\"288\" class=\"origin_image zh-lightbox-thumb\" width=\"480\" data-original=\"https://pic4.zhimg.com/v2-094f2c65cb00760120b3ae56075f6b53_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;480&#39; height=&#39;288&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"480\" data-rawheight=\"288\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"480\" data-original=\"https://pic4.zhimg.com/v2-094f2c65cb00760120b3ae56075f6b53_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-094f2c65cb00760120b3ae56075f6b53_b.jpg\"/></figure><p>我拉了一下商品房的销售数据，可以很清楚的看到，商品房的销售增速在过去的两年持续下滑。2018年，商品房销售面积171654万平方米，同比增长1.3%，增速比1-11月份回落0.1个百分点。值得关注的是，12月单月销售面积同比增速为0.9%，增速由负转正，结束了连续三个月的负增长。</p><p>地产12月单月增速的变化，是因为年底房企进入业绩冲刺期导致的，还是政策逐步放松导致的我没有能力去判断。因此，现在谈地产销售拐点为时尚早，那么带动的厨电整个行业的增速变化也尚不可预知。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0b17507cc6545e34a323a903cc7c82e7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"336\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic4.zhimg.com/v2-0b17507cc6545e34a323a903cc7c82e7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;336&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"336\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic4.zhimg.com/v2-0b17507cc6545e34a323a903cc7c82e7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0b17507cc6545e34a323a903cc7c82e7_b.jpg\"/></figure><p>翻看浙江美大近两年的营收情况，却表现出非常高的增长速度，这和地产销售近两年的增速下滑出现了非常大的背离。关于这个高增速，浙江美大2017年报中做出解释：</p><p><i>集成灶作为厨电行业中的细分行业，通过2016、2017连续两年的高增长，已经从导入期逐步过渡到初级成长期。随着市场教育成效的进一步显现，未来两年集成灶市场仍将保持高速发展。</i></p><p><i>根据奥维云网（AVC）监测数据显示，2017年厨电销售额达到了794亿元，同比增长了14.3%，预计2018年将突破千亿大关。值得关注的是，传统分体式油烟机的销售额为414.4亿，同比增长9.7%；燃气灶的销售额为215.3亿，同比增长8.1%。而同属厨电行业的集成灶细分领域却以50%的增速远远领先于行业整体增速。</i></p><p>浙江美大，作为集成灶的发明者，行业龙头，受益于整个行业的高速增长红利，逻辑上是完全能解释通的。</p><p>浙江美大过去两年的高速增长，作为“后地产属性”的企业，在地产这条腿瘸了的背景下，只依靠行业规模快速扩张这一条腿走路，同样有非常高的加速度。地产对浙江美大的营收变化的影响有，但我们的关注点应该放在集成灶整个行业的发展上和行业内部的竞争上。</p><p>集成灶这个行业由导入期逐步过渡到初级成长期，超高的营收增长是不可能持续的，一定会逐渐降速的，只不过这个降速在今年非常明显。4个季度营收增速分别是53%、49%、31%、26%，但是依靠目前的信息，尚无法判断是整个行业的增速在下降，还是因为随着越来越多的品牌进入导致的用户分流。</p><p><b>二、 低销售费用，高利润率</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-74377fc97a6b9b4c302c9c806b698fbe_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"238\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-74377fc97a6b9b4c302c9c806b698fbe_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;238&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"238\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-74377fc97a6b9b4c302c9c806b698fbe_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-74377fc97a6b9b4c302c9c806b698fbe_b.jpg\"/></figure><p>浙江美大销售毛利率超50%，净利率超30%。这么高的利润率，是因为行业壁垒高么？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-41e9ba06c0180df088b692ff747323f7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"107\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic4.zhimg.com/v2-41e9ba06c0180df088b692ff747323f7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;107&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"107\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic4.zhimg.com/v2-41e9ba06c0180df088b692ff747323f7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-41e9ba06c0180df088b692ff747323f7_b.jpg\"/></figure><p>根据中怡康调研，目前集成灶行业的涉及企业在300家左右，同时进入企业在不断增多。我又去京东上搜了一下集成灶，线上能够销售的品牌235个，可见集成灶这个行业的进入壁垒并不高，那为什么能有这么高的利润率？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ad91f0aa6125a029c1d476e740027d98_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"551\" data-rawheight=\"323\" class=\"origin_image zh-lightbox-thumb\" width=\"551\" data-original=\"https://pic1.zhimg.com/v2-ad91f0aa6125a029c1d476e740027d98_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;551&#39; height=&#39;323&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"551\" data-rawheight=\"323\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"551\" data-original=\"https://pic1.zhimg.com/v2-ad91f0aa6125a029c1d476e740027d98_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ad91f0aa6125a029c1d476e740027d98_b.jpg\"/></figure><p>对比终止IPO的火星人，我们可以看到，火星人的毛利率同样很高，净利率相差甚远。所以，我们浅显的推断，集成灶这个行业，在当前这个发展阶段，就是有较高毛利率这个特点。</p><p>那么，净利率这么高是怎么做到的呢？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-60dee57ea3c56c0bc9a234a5dec65a17_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"116\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic4.zhimg.com/v2-60dee57ea3c56c0bc9a234a5dec65a17_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;116&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"116\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic4.zhimg.com/v2-60dee57ea3c56c0bc9a234a5dec65a17_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-60dee57ea3c56c0bc9a234a5dec65a17_b.jpg\"/></figure><p>我调取了浙江美大、华帝股份、老板电器还有IPO终止的火星人的销售费用率，发现美大是最低的。根据可以查的研报，“截止2018年8月，公司全国已拥有1，200多家一级经销商（区域经销商）和2，000多个营销终端，同时逐步进入国美、苏宁、五星、红星美凯龙等等KA卖场，向一二线城市渗透，拓展低饱和市场。”</p><p> 美大这种销售模式是偏扁平化的，没有省市一二三级代理关系，不像老板和华帝，省市代理，级级下设，这种模式的优点是能够有效将降低销售费用，经销商的利润也较高。</p><p><b>总结上面两点，还是行业发展初级阶段带来的红利，集成灶行业有着较高的增速，但是美大四季度的增速下滑是由于整行业的增速下滑还是因为竞争带来的变动尚不可知，需要等待年报及一季报的信息进行验证。地产的变动暂时不作为主要影响因素进行考虑。另外，美大作为集成灶行业的创造者，本身定价权方面存在优势，而且行业初期竞争不充分，毛利率较高。得益于它的渠道销售方式，销售费用率较低，净利润率较高。这是好的一点，也是存在隐患的一个地方，随着行业的发展，进入壁垒低，竞争愈加激烈，还是会有发生价格战的可能，到时候净利率的变化可能会对美大产生较大的影响，我们需要持续跟踪观察。</b></p><p>下一篇聊聊行业竞争的情况，美大高分红和减持同时发生的矛盾点，以及估值。</p>", 
+            "topic": [
+                {
+                    "tag": "A股（人民币普通股票）", 
+                    "tagLink": "https://api.zhihu.com/topics/19570359"
+                }, 
+                {
+                    "tag": "股票", 
+                    "tagLink": "https://api.zhihu.com/topics/19559840"
+                }, 
+                {
+                    "tag": "上市公司", 
+                    "tagLink": "https://api.zhihu.com/topics/19554320"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "欧阳尘埃", 
+                    "userLink": "https://www.zhihu.com/people/e753b596c45d168b9f6ab353c7b08592", 
+                    "content": "老师写得非常专业，有深度", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>这么好的文章没人顶，贵乎真的要完了。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/56741479", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 3, 
+            "title": "献给我的情人A股", 
+            "content": "<p>       这是一个最好的时代，也是一个最坏的时代；</p><p>       这是一个智慧的年代，这是一个愚蠢的年代；</p><p>       这是一个信任的时期，这是一个怀疑的时期；</p><p>       这是一个光明的季节，这是一个黑暗的季节；</p><p>       这是希望之春，这是失望之冬； </p><p>       这是狄更斯《双城记》的开头，用来形容过去一年的A股市场却再贴切不过。整一年近乎单边下跌的行情令市场里对大多数的参与者都开始怀疑人生，当然，也包括我。不过，唯一却最重要的好消息是，众多好票变便宜了。</p><p>       2018年，是我转型买方的第一年。截至今天，我的产品刚好运作满一周年，收益7.6%，同期大盘下跌14.61%，峰值收益12%，最大回撤没有超过6%。</p><p>       自我接触这个市场以来，也过了几载春秋，见识过大盘暴涨也见识过千股跌停。最初作为小散亲身参与过疯狂的牛市，后来在券商，跳出这个市场，以旁观者的视角看到了在这个市场里面活跃着的普罗大众。</p><p>       这几年，我一直没有停止学习，也没有停止思考，始终在寻找属于我自己的投资之道。学习过正统的价值投资，也曾拜师丈量过技术指标，曾一度沉迷量化，对着回测结果自以为找到了圣杯，也因为超短交易、迷恋小盘股吃过大亏。</p><p>       我很庆幸，经历过这一波大熊市我还能存活于这个市场之中。也不后悔，在我券商之路平步青云的时候选择加入买方。</p><p>       这几年，对股票的研究占据了我生活的绝大部分时间，实话说，非常痛苦。这种痛苦，不是来源于身体的疲惫，而是来源于对所谓的答案的求之不得。罗素曾言“参差多态乃是生活的本源”，这个市场里面的交易，也是因为众多投资者投资理念、客观条件、目标不同而产生的。作为市场里的沧海一粟，作为一个完完全全的信息接受者，作为一个各方面资源都不占优的弱者，如何能够战胜市场，这个问题一度让我抓狂。  </p><p>       好在随着阅历的提升和经验的积累，对如何战胜市场这个终极难题，我也终于有了一些暂时性的答案和见解，在这里我把我这些年的思索过程跟大家做一些简单分享，也算作给自己做一个总结。</p><p>       国内外的大师们一直在努力提出各种理论对股价进行解释，从CAPM资产定价模型到尤金法玛的三因子再到后来的种种理论。我大学的毕业论文就是基于A股市场将Fama-French三因子模型进行了修改和延伸，通过回测和理论修订，在市场资产组合(Rm− Rf)、市值因子(SMB)、账面市值比因子(HML)这三个因子的基础上，引进了另外两个对股价影响最大的因子，形成了一个五因子模型。</p><p>       后来，在实际操作的过程中，发现无论再怎么修改因子权重，再怎么替换因子，有一段时间不仅在亏钱，还大幅跑输指数。我开始怀疑这一整套理论体系的正确性，因为整个理论的大前提是有效市场假说。在这个假设之下，能够给出股票价格计算方法（前提是我们可以用未来股利的折现值来定义当前公司的合理价值），但其无法解释的是，在短暂的市场行情中，为何股价会在一定程度上偏离公司的“合理”价值。</p><p>       所以我走向了另外一个极端，A股市场是政策市、是投机市，这个市场是偏无效的，所以有效市场理论完全不适用。然后我就转向了小盘股投机，在2014-2016年的市场里面，小盘股因为有壳价值和易操纵的特性，股价经常出现暴动，我也用小盘股策略赚了一些钱。结果2017年，在监管慢牛的号召下，一波气势如虹的白马蓝筹行情展开，许多白马股都走出了翻倍行情甚至更多，同时小盘股被虐的体无完肤。</p><p>       我又调整思路，开始重读价值投资。价值投资理论中，最为核心的两个部分就是估值与盈利。简单地说，价值投资理论认为我们应该用便宜的价格去买入质地最好、盈利能力最强的公司。</p><p>       虽然每个大师在选股时考虑的具体指标是不尽相同的，但其背后的理念都是价值投资理论，只不过不同的大师以不同的指标来评估一家企业是否足够便宜、是否足够优质。如彼得·林奇使用 PEG 代替 PE；詹姆斯·奥肖内西则认为在对企业估值时更应该看重市销率和市现率等指标。</p><p>        价值投资在A股市场里的应用，却不这么简单。以爱尔眼科为例，一个被许多人认可的好公司，市盈率高达70X，2017年-2018年涨幅50%，在2018年这种比较悲观的行情下，涨幅依然有25%，最大的调整幅度也不过20%。这不算好股票么？不算有价值么？但传统的价值投资是不会选出这类票的。</p><p>       所以，传统价值投资依然有它的固有缺陷，我再一次陷入迷茫。</p><p>       再后来一次偶然的机会，我重读戴维斯双击，可能是积累的东西够了，在那么一瞬间，有所感悟，很多理论和经验能够串联起来了。</p><p>       股价是什么？</p><p>       Price=EPS*PE。</p><p>       EPS是每股收益，代表的是这个企业的盈利能力。但如果仅仅停留在数字层面就太浅显了，更重要的是要明白这个数字是怎么得出来的。看一个企业不仅仅是看到报表，梗要研究透企业是怎么赚钱的，盈利是否有持续性，管理层为了企业的进一步发展制定了什么样的战略，可能会遇到什么样的危机，遇到了危机企业的抗风险能力如何。总之，要对企业如数家珍才行，这才是EPS的真正含义，是要对企业的情况足够了解。</p><p>       PE是估值，估值不仅反映了市场对行业的认可程度，对企业的认可程度，还有市场情绪。企业基本面的变化是缓慢的，短期股价的波动更多是受市场风格和情绪影响的。</p><p>       想要获得股价的上涨，要么eps增长，要么pe提升。</p><p>       以我自己为例，今年的收益基本全是医药股打出来的。</p><p>       医药股今年的行情可谓是冰火两重天，一季度行业整体业绩显著加速增长，两票制、创新药支持、一致性评价等政策对行业的发展起到促进和提高集中度的作用。从子行业、细分领域和个股角度来看，创新药、优质仿制药、疫苗、流通和服务快速增长，优质企业在扩张中优势愈发明显。众多因素合力造就了上半年整个医药版块的牛市，涨幅超过50%的标的不在少数，后来受到长生生物疫苗、美年健康假医生、复星医药违规生产等一系列事件的影响，全市场对医药版块的投资情绪降到了冰点，估值也是一落千丈。</p><p>       从最开始看好医药，挨个公司看，到后来不断的建仓止损，建仓浮盈加仓，分步止盈 ，完全出局。后面顶着业绩压力五个月没开仓，也都是贯彻我前文所说的思想，看不懂的不买，没把握的机会不做。 </p><p>       其实，说了这么多，删繁就简后，只要做两件事，第一选择好企业，第二在合适的时候买进去。虽然这两句话很容易就懂了，甚至看起来像废话，但我为了这两句话苦苦追寻多年。真正能看懂一个公司不容易，辨别什么时候进场也是一个极困难的问题，需要不断的假设求证，得到验证后打满仓位，出现突发状况怎么处理，都要考虑到。当然，这是后面要跟大家分享的事情了。</p><p>       最后，送给大家，送给A股，也送给依旧在努力的自己一句深情地独白。</p><p>       为什么我的眼里常含泪水，因为我对这土地爱的深沉。</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "股票", 
+                    "tagLink": "https://api.zhihu.com/topics/19559840"
+                }, 
+                {
+                    "tag": "投资理念", 
+                    "tagLink": "https://api.zhihu.com/topics/20097350"
+                }, 
+                {
+                    "tag": "A股（人民币普通股票）", 
+                    "tagLink": "https://api.zhihu.com/topics/19570359"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "单字俊", 
+                    "userLink": "https://www.zhihu.com/people/db6b2c41892cfe889f57b3fee0f4de06", 
+                    "content": "人活在周期里面，不要和趋势作对[酷]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/21880582", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 9, 
+            "title": "立体停车行业分析及个股推荐", 
+            "content": "<p><b>目录</b></p><p>一．<b>行业分析</b></p><p>二．<b>政策催化</b></p><p>三．<b>壁垒</b></p><p>四．<b>个股推荐</b></p><p>一．<b>行业分析</b></p><p>1.<b>供需矛盾突出，停车位缺口巨大</b></p><p> （1）我国汽车市场从增量向存量过渡 </p><p>增量向下，存量向上。2015年我国机动车保有量已经达到2.79亿辆，其中汽车保有 量1.72亿辆，平均每10个人就拥有一辆汽车。虽然近几年机动车保有量增速放缓至 5%左右，但汽车保有量却仍然以超过10%的速度增长。汽车市场从增量市场向存量 市场过渡，在现有的汽车后市场中，包括二手车交易、二手车拆解、停车场建设等。 依附于汽车后市场，停车产业未来会随着汽车存量增加而增长。 </p><p>  （2）停车缺口严重</p><p>根据国家发改委公布的数据显示，目前我国大城市小汽车与停车位的平均比例约为1:0.8，中小城市约为1:0.5，而发达国家约为1:1.3。<figure><noscript><img src=\"https://pic4.zhimg.com/97cfa5956d93fd9ffda022eb89f5d927_b.png\" data-rawwidth=\"791\" data-rawheight=\"380\" class=\"origin_image zh-lightbox-thumb\" width=\"791\" data-original=\"https://pic4.zhimg.com/97cfa5956d93fd9ffda022eb89f5d927_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;791&#39; height=&#39;380&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"791\" data-rawheight=\"380\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"791\" data-original=\"https://pic4.zhimg.com/97cfa5956d93fd9ffda022eb89f5d927_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/97cfa5956d93fd9ffda022eb89f5d927_b.png\"/></figure></p><p>    从北京、上海、重庆的情况来看，城市停车位缺口在30%到40%左右。上海市交通 委员会调查数据显示，上海中心城区的停车缺口达到51.88%。这表明，一二线城市停车缺口较大，特别是中心城区，车位紧俏。</p><figure><noscript><img src=\"https://pic2.zhimg.com/106672dd164e791c58adcd40f98dd2a9_b.png\" data-rawwidth=\"614\" data-rawheight=\"230\" class=\"origin_image zh-lightbox-thumb\" width=\"614\" data-original=\"https://pic2.zhimg.com/106672dd164e791c58adcd40f98dd2a9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;614&#39; height=&#39;230&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"614\" data-rawheight=\"230\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"614\" data-original=\"https://pic2.zhimg.com/106672dd164e791c58adcd40f98dd2a9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/106672dd164e791c58adcd40f98dd2a9_b.png\"/></figure><p>2.<b>受地产市场萎缩影响，整体增幅收窄</b></p><p>      立体停车库的下游用户对产品的需求总体上保持稳定。其中新建住宅停车配套需求 是机械式停车设备行业的主要驱动力，历年来住宅小区对立体车库的需求均在50% 以上。2015年新增项目（含汽车专用升降机），同比增长5.3%，其中，住宅小区配 套占54.0%，与上年基本持平，公共配套项目占24.8%，比重同比增加2.7个百分点， 有逐年上升趋势；单位自用车库项目占21.1%，比重同比下降3.2个百分点。 </p><p>    新建住宅停车配套需求是机械式停车设备行业得以快速发展的主要动力，但随着房地产市 场的萎缩，停车设备行业增长动力减弱，因而出现了明显的增幅收窄。</p><figure><noscript><img src=\"https://pic3.zhimg.com/44e3db35bf25c5fa7bb14c320abca30e_b.png\" data-rawwidth=\"559\" data-rawheight=\"255\" class=\"origin_image zh-lightbox-thumb\" width=\"559\" data-original=\"https://pic3.zhimg.com/44e3db35bf25c5fa7bb14c320abca30e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;559&#39; height=&#39;255&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"559\" data-rawheight=\"255\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"559\" data-original=\"https://pic3.zhimg.com/44e3db35bf25c5fa7bb14c320abca30e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/44e3db35bf25c5fa7bb14c320abca30e_b.png\"/></figure><br/><p>3.<b>行业内公司分化严重</b></p><figure><noscript><img src=\"https://pic4.zhimg.com/960f2eb99093c7f3ec3586a5c3b4f37f_b.png\" data-rawwidth=\"712\" data-rawheight=\"377\" class=\"origin_image zh-lightbox-thumb\" width=\"712\" data-original=\"https://pic4.zhimg.com/960f2eb99093c7f3ec3586a5c3b4f37f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;712&#39; height=&#39;377&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"712\" data-rawheight=\"377\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"712\" data-original=\"https://pic4.zhimg.com/960f2eb99093c7f3ec3586a5c3b4f37f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/960f2eb99093c7f3ec3586a5c3b4f37f_b.png\"/></figure><br/><p><b>4.产业链与盈利模式</b></p><p>机械停车设备行业产业链可分为原材料生产、配件制造、主机制造、停车管理、服务支持等五个环节。现在主机制造企业涉及环节主要是配件制造、主机制造、服务支持。企业往往会研发关键配件以形成核心竞争力。</p><p>盈利模式由设备提供向“设备+运营”转变。</p><p>BOT模式：政府划拨土地，投资方负责建设项目，并拥有数年经营权，期满后交付地方政府。经营成本包括建设成本、运行管理成本、维护成本等。</p><p>随着停车费定价的逐渐放开，庞大的停车需求将使得停车管理成为强劲的盈利点。</p><figure><noscript><img src=\"https://pic3.zhimg.com/20c202a6177bf376a8f4993fd9842a0a_b.png\" data-rawwidth=\"554\" data-rawheight=\"287\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/20c202a6177bf376a8f4993fd9842a0a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;287&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"554\" data-rawheight=\"287\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic3.zhimg.com/20c202a6177bf376a8f4993fd9842a0a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/20c202a6177bf376a8f4993fd9842a0a_b.png\"/></figure><p>二．<b>政策催化</b></p><p><figure><noscript><img src=\"https://pic1.zhimg.com/b0af04583503632dfbf11afe758e88f0_b.png\" data-rawwidth=\"553\" data-rawheight=\"541\" class=\"origin_image zh-lightbox-thumb\" width=\"553\" data-original=\"https://pic1.zhimg.com/b0af04583503632dfbf11afe758e88f0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;553&#39; height=&#39;541&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"553\" data-rawheight=\"541\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"553\" data-original=\"https://pic1.zhimg.com/b0af04583503632dfbf11afe758e88f0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/b0af04583503632dfbf11afe758e88f0_b.png\"/></figure> PPP模式+地方债强有力</p><p>PPP模式，政府参与风险共担，民间资本参与度提升。而且依据二季度近千亿级别的地方债，无疑是两个强有力提升融资能力的方法。</p><p>三．<b>壁垒 </b></p><p>1.<b>技术差异</b></p><p>     立体车库属于起重机械，企业从事机械停车设备制造，首先需要取得国家质量监督 检验检疫总局颁发的相应机械设备类型的特种设备生产许可证和特种设备安装改造 维修许可证。CPSMA注册主机制造会员企业173家中，在中国特种设备单位资质数 据库及公式系统中有查询结果的共有144家企业。其中大部分都是原先从事起重机、 吊车都大型工业设备或者是电梯生产的厂商，因为已经具备一定技术基础，因而要 获得技术要求相对降低的简易升降类等机械停车生产资质是比较容易的。 </p><p>    在查询到有资质的144家企业中，有142家企业具备生产升降横移式停车设备的资 质，比例达98.6%,通常层数在5到8层以下；有102家企业具备生产简易升降式停车 设备的资质，比例达30.8%，层数为2到4层。另外分别有51家具有垂直升降式立体 停车库的资质，51家企业具有平面移动式立体停车库的资质。其中，垂直升降式立 体停车库因为智能化程度最高，同时最高达到超过20层的高层，因而技术要求相对 较高。具备垂直升降式立体停车设备生产资质的企业占35.4%，仅次于技术要求低 的简易升降式、升降横移式停车设备生产资质的企业数。一定程度上反映了停车设 备企业对于塔库的看好。 </p><p>垂直升降式机械停车库（塔库）由于层数较高，空间利用率可提高达数倍，特别适 用于高度繁华的城市中心区域以及车辆集中停放的聚集点。另外，塔库经装饰后外 观时尚，与城市建筑物相容性好，外层结构可安装户外广告，产生广告传媒效益。 虽然目前升降横移式机械停车库在市场中占据绝对优势，但随着机械停车设备市场 热点由住宅逐渐向城市中心商业区转移，塔库的发展前景十分明朗。以2015年为 例，在行业整体业绩下滑较大的情况下，垂直升降类产品增幅仍达到67.2%，其中 15层以下的小高层占比64%。 </p><p>2.<b>口碑与推广</b></p><p>    从需求端来看，机械车库的主要客户群体是地产商、以医院、学校为主体的各大企事业单位、高铁、车站等政府项目以及大型商场、写字楼等。相对于价格，安全性、使用的便利程度、空间的利用效率、停车体验是更为核心的要求。客户会优先选择实力强、信誉好、经验更丰富的企业。尤其是机械式结构对安全性的要求高，每个月都需要维护，因此，服务的及时性也很重要。而以上这些方面，大公司具有显著优势。</p><p>3.<b>资金</b></p><p>机械式车库属于长期投资项目，投资金额大，投资回报期长。以齐星铁塔2012年3万套机械停车生产线项目为例，项目总投资2.38亿元，建设周期2-3年，投资回收期5-6年。因此，高的资金壁垒隔绝了融资能力较弱的企业进入或者中小企业获得大型项目的机会。</p><p>四．<b>个股推荐（未完待续）</b></p><p><b>五洋科技 300420</b></p><p><b>齐星铁塔 002359</b></p>", 
+            "topic": [
+                {
+                    "tag": "金融", 
+                    "tagLink": "https://api.zhihu.com/topics/19609455"
+                }, 
+                {
+                    "tag": "股票", 
+                    "tagLink": "https://api.zhihu.com/topics/19559840"
+                }, 
+                {
+                    "tag": "行业研究", 
+                    "tagLink": "https://api.zhihu.com/topics/19605298"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "单字俊", 
+                    "userLink": "https://www.zhihu.com/people/db6b2c41892cfe889f57b3fee0f4de06", 
+                    "content": "刚说到你。。。 (๑òωó๑) ", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "把微信公众号添上啦", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "璇玑观世", 
+                            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+                            "content": "我要晚上单独写一篇硬广", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "单字俊", 
+                            "userLink": "https://www.zhihu.com/people/db6b2c41892cfe889f57b3fee0f4de06", 
+                            "content": "三人硬广小分队", 
+                            "likes": 0, 
+                            "replyToAuthor": "璇玑观世"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20797567", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 3, 
+            "title": "4月25日   先发一点要紧的，我们要不要在月末买股票", 
+            "content": "OK，这一周事情比较多，验证技术指标的文章以后慢慢更，先说一点要紧的，就是现在月末了，要不要继续买股票。<p>港股那边有丁蟹效应，我们这里有招商策略会魔咒，不知道的自己去百度，在此不详细解释。现在又有人喊股灾之后每逢月底就跌，为了验证魔咒这种东西是否存在，我去调了一下数据。</p><p>把月底定位在25日-31日，从15年7月股灾到现在的每个月月末共41个交易日，沪市涨了19个交易日，深市也是涨了19个交易日，中小企业板涨了20个交易日。为了排除所谓的国家队拉大盘的影响，我又用涨跌家数统计了一下，上涨家数&gt;下跌家数的是18个交易日。</p><figure><noscript><img src=\"https://pic2.zhimg.com/ee6cebfb902d9df4fc0756dbf925e665_b.png\" data-rawwidth=\"1515\" data-rawheight=\"777\" class=\"origin_image zh-lightbox-thumb\" width=\"1515\" data-original=\"https://pic2.zhimg.com/ee6cebfb902d9df4fc0756dbf925e665_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1515&#39; height=&#39;777&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1515\" data-rawheight=\"777\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1515\" data-original=\"https://pic2.zhimg.com/ee6cebfb902d9df4fc0756dbf925e665_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/ee6cebfb902d9df4fc0756dbf925e665_b.png\"/></figure><p>单从以上数据来看，并不是月底就跌。</p><p>数据做完了，拉几个股票做回测，策略是每个月的月初第一个交易日全仓买入，25日清仓。</p><p>从年初到现在的涨幅榜的排名最靠前和最靠后的选几只咯，还要剔除新股的影响，所以</p><p>1/赤峰黄金，7月27日，stockprice15.08，4月24日stockprice19.804，涨幅31.3%</p><p><figure><noscript><img src=\"https://pic1.zhimg.com/18cbf316c1cd275b0fab9ad7558376c4_b.png\" data-rawwidth=\"1144\" data-rawheight=\"362\" class=\"origin_image zh-lightbox-thumb\" width=\"1144\" data-original=\"https://pic1.zhimg.com/18cbf316c1cd275b0fab9ad7558376c4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1144&#39; height=&#39;362&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1144\" data-rawheight=\"362\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1144\" data-original=\"https://pic1.zhimg.com/18cbf316c1cd275b0fab9ad7558376c4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/18cbf316c1cd275b0fab9ad7558376c4_b.png\"/></figure>wow！策略的收益比单纯的持仓要高好多！（中间的一段横线是停牌了）</p><p>2/西山煤电，7月27日，stockprice7.47，4月24日stockprice8.53，涨幅14.2%</p><p><figure><noscript><img src=\"https://pic4.zhimg.com/4bb74610b7edb549d4154fd0c56b00e7_b.png\" data-rawwidth=\"1149\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb\" width=\"1149\" data-original=\"https://pic4.zhimg.com/4bb74610b7edb549d4154fd0c56b00e7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1149&#39; height=&#39;437&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1149\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1149\" data-original=\"https://pic4.zhimg.com/4bb74610b7edb549d4154fd0c56b00e7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/4bb74610b7edb549d4154fd0c56b00e7_b.png\"/></figure>策略的收益还是比单纯的持仓高很多！</p><p>3/天润乳液，7月27日，stockprice33.26，4月24日stockprice44.17，涨幅32.8%</p><p><figure><noscript><img src=\"https://pic3.zhimg.com/fc1bf661afbad7380ef4d3a857f64b1a_b.png\" data-rawwidth=\"1134\" data-rawheight=\"425\" class=\"origin_image zh-lightbox-thumb\" width=\"1134\" data-original=\"https://pic3.zhimg.com/fc1bf661afbad7380ef4d3a857f64b1a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1134&#39; height=&#39;425&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1134\" data-rawheight=\"425\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1134\" data-original=\"https://pic3.zhimg.com/fc1bf661afbad7380ef4d3a857f64b1a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/fc1bf661afbad7380ef4d3a857f64b1a_b.png\"/></figure>还是要比单纯的持仓的策略高！</p><p>OK，再验证几个一直跌幅比较大的股票，</p><p>1/佛山照明，7月27日，stockprice11.62，4月24日stockprice9.23，涨幅-20.6%<br/></p><p><figure><noscript><img src=\"https://pic4.zhimg.com/f6ddb368e261a9cc43392f583af3587f_b.png\" data-rawwidth=\"1132\" data-rawheight=\"431\" class=\"origin_image zh-lightbox-thumb\" width=\"1132\" data-original=\"https://pic4.zhimg.com/f6ddb368e261a9cc43392f583af3587f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1132&#39; height=&#39;431&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1132\" data-rawheight=\"431\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1132\" data-original=\"https://pic4.zhimg.com/f6ddb368e261a9cc43392f583af3587f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/f6ddb368e261a9cc43392f583af3587f_b.png\"/></figure>2/四川金顶，7月27日，stockprice16.58，4月24日stockprice15.29，涨幅-7.8%</p><p><figure><noscript><img src=\"https://pic4.zhimg.com/c08d0c22e472f62ae7aec242b6fe625b_b.png\" data-rawwidth=\"1160\" data-rawheight=\"442\" class=\"origin_image zh-lightbox-thumb\" width=\"1160\" data-original=\"https://pic4.zhimg.com/c08d0c22e472f62ae7aec242b6fe625b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1160&#39; height=&#39;442&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1160\" data-rawheight=\"442\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1160\" data-original=\"https://pic4.zhimg.com/c08d0c22e472f62ae7aec242b6fe625b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/c08d0c22e472f62ae7aec242b6fe625b_b.png\"/></figure>所以，结论！</p><p>LIvemore的话，“如果我正沿着铁轨往前走，看见一辆火车以每小时60英里的速度向我冲来，我会跳下铁轨让火车开过去，而不会愚蠢地站在那里不动。它开过去之后，只要我愿意，我总能再回到铁轨上来。”</p><p>所以，月底不要买股票！25日要躲火车，要清仓！</p>", 
+            "topic": [
+                {
+                    "tag": "金融", 
+                    "tagLink": "https://api.zhihu.com/topics/19609455"
+                }, 
+                {
+                    "tag": "股票", 
+                    "tagLink": "https://api.zhihu.com/topics/19559840"
+                }, 
+                {
+                    "tag": "证券", 
+                    "tagLink": "https://api.zhihu.com/topics/19570354"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "梦魇者的遗礼", 
+                    "userLink": "https://www.zhihu.com/people/e2c3533d9ef77af6cc1bf633229fc4a8", 
+                    "content": "消灭0回复！", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20763213", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 8, 
+            "title": "4月17日 所谓的金叉有用么？（1）", 
+            "content": "Sorry,差点又跳票。为生计奔波，因案牍劳形，还有两趟差要出，内心是崩溃的。不过，该更的专栏还是要更的。<p>       OK，回归正题，关于技术指标的问题，该批判的要批判，该借鉴的要借鉴。所谓的技术指标，还是要区别对待的，类似于波浪理论这种不可证伪的东西，我是实在不想再搭理，我就问一句，我家车库里有一条隐形的喷火龙你信不信？</p><p>       那么我想验证的东西，分几篇写吧，均线、MACD、KDJ等等，有时间就更吧。</p><p>       今天先给均线开个篇吧。关于均线大家都知道，MA5、MA10、MA20等等，各种金叉死叉用法很多。我的主观的想法是均线能反映出短期的走势与情绪，除此之外的作用还是很有限，所以想验证一下。</p><p>       先写一下最简单的MA5与MA10的金叉死叉吧。回测的时间是2011年1月1日-2016年4月15日，也就是到最新的交易日，起始资金100W，调仓频率每天，基准是HS300。策略五日均线上穿十日均线买入，死叉卖出。</p><p>       第一支（股票的量词应该是“支”还是“只”，笔者特意去考证了一下，“一只股票”的说法源于上海方言，语文出版社2002年出版的《现代汉语量词用法词典》将“只”的这一新的用法收录，所以现在既可以是一“支”股票，也可以是一“只”股票hhhhhhhhh，真TM够无聊的），000001.XSHE，平安银行，崩崩崩......</p><figure><noscript><img src=\"https://pic4.zhimg.com/1a877ce93256ac0044d39d975519e22f_b.png\" data-rawwidth=\"1128\" data-rawheight=\"495\" class=\"origin_image zh-lightbox-thumb\" width=\"1128\" data-original=\"https://pic4.zhimg.com/1a877ce93256ac0044d39d975519e22f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1128&#39; height=&#39;495&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1128\" data-rawheight=\"495\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1128\" data-original=\"https://pic4.zhimg.com/1a877ce93256ac0044d39d975519e22f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/1a877ce93256ac0044d39d975519e22f_b.png\"/></figure><p>      第二支，000002.XSHE，万科A，至少是盈利的了，但是完美错过牛市......</p><figure><noscript><img src=\"https://pic4.zhimg.com/779529c730e9cefaf31b5c5a03b5824b_b.png\" data-rawwidth=\"1109\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"1109\" data-original=\"https://pic4.zhimg.com/779529c730e9cefaf31b5c5a03b5824b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1109&#39; height=&#39;500&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1109\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1109\" data-original=\"https://pic4.zhimg.com/779529c730e9cefaf31b5c5a03b5824b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/779529c730e9cefaf31b5c5a03b5824b_b.png\"/></figure><p>      第三支，600030.XSHG，中信证券，wow！终于是跑赢指数了！<figure><noscript><img src=\"https://pic3.zhimg.com/98a954b9cd1e900f4d4d53a8ba4c3982_b.png\" data-rawwidth=\"1116\" data-rawheight=\"497\" class=\"origin_image zh-lightbox-thumb\" width=\"1116\" data-original=\"https://pic3.zhimg.com/98a954b9cd1e900f4d4d53a8ba4c3982_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1116&#39; height=&#39;497&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1116\" data-rawheight=\"497\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1116\" data-original=\"https://pic3.zhimg.com/98a954b9cd1e900f4d4d53a8ba4c3982_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/98a954b9cd1e900f4d4d53a8ba4c3982_b.png\"/></figure></p><p><b>  验证了银行地产证券中盘子比较大的，再随意挑选几个盘子小一点的吧。</b></p><p>      南京银行601009，还是比较崩，，，，</p><figure><noscript><img src=\"https://pic4.zhimg.com/5e226f3491527a2ac4034ef55c53454f_b.png\" data-rawwidth=\"1117\" data-rawheight=\"512\" class=\"origin_image zh-lightbox-thumb\" width=\"1117\" data-original=\"https://pic4.zhimg.com/5e226f3491527a2ac4034ef55c53454f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1117&#39; height=&#39;512&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1117\" data-rawheight=\"512\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1117\" data-original=\"https://pic4.zhimg.com/5e226f3491527a2ac4034ef55c53454f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/5e226f3491527a2ac4034ef55c53454f_b.png\"/></figure><p>          保利地产600048，哎，，，愁，，，，<figure><noscript><img src=\"https://pic1.zhimg.com/e7912b1216019ec3766604e52d7a8524_b.png\" data-rawwidth=\"1136\" data-rawheight=\"483\" class=\"origin_image zh-lightbox-thumb\" width=\"1136\" data-original=\"https://pic1.zhimg.com/e7912b1216019ec3766604e52d7a8524_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1136&#39; height=&#39;483&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1136\" data-rawheight=\"483\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1136\" data-original=\"https://pic1.zhimg.com/e7912b1216019ec3766604e52d7a8524_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/e7912b1216019ec3766604e52d7a8524_b.png\"/></figure></p><p>       西南证券600369，是不是有点心塞塞的，，，，，<figure><noscript><img src=\"https://pic4.zhimg.com/5bfc0a9e64975ef8b992bc154e3848e7_b.png\" data-rawwidth=\"1119\" data-rawheight=\"497\" class=\"origin_image zh-lightbox-thumb\" width=\"1119\" data-original=\"https://pic4.zhimg.com/5bfc0a9e64975ef8b992bc154e3848e7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1119&#39; height=&#39;497&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1119\" data-rawheight=\"497\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1119\" data-original=\"https://pic4.zhimg.com/5bfc0a9e64975ef8b992bc154e3848e7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/5bfc0a9e64975ef8b992bc154e3848e7_b.png\"/></figure>          今天就到这里，看到这些结果，估计有些人心里已经在骂街了，，，，然而事实就是如此，有空再继续更吧。</p>", 
+            "topic": [
+                {
+                    "tag": "股票", 
+                    "tagLink": "https://api.zhihu.com/topics/19559840"
+                }, 
+                {
+                    "tag": "量化", 
+                    "tagLink": "https://api.zhihu.com/topics/19559205"
+                }, 
+                {
+                    "tag": "金融", 
+                    "tagLink": "https://api.zhihu.com/topics/19609455"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "均线有很多用法。可否看看直接SMA20？上SMA20就买，下SMA20就卖。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "璇玑观世", 
+                            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+                            "content": "等我有空的昂…", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "不喝凉白开", 
+                    "userLink": "https://www.zhihu.com/people/0cd83b98d5b46efd5b0c3a975232519b", 
+                    "content": "路总你要火！", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20728457", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 15, 
+            "title": "OK，I'm back.与其看知乎日经贴，不如自己掷色子。", 
+            "content": "<p>       最近在学量化，改自己的交易系统，没顾得上这边的专栏，见谅。这几天有些时间，回来写点东西。大概扫了一遍最近的日经贴，还是老样子，蠢的人还是那么蠢，我只想说，与其听这些神棍瞎忽悠，不如自己掷色子。<br/></p><p>       罗素所言，参差多态乃是生命的本源。我喜欢这个市场，也是因为这个市场里面有一万种赚钱的方法，哪怕只要掌握一种都是可以赚到钱的。但是我依旧是敬畏这个市场，不敢妄言甚至不敢多想怎样去战胜市场。日经贴里的大神各种叫嚣地预测市场，哪一次不是被打脸。再者，每个人的交易习惯、预期收益都是不同的，想要靠别人发财，那您还是出门左拐日经贴。我帮不了您，请取关，谢谢配合。</p><p>       回归正题，掷色子能不能赚钱呢？我贴几次回测的结果，你们自己看吧。</p><p>       所谓的掷色子测略就是随机买卖的策略，每周一随机买入股票，持有一周，周五清掉，下周一继续，周而复始，没有任何止盈止损的附加策略，没有仓位控制。但是剔除了st板块，这里是有幸存者偏差的影响。<figure><noscript><img src=\"https://pic4.zhimg.com/1761cf1783dd281409f3dc2d92066ebf_b.png\" data-rawwidth=\"554\" data-rawheight=\"214\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic4.zhimg.com/1761cf1783dd281409f3dc2d92066ebf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;214&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"554\" data-rawheight=\"214\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic4.zhimg.com/1761cf1783dd281409f3dc2d92066ebf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/1761cf1783dd281409f3dc2d92066ebf_b.png\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/75666bb0f008f8bd374792c5cb158753_b.png\" data-rawwidth=\"553\" data-rawheight=\"176\" class=\"origin_image zh-lightbox-thumb\" width=\"553\" data-original=\"https://pic4.zhimg.com/75666bb0f008f8bd374792c5cb158753_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;553&#39; height=&#39;176&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"553\" data-rawheight=\"176\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"553\" data-original=\"https://pic4.zhimg.com/75666bb0f008f8bd374792c5cb158753_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/75666bb0f008f8bd374792c5cb158753_b.png\"/></figure></p><figure><noscript><img src=\"https://pic1.zhimg.com/27fa7ea7ab8b0ba9a5a9a17d933c7a08_b.png\" data-rawwidth=\"554\" data-rawheight=\"187\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/27fa7ea7ab8b0ba9a5a9a17d933c7a08_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;187&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"554\" data-rawheight=\"187\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic1.zhimg.com/27fa7ea7ab8b0ba9a5a9a17d933c7a08_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/27fa7ea7ab8b0ba9a5a9a17d933c7a08_b.png\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/556c0e2025c3596c590d213a10876170_b.png\" data-rawwidth=\"554\" data-rawheight=\"141\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/556c0e2025c3596c590d213a10876170_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;141&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"554\" data-rawheight=\"141\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic1.zhimg.com/556c0e2025c3596c590d213a10876170_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/556c0e2025c3596c590d213a10876170_b.png\"/></figure><p>       这里只截取了部分结果，我自己回测了几十次，因为是随机选取，所以每一次的收益、回撤、阿尔法贝塔值、夏普率都是不同的，但是相同的每一次都是跑过了基准收益。从图中还能看出最赚钱的部分还是在牛市中，所以，少年，坚持住，活到下一轮牛市。</p><p>       至于那些所谓的没错过的神棍，我们静待就好。尔曹身与名俱灭，不废江河万古流。</p>", 
+            "topic": [
+                {
+                    "tag": "股票", 
+                    "tagLink": "https://api.zhihu.com/topics/19559840"
+                }, 
+                {
+                    "tag": "量化", 
+                    "tagLink": "https://api.zhihu.com/topics/19559205"
+                }, 
+                {
+                    "tag": "证券投资", 
+                    "tagLink": "https://api.zhihu.com/topics/19638934"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "赞同。日经贴也有用处。我把它当过滤器，凡是我关注的人中，热衷于写的，热衷于赞的，一律取关，直到日经贴不再出现在我的TL.", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "零时", 
+                            "userLink": "https://www.zhihu.com/people/178c321faf052f023ccdb72518a5c973", 
+                            "content": "我最近也在做这个事情", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "无锋", 
+                    "userLink": "https://www.zhihu.com/people/cb447dccedcd59a6aa69d42d3d577179", 
+                    "content": "猜一下你如果周五开仓周一平仓是不是常年跑输大盘？", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "王二小", 
+                    "userLink": "https://www.zhihu.com/people/a311989c3cf7ce5999dd2d9f9fbf906d", 
+                    "content": "顶楼上", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "其实每日早盘买尾盘买，针对指数基金，一样能获利，因为阳线总长度大于阴线", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Mcfly", 
+                    "userLink": "https://www.zhihu.com/people/8cc115d3246c8d2070b3deae043a8015", 
+                    "content": "所谓的等待牛市是引用了未来函数，牛市走出来才能叫牛市。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20501556", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 5, 
+            "title": "1月15日复盘   明天一定要减仓！一定！", 
+            "content": "早盘如果大幅高开，一定要减仓！减仓！减仓！<p>最近事情太多，有空的话把分析补上。</p><p>别像个散户一样，宁可套牢一个月，绝不踏空一天。</p><p>所以，冷静，入场机会有，廉价筹码还会有。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "这几天高开的都会狠狠跌回去", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Brontodie", 
+                    "userLink": "https://www.zhihu.com/people/51e4ec0a3e435cacf605ce19529bde3a", 
+                    "content": "想念楼主", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20442193", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 6, 
+            "title": "12月23日复盘  科比回来啦~", 
+            "content": "作为一个科吹实在忍不住了，唠嗑今天31分， 最近四场，场均能够拿到25分5.25篮板5次助攻，甚至命中率都全部超过45%，第一分卫啊，退你妹的役！继续high！<p>大盘今天磕了一下啊，问题不大啊，最后一波打新，日线级别调整，个股分化，所以趁这个机会该换股换股，该调仓的调仓。</p><p>啤酒花的停牌在意料之中，林总说时间窗口刚好，林总都资次了，这是坠吼的！</p><p>明天匹凸匹复牌哎，本来准备都停掉我可以休息一段时间了，看来还是不得闲，哎人算不如天算。匹凸匹实控人没有变化，停牌期间什么事情都没做，也是醉醉的，不过无所谓，越是朦胧的地方机会就越多，因为之前在匹凸匹的浮盈有20%，所以就懒得动了，看看能整出什么幺蛾子来，哪怕赚不到钱也可以学习一个，看他们勾心斗角，都是算计，心疼五牛。</p><p>大概就是这样，早睡早起~么么哒！</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20439415", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 5, 
+            "title": "12月22日迟到的复盘，搞了个大新闻", 
+            "content": "有好多兄弟私信喊着催复盘，因为实在身体不适加上最近确实太忙，一直没时间，作为补偿，把写了一周的文章放出来吧。<p><b>华宝油气投资分析</b></p><p>   一、投资机会分析</p><p>    1、逃不掉的价格周期：无论是诺奖得主的分析、还是著名对冲基金AQR的研究，全球资产价格总是经历着相似的价格周期轮回，过去十年，石油价格经历了两个大的上涨和下跌周期，第一轮是从07年1月的59.98美元到08年的146.77美元，涨幅为145.07%，历时18个月，随后开始下跌，七个月时间从最高的146.77跌到最低46.73，跌幅为68.15%；第二轮是从09年2月份的最低点开始上涨，历时26个月，涨到了126.22美元，涨幅为170.1%，随后出现经过一个短暂的调整后为110美元附近维持了差不多2年时间，接着就是我们现在看到的下跌，从114美元开始，一直到现在的37.1美元，历时18个月，跌幅达到67.69%，已经相当接近上一轮下跌的幅度了。</p><p>    因此从周期的角度，无论是时间跨度还是波动副，原油价格的运行的周期都已经接近尾声了，从绝对价格看，目前的价格已经跌破了09年的低点，目前的位置大概是04年的水平，考虑到美元指数的影响，依旧在08年的点位，继续下跌的空间已经非常有限了，即便是考虑到更差的情况，油价跌破30，辅以合理的建仓策略，风险也是可控的。</p><p>    2、刚性需求和更为丰富的产业链可以避免长期在底部：和贵金属特别是黄金不同，黄金的商品属性已经很小，其价格主要体现为资本属性，另外黄金自开发以来，被各种机构通过各种方式大量存储，其供给量和开仓量是完全不能等同的。石油则不同，尽管各国都会有一定的石油储备，但和黄金不同，石油不可能被无限量储存；其次，石油是个消费品，而且是刚需，几乎关乎我们生活的方方面面，从能源到化工，都需要消耗大量的石油，无论长期还是短期都是不可替代的。</p><p>新能源的广泛引用冲击石油价格是个有待商榷的概念，近几年迅速发展的新能源，主要是在供电系统，而非动力能源领域，我们只是建设了大量的风力和光伏发电厂，主要表现为对煤的替代，相反，我们对新能源汽车的使用这要少很多。尽管新能源汽车的发展会减少对石油的消耗，但是按照目前的情形，即便是能心能汽车能够实现连续倍增，在5年之内，其对传统动力汽车的冲击也是非常有限的。</p><p>煤炭的长期萧条，似乎成了石油长期在底部的样板，实则不然，煤炭的产业链很短，几乎可以说是挖出来烧了就完事了，煤化工早已失败。石油则不然，石油具有广泛的用途和更加丰富的产业链，除了作为动力燃料以外，其他副产品——化工产品被广泛运用在我们的生活当中，如果看看我们身边，至少有一半的用具和石油有关，即便是不用燃料，其他的领域也离不开石油，假设一个极端的情况，以后所有的汽车都用电了，或许会出现另一种情况，汽油很便宜了，但是其他副产品价格却起来了，届时便会出现次要产品发挥主要功能的作用，今年电力汽车可以代替汽柴油，但其他石油副产品对在生活中其他领域的广泛应用业务无法被替代了，这从根本上区分了煤炭和石油，石油比煤炭拥有更为丰富的产业链和更高的不可替代性，因此其价格走势也会有所不同，也不太可能像煤炭一样长期在底部，至少在底部的周期会缩短。</p><p>    3、固定成本和政治因素不支持石油价格长期低迷：根据据美国财经网站<a href=\"https://link.zhihu.com/?target=http%3A//www.businessinsider.com/cash-cost-breakeven-oil-prices-2015-12\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Business Insider</a>，大部分生产商的现金成本仍低于当前的油价。但是根据油气行业咨询公司KBC Advanced Technologies Plc的观点，“以当前油价计算，全球1/3以上的石油产出都不赚钱，加拿大石油生产商可能无法承担经营成本。”如果油价进一步下跌，北美市场特别是加拿大和美国产油区的开采商基本上会陷入大面积亏损的状态，对于OPEC国家来讲，尽管不会单纯因为油价的问题而陷入亏损，更重要的是基于财政与政治稳定的考量，对中东国家来讲，油价是其主要的财政收入，财政支持对于这些国家来讲基本上固定的，但油价的下跌会大幅降低其财政收入，OPEC国家财力最雄厚的沙特已经开始发债了，其今年的财政赤字有可能要达到20%，而诸如阿尔及利亚、安哥拉、厄瓜多尔等过原油价格达到110美元才能实现盈亏平衡，因此，对于OPEC国家而言，重要的参考指标不是采油成本，而是其财政赤字情况。在其国内，油价的下跌也会导致其居民收入的大幅下降，这两点都会导致政治的不稳定，因此个人认为原油价格不具备进一步大幅下跌跌破30美元的价格。另外，由于开采难度的加大，长期来看也会逐步抬高开采的成本。</p><p><br/>    4、全球流动性充斥下资产价格大反转的可能性：过去的5年，在流动性充足而固定资产投入下降的大格局下，全球金融市场呈现了资本繁荣与通缩共存的大格局，个人认为，美联储加息，将会彻底终结持续了近七年的股票繁荣，针对美联储加息的一阶反映，市场表现的较为平淡，主要是因为美联储通过多次的向市场释放预期，从而在加息之前已经被彻底的被市场所接受了，真正的影响会在二阶反映阶段产生，二阶反应是指因为加息对整个经济金融市场产生的实质影响开始发酵并传到到资本市场的过程，这个过程是滞后的，估计需要3---6个月，这也就意味着美股将会在未来3---6个月后彻底反转，但是美联储已经明确表示会对之前购买的政府债券以及资产抵押债券续作，这就意味着加息只是抬高了资本成本，但并没有降低资金的供给，因此流动性供给充分的格局不会因为加息周期的开始而终结，当美股见顶之后，过剩资本的溢出再次青睐实物资产的可能性也是很有可能的，我个人倾向于认为，过去的5年是资本繁荣加通缩的周期，下一个五年讲有可能是通胀加资本萧条的周期，实物资产的平均收益率将会大大高于虚拟资产。</p><p><br/>    5、最后是哲学的评估：“贱下极则反贵”是中国最古老的投资哲学，“极像丛生”往往是周期反转的迹象，目前原油价格已经跌回了04年的水平，且远低于08年金融危机的时候；CFTC数据显示，截至12月8日当周，WTI原油空头期货和期权头寸增加9935张合约，总计达到181849手合约，为2006年有可比记录以来最高。WTI原油净多头头寸减少10289手，至80474手，创2010年8月以来新低；大宗商品交易巨头托克（Trafigura Pte Ltd.）估算，大宗商品崩盘让对冲基金七年里损失超过400亿美元，管理资产规模缩水约五分之四。托克新近发布的年报估算，因大宗商品价格暴跌，全球十大大宗商品对冲基金管理资产合计已不足100亿美元，2008年还超过500亿美元；1999年以来，彭博新闻社追踪22种自然资源投资回报的大宗商品指数较巅峰跌去三分之二。今年大宗商品对冲基金业绩为2008年以来最差，以上种种迹象，都在说明大宗商品整天价格下跌已经接近了尾声。</p><p>    综上所述，大宗商品的价格下跌周期已经接近尾声，原油价格运作周期已经接近临界点，固定成本约束以及政治因素也限制了价格进一步下跌的空间，丰富的产业链结构和不可替代性在很大程度上避免了长期在底部的风险，重组的流动性和虚拟资产价格周期的反转也为大宗商品价格的反正提供了支持，因此，押注大宗商品价格回暖，是个大概率事件。</p><p>    二、投资标的的选择</p><p>     由于国内原油期货尚未推出，原油交易最直接的方式就是通过国际期货市场进行参与，但是期货市场是个高风险的领域，并不是一个大众皆可参与的市场，但通过基金来参与却是个低门槛的途径，我们可以通过选取一下和原油价格挂钩的基金来进行投资。</p><p>    目前自国内市场上市交易的和原油价格直接相关的基金主要有诺安油气（163208）华宝油气（162411）、华安石油（160416），其中诺安油气和华安石油主要跟踪标普全球石油净总收益指数，华宝油气跟踪标普石油天然气上游股票指数，我们从关联度以及流动性方面综合考虑，选择华宝油气（162411）作为主要参与对象。</p><p>    三、操作计划</p><p>     尽管我们认为目前油价已经处于较低的位置，下跌周期已经接近尾声，但并不能确认真正的底部在何处，因此我们在充分考虑了潜在下跌风险的基础上采用逢低等金额逐级加仓的方式进行建仓，我们讲自己等分为5份，从目前位置开始建仓（37--36美元），然后以布伦特原油为参照，油价每下跌1美元加仓一次，如此，完成加仓后，总持仓成本约为34.98美元（按布伦特原油标价），对应华宝油气基金份额成本约0.465，持仓盈亏为-5.9%。</p><p>    考虑到极端情况油价跌到30美元附近，最大损失14%。同时按照上述策略，油价上涨到40、45、50、55美元时，投资收益分别为14%、28%、43%、57%。</p><figure><noscript><img src=\"https://pic2.zhimg.com/245e7a04a60a746d383e9b37251c7925_b.png\" data-rawwidth=\"554\" data-rawheight=\"332\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic2.zhimg.com/245e7a04a60a746d383e9b37251c7925_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;332&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"554\" data-rawheight=\"332\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic2.zhimg.com/245e7a04a60a746d383e9b37251c7925_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/245e7a04a60a746d383e9b37251c7925_b.png\"/></figure><p>最后，推荐一个好的标的，啤酒花，一个潜在停牌票，点到为止，仅作参考，自己想买就自己研究去。</p><p>祝各位投资愉快。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "我只想知道为什么", 
+                    "userLink": "https://www.zhihu.com/people/f44dcfd4d9aa3916f60503df4d42d173", 
+                    "content": "祝安康", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20420483", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 4, 
+            "title": "12月15日复盘  感冒了少说几句", 
+            "content": "今天把西部黄金出掉了，换成了乐凯新材和金风科技，西部证券没动。<p>今天周二沪指主要沿零轴线盘整，午后小幅回落，量能没怎么放大，考虑到昨天是大盘股搭台，今天轮到小盘股唱戏，稳住大盘然后拉个股。</p><p>所以这么想的话，就选择了一直在缩量的乐凯新材。<figure><noscript><img src=\"https://pic4.zhimg.com/aac1597e913e3d19c5eddb431a2749bf_b.png\" data-rawwidth=\"974\" data-rawheight=\"439\" class=\"origin_image zh-lightbox-thumb\" width=\"974\" data-original=\"https://pic4.zhimg.com/aac1597e913e3d19c5eddb431a2749bf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;974&#39; height=&#39;439&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"974\" data-rawheight=\"439\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"974\" data-original=\"https://pic4.zhimg.com/aac1597e913e3d19c5eddb431a2749bf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/aac1597e913e3d19c5eddb431a2749bf_b.png\"/></figure></p><p>金风科技是因为各位老板都看好，那我就跟咯，感冒了没有力气多看，暂时就这样吧。</p><p>现阶段大涨大跌都不是很可能，先持股好了。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "我只想知道为什么", 
+                    "userLink": "https://www.zhihu.com/people/f44dcfd4d9aa3916f60503df4d42d173", 
+                    "content": "兄弟，等更新呢。。。。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20416678", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 4, 
+            "title": "12月14日复盘  总有一些涨停让你措手不及", 
+            "content": "话不多说，上图。<p><figure><noscript><img src=\"https://pic1.zhimg.com/5befe6b5ab99749ec1a0f485d2c820f4_b.png\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/5befe6b5ab99749ec1a0f485d2c820f4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;960&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/5befe6b5ab99749ec1a0f485d2c820f4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/5befe6b5ab99749ec1a0f485d2c820f4_b.png\"/></figure><figure><noscript><img src=\"https://pic3.zhimg.com/d9e2f3f2abbb94149b7464ee671c1066_b.png\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/d9e2f3f2abbb94149b7464ee671c1066_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;960&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/d9e2f3f2abbb94149b7464ee671c1066_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/d9e2f3f2abbb94149b7464ee671c1066_b.png\"/></figure>这是模拟仓，空仓了好久，今天把仓位补了回来，收益也重回40%。</p><p><figure><noscript><img src=\"https://pic4.zhimg.com/ee47a561006fab06ee7d87ba2eaab383_b.png\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/ee47a561006fab06ee7d87ba2eaab383_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;960&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/ee47a561006fab06ee7d87ba2eaab383_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/ee47a561006fab06ee7d87ba2eaab383_b.png\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/a54f7c2ce6579ba80a59c9f89067f4b4_b.png\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/a54f7c2ce6579ba80a59c9f89067f4b4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;960&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/a54f7c2ce6579ba80a59c9f89067f4b4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/a54f7c2ce6579ba80a59c9f89067f4b4_b.png\"/></figure><figure><noscript><img src=\"https://pic3.zhimg.com/a6946ba089de036a929c28575df4a386_b.png\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/a6946ba089de036a929c28575df4a386_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;960&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/a6946ba089de036a929c28575df4a386_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/a6946ba089de036a929c28575df4a386_b.png\"/></figure>这个是实盘。</p><p>西部黄金这个在知乎上又说，还是之前的策略，做多黄金。虽然黄金股的波动和金价协动性并不大，但是黄金股之前没有怎么涨过，而且黄金etf大家的认可度又不高，所以还是做了黄金股，当然涨停这种走法是真没有想到。</p><p>至于买西部证券的逻辑，是因为周一集中打新结束，市场会有一个短暂的真空期，按照以往的惯例，金融股会趁此机会，短暂躁动，标的在东兴证券和西部证券抉择了好久，出于情怀，还是选择了西部证券。当然市场表现还是东兴为老大，二选一这种事情就没对过。。。。基于个人体验的神秘主义。。。。</p><p>至于大盘的看法，短期市场仍是存量资金博弈，今日指数震荡反弹，金融券商股略显强势，个股分化还是比较严重的。今天的资金流入并不足，还不是很乐观，看明天走势咯。因为今天是低位接到的，所以我并不是很担心。但是因为周四打新回来，所以还是周三还是会减仓。大概就是这样，当前仓位7成，继续持股。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "单字俊", 
+                    "userLink": "https://www.zhihu.com/people/db6b2c41892cfe889f57b3fee0f4de06", 
+                    "content": "汪！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "君子好求", 
+                    "userLink": "https://www.zhihu.com/people/f25596e8197dd932fb3842597b5125b5", 
+                    "content": "喵", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20408474", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 3, 
+            "title": "12月10日复盘  维持之前看法，因事请假两天", 
+            "content": "最近事情比较多，周末写写，今明两晚不复盘", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20405422", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 4, 
+            "title": "12月9日复盘   风行者来啦~", 
+            "content": "<p>今天把娱乐的匹凸匹卖掉了，换成了西部黄金玩一玩，仅仅是娱乐而已，不到赚钱的时候，所以别想太多。</p><p>正好今天晚上出了个什么注册制的消息，顺便就说一下关于壳资源的事情。哪怕是注册制，壳资源还是会很值钱。现在还有1037家公司在排队，一年发行300家，消化存量也得要三年，还是得有很多公司需要排队。壳资源还是存在着很大的炒作机会。进度的推行不会这么快。</p><p>前几天的思路是送转，我想了一下，除了这个思路之外，还有别的玩法。就是低市值、低股价、低市盈率的股票，哪怕是短期做错了，不会套的特别深，盘子小以后又会有很大的上涨的想象空间。送转的股票价格都比较高，所以调整的时间可能也会久一些，所以慢慢做功课，不着急，先把这些三低的东西挑挑拣拣。</p><p>今天比昨天缩量了，然后又有险资举牌，所以盘面上不至于那么难看”，但是我还是觉得没有到放心赚钱的机会，所以会继续等，用来娱乐的仓位不会过两成。又是打新，又是注册制，美联储还要加息，先出来观望一下，开风步避一避~</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "单字俊", 
+                    "userLink": "https://www.zhihu.com/people/db6b2c41892cfe889f57b3fee0f4de06", 
+                    "content": "我咋觉得是血魔来了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "璇玑观世", 
+                            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+                            "content": "看我卜把你打哭", 
+                            "likes": 0, 
+                            "replyToAuthor": "单字俊"
+                        }, 
+                        {
+                            "userName": "单字俊", 
+                            "userLink": "https://www.zhihu.com/people/db6b2c41892cfe889f57b3fee0f4de06", 
+                            "content": "讲道理怎么可能", 
+                            "likes": 0, 
+                            "replyToAuthor": "璇玑观世"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20402462", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 2, 
+            "title": "12月8日复盘  继续看空", 
+            "content": "继续空仓，还是之前的观点<p>今天早上抓到的妖怪涨停票纯粹是娱乐，不要想太多。</p><p>今天大盘低开震荡下跌，两市9成个股下跌，心疼。上涨缩量，下跌放量，普跌咯。不过确实出现了几个妖股，这种东西，少碰为宜。</p><p>今天的中阴线再度形成了向下破位的态势，什么时候出现底部长阳，各种乱七八糟的指标都出现反转时候，各路股神都赚钱的时候，我再来赚，没必要抢第一笔咯。<br/></p><p>所以，继续空仓，继续看戏，继续做功课，无聊的时候抓抓妖怪。</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20400221", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 2, 
+            "title": "12月8日盘中   准备捉妖", 
+            "content": "匹凸匹，妖怪哪里跑！<p>纯粹是娱乐哦，轻仓练练手~</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "不喝凉白开", 
+                    "userLink": "https://www.zhihu.com/people/0cd83b98d5b46efd5b0c3a975232519b", 
+                    "content": "路总好手艺<br>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "璇玑观世", 
+                            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+                            "content": "姚老板，么么哒~", 
+                            "likes": 0, 
+                            "replyToAuthor": "不喝凉白开"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20399607", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 3, 
+            "title": "12月7日复盘  点点头，承认自己会怕黑", 
+            "content": "虽然清仓了，还是要复盘，盘感不能丢。<p>先看大盘<figure><noscript><img src=\"https://pic1.zhimg.com/05810c20c67c578af91a9e8c737545f4_b.png\" data-rawwidth=\"981\" data-rawheight=\"386\" class=\"origin_image zh-lightbox-thumb\" width=\"981\" data-original=\"https://pic1.zhimg.com/05810c20c67c578af91a9e8c737545f4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;981&#39; height=&#39;386&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"981\" data-rawheight=\"386\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"981\" data-original=\"https://pic1.zhimg.com/05810c20c67c578af91a9e8c737545f4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/05810c20c67c578af91a9e8c737545f4_b.png\"/></figure>上上周周五的大阴线带来的影响依旧存在，反弹在这个位置缩量了，就问你怕不怕，我反正是怕了。</p><p>boll中规压制存在，讲道理，以前呢，我没得选，现在我只想做个好人，不想做赌徒了，我不会去赌这个位置会不会重新站回上升轨道，我选择等。你问我怕不怕黑，点点头，承认自己会怕黑。</p><p>我知道有人肯定会讲，什么高抛低吸，日内做T。我也知道你们这么做的理由，不就是一个60分钟的线么，<figure><noscript><img src=\"https://pic1.zhimg.com/0881a0ed4b95acf9644ce464b20b1ae8_b.png\" data-rawwidth=\"1227\" data-rawheight=\"479\" class=\"origin_image zh-lightbox-thumb\" width=\"1227\" data-original=\"https://pic1.zhimg.com/0881a0ed4b95acf9644ce464b20b1ae8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1227&#39; height=&#39;479&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1227\" data-rawheight=\"479\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1227\" data-original=\"https://pic1.zhimg.com/0881a0ed4b95acf9644ce464b20b1ae8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/0881a0ed4b95acf9644ce464b20b1ae8_b.png\"/></figure>就因为这个东西给你的信心，60分钟的线，所以你尾盘买了，明天冲高去卖，哦，厉害。像我这种小菜鸡呢，还是等趋势确定了再去做，刀口舔血的买卖我不会去做。林总讲的，人做趋势狗做T。</p><p>除此之外，今晚有三个比较有意思的送转。财信发展（000838）年报同比预增4.62%，拟10转25并派现；万润科技（002654）年报拟10转20派0.5元；康盛股份（002418）年报拟10转20派1元。</p><p>这个问题，我是这么理解的，明年一月份减持窗口期，为了减持，所以搞点大利好出来不过分，我肯定是支持的啊，高送转呢，是坠吼的。所以，高送转这个事情是要紧盯的，而且今年的送转力度会很大。从“三高”里面有限售股出笼的选那么几只还是可以的。</p><p>所以，我现在要做的，就是等，边等边做功课，如果市场真的跌下来了，高送转的功课我有做好了，我肯定会再回来的。当然，市场要是能重回趋势，我当然会回来的！</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20391569", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 1, 
+            "title": "12月4日盘中 赚不到钱就休息", 
+            "content": "分时止跌，趁机清仓，再等机会。", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20390188", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 4, 
+            "title": "12月3日复盘  持股看反弹", 
+            "content": "“如果权重股是搭台，那后面题材百花齐放也不是没有可能，打新资金出来后想必还是在做题材股，但愿是后面一种玩法。”<br/><br/>这句话是昨天说的，今天就出现了这么一个走法。<br/><figure><noscript><img src=\"https://pic4.zhimg.com/f87105db5d85cdee2bd2921c5b94cfc3_b.png\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb\" width=\"1294\" data-original=\"https://pic4.zhimg.com/f87105db5d85cdee2bd2921c5b94cfc3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1294&#39; height=&#39;662&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1294\" data-original=\"https://pic4.zhimg.com/f87105db5d85cdee2bd2921c5b94cfc3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/f87105db5d85cdee2bd2921c5b94cfc3_b.png\"/></figure>乐凯新材在这个位置缩量了，鉴于目前我对行情并没有很大信心，而且乐凯新材马上要上触日boll中轨，所以将止损位设置在117，一旦跌破，直接走人，否则的话就继续持仓。<br/><br/>特变电工走的相对较弱，但是相对来说之前没有太大涨幅，属于滞涨的股票，而且每天的换手极低。正是没有被过分关注，所以没有估值相对合理一些，而且对后市的大逻辑分析相对有把握，所以我也不是很怕。目前也是面临一个日线boll中轨的一个压力，所以依旧保持轻仓。<br/><figure><noscript><img src=\"https://pic1.zhimg.com/8ee511dabecd499820149cb07c3337c0_b.png\" data-rawwidth=\"770\" data-rawheight=\"471\" class=\"origin_image zh-lightbox-thumb\" width=\"770\" data-original=\"https://pic1.zhimg.com/8ee511dabecd499820149cb07c3337c0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;770&#39; height=&#39;471&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"770\" data-rawheight=\"471\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"770\" data-original=\"https://pic1.zhimg.com/8ee511dabecd499820149cb07c3337c0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/8ee511dabecd499820149cb07c3337c0_b.png\"/></figure><br/>至于大盘，我不是很看好，也没有一个让我看好的理由，变数太大。耶伦重申美国经济前景好转，暗示加息将近，欧央行延长QE六个月、扩大购买对象 但未增加月购债额度。乱象丛生，大环境让我很是担忧，虽然上述是持仓的计划，但同时我也在考虑是否需要找一个机会清仓观望一下。毕竟上周五的那一条大阴线的影响还是很大的，至少对我的心里影响比较大，昨天和今天的上涨我依旧定义为反弹，我自己不能说服自己这是一个反转。<br/><br/>虽然有这么多不确定的事，有一件还是比较有把握的，那就是多黄金。喊了好久了却没动手是因为实在是没有找到一个合适的契机，所以，继续等。一定会有一个给我下重注的机会。<br/><br/>明天相对来说，资金面回宽松一些，期待有一个好的表现。", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20386616", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 2, 
+            "title": "12月2日复盘 冷静克制，等机会", 
+            "content": "今天真是所谓的二八，题材股纷纷摔死。两市涨停46家，近6成个股下跌。权重股猛拉指数，而中小盘题材个股往死里砸，赚指数不赚钱。如果说权重真是诱多，那后面应该还会有一次大跌。<p>         如果权重股是搭台，那后面题材百花齐放也不是没有可能，打新资金出来后想必还是在做题材股，但愿是后面一种玩法。</p><p>         现在的关键就是钱，存量资金博弈。没有增量的话，出现的情况应该是轮涨，所以调整一段时间的股可以逢低关注一下。昨天说的泸州老窖，这种白酒适合做长线的，至于乐凯新材，我还是想逢低再接回来一点。</p><p>         行情比较微妙，谨慎跟踪盘面变化，耐心的等待放量的那一天，耐心等机会。</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20383718", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 2, 
+            "title": "12月1日复盘  减仓减仓", 
+            "content": "单看上证，今天缩量明显。创业板指与深证，没有长期均线的回踩支撑，也明显缩量个股两极分化，盘中房地产、京津冀、粤港自贸、水泥领涨，高送转、西藏板块、全息技术领跌。大盘走得还算平稳，但盘中人气低落，从而导致量能极度萎缩，涨幅大的个股主动回撤，跌幅大的个股在低位震荡翘头。<br/><p>        资金方面，主板流出76个亿，深市流出296个亿；其中，中小板流出140个亿，创业板流出106个亿。从资金情况来看，虽然量能萎缩，但流出并未停止。</p><br/><p>地产上攻，但资金做多信心还是不足，只冲了一下就退下来了，中小板、次新好多股票硬是从冲涨停被砸到冲跌停，所以还是存量资金在博弈，没有增量资金介入，震荡又不断加剧，对这种弱势行情我并没有把握，所以会把仓位尽量降低。次新股集体杀跌，暂时回避，关注相对滞涨的传统白马。</p><p>        今日逢高降低仓位，特变电工降至两成，乐凯新材降至一成。关注泸州老窖，仅此。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "单字俊", 
+                    "userLink": "https://www.zhihu.com/people/db6b2c41892cfe889f57b3fee0f4de06", 
+                    "content": "来顶一下吧", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20380854", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 2, 
+            "title": "11月30日复盘  随时止盈咯", 
+            "content": "图片为夜拍西安广场舞...这么大的雾霾，我也有点看不清，所以随时准备跑路咯。<p>上个交易日大阴线人心惶惶，今日深V反弹量能不济。做短看长，这波反弹边涨边出货，出完货空仓。什么时候雾散了什么时候再进。长期还是有信心咯，不过我水平有限，为了避免回撤，先出局观望啦。</p><p>(づ￣ 3￣)づ~今天累啦，写不动啦......</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20374388", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 6, 
+            "title": "11月27日复盘  听说炸弹人五杀暴走了？", 
+            "content": "常在河道走，总是会撞到鬼踩到雷的。不踩雷的要么买了宝石，要么就是股神，月月翻倍，盘盘碾压。我就是个菜狗，躲不过去就躲不过去了，认了。<figure><noscript><img src=\"https://pic4.zhimg.com/abfc3641019777b4496bb792475f695b_b.jpg\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/abfc3641019777b4496bb792475f695b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;960&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"640\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/abfc3641019777b4496bb792475f695b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/abfc3641019777b4496bb792475f695b_b.jpg\"/></figure><p>自己的月收益，被众知乎股神碾压，不谈了。</p><p>林总说过，不能预测，我听林总的。</p><p>林总说过，看多，我听林总的。</p><p>林总说过，要装死，我听林总的。</p><p>林总说过，不做t，我听林总的。</p><p>总之，我听林总的。</p><p>安心睡觉。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "单字俊", 
+                    "userLink": "https://www.zhihu.com/people/db6b2c41892cfe889f57b3fee0f4de06", 
+                    "content": "你还真写了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "懒猫", 
+                    "userLink": "https://www.zhihu.com/people/33c5e13742b480cc58e82a6874d01d82", 
+                    "content": "躺下装死，也许这里就是底部了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Fong", 
+                    "userLink": "https://www.zhihu.com/people/641853356e9640505e11c96f1fdf03c4", 
+                    "content": "我听马总的", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "沐心", 
+                    "userLink": "https://www.zhihu.com/people/2e9453bbde6ddb01150d1a568f89cf55", 
+                    "content": "敢问林总是谁…", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20371707", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 4, 
+            "title": "11月26日复盘   瀑布滩雷只卧听", 
+            "content": "今天周五大盘最高冲至3668点，最低回踩至3629点，尾盘收在3635点位置，下跌12个点，收根小阴，创业板小中阴。资金小幅流出，放量下跌，尾盘轻微跳水，形态还尚未走坏，正常回踩，依旧上下两难。上有抛盘打压，下又有承接盘，还是震荡的走法。<p>创业板短期有调整的需要，君子不立危墙之下，乐凯新材选择减部分仓位，转移到滞涨的特变电工，这样的话仓位就变成了两成乐凯新材，三成特变电工。不想追高，也不想死扛，持仓略作调整而已。</p><p>后市依旧看好送转，看好题材，看好创业板，短期缓一波，趋势确立再议。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "Fong", 
+                    "userLink": "https://www.zhihu.com/people/641853356e9640505e11c96f1fdf03c4", 
+                    "content": "周四", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20368966", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 3, 
+            "title": "11月25日复盘  时代开启，传奇落幕", 
+            "content": "<figure><noscript><img src=\"https://pic4.zhimg.com/434948afb2f73441670e5832d7850eb7_b.jpg\" data-rawwidth=\"694\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb\" width=\"694\" data-original=\"https://pic4.zhimg.com/434948afb2f73441670e5832d7850eb7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;694&#39; height=&#39;389&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"694\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"694\" data-original=\"https://pic4.zhimg.com/434948afb2f73441670e5832d7850eb7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/434948afb2f73441670e5832d7850eb7_b.jpg\"/></figure><p>十年前我坐在替补席看着三节62分打卡的你意气风发，十年后我带着15连胜的球队在甲骨文听你示范打铁。14中1，蜗壳这么骄傲的人最终还是败给了时间。傻库，请接过蜗壳的皇冠，开启自己的传奇吧！</p><p>蜗壳会老，勇士也会有输球的那一天，股票也没有只涨不跌的道理。日中则昃，月盈则食。</p><p>今日大盘稳中有升，光头小阳，无明显放量。主板流出22个亿，深市流入48个亿；其中，中小板流入31个亿，创业板流入30个亿。</p><p>大盘的震荡行情已经维持一段时间了，时间换空间。当下如果向上急切地突破而缺少量能，大盘冲高回落就是大概率的事件；反之，大盘下跌至60日线附近应是短线极限。现在能做的就是持股，等方向选择，做好策略，随时准备应对各种状况的出现。<br/></p><figure><noscript><img src=\"https://pic3.zhimg.com/2fe05399b8c7cd67c1efef4c34430c52_b.png\" data-rawwidth=\"868\" data-rawheight=\"474\" class=\"origin_image zh-lightbox-thumb\" width=\"868\" data-original=\"https://pic3.zhimg.com/2fe05399b8c7cd67c1efef4c34430c52_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;868&#39; height=&#39;474&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"868\" data-rawheight=\"474\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"868\" data-original=\"https://pic3.zhimg.com/2fe05399b8c7cd67c1efef4c34430c52_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/2fe05399b8c7cd67c1efef4c34430c52_b.png\"/></figure><p>乐凯新材连续高换手，后面必然大开大合，设置止损位，咬，就一个字，然后等待时间给答案吧。</p><figure><noscript><img src=\"https://pic3.zhimg.com/efe650be91ab1ed6ab1d1b0feb365952_b.png\" data-rawwidth=\"732\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb\" width=\"732\" data-original=\"https://pic3.zhimg.com/efe650be91ab1ed6ab1d1b0feb365952_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;732&#39; height=&#39;79&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"732\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"732\" data-original=\"https://pic3.zhimg.com/efe650be91ab1ed6ab1d1b0feb365952_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/efe650be91ab1ed6ab1d1b0feb365952_b.png\"/></figure>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20366336", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 5, 
+            "title": "11月24日复盘 谨言慎行，戒急用忍", 
+            "content": "今日大盘探底回升，最低回踩至3563点，尾盘收在3616点，光头小阳，创业板小中阳。成交量较昨日明显减少，个股继续分化，送转预期、次新股、券商表现良好。<p>        需要注意的是，这样的量能难以让大盘持续走高，所以依旧要控制仓位控制风险，耐心等大盘方向进一步明朗后再调整操作策略。</p><p>        资金流方面多多少少能反应出一些东西来，主板流出149个亿，深市流出102个亿，中小板流出38个亿，创业板流入6个多亿。这个就比较有意思了，创业板出现小幅流入，讲道理的话，还是有肉吃的。</p><p><figure><noscript><img src=\"https://pic3.zhimg.com/0500ea336a9374559b57722f64be5912_b.png\" data-rawwidth=\"793\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"793\" data-original=\"https://pic3.zhimg.com/0500ea336a9374559b57722f64be5912_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;793&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"793\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"793\" data-original=\"https://pic3.zhimg.com/0500ea336a9374559b57722f64be5912_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/0500ea336a9374559b57722f64be5912_b.png\"/></figure>        乐凯新材今天的这个量，虽然值得揣摩，但5、10、20日线粘合趋势，在这种位置不用做过多猜想，谨慎持股就好，随着盈利的增加，提高自己风险承受的程度，还是要咬，毕竟标的的挑选时极其不容易的一件事，不能太急功近利，也不要想着急速拉升，这样就会透支后面的行情。所以，保持谨慎，不能被小幅的波段洗走，也不能太过急躁，保持冷静，保持优雅。</p><p><figure><noscript><img src=\"https://pic2.zhimg.com/4d31115fda98690b5887a8c4e42ec73d_b.png\" data-rawwidth=\"732\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb\" width=\"732\" data-original=\"https://pic2.zhimg.com/4d31115fda98690b5887a8c4e42ec73d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;732&#39; height=&#39;79&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"732\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"732\" data-original=\"https://pic2.zhimg.com/4d31115fda98690b5887a8c4e42ec73d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/4d31115fda98690b5887a8c4e42ec73d_b.png\"/></figure>        谨言慎行，戒急用忍。</p><p>        至于土耳其的事，我觉得对金价的影响会大一些，暂时继续观望一下。</p><p>        券商自营盘的事，我只是想说，这才是真的利好。郑建辉，答应我，能不能讲点原则，以后不要再对规则肆意践踏了好么？</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "Fong", 
+                    "userLink": "https://www.zhihu.com/people/641853356e9640505e11c96f1fdf03c4", 
+                    "content": "熬夜小王子", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20363504", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 7, 
+            "title": "11月23号复盘 拒绝毒奶", 
+            "content": "今天勇士118 -105掘金，开局15连胜追平历史纪录，库里仅得19分，命中率也不高。一二节握管而论打得真的很差，确实有些懈怠了，所以不要再奶了，再奶真要崩。<p>也千万别奶大盘了，喊什么慢牛，再奶真要崩，“四千点是牛市的起点”这句话现在想起来依旧心有余悸。</p><p>今天两市7成个股下跌。沪市成交量为4141亿元，比上周五的4139亿元增加了2亿元，资金大幅流出，盘面上涨缩量、下跌放量，盘面热点散乱，做多信心明显不足，资金加速流出。<br/></p><p>所以，年线的争夺趋势并不明朗，还是要控制仓位，震荡的走势要做好跑路的准备，但也要有持股的信心。</p><p><figure><noscript><img src=\"https://pic3.zhimg.com/c627cd81a2cc8f334f81aea6d695be42_b.png\" data-rawwidth=\"772\" data-rawheight=\"381\" class=\"origin_image zh-lightbox-thumb\" width=\"772\" data-original=\"https://pic3.zhimg.com/c627cd81a2cc8f334f81aea6d695be42_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;772&#39; height=&#39;381&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"772\" data-rawheight=\"381\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"772\" data-original=\"https://pic3.zhimg.com/c627cd81a2cc8f334f81aea6d695be42_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/c627cd81a2cc8f334f81aea6d695be42_b.png\"/></figure>乐凯新材今天的量放的有些大了，所以要提高一些警惕了，虽说赌博，还是要按照基本法的。高送转的把握有多大，我只能说六成。每股的资本公积只有1.58元，不过好在每股未分配利润3.49不算太低，总股本6140万股是偏低的，鉴于之前并未炒作过该股，所以高送转的可能不要太过于乐观，如果真的趋势走坏，我会把持仓压低到两成，是否减仓还是要看明天走势。是否清仓，还是要的送转方案公布。</p><p>特变电工仓位不高，考虑到固定资产投资电力的支出在增加，所以继续持有。</p><p><figure><noscript><img src=\"https://pic3.zhimg.com/2357c952ff670ed003c35265cb54f496_b.png\" data-rawwidth=\"732\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb\" width=\"732\" data-original=\"https://pic3.zhimg.com/2357c952ff670ed003c35265cb54f496_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;732&#39; height=&#39;79&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"732\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"732\" data-original=\"https://pic3.zhimg.com/2357c952ff670ed003c35265cb54f496_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/2357c952ff670ed003c35265cb54f496_b.png\"/></figure>大概就是这样，以上。</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20356389", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 7, 
+            "title": "11月20号比赛综述，不是不是，复盘复盘", 
+            "content": "今天的比赛太精彩，不得不先说比赛。<p>        快船主场，嗑药的保罗在首节命中率惊人，个人独得18分，快船全队命中率也极高，20+的分数领先，而库里则在首节早早领到两次犯规被迫提前下场休息。</p><p>        我只能说，什么是兄弟篮球，什么是TEAM！</p><p>        汤神在我库两犯的情况下，靠个人能力单节15分帮勇士续命。到了下半场库里及队友找回状态时，甘当绿叶，尽职防守。下半场总共就出手了2次，还命中了反超比分关键的干拔三分，第四节就是吸引防守、看防保罗。篮球场上有这样的兄弟、这样的队友，真的是一件很幸福的事。主要是勇士全队都是这种氛围，么么哒~</p><p>        面瘫汤神表示，快点赢球，我要回家逗狗！<figure><noscript><img src=\"https://pic4.zhimg.com/85d2b847e648912b2f1c83b7832d1803_b.jpg\" data-rawwidth=\"611\" data-rawheight=\"337\" class=\"origin_image zh-lightbox-thumb\" width=\"611\" data-original=\"https://pic4.zhimg.com/85d2b847e648912b2f1c83b7832d1803_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;611&#39; height=&#39;337&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"611\" data-rawheight=\"337\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"611\" data-original=\"https://pic4.zhimg.com/85d2b847e648912b2f1c83b7832d1803_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/85d2b847e648912b2f1c83b7832d1803_b.jpg\"/></figure>        先说一下现在的持仓，<figure><noscript><img src=\"https://pic1.zhimg.com/279f7559f3a17ee35f03aede82898e04_b.png\" data-rawwidth=\"732\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb\" width=\"732\" data-original=\"https://pic1.zhimg.com/279f7559f3a17ee35f03aede82898e04_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;732&#39; height=&#39;79&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"732\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"732\" data-original=\"https://pic1.zhimg.com/279f7559f3a17ee35f03aede82898e04_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/279f7559f3a17ee35f03aede82898e04_b.png\"/></figure></p><p>       乐凯新材赌的是次新股送转，所以不送转不松口，哪怕今天盘中下跌四个点我也装作看不见，有策略就要咬住。</p><p>       特变电工表现的不如平高电气，考虑找个机会调一下仓。</p><p>       大盘呢，也就是那个样子，短期风险有，但是不大，机会要略高于风险，所以还是控制住仓位，不能有幻觉。</p><p>       总之想好对策就成，发生什么状况就有什么样的处理办法。至于什么慢牛，我觉得都是扯淡，喊喊就慢牛了？哪有这种好事。做好自己的个股，找好策略，想好对策，就足够了。</p><p>       么么哒~周五~嗨嗨嗨~</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "十字fan", 
+                    "userLink": "https://www.zhihu.com/people/5fb82f61cb33a099f72138d7a166dd3b", 
+                    "content": "明修栈道暗度陈仓啊哥们儿", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20354585", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 3, 
+            "title": "11月19日 听说次新股赌博赚到了？", 
+            "content": "感冒了，头疼，简单说几句，明早复盘。乐凯新材近乎涨停，下一步就是坚定持有了，短期震荡无所谓。咬，人做趋势狗做t。", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20352115", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 7, 
+            "title": "11月18日复盘  勇士连胜，路遥也要连胜！", 
+            "content": "<figure><noscript><img src=\"https://pic1.zhimg.com/9d2a9a75ac3230c842e7178897335bcc_b.png\" data-rawwidth=\"661\" data-rawheight=\"614\" class=\"origin_image zh-lightbox-thumb\" width=\"661\" data-original=\"https://pic1.zhimg.com/9d2a9a75ac3230c842e7178897335bcc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;661&#39; height=&#39;614&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"661\" data-rawheight=\"614\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"661\" data-original=\"https://pic1.zhimg.com/9d2a9a75ac3230c842e7178897335bcc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/9d2a9a75ac3230c842e7178897335bcc_b.png\"/></figure>我只能说心疼，追券商的壮士，干了这碗恒河水，来世还做印度人。前两篇一直在提示券商风险，肯定还是会有人干进去的，我只能说像昨天这种时点还追券商，真是胆子大的和阿三一样。自己理智止损，以后这茬不提了好吧。虽然我过一段时间还会买券商的。\n\n<p>送一句话咯，记住哈~贵上极则反贱，贱下极则反贵，贵出如粪土，贱取如珠玉。毕竟，做买卖的道理嘛。</p><p>复盘，复盘。 </p><p>周三（11月18日），A股全天走势较为波折，地产、银行股分别在早盘、午后发力带动指数翻红，但中小创个股、军工、券商股等卖压较重，A股收盘最终下跌1%并退守3600点下方。截至收盘，上证综指跌1.01%报3568.47点，深证成指跌1.82%报12283.76点。两市全天成交金额9422亿元人民币，上日成交金额为1.27万亿元。中小板指收盘跌2.14%；创业板指收盘跌2.06%。万得全A指数收盘跌1.6%；万得全A指数（除金融，石油石化）收盘跌1.66%。</p><p>盘面上，申万一级行业多数下滑。房地产、银行板块分别上涨1.59%、0.31%。中信银行收盘接近涨停，该行将与百度成立直销银行。汽车、计算机、非银金融、国防军工板块均跌3%左右。概念股方面，仅医药电商、移动转售、海南旅游岛指数微幅收涨。健康中国、锂电池、PM2.5、新能源汽车、次新股指数均下挫4%左右。</p><figure><noscript><img src=\"https://pic2.zhimg.com/1190dd1c0377baa77cef4ca957c0b329_b.png\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb\" width=\"1294\" data-original=\"https://pic2.zhimg.com/1190dd1c0377baa77cef4ca957c0b329_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1294&#39; height=&#39;662&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1294\" data-original=\"https://pic2.zhimg.com/1190dd1c0377baa77cef4ca957c0b329_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/1190dd1c0377baa77cef4ca957c0b329_b.png\"/></figure><br/><p><b>喔！金要跌下1000</b><b>了？果然之前说不能急。不过，真的跌破1000</b><b>，我就先买为敬。</b></p><p><b>今天，尾盘补了乐凯新材，为啥呢，因为尾盘好多股票都在下杀，而小小乐凯稳住了哦，一直控着不让跌呢，有人在出力在护盘，那为什么不坐轿子呢。</b><br/></p><figure><noscript><img src=\"https://pic2.zhimg.com/aec96faa41fa847d7f2865cd67f2d3a1_b.png\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb\" width=\"1294\" data-original=\"https://pic2.zhimg.com/aec96faa41fa847d7f2865cd67f2d3a1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1294&#39; height=&#39;662&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1294\" data-original=\"https://pic2.zhimg.com/aec96faa41fa847d7f2865cd67f2d3a1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/aec96faa41fa847d7f2865cd67f2d3a1_b.png\"/></figure><p>补完之后就变成了这个样子。</p><figure><noscript><img src=\"https://pic2.zhimg.com/207531bc48397913143601072fa46255_b.png\" data-rawwidth=\"660\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb\" width=\"660\" data-original=\"https://pic2.zhimg.com/207531bc48397913143601072fa46255_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;660&#39; height=&#39;79&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"660\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"660\" data-original=\"https://pic2.zhimg.com/207531bc48397913143601072fa46255_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/207531bc48397913143601072fa46255_b.png\"/></figure><p>至于大盘嘛，日光底下无新事。么么哒~</p><figure><noscript><img src=\"https://pic1.zhimg.com/c79d140d077193fbd767efef0423b45c_b.png\" data-rawwidth=\"683\" data-rawheight=\"486\" class=\"origin_image zh-lightbox-thumb\" width=\"683\" data-original=\"https://pic1.zhimg.com/c79d140d077193fbd767efef0423b45c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;683&#39; height=&#39;486&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"683\" data-rawheight=\"486\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"683\" data-original=\"https://pic1.zhimg.com/c79d140d077193fbd767efef0423b45c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/c79d140d077193fbd767efef0423b45c_b.png\"/></figure>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "小伙子，对大盘的认识还很肤浅嘛。不要预测，不要预测。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "璇玑观世", 
+                            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+                            "content": "林总教训的是，我刚看到(づ￣ 3￣)づ", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "布兰", 
+                    "userLink": "https://www.zhihu.com/people/e5964359a1d28b4b1fd547e8547234b8", 
+                    "content": "这是什么软件 ？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "璇玑观世", 
+                            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+                            "content": "万得和大智慧啊", 
+                            "likes": 0, 
+                            "replyToAuthor": "布兰"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20349454", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 2, 
+            "title": "11月17日复盘  被影魔隐刀摇了个大？", 
+            "content": "之前说了，你敢追券商是你胆子大，赚到是你应得的，被阴也是你应该的。拉的太快，被打了一闷棍，是不是现在还是晕晕的。<p>不要慌，复复盘。</p><p> 今天周二大盘冲高回落，收倒T小阴线，两个小板走势弱于主板，创业板指数跌幅是2.86%。盘面上，板块和个股跌多涨少，资金大幅流出。全天两市成交12723.5亿元，比上一个交易日的9086.9亿元增加了3636.6亿元。上午大盘放量突破了11月9日的高点3673点，最高到3678点。午后大盘一路下探，盘中没破10日线。午后成交量未能有效跟上，加上创业板走势的拖累，逐波下滑。</p><p>调整就调整吧，反正我只是头仓。</p><p>重仓的朋友也没必要慌了，现在一慌又割肉了，躺下装死就行，这次打完新就能好很多。下跌空间不大，躺好就行。如果明天大涨，先减减仓。</p><p>至于次新股，比别的风险还是要大一些，但是，会有一些股票脱颖而出的。</p><p>不要怕，不就是被影魔贴身摇了个大么，出个bkb再打回来不就可以了嘛！</p><p>感冒了，写不了太多了，什么一行三会，我觉得问题不大。先睡了。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "诸葛尚", 
+                    "userLink": "https://www.zhihu.com/people/eb90ed54e3077e9bc6da39defcdbdcc8", 
+                    "content": "哈哈哈 先睡了？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "老板，我快满仓了，救救我！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "璇玑观世", 
+                            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+                            "content": "太假了！会被群众看出来的！演的不逼真！这五块钱不给了！", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "给我1块钱，把你捧起来！", 
+                            "likes": 0, 
+                            "replyToAuthor": "璇玑观世"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20347446", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 8, 
+            "title": "乐凯新材 投资逻辑", 
+            "content": "1、公司实际控制人为航天科技集团，母公司为乐凯公司，乐凯公司是国内最大的数码影响材料、数字印刷材料生产企业，国内平板显示器中高档光学薄膜和薄膜深加工企业，国内特种感光材料、特种薄膜生产企业。上市公司主要从事热敏磁票、磁条及磁卡的生产销售，是国内磁记录材料领域的龙头企业，占据国内热敏磁票全部市场份额并在其他磁条、磁票领域占有超过一半的市场份额，公司80%的收入来源于热敏磁票销售。<br/>2、公司我国内新一代自助售票系统提供支持，07年开始热敏磁票应用于京沪、京广、宁沪、郑西高铁及京津城际，未来将进一步推广至全国，随着城际铁路的逐步开通、高铁网络建设的完工和新路线的开通，为公司未来的业绩增长提供了有利的保障；募集资金用于新产能的扩张，保证了公司在业务能力上能够满足业务增长的需要；<br/>3、从市场角度看，全球磁记录市场主要被德国库尔兹、法国帕拉尔、澳大利亚格林和乐凯新材所占据，四家公司出货量占全球市场的90%，处于寡头垄断，市场竞争格局稳定、理性。<br/>4、EMV迁移——银行卡从磁条卡转变为IC卡的过程以及其他信息存储方式如二维码、射频技术等发展会对公司磁条卡在银行及其他商业领域的增长带来很大挑战，但是鉴于该部分业务占公司总收入的比重有限，也不是公司重点发展的方向，因此不会对公司造成太大冲击。<br/><br/><b>  总结：业务简单、成长驱动力明确、市场格局稳定、细分领域的龙头企业，正是我喜欢的企业类型，小而美的典范，80元以内的价格都是可以接受的，但是鉴于目前狂热的市场状态，很难有介入的机会，不过也不是完全没有机会，当市场冷静下来的时候，总会有机会的，现在需要的只是默默的关注和耐心的等待。</b><br/><br/>                                                                                     2015、08、12<br/>（这一篇文章是今年八月份写的，一直在跟踪这只股票，目前逻辑依旧成立，所以衣不如新，股不如旧，被选为我次新股赌博的标的，现在再做它，赌的就是普涨和送转。）", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "不喝凉白开", 
+                    "userLink": "https://www.zhihu.com/people/0cd83b98d5b46efd5b0c3a975232519b", 
+                    "content": "老板。。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "不喝凉白开", 
+                    "userLink": "https://www.zhihu.com/people/0cd83b98d5b46efd5b0c3a975232519b", 
+                    "content": "我不忍赞。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "璇玑观世", 
+                            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+                            "content": "啊？", 
+                            "likes": 0, 
+                            "replyToAuthor": "不喝凉白开"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "觉得现在是介入的时机了。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "于海洋", 
+                    "userLink": "https://www.zhihu.com/people/e74e2cbe0516d6cbc9a6e91fc1de680d", 
+                    "content": "你赌输了？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20347337", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 5, 
+            "title": "11月17日盘中  少年我看你骨骼惊奇，愿意参加次新股赌博么？", 
+            "content": "昨天尾盘追券商的同学是不是特别开心？还是那一句，You deserve it，敢于承担大的风险，你也会收获大的收益。<p>这一波反弹是券商带起来的，所以要明确这个逻辑，只要券商还活着，还有力气折腾，大盘短期就不会有大的跌幅出现。那么今天还有什么好看的呢，一个字，量。如果逻辑支撑，再有量的配合，一个字，完美，请去3800。如果没有量，那么还是不要加仓咯。</p><p>假设今天量还不错，那我们加仓要去哪个方向呢？今天白线在往上走，黄线急剧向下，二八转换的前奏？我倒是觉得，次新股还是会有最后一次博傻的机会，合理配置仓位的话，大盘小盘兼顾，我就敢参与次新股赌博。今天截止目前次新表现不佳，尝试建立头仓观察一下吧。</p><figure><noscript><img src=\"https://pic4.zhimg.com/1825ad665be9a0c5c6eca25429e19d17_b.png\" data-rawwidth=\"660\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb\" width=\"660\" data-original=\"https://pic4.zhimg.com/1825ad665be9a0c5c6eca25429e19d17_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;660&#39; height=&#39;79&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"660\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"660\" data-original=\"https://pic4.zhimg.com/1825ad665be9a0c5c6eca25429e19d17_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/1825ad665be9a0c5c6eca25429e19d17_b.png\"/></figure>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20345555", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 3, 
+            "title": "11月16日复盘 科比准三双，A股怎么样？", 
+            "content": "<p>我知道，今天肯定又有人追券商了，而且受制于强者恒强的观念追的还是西部证券，对，没错，就是这个位置，就是这个时间！<figure><noscript><img src=\"https://pic1.zhimg.com/191f8ea525e6c32ebd09bd035b4fba84_b.png\" data-rawwidth=\"554\" data-rawheight=\"398\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/191f8ea525e6c32ebd09bd035b4fba84_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;398&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"554\" data-rawheight=\"398\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic1.zhimg.com/191f8ea525e6c32ebd09bd035b4fba84_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/191f8ea525e6c32ebd09bd035b4fba84_b.png\"/></figure></p><p>这是今天的分时，两点了开始拉升对不对，似曾相识对不对，两点半加速拉升对不对，像极了11月11号对不对！<figure><noscript><img src=\"https://pic4.zhimg.com/e843ebe35725b45c4091971abbbe8e27_b.png\" data-rawwidth=\"554\" data-rawheight=\"398\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic4.zhimg.com/e843ebe35725b45c4091971abbbe8e27_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;398&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"554\" data-rawheight=\"398\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic4.zhimg.com/e843ebe35725b45c4091971abbbe8e27_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/e843ebe35725b45c4091971abbbe8e27_b.png\"/></figure></p><p>我只能说这是一次极其精准的追高，然后就扑街......</p><figure><noscript><img src=\"https://pic3.zhimg.com/dc872d32105285330e60d445c6d18f92_b.png\" data-rawwidth=\"554\" data-rawheight=\"397\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/dc872d32105285330e60d445c6d18f92_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;397&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"554\" data-rawheight=\"397\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic3.zhimg.com/dc872d32105285330e60d445c6d18f92_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/dc872d32105285330e60d445c6d18f92_b.png\"/></figure><p>请允许我做一个悲伤地表情。强行把自己套两个点，我只能说心疼。如果说后面你赚到了钱，我也表示非常的羡慕，you deserve it，这个时点追券商，确实是条汉子。你胆子大你先赚，我胆子小我再等等。</p><p>好，言归正传，复盘。</p><p>周一（11月16日），A股低开后震荡走升，尾盘翻红并重回3600点上方。盘面上，中小市值个股表现活跃，工业4.0、机器人概念股批量涨停，券商股则表现低迷。 </p><p>截至收盘，上证综指涨0.73%报3606.96点，深证成指涨1.76%报12620.38点。两市全天成交金额9077亿元人民币，上日成交金额为1.14万亿元。中小板指收盘涨2%；创业板指收盘涨3.21%。</p><p>申万一级行业中，仅非银金融板块收跌，但跌幅不及1%。电子、机械设备、计算机、通信、综合板块均大涨3%左右。房地产、有色金属板块均升约2%。</p><p>概念股方面，工业4.0、机器人指数均大涨逾7%。传感器、人工智能、虚拟现实、3D打印、生物识别、安防监控、智能穿戴指数均涨5%左右。</p><p>股指期货方面，沪深300、中证500股指期货主力合约分别上涨0.15%、2.2%。上证50股指期货主力合约跌0.3%。 </p><p>昂，大概就是这个样子，市场虽然比我预想的要强势，但没有那么强势，还是存在较大分歧，风险还是有的，现在谈牛市未免太早了点。</p><p>那这种情况下我们还能不能做呢，还是能做的。怎么做？</p><p>1、控制仓位</p><p>2、找自己熟悉的股票，自己把握大的，有明确逻辑的</p><p>3、不要再追高了，多关注一下那些沉寂已久的板块，会有惊喜的，就像今天的泸州老窖。 </p><p>想完了这些，所以我自己建了特变电工的头仓，逻辑之前讲过，也算是不错的介入位置了，那就控制仓位来做这个，就是这个样子，喵。以后股票会做跟踪的。</p><p><figure><noscript><img src=\"https://pic1.zhimg.com/aa5e71ce79a7922eb9a09723600512e4_b.png\" data-rawwidth=\"660\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb\" width=\"660\" data-original=\"https://pic1.zhimg.com/aa5e71ce79a7922eb9a09723600512e4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;660&#39; height=&#39;79&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"660\" data-rawheight=\"79\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"660\" data-original=\"https://pic1.zhimg.com/aa5e71ce79a7922eb9a09723600512e4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/aa5e71ce79a7922eb9a09723600512e4_b.png\"/></figure><b>PS：卧槽，今天蜗壳准三双啊，虽然命中率还是很低，我只是想说依旧美如画！尚能饭！</b></p><p><b>最后给大家留了一道算术题。</b></p><br/><b>最后5分钟  湖人70-74活塞。</b><br/><br/><br/><b>斯科特眼看摆烂不成，怒放大招，</b><b>换下小南斯，准备深藏功与名。</b><br/><br/><br/><b>科比：三分入网</b><br/><br/><br/><b>斯科特：卧底？？</b><br/><br/><br/><b>庄神：技术犯规~~~~  89-80</b><br/><br/><br/><b>斯科特：卧槽，还能这样？</b><br/><br/><br/><b>全场结束湖人赢。</b><br/><br/><br/><b>求，斯科特的心理阴影面积。</b>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20343939", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 7, 
+            "title": "11月16日 写在开盘前", 
+            "content": "<p>        首先表明观点，短期风险很大。</p><p>        风险偏好低的小朋友可以看看书打打游戏和妹子聊聊天，像我一样，选择观望不参与。如果管不住手，强行要参与的话，讲道理还是要控制仓位。三成，不能再多了。已经吃了这么多肉了，心满意足，控制回撤才是重要的事。人做趋势狗做T，趋势不好就不要瞎搞了。</p>言归正传，谈逻辑。<p>1、<strong>国际环境，恐怖主义袭来，大宗商品再遭抛售</strong><br/></p><p>        法国遭遇最重大的恐怖袭击，IS发表声明称对巴黎袭击案负责，这里不再多言，这个东西会在另外的文章里写。我们愿逝者安息，就足够了，还是要花时间研究市场，吃好我们自己的饭的，别一天到晚总是圣母来圣母去的。这个事情直接导致短期内避险情绪升温。再加上上周美联储官员频繁讲话，暗示12月加息。而上周大宗商品再遭抛售，但原因已经不是过去的供给过剩，而是加息预期的增强，以及中国等市场需求的下滑。强行要加息，我只能说这个游戏真难玩。</p><p><figure><noscript><img src=\"https://pic3.zhimg.com/4460336a0ea0764b6e1f9dec5d293392_b.png\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb\" width=\"1294\" data-original=\"https://pic3.zhimg.com/4460336a0ea0764b6e1f9dec5d293392_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1294&#39; height=&#39;662&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1294\" data-original=\"https://pic3.zhimg.com/4460336a0ea0764b6e1f9dec5d293392_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/4460336a0ea0764b6e1f9dec5d293392_b.png\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/97f77ed728151f21440c1c2b5e86b607_b.png\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb\" width=\"1294\" data-original=\"https://pic4.zhimg.com/97f77ed728151f21440c1c2b5e86b607_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1294&#39; height=&#39;662&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1294\" data-original=\"https://pic4.zhimg.com/97f77ed728151f21440c1c2b5e86b607_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/97f77ed728151f21440c1c2b5e86b607_b.png\"/></figure>最近在考虑黄金是否应该压点注进去，这个事情不能急，但还是可以考虑的。</p><figure><noscript><img src=\"https://pic1.zhimg.com/4b9c0cd96226b90b8ae69490195f9ad0_b.png\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb\" width=\"1294\" data-original=\"https://pic1.zhimg.com/4b9c0cd96226b90b8ae69490195f9ad0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1294&#39; height=&#39;662&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1294\" data-original=\"https://pic1.zhimg.com/4b9c0cd96226b90b8ae69490195f9ad0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/4b9c0cd96226b90b8ae69490195f9ad0_b.png\"/></figure><br/><p><strong>2、国内环境，经济下行不止，通缩风险加大，财政政策有望发力</strong></p><p>        10月的数据大家也都看了，不细说了，总之还是在下行，哎，下行......</p><p>        通缩的事之前没提到过，多说几句。10月CPI同比大跌至1.3%，其中，非食品价格同比上涨0.9%，继4月以后再次跌破1%，而衣食住行价格也全面疲弱。PPI已连续44个月处于负值区间，且没有看到明显的改善趋势。近期成本端的粮价、油价等重要生产要素成本下跌，带动CPI持续下行，总体通缩已成现实风险。哎，通缩......<br/></p><p>        至于财政发力的问题，上一篇文章已经说了，就不再赘述了。</p><p>        另外谈几个这周末的消息。</p><p>        11月23日融资保证金提高到100%，就是为了防范投资过热嘛，为以后避免系统性风险，就是针对新规的。还有什么抓人啊，IPO啊，懒得往上写了，了解就好，别过分解读。相比这个，我更关心的是A50的走法，看得我心冷啊，心冷......</p><figure><noscript><img src=\"https://pic1.zhimg.com/535df02b7d9463e53819801fcd70c07c_b.png\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb\" width=\"1294\" data-original=\"https://pic1.zhimg.com/535df02b7d9463e53819801fcd70c07c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1294&#39; height=&#39;662&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1294\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1294\" data-original=\"https://pic1.zhimg.com/535df02b7d9463e53819801fcd70c07c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/535df02b7d9463e53819801fcd70c07c_b.png\"/></figure><p>        说了这么多，最后总结一下，别动不动就开始憧憬牛市。至于券商，这一波券商的上涨和去年11月12月的能一样么，去年是厚积薄发，是一个充分调整过的上涨，现在的上涨终究是个反弹，自己想，两年之内在同样的地方发生两次大泡沫的概率有多大！IPO这种事情对券商的影响应该是有限的，差不多得了，别老想着还有还有几个板的事情了，冷静一下啊兄弟，自己设个止盈位，控制利润回撤才是重要的事。赌博也要按照基本法的！</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20338242", 
+            "userName": "璇玑观世", 
+            "userLink": "https://www.zhihu.com/people/bf2a9a7f568533c10584cc34f0903fc5", 
+            "upvote": 4, 
+            "title": "中国电网宏观机会研究", 
+            "content": "<p>        这是一篇自上而下的研究报告，文章主体涉及三个大逻辑，请各位观众老爷们耐心读完。<br/></p><p><b>一、 </b><b>宏观政策的结构性拐点</b><b>——“宽货币”向宽政策的转变</b></p><p>        根据十月份公布的通胀和增长数据来看，CPI、工业增加值均不及市场预期，债券市场收益率显著回落。跳出短期经济现象，关注宏观政策的结构性调整我们会发现，积极地财政政策已初露端倪。通过几个直观的证据来佐证此观点。</p><p><b>1、</b><b>固定资产投资先行指标有所回升</b></p><p>        一是投资到位资金增速小幅回升。1-10月份，全国投资到位资金471059亿元，同比增长7.3%，增速比1-9月份提高0.5个百分点，是在增速连续三个月保持在6.8%之后首次提高，表明投资资金紧张状况有所缓解。</p><p>        到位资金，是指固定资产投资单位在报告期内收到的，用于固定资产投资的各种货币资金，包括国家预算资金、国内贷款、利用外资、自筹资金和其他资金。而贷款资金增速为负，充分表明财政资金可能已经发力。</p><p><strong>2</strong><strong>、地方置换债和金融专项债等融资规模扩大，</strong><strong>3%</strong><strong>赤字率红线可能调整</strong></p><p>        据彭博10月份报道，年内专项金融债规模增加一倍至6000亿；据彭博11月11日报道，今年地方债置换额度将从3.2万亿增至3.8至4万亿元。其中，专项金融债为增量，属于直接宽财政措施，地方债置换尽管是存量置换，但是在实际上有助于改善地方政府融资难和贵的局面，属于间接宽财政措施。此外，近日财政部副部长朱光耀表示，3％的赤字率红线和60％的负债率红线需要反思，我们认为“宽财政”空间可能进一步打开。</p><p>        诚言，只通过这两条并不能让我们确信宽财政已然悄然打开。由于财政政策具有不可逆性和强刺激性，因此财政政策的出台是非常慎重的，只有当在经济下行压力增大时，财政政策可能开始“唱主角”，到位资金大幅增加、政府债务扩大等均是财政发力的迹象而已。</p><p>        输配电行业投资直接由政府主导，政府的电网改造升级计划将直接影响行业的业务量。刺激经济所配套的财政政策，加大电网投资也是其中的一部分。财政发力对电网行业是一个极大的推动。</p><p><b>二、  </b><b>电力供需结构不匹配必然需要更为强大的电网系统</b></p><p>        作为世界上第一大电力生产国，由于经济增速趋稳，中国正面临着电力过剩的难题，部分地区甚至出现了弃风弃光的情况。中国风能主要集中在“三北”地区，太阳能聚集在西部地区，这类资源都相对集中，问题在于没有与之相应的负荷匹配，所以亟待通过电网在一个更大的范围内去优化、消纳。</p><p>        中国之所以出现弃风弃电问题，一定程度上是因为电源开发与电网发展不匹配、不协调造成的。从全国整体角度看，消纳能力是有的，但中国风电光电是集中开发的方式，这就需要电力系统为这些能源搭建一个更大的网络去消纳、吸收。</p><p>        根据11月2日召开的国家电网第四季度工作会议部署，中国现有电网格局将实现重大变化，华北、华中、华东、东北、西北等交流同步电网，到2020年将互联整合为东部、西部两大电网；到2025年，东、西部电网则通过同步互联工程，形成一个同步电网。</p><p>        如果将电网整合为东西两大电网，进而融合为一个同步电网，不仅可以解决中西部地区电力消纳的问题，也可以让东南沿海等用电集中地区的用电需求得到满足，中东部火力发电将被逐渐替代。雾霾的原因让大家的感受较为直观，因此进清洁替代、电能替代是一个较为明晰的战略。</p><p><b>三、  </b><b>海外市场的巨大电网建设需求</b></p>\n\n        海外市场，特别是印度、印尼等以及东南亚国家，存在巨大的电网建设需求，我国在电网领域具备技术优势，海外市场为我国输配电领域企业提供平了增量市场。海外电网的建设项目的刚性需求，同样是较为明确的大逻辑。<p>具体的行业分析，以及标的平高电气、特变电工会在下一篇中讲。</p>", 
+            "topic": [], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/ly1994"
+}

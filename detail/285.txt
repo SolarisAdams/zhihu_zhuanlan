@@ -1,0 +1,518 @@
+{
+    "title": "后台产品有话说", 
+    "description": "一些产品经理工作经验，一些财务知识小说明，以及二者之间的融会贯通！", 
+    "followers": [
+        "https://www.zhihu.com/people/han-xu-31-9", 
+        "https://www.zhihu.com/people/derekchou", 
+        "https://www.zhihu.com/people/zhang-fan-78-73-86", 
+        "https://www.zhihu.com/people/brucebu-lu-van", 
+        "https://www.zhihu.com/people/chihang-yim-36", 
+        "https://www.zhihu.com/people/superxia-37", 
+        "https://www.zhihu.com/people/gu-jiang-bo", 
+        "https://www.zhihu.com/people/li-peng-41-64", 
+        "https://www.zhihu.com/people/kayskyo", 
+        "https://www.zhihu.com/people/martincc-65", 
+        "https://www.zhihu.com/people/yang-zhi-27", 
+        "https://www.zhihu.com/people/varo-nox", 
+        "https://www.zhihu.com/people/nian-nian-nian-nian-nian-ke-ai", 
+        "https://www.zhihu.com/people/wei-xiao-qi-24-67", 
+        "https://www.zhihu.com/people/yuan-ji-78", 
+        "https://www.zhihu.com/people/moononstick", 
+        "https://www.zhihu.com/people/cong-wu-lin", 
+        "https://www.zhihu.com/people/ruienchen-55", 
+        "https://www.zhihu.com/people/gululualu", 
+        "https://www.zhihu.com/people/AMLAG", 
+        "https://www.zhihu.com/people/swanra-28", 
+        "https://www.zhihu.com/people/mr-w-19-86", 
+        "https://www.zhihu.com/people/dai-lin-yi-66", 
+        "https://www.zhihu.com/people/marja", 
+        "https://www.zhihu.com/people/rock-22-11", 
+        "https://www.zhihu.com/people/jiang-jiang-58-23", 
+        "https://www.zhihu.com/people/linjinchao", 
+        "https://www.zhihu.com/people/sha-pi-gou-de-you-shang-59-85", 
+        "https://www.zhihu.com/people/jiang-de-tong-64", 
+        "https://www.zhihu.com/people/niu-nai-jia-tang", 
+        "https://www.zhihu.com/people/zhou-jian9621", 
+        "https://www.zhihu.com/people/sun-chen-1988", 
+        "https://www.zhihu.com/people/mars-69", 
+        "https://www.zhihu.com/people/cassie-61-28-75", 
+        "https://www.zhihu.com/people/luoweisong", 
+        "https://www.zhihu.com/people/xuan-lan-de-ren-sheng", 
+        "https://www.zhihu.com/people/fei-yu-yang-58-88", 
+        "https://www.zhihu.com/people/hanfeng-73", 
+        "https://www.zhihu.com/people/xu-xiao-zheng-32", 
+        "https://www.zhihu.com/people/nai-cha-hai-se-wei", 
+        "https://www.zhihu.com/people/xiao-mi-8-4", 
+        "https://www.zhihu.com/people/xsnail", 
+        "https://www.zhihu.com/people/jiang-nan-mu-qing", 
+        "https://www.zhihu.com/people/huang-xiao-yu-57", 
+        "https://www.zhihu.com/people/xiaodoudeal", 
+        "https://www.zhihu.com/people/linuxcpp", 
+        "https://www.zhihu.com/people/guiqiubeiliao", 
+        "https://www.zhihu.com/people/jie-jin-hu", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/tgdhuangcui", 
+        "https://www.zhihu.com/people/jia-yu-yuan-fang", 
+        "https://www.zhihu.com/people/hua-liang-50", 
+        "https://www.zhihu.com/people/xiao-li-21-16", 
+        "https://www.zhihu.com/people/feng-han-1", 
+        "https://www.zhihu.com/people/sgxss", 
+        "https://www.zhihu.com/people/bx-yin-2", 
+        "https://www.zhihu.com/people/feng-chao-chao", 
+        "https://www.zhihu.com/people/youwuyun", 
+        "https://www.zhihu.com/people/hua-rui-ji", 
+        "https://www.zhihu.com/people/wu-liang-di", 
+        "https://www.zhihu.com/people/ltberserker", 
+        "https://www.zhihu.com/people/swing-18-52", 
+        "https://www.zhihu.com/people/stonebrt", 
+        "https://www.zhihu.com/people/huang-bao-chang-9", 
+        "https://www.zhihu.com/people/barnett-gao", 
+        "https://www.zhihu.com/people/evan_19", 
+        "https://www.zhihu.com/people/ka-ka-ca-ca-90", 
+        "https://www.zhihu.com/people/tie-guan-yin-1-23", 
+        "https://www.zhihu.com/people/yu-gui-tao-24", 
+        "https://www.zhihu.com/people/rachel-52-54-55", 
+        "https://www.zhihu.com/people/chen-xiao-yu-88-83-39", 
+        "https://www.zhihu.com/people/shen-xian-46-99", 
+        "https://www.zhihu.com/people/zhang-li-bo-77", 
+        "https://www.zhihu.com/people/mika3020", 
+        "https://www.zhihu.com/people/ming-san-qiu", 
+        "https://www.zhihu.com/people/hannah-papaya", 
+        "https://www.zhihu.com/people/xi-xi-6-82", 
+        "https://www.zhihu.com/people/zhao-li-xing", 
+        "https://www.zhihu.com/people/xiao-zao-66-69", 
+        "https://www.zhihu.com/people/xue-song-64-76", 
+        "https://www.zhihu.com/people/feifei-gu", 
+        "https://www.zhihu.com/people/jensonboy", 
+        "https://www.zhihu.com/people/hei-liao-ba-ji-83", 
+        "https://www.zhihu.com/people/levily", 
+        "https://www.zhihu.com/people/xu-yong-22", 
+        "https://www.zhihu.com/people/pako-50", 
+        "https://www.zhihu.com/people/thomas2013", 
+        "https://www.zhihu.com/people/wei-wei-48-30", 
+        "https://www.zhihu.com/people/da-zong-zi-v5", 
+        "https://www.zhihu.com/people/qichenyu", 
+        "https://www.zhihu.com/people/xi-xi-xi-bu-ding", 
+        "https://www.zhihu.com/people/tang-xiao-jia-59", 
+        "https://www.zhihu.com/people/pao-fu-xiao-jie-76-83", 
+        "https://www.zhihu.com/people/xie-yong-35", 
+        "https://www.zhihu.com/people/li-a-qiu", 
+        "https://www.zhihu.com/people/xiao-gu-liang-16-9", 
+        "https://www.zhihu.com/people/summerhug", 
+        "https://www.zhihu.com/people/zhuang-nan-nan-18", 
+        "https://www.zhihu.com/people/hruo-wu-qishi", 
+        "https://www.zhihu.com/people/yang-nan-54-81", 
+        "https://www.zhihu.com/people/shi-san-79-65", 
+        "https://www.zhihu.com/people/www.iwpai.com", 
+        "https://www.zhihu.com/people/juugler", 
+        "https://www.zhihu.com/people/kevin-hill", 
+        "https://www.zhihu.com/people/RussellL", 
+        "https://www.zhihu.com/people/Centurion", 
+        "https://www.zhihu.com/people/jiangxu-98", 
+        "https://www.zhihu.com/people/lu-yu-87-73-81", 
+        "https://www.zhihu.com/people/binglinshenxia.com", 
+        "https://www.zhihu.com/people/lao-lin-37-18", 
+        "https://www.zhihu.com/people/ju-ju-ou", 
+        "https://www.zhihu.com/people/wang-chan-43", 
+        "https://www.zhihu.com/people/feng-jing-44-80", 
+        "https://www.zhihu.com/people/louis-85-56", 
+        "https://www.zhihu.com/people/yu-xie-98", 
+        "https://www.zhihu.com/people/huang-li-ping-27-20", 
+        "https://www.zhihu.com/people/li-ling-76-37-72", 
+        "https://www.zhihu.com/people/li-xu-67-83", 
+        "https://www.zhihu.com/people/yuan-de-yi-ren-xin-20", 
+        "https://www.zhihu.com/people/mi-lu-de-qi-qi", 
+        "https://www.zhihu.com/people/xu-qian-19-63", 
+        "https://www.zhihu.com/people/james-vika", 
+        "https://www.zhihu.com/people/xie-lin-56-89", 
+        "https://www.zhihu.com/people/zhu-jun-wen-44", 
+        "https://www.zhihu.com/people/chen-lan-lan-34-69", 
+        "https://www.zhihu.com/people/nknice", 
+        "https://www.zhihu.com/people/zhang-xie-66", 
+        "https://www.zhihu.com/people/zhao-ju-di", 
+        "https://www.zhihu.com/people/lei-qing-82", 
+        "https://www.zhihu.com/people/kaodg", 
+        "https://www.zhihu.com/people/tian-tian-27-49-15", 
+        "https://www.zhihu.com/people/wang-yu-42-55", 
+        "https://www.zhihu.com/people/wu-di-xiao-fei-xia-www", 
+        "https://www.zhihu.com/people/sun-ji-shuang-63", 
+        "https://www.zhihu.com/people/hu-tao-mi-ma", 
+        "https://www.zhihu.com/people/gao-yu-61-98-2", 
+        "https://www.zhihu.com/people/zhou-xian-yu", 
+        "https://www.zhihu.com/people/qiu-da-meng", 
+        "https://www.zhihu.com/people/shuminghao", 
+        "https://www.zhihu.com/people/shuai-shuai-34-61", 
+        "https://www.zhihu.com/people/ao-lu-ao-26", 
+        "https://www.zhihu.com/people/lu-wei-81-74", 
+        "https://www.zhihu.com/people/liu-shirley-26", 
+        "https://www.zhihu.com/people/lan-lan-lan-3-44", 
+        "https://www.zhihu.com/people/ming-wang-xing-91-1", 
+        "https://www.zhihu.com/people/mao-mao-24-98-15", 
+        "https://www.zhihu.com/people/zhou-li-89-72", 
+        "https://www.zhihu.com/people/zam-47-97", 
+        "https://www.zhihu.com/people/liu-mai-shen-jian-88-87", 
+        "https://www.zhihu.com/people/zhu-zhu-6", 
+        "https://www.zhihu.com/people/lai-ren-wei-76", 
+        "https://www.zhihu.com/people/wo-bu-zhi-dao-12-97", 
+        "https://www.zhihu.com/people/shang-min-11-47", 
+        "https://www.zhihu.com/people/wang-yan-qiu-38-17", 
+        "https://www.zhihu.com/people/lang-zi-li-bai", 
+        "https://www.zhihu.com/people/li-mo-xiong-24", 
+        "https://www.zhihu.com/people/zhang-ying-66-99-48", 
+        "https://www.zhihu.com/people/triangle_earth", 
+        "https://www.zhihu.com/people/lyqing-84", 
+        "https://www.zhihu.com/people/qianqian1990", 
+        "https://www.zhihu.com/people/mac-oracle", 
+        "https://www.zhihu.com/people/vegeta-8", 
+        "https://www.zhihu.com/people/yang-guo-li-54", 
+        "https://www.zhihu.com/people/lietome-21", 
+        "https://www.zhihu.com/people/ga-da-wang", 
+        "https://www.zhihu.com/people/lin-peng-yun", 
+        "https://www.zhihu.com/people/ha-mo-15-58", 
+        "https://www.zhihu.com/people/haric-47", 
+        "https://www.zhihu.com/people/lucillegyl", 
+        "https://www.zhihu.com/people/zgd819", 
+        "https://www.zhihu.com/people/pu-gu-li", 
+        "https://www.zhihu.com/people/lycia-wu", 
+        "https://www.zhihu.com/people/edwin-65-34", 
+        "https://www.zhihu.com/people/ben-pao-ba-da-jiao", 
+        "https://www.zhihu.com/people/ji-li-gu-lu-1-49", 
+        "https://www.zhihu.com/people/jie-nai", 
+        "https://www.zhihu.com/people/yu-min-xing", 
+        "https://www.zhihu.com/people/lou-mi-78", 
+        "https://www.zhihu.com/people/zhao-xing-si", 
+        "https://www.zhihu.com/people/duan-mu-jun-17", 
+        "https://www.zhihu.com/people/blueman-888", 
+        "https://www.zhihu.com/people/chang-yuan-wai", 
+        "https://www.zhihu.com/people/kai-xu-ge-ge", 
+        "https://www.zhihu.com/people/luo-ma-shi-chai", 
+        "https://www.zhihu.com/people/kof998877", 
+        "https://www.zhihu.com/people/lu-meng-jiao-70", 
+        "https://www.zhihu.com/people/hong-ze-yi-42", 
+        "https://www.zhihu.com/people/josu", 
+        "https://www.zhihu.com/people/xiao-lin-21-73", 
+        "https://www.zhihu.com/people/chang-wen-hao-7", 
+        "https://www.zhihu.com/people/arong.meng", 
+        "https://www.zhihu.com/people/huo-huo-33-42", 
+        "https://www.zhihu.com/people/zhang-xiao-fan-22-33", 
+        "https://www.zhihu.com/people/zhu-xiao-wei-12-72", 
+        "https://www.zhihu.com/people/ping-guo-20-84", 
+        "https://www.zhihu.com/people/lu-chen-2-49", 
+        "https://www.zhihu.com/people/qian-shu-84-33", 
+        "https://www.zhihu.com/people/la-la-la-liu-li", 
+        "https://www.zhihu.com/people/yue-cuo-yue-yong-97", 
+        "https://www.zhihu.com/people/kiki-46-71-79", 
+        "https://www.zhihu.com/people/you-xiao-hua-30", 
+        "https://www.zhihu.com/people/gang-gang-hao-ai", 
+        "https://www.zhihu.com/people/lin-rong-min-69", 
+        "https://www.zhihu.com/people/zhou-han-han-91", 
+        "https://www.zhihu.com/people/feng-kang-96", 
+        "https://www.zhihu.com/people/ren-wei-88-39", 
+        "https://www.zhihu.com/people/li-yuan-94-14", 
+        "https://www.zhihu.com/people/wenny-91-71", 
+        "https://www.zhihu.com/people/li-yi-fei-50-62", 
+        "https://www.zhihu.com/people/qyeon-woo", 
+        "https://www.zhihu.com/people/lilywang-44", 
+        "https://www.zhihu.com/people/qin-cai-69-23", 
+        "https://www.zhihu.com/people/yang-kai-16-30", 
+        "https://www.zhihu.com/people/eddie-mei", 
+        "https://www.zhihu.com/people/chen-zong-yuan-71", 
+        "https://www.zhihu.com/people/san-er-yi-62-93", 
+        "https://www.zhihu.com/people/you-mi-84-53", 
+        "https://www.zhihu.com/people/ding-dong-sheng", 
+        "https://www.zhihu.com/people/sqs-43", 
+        "https://www.zhihu.com/people/xiao-ge-9-23-86", 
+        "https://www.zhihu.com/people/liulang"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/43776710", 
+            "userName": "罗飞", 
+            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+            "upvote": 3, 
+            "title": "如何用牛顿冷却定律计算热度？", 
+            "content": "<p><b>一、什么是牛顿冷却定律</b></p><p><b>牛顿冷却定律</b>是由英国物理学家艾萨克·牛顿爵士（1642-1727）所提出的一个经验性的关系。是指物体所损失的热的速率与物体和其周围环境间的温度差是成比例的。当物体表面与周围存在温度差时，单位时间从单位面积散失的热量与温度差成正比，比例系数称为热传递系数。</p><p>其公式如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-3c3f6cf297084c35c8c06529ef096cca_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"210\" data-rawheight=\"60\" class=\"content_image\" width=\"210\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;210&#39; height=&#39;60&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"210\" data-rawheight=\"60\" class=\"content_image lazy\" width=\"210\" data-actualsrc=\"https://pic3.zhimg.com/v2-3c3f6cf297084c35c8c06529ef096cca_b.jpg\"/></figure><blockquote>其中：<br/>T（t）：物体当前的温度<br/>H：为周围的温度<br/>k： 为比例系数</blockquote><p>它进行变化后就变成：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2668f96fc443951dddfa28ee5b83fc35_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"332\" data-rawheight=\"33\" class=\"content_image\" width=\"332\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;332&#39; height=&#39;33&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"332\" data-rawheight=\"33\" class=\"content_image lazy\" width=\"332\" data-actualsrc=\"https://pic2.zhimg.com/v2-2668f96fc443951dddfa28ee5b83fc35_b.jpg\"/></figure><p>如果H=0，则公式就是：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-942a2829ad280b5eda59550c999a2fbc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"196\" data-rawheight=\"33\" class=\"content_image\" width=\"196\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;196&#39; height=&#39;33&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"196\" data-rawheight=\"33\" class=\"content_image lazy\" width=\"196\" data-actualsrc=\"https://pic1.zhimg.com/v2-942a2829ad280b5eda59550c999a2fbc_b.jpg\"/></figure><p>从以上公式我们可以看出牛顿冷却公式的衰减过程，k是我们自己设定的衰减系数，经过 t 时间后，物体当前的问题是由初始温度和衰减速率的乘积。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-65ddb1b681ff1d3dff9dc32c14ade28c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"360\" data-rawheight=\"230\" class=\"content_image\" width=\"360\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;360&#39; height=&#39;230&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"360\" data-rawheight=\"230\" class=\"content_image lazy\" width=\"360\" data-actualsrc=\"https://pic1.zhimg.com/v2-65ddb1b681ff1d3dff9dc32c14ade28c_b.jpg\"/></figure><p>此公式建立“温度”与“时间”之间的函数关系，轻松构建一个“指数式衰减”（Exponential decay）的过程。</p><p><b>二、牛顿冷却定律在AI场景中的应用</b></p><p>牛顿冷却定律是指“温度”与“时间”之间的指数衰减函数，在AI算法中，可以根据牛顿冷却定律公式做关于“热度”衰减算法应用。比如热文排名的冷却算法。</p><p>我们可以把“热文排名”想象成一个“自然冷却”的过程：</p><ul><li>在某个时点，我们APP中所有的文章，有一个当前“温度”（热度值），按照“温度”的高低进行文章排名；</li><li>如果用户在某些文章进行了悬赏、赞成、转发、评论等，这个文章的“温度”就会上升；</li><li>但是随着时间的发展，我们不可能还让这些历史的文章一直呈现比较高的“温度”，我们需要将其冷却下来，这样才能让一些新的文章获取更好的排名。</li><li>我们知道通过悬赏、赞成、转发、评论等方式可以增加文章热度，但是我们需要找到一定的方法去降低热度，但是一些跟增加热度有关的相反的，比如不感兴趣、举报等，虽然能降低热度，但是很难做到根据时间来降低热度，不然排名的时候很难将新文章有个合理的排名。</li></ul><p>所以，文章热度是时间的衰减与温度与时间的衰减规律很类似。我们可以定义一个文章有一个热度分，</p><p><b>当前热度分</b>=<b>上一期得分 x exp（-（冷却系数） x 间隔的小时数）</b></p><p>其中冷却系数是由咱们根据业务需要定义的，我们可以假设一个初始分，假设一个时间间隔，假设一个时间间隔后分数，通过这三个值计算出来冷却系数。冷却系数计算出来就可以使用到模型上了。</p><p>通过这个定律的简介，可以给我们产品经理一个思路，关于涉及到相关热度衰减的需求，我们可以借鉴牛顿冷却定律进行计算，来保证新旧物体的热度、冷却问题。</p>", 
+            "topic": [
+                {
+                    "tag": "自然科学", 
+                    "tagLink": "https://api.zhihu.com/topics/19553298"
+                }, 
+                {
+                    "tag": "产品经理", 
+                    "tagLink": "https://api.zhihu.com/topics/19551325"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "leovern", 
+                    "userLink": "https://www.zhihu.com/people/dbae8df5c76ed7ed404c91c9e62617c1", 
+                    "content": "<p>楼主，这样计算可有相关的参考文献？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/43775763", 
+            "userName": "罗飞", 
+            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+            "upvote": 0, 
+            "title": "如何进行迁移学习？对产品经理有什么启发？", 
+            "content": "<blockquote>迁移是机器学习中一种常见的方法，可以通过迁移学习，将一些建好的学习模型通过迁移的方式来加速训练过程。</blockquote><p><b>迁移学习概述</b></p><p>迁移学习是人工智能机器学习中的一种（除了迁移学习还有深度学习、强化学习），将一个开发模型应用到其他任务或是类型中，也就是在机器处理全新的领域时，难以获取大量数据取构建模型时可以通过迁移学习的方法，通过少量数据训练从而适用于新领域。通俗来讲，迁移学习就是一种举一反三的学习方法。</p><p>比如：我们学会了弹吉他，我们再去学习钢琴、小提琴等其他乐器，可以节约好多时间，我们可以从学习吉他中的乐理知识、音阶等相关知识，迁移到其他乐器中，从而降低我们学习的成本，节约学习的时间。</p><p>迁移是机器学习中一种常见的方法，通常应用到计算机视觉、自然语言处理等相关人工智能领域，通过神经网路学习需要大量数据、长时间的计算，某些情况下我们难以获取足够的资源，所以我们通过迁移学习的方式，将一些建好的学习模型通过迁移的方式来加速训练过程。</p><p><b>如何进行迁移学习？</b></p><p>在理解如何进行迁移学习中，我们先了解一下如下定义：</p><p><b>域：</b>一个域 D 由一个特征空间 X 和特征空间上的边际概率分布 P(X) 组成，其中  X=x1,x2,…xn 。举个例子：对于一个有文档，其有很多词袋表征（bag-of-words representation）X  是所有文档表征的空间，而 xi 是第 i 个单词的二进制特征。P(X)代表对X的分布。</p><p><b>任务：</b>在给定一个域 D={X,P(X)} 之后，一个任务 T 由一个标签空间 y 以及一个条件概率分布 P(Y/X) 构成，其中，这个条件概率分布通常是从由特征—标签对 xi，yi组成的训练数据中学习得到。</p><p><b>源域：</b>在迁移学习中，我们已有的知识叫做源域。</p><p><b>目标域：</b>在迁移学习中，要学习的新知识叫目标域。</p><p>以上概念如果不是专门做AI技术的同学可能很难理解，那我们举个例子来解释一下：</p><blockquote>有一个养狗的高手，对不同的狗狗的类型都能分辨出来，能够识别不同狗狗的特征。有一天想去卖卖猫猫了，他就从养狗狗的经验上去学习猫猫，分辨猫猫，发现按照狗狗狗的特征是难以正确的分辨猫猫的，因此他又重新学习了猫猫的特征。</blockquote><p>在以上案例中：域就是猫猫或狗狗，源域就是狗狗，目标域就是猫猫，任务就是猫猫或狗狗的特征或是特点，这样说就好理解了。</p><p>在迁移学习中有不同的方法：</p><p>1. 基于实例的迁移学习方法</p><p>意思是说在源域中找到与目标域相似的数据，把这个数据的权值进行调整，让目标域与源域权值数据进行匹配，然后对调整的数据进行训练学习，不断的调整权值，最终形成目标域的模型。</p><p>这种属于源域中的样本进行迁移，也就是样本与样本之间相似度较高的情况，我们看如下图片：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-11bff9af2134f258abc3aac0d29fde8a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"376\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-11bff9af2134f258abc3aac0d29fde8a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;376&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"376\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-11bff9af2134f258abc3aac0d29fde8a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-11bff9af2134f258abc3aac0d29fde8a_b.jpg\"/></figure><p>2. 基于特征的迁移学习方法</p><p>意思是说通过源域与目标域相同的特征进行提取，找到共同特征，然后学习。它与基于实例的迁移学习方法，不同在于——基于实例的是从实际数据中进行选择来匹配与目标域相似的部分，进行学习，基于特征的是找到源域与目标域的相同交集特征，进行学习。如下图所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-e3256593cc56a021d6a64613bda09293_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"278\" data-rawheight=\"288\" class=\"content_image\" width=\"278\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;278&#39; height=&#39;288&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"278\" data-rawheight=\"288\" class=\"content_image lazy\" width=\"278\" data-actualsrc=\"https://pic4.zhimg.com/v2-e3256593cc56a021d6a64613bda09293_b.jpg\"/></figure><p>3. 基于模型的迁移学习方法</p><p>意思是说通过源域训练好的模型，直接应用到目标域中，通过目标域中少量数据去训练此模型，进行学习，比如：你有一个识别狼狗的模型，这个模型可以男出来训练哈士奇。</p><p>4.基于关系的迁移学习方法</p><p>意思是说当两个域是有某些相似的时候，他们之间存在某种关系，我们可以根据域中的相同的关系背后逻辑进行迁移，比如：生物病毒传播的规律迁移到电脑病毒的传播规律。</p><p><b>迁移学习对我们产品经理的启发</b></p><p>通过对迁移学习的概述以及迁移学习的方法的介绍，我们总结一下迁移学习使用场景：</p><ol><li>数据量不足的问题：一方面是因为某些领域，数据量比较少；一方面是因为收集大量数据需要较高的资源和成本，我们需要考虑通过迁移学习的方法。</li><li>个性化方面的问题：通过群体数据，难以反映一个个体的特征。</li></ol><p>对于我们产品经理，我们在设计产品或是设计某些逻辑的时候，可以看一下我们设计场景是否符合迁移学习的使用场景，我们如果通过迁移学习的方法，去解决我们的产品设计问题。</p><p>比如以下案例：</p><blockquote>数据量成本案例<br/>比如：不同产品用户评价模型的迁移，一个产品好或者坏，我们需要分析大量用户的评价，通过对评价的标注，建立评价模型但。是如果我们有大量产品，并且不同用户有不同的用户评价习惯，不同的用语，来表达对产品的好或是坏，我们很难收集到全面的用户评价数据。<br/>因此，我们只需要从少量产品大量数据评价中去标注，去训练，找打标注模型，通过此模型应用到其他产品中，我们就可以迅速分辨出这个产品的在用户眼里是好或者是坏。<br/>个性化推荐案例<br/>比如：我们有一个售卖书籍的电商平台，根据用户偏好、行为等对其做了智能推荐，然后我们想在电商平台上新增了电影推荐内容。<br/>假如我们想在这个产品一上线就能智能推荐给用户，这时候我们可以使用书籍的智能推荐方案迁移到电影内容推荐这个产品上，比如：某一用户群体喜欢悬疑类书籍，那我们可以推荐一些悬疑类电影内容。<br/>再比如：我们一个新APP冷启动时的个性化推荐，是否可以利用之前已上线APP的用户画像描述，通过特征迁移的方式，做个性化推荐？</blockquote><p>本文通过对迁移学习的介绍，希望我们产品经理我们设计产品在考虑后台设计逻辑时有一些启发！</p>", 
+            "topic": [
+                {
+                    "tag": "迁移学习 (Transfer Learning)", 
+                    "tagLink": "https://api.zhihu.com/topics/20079475"
+                }, 
+                {
+                    "tag": "人工智能产品", 
+                    "tagLink": "https://api.zhihu.com/topics/20081642"
+                }, 
+                {
+                    "tag": "产品经理", 
+                    "tagLink": "https://api.zhihu.com/topics/19551325"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/43775167", 
+            "userName": "罗飞", 
+            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+            "upvote": 10, 
+            "title": "3个方面分析：什么是最优停止理论？", 
+            "content": "<blockquote>当事情达成某种平衡时，我们在做决定的时候应该如何去思考？如何找打这个平衡点，能让我们的决定更加明智？</blockquote><p><b>一、什么是最优停止</b></p><p><b><i>租房经历</i></b></p><p>大多数在外打工人员都有租房的经历，尤其是在一线城市，需求总是大于供给，通常我们在很难从历史的房子中觉得最好的去租下，因为可能你想租的时候已经被租出去了，在加上经纪人的原因，我们很难有特权能反复权衡作出决定。</p><p>我们必须在看房期间作出决定，我们总是会担心两个事情：<b>担心看过的好房子被别人抢走，还有其他好房子还没看到。</b></p><p>这就要求我们必须在继续挑选和立刻下手之间作出一个决定，并达成某种平衡。那么到底该怎么办，如何找打这个平衡点，能让我们的决定更加明智？</p><p>在数学上我们得到了答案！37%，也就是说你在看前37%房子时不要作出决定，等过了这个数字，我们就得做好随时签约租房协议的事情，加入我们有一个月的找房时间。那么在前11天我们尽管看房，明确我们的标准，等过了11天遇到合适的房子我们就要准备随时签合同了。这个37%理论就是数学上“最优停止”理论了。</p><p>那么这个37%如何的出来的呢？</p><p>我们简单阐述一下，我们下面用一个最优停止理论经典的案例，来解释一下37%是如何来的。</p><p><b><i>招聘案例</i></b></p><p>我们在公司中工作，被招聘、面试人都有所经历，假如你是一个产品经理，需要招聘一个产品专员，筛选了几分简历，决定面试4人，甲、乙、丙、丁。</p><p>每次面试之后，你有两个选择，要么聘用此人，要么拒绝。我们如何才能招聘最佳人选的机会最大，终止面试呢？</p><p>我们假设这四个人按照顺序丁＞丙＞乙＞甲，我们面试是随机的，前提也不知道丁是最棒的，如果我们面试完这四个人，是有24种可能的，也就是4种排列。</p><p>假如我们有三种策略：</p><ul><li><b>第一种策略：</b>面试完第一人就决定录用，能录用到丁的概率是25%；</li><li><b>第二种策略：</b>面试完最后一人就决定录用（前三人不要），能录用到丁的概率是25%；</li><li><b>第三种策略：</b>面试完第一人不做决定，作为判定标准，一旦出现比他高的人就录用，能录用到丁的概率是46%。假如第一个人是就是丁，后面面试的能力都比他弱，我们就自行放弃吧，选中丁的概率是为0的；假如第一个人是甲，第二个人能力都比甲好，但是录取到丁的概率是2/24；假如第一个人是乙，第二个人是甲的话，肯定不用，第二个人是乙、丙、丁就会录用，但是能录用到丁的概率就是3/24；假如第一个人是丙，只有丁比他强，因此只要丁一出现就会被录取，有6/24的可能性，以上可能性加到一起就是11/24=46%。我们发现第三种策略能选到最优人员的概率要大。</li></ul><p><b>注：</b>以上计算各位可自行搜索，或是自己列一下24个排序，就可以计算出来。</p><p>以上是N=4的时候，当N变动时，概率是什么样子的呢？</p><p>请看下表：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2ccb2cbc1ae6cce28f4646a90eb7db6c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"572\" data-rawheight=\"156\" class=\"origin_image zh-lightbox-thumb\" width=\"572\" data-original=\"https://pic1.zhimg.com/v2-2ccb2cbc1ae6cce28f4646a90eb7db6c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;572&#39; height=&#39;156&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"572\" data-rawheight=\"156\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"572\" data-original=\"https://pic1.zhimg.com/v2-2ccb2cbc1ae6cce28f4646a90eb7db6c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2ccb2cbc1ae6cce28f4646a90eb7db6c_b.jpg\"/></figure><p>当N无限大，我们作为标准的策略就是N/e（e是自然常数），概率就是1/e，是不是很神奇。假如人数是10000,，我们采取的策略是10000/2.71828=3678，不做录取，只做标准，选中最优人员的概率为1/e=36.8%≈37%。</p><p>这就是37%的由来，因此37%是我们在做最优停止时选择标准根据样本计算的依据。</p><p><b>二、我们如何应用最优停止</b></p><p>我们对比“招聘案例”和“租房经历”这两个案例，有以下共同点：</p><ul><li>①博弈的存在，不管是招人还是租房，我们都需要作出决定：博弈是选择还是拒绝；</li><li>②机会成本，不管是招人还是租房，我们都需要承担因选择而错失更好，或因拒绝而失去更好的成本；</li><li>③信息不对称，都是在很难获取到全面的数据情况下作出选择。</li></ul><p>当然也有不同的地方，对于招聘案例我们按照所招聘的人数作为样本，通过37%法则算出来作为不做录取作为判定标准的人数，对于租房经历是通过租房时间作为样本来作为判断，通过37%法则计算出来作为找房子不做决定的时间来作为依据。</p><p>除了以上两个案例，还有一些经典案例都可以参考最优停止理论，比如：结婚（什么时候结婚，什么年龄结婚），选择停车位（离停车位多远之后必须作出停车的决定）。</p><p>因此，我们在应用最优停止理论时除了考虑这个事件是一个最优停止时间外，最重要的是如何应用37%法则，找到我们的阈值，核心是我们的样本是什么，要根据情况具体分析使用。</p><p>比如：对于招聘案例，我们能确定的样本是招聘的人数，从人数中算出这个阈值；对于租房，我们能确定的是我们找房子的时间，通过时间算出这个阈值；对于结婚，我们知道结婚适用年龄范围，通过年龄范围样本算出这个阈值；对于停车位，我们知道我们要停车的位置，停车的距离，通过距离算出这个阈值。</p><p><b>三、对我们产品经理的借鉴意义</b></p><p>对于一名产品经理，了解数学、了解算法、掌握其中的思想，不仅对我们在生活中、工作中的不确定提供一个指导，也是希望产品经理了解算法，在我们进行产品设计或是产品运营时有法可依。</p><p>就像最优停止理论一样，我们知道了37%法则，是否对我们在工作中、生活上有一定的借鉴意义，我们在遇到这种“观望”和“决定”困境时，是否可以参考一下37%法则？</p><p>举个例子：</p><blockquote>我们在做地推的运营工作，要求我们发放一些卡券，假如我们仍然跟其他发小广告一样，见人就发是不是会导致卡券可能没有发到目标用户上，导致卡券效果没有达到？<br/> 因为我们发的卡券是找到目标用户，并发出去，我们希望在一定量的卡券能够覆盖更多的目标用户。在这里我们就可以参考37%法则思想，先收集意向，确定用户画像标准，然后通过标准用户，来更加精准的判断哪些用户是目标用户的概率更高，然后通过我们卡券数量，确定标准用户量，然后带着目标去发卡券。</blockquote>", 
+            "topic": [
+                {
+                    "tag": "博弈论", 
+                    "tagLink": "https://api.zhihu.com/topics/19567962"
+                }, 
+                {
+                    "tag": "人工智能产品", 
+                    "tagLink": "https://api.zhihu.com/topics/20081642"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "洛恩", 
+                    "userLink": "https://www.zhihu.com/people/d0246642197f5afba5ed35440dc4339f", 
+                    "content": "结婚年龄怎么应用啊", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "假如你打算在10年内结婚，那么过了10*37%就可以考虑了", 
+                            "likes": 1, 
+                            "replyToAuthor": "洛恩"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37996240", 
+            "userName": "罗飞", 
+            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+            "upvote": 1, 
+            "title": "30分钟了解余弦相似度----AI产品经理了解的数据知识系列", 
+            "content": "<p><b>1.什么是余弦相似度？</b></p><p>在机器学习算法中，有很多方法计算某个对象之间的距离或是相似性，余弦相似度是通过衡量两个向量间的夹角大小，通过夹角的余弦值表示结果，余弦相似度的取值为[-1,1]，值越大表示越相似。</p><p>计算余弦值的公式如下：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-7ad1eeb84f6859e553225421c55a6494_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"103\" data-rawheight=\"39\" class=\"content_image\" width=\"103\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;103&#39; height=&#39;39&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"103\" data-rawheight=\"39\" class=\"content_image lazy\" width=\"103\" data-actualsrc=\"https://pic1.zhimg.com/v2-7ad1eeb84f6859e553225421c55a6494_b.jpg\"/></figure><blockquote>其中a和b代表两个向量（注释：向量是在空间中具有大小和方向的量，在数据计量中表示带箭头的线段，相关向量知识可自行阅读相关文献）。</blockquote><p>如果是在二维空间，余弦相似度的值通过如下公式计算：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-bf0854748581c11146ac792294b58594_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"200\" data-rawheight=\"53\" class=\"content_image\" width=\"200\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;200&#39; height=&#39;53&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"200\" data-rawheight=\"53\" class=\"content_image lazy\" width=\"200\" data-actualsrc=\"https://pic1.zhimg.com/v2-bf0854748581c11146ac792294b58594_b.jpg\"/></figure><p>关于对此公式的理解，我们可以看如下两图（二维向量图，余弦定理）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-98624c107a58536b701ce1d0ed216d19_b.jpg\" data-size=\"normal\" data-rawwidth=\"298\" data-rawheight=\"182\" class=\"content_image\" width=\"298\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;298&#39; height=&#39;182&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"298\" data-rawheight=\"182\" class=\"content_image lazy\" width=\"298\" data-actualsrc=\"https://pic2.zhimg.com/v2-98624c107a58536b701ce1d0ed216d19_b.jpg\"/><figcaption>二维向量图</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-805e5289a55630edd3ecc9b018a93cc2_b.jpg\" data-size=\"normal\" data-rawwidth=\"260\" data-rawheight=\"68\" class=\"content_image\" width=\"260\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;260&#39; height=&#39;68&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"260\" data-rawheight=\"68\" class=\"content_image lazy\" width=\"260\" data-actualsrc=\"https://pic3.zhimg.com/v2-805e5289a55630edd3ecc9b018a93cc2_b.jpg\"/><figcaption>余弦定理</figcaption></figure><p>二维空间下计算两个向量的余弦相似性公式是根据余弦定理推导出来的，请感兴趣的可以自己推演一下（可根据以上两图）。</p><p>如果假设空间是多维的，那么余弦相似度公式可扩展如下图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-45267662b2b01d11ea43d84e42978194_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"187\" data-rawheight=\"56\" class=\"content_image\" width=\"187\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;187&#39; height=&#39;56&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"187\" data-rawheight=\"56\" class=\"content_image lazy\" width=\"187\" data-actualsrc=\"https://pic1.zhimg.com/v2-45267662b2b01d11ea43d84e42978194_b.jpg\"/></figure><p><b>2.余弦相似度应用说明</b></p><p>余弦相似度在度量文本相似度、用户相似度、物品相似度的时候都较为常用。</p><p>案例一：文本相似度</p><p>比如有如下两个句子：</p><blockquote>句子A：他不仅是一个歌手，还是一个舞者；<br/>句子B: 他既是一个歌手，也是一个舞者。</blockquote><p>那么如何计算以上两个句子的相似度，首先我们要找到如何评价这两个句子，用什么方法将这两个句子向量化？我们最直观的看，连个句子用词相近，那句子整体相似度就高，因此我们从词频入手，来计算其相似性。</p><p>首先，进行分词处理：</p><blockquote>句子A:他 不仅 是 一个 歌手 还 是 一个 舞者<br/>句子B:他 既 是 一个 歌手 也 是 一个 舞者</blockquote><p>其次，列出所有的词：</p><blockquote>他 不仅 既 是 一个 歌手 还 也 舞者</blockquote><p>第三步：计算词频</p><blockquote>句子A: 他（1） 不仅（1） 既（0） 是（2） 一个（2） 歌手（1） 还（1）也（0） 舞（1）<br/>句子B：他（1） 不仅（0） 既（1） 是（2） 一个（2） 歌手（1） 还（0）也（1） 舞（1）</blockquote><p>第四步：</p><p>我们总结出来两个句子的词频向量：</p><blockquote>句子A(1,1,0,2,2,1,1,0,1)<br/>句子B(1,0,1,2,2,1,0,1,1)</blockquote><p>这样问题就变成了如何计算这两个向量的相似程度。都是从原点（[0, 0, ...]）出发，指向不同的方向的向量。通过公式计算得出</p><p>余弦相似度=</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-80213c67274ab012b4fe19e055d0f2a9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"641\" data-rawheight=\"46\" class=\"origin_image zh-lightbox-thumb\" width=\"641\" data-original=\"https://pic2.zhimg.com/v2-80213c67274ab012b4fe19e055d0f2a9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;641&#39; height=&#39;46&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"641\" data-rawheight=\"46\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"641\" data-original=\"https://pic2.zhimg.com/v2-80213c67274ab012b4fe19e055d0f2a9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-80213c67274ab012b4fe19e055d0f2a9_b.jpg\"/></figure><p>通过余弦相似度公式我们计算出来这来两句话意思很相近。</p><p>我们通过这个案例不难发现，想要利用余弦相似性公式来计算两者之间的相似性，首先要确定向量化的方法（比如本案例中，通过将连个句子通过分词的方式，计算词频来向量化），理解向量值的多维度（我们通过分词可以得出来9各维度的向量值），然后将向量化后将值带入到公式中，去计算相似度。</p><p>通过以上案例我们可以联想其他案例，比如对于两篇文章，连个实体的相似性对比，我们可以通过向量化关键词、实体画像特征等进行向量化，然后通过这些特征向量化的维度值，进行计算相似性。</p><p>案例二：用户相似度</p><p>比如一个外卖平台,两个用户A和B，外卖新出了两款新品套餐，分别是a和b,用户A对这两款新品的评分是1分和2分，b对这两款新品的评分是4分和5分，我们通过余弦相似度来评价一下两个用户的相似度。假如我们将对这新品套餐评分作为特征向量，两个产品的评分分别连个维度的向量值，是那么A和B的特征向量分别是（1,2）、（4、5），我们代入公式计算得出：0.98，通过公式计算发现两个相似度很高，但是这跟我们直觉判断这两个应该相似度很低才是，这说明我们选定好评价的特征向量后，对于向量值的的确定出现了问题，我们对（1,2）、（4、5）进行转换，变成与平均分3的差额，的出来新的向量值（-2，-1）、（1、2）之后，重新计算得出相似度为-0.8，那么我们看这个结果比较接近事实。</p><p>通过这个案例我们可以看到，再找到特征向量后，对于向量值的取值与评价也需要灵活考虑，可以结合统计学知识。</p><p><b>3.总结</b></p><p>对于产品经理，尤其是对于AI产品经理，在理解和运用余弦相似性时需要考虑一下问题：</p><p>首先，余弦相似性是对两个对象之间的比较，将两个对象向量化，向量化的过程中，我们要找到两个对象比较的基础，也就是特征，真对与不同特征赋予向量值的意义，并且在选取向量值时，定量化的评分要符合逻辑，然后通过公式计算相似性。其次，余弦相似性很难做到向量长度的归一化，比如两篇文章，讲的同一个事情，一篇200字，一篇5000字，假如通过关键词相似可以判定两个文章是高度相似的，假如我们还是用内容分词通过词频的方式，那么有很大可能是不相似的，因为词量差距太大。因此我们选取的特征向量尽量少维度，但是又能全面评价二者的指标。</p><p>除此外，关于相似性的判断，在机器学习中除了余弦相似性还有其他方法，比如欧氏距离、皮尔逊相关度、杰卡德（Jaccard）相似度等方法，有兴趣的小伙伴可以进一步了解。</p><p>本章概括介绍了余弦相似度是什么、如何应用以及案例说明，目的是希望我们产品经理在设计相关跟相似度功能或是利用相似性功能解决某一业务的场景时能利用上余弦相似度，并希望您读完对自己在设计相关推荐业务、搜索业务、识别业务时能有更深层次的理解。</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "产品经理", 
+                    "tagLink": "https://api.zhihu.com/topics/19551325"
+                }, 
+                {
+                    "tag": "互联网产品", 
+                    "tagLink": "https://api.zhihu.com/topics/19551383"
+                }, 
+                {
+                    "tag": "数据分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19559424"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37758872", 
+            "userName": "罗飞", 
+            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+            "upvote": 3, 
+            "title": "30分钟了解贝叶斯定理----- AI产品经理了解的数学知识系列", 
+            "content": "<p><b>1. 贝叶斯定理介绍</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-be83e92cc1fa3258f1fae86787ed11c1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"243\" data-rawheight=\"48\" class=\"content_image\" width=\"243\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;243&#39; height=&#39;48&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"243\" data-rawheight=\"48\" class=\"content_image lazy\" width=\"243\" data-actualsrc=\"https://pic2.zhimg.com/v2-be83e92cc1fa3258f1fae86787ed11c1_b.jpg\"/></figure><blockquote><i>其中：</i><br/><i>P(B|A)表示，在事件A发生的前提下，发生事件B的概率；</i><br/><i>P(A|B)表示，在事件B发生的前提下，发生事件A的概率；</i><br/><i>P(A)表示，发生事件A的概率；</i><br/><i>P(B)表示，发生事件B的概率；</i></blockquote><p>以上公式就是贝叶斯定理，它提供的是一种逆条件概率的方法。</p><blockquote>举一个经常用的例子，比如阴天的概率是40%，下雨的概率是10%，下雨天是阴天的概率是50%，那么今天是阴天下雨的概率就是P(雨|阴)=10%*50%/40%= 12.5%。通过概率计算发现今天阴天下雨的概率比较低，可以安心出行了。</blockquote><p>因此，贝叶斯定理是条件概率的推断问题，这对于人们进行有效的学习和判断决策具有十分重要的理论和实践意义。</p><p><b>2. 贝叶斯定理举例说明</b></p><p>对于贝叶斯定理的应用，难点在于两个事件A和B的界定与应用，为什么是B条件下的A的概率，而不是A条件下B的概率，P(A|B)和P(B|A) 之类的经常让人混淆。也就是在我们的场景中那些定义为事件A，那些定义为事件B。我在学习这里的时候也有一些困惑，看了一些文章，有了一定的理解，比如两个事件A和B，这两个事件是相关的，在A事件下有发生B概率的可能性，在B事件下有发生A事件的可能性，但是统计发现，在A条件下事件B的现象更容易观测与统计，但是A的发生或是不发生也是有一定的规律，但是这种规律更容易观测，因此我们可以定义A是可观测的规律，B是此规律下某一个现象，<b><i>那么贝叶斯公式就可以理解为观察到的现象去推断现象后的规律所发生的概率问题。</i></b></p><p>那么贝叶斯定理可以理解为如下公式：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-a34d118591e0a3d0214936c551b6e49c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"276\" data-rawheight=\"66\" class=\"content_image\" width=\"276\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;276&#39; height=&#39;66&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"276\" data-rawheight=\"66\" class=\"content_image lazy\" width=\"276\" data-actualsrc=\"https://pic1.zhimg.com/v2-a34d118591e0a3d0214936c551b6e49c_b.jpg\"/></figure><p>比如以下案例：</p><blockquote>比如我们有两个箱子，箱子中分别有黑球和白球，其中箱子1有10个黑球、10个白球，箱子2中有5个黑球，15个白球。那我们随机选择一个箱子，从箱子中摸出一个球，发现是黑球，那么问这个黑球来自于一号箱子的概率是多大？<br/>那么在上问题上不难理解，摸出来黑球和白球是两个现象，但是我们又发现黑球和白球在不同箱子里面概率是不一样的，因此箱子就是两个规律，这两个规则控制着现象的发生的概率，并且是容易观测得出概率的。</blockquote><p>再比如，第一节说的下雨和阴天的事件，这里面也有两个规律和两个现象，天气下雨和不下雨是两个规律，阴天和不是阴天是两个现象，我们从下雨中发现是阴天的便于观测和统计的，我们通过观察天气是阴天，推断下雨不下雨就是一个推论。</p><p><b><i>所以，再利用贝叶斯公式的时候，注意区分那个事件是现象，哪个事件是规律，通过规律下的现象是容易观测统计的，在某一现象下推断规律就是个推断的概率。</i></b></p><p><b>3. 贝叶斯定理AI应用说明</b></p><p>通过以上我们发现，贝叶斯定理提供了一种发现逻辑，它与大脑的推理机制有很大的相似性，因此贝叶斯理论是人工智能中学习和推断的重要分支，美国心理学家MARR认为人脑有三个层次：计算层、算法层、实现层，计算层更多的是对获取的信息的处理，比如学习知识，记忆知识；算法层是更加抽象的认知活动，比如归纳、推理等；实现层更多是对抽象出来的算法进行相应生物机制的实现，根据上面我们不难理解，贝叶斯理论是类脑计算的一个算法框架，因此，了解贝叶斯理论对理解人工智能的实现有着很重要的作用。</p><p>要具体了解贝叶斯定理在人工智能中的应用，我们需要在对这个公式进行一下转换。</p><blockquote>我们把P(A)称为&#34;先验概率&#34;，即在B事件发生之前，我们对A事件概率的一个判断。P(A|B)称为&#34;后验概率&#34;（Posterior probability），即在B事件发生之后，我们对A事件概率的重新评估。P(B|A)/P(B)称为&#34;可能性函数&#34;，这是一个调整因子，使得预估概率更接近真实概率。所以，条件概率可以理解成下面的式子：<br/>后验概率=先验概率*调整因子-------这就是贝叶斯推论。</blockquote><p>我们先预估一个&#34;先验概率&#34;，然后加入在这个先验概率规律下发生某现象的概率，看这个现象到底是增强还是削弱了&#34;先验概率&#34;，由此推论出更接近事实的&#34;后验概率&#34;。也由此得出对于一个后验概率P(A|B)的增强或是削弱由两个因素来决定的。</p><p>举一个例子：拼写错误的纠正</p><blockquote>当用户输入一个词汇，可能正确，可能错误，我们可以设定P（正确）是此正确词的概率，P（错误）是此错误词的概率，当用户输入一个词是错误的，我们系统要推断出正确的词给用户，这就是拼写错误的纠正，也就是P（正确|错误）概率越大，我们纠正的正确率也就越高。也就是说我们知道这个词是错误的，然后去推断一个匹配度很高的正确的词汇给用户，定理中我们已知这个词的错误概率P（错误），那么我们只要最大化P（错误|正确）* P（正确）的词就可以，因此找到一个正确的词汇出现这个错误的词汇概率最高的一个正确的词就可以。</blockquote><p>比如我们再举一个互联网的推荐的例子，比如我们某一用户画像下（例如80后女性）购买某一商品可能性，可能性最高的推荐给这些用户画像下的用户，根据互联网平台掌握的此商品浏览后购买概率，某一用户画像下用户浏览此商品的概率，某一用户画像下用户浏览此商品后够买的概率，这三个概率指标，可以找到某一用户画像下购买某商品概率最高的推荐出来。</p><p>除此之外，经常应用到的案例就是垃圾邮件的分类，小伙伴可以自行思考或寻找相关文献。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以上是简单总结了贝叶斯定理是什么，贝叶斯定理应用的理解，以及贝叶斯定理在AI场景下的应用，目的是希望我们做产品经理的了解到这个定理的能力后，在我们设计相关推荐或是具有推理功能的应用场景，我们是否能通过贝叶斯定理来解决！</p><p>其实，贝叶斯理论除了贝叶斯定理之外，还有贝叶斯分析、贝叶斯逻辑、贝叶斯网络、贝叶斯分类器、贝叶斯决策、贝叶斯学习等相关理论与实践，并在以上知识在人工智能领域都有应用，如果感兴趣的小伙伴可以参考相关文献进行深度研究。</p><p>关于贝叶斯定理就说到这里，个人最近也是在做AI产品相关设计，也是在学习和实践中，本章就是阅读相关文献后的总结与分享，欢迎小伙伴给出建议和意见！</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "Adobe Illustrator", 
+                    "tagLink": "https://api.zhihu.com/topics/19611859"
+                }, 
+                {
+                    "tag": "自然科学", 
+                    "tagLink": "https://api.zhihu.com/topics/19553298"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/35290460", 
+            "userName": "罗飞", 
+            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+            "upvote": 12, 
+            "title": "第四章 后台设计基础（二） 后台视觉", 
+            "content": "<p>      后台管理系统是后台产品经理设计工作的主要内容。后台管理系统设计思路以及内容设计到：</p><p>     （1）后台管理模块框架的搭建。就是通过MIND的形式规划出来后台包含哪些模块，这些模块有哪些具体菜单，菜单包含哪些具体功能等，如下图所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-76852ff72cf11bd486d4c71113697d17_b.jpg\" data-size=\"normal\" data-rawwidth=\"756\" data-rawheight=\"289\" class=\"origin_image zh-lightbox-thumb\" width=\"756\" data-original=\"https://pic4.zhimg.com/v2-76852ff72cf11bd486d4c71113697d17_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;756&#39; height=&#39;289&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"756\" data-rawheight=\"289\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"756\" data-original=\"https://pic4.zhimg.com/v2-76852ff72cf11bd486d4c71113697d17_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-76852ff72cf11bd486d4c71113697d17_b.jpg\"/><figcaption>图片来源于百度</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-0a21950246b83c9f6347afdac8e4ebb6_b.jpg\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"609\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-0a21950246b83c9f6347afdac8e4ebb6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;609&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"609\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic3.zhimg.com/v2-0a21950246b83c9f6347afdac8e4ebb6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-0a21950246b83c9f6347afdac8e4ebb6_b.jpg\"/><figcaption>图片来源于百度</figcaption></figure><p>     （2）后台管理系统设计框架的搭建，也就是后台一个整体的交互风格，包括模块、菜单的布局、级数，门户整体的色调、一般情况下管理后台都是PC端WEB形式的后台，比如下面图示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-500438ef83829d855a9596adcd7604ec_b.jpg\" data-size=\"normal\" data-rawwidth=\"1600\" data-rawheight=\"900\" class=\"origin_image zh-lightbox-thumb\" width=\"1600\" data-original=\"https://pic1.zhimg.com/v2-500438ef83829d855a9596adcd7604ec_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1600&#39; height=&#39;900&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1600\" data-rawheight=\"900\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1600\" data-original=\"https://pic1.zhimg.com/v2-500438ef83829d855a9596adcd7604ec_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-500438ef83829d855a9596adcd7604ec_b.jpg\"/><figcaption>图片来源于百度</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-dd73472b9c0d62dee8050b1bbe43b722_b.jpg\" data-size=\"normal\" data-rawwidth=\"1680\" data-rawheight=\"1252\" class=\"origin_image zh-lightbox-thumb\" width=\"1680\" data-original=\"https://pic3.zhimg.com/v2-dd73472b9c0d62dee8050b1bbe43b722_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1680&#39; height=&#39;1252&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1680\" data-rawheight=\"1252\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1680\" data-original=\"https://pic3.zhimg.com/v2-dd73472b9c0d62dee8050b1bbe43b722_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-dd73472b9c0d62dee8050b1bbe43b722_b.jpg\"/><figcaption>图片来源于百度</figcaption></figure><p>     （3）后台管理系统整体业务框架、业务逻辑搭建，以及相关具体功能业务逻辑，此部分内容我会在下一章后台设计相关流程图中在着重讲解。</p><p>     （4）后台具体功能具体页面的设计，比如相关业务的增删改停、相关业务工作流、相关业务的查询统计等功能，在此步骤中会涉及到相关元素的使用，比如表单、颜色、按钮、控件等，本章将提供一些常用的具体元素，希望大家在设计具体页面选用这些元素的时候提供一个参考。</p><hr/><p>       1、框架颜色</p><p>       我们在设计后台框架的时候，为了设计出来的更加高保真，可以选定后台框架的主题色，相关颜色可以参考如下图示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3982a221942aa55a6bd385acb0dd7713_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"426\" data-rawheight=\"97\" class=\"origin_image zh-lightbox-thumb\" width=\"426\" data-original=\"https://pic4.zhimg.com/v2-3982a221942aa55a6bd385acb0dd7713_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;426&#39; height=&#39;97&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"426\" data-rawheight=\"97\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"426\" data-original=\"https://pic4.zhimg.com/v2-3982a221942aa55a6bd385acb0dd7713_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3982a221942aa55a6bd385acb0dd7713_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-01ad50f115140402cd698e4d00f5dde9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"413\" data-rawheight=\"100\" class=\"content_image\" width=\"413\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;413&#39; height=&#39;100&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"413\" data-rawheight=\"100\" class=\"content_image lazy\" width=\"413\" data-actualsrc=\"https://pic2.zhimg.com/v2-01ad50f115140402cd698e4d00f5dde9_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-a26a201134c41c1ffa27551aeae65e2c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"310\" data-rawheight=\"94\" class=\"content_image\" width=\"310\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;310&#39; height=&#39;94&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"310\" data-rawheight=\"94\" class=\"content_image lazy\" width=\"310\" data-actualsrc=\"https://pic1.zhimg.com/v2-a26a201134c41c1ffa27551aeae65e2c_b.jpg\"/></figure><p>     2、字体，后台文本是用户与系统交互的最根本的元素，希望提供一个模板话的字体设计，设计出来的后台更具视觉层次、更加清晰，是咱们的后台更有可读性。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-20060c3d8809ccd298caf09e9889017c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"905\" data-rawheight=\"283\" class=\"origin_image zh-lightbox-thumb\" width=\"905\" data-original=\"https://pic1.zhimg.com/v2-20060c3d8809ccd298caf09e9889017c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;905&#39; height=&#39;283&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"905\" data-rawheight=\"283\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"905\" data-original=\"https://pic1.zhimg.com/v2-20060c3d8809ccd298caf09e9889017c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-20060c3d8809ccd298caf09e9889017c_b.jpg\"/></figure><p>     3、按钮，按钮现在基本上已扁平化为主，如果是大号的按钮是14号字体，中号的按钮是12号字体，相关按钮的颜色提供如下几种仅供参考：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-919312894cf52e62cdbddd770ac6cd27_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"728\" data-rawheight=\"92\" class=\"origin_image zh-lightbox-thumb\" width=\"728\" data-original=\"https://pic4.zhimg.com/v2-919312894cf52e62cdbddd770ac6cd27_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;728&#39; height=&#39;92&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"728\" data-rawheight=\"92\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"728\" data-original=\"https://pic4.zhimg.com/v2-919312894cf52e62cdbddd770ac6cd27_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-919312894cf52e62cdbddd770ac6cd27_b.jpg\"/></figure><p>      4、标签，标签可以引用到某一工作流状态、某一对象标示，标签也是已扁平化为主，大号标签12号字体，相关标签参考如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-058f834f0965e385346ca70ac97a84ed_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"632\" data-rawheight=\"143\" class=\"origin_image zh-lightbox-thumb\" width=\"632\" data-original=\"https://pic2.zhimg.com/v2-058f834f0965e385346ca70ac97a84ed_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;632&#39; height=&#39;143&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"632\" data-rawheight=\"143\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"632\" data-original=\"https://pic2.zhimg.com/v2-058f834f0965e385346ca70ac97a84ed_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-058f834f0965e385346ca70ac97a84ed_b.jpg\"/></figure><p>      5、警示图表，在设计后台系统时，需要有一些警示图表，来体现是成功、失败、还是警告灯，可根据提下图示参考：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-b9855e0ba69cbb106650c74a8839891b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"490\" data-rawheight=\"106\" class=\"origin_image zh-lightbox-thumb\" width=\"490\" data-original=\"https://pic4.zhimg.com/v2-b9855e0ba69cbb106650c74a8839891b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;490&#39; height=&#39;106&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"490\" data-rawheight=\"106\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"490\" data-original=\"https://pic4.zhimg.com/v2-b9855e0ba69cbb106650c74a8839891b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-b9855e0ba69cbb106650c74a8839891b_b.jpg\"/></figure><p>      6、分页符，后台系统有好多表单设计，浏览时都需要分页的，提供如下三种分页符方式，供参考：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b282b1984915b09a796e4340b4955ae9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"852\" data-rawheight=\"185\" class=\"origin_image zh-lightbox-thumb\" width=\"852\" data-original=\"https://pic2.zhimg.com/v2-b282b1984915b09a796e4340b4955ae9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;852&#39; height=&#39;185&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"852\" data-rawheight=\"185\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"852\" data-original=\"https://pic2.zhimg.com/v2-b282b1984915b09a796e4340b4955ae9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b282b1984915b09a796e4340b4955ae9_b.jpg\"/></figure><p>      7、时间控件，我们在做后台台功能时，会有好多时间控件的应用，现在提供如下两种时间控件模式：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-eac0047bf4dc30d0927f8acba53dc8a8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"684\" data-rawheight=\"318\" class=\"origin_image zh-lightbox-thumb\" width=\"684\" data-original=\"https://pic1.zhimg.com/v2-eac0047bf4dc30d0927f8acba53dc8a8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;684&#39; height=&#39;318&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"684\" data-rawheight=\"318\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"684\" data-original=\"https://pic1.zhimg.com/v2-eac0047bf4dc30d0927f8acba53dc8a8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-eac0047bf4dc30d0927f8acba53dc8a8_b.jpg\"/></figure><p>       8、常规输入框，在管理后台我们需要很多输入控件，下图提供了一些常见的输入框形式：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-11ae7cf0268f16c42cca00ca173a5f5d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"660\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb\" width=\"660\" data-original=\"https://pic2.zhimg.com/v2-11ae7cf0268f16c42cca00ca173a5f5d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;660&#39; height=&#39;389&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"660\" data-rawheight=\"389\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"660\" data-original=\"https://pic2.zhimg.com/v2-11ae7cf0268f16c42cca00ca173a5f5d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-11ae7cf0268f16c42cca00ca173a5f5d_b.jpg\"/></figure><p>       9、其他小图标，有时候设计后台时，提供一些小图标，会使设计出来的后台更具观赏性，比如下列小图标： </p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-d59ab8f7e64c1be3eb7472342ee159f9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"896\" data-rawheight=\"92\" class=\"origin_image zh-lightbox-thumb\" width=\"896\" data-original=\"https://pic2.zhimg.com/v2-d59ab8f7e64c1be3eb7472342ee159f9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;896&#39; height=&#39;92&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"896\" data-rawheight=\"92\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"896\" data-original=\"https://pic2.zhimg.com/v2-d59ab8f7e64c1be3eb7472342ee159f9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-d59ab8f7e64c1be3eb7472342ee159f9_b.jpg\"/></figure><p>       10、进度条，我们后台设计中会有一些流程上的设计，会有一些状态控制，或是一些引导操作的进度条，比如下面两种：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-86b320d3624816087646258dedceec0d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"526\" data-rawheight=\"102\" class=\"origin_image zh-lightbox-thumb\" width=\"526\" data-original=\"https://pic2.zhimg.com/v2-86b320d3624816087646258dedceec0d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;526&#39; height=&#39;102&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"526\" data-rawheight=\"102\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"526\" data-original=\"https://pic2.zhimg.com/v2-86b320d3624816087646258dedceec0d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-86b320d3624816087646258dedceec0d_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-95881947312f3924a47de4466dcd72bf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"488\" data-rawheight=\"62\" class=\"origin_image zh-lightbox-thumb\" width=\"488\" data-original=\"https://pic4.zhimg.com/v2-95881947312f3924a47de4466dcd72bf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;488&#39; height=&#39;62&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"488\" data-rawheight=\"62\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"488\" data-original=\"https://pic4.zhimg.com/v2-95881947312f3924a47de4466dcd72bf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-95881947312f3924a47de4466dcd72bf_b.jpg\"/></figure><p>      以上，具体提供了在设计后台相关功能页面相关元素样例，希望后台产品经理小白在设计后台产品具体功能页面时相关元素的使用有一个参考，使咱们设计出来的后台更加统一、更具视觉效果，相关控件的选择提供一定的参考价值。</p>", 
+            "topic": [
+                {
+                    "tag": "后台产品", 
+                    "tagLink": "https://api.zhihu.com/topics/19610439"
+                }, 
+                {
+                    "tag": "产品设计", 
+                    "tagLink": "https://api.zhihu.com/topics/19551625"
+                }, 
+                {
+                    "tag": "后台", 
+                    "tagLink": "https://api.zhihu.com/topics/19834629"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/35107967", 
+            "userName": "罗飞", 
+            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+            "upvote": 5, 
+            "title": "第三章  后台设计基础（一）", 
+            "content": "<p>       各位好，前两章通过虚拟账户这个点，简单介绍了虚拟账户账户数据结构、账务数据结构、交易基础体系以及相关应用场景，其中核心展示了账户数据结构、账务数据结构、交易流水数据结构，数据结构中最重要的就是字段设计，那么在后续的几个章节我们就重点说一下后台产品设计工作中的几个基础工作，希望不了解后台设计思路或者是对刚入行做后台产品小白提供一些借鉴意义。</p><p>       后台产品经理在设计工作中，有四个基本对象需要设计：①存储数据的字段；②梳理业务的流程；③规则设计（业务规则、输入规则、逻辑规则等）；④页面设计（主要是后台系统），其中字段设计是其中最基础的部分，是我们后台设计最核心的部分，首先我们设计后台系统展现的表单信息来源于字段设计、业务流程中提现的业务信息载体是字段设计、规则设计中相关规则控制对象也是字段，因此设计好字段是后台产品设计最基础也是最核心的工作。</p><hr/><p>        所谓字段就是后台相关数据的载体，根据来源不一样我们可以定义如下四种类型字段：①业务型字段，②系统型字段，③管理型字段，④规则型字段。相关字段类型说明请看下表：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f43d60b6dcfa1d89ca611fdfa3920748_b.jpg\" data-size=\"normal\" data-rawwidth=\"830\" data-rawheight=\"419\" class=\"origin_image zh-lightbox-thumb\" width=\"830\" data-original=\"https://pic1.zhimg.com/v2-f43d60b6dcfa1d89ca611fdfa3920748_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;830&#39; height=&#39;419&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"830\" data-rawheight=\"419\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"830\" data-original=\"https://pic1.zhimg.com/v2-f43d60b6dcfa1d89ca611fdfa3920748_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f43d60b6dcfa1d89ca611fdfa3920748_b.jpg\"/><figcaption>字段类型举例说明图</figcaption></figure><p>        因此，我们在梳理某一个对象管理字段时可以按照这四个维度去设计字段，来保证我们的字段设计是全面、完善的。</p><hr/><p>       字段类型相关字段我们找好了，就需要针对某一个字段维度进行字段表格的设计了。字段维度涉及如下维度：</p><p>       ①字段所属对象，就像后台按照模块分类一样 ，字段也有所属对象的分类，比如商品、用户、订单、结算单、提现单、红包、奖励券、客户等，这些对象是字段承载的载体。</p><p>       ②字段值类型，字段值类型常用的包括：字符串（比较常用）、枚举（审核状态、是否项目等）、日期时间、浮点数（金额类型，定义小数点后位数，小数点前位数）、数字（正整数、是否可以为负等）</p><p>       ③字段是否必填，这个是指字段在写入值的时候是必须有值的还是可以为空，比如新增一个商品，商品编码、商品名称是必填，商品关键字可以为空等。</p><p>       ④字段值来源，字段值来源是指字段在写入的时候来源于哪里，常见的包括以下几种：来源于输入（就是通过前段某一个页面通过用户输入或是选择获取的值），系统自动生成（比如创建时间、业务编号等字段），来源于其他数据（比如订单里面的商品编码字段，就来源商品里面的商品编码字段）</p><p>       ⑤字段值长度，字段值长度是存储在数据库中值的最长长度是多少，比如字符串类型，可以规定长度32位，这个一般根据业务需求制定的一个最长长度，便于开发设计表结构。</p><p>       我们举个案例，来看一下字段设计是如何设计的。</p><p>       加入我们有一个新手发红包的场景，需求可以是这样，新手用户注册我们的产品，我们就给新手用户发新手红包。此红包可以在购买产品时可以抵扣订单金额，我们就基于红包这个业务，来设计一下字段，延续第一章、第二章的思路，红包是一个虚拟账户场景，首先我们要定义红包这个“账户”的结构数据，其次我们要定义发完红包后“账务流水”的数据结构，因此我们要设计两个对象的字段，一个红包类，就是存储了红包基本信息的对象，一个是红包流水，就是红包发放情况信息的对象，具体可以参见如下两个表格：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-44bd29abeba4c409bf462cb34ea767ee_b.jpg\" data-size=\"normal\" data-rawwidth=\"802\" data-rawheight=\"679\" class=\"origin_image zh-lightbox-thumb\" width=\"802\" data-original=\"https://pic3.zhimg.com/v2-44bd29abeba4c409bf462cb34ea767ee_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;802&#39; height=&#39;679&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"802\" data-rawheight=\"679\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"802\" data-original=\"https://pic3.zhimg.com/v2-44bd29abeba4c409bf462cb34ea767ee_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-44bd29abeba4c409bf462cb34ea767ee_b.jpg\"/><figcaption>红包类字段（仅供参考，具体业务字段具体设计）</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-bffd9698fcf663b4046d1329018f503b_b.jpg\" data-size=\"normal\" data-rawwidth=\"736\" data-rawheight=\"331\" class=\"origin_image zh-lightbox-thumb\" width=\"736\" data-original=\"https://pic4.zhimg.com/v2-bffd9698fcf663b4046d1329018f503b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;736&#39; height=&#39;331&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"736\" data-rawheight=\"331\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"736\" data-original=\"https://pic4.zhimg.com/v2-bffd9698fcf663b4046d1329018f503b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-bffd9698fcf663b4046d1329018f503b_b.jpg\"/><figcaption>红包发放情况字段（仅供参考，具体业务字段具体设计）</figcaption></figure><p>       通过以上两个对象的字段表格设计，那基本上关于字段设计一个流程就出来了：首先，确定字段所归属的对象，根据业务需求，我们需要建立那几个对象来承载字段，然后，我们需要哪些类型的字段，业务型的、系统型的、管理型的、规则型的，其次确定字段相关值的属性，最后通过字段设计将业务通过表格形式展示出来，同时也确定了表格之间的关系，这样表格的设计本质上跟技术人员设计数据库很类似，所以，我们也就解答了这样一个问题，产品经理如何跟技术人员沟通的问题，通过字段设计基本上实现了产品与技术人员最核心的沟通。</p>", 
+            "topic": [
+                {
+                    "tag": "后台产品", 
+                    "tagLink": "https://api.zhihu.com/topics/19610439"
+                }, 
+                {
+                    "tag": "思维与产品设计", 
+                    "tagLink": "https://api.zhihu.com/topics/19639181"
+                }, 
+                {
+                    "tag": "数据结构", 
+                    "tagLink": "https://api.zhihu.com/topics/19591797"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>找到知音了，我也是会计转行做的后台产品经理，多多指教</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "罗飞", 
+                            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+                            "content": "<p>哈哈！共同努力，共同学习！能遇到会计转行做产品经理，而且是后台产品经理的真不容易！</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "James", 
+                    "userLink": "https://www.zhihu.com/people/3f539630a5aed1f23e944fb06b42015f", 
+                    "content": "<p>何时出2、3、4啊。。好期待</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "罗飞", 
+                            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+                            "content": "<p>最近比较忙，后续会尽快出，谢谢！</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "James"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "xingxing2015", 
+                    "userLink": "https://www.zhihu.com/people/ed724a3b7126244d126be3db12fc5af8", 
+                    "content": "<p>我也在等234，帮我梳理了思路</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "罗飞", 
+                            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+                            "content": "<p>最近比较忙，后续会尽快出，谢谢！</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "xingxing2015"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34381020", 
+            "userName": "罗飞", 
+            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+            "upvote": 4, 
+            "title": "第二章 交易体系与虚拟账户应用说明", 
+            "content": "<p>   各位小伙伴们好，在第一张中我们具体介绍了虚拟账户是什么，如何搭建虚拟账户数据项，以及相关案例说明，那么在本章将针对虚拟账户讲一下交易体系与应用说明，方便大家进一步了解虚拟账户。</p><hr/><p>      虚拟账户交易体系是指，可以在不同业务下触发虚拟账户金额的变动，从而产生账务流水的一套交易指令体系。可能这样说比较概念与宽泛，我在简单形容一下，在第一章讲解虚拟账户账户结构时有一个金额属性字段，包括可用余额、冻结余额、以及总余额，具体可回顾第一章，请看如下卡片。</p><a href=\"https://zhuanlan.zhihu.com/p/32980922\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-0925955ec88ecfac757630d8c3649c3c_180x120.jpg\" data-image-width=\"1820\" data-image-height=\"1024\" class=\"internal\">罗飞：第一章 虚拟账户体系后台设计</a><p>      其实所谓交易体系，就是有一套交易指令，告诉虚拟账户可用金额发生额的变动、冻结金额发生额变动，也就是告诉虚拟账户金额属性字段发生额的变动，同时发生变动后会产生账务流水。比如有一虚拟账户余额1000，可用余额500，冻结余额500，有这样一个业务，说冻结余额到期可以解冻了，就需要一种交易告诉虚拟账户冻结金额减少500，可用金额增加500，这样虚拟账户余额还是1000，可用余额为1000，冻结余额为0，其中的指令就是交易，对于虚拟账户自身来说，一般有如下通用交易：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9d4cf4bc561c24d5280e4ff871f6d7c6_b.jpg\" data-size=\"normal\" data-rawwidth=\"760\" data-rawheight=\"148\" class=\"origin_image zh-lightbox-thumb\" width=\"760\" data-original=\"https://pic3.zhimg.com/v2-9d4cf4bc561c24d5280e4ff871f6d7c6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;760&#39; height=&#39;148&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"760\" data-rawheight=\"148\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"760\" data-original=\"https://pic3.zhimg.com/v2-9d4cf4bc561c24d5280e4ff871f6d7c6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9d4cf4bc561c24d5280e4ff871f6d7c6_b.jpg\"/><figcaption>通用的交易指令</figcaption></figure><p>      交易是连接业务与虚拟账户的桥梁，假如我们有不同的业务会导致虚拟账户的冻结，那么我们不同的业务就可以触发内部冻结的交易指令，因此在技术实现时，交易体系通常是一套完善的接口体系。再触发交易指令后我们也会记下来交易信息----这就是交易流水。关于交易流水我们可以参考如下表格数据项：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-861c66145be0e0e29046702a588111c2_b.jpg\" data-size=\"normal\" data-rawwidth=\"860\" data-rawheight=\"420\" class=\"origin_image zh-lightbox-thumb\" width=\"860\" data-original=\"https://pic3.zhimg.com/v2-861c66145be0e0e29046702a588111c2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;860&#39; height=&#39;420&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"860\" data-rawheight=\"420\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"860\" data-original=\"https://pic3.zhimg.com/v2-861c66145be0e0e29046702a588111c2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-861c66145be0e0e29046702a588111c2_b.jpg\"/><figcaption>交易流水一般数据项参考</figcaption></figure><p>      因此，在一个虚拟账户框架下，某一业务触发虚拟账户变动后，会留下来交易流水、账务流水、同时可以让账户相关金额属性进行实时变动。通过以上相关说明，我们简单列举一下虚拟账户在互联网中有哪些应用场景。</p><hr/><p>     场景一：会员积分。</p><p>     我们知道，现在不管是什么类型的APP，都会有会员体系，会员体系都会有会员等级之分，会员等级的评价一般都是由会员积分来评价的，会员积分一般要求是实时的，通过积分增加或减少来体现不同等级，或者是积分兑换某一类商品等，这积分就是虚拟账户一种使用形式，我们可以设置一种账户类型为积分，每个用户都有这样一个积分账户，通过不同业务来体现积分的增减，通过积分的余额来体现会员等级；</p><p>    场景二：虚拟币。</p><p>   这个应用场景也非常广泛，比如我们常见的XX钻石、XX豆、XX金币、XX券等，都是对虚拟账户的应用，本质上就是有一种这种类型的虚拟账户，无非也是这个虚拟账户的金额的变动。</p><p>    因此，我们了解虚拟账户通过账户结构、账务结构的建立，根据业务需要，建立相关的交易体系，通过这一种标准框架的可以实现不同应用场景的应用。这也是我写后台产品经理相关产品设计的初衷----通过一种标准的框架体系，来满足不同业务场景的需求设计！</p><p>    谢谢，后续我会加快更新速度的哦！</p>", 
+            "topic": [
+                {
+                    "tag": "产品经理", 
+                    "tagLink": "https://api.zhihu.com/topics/19551325"
+                }, 
+                {
+                    "tag": "后台产品", 
+                    "tagLink": "https://api.zhihu.com/topics/19610439"
+                }, 
+                {
+                    "tag": "虚拟货币", 
+                    "tagLink": "https://api.zhihu.com/topics/19552099"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32980922", 
+            "userName": "罗飞", 
+            "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+            "upvote": 22, 
+            "title": "第一章 虚拟账户体系后台设计", 
+            "content": "<p>    大家好，建立专栏好长时间，十分抱歉一直也没更新文章，不过也还是有小伙伴过来关注我，在此非常感谢。</p><p>    后台系统的搭建，大家可能都知道包含了不同的管理模块，比如商品管理、销售管理、用户管理、活动管理、内容管理、结算管理、权限管理等，这些模块是根据不同管理维度，对象维度划分的管理职能模块，其实后台系统设计本质上是通过数据结构的搭建，通过业务流程、表单设计等进行数据的读写。因此后台系统搭建就是对数据的搭建，本专栏将系统性的从数据对象、数据项目、数据表单关系为基础来展现后台系统如何设计。</p><p>    话不多说，进入正题，以下将以结算管理模块为首要课题（由于本人之前是做会计的，接触后台产品设计也是先接触的结算模块），展开第一章----虚拟账户体系后台设计。</p><hr/><p>    要说虚拟账户，咱们首先来说一下什么是结算，结算狭义概念就是付款，广义上结算包含两个概念，一个结，一个是算，算比较好理解，就是通过一定业务规则计算出来应付款项，结呢就是按照一定的账期规则，通过一定的方式付款给对方，作为产品设计，一个结算业务包含着结算单管理、发票管理、账户管理、财务管理等相关对象管理。以一个简单的业务为例，比如用户在我们的平台上帮我们推广产品，会获取一定的推广费，如果没有虚拟账户，我们可能需要按照一定的账期（比如一个月）汇总这个用户获取的推广费，然后通过一定的方式付款给用户，这个流程就是一个结算业务，如果中间设计了虚拟账户，我们可以把用户获取的推广费加总到这个虚拟账户里，这个虚拟账户可以实时展示此用户的累计推广费，用户可以按照账户余额实时申请结算，我们也可以按照一定账期给予付款。</p><p>   从上述可知，虚拟账户本质上就是一个账本，按照一定的维度建立不同的虚拟账户，也就是建立了不同的账本，来实时反映算出来的钱的一个累计值，从而丰富我们的结算模式。那为什么会叫做虚拟账户呢？原因在于虚拟账户里面的钱只是一种应付款项，并不能像银行、支付公司那样具有交易作用，所以虚拟账户很大作用是其记账功能。大家对虚拟账户有了一定的概念，下面我将具体介绍虚拟账户如何设计。</p><hr/><p>   我们知道虚拟账户本质上是一个账本，那么账本会有那些元素呢？时间、事项、收支、余额等，账本有总分类账、明细账，如下图所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-060504a414dd9c379102ace44a55c168_b.jpg\" data-size=\"normal\" data-rawwidth=\"430\" data-rawheight=\"210\" class=\"origin_image zh-lightbox-thumb\" width=\"430\" data-original=\"https://pic1.zhimg.com/v2-060504a414dd9c379102ace44a55c168_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;430&#39; height=&#39;210&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"430\" data-rawheight=\"210\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"430\" data-original=\"https://pic1.zhimg.com/v2-060504a414dd9c379102ace44a55c168_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-060504a414dd9c379102ace44a55c168_b.jpg\"/><figcaption>总账示例</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7522f69a7980e6cb7c8b535afd8ea40b_b.jpg\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"307\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-7522f69a7980e6cb7c8b535afd8ea40b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;307&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"307\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-7522f69a7980e6cb7c8b535afd8ea40b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7522f69a7980e6cb7c8b535afd8ea40b_b.jpg\"/><figcaption>明细账示例</figcaption></figure><p>    总分类账是记录各个科目借方余额、贷方余额、总余额的账簿，明细账是总分类账某一个科目明细流水账，  其实虚拟账户也跟这个类似，虚拟账户是由实时账户结构、实时账务结构来构成，如下图所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-1e5ed73eaa1109428604978e5e65c78c_b.jpg\" data-size=\"normal\" data-rawwidth=\"815\" data-rawheight=\"358\" class=\"origin_image zh-lightbox-thumb\" width=\"815\" data-original=\"https://pic1.zhimg.com/v2-1e5ed73eaa1109428604978e5e65c78c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;815&#39; height=&#39;358&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"815\" data-rawheight=\"358\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"815\" data-original=\"https://pic1.zhimg.com/v2-1e5ed73eaa1109428604978e5e65c78c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-1e5ed73eaa1109428604978e5e65c78c_b.jpg\"/><figcaption>账户结构、账务结构包含相关项目属性</figcaption></figure><p>（1）账户结构</p><p>    账户结构主要表述搭建一个账户，需要哪些项目，也就是需要哪些通用的字段，如下图所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7c063743f1b89f1da20ceaf3363e0cab_b.jpg\" data-size=\"normal\" data-rawwidth=\"1011\" data-rawheight=\"253\" class=\"origin_image zh-lightbox-thumb\" width=\"1011\" data-original=\"https://pic4.zhimg.com/v2-7c063743f1b89f1da20ceaf3363e0cab_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1011&#39; height=&#39;253&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1011\" data-rawheight=\"253\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1011\" data-original=\"https://pic4.zhimg.com/v2-7c063743f1b89f1da20ceaf3363e0cab_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7c063743f1b89f1da20ceaf3363e0cab_b.jpg\"/><figcaption>账户结构基本项目</figcaption></figure><p>（2）账务结构</p><p>    账务结构主要是针对于账户余额的产生所发生的流水信息，如下图所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5e592a9358261d66695ce75b82c6651f_b.jpg\" data-size=\"normal\" data-rawwidth=\"1012\" data-rawheight=\"367\" class=\"origin_image zh-lightbox-thumb\" width=\"1012\" data-original=\"https://pic4.zhimg.com/v2-5e592a9358261d66695ce75b82c6651f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1012&#39; height=&#39;367&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1012\" data-rawheight=\"367\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1012\" data-original=\"https://pic4.zhimg.com/v2-5e592a9358261d66695ce75b82c6651f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-5e592a9358261d66695ce75b82c6651f_b.jpg\"/><figcaption>账务结构基本信息</figcaption></figure><p>以上是账户基本项目信息、账务基本项目信息，如果这个看明白了，可以融会贯通，可以对这些项目按照业务需要扩充一些其他补充信息项目。我们数据表搭建好了，线面我们用一个案例来解释，这个账户、账务展示效果。</p><p>比如我们给我们的用户张三建立一个推广费账户，比如1月2日，我们开通了他的账户，当天张三发生两笔笔推广费收入1000元，但是账期还没到，还不能把款项付给他，1月3日，其中一笔业务账期到了，这笔钱可以打给他了，金额是500，1月4日，我们把500元钱打给了张三。关于上面的业务，我们账户查询、账务查询是什么情况呢，如下图所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-91e44b92046d315b3d18b4c68221586b_b.jpg\" data-size=\"normal\" data-rawwidth=\"866\" data-rawheight=\"67\" class=\"origin_image zh-lightbox-thumb\" width=\"866\" data-original=\"https://pic4.zhimg.com/v2-91e44b92046d315b3d18b4c68221586b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;866&#39; height=&#39;67&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"866\" data-rawheight=\"67\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"866\" data-original=\"https://pic4.zhimg.com/v2-91e44b92046d315b3d18b4c68221586b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-91e44b92046d315b3d18b4c68221586b_b.jpg\"/><figcaption>账户查询案例展示</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1eb77ecc6b456e43cc7ce02c07ae0bef_b.jpg\" data-size=\"normal\" data-rawwidth=\"1032\" data-rawheight=\"133\" class=\"origin_image zh-lightbox-thumb\" width=\"1032\" data-original=\"https://pic4.zhimg.com/v2-1eb77ecc6b456e43cc7ce02c07ae0bef_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1032&#39; height=&#39;133&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1032\" data-rawheight=\"133\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1032\" data-original=\"https://pic4.zhimg.com/v2-1eb77ecc6b456e43cc7ce02c07ae0bef_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1eb77ecc6b456e43cc7ce02c07ae0bef_b.jpg\"/><figcaption>账务查询案例展示</figcaption></figure><hr/><p>    通过对账户结构、账务结构相关基本项目表述、案例表述，我想大家对虚拟账户设计有了大致的了解，关于账务流水怎么产生，如何设计触发账务流水产生功能，我将在<b><i>下一章----交易体系</i></b>，对这个做一个详细的说明。</p><p>    我们总结一下虚拟账户相关知识点：</p><p>    ①虚拟账户本质上是一个记账系统，他是结算系统中一个结算对象载体；</p><p>    ②虚拟账户设计包含着账户结构、账务结构；</p><p>    ③账户结构类似于总分类账，记录某一账户余额属性，可以提现某一账户实时的账户余额；</p><p>    ④账务结构类似于明细账，是总分类账金额发生变动的明细记录，他是触发账户余额变动的最根本来源，并且也可以用它进行会计处理；</p><p>     因此通过虚拟账户体系搭建，其实实现了相关业务的实时展现（比如账户余额、账务流水），也实现了相关业务实时触发（比如账务变动、会计记账）等业务。</p><p>      第一章就说到这里，第一次发文，希望大家多多支持，多多提供意见，多谢！</p>", 
+            "topic": [
+                {
+                    "tag": "互联网产品", 
+                    "tagLink": "https://api.zhihu.com/topics/19551383"
+                }, 
+                {
+                    "tag": "产品设计", 
+                    "tagLink": "https://api.zhihu.com/topics/19551625"
+                }, 
+                {
+                    "tag": "虚拟货币", 
+                    "tagLink": "https://api.zhihu.com/topics/19552099"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "张力波", 
+                    "userLink": "https://www.zhihu.com/people/93179d1309d76353dd0650b39eb7fb23", 
+                    "content": "<p>可以从冻结余额里直接扣款吗</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "罗飞", 
+                    "userLink": "https://www.zhihu.com/people/082c75c9b7b93f6275134fc97c877efa", 
+                    "content": "<p>可以，比如在途虚拟资金的回退，但是要考虑后续的操作，如果是全额回退问题不大，但是涉及到部分扣款的，还得考虑剩余解冻的问题，处理起来就比较复杂了，所以一般对于冻结资金的扣款也就是全额回退用的多</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/bin-wang"
+}

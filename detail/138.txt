@@ -1,0 +1,341 @@
+{
+    "title": "Render Engine", 
+    "description": "Preformance", 
+    "followers": [
+        "https://www.zhihu.com/people/miomioreimu", 
+        "https://www.zhihu.com/people/jiang-rong-57-48", 
+        "https://www.zhihu.com/people/lufei", 
+        "https://www.zhihu.com/people/liu-dun-qiang-11", 
+        "https://www.zhihu.com/people/Radon86", 
+        "https://www.zhihu.com/people/liu-dong-qiang-99", 
+        "https://www.zhihu.com/people/wang-jing-bo-27-88", 
+        "https://www.zhihu.com/people/zhang-xiao-bai-10-38", 
+        "https://www.zhihu.com/people/jaafar-sys", 
+        "https://www.zhihu.com/people/superpermutation", 
+        "https://www.zhihu.com/people/chlrandybear", 
+        "https://www.zhihu.com/people/wang-xu-cheng-95", 
+        "https://www.zhihu.com/people/yuliangxiu", 
+        "https://www.zhihu.com/people/hczhcz", 
+        "https://www.zhihu.com/people/diao-si-ma-gong", 
+        "https://www.zhihu.com/people/luo-fei-xiong", 
+        "https://www.zhihu.com/people/cqvzh", 
+        "https://www.zhihu.com/people/yidi-xie-de-ji-yi", 
+        "https://www.zhihu.com/people/yan-ma", 
+        "https://www.zhihu.com/people/sandsc", 
+        "https://www.zhihu.com/people/yan-hui-60", 
+        "https://www.zhihu.com/people/HiCuteTom", 
+        "https://www.zhihu.com/people/libin-sui", 
+        "https://www.zhihu.com/people/yanyan-7-16", 
+        "https://www.zhihu.com/people/fss-sosei", 
+        "https://www.zhihu.com/people/wu-yue-67-94-99", 
+        "https://www.zhihu.com/people/bai-jun-xuan", 
+        "https://www.zhihu.com/people/jingchao-li-55", 
+        "https://www.zhihu.com/people/wang-ji-shi-jian-54", 
+        "https://www.zhihu.com/people/yao-fei-8-90", 
+        "https://www.zhihu.com/people/chen-dong-98-68", 
+        "https://www.zhihu.com/people/chen-gao-shuang", 
+        "https://www.zhihu.com/people/wang-hao-ran-98", 
+        "https://www.zhihu.com/people/cric-85", 
+        "https://www.zhihu.com/people/ni-cai-de-bei-ju", 
+        "https://www.zhihu.com/people/han-zi-qi", 
+        "https://www.zhihu.com/people/rui-kou-75", 
+        "https://www.zhihu.com/people/jacktian-24", 
+        "https://www.zhihu.com/people/liu-xu-jun-92", 
+        "https://www.zhihu.com/people/chinaConsoleGamer", 
+        "https://www.zhihu.com/people/nima-cao-44", 
+        "https://www.zhihu.com/people/zhang-yang-jia-cheng-55", 
+        "https://www.zhihu.com/people/zi-ye-45-35", 
+        "https://www.zhihu.com/people/wei-xu-hong", 
+        "https://www.zhihu.com/people/hackeris", 
+        "https://www.zhihu.com/people/li-jun-hui-89-57", 
+        "https://www.zhihu.com/people/willwinworld", 
+        "https://www.zhihu.com/people/Aeroette", 
+        "https://www.zhihu.com/people/prismformore", 
+        "https://www.zhihu.com/people/duan-xing-99", 
+        "https://www.zhihu.com/people/lonlon-ago", 
+        "https://www.zhihu.com/people/liu-meng-yuan-72-95", 
+        "https://www.zhihu.com/people/bentleyjobs", 
+        "https://www.zhihu.com/people/xia-meng-qi-55", 
+        "https://www.zhihu.com/people/zhangbo0037", 
+        "https://www.zhihu.com/people/wumi-95-29", 
+        "https://www.zhihu.com/people/kevd-jovi", 
+        "https://www.zhihu.com/people/suyi-11", 
+        "https://www.zhihu.com/people/deng-bo-92-82", 
+        "https://www.zhihu.com/people/tom-zheng-12", 
+        "https://www.zhihu.com/people/jiang-hu-19-44", 
+        "https://www.zhihu.com/people/stubborn_horse", 
+        "https://www.zhihu.com/people/lmy-97", 
+        "https://www.zhihu.com/people/xiao-bei-7-55", 
+        "https://www.zhihu.com/people/faker-41-98", 
+        "https://www.zhihu.com/people/xu-chang-lang-zi", 
+        "https://www.zhihu.com/people/huoshijie", 
+        "https://www.zhihu.com/people/li-jin-15-67", 
+        "https://www.zhihu.com/people/xue-wen-11", 
+        "https://www.zhihu.com/people/liu-hong-bo-45-46", 
+        "https://www.zhihu.com/people/chen-yi-si-62", 
+        "https://www.zhihu.com/people/zhu-shao-tong", 
+        "https://www.zhihu.com/people/wale", 
+        "https://www.zhihu.com/people/papertime", 
+        "https://www.zhihu.com/people/shuai-tian-qiang", 
+        "https://www.zhihu.com/people/Te-Aro", 
+        "https://www.zhihu.com/people/cz-shi", 
+        "https://www.zhihu.com/people/shi-ling-64", 
+        "https://www.zhihu.com/people/paintsnow", 
+        "https://www.zhihu.com/people/miccall", 
+        "https://www.zhihu.com/people/xiao-liang-49-54", 
+        "https://www.zhihu.com/people/lin-hai-wei-62", 
+        "https://www.zhihu.com/people/feng-hai-liang", 
+        "https://www.zhihu.com/people/charles-meng-17", 
+        "https://www.zhihu.com/people/zi-yu-jiu-jiu", 
+        "https://www.zhihu.com/people/topcoder", 
+        "https://www.zhihu.com/people/mavis-46-36-23", 
+        "https://www.zhihu.com/people/jack-91-87", 
+        "https://www.zhihu.com/people/chen-yan-hong-25-23", 
+        "https://www.zhihu.com/people/yqlizeao", 
+        "https://www.zhihu.com/people/zuo-kan-lai-hui", 
+        "https://www.zhihu.com/people/xue-zhuang-4-98", 
+        "https://www.zhihu.com/people/zhou-bin-28", 
+        "https://www.zhihu.com/people/yang-yan-yu-58", 
+        "https://www.zhihu.com/people/su-yang-52-2", 
+        "https://www.zhihu.com/people/xian-nu-qiu-bao", 
+        "https://www.zhihu.com/people/yz-yu", 
+        "https://www.zhihu.com/people/chen-jian-80-63", 
+        "https://www.zhihu.com/people/liang-zi-mu", 
+        "https://www.zhihu.com/people/www.czxyl.me", 
+        "https://www.zhihu.com/people/wu-ming-23-74", 
+        "https://www.zhihu.com/people/fang-peng-jun", 
+        "https://www.zhihu.com/people/linktomysoul", 
+        "https://www.zhihu.com/people/wolventoad", 
+        "https://www.zhihu.com/people/guo-zong-qi", 
+        "https://www.zhihu.com/people/whisper-88-37", 
+        "https://www.zhihu.com/people/rudy-snow", 
+        "https://www.zhihu.com/people/chen-jing-lin-14-47", 
+        "https://www.zhihu.com/people/liufangyi", 
+        "https://www.zhihu.com/people/mencius", 
+        "https://www.zhihu.com/people/ling-luan-da-ren", 
+        "https://www.zhihu.com/people/xu-you-46-82", 
+        "https://www.zhihu.com/people/yao-jing-zhe-51", 
+        "https://www.zhihu.com/people/wang_zhe", 
+        "https://www.zhihu.com/people/wu-jun-8-68", 
+        "https://www.zhihu.com/people/sui-xie-zhi-cheng", 
+        "https://www.zhihu.com/people/zhang-xiong-46-98", 
+        "https://www.zhihu.com/people/cozlind", 
+        "https://www.zhihu.com/people/1430hrs", 
+        "https://www.zhihu.com/people/han-yi-80-61", 
+        "https://www.zhihu.com/people/chopdown", 
+        "https://www.zhihu.com/people/yuan-cheng-peng", 
+        "https://www.zhihu.com/people/zhang_chu", 
+        "https://www.zhihu.com/people/luo-bin-41", 
+        "https://www.zhihu.com/people/feng-cong-cong-78", 
+        "https://www.zhihu.com/people/yt-im", 
+        "https://www.zhihu.com/people/ge-jun-22", 
+        "https://www.zhihu.com/people/zhangqingling", 
+        "https://www.zhihu.com/people/leo-cheng-12", 
+        "https://www.zhihu.com/people/nilgame", 
+        "https://www.zhihu.com/people/yao-lei-7", 
+        "https://www.zhihu.com/people/wu-fa-47", 
+        "https://www.zhihu.com/people/fengzi1001", 
+        "https://www.zhihu.com/people/song-yao-80", 
+        "https://www.zhihu.com/people/cheng-zhang-89-92", 
+        "https://www.zhihu.com/people/xiao-mou-20-87", 
+        "https://www.zhihu.com/people/kong-ling-wei-40-61", 
+        "https://www.zhihu.com/people/yildhd-wang", 
+        "https://www.zhihu.com/people/crosslife", 
+        "https://www.zhihu.com/people/xiaozhuanfeng", 
+        "https://www.zhihu.com/people/tian-lan-78-95", 
+        "https://www.zhihu.com/people/ic_leefeng", 
+        "https://www.zhihu.com/people/jack-break", 
+        "https://www.zhihu.com/people/kennel2009", 
+        "https://www.zhihu.com/people/icarus33", 
+        "https://www.zhihu.com/people/da-kuai-wu-hua-rou", 
+        "https://www.zhihu.com/people/chen-mou-12", 
+        "https://www.zhihu.com/people/kang-49-97", 
+        "https://www.zhihu.com/people/zhao-zhong-jian", 
+        "https://www.zhihu.com/people/bb1988", 
+        "https://www.zhihu.com/people/night-yan", 
+        "https://www.zhihu.com/people/ken07", 
+        "https://www.zhihu.com/people/xoyojank", 
+        "https://www.zhihu.com/people/guan-tian-ming", 
+        "https://www.zhihu.com/people/ergou", 
+        "https://www.zhihu.com/people/darkriver404", 
+        "https://www.zhihu.com/people/xie-yi-77-32", 
+        "https://www.zhihu.com/people/huang-de-ke", 
+        "https://www.zhihu.com/people/wu-da-ren-6-38", 
+        "https://www.zhihu.com/people/yueyue-brother", 
+        "https://www.zhihu.com/people/xin-fei-chi", 
+        "https://www.zhihu.com/people/zheng-yuan-qing-15", 
+        "https://www.zhihu.com/people/noahzuo", 
+        "https://www.zhihu.com/people/www.lalalacde.com", 
+        "https://www.zhihu.com/people/zztsuen", 
+        "https://www.zhihu.com/people/xerphong", 
+        "https://www.zhihu.com/people/aboutdept", 
+        "https://www.zhihu.com/people/forestsen", 
+        "https://www.zhihu.com/people/liaoer", 
+        "https://www.zhihu.com/people/ni-zhao-hao", 
+        "https://www.zhihu.com/people/peng-lu-20-18", 
+        "https://www.zhihu.com/people/hansimov", 
+        "https://www.zhihu.com/people/zeng-zhi-an", 
+        "https://www.zhihu.com/people/wang-chao-95-44", 
+        "https://www.zhihu.com/people/zhou-yu-ming-74", 
+        "https://www.zhihu.com/people/xiao-fei-fei-45", 
+        "https://www.zhihu.com/people/ShaderX"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44634841", 
+            "userName": "码奴", 
+            "userLink": "https://www.zhihu.com/people/304a88cdac1794590a98daf7cb0279d0", 
+            "upvote": 3, 
+            "title": "Deep Learning 逐句翻译5.8", 
+            "content": "<p>5.8 Unsupervised Learning Algorithms</p><p>5.8.1 Principal Components Analysis</p><p><b>对称矩阵及SVD相关知识</b></p><a href=\"https://zhuanlan.zhihu.com/p/44654969\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/equation.jpg\" data-image-width=\"0\" data-image-height=\"0\" class=\"internal\">码奴：番外：从对称矩阵到SVD</a><p>2.12节，我们看到PCA算法提供了一种数据压缩方式。我们也可以把PCA看成非监督学习算法，用它学习数据描述方式。这种描述方式基于上节给出的两个标准。PCA习得的数据描述方式比原数据维度低，且数据元素间没有线性关联（linear correlation）。学习标准是，元素之间在统计学上独立。而PCA算法迈向这个标准的第一步。为达到全独立（full independence），数据描述算法必须移除变量间的非线性关系。</p><p>PCA学习一个正交的，把输入数据 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 投影到 <img src=\"https://www.zhihu.com/equation?tex=z\" alt=\"z\" eeimg=\"1\"/> 的线性变换，如图5.8。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-909ca9a05bb5d5595197e6c588333c9b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1240\" data-rawheight=\"637\" class=\"origin_image zh-lightbox-thumb\" width=\"1240\" data-original=\"https://pic4.zhimg.com/v2-909ca9a05bb5d5595197e6c588333c9b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1240&#39; height=&#39;637&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1240\" data-rawheight=\"637\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1240\" data-original=\"https://pic4.zhimg.com/v2-909ca9a05bb5d5595197e6c588333c9b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-909ca9a05bb5d5595197e6c588333c9b_b.jpg\"/></figure><p>2.12节，我们习得用一维数据重建元数据的方法（用MSE），这种方法实际是数据上的主成分（first principal component）。我们把PCA当成一种简单高效降维方法，它可以保留尽可能多的数据信息（同样，通过least-squares-reconstruction error来测量）。接下来，我们研究PCA怎样对原数据，用 <img src=\"https://www.zhihu.com/equation?tex=X\" alt=\"X\" eeimg=\"1\"/> 表示，去关联。</p><p>考虑 <img src=\"https://www.zhihu.com/equation?tex=m%5Ctimes%7Bn%7D\" alt=\"m\\times{n}\" eeimg=\"1\"/> 矩阵 <img src=\"https://www.zhihu.com/equation?tex=X\" alt=\"X\" eeimg=\"1\"/> 。假设数据中值为0， <img src=\"https://www.zhihu.com/equation?tex=E%5Bx%5D%3D0\" alt=\"E[x]=0\" eeimg=\"1\"/> 。数据中值为0的结果容易得到，所有数据减去中值即可。</p><p>关于 <img src=\"https://www.zhihu.com/equation?tex=X\" alt=\"X\" eeimg=\"1\"/> 的无偏取样协方差矩阵为：</p><p><img src=\"https://www.zhihu.com/equation?tex=Var%5Bx%5D%3D%5Cfrac%7B1%7D%7Bm-1%7D%7BX%5E%7BT%7DX%7D\" alt=\"Var[x]=\\frac{1}{m-1}{X^{T}X}\" eeimg=\"1\"/> </p><p>PCA找到一种线性变换 <img src=\"https://www.zhihu.com/equation?tex=z%3Dx%5E%7BT%7DW\" alt=\"z=x^{T}W\" eeimg=\"1\"/> ， <img src=\"https://www.zhihu.com/equation?tex=Var%5Bz%5D\" alt=\"Var[z]\" eeimg=\"1\"/> 是对角阵。</p><p>2.12节我们看到 <img src=\"https://www.zhihu.com/equation?tex=X\" alt=\"X\" eeimg=\"1\"/> 的主成分由 <img src=\"https://www.zhihu.com/equation?tex=X%5E%7BT%7DX\" alt=\"X^{T}X\" eeimg=\"1\"/> 的特征向量给出。由此看，</p><p><img src=\"https://www.zhihu.com/equation?tex=X%5E%7BT%7DX%3DW%5CLambda%7BW%5E%7BT%7D%7D\" alt=\"X^{T}X=W\\Lambda{W^{T}}\" eeimg=\"1\"/> (5.86)</p><p>本节我们研究主成分的另一种推导方式。主成分由SVD给出。特别指出，主成分是 <img src=\"https://www.zhihu.com/equation?tex=X\" alt=\"X\" eeimg=\"1\"/> 的右奇异向量。设 <img src=\"https://www.zhihu.com/equation?tex=W\" alt=\"W\" eeimg=\"1\"/> 是SVD分解的右奇异向量， <img src=\"https://www.zhihu.com/equation?tex=X%3DU%5CSigma%7BW%5E%7BT%7D%7D\" alt=\"X=U\\Sigma{W^{T}}\" eeimg=\"1\"/> 。我们可以恢复原本的特征向量， <img src=\"https://www.zhihu.com/equation?tex=W\" alt=\"W\" eeimg=\"1\"/> 是基：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-2d628c70a97d0816ee823ee632a69457_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"951\" data-rawheight=\"96\" class=\"origin_image zh-lightbox-thumb\" width=\"951\" data-original=\"https://pic4.zhimg.com/v2-2d628c70a97d0816ee823ee632a69457_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;951&#39; height=&#39;96&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"951\" data-rawheight=\"96\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"951\" data-original=\"https://pic4.zhimg.com/v2-2d628c70a97d0816ee823ee632a69457_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2d628c70a97d0816ee823ee632a69457_b.jpg\"/></figure><p>SVD可以很好的解释为什么PCA的 <img src=\"https://www.zhihu.com/equation?tex=Var%5Bz%5D\" alt=\"Var[z]\" eeimg=\"1\"/> 是对角阵，带入<b>X</b>的SVD分解， <img src=\"https://www.zhihu.com/equation?tex=X\" alt=\"X\" eeimg=\"1\"/> 的方差：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-333db88785c04e5bc6036c5319f5ee23_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"327\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-333db88785c04e5bc6036c5319f5ee23_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;327&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"327\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-333db88785c04e5bc6036c5319f5ee23_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-333db88785c04e5bc6036c5319f5ee23_b.jpg\"/></figure><p><img src=\"https://www.zhihu.com/equation?tex=U%5E%7BT%7DU%3DI\" alt=\"U^{T}U=I\" eeimg=\"1\"/> ， <img src=\"https://www.zhihu.com/equation?tex=U\" alt=\"U\" eeimg=\"1\"/> 是标准正交阵。如果 <img src=\"https://www.zhihu.com/equation?tex=z%3Dx%5E%7BT%7DW\" alt=\"z=x^{T}W\" eeimg=\"1\"/> , <img src=\"https://www.zhihu.com/equation?tex=z\" alt=\"z\" eeimg=\"1\"/> 的协方差也是对角阵：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-529d69b77b76a9b16f7c14dd264c2755_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1005\" data-rawheight=\"339\" class=\"origin_image zh-lightbox-thumb\" width=\"1005\" data-original=\"https://pic2.zhimg.com/v2-529d69b77b76a9b16f7c14dd264c2755_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1005&#39; height=&#39;339&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1005\" data-rawheight=\"339\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1005\" data-original=\"https://pic2.zhimg.com/v2-529d69b77b76a9b16f7c14dd264c2755_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-529d69b77b76a9b16f7c14dd264c2755_b.jpg\"/></figure><p><img src=\"https://www.zhihu.com/equation?tex=WW%5E%7BT%7D%3DI\" alt=\"WW^{T}=I\" eeimg=\"1\"/> ， <img src=\"https://www.zhihu.com/equation?tex=W\" alt=\"W\" eeimg=\"1\"/> 是标准正交阵。</p><p>上述分析表明，数据 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 通过线性变换 <img src=\"https://www.zhihu.com/equation?tex=W\" alt=\"W\" eeimg=\"1\"/> 投影到 <img src=\"https://www.zhihu.com/equation?tex=z\" alt=\"z\" eeimg=\"1\"/> 上，得到一个对角协方差矩阵 <img src=\"https://www.zhihu.com/equation?tex=%5CSigma%5E%7B2%7D\" alt=\"\\Sigma^{2}\" eeimg=\"1\"/> ，而对角协方差矩阵表明 <img src=\"https://www.zhihu.com/equation?tex=z\" alt=\"z\" eeimg=\"1\"/> 中的元素是彼此不相关的（mutually uncorrelated）。</p><p>把数据元素变换为彼此不相关是PCA的重要特性。这是关于数据表示的，“清理未知变化因子（disentangle the unknow factors of variation）”一个示范。就PCA而言，这种清理是输入空间的旋转变化（ 由<img src=\"https://www.zhihu.com/equation?tex=W\" alt=\"W\" eeimg=\"1\"/>描述）使得新的空间的基 <img src=\"https://www.zhihu.com/equation?tex=z\" alt=\"z\" eeimg=\"1\"/> 和方差的主轴对齐（见文章起始处链接<b>对称矩阵及SVD相关知识</b>最后一张图）。</p><p>相关性是数据依赖的主要分类，我们有兴趣学习更复杂的特性依赖清理。我们需要比线性变化更复杂（高级）的方法。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "神经网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19607065"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40295393", 
+            "userName": "Conner", 
+            "userLink": "https://www.zhihu.com/people/aa0f19c472caa48b54abdac2f43d2ad5", 
+            "upvote": 3, 
+            "title": "P1:Bitonic sort with GPU", 
+            "content": "<p><b>Preview</b></p><p>        Previously Microsoft released the Ray Trace Technology with BVH Tree that same with Nvidia&#39;s demo.There are two major ways to implement GPU ray matching(Trace) and you can apply it to dynamic scene updating that due to the constrcution speed of  BHV tree . One of way is sort algorithm in GPU requesting the high perfromance.And Another is acceleration struction.We&#39;re going to talk about the Sort algorithm in GPU and compare the preformance with CUDA  binoticsort.and next time turn our focus to acceleration struction of BVH .You can check to this link  to figure out binotic sort.</p><a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Bitonic_sorter\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-efbf2a3be68d02a2a7ea904b8e49d8c3_180x120.jpg\" data-image-width=\"1200\" data-image-height=\"712\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Bitonic sorter - Wikipedia</a><p>We extracted major step showed in figure 1.and for convenience we implement in CPU and correspond thread in GPU with array index.</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-46b12ac8446ab5f31f924478cc7e8ed2_b.jpg\" data-size=\"normal\" data-rawwidth=\"843\" data-rawheight=\"258\" class=\"origin_image zh-lightbox-thumb\" width=\"843\" data-original=\"https://pic3.zhimg.com/v2-46b12ac8446ab5f31f924478cc7e8ed2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;843&#39; height=&#39;258&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"843\" data-rawheight=\"258\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"843\" data-original=\"https://pic3.zhimg.com/v2-46b12ac8446ab5f31f924478cc7e8ed2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-46b12ac8446ab5f31f924478cc7e8ed2_b.jpg\"/><figcaption>Figure 1</figcaption></figure><p><b>Red region</b></p><p>First we calculate the relation between  thread index and  array index on the red region </p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"cm\">/*\n</span><span class=\"cm\">   Value -&gt;array\n</span><span class=\"cm\">   Size  -&gt;arraysize\n</span><span class=\"cm\">*/</span>\n<span class=\"kt\">void</span> <span class=\"n\">BitonicSortWithCPU</span><span class=\"o\">::</span><span class=\"n\">RedRegion</span><span class=\"p\">(</span><span class=\"n\">Type</span><span class=\"o\">*</span> <span class=\"n\">Value</span><span class=\"p\">,</span> <span class=\"kt\">unsigned</span> <span class=\"n\">Size</span><span class=\"p\">)</span>\n<span class=\"p\">{</span>\n\t<span class=\"n\">Size</span><span class=\"o\">=</span><span class=\"n\">eAlgorithm</span><span class=\"o\">::</span><span class=\"n\">CalculateNextLog2</span><span class=\"p\">(</span><span class=\"n\">Size</span><span class=\"p\">);</span>\n\t<span class=\"kt\">unsigned</span> <span class=\"n\">Choice</span> <span class=\"o\">=</span> <span class=\"mi\">1</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">Size</span><span class=\"o\">-</span><span class=\"mi\">1</span><span class=\"p\">;</span>\n\t<span class=\"c1\">//Log2 Step \n</span><span class=\"c1\"></span>\t<span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kt\">unsigned</span> <span class=\"n\">Level</span> <span class=\"o\">=</span> <span class=\"mi\">1</span><span class=\"p\">;</span> <span class=\"n\">Level</span> <span class=\"o\">&lt;=</span> <span class=\"n\">Size</span><span class=\"p\">;</span> <span class=\"o\">++</span><span class=\"n\">Level</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n\t\t<span class=\"c1\">//Perthread\n</span><span class=\"c1\"></span>\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">LevelSize</span> <span class=\"o\">=</span> <span class=\"mi\">1</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">Level</span><span class=\"p\">;</span>\n\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">InteriorSize</span> <span class=\"o\">=</span> <span class=\"n\">LevelSize</span> <span class=\"o\">&gt;&gt;</span> <span class=\"mi\">1</span><span class=\"p\">;</span>\n\t\t<span class=\"n\">printf_s</span><span class=\"p\">(</span><span class=\"s\">&#34;Level --------------------%d</span><span class=\"se\">\\n</span><span class=\"s\">&#34;</span><span class=\"p\">,</span> <span class=\"n\">Level</span><span class=\"p\">);</span>\n\t\t<span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kt\">unsigned</span> <span class=\"n\">Thread</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"n\">Thread</span> <span class=\"o\">&lt;</span> <span class=\"n\">Choice</span><span class=\"p\">;</span> <span class=\"o\">++</span><span class=\"n\">Thread</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">GroupIndex</span> <span class=\"o\">=</span> <span class=\"n\">Thread</span> <span class=\"o\">/</span> <span class=\"n\">InteriorSize</span><span class=\"o\">*</span> <span class=\"n\">LevelSize</span><span class=\"p\">;</span>\n\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">Offset</span> <span class=\"o\">=</span> <span class=\"n\">Thread</span> <span class=\"o\">%</span> <span class=\"n\">InteriorSize</span><span class=\"p\">;</span>\n\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">Top</span> <span class=\"o\">=</span> <span class=\"n\">GroupIndex</span> <span class=\"o\">+</span> <span class=\"n\">Offset</span><span class=\"p\">;</span>\n\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">Bottom</span> <span class=\"o\">=</span> <span class=\"n\">GroupIndex</span> <span class=\"o\">+</span> <span class=\"p\">(</span><span class=\"n\">LevelSize</span> <span class=\"o\">-</span> <span class=\"mi\">1</span><span class=\"o\">-</span> <span class=\"n\">Offset</span><span class=\"p\">);</span>\n\t\t\t<span class=\"n\">printf_s</span><span class=\"p\">(</span><span class=\"s\">&#34;Top %d,    Bottom %d </span><span class=\"se\">\\n</span><span class=\"s\">&#34;</span><span class=\"p\">,</span> <span class=\"n\">Top</span><span class=\"p\">,</span> <span class=\"n\">Bottom</span><span class=\"p\">);</span>\n\t\t<span class=\"p\">}</span>\n\t<span class=\"p\">}</span>\n<span class=\"p\">}</span>\n</code></pre></div><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9b3486fbcf6fb7647fb7dc8f7171abe2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"250\" data-rawheight=\"638\" class=\"content_image\" width=\"250\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;250&#39; height=&#39;638&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"250\" data-rawheight=\"638\" class=\"content_image lazy\" width=\"250\" data-actualsrc=\"https://pic3.zhimg.com/v2-9b3486fbcf6fb7647fb7dc8f7171abe2_b.jpg\"/></figure><p><b> Pink region </b> </p><div class=\"highlight\"><pre><code class=\"language-cpp\"> <span class=\"kt\">void</span>  <span class=\"n\">BitonicSortWithCPU</span><span class=\"o\">::</span><span class=\"n\">PinkRegion</span><span class=\"p\">(</span><span class=\"n\">Type</span><span class=\"o\">*</span> <span class=\"n\">Value</span><span class=\"p\">,</span> <span class=\"kt\">unsigned</span> <span class=\"n\">Size</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n\t <span class=\"n\">Size</span> <span class=\"o\">=</span> <span class=\"n\">eAlgorithm</span><span class=\"o\">::</span><span class=\"n\">CalculateNextLog2</span><span class=\"p\">(</span><span class=\"n\">Size</span><span class=\"p\">);</span>\n\t <span class=\"kt\">unsigned</span> <span class=\"n\">Choice</span> <span class=\"o\">=</span> <span class=\"mi\">1</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">Size</span> <span class=\"o\">-</span> <span class=\"mi\">1</span><span class=\"p\">;</span>\n\t <span class=\"c1\">//Log2 Step \n</span><span class=\"c1\"></span>\t <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kt\">unsigned</span> <span class=\"n\">Level</span> <span class=\"o\">=</span> <span class=\"mi\">1</span><span class=\"p\">;</span> <span class=\"n\">Level</span> <span class=\"o\">&lt;=</span> <span class=\"n\">Size</span><span class=\"p\">;</span> <span class=\"o\">++</span><span class=\"n\">Level</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n\t\t <span class=\"c1\">//Perthread\n</span><span class=\"c1\"></span>\t\t <span class=\"kt\">unsigned</span> <span class=\"n\">PinkLevel</span> <span class=\"o\">=</span> <span class=\"n\">Level</span><span class=\"p\">;</span>\n\t\t <span class=\"kt\">unsigned</span> <span class=\"n\">count</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span>\n\t\t <span class=\"k\">while</span> <span class=\"p\">(</span><span class=\"n\">PinkLevel</span> <span class=\"o\">-=</span> <span class=\"mi\">1</span><span class=\"p\">)</span>\n\t\t <span class=\"p\">{</span>\n\t\t\t <span class=\"kt\">unsigned</span> <span class=\"n\">Pinksize</span> <span class=\"o\">=</span> <span class=\"mi\">1</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">PinkLevel</span><span class=\"p\">;</span>\n\t\t\t <span class=\"kt\">unsigned</span> <span class=\"n\">Halfsize</span> <span class=\"o\">=</span> <span class=\"n\">Pinksize</span> <span class=\"o\">&gt;&gt;</span> <span class=\"mi\">1</span><span class=\"p\">;</span>\n\t\t\t <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kt\">unsigned</span> <span class=\"kr\">thread</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"kr\">thread</span> <span class=\"o\">&lt;</span> <span class=\"n\">Choice</span><span class=\"p\">;</span> <span class=\"o\">++</span><span class=\"kr\">thread</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n\t\t\t\t <span class=\"kt\">unsigned</span> <span class=\"n\">PinkGroup</span> <span class=\"o\">=</span> <span class=\"kr\">thread</span> <span class=\"o\">/</span> <span class=\"n\">Halfsize</span><span class=\"p\">;</span>\n\t\t\t\t <span class=\"kt\">unsigned</span> <span class=\"n\">GroupIndex</span> <span class=\"o\">=</span> <span class=\"kr\">thread</span><span class=\"o\">%</span> <span class=\"n\">Halfsize</span><span class=\"p\">;</span>\n\t\t\t\t <span class=\"kt\">unsigned</span> <span class=\"n\">Top</span> <span class=\"o\">=</span> <span class=\"n\">PinkGroup</span> <span class=\"o\">*</span> <span class=\"n\">Pinksize</span> <span class=\"o\">+</span> <span class=\"n\">GroupIndex</span><span class=\"p\">;</span>\n\t\t\t\t <span class=\"kt\">unsigned</span> <span class=\"n\">Bottom</span> <span class=\"o\">=</span> <span class=\"n\">Top</span> <span class=\"o\">+</span> <span class=\"n\">Halfsize</span><span class=\"p\">;</span>\n\t\t\t\t <span class=\"n\">printf_s</span><span class=\"p\">(</span><span class=\"s\">&#34;Top %d,    Bottom %d </span><span class=\"se\">\\n</span><span class=\"s\">&#34;</span><span class=\"p\">,</span> <span class=\"n\">Top</span><span class=\"p\">,</span> <span class=\"n\">Bottom</span><span class=\"p\">);</span>\n\t\t\t <span class=\"p\">}</span>\n\t\t <span class=\"p\">}</span>\n\t <span class=\"p\">}</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>Invoke function PinkRegion,you can get the result list .It&#39;s showed in below.</p><p><b>------------------------------------------------------------------------------------</b></p><p>Level 1:</p><p>     No result.     PinkLevel  = PinkLevel -1  (PinkLevel  =0)</p><p><b>------------------------------------------------------------------------------------</b></p><p>Level 2:</p><p>       Top     |    Bottom </p><p>        0               1</p><p>        2               3</p><p>        4               5</p><p>        6               7</p><p>        ....             ....</p><p><b>------------------------------------------------------------------------------------</b></p><p>Level 3:</p><ul><li>       Top   |  Bottom </li></ul><p>        0      |       2</p><p>        1      |      3</p><p>        4      |      6</p><p>        5      |      7</p><p>        ...            ...</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>      include  Level 2 </li></ul><p><b>------------------------------------------------------------------------------------</b></p><p>Level 4:</p><ul><li>       Top 0,    Bottom 4</li></ul><p>          Top 1,    Bottom 5</p><p>          Top 2,    Bottom 6</p><p>          Top 3,    Bottom 7</p><p>          Top 8,    Bottom 12</p><p>          ...             ....</p><ul><li>include  Level 3</li><li><b>------------------------------------------------------------------------------------</b></li></ul><p>We have related the thread and index with array  index and sort algorithm showed in beblow!In fact we simulate sort algorithm in CPU instead of GPU thread You can find iterator for(int  thread;...),It means the parallel thread in GPU and add conditon </p><div class=\"highlight\"><pre><code class=\"language-text\"> if(bottom&lt;arraySize&amp;&amp;topElement&gt;BottomElemnet)\n     swap(topment,bottomElement)</code></pre></div><p>to support number that isn&#39;t pow of 2.</p><p>-----------------------------------------------------------------------<br/></p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"kt\">void</span> <span class=\"n\">BitonicSortWithCPU</span><span class=\"o\">::</span><span class=\"n\">SortWithCPU</span><span class=\"p\">(</span><span class=\"n\">Type</span><span class=\"o\">*</span> <span class=\"n\">Value</span><span class=\"p\">,</span> <span class=\"kt\">unsigned</span> <span class=\"n\">Size</span><span class=\"p\">)</span>\n<span class=\"p\">{</span>\n\t<span class=\"n\">Size</span><span class=\"o\">=</span><span class=\"n\">eAlgorithm</span><span class=\"o\">::</span><span class=\"n\">CalculateNextLog2</span><span class=\"p\">(</span><span class=\"n\">Size</span><span class=\"p\">);</span>\n\t<span class=\"kt\">unsigned</span> <span class=\"n\">Choice</span> <span class=\"o\">=</span> <span class=\"mi\">1</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">Size</span><span class=\"o\">-</span><span class=\"mi\">1</span><span class=\"p\">;</span>\n\t<span class=\"c1\">//Log2 Step \n</span><span class=\"c1\"></span>\t<span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kt\">unsigned</span> <span class=\"n\">Level</span> <span class=\"o\">=</span> <span class=\"mi\">1</span><span class=\"p\">;</span> <span class=\"n\">Level</span> <span class=\"o\">&lt;=</span> <span class=\"n\">Size</span> <span class=\"p\">;</span> <span class=\"o\">++</span><span class=\"n\">Level</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n\t\t<span class=\"c1\">//Perthread\n</span><span class=\"c1\"></span>\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">LevelSize</span> <span class=\"o\">=</span> <span class=\"mi\">1</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">Level</span><span class=\"p\">;</span>\n\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">InteriorSize</span> <span class=\"o\">=</span> <span class=\"n\">LevelSize</span> <span class=\"o\">&gt;&gt;</span> <span class=\"mi\">1</span><span class=\"p\">;</span>\n\t\t<span class=\"n\">printf_s</span><span class=\"p\">(</span><span class=\"s\">&#34;Level --------------------%d</span><span class=\"se\">\\n</span><span class=\"s\">&#34;</span><span class=\"p\">,</span> <span class=\"n\">Level</span><span class=\"p\">);</span>\n\t\t<span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kt\">unsigned</span> <span class=\"n\">Thread</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"n\">Thread</span> <span class=\"o\">&lt;</span> <span class=\"n\">Choice</span><span class=\"p\">;</span> <span class=\"o\">++</span><span class=\"n\">Thread</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">GroupIndex</span> <span class=\"o\">=</span> <span class=\"n\">Thread</span> <span class=\"o\">/</span> <span class=\"n\">InteriorSize</span><span class=\"o\">*</span> <span class=\"n\">LevelSize</span><span class=\"p\">;</span>\n\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">Offset</span> <span class=\"o\">=</span> <span class=\"n\">Thread</span> <span class=\"o\">%</span> <span class=\"n\">InteriorSize</span><span class=\"p\">;</span>\n\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">Top</span> <span class=\"o\">=</span> <span class=\"n\">GroupIndex</span> <span class=\"o\">+</span> <span class=\"n\">Offset</span><span class=\"p\">;</span>\n\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">Bottom</span> <span class=\"o\">=</span> <span class=\"n\">GroupIndex</span> <span class=\"o\">+</span> <span class=\"p\">(</span><span class=\"n\">LevelSize</span> <span class=\"o\">-</span> <span class=\"mi\">1</span><span class=\"o\">-</span> <span class=\"n\">Offset</span><span class=\"p\">);</span>\n\t\t\t<span class=\"k\">if</span> <span class=\"p\">(</span><span class=\"n\">Value</span><span class=\"p\">[</span><span class=\"n\">Top</span><span class=\"p\">]</span><span class=\"o\">&gt;</span><span class=\"n\">Value</span><span class=\"p\">[</span><span class=\"n\">Bottom</span><span class=\"p\">])</span>\n\t\t\t\t<span class=\"n\">std</span><span class=\"o\">::</span><span class=\"n\">swap</span><span class=\"p\">(</span><span class=\"n\">Value</span><span class=\"p\">[</span><span class=\"n\">Top</span><span class=\"p\">],</span> <span class=\"n\">Value</span><span class=\"p\">[</span><span class=\"n\">Bottom</span><span class=\"p\">]);</span>\n\t\t<span class=\"p\">}</span>\n\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">PinkLevel</span> <span class=\"o\">=</span> <span class=\"n\">Level</span><span class=\"p\">;</span>\n\t\t<span class=\"k\">while</span> <span class=\"p\">(</span><span class=\"n\">PinkLevel</span> <span class=\"o\">-=</span> <span class=\"mi\">1</span><span class=\"p\">)</span>\n\t\t<span class=\"p\">{</span>\n\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">Pinksize</span> <span class=\"o\">=</span> <span class=\"mi\">1</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">PinkLevel</span><span class=\"p\">;</span>\n\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">Halfsize</span> <span class=\"o\">=</span> <span class=\"n\">Pinksize</span> <span class=\"o\">&gt;&gt;</span> <span class=\"mi\">1</span><span class=\"p\">;</span>\n\t\t\t<span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kt\">unsigned</span> <span class=\"kr\">thread</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"kr\">thread</span> <span class=\"o\">&lt;</span> <span class=\"n\">Choice</span><span class=\"p\">;</span> <span class=\"o\">++</span><span class=\"kr\">thread</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n\t\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">PinkGroup</span> <span class=\"o\">=</span> <span class=\"kr\">thread</span> <span class=\"o\">/</span> <span class=\"n\">Halfsize</span><span class=\"p\">;</span>\n\t\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">GroupIndex</span> <span class=\"o\">=</span> <span class=\"kr\">thread</span> <span class=\"o\">%</span> <span class=\"n\">Halfsize</span><span class=\"p\">;</span>\n\t\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">Top</span> <span class=\"o\">=</span> <span class=\"n\">PinkGroup</span> <span class=\"o\">*</span> <span class=\"n\">Pinksize</span> <span class=\"o\">+</span> <span class=\"n\">GroupIndex</span><span class=\"p\">;</span>\n\t\t\t\t<span class=\"kt\">unsigned</span> <span class=\"n\">Bottom</span> <span class=\"o\">=</span> <span class=\"n\">Top</span> <span class=\"o\">+</span> <span class=\"n\">Halfsize</span><span class=\"p\">;</span>\n\t\t\t\t<span class=\"k\">if</span> <span class=\"p\">(</span><span class=\"n\">Value</span><span class=\"p\">[</span><span class=\"n\">Top</span><span class=\"p\">]</span><span class=\"o\">&gt;</span><span class=\"n\">Value</span><span class=\"p\">[</span><span class=\"n\">Bottom</span><span class=\"p\">])</span>\n\t\t\t\t\t<span class=\"n\">std</span><span class=\"o\">::</span><span class=\"n\">swap</span><span class=\"p\">(</span><span class=\"n\">Value</span><span class=\"p\">[</span><span class=\"n\">Top</span><span class=\"p\">],</span> <span class=\"n\">Value</span><span class=\"p\">[</span><span class=\"n\">Bottom</span><span class=\"p\">]);</span>\n\t\t\t<span class=\"p\">}</span>\n\t\t<span class=\"p\">}</span>\n\t<span class=\"p\">}</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>Now,we&#39;re going to use compute shader  to accompish the Bitonic sort.</p><div class=\"highlight\"><pre><code class=\"language-text\">cbuffer CONTANST:register(b0)\n{\n    uint  ArraySize;\n    uint  NextLog2;\n    uint2 Padding;\n};\nRWStructuredBuffer&lt;uint&gt;  SortArray:register(u0);\ngroupshared uint TempShared[2048];\nvoid CompareAndExchange(uint Top,uint Bottom)\n{\n     if(TempShared[Top]&gt;TempShared[Bottom]&amp;&amp;Bottom&lt;ArraySize)\n     {\n        uint Temp =TempShared[Top];\n        TempShared[Top]=TempShared[Bottom];\n        TempShared[Bottom]=Temp;\n     }\n}\n//in this case, dispatch threadID  equl threadgroupID\n[numthreads(1024,1,1)]\nvoid main(uint3 Dispatch:SV_GROUPTHREADID)\n{\n    //save to shared\n    TempShared[Dispatch.x]=SortArray[Dispatch.x];\n    TempShared[Dispatch.x+1024]=SortArray[Dispatch.x+1024];\n    GroupMemoryBarrierWithGroupSync();\n    for (uint Level = 1; Level &lt;= NextLog2 ; ++Level) {\n        uint LevelSize = 1 &lt;&lt; Level;\n        uint InteriorSize = LevelSize &gt;&gt; 1;\n        uint GroupIndex = Dispatch.x / InteriorSize* LevelSize;\n\t\tuint Offset = Dispatch.x % InteriorSize;\n\t\tuint Top = GroupIndex + Offset;\n\t\tuint Bottom = GroupIndex + (LevelSize - 1- Offset);\n        CompareAndExchange(Top,Bottom);\n        GroupMemoryBarrierWithGroupSync();\n        uint PinkLevel = Level;\n        while (PinkLevel -= 1)\n\t    {\n\t\t    uint Pinksize = 1 &lt;&lt; PinkLevel;\n\t\t    uint Halfsize = Pinksize &gt;&gt; 1;\t \n\t\t    uint PinkGroup = Dispatch.x / Halfsize;\n\t\t    uint GroupIndex = Dispatch.x % Halfsize;\n\t\t    uint Top = PinkGroup * Pinksize + GroupIndex;\n\t\t    uint Bottom = Top + Halfsize;\n\t\t    CompareAndExchange(Top,Bottom);\n             GroupMemoryBarrierWithGroupSync();\n\t    }\n    }\n    //write back\n    if(Dispatch.x&lt;ArraySize)\n        SortArray[Dispatch.x]=TempShared[Dispatch.x];\n    uint index2=Dispatch.x+1024;\n    if(index2&lt;ArraySize)\n        SortArray[index2]=TempShared[index2];\n}\n </code></pre></div><p>As you see it is serviced on array whose size is less 2048.We want to support array with any size.A shortcoming is that we can&#39;t expliot sharedmemory to accelerate fetching or writing back . We need directly to fetch or write,and dispatch more thread group!By the way,If anyone want to constrat the performance between my shader with your cuda btonic sort if your graphcis card isn&#39;t AMD.PLS let me kown!!</p><p>   Until today,I make a test about bitonic between Thrust and my shader!</p><p> Loop 2048:</p><p>     My: 60W - 80W NS</p><p>     Thrust :11089W-19636W NS</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p>Because of synchronization of GPU thread arize in a thread group,for a big array, We can&#39;t use above algrithm.But this is a way to implement big array sort too! We can code a inner  called pink region exchange and outer exchange .It looks like this:</p><div class=\"highlight\"><pre><code class=\"language-text\">cbuffer Descriptor:register(b0)\n{\n\tuint  ArraySize;\n\tuint  Level;\n};\nRWStructuredBuffer&lt;uint&gt;  SortArray:register(u0);\nRWStructuredBuffer&lt;uint&gt;  ObjectIndex:register(u1);\nvoid CompareAndExchange(uint Top,uint Bottom)\n{\n     if(SortArray[Top]&gt;SortArray[Bottom]&amp;&amp;Bottom&lt;ArraySize)\n     {\n         //Order\n        uint Temp =SortArray[Top];\n        SortArray[Top]=SortArray[Bottom];\n        SortArray[Bottom]=Temp;\n        //Index\n       // Temp =TempIndex[Top];\n      //  TempIndex[Top]=TempIndex[Bottom];\n        //TempIndex[Bottom]=Temp;\n     }\n}\n//in this case, dispatch threadID  equl threadgroupID\n[numthreads(1024,1,1)]\nvoid Outermain(uint3 Dispatch:SV_GROUPTHREADID)\n{\n        uint LevelSize = 1 &lt;&lt; Level;\n        uint InteriorSize = LevelSize &gt;&gt; 1;\n        uint GroupIndex = Dispatch.x / InteriorSize* LevelSize;\n\tuint Offset = Dispatch.x % InteriorSize;\n\tuint Top = GroupIndex + Offset;\n\tuint Bottom = GroupIndex + (LevelSize - 1- Offset);\n        CompareAndExchange(Top,Bottom);\n}\n[numthreads(1024, 1, 1)]\nvoid Innermain(uint3 Dispatch:SV_GROUPTHREADID)\n{\n\tuint Pinksize = 1 &lt;&lt; Level;\n\tuint Halfsize = Pinksize &gt;&gt; 1;\n\tuint PinkGroup = Dispatch.x / Halfsize;\n\tuint GroupIndex = Dispatch.x % Halfsize;\n\tuint Top = PinkGroup * Pinksize + GroupIndex;\n\tuint Bottom = Top + Halfsize;\n\tCompareAndExchange(Top, Bottom);\n}</code></pre></div><p>Then we can write in c++:</p><div class=\"highlight\"><pre><code class=\"language-text\">    for (uint Level = 1; Level &lt;= NextLog2 ; ++Level) {\n        Context-&gt;SetComputeRoot32BitConstant(0, {Arraysize,Level}, 0);\n        Context-&gt;SetPipelineState(OuterSort);\n        Context-&gt;Dispatch(Arraysize/ThreadNumInGroup,1,1);\n        uint PinkLevel = Level;\n        while (PinkLevel -= 1)\n\t{\n            uint PinkLevel = Level;\n            Context-&gt;SetComputeRoot32BitConstant(0, {Arraysize,PinkLevel }, 0);\n            Context-&gt;SetPipelineState(OuterSort);\n            Context-&gt;Dispatch(Arraysize/ThreadNumInGroup,1,1);\n        }\n    }\n</code></pre></div><p>Even a thread can execute MutiCompareExchange：</p><div class=\"highlight\"><pre><code class=\"language-text\">for(uint i=0;i&lt;PerThreadNum;++i){\n   FinalDispatch.x =  Dispatch.x*PerThreadNum+i;\n   //Compare\n}</code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "图形", 
+                    "tagLink": "https://api.zhihu.com/topics/19598910"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40277887", 
+            "userName": "Conner", 
+            "userLink": "https://www.zhihu.com/people/aa0f19c472caa48b54abdac2f43d2ad5", 
+            "upvote": 1, 
+            "title": "GetMinLog2  Trick", 
+            "content": "<p>   Some algorithms such as FFT and Bitonic sort need the MinLog2 or NextLog2  to confirm threads count in a thread group(Determinate how much thread group we dispatch) in compute shader or common compute on GPU.What&#39;s is NextLog2?</p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"cm\">/*\n</span><span class=\"cm\">Function: int getnextLog2(int N);\n</span><span class=\"cm\">Input :N\n</span><span class=\"cm\">Out: n\n</span><span class=\"cm\">satisfy:  1.2^n&gt;=N;     N&gt;=2\n</span><span class=\"cm\">          2.2^(n-1)&lt;N;  N&gt;=2\n</span><span class=\"cm\">*/</span>\n<span class=\"kt\">unsigned</span> <span class=\"n\">eAlgorithm</span><span class=\"o\">::</span><span class=\"n\">CalculateNextLog2</span><span class=\"p\">(</span><span class=\"kt\">unsigned</span> <span class=\"n\">Value</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n\t<span class=\"kt\">unsigned</span> <span class=\"n\">Res</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span>\n\t<span class=\"kt\">unsigned</span> <span class=\"n\">Temp</span> <span class=\"o\">=</span> <span class=\"n\">Value</span><span class=\"p\">;</span>\n\t<span class=\"k\">while</span> <span class=\"p\">(</span><span class=\"n\">Value</span> <span class=\"o\">=</span> <span class=\"n\">Value</span> <span class=\"o\">&gt;&gt;</span> <span class=\"mi\">1</span><span class=\"p\">){</span>\n\t\t<span class=\"n\">Res</span><span class=\"o\">++</span><span class=\"p\">;</span>\n\t<span class=\"p\">}</span>\n\t<span class=\"k\">if</span> <span class=\"p\">(</span><span class=\"n\">Temp</span> <span class=\"o\">-</span> <span class=\"p\">(</span><span class=\"mi\">1</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">Res</span><span class=\"p\">))</span>\n\t\t<span class=\"n\">Res</span><span class=\"o\">++</span><span class=\"p\">;</span>\n\t<span class=\"k\">return</span> <span class=\"n\">Res</span><span class=\"p\">;</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>And other one algorithm proposed by experience with mathmatic but we can&#39;t got the correct result because of the presice of float . You can prove it with previous   condition we mention. </p><div class=\"highlight\"><pre><code class=\"language-text\">int NextLog2(int Val)\n{\n\tfloat c = (float)Val;\n\tc = log2f(c);\n\tint as= int(ceilf(c));\n\treturn as;\n}</code></pre></div><p>If we assume that both of they can work well althought algorithm 2 just is right logically. Here is preformace under 10000 objects.</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f7f7b946dc59a9ec57cabdb4186b0d40_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-f7f7b946dc59a9ec57cabdb4186b0d40_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;161&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-f7f7b946dc59a9ec57cabdb4186b0d40_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f7f7b946dc59a9ec57cabdb4186b0d40_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "性能", 
+                    "tagLink": "https://api.zhihu.com/topics/19576984"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40271971", 
+            "userName": "Conner", 
+            "userLink": "https://www.zhihu.com/people/aa0f19c472caa48b54abdac2f43d2ad5", 
+            "upvote": 1, 
+            "title": "视锥体加速性能对比实验记录", 
+            "content": "<p><b> Octree frustum culling VS Linear Culling  Preformance Contrast</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>Octree travalled with a BFS-order instead of DFS for memory cache coherent and Linear Culling are both used __mm256 SIMD for accelerating intersection detection. Here is Code! We assume six plane has been compressed to mm256 matrix  as sMat,</p><div class=\"highlight\"><pre><code class=\"language-applescript\">                <span class=\"nv\">SIMD</span><span class=\"p\">::</span><span class=\"nv\">AMVECTOR</span> <span class=\"nv\">S</span><span class=\"o\">=</span><span class=\"nv\">SIMD</span><span class=\"p\">::</span><span class=\"nv\">AMVec2Transform</span><span class=\"p\">(</span><span class=\"nv\">iter</span><span class=\"p\">.</span><span class=\"nv\">aMax</span><span class=\"p\">.</span><span class=\"nv\">v</span><span class=\"p\">,</span> <span class=\"nv\">sMat</span><span class=\"p\">)</span><span class=\"err\">;</span>\n\t\t<span class=\"nv\">auto</span> <span class=\"nv\">V1</span><span class=\"o\">=</span> <span class=\"err\">_</span><span class=\"nv\">mm256_cmp_ps</span><span class=\"p\">(</span><span class=\"nv\">iter</span><span class=\"p\">.</span><span class=\"nv\">aMIn</span><span class=\"p\">.</span><span class=\"nv\">v</span><span class=\"p\">,</span> <span class=\"nv\">S</span><span class=\"p\">,</span> <span class=\"err\">_</span><span class=\"nv\">MM_CMPINT_LT</span><span class=\"p\">)</span><span class=\"err\">;</span>\n\t\t<span class=\"nv\">auto</span> <span class=\"nv\">c</span> <span class=\"o\">=</span> <span class=\"err\">_</span><span class=\"nv\">mm256_castps_si256</span><span class=\"p\">(</span><span class=\"nv\">V1</span><span class=\"p\">)</span><span class=\"err\">;</span>\n\t\t<span class=\"err\">__</span><span class=\"nv\">m256i</span> <span class=\"nv\">V2</span> <span class=\"o\">=</span> <span class=\"err\">_</span><span class=\"nv\">mm256_set1_epi32</span><span class=\"p\">(</span><span class=\"o\">-</span><span class=\"mi\">1</span><span class=\"p\">)</span><span class=\"err\">;</span>\n\t\t<span class=\"err\">__</span><span class=\"nv\">m256i</span> <span class=\"nv\">vTemp</span> <span class=\"o\">=</span> <span class=\"err\">_</span><span class=\"nv\">mm256_cmpeq_epi32</span><span class=\"p\">(</span><span class=\"err\">_</span><span class=\"nv\">mm256_castps_si256</span><span class=\"p\">(</span><span class=\"nv\">V1</span><span class=\"p\">),</span> <span class=\"nv\">V2</span><span class=\"p\">)</span><span class=\"err\">;</span>\n\t\t<span class=\"nv\">int</span> <span class=\"nv\">iTest</span> <span class=\"o\">=</span> <span class=\"err\">_</span><span class=\"nv\">mm256_movemask_ps</span><span class=\"p\">(</span><span class=\"err\">_</span><span class=\"nv\">mm256_castsi256_ps</span><span class=\"p\">(</span><span class=\"nv\">vTemp</span><span class=\"p\">))</span><span class=\"err\">;</span>\n\t\t<span class=\"k\">if</span><span class=\"p\">(!</span><span class=\"nv\">iTest</span><span class=\"p\">)</span>\n\t\t\t <span class=\"nv\">sIndex</span><span class=\"p\">.</span><span class=\"nv\">push_back</span><span class=\"p\">(</span><span class=\"nv\">iter</span><span class=\"p\">.</span><span class=\"nv\">ObjectIndex</span><span class=\"p\">)</span><span class=\"err\">;</span></code></pre></div><p>we transform  two same vector came from Sphere centre,whose w component  is radius of sphere.Then we compare the result and radius to measure detection.We tested million cube quantity.</p><p>Linear preformance:</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-78c33ca247852cb9f415b15105aac747_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"484\" data-rawheight=\"487\" class=\"origin_image zh-lightbox-thumb\" width=\"484\" data-original=\"https://pic4.zhimg.com/v2-78c33ca247852cb9f415b15105aac747_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;484&#39; height=&#39;487&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"484\" data-rawheight=\"487\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"484\" data-original=\"https://pic4.zhimg.com/v2-78c33ca247852cb9f415b15105aac747_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-78c33ca247852cb9f415b15105aac747_b.jpg\"/></figure><p>Octree Preformance:</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6927ab7b606426fa862dcc1a82bd2e81_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"487\" data-rawheight=\"496\" class=\"origin_image zh-lightbox-thumb\" width=\"487\" data-original=\"https://pic2.zhimg.com/v2-6927ab7b606426fa862dcc1a82bd2e81_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;487&#39; height=&#39;496&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"487\" data-rawheight=\"496\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"487\" data-original=\"https://pic2.zhimg.com/v2-6927ab7b606426fa862dcc1a82bd2e81_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6927ab7b606426fa862dcc1a82bd2e81_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "计算机视觉", 
+                    "tagLink": "https://api.zhihu.com/topics/19590195"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "江江", 
+                    "userLink": "https://www.zhihu.com/people/a6c9466b1cac209fe02b060e70c529a0", 
+                    "content": "<p>请教下，2个问题</p><p>1.这篇文章有原文出处么？想具体实践下</p><p>2.关于四叉树、八叉树等关于空间分割管理算法，有比较好的学习资料么？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Conner", 
+                            "userLink": "https://www.zhihu.com/people/aa0f19c472caa48b54abdac2f43d2ad5", 
+                            "content": "<p>我自己做的</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "江江"
+                        }, 
+                        {
+                            "userName": "江江", 
+                            "userLink": "https://www.zhihu.com/people/a6c9466b1cac209fe02b060e70c529a0", 
+                            "content": "<p>佩服~希望可以出详细的教程哈~</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Conner"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/29475358", 
+            "userName": "Conner", 
+            "userLink": "https://www.zhihu.com/people/aa0f19c472caa48b54abdac2f43d2ad5", 
+            "upvote": 1, 
+            "title": "关于保守光栅了一点见解", 
+            "content": "<p>   在高级渲染中，有些需要体素化的流程。体素化有多种方式，有直接逐点比较，但是计算量太大而不被采取，其实在D3D12已经支持一种叫保守光栅的 硬件处理方式。说到保守光栅，就是一个无论顶点三角形 是否包含像素，总会被写入,这样一来处理体素化更加方便，再次我要介绍我所采用的方式（可能好多人的显卡和我一样不支持D3D12）。</p><p>   这种方式可以采用三次正交投影来实现，主要步骤如下。</p><ol><li>准备好三个正交投影矩阵。</li><li>在GeometryShader中 判同，可以自行转换到3D纹理）断三角形在那个投影矩阵下，面积可最大化，选择相应的投影矩阵变化。（不同的矩阵，得到的NDC 坐标不。在矩阵变化之前，对三角形进行扩大，以可包含一个像素为主。（我用的方式是顶点沿着外围扩展1/2 像素长度）。</li><li>在pixel中填入体素的属性。</li></ol><p>这样不支持保守光栅硬件通过人为几何变动而支持。</p>", 
+            "topic": [
+                {
+                    "tag": "3D 渲染", 
+                    "tagLink": "https://api.zhihu.com/topics/20004076"
+                }, 
+                {
+                    "tag": "计算机图形学", 
+                    "tagLink": "https://api.zhihu.com/topics/19613730"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "该评论已删除", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Conner", 
+                            "userLink": "https://www.zhihu.com/people/aa0f19c472caa48b54abdac2f43d2ad5", 
+                            "content": "<p>这个如果你想直接显示voxel 可以采用线性Frustun Culling，采用实例化技术绘制性能会好点</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "Conner", 
+                            "userLink": "https://www.zhihu.com/people/aa0f19c472caa48b54abdac2f43d2ad5", 
+                            "content": "<p>绘制体素需要cpu从GPU 把结果读出来，我当时只是为了debug 来显示的。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Conner", 
+                    "userLink": "https://www.zhihu.com/people/aa0f19c472caa48b54abdac2f43d2ad5", 
+                    "content": "<p>我看你好像关注我的另外一个测试 关于octree 和linear 对比的。深度优先和广度效果都很差，cache 破坏太严重了。线性优势很大，目前测试结果还是线性占优势，从1w到100w不等！另外有好像寒霜Engine 好像也提出这个问题（道听途说的，没见过paper，内存没办法优化 广度应该是最好的吧，四叉树倒是没试，适用度不高）</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32514795", 
+            "userName": "Conner", 
+            "userLink": "https://www.zhihu.com/people/aa0f19c472caa48b54abdac2f43d2ad5", 
+            "upvote": 3, 
+            "title": "GAME ENGINE：使用m256 加速矩阵乘法。", 
+            "content": "<p>为了加速4*4x4 矩阵，使用__m256指令集。</p><p>VECTOR*MATRIX：我的代码</p><div class=\"highlight\"><pre><code class=\"language-text\">AMVECTOR V1 = _mm256_shuffle_ps(First, First, _MM_SHUFFLE(0, 0, 0, 0));\nAMVECTOR V2 = _mm256_shuffle_ps(First, First, _MM_SHUFFLE(2, 2, 2, 2));\nV1 = _mm256_mul_ps(V1, Mat.V[0]);\nV2 = _mm256_mul_ps(V2, Mat.V[1]);\nV2=_mm256_add_ps(V2, V1);\nXMVECTOR T = _mm256_extractf128_ps(V2, 5);\nV1 = _mm256_insertf128_ps(V2, T, 0);</code></pre></div><p>VS DirectXMath.h的</p><div class=\"highlight\"><pre><code class=\"language-text\">XMVECTOR vTempX = XM_PERMUTE_PS(V,_MM_SHUFFLE(0,0,0,0));\nXMVECTOR vTempY = XM_PERMUTE_PS(V,_MM_SHUFFLE(1,1,1,1));\nXMVECTOR vTempZ = XM_PERMUTE_PS(V,_MM_SHUFFLE(2,2,2,2));\nXMVECTOR vTempW = XM_PERMUTE_PS(V,_MM_SHUFFLE(3,3,3,3));\n// Mul by the matrix\nvTempX = _mm_mul_ps(vTempX,M.r[0]);\nvTempY = _mm_mul_ps(vTempY,M.r[1]);\nvTempZ = _mm_mul_ps(vTempZ,M.r[2]);\nvTempW = _mm_mul_ps(vTempW,M.r[3]);\n// Add them all together\nvTempX = _mm_add_ps(vTempX,vTempY);\nvTempZ = _mm_add_ps(vTempZ,vTempW);\nvTempX = _mm_add_ps(vTempX,vTempZ);\nreturn vTempX;\n</code></pre></div><p>不知为什么 速度刚不过directx的。明显指令少了，具体见链接</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/Microsoft/DirectXMath/issues/65\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-7e9f9fbe67b2e7527880fe6a539adf96_ipico.jpg\" data-image-width=\"320\" data-image-height=\"320\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\"> About AVX2 (_mm256) · Issue #65 · Microsoft/DirectXMath</a><p>然后只能用并行方式同时进行两个了。</p><div class=\"highlight\"><pre><code class=\"language-text\">AMVECTOR V1 = _mm256_shuffle_ps(First, First, _MM_SHUFFLE(0, 0, 0, 0));\nAMVECTOR V2 = _mm256_shuffle_ps(First, First, _MM_SHUFFLE(1, 1, 1, 1));\nAMVECTOR V3 = _mm256_shuffle_ps(First, First, _MM_SHUFFLE(2, 2, 2, 2));\nAMVECTOR V4 = _mm256_shuffle_ps(First, First, _MM_SHUFFLE(3, 3, 3, 3));\nV1 = _mm256_mul_ps(V1, Mat.V[0]);\nV2 = _mm256_mul_ps(V2, Mat.V[1]);\nV3 = _mm256_mul_ps(V1, Mat.V[2]);\nV4 = _mm256_mul_ps(V2, Mat.V[3]);\nV1 = _mm256_add_ps(V1, V2);\nV1 = _mm256_add_ps(V3, V1);\nV1 = _mm256_add_ps(V1, V4);</code></pre></div><p>速度 终于好了！！！<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Microsoft/DirectXMath/issues/65\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/Microsoft/Di</span><span class=\"invisible\">rectXMath/issues/65</span><span class=\"ellipsis\"></span></a>速度 终于好了！！！</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/Microsoft/DirectXMath/issues/65\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-7e9f9fbe67b2e7527880fe6a539adf96_ipico.jpg\" data-image-width=\"320\" data-image-height=\"320\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\"> About AVX2 (_mm256) · Issue #65 · Microsoft/DirectXMath</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "性能", 
+                    "tagLink": "https://api.zhihu.com/topics/19576984"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_152160127"
+}

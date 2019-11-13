@@ -1,0 +1,149 @@
+{
+    "title": "日常运维脚本记录", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/francis-13-49", 
+        "https://www.zhihu.com/people/lucky-45-9-77", 
+        "https://www.zhihu.com/people/ping-peng", 
+        "https://www.zhihu.com/people/vagabonddan", 
+        "https://www.zhihu.com/people/hu-hao-jie-17", 
+        "https://www.zhihu.com/people/zhang-zhe-ming-88-44", 
+        "https://www.zhihu.com/people/bai-tian-de-yang-zi", 
+        "https://www.zhihu.com/people/vincent-15-37", 
+        "https://www.zhihu.com/people/loveos", 
+        "https://www.zhihu.com/people/hu-ge-ge-36-60", 
+        "https://www.zhihu.com/people/bbb-93-85", 
+        "https://www.zhihu.com/people/lue-lue-lue-lue-lue-65-51", 
+        "https://www.zhihu.com/people/GongShy", 
+        "https://www.zhihu.com/people/burny-14", 
+        "https://www.zhihu.com/people/li-shun-li-57", 
+        "https://www.zhihu.com/people/one-1-59", 
+        "https://www.zhihu.com/people/ying-zheng-2017", 
+        "https://www.zhihu.com/people/tang-qing-yuan-58", 
+        "https://www.zhihu.com/people/gzzzzzzzy", 
+        "https://www.zhihu.com/people/wang-hua-yang-62", 
+        "https://www.zhihu.com/people/can-er-bu-lan", 
+        "https://www.zhihu.com/people/wzz-74-1", 
+        "https://www.zhihu.com/people/adamhuan", 
+        "https://www.zhihu.com/people/pian-tong-1", 
+        "https://www.zhihu.com/people/huoshijie", 
+        "https://www.zhihu.com/people/ricky-98-54", 
+        "https://www.zhihu.com/people/wei-ke-duo-82-2", 
+        "https://www.zhihu.com/people/chen-jun-li-90", 
+        "https://www.zhihu.com/people/wang-chen-chen-10-39", 
+        "https://www.zhihu.com/people/yu-san-38-23", 
+        "https://www.zhihu.com/people/zui-men-ren-63", 
+        "https://www.zhihu.com/people/ragnarokseven", 
+        "https://www.zhihu.com/people/huan-le-dou-62", 
+        "https://www.zhihu.com/people/liuxn-60", 
+        "https://www.zhihu.com/people/ha-ha-ha-35-45-24", 
+        "https://www.zhihu.com/people/cheng-yu-61-6", 
+        "https://www.zhihu.com/people/yang-jia-wei-72", 
+        "https://www.zhihu.com/people/yan-bei-fei-26", 
+        "https://www.zhihu.com/people/hong-xiao-zhou-43", 
+        "https://www.zhihu.com/people/luo-hong-chen-gun-gun-xiao-si-wo", 
+        "https://www.zhihu.com/people/sha-gua-55-70", 
+        "https://www.zhihu.com/people/ryan-71-29", 
+        "https://www.zhihu.com/people/zhi-liao-17-74", 
+        "https://www.zhihu.com/people/shiny-truth", 
+        "https://www.zhihu.com/people/aha-38-86", 
+        "https://www.zhihu.com/people/nan-yu-95-46", 
+        "https://www.zhihu.com/people/crossover-48-76", 
+        "https://www.zhihu.com/people/yan-ran-74-69", 
+        "https://www.zhihu.com/people/bluesky-63-51", 
+        "https://www.zhihu.com/people/li-fang-hui-74", 
+        "https://www.zhihu.com/people/jin-sheng-shui-40-18", 
+        "https://www.zhihu.com/people/clebeg-26", 
+        "https://www.zhihu.com/people/zhao-qi-long-64"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/76206237", 
+            "userName": "铁匠", 
+            "userLink": "https://www.zhihu.com/people/24172b7ae04abc0c899b24b69a6baae3", 
+            "upvote": 0, 
+            "title": "阻止ssh暴力破解", 
+            "content": "<div class=\"highlight\"><pre><code class=\"language-text\">#!/bin/bash\n \n#过滤Failed password for root,写入failIP.txt文件\ngrep &#39;Failed password for root from&#39; /var/log/secure | awk &#39;{print $11}&#39; | sort | uniq -c | sort -rn &gt; /root/scripts/denyRootSsh/failIP.txt\n \n#失败次数大于100的，将其ip写入/etc/hosts.deny文件\nwhile read failStatus\ndo\n  failTimes=`echo $failStatus | awk &#39;{print $1}&#39;`\n  failIP=`echo $failStatus | awk &#39;{print $2}&#39;`\n  if [ $failTimes -gt 100 ];then\n    denyIP=`grep $failIP /etc/hosts.deny`\n    if [ -z $denyIP ];then\n      echo &#34;sshd:$failIP&#34; &gt;&gt; /etc/hosts.deny\n    fi\n  fi\ndone &lt; /root/scripts/denyRootSsh/failIP.txt</code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "shell 脚本", 
+                    "tagLink": "https://api.zhihu.com/topics/19617864"
+                }, 
+                {
+                    "tag": "暴力破解", 
+                    "tagLink": "https://api.zhihu.com/topics/19953262"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/75191599", 
+            "userName": "铁匠", 
+            "userLink": "https://www.zhihu.com/people/24172b7ae04abc0c899b24b69a6baae3", 
+            "upvote": 0, 
+            "title": "zabbix自动安装配置脚本", 
+            "content": "<div class=\"highlight\"><pre><code class=\"language-text\">#!/usr/bin/env bash\n#\nif [ $# -gt 0 ]\nthen\n  VERSION=$1\nelse\n  VERSION=2.0.5\nfi\nZABBIX_SRC=zabbix-$VERSION.tar.gz\nZABBIX_DIR=${ZABBIX_SRC%.tar.gz}\nINSTALL_DIR=$HOME/zabbix\nDATA_DIR=$HOME/data/zabbix\nWEB_DIR=$HOME/data/www/zabbix\nif [ ! -f $ZABBIX_SRC ]\nthen\n  wget http://downloads.sourceforge.net/project/zabbix/ZABBIX%20Latest%20Stable/$VERSION/zabbix-$VERSION.tar.gz?r=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fzabbix%2Ffiles%2FZABBIX%2520Latest%2520Stable%2F$VERSION%2Fzabbix-$VERSION.tar.gz%2Fdownload%3Fuse_mirror%3Dnchc&amp;ts=1352271990&amp;use_mirror=nchc\nfi\nsudo yum -y install net-snmp net-snmp-devel\nif [ -d $ZABBIX_DIR ]\nthen\n  rm -rf $ZABBIX_DIR\nfi\ntar zxf $ZABBIX_SRC\ncd $ZABBIX_DIR\n#./configure --prefix=$INSTALL_DIR --enable-server --enable-agent --enable-ipv6 --with-net-snmp --with-libcurl --with-mysql=/home/worker/mysql/bin/mysql_config\n./configure --prefix=$INSTALL_DIR --enable-agent --enable-ipv6 --with-libcurl\nmake\nmake install\ncp ../conf/zabbix/etc/* $INSTALL_DIR/etc/\nsed -i &#34;s%\\$HOME%$HOME%g&#34; $INSTALL_DIR/etc/zabbix_agentd.conf\nsed -i &#34;s%\\$HOME%$HOME%g&#34; $INSTALL_DIR/etc/zabbix_server.conf\nmkdir -p $INSTALL_DIR/share/zabbix/externalscripts/\ncp ../conf/zabbix/externalscripts/* $INSTALL_DIR/share/zabbix/externalscripts/\nmkdir -p $INSTALL_DIR/share/zabbix/alertscripts/\ncp ../conf/zabbix/alertscripts/* $INSTALL_DIR/share/zabbix/alertscripts/\n:&lt;&lt;BLOCK\n$HOME/mysql/bin/mysql -u root -e &#34;create database zabbix character set utf8;&#34;\n$HOME/mysql/bin/mysql -u root -e &#34;grant all on zabbix.* to &#39;zabbix&#39;@&#39;localhost&#39;;&#34;\n$HOME/mysql/bin/mysql -u root -e &#34;grant all on zabbix.* to &#39;zabbix&#39;@&#39;127.0.0.1&#39;;&#34;\n$HOME/mysql/bin/mysql -u root -e &#34;grant all on zabbix.* to &#39;zabbix&#39;@&#39;10.%&#39;;&#34;\n$HOME/mysql/bin/mysql -u zabbix zabbix &lt;database/mysql/schema.sql\n$HOME/mysql/bin/mysql -u zabbix zabbix &lt;database/mysql/images.sql\n$HOME/mysql/bin/mysql -u zabbix zabbix &lt;database/mysql/data.sql\nBLOCK\nmkdir -p $DATA_DIR\n#mkdir -p $WEB_DIR\n#cp -a frontends/php/* $WEB_DIR\nmkdir -p $HOME/bin\ncd $HOME/bin\nln -s ../zabbix/bin/zabbix_get zabbix_get\nln -s ../zabbix/bin/zabbix_sender zabbix_sender\ncd $INSTALL_DIR\n#sbin/zabbix_server\nsbin/zabbix_agentd</code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "shell 脚本", 
+                    "tagLink": "https://api.zhihu.com/topics/19617864"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/75189455", 
+            "userName": "铁匠", 
+            "userLink": "https://www.zhihu.com/people/24172b7ae04abc0c899b24b69a6baae3", 
+            "upvote": 0, 
+            "title": "zabbix数据库的备份", 
+            "content": "<div class=\"highlight\"><pre><code class=\"language-text\">#!/bin/bash\n\nsource /etc/bashrc\nsource /etc/profile\n\nMySQL_USER=zabbix\nMySQL_PASSWORD=zabbix\nMySQL_HOST=localhost\nMySQL_PORT=3306\nMySQL_DUMP_PATH=/mysql_backup\nMySQL_DATABASE_NAME=zabbix\nDATE=$(date &#39;+%Y-%m-%d&#39;)\n\n[ -d ${MySQL_DUMP_PATH} ] || mkdir ${MySQL_DUMP_PATH}\ncd ${MySQL_DUMP_PATH}\n[ -d logs    ] || mkdir logs\n[ -d ${DATE} ] || mkdir ${DATE}\ncd ${DATE}\n\n\nTABLE_NAME_ALL=$(mysql -u${MySQL_USER} -p${MySQL_PASSWORD} -P${MySQL_PORT} -h${MySQL_HOST} ${MySQL_DATABASE_NAME} -e &#34;show tables&#34;|egrep -v &#34;(Tables_in_zabbix|history*|trends*|acknowledges|alerts|auditlog|events|service_alarms)&#34;)\nfor TABLE_NAME in ${TABLE_NAME_ALL}\ndo\n    mysqldump -u${MySQL_USER} -p${MySQL_PASSWORD} -P${MySQL_PORT} -h${MySQL_HOST} ${MySQL_DATABASE_NAME} ${TABLE_NAME} &gt;${TABLE_NAME}.sql\n    sleep 1\ndone\n\n\n[ &#34;$?&#34; == 0 ] &amp;&amp; echo &#34;${DATE}: Backup zabbix succeed&#34;     &gt;&gt; ${MySQL_DUMP_PATH}/logs/ZabbixMysqlDump.log\n[ &#34;$?&#34; != 0 ] &amp;&amp; echo &#34;${DATE}: Backup zabbix not succeed&#34; &gt;&gt; ${MySQL_DUMP_PATH}/logs/ZabbixMysqlDump.log\n\n\ncd ${MySQL_DUMP_PATH}/\nrm -rf $(date +%Y-%m-%d --date=&#39;5 days ago&#39;)\nexit 0</code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "shell 脚本", 
+                    "tagLink": "https://api.zhihu.com/topics/19617864"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30268049", 
+            "userName": "铁匠", 
+            "userLink": "https://www.zhihu.com/people/24172b7ae04abc0c899b24b69a6baae3", 
+            "upvote": 1, 
+            "title": "CentOS6.x一键部署安装zabbix（转）", 
+            "content": "<h2><b>简介</b></h2><p>zabbix是一个基于WEB界面的提供分布式网络监视功能的企业级的开源解决方案。相对于cacti和nagios而言，zabbix最大的特点是分布式监控，自动发现，自定义监控项目。</p><h2><b>一、监控系统所具备的四个要素</b></h2><p>1、数据采集</p><p>   zabbix采集数据的手段有SNMP、zabbix的Agent、IPMI agent、web monitoring、database monitoring，Internal check、calculated monitoring、custom command monitoring、ping或端口检查等。</p><p>2、数据存储</p><p>    zabbix将数据存储在RDBMS中。</p><p>3、数据展示</p><p>    zabbix使用php开发的程序进行绘图。</p><p>4、事件报警</p><p>    zabbix通知机制有：E-mail、SMS、Jabber、Chat message、Command execution。</p><h2><b>二、Zabbix组件概述</b></h2><p>    zabbix-serve：负责接收agent发送的报告信息，所有配置、统计数据及操作数据都有此组件组织进行；</p><p>    database：用于存储配置信息和zabbix收集的数据</p><p>   web-interface：zabbix的GUI接口，通常与server运行在同一台主机上；</p><p>   proxy：可选组件，常用于分布式监控环境中，代替server收集其他被监控端的监控数据，并统一发送到server端。</p><p>   Agent：部署在被监控主机上，负责收集本地数据发往server或proxy端。</p><h2><b>三、zabbix的术语</b></h2><p>主机（host）：要监控的网络设备统称；</p><p>主机组（host group）：主机的逻辑容器，可以包含主机和模板；</p><p>监控项（item）：一个特定监控指标和对应的数据，每个item由key进行标示；</p><p>   trigger（触发器）：一个表达式，用于评估某监控对象的某个特定的item所接收的数据是否在合理范围内，即阈值，状态分为“OK”和“problem”。</p><p>事件（event）：发生的一个值得关注的事情，如：触发器的状态转变，新的agent上线或自动发现等操作。</p><p>动作：对于指定的event发生以后所采定义的处理方法，如发送通知或报警；</p><p>报警升级（escalation）：发送警告信息的方案，如果在定义内的警告次数之内没有处理，将向上级发送报警短信；</p><p>媒介（media）：发送通知的手段，如Email、SMS、Jabber等。</p><p>通知（notification）：通过媒介向用户发送某事件的信息。</p><h2><b>四、一键安装脚本</b></h2><p> 说明：此脚本只适用与RHEL6.x系列；Nginx版本为1.6最新稳定版；PHP为5.4最新版；Mysql为5.5最新稳定版；Zabbix暂时为2.4最新版。</p><p> 只要你能连上网络，只要你会运行脚本。那你就会完成zabbix的部署安装了,内嵌yum源及LNMP及zabbix的下载安装！！真正的实现一步到位！！</p><p><b>切记关闭selinux</b></p><div class=\"highlight\"><pre><code class=\"language-text\">#!/bin/bash\n# install Nginx 1.6.2 + mysql5.5.x + PHP-FPM 5.4.x + Zabbix 2.4.4 automatically.\n# Tested on CentOS 6.5\n##############################################\n# 变量\n##############################################\nerr_echo(){\n    echo -e &#34;\\e[91m[Error]: $1 33[0m&#34;\n    exit 1\n}\n  \ninfo_echo(){\n    echo -e &#34;\\e[92m[Info]: $1 33[0m&#34;\n}\n  \nwarn_echo(){\n    echo -e &#34;\\e[93m[Warning]: $1 33[0m&#34;\n}\n  \ncheck_exit(){\n    if [ $? -ne 0 ]; then\n        err_echo &#34;$1&#34;\n        exit1\n    fi\n}\n   \n##############################################\n# check\n##############################################\nif [ $EUID -ne 0 ]; then\n    err_echo &#34;please run this script as root user.&#34;\n    exit 1\nfi\n \nif [ &#34;$(awk &#39;{if ( $3 &gt;= 6.0 ) print &#34;CentOS 6.x&#34;}&#39; /etc/redhat-release 2&gt;/dev/null)&#34; != &#34;CentOS 6.x&#34; ];then\n    err_echo &#34;This script is used for RHEL/CentOS 6.x only.&#34;\nfi\n##############################################\n# Useradd deploy nginx程序运行账号\n##############################################\ninfo_echo &#34;Useradd deploy&#34;\nuseradd deploy\n \n##############################################\n# yum repo\n##############################################\ninfo_echo &#34;配置yum源......&#34;\nif [ ! -f LNMP+zabbix.repo ]; then\ncat&gt; /etc/yum.repos.d/LNMP+zabbix.repo &lt;&lt;&#39;EOF&#39;\n[nginx]\nname=nginx repo\nbaseurl=http://nginx.org/packages/centos/6/$basearch/\ngpgcheck=0\nenabled=1\n  \n[webtatic]\nname=Webtatic Repository EL6 - $basearch\n#baseurl=http://repo.webtatic.com/yum/el6/$basearch/\nmirrorlist=http://mirror.webtatic.com/yum/el6/$basearch/mirrorlist\nfailovermethod=priority\nenabled=0\ngpgcheck=0\n \n[epel]\nname=Extra Packages for Enterprise Linux 6 - $basearch\nbaseurl=http://mirrors.aliyun.com/epel/6/$basearch\n \nhttp://mirrors.aliyuncs.com/epel/6/$basearch\n \n#mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-6&amp;arch=$basearch\nfailovermethod=priority\nenabled=1\ngpgcheck=0\n \n[remi]\nname=Les RPM de remi pour Enterprise Linux 6 - $basearch\n#baseurl=http://rpms.famillecollet.com/enterprise/6/remi/$basearch/\nmirrorlist=http://rpms.famillecollet.com/enterprise/6/remi/mirror\nenabled=1\ngpgcheck=0\n \n[zabbix]\nname=Zabbix Official Repository-$basearch\nbaseurl=http://repo.zabbix.com/zabbix/2.4/rhel/6/$basearch/\nenabled=1\ngpgcheck=0\n  \n[zabbix-non-supported]\nname=Zabbix Official Repository non-supported-$basearch\nbaseurl=http://repo.zabbix.com/non-supported/rhel/6/$basearch/\nenabled=1\ngpgcheck=0\n \nEOF\n \nfi\n##############################################\n# Install nginx+Mysql+PHP+zabbix\n##############################################\ninfo_echo &#34;Install nginx+Mysql+PHP+zabbix......&#34;\n \nyum -y install nginx php php-fpm php-cli php-common php-gd php-mbstring php-mcrypt php-mysql php-pdo php-devel php-imagick php-xmlrpc php-xml php-bcmath php-dba php-enchant php-yaf  mysql mysql-server zabbix zabbix-get zabbix-agent zabbix-server-mysql zabbix-web-mysql zabbix-server\ncheck_exit &#34;Failed to install Nginx/Mysql/PHP/Zabbix!&#34;\n  \n#########################################\n# Nginx \n#########################################\ninfo_echo &#34;Nginx 配置文件更新 ....&#34;\n \nif [ -f /etc/nginx/nginx.conf ]; then\nmv /etc/nginx/nginx.conf /etc/nginx/nginx.conf.bak\ncat&gt; /etc/nginx/nginx.conf &lt;&lt;&#39;EOF&#39;\nuser deploy;\nworker_processes 2;\npid /var/run/nginx.pid;\nworker_rlimit_nofile 65535;\nevents {\n    worker_connections  65535;\n    use epoll;\n}\nhttp {\n   ##\n    # Basic Settings\n   ##\n     sendfile on;\n     tcp_nopush on;\n     tcp_nodelay on;\n       \n     keepalive_timeout 65;\n     types_hash_max_size 2048;\n     server_tokens off;\n     \n     client_header_buffer_size 4k;\n     open_file_cache max=65535 inactive=60s;\n     open_file_cache_valid 80s;\n     open_file_cache_min_uses 1;\n     server_names_hash_bucket_size 64;\n     server_name_in_redirect off;\n     include /etc/nginx/mime.types;\n     default_type application/octet-stream;\n   ##\n    # Logging Settings\n   ##\n     access_log /var/log/nginx/access.log;\n     error_log /var/log/nginx/error.log;\n    \n  ##\n   # Gzip Settings\n  ##\n     gzip on;\n     gzip_disable &#34;msie6&#34;;\n     gzip_min_length 1k;\n     gzip_buffers 4 16k;\n     gzip_comp_level 2;\n     gzip_types text/plain text/css application/json application/x-javascript text/xml application/xml application/xml+rss text/javascript;\n   ##\n   # nginx-naxsi config\n   ##\n      # Uncomment it if you installed nginx-naxsi\n      ##\n      #include /etc/nginx/naxsi_core.rules;\n    ##\n    # nginx-passenger config\n    ##\n    # Uncomment it if you installed nginx-passenger\n    ##\n      \n    #passenger_root /usr;\n    #passenger_ruby /usr/bin/ruby;\n    ##\n    # Virtual Host Configs\n    ##\n        log_format  main  &#39;$server_name $remote_addr - $remote_user [$time_local] &#34;$request&#34; &#39;\n                        &#39;$status $body_bytes_sent &#34;$http_referer&#34; &#39;\n                        &#39;&#34;$http_user_agent&#34; &#34;$http_x_forwarded_for&#34; &#39;\n                        &#39;$ssl_protocol $ssl_cipher $upstream_addr $request_time $upstream_response_time&#39;;\n    include /etc/nginx/conf.d/*.conf;\n    include /etc/nginx/sites-enabled/*.conf;\n}\n \nEOF\n \nfi\n \nsed -i &#34;/worker_processes/cworker_processes $( grep &#34;processor&#34; /proc/cpuinfo| wc -l );&#34; /etc/nginx/nginx.conf\n \ninfo_echo &#34;zabbix 配置文件添加&#34;\ncat&gt; /etc/nginx/conf.d/zabbix.conf &lt;&lt;&#39;EOF&#39;\nserver{\n   listen       80;\n   server_name  _;\n  \n   index index.php;\n   root /data/web/zabbix;\n  \n   location ~* \\.(js|css|png|jpg|jpeg|gif|ico)$ {\n       expires 30d;\n   }\n  \n   location ~* \\.php$ {\n       fastcgi_pass   127.0.0.1:9000;\n       fastcgi_index  index.php;\n       fastcgi_param  SCRIPT_FILENAME $document_root$fastcgi_script_name;\n       include        fastcgi_params;\n   }\n}\nEOF\nmv /etc/nginx/conf.d/default.conf /etc/nginx/conf.d/default.conf.bak\n/etc/init.d/nginx restart\n  \n  \n#########################################\n# Zabbix \n#########################################\ninfo_echo &#34;Downloading zabbix Web....&#34;\n \ninfo_echo &#34;创建网站目录...&#34;\nmkdir -p /data/web/zabbix\n \ninfo_echo &#34;Downloading...&#34;\nif [ ! -f /tmp/zabbix.tar.gz ]; then\n   cd /tmp &amp;&amp; wget -O zabbix.tar.gz &#39;http://sourceforge.net/projects/zabbix/files/latest/download?source=files&#39;\nfi\n \ninfo_echo &#34;解压安装文件...&#34;\ncd /tmp &amp;&amp; tar -zxvf /tmp/zabbix.tar.gz\ncheck_exit &#34;failed to extract zabbix frontend&#34;\n \nZABBIX_DIR=`ls /tmp/|grep zabbix-`\nmv /tmp/${ZABBIX_DIR}/frontends/php/* /data/web/zabbix/\nchown -R deploy.deploy /data/web/zabbix\n  \n  \n##############################################\n# Database\n##############################################\ninfo_echo &#34;Mysql配置文件更新...&#34;\nsed -i &#39;/^socket/i\\port            = 3306&#39; /etc/my.cnf\nsed -i &#39;/^socket/a\\skip-external-locking\\nkey_buffer_size = 256M\\nmax_allowed_packet = 1M\\ntable_open_cache = 256\\nsort_buffer_size = 1M\\nread_buffer_size = 1M\\nread_rnd_buffer_size = 4M\\nmyisam_sort_buffer_size = 64M\\nthread_cache_size = 8\\nquery_cache_size= 16M\\nthread_concurrency = 4\\ncharacter-set-server=utf8\\ninnodb_file_per_table=1&#39; /etc/my.cnf\n \ninfo_echo &#34;Restart mysql ...&#34;\n/etc/init.d/mysqld start\n \ninfo_echo &#34;Create Databases...&#34; \nmysql -e &#39;CREATE DATABASE `zabbix` DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;&#39;\nmysql -e &#34;GRANT ALL PRIVILEGES on *.* to zabbix@&#39;localhost&#39; IDENTIFIED BY &#39;zabbix&#39;;&#34;\nmysql -e &#34;flush privileges&#34;\n \ninfo_echo &#34;配置zabbix的数据库项&#34;\nsed -i &#39;/DBPassword=/a\\DBPassword=zabbix&#39; /etc/zabbix/zabbix_server.conf\n \ninfo_echo &#34;importing schema.sql&#34;\nmysql -uzabbix -pzabbix zabbix &lt; $(rpm -ql zabbix-server-mysql|grep schema.sql)\ncheck_exit &#34;failed to import schema.sql&#34;\n  \ninfo_echo &#34;importing images.sql&#34;\nmysql -uzabbix -pzabbix zabbix &lt; $(rpm -ql zabbix-server-mysql| grep images.sql)\ncheck_exit &#34;failed to import images.sql&#34;\n  \ninfo_echo &#34;importing data.sql&#34;\nmysql -uzabbix -pzabbix zabbix &lt; $(rpm -ql zabbix-server-mysql|grep data.sql)\ncheck_exit &#34;failed to import data.sql&#34;\n  \n  \n#########################################\n# PHP-FPM\n#########################################\n \ninfo_echo &#34;更新/etc/php.ini,www.conf ...&#34;\nsed -i &#39;/^;default_charset/a\\default_charset = &#34;UTF-8&#34;&#39; /etc/php.ini\nsed -i &#39;/^expose_php/cexpose_php = Off&#39; /etc/php.ini\nsed -i &#39;/^max_execution_time/cmax_execution_time = 300&#39; /etc/php.ini\nsed -i &#39;/^max_input_time/cmax_input_time = 300&#39; /etc/php.ini\nsed -i &#39;/^memory_limit/cmemory_limit = 256M&#39;  /etc/php.ini\nsed -i &#39;/^post_max_size/cpost_max_size = 32M&#39; /etc/php.ini\nsed -i &#39;/^upload_max_filesize/cupload_max_filesize = 300M&#39; /etc/php.ini\nsed -i &#39;/^max_file_uploads/cmax_file_uploads = 30&#39; /etc/php.ini\nsed -i &#39;/^;date.timezone/cdate.timezone = &#34;PRC&#34;&#39; /etc/php.ini\nsed -i &#39;s/apache/deploy/g&#39; /etc/php-fpm.d/www.conf \nchown deploy.deploy -R /var/lib/php\n \ninfo_echo &#34;Checking php-fpm configuration file...&#34;\n/etc/init.d/php-fpm configtest\ncheck_exit &#34;PHP-FPM configuration syntax error&#34;\n  \ninfo_echo &#34;Restart PHP-FPM ...&#34;\n/etc/init.d/php-fpm restart\n  \ninfo_echo &#34;Restart Zabbix Server ...&#34;\n/etc/init.d/zabbix-server restart\n  \ninfo_echo &#34;Restart Zabbix Agent ...&#34;\n/etc/init.d/zabbix-agent restart\n  \n#########################################\n# Chkconfig\n#########################################\nchkconfig nginx on\nchkconfig php-fpm on\nchkconfig mysqld on\nchkconfig zabbix-agent on\nchkconfig zabbix-server on</code></pre></div><h2><b>五、配置WEB页面</b></h2><p>地址：IP地址</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-5bb2471f188b5d151391ac86b392f84d_b.jpg\" data-caption=\"\" data-rawwidth=\"1100\" data-rawheight=\"656\" class=\"origin_image zh-lightbox-thumb\" width=\"1100\" data-original=\"https://pic2.zhimg.com/v2-5bb2471f188b5d151391ac86b392f84d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1100&#39; height=&#39;656&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1100\" data-rawheight=\"656\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1100\" data-original=\"https://pic2.zhimg.com/v2-5bb2471f188b5d151391ac86b392f84d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5bb2471f188b5d151391ac86b392f84d_b.jpg\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/v2-19a84f61757d16e63f88a238c1d57453_b.jpg\" data-caption=\"\" data-rawwidth=\"1163\" data-rawheight=\"672\" class=\"origin_image zh-lightbox-thumb\" width=\"1163\" data-original=\"https://pic4.zhimg.com/v2-19a84f61757d16e63f88a238c1d57453_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1163&#39; height=&#39;672&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1163\" data-rawheight=\"672\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1163\" data-original=\"https://pic4.zhimg.com/v2-19a84f61757d16e63f88a238c1d57453_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-19a84f61757d16e63f88a238c1d57453_b.jpg\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/v2-6d3c8d58b56aa05364b90455ad548397_b.jpg\" data-caption=\"\" data-rawwidth=\"1156\" data-rawheight=\"668\" class=\"origin_image zh-lightbox-thumb\" width=\"1156\" data-original=\"https://pic4.zhimg.com/v2-6d3c8d58b56aa05364b90455ad548397_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1156&#39; height=&#39;668&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1156\" data-rawheight=\"668\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1156\" data-original=\"https://pic4.zhimg.com/v2-6d3c8d58b56aa05364b90455ad548397_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6d3c8d58b56aa05364b90455ad548397_b.jpg\"/></figure><figure><noscript><img src=\"https://pic3.zhimg.com/v2-9fa72ff3b8380d6090eebe4ca6a305da_b.jpg\" data-caption=\"\" data-rawwidth=\"1106\" data-rawheight=\"664\" class=\"origin_image zh-lightbox-thumb\" width=\"1106\" data-original=\"https://pic3.zhimg.com/v2-9fa72ff3b8380d6090eebe4ca6a305da_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1106&#39; height=&#39;664&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1106\" data-rawheight=\"664\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1106\" data-original=\"https://pic3.zhimg.com/v2-9fa72ff3b8380d6090eebe4ca6a305da_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9fa72ff3b8380d6090eebe4ca6a305da_b.jpg\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/v2-8434960caf693e6751ada6b20a476555_b.jpg\" data-caption=\"\" data-rawwidth=\"1110\" data-rawheight=\"653\" class=\"origin_image zh-lightbox-thumb\" width=\"1110\" data-original=\"https://pic2.zhimg.com/v2-8434960caf693e6751ada6b20a476555_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1110&#39; height=&#39;653&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1110\" data-rawheight=\"653\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1110\" data-original=\"https://pic2.zhimg.com/v2-8434960caf693e6751ada6b20a476555_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8434960caf693e6751ada6b20a476555_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-459720ed215d29be3fe54dcacc7ab688_b.jpg\" data-caption=\"\" data-rawwidth=\"1198\" data-rawheight=\"621\" class=\"origin_image zh-lightbox-thumb\" width=\"1198\" data-original=\"https://pic1.zhimg.com/v2-459720ed215d29be3fe54dcacc7ab688_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1198&#39; height=&#39;621&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"1198\" data-rawheight=\"621\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1198\" data-original=\"https://pic1.zhimg.com/v2-459720ed215d29be3fe54dcacc7ab688_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-459720ed215d29be3fe54dcacc7ab688_b.jpg\"/></figure><p>至此zabbix一键部署安装就完成了，请多提意见！谢谢</p>", 
+            "topic": [
+                {
+                    "tag": "Zabbix", 
+                    "tagLink": "https://api.zhihu.com/topics/19674013"
+                }, 
+                {
+                    "tag": "Shell 编程", 
+                    "tagLink": "https://api.zhihu.com/topics/20052022"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27593634", 
+            "userName": "铁匠", 
+            "userLink": "https://www.zhihu.com/people/24172b7ae04abc0c899b24b69a6baae3", 
+            "upvote": 0, 
+            "title": "1.删除message日志.sh", 
+            "content": "<div class=\"highlight\"><pre><code class=\"language-text\">#!/bin/bash\n#清除日志脚本。版本 1.0\n#\nLOG_DIR=/var/log\n#$UID为0的用户，即root用户\nROOT_UID=0\n#脚本需要使用root用户权限来运行，因此，对当前用户进行判断，对不合要求的用户给出友好提示，并终止程序运行\n#-ne表示不等于\nif [ &#34;$UID&#34; -ne &#34;$ROOT_UID&#34; ]\n  then\n  echo &#34;你不是管理员，无法运行脚本&#34;\n  echo 1\nfi\n\n#如果切换到指目录不成功，则给出提示，并终止程序运行\ncd $LOG_DIR || {\n  echo &#34;无法进入目录，暂时无法清理。&#34;\n  exit 1\n}\n\n#经过上面两个判断后，此处的用户权限和路径应该就都是对的了，只有清空成功，才能成功提示\ncat /dev/null&gt;message &amp;&amp; {\n  echo &#34;清理成功了&#34;\n#退出前返回0表示成功，返回1表示失败\n  exit 0\n}\necho &#34;还是没有给你清理成功&#34;\nexit 1\n</code></pre></div>", 
+            "topic": [
+                {
+                    "tag": "日志", 
+                    "tagLink": "https://api.zhihu.com/topics/19718384"
+                }, 
+                {
+                    "tag": "脚本", 
+                    "tagLink": "https://api.zhihu.com/topics/19574377"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/shell-tiejiang"
+}

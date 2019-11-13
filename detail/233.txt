@@ -1,0 +1,74 @@
+{
+    "title": "汽车行业Basic-Knowhow笔记", 
+    "description": "智能驾驶工程师成长的点点滴滴", 
+    "followers": [
+        "https://www.zhihu.com/people/dong-feng-66-72", 
+        "https://www.zhihu.com/people/li-zhi-zhi-36-90", 
+        "https://www.zhihu.com/people/wo-de-li-xiang-dang-da-chu", 
+        "https://www.zhihu.com/people/yhg-14", 
+        "https://www.zhihu.com/people/zhao-zhong-95", 
+        "https://www.zhihu.com/people/gong-da-chang-94", 
+        "https://www.zhihu.com/people/chen-ge-18-1", 
+        "https://www.zhihu.com/people/hymao-90", 
+        "https://www.zhihu.com/people/deng-jia-94-25", 
+        "https://www.zhihu.com/people/biubiu-81-75", 
+        "https://www.zhihu.com/people/guo-li-rong-17", 
+        "https://www.zhihu.com/people/darren-93-55-21", 
+        "https://www.zhihu.com/people/hu-xiu-qiang-wei-49", 
+        "https://www.zhihu.com/people/ni-zhao-hui-24", 
+        "https://www.zhihu.com/people/peng-chen-75-36", 
+        "https://www.zhihu.com/people/qi-che-ren-29-25", 
+        "https://www.zhihu.com/people/echo-ai", 
+        "https://www.zhihu.com/people/YPHFree", 
+        "https://www.zhihu.com/people/ContiSilva", 
+        "https://www.zhihu.com/people/bitwalker", 
+        "https://www.zhihu.com/people/she-liang", 
+        "https://www.zhihu.com/people/zhang-yu-xin-8-54-55", 
+        "https://www.zhihu.com/people/qinghui-xiao", 
+        "https://www.zhihu.com/people/li-han-7-18", 
+        "https://www.zhihu.com/people/chu-lai-zha-dao-45-28", 
+        "https://www.zhihu.com/people/chen-yan-cheng", 
+        "https://www.zhihu.com/people/SuAReZENSport", 
+        "https://www.zhihu.com/people/gogo-91-76", 
+        "https://www.zhihu.com/people/ben-37-86", 
+        "https://www.zhihu.com/people/wang-xiao-bo-90", 
+        "https://www.zhihu.com/people/wen-nuan-97-77-96", 
+        "https://www.zhihu.com/people/wang-zhen-8-33", 
+        "https://www.zhihu.com/people/qi-che-ren-82", 
+        "https://www.zhihu.com/people/xiao-da-jiang-7", 
+        "https://www.zhihu.com/people/sixsixsixsixsix-30", 
+        "https://www.zhihu.com/people/wu-yun-tao-79-38", 
+        "https://www.zhihu.com/people/eason-81-98", 
+        "https://www.zhihu.com/people/lin-xian-jie-76", 
+        "https://www.zhihu.com/people/xiao-xiao-shu-94", 
+        "https://www.zhihu.com/people/dan-ni-er-26-45", 
+        "https://www.zhihu.com/people/rainbambooyu", 
+        "https://www.zhihu.com/people/zheng-yue-31"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/43368500", 
+            "userName": "我爱露营车", 
+            "userLink": "https://www.zhihu.com/people/1c9464a81b38aa26dda1f1d8623d5910", 
+            "upvote": 7, 
+            "title": "汽车电气基本工程知识总结", 
+            "content": "<p>一、整车电源管理</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f4dcdedd1b0a26144ddb1933a1e6992c_b.jpg\" data-size=\"normal\" data-rawwidth=\"440\" data-rawheight=\"191\" class=\"origin_image zh-lightbox-thumb\" width=\"440\" data-original=\"https://pic1.zhimg.com/v2-f4dcdedd1b0a26144ddb1933a1e6992c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;440&#39; height=&#39;191&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"440\" data-rawheight=\"191\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"440\" data-original=\"https://pic1.zhimg.com/v2-f4dcdedd1b0a26144ddb1933a1e6992c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f4dcdedd1b0a26144ddb1933a1e6992c_b.jpg\"/><figcaption>图1 点火开关</figcaption></figure><ul><li>点火开关位置：5个位置，锁车 - 关闭 - 辅助 - 运行 - 启动，启动位置只有在打火时短暂停留，一旦松手，钥匙会自动恢复到运行位置。</li></ul><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-8bb871c8f92b0c209b6244aaa81769b0_b.jpg\" data-size=\"normal\" data-rawwidth=\"727\" data-rawheight=\"332\" class=\"origin_image zh-lightbox-thumb\" width=\"727\" data-original=\"https://pic1.zhimg.com/v2-8bb871c8f92b0c209b6244aaa81769b0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;727&#39; height=&#39;332&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"727\" data-rawheight=\"332\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"727\" data-original=\"https://pic1.zhimg.com/v2-8bb871c8f92b0c209b6244aaa81769b0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-8bb871c8f92b0c209b6244aaa81769b0_b.jpg\"/><figcaption>图2 不同点火开关位置对应不同的电源供电类型</figcaption></figure><ul><li>对于电池电源: 方向盘锁 - 关闭 - 辅助 - 运行 - 启动的描述，美国车企常用Battery:  Locked、IGN-OFF、ACC、IGN-ON（RUN）、Start（Crank）；对应的德国车企常用KL30: OFF - KLR - KL15 - KL50</li><li>ACC模式（KLR）：收音机、雨刮、防盗系统、门锁等</li><li>IGN-ON模式（KL15）：所有需要Battery供电的电气必须全部上点。</li></ul><p>问题来了，有时候车钥匙插进钥匙孔，第一次扭到IGN-ON后，按理说Battery已经全部上电了，但是有些系统还是无法工作，例如空调系统；必须Start之后，使发动机开始运行，空调系统才正常运行。原因在于，在第一次钥匙扭到IGN-ON后，其实空调的电控单元（ECU）已经上点并开始工作了，但是空调系统的执行器（压缩机）的电源并未挂在Battery上，它需要的是发动机工作后靠皮带带动压缩机才能工作。因此，只有电控单元苏醒（Battery供电）+执行器苏醒（发动机工作带动压缩机工作），整个空调系统才能真正正常工作。当然，上述例子只是机械式压缩机，如果换成电子空调呢（电机驱动的压缩机）？首先，电子空调的执行器（压缩机）也是接在Battery上的，但是由于Battery电量很小，只有在发动机工作后，持续给Battery充电，才能使Battery带动大功率执行器。否则，Battery将很快耗尽存电！为了避免这种情况发生，一般地，车辆各个子系统中，当车钥匙第一次在IGN-ON时（电瓶供电，发动机未运行），只给用电小的设备供电，比如各种ECU控制器+功率很小的执行器，功率大的执行器只能在发动机运行后（可持续给Battery充电），才允许启动。</p>", 
+            "topic": [
+                {
+                    "tag": "知识", 
+                    "tagLink": "https://api.zhihu.com/topics/19553939"
+                }, 
+                {
+                    "tag": "工程学", 
+                    "tagLink": "https://api.zhihu.com/topics/19572885"
+                }, 
+                {
+                    "tag": "汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19551915"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1018436419651477504"
+}

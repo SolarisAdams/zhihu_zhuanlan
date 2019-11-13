@@ -1,0 +1,138 @@
+{
+    "title": "机器学习之旅", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/li-ling-12-18-63", 
+        "https://www.zhihu.com/people/acejihyos", 
+        "https://www.zhihu.com/people/wang-xiao-hua-66-48-91", 
+        "https://www.zhihu.com/people/shi-ying-jun-5", 
+        "https://www.zhihu.com/people/guang-ming-gmg", 
+        "https://www.zhihu.com/people/chen-zhao-wei-16-2", 
+        "https://www.zhihu.com/people/he-zheng-e", 
+        "https://www.zhihu.com/people/xie-xie-29-84", 
+        "https://www.zhihu.com/people/iwaysense", 
+        "https://www.zhihu.com/people/wei-mang-ren-61", 
+        "https://www.zhihu.com/people/guanyuan-67", 
+        "https://www.zhihu.com/people/qia-qia-qia-qia-qia-qia-27", 
+        "https://www.zhihu.com/people/qixuxiang", 
+        "https://www.zhihu.com/people/WilliamTalking", 
+        "https://www.zhihu.com/people/ger-young", 
+        "https://www.zhihu.com/people/xiao-yue-tian-xin", 
+        "https://www.zhihu.com/people/zhang-qian-qiao-82", 
+        "https://www.zhihu.com/people/liao-jing-liang", 
+        "https://www.zhihu.com/people/a-sa-8", 
+        "https://www.zhihu.com/people/zhang-tao-98-13", 
+        "https://www.zhihu.com/people/yong-sheng-de-xin", 
+        "https://www.zhihu.com/people/sea-47-16", 
+        "https://www.zhihu.com/people/gao-yu-83-60-34", 
+        "https://www.zhihu.com/people/bo-bo-20-96", 
+        "https://www.zhihu.com/people/fww90"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/43820389", 
+            "userName": "小二来个id", 
+            "userLink": "https://www.zhihu.com/people/58165289acfd6bfec219403383823a6e", 
+            "upvote": 17, 
+            "title": "车道线检测 论文汇总", 
+            "content": "<p>SCNN车道线检测</p><p>Spatial As Deep: Spatial CNN for Traffic Scene Understanding</p><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1712.06080.pdf\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/pdf/1712.0608</span><span class=\"invisible\">0.pdf</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=https%3A//www.cnblogs.com/guoyaohua/p/8940871.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-f9ed0808f56b9cdb7d955b290490383b_180x120.jpg\" data-image-width=\"529\" data-image-height=\"402\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">SCNN车道线检测--(SCNN)Spatial As Deep: Spatial CNN for Traffic Scene Understanding（论文解读）</a><p><i>双视角卷积神经网络</i>（DVCNN）</p><a href=\"https://link.zhihu.com/?target=http%3A//ieeexplore.ieee.org/document/7535517/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Accurate and robust lane detection based on Dual-View Convolutional Neutral Network</a><p>Caltech车道检测软件 </p><a href=\"https://link.zhihu.com/?target=http%3A//www.vision.caltech.edu/malaa/software/research/caltech-lane-detection/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">vision.caltech.edu/mala</span><span class=\"invisible\">a/software/research/caltech-lane-detection/</span><span class=\"ellipsis\"></span></a><p>LaneNet</p><p>Towards End-to-End Lane Detection: an Instance Segmentation Approach</p><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1802.05591\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">an Instance Segmentation Approach</a><a href=\"https://link.zhihu.com/?target=https%3A//github.com/MaybeShewill-CV/lanenet-lane-detection\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-3890bd14ec1027153fe4a8be5b0c069b_ipico.jpg\" data-image-width=\"400\" data-image-height=\"400\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">MaybeShewill-CV/lanenet-lane-detection</a><p>VPGNet </p><a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1710.06288\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/abs/1710.0628</span><span class=\"invisible\">8</span><span class=\"ellipsis\"></span></a><a href=\"https://link.zhihu.com/?target=https%3A//github.com/SeokjuLee/VPGNet\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">SeokjuLee/VPGNet</a><p>目前就找到这么多，先马克。</p>", 
+            "topic": [
+                {
+                    "tag": "计算机视觉", 
+                    "tagLink": "https://api.zhihu.com/topics/19590195"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "伽蓝雨", 
+                    "userLink": "https://www.zhihu.com/people/d8a2e12b8249da78f917630f2da8b05a", 
+                    "content": "请问下这个还有别的吗？语义分割一类的", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "黎某", 
+                    "userLink": "https://www.zhihu.com/people/9a50f6ab04decd52afe9b3d9cae7451f", 
+                    "content": "<p>Lanenet SCNN, 其实都是基于语义分割做的</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "韩立", 
+                    "userLink": "https://www.zhihu.com/people/ca5304b25ab131bda5ec9b0401792a43", 
+                    "content": "正在复现scnn。。。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "👍", 
+                            "likes": 0, 
+                            "replyToAuthor": "韩立"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "你是使用什么框架复现的？数据集用的什么呢？现在效果怎么样？", 
+                            "likes": 0, 
+                            "replyToAuthor": "韩立"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "猴哥wing", 
+                    "userLink": "https://www.zhihu.com/people/d4e5acd8581ad2ff4a8541d3981d4850", 
+                    "content": "安利一波我复现的基于tensorflow版本的scnn，<a href=\"http://link.zhihu.com/?target=https%3A//github.com/cardwing/Codes-for-Lane-Detection\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/cardwing/Cod</span><span class=\"invisible\">es-for-Lane-Detection</span><span class=\"ellipsis\"></span></a>", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "薄荷", 
+                            "userLink": "https://www.zhihu.com/people/052576ad356463339e594a85e0c67a7a", 
+                            "content": "您好，我按照你的教程想跑起来，但是报错", 
+                            "likes": 0, 
+                            "replyToAuthor": "猴哥wing"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "沿江二路第一carry", 
+                    "userLink": "https://www.zhihu.com/people/b9e589d2ace5e3e26b086db84f9e4fe3", 
+                    "content": "<p>怎么感觉车道线的论文这么少</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "薄荷", 
+                    "userLink": "https://www.zhihu.com/people/052576ad356463339e594a85e0c67a7a", 
+                    "content": "SCNN有tf的实现嘛？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40469102", 
+            "userName": "小二来个id", 
+            "userLink": "https://www.zhihu.com/people/58165289acfd6bfec219403383823a6e", 
+            "upvote": 2, 
+            "title": "SLAM机器人等 相关资料总结", 
+            "content": "<p></p><a href=\"https://link.zhihu.com/?target=http%3A//rpg.ifi.uzh.ch/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">rpg.ifi.uzh.ch/</span><span class=\"invisible\"></span></a><p>ETH组</p><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/heyijia0327\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">知行合一 - CSDN博客</a><p>白巧克力</p><a href=\"https://link.zhihu.com/?target=http%3A//fengbing.net/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">冯兵的博客|内外兼修</a><p>冯兵</p><a href=\"https://link.zhihu.com/?target=http%3A//opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-b7762aa319a9271e48486b7ae570e7fc_ipico.jpg\" data-image-width=\"100\" data-image-height=\"100\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">OpenCV-Python Tutorials</a><p>CVPR2014 SLAM 培训讲义</p><a href=\"https://link.zhihu.com/?target=http%3A//frc.ri.cmu.edu/~kaess/vslam_cvpr14/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">at CVPR 2014, June 28 (room C 213-215)</a><p>RRT算法</p><a href=\"https://link.zhihu.com/?target=https%3A//www.cnblogs.com/21207-iHome/p/7210543.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">cnblogs.com/21207-iHome</span><span class=\"invisible\">/p/7210543.html</span><span class=\"ellipsis\"></span></a><p>形态学处理网站</p><a href=\"https://link.zhihu.com/?target=http%3A//cmm.ensmp.fr/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Center of Mathematical Morphology</a><p>李宏毅（DL）<br/></p><a href=\"https://link.zhihu.com/?target=http%3A//speech.ee.ntu.edu.tw/~tlkagk/index.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-587bc2d433e138a0b342acdd52419fe8_120x160.jpg\" data-image-width=\"190\" data-image-height=\"241\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Hung-yi Lee</a><p><br/>周志华主页<br/></p><a href=\"https://link.zhihu.com/?target=http%3A//jump.bdimg.com/safecheck/index%3Furl%3Dx%2BZ5mMbGPAufNXP5Wj0GQqkRbkodCgm6y5t8UMbmxrwHysE/bTRl%2BGmDmNk58BfnOuyE/HyFKOVMrIcfJ8o/W%2BeMgLbfG4WvkjJ0P55VTSXANLL4Y%2BsGKnJZ9hAEFDmIR5y3yMr5AegpAz8kcprQ53Y9qHh6BM0y\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Zhi-Hua Zhou&#39;s Homepage</a><p><br/>浙江大学CS硕士在读，关注计算机视觉，机器学习，算法研究，博弈，人工智能，移动互联网等学科和产业。该博客中有很多机器学习算法方面的介绍。<br/></p><a href=\"https://link.zhihu.com/?target=http%3A//jump.bdimg.com/safecheck/index%3Furl%3Dx%2BZ5mMbGPAvfX76U6h3ij78AmPF736mbpPNG/zXCTAauMogZ5uxwdq%2Btvm6uv776TKyHHyfKP1vnjIC23xuFr5IydD%2BeVU0lwDSy%2BGPrBipyWfYQBBQ5iEect8jK%2BQHoKQM/JHKa0Od2Pah4egTNMg%3D%3D\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">帐号登录</a><p><br/>里面有一些常见机器学习算法的详细推导过程。<br/></p><a href=\"https://link.zhihu.com/?target=http%3A//jump.bdimg.com/safecheck/index%3Furl%3Dx%2BZ5mMbGPAvHwftO0M2LZP5MIzwzxVVKtflNhlrXmiK0x59sFJAT0kyshx8nyj9b54yAtt8bha%2BSMnQ/nlVNJcA0svhj6wYqcln2EAQUOYhHnLfIyvkB6CkDPyRymtDndj2oeHoEzTI%3D\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">无法找到该页</a><p><br/>常用牛人主页链接（计算机视觉、模式识别、机器学习相关方向,陆续更新。。。。）<br/></p><a href=\"https://link.zhihu.com/?target=http%3A//www.cnblogs.com/kshenf/archive/2012/02/07/2342034.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">常用牛人主页链接（计算机视觉、模式识别、机器学习相关方向,陆续更新。。。。） - Stephen Kuang - 博客园</a><p><a href=\"https://link.zhihu.com/?target=http%3A//www.cnblogs.com/kshenf/archive/2012/02/07/2342034.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">国内外研究主页集合：计算机视觉-机器学习-模式识别-计算机视觉领域的一些牛人博客</a></p><a href=\"https://link.zhihu.com/?target=http%3A//www.cnblogs.com/kshenf/archive/2012/02/07/2342034.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">常用牛人主页链接（计算机视觉、模式识别、机器学习相关方向,陆续更新。。。。） - Stephen Kuang - 博客园</a><p>光流法总述</p><a href=\"https://link.zhihu.com/?target=http%3A//vision.middlebury.edu/flow/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-24908979aee73af1db4d85507b5a30b6_180x120.jpg\" data-image-width=\"192\" data-image-height=\"150\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">vision.middlebury.edu/flow</a><p>Nonlinear Systems Laboratory</p><a href=\"https://link.zhihu.com/?target=http%3A//web.mit.edu/nsl/www/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-b404a2a95cb3d1b993da88dbac53a7f4_ipico.jpg\" data-image-width=\"215\" data-image-height=\"208\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Nonlinear Systems Laboratory Homepage</a><p>MIT课程欠驱动机器人</p><a href=\"https://link.zhihu.com/?target=http%3A//underactuated.csail.mit.edu/underactuated.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Underactuated Robotics</a><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av19764184%3Fspm_id_from%3D333.338.__bofqi.12\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-977fc8db118045b0014e917eb41a7258_180x120.jpg\" data-image-width=\"1152\" data-image-height=\"720\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">MIT课程：欠驱动机器人(2018) by Russ Tedrake_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</a><p>斯坦福机器人学</p><a href=\"https://link.zhihu.com/?target=http%3A//open.163.com/special/opencourse/robotics.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-e007cd842f013680238d407600257329_180x120.jpg\" data-image-width=\"380\" data-image-height=\"285\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">斯坦福大学公开课：机器人学_全16集_网易公开课</a><p>Alberta 强化学习 sutton</p><a href=\"https://link.zhihu.com/?target=http%3A//incompleteideas.net/rlai.cs.ualberta.ca/RLAI/RLAIcourse/RLAIcourse2006.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CMPUT 499/609</a><p>Stanford 强化学习</p><a href=\"https://link.zhihu.com/?target=http%3A//web.stanford.edu/class/cs234/schedule.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CS234: Reinforcement Learning</a><p>UCB 深度强化学习 cs294</p><a href=\"https://link.zhihu.com/?target=http%3A//rail.eecs.berkeley.edu/deeprlcourse/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">rail.eecs.berkeley.edu/</span><span class=\"invisible\">deeprlcourse/</span><span class=\"ellipsis\"></span></a><p>CMU 深度强化学习学习 CMU 10703</p><a href=\"https://link.zhihu.com/?target=https%3A//katefvision.github.io/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">katefvision.github.io/</span><span class=\"invisible\"></span></a><p>UCB CS 287: Advanced Robotics, Fall 2015</p><a href=\"https://link.zhihu.com/?target=https%3A//people.eecs.berkeley.edu/~pabbeel/cs287-fa15/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CS287 Fall 2015</a><p>华盛顿大学 Intelligent control through learning and optimization</p><a href=\"https://link.zhihu.com/?target=https%3A//homes.cs.washington.edu/~todorov/courses/amath579/index.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">homes.cs.washington.edu</span><span class=\"invisible\">/~todorov/courses/amath579/index.html</span><span class=\"ellipsis\"></span></a><p></p>", 
+            "topic": [
+                {
+                    "tag": "计算机视觉", 
+                    "tagLink": "https://api.zhihu.com/topics/19590195"
+                }, 
+                {
+                    "tag": "移动机器人", 
+                    "tagLink": "https://api.zhihu.com/topics/20012686"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_144775154"
+}

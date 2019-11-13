@@ -1,0 +1,322 @@
+{
+    "title": "yαh的ACM太空殖民地", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/yussssss", 
+        "https://www.zhihu.com/people/heyshb", 
+        "https://www.zhihu.com/people/shu-xue-xing-kong", 
+        "https://www.zhihu.com/people/jia-jia-81-7-82", 
+        "https://www.zhihu.com/people/onlygalois", 
+        "https://www.zhihu.com/people/bei-fang-xing-zi-13", 
+        "https://www.zhihu.com/people/mao-liang-93-59", 
+        "https://www.zhihu.com/people/jslijin", 
+        "https://www.zhihu.com/people/guo-ke-ba-liao-37-77", 
+        "https://www.zhihu.com/people/xiao-lu-de-xiao-zhu", 
+        "https://www.zhihu.com/people/tian-cai-44-94", 
+        "https://www.zhihu.com/people/wei-zi-hao-29", 
+        "https://www.zhihu.com/people/yu-tong-lan", 
+        "https://www.zhihu.com/people/cheng-jia-xu-34", 
+        "https://www.zhihu.com/people/weilong-zhang-90", 
+        "https://www.zhihu.com/people/wang-da-ke-53-61", 
+        "https://www.zhihu.com/people/sensente", 
+        "https://www.zhihu.com/people/tian-kong-sky-20", 
+        "https://www.zhihu.com/people/uni-sunshine", 
+        "https://www.zhihu.com/people/9223372036854775808", 
+        "https://www.zhihu.com/people/frederick007", 
+        "https://www.zhihu.com/people/member-37", 
+        "https://www.zhihu.com/people/xie-jun-jie-30", 
+        "https://www.zhihu.com/people/you-you-wo-xin-44-24", 
+        "https://www.zhihu.com/people/ShinriiTin", 
+        "https://www.zhihu.com/people/xu-hong-bo-53", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/zcysky", 
+        "https://www.zhihu.com/people/wu-hang-11", 
+        "https://www.zhihu.com/people/forever97", 
+        "https://www.zhihu.com/people/ljm-64", 
+        "https://www.zhihu.com/people/xu-zhe-nan", 
+        "https://www.zhihu.com/people/yang-xiao-meng-51-16", 
+        "https://www.zhihu.com/people/rof-3", 
+        "https://www.zhihu.com/people/luo-yan-he-65", 
+        "https://www.zhihu.com/people/wc-wc", 
+        "https://www.zhihu.com/people/leng-que-48", 
+        "https://www.zhihu.com/people/zhong-da-lao-hao-qiang-a", 
+        "https://www.zhihu.com/people/william-zhu-82", 
+        "https://www.zhihu.com/people/driversets", 
+        "https://www.zhihu.com/people/li-hai-tao-32", 
+        "https://www.zhihu.com/people/ling-lin-21-32", 
+        "https://www.zhihu.com/people/jin-zhuo-lin-14", 
+        "https://www.zhihu.com/people/bei-du-qiu-hong", 
+        "https://www.zhihu.com/people/fangran123j", 
+        "https://www.zhihu.com/people/jack-75-80", 
+        "https://www.zhihu.com/people/qugeshaminzine", 
+        "https://www.zhihu.com/people/sandwraith", 
+        "https://www.zhihu.com/people/li-yi-zhao-26-80", 
+        "https://www.zhihu.com/people/macronus", 
+        "https://www.zhihu.com/people/hemupang", 
+        "https://www.zhihu.com/people/he-zi-mu-mu", 
+        "https://www.zhihu.com/people/SCLukaluka", 
+        "https://www.zhihu.com/people/ta-men-du-jiao-wo-shen-qi", 
+        "https://www.zhihu.com/people/oliver-queen-86", 
+        "https://www.zhihu.com/people/fizzking", 
+        "https://www.zhihu.com/people/powder-36", 
+        "https://www.zhihu.com/people/pan-yi-ming-2", 
+        "https://www.zhihu.com/people/wio-11"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/55483427", 
+            "userName": "yah01", 
+            "userLink": "https://www.zhihu.com/people/647bf8c4a55de7708312d1e1566bf3f3", 
+            "upvote": 13, 
+            "title": "数学：一道充满暴力美学的题", 
+            "content": "<p>设 <img src=\"https://www.zhihu.com/equation?tex=a%2Cb\" alt=\"a,b\" eeimg=\"1\"/> 为正无理数，且满足 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B1%7D%7Ba%7D+%2B+%5Cfrac%7B1%7D%7Bb%7D+%3D+1\" alt=\"\\frac{1}{a} + \\frac{1}{b} = 1\" eeimg=\"1\"/> 。证明： <img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+ka+%5Crfloor%2C+%5Clfloor+kb+%5Crfloor\" alt=\"\\lfloor ka \\rfloor, \\lfloor kb \\rfloor\" eeimg=\"1\"/> 遍历所有正整数，其中 <img src=\"https://www.zhihu.com/equation?tex=k\" alt=\"k\" eeimg=\"1\"/> 为正整数。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>不妨设 <img src=\"https://www.zhihu.com/equation?tex=a%3Cb\" alt=\"a&lt;b\" eeimg=\"1\"/> ，根据 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B1%7D%7Ba%7D+%2B+%5Cfrac%7B1%7D%7Bb%7D+%3D+1\" alt=\"\\frac{1}{a} + \\frac{1}{b} = 1\" eeimg=\"1\"/> 可以推出 <img src=\"https://www.zhihu.com/equation?tex=1%3Ca%3C2%3Cb\" alt=\"1&lt;a&lt;2&lt;b\" eeimg=\"1\"/> 。确定 <img src=\"https://www.zhihu.com/equation?tex=a\" alt=\"a\" eeimg=\"1\"/> 的范围之后，显然有：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5C%5B+%5Clfloor+%28k%2B1%29a+%5Crfloor+-+%5Clfloor+ka+%5Crfloor+%5Cleq+2+%5C%5D\" alt=\"\\[ \\lfloor (k+1)a \\rfloor - \\lfloor ka \\rfloor \\leq 2 \\]\" eeimg=\"1\"/> </p><p>也就是说， <img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+ka+%5Crfloor+\" alt=\"\\lfloor ka \\rfloor \" eeimg=\"1\"/> 与 <img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+%28k%2B1%29a+%5Crfloor+\" alt=\"\\lfloor (k+1)a \\rfloor \" eeimg=\"1\"/> 之间最多有一个数无法被 <img src=\"https://www.zhihu.com/equation?tex=a\" alt=\"a\" eeimg=\"1\"/> 的整数倍取到。我们只需要证：这个数可以被 <img src=\"https://www.zhihu.com/equation?tex=b\" alt=\"b\" eeimg=\"1\"/> 的整数倍取到。</p><p>设 <img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+ka+%5Crfloor+%2B+2+%3D+%5Clfloor+%28k%2B1%29a+%5Crfloor\" alt=\"\\lfloor ka \\rfloor + 2 = \\lfloor (k+1)a \\rfloor\" eeimg=\"1\"/> ，我们构造一个正整数 <img src=\"https://www.zhihu.com/equation?tex=k%27\" alt=\"k&#39;\" eeimg=\"1\"/> ，使得</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+k%27b+%5Crfloor+%3D+%5Clfloor+ka+%5Crfloor+%2B+1\" alt=\"\\lfloor k&#39;b \\rfloor = \\lfloor ka \\rfloor + 1\" eeimg=\"1\"/> </p><p>从题目中的等式，我们可以得到 <img src=\"https://www.zhihu.com/equation?tex=b+%3D+%5Cfrac%7Ba%7D%7Ba-1%7D\" alt=\"b = \\frac{a}{a-1}\" eeimg=\"1\"/> ，所以</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+k%27b+%5Crfloor+%3D+%5Clfloor+%5Cfrac%7Bk%27a%7D%7Ba-1%7D++%5Crfloor\" alt=\"\\lfloor k&#39;b \\rfloor = \\lfloor \\frac{k&#39;a}{a-1}  \\rfloor\" eeimg=\"1\"/> </p><p>根据这个形式，我们来构造 <img src=\"https://www.zhihu.com/equation?tex=k%27+%3D+%5C%7Bk%28a-1%29%2B%5Cfrac%7Ba-1%7D%7Ba%7D%5C%7D\" alt=\"k&#39; = \\{k(a-1)+\\frac{a-1}{a}\\}\" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=%5C%7Bx%5C%7D\" alt=\"\\{x\\}\" eeimg=\"1\"/> 表示距离 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 最近的整数。我们重写 <img src=\"https://www.zhihu.com/equation?tex=k%27+%3D+k%28a-1%29%2B%5Cfrac%7Ba-1%7D%7Ba%7D+%2B+r+%3D+ka+-+%5Cfrac%7B1%7D%7Ba%7D+%2B+r+-+k+%2B1\" alt=\"k&#39; = k(a-1)+\\frac{a-1}{a} + r = ka - \\frac{1}{a} + r - k +1\" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=%7Cr%7C+%3C+%5Cfrac%7B1%7D%7B2%7D\" alt=\"|r| &lt; \\frac{1}{2}\" eeimg=\"1\"/> ，简单来说， <img src=\"https://www.zhihu.com/equation?tex=r\" alt=\"r\" eeimg=\"1\"/> 把 <img src=\"https://www.zhihu.com/equation?tex=k%28a-1%29%2B%5Cfrac%7Ba-1%7D%7Ba%7D\" alt=\"k(a-1)+\\frac{a-1}{a}\" eeimg=\"1\"/> 凑到距离其最近的整数。</p><p>由于 <img src=\"https://www.zhihu.com/equation?tex=a%2Cb\" alt=\"a,b\" eeimg=\"1\"/> 是无理数，所以不存在整数 <img src=\"https://www.zhihu.com/equation?tex=k\" alt=\"k\" eeimg=\"1\"/> 使得 <img src=\"https://www.zhihu.com/equation?tex=ka\" alt=\"ka\" eeimg=\"1\"/> 为整数。由 <img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+ka+%5Crfloor+%2B+2+%3D+%5Clfloor+%28k%2B1%29a+%5Crfloor\" alt=\"\\lfloor ka \\rfloor + 2 = \\lfloor (k+1)a \\rfloor\" eeimg=\"1\"/> 我们可以得到：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%2A%7D+%5Clfloor+ka+%5Crfloor+%2B+2+%3C%26+ka%2Ba%5C%5C+ka-%5Cfrac%7B1%7D%7Ba%7D+%3E%26+%5Clfloor+ka+%5Crfloor+-+%5Cfrac%7B%28a-1%29%5E2%7D%7Ba%7D+%5Cend%7Balign%2A%7D\" alt=\"\\begin{align*} \\lfloor ka \\rfloor + 2 &lt;&amp; ka+a\\\\ ka-\\frac{1}{a} &gt;&amp; \\lfloor ka \\rfloor - \\frac{(a-1)^2}{a} \\end{align*}\" eeimg=\"1\"/> </p><p>我们来分类讨论：</p><p>当 <img src=\"https://www.zhihu.com/equation?tex=ka-%5Cfrac%7B1%7D%7Ba%7D+%3C+%5Clfloor+ka%5Crfloor\" alt=\"ka-\\frac{1}{a} &lt; \\lfloor ka\\rfloor\" eeimg=\"1\"/> 时， <img src=\"https://www.zhihu.com/equation?tex=r\" alt=\"r\" eeimg=\"1\"/> 为正，且 <img src=\"https://www.zhihu.com/equation?tex=r+%3C+%5Cfrac%7B%28a-1%29%5E2%7D%7Ba%7D\" alt=\"r &lt; \\frac{(a-1)^2}{a}\" eeimg=\"1\"/> 。那么</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+k%27b+%5Crfloor+%3D+%5Clfloor+ka+%2B+%5Cfrac%7Bar%7D%7Ba-1%7D%5Crfloor+%2B+1+%5Cleq+%5Clfloor+ka%2Ba+%5Crfloor+%3D+%5Clfloor+ka+%5Crfloor+%2B+2\" alt=\"\\lfloor k&#39;b \\rfloor = \\lfloor ka + \\frac{ar}{a-1}\\rfloor + 1 \\leq \\lfloor ka+a \\rfloor = \\lfloor ka \\rfloor + 2\" eeimg=\"1\"/> </p><p>等号取到，当且仅当</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%2A%7D+%5Cfrac%7Bar%7D%7Ba-1%7D+%5Cgeq%26+%5Clfloor+ka+%5Crfloor+%2B1-ka%5C%5C+r+%5Cgeq%26+%5Cfrac%7B%5Clfloor+ka+%5Crfloor+%28a-1%29%7D%7Ba%7D+-+k%28a-1%29+%2B+%5Cfrac%7Ba-1%7D%7Ba%7D%5C%5C+r+%5Cgeq%26+%5Cfrac%7Ba-1%7D%7Ba%7D+%5Cend%7Balign%2A%7D\" alt=\"\\begin{align*} \\frac{ar}{a-1} \\geq&amp; \\lfloor ka \\rfloor +1-ka\\\\ r \\geq&amp; \\frac{\\lfloor ka \\rfloor (a-1)}{a} - k(a-1) + \\frac{a-1}{a}\\\\ r \\geq&amp; \\frac{a-1}{a} \\end{align*}\" eeimg=\"1\"/> </p><p>由于 <img src=\"https://www.zhihu.com/equation?tex=r+%3C+%5Cfrac%7B%28a-1%29%5E2%7D%7Ba%7D\" alt=\"r &lt; \\frac{(a-1)^2}{a}\" eeimg=\"1\"/> ，而 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%28a-1%29%5E2%7D%7Ba%7D+%3C+%5Cfrac%7Ba-1%7D%7Ba%7D\" alt=\"\\frac{(a-1)^2}{a} &lt; \\frac{a-1}{a}\" eeimg=\"1\"/> ，矛盾。</p><p>因此， <img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+k%27b+%5Crfloor+%5Cleq+%5Clfloor+ka+%5Crfloor+%2B+1\" alt=\"\\lfloor k&#39;b \\rfloor \\leq \\lfloor ka \\rfloor + 1\" eeimg=\"1\"/> </p><p>类似的，当 <img src=\"https://www.zhihu.com/equation?tex=ka-%5Cfrac%7B1%7D%7Ba%7D+%3E+%7Cka%7C\" alt=\"ka-\\frac{1}{a} &gt; |ka|\" eeimg=\"1\"/> 时， <img src=\"https://www.zhihu.com/equation?tex=-r+%3D+ka+-+%5Cfrac%7B1%7D%7Ba%7D+-+%5Clfloor+ka+%5Crfloor\" alt=\"-r = ka - \\frac{1}{a} - \\lfloor ka \\rfloor\" eeimg=\"1\"/> 。同样的：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+k%27b+%5Crfloor+%3D+%5Clfloor+ka+%2B+%5Cfrac%7Bar%7D%7Ba-1%7D+%5Crfloor+%2B+1+%5Cgeq+%5Clfloor+ka+%5Crfloor\" alt=\"\\lfloor k&#39;b \\rfloor = \\lfloor ka + \\frac{ar}{a-1} \\rfloor + 1 \\geq \\lfloor ka \\rfloor\" eeimg=\"1\"/> </p><p>等号取到，当且仅当</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%2A%7D+-%5Cfrac%7Bar%7D%7Ba-1%7D+%3E%26+ka-%5Clfloor+ka+%5Crfloor%5C%5C+r+%3C%26+%5Cfrac%7B%5Clfloor+ka+%5Crfloor%28a-1%29%7D%7Ba%7D+-+k%28a-1%29%5C%5C+%5Clfloor+ka+%5Crfloor%2B%5Cfrac%7B1%7D%7Ba%7D+-+ka+%3C%26++%5Cfrac%7B%5Clfloor+ka+%5Crfloor%28a-1%29%7D%7Ba%7D+-+k%28a-1%29%5C%5C+%5Clfloor+ka+%5Crfloor+%2B+1+%3C%26+ka+%5Cend%7Balign%2A%7D\" alt=\"\\begin{align*} -\\frac{ar}{a-1} &gt;&amp; ka-\\lfloor ka \\rfloor\\\\ r &lt;&amp; \\frac{\\lfloor ka \\rfloor(a-1)}{a} - k(a-1)\\\\ \\lfloor ka \\rfloor+\\frac{1}{a} - ka &lt;&amp;  \\frac{\\lfloor ka \\rfloor(a-1)}{a} - k(a-1)\\\\ \\lfloor ka \\rfloor + 1 &lt;&amp; ka \\end{align*}\" eeimg=\"1\"/> </p><p>因为 <img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+ka+%5Crfloor+%2B+1+%3E+ka\" alt=\"\\lfloor ka \\rfloor + 1 &gt; ka\" eeimg=\"1\"/> ，矛盾。</p><p>因此 <img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+k%27b+%5Crfloor+%5Cgeq+%5Clfloor+ka+%5Crfloor+%2B+1\" alt=\"\\lfloor k&#39;b \\rfloor \\geq \\lfloor ka \\rfloor + 1\" eeimg=\"1\"/> </p><p>至此就完成了证明，当 <img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+ka+%5Crfloor+%2B+2+%3D+%5Clfloor+%28k%2B1%29a+%5Crfloor\" alt=\"\\lfloor ka \\rfloor + 2 = \\lfloor (k+1)a \\rfloor\" eeimg=\"1\"/> 时，我们总可以构造出一个 正整数<img src=\"https://www.zhihu.com/equation?tex=k%27\" alt=\"k&#39;\" eeimg=\"1\"/> ，使得 <img src=\"https://www.zhihu.com/equation?tex=%5Clfloor+k%27b+%5Crfloor+%3D+%5Clfloor+ka+%5Crfloor+%2B+1\" alt=\"\\lfloor k&#39;b \\rfloor = \\lfloor ka \\rfloor + 1\" eeimg=\"1\"/> 。</p>", 
+            "topic": [
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "王希", 
+                    "userLink": "https://www.zhihu.com/people/79b988ec04a51afb1f36346be9db74ea", 
+                    "content": "这不就是贝蒂定理吗？", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "yah01", 
+                            "userLink": "https://www.zhihu.com/people/647bf8c4a55de7708312d1e1566bf3f3", 
+                            "content": "<p>………………</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王希"
+                        }, 
+                        {
+                            "userName": "yah01", 
+                            "userLink": "https://www.zhihu.com/people/647bf8c4a55de7708312d1e1566bf3f3", 
+                            "content": "<p>= -我蠢哭了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王希"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "艾利克练", 
+                    "userLink": "https://www.zhihu.com/people/6980a27d1d9601dd5263dc846e9c6b05", 
+                    "content": "<p>World.execute(me); 警觉</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "0xDD40", 
+                    "userLink": "https://www.zhihu.com/people/19e1228843ec692175f7efc457d83e11", 
+                    "content": "用反证法，条件更自然一些", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Rhove", 
+                    "userLink": "https://www.zhihu.com/people/ddc04759a7056dc20c4d7e6cf76543f4", 
+                    "content": "<p>前不久看到一个有趣的衍生问题：求证当把两个数alpha，beta改为三个数alpha，beta，gamma时，不可能恰好构成分划</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "paracoder", 
+                            "userLink": "https://www.zhihu.com/people/f62ed836f6a2349a9ae5b63bdfb8c28e", 
+                            "content": "具体数学，哈？", 
+                            "likes": 0, 
+                            "replyToAuthor": "Rhove"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Rhove", 
+                    "userLink": "https://www.zhihu.com/people/ddc04759a7056dc20c4d7e6cf76543f4", 
+                    "content": "<p>前不久看到一个有趣的衍生问题：求证当把两个数a，b改为三个数a，b，c时，不可能恰好构成分划</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Apple-Lyn", 
+                    "userLink": "https://www.zhihu.com/people/8d3848fcb72827c14256ef10540d6079", 
+                    "content": "初等数论第一章最后一节习题", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51833162", 
+            "userName": "yah01", 
+            "userLink": "https://www.zhihu.com/people/647bf8c4a55de7708312d1e1566bf3f3", 
+            "upvote": 19, 
+            "title": "题集：求K维曼哈顿球面上与指定点最近的点", 
+            "content": "<p>这道题是2018年北京网络赛的<a href=\"https://link.zhihu.com/?target=https%3A//hihocoder.com/contest/acmicpc2018beijingonline/problem/8\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">K-Dimensional Foil II</a>，题目大意为：</p><p>在 <img src=\"https://www.zhihu.com/equation?tex=K%281+%5Cleq+K+%5Cleq+100%29\" alt=\"K(1 \\leq K \\leq 100)\" eeimg=\"1\"/> 维空间中，定义圆心为 <img src=\"https://www.zhihu.com/equation?tex=c\" alt=\"c\" eeimg=\"1\"/> ，半径为 <img src=\"https://www.zhihu.com/equation?tex=r%281+%5Cleq+r+%5Cleq+10%5E4%29\" alt=\"r(1 \\leq r \\leq 10^4)\" eeimg=\"1\"/> 的曼哈顿球面为点集： <img src=\"https://www.zhihu.com/equation?tex=%5C%7Bx%5C+%7C%5C+%5Csum%5Climits_%7Bi%3D1%7D%5Ek+%7Cx_i-c_i%7C%3Dr%5C%7D\" alt=\"\\{x\\ |\\ \\sum\\limits_{i=1}^k |x_i-c_i|=r\\}\" eeimg=\"1\"/> </p><p>例如二维空间中圆心为 <img src=\"https://www.zhihu.com/equation?tex=%280%2C0%29\" alt=\"(0,0)\" eeimg=\"1\"/> ，半径为 <img src=\"https://www.zhihu.com/equation?tex=1\" alt=\"1\" eeimg=\"1\"/> 的曼哈顿球面为：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-327cc44cefd600fd6a5cd8cfaa54c6e9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"200\" data-rawheight=\"206\" class=\"content_image\" width=\"200\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;200&#39; height=&#39;206&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"200\" data-rawheight=\"206\" class=\"content_image lazy\" width=\"200\" data-actualsrc=\"https://pic2.zhimg.com/v2-327cc44cefd600fd6a5cd8cfaa54c6e9_b.jpg\"/></figure><p>给出维度、圆心和半径，有 <img src=\"https://www.zhihu.com/equation?tex=n%281+%5Cleq+n+%5Cleq+50%29\" alt=\"n(1 \\leq n \\leq 50)\" eeimg=\"1\"/> 次询问，每次给出 <img src=\"https://www.zhihu.com/equation?tex=K\" alt=\"K\" eeimg=\"1\"/> 维空间中的一个点 <img src=\"https://www.zhihu.com/equation?tex=s\" alt=\"s\" eeimg=\"1\"/> ，求在以 <img src=\"https://www.zhihu.com/equation?tex=c\" alt=\"c\" eeimg=\"1\"/> 为圆心，半径为 <img src=\"https://www.zhihu.com/equation?tex=r\" alt=\"r\" eeimg=\"1\"/> 的曼哈顿球面上，与 <img src=\"https://www.zhihu.com/equation?tex=s\" alt=\"s\" eeimg=\"1\"/> 距离最近的点（欧几里得距离）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们设在曼哈顿球面上与 <img src=\"https://www.zhihu.com/equation?tex=s\" alt=\"s\" eeimg=\"1\"/> 最近的点为 <img src=\"https://www.zhihu.com/equation?tex=t\" alt=\"t\" eeimg=\"1\"/> ，那么也就是要满足</p><ol><li><img src=\"https://www.zhihu.com/equation?tex=%5Csqrt%7B%5Csum%5Climits_%7Bi%3D1%7D%5Ek+%28t_i-s_i%29%5E2%7D\" alt=\"\\sqrt{\\sum\\limits_{i=1}^k (t_i-s_i)^2}\" eeimg=\"1\"/> </li><li><img src=\"https://www.zhihu.com/equation?tex=%5Csum%5Climits_%7Bi%3D1%7D%5Ek+%7Ct_i-c_i%7C%3Dr\" alt=\"\\sum\\limits_{i=1}^k |t_i-c_i|=r\" eeimg=\"1\"/> </li></ol><p>设 <img src=\"https://www.zhihu.com/equation?tex=u+%3D+t-c+%3D+%28t_1-c_1%2C%5Cdots%2Ct_k-c_k%29\" alt=\"u = t-c = (t_1-c_1,\\dots,t_k-c_k)\" eeimg=\"1\"/> ，那么两个式子可以写成：</p><ol><li><img src=\"https://www.zhihu.com/equation?tex=%5Csqrt%7B%5Csum%5Climits_%7Bi%3D1%7D%5Ek+%28+c_i+-+s_i+%2B+u_i%29%5E2%7D\" alt=\"\\sqrt{\\sum\\limits_{i=1}^k ( c_i - s_i + u_i)^2}\" eeimg=\"1\"/> </li><li><img src=\"https://www.zhihu.com/equation?tex=%5Csum%5Climits_%7Bi%3D1%7D%5Ek+%7Cu_i%7C+%3D+r\" alt=\"\\sum\\limits_{i=1}^k |u_i| = r\" eeimg=\"1\"/> </li></ol><p>注意到，第一个式子的值最小，等价于要</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Csum%5Climits_%7Bi%3D1%7D%5Ek+%28+c_i-s_i+%2B+u_i%29%5E2\" alt=\"\\sum\\limits_{i=1}^k ( c_i-s_i + u_i)^2\" eeimg=\"1\"/> </p><p>最小。现在我们设 <img src=\"https://www.zhihu.com/equation?tex=v_i+%3D+%28c_i-s_i+%2B+u_i%29\" alt=\"v_i = (c_i-s_i + u_i)\" eeimg=\"1\"/>，要 <img src=\"https://www.zhihu.com/equation?tex=%5Csum%5Climits_%7Bi%3D1%7D%5Ek+v_i%5E2\" alt=\"\\sum\\limits_{i=1}^k v_i^2\" eeimg=\"1\"/> 最小，而我们可以自行去改变 <img src=\"https://www.zhihu.com/equation?tex=u_i\" alt=\"u_i\" eeimg=\"1\"/> 的值，只要满足第二个式子即可。我们先设 <img src=\"https://www.zhihu.com/equation?tex=u_i%3D0\" alt=\"u_i=0\" eeimg=\"1\"/> ，由于外面是平方，我们可以把里面看作是 <img src=\"https://www.zhihu.com/equation?tex=%7Cc_i-s_i%7C\" alt=\"|c_i-s_i|\" eeimg=\"1\"/> ，那么问题就变成了如何分配 <img src=\"https://www.zhihu.com/equation?tex=r\" alt=\"r\" eeimg=\"1\"/> 到各个 <img src=\"https://www.zhihu.com/equation?tex=%7Cu_i%7C\" alt=\"|u_i|\" eeimg=\"1\"/> ，使得 <img src=\"https://www.zhihu.com/equation?tex=%7Cc_i-s_i%7C%2Bu_i\" alt=\"|c_i-s_i|+u_i\" eeimg=\"1\"/> 尽量小。</p><p>因为 <img src=\"https://www.zhihu.com/equation?tex=%28x%5E2%29%27+%3D+2x\" alt=\"(x^2)&#39; = 2x\" eeimg=\"1\"/> ，因此，我们优先减少那些 <img src=\"https://www.zhihu.com/equation?tex=%7Cc_i-s_i%7C\" alt=\"|c_i-s_i|\" eeimg=\"1\"/> 的值比较大的是更优的。</p><p>因此，我们可以二分 <img src=\"https://www.zhihu.com/equation?tex=%7Cc_i-s_i%7C\" alt=\"|c_i-s_i|\" eeimg=\"1\"/> 的最大值 <img src=\"https://www.zhihu.com/equation?tex=M\" alt=\"M\" eeimg=\"1\"/> ，把满足 <img src=\"https://www.zhihu.com/equation?tex=%7Cc_i-s_i%7C%3EM\" alt=\"|c_i-s_i|&gt;M\" eeimg=\"1\"/> 的都减到 <img src=\"https://www.zhihu.com/equation?tex=M\" alt=\"M\" eeimg=\"1\"/> ，并计算在此条件下的 <img src=\"https://www.zhihu.com/equation?tex=S+%3D+%7Cc_i-s_i%7C+-+M\" alt=\"S = |c_i-s_i| - M\" eeimg=\"1\"/> ，显然，如果 <img src=\"https://www.zhihu.com/equation?tex=S+%5Cleq+r\" alt=\"S \\leq r\" eeimg=\"1\"/> ，那么所有值减到 <img src=\"https://www.zhihu.com/equation?tex=M\" alt=\"M\" eeimg=\"1\"/> 是可行的，否则不可行，依据这个二分即可。</p><p>问题还没有解决，我们还需要求出具体的点，在得到 <img src=\"https://www.zhihu.com/equation?tex=M\" alt=\"M\" eeimg=\"1\"/> 后，我们依次判断每一维：</p><ol><li>如果 <img src=\"https://www.zhihu.com/equation?tex=%7Cc_i-s_i%7C+%5Cleq+M\" alt=\"|c_i-s_i| \\leq M\" eeimg=\"1\"/> ，那么 <img src=\"https://www.zhihu.com/equation?tex=t_i+%3D+c_i\" alt=\"t_i = c_i\" eeimg=\"1\"/> ，因为此时 <img src=\"https://www.zhihu.com/equation?tex=u_i%3D0\" alt=\"u_i=0\" eeimg=\"1\"/> </li><li>如果 <img src=\"https://www.zhihu.com/equation?tex=%7Cc_i-s_i%7C+%3E+M\" alt=\"|c_i-s_i| &gt; M\" eeimg=\"1\"/> ，那么 <img src=\"https://www.zhihu.com/equation?tex=t_i%3Dc_i%2Bu_i\" alt=\"t_i=c_i+u_i\" eeimg=\"1\"/> ，此时 <img src=\"https://www.zhihu.com/equation?tex=u_i+%3D+M%2Bs_i-c_i\" alt=\"u_i = M+s_i-c_i\" eeimg=\"1\"/> </li></ol><p>这样就可以解决这道题了。</p>", 
+            "topic": [
+                {
+                    "tag": "ACM", 
+                    "tagLink": "https://api.zhihu.com/topics/20061313"
+                }, 
+                {
+                    "tag": "OI（信息学奥林匹克）", 
+                    "tagLink": "https://api.zhihu.com/topics/19621310"
+                }, 
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51739326", 
+            "userName": "yah01", 
+            "userLink": "https://www.zhihu.com/people/647bf8c4a55de7708312d1e1566bf3f3", 
+            "upvote": 22, 
+            "title": "题集：一道积性函数求和题", 
+            "content": "<p>给南京网络赛出的一道题，不过当时是作为签到题给的，这里写下完整的版本。</p><p>设 <img src=\"https://www.zhihu.com/equation?tex=f%28n%29\" alt=\"f(n)\" eeimg=\"1\"/> 为：将 <img src=\"https://www.zhihu.com/equation?tex=n\" alt=\"n\" eeimg=\"1\"/> 写作<img src=\"https://www.zhihu.com/equation?tex=n%3Dab\" alt=\"n=ab\" eeimg=\"1\"/> 的方案数，其中 <img src=\"https://www.zhihu.com/equation?tex=n%2Ca%2Cb+%5Cin+%5Cmathbb%7BZ%5E%2B%7D%2C%5C+a%2Cb\" alt=\"n,a,b \\in \\mathbb{Z^+},\\ a,b\" eeimg=\"1\"/> 为无平方因子数。</p><p>例如 </p><p><img src=\"https://www.zhihu.com/equation?tex=f%286%29%3D4\" alt=\"f(6)=4\" eeimg=\"1\"/> ，因为 <img src=\"https://www.zhihu.com/equation?tex=6%3D1+%5Ctimes+6+%3D+2+%5Ctimes+3+%3D+3+%5Ctimes+2+%3D+6+%5Ctimes+1\" alt=\"6=1 \\times 6 = 2 \\times 3 = 3 \\times 2 = 6 \\times 1\" eeimg=\"1\"/> </p><p><img src=\"https://www.zhihu.com/equation?tex=f%2812%29+%3D+2\" alt=\"f(12) = 2\" eeimg=\"1\"/> ，因为 <img src=\"https://www.zhihu.com/equation?tex=12+%3D+2+%5Ctimes+6+%3D+6+%5Ctimes+2\" alt=\"12 = 2 \\times 6 = 6 \\times 2\" eeimg=\"1\"/> 。</p><p>求 <img src=\"https://www.zhihu.com/equation?tex=%5C%5B+%5Csum%5Climits_%7Bi%3D1%7D%5En+f%28i%29+%5C%5D\" alt=\"\\[ \\sum\\limits_{i=1}^n f(i) \\]\" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=1+%5Cleq+n+%5Cleq+10%5E%7B10%7D\" alt=\"1 \\leq n \\leq 10^{10}\" eeimg=\"1\"/> 。</p><p>容易发现 <img src=\"https://www.zhihu.com/equation?tex=f\" alt=\"f\" eeimg=\"1\"/> 是积性函数，因为 <img src=\"https://www.zhihu.com/equation?tex=f+%3D%5Cmu%5E2+%2A+%5Cmu%5E2\" alt=\"f =\\mu^2 * \\mu^2\" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=%2A\" alt=\"*\" eeimg=\"1\"/> 表示狄利克雷卷积，两个积性函数的狄利克雷卷积依然是积性函数，也完全可以用简单的方法证明，这里略去。在网络赛中题目范围是 <img src=\"https://www.zhihu.com/equation?tex=1+%5Cleq+n+%5Cleq+10%5E7\" alt=\"1 \\leq n \\leq 10^7\" eeimg=\"1\"/> ，因为 <img src=\"https://www.zhihu.com/equation?tex=f\" alt=\"f\" eeimg=\"1\"/> 是积性函数，可以用线性筛在 <img src=\"https://www.zhihu.com/equation?tex=O%28n%29\" alt=\"O(n)\" eeimg=\"1\"/> 完成计算。</p><p>重写要求的和式：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Csum%5Climits_%7Bi%3D1%7D%5En+f%28i%29+%3D+%5Csum%5Climits_%7Bi%3D1%7D%5En+%5Csum%5Climits_%7Bd%7Ci%7D+%5Cmu%5E2%28d%29+%5Cmu%5E2%28%5Cfrac%7Bi%7D%7Bd%7D%29+%3D+%5Csum%5Climits_%7Bi%3D1%7D%5En+%5Cmu%5E2%28i%29+%5Csum%5Climits_%7Bj%3D1%7D%5E%7B%5Clfloor+n%2Fi+%5Crfloor%7D+%5Cmu%5E2%28j%29\" alt=\"\\sum\\limits_{i=1}^n f(i) = \\sum\\limits_{i=1}^n \\sum\\limits_{d|i} \\mu^2(d) \\mu^2(\\frac{i}{d}) = \\sum\\limits_{i=1}^n \\mu^2(i) \\sum\\limits_{j=1}^{\\lfloor n/i \\rfloor} \\mu^2(j)\" eeimg=\"1\"/> </p><p>如果我们可以快速计算 <img src=\"https://www.zhihu.com/equation?tex=%5Cmu%5E2\" alt=\"\\mu^2\" eeimg=\"1\"/> 的前缀和，再利用分块求和就可以解决这个题了。注意到 <img src=\"https://www.zhihu.com/equation?tex=%5Csum%5Climits_%7Bi%3D1%7D%5Em+%5Cmu%5E2%28i%29+%3D+%5Csum%5Climits_%7Bi%3D1%7D%5E%7B%5Clfloor+%5Csqrt%7Bm%7D+%5Crfloor%7D+%5Cmu%28i%29%5Clfloor+%5Cfrac%7Bm%7D%7Bi%5E2%7D+%5Crfloor\" alt=\"\\sum\\limits_{i=1}^m \\mu^2(i) = \\sum\\limits_{i=1}^{\\lfloor \\sqrt{m} \\rfloor} \\mu(i)\\lfloor \\frac{m}{i^2} \\rfloor\" eeimg=\"1\"/> </p><p>这个等式的证明可以参见<a href=\"https://zhuanlan.zhihu.com/p/36745053\" class=\"internal\">莫比乌斯函数一例——后缀自动机·张</a>（安利），也可以用容斥原理得到这个结果。</p><p>最后，通过预处理出 <img src=\"https://www.zhihu.com/equation?tex=f%28i%29%5C+%281+%5Cleq+i+%5Cleq+n%5E%7B2%2F3%7D%29\" alt=\"f(i)\\ (1 \\leq i \\leq n^{2/3})\" eeimg=\"1\"/> 及其前缀和，再结合上面的结果分块求和，就可以在 <img src=\"https://www.zhihu.com/equation?tex=O%28n%5E%7B2%2F3%7D%29\" alt=\"O(n^{2/3})\" eeimg=\"1\"/> 解决这道题了。</p>", 
+            "topic": [
+                {
+                    "tag": "ACM", 
+                    "tagLink": "https://api.zhihu.com/topics/20061313"
+                }, 
+                {
+                    "tag": "OI（信息学奥林匹克）", 
+                    "tagLink": "https://api.zhihu.com/topics/19621310"
+                }, 
+                {
+                    "tag": "算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553510"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "王希", 
+                    "userLink": "https://www.zhihu.com/people/79b988ec04a51afb1f36346be9db74ea", 
+                    "content": "<p>现在网络赛的签到题都这个难度了吗……</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "yah01", 
+                            "userLink": "https://www.zhihu.com/people/647bf8c4a55de7708312d1e1566bf3f3", 
+                            "content": "人尽皆知线性筛！（但是有一个O(ans)的暴力可以搞过去", 
+                            "likes": 0, 
+                            "replyToAuthor": "王希"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51630787", 
+            "userName": "yah01", 
+            "userLink": "https://www.zhihu.com/people/647bf8c4a55de7708312d1e1566bf3f3", 
+            "upvote": 37, 
+            "title": "题集：三明治子序列的最大长度", 
+            "content": "<p>学弟 <a class=\"member_mention\" href=\"https://www.zhihu.com/people/8d3848fcb72827c14256ef10540d6079\" data-hash=\"8d3848fcb72827c14256ef10540d6079\" data-hovercard=\"p$b$8d3848fcb72827c14256ef10540d6079\">@Apple-Lyn</a> 问的一道题：</p><p>定义一个序列 <img src=\"https://www.zhihu.com/equation?tex=A\" alt=\"A\" eeimg=\"1\"/> 为三明治序列当且仅当： <img src=\"https://www.zhihu.com/equation?tex=A_1+%3D+%5Cmin%5C%7BA_1%2C%5Cdots%2CA_n%5C%7D%2C%5C+A_n+%3D+%5Cmax%5C%7BA_1%2C%5Cdots%2CA_n%5C%7D\" alt=\"A_1 = \\min\\{A_1,\\dots,A_n\\},\\ A_n = \\max\\{A_1,\\dots,A_n\\}\" eeimg=\"1\"/> </p><p>给定一个长度为 <img src=\"https://www.zhihu.com/equation?tex=n%281+%5Cleq+n+%5Cleq+10%5E5%29\" alt=\"n(1 \\leq n \\leq 10^5)\" eeimg=\"1\"/> 的序列 <img src=\"https://www.zhihu.com/equation?tex=S\" alt=\"S\" eeimg=\"1\"/> ，求其三明治子序列的最大长度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>设最长三明治序列的第一个元素位置为 <img src=\"https://www.zhihu.com/equation?tex=L\" alt=\"L\" eeimg=\"1\"/> ，最后一个位置为 <img src=\"https://www.zhihu.com/equation?tex=R\" alt=\"R\" eeimg=\"1\"/> 。定义序列中满足 <img src=\"https://www.zhihu.com/equation?tex=S_i+%5Cleq+S_%7Bi-1%7D%2C+S_i+%5Cleq+S_%7Bi%2B1%7D\" alt=\"S_i \\leq S_{i-1}, S_i \\leq S_{i+1}\" eeimg=\"1\"/> 的位置 <img src=\"https://www.zhihu.com/equation?tex=i\" alt=\"i\" eeimg=\"1\"/> 为<b>极小值点</b>，以同样的方式定义极大值点。</p><p>接下来，可以证明三条性质：</p><p>一、 <img src=\"https://www.zhihu.com/equation?tex=L\" alt=\"L\" eeimg=\"1\"/> 一定是极小值点， <img src=\"https://www.zhihu.com/equation?tex=R\" alt=\"R\" eeimg=\"1\"/> 一定是极大值点。只需要用反证法就可以轻松证明这一点。</p><p>二、设所有的极小值点按升序依次为： <img src=\"https://www.zhihu.com/equation?tex=L_1%2C+%5Cdots%2C+L_u\" alt=\"L_1, \\dots, L_u\" eeimg=\"1\"/> ，如果 <img src=\"https://www.zhihu.com/equation?tex=1+%5Cleq+i+%3C+j+%5Cleq+u%2C+S_%7BL_i%7D+%5Cleq+S_%7BL_j%7D\" alt=\"1 \\leq i &lt; j \\leq u, S_{L_i} \\leq S_{L_j}\" eeimg=\"1\"/> ,那么显然 <img src=\"https://www.zhihu.com/equation?tex=L_j\" alt=\"L_j\" eeimg=\"1\"/> 不会构成最优解。同理，设极大值点按升序依次为： <img src=\"https://www.zhihu.com/equation?tex=R_1%2C%5Cdots%2CR_v\" alt=\"R_1,\\dots,R_v\" eeimg=\"1\"/> ，如果 <img src=\"https://www.zhihu.com/equation?tex=1+%5Cleq+i+%3C+j+%5Cleq+v%2C+S_%7BR_i%7D+%5Cleq+S_%7BR_j%7D\" alt=\"1 \\leq i &lt; j \\leq v, S_{R_i} \\leq S_{R_j}\" eeimg=\"1\"/> ，那么 <img src=\"https://www.zhihu.com/equation?tex=R_i\" alt=\"R_i\" eeimg=\"1\"/> 不会构成最优解。</p><p>三、我们只留下可能构成最优解的极值点，得到新的极小值点序列 <img src=\"https://www.zhihu.com/equation?tex=L%27\" alt=\"L&#39;\" eeimg=\"1\"/> 和极大值点序列 <img src=\"https://www.zhihu.com/equation?tex=R%27+\" alt=\"R&#39; \" eeimg=\"1\"/> </p><p>，显然这两个序列都是单调递减的。如果我们设 <img src=\"https://www.zhihu.com/equation?tex=f%28i%29\" alt=\"f(i)\" eeimg=\"1\"/> 为： <img src=\"https://www.zhihu.com/equation?tex=R\" alt=\"R\" eeimg=\"1\"/> 为 <img src=\"https://www.zhihu.com/equation?tex=i\" alt=\"i\" eeimg=\"1\"/> 时的答案。我们只考虑 <img src=\"https://www.zhihu.com/equation?tex=i+%5Cin+R%27\" alt=\"i \\in R&#39;\" eeimg=\"1\"/> 的情况，因为答案只在其中，我们把 <img src=\"https://www.zhihu.com/equation?tex=L\" alt=\"L\" eeimg=\"1\"/> 的选取看作这个 <img src=\"https://www.zhihu.com/equation?tex=DP\" alt=\"DP\" eeimg=\"1\"/> 的决策，那么显然最优决策一定是在 <img src=\"https://www.zhihu.com/equation?tex=L%27\" alt=\"L&#39;\" eeimg=\"1\"/> 中。接下来我们只需要证明：状态集合为 <img src=\"https://www.zhihu.com/equation?tex=R%27\" alt=\"R&#39;\" eeimg=\"1\"/> ，决策集合为 <img src=\"https://www.zhihu.com/equation?tex=L%27\" alt=\"L&#39;\" eeimg=\"1\"/> 时，这个 <img src=\"https://www.zhihu.com/equation?tex=DP\" alt=\"DP\" eeimg=\"1\"/> 具有决策单调性：</p><p>       设两个决策 <img src=\"https://www.zhihu.com/equation?tex=x%3Cy\" alt=\"x&lt;y\" eeimg=\"1\"/> ，两个状态 <img src=\"https://www.zhihu.com/equation?tex=a%3Cb\" alt=\"a&lt;b\" eeimg=\"1\"/> ，已知状态 <img src=\"https://www.zhihu.com/equation?tex=a\" alt=\"a\" eeimg=\"1\"/> 的最优决策是 <img src=\"https://www.zhihu.com/equation?tex=y+\" alt=\"y \" eeimg=\"1\"/> 。我们只需要证明 <img src=\"https://www.zhihu.com/equation?tex=b\" alt=\"b\" eeimg=\"1\"/> 的最优决策不小于 <img src=\"https://www.zhihu.com/equation?tex=y\" alt=\"y\" eeimg=\"1\"/> 。用反证法，我们设 <img src=\"https://www.zhihu.com/equation?tex=b\" alt=\"b\" eeimg=\"1\"/> 的最优决策为 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 。因为<img src=\"https://www.zhihu.com/equation?tex=x%2Cy+%5Cin+L%27%2C%5C+a%2Cb+%5Cin+R%27\" alt=\"x,y \\in L&#39;,\\ a,b \\in R&#39;\" eeimg=\"1\"/> ，所以有 <img src=\"https://www.zhihu.com/equation?tex=S_x+%3E+S_y%2C%5C+S_a+%3E+S_b\" alt=\"S_x &gt; S_y,\\ S_a &gt; S_b\" eeimg=\"1\"/> 。这意味着：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5C%5B%5Csum%5Climits_%7Bi%3Dx%7D%5Eb+%5BS_x+%5Cleq+S_i+%5Cleq+S_b%5D+%3E+%5Csum%5Climits_%7Bi%3Dy%7D%5Eb+%5BS_y+%5Cleq+S_i+%5Cleq+S_b%5D%5C%5D\" alt=\"\\[\\sum\\limits_{i=x}^b [S_x \\leq S_i \\leq S_b] &gt; \\sum\\limits_{i=y}^b [S_y \\leq S_i \\leq S_b]\\]\" eeimg=\"1\"/> </p><p>也就是说，决策 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 相比决策 <img src=\"https://www.zhihu.com/equation?tex=y\" alt=\"y\" eeimg=\"1\"/> ，增加的数量 <img src=\"https://www.zhihu.com/equation?tex=p%3D%7C%5C%7Bi%5C+%7C+S_x+%5Cleq+S_i+%5Cleq+S_b%2C%5C+x+%5Cleq+i+%3C+y%5C%7D%7C\" alt=\"p=|\\{i\\ | S_x \\leq S_i \\leq S_b,\\ x \\leq i &lt; y\\}|\" eeimg=\"1\"/>，减少的数量 <img src=\"https://www.zhihu.com/equation?tex=q%3D%7C%5C%7Bi%5C+%7C+S_y+%5Cleq+S_i+%3C+S_x%2C%5C+y+%5Cleq+i+%5Cleq+b%5C%7D%7C\" alt=\"q=|\\{i\\ | S_y \\leq S_i &lt; S_x,\\ y \\leq i \\leq b\\}|\" eeimg=\"1\"/> 。</p><p>考虑状态 <img src=\"https://www.zhihu.com/equation?tex=a\" alt=\"a\" eeimg=\"1\"/> ，如果它取决策 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> ，增加的数量<img src=\"https://www.zhihu.com/equation?tex=p%27+%3D+%7C%5C%7Bi%5C+%7C+S_x+%5Cleq+S_i+%5Cleq+S_a%2C%5C+x+%5Cleq+i+%3C+y%5C%7D%7C\" alt=\"p&#39; = |\\{i\\ | S_x \\leq S_i \\leq S_a,\\ x \\leq i &lt; y\\}|\" eeimg=\"1\"/> ，减少的数量 <img src=\"https://www.zhihu.com/equation?tex=q%27+%3D+%7C%5C%7Bi%5C+%7C+S_y+%5Cleq+S_i+%3C+S_x%2C%5C+y+%5Cleq+i+%5Cleq+a%5C%7D%7C\" alt=\"q&#39; = |\\{i\\ | S_y \\leq S_i &lt; S_x,\\ y \\leq i \\leq a\\}|\" eeimg=\"1\"/> 。</p><p>显然， <img src=\"https://www.zhihu.com/equation?tex=p%27+%5Cgeq+p\" alt=\"p&#39; \\geq p\" eeimg=\"1\"/> 且 <img src=\"https://www.zhihu.com/equation?tex=q%27+%5Cleq+q\" alt=\"q&#39; \\leq q\" eeimg=\"1\"/> ，因此状态 <img src=\"https://www.zhihu.com/equation?tex=a\" alt=\"a\" eeimg=\"1\"/> 取决策 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 会更优，这也就证明了决策是单调的。</p><p>根据上述三条性质，我们只需要利用决策单调性就可以解决这个题了。每次计算决策的权值要用到主席树，决策单调性要用到二分法，因此总复杂度为 <img src=\"https://www.zhihu.com/equation?tex=O%28n+%5Clog%5E2%7Bn%7D%29\" alt=\"O(n \\log^2{n})\" eeimg=\"1\"/> </p><p>感谢学弟问这么有意思的题！</p>", 
+            "topic": [
+                {
+                    "tag": "ACM", 
+                    "tagLink": "https://api.zhihu.com/topics/20061313"
+                }, 
+                {
+                    "tag": "OI（信息学奥林匹克）", 
+                    "tagLink": "https://api.zhihu.com/topics/19621310"
+                }, 
+                {
+                    "tag": "算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553510"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Apple-Lyn", 
+                    "userLink": "https://www.zhihu.com/people/8d3848fcb72827c14256ef10540d6079", 
+                    "content": "咕咕咕", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "cortexA233", 
+                    "userLink": "https://www.zhihu.com/people/b9bfbb6bf1fa2ef602edd1d62c33bbb7", 
+                    "content": "好好反思为什么连卖片的都不愿意鸟你.jpg", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "yah01", 
+                            "userLink": "https://www.zhihu.com/people/647bf8c4a55de7708312d1e1566bf3f3", 
+                            "content": "<p>因为我只是一个pupil.jpg</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "cortexA233"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "BPM136", 
+                    "userLink": "https://www.zhihu.com/people/cbc672b0ba7b56dafa820d52f490b660", 
+                    "content": "用贪心+单调栈+后缀max是不是可以O(n)啊……就从左到右依次入单调栈，如果入的是当前序列的最大值，那就统计下答案，然后清空单调栈继续入", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "yah01", 
+                            "userLink": "https://www.zhihu.com/people/647bf8c4a55de7708312d1e1566bf3f3", 
+                            "content": "当前序列最大值是指后缀最大值吗", 
+                            "likes": 0, 
+                            "replyToAuthor": "BPM136"
+                        }, 
+                        {
+                            "userName": "yah01", 
+                            "userLink": "https://www.zhihu.com/people/647bf8c4a55de7708312d1e1566bf3f3", 
+                            "content": "比如23415这个数据，可以说一下怎么统计到2345的吗，因为我理解的是1入栈的话234就先出栈了，2345就没有被统计到？", 
+                            "likes": 0, 
+                            "replyToAuthor": "BPM136"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "BPM136", 
+                    "userLink": "https://www.zhihu.com/people/cbc672b0ba7b56dafa820d52f490b660", 
+                    "content": "因为最大值一定可以分割这个序列", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Apple-Lyn", 
+                    "userLink": "https://www.zhihu.com/people/8d3848fcb72827c14256ef10540d6079", 
+                    "content": "被 @ 的学弟 我 在线嘤嘤", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "yah01", 
+                            "userLink": "https://www.zhihu.com/people/647bf8c4a55de7708312d1e1566bf3f3", 
+                            "content": "乖乖", 
+                            "likes": 0, 
+                            "replyToAuthor": "Apple-Lyn"
+                        }, 
+                        {
+                            "userName": "Apple-Lyn", 
+                            "userLink": "https://www.zhihu.com/people/8d3848fcb72827c14256ef10540d6079", 
+                            "content": "呱", 
+                            "likes": 0, 
+                            "replyToAuthor": "yah01"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "rqy", 
+                    "userLink": "https://www.zhihu.com/people/f74321602fe924daa8733ec27d3911b5", 
+                    "content": "直接二维线段树就可以nlog^2n了吧...为什么要这么麻烦qaq", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>把(i,Ai)看成平面上的点，题意可以转化为选择两个点作为矩形的左下角和右上角，使得矩形内的点最多。这和<a href=\"http://link.zhihu.com/?target=https%3A//loj.ac/contest/11/problem/3\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">loj.ac/contest/11/probl</span><span class=\"invisible\">em/3</span><span class=\"ellipsis\"></span></a>转化后的题意是类似的。这道题题解中给出的做法有两种，一种是本文的决策单调做法，还有一种是nlogn的做法。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1053645098285350912"
+}

@@ -1,0 +1,42 @@
+{
+    "title": "深度学习加速芯片设计与验证", 
+    "description": "这颗深度学习加速器芯片从立项到流片我都完整参与了。开设这个专栏主要是为自己在这个项目中学习到的知识做一个总结。我相信，参照这个流程，创业者和企业家可以迅速的建立自己的团队和设定目标，同时避免芯片设计的些许弊端，加快自己的迭代速度。", 
+    "followers": [
+        "https://www.zhihu.com/people/neko-28-33", 
+        "https://www.zhihu.com/people/lee-97-49-29", 
+        "https://www.zhihu.com/people/qian-nian-han-bing-79", 
+        "https://www.zhihu.com/people/tim-leeeee", 
+        "https://www.zhihu.com/people/boshen-29", 
+        "https://www.zhihu.com/people/wei-jing-yang-8", 
+        "https://www.zhihu.com/people/qichao-tang", 
+        "https://www.zhihu.com/people/liang-de-peng", 
+        "https://www.zhihu.com/people/ruo-yu-28-69", 
+        "https://www.zhihu.com/people/herui112112", 
+        "https://www.zhihu.com/people/starlord-25-78", 
+        "https://www.zhihu.com/people/lao-guo-2-44", 
+        "https://www.zhihu.com/people/liu-dun-qiang-11", 
+        "https://www.zhihu.com/people/fei-de-geng-gao-2"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39275480", 
+            "userName": "shensongjian", 
+            "userLink": "https://www.zhihu.com/people/6569e5958ec894ef1650b2c90b91056c", 
+            "upvote": 1, 
+            "title": "写在前面", 
+            "content": "<p>有幸参与到一颗国产自研发深度学习加速器芯片的设计中，开设这个专栏主要是为了记录这个项目的点点滴滴，从立项，确定规格书，C模型与RTL设计，前端UVM验证与仿真，后端布局布线，低功耗设计，芯片bring up，板级验证流程，SDK开发，demo设计与客户支持等等等等。整个过程伴随着无数的肯定与自我否定，996的工作常态，以及达到每个节点的言不由衷的欢乐。</p><p>作为对过去的回顾和对未来的展望，我希望能坚持把这个专栏写下去。加油。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>配图：<a href=\"https://link.zhihu.com/?target=http%3A//travel.163.com/photoview/17KK0006/2141838.html%23p%3DDCSJ2RE617KK0006NOS\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">武汉大学樱花城堡</a></p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "AI芯片", 
+                    "tagLink": "https://api.zhihu.com/topics/20100021"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/deeplearningchips"
+}

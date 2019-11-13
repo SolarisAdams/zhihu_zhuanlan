@@ -1,0 +1,207 @@
+{
+    "title": "自然语言处理(NLP)", 
+    "description": "本专栏主要简单介绍各个NLP任务（情感分析，信息抽取，推荐系统，QA机器人等）的概念、论文和应用场景等。同时本专栏也会介绍如何使用机器学习算法（SVM，决策树和聚类等算法）和深度学习算法（CNN、RNN）来处理NLP相关任务。另外我们也会介绍NLP工具(Stanford NLP，哈工大LTP，jieba、gensim和NLTK)、机器学习库(sklearn)和深度学习框架(tensorflow,pytoch,mxnet,keras等)。最后我们还会介绍Word Embedding技术。", 
+    "followers": [
+        "https://www.zhihu.com/people/l-seven-67", 
+        "https://www.zhihu.com/people/pian-guang-jing-77", 
+        "https://www.zhihu.com/people/fei-hong-76-96", 
+        "https://www.zhihu.com/people/wei-da-peng-99", 
+        "https://www.zhihu.com/people/xiao-mao-72-19", 
+        "https://www.zhihu.com/people/bee-zhou", 
+        "https://www.zhihu.com/people/miroslav-23", 
+        "https://www.zhihu.com/people/yu-ze-feng", 
+        "https://www.zhihu.com/people/flaster", 
+        "https://www.zhihu.com/people/xiaoxiongfeng-42", 
+        "https://www.zhihu.com/people/ping-tou-ge-62-19", 
+        "https://www.zhihu.com/people/lin-zhi-yu-85-97", 
+        "https://www.zhihu.com/people/ggff-ss", 
+        "https://www.zhihu.com/people/yiwu367296", 
+        "https://www.zhihu.com/people/zhang-jia-yi-6-82", 
+        "https://www.zhihu.com/people/liu-zhe-33-85", 
+        "https://www.zhihu.com/people/ma-bo-yang-88", 
+        "https://www.zhihu.com/people/shao-nu-xi-ren", 
+        "https://www.zhihu.com/people/miro-89-64", 
+        "https://www.zhihu.com/people/xing-yi-xue-99", 
+        "https://www.zhihu.com/people/li-yong-zheng-70", 
+        "https://www.zhihu.com/people/mo-ha-hou-1-68", 
+        "https://www.zhihu.com/people/karen-2-53-68", 
+        "https://www.zhihu.com/people/wang-xiao-78-41-62", 
+        "https://www.zhihu.com/people/zzx-47-7", 
+        "https://www.zhihu.com/people/hum-75", 
+        "https://www.zhihu.com/people/xiao-niao-you-liu-hua-3", 
+        "https://www.zhihu.com/people/xiao-mi-feng-12", 
+        "https://www.zhihu.com/people/programmer_song", 
+        "https://www.zhihu.com/people/tracy-40-38", 
+        "https://www.zhihu.com/people/huang-bang-zhu-63", 
+        "https://www.zhihu.com/people/atzhiwei", 
+        "https://www.zhihu.com/people/chen-bo-86-42", 
+        "https://www.zhihu.com/people/fan-tao-rong-66", 
+        "https://www.zhihu.com/people/da-yu-yao-xue-xi", 
+        "https://www.zhihu.com/people/shen-xiao-ming-77", 
+        "https://www.zhihu.com/people/zhiren1111", 
+        "https://www.zhihu.com/people/wurentidai", 
+        "https://www.zhihu.com/people/pixivana", 
+        "https://www.zhihu.com/people/xue-long-mao", 
+        "https://www.zhihu.com/people/xun-meng-91-8-94", 
+        "https://www.zhihu.com/people/15234035555", 
+        "https://www.zhihu.com/people/victoria-67-99", 
+        "https://www.zhihu.com/people/zhu-xiao-guang-54", 
+        "https://www.zhihu.com/people/n1n2", 
+        "https://www.zhihu.com/people/zhang-qing-lin", 
+        "https://www.zhihu.com/people/qlgu", 
+        "https://www.zhihu.com/people/1111112222", 
+        "https://www.zhihu.com/people/ceng-yu-wei-36-33", 
+        "https://www.zhihu.com/people/tunixer", 
+        "https://www.zhihu.com/people/allen-91-56", 
+        "https://www.zhihu.com/people/lang-man-jing-ye-si", 
+        "https://www.zhihu.com/people/Micro-Kun", 
+        "https://www.zhihu.com/people/song-qi-fa-27", 
+        "https://www.zhihu.com/people/fa-lan-xi-disco", 
+        "https://www.zhihu.com/people/wang-kai-97-80-46", 
+        "https://www.zhihu.com/people/ha-ha-ha-1-98-22", 
+        "https://www.zhihu.com/people/IsingZhang", 
+        "https://www.zhihu.com/people/ling-ling-ling-23-87", 
+        "https://www.zhihu.com/people/meng-qiu-37", 
+        "https://www.zhihu.com/people/fang-hui-98", 
+        "https://www.zhihu.com/people/leengsmile", 
+        "https://www.zhihu.com/people/xu-ke-20-62", 
+        "https://www.zhihu.com/people/verigle", 
+        "https://www.zhihu.com/people/liuyu-43-97", 
+        "https://www.zhihu.com/people/min-da-39", 
+        "https://www.zhihu.com/people/snakesgun", 
+        "https://www.zhihu.com/people/hijackjave", 
+        "https://www.zhihu.com/people/zhang-chen-62-22", 
+        "https://www.zhihu.com/people/zhao-zhao-69-41", 
+        "https://www.zhihu.com/people/mo-yu-jing-11", 
+        "https://www.zhihu.com/people/wang-shuai-6-34-86", 
+        "https://www.zhihu.com/people/gebixiaowang110", 
+        "https://www.zhihu.com/people/alex-chan-64", 
+        "https://www.zhihu.com/people/leon-xu-24", 
+        "https://www.zhihu.com/people/ning-pei-yang", 
+        "https://www.zhihu.com/people/wu-ze-lun-62", 
+        "https://www.zhihu.com/people/jacky-nix", 
+        "https://www.zhihu.com/people/dai-wei-66-30", 
+        "https://www.zhihu.com/people/liesben", 
+        "https://www.zhihu.com/people/wushuchao", 
+        "https://www.zhihu.com/people/qinkang-69", 
+        "https://www.zhihu.com/people/stanleyhu-59", 
+        "https://www.zhihu.com/people/zhang-ji-yuan-93-42", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/Septher", 
+        "https://www.zhihu.com/people/wu-zhe-ming", 
+        "https://www.zhihu.com/people/qinlibo_nlp", 
+        "https://www.zhihu.com/people/cxh-24-47", 
+        "https://www.zhihu.com/people/powertyuui", 
+        "https://www.zhihu.com/people/martin-63-63"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/59135853", 
+            "userName": "枷锁", 
+            "userLink": "https://www.zhihu.com/people/964e7dee466e66c8ab107edca4ad1f34", 
+            "upvote": 10, 
+            "title": "实体关系抽取入门", 
+            "content": "<p>引言：信息抽取(Information Extraction,IE)旨在从大规模非结构或半结构的自然语言文本中抽取结构化信息。信息抽取的主要任务有：命名实体识别、实体关系抽取、事件抽取、实体消歧。关系抽取(Relation Extracion,RE)是其中的重要子任务之一，主要目的是从文本中识别实体并抽取实体之间的语义关系。实体关系抽取解决了原始文本中目标实体之间的关系分类问题，它也是构建复杂知识库系统的重要步骤，比如文本摘要、自动问答、机器翻译、搜索引擎、知识图谱等。随着近年来对信息抽取的兴起，实体关系抽取研究问题进一步得到广泛的关注和深入研究。</p><p>概念：实体关系抽取解决了原始文本中目标实体之间的关系分类问题，它也被广泛应用于文本摘要、自动问答系统、知识图谱、搜索引擎和机器翻译中。中文实体关系抽取由于中文句式和语法结构复杂，汉语有更多歧义，会影响关系分类的效果。</p><p>实体关系抽取是指从一个句子中抽取出关系三元组（entity1,relation,entity2）,例如，‘’任正非在深圳创办了华为公司。‘’，其中任正非是实体1，华为是实体2，它们之间的关系是创办，那么抽取的三元组为（任正非，创办，华为）。</p><p>现在越来越多的研究把关系抽取做成分类任务处理，处理流程如下。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-cdcae6c0e0724414277387a478e71c7f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"788\" data-rawheight=\"487\" class=\"origin_image zh-lightbox-thumb\" width=\"788\" data-original=\"https://pic4.zhimg.com/v2-cdcae6c0e0724414277387a478e71c7f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;788&#39; height=&#39;487&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"788\" data-rawheight=\"487\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"788\" data-original=\"https://pic4.zhimg.com/v2-cdcae6c0e0724414277387a478e71c7f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-cdcae6c0e0724414277387a478e71c7f_b.jpg\"/></figure><p>方法：现有主流的关系抽取技术分为有监督的学习方法、半监督的学习方、弱监督的学习方法和无监督的学习方法四种：</p><p>(1)有监督的学习方法将关系抽取任务当做分类问题，根据训练数据设计有效的特征，从而学习各种分类模型，然后使用训练好的分类器预测关系。该方法需要手工标记的训练语料，标注数据费时费力。有监督的实体关系抽取主要分为基于特征和基于核函数的方法。郭喜跃等人[5]提出用支持向量机(SVM)作为分类器，研究句法和语义特征对实体语义关系抽取的影响。</p><p>(2)半监督的学习方法主要采用Bootstrapping进行实体关系抽取。是一个能利用较少的标注语料获取到置信度较高的多量的标注语料的反复迭代的过程。Brin[16]利用 Bootstrapping 方法进行实体关系抽取。</p><p>(3)弱监督是一个总括性的术语，它涵盖了试图通过较弱的监督来构建预测模型的各种研究。Craven 等人[17]在研究从生物学文本中抽取结构化数据过程中首先建立了弱监督机器学习思想。</p><p>(4)无监督的学习方法利用有相同语义关系的实体对进行关系抽取。Hasegawa 等人[18]在ACL会议上首次提出了无监督的实体关系抽取方法。</p><p>最近，神经网络方法在关系抽取任务中逐渐流行起来。Socherz等人[6]提出使用递归神经网络(RNN)来解决实体关系抽取问题。该方法对句子进行了句法解析，能够有效地考虑句子的句法结构信息，但同时该方法无法很好地考虑两个实体在句子中的位置和语义信息。Zeng等人[7]提出利用词向量和词的位置向量作为卷积神经网络(CNN)的输入，引入了实体和其他词的距离信息，可以很好的把句子中实体的信息考虑到关系抽取中。随后，Santors等人[8]提出了一种新的损失函数的卷积神经网络(CNN),采用了新的损失函数，能够有效提高不同实体关系类型的区分度。Zeng等人[9]在远程监督上采用分段最大池化的卷积神经网络(CNN)，通过分段最大池化层来自动学习相关特征。Lin等人[10]在远程监督上提出将卷积神经网络(CNN)和注意力机制(Attention Mechanism)结合起来使用，使用CNN作为句子编码器(Sentence Encoder),并使用句子级别的注意机制。Miwa等人[11]提出了一种端到端的双向树形结构的长短期记忆网络(Bi-TreeLSTM)的方法,通过该方法捕获词序列和依存关系树结构信息。孙等人[12]提出将双向长短期记忆网络(BiLSTM)和卷积神经网络(CNN)混合使用，并同时结合词性标记、实体类别、语法关系进行关系抽取。Katiyar 等人[13]在 2017 年首次将注意力机制 attention 与递归神经网络 Bi-LSTM 一起用于联合提取实体和分类关系。 Zhou等人[14]提出基于注意力(Attenion)的双向长短期记忆网络(BiLSTM)的方法，使用BiLSTM对句子建模，并使用词(word)级别的注意力机制。该方法仅使用基本的位置特征，并未使用NLP工具产生的任何额外特征，可以达到非常好的效果。谷歌团队[15]提出的模型Transformer中使用了自注意力(self Attention)和多头注意力(Multi-head Attention)，该方法只用了注意力机制来处理各类NLP任务。神经网络模型在有监督领域的拓展皆取得不错效果。</p><p>实体关系抽取研究大多都是基于英文语料，基于中文语料的研究相对较少，而且由于中文语言的独特性和复杂性，所以对中文的研究远比英文困难。</p><p>中文数据集：国外AEC05(这个数据集在官网下载不了，反正我没找到) ；国内COAE 2016 Task3(国内中文数据集很少，这个是16年新增加的任务)</p><p>英文数据集：SemEval2010 task 8(这个是全监督数据，用得人非常多)</p><p>评测标准：使用信息检索领域的评测标准，通常有准确率、召回率和F1值，其公式如下。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8c36dcbbd52aebe8973058524ab31b8f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"831\" data-rawheight=\"570\" class=\"origin_image zh-lightbox-thumb\" width=\"831\" data-original=\"https://pic4.zhimg.com/v2-8c36dcbbd52aebe8973058524ab31b8f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;831&#39; height=&#39;570&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"831\" data-rawheight=\"570\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"831\" data-original=\"https://pic4.zhimg.com/v2-8c36dcbbd52aebe8973058524ab31b8f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8c36dcbbd52aebe8973058524ab31b8f_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "自然语言处理", 
+                    "tagLink": "https://api.zhihu.com/topics/19560026"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "小星星", 
+                    "userLink": "https://www.zhihu.com/people/b6e494513d942227c1372483fc4d6910", 
+                    "content": "<p>能否把您参考的论文链接发一下，十分感谢。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/58637523", 
+            "userName": "枷锁", 
+            "userLink": "https://www.zhihu.com/people/964e7dee466e66c8ab107edca4ad1f34", 
+            "upvote": 0, 
+            "title": "Stanford NLP的用法", 
+            "content": "<p>在这里我记录下 stanford nlp 的用法，stanford nlp不仅支持英文，还支持中文。在其官网上有支持不同语言的模型文件</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-09bb60073bbfdcc440ba3912953d9d4d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"375\" data-rawheight=\"309\" class=\"content_image\" width=\"375\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;375&#39; height=&#39;309&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"375\" data-rawheight=\"309\" class=\"content_image lazy\" width=\"375\" data-actualsrc=\"https://pic2.zhimg.com/v2-09bb60073bbfdcc440ba3912953d9d4d_b.jpg\"/></figure><p>，我这里以英文的作为说明，其模型文件下载地址<a href=\"https://link.zhihu.com/?target=https%3A//stanfordnlp.github.io/CoreNLP/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Stanford CoreNLP - Natural language software</a></p><p>第一步：下载对应语言的模型文件</p><p>第二步：然后安装Python接口</p><div class=\"highlight\"><pre><code class=\"language-text\">!pip install stanfordcorenlp -i http://pypi.mirrors.ustc.edu.cn/simple/ --trusted-host pypi.mirrors.ustc.edu.cn</code></pre></div><p>第三步：最后使用以下代码获取对应的结果</p><div class=\"highlight\"><pre><code class=\"language-text\">from stanfordcorenlp import StanfordCoreNLP#导入安装好的Python接口\nnlp = StanfordCoreNLP(&#39;drive/论文/stanford-corenlp-full-2018-10-05&#39;)#模型文件路径\n#这里改成你stanford-corenlp所在的目录\nsentence = &#39;The table below has jars for the current release with all the models for each language we support. ’\n#输出对应的处理结果\nprint (&#39;Tokenize:&#39;, nlp.word_tokenize(sentence))\nprint (&#39;Part of Speech:&#39;, nlp.pos_tag(sentence))\nprint (&#39;Named Entities:&#39;, nlp.ner(sentence))\nprint(&#39;Constituency Parsing:&#39;, nlp.parse(sentence))\nprint (&#39;Dependency Parsing:&#39;, nlp.dependency_parse(sentence))</code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "自然语言处理", 
+                    "tagLink": "https://api.zhihu.com/topics/19560026"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/52241409", 
+            "userName": "枷锁", 
+            "userLink": "https://www.zhihu.com/people/964e7dee466e66c8ab107edca4ad1f34", 
+            "upvote": 2, 
+            "title": "正则表达式基础", 
+            "content": "<p>在自然语言处理中，文本数据通常含有很多无关和无意义字符，比如链接、@符号等，通常叫做噪声，这些噪声会影响我们的nlp任务，所以我们一般会用正则表达式去匹陪字符并删除。</p><p>在使用正则表达式的时候需要导入re模块，本次使用re.search匹配字符串。</p><p>正则表达式匹配字符串：</p><p>在python中，我们使用re.search(regex,string)方法匹配字符串，通过这个方法，我们可以查看string中是否匹配正则表达式regex,如果能够匹配，则返回匹配到的对象，如果不能匹配到则返回None。</p><p>1.简单匹配</p><div class=\"highlight\"><pre><code class=\"language-text\">import re\nstring = &#39;哈工大的语言技术平台 （LTP）提供了中文分词、依存句法分析、语义角色标注等丰富、精准的自然语言处理技术。NLTK 是一款著名的 Python 自然语言处理工具包。在其收集的大量公开数据集、模型上提供了全面、易用的接口，命名实体识别(Named Entity Recognition, NER)、句法分析(Syntactic Parse)等各项 NLP 领域的功能。&#39;\nregex = &#39;LTP&#39;#匹配字符\np = string.split(&#39;。&#39;)\nfor line in p:\n    if re.search(regex,line) is not None:\n       print(line)</code></pre></div><p>2.&#34;.&#34;代表匹配任意一个字符</p><div class=\"highlight\"><pre><code class=\"language-text\">import re\nstring = &#39;哈工大的语言技术平台 （LTP）提供了中文分词、依存句法分析、语义角色标注等丰富、精准的自然语言处理技术。NLTK 是一款著名的 Python 自然语言处理工具包。在其收集的大量公开数据集、模型上提供了全面、易用的接口，命名实体识别(Named Entity Recognition, NER)、句法分析(Syntactic Parse)等各项 NLP 领域的功能。&#39;\nregex = &#39;NLTK.&#39;#匹配NLTK+后面任意1个个字符\np = string.split(&#39;。&#39;)\nfor line in p:\n    if re.search(regex,line) is not None:\n        print(line)</code></pre></div><p>3.“^”以某个字符串开始</p><div class=\"highlight\"><pre><code class=\"language-text\">import re\nstring = &#39;哈工大的语言技术平台 （LTP）提供了中文分词、依存句法分析、语义角色标注等丰富、精准的自然语言处理技术。NLTK 是一款著名的 Python 自然语言处理工具包。在其收集的大量公开数据集、模型上提供了全面、易用的接口，命名实体识别(Named Entity Recognition, NER)、句法分析(Syntactic Parse)等各项 NLP 领域的功能。&#39;\nregex = &#39;^哈工大&#39;#以哈工大开始的,^以某个字符串开始的\np = string.split(&#39;。&#39;)\nfor line in p:\n    if re.search(regex,line) is not None:\n        print(line)</code></pre></div><p>4.“$”以某个字符串结束的</p><div class=\"highlight\"><pre><code class=\"language-text\">import re\nstring = &#39;哈工大的语言技术平台 （LTP）提供了中文分词、依存句法分析、语义角色标注等丰富、精准的自然语言处理技术。NLTK 是一款著名的 Python 自然语言处理工具包。在其收集的大量公开数据集、模型上提供了全面、易用的接口，命名实体识别(Named Entity Recognition, NER)、句法分析(Syntactic Parse)等各项 NLP 领域的功能。&#39;\nregex = &#39;功能$&#39;#以功能结束的,$以某个字符串结束的\np = string.split(&#39;。&#39;)\nfor line in p:\n    if re.search(regex,line) is not None:\n        print(line)</code></pre></div><p>5“[]”中括号匹配多个字符，比如&#34;[我你]们&#34;代表的匹配的字符串是“我们”和“你们”</p><div class=\"highlight\"><pre><code class=\"language-text\">import re\nstring = &#39;哈工大的语言技术平台 （LTP）提供了中文分词、词法分析、语义角色标注等丰富、精准的自然语言处理技术。NLTK 是一款著名的 Python 自然语言处理工具包。在其收集的大量公开数据集、模型上提供了全面、易用的接口，命名实体识别(Named Entity Recognition, NER)、句法分析(Syntactic Parse)等各项 NLP 领域的功能。我爱自然语言处理。&#39;\nregex = &#39;[句词]法&#39;#中括号匹配多个字符\np = string.split(&#39;。&#39;)\nfor line in p:\n    if re.search(regex,line) is not None:\n        print(line)</code></pre></div><p>6.通过正则表达式匹配年份</p><p>&#34;[0-9]&#34;代表的是从0到9的所有数字，&#34;[a－z]&#34;代表的是从a到z的所有小写字母。首先我们定义一个list分配给一个变量strings，匹配的年份是在1000年～2999年之间。</p><div class=\"highlight\"><pre><code class=\"language-text\">import re\nstring = [&#39;War of 1812 &#39;,&#39;there are 5280 feet to mile&#39;,&#39;happy new year 2016!&#39;]\nregex = &#39;[1-2][0-9]{3}&#39;#\n\nfor line in string:\n    if re.search(regex,line) is not None:\n        print(line)\n输出：\nWar of 1812  \nhappy new year 2016!</code></pre></div><p>匹配字符串中的数字部分，并且是在1000～2999之间，｛3｝代表的是重复之前的[0-9]三次，是[0-9][0-9][0-9]的简写</p><p>7.抽取所有年份</p><p>我们使用python中的re模块的另一个方法fiandall来返回匹配带正则表达式的那部分字符串。</p><div class=\"highlight\"><pre><code class=\"language-text\">import re\nstring = &#39;2016 is a good year,but 2017 will be better!&#39;\nyears = re.findall(&#39;[2][0-9]{3}&#39;,string)\nprint(years)\n输出：[&#39;2016&#39;, &#39;2017&#39;]</code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "正则表达式", 
+                    "tagLink": "https://api.zhihu.com/topics/19577832"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/52106384", 
+            "userName": "枷锁", 
+            "userLink": "https://www.zhihu.com/people/964e7dee466e66c8ab107edca4ad1f34", 
+            "upvote": 15, 
+            "title": "哈工大语言技术平台LTP的用法", 
+            "content": "<p>简介：哈工大的语言技术平台 （LTP）提供了中文分词、词性标注、命名实体识别、依存句法分析、语义角色标注等丰富、 高效、精准的自然语言处理技术。</p><p>用法：官方提供了Java、C++、python、C#、Ruby接口，这篇使用方法是关于python接口pyltp的。首先需要下载模型文件,然后就是安装pyltp</p><div class=\"highlight\"><pre><code class=\"language-text\">安装：pip install pyltp</code></pre></div><p>1.分词</p><div class=\"highlight\"><pre><code class=\"language-text\">import pyltp\nfrom pyltp import Segmentor#导入Segmentor库\n\nmath_path = &#34;D:\\ltp3.4.0\\cws.model&#34;#LTP分词模型库\nsegmentor = Segmentor()#实例化分词模块\nsegmentor.load(math_path)#加载分词库\n\nwords = segmentor.segment(&#34;中国是一个自由、和平的国家&#34;)\nprint(&#39; &#39;.join(words).split())#分割分词后的结果\n分词结果：[&#39;中国&#39;, &#39;是&#39;, &#39;一个&#39;, &#39;自由&#39;, &#39;、&#39;, &#39;和平&#39;, &#39;的&#39;, &#39;国家&#39;]</code></pre></div><p>2.词性标记</p><div class=\"highlight\"><pre><code class=\"language-text\">import pyltp \nfrom pyltp import Postagger#导入Postagger库\nmath_path = &#34;D:\\ltp3.4.0\\pos.model&#34;#LTP词性标注模型库\npostagger = Postagger() #实例化词性模块\npostagger.load(math_path)#加载词性库\npostags = postagger.postag(words)#这里的words是分词后的结果\nprint(&#39; &#39;.join(postags).split())#分割标注后的结果\n标注结果：[&#39;ns&#39;, &#39;v&#39;, &#39;m&#39;, &#39;a&#39;, &#39;wp&#39;, &#39;a&#39;, &#39;u&#39;, &#39;n&#39;]</code></pre></div><p>3.命名实体识别</p><div class=\"highlight\"><pre><code class=\"language-text\">import pyltp \nfrom pyltp import  NamedEntityRecognizer#导入库NamedEntityRecognizer\nmath_path = &#34;D:\\ltp3.4.0\\ner.model&#34;#LTP命名实体识别模型库\nrecognizer = NamedEntityRecognizer() # 初始化实例 \nrecognizer.load(math_path)#加载实体识别库\nwords = [&#39;中国&#39;, &#39;是&#39;, &#39;一个&#39;, &#39;自由&#39;, &#39;、&#39;, &#39;和平&#39;, &#39;的&#39;, &#39;国家&#39;]\npostags = [&#39;ns&#39;, &#39;v&#39;, &#39;m&#39;, &#39;a&#39;, &#39;wp&#39;, &#39;a&#39;, &#39;u&#39;, &#39;n&#39;]\nnetags = recognizer.recognize(words, postags)  # 命名实体识别，这里的words是分词的结果，postags是词性标注的结果\nprint(&#39; &#39;.join(netags).split())#分割识别后的结果\n结果：\nS-Ns\tO\tO\tO\tO\tO\tO\tO</code></pre></div><p>4.依存句法分析</p><div class=\"highlight\"><pre><code class=\"language-text\">import pyltp \nfrom pyltp import  Parser#导入库Parser\nmath_path = &#34;D:\\ltp3.4.0\\parser.model&#34;#LTP依存分析模型库\nparser = Parser()  # 初始化实例 \nparser.load(math_path)#加载依存分析库\nwords = [&#39;中国&#39;, &#39;是&#39;, &#39;一个&#39;, &#39;自由&#39;, &#39;、&#39;, &#39;和平&#39;, &#39;的&#39;, &#39;国家&#39;]\npostags = [&#39;ns&#39;, &#39;v&#39;, &#39;m&#39;, &#39;a&#39;, &#39;wp&#39;, &#39;a&#39;, &#39;u&#39;, &#39;n&#39;]\narcs = parser.parse(words, postags)  # 句法分析，这里的words是分词的结果，postags是词性标注的结果\n\nprint (&#34;\\t&#34;.join(&#34;%d:%s&#34; % (arc.head, arc.relation) for arc in arcs) ) # 依存分析，\n结果： \n2:SBV\t0:HED\t8:ATT\t8:ATT\t6:WP\t4:COO\t4:RAD\t2:VOB</code></pre></div><p>注：<code>arc.head</code> 表示依存弧的父节点词的索引。ROOT节点的索引是0，第一个词开始的索引依次为1、2、3…</p><p><code>arc.relation</code> 表示依存弧的关系。</p><p><code>arc.head</code> 表示依存弧的父节点词的索引，<code>arc.relation</code> 表示依存弧的关系。</p><p>5.语义角色标注</p><div class=\"highlight\"><pre><code class=\"language-text\">import pyltp \nfrom pyltp import  SementicRoleLabeller#导入库SementicRoleLabeller\nmath_path = &#34;D:\\ltp3.4.0\\pisrl.model&#34;#LTP语义角色标注模型库\nlabeller = SementicRoleLabeller() # 初始化实例\nlabeller.load(math_path)#加载语义标注库\nwords = [&#39;中国&#39;, &#39;是&#39;, &#39;一个&#39;, &#39;自由&#39;, &#39;、&#39;, &#39;和平&#39;, &#39;的&#39;, &#39;国家&#39;]\npostags = [&#39;ns&#39;, &#39;v&#39;, &#39;m&#39;, &#39;a&#39;, &#39;wp&#39;, &#39;a&#39;, &#39;u&#39;, &#39;n&#39;]\nroles = labeller.label(words, postags, arcs)  # 语义角色标注,这里的words是分词结果，postags是词性标注结果，arcs是依存句法分析结果\n\n# 打印结果\nfor role in roles:\n    print (role.index, &#34;&#34;.join(\n        [&#34;%s:(%d,%d)&#34; % (arg.name, arg.range.start, arg.range.end) for arg in role.arguments]))</code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "自然语言处理", 
+                    "tagLink": "https://api.zhihu.com/topics/19560026"
+                }, 
+                {
+                    "tag": "中文分词", 
+                    "tagLink": "https://api.zhihu.com/topics/19591482"
+                }, 
+                {
+                    "tag": "命名实体识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19648557"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Martin", 
+                    "userLink": "https://www.zhihu.com/people/4311f4d8bdc55b2d3fc17f4e78dcbd58", 
+                    "content": "<p>很赞的，老铁</p><a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-cfc14c7293afd962ecbd1dc31dafd002.gif\" data-width=\"\" data-height=\"\">[赞同]</a>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "枷锁", 
+                            "userLink": "https://www.zhihu.com/people/964e7dee466e66c8ab107edca4ad1f34", 
+                            "content": "欢迎大家前来学习", 
+                            "likes": 0, 
+                            "replyToAuthor": "Martin"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "n1n2", 
+                    "userLink": "https://www.zhihu.com/people/4dc1d79d81d7912013ccb0d961d78d6a", 
+                    "content": "老铁6666", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "枷锁", 
+                            "userLink": "https://www.zhihu.com/people/964e7dee466e66c8ab107edca4ad1f34", 
+                            "content": "哈哈，希望大家多多点赞", 
+                            "likes": 0, 
+                            "replyToAuthor": "n1n2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1055867713498456064"
+}

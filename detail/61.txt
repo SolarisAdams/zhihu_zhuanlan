@@ -1,0 +1,963 @@
+{
+    "title": "JavaScript技术站", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/yuan-kun-82-85", 
+        "https://www.zhihu.com/people/chenhoward0401", 
+        "https://www.zhihu.com/people/codes-55", 
+        "https://www.zhihu.com/people/jiandani", 
+        "https://www.zhihu.com/people/libin-sui", 
+        "https://www.zhihu.com/people/run-28-23-99", 
+        "https://www.zhihu.com/people/fan-ya-jie-28", 
+        "https://www.zhihu.com/people/qing-tian-14-44-7", 
+        "https://www.zhihu.com/people/binli0114", 
+        "https://www.zhihu.com/people/julytian", 
+        "https://www.zhihu.com/people/aaronlaw", 
+        "https://www.zhihu.com/people/zhu-zhu-xia-55-39", 
+        "https://www.zhihu.com/people/lanlan-mao-8", 
+        "https://www.zhihu.com/people/wu-xin-ren-91", 
+        "https://www.zhihu.com/people/qu-xian-sheng-6-8", 
+        "https://www.zhihu.com/people/guo-fan-70", 
+        "https://www.zhihu.com/people/csp1223", 
+        "https://www.zhihu.com/people/xu-jie-67-22", 
+        "https://www.zhihu.com/people/shi-dong-zhao", 
+        "https://www.zhihu.com/people/jie-ran-bu-tong-26-76", 
+        "https://www.zhihu.com/people/mokiliy", 
+        "https://www.zhihu.com/people/xi-dong-yang", 
+        "https://www.zhihu.com/people/li-jian-dong-58-84", 
+        "https://www.zhihu.com/people/deng-feng-ye-deng-nai-97", 
+        "https://www.zhihu.com/people/fanyangrocks", 
+        "https://www.zhihu.com/people/lucas-lee-30", 
+        "https://www.zhihu.com/people/jwwang-31", 
+        "https://www.zhihu.com/people/tengpao", 
+        "https://www.zhihu.com/people/gao-xiang-26-92", 
+        "https://www.zhihu.com/people/hiwowo", 
+        "https://www.zhihu.com/people/havanese.com", 
+        "https://www.zhihu.com/people/xz-one", 
+        "https://www.zhihu.com/people/masx200", 
+        "https://www.zhihu.com/people/dumpling-8-59", 
+        "https://www.zhihu.com/people/ticktock-47", 
+        "https://www.zhihu.com/people/gcidea", 
+        "https://www.zhihu.com/people/ahualien", 
+        "https://www.zhihu.com/people/gaozhongguoliu", 
+        "https://www.zhihu.com/people/di-qia-nong-2", 
+        "https://www.zhihu.com/people/tangjie0710", 
+        "https://www.zhihu.com/people/__code__", 
+        "https://www.zhihu.com/people/15763730370", 
+        "https://www.zhihu.com/people/guo-guo-41-37", 
+        "https://www.zhihu.com/people/kennykung", 
+        "https://www.zhihu.com/people/coming-king", 
+        "https://www.zhihu.com/people/zsshang-xuan-yue", 
+        "https://www.zhihu.com/people/li-jin-wen-5-35", 
+        "https://www.zhihu.com/people/zhi-he-chun-nai", 
+        "https://www.zhihu.com/people/AlphaZen", 
+        "https://www.zhihu.com/people/pelli-77", 
+        "https://www.zhihu.com/people/guo-er-7-67", 
+        "https://www.zhihu.com/people/apollon-wong", 
+        "https://www.zhihu.com/people/progray", 
+        "https://www.zhihu.com/people/zhao-rui-76-78", 
+        "https://www.zhihu.com/people/Tu-FF", 
+        "https://www.zhihu.com/people/mu-rong-hu-23", 
+        "https://www.zhihu.com/people/hongyu-liu", 
+        "https://www.zhihu.com/people/123456-36-71", 
+        "https://www.zhihu.com/people/jay1992-44", 
+        "https://www.zhihu.com/people/zougang12345678", 
+        "https://www.zhihu.com/people/yizhierdedalianmao", 
+        "https://www.zhihu.com/people/zi-yi-wei-zhen-li-zai-shou", 
+        "https://www.zhihu.com/people/persis-sfzsf", 
+        "https://www.zhihu.com/people/wu-yan-32-84", 
+        "https://www.zhihu.com/people/hiji-92", 
+        "https://www.zhihu.com/people/genvia", 
+        "https://www.zhihu.com/people/liu-fang-88-94", 
+        "https://www.zhihu.com/people/deng-dai-ge-duo-38", 
+        "https://www.zhihu.com/people/jjggkk", 
+        "https://www.zhihu.com/people/luoxuhui1992", 
+        "https://www.zhihu.com/people/boajay", 
+        "https://www.zhihu.com/people/shuaijunxiao", 
+        "https://www.zhihu.com/people/guan-jian-xian-sheng-28-83", 
+        "https://www.zhihu.com/people/fullsail", 
+        "https://www.zhihu.com/people/white-62", 
+        "https://www.zhihu.com/people/li-xiao-zhi-90", 
+        "https://www.zhihu.com/people/asher-tan", 
+        "https://www.zhihu.com/people/bai-bo-wen-98", 
+        "https://www.zhihu.com/people/Voyager_VI", 
+        "https://www.zhihu.com/people/fa2002", 
+        "https://www.zhihu.com/people/qiu-cheng-lei-29", 
+        "https://www.zhihu.com/people/liu-jun-you-25", 
+        "https://www.zhihu.com/people/gen-ni-shiai", 
+        "https://www.zhihu.com/people/chen-yi-liang-64-71", 
+        "https://www.zhihu.com/people/cheng-guo-97-6", 
+        "https://www.zhihu.com/people/lin-bin-85-26", 
+        "https://www.zhihu.com/people/a-cai-91", 
+        "https://www.zhihu.com/people/gao-shun-de", 
+        "https://www.zhihu.com/people/yuan-lei-liao", 
+        "https://www.zhihu.com/people/w-jaddy", 
+        "https://www.zhihu.com/people/ke-yi-59-66", 
+        "https://www.zhihu.com/people/zhang-bei-1-19", 
+        "https://www.zhihu.com/people/zhang-zi-cheng-81", 
+        "https://www.zhihu.com/people/lydzhihu", 
+        "https://www.zhihu.com/people/ke-ke-42-27-42", 
+        "https://www.zhihu.com/people/skylong-74", 
+        "https://www.zhihu.com/people/rougeho", 
+        "https://www.zhihu.com/people/li-zhao-yang-98-91", 
+        "https://www.zhihu.com/people/seemgame", 
+        "https://www.zhihu.com/people/rpzs", 
+        "https://www.zhihu.com/people/yan-tian-yu", 
+        "https://www.zhihu.com/people/Zou.yu", 
+        "https://www.zhihu.com/people/wang-yi-xuan-70-9", 
+        "https://www.zhihu.com/people/wzpd", 
+        "https://www.zhihu.com/people/likelxl", 
+        "https://www.zhihu.com/people/liu-yu-hui-37", 
+        "https://www.zhihu.com/people/hong-dou-41-14", 
+        "https://www.zhihu.com/people/nick-18-98", 
+        "https://www.zhihu.com/people/li-xiao-ming-7-85", 
+        "https://www.zhihu.com/people/yu-sui-wu-tong", 
+        "https://www.zhihu.com/people/li-li-jing-55", 
+        "https://www.zhihu.com/people/linuxcpp", 
+        "https://www.zhihu.com/people/ceng-ling-yu", 
+        "https://www.zhihu.com/people/zao-lao-tou-zi-69-25", 
+        "https://www.zhihu.com/people/he-ren-63", 
+        "https://www.zhihu.com/people/ye-yun-shang-16", 
+        "https://www.zhihu.com/people/huang-qiong-50-1", 
+        "https://www.zhihu.com/people/dong-dong-qiang-dong-dong-31", 
+        "https://www.zhihu.com/people/reseted1508894098816", 
+        "https://www.zhihu.com/people/cheng-nan-hua-yi-kai-19-49", 
+        "https://www.zhihu.com/people/shuidf", 
+        "https://www.zhihu.com/people/zhou-wen-bo-65", 
+        "https://www.zhihu.com/people/jorden-chang", 
+        "https://www.zhihu.com/people/wx967aa16811f13d8d", 
+        "https://www.zhihu.com/people/liu-meng-yin-68", 
+        "https://www.zhihu.com/people/zhang-ji-12-23", 
+        "https://www.zhihu.com/people/yu-zong-zheng-86", 
+        "https://www.zhihu.com/people/jz-wang-49", 
+        "https://www.zhihu.com/people/deng-dai-deng-dai-33", 
+        "https://www.zhihu.com/people/gao-zhen-82-7", 
+        "https://www.zhihu.com/people/chieh-94-55", 
+        "https://www.zhihu.com/people/yuekcc", 
+        "https://www.zhihu.com/people/dumin-57", 
+        "https://www.zhihu.com/people/hrby", 
+        "https://www.zhihu.com/people/shu-mei-4-68", 
+        "https://www.zhihu.com/people/deng-deng-wo-15-73", 
+        "https://www.zhihu.com/people/wei-zhuang-11-3", 
+        "https://www.zhihu.com/people/handsome1987", 
+        "https://www.zhihu.com/people/Eric_WXY", 
+        "https://www.zhihu.com/people/tuo-ma-si-xiao-huo-che-33-92", 
+        "https://www.zhihu.com/people/zhang-qing-52-81-43", 
+        "https://www.zhihu.com/people/diamond007", 
+        "https://www.zhihu.com/people/webb-68-20", 
+        "https://www.zhihu.com/people/bundy-82", 
+        "https://www.zhihu.com/people/peng-yiming-54-23", 
+        "https://www.zhihu.com/people/jmry", 
+        "https://www.zhihu.com/people/ZERO_0", 
+        "https://www.zhihu.com/people/summon-39-37", 
+        "https://www.zhihu.com/people/lu-dou-gao-gao-gao-gao-gao-gao", 
+        "https://www.zhihu.com/people/programmer_song", 
+        "https://www.zhihu.com/people/sheldon-18-75", 
+        "https://www.zhihu.com/people/leyliu", 
+        "https://www.zhihu.com/people/StevenX911", 
+        "https://www.zhihu.com/people/chen-lu-24-21-10", 
+        "https://www.zhihu.com/people/han-bing-feng-73", 
+        "https://www.zhihu.com/people/xin-ji-chi-bu-liao-re-dou-fu-31", 
+        "https://www.zhihu.com/people/ybtk", 
+        "https://www.zhihu.com/people/xu-qing-jia-yi", 
+        "https://www.zhihu.com/people/li-wen-tao-32-34", 
+        "https://www.zhihu.com/people/cao-sai-jun-62", 
+        "https://www.zhihu.com/people/xiao-mo-46-9", 
+        "https://www.zhihu.com/people/xu-hong-xin", 
+        "https://www.zhihu.com/people/jimmy.li", 
+        "https://www.zhihu.com/people/li-da-85-58", 
+        "https://www.zhihu.com/people/kingpin-70", 
+        "https://www.zhihu.com/people/zhou-yu-lai-18", 
+        "https://www.zhihu.com/people/lampour", 
+        "https://www.zhihu.com/people/Clownlooming", 
+        "https://www.zhihu.com/people/mao-mao-31-19", 
+        "https://www.zhihu.com/people/cloudshadow", 
+        "https://www.zhihu.com/people/a-learner", 
+        "https://www.zhihu.com/people/cai-guo-qing-96", 
+        "https://www.zhihu.com/people/wang-xiang-zhong-5", 
+        "https://www.zhihu.com/people/lemorlee", 
+        "https://www.zhihu.com/people/alanzeng-69", 
+        "https://www.zhihu.com/people/hei-bai-88-77-90", 
+        "https://www.zhihu.com/people/xu-hao-er-shi-san", 
+        "https://www.zhihu.com/people/CedricChan", 
+        "https://www.zhihu.com/people/bai-shan-shan-96", 
+        "https://www.zhihu.com/people/Linlai"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/75876494", 
+            "userName": "林城", 
+            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+            "upvote": 12, 
+            "title": "Vue+Koa2 打包后如何进行线上部署", 
+            "content": "<p>最近使用Vue和Koa2重构了自己的博客，过程中踩了不少坑，查了很多资料，最后总算成功上线。之后我计划围绕这个过程写一系列文章，讲讲如何用Vue+Koa2写一套网站。</p><p>而现在，先来讲讲最后一步，在写完Vue和Koa2后，如何将它们部署到线上。</p><h2> 1.将Vue和Koa2结合</h2><p>很多人在打完包后就不知道怎么做了，毕竟后面都是后端的事情。如果你用的是Vue-cli3.0，那么打包这一步会非常简单，只需要执行一条命令即可，其它的不用关心：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"nx\">npm</span> <span class=\"nx\">run</span> <span class=\"nx\">build</span>\n</code></pre></div><p>之后会生成一个dist的文件夹，将它放到Koa2目录下的public文件里，然后在Koa2的配置文件app.js里将静态资源指向这个文件夹，指向命令在我们创建Koa2框架时就已经自动生成，所以我们要做的也只是改一下文件地址就行了：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"nx\">app</span><span class=\"p\">.</span><span class=\"nx\">use</span><span class=\"p\">(</span><span class=\"nx\">require</span><span class=\"p\">(</span><span class=\"s1\">&#39;koa-static&#39;</span><span class=\"p\">)(</span><span class=\"nx\">__dirname</span> <span class=\"o\">+</span> <span class=\"s1\">&#39;/public/dist&#39;</span><span class=\"p\">))</span>\n</code></pre></div><p>改好之后打开koa2的主页，看看是否加载成功，第一步就愉快地完成了。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>2.Nginx配置</h2><p>现在登录服务器，安装完Nginx后，在`/etc/nginx/sites-enabled/`下新建一个conf文件，然后写入配置：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//Koa的端口一般默认是3000\n</span><span class=\"c1\"></span><span class=\"nx\">upstream</span> <span class=\"nx\">koa</span><span class=\"p\">.</span><span class=\"nx\">server</span><span class=\"p\">{</span>\n    <span class=\"nx\">server</span> <span class=\"mf\">127.0.0.1</span><span class=\"o\">:</span><span class=\"mi\">3000</span><span class=\"p\">;</span>\n<span class=\"p\">}</span>\n\n<span class=\"nx\">server</span> <span class=\"p\">{</span>\n    <span class=\"nx\">listen</span>      <span class=\"mi\">80</span><span class=\"p\">;</span>\n    <span class=\"nx\">server_name</span> <span class=\"p\">.</span><span class=\"o\">******</span><span class=\"p\">.</span><span class=\"nx\">com</span><span class=\"p\">;</span>\n\n    <span class=\"nx\">location</span> <span class=\"o\">/</span> <span class=\"p\">{</span>\n        <span class=\"nx\">proxy_pass</span> <span class=\"nx\">http</span><span class=\"o\">:</span><span class=\"c1\">//koa.server;\n</span><span class=\"c1\"></span>        <span class=\"nx\">proxy_redirect</span> <span class=\"nx\">off</span><span class=\"p\">;</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>写完之后重启Nginx：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"nx\">sudo</span> <span class=\"o\">/</span><span class=\"nx\">etc</span><span class=\"o\">/</span><span class=\"nx\">init</span><span class=\"p\">.</span><span class=\"nx\">d</span><span class=\"o\">/</span><span class=\"nx\">nginx</span> <span class=\"nx\">restart</span>\n</code></pre></div><p>接着将Koa2文件上传到服务器，启动后在浏览器里输入你的网址或者服务器ip，能访问到就大功告成了。</p><p>当然，这套Nginx配置还是非常简陋，如果希望长期稳定运行的话还得加入SSL和Gzip，网上资料很多，如果以后有机会的话我也会讲一下。</p><h2>3.使用Pm2进行进程管理</h2><p>能成功访问后接着就是将Koa放到后台运行，这里使用了Pm2进行管理，先来安装：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"nx\">npm</span> <span class=\"nx\">install</span> <span class=\"o\">-</span><span class=\"nx\">g</span> <span class=\"nx\">pm2</span>\n</code></pre></div><p>安装好后在Koa目录下创建一个文件 “pm2.conf.json”，然后输入以下代码：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"p\">{</span>\n    <span class=\"s2\">&#34;apps&#34;</span><span class=\"o\">:</span><span class=\"p\">{</span>\n        <span class=\"s2\">&#34;name&#34;</span><span class=\"o\">:</span><span class=\"s2\">&#34;blog&#34;</span><span class=\"p\">,</span>\n        <span class=\"s2\">&#34;script&#34;</span><span class=\"o\">:</span> <span class=\"s2\">&#34;bin/www&#34;</span><span class=\"p\">,</span>\n        <span class=\"s2\">&#34;watch&#34;</span><span class=\"o\">:</span> <span class=\"kc\">true</span><span class=\"p\">,</span>\n        <span class=\"s2\">&#34;ignore_watch&#34;</span><span class=\"o\">:</span><span class=\"p\">[</span>\n            <span class=\"s2\">&#34;node_modules&#34;</span><span class=\"p\">,</span>\n            <span class=\"s2\">&#34;logs&#34;</span>\n        <span class=\"p\">],</span>\n        <span class=\"s2\">&#34;instances&#34;</span><span class=\"o\">:</span><span class=\"mi\">2</span><span class=\"p\">,</span>\n        <span class=\"s2\">&#34;error_file&#34;</span><span class=\"o\">:</span><span class=\"s2\">&#34;logs/err.log&#34;</span><span class=\"p\">,</span>\n        <span class=\"s2\">&#34;out_file&#34;</span><span class=\"o\">:</span><span class=\"s2\">&#34;logs/out.log&#34;</span><span class=\"p\">,</span>\n        <span class=\"s2\">&#34;log_date_format&#34;</span><span class=\"o\">:</span> <span class=\"s2\">&#34;YYYY-MM-DD HH:mm:ss&#34;</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>来重点说下两个参数，watch和instances。</p><p>Watch是检测到文件有改动会自动重启加载，ignore_watch则是排除不需要监控的文件。</p><p>Instances则是开启实例数，建议根据cpu核数进行配置，有多少核就开启多少条。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>最后启动：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"nx\">pm2</span> <span class=\"nx\">start</span> <span class=\"nx\">pm2</span><span class=\"p\">.</span><span class=\"nx\">conf</span><span class=\"p\">.</span><span class=\"nx\">json</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>到这里，网站就部署完成了！</p>", 
+            "topic": [
+                {
+                    "tag": "Vue.js", 
+                    "tagLink": "https://api.zhihu.com/topics/20022242"
+                }, 
+                {
+                    "tag": "koa", 
+                    "tagLink": "https://api.zhihu.com/topics/20009619"
+                }, 
+                {
+                    "tag": "前端开发", 
+                    "tagLink": "https://api.zhihu.com/topics/19550901"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "朱乐义", 
+                    "userLink": "https://www.zhihu.com/people/810a9b3d131879709c662f3ce37b8c6b", 
+                    "content": "没看懂为什么要用koa，如果只是为了部署vue的话直接ng就行了，是用了koa提供后台接口么。如果是提供接口，那一样分离部署就行了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>koa要提供接口，密码验证、数据库、图床密钥这些敏感操作都通过koa完成，放vue里都暴露完了，而且放一起简单，只要加个前端目录就行了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "朱乐义"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "yu chen", 
+                    "userLink": "https://www.zhihu.com/people/f4b1f9eb405f39cfbcc60867dd2a2f01", 
+                    "content": "%DDD", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/72026245", 
+            "userName": "林城", 
+            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+            "upvote": 27, 
+            "title": "我为什么要用TypeScript？花五分钟上手教程", 
+            "content": "<p>最近TypeScript大火，Node.js里不少有名的开源项目都开始支持，隐约有一统江湖的气势，如果说哪天Node.js能直接运行TypeScript我也不会太过惊讶。</p><p>所以，我前段时间开始尝试使用这种“新写法”，不久后便决定，今后无论大小项目都会用TypeScript来写。接下来我会说说我的理由，和TypeScript今后的前景，最后附上五分钟上手教程。</p><h2>1.TypeScript的好处</h2><p>TypeScript解决了JavaScript的一大痛点，那就是动态类型。</p><p>JavaScript的动态类型简单、灵活，写起来很爽，但是不适用于大型项目，代码一多会难以维护，尤其是看别人的代码。而TypeScript则采用了静态类型，写法上虽然麻烦点，但是换来了更稳固的结构和清晰的逻辑。</p><p>并且在宇宙第一IDE VSCode的支持下，类型检查和提示都非常强大，大大减少了开发阶段出错的概率，配合上贴心的智能提示，从此代码一遍过不再是梦想。</p><p>这让我想起了一个段子，一名程序员写完代码后一运行，竟然一次过了，没有任何BUG，激动下他打给女朋友，女朋友听了后淡淡地回了个“哦”。这个段子说明了写出一次通过的代码特别难，但更重要的是告诉我们不要找女朋友。</p><p>而对于小项目来说，类型检查可能不那么重要，但是智能提示却能让你在写代码的过程中更加舒畅，这也是我在小项目中还要坚持使用TypeScript的原因。</p><h2>2.TypeScript的前景</h2><p>学一门新语言最重要的是什么？不是它有多快，多简洁。而是在于它的前景有多好。只有用的人多了才会有更多的工作岗位，和更优秀的开源项目。</p><p>TypeScript是由微软开发和维护，发布后被Google采用，用在了自家的Angular2上，两大巨头都和这门语言发生了联系，前景上无需太过担心。</p><p>并且非常流行的前端框架Vue3也在使用TypeScript重构，这也让不少人担心会对现有的写法不兼容，但是请坐和放宽，尤大已表示现有的写法同样适用于Vue3。</p><h2>3.如何开始使用</h2><p>TypeScript是JavaScript的超集，写法上发生一些变化而已，所以只需要花上五分钟看下面的教程就能写出TypeScript代码。这里的教程只是为了让你尽快写出TypeScript代码而已，后续更深入的用法和理解还需要看我今后的文章，或者通过搜索引擎查漏补缺。</p><h3>3.1安装环境</h3><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"nx\">npm</span> <span class=\"nx\">install</span> <span class=\"o\">-</span><span class=\"nx\">g</span> <span class=\"nx\">typescript</span>\n\n<span class=\"c1\">//编译命令\n</span><span class=\"c1\"></span><span class=\"nx\">tsc</span> <span class=\"nx\">hello</span><span class=\"p\">.</span><span class=\"nx\">ts</span>\n</code></pre></div><h3>3.2 类型写法</h3><p>TypeScript在创建一个变量时必须声明它的类型，有多人会担心这会限制自己的骚操作，不用担心，你想骚也可以全都用any。</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//布尔值\n</span><span class=\"c1\"></span><span class=\"kd\">let</span> <span class=\"nx\">isDone</span><span class=\"o\">:</span> <span class=\"kr\">boolean</span> <span class=\"o\">=</span> <span class=\"kc\">false</span>\n\n<span class=\"c1\">//数字\n</span><span class=\"c1\"></span><span class=\"kd\">let</span> <span class=\"nx\">n</span><span class=\"o\">:</span> <span class=\"nx\">number</span> <span class=\"o\">=</span> <span class=\"mi\">6</span>\n\n<span class=\"c1\">//字符串\n</span><span class=\"c1\"></span><span class=\"kd\">let</span> <span class=\"nx\">pepoName</span><span class=\"o\">:</span> <span class=\"nx\">string</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;小王&#39;</span>\n<span class=\"kd\">let</span> <span class=\"nx\">introduction</span><span class=\"o\">:</span> <span class=\"nx\">string</span> <span class=\"o\">=</span> <span class=\"sb\">`</span><span class=\"si\">${</span><span class=\"nx\">pepoName</span><span class=\"si\">}</span><span class=\"sb\">今年已经</span><span class=\"si\">${</span><span class=\"nx\">n</span><span class=\"si\">}</span><span class=\"sb\">岁了！！！`</span>\n\n<span class=\"c1\">//任意类型\n</span><span class=\"c1\"></span><span class=\"kd\">let</span> <span class=\"nx\">anySomething</span><span class=\"o\">:</span> <span class=\"nx\">any</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;什么都行&#39;</span>\n\n<span class=\"c1\">//联合类型，两种类型都可以\n</span><span class=\"c1\"></span><span class=\"kd\">let</span> <span class=\"nx\">numandstring</span><span class=\"o\">:</span> <span class=\"nx\">number</span> <span class=\"o\">|</span> <span class=\"nx\">string</span><span class=\"p\">;</span>\n\n<span class=\"c1\">//数组\n</span><span class=\"c1\"></span><span class=\"kd\">let</span> <span class=\"nx\">list</span><span class=\"o\">:</span> <span class=\"nx\">number</span><span class=\"p\">[]</span> <span class=\"o\">=</span> <span class=\"p\">[</span><span class=\"mi\">1</span><span class=\"p\">,</span><span class=\"mi\">2</span><span class=\"p\">,</span><span class=\"mi\">3</span><span class=\"p\">]</span>\n<span class=\"kd\">let</span> <span class=\"nx\">listString</span><span class=\"o\">:</span> <span class=\"nx\">string</span><span class=\"p\">[]</span> <span class=\"o\">=</span> <span class=\"p\">[</span><span class=\"s1\">&#39;1&#39;</span><span class=\"p\">,</span><span class=\"s1\">&#39;2&#39;</span><span class=\"p\">,</span><span class=\"s1\">&#39;3&#39;</span><span class=\"p\">]</span>\n<span class=\"kd\">let</span> <span class=\"nx\">numandString</span><span class=\"o\">:</span> <span class=\"p\">(</span><span class=\"nx\">number</span> <span class=\"o\">|</span> <span class=\"nx\">string</span><span class=\"p\">)[]</span> <span class=\"o\">=</span> <span class=\"p\">[</span><span class=\"s1\">&#39;1&#39;</span><span class=\"p\">,</span><span class=\"mi\">2</span><span class=\"p\">,</span><span class=\"mi\">3</span><span class=\"p\">]</span>\n</code></pre></div><p>TypeScript还有类型推论，如果在创建一个变量的时候没有指定类型，那么会根据赋值类型来决定，如果只是创建了一个变量但是没有赋值，会默认为any。</p><h3>3.3接口</h3><p>接口是TypeScript的特性，可以创建一个类，然后通过调用这个类来生成实例：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"kr\">interface</span> <span class=\"nx\">Person</span> <span class=\"p\">{</span>\n    <span class=\"c1\">//只读属性，只能在创建实例的时候赋值，之后不可以更改\n</span><span class=\"c1\"></span>    <span class=\"nx\">readonly</span> <span class=\"nx\">id</span><span class=\"o\">:</span> <span class=\"nx\">number</span><span class=\"p\">;</span>\n    <span class=\"nx\">name</span><span class=\"o\">:</span> <span class=\"nx\">string</span><span class=\"p\">;</span>\n    <span class=\"nx\">age</span><span class=\"o\">:</span> <span class=\"nx\">number</span><span class=\"p\">;</span>\n    <span class=\"c1\">//后面加问号的话允许创建实例时少这个属性\n</span><span class=\"c1\"></span>\t  <span class=\"nx\">address</span><span class=\"o\">?:</span> <span class=\"nx\">string</span><span class=\"p\">;</span>\n    <span class=\"c1\">//如果希望在实例里自由添加属性，可以使用任意属性\n</span><span class=\"c1\"></span>    <span class=\"c1\">//但是要注意的是，一旦创建了任意属性，那么接口里面的确定属性和必要属性必须为任意属性类型的子集\n</span><span class=\"c1\"></span>    <span class=\"c1\">//比如任意属性的类型为string的话，age会报错，因为它为number\n</span><span class=\"c1\"></span>    <span class=\"p\">[</span><span class=\"nx\">propName</span><span class=\"o\">:</span> <span class=\"nx\">string</span><span class=\"p\">]</span><span class=\"o\">:</span> <span class=\"nx\">any</span><span class=\"p\">;</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//多一个属性或者少一个都会报错\n</span><span class=\"c1\"></span><span class=\"kd\">let</span> <span class=\"nx\">tom</span><span class=\"o\">:</span> <span class=\"nx\">Person</span> <span class=\"o\">=</span> <span class=\"p\">{</span>\n    <span class=\"nx\">id</span><span class=\"o\">:</span> <span class=\"mi\">1</span><span class=\"p\">,</span>\n    <span class=\"nx\">name</span><span class=\"o\">:</span> <span class=\"s1\">&#39;Tom&#39;</span><span class=\"p\">,</span>\n    <span class=\"nx\">age</span><span class=\"o\">:</span> <span class=\"mi\">18</span><span class=\"p\">,</span>\n<span class=\"p\">}</span>\n</code></pre></div><h3>3.4 函数</h3><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//空白值函数\n</span><span class=\"c1\"></span><span class=\"kd\">function</span> <span class=\"nx\">awsome</span><span class=\"p\">()</span><span class=\"o\">:</span> <span class=\"k\">void</span><span class=\"p\">{</span>\n\t<span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;do something&#39;</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//参数后面有？则是可以跳过\n</span><span class=\"c1\"></span><span class=\"kd\">function</span> <span class=\"nx\">buildName</span><span class=\"p\">(</span><span class=\"nx\">firstName</span><span class=\"o\">:</span> <span class=\"nx\">string</span><span class=\"p\">,</span> <span class=\"nx\">lastName</span><span class=\"o\">?:</span> <span class=\"nx\">string</span><span class=\"p\">,</span> <span class=\"nx\">age</span><span class=\"o\">:</span> <span class=\"nx\">number</span> <span class=\"o\">=</span> <span class=\"mi\">18</span><span class=\"p\">){</span>\n\t  <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"o\">!</span><span class=\"nx\">lastName</span><span class=\"p\">){</span>\n        <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"nx\">firstName</span><span class=\"p\">)</span>\n        <span class=\"k\">return</span>\n    <span class=\"p\">}</span>\n    <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"nx\">firstName</span> <span class=\"o\">+</span> <span class=\"nx\">lastName</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n</code></pre></div><h3>3.5 声明文件</h3><p>在使用第三方库时，必须引入它的声明文件才能获得代码补全和提示，可以使用@types来管理声明文件，比如要使用Puppeteer，要引入它的声明文件需要：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"nx\">npn</span> <span class=\"nx\">install</span> <span class=\"err\">@</span><span class=\"nx\">types</span><span class=\"o\">/</span><span class=\"nx\">Puppeteer</span>\n</code></pre></div><p><br/>如果我的文章对你有帮助，欢迎关注我，我会持续努力输出更多好文章。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "TypeScript", 
+                    "tagLink": "https://api.zhihu.com/topics/19766226"
+                }, 
+                {
+                    "tag": "JavaScript", 
+                    "tagLink": "https://api.zhihu.com/topics/19552521"
+                }, 
+                {
+                    "tag": "前端开发", 
+                    "tagLink": "https://api.zhihu.com/topics/19550901"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/69288675", 
+            "userName": "林城", 
+            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+            "upvote": 115, 
+            "title": "用Node.js爬取动态网页，这可能是最简洁的方式", 
+            "content": "<p>现在网页大多是动态网页，如果只是单纯地通过爬取网页HTML文件，根本爬取不到需要后续加载的商品价格或图片等重要信息，更别谈那些丧心病狂的登录限制，对于小爬虫来说，去分析那些复杂的脚本得不偿失，更别谈网站还会与时俱进地更新，好不容易破解了，人家一更新又得从头来，这都大大提高了小爬虫的难度。</p><p>但幸好，在Node.js里有那么一款神器，无惧网站的登录限制和反爬虫措施，以不变应万变，通过一招简单的模拟用户操作就能破解绝大部分限制，它就是由谷歌出品的爬取动态网页神器Puppeteer。</p><h2>1.Puppeteer的好处和坏处</h2><p>Puppeteer本质上是一个chrome浏览器，只不过可以通过代码进行各种操控。比如模拟鼠标点击、键盘输入等操作，有点像按键精灵，网页很难分清这是人类用户还是爬虫，所以限制也就无处谈起。</p><p>它的好处在于简单，非常简单，可能是在所有可以爬取动态网页的库里最简单的一个。</p><p>但坏处也很明显，那就是速度慢，效率有点低。它等于每次运行都会启动一个Chrome浏览器，所以运行效率上远远比不过其它库，并不适合爬取大数据。但对于小爬虫来说已经绰绰有余了。</p><p>接下来以我写过的爬取jd商品页面的小爬虫为例，来看看这款有多简单。</p><p>当初写这个爬虫是为了买苹果的妙控板，找了一圈后发现jd夺宝岛里的价格很诱人，这也应该是夺宝岛里唯一值得抢的商品，但是数量稀少，很久才会出现一个。</p><p>于是就想到了监控商品页面，一旦发现新的妙控板就弹出提醒。甚至还可以实现自动竞拍，但我没写，毕竟除了触控板以外我都不想买，没办法测试能否成功拍到。</p><p>OK，开始吧！</p><h2>2.安装Puppeteer：</h2><p>先安装Puppeteer库，用到的也就只有这个库：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"nx\">npm</span> <span class=\"nx\">install</span> <span class=\"nx\">puppeteer</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><h2>3.开始链接网页</h2><p>链接网页也非常简单，只需要几行代码：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"k\">const</span> <span class=\"nx\">puppeteer</span> <span class=\"o\">=</span> <span class=\"nx\">require</span><span class=\"p\">(</span><span class=\"s1\">&#39;puppeteer&#39;</span><span class=\"p\">)</span>\n\n<span class=\"c1\">//启动浏览器\n</span><span class=\"c1\"></span><span class=\"k\">const</span> <span class=\"nx\">browers</span> <span class=\"o\">=</span> <span class=\"kr\">await</span> <span class=\"nx\">puppeteer</span><span class=\"p\">.</span><span class=\"nx\">launch</span><span class=\"p\">()</span>\n<span class=\"c1\">//启动新页面\n</span><span class=\"c1\"></span><span class=\"k\">const</span> <span class=\"nx\">page</span> <span class=\"o\">=</span> <span class=\"kr\">await</span> <span class=\"nx\">browers</span><span class=\"p\">.</span><span class=\"nx\">newPage</span><span class=\"p\">()</span>\n<span class=\"c1\">//链接网址\n</span><span class=\"c1\"></span><span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"kr\">goto</span><span class=\"p\">(</span><span class=\"nx\">url</span><span class=\"p\">)</span>\n</code></pre></div><p>这样子就链接成功了!Puppeteer.launch()还可以接收很多参数，但这里我们用到的只有headless，默认为ture，如果是false的话会显示浏览器界面。我们可以利用这个特性实现弹出窗口提醒，一旦发现有符合条件的商品就将headless改成false。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>4.爬取商品信息</h2><p>在链接网页后接下来就是爬取商品信息，然后进行分析。</p><p>网址：<a href=\"https://link.zhihu.com/?target=https%3A//paipai.jd.com/auction-detail/114533257%3Fentryid%3Dp0120003dbdnavi\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">妙控板</a></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-e195097d17a2bea167d720d97fa7d75e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2884\" data-rawheight=\"1368\" class=\"origin_image zh-lightbox-thumb\" width=\"2884\" data-original=\"https://pic3.zhimg.com/v2-e195097d17a2bea167d720d97fa7d75e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2884&#39; height=&#39;1368&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2884\" data-rawheight=\"1368\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2884\" data-original=\"https://pic3.zhimg.com/v2-e195097d17a2bea167d720d97fa7d75e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-e195097d17a2bea167d720d97fa7d75e_b.jpg\"/></figure><h3>4.1获取相对应的元素标签</h3><p>通过页面可以看到，一旦有同类商品会出现在旁边的同类夺宝里，我们只需要爬取那里的信息就行了，有两种方式：</p><p>一种是$eval，相当于js里的document.querySelector，只爬取符合的第一个元素；</p><p>另一种为$$eval，相当于js里的document.querySelectorAll，爬取所有符合的元素；</p><p>它们接收的第一个参数是元素地址，第二个参数是回调函数，操作和document.querySelector一样，来看代码：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//拿到同类夺宝里的所有子元素\n</span><span class=\"c1\"></span><span class=\"k\">const</span> <span class=\"nx\">goods</span> <span class=\"o\">=</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">$$eval</span><span class=\"p\">(</span><span class=\"s1\">&#39;#auctionRecommend &gt; div.mc &gt; ul &gt; li&#39;</span><span class=\"p\">,</span> <span class=\"nx\">ele</span> <span class=\"p\">=&gt;</span> <span class=\"nx\">ele</span><span class=\"p\">)</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><h3>4.2.分析商品信息</h3><p>现在已经拿到了同类夺宝里所有商品的标签信息，接下来开始分析信息。</p><p>获取里面所有商品的名称，然后对照关键字是否存在，如果存在则将headless改为false弹出窗口提醒，如果不存在则在半小时后再次链接。</p><p>Puppeteer提供了一个等待命令page.waitFor()，不仅可以按时间等待，也可以按某个元素的加载进度进行等待。</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"k\">const</span> <span class=\"nx\">goods</span> <span class=\"o\">=</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">$$eval</span><span class=\"p\">(</span><span class=\"s1\">&#39;#auctionRecommend &gt; div.mc &gt; ul &gt; li&#39;</span><span class=\"p\">,</span> <span class=\"nx\">el</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n    <span class=\"c1\">//错误和关键字不存在都会返回false\n</span><span class=\"c1\"></span>    <span class=\"k\">try</span> <span class=\"p\">{</span>\n        <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kd\">let</span> <span class=\"nx\">i</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">&lt;</span> <span class=\"nx\">el</span><span class=\"p\">.</span><span class=\"nx\">length</span><span class=\"p\">;</span> <span class=\"nx\">i</span><span class=\"o\">++</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n            <span class=\"kd\">let</span> <span class=\"nx\">n</span> <span class=\"o\">=</span> <span class=\"nx\">el</span><span class=\"p\">[</span><span class=\"nx\">i</span><span class=\"p\">].</span><span class=\"nx\">querySelector</span><span class=\"p\">(</span><span class=\"s1\">&#39;div.p-name&#39;</span><span class=\"p\">).</span><span class=\"nx\">textContent</span>\n            <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">n</span><span class=\"p\">.</span><span class=\"nx\">includes</span><span class=\"p\">(</span><span class=\"s1\">&#39;妙控板&#39;</span><span class=\"p\">)){</span>\n                <span class=\"k\">return</span> <span class=\"kc\">true</span>\n            <span class=\"p\">}</span> <span class=\"k\">else</span> <span class=\"p\">{</span>\n                <span class=\"k\">return</span> <span class=\"kc\">false</span>\n            <span class=\"p\">}</span>\n        <span class=\"p\">}</span>\n    <span class=\"p\">}</span> <span class=\"k\">catch</span> <span class=\"p\">(</span><span class=\"nx\">error</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n        <span class=\"k\">return</span> <span class=\"kc\">false</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">})</span>\n\n<span class=\"k\">if</span><span class=\"p\">(</span><span class=\"o\">!</span><span class=\"nx\">bool</span><span class=\"p\">){</span>\n    <span class=\"k\">return</span> <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;网页已打开，不再监控&#39;</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//根据goods里面的回调函数返回ture或false来决定是否开启浏览器界面\n</span><span class=\"c1\"></span><span class=\"kr\">await</span> <span class=\"nx\">goods</span><span class=\"p\">.</span><span class=\"nx\">then</span><span class=\"p\">(</span><span class=\"kr\">async</span> <span class=\"p\">(</span><span class=\"nx\">b</span><span class=\"p\">)</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n    <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">b</span><span class=\"p\">){</span>\n        <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;有货了！&#39;</span><span class=\"p\">)</span>\n        <span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">waitFor</span><span class=\"p\">(</span><span class=\"mi\">2000</span><span class=\"p\">)</span>\n        <span class=\"kr\">await</span> <span class=\"nx\">browers</span><span class=\"p\">.</span><span class=\"nx\">close</span><span class=\"p\">()</span>\n        <span class=\"k\">return</span> <span class=\"nx\">requestUrl</span><span class=\"p\">(</span><span class=\"kc\">false</span><span class=\"p\">)</span>\n    <span class=\"p\">}</span>  <span class=\"k\">else</span> <span class=\"p\">{</span>\n        <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;还没货&#39;</span><span class=\"p\">)</span>\n        <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;三十分钟后再尝试&#39;</span><span class=\"p\">)</span>\n        <span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">waitFor</span><span class=\"p\">(</span><span class=\"mi\">1800000</span><span class=\"p\">)</span>\n        <span class=\"kr\">await</span> <span class=\"nx\">browers</span><span class=\"p\">.</span><span class=\"nx\">close</span><span class=\"p\">()</span>\n        <span class=\"k\">return</span> <span class=\"nx\">requestUrl</span><span class=\"p\">(</span><span class=\"kc\">true</span><span class=\"p\">)</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">})</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><h2>5.优化代码</h2><p>对于这个小爬虫来说，损失的效率并不多，没什么优化的必要，但作为一个强迫症，还是希望能去掉的尽量去掉。</p><h3>5.1拦截图片</h3><p>在这个爬虫里，我们根本不用看任何图片信息，所以所有图片都没有加载的必要，为了提升一点点运行效率，将所有图片拦截掉：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//开启拦截器\n</span><span class=\"c1\"></span><span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">setRequestInterception</span><span class=\"p\">(</span><span class=\"kc\">true</span><span class=\"p\">)</span>\n<span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">on</span><span class=\"p\">(</span><span class=\"s1\">&#39;request&#39;</span><span class=\"p\">,</span><span class=\"nx\">interceptedRequest</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n    <span class=\"c1\">//判断加载的url是否以jpg或png结尾，符合条件将不再加载\n</span><span class=\"c1\"></span>    <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">interceptedRequest</span><span class=\"p\">.</span><span class=\"nx\">url</span><span class=\"p\">().</span><span class=\"nx\">endsWith</span><span class=\"p\">(</span><span class=\"s1\">&#39;.jpg&#39;</span><span class=\"p\">)</span> <span class=\"o\">||</span> <span class=\"nx\">interceptedRequest</span><span class=\"p\">.</span><span class=\"nx\">url</span><span class=\"p\">().</span><span class=\"nx\">endsWith</span><span class=\"p\">(</span><span class=\"s1\">&#39;.png&#39;</span><span class=\"p\">)){</span>\n        <span class=\"nx\">interceptedRequest</span><span class=\"p\">.</span><span class=\"nx\">abort</span><span class=\"p\">();</span>\n    <span class=\"p\">}</span><span class=\"k\">else</span><span class=\"p\">{</span>\n        <span class=\"nx\">interceptedRequest</span><span class=\"p\">.</span><span class=\"k\">continue</span><span class=\"p\">();</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">})</span>\n</code></pre></div><h3>5.2调整窗口大小</h3><p>在浏览器弹出时，会发现打开的窗口显示范围很小，不仅不方便浏览，可能还会导致点击或输入等操作出错，所以还是有必要进行调整：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">setViewport</span><span class=\"p\">({</span>\n    <span class=\"nx\">width</span><span class=\"o\">:</span> <span class=\"mi\">1920</span><span class=\"p\">,</span>\n    <span class=\"nx\">height</span><span class=\"o\">:</span> <span class=\"mi\">1080</span><span class=\"p\">,</span>\n<span class=\"p\">})</span>\n</code></pre></div><p>至此，所有代码已经完成了，试试效果吧！</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>6.完整代码</h2><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"k\">const</span> <span class=\"nx\">puppeteer</span> <span class=\"o\">=</span> <span class=\"nx\">require</span><span class=\"p\">(</span><span class=\"s1\">&#39;puppeteer&#39;</span><span class=\"p\">)</span>\n\n<span class=\"k\">const</span> <span class=\"nx\">url</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;https://paipai.jd.com/auction-detail/114533257?entryid=p0120003dbdnavi&#39;</span>\n\n<span class=\"k\">const</span> <span class=\"nx\">requestUrl</span> <span class=\"o\">=</span> <span class=\"kr\">async</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">bool</span><span class=\"p\">){</span>\n    <span class=\"k\">const</span> <span class=\"nx\">browers</span> <span class=\"o\">=</span> <span class=\"kr\">await</span> <span class=\"nx\">puppeteer</span><span class=\"p\">.</span><span class=\"nx\">launch</span><span class=\"p\">({</span><span class=\"nx\">headless</span><span class=\"o\">:</span><span class=\"nx\">bool</span><span class=\"p\">})</span>\n    <span class=\"k\">const</span> <span class=\"nx\">page</span> <span class=\"o\">=</span> <span class=\"kr\">await</span> <span class=\"nx\">browers</span><span class=\"p\">.</span><span class=\"nx\">newPage</span><span class=\"p\">()</span>\n\n    <span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">setRequestInterception</span><span class=\"p\">(</span><span class=\"kc\">true</span><span class=\"p\">)</span>\n    <span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">on</span><span class=\"p\">(</span><span class=\"s1\">&#39;request&#39;</span><span class=\"p\">,</span><span class=\"nx\">interceptedRequest</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n        <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">interceptedRequest</span><span class=\"p\">.</span><span class=\"nx\">url</span><span class=\"p\">().</span><span class=\"nx\">endsWith</span><span class=\"p\">(</span><span class=\"s1\">&#39;.jpg&#39;</span><span class=\"p\">)</span> <span class=\"o\">||</span> <span class=\"nx\">interceptedRequest</span><span class=\"p\">.</span><span class=\"nx\">url</span><span class=\"p\">().</span><span class=\"nx\">endsWith</span><span class=\"p\">(</span><span class=\"s1\">&#39;.png&#39;</span><span class=\"p\">)){</span>\n            <span class=\"nx\">interceptedRequest</span><span class=\"p\">.</span><span class=\"nx\">abort</span><span class=\"p\">();</span>\n        <span class=\"p\">}</span><span class=\"k\">else</span><span class=\"p\">{</span>\n            <span class=\"nx\">interceptedRequest</span><span class=\"p\">.</span><span class=\"k\">continue</span><span class=\"p\">();</span>\n        <span class=\"p\">}</span>\n    <span class=\"p\">})</span>\n\n    <span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">setViewport</span><span class=\"p\">({</span>\n        <span class=\"nx\">width</span><span class=\"o\">:</span> <span class=\"mi\">1920</span><span class=\"p\">,</span>\n        <span class=\"nx\">height</span><span class=\"o\">:</span> <span class=\"mi\">1080</span><span class=\"p\">,</span>\n    <span class=\"p\">})</span>\n\n    <span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"kr\">goto</span><span class=\"p\">(</span><span class=\"nx\">url</span><span class=\"p\">)</span>\n\n    <span class=\"k\">const</span> <span class=\"nx\">goods</span> <span class=\"o\">=</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">$$eval</span><span class=\"p\">(</span><span class=\"s1\">&#39;#auctionRecommend &gt; div.mc &gt; ul &gt; li&#39;</span><span class=\"p\">,</span> <span class=\"nx\">el</span><span class=\"p\">=&gt;{</span>\n        <span class=\"k\">try</span> <span class=\"p\">{</span>\n            <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kd\">let</span> <span class=\"nx\">i</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">&lt;</span> <span class=\"nx\">el</span><span class=\"p\">.</span><span class=\"nx\">length</span><span class=\"p\">;</span> <span class=\"nx\">i</span><span class=\"o\">++</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n                <span class=\"kd\">let</span> <span class=\"nx\">n</span> <span class=\"o\">=</span> <span class=\"nx\">el</span><span class=\"p\">[</span><span class=\"nx\">i</span><span class=\"p\">].</span><span class=\"nx\">querySelector</span><span class=\"p\">(</span><span class=\"s1\">&#39;div.p-name&#39;</span><span class=\"p\">).</span><span class=\"nx\">textContent</span>\n                <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">n</span><span class=\"p\">.</span><span class=\"nx\">includes</span><span class=\"p\">(</span><span class=\"s1\">&#39;妙控板&#39;</span><span class=\"p\">)){</span>\n                    <span class=\"k\">return</span> <span class=\"kc\">true</span>\n                <span class=\"p\">}</span> <span class=\"k\">else</span> <span class=\"p\">{</span>\n                    <span class=\"k\">return</span> <span class=\"kc\">false</span>\n                <span class=\"p\">}</span>\n            <span class=\"p\">}</span>\n        <span class=\"p\">}</span> <span class=\"k\">catch</span> <span class=\"p\">(</span><span class=\"nx\">error</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n            <span class=\"k\">return</span> <span class=\"kc\">false</span>\n        <span class=\"p\">}</span>\n    <span class=\"p\">})</span>\n\n    <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"o\">!</span><span class=\"nx\">bool</span><span class=\"p\">){</span>\n        <span class=\"k\">return</span> <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;网页已打开，不再监控&#39;</span><span class=\"p\">)</span>\n    <span class=\"p\">}</span>\n    \n    <span class=\"kr\">await</span> <span class=\"nx\">goods</span><span class=\"p\">.</span><span class=\"nx\">then</span><span class=\"p\">(</span><span class=\"kr\">async</span> <span class=\"p\">(</span><span class=\"nx\">b</span><span class=\"p\">)=&gt;{</span>\n        <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">b</span><span class=\"p\">){</span>\n            <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;有货了！&#39;</span><span class=\"p\">)</span>\n            <span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">waitFor</span><span class=\"p\">(</span><span class=\"mi\">2000</span><span class=\"p\">)</span>\n            <span class=\"kr\">await</span> <span class=\"nx\">browers</span><span class=\"p\">.</span><span class=\"nx\">close</span><span class=\"p\">()</span>\n            <span class=\"k\">return</span> <span class=\"nx\">requestUrl</span><span class=\"p\">(</span><span class=\"kc\">false</span><span class=\"p\">)</span>\n        <span class=\"p\">}</span>  <span class=\"k\">else</span> <span class=\"p\">{</span>\n            <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;还没货&#39;</span><span class=\"p\">)</span>\n            <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;三十分钟后再尝试&#39;</span><span class=\"p\">)</span>\n            <span class=\"kr\">await</span> <span class=\"nx\">page</span><span class=\"p\">.</span><span class=\"nx\">waitFor</span><span class=\"p\">(</span><span class=\"mi\">1800000</span><span class=\"p\">)</span>\n            <span class=\"kr\">await</span> <span class=\"nx\">browers</span><span class=\"p\">.</span><span class=\"nx\">close</span><span class=\"p\">()</span>\n            <span class=\"k\">return</span> <span class=\"nx\">requestUrl</span><span class=\"p\">(</span><span class=\"kc\">true</span><span class=\"p\">)</span>\n        <span class=\"p\">}</span>\n    <span class=\"p\">})</span>\n<span class=\"p\">}</span>\n\n<span class=\"nx\">requestUrl</span><span class=\"p\">(</span><span class=\"kc\">true</span><span class=\"p\">)</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>也可以通过Github获取完整代码：<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Card007/Node-examples/blob/master/watchJd.js\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">watchJd.js</a></p><p>如果对你有帮助，欢迎关注我，我会持续输出更多好文章！</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "Node.js", 
+                    "tagLink": "https://api.zhihu.com/topics/19569535"
+                }, 
+                {
+                    "tag": "JavaScript", 
+                    "tagLink": "https://api.zhihu.com/topics/19552521"
+                }, 
+                {
+                    "tag": "爬虫 (计算机网络)", 
+                    "tagLink": "https://api.zhihu.com/topics/19577498"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "牧毅", 
+                    "userLink": "https://www.zhihu.com/people/d963e9e5fb0561b26cda0420d34bd07c", 
+                    "content": "友情提醒：未经授权的爬虫属于违法行为，好自为之吧", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Brizer", 
+                            "userLink": "https://www.zhihu.com/people/3bdff78d8524332a3df02b59d6e0e818", 
+                            "content": "爬了数据不用来商业化，也不行吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "牧毅"
+                        }, 
+                        {
+                            "userName": "牧毅", 
+                            "userLink": "https://www.zhihu.com/people/d963e9e5fb0561b26cda0420d34bd07c", 
+                            "content": "《刑法》第285条，里面好像没有说你不商业化就OK", 
+                            "likes": 0, 
+                            "replyToAuthor": "Brizer"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "这玩意性能不如自己写爬虫吧。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>这个也是爬虫，看起来不像吗</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "这个是无界面浏览器 跟爬虫是两回事吧，他只是可又用来当爬虫用罢了", 
+                            "likes": 0, 
+                            "replyToAuthor": "林城"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "阿飞", 
+                    "userLink": "https://www.zhihu.com/people/a03e4e4041d711545cce638b4741b350", 
+                    "content": "就是杠，开放的浏览权限有什么不能趴的。不仅要爬还要优化爬取速度", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>听起来这个和Selenium差不多？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>爬虫违法？不至于啊，采用公开的协议，模拟人类操作，能够拿到的都是网站愿意给的。</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67549785", 
+            "userName": "林城", 
+            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+            "upvote": 17, 
+            "title": "摆脱js回调地狱，Async/Await实用指南，完美实现同步操作", 
+            "content": "<p>在JavaScript里，所有的操作都是通过异步完成，不需要像python一样按顺序执行，非常容易因为某个函数执行速度过慢导致整个程序阻塞，从效率上来说远远低于JavaScript的原生异步机制。当然，python也可以实现异步功能，但是会麻烦不少，尤其对于一些代码量少的小爬虫非常不友好。</p><p>在我上篇爬虫文章里就提到了不少异步带来的好处，但同时坏处也不少，很多时候会导致输出的结果并不是我们想要的。比如我们希望在爬取到所有的数据后才开始执行处理函数，但JavaScript会在爬取数据的同时执行处理函数，直接导致爬虫出错。</p><h2>0.现在来看个例子：</h2><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"k\">const</span> <span class=\"nx\">getWeb</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"nx\">requestSomething</span><span class=\"p\">()</span>\n    <span class=\"nx\">setData</span><span class=\"p\">()</span>\n    <span class=\"k\">return</span> <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s2\">&#34;3.程序结束&#34;</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n\n<span class=\"k\">const</span> <span class=\"nx\">requestSomething</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"nx\">setTimeout</span><span class=\"p\">(()</span> <span class=\"p\">=&gt;</span> <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;1.网页数据爬取完毕！&#39;</span><span class=\"p\">),</span><span class=\"mi\">2000</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n\n<span class=\"k\">const</span> <span class=\"nx\">setData</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;2.开始处理数据！&#39;</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n\n<span class=\"nx\">getWeb</span><span class=\"p\">()</span>\n</code></pre></div><p>输出结果：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d8863a7c259e60f048d1e70f664eecdb_b.jpg\" data-rawwidth=\"1372\" data-rawheight=\"922\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1372\" data-original=\"https://pic4.zhimg.com/v2-d8863a7c259e60f048d1e70f664eecdb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1372&#39; height=&#39;922&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1372\" data-rawheight=\"922\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1372\" data-original=\"https://pic4.zhimg.com/v2-d8863a7c259e60f048d1e70f664eecdb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d8863a7c259e60f048d1e70f664eecdb_b.jpg\"/></figure><p>看到结果我们发现，明明是爬取网页的requestSomething函数先执行，但是先输出结果的却是处理函数setData，甚至在整个getWeb函数返回后才开始输出爬取结果。</p><p>为了解决这个问题，束缚住JavaScript这匹脱缰的野马，这里就需要用到Async函数，让JavaScript程序能按照我们希望的顺序执行。</p><h2> 1.如何创建Async使用</h2><p>首先要创建一个async函数，在我们希望控制异步的地方使用await来进行控制，比如：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"k\">const</span> <span class=\"nx\">getWeb</span> <span class=\"o\">=</span> <span class=\"kr\">async</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"kr\">await</span> <span class=\"nx\">requestSomething</span><span class=\"p\">()</span>\n    <span class=\"nx\">setData</span><span class=\"p\">()</span>\n    <span class=\"k\">return</span> <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s2\">&#34;3.程序结束&#34;</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>接下来还需要改造requestSomething函数，首先直接返回一个Promise对象，里面通过匿名函数接收两个参数，分别是resolve和reject，当执行resoleve()时表示当前函数执行完毕，而reject()则是返回错误信息，我们先来看resoleve：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"k\">const</span> <span class=\"nx\">requestSomething</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"k\">return</span> <span class=\"k\">new</span> <span class=\"nb\">Promise</span><span class=\"p\">((</span><span class=\"nx\">resolve</span><span class=\"p\">,</span> <span class=\"nx\">reject</span><span class=\"p\">)</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n        <span class=\"nx\">setTimeout</span><span class=\"p\">(()</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n            <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;1.网页数据爬取完毕！&#39;</span><span class=\"p\">)</span>\n            <span class=\"nx\">resolve</span><span class=\"p\">()</span>\n        <span class=\"p\">},</span><span class=\"mi\">2000</span><span class=\"p\">)</span>\n    <span class=\"p\">})</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>来运行一下改造后的代码：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-99c0eede35d1644dfe845a187f5dd2f1_b.jpg\" data-rawwidth=\"1378\" data-rawheight=\"918\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1378\" data-original=\"https://pic2.zhimg.com/v2-99c0eede35d1644dfe845a187f5dd2f1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1378&#39; height=&#39;918&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1378\" data-rawheight=\"918\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1378\" data-original=\"https://pic2.zhimg.com/v2-99c0eede35d1644dfe845a187f5dd2f1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-99c0eede35d1644dfe845a187f5dd2f1_b.jpg\"/></figure><h2>2.如何处理错误</h2><p>还记得有一个reject命令吗？在爬取失败时，可以通过reject返回失败内容，然后使用catch方法来输出，现在，来改造一下代码，在爬取失败时输出失败信息：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"k\">const</span> <span class=\"nx\">requestSomething</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"k\">return</span> <span class=\"k\">new</span> <span class=\"nb\">Promise</span><span class=\"p\">((</span><span class=\"nx\">resolve</span><span class=\"p\">,</span> <span class=\"nx\">reject</span><span class=\"p\">)</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n        <span class=\"kd\">let</span> <span class=\"nx\">err</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;1.爬取失败！&#39;</span>\n        <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"k\">typeof</span> <span class=\"nx\">err</span> <span class=\"o\">!=</span>  <span class=\"s1\">&#39;undefined&#39;</span><span class=\"p\">){</span>\n            <span class=\"c1\">//返回错误信息\n</span><span class=\"c1\"></span>            <span class=\"nx\">reject</span><span class=\"p\">(</span><span class=\"nx\">err</span><span class=\"p\">)</span>\n        <span class=\"p\">}</span> <span class=\"k\">else</span> <span class=\"p\">(</span>\n            <span class=\"nx\">setTimeout</span><span class=\"p\">(()</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n                <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;1.网页数据爬取完毕！&#39;</span><span class=\"p\">)</span>\n                <span class=\"nx\">resolve</span><span class=\"p\">()</span>\n            <span class=\"p\">},</span><span class=\"mi\">2000</span><span class=\"p\">)</span>\n        <span class=\"p\">)</span>\n    <span class=\"p\">})</span>\n<span class=\"p\">}</span>\n\n<span class=\"k\">const</span> <span class=\"nx\">getWeb</span> <span class=\"o\">=</span> <span class=\"kr\">async</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"c1\">//通过catch捕捉返回的错误信息\n</span><span class=\"c1\"></span>    <span class=\"kr\">await</span> <span class=\"nx\">requestSomething</span><span class=\"p\">().</span><span class=\"k\">catch</span><span class=\"p\">(</span><span class=\"nx\">e</span> <span class=\"p\">=&gt;</span> <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"nx\">e</span><span class=\"p\">))</span>\n    <span class=\"nx\">setData</span><span class=\"p\">()</span>\n    <span class=\"k\">return</span> <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s2\">&#34;3.程序结束&#34;</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>输出结果：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-56d786d6fe4e1ec16bebf119ae585fed_b.jpg\" data-rawwidth=\"1398\" data-rawheight=\"906\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1398\" data-original=\"https://pic2.zhimg.com/v2-56d786d6fe4e1ec16bebf119ae585fed_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1398&#39; height=&#39;906&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1398\" data-rawheight=\"906\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1398\" data-original=\"https://pic2.zhimg.com/v2-56d786d6fe4e1ec16bebf119ae585fed_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-56d786d6fe4e1ec16bebf119ae585fed_b.jpg\"/></figure><p>至此，我们已经成功控制住了异步程序，可以在小爬虫里直接应用了!</p><p>完整代码：<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Card007/Node-examples/blob/master/Async.js\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/Card007/Node</span><span class=\"invisible\">-examples/blob/master/Async.js</span><span class=\"ellipsis\"></span></a></p><p>也欢迎访问我的主页：<a href=\"https://link.zhihu.com/?target=http%3A//nothlu.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Nothlu&#39;s Blog</a></p>", 
+            "topic": [
+                {
+                    "tag": "JavaScript", 
+                    "tagLink": "https://api.zhihu.com/topics/19552521"
+                }, 
+                {
+                    "tag": "Node.js", 
+                    "tagLink": "https://api.zhihu.com/topics/19569535"
+                }, 
+                {
+                    "tag": "爬虫 (计算机网络)", 
+                    "tagLink": "https://api.zhihu.com/topics/19577498"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "杨树", 
+                    "userLink": "https://www.zhihu.com/people/81320240e25f6efa8c253db88163d315", 
+                    "content": "大爱 async/await", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>没错，简单好用</p><a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-cb8443f07a41298e45191cef11b90fd2.gif\" data-width=\"\" data-height=\"\">[干杯]</a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "杨树"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64005248", 
+            "userName": "林城", 
+            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+            "upvote": 96, 
+            "title": "爬虫被封怎么办？用Node.js构建一个私人IP代理池", 
+            "content": "<p>还记得刚学爬虫的时候，选了一个美女网站来练手，效率极高，看到什么都想爬下来。爬得正高兴呢，出现了一连串错误信息，查看后发现因为爬取太过频繁，被网站封了ip，那时起就有了构建代理ip池的念头。</p><p>网上搜索一下代理ip就会发现有很多网站提供，但是稳定好用的都要收费，免费倒也有一堆，但大多数都不能用。而且我写的一般都是小爬虫，极少有爬取上白g数据的时候，用收费的代理ip有点浪费。</p><p>所以，写了这个代理ip池，从各大代理ip网站爬取收集免费的代理ip，然后一一进行测试，从中筛选出高速可用的ip。得益于Node的异步架构，速度非常快，可以直接在自己的爬虫里调用，每次爬取前获取最新的代理ip，以后妈妈就再也不用担心我的爬虫被封了。</p><p>接下来会分为三个部分来讲解，怎么下载，怎么用和怎么写，如果只是想用的话看前两篇就够了。</p><h2>1.如何下载</h2><p>有两种途径，一个是通过Github：<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Card007/Proxy-Pool\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Card007/Proxy-Pool</a>；</p><p>另一种是通过npm添加：npm install ip-proxy-pool;</p><p>两种方式都可以，推荐github，有个使用说明，后期我还会进行更新，欢迎start。</p><h2>2.如何使用</h2><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//导入本地模块\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">proxy</span> <span class=\"o\">=</span> <span class=\"nx\">require</span><span class=\"p\">(</span><span class=\"s1\">&#39;./proxy_pool.js&#39;</span><span class=\"p\">)</span>\n<span class=\"c1\">//如果通过npm安装\n</span><span class=\"c1\">//var proxy = require(&#39;ip-proxy-pool&#39;)\n</span><span class=\"c1\"></span>\n<span class=\"c1\">//主程序，爬取ip+检查ip\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">proxys</span> <span class=\"o\">=</span> <span class=\"nx\">proxy</span><span class=\"p\">.</span><span class=\"nx\">run</span>\n\n<span class=\"c1\">//不爬取，只检查数据库里现有的ip\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">check</span> <span class=\"o\">=</span> <span class=\"nx\">proxy</span><span class=\"p\">.</span><span class=\"nx\">check</span>\n\n<span class=\"c1\">//提取数据库里所有的ip\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">ips</span> <span class=\"o\">=</span> <span class=\"nx\">proxy</span><span class=\"p\">.</span><span class=\"nx\">ips</span>\n<span class=\"c1\">//ips接收一个处理函数，然后向这个函数传递两个参数，一个为错误信息，另一个为数据库里的所有ip\n</span><span class=\"c1\"></span><span class=\"nx\">ips</span><span class=\"p\">((</span><span class=\"nx\">err</span><span class=\"p\">,</span><span class=\"nx\">response</span><span class=\"p\">)=&gt;{</span>\n    <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"nx\">response</span><span class=\"p\">)</span>\n<span class=\"p\">})</span>\n\n<span class=\"c1\">//如果希望爬取的ip多一点可以修改check函数里的timeout\n</span></code></pre></div><h2>3.怎么手动写一个代理ip池</h2><p>现在来说说自己怎么写一个代理ip池，以西刺为例，用到的工具和方法基本上和上一篇爬取豆瓣top250一样，先是爬取西刺网站前5页的所有免费ip，然后保存在sqlite数据库里，接着通过每一个代理ip来访问某个网址，返回200则是可用，返回其它数字的则删除，来看代码：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//导入相应的库\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">request</span> <span class=\"o\">=</span> <span class=\"nx\">require</span><span class=\"p\">(</span><span class=\"s1\">&#39;request&#39;</span><span class=\"p\">)</span>\n<span class=\"kd\">var</span> <span class=\"nx\">cheerio</span> <span class=\"o\">=</span> <span class=\"nx\">require</span><span class=\"p\">(</span><span class=\"s1\">&#39;cheerio&#39;</span><span class=\"p\">)</span>\n<span class=\"kd\">var</span> <span class=\"nx\">sqlite3</span> <span class=\"o\">=</span> <span class=\"nx\">require</span><span class=\"p\">(</span><span class=\"s1\">&#39;sqlite3&#39;</span><span class=\"p\">)</span>\n\n<span class=\"c1\">//生成网址，西刺网址以尾号数字作为分页链接\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">ipUrl</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">resolve</span><span class=\"p\">){</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">url</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;http://www.xicidaili.com/nn/&#39;</span>\n\n    <span class=\"kd\">var</span> <span class=\"nx\">options</span> <span class=\"o\">=</span> <span class=\"p\">{</span>\n        <span class=\"nx\">url</span><span class=\"o\">:</span><span class=\"s1\">&#39;http://www.xicidaili.com/nn/&#39;</span><span class=\"p\">,</span>\n        <span class=\"nx\">headers</span><span class=\"p\">,</span>\n    <span class=\"p\">}</span>\n\n   <span class=\"c1\">//用个简单的for循环即可获得所有需要的链接，然后将链接一一放到爬取网络的requestProxy里\n</span><span class=\"c1\"></span>    <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kd\">let</span> <span class=\"nx\">i</span> <span class=\"o\">=</span> <span class=\"mi\">1</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">&lt;=</span> <span class=\"mi\">5</span><span class=\"p\">;</span> <span class=\"nx\">i</span><span class=\"o\">++</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n        <span class=\"nx\">options</span><span class=\"p\">.</span><span class=\"nx\">url</span> <span class=\"o\">=</span> <span class=\"nx\">url</span> <span class=\"o\">+</span> <span class=\"nx\">i</span>\n        <span class=\"nx\">requestProxy</span><span class=\"p\">(</span><span class=\"nx\">options</span><span class=\"p\">)</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//链接网络\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">requestProxy</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">options</span><span class=\"p\">){</span>\n   <span class=\"c1\">//这里使用了Promise来控制异步\n</span><span class=\"c1\"></span>    <span class=\"k\">return</span> <span class=\"k\">new</span> <span class=\"nb\">Promise</span><span class=\"p\">((</span><span class=\"nx\">resolve</span><span class=\"p\">,</span> <span class=\"nx\">reject</span><span class=\"p\">)</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n        <span class=\"nx\">request</span><span class=\"p\">(</span><span class=\"nx\">options</span><span class=\"p\">,</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">err</span><span class=\"p\">,</span> <span class=\"nx\">response</span><span class=\"p\">,</span> <span class=\"nx\">body</span><span class=\"p\">){</span>\n            <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">err</span> <span class=\"o\">===</span> <span class=\"kc\">null</span> <span class=\"o\">&amp;&amp;</span> <span class=\"nx\">response</span><span class=\"p\">.</span><span class=\"nx\">statusCode</span> <span class=\"o\">===</span> <span class=\"mi\">200</span><span class=\"p\">){</span>\n                <span class=\"c1\">//返回200说明爬取成功，loadHtml为解析函数，会将我们需要的信息爬取出来存在数据库里\n</span><span class=\"c1\"></span>                <span class=\"nx\">loadHtml</span><span class=\"p\">(</span><span class=\"nx\">body</span><span class=\"p\">)</span>\n                <span class=\"nx\">resolve</span><span class=\"p\">()</span>\n            <span class=\"p\">}</span> <span class=\"k\">else</span> <span class=\"p\">{</span>\n                <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;链接失败&#39;</span><span class=\"p\">)</span>\n                <span class=\"nx\">resolve</span><span class=\"p\">()</span>\n            <span class=\"p\">}</span>\n        <span class=\"p\">})</span>\n    <span class=\"p\">})</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>接下来就碰到了Node的一个大坑，异步。由于异步架构，需要用到Promise来控制，比如在这个代理ip池里，会出现reqeust函数还没有爬完的时候就开始执行验证函数，直接导致错误。</p><p>所以我们这里需要分为两组，一组为异步爬取网站信息，另一组为异步验证代理ip，现在来改造一下上面的代码：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//生成网址\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">ipUrl</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">resolve</span><span class=\"p\">){</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">url</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;http://www.xicidaili.com/nn/&#39;</span>\n\n    <span class=\"kd\">var</span> <span class=\"nx\">options</span> <span class=\"o\">=</span> <span class=\"p\">{</span>\n        <span class=\"nx\">url</span><span class=\"o\">:</span><span class=\"s1\">&#39;http://www.xicidaili.com/nn/&#39;</span><span class=\"p\">,</span>\n        <span class=\"nx\">headers</span><span class=\"p\">,</span>\n    <span class=\"p\">}</span>\n\n    <span class=\"kd\">var</span> <span class=\"nx\">arr</span> <span class=\"o\">=</span> <span class=\"p\">[]</span>\n   \n    <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kd\">let</span> <span class=\"nx\">i</span> <span class=\"o\">=</span> <span class=\"mi\">1</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">&lt;=</span> <span class=\"mi\">5</span><span class=\"p\">;</span> <span class=\"nx\">i</span><span class=\"o\">++</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n        <span class=\"nx\">options</span><span class=\"p\">.</span><span class=\"nx\">url</span> <span class=\"o\">=</span> <span class=\"nx\">url</span> <span class=\"o\">+</span> <span class=\"nx\">i</span>\n        <span class=\"nx\">arr</span><span class=\"p\">.</span><span class=\"nx\">push</span><span class=\"p\">(</span><span class=\"nx\">requestProxy</span><span class=\"p\">(</span><span class=\"nx\">options</span><span class=\"p\">))</span>\n    <span class=\"p\">}</span>\n    <span class=\"c1\">//Promise.all接收一个数组，直到数组里所有的函数执行完毕才执行后面then里的内容\n</span><span class=\"c1\"></span>   <span class=\"c1\">//实际上放这里有点多余，后期会改过来，先将就\n</span><span class=\"c1\"></span>    <span class=\"nb\">Promise</span><span class=\"p\">.</span><span class=\"nx\">all</span><span class=\"p\">(</span><span class=\"nx\">arr</span><span class=\"p\">).</span><span class=\"nx\">then</span><span class=\"p\">(</span><span class=\"kd\">function</span><span class=\"p\">(){</span>\n        <span class=\"nx\">resolve</span><span class=\"p\">()</span>\n    <span class=\"p\">})</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//链接网络\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">requestProxy</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">options</span><span class=\"p\">){</span>\n    <span class=\"k\">return</span> <span class=\"k\">new</span> <span class=\"nb\">Promise</span><span class=\"p\">((</span><span class=\"nx\">resolve</span><span class=\"p\">,</span> <span class=\"nx\">reject</span><span class=\"p\">)</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n        <span class=\"nx\">request</span><span class=\"p\">(</span><span class=\"nx\">options</span><span class=\"p\">,</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">err</span><span class=\"p\">,</span> <span class=\"nx\">response</span><span class=\"p\">,</span> <span class=\"nx\">body</span><span class=\"p\">){</span>\n            <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">err</span> <span class=\"o\">===</span> <span class=\"kc\">null</span> <span class=\"o\">&amp;&amp;</span> <span class=\"nx\">response</span><span class=\"p\">.</span><span class=\"nx\">statusCode</span> <span class=\"o\">===</span> <span class=\"mi\">200</span><span class=\"p\">){</span>\n                <span class=\"nx\">loadHtml</span><span class=\"p\">(</span><span class=\"nx\">body</span><span class=\"p\">)</span>\n                <span class=\"nx\">resolve</span><span class=\"p\">()</span>\n            <span class=\"p\">}</span> <span class=\"k\">else</span> <span class=\"p\">{</span>\n                <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;链接失败&#39;</span><span class=\"p\">)</span>\n                <span class=\"nx\">resolve</span><span class=\"p\">()</span>\n            <span class=\"p\">}</span>\n        <span class=\"p\">})</span>\n    <span class=\"p\">})</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>接下来分析一下网页内容，这里我们只需要ip，端口，和类型即可：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//分析网页内容\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">loadHtml</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">data</span><span class=\"p\">){</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">l</span> <span class=\"o\">=</span> <span class=\"p\">[]</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">e</span> <span class=\"o\">=</span> <span class=\"nx\">cheerio</span><span class=\"p\">.</span><span class=\"nx\">load</span><span class=\"p\">(</span><span class=\"nx\">data</span><span class=\"p\">)</span>\n    <span class=\"nx\">e</span><span class=\"p\">(</span><span class=\"s1\">&#39;tr&#39;</span><span class=\"p\">).</span><span class=\"nx\">each</span><span class=\"p\">(</span><span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">i</span><span class=\"p\">,</span> <span class=\"nx\">elem</span><span class=\"p\">){</span>\n        <span class=\"nx\">l</span><span class=\"p\">[</span><span class=\"nx\">i</span><span class=\"p\">]</span> <span class=\"o\">=</span> <span class=\"nx\">e</span><span class=\"p\">(</span><span class=\"k\">this</span><span class=\"p\">).</span><span class=\"nx\">text</span><span class=\"p\">()</span>\n    <span class=\"p\">})</span>\n    <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kd\">let</span> <span class=\"nx\">i</span> <span class=\"o\">=</span> <span class=\"mi\">1</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">&lt;</span> <span class=\"nx\">l</span><span class=\"p\">.</span><span class=\"nx\">length</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">++</span><span class=\"p\">){</span>\n        <span class=\"c1\">//在提取到想要的内容后发现太乱，需要额外的函数进行处理优化\n</span><span class=\"c1\"></span>        <span class=\"nx\">clearN</span><span class=\"p\">(</span><span class=\"nx\">l</span><span class=\"p\">[</span><span class=\"nx\">i</span><span class=\"p\">].</span><span class=\"nx\">split</span><span class=\"p\">(</span><span class=\"s1\">&#39; &#39;</span><span class=\"p\">))</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//提取优化文件数据，\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">clearN</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">l</span><span class=\"p\">){</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">index</span> <span class=\"o\">=</span> <span class=\"mi\">0</span>\n    <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kd\">let</span> <span class=\"nx\">i</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">&lt;</span> <span class=\"nx\">l</span><span class=\"p\">.</span><span class=\"nx\">length</span><span class=\"p\">;</span> <span class=\"nx\">i</span><span class=\"o\">++</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n        <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">l</span><span class=\"p\">[</span><span class=\"nx\">i</span><span class=\"p\">]</span> <span class=\"o\">===</span> <span class=\"s1\">&#39;&#39;</span> <span class=\"o\">||</span> <span class=\"nx\">l</span><span class=\"p\">[</span><span class=\"nx\">i</span><span class=\"p\">]</span> <span class=\"o\">===</span> <span class=\"s1\">&#39;\\n&#39;</span><span class=\"p\">){</span>\n        <span class=\"p\">}</span><span class=\"k\">else</span><span class=\"p\">{</span>\n            <span class=\"kd\">var</span> <span class=\"nx\">ips</span> <span class=\"o\">=</span> <span class=\"nx\">l</span><span class=\"p\">[</span><span class=\"nx\">i</span><span class=\"p\">].</span><span class=\"nx\">replace</span><span class=\"p\">(</span><span class=\"s1\">&#39;\\n&#39;</span><span class=\"p\">,</span><span class=\"s1\">&#39;&#39;</span><span class=\"p\">)</span>\n            <span class=\"k\">if</span> <span class=\"p\">(</span><span class=\"nx\">index</span> <span class=\"o\">===</span> <span class=\"mi\">0</span><span class=\"p\">){</span>\n                <span class=\"kd\">var</span> <span class=\"nx\">ip</span> <span class=\"o\">=</span> <span class=\"nx\">ips</span>\n                <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;爬取ip:&#39;</span> <span class=\"o\">+</span> <span class=\"nx\">ip</span><span class=\"p\">)</span>\n            <span class=\"p\">}</span> <span class=\"k\">else</span> <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">index</span> <span class=\"o\">===</span> <span class=\"mi\">1</span><span class=\"p\">){</span>\n                <span class=\"kd\">var</span> <span class=\"nx\">port</span> <span class=\"o\">=</span> <span class=\"nx\">ips</span>\n            <span class=\"p\">}</span> <span class=\"k\">else</span> <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">index</span> <span class=\"o\">===</span> <span class=\"mi\">4</span><span class=\"p\">){</span>\n                <span class=\"kd\">var</span> <span class=\"nx\">type</span> <span class=\"o\">=</span> <span class=\"nx\">ips</span>\n            <span class=\"p\">}</span>\n            <span class=\"nx\">index</span> <span class=\"o\">+=</span> <span class=\"mi\">1</span>\n        <span class=\"p\">}</span>\n    <span class=\"p\">}</span>\n    <span class=\"c1\">//存入数据库\n</span><span class=\"c1\"></span>    <span class=\"nx\">insertDb</span><span class=\"p\">(</span><span class=\"nx\">ip</span><span class=\"p\">,</span> <span class=\"nx\">port</span><span class=\"p\">,</span> <span class=\"nx\">type</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>接着来实现数据库的存储删除功能：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//打开数据库\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">db</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"nx\">sqlite3</span><span class=\"p\">.</span><span class=\"nx\">Database</span><span class=\"p\">(</span><span class=\"s1\">&#39;Proxy.db&#39;</span><span class=\"p\">,</span> <span class=\"p\">(</span><span class=\"nx\">err</span><span class=\"p\">)</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n    <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"o\">!</span><span class=\"nx\">err</span><span class=\"p\">){</span>\n        <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;打开成功&#39;</span><span class=\"p\">)</span>\n    <span class=\"p\">}</span> <span class=\"k\">else</span> <span class=\"p\">{</span>\n        <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"nx\">err</span><span class=\"p\">)</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">})</span>\n\n<span class=\"nx\">db</span><span class=\"p\">.</span><span class=\"nx\">run</span><span class=\"p\">(</span><span class=\"s1\">&#39;CREATE TABLE proxy(ip char(15), port char(15), type char(15))&#39;</span><span class=\"p\">,(</span><span class=\"nx\">err</span><span class=\"p\">)</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{})</span>\n\n<span class=\"c1\">//添加数据文件\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">insertDb</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">ip</span><span class=\"p\">,</span> <span class=\"nx\">port</span><span class=\"p\">,</span> <span class=\"nx\">type</span><span class=\"p\">){</span>\n    <span class=\"nx\">db</span><span class=\"p\">.</span><span class=\"nx\">run</span><span class=\"p\">(</span><span class=\"s2\">&#34;INSERT INTO proxy VALUES(?, ?, ?)&#34;</span><span class=\"p\">,[</span><span class=\"nx\">ip</span><span class=\"p\">,</span><span class=\"nx\">port</span><span class=\"p\">,</span><span class=\"nx\">type</span><span class=\"p\">])</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//删除数据库文件\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">removeIp</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">ip</span><span class=\"p\">){</span>\n    <span class=\"nx\">db</span><span class=\"p\">.</span><span class=\"nx\">run</span><span class=\"p\">(</span><span class=\"sb\">`DELETE FROM proxy WHERE ip = &#39;</span><span class=\"si\">${</span> <span class=\"nx\">ip</span> <span class=\"si\">}</span><span class=\"sb\">&#39;`</span><span class=\"p\">,</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">err</span><span class=\"p\">){</span>\n        <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">err</span><span class=\"p\">){</span>\n            <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"nx\">err</span><span class=\"p\">)</span>\n        <span class=\"p\">}</span><span class=\"k\">else</span> <span class=\"p\">{</span>\n            <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;成功删除：&#39;</span><span class=\"o\">+</span><span class=\"nx\">ip</span><span class=\"p\">)</span>\n        <span class=\"p\">}</span>\n    <span class=\"p\">})</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//从数据库提取所有ip\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">allIp</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">callback</span><span class=\"p\">){</span>\n    <span class=\"k\">return</span> <span class=\"nx\">db</span><span class=\"p\">.</span><span class=\"nx\">all</span><span class=\"p\">(</span><span class=\"s1\">&#39;select * from proxy&#39;</span><span class=\"p\">,</span> <span class=\"nx\">callback</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>接着将数据库里的ip提取出来，进行测速筛选：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//从数据库提取出来的ip会通过这个类创建一个对象\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">Proxys</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">ip</span><span class=\"p\">,</span><span class=\"nx\">port</span><span class=\"p\">,</span><span class=\"nx\">type</span><span class=\"p\">){</span>\n    <span class=\"k\">this</span><span class=\"p\">.</span><span class=\"nx\">ip</span> <span class=\"o\">=</span> <span class=\"nx\">ip</span>\n    <span class=\"k\">this</span><span class=\"p\">.</span><span class=\"nx\">port</span> <span class=\"o\">=</span> <span class=\"nx\">port</span>\n    <span class=\"k\">this</span><span class=\"p\">.</span><span class=\"nx\">type</span> <span class=\"o\">=</span> <span class=\"nx\">type</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//提取所有ip，通过check函数检查\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">runIp</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">resolve</span><span class=\"p\">){</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">arr</span> <span class=\"o\">=</span> <span class=\"p\">[]</span>\n\n    <span class=\"nx\">allIp</span><span class=\"p\">((</span><span class=\"nx\">err</span><span class=\"p\">,</span><span class=\"nx\">response</span><span class=\"p\">)</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n        <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kd\">let</span> <span class=\"nx\">i</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">&lt;</span> <span class=\"nx\">response</span><span class=\"p\">.</span><span class=\"nx\">length</span><span class=\"p\">;</span> <span class=\"nx\">i</span><span class=\"o\">++</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n            <span class=\"kd\">var</span> <span class=\"nx\">ip</span> <span class=\"o\">=</span> <span class=\"nx\">response</span><span class=\"p\">[</span><span class=\"nx\">i</span><span class=\"p\">]</span>\n            <span class=\"kd\">var</span> <span class=\"nx\">proxy</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"nx\">Proxys</span><span class=\"p\">(</span><span class=\"nx\">ip</span><span class=\"p\">.</span><span class=\"nx\">ip</span><span class=\"p\">,</span> <span class=\"nx\">ip</span><span class=\"p\">.</span><span class=\"nx\">port</span><span class=\"p\">,</span> <span class=\"nx\">ip</span><span class=\"p\">.</span><span class=\"nx\">type</span><span class=\"p\">)</span>\n            <span class=\"nx\">arr</span><span class=\"p\">.</span><span class=\"nx\">push</span><span class=\"p\">(</span><span class=\"nx\">check</span><span class=\"p\">(</span><span class=\"nx\">proxy</span><span class=\"p\">,</span> <span class=\"nx\">headers</span><span class=\"p\">))</span>\n        <span class=\"p\">}</span>\n        <span class=\"nb\">Promise</span><span class=\"p\">.</span><span class=\"nx\">all</span><span class=\"p\">(</span><span class=\"nx\">arr</span><span class=\"p\">).</span><span class=\"nx\">then</span><span class=\"p\">(</span><span class=\"kd\">function</span><span class=\"p\">(){</span>\n            <span class=\"nx\">allIp</span><span class=\"p\">((</span><span class=\"nx\">err</span><span class=\"p\">,</span> <span class=\"nx\">response</span><span class=\"p\">)=&gt;{</span>\n                <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;\\n\\n可用ip为:&#39;</span><span class=\"p\">)</span>\n                <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"nx\">response</span><span class=\"p\">)</span>\n            <span class=\"p\">})</span>\n        <span class=\"p\">})</span>\n    <span class=\"p\">})</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//检测ip\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">check</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">proxy</span><span class=\"p\">,</span> <span class=\"nx\">headers</span><span class=\"p\">){</span>\n    <span class=\"k\">return</span> <span class=\"k\">new</span> <span class=\"nb\">Promise</span><span class=\"p\">((</span><span class=\"nx\">resolve</span><span class=\"p\">,</span> <span class=\"nx\">reject</span><span class=\"p\">)</span> <span class=\"p\">=&gt;</span> <span class=\"p\">{</span>\n        <span class=\"nx\">request</span><span class=\"p\">({</span>\n            <span class=\"c1\">//检测网址为百度的某个js文件，速度快，文件小，非常适合作为检测方式\n</span><span class=\"c1\"></span>            <span class=\"nx\">url</span><span class=\"o\">:</span><span class=\"s1\">&#39;http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js&#39;</span><span class=\"p\">,</span>\n            <span class=\"nx\">proxy</span><span class=\"o\">:</span> <span class=\"sb\">`</span><span class=\"si\">${</span><span class=\"nx\">proxy</span><span class=\"p\">.</span><span class=\"nx\">type</span><span class=\"p\">.</span><span class=\"nx\">toLowerCase</span><span class=\"p\">()</span><span class=\"si\">}</span><span class=\"sb\">://</span><span class=\"si\">${</span><span class=\"nx\">proxy</span><span class=\"p\">.</span><span class=\"nx\">ip</span><span class=\"si\">}</span><span class=\"sb\">:</span><span class=\"si\">${</span><span class=\"nx\">proxy</span><span class=\"p\">.</span><span class=\"nx\">port</span><span class=\"si\">}</span><span class=\"sb\">`</span><span class=\"p\">,</span>\n            <span class=\"nx\">method</span><span class=\"o\">:</span><span class=\"s1\">&#39;GET&#39;</span><span class=\"p\">,</span>\n            <span class=\"c1\">//这里延迟使用了2000，如果希望通过检测的ip多一些，可以适当延长\n</span><span class=\"c1\"></span>            <span class=\"nx\">timeout</span><span class=\"o\">:</span> <span class=\"mi\">2000</span><span class=\"p\">,</span>\n            <span class=\"nx\">headers</span><span class=\"p\">,}</span>\n            <span class=\"p\">,</span><span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">err</span><span class=\"p\">,</span> <span class=\"nx\">response</span><span class=\"p\">,</span><span class=\"nx\">body</span><span class=\"p\">){</span>\n                <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"o\">!</span><span class=\"nx\">err</span> <span class=\"o\">&amp;&amp;</span> <span class=\"nx\">response</span><span class=\"p\">.</span><span class=\"nx\">statusCode</span> <span class=\"o\">==</span> <span class=\"mi\">200</span><span class=\"p\">){</span>\n                    <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"nx\">proxy</span><span class=\"p\">.</span><span class=\"nx\">ip</span><span class=\"o\">+</span><span class=\"s1\">&#39; 链接成功：&#39;</span><span class=\"p\">)</span>\n                    <span class=\"nx\">resolve</span><span class=\"p\">()</span>\n                <span class=\"p\">}</span> <span class=\"k\">else</span> <span class=\"p\">{</span>\n                    <span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"nx\">proxy</span><span class=\"p\">.</span><span class=\"nx\">ip</span><span class=\"o\">+</span><span class=\"s1\">&#39; 链接失败&#39;</span><span class=\"p\">)</span>\n                    <span class=\"nx\">removeIp</span><span class=\"p\">(</span><span class=\"nx\">proxy</span><span class=\"p\">.</span><span class=\"nx\">ip</span><span class=\"p\">)</span>\n                    <span class=\"nx\">resolve</span><span class=\"p\">()</span>\n                <span class=\"p\">}</span>\n            <span class=\"p\">}</span>\n        <span class=\"p\">)</span>\n    <span class=\"p\">})</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>最后，来写几个运行函数：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"kd\">var</span> <span class=\"nx\">run</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"k\">new</span> <span class=\"nb\">Promise</span><span class=\"p\">(</span><span class=\"nx\">ipUrl</span><span class=\"p\">).</span><span class=\"nx\">then</span><span class=\"p\">(</span><span class=\"nx\">runIp</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n\n<span class=\"kd\">var</span> <span class=\"nx\">rcheck</span><span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"nx\">runIp</span><span class=\"p\">()</span>\n<span class=\"p\">}</span>\n\n<span class=\"kd\">var</span> <span class=\"nx\">ips</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">callback</span><span class=\"p\">){</span>\n    <span class=\"nx\">allIp</span><span class=\"p\">(</span><span class=\"nx\">callback</span><span class=\"p\">)</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>大功告成：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9b682897e060cbe1f2d73984623af872_b.jpg\" data-rawwidth=\"1798\" data-rawheight=\"1572\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1798\" data-original=\"https://pic3.zhimg.com/v2-9b682897e060cbe1f2d73984623af872_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1798&#39; height=&#39;1572&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1798\" data-rawheight=\"1572\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1798\" data-original=\"https://pic3.zhimg.com/v2-9b682897e060cbe1f2d73984623af872_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9b682897e060cbe1f2d73984623af872_b.jpg\"/></figure><p>完整代码可以通过github查看：<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Card007/Node-examples/blob/master/DoubanMovies.js\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">GitHub</a><br/>也可以访问我的网站，获取更多文章:<a href=\"https://link.zhihu.com/?target=http%3A//nothlu.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Nothlu.com</a></p>", 
+            "topic": [
+                {
+                    "tag": "Node.js", 
+                    "tagLink": "https://api.zhihu.com/topics/19569535"
+                }, 
+                {
+                    "tag": "网页爬虫", 
+                    "tagLink": "https://api.zhihu.com/topics/19794679"
+                }, 
+                {
+                    "tag": "JavaScript", 
+                    "tagLink": "https://api.zhihu.com/topics/19552521"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "等待等待", 
+                    "userLink": "https://www.zhihu.com/people/acbd4d0c299fa230f7c8ceaab19104a1", 
+                    "content": "666我用python，在学习，想从事爬虫专职", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "不坑老师", 
+                            "userLink": "https://www.zhihu.com/people/5e65b6f0c06d541d818261e0c3d1e3df", 
+                            "content": "还有爬虫专职吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "等待等待"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "有啊，那些新闻网站不都这样", 
+                            "likes": 0, 
+                            "replyToAuthor": "不坑老师"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "贾宝玉", 
+                    "userLink": "https://www.zhihu.com/people/a85ad38ff1e6b3ea2681e377ff2d6162", 
+                    "content": "我当年的方法差不多…只不过是开两个脚本，一个脚本不停的抓取代理，去重然后存储，另一个不停得验证…", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "太子垫下", 
+                    "userLink": "https://www.zhihu.com/people/16311f001b910cbe86a6d20850fe4385", 
+                    "content": "虽然用不着，但是想收藏[赞同]", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>收藏吧，万一有用得着的时候</p><a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-cb8443f07a41298e45191cef11b90fd2.gif\" data-width=\"\" data-height=\"\">[干杯]</a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "太子垫下"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "团结", 
+                    "userLink": "https://www.zhihu.com/people/67e8bad6da5a9ec7397508f340bb504d", 
+                    "content": "<p>所以实现原理就是抓别的？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61583602", 
+            "userName": "林城", 
+            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+            "upvote": 157, 
+            "title": "Node.js可能是最适合写简易小爬虫的语言，速度极快、代码极少", 
+            "content": "<p>“凡是能用JS 写出来的，最终都会用JS 写”，这是一个非常著名的定律，用在爬虫这里再合适不过了。</p><p>一说到爬虫很多人都会想到python，的确，python语法简洁，还有scrapy这一类强大的工具可以使用。</p><p>但是如果只是想写一个小爬虫，爬取论坛里的几张帖子，帖子里面的几个楼层，然后合成一篇文章。这点小数据量使用scrapy就有点杀鸡用牛刀了，而且还得设置一堆东西，非常麻烦，不够灵活。</p><p>而JavaScript就非常适合这一类小爬虫，首先是自带异步架构，能同时爬取多张网页内容，效率上来说比python高多了，我用两个语言写过爬取代理ip的爬虫，当JavaScript爬完时吓了我一跳，这速度快极了。</p><p>当然，python也可以通过开启多线程、多协程来实现同时爬取多张网页，但是这就比默认就异步的JavaScript麻烦多了。</p><p>所以，如果想简单、高效地写个小爬虫，非JavaScript莫属。</p><p>有多快多简单呢？现在就来写个豆瓣top250的爬虫，爬取10张网页，250部电影的名字、评分和封面地址；</p><h2><b>1.如何安装</b></h2><p>要通过js写爬虫，需要用到三个模块，request、cheerio和fs，其中fs内置了，只需要安装前两个即可，安装命令：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"nx\">npm</span> <span class=\"nx\">install</span> <span class=\"nx\">request</span> <span class=\"nx\">cheerio</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><h2>2.获取网页内容</h2><p>request可以链接网页，爬取内容，这里我们只需要给它传递两个参数就行，一个为url（网址），另一个为回调函数；</p><p>request会向回调函数传递三个参数，分别是error（错误信息），response（响应信息），body（网页内容）：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"kd\">var</span> <span class=\"nx\">request</span> <span class=\"o\">=</span> <span class=\"nx\">require</span><span class=\"p\">(</span><span class=\"s1\">&#39;request&#39;</span><span class=\"p\">)</span>\n<span class=\"kd\">var</span> <span class=\"nx\">cheerio</span> <span class=\"o\">=</span> <span class=\"nx\">require</span><span class=\"p\">(</span><span class=\"s1\">&#39;cheerio&#39;</span><span class=\"p\">)</span>\n<span class=\"kd\">var</span> <span class=\"nx\">fs</span> <span class=\"o\">=</span> <span class=\"nx\">require</span><span class=\"p\">(</span><span class=\"s1\">&#39;fs&#39;</span><span class=\"p\">)</span>\n<span class=\"kd\">var</span> <span class=\"nx\">movies</span> <span class=\"o\">=</span> <span class=\"p\">[]</span>\n\n<span class=\"kd\">var</span> <span class=\"nx\">requstMovie</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">url</span><span class=\"p\">){</span>\n\t<span class=\"nx\">request</span><span class=\"p\">(</span><span class=\"s1\">&#39;https://movie.douban.com/top250&#39;</span><span class=\"p\">,</span><span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">error</span><span class=\"p\">,</span> <span class=\"nx\">response</span><span class=\"p\">,</span> <span class=\"nx\">body</span><span class=\"p\">)){</span>\n\t\t<span class=\"c1\">//res.statusCode 为200则表示链接成功\n</span><span class=\"c1\"></span>\t\t<span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">error</span> <span class=\"o\">===</span> <span class=\"kc\">null</span> <span class=\"o\">&amp;&amp;</span> <span class=\"nx\">response</span><span class=\"p\">.</span><span class=\"nx\">statusCode</span> <span class=\"o\">===</span> <span class=\"mi\">200</span><span class=\"p\">){</span>\n\t\t\t<span class=\"nx\">console</span><span class=\"p\">.</span><span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;链接成功&#39;</span><span class=\"p\">)</span>\n\t\t\t<span class=\"c1\">//使用cheerio来解析body（网页内容），提取我们想要的信息\n</span><span class=\"c1\"></span>\t\t\t<span class=\"kd\">var</span> <span class=\"nx\">e</span> <span class=\"o\">=</span> <span class=\"nx\">cheerio</span><span class=\"p\">.</span><span class=\"nx\">load</span><span class=\"p\">(</span><span class=\"nx\">body</span><span class=\"p\">)</span>\n\t\t\t\n\t\t\t<span class=\"c1\">//通过分析网页结构，我们发现豆瓣每部电影都通过item属性隔开\n</span><span class=\"c1\"></span>\t\t\t<span class=\"kd\">var</span> <span class=\"nx\">movieDiv</span> <span class=\"o\">=</span> <span class=\"nx\">e</span><span class=\"p\">(</span><span class=\"s1\">&#39;.item&#39;</span><span class=\"p\">)</span>\n\t\n\t\t\t<span class=\"c1\">//通过for循环来提取每部电影里的信息\n</span><span class=\"c1\"></span>\t\t\t<span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kd\">let</span> <span class=\"nx\">i</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">&lt;</span> <span class=\"nx\">movieDiv</span><span class=\"p\">.</span><span class=\"nx\">length</span><span class=\"p\">;</span> <span class=\"nx\">i</span><span class=\"o\">++</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n\t\t\t\t\t<span class=\"c1\">//takeMovie函数能提取电影名称、评分和封面\n</span><span class=\"c1\"></span>\t                <span class=\"kd\">let</span> <span class=\"nx\">movieInfo</span> <span class=\"o\">=</span> <span class=\"nx\">takeMovie</span><span class=\"p\">(</span><span class=\"nx\">movieDiv</span><span class=\"p\">[</span><span class=\"nx\">i</span><span class=\"p\">])</span>\n\t                <span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;正在爬取&#39;</span> <span class=\"o\">+</span> <span class=\"nx\">movieInfo</span><span class=\"p\">.</span><span class=\"nx\">name</span><span class=\"p\">)</span>\n\t                <span class=\"c1\">//将提取到的电影放入数组\n</span><span class=\"c1\"></span>\t                <span class=\"nx\">movies</span><span class=\"p\">.</span><span class=\"nx\">push</span><span class=\"p\">(</span><span class=\"nx\">movieInfo</span><span class=\"p\">)</span>\n\t            <span class=\"p\">}</span>\n\t\t<span class=\"p\">}</span>\n\t<span class=\"p\">})</span>\n<span class=\"p\">}</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><h2>3.提取电影信息</h2><p>通过创建一个类来包含我们想要的属性，在每次调用takeMovie函数提取信息时都会初始化这个类，然后赋值给相应的属性；</p><p>之后放入movies数组里；</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//电影的类\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">movie</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"k\">this</span><span class=\"p\">.</span><span class=\"nx\">id</span> <span class=\"o\">=</span> <span class=\"mi\">0</span>\n    <span class=\"k\">this</span><span class=\"p\">.</span><span class=\"nx\">name</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;&#39;</span>\n    <span class=\"k\">this</span><span class=\"p\">.</span><span class=\"nx\">score</span> <span class=\"o\">=</span> <span class=\"mi\">0</span>\n    <span class=\"k\">this</span><span class=\"p\">.</span><span class=\"nx\">pic</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;&#39;</span>\n<span class=\"p\">}</span>\n\n<span class=\"kd\">var</span> <span class=\"nx\">takeMovie</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">div</span><span class=\"p\">){</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">e</span> <span class=\"o\">=</span> <span class=\"nx\">cheerio</span><span class=\"p\">.</span><span class=\"nx\">load</span><span class=\"p\">(</span><span class=\"nx\">div</span><span class=\"p\">)</span>\n    <span class=\"c1\">//将类初始化\n</span><span class=\"c1\"></span>    <span class=\"kd\">var</span> <span class=\"nx\">m</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"nx\">movie</span><span class=\"p\">()</span>\n    <span class=\"nx\">m</span><span class=\"p\">.</span><span class=\"nx\">name</span> <span class=\"o\">=</span> <span class=\"nx\">e</span><span class=\"p\">(</span><span class=\"s1\">&#39;.title&#39;</span><span class=\"p\">).</span><span class=\"nx\">text</span><span class=\"p\">()</span>\n    <span class=\"nx\">m</span><span class=\"p\">.</span><span class=\"nx\">score</span> <span class=\"o\">=</span> <span class=\"nx\">e</span><span class=\"p\">(</span><span class=\"s1\">&#39;.rating_num&#39;</span><span class=\"p\">).</span><span class=\"nx\">text</span><span class=\"p\">()</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">pic</span> <span class=\"o\">=</span> <span class=\"nx\">e</span><span class=\"p\">(</span><span class=\"s1\">&#39;.pic&#39;</span><span class=\"p\">)</span>\n    <span class=\"c1\">//cheerio如果要提取某个属性的内容，可以通过attr()\n</span><span class=\"c1\"></span>    <span class=\"nx\">m</span><span class=\"p\">.</span><span class=\"nx\">pic</span> <span class=\"o\">=</span> <span class=\"nx\">pic</span><span class=\"p\">.</span><span class=\"nx\">find</span><span class=\"p\">(</span><span class=\"s1\">&#39;img&#39;</span><span class=\"p\">).</span><span class=\"nx\">attr</span><span class=\"p\">(</span><span class=\"s1\">&#39;src&#39;</span><span class=\"p\">)</span>\n    <span class=\"nx\">m</span><span class=\"p\">.</span><span class=\"nx\">id</span> <span class=\"o\">=</span> <span class=\"nx\">pic</span><span class=\"p\">.</span><span class=\"nx\">find</span><span class=\"p\">(</span><span class=\"s1\">&#39;em&#39;</span><span class=\"p\">).</span><span class=\"nx\">text</span><span class=\"p\">()</span>\n    <span class=\"k\">return</span> <span class=\"nx\">m</span>\n<span class=\"p\">}</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><h2>4.爬取所有top250</h2><p>现在要爬取所有的top250信息，总共有10张网页，每张包含25部电影信息，创建一个函数来生成每张网页的网址，然后通过request进行爬取：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"kd\">var</span> <span class=\"nx\">top250Url</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"kd\">let</span> <span class=\"nx\">l</span> <span class=\"o\">=</span> <span class=\"p\">[</span><span class=\"s1\">&#39;https://movie.douban.com/top250&#39;</span><span class=\"p\">]</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">urlContinue</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;https://movie.douban.com/top250?start=&#39;</span>\n    <span class=\"kd\">let</span> <span class=\"nx\">cont</span> <span class=\"o\">=</span> <span class=\"mi\">25</span>\n    <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kd\">let</span> <span class=\"nx\">i</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">&lt;</span> <span class=\"mi\">10</span><span class=\"p\">;</span> <span class=\"nx\">i</span><span class=\"o\">++</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n        <span class=\"nx\">l</span><span class=\"p\">.</span><span class=\"nx\">push</span><span class=\"p\">(</span><span class=\"nx\">urlContinue</span><span class=\"o\">+</span><span class=\"nx\">cont</span><span class=\"p\">)</span>\n        <span class=\"nx\">cont</span> <span class=\"o\">+=</span> <span class=\"mi\">25</span>\n    <span class=\"p\">}</span>\n    <span class=\"k\">return</span> <span class=\"nx\">l</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//爬取所有网页\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">__main</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(){</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">url</span> <span class=\"o\">=</span> <span class=\"nx\">top250Url</span><span class=\"p\">()</span>\n    <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kd\">let</span> <span class=\"nx\">i</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">&lt;</span> <span class=\"nx\">url</span><span class=\"p\">.</span><span class=\"nx\">length</span><span class=\"p\">;</span> <span class=\"nx\">i</span><span class=\"o\">++</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n        <span class=\"nx\">requstMovie</span><span class=\"p\">(</span><span class=\"nx\">url</span><span class=\"p\">[</span><span class=\"nx\">i</span><span class=\"p\">])</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">}</span>\n\n<span class=\"nx\">__main</span><span class=\"p\">()</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><h2>5.异步架构的坑</h2><p>当我们爬取完所有的网页后就会发现，movies里的电影信息并不按我们爬取的顺序，这也是异步架构一个需要注意的大坑；</p><p>在爬取第一张网页时，JavaScript不会等到处理结束才接着爬第二张，有时候各个网页返回的速度有所差异，会造成先爬取的不一定会先出结果，因此在电影排序上会出现混乱；</p><p>所以我们还需要对爬取下来的内容重新进行排序，然后保存：</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"c1\">//sortMovie回调函数能比较两个对象属性大小\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">sortMovie</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">id</span><span class=\"p\">){</span>\n    <span class=\"k\">return</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">obj</span> <span class=\"p\">,</span><span class=\"nx\">obj1</span><span class=\"p\">){</span>\n        <span class=\"kd\">var</span> <span class=\"nx\">value</span> <span class=\"o\">=</span> <span class=\"nx\">obj</span><span class=\"p\">[</span><span class=\"nx\">id</span><span class=\"p\">]</span>\n        <span class=\"kd\">var</span> <span class=\"nx\">value1</span> <span class=\"o\">=</span> <span class=\"nx\">obj1</span><span class=\"p\">[</span><span class=\"nx\">id</span><span class=\"p\">]</span>\n        <span class=\"k\">return</span> <span class=\"nx\">value</span> <span class=\"o\">-</span> <span class=\"nx\">value1</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">}</span>\n\n<span class=\"c1\">//保存文件\n</span><span class=\"c1\"></span><span class=\"kd\">var</span> <span class=\"nx\">saveMovie</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">movies</span><span class=\"p\">){</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">path</span> <span class=\"o\">=</span> <span class=\"s1\">&#39;movie.txt&#39;</span>\n    <span class=\"kd\">var</span> <span class=\"nx\">data</span> <span class=\"o\">=</span> <span class=\"nx\">JSON</span><span class=\"p\">.</span><span class=\"nx\">stringify</span><span class=\"p\">(</span><span class=\"nx\">movies</span><span class=\"p\">,</span> <span class=\"kc\">null</span><span class=\"p\">,</span> <span class=\"mi\">2</span><span class=\"p\">)</span>\n    <span class=\"nx\">fs</span><span class=\"p\">.</span><span class=\"nx\">appendFile</span><span class=\"p\">(</span><span class=\"nx\">path</span><span class=\"p\">,</span> <span class=\"nx\">data</span><span class=\"p\">,</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">error</span><span class=\"p\">){</span>\n        <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"nx\">error</span> <span class=\"o\">==</span> <span class=\"kc\">null</span><span class=\"p\">){</span>\n            <span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;保存成功！&#39;</span><span class=\"p\">)</span>\n        <span class=\"p\">}</span> <span class=\"k\">else</span> <span class=\"p\">{</span>\n            <span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;保存失败&#39;</span><span class=\"p\">,</span><span class=\"nx\">error</span><span class=\"p\">)</span>\n        <span class=\"p\">}</span>\n    <span class=\"p\">})</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>我们需要等到所有网页都爬取分析完才执行sortMovie和saveMovie函数，由于JavaScript是异步，即使这两个函数放在最底部也会在分析完之前执行；</p><p>一般会通过Promise来控制异步，但是为了方便，这里我们通过if来判断，在每次爬取网页后，都会判断movies里是否包含250条信息，如果有则说明全部爬取到了:</p><div class=\"highlight\"><pre><code class=\"language-js\"><span class=\"kd\">var</span> <span class=\"nx\">requstMovie</span> <span class=\"o\">=</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">url</span><span class=\"p\">){</span>\n    <span class=\"nx\">request</span><span class=\"p\">(</span><span class=\"nx\">url</span><span class=\"p\">,</span> <span class=\"kd\">function</span><span class=\"p\">(</span><span class=\"nx\">error</span><span class=\"p\">,</span> <span class=\"nx\">response</span><span class=\"p\">,</span> <span class=\"nx\">body</span><span class=\"p\">){</span>\n        <span class=\"k\">if</span> <span class=\"p\">(</span><span class=\"nx\">error</span> <span class=\"o\">===</span> <span class=\"kc\">null</span> <span class=\"o\">&amp;&amp;</span> <span class=\"nx\">response</span><span class=\"p\">.</span><span class=\"nx\">statusCode</span> <span class=\"o\">===</span> <span class=\"mi\">200</span><span class=\"p\">){</span>\n            <span class=\"kd\">var</span> <span class=\"nx\">e</span> <span class=\"o\">=</span> <span class=\"nx\">cheerio</span><span class=\"p\">.</span><span class=\"nx\">load</span><span class=\"p\">(</span><span class=\"nx\">body</span><span class=\"p\">)</span>\n            <span class=\"kd\">var</span> <span class=\"nx\">movieDiv</span> <span class=\"o\">=</span> <span class=\"nx\">e</span><span class=\"p\">(</span><span class=\"s1\">&#39;.item&#39;</span><span class=\"p\">)</span>\n            <span class=\"k\">for</span> <span class=\"p\">(</span><span class=\"kd\">let</span> <span class=\"nx\">i</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span> <span class=\"nx\">i</span> <span class=\"o\">&lt;</span> <span class=\"nx\">movieDiv</span><span class=\"p\">.</span><span class=\"nx\">length</span><span class=\"p\">;</span> <span class=\"nx\">i</span><span class=\"o\">++</span><span class=\"p\">)</span> <span class=\"p\">{</span>\n                <span class=\"kd\">let</span> <span class=\"nx\">movieInfo</span> <span class=\"o\">=</span> <span class=\"nx\">takeMovie</span><span class=\"p\">(</span><span class=\"nx\">movieDiv</span><span class=\"p\">[</span><span class=\"nx\">i</span><span class=\"p\">])</span>\n                <span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;正在爬取&#39;</span> <span class=\"o\">+</span> <span class=\"nx\">movieInfo</span><span class=\"p\">.</span><span class=\"nx\">name</span><span class=\"p\">)</span>\n                <span class=\"nx\">movies</span><span class=\"p\">.</span><span class=\"nx\">push</span><span class=\"p\">(</span><span class=\"nx\">movieInfo</span><span class=\"p\">)</span>\n            <span class=\"p\">}</span>\n            <span class=\"c1\">//判断movies数量\n</span><span class=\"c1\"></span>            <span class=\"k\">if</span> <span class=\"p\">(</span><span class=\"nx\">movies</span><span class=\"p\">.</span><span class=\"nx\">length</span> <span class=\"o\">===</span> <span class=\"mi\">250</span><span class=\"p\">){</span>\n            \t<span class=\"c1\">//通过sort将数组内每两个元素放入比较函数\n</span><span class=\"c1\"></span>                <span class=\"kd\">var</span> <span class=\"nx\">sortM</span> <span class=\"o\">=</span> <span class=\"nx\">movies</span><span class=\"p\">.</span><span class=\"nx\">sort</span><span class=\"p\">(</span><span class=\"nx\">sortMovie</span><span class=\"p\">(</span><span class=\"s1\">&#39;id&#39;</span><span class=\"p\">))</span>\n                <span class=\"c1\">//保存文件\n</span><span class=\"c1\"></span>                <span class=\"nx\">saveMovie</span><span class=\"p\">(</span><span class=\"nx\">sortM</span><span class=\"p\">)</span>\n            <span class=\"p\">}</span>\n        <span class=\"p\">}</span> <span class=\"k\">else</span> <span class=\"p\">{</span>\n            <span class=\"nx\">log</span><span class=\"p\">(</span><span class=\"s1\">&#39;爬取失败&#39;</span><span class=\"p\">,</span> <span class=\"nx\">error</span><span class=\"p\">)</span>\n        <span class=\"p\">}</span>\n    <span class=\"p\">})</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>到这里，爬虫已经写完了，来运行一下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-86a241708061291cf4ffbed4218f34ea_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2775\" data-rawheight=\"1293\" class=\"origin_image zh-lightbox-thumb\" width=\"2775\" data-original=\"https://pic3.zhimg.com/v2-86a241708061291cf4ffbed4218f34ea_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2775&#39; height=&#39;1293&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"2775\" data-rawheight=\"1293\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2775\" data-original=\"https://pic3.zhimg.com/v2-86a241708061291cf4ffbed4218f34ea_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-86a241708061291cf4ffbed4218f34ea_b.jpg\"/></figure><p>完整代码可以通过github查看：<a href=\"https://link.zhihu.com/?target=https%3A//github.com/Card007/Node-examples/blob/master/DoubanMovies.js\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">GitHub</a></p><p>也可以访问我的网站，获取更多文章:<a href=\"https://link.zhihu.com/?target=http%3A//nothlu.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Nothlu.com</a></p>", 
+            "topic": [
+                {
+                    "tag": "爬虫 (计算机网络)", 
+                    "tagLink": "https://api.zhihu.com/topics/19577498"
+                }, 
+                {
+                    "tag": "Node.js", 
+                    "tagLink": "https://api.zhihu.com/topics/19569535"
+                }, 
+                {
+                    "tag": "JavaScript", 
+                    "tagLink": "https://api.zhihu.com/topics/19552521"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "推荐使用我写的工具：reqman", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "杰哥哥", 
+                    "userLink": "https://www.zhihu.com/people/f81ea96bebc8b37f75180debec5dab6d", 
+                    "content": "php写更简单吧，curl", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>哈哈，php没接触过，主要和python对比</p><a class=\"comment_sticker\" href=\"https://pic2.zhimg.com/v2-f4bcc55c40efedc78401a3b6c59e50e5.gif\" data-width=\"\" data-height=\"\">[吃惊]</a>", 
+                            "likes": 1, 
+                            "replyToAuthor": "杰哥哥"
+                        }, 
+                        {
+                            "userName": "左华栋", 
+                            "userLink": "https://www.zhihu.com/people/861e621372a776724b188f9af25fc612", 
+                            "content": "php 别闹了。 node 主要优势在于和浏览器有一样的V8 ，可以渲染DOM ，并拿取数据。<br>php-cli 效率还行，但爬虫生态只是玩具", 
+                            "likes": 2, 
+                            "replyToAuthor": "杰哥哥"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>内存，cpu占用极高。。。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "左华栋", 
+                            "userLink": "https://www.zhihu.com/people/861e621372a776724b188f9af25fc612", 
+                            "content": "谈不上极高，相比 go  c 肯定高。<br>效率还是比 python ,php 这些脚本语言高不少，V8 不是盖的", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "est", 
+                    "userLink": "https://www.zhihu.com/people/20387b3ef58b6af28a7255d8d442cd6f", 
+                    "content": "<div class=\"highlight\"><pre><code class=\"language-text\"><span></span>npm install request cheerio\n</code></pre></div><p><br></p><p><br></p><p>光这一行就1个小时过去了。2G 硬盘空间没了。</p><p><br></p><p>python 所有 macOS Linux 都自带。</p><p><br></p><p>其实我之前在 win 下用 JScript 写过爬虫。无他，因为 OS 自带的就是溜。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>这两个库2g吗？下错了吧，我刚看了下，20多m而已</p>", 
+                            "likes": 4, 
+                            "replyToAuthor": "est"
+                        }, 
+                        {
+                            "userName": "南荣自明", 
+                            "userLink": "https://www.zhihu.com/people/dc3789e32bb7d1d68c72333d92d6016d", 
+                            "content": "你这就夸张了撒，而且就算你用Python写，也不会自带解析HTML的库", 
+                            "likes": 1, 
+                            "replyToAuthor": "est"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "笑一笑", 
+                    "userLink": "https://www.zhihu.com/people/eace7cdb4a34512018fcbbf7bf543500", 
+                    "content": "道理我都懂，可我看不懂JavaScript😂", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Peter", 
+                    "userLink": "https://www.zhihu.com/people/34ff37b09b95f34b11ba65d46d443760", 
+                    "content": "排序太复杂了，request是支持Promise的，直接async await就行", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "南荣自明", 
+                    "userLink": "https://www.zhihu.com/people/dc3789e32bb7d1d68c72333d92d6016d", 
+                    "content": "你这甚至于不用nodejs，直接在浏览器里面写ajax都可以", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "LostInYou", 
+                            "userLink": "https://www.zhihu.com/people/29205e348afedb8075ffcf0645c3a733", 
+                            "content": "<p>听说过cors吗?</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "南荣自明"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "半注销用户", 
+                    "userLink": "https://www.zhihu.com/people/a550e560640cacd29d54888c01039f4d", 
+                    "content": "有ruby简单？ nokogiri强大的HTML解析库，标准库自带http请求， manchanize库提交表单， 还要啥？", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "liny", 
+                    "userLink": "https://www.zhihu.com/people/8ab7646e92bae444854052ffe540212d", 
+                    "content": "<p>用puppeteer吧，会更容易上手一些</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>自从用了puppeteerb ，腰不酸腿不疼了</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "我再补充两句", 
+                    "userLink": "https://www.zhihu.com/people/0e08341675743a8ec7110ba41eb986ee", 
+                    "content": "<p>能不能从淘宝把商铺的商品数量，店铺级别，和商铺链接趴下来？？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>可以，就是需要准备大量的代理ip，不然爬几家就被封了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "我再补充两句"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>去神箭手，上面有现成的。直接购买电商爬电就好了，省事</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "我再补充两句"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "扩散性百万咸面包", 
+                    "userLink": "https://www.zhihu.com/people/9a4a1828b8fef55614661e5a6ac4ea2d", 
+                    "content": "这个年代怎么还有到处var的[捂脸]", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "Zombie110year", 
+                            "userLink": "https://www.zhihu.com/people/a1cd971efb1c7c3ca3d28871ce7509b8", 
+                            "content": "nodejs 好像还是 es5？", 
+                            "likes": 0, 
+                            "replyToAuthor": "扩散性百万咸面包"
+                        }, 
+                        {
+                            "userName": "扩散性百万咸面包", 
+                            "userLink": "https://www.zhihu.com/people/9a4a1828b8fef55614661e5a6ac4ea2d", 
+                            "content": "不是啊", 
+                            "likes": 0, 
+                            "replyToAuthor": "Zombie110year"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "javaichiban", 
+                    "userLink": "https://www.zhihu.com/people/6a070627239de2f078686b4775f33c9e", 
+                    "content": "<p>一直想写篇类似的文的，其实不止简易小爬虫，复杂大爬虫也一样适合啊，首先搞爬虫迟早要面对前端js的反爬，而且js的工具链很齐全的，tampermonkey, anyproxy, puppeteer, chrome-remote-interface, 而且性能在动态语言里属于黑科技级别</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Maxzel", 
+                    "userLink": "https://www.zhihu.com/people/ecf68bc9e3747943f6aa7e210867e213", 
+                    "content": "推荐一个好东西pupeteer", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "神秘人", 
+                    "userLink": "https://www.zhihu.com/people/62fe8a8322985228f28cb779ee49b0f5", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//blog.csdn.net/Chen_sure/article/details/85283230\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">blog.csdn.net/Chen_sure</span><span class=\"invisible\">/article/details/85283230</span><span class=\"ellipsis\"></span></a>个人有篇拙文，欢迎指教</p>", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "lazyGeorge", 
+                    "userLink": "https://www.zhihu.com/people/d7c1ec20f6ed1db1aa68f1ffd7c90f56", 
+                    "content": "<p>cheerio只能爬静态网站的东西嗷</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "zotille", 
+                    "userLink": "https://www.zhihu.com/people/d1e06c28610008669e80e0b637ef191d", 
+                    "content": "其实，python也有现成的request库可以用，不一定非要用scrapy...用python做爬虫的好处是python有优秀的数据处理功能，数据是要经过处理才能发挥作用的，单纯去请求信息是没啥意思的...", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>对于小爬虫来说，数据处理上两者没什么区别，还没写过大爬虫，暂时说不出来</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "zotille"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "胡中元", 
+                    "userLink": "https://www.zhihu.com/people/1269a67667c6d15d940ba98bc6672187", 
+                    "content": "node回调机制写小爬虫会把自己烦死", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "simon3000", 
+                            "userLink": "https://www.zhihu.com/people/56f3795b634a0e8123c1f87469ded13a", 
+                            "content": "<p>async await呀→_→</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "胡中元"
+                        }, 
+                        {
+                            "userName": "胡中元", 
+                            "userLink": "https://www.zhihu.com/people/1269a67667c6d15d940ba98bc6672187", 
+                            "content": "从回调地狱变成了await地狱[机智]", 
+                            "likes": 0, 
+                            "replyToAuthor": "simon3000"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "李大狗 Leeduckgo", 
+                    "userLink": "https://www.zhihu.com/people/5bdd701ab39cefaa1099ed033cd0c163", 
+                    "content": "有点意思", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "火锅小王子", 
+                    "userLink": "https://www.zhihu.com/people/c22721050bee0bd420eb2bda4a56660c", 
+                    "content": "<p>用request-promise包 async await就可以顺序加载啦</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "推荐使用我写的工具：reqman", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "杰哥哥", 
+                    "userLink": "https://www.zhihu.com/people/f81ea96bebc8b37f75180debec5dab6d", 
+                    "content": "php写更简单吧，curl", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>哈哈，php没接触过，主要和python对比</p><a class=\"comment_sticker\" href=\"https://pic2.zhimg.com/v2-f4bcc55c40efedc78401a3b6c59e50e5.gif\" data-width=\"\" data-height=\"\">[吃惊]</a>", 
+                            "likes": 1, 
+                            "replyToAuthor": "杰哥哥"
+                        }, 
+                        {
+                            "userName": "左华栋", 
+                            "userLink": "https://www.zhihu.com/people/861e621372a776724b188f9af25fc612", 
+                            "content": "php 别闹了。 node 主要优势在于和浏览器有一样的V8 ，可以渲染DOM ，并拿取数据。<br>php-cli 效率还行，但爬虫生态只是玩具", 
+                            "likes": 2, 
+                            "replyToAuthor": "杰哥哥"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>内存，cpu占用极高。。。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "左华栋", 
+                            "userLink": "https://www.zhihu.com/people/861e621372a776724b188f9af25fc612", 
+                            "content": "谈不上极高，相比 go  c 肯定高。<br>效率还是比 python ,php 这些脚本语言高不少，V8 不是盖的", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "est", 
+                    "userLink": "https://www.zhihu.com/people/20387b3ef58b6af28a7255d8d442cd6f", 
+                    "content": "<div class=\"highlight\"><pre><code class=\"language-text\"><span></span>npm install request cheerio\n</code></pre></div><p><br></p><p><br></p><p>光这一行就1个小时过去了。2G 硬盘空间没了。</p><p><br></p><p>python 所有 macOS Linux 都自带。</p><p><br></p><p>其实我之前在 win 下用 JScript 写过爬虫。无他，因为 OS 自带的就是溜。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>这两个库2g吗？下错了吧，我刚看了下，20多m而已</p>", 
+                            "likes": 4, 
+                            "replyToAuthor": "est"
+                        }, 
+                        {
+                            "userName": "南荣自明", 
+                            "userLink": "https://www.zhihu.com/people/dc3789e32bb7d1d68c72333d92d6016d", 
+                            "content": "你这就夸张了撒，而且就算你用Python写，也不会自带解析HTML的库", 
+                            "likes": 1, 
+                            "replyToAuthor": "est"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "笑一笑", 
+                    "userLink": "https://www.zhihu.com/people/eace7cdb4a34512018fcbbf7bf543500", 
+                    "content": "道理我都懂，可我看不懂JavaScript😂", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Peter", 
+                    "userLink": "https://www.zhihu.com/people/34ff37b09b95f34b11ba65d46d443760", 
+                    "content": "排序太复杂了，request是支持Promise的，直接async await就行", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "南荣自明", 
+                    "userLink": "https://www.zhihu.com/people/dc3789e32bb7d1d68c72333d92d6016d", 
+                    "content": "你这甚至于不用nodejs，直接在浏览器里面写ajax都可以", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "LostInYou", 
+                            "userLink": "https://www.zhihu.com/people/29205e348afedb8075ffcf0645c3a733", 
+                            "content": "<p>听说过cors吗?</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "南荣自明"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "半注销用户", 
+                    "userLink": "https://www.zhihu.com/people/a550e560640cacd29d54888c01039f4d", 
+                    "content": "有ruby简单？ nokogiri强大的HTML解析库，标准库自带http请求， manchanize库提交表单， 还要啥？", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "liny", 
+                    "userLink": "https://www.zhihu.com/people/8ab7646e92bae444854052ffe540212d", 
+                    "content": "<p>用puppeteer吧，会更容易上手一些</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>自从用了puppeteerb ，腰不酸腿不疼了</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "我再补充两句", 
+                    "userLink": "https://www.zhihu.com/people/0e08341675743a8ec7110ba41eb986ee", 
+                    "content": "<p>能不能从淘宝把商铺的商品数量，店铺级别，和商铺链接趴下来？？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>可以，就是需要准备大量的代理ip，不然爬几家就被封了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "我再补充两句"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>去神箭手，上面有现成的。直接购买电商爬电就好了，省事</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "我再补充两句"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "扩散性百万咸面包", 
+                    "userLink": "https://www.zhihu.com/people/9a4a1828b8fef55614661e5a6ac4ea2d", 
+                    "content": "这个年代怎么还有到处var的[捂脸]", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "Zombie110year", 
+                            "userLink": "https://www.zhihu.com/people/a1cd971efb1c7c3ca3d28871ce7509b8", 
+                            "content": "nodejs 好像还是 es5？", 
+                            "likes": 0, 
+                            "replyToAuthor": "扩散性百万咸面包"
+                        }, 
+                        {
+                            "userName": "扩散性百万咸面包", 
+                            "userLink": "https://www.zhihu.com/people/9a4a1828b8fef55614661e5a6ac4ea2d", 
+                            "content": "不是啊", 
+                            "likes": 0, 
+                            "replyToAuthor": "Zombie110year"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "javaichiban", 
+                    "userLink": "https://www.zhihu.com/people/6a070627239de2f078686b4775f33c9e", 
+                    "content": "<p>一直想写篇类似的文的，其实不止简易小爬虫，复杂大爬虫也一样适合啊，首先搞爬虫迟早要面对前端js的反爬，而且js的工具链很齐全的，tampermonkey, anyproxy, puppeteer, chrome-remote-interface, 而且性能在动态语言里属于黑科技级别</p>", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Maxzel", 
+                    "userLink": "https://www.zhihu.com/people/ecf68bc9e3747943f6aa7e210867e213", 
+                    "content": "推荐一个好东西pupeteer", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "神秘人", 
+                    "userLink": "https://www.zhihu.com/people/62fe8a8322985228f28cb779ee49b0f5", 
+                    "content": "<p><a href=\"http://link.zhihu.com/?target=https%3A//blog.csdn.net/Chen_sure/article/details/85283230\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">blog.csdn.net/Chen_sure</span><span class=\"invisible\">/article/details/85283230</span><span class=\"ellipsis\"></span></a>个人有篇拙文，欢迎指教</p>", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "lazyGeorge", 
+                    "userLink": "https://www.zhihu.com/people/d7c1ec20f6ed1db1aa68f1ffd7c90f56", 
+                    "content": "<p>cheerio只能爬静态网站的东西嗷</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "zotille", 
+                    "userLink": "https://www.zhihu.com/people/d1e06c28610008669e80e0b637ef191d", 
+                    "content": "其实，python也有现成的request库可以用，不一定非要用scrapy...用python做爬虫的好处是python有优秀的数据处理功能，数据是要经过处理才能发挥作用的，单纯去请求信息是没啥意思的...", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "林城", 
+                            "userLink": "https://www.zhihu.com/people/c2f3baabd84744974869d8ecd1a3b208", 
+                            "content": "<p>对于小爬虫来说，数据处理上两者没什么区别，还没写过大爬虫，暂时说不出来</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "zotille"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "胡中元", 
+                    "userLink": "https://www.zhihu.com/people/1269a67667c6d15d940ba98bc6672187", 
+                    "content": "node回调机制写小爬虫会把自己烦死", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "simon3000", 
+                            "userLink": "https://www.zhihu.com/people/56f3795b634a0e8123c1f87469ded13a", 
+                            "content": "<p>async await呀→_→</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "胡中元"
+                        }, 
+                        {
+                            "userName": "胡中元", 
+                            "userLink": "https://www.zhihu.com/people/1269a67667c6d15d940ba98bc6672187", 
+                            "content": "从回调地狱变成了await地狱[机智]", 
+                            "likes": 0, 
+                            "replyToAuthor": "simon3000"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "李大狗 Leeduckgo", 
+                    "userLink": "https://www.zhihu.com/people/5bdd701ab39cefaa1099ed033cd0c163", 
+                    "content": "有点意思", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "火锅小王子", 
+                    "userLink": "https://www.zhihu.com/people/c22721050bee0bd420eb2bda4a56660c", 
+                    "content": "<p>用request-promise包 async await就可以顺序加载啦</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/Nothlu"
+}

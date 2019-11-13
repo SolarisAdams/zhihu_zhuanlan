@@ -1,0 +1,500 @@
+{
+    "title": "房产经纪人大本营", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/awang-zhu-53", 
+        "https://www.zhihu.com/people/chen-si-lu-26-31", 
+        "https://www.zhihu.com/people/wang-qi-feng-06-20", 
+        "https://www.zhihu.com/people/shu-shu-shu-57-97", 
+        "https://www.zhihu.com/people/hymo-98", 
+        "https://www.zhihu.com/people/you-zha-zhu-ti-shou", 
+        "https://www.zhihu.com/people/bu-yan-de-tong", 
+        "https://www.zhihu.com/people/lu-kun-chao-ku", 
+        "https://www.zhihu.com/people/he-long-15-98-44", 
+        "https://www.zhihu.com/people/rong-xiao-hua-90-41", 
+        "https://www.zhihu.com/people/zi-yuan-hui-shou-li-yong", 
+        "https://www.zhihu.com/people/qia-qia-28-3-61", 
+        "https://www.zhihu.com/people/zhu-zi-wang-25", 
+        "https://www.zhihu.com/people/kuo-da-74", 
+        "https://www.zhihu.com/people/yilong-29-77", 
+        "https://www.zhihu.com/people/ben-pao-57-58", 
+        "https://www.zhihu.com/people/mo-tuo-a-76", 
+        "https://www.zhihu.com/people/zhen-ge-12-53", 
+        "https://www.zhihu.com/people/xiao-qiu-yin-jin-zhen-gu", 
+        "https://www.zhihu.com/people/jiang-yin-yi-37", 
+        "https://www.zhihu.com/people/zoyoshou-liao-jiu-mei", 
+        "https://www.zhihu.com/people/law-treewar", 
+        "https://www.zhihu.com/people/alex-9-31", 
+        "https://www.zhihu.com/people/fang-chan-fen-xi-37", 
+        "https://www.zhihu.com/people/guai-ren-43-6-74", 
+        "https://www.zhihu.com/people/chen-kai-hua-75-48", 
+        "https://www.zhihu.com/people/zong-you-diao-min-xiang-xue-zhen-22", 
+        "https://www.zhihu.com/people/ai-zai-shen-qiu-54-38", 
+        "https://www.zhihu.com/people/linyinsane", 
+        "https://www.zhihu.com/people/yong-qing-fang-chan-xiao-tan", 
+        "https://www.zhihu.com/people/de-ling-de-ling-5", 
+        "https://www.zhihu.com/people/fu-wa-58-93", 
+        "https://www.zhihu.com/people/neko-28-33", 
+        "https://www.zhihu.com/people/xi-an-di-chan-lie-hen", 
+        "https://www.zhihu.com/people/zhang-da-ming-70-55", 
+        "https://www.zhihu.com/people/fu-ming-zhu-ban-sheng", 
+        "https://www.zhihu.com/people/qing-you-er-90", 
+        "https://www.zhihu.com/people/ai-ai-ai-anny", 
+        "https://www.zhihu.com/people/swag-99-79", 
+        "https://www.zhihu.com/people/zheng-yu-93-36", 
+        "https://www.zhihu.com/people/wang-xian-sen-49-4", 
+        "https://www.zhihu.com/people/zhi-bu-zu-88", 
+        "https://www.zhihu.com/people/dong-shi-de-kanqiu", 
+        "https://www.zhihu.com/people/mou-mou-mou-he-he-he-mou-mou-mou-18", 
+        "https://www.zhihu.com/people/ant-93-26", 
+        "https://www.zhihu.com/people/xing-yao-wei-54", 
+        "https://www.zhihu.com/people/dixonchoi", 
+        "https://www.zhihu.com/people/si-shi-er-fei-55-50", 
+        "https://www.zhihu.com/people/dannie-44-1", 
+        "https://www.zhihu.com/people/zhuzhu-zi", 
+        "https://www.zhihu.com/people/zi-se-you-dian-qing-diao", 
+        "https://www.zhihu.com/people/zhang-yong-2-10-71", 
+        "https://www.zhihu.com/people/yue-luo-wu-ti-25-44-36", 
+        "https://www.zhihu.com/people/ji-zi-1-96", 
+        "https://www.zhihu.com/people/zi-zai-du-xing-94-2", 
+        "https://www.zhihu.com/people/zhe-ye-40-25-26", 
+        "https://www.zhihu.com/people/qiao-ba-74-3", 
+        "https://www.zhihu.com/people/zi-fei-yu-83-81", 
+        "https://www.zhihu.com/people/yin-guo-68-64", 
+        "https://www.zhihu.com/people/heyahhn", 
+        "https://www.zhihu.com/people/zhe-zhe-89-78", 
+        "https://www.zhihu.com/people/ying-shi-yi", 
+        "https://www.zhihu.com/people/fang-ze-lin-99", 
+        "https://www.zhihu.com/people/mu-jin-song-20", 
+        "https://www.zhihu.com/people/ju-pei-xuan-98", 
+        "https://www.zhihu.com/people/yu-sheng-62-18-94", 
+        "https://www.zhihu.com/people/lu-lu-91-2-84", 
+        "https://www.zhihu.com/people/san-sui-37-4", 
+        "https://www.zhihu.com/people/liu-wen-qiang-75", 
+        "https://www.zhihu.com/people/wu-xin-wen-44", 
+        "https://www.zhihu.com/people/wang-sheng-34-38", 
+        "https://www.zhihu.com/people/xie-xian-sheng-99-64-51", 
+        "https://www.zhihu.com/people/shi-guang-shi-71", 
+        "https://www.zhihu.com/people/ping-yang-jun-62", 
+        "https://www.zhihu.com/people/huang-teng-hui-17", 
+        "https://www.zhihu.com/people/cao-mu-jie-bing-42", 
+        "https://www.zhihu.com/people/ma-ka-ba-ka-88", 
+        "https://www.zhihu.com/people/shu-ju-da-yan", 
+        "https://www.zhihu.com/people/xiao-jian-38-83-44", 
+        "https://www.zhihu.com/people/qing-feng-44-73-4", 
+        "https://www.zhihu.com/people/li-jing-43-35-75", 
+        "https://www.zhihu.com/people/zhang-lei-86-1-7", 
+        "https://www.zhihu.com/people/lllvy", 
+        "https://www.zhihu.com/people/li-yang-95-20-86", 
+        "https://www.zhihu.com/people/hao-hao-94-28", 
+        "https://www.zhihu.com/people/xiao-zhu-16-14-48", 
+        "https://www.zhihu.com/people/li-li-li-li-li-li-li-li-84-10", 
+        "https://www.zhihu.com/people/cao-xiao-tong", 
+        "https://www.zhihu.com/people/liu-xin-11-12-43", 
+        "https://www.zhihu.com/people/shuang-wai-wai-76-11", 
+        "https://www.zhihu.com/people/linfen8238", 
+        "https://www.zhihu.com/people/shan-shan-24-23", 
+        "https://www.zhihu.com/people/hu-teng-fei-39-18", 
+        "https://www.zhihu.com/people/he-an-yi-57", 
+        "https://www.zhihu.com/people/chen-hui-25-80", 
+        "https://www.zhihu.com/people/ying-guang-fen-hong-10", 
+        "https://www.zhihu.com/people/xiaopeicat", 
+        "https://www.zhihu.com/people/shilongyu-29", 
+        "https://www.zhihu.com/people/ying-liu-jie-64", 
+        "https://www.zhihu.com/people/song-jun-45-9", 
+        "https://www.zhihu.com/people/zi-you-hu-xi-1", 
+        "https://www.zhihu.com/people/wang-zhen-hua-68-19", 
+        "https://www.zhihu.com/people/nicolas77", 
+        "https://www.zhihu.com/people/bu-bei-bu-xi-25-15", 
+        "https://www.zhihu.com/people/yi-hu-ou-60", 
+        "https://www.zhihu.com/people/wei-chen-50-32-67", 
+        "https://www.zhihu.com/people/xiao-chen-ya-14", 
+        "https://www.zhihu.com/people/xuan-zhuan-mu-ma-81-95", 
+        "https://www.zhihu.com/people/zheng-xiao-min-27", 
+        "https://www.zhihu.com/people/luo-na-er-duo-er-gun", 
+        "https://www.zhihu.com/people/feng-zi-65-79-41", 
+        "https://www.zhihu.com/people/lcx19851126", 
+        "https://www.zhihu.com/people/lu-wei-78-41-2", 
+        "https://www.zhihu.com/people/sui-feng-73-29", 
+        "https://www.zhihu.com/people/lan-diao-xiao-ma-ge", 
+        "https://www.zhihu.com/people/jancen-51", 
+        "https://www.zhihu.com/people/16mncr5", 
+        "https://www.zhihu.com/people/qing-shui-c", 
+        "https://www.zhihu.com/people/zhang-dan-13-93", 
+        "https://www.zhihu.com/people/jiachengfangchan", 
+        "https://www.zhihu.com/people/jlcg", 
+        "https://www.zhihu.com/people/ling-11-69", 
+        "https://www.zhihu.com/people/fu-yao-zhu-49", 
+        "https://www.zhihu.com/people/lou-quan-15", 
+        "https://www.zhihu.com/people/nao-nao-yu-xiao-yu", 
+        "https://www.zhihu.com/people/liu-li-wa-89-50", 
+        "https://www.zhihu.com/people/jing-luo-41-7", 
+        "https://www.zhihu.com/people/lu-chi-t", 
+        "https://www.zhihu.com/people/saeda", 
+        "https://www.zhihu.com/people/sun-bao-jun-36", 
+        "https://www.zhihu.com/people/jin-bu-san-56", 
+        "https://www.zhihu.com/people/da-lei-zi-23-94", 
+        "https://www.zhihu.com/people/chang-li-nan", 
+        "https://www.zhihu.com/people/pu-xiao-man-7", 
+        "https://www.zhihu.com/people/xiang-shang-ing-76", 
+        "https://www.zhihu.com/people/kobe-39-27", 
+        "https://www.zhihu.com/people/er-wu-zi-33", 
+        "https://www.zhihu.com/people/yao-shuo-hua-12", 
+        "https://www.zhihu.com/people/lipeng-44", 
+        "https://www.zhihu.com/people/mo-xi-ge-47", 
+        "https://www.zhihu.com/people/bu-hui-fa-zhu-de-teng-da-xian", 
+        "https://www.zhihu.com/people/jin-xuan-33-1", 
+        "https://www.zhihu.com/people/yu-fei-mu-22", 
+        "https://www.zhihu.com/people/li-cheng-58-63-11", 
+        "https://www.zhihu.com/people/cryli-de-cao", 
+        "https://www.zhihu.com/people/han-wei-88-60", 
+        "https://www.zhihu.com/people/zhan-tian-yi-21-50", 
+        "https://www.zhihu.com/people/fang-lin-37-63", 
+        "https://www.zhihu.com/people/dbg-36", 
+        "https://www.zhihu.com/people/pei-lin-85", 
+        "https://www.zhihu.com/people/suey-81", 
+        "https://www.zhihu.com/people/te-bie-guan-xin-33", 
+        "https://www.zhihu.com/people/yang-zhong-da-bao-liao", 
+        "https://www.zhihu.com/people/yu-yang-60-39-14", 
+        "https://www.zhihu.com/people/kerry-28-89", 
+        "https://www.zhihu.com/people/yan-jiu-zhe-76", 
+        "https://www.zhihu.com/people/46813848", 
+        "https://www.zhihu.com/people/li-jun-fei-79", 
+        "https://www.zhihu.com/people/hahahaya", 
+        "https://www.zhihu.com/people/gao-chun-ji-42", 
+        "https://www.zhihu.com/people/ning-meng-cha-76-68", 
+        "https://www.zhihu.com/people/yi-shi-fan-hua-68-99", 
+        "https://www.zhihu.com/people/ma-da-xia-67-19", 
+        "https://www.zhihu.com/people/wo-lai-zi-jiang-hu-44", 
+        "https://www.zhihu.com/people/xu-song-bo-64", 
+        "https://www.zhihu.com/people/freddy-yang-15", 
+        "https://www.zhihu.com/people/zhu-wei-jun-32", 
+        "https://www.zhihu.com/people/albis-71", 
+        "https://www.zhihu.com/people/lao-hu-li-59-9", 
+        "https://www.zhihu.com/people/chen-mou-mou-88-61-42", 
+        "https://www.zhihu.com/people/liu-liu-24-86-49", 
+        "https://www.zhihu.com/people/shu-qing-68-4", 
+        "https://www.zhihu.com/people/xun-mi-zhao-zi-ji-58", 
+        "https://www.zhihu.com/people/bu-wang-chu-xin-19-88-33", 
+        "https://www.zhihu.com/people/xia-chun-31-84", 
+        "https://www.zhihu.com/people/jian-lu-bu-zou-46", 
+        "https://www.zhihu.com/people/xiuxiu-5-43", 
+        "https://www.zhihu.com/people/zhong-jue-qian-25", 
+        "https://www.zhihu.com/people/wo-ke-yi-34-17", 
+        "https://www.zhihu.com/people/wei-yu-chou-mou-55-11", 
+        "https://www.zhihu.com/people/liu-du-88-49", 
+        "https://www.zhihu.com/people/zhan-yun-9", 
+        "https://www.zhihu.com/people/pa-9-pen", 
+        "https://www.zhihu.com/people/mikomay", 
+        "https://www.zhihu.com/people/li-ying-22-66", 
+        "https://www.zhihu.com/people/guo-xiao-mo-99", 
+        "https://www.zhihu.com/people/zhao-zhi-hao-3", 
+        "https://www.zhihu.com/people/zhi-yu-zheng-nian-zhao-yan-wei-lai", 
+        "https://www.zhihu.com/people/xing-zhi-wen-8", 
+        "https://www.zhihu.com/people/jing-jing-22-38-77", 
+        "https://www.zhihu.com/people/wang-fu-xiao-29", 
+        "https://www.zhihu.com/people/jing-chang-35", 
+        "https://www.zhihu.com/people/fang-yi-73-6", 
+        "https://www.zhihu.com/people/shao-qian-43-49", 
+        "https://www.zhihu.com/people/chang-xiao-suo", 
+        "https://www.zhihu.com/people/xin-xiao-qing-98"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40121367", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 7, 
+            "title": "房产中介老板必看：开一家房产中介公司，应该注意哪些？", 
+            "content": "<p>无论是家门口，还是随便某个繁华街道，一眼望去，最多的居然是大大小小的房产中介公司。如果去一个刚开建的楼盘周围逛逛，你会发现这里甚至聚集着十几家甚至是几十家的房产中介公司，真的是房产公司比米铺还多。</p><p>开房产中介，就真的那么赚钱吗？要是自己开一家房产中介，又应该注意点什么呢？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-423a2f9d34890fe255c642199ff11887_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-423a2f9d34890fe255c642199ff11887_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;360&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-423a2f9d34890fe255c642199ff11887_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-423a2f9d34890fe255c642199ff11887_b.jpg\"/></figure><p><b>一、在房产中介公司，人才是核心竞争力，企业的竞争归根结底是人才的竞争</b></p><p>1、人才资源是房地产中介机构最活跃的因素，在门店的日常业务流程中，对于房客源的获取、市场等信息的收集都依赖于经纪人，所以中介企业要想在市场竞争中求得发展，应建立一支思想好、素质高、业务精的专业队伍。</p><p>2、房产中介服务工作涉及面广，具有综合性、广泛性的特点，是多学科知识的综合能力体现。经纪人的专业知识、经验、外貌、口才、做人做事的诚信度皆为客户评价的标准。因此，房产中介公司只有提高招收经纪人标准，才能逐步抬升门店从业水平。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1a9e450878e21dac597fa343fcac060a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-1a9e450878e21dac597fa343fcac060a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-1a9e450878e21dac597fa343fcac060a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1a9e450878e21dac597fa343fcac060a_b.jpg\"/></figure><p><b>二、做好商圈精耕</b></p><p>1、商圈精耕是房产中介门店和经纪人的基础作业之一，商圈精耕可以提升房产中介公司门店在本商圈的知名度与信任度。</p><p>2、为了增加附近社区的成交率以及市场的占有率，房客源也将源源不断，同时可以让自己的门店长期保持地区优势。</p><p>3、房产中介门店实际营运中，在其特定的市场商圈区域内可以是一家店或多家店同时经营，合作资源提高，进而缩短开发客户指定楼盘产品的时间，使房产交易的配对率得到明显提高。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-aa3d2b85b4775eb2e7872d738700e951_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"515\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-aa3d2b85b4775eb2e7872d738700e951_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;515&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"515\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-aa3d2b85b4775eb2e7872d738700e951_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-aa3d2b85b4775eb2e7872d738700e951_b.jpg\"/></figure><p><b>三、充分利用品牌优势</b></p><p>随着房产交易的日益规范化和制度化，开房产中介加盟店似乎成了一种趋势。它最大的好处是加盟者在经营中能获得总公司不同方面的支持。比如在店铺形象方面，总公司会提供店铺统一的装修标准、装饰布局和统一的办公用品，甚至包括名片的制作都是统一的。</p><p>更重要的是，加盟店将获得无形的品牌优势，因为所有的加盟店都是资源共享。一般一个好的总公司还会为加盟者定期提供培训，保证客户在不同的加盟 店享受同样的服务。在广告宣传方面，品牌商为了宣传自己品牌形象做出的种种市场推广，就等于帮加盟店做了广告。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-60ab0a6814cc4266f46782a36aac9fa5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"338\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-60ab0a6814cc4266f46782a36aac9fa5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;338&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"338\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-60ab0a6814cc4266f46782a36aac9fa5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-60ab0a6814cc4266f46782a36aac9fa5_b.jpg\"/></figure><p><b>四、快速推广房源</b></p><p>现在很多房产中介除了做二手房和租房外，还会做新房联动，或者直接做渠道商。分销开发商的新房房源，特别是一些大开发商楼盘，很多房产中介都想尽办法做独家，向行业内的经纪人做推广。</p><p>一般情况下，新房分销的周期普遍在一个月，甚至半个月的时间，如果没有达到开发商的业绩要求，就会被淘汰出局。在短时间内，中介公司就要向行业内的经纪人发起联动，这就考验房产中介老板的推盘能力和人脉了。这时候中介老板可以在客靠上发布新房的房源，因为这个平台上有近10万的房产经纪人，可以快速向他们推广。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "房地产中介", 
+                    "tagLink": "https://api.zhihu.com/topics/19701388"
+                }, 
+                {
+                    "tag": "中介", 
+                    "tagLink": "https://api.zhihu.com/topics/19633883"
+                }, 
+                {
+                    "tag": "房产营销", 
+                    "tagLink": "https://api.zhihu.com/topics/19920698"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40117104", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 2, 
+            "title": "房产中介必看：客户抱怨你的房源比同行的差，你该怎么做？", 
+            "content": "<p>对于刚刚从事房地产销售工作的新人，大都会犯一个相同的错误：将自己公司的房源说得完美无缺。而当客户抱怨他的房子不如其他公司的好时，这时候他又会竭力去争辩，企图改变客户的想法，这种做法是非常不明智的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-44b0e1056498aa7e64748130cfdd7093_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"291\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;291&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"400\" data-rawheight=\"291\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic4.zhimg.com/v2-44b0e1056498aa7e64748130cfdd7093_b.jpg\"/></figure><p>实际上，“金无足赤，人无完人”，十全十美的东西现在没有，将来也不会有。社会在发展，人的需求也在不断变化，任何产品都要随着社会的进步而不断改进。房产业务人员雄辩滔滔的年代已经过去，取而代之的是那些敢于承认自己的不足，客观看待自己及自己公司产品的务实的业务人员。</p><p>因此，当房产经纪人遇到客户提出自己的房源存在某些不足，同时告诉某竞争对手的房子如何优秀时，房产经纪人一定要保持开放的头脑，客观地看待问题，理智地同客户一起分析自己公司房源的优点和缺点、竞争公司房源的优点和缺点，从而让客户自己去做选择。</p><p>当客户提到竞争对手时，房产经纪人也一定不要说竞争对手如何不好，因为每个公司都有它自身的优势，不能否定别人的优势。</p><p>当客户拿自己公司的房源与竞争对手的作比较时，房产经纪人不妨采用以下方法。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-5c7bb7fb60c18a37a96dc6bb2a6ea7b8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"380\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-5c7bb7fb60c18a37a96dc6bb2a6ea7b8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;380&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"380\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-5c7bb7fb60c18a37a96dc6bb2a6ea7b8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-5c7bb7fb60c18a37a96dc6bb2a6ea7b8_b.jpg\"/></figure><p><b>1、赞美客户的眼光</b></p><p>“刘哥，您的眼光真不错，您提到的这家公司的确是一家不错的企业。”</p><p><b>2、肯定竞争对手的优点，客观地看待问题</b></p><p>“我相信××公司成立这么多年，肯定有它的优势，毕竟一家公司存在这么久，就一定有它存在的道理，他们在××领域的确做得不错。”</p><p><b>3、即使指出对方的不足，也要委婉含蓄</b></p><p>“以前有几个客户也像您一样在开始时选择了××公司的房子，后来在一些服务环节上闹了些不愉快，以至于后面过户办证时拖了很久，让他们非常着急。”</p><p><b>4、提出自己的建议，让客户做决定</b></p><p>“我把这些告诉您，并不是说您一定要选择我们成交，我没办法替您做决定，我只是给您一个客观的建议，希望在您有需要时，能第一时间想到我和我们的公司。”</p><p><b>总结</b></p><p>以上的谈话内容非常客观，客户很容易接受；另外，房产经纪人在跟客户谈自己的房源时，也需要保持开放的头脑，客观地看问题，适当承认自己房源的一些缺点，有时会让客户更加信赖自己。因为客户也知道，天底下根本就不存在十全十美的房子。</p><p>一个能客观对待自己及竞争对手的房产经纪人，是一个值得信赖的人。客户在选择一家合作单位时，第一时间选择的一定是房产经纪人这个人。</p><p>客观看待问题的反面是不诚实。常有一小部分房产经纪人为了获得一笔订单，不惜隐瞒事实真相，甚至夸大房子功能或服务范围，也许这样做能让他暂时赢得一两个客户。可是如果养成这样的工作习惯，久而久之，他最终将失去所有客户。房产经纪人可以上客靠平台，学习更多的房产销售技能，增值自己。</p>", 
+            "topic": [
+                {
+                    "tag": "租房", 
+                    "tagLink": "https://api.zhihu.com/topics/19551783"
+                }, 
+                {
+                    "tag": "中介", 
+                    "tagLink": "https://api.zhihu.com/topics/19633883"
+                }, 
+                {
+                    "tag": "房地产中介", 
+                    "tagLink": "https://api.zhihu.com/topics/19701388"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40041015", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 7, 
+            "title": "房地产销售之拓客13式！", 
+            "content": "<p>拓客是当下最为直接和有效的客户召集方式之一，其成本低、成效高的优势备受众多项目青睐，其中拓客方式主要分为十三种。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1.商圈派单计</b></p><p>适用项目：中高端、中端及中端以下</p><p>工作周期选择：基本贯穿整个项目营销过程，派单量最大的时间应选在蓄客期和强销期。</p><p>拓客人员选择：根据各项目实际人员和项目体量安排，一般至少需要配备一名拓客主管</p><p>拓客范围选择：项目周边和全市重点的繁华区域，人流量和商圈档次是商圈选择的主要标准。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2.动线堵截计</b></p><p>适用项目：中高端、中端及中端以下</p><p>工作周期选择：蓄客期和强销期</p><p>拓客人员选择：以销售员和小蜜蜂为主</p><p>拓客范围选择：项目周边各大主干道及路口，目标客户工作区域的上下班公交站点和沿途必经之路，以及去往日常生活中主要消费场所的沿途（如超市、菜场、餐馆等）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.社区覆盖计</b></p><p>适用项目：中端及中端以下，主要针对大型普通住宅项目的首期和中小型项目的尾房</p><p>工作周期选择：主要针对蓄客期，其次为强销期</p><p>拓客人员选择：以销售员和小蜜蜂为主，可配备一名拓客主管</p><p>拓客范围选择：项目所在区域板块内的人员稳定聚集社区</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4.展会爆破计</b></p><p>适用项目：高端、中高端、中端</p><p>工作时间选择：蓄客期和强销期。</p><p>工作人员选择：精英销售员。</p><p>工作地点选择：大型展会现场。</p><p>工作目的：通过展会向目标人群准确传递项目情况，并现场拉客。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>5、油站夹报计</b></p><p>适用项目：主要针对中高端项目和投资型项目</p><p>工作周期选择：以蓄客期为主</p><p>拓客人员选择：前期与加油站协调工作由策划人员负责，后期物料派送由案场销售人员负责</p><p>拓客范围选择：项目所属区域内和周边商圈内油站、城区范围内到客率高的所有油站</p><p>工作目的：传递项目信息，捕捉意向客群</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>6、商场巡展计</b></p><p>适用项目：所有项目类型均可</p><p>工作周期选择：蓄客期及强销期</p><p>拓客人员选择：以销售和拓展专员为主，配备一名拓客主管</p><p>拓客范围选择：项目周边一定距离半径内的重点商场、商业中心、重点市场和其他重点公共场所；交通动线范围内的目标场所</p><p>工作目的：广泛传递项目信息，挖掘和收集客户信息</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>7、企业团购计</b></p><p>适用项目：中高端、中端及中端以下</p><p>工作时间选择：项目的蓄客期和尾盘阶段。</p><p>拓客人员选择：经理级以上或有特殊关系的业务员</p><p>拓客范围选择：项目周边的学校、医院、工厂园区等各种企事业单位</p><p>工作目的：通过与企业谈团购，以略低的价格换取项目的快速去化</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>8、动迁嫁接计</b></p><p>适用项目：普通及中高档住宅项目</p><p>工作周期选择：营销全程</p><p>拓客人员选择：以市场部人员及销售员为主</p><p>拓客范围选择：项目同区域内拆迁小区，其它区域内同品质拆迁小区</p><p>工作目的：传递项目信息，锁定拆迁客户</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>9、商户直销计</b></p><p>适用项目：适合所有项目，但更适合普通住宅、投资或自营类项目，尤其是小型项目</p><p>拓客范围选择：项目周边及城市各类型专业市场，如建材市场、家电市场、食品市场等</p><p>工作目的：广泛宣传项目，传递项目信息，挖掘潜在客户</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>10、客户陌拜计</b></p><p>适用项目：高端、中高端、中端及中端以下</p><p>工作周期选择：项目营销全程</p><p>拓客人员选择：以2人为一组进行拜访，组数由项目情况而定</p><p>拓客范围选择：政府行政机构、医疗和教育机构、大型企事业单位、市内办公人群聚集区、市内个体商家聚集区</p><p>工作目的：通过针对性的客源方向挖掘项目的意向客户</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>11、竞品拦截计</b></p><p>适用项目：适合所有的项目，高端住宅类项目、投资类项目效果会更好</p><p>工作周期选择：营销全程</p><p>拓客人员选择：以销售员为主</p><p>拓客范围选择：与项目品质相同、相近或品质比待推项目略差些的项目附近；同区域的周边项目附近</p><p>工作目的：针对性的截杀项目周边竞品的客户</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>12、商家联动计</b></p><p>适用项目：适合所有项目，尤其是高端项目</p><p>工作周期选择：营销全程</p><p>工作人员选择：以策划为主</p><p>拓客范围选择：与项目目标客源相吻合的相关商家、机构或团体，如：车友会、教育协会、奢侈品展览会等</p><p>工作目的：通过与其它商家进行联动，达到资源共享、互利互益的目的</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>13、微信营销计</b></p><p>适用项目：适合所有项目</p><p>工作周期选择：无时间限制，随时随地营销</p><p>工作人员选择：以房产经纪人、经纪代理公司为主</p><p>拓客范围选择：微信好友、朋友圈好友转发</p><p>工作目的：通过用客靠经纪端，分享创意海报、项目多图、网页链接分享到朋友圈，邀约好友关注订阅自己的项目，随时接收项目动态。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "房地产销售", 
+                    "tagLink": "https://api.zhihu.com/topics/19671253"
+                }, 
+                {
+                    "tag": "房地产行业", 
+                    "tagLink": "https://api.zhihu.com/topics/19702429"
+                }, 
+                {
+                    "tag": "房地产", 
+                    "tagLink": "https://api.zhihu.com/topics/19555355"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40036704", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 5, 
+            "title": "房产中介新手必看：做好工作业务，才能开更多的单子！", 
+            "content": "<p>做一行爱一行，房产中介这行也如是。为什么其他的房产中介新手总能开单？因为他们掌握了工作业务的窍门，除了勤奋外，找到正确的方向才是重要的。那么，下面就为大家推荐房产中介新手必看之如何做好工作业务，争取开更多的单！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c95046ed80b57b9ea5746f02e120b496_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-c95046ed80b57b9ea5746f02e120b496_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;375&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"375\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-c95046ed80b57b9ea5746f02e120b496_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c95046ed80b57b9ea5746f02e120b496_b.jpg\"/></figure><p>万丈高楼平地起，根基十分重要。房产中介新手要做好基础工作，熟悉自己所负责片区的楼盘，无论是出售还是出租的房子，它的优劣势，以及业主、房东的喜好、品性，有助于房产中介新手开展以后的工作。</p><p>房产中介新手在打房源广告时一定要用心，做出来的效果要漂亮，能够吸引到客户的眼球。房产中介新手在拍摄房源图片时，一定要光线好，角度好，这样拍出来的照片才会高大上、干净整洁，另外，每发一次广告时都要对图片和文字进行再次创新编辑，突出房源亮点、卖点，切记不要夸张、重复。</p><p>这一点除了房产中介新手必看外，老员工也要知，那就是心态。要保持良好的心态，不怕吃苦，相信自己努力付出就会有收获。即使客户没有成交，但你真诚的为他们服务，他们也会对你有好一个的印象。</p><p>除了要留个好印象之外，也要学会分析客户心理。通过交谈、接触等了解客户的想法、需求，从而精准匹配房源。即使带看了没有成交，那也要在带看后，即使获取客户的反馈，不管好坏与否，房产中介新手都不要当天回访，等到第二天。</p><p>另外，房产中介新手也要对你手上的客户分类，抓住精准客户，了解他们的买房需求，隔三差五可以电话联系客户，买房记得找你，间接性地刷你的存在感。</p><p>互联网快速发展的时代，互联网办公软件一定要懂。房产中介新手要善于使用房产软件，如客靠经纪人平台，海量的高佣项目在线搜索，精准度更高，不用像以往跑来跑去寻找房源项目，打开客靠就能可以了，省时的同时也大大提高了工作效率。</p><p>房产中介行业靠的就是业务量，所以能够快速掌握提升工作业务的技巧对房产中介顺利开展以后工作十分有利，尤其是房产中介新手，只有找对方向，不断尝试、努力、总结，才能开更多的单子。</p>", 
+            "topic": [
+                {
+                    "tag": "房地产中介", 
+                    "tagLink": "https://api.zhihu.com/topics/19701388"
+                }, 
+                {
+                    "tag": "中介", 
+                    "tagLink": "https://api.zhihu.com/topics/19633883"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39954234", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 1, 
+            "title": "很靠谱的客户，为什么到你这也不靠谱了？", 
+            "content": "<p>你是不是经常遇到这种情况，客户第一次联系你的时候有很强的购房欲望，在通过几通电话或带看几次后，客户告诉你不考虑了。</p><p><b>为什么挺靠谱的客户，到你这却不考虑了！小编总结了几个原因，希望能帮到你。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>原因一：发布虚假房源</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>有些经纪人为了吸引流量，发布一些根本不存在的房源信息。既浪费了自己的时间，也失去了客户的信任。<b>所以要想取得客户的信任，就禁止发布虚假房源。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>原因二：你认为好的，未必是客户需要的</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>有些经纪人在未了解客户具体需求之前，就开始很自信的推荐房源，推荐以后才发现并不知道客户需要的。</p><p>我们在第一次接通客户电话之前需要了解清楚客户购房基本需求是什么(价格、居室、面积、小区等），了解的越多对成交越有帮助。<b>要做到不了解需求，不推荐的原则。</b></p><p>比如：</p><p>客户：“您好！再网上看到你发布一套###小区的房子。”</p><p>经纪人：“您好！这套房源是我今天刚发布，房子还在，随时都可以看。但是我不了解您具体的购房需求，这套房子有可能不太适合您，您跟我讲下您的具体需求，我帮您找一下和您相匹配的房源。”</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-82a58629f5a20cbb9d1dd2c6cab225eb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"443\" data-rawheight=\"111\" class=\"origin_image zh-lightbox-thumb\" width=\"443\" data-original=\"https://pic4.zhimg.com/v2-82a58629f5a20cbb9d1dd2c6cab225eb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;443&#39; height=&#39;111&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"443\" data-rawheight=\"111\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"443\" data-original=\"https://pic4.zhimg.com/v2-82a58629f5a20cbb9d1dd2c6cab225eb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-82a58629f5a20cbb9d1dd2c6cab225eb_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>原因三：专业知识很重要，真的很重要</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>有时候客户觉得你佣金太高了，其实客户不是嫌你佣金太高了，而是你的专业和佣金价格是不对称的。</b>客户买房看的不是佣金，而是你的认知（对行业的认知、对市场的认知、对所卖房源的认知等）。</p><p>总之，在客户面前你就是一本百科全书。但有一点需要切记，不知道的东西不要乱说、瞎说。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>原因四：不懂得分类，盲目回访</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>在回访之前经纪人一定要对客户进行分类，大体可分为三类：已成交客户、待成交客户、未成交客户。</p><p>对于已成交的客户经纪人逢年过节可以买点小礼品走动一下，偶尔通过电话慰问一下。不要刻意的去问身边有没有朋友有购房需求!</p><p>待成交客户这类客户一定要紧跟，紧跟不是指的一天几个电话，而是及时跟进客户当下的状态。另外和业主也要保持紧密的联系。</p><p>未成交客户，保持联系，建立良好的印象很重要。当他确定要买的时候，第一个想起的人就是你。</p>", 
+            "topic": [
+                {
+                    "tag": "房产经纪人", 
+                    "tagLink": "https://api.zhihu.com/topics/19569608"
+                }, 
+                {
+                    "tag": "房地产中介", 
+                    "tagLink": "https://api.zhihu.com/topics/19701388"
+                }, 
+                {
+                    "tag": "房地产销售", 
+                    "tagLink": "https://api.zhihu.com/topics/19671253"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39953446", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 2, 
+            "title": "房地产经纪人拓客技巧：不同年龄的客户，接待方法也不一样！", 
+            "content": "<p>做房产销售久了，就能摸出一些门道，到什么山唱什么歌，对待不同年龄的客户，接待的方式、说的话、应该注意的地方完全不同。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我们在营销过程中，应该注意到，顾客的年龄对购房行为的影响是十分明显的。不同年龄层的消费者有不同的欲望、兴趣和爱好，购房的种类和结构有很大区别。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1、老年顾客</p><p class=\"ztext-empty-paragraph\"><br/></p><p>老年顾客的共同的特征之一往往就是孤寂，一般没有朋友。营销员向老年顾客营销房产时，他们往往会征求朋友及家人的意见，来决定是否购买。因此，在作购买决定时，他们比一般人还要谨慎。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>你在进行房产介绍时，你的言词必须清晰、确实，态度要诚恳、亲切，同时再表现出关心他（她）的孤独。房产说明结束后，必须记住，绝不可以强施压力，或者强迫营销，你不妨多花点时间与他交谈。对这类顾客，必须具有相当的耐心。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>向老年顾客推销商品，最重要的也是最关键的问题在于，你必须让他相信你的为人，这样一来，不但可以成交，而且你们还能做个朋友。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2、中年顾客</p><p class=\"ztext-empty-paragraph\"><br/></p><p>中年顾客大多既拥有家庭，也有安定的职业，他们希望拥有更好的生活，注重自己的未来，努力地想使自己更自由自在。他们希望家庭美满幸福，因此，他们极愿为家人奋斗。他们自有主张、决定的能力。因此，只要房子确实优良，他们便会很快买下来。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>对于中年顾客营销最有效的办法是表现出对其家人的关心之意，而对其本身则予以推崇和肯定，同时说明房子与其灿烂的未来有着密不可分的关系。这样一来，生意自然成交了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3、年轻夫妇</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在与这类顾客谈生意时，可采用与老年顾客的方式方法交谈，一样可以博得他们的好感。年轻夫妇的思想乐观，想改变现状。因此，如果营销员表现出诚心交往的态度，他们是不会拒绝的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>对于年轻顾客，你应该表现出自己的热诚，在进行房产说明时，可刺激他们的购买欲望。同时，在交谈时，不妨谈一谈彼此的生活背景、未来、情感等问题，这种亲切的方式，非常有助于营销的成功。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>4、时尚青年</p><p class=\"ztext-empty-paragraph\"><br/></p><p>时尚青年一般大多为未婚青年，他们紧跟时代，常常站在时代的浪尖上，购买他们特别喜欢的比较时髦的产品。因此，在营销过程中，必须阐述房子的前沿性、流行性，从而博得他们的喜好与青睐，这样才能会达到你的营销目的。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "金融", 
+                    "tagLink": "https://api.zhihu.com/topics/19609455"
+                }, 
+                {
+                    "tag": "房地产", 
+                    "tagLink": "https://api.zhihu.com/topics/19555355"
+                }, 
+                {
+                    "tag": "房地产销售", 
+                    "tagLink": "https://api.zhihu.com/topics/19671253"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39874056", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 2, 
+            "title": "干货丨通过口头禅，学会给客户做性格分类", 
+            "content": "<p></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0fd4cfb2a9df552b5a95777e80447257_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-0fd4cfb2a9df552b5a95777e80447257_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-0fd4cfb2a9df552b5a95777e80447257_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0fd4cfb2a9df552b5a95777e80447257_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>每个人都有几句习惯性的口头禅，口头禅展示了一个人的心性。因此，在倾听客户谈话的时候，房产销售可以适当留意客户的口头禅，它在很大程度上是客户内心的真实写照。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（1）经常使用“我个人的想法是……”，“是不是……”，“能不能……”之类词汇的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>较和蔼亲切，能做到客观理智，冷静地思考，认真地分析，然后做出正确的判断和决定。面对谦逊的客户，你也要表现出这种淡定，让对方感受到你的可亲可敬。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（2）经常使用流行词汇的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>热衷于随大流，喜欢浮夸，缺少个人主见和独立性。在销售中，你可以使用一些流行、前沿的概念，让他们感受到你见多识广、专业性的一面。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（3）经常使用“确实如此”的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>大多浅薄无知，自己却浑然不觉，还常常自以为是。这时候，你要表现出自己专业、博学的一面，展开销售攻势，在滔滔不绝地说服中拿下订单。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（4）经常使用“绝对”这个词语的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>武断的性格显而易见，他们不是太缺乏自知之明，就是自知之明太强烈了。面对这类客户，你要让他们说出自己的条件、要求，而后再表明自己的立场。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（5）经常使用外来语言和外语的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>虚荣心强，爱卖弄和夸耀自己。对于这类客户，你可以用富有诱惑力的价格以及其他优惠条件，来吸引他们合作。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（6）经常使用“我早就知道了”的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有表现自己的强烈欲望，只能自己是主角，自己发挥。那么，你就甘当配角吧，只要能够实现合作，屈就一下自己又何妨。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（7）经常使用“这个……”，“那个……”，“啊……”的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>说话办事都比较小心谨慎，一般情况下不会招惹是非，是个好好先生。在沟通中，跟这类客户交谈一定要使用模糊的词语，并且不要逼他们表态。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（8）经常连续使用“果然”的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>多自以为是，强调个人主张，以自我为中心的倾向比较强烈。与这类客户接触，要照顾到他们的感受，给他们应有的主动权和尊重。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（9）经常使用“其实”的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>自我表现欲望强烈，希望能引起别人的注意。你可以对这类客户多几句赞美，让他们感受到你的热情。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（10）经常使用“最后怎么样怎么样”之类词汇的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>大多是潜在欲望未能得到满足。你可以进一步问问客户还有什么希望与要求，如果这次没有实现，那么可以在下次合作中完成。这样能把客户拴牢。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（11）经常使用“我……”之类词汇的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>寻找各种机会强调自己，以引起他人的注意。在沟通中，要给他们机会发表个人意见，并仔细倾听，让他们有被重视的感觉。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（12）经常使用“真的”之类强调词汇的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>多缺乏自信，惟恐自己所言之事的可信度不高。对此，你要用眼神看着对方，听他们讲话，并且要不时地点头，表达出你信任的姿态。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（13）经常使用“你应该……”，“你不能……”，“你必须……”等命令式词语的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>多专制、固执、骄横，但对自己却充满了自信，有强烈的领导欲望。你不妨让他们先发表高见，从而在倾听中掌握他们的诉求、底线。然后再采取进攻，达成合作。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（14）经常使用地方方言，并且还底气十足、理直气壮的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>自信心很强，有属于自己的独特个性。对这类客户不能采取直接的进攻方式，绕个圈子说话办事，他们可能更受用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>（15）经常使用“我要……”，“我想……”，“我不知道……”的人</p><p class=\"ztext-empty-paragraph\"><br/></p><p>思想比较单纯，爱意气用事，情绪不是特别稳定，有点让人捉摸不定。对此，你要学会引导、感染对方的情绪，营造有利于达成合作的氛围。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>总而言之，口头禅是由于长期、高频使用而形成的，具有鲜明的个人特色，是一个人内在性格的口头体现。所以，在销售过程中多从口头语考察和了解客户，有助于房产销售准确把握客户的心性，做到知己知彼。</p>", 
+            "topic": [
+                {
+                    "tag": "干货", 
+                    "tagLink": "https://api.zhihu.com/topics/19560757"
+                }, 
+                {
+                    "tag": "人际交往", 
+                    "tagLink": "https://api.zhihu.com/topics/19562033"
+                }, 
+                {
+                    "tag": "房地产销售", 
+                    "tagLink": "https://api.zhihu.com/topics/19671253"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39869803", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 2, 
+            "title": "干货丨月薪5万的房产经纪人，给客户打电话不外传的绝招！", 
+            "content": "<p>怎么给客户打电话，你知道吗？打电话并不是拿起电话和客户聊天，既然这通电话的最终目的是约见客户、最终签单，当然有必要采用一些电话销售技巧来帮助你更快地与客户沟通。下面例举了几个实用的电话约见技巧，我们来看看吧！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e6ef3a803f622281f4ee9a223cd2d13d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-e6ef3a803f622281f4ee9a223cd2d13d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;399&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-e6ef3a803f622281f4ee9a223cd2d13d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e6ef3a803f622281f4ee9a223cd2d13d_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1、让自己处于微笑状态</b></p><p>微笑地说话，声音也会传递出很愉悦的感觉，听在客户耳中自然就变得更有亲和力，让每一通电话都保持最佳的质感，并帮助你进入对方的时空。</p><p><b>2、善用电话开场白</b></p><p>好的开场白可以让对方愿意和经纪人多聊一聊，因此除了「耽误您两分钟」之外，接下来该说些什么就变得十分重要，如何想多了解对方的想法，不妨问：「最近**小区有几套很不错的房源，请问您有兴趣么？」诸如此类的开放式问句。</p><p><b>3、善用暂停</b></p><p>什么是暂停？当经纪人需要对方给一个时间、地点的时候，就可以使用暂停的技巧。比如，当你问对方：「您是上午还是下午方便？」说完就稍微暂停一下，让对方回答，善用暂停的技巧，将可以让对方有受到尊重的感觉。</p><p><b>4、使用开放式问句，不断问问题</b></p><p>问客户问题，一方面可以拉长谈话时间，更重要的是了解客户真正的想法，帮助自己做判定。不妨用：「请教您一个简单的问题」、「能不能请您多谈一谈，对房子还有什么要求？」等问题，鼓励客户继续说下去。</p><p><b>5、即时逆转</b></p><p>即时逆转就是马上顺着客户的话走，例如当客户说：「我是你们公司的客户」，不妨接续「我知道您是我们公司的好客户，所以才打这通电话。」</p><p><b>6、少说专业术语</b></p><p>「这个房源很稀缺，您最好尽快来看，不然我可以很确定的告诉您，很快就会被别人定掉………」在谈话中，说明房源很稀缺或性价比很高，很符合客户的需求，再加上「由您自己做决定」，让客户愿意将他宝贵的时间给你，切记千万不要说得太繁杂或使用太多专业术语，让客户失去越看的兴趣。</p><p><b>7、给予二选一的问题及机会</b></p><p>二选一方式能够帮助对方做选择，同时也加快对方来看房的速度，比如「早上或下午来看房」、「星期三或星期四见面」等问句，都是二选一的方式。</p><p><b>8、为下一次开场做预备</b></p><p>在将要挂断电话的时候一定要和客户约定好下次电话访谈的时间，否则冒昧的在未知会客户的情况下打电话给客户，会让客户觉得你很没礼貌。如果一定要打的话，就要先想好说辞，转移客户的注意力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>你知道什么时候给客户打电话成交率最高吗？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1、以周为标准</b></p><p><b>星期一</b>，这是双休日刚结束上班的第一天，客户肯定会有很多事情要处理，一般公司都在星期一开商务会议或布置这一周的工作，所以大多会很忙碌。所以如果要联系业务的话，尽量避开这一天。如果我们找客户确有急事，应该避开早上的时间，选择下午会比较好一些。</p><p><b>星期二到星期四</b>，这三天是最正常的工作时间，也是进行电话业务最合适的时间，电话业务人员，应该充分利用好这三天。这也是业绩好坏与否的关键所在。</p><p><b>星期五</b>，一周的工作结尾，如果这时打过去电话，多半得到的答复是，“等下个星期我们再联系吧!”这一天可以进行一些调查或预约的工作。</p><p><b>2、以天为标准</b></p><p><b>早上8：30-10：00</b>，这段时间大多客户会紧张地做事，这时接到业务电话也无暇顾及，所以这时，电话业务员不妨先为自己做一些准备工作。当然，这个时间段是我在上海的时间，你可以根据你们山东的情况调整。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>10：00-11：00</b>，这时客户大多不是很忙碌，一些事情也会处理完毕，这段时间应该是电话行销的最佳时段。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>11：30-14：00</b>，午饭及休息时间，除非有急事否则不要轻易打电话。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有一种情况可以打，就是你之前被前台和无关的人挡了，你想换个人尝试一下，那么，我的经验最好在12：30以后。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>14：00-15：00</b>，这段时间人会感觉到烦躁，尤其是夏天，所以，现在和客户谈生意不合适，聊聊与工作无关的事情倒是可行。</p><p><b>15：00～18：00</b>，努力地打电话吧，这段时间是我们创造佳绩的最好时间.在这个时间段，建议你自己要比平时多20%的工作量来做事情.</p><p><b>3、按职业</b></p><p>1、会计师：切勿在月初和月末，最好是月中才接触。</p><p>2、医生：早上11：00后和下午2：00前，最好的日子是雨天。</p><p>3、销售员：早上10：00前或下午4：00后，最热、最冷或雨天会更好。</p><p>4、牧师：避免在周末时候。</p><p>5、行政人员：上午10：30后到下午3：00为止。</p><p>6、股票行业：避开在开市后，最好在收市后。</p><p>7、银行家：早上10：00前或下午4：00后。</p><p>8、公务员：工作时间内，切勿在午饭前或下班前。</p><p>9、艺术家：早上或中午前。</p><p>10、药房工作者：下午1：00到3：00。</p><p>11、餐饮业从业人员业：避免在进餐的时候，最好是下午3：00到4：00。</p><p>12、建筑业从业人员：清早或收工的时候。</p><p>13、律师：早上10：00前或下午4：00后。</p><p>14、教师：下午4：00后，放学时。</p><p>15、零售商：避免周末或周一，最好是下午2：00到3：00。</p><p>16、工薪阶层：最好在晚上8：00到9：00。</p><p>17、家庭主妇：最好在早上10：00到11：00。</p><p>18、报社编辑记者：最好在下午3：00以后。</p><p>19、商人：最好在下午1：00到3：00。</p>", 
+            "topic": [
+                {
+                    "tag": "月薪", 
+                    "tagLink": "https://api.zhihu.com/topics/19648944"
+                }, 
+                {
+                    "tag": "房产经纪人", 
+                    "tagLink": "https://api.zhihu.com/topics/19569608"
+                }, 
+                {
+                    "tag": "金融", 
+                    "tagLink": "https://api.zhihu.com/topics/19609455"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39695009", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 6, 
+            "title": "想成为销冠？快背熟房产经纪人签单5字诀！", 
+            "content": "<p>据说，江湖上有一本失传已久的签单五字诀，不知道你们有没有听说过，作为一名爱学习的小编，我觉得对于我们大多数的新环境家人可能会有帮助，于是我遍访深山，终于拿到这些泛黄的手抄本。如果你也和我一样爱好学习，追求上进，希望通过自己的努力在这个城市，这个行业创造属于自己的一片天空，不妨和我一起研讨一下吧！</p><p><b>必胜决之一收</b></p><p>两方面来讲，其一是收心。心要在，让自己全面进入工作，不要人在心还在其他地方，想做好甚至快速签单就是很难的。其二是收集，很多的业主与客户在买房和卖房的过程中心态都在不断变化，这个时候是收集房源和收集客户需求的最佳时机。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-bf6c7a0bd1673bde3672a95b3ab5f96a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"596\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-bf6c7a0bd1673bde3672a95b3ab5f96a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;596&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"596\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-bf6c7a0bd1673bde3672a95b3ab5f96a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-bf6c7a0bd1673bde3672a95b3ab5f96a_b.jpg\"/></figure><p><b>必胜决之二打</b></p><p>“打”就是打电话，打老客户的电话维系关系，打陌生拜访的电话收集房源信息，更重要的是打电话精耕！很多客户的购房需求情况我们都不知道，通过不断的打电话沟通就可以了解到，而且打电话是让自己进入业务状态的最好方法。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-ef3501baf762228501030f6fe5010dfe_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-ef3501baf762228501030f6fe5010dfe_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;384&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"600\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-ef3501baf762228501030f6fe5010dfe_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-ef3501baf762228501030f6fe5010dfe_b.jpg\"/></figure><p><b>必胜决之三看</b></p><p>“看”是指了解房源情况，要不断的实地看房子，让自己对房源有更深的了解，而且也可以积累很多的房源信息，有利于你的配对。另一方面“看”就是带看，大家都知道只有产生带看才能产生业绩，最好给自己规定每天的带看量，努力达成目标，这样不仅可以让自己进入业务状态，而且不断有签单的可能。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-91a4b2cdbc42a7bee6bcffbe87483161_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-91a4b2cdbc42a7bee6bcffbe87483161_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;550&#39; height=&#39;369&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"550\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"550\" data-original=\"https://pic2.zhimg.com/v2-91a4b2cdbc42a7bee6bcffbe87483161_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-91a4b2cdbc42a7bee6bcffbe87483161_b.jpg\"/></figure><p><b>必胜决之四拉</b></p><p>热情友好的问候在门店门前徘徊的客户，得体大方的请客户进店，提升服务，一切以客户为中心，详细了解客户的需求。在门口接待的客户，拉到店里来坐坐，可以增进感情。谈单也是要找感觉的，不断的拉到店里谈，感觉就会越来越好。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b5571e8a27111f93a8dda2ff59ee0314_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"303\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-b5571e8a27111f93a8dda2ff59ee0314_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;303&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"303\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-b5571e8a27111f93a8dda2ff59ee0314_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b5571e8a27111f93a8dda2ff59ee0314_b.jpg\"/></figure><p><b>必胜决之五签</b></p><p>不论租赁还是买卖，无论大单还是小单，不要挑食，能签都签。签单是我们的目标，一个经纪人能获得信心的最好方式就是自己签单了，同时也是找回状态的最好方式。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6f5ee30bf4da634d3003a5a374fa4fb9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"683\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic2.zhimg.com/v2-6f5ee30bf4da634d3003a5a374fa4fb9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1024&#39; height=&#39;683&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"683\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1024\" data-original=\"https://pic2.zhimg.com/v2-6f5ee30bf4da634d3003a5a374fa4fb9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6f5ee30bf4da634d3003a5a374fa4fb9_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>成功签单的原因总是相似的，尚未签单的原因各有各的不同，暂时的落后并不能代表什么，为追寻梦想，随时可以上路，小编相信，只要所有的房产经纪人不断努力，不断向前，成功终将属于我们每一位努力的房产经纪人！</p>", 
+            "topic": [
+                {
+                    "tag": "销售", 
+                    "tagLink": "https://api.zhihu.com/topics/19564165"
+                }, 
+                {
+                    "tag": "金融", 
+                    "tagLink": "https://api.zhihu.com/topics/19609455"
+                }, 
+                {
+                    "tag": "房产经纪人", 
+                    "tagLink": "https://api.zhihu.com/topics/19569608"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39694371", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 2, 
+            "title": "扎心！全国首套房贷利率上浮15%！贷款100万要多还16万！", 
+            "content": "<p>近日，融360发布的6月全国房贷监测数据显示，<b>6月全国首套房贷款平均利率为5.64%，相当于基准利率1.151倍，环比5月上升0.71%，同比去年6月首套房贷利率4.89%，上升15.34%。</b><br/>那么，房贷利率上浮了，对买房贷款会有什么影响？</p><p><b>贷款100万多还利息16万 月供多还465元</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-9f2743257121568aab59778d0f13ab4d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"946\" data-rawheight=\"412\" class=\"origin_image zh-lightbox-thumb\" width=\"946\" data-original=\"https://pic2.zhimg.com/v2-9f2743257121568aab59778d0f13ab4d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;946&#39; height=&#39;412&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"946\" data-rawheight=\"412\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"946\" data-original=\"https://pic2.zhimg.com/v2-9f2743257121568aab59778d0f13ab4d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-9f2743257121568aab59778d0f13ab4d_b.jpg\"/></figure><p>以去年6月全国首套房贷利率4.89%贷款100万、30年等额本息还款计算，<b>利息总额约为90.84万元，月供约为5301元。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-abba5e292f856e94a0e1e4c7a2bd8332_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"945\" data-rawheight=\"414\" class=\"origin_image zh-lightbox-thumb\" width=\"945\" data-original=\"https://pic3.zhimg.com/v2-abba5e292f856e94a0e1e4c7a2bd8332_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;945&#39; height=&#39;414&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"945\" data-rawheight=\"414\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"945\" data-original=\"https://pic3.zhimg.com/v2-abba5e292f856e94a0e1e4c7a2bd8332_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-abba5e292f856e94a0e1e4c7a2bd8332_b.jpg\"/></figure><p>而以2018年最新全国首套房贷平均利率5.64%贷款100万、30年等额本息还款计算，<b>利息总额约为107.57万元，月供约为5766元，同比去年同期利息多还了16.7万元，月供多还了464.85元。</b></p><p><b>首套房贷利率上涨超15%   四大行均已上浮</b></p><p>目前全国地区银行正常放宽利率多以基准上浮为主，具体上浮水平仍因个人资质及银行而异。具体来看，6月全国533家银行分(支)行中，有169家银行首套执行基准利率上浮10%；164家银行首套执行基准利率上浮15%；116家银行首套执行基准利率上浮20%；25家银行首套执行基准利率上浮25%；16家银行首套执行基准利率上浮30%，本月执行基准上浮20%及以上银行数增多。</p><p>以北京地区为例，检测的30家银行中，招商银行、兴业银行等22家银行执行基准上浮10%；工农中建四大行以及浦发银行执行基准上浮15%；光大银行、东亚银行执行基准上浮20%。仅有一家银行停贷。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-b5207c63a6e3211233493a79efa9b157_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"563\" data-rawheight=\"342\" class=\"origin_image zh-lightbox-thumb\" width=\"563\" data-original=\"https://pic4.zhimg.com/v2-b5207c63a6e3211233493a79efa9b157_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;563&#39; height=&#39;342&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"563\" data-rawheight=\"342\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"563\" data-original=\"https://pic4.zhimg.com/v2-b5207c63a6e3211233493a79efa9b157_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-b5207c63a6e3211233493a79efa9b157_b.jpg\"/></figure><p>（数据来源：融360）</p><p><b>4城首套房贷款利率突破6%超北上广深</b></p><p>6月全国首套房贷款平均利率仍保持上涨趋势，一线城市基本保持平稳，二线城市整体利率涨幅呈现回落。</p><p>其中，北上广深一线城市首套房平均利率保持平稳，处于5.16%-5.57%区间。<b>北京5.47%、上海5.16%、广州5.57%、深圳5.51%</b>，均较上月小幅上涨。</p><p><b>2018年6月全国首套房平均利率最低城市TOP12</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-70af0e392e7db95d7deb00f9d08bb020_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"689\" data-rawheight=\"406\" class=\"origin_image zh-lightbox-thumb\" width=\"689\" data-original=\"https://pic1.zhimg.com/v2-70af0e392e7db95d7deb00f9d08bb020_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;689&#39; height=&#39;406&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"689\" data-rawheight=\"406\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"689\" data-original=\"https://pic1.zhimg.com/v2-70af0e392e7db95d7deb00f9d08bb020_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-70af0e392e7db95d7deb00f9d08bb020_b.jpg\"/></figure><p>但仍有4个城市的首套房贷利率超过6%，<b>东莞以6.13%高居全国榜首，紧随其后的分别是武汉6.06%、郑州6.03%、哈尔滨6.00%。</b></p><p>首套房贷利率上浮超15%，对于刚需来说，还款压力无疑不减反增。而未来房贷利率是否继续上涨？有分析表示，在整体经济形势未发生重大变化的情况下，整体房贷利率仍保持上升趋势，首二套利率差值在收窄后将会趋于平稳。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-91f4ead013d460d62cafe5c18e514dfc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"348\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-91f4ead013d460d62cafe5c18e514dfc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;348&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"348\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic1.zhimg.com/v2-91f4ead013d460d62cafe5c18e514dfc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-91f4ead013d460d62cafe5c18e514dfc_b.jpg\"/></figure><p>换一句话来说，就是无论你是买房还是租房，房贷利率上浮，买房的贷款利息会增加；租房的房东会把因房贷利率上浮导致月供增加的部分转嫁到你的月租上，那么你的租金会增加。</p><p>因此，在买房的这件事情上，有能力买房的还是要趁早；没能力买房的还是要加把劲！不然，没等到房价下降，因房贷利率上涨多支出的部分就已经能够填补差价空隙了！</p><p>该出手时还得出手！尽早上车才是王道！</p>", 
+            "topic": [
+                {
+                    "tag": "贷款买房", 
+                    "tagLink": "https://api.zhihu.com/topics/19765327"
+                }, 
+                {
+                    "tag": "贷款", 
+                    "tagLink": "https://api.zhihu.com/topics/19640715"
+                }, 
+                {
+                    "tag": "银行贷款", 
+                    "tagLink": "https://api.zhihu.com/topics/19560705"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39617991", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 4, 
+            "title": "干货｜ 经纪人朋友圈营销素材集锦", 
+            "content": "<p>不会段子的销售不是好的房产经纪人，马上复制粘贴营销素材，分享到朋友圈吧！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>1</p><p>假如潘金莲家里是南北通透户型，她在家里就不会闷热，也不会开窗吹风。那么就不会遇到西门庆。不遇到西门庆，金莲就不会出轨。不出轨，武松就不会被逼上梁山。武松不上梁山，方腊就不会被擒。方腊可取得大宋江山，就不会有大清朝。不会闭关锁国，不会有鸦片战争八国联军。中国将是世界上唯一的超级大国！</p><p>综上所述，买个南北通透的房子真是太TM!重！要！了！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-da8c0d188347fb3aadb21ac2348e0297_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"200\" class=\"content_image\" width=\"300\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;300&#39; height=&#39;200&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"200\" class=\"content_image lazy\" width=\"300\" data-actualsrc=\"https://pic4.zhimg.com/v2-da8c0d188347fb3aadb21ac2348e0297_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>2</p><p>男孩用了自己省吃俭用、没日没夜的工作的5年积蓄，终于在女孩最喜欢的小区为女孩悄悄买了一套94平的房子，而自己却默默吃着泡面度过了500多个夜晚。最终，女孩还是住进了富商的300平大别墅，留下了这套房和男孩。现在，男孩只想尽快卖掉这套房，忘掉这段伤心的往事……138XXXXXXXX来电咨询，我开瓶酒跟您讲讲男孩的故事。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4ee069679b4e73b41774a28ca1c62af4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"440\" data-rawheight=\"349\" class=\"origin_image zh-lightbox-thumb\" width=\"440\" data-original=\"https://pic1.zhimg.com/v2-4ee069679b4e73b41774a28ca1c62af4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;440&#39; height=&#39;349&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"440\" data-rawheight=\"349\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"440\" data-original=\"https://pic1.zhimg.com/v2-4ee069679b4e73b41774a28ca1c62af4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4ee069679b4e73b41774a28ca1c62af4_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>3</p><p>今天，同事的客户带了风水大师看房，罗盘一出，风水师说风水一般般，然后，客户走了，又然后，风水师下了定金！所以说告诫大家买房需要自己的主见意识，长期犹豫买房很难的。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-62822cdf3d4c86e4a427a2fc033831c5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"287\" data-rawheight=\"240\" class=\"content_image\" width=\"287\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;287&#39; height=&#39;240&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"287\" data-rawheight=\"240\" class=\"content_image lazy\" width=\"287\" data-actualsrc=\"https://pic2.zhimg.com/v2-62822cdf3d4c86e4a427a2fc033831c5_b.jpg\"/></figure><p><br/>4</p><p>凭良心讲，现在这个房价有点虚高了，正儿八经想买房自住或者投资的，建议可以再等等，再观望观望，再考虑考虑，再调研调研，等到下半年出手！</p><p>下半年房价绝对是个不一样的感觉，绝对不会虚高，是正儿八经的真TM高，高出你的想象，高出你的承受力，高出一种新高度，高的你买不起！高得你确实买不起了，你也就不会再想房子这回事了！烦恼没了，钱也省了！心也清净了~</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-597fdb99c74dbce1862887b9d6ee1af0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"270\" data-rawheight=\"240\" class=\"content_image\" width=\"270\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;270&#39; height=&#39;240&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"270\" data-rawheight=\"240\" class=\"content_image lazy\" width=\"270\" data-actualsrc=\"https://pic1.zhimg.com/v2-597fdb99c74dbce1862887b9d6ee1af0_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>5</p><p>买房就像老婆，虽然月供有压力，但是供来供去还是自己的。</p><p>租房就像情人，虽然随时可以换掉，但是租来租去还是别人的。</p><p>买房就像找女朋友，看好了就下手，不要老嫌人家一点小毛病，你嫌弃人家，人家却成了别人的新娘，人家幸福美满，你却是条单身狗。</p><p>房子就像女人，没有嫁不出去的女人，只有去不掉媳妇的男人。</p><p>不禁惊出一身冷汗。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-566bc73fe6f1a01342bc01ed23974e82_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"285\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic3.zhimg.com/v2-566bc73fe6f1a01342bc01ed23974e82_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;450&#39; height=&#39;285&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"450\" data-rawheight=\"285\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"450\" data-original=\"https://pic3.zhimg.com/v2-566bc73fe6f1a01342bc01ed23974e82_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-566bc73fe6f1a01342bc01ed23974e82_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>6</p><p>昨晚同学聚会，</p><p>暗恋已久的班花喝大了，</p><p>他顺路送她回家。</p><p>路上她从后面紧紧地抱住他的腰，</p><p>醉醺醺跟他说：我冷，可不可以带我去你家？</p><p>当时他心情巨复杂，他住的是宿舍，没有家！没有家！</p><p>每次看到这个忧伤的故事，</p><p>我都在想，男人啥都可以没有，</p><p>但一定不能没自己的房。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-864a79f2b5b0df34b427381ef7cb2475_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"200\" data-rawheight=\"200\" class=\"content_image\" width=\"200\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;200&#39; height=&#39;200&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"200\" data-rawheight=\"200\" class=\"content_image lazy\" width=\"200\" data-actualsrc=\"https://pic2.zhimg.com/v2-864a79f2b5b0df34b427381ef7cb2475_b.jpg\"/></figure><p><br/>7</p><p>鲁迅说过：车多路堵才限行，人多房少才限购。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1f37542ee3d0361d35ab3f6d1a25fa4d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"438\" class=\"content_image\" width=\"300\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;300&#39; height=&#39;438&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"438\" class=\"content_image lazy\" width=\"300\" data-actualsrc=\"https://pic2.zhimg.com/v2-1f37542ee3d0361d35ab3f6d1a25fa4d_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>8</p><p>身边有个同事，卖房子一个月赚了38万，我问他是怎么做到的？</p><p>他说是因为房子马上涨价，他没通知客户，没让客户抢到房，被客户打断腿，客户赔的。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-445d617ff19d5f87c3b7f69d4a98e42b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"200\" data-rawheight=\"200\" class=\"content_image\" width=\"200\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;200&#39; height=&#39;200&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"200\" data-rawheight=\"200\" class=\"content_image lazy\" width=\"200\" data-actualsrc=\"https://pic4.zhimg.com/v2-445d617ff19d5f87c3b7f69d4a98e42b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>9</p><p>六月底前，凡找我买房两套的，现场表演啤酒连吹6瓶，不打嗝！</p><p>买房三套的，现场表演胸口碎大石，不换气！</p><p>买房四套的，现场表演吃干辣椒两斤，不脸红！</p><p>买房五套的，现场表演生吞螃蟹15只，不吐壳！</p><p>买房六套的，现场表演摸电门半小时，不颤抖！</p><p>血拼六月，我们用生命诉说！</p><p>快联系我吧 138XXXXXXXX</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3cba51bfba73ad36cc3f6341682455b9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"396\" data-rawheight=\"240\" class=\"content_image\" width=\"396\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;396&#39; height=&#39;240&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"396\" data-rawheight=\"240\" class=\"content_image lazy\" width=\"396\" data-actualsrc=\"https://pic2.zhimg.com/v2-3cba51bfba73ad36cc3f6341682455b9_b.jpg\"/></figure><p>10</p><p>今年，你买了个iPhone7</p><p>明年，淘汰了。</p><p>今年，你买了一台车</p><p>明年，贬值了。</p><p>今年，你买一套房子</p><p>明年，干什么都硬气了。</p><p>当你老的那一天，你把手机给你孙子，</p><p>孙子：您太逗了。</p><p>你老的那一天，你把车给你孙子，</p><p>孙子：那也太旧了。</p><p>你老的那一天，你把房子过户给你孙子，</p><p>孙子：爷爷，您是我亲爷爷！</p><p>多么痛的领悟！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a5bcfc1e9bd89d0b1ad3fb0a5819e51d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"376\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-a5bcfc1e9bd89d0b1ad3fb0a5819e51d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;376&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"500\" data-rawheight=\"376\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic2.zhimg.com/v2-a5bcfc1e9bd89d0b1ad3fb0a5819e51d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a5bcfc1e9bd89d0b1ad3fb0a5819e51d_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "经纪人", 
+                    "tagLink": "https://api.zhihu.com/topics/19576929"
+                }, 
+                {
+                    "tag": "干货", 
+                    "tagLink": "https://api.zhihu.com/topics/19560757"
+                }, 
+                {
+                    "tag": "房地产", 
+                    "tagLink": "https://api.zhihu.com/topics/19555355"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39617739", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 1, 
+            "title": "拓客秘诀丨房产经纪人如何开发更多客源？", 
+            "content": "<p>房产经纪人要如何掌握充足的客源，应综合采用多种开发客源的方法，并在和客户的接触过程中取得客户的信赖,提高客户的忠诚度,建立良好的客户关系。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>采用多种方法开发客源</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>房产经纪人如何掌握充足的客源？除了在门店等待和接待好上门咨询的客户之外，还需要掌握多种方法去开发更多的客源。如利用网络、报纸等广告宣传方式、利用人际关系网络、交叉合作等方法。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>01门店开发</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-9a8d33bf1f1f3343f77a68ba46e89931_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"229\" class=\"content_image\" width=\"300\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;300&#39; height=&#39;229&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"300\" data-rawheight=\"229\" class=\"content_image lazy\" width=\"300\" data-actualsrc=\"https://pic2.zhimg.com/v2-9a8d33bf1f1f3343f77a68ba46e89931_b.jpg\"/></figure><p>门店开发是房产经纪人开发客源最为普通的方式，如果客户在门店外驻足停留，房产经纪人必须在10秒钟内主动接待客户，递出名片，介绍自己，寻问客户的需求，并尽可能让客户进入店内，提供给客户所需要的信息，并留下客户的姓名、联系方式和需求信息。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>02广告宣传</p><p class=\"ztext-empty-paragraph\"><br/></p><p>如何掌握充足的客源可以通过派发传单、网络推广、报纸等广告宣传方式招揽客户。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>03利用人际关系网络</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e6f057ba9a24cda118f5c4412c5d7e31_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"274\" data-rawheight=\"189\" class=\"content_image\" width=\"274\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;274&#39; height=&#39;189&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"274\" data-rawheight=\"189\" class=\"content_image lazy\" width=\"274\" data-actualsrc=\"https://pic2.zhimg.com/v2-e6f057ba9a24cda118f5c4412c5d7e31_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>房产经纪人如何掌握充足的客源中的一种方法就是利用自身的人脉圈子，拓展客户。可以通过自己的亲朋戚友或者通过老客户的关系来介绍新的客户进来，像雪球一样越滚越大。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ecc134f098bec4cd25c4b7e9bd85915d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"413\" data-rawheight=\"300\" class=\"content_image\" width=\"413\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;413&#39; height=&#39;300&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"413\" data-rawheight=\"300\" class=\"content_image lazy\" width=\"413\" data-actualsrc=\"https://pic2.zhimg.com/v2-ecc134f098bec4cd25c4b7e9bd85915d_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>&gt;</b>&gt;&gt;&gt; 具体可以参考以下做法：</p><p>1)加强客户对房产经纪人的信任。因为老客户是因为房产经纪人介绍的房源及服务产生的利害关系来判断是否推荐新客户。因此，房产经纪人必须强调这样如何掌握充足的客源能给他们带来的好处。</p><p>2)在得到了推荐的新客户后，要尽快获取新客户的所有信息，审核新客户的资格，了解新客户房需求，这样才能达成共识。</p><p>3)审定了新客户的资格后，新客户有购房需求的话可以寻求老客户的帮助与新客户接触。但前提是要加强与老客户的信任度，以免一起新客户的反感。</p><p>4)在成功引见之后，感谢老客户的好意。</p><p>5)对于引见和成交的结果要及时告知客户，但在通告新客户的最新情况时，记住要尊重新客户的隐私。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>04交叉合作</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ff41c3a471fdefd8a6438eaa5c32ae7b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"274\" data-rawheight=\"189\" class=\"content_image\" width=\"274\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;274&#39; height=&#39;189&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"274\" data-rawheight=\"189\" class=\"content_image lazy\" width=\"274\" data-actualsrc=\"https://pic4.zhimg.com/v2-ff41c3a471fdefd8a6438eaa5c32ae7b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>不同行业的房产经纪人(如保险等)都具有人面广、市场信息灵通等的优势，房产经纪人可利用这一点加强相互间的信息交换，互相推荐和介绍客户。</p>", 
+            "topic": [
+                {
+                    "tag": "房产经纪人", 
+                    "tagLink": "https://api.zhihu.com/topics/19569608"
+                }, 
+                {
+                    "tag": "金融", 
+                    "tagLink": "https://api.zhihu.com/topics/19609455"
+                }, 
+                {
+                    "tag": "房地产", 
+                    "tagLink": "https://api.zhihu.com/topics/19555355"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39443877", 
+            "userName": "广佛经纪人同盟", 
+            "userLink": "https://www.zhihu.com/people/5b02dc83330303261222aada0529e8e4", 
+            "upvote": 12, 
+            "title": "房产中介未来：2018年中介面临洗牌，全国房产中介何去何从？", 
+            "content": "<p>过去一年，被称为“国家最严调控年”。面对房地产市场的冷热动荡，与之息息相关的房地产经纪行业怎能毫无波澜？ </p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4026a30ee194c8729c809f1e64bbe576_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"757\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-4026a30ee194c8729c809f1e64bbe576_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;757&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"757\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic3.zhimg.com/v2-4026a30ee194c8729c809f1e64bbe576_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4026a30ee194c8729c809f1e64bbe576_b.jpg\"/></figure><p>《2018中国房地产经纪人报告》中指出，过去一年是房地产的动荡之年，房地产经纪行业的日子也遭遇冰火两重天，面临着更艰难的挑战，如经纪行业加盟制大肆兴起、经纪公司的配套服务商面临新的发展路径、经纪人职业系统面临重构等。这一系列的变化告诉我们的是，房地产经纪人行业正处在行业的重大洗牌期。今后的房地产经纪行业，谁没跟上时代的步伐，谁就会在明天被时代抛弃。</p><p> 那么，面对这样的市场环境，全国200万房产经纪人该何去何从？这一年，房产经纪人群体发生了哪些改变？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>房产经纪人自画像</b></p><p>据报告调查数据显示，房产经纪人群体趋于年轻化，30岁以下的经纪人占比为68%，其中男性占比高达73%。而美国的房产经纪人年龄多集中在35-55岁的男性。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-9bdb3b84b7d9dc13b8b94b96f6e354fd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"617\" data-rawheight=\"448\" class=\"origin_image zh-lightbox-thumb\" width=\"617\" data-original=\"https://pic2.zhimg.com/v2-9bdb3b84b7d9dc13b8b94b96f6e354fd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;617&#39; height=&#39;448&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"617\" data-rawheight=\"448\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"617\" data-original=\"https://pic2.zhimg.com/v2-9bdb3b84b7d9dc13b8b94b96f6e354fd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-9bdb3b84b7d9dc13b8b94b96f6e354fd_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7a1fc671f210e2b2250e25db0f35983a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"615\" data-rawheight=\"420\" class=\"origin_image zh-lightbox-thumb\" width=\"615\" data-original=\"https://pic3.zhimg.com/v2-7a1fc671f210e2b2250e25db0f35983a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;615&#39; height=&#39;420&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"615\" data-rawheight=\"420\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"615\" data-original=\"https://pic3.zhimg.com/v2-7a1fc671f210e2b2250e25db0f35983a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7a1fc671f210e2b2250e25db0f35983a_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>相应的，房产经纪人的学历程度偏低，84%的经纪人学历在专科及以下，符合中国房产经纪行业从业门槛低的现状。而美国的房产经纪人有61%是大学和研究生学历，明显落后于发达国家。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-abfc04a92c94ba3b34b8a83f545007a0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"592\" data-rawheight=\"435\" class=\"origin_image zh-lightbox-thumb\" width=\"592\" data-original=\"https://pic1.zhimg.com/v2-abfc04a92c94ba3b34b8a83f545007a0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;592&#39; height=&#39;435&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"592\" data-rawheight=\"435\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"592\" data-original=\"https://pic1.zhimg.com/v2-abfc04a92c94ba3b34b8a83f545007a0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-abfc04a92c94ba3b34b8a83f545007a0_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>而我国房产经纪人普遍工作年限也不长，调查显示有一半的经纪人从业时间少于2年，从业时间超过10年的少于5%。但尽管如此，仍有超一半的经纪人选择经纪行业是因为机会多和收入高。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-fcfe786c4c3378f501baa0742f78bf91_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"619\" data-rawheight=\"432\" class=\"origin_image zh-lightbox-thumb\" width=\"619\" data-original=\"https://pic2.zhimg.com/v2-fcfe786c4c3378f501baa0742f78bf91_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;619&#39; height=&#39;432&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"619\" data-rawheight=\"432\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"619\" data-original=\"https://pic2.zhimg.com/v2-fcfe786c4c3378f501baa0742f78bf91_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-fcfe786c4c3378f501baa0742f78bf91_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-bb42c6b970e05e5fc2f6b7b6c6ef5678_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"605\" data-rawheight=\"453\" class=\"origin_image zh-lightbox-thumb\" width=\"605\" data-original=\"https://pic1.zhimg.com/v2-bb42c6b970e05e5fc2f6b7b6c6ef5678_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;605&#39; height=&#39;453&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"605\" data-rawheight=\"453\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"605\" data-original=\"https://pic1.zhimg.com/v2-bb42c6b970e05e5fc2f6b7b6c6ef5678_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-bb42c6b970e05e5fc2f6b7b6c6ef5678_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>房产经纪人收入与工作、学历成正比</b></p><p>然而，实际上，房产经纪行业的收入是否真的丰厚，这也取决于经纪人的工作和学历程度。毕竟，多劳多得，工作年限高的人经验也高，学历高的人学习能力、习惯也会相对较好。</p><p>调查显示，房产经纪人2018年的收入，普遍集中在6-9万（含9万）的范围。而30万以上了少之又少，仅占3.5%。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-06884c811ade3a08c8c901d6fd49904e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"616\" data-rawheight=\"476\" class=\"origin_image zh-lightbox-thumb\" width=\"616\" data-original=\"https://pic3.zhimg.com/v2-06884c811ade3a08c8c901d6fd49904e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;616&#39; height=&#39;476&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"616\" data-rawheight=\"476\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"616\" data-original=\"https://pic3.zhimg.com/v2-06884c811ade3a08c8c901d6fd49904e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-06884c811ade3a08c8c901d6fd49904e_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e925eb99bef49234bb34440f1d390f91_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"621\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb\" width=\"621\" data-original=\"https://pic2.zhimg.com/v2-e925eb99bef49234bb34440f1d390f91_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;621&#39; height=&#39;444&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"621\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"621\" data-original=\"https://pic2.zhimg.com/v2-e925eb99bef49234bb34440f1d390f91_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e925eb99bef49234bb34440f1d390f91_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>整体来说，房产经纪人去年的收入情况与往年的基本持平，其中一线城市的经纪人收入下跌较为严重。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3698877057162f673ba3b373c83f43cd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"615\" data-rawheight=\"447\" class=\"origin_image zh-lightbox-thumb\" width=\"615\" data-original=\"https://pic2.zhimg.com/v2-3698877057162f673ba3b373c83f43cd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;615&#39; height=&#39;447&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"615\" data-rawheight=\"447\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"615\" data-original=\"https://pic2.zhimg.com/v2-3698877057162f673ba3b373c83f43cd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-3698877057162f673ba3b373c83f43cd_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>但又无可否认的是，一线城市的经纪人收入最高，超过60%的经纪公司月薪达到8千以上。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-e123b9fe9f7d88e9f31e7645c596297f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"655\" data-rawheight=\"452\" class=\"origin_image zh-lightbox-thumb\" width=\"655\" data-original=\"https://pic4.zhimg.com/v2-e123b9fe9f7d88e9f31e7645c596297f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;655&#39; height=&#39;452&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"655\" data-rawheight=\"452\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"655\" data-original=\"https://pic4.zhimg.com/v2-e123b9fe9f7d88e9f31e7645c596297f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e123b9fe9f7d88e9f31e7645c596297f_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>然而，高收入的回报断然离不开背后诸多的付出。全国有超9成的经纪人每天的工作时间超过8个小时，约31%的经纪人工作时间超过10个小时。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-76cd2358b8474dc3dc37e29a412757a8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"512\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-76cd2358b8474dc3dc37e29a412757a8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;512&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"512\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic1.zhimg.com/v2-76cd2358b8474dc3dc37e29a412757a8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-76cd2358b8474dc3dc37e29a412757a8_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>事实证明，经纪人随着工作年限的增长、年龄的增长，收入越高；学历越高学习能力越好，收入越高。因为，只有不断学习，不断积累，掌握了丰富的行业经验和技能，才能更好地与客户沟通，促成交易。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4e16bdc7af49427cebc554c0c722c7b8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"625\" data-rawheight=\"517\" class=\"origin_image zh-lightbox-thumb\" width=\"625\" data-original=\"https://pic1.zhimg.com/v2-4e16bdc7af49427cebc554c0c722c7b8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;625&#39; height=&#39;517&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"625\" data-rawheight=\"517\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"625\" data-original=\"https://pic1.zhimg.com/v2-4e16bdc7af49427cebc554c0c722c7b8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4e16bdc7af49427cebc554c0c722c7b8_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3b4e7a914e51259bbbb24e20075e7c11_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"621\" data-rawheight=\"447\" class=\"origin_image zh-lightbox-thumb\" width=\"621\" data-original=\"https://pic2.zhimg.com/v2-3b4e7a914e51259bbbb24e20075e7c11_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;621&#39; height=&#39;447&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"621\" data-rawheight=\"447\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"621\" data-original=\"https://pic2.zhimg.com/v2-3b4e7a914e51259bbbb24e20075e7c11_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-3b4e7a914e51259bbbb24e20075e7c11_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b0cfa241d49a83a1ddb4781e5bbd6185_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"619\" data-rawheight=\"441\" class=\"origin_image zh-lightbox-thumb\" width=\"619\" data-original=\"https://pic2.zhimg.com/v2-b0cfa241d49a83a1ddb4781e5bbd6185_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;619&#39; height=&#39;441&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"619\" data-rawheight=\"441\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"619\" data-original=\"https://pic2.zhimg.com/v2-b0cfa241d49a83a1ddb4781e5bbd6185_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b0cfa241d49a83a1ddb4781e5bbd6185_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-8dca2b44825c3ebf6d7ab968b112009c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"619\" data-rawheight=\"463\" class=\"origin_image zh-lightbox-thumb\" width=\"619\" data-original=\"https://pic1.zhimg.com/v2-8dca2b44825c3ebf6d7ab968b112009c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;619&#39; height=&#39;463&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"619\" data-rawheight=\"463\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"619\" data-original=\"https://pic1.zhimg.com/v2-8dca2b44825c3ebf6d7ab968b112009c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-8dca2b44825c3ebf6d7ab968b112009c_b.jpg\"/></figure><p>那么，面对如今房产经纪行业的状况，有超8成的经纪人仍然选择初心不改、坚守岗位。同时，大部分经纪人对明年的成交量和房价预期持乐观态度。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-9a24f32722e7f1ff79693b47d09a4a5c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"631\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb\" width=\"631\" data-original=\"https://pic1.zhimg.com/v2-9a24f32722e7f1ff79693b47d09a4a5c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;631&#39; height=&#39;437&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"631\" data-rawheight=\"437\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"631\" data-original=\"https://pic1.zhimg.com/v2-9a24f32722e7f1ff79693b47d09a4a5c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9a24f32722e7f1ff79693b47d09a4a5c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>但不管，未来房产经纪行业如何转型或变革，但发展会越来越好。而房产经纪人越努力必然会越幸运，让今日努力的汗水成就明日辉煌的自己！</p>", 
+            "topic": [
+                {
+                    "tag": "房地产中介", 
+                    "tagLink": "https://api.zhihu.com/topics/19701388"
+                }, 
+                {
+                    "tag": "房地产公司", 
+                    "tagLink": "https://api.zhihu.com/topics/19675434"
+                }, 
+                {
+                    "tag": "房市", 
+                    "tagLink": "https://api.zhihu.com/topics/19672762"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_208902618"
+}

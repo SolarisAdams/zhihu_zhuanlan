@@ -1,0 +1,641 @@
+{
+    "title": "曲乐杂弹", 
+    "description": "包括但不局限于：音乐理论、视频搬运、胡思乱想、学习笔记。多一份干货，少一点撕逼。", 
+    "followers": [
+        "https://www.zhihu.com/people/sean-42-50-82", 
+        "https://www.zhihu.com/people/rico-95-97", 
+        "https://www.zhihu.com/people/liang-liang-6-16", 
+        "https://www.zhihu.com/people/zhang-zhen-58-91-86", 
+        "https://www.zhihu.com/people/yang-zhi-wei-94-91", 
+        "https://www.zhihu.com/people/a-bo-56-80", 
+        "https://www.zhihu.com/people/neptulius", 
+        "https://www.zhihu.com/people/tu-tu-75-87", 
+        "https://www.zhihu.com/people/cun-zai-xian-yu-a-ji", 
+        "https://www.zhihu.com/people/kshen-xie", 
+        "https://www.zhihu.com/people/wayne-81-32", 
+        "https://www.zhihu.com/people/zhang-yin-hao-27", 
+        "https://www.zhihu.com/people/zhaory1995", 
+        "https://www.zhihu.com/people/clytiesh", 
+        "https://www.zhihu.com/people/xiaoyue-70-69", 
+        "https://www.zhihu.com/people/fu-xin-yang", 
+        "https://www.zhihu.com/people/jin-ha", 
+        "https://www.zhihu.com/people/ming-xuan-79-57", 
+        "https://www.zhihu.com/people/zhao-bin-71-62", 
+        "https://www.zhihu.com/people/lin-xian-74-90-75", 
+        "https://www.zhihu.com/people/yu-yan-82-32-22", 
+        "https://www.zhihu.com/people/lee-78-36-77", 
+        "https://www.zhihu.com/people/yang-jian-luo", 
+        "https://www.zhihu.com/people/liu-shi-fan-76-36", 
+        "https://www.zhihu.com/people/hsinpeng", 
+        "https://www.zhihu.com/people/liang-xian-14", 
+        "https://www.zhihu.com/people/pytary", 
+        "https://www.zhihu.com/people/wayne-90-16", 
+        "https://www.zhihu.com/people/li-run-li-40", 
+        "https://www.zhihu.com/people/cui-zhi-cheng-33", 
+        "https://www.zhihu.com/people/you-yu-88-11", 
+        "https://www.zhihu.com/people/zhu-jun-tong-12", 
+        "https://www.zhihu.com/people/hei-mei-14-84", 
+        "https://www.zhihu.com/people/hu-zi-han-99-29", 
+        "https://www.zhihu.com/people/wu-liang-di", 
+        "https://www.zhihu.com/people/gu-tian-99", 
+        "https://www.zhihu.com/people/shiney-72-61", 
+        "https://www.zhihu.com/people/hedyding", 
+        "https://www.zhihu.com/people/zhang-jin-wei-94-57", 
+        "https://www.zhihu.com/people/owe-37", 
+        "https://www.zhihu.com/people/huoshuiweiji", 
+        "https://www.zhihu.com/people/sunginex", 
+        "https://www.zhihu.com/people/xie-zhi-wei-84-74", 
+        "https://www.zhihu.com/people/qian-re", 
+        "https://www.zhihu.com/people/linren-fan", 
+        "https://www.zhihu.com/people/li-zi-6-18-83", 
+        "https://www.zhihu.com/people/xiang-ru-jian", 
+        "https://www.zhihu.com/people/AllenTang", 
+        "https://www.zhihu.com/people/zhang-92-99", 
+        "https://www.zhihu.com/people/zhong-ling-99", 
+        "https://www.zhihu.com/people/irony-94", 
+        "https://www.zhihu.com/people/lin-hui-chun-8-66", 
+        "https://www.zhihu.com/people/zhang-yun-feng-91", 
+        "https://www.zhihu.com/people/ben-er-98-46", 
+        "https://www.zhihu.com/people/cao-ding-19", 
+        "https://www.zhihu.com/people/xue-teng-44-18", 
+        "https://www.zhihu.com/people/wu-hong-tao", 
+        "https://www.zhihu.com/people/yang-xian-sheng-93-15-64", 
+        "https://www.zhihu.com/people/zjzj-88", 
+        "https://www.zhihu.com/people/hu-zi-36-43", 
+        "https://www.zhihu.com/people/zhen-hao-92", 
+        "https://www.zhihu.com/people/liang-wen-7-63", 
+        "https://www.zhihu.com/people/li-mu-cong-14", 
+        "https://www.zhihu.com/people/li-wen-yi-85-78", 
+        "https://www.zhihu.com/people/xuan-ge-42", 
+        "https://www.zhihu.com/people/liu-en-liang-80", 
+        "https://www.zhihu.com/people/shuang-yan-60", 
+        "https://www.zhihu.com/people/tiger-99-59", 
+        "https://www.zhihu.com/people/xu-yin-chen-15", 
+        "https://www.zhihu.com/people/tang-wei-bin-26", 
+        "https://www.zhihu.com/people/zhou-cha-cha-46", 
+        "https://www.zhihu.com/people/qiu-dao-yu-57", 
+        "https://www.zhihu.com/people/4min33sec", 
+        "https://www.zhihu.com/people/zhuo-ran-73", 
+        "https://www.zhihu.com/people/feng-yao-hua", 
+        "https://www.zhihu.com/people/smallqiang-2", 
+        "https://www.zhihu.com/people/da-sha-ge", 
+        "https://www.zhihu.com/people/jeremyxia", 
+        "https://www.zhihu.com/people/yu-zi-lin-52", 
+        "https://www.zhihu.com/people/guo-xiao-yao-24", 
+        "https://www.zhihu.com/people/guo-xun-33-17", 
+        "https://www.zhihu.com/people/jing-feng-yu-xiao", 
+        "https://www.zhihu.com/people/panspans", 
+        "https://www.zhihu.com/people/arthurchen", 
+        "https://www.zhihu.com/people/dang-nian-ming-yue-shi-wo", 
+        "https://www.zhihu.com/people/sun-qi-wei-16-71", 
+        "https://www.zhihu.com/people/wang-de-qing-wa", 
+        "https://www.zhihu.com/people/chen-yi-27-47", 
+        "https://www.zhihu.com/people/ceng-yao-hui-13", 
+        "https://www.zhihu.com/people/steve-61-80", 
+        "https://www.zhihu.com/people/xu-han-84-58", 
+        "https://www.zhihu.com/people/ge-bi-lin-ju-wo-xing-yang", 
+        "https://www.zhihu.com/people/ou-yang-shao-gong-32-90", 
+        "https://www.zhihu.com/people/er-chu-39", 
+        "https://www.zhihu.com/people/ojoo", 
+        "https://www.zhihu.com/people/yang-hao-xuan-31", 
+        "https://www.zhihu.com/people/arylynn", 
+        "https://www.zhihu.com/people/zhang-da-li-11-9", 
+        "https://www.zhihu.com/people/cheng-duo-8", 
+        "https://www.zhihu.com/people/fang-jia-xing-54", 
+        "https://www.zhihu.com/people/bai-yin-47", 
+        "https://www.zhihu.com/people/feng-xiao-chen-9", 
+        "https://www.zhihu.com/people/Alan2017", 
+        "https://www.zhihu.com/people/bu-ai-pao-xiao-de-xiong", 
+        "https://www.zhihu.com/people/wangyunjie", 
+        "https://www.zhihu.com/people/a-hao-lei-ya-99", 
+        "https://www.zhihu.com/people/shen-en-sang", 
+        "https://www.zhihu.com/people/zang-xiang", 
+        "https://www.zhihu.com/people/hu-cong-71", 
+        "https://www.zhihu.com/people/lowden", 
+        "https://www.zhihu.com/people/kampuiaugust", 
+        "https://www.zhihu.com/people/shi-luo-de-liu-zi", 
+        "https://www.zhihu.com/people/laowangcz", 
+        "https://www.zhihu.com/people/gao-yi-hang-35", 
+        "https://www.zhihu.com/people/shigure1018", 
+        "https://www.zhihu.com/people/bing-feng-bai-he-97", 
+        "https://www.zhihu.com/people/zi-mu-jiang-you", 
+        "https://www.zhihu.com/people/whisper-97-31", 
+        "https://www.zhihu.com/people/nicolashom", 
+        "https://www.zhihu.com/people/liu-tian-hui-92", 
+        "https://www.zhihu.com/people/cherish-88-1", 
+        "https://www.zhihu.com/people/zhang-hong-yu-34-94", 
+        "https://www.zhihu.com/people/ke-yan-ze", 
+        "https://www.zhihu.com/people/wen-yuan-xin-95", 
+        "https://www.zhihu.com/people/novoone", 
+        "https://www.zhihu.com/people/andy-15-66-49", 
+        "https://www.zhihu.com/people/wo-de-35-26", 
+        "https://www.zhihu.com/people/arstoma-si-dun", 
+        "https://www.zhihu.com/people/single2000", 
+        "https://www.zhihu.com/people/qin-cai-xian-sheng-50", 
+        "https://www.zhihu.com/people/chen-yu-20-32-76", 
+        "https://www.zhihu.com/people/zuo-zuo-76-46", 
+        "https://www.zhihu.com/people/nia-insom-27", 
+        "https://www.zhihu.com/people/suo-ni-san-hao", 
+        "https://www.zhihu.com/people/wang-hao-chen-44", 
+        "https://www.zhihu.com/people/dickzh", 
+        "https://www.zhihu.com/people/cowseden", 
+        "https://www.zhihu.com/people/li-xue-68-55-80", 
+        "https://www.zhihu.com/people/huk-1", 
+        "https://www.zhihu.com/people/wang-jia-jia-81-17", 
+        "https://www.zhihu.com/people/bakachu", 
+        "https://www.zhihu.com/people/guang1991", 
+        "https://www.zhihu.com/people/fan-grissom", 
+        "https://www.zhihu.com/people/cyan-grass-ink", 
+        "https://www.zhihu.com/people/kenlu", 
+        "https://www.zhihu.com/people/chi-ba-16", 
+        "https://www.zhihu.com/people/xie-ruo-chen-12", 
+        "https://www.zhihu.com/people/bu-shi-bai-du-ren", 
+        "https://www.zhihu.com/people/idiot-87", 
+        "https://www.zhihu.com/people/yun-que-zhi-sheng-51", 
+        "https://www.zhihu.com/people/3mm-66", 
+        "https://www.zhihu.com/people/liu-ya-qing-70", 
+        "https://www.zhihu.com/people/yue-da-ren-ai-chi-mo-gu", 
+        "https://www.zhihu.com/people/zhao-tao-ran", 
+        "https://www.zhihu.com/people/xingtiangao", 
+        "https://www.zhihu.com/people/wl-tang", 
+        "https://www.zhihu.com/people/xie-mang-qi-78", 
+        "https://www.zhihu.com/people/peter-san-40", 
+        "https://www.zhihu.com/people/wang-xiao-xin-84-6", 
+        "https://www.zhihu.com/people/zhao-da-cong-42", 
+        "https://www.zhihu.com/people/li-ying-song-1", 
+        "https://www.zhihu.com/people/wang-jun-3", 
+        "https://www.zhihu.com/people/yongc-zhang", 
+        "https://www.zhihu.com/people/zhang-qian-5-24", 
+        "https://www.zhihu.com/people/zheng-ran-31-80", 
+        "https://www.zhihu.com/people/nan-du-hui", 
+        "https://www.zhihu.com/people/ma-yuan-23-68", 
+        "https://www.zhihu.com/people/lin-cheng-ze", 
+        "https://www.zhihu.com/people/longziyan", 
+        "https://www.zhihu.com/people/-xuan-han-25", 
+        "https://www.zhihu.com/people/luo-zhu-46-9", 
+        "https://www.zhihu.com/people/feng-liao-60-81", 
+        "https://www.zhihu.com/people/ku-rong-jia-kong-62", 
+        "https://www.zhihu.com/people/ruo-yu-34-39", 
+        "https://www.zhihu.com/people/yu-beng-xing-ren", 
+        "https://www.zhihu.com/people/barry-33-46", 
+        "https://www.zhihu.com/people/liu-shu-liang", 
+        "https://www.zhihu.com/people/wang-da-7-70", 
+        "https://www.zhihu.com/people/sirius_yuyuko", 
+        "https://www.zhihu.com/people/cai-jie-min-lao-ye-ye", 
+        "https://www.zhihu.com/people/wang-hao-ran-54-27", 
+        "https://www.zhihu.com/people/nine-number", 
+        "https://www.zhihu.com/people/hfefsevuit", 
+        "https://www.zhihu.com/people/zhou-yuan-84", 
+        "https://www.zhihu.com/people/wu-buchanan", 
+        "https://www.zhihu.com/people/li-min-hao-95", 
+        "https://www.zhihu.com/people/aplysia", 
+        "https://www.zhihu.com/people/bao-an-kang-62", 
+        "https://www.zhihu.com/people/li-si-lin-43", 
+        "https://www.zhihu.com/people/liu_dun", 
+        "https://www.zhihu.com/people/li-wu-57-27", 
+        "https://www.zhihu.com/people/wang-xiao-ai-43-83", 
+        "https://www.zhihu.com/people/mageer", 
+        "https://www.zhihu.com/people/yan-mou-ren-63", 
+        "https://www.zhihu.com/people/tu-tu-tu-tu-tu-tu-hao", 
+        "https://www.zhihu.com/people/ceng-ge-61-44", 
+        "https://www.zhihu.com/people/yi-chen-30-9", 
+        "https://www.zhihu.com/people/zi-yue-17-7", 
+        "https://www.zhihu.com/people/ice-8", 
+        "https://www.zhihu.com/people/facingwall", 
+        "https://www.zhihu.com/people/su-fan-48-38", 
+        "https://www.zhihu.com/people/wen-zi-22-39", 
+        "https://www.zhihu.com/people/fan-xiao-ke-69", 
+        "https://www.zhihu.com/people/dong-fang-xiong-95", 
+        "https://www.zhihu.com/people/fxmeter", 
+        "https://www.zhihu.com/people/goddog", 
+        "https://www.zhihu.com/people/yan-zhang-71-92", 
+        "https://www.zhihu.com/people/wu-zhi-lei-47", 
+        "https://www.zhihu.com/people/wang-ze-yu-64-84", 
+        "https://www.zhihu.com/people/wang-an-lu-46", 
+        "https://www.zhihu.com/people/sun-lin-mao-74", 
+        "https://www.zhihu.com/people/Gui.D.Xin", 
+        "https://www.zhihu.com/people/tan-da-shi-81", 
+        "https://www.zhihu.com/people/wang-liu-liu-19-81", 
+        "https://www.zhihu.com/people/ying-jia-meng", 
+        "https://www.zhihu.com/people/hippobabyfacb-63", 
+        "https://www.zhihu.com/people/haozi325", 
+        "https://www.zhihu.com/people/garrychen", 
+        "https://www.zhihu.com/people/wu-yi-cheng-64", 
+        "https://www.zhihu.com/people/vasdfghg", 
+        "https://www.zhihu.com/people/qubiter", 
+        "https://www.zhihu.com/people/matt-zhou-7", 
+        "https://www.zhihu.com/people/li-yi-peng-81-63", 
+        "https://www.zhihu.com/people/zi-mo-zi-59", 
+        "https://www.zhihu.com/people/zhou-xiao-feng-61-41", 
+        "https://www.zhihu.com/people/dove-45-26", 
+        "https://www.zhihu.com/people/leo-18-29", 
+        "https://www.zhihu.com/people/wang-kai-da", 
+        "https://www.zhihu.com/people/huang-chu-shen", 
+        "https://www.zhihu.com/people/a-mi-luo-luo-87", 
+        "https://www.zhihu.com/people/xiong-chang-run", 
+        "https://www.zhihu.com/people/yitou-chou-xiang", 
+        "https://www.zhihu.com/people/KiritoSai", 
+        "https://www.zhihu.com/people/xu-yu-hui-85", 
+        "https://www.zhihu.com/people/1999819", 
+        "https://www.zhihu.com/people/trrmo-chan", 
+        "https://www.zhihu.com/people/xiao-ji-35-32", 
+        "https://www.zhihu.com/people/li-da-bai-74-95", 
+        "https://www.zhihu.com/people/wayne-lucian", 
+        "https://www.zhihu.com/people/tim-kristic", 
+        "https://www.zhihu.com/people/du-lan-78-11", 
+        "https://www.zhihu.com/people/nestrella", 
+        "https://www.zhihu.com/people/qinshuaizhihu", 
+        "https://www.zhihu.com/people/yi-ge-20-07", 
+        "https://www.zhihu.com/people/zhang-yue-47-22-85", 
+        "https://www.zhihu.com/people/li-da-zui-89-5", 
+        "https://www.zhihu.com/people/thinklessanddomore", 
+        "https://www.zhihu.com/people/shen-shi-92-12", 
+        "https://www.zhihu.com/people/liu-chang-qing-91-47", 
+        "https://www.zhihu.com/people/zhang-yu-lin-5-10", 
+        "https://www.zhihu.com/people/mi-ha-ha-mi", 
+        "https://www.zhihu.com/people/song-ri-li", 
+        "https://www.zhihu.com/people/lin-xiu-88-76", 
+        "https://www.zhihu.com/people/xiang-pen-75", 
+        "https://www.zhihu.com/people/ambercloud", 
+        "https://www.zhihu.com/people/you-ke-ming-34", 
+        "https://www.zhihu.com/people/nolan-zhang-88", 
+        "https://www.zhihu.com/people/msgreat", 
+        "https://www.zhihu.com/people/wwww-52-41", 
+        "https://www.zhihu.com/people/ti-gree", 
+        "https://www.zhihu.com/people/wjhlxx", 
+        "https://www.zhihu.com/people/Egggggggggg", 
+        "https://www.zhihu.com/people/squidszyd", 
+        "https://www.zhihu.com/people/frankenstein-4", 
+        "https://www.zhihu.com/people/ray-wang-64-34", 
+        "https://www.zhihu.com/people/h8acn", 
+        "https://www.zhihu.com/people/wang-yu-di-41", 
+        "https://www.zhihu.com/people/liao-yiyu", 
+        "https://www.zhihu.com/people/zq-zhang-47", 
+        "https://www.zhihu.com/people/ma-li-62-44", 
+        "https://www.zhihu.com/people/shen-wu-jun-22"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/22111989", 
+            "userName": "彭博", 
+            "userLink": "https://www.zhihu.com/people/6ff9e860659f2c68e6181b680c248789", 
+            "upvote": 96, 
+            "title": "循着五度圈的踪迹——浅谈吉他调弦与编曲（四）标准调弦(3)", 
+            "content": "<p>为了拯救低迷的点击量，于是开始做标题党。</p>本文面向掌握基础乐理的进阶吉他学习者，旨在分享自己的学习心得，为吉他曲的创作、改编提供思路和经验。同时，作为学习心得，文章中将不可避免地出现带有笔者主观意识的猜想、假设、偏见、吐槽，希望各位抱着求同存异的态度在知乎这个分享知识的平台上进行交流。<img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7Bl%7D%0A++%5Chline%0A++%5Chline%0A++%7B%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%7D%0A%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{l}\n  \\hline\n  \\hline\n  {　　　　　　　　　　}\n\\end{tabular}\" eeimg=\"1\"/><h2>▍标准调弦<img src=\"https://www.zhihu.com/equation?tex=EADGBE\" alt=\"EADGBE\" eeimg=\"1\"/></h2><p>　　在之前的文章中介绍了C、G、D自然大调及其平行自然小调在标准调弦中的应用。沿着五度圈提供的轨迹，在本文中将继续探寻标准调弦在其它调中的应用。</p><p>▍<b>A大调／f#小调自然音阶中的标准调弦<br/></b></p><p>　　C - G - D就像五度圈穿成的链条，那么链条的下一环就是A大调。表格中粗体为空弦音。</p><img src=\"https://www.zhihu.com/equation?tex=A%5C+major%26%5C+%26F%5Csharp%5C+minor%5C%5C%0A%5Ccline%7B1-3%7D%0A%5C+%26F%5Csharp+m%5C+%28F%5Csharp%5C+%5Cbold%7BA%7D%5C+C%5Csharp%29%5C+244222%26%5Chat%7B1%7D%5C%5C%0A%5C+%26G%5Csharp%5E%5Ccirc%5C+%28G%5Csharp%5C+%5Cbold%7BB%7D%5C+%5Cbold%7BD%7D%29%5C+4x0434%26%5Chat%7B2%7D%5C%5C%0A%5Chat%7B1%7D%26A%5C+%28%5Cbold%7BA%7D%5C+C%5Csharp%5C+%5Cbold%7BE%7D%29%5C+x02220%26%5Chat%7B3%7D%5C%5C%0A%5Chat%7B2%7D+%26Bm%5C+%28%5Cbold%7BB%7D%5C+%5Cbold%7BD%7D%5C+F%5Csharp%29%5C+x24432%26%5Chat%7B4%7D%5C%5C%0A%5Chat%7B3%7D+%26C%5Csharp+m%5C+%28C%5Csharp%5C+%5Cbold%7BE%7D%5C++G%5Csharp%29%5C+x421x0%26%5Chat%7B5%7D%5C%5C%0A%5Chat%7B4%7D%26D%5C+%28%5Cbold%7BD%7D%5C+F%5Csharp%5C+%5Cbold%7BA%7D%29%5C+xx0232%26%5Chat%7B6%7D%5C%5C%0A%5Chat%7B5%7D%26E%5C+%28%5Cbold%7BE%7D%5C+G%5Csharp%5C+%5Cbold%7BB%7D%29%5C+022100%26%5Chat%7B7%7D%5C%5C%0A%5Chat%7B6%7D%26F%5Csharp+m%5C+%28F%5Csharp%5C+%5Cbold%7BA%7D%5C+C%5Csharp%29%5C+244222%26%5C+%5C%5C%0A%5Chat%7B7%7D%26G%5Csharp%5E%5Ccirc%5C+%28G%5Csharp%5C+%5Cbold%7BB%7D%5C+%5Cbold%7BD%7D%29%5C+4x0434%26%5C+%5C%5C\" alt=\"A\\ major&amp;\\ &amp;F\\sharp\\ minor\\\\\n\\cline{1-3}\n\\ &amp;F\\sharp m\\ (F\\sharp\\ \\bold{A}\\ C\\sharp)\\ 244222&amp;\\hat{1}\\\\\n\\ &amp;G\\sharp^\\circ\\ (G\\sharp\\ \\bold{B}\\ \\bold{D})\\ 4x0434&amp;\\hat{2}\\\\\n\\hat{1}&amp;A\\ (\\bold{A}\\ C\\sharp\\ \\bold{E})\\ x02220&amp;\\hat{3}\\\\\n\\hat{2} &amp;Bm\\ (\\bold{B}\\ \\bold{D}\\ F\\sharp)\\ x24432&amp;\\hat{4}\\\\\n\\hat{3} &amp;C\\sharp m\\ (C\\sharp\\ \\bold{E}\\  G\\sharp)\\ x421x0&amp;\\hat{5}\\\\\n\\hat{4}&amp;D\\ (\\bold{D}\\ F\\sharp\\ \\bold{A})\\ xx0232&amp;\\hat{6}\\\\\n\\hat{5}&amp;E\\ (\\bold{E}\\ G\\sharp\\ \\bold{B})\\ 022100&amp;\\hat{7}\\\\\n\\hat{6}&amp;F\\sharp m\\ (F\\sharp\\ \\bold{A}\\ C\\sharp)\\ 244222&amp;\\ \\\\\n\\hat{7}&amp;G\\sharp^\\circ\\ (G\\sharp\\ \\bold{B}\\ \\bold{D})\\ 4x0434&amp;\\ \\\\\" eeimg=\"1\"/><p>　　沿着五度圈的进行，和弦音中的空弦音逐渐变少，指法愈加复杂。甚至在第三弦的空弦出现了第一个不在自然音阶内的G音。</p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7B+c%7C%7C+%2A%7B11%7D%7B%40%7B%7Dp%7B30pt%7D%40%7B%7D%7C%7D+%40%7B%7Dp%7B30pt%7D%40%7B%7D%7D%0A%5Ccline%7B2-13%7D%0A++++5%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%7C%5C%5C%0A++2%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%7C%5C%5C%0A++%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%7C%7C%5C%5C%0A++4%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%7C%26%7C4%7C%7C%5C%5C%0A+++1%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%7C%26%7C1%7C%7C%5C%5C+%0A++++5%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%7C%5C%5C%0A++%5Ccline%7B2-13%7D%0A++%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{ c|| *{11}{@{}p{30pt}@{}|} @{}p{30pt}@{}}\n\\cline{2-13}\n    5&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5||\\\\\n  2&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2||\\\\\n  &amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||||\\\\\n  4&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3||&amp;|4||\\\\\n   1&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7||&amp;|1||\\\\ \n    5&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5||\\\\\n  \\cline{2-13}\n  \\end{tabular}\" eeimg=\"1\"/><p>　　虽然分析显示A大调在标准调弦中使用有诸多不便之处，但它的优点是大调的<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B1%7D%5C+%2C%5Chat%7B4%7D%5C+%2C%5Chat%7B5%7D\" alt=\"\\hat{1}\\ ,\\hat{4}\\ ,\\hat{5}\" eeimg=\"1\"/>级和弦的指法相当简单，在考虑到和弦出现频率的情况下，依然受很多作曲家青睐。</p><p>▍<b>E</b><b>大调／c#小调自然音阶中的标准调弦</b><br/></p><p>　　沿着五度圈越走越远，E大调几乎是在标准调弦中可用的极限了，而c#小调则几乎无人问津。</p><img src=\"https://www.zhihu.com/equation?tex=E%5C+major%26%5C+%26C%5Csharp%5C+minor%5C%5C%0A%5Ccline%7B1-3%7D%0A%5C+%26C%5Csharp+m%5C+%28C%5Csharp%5C+%5Cbold%7BE%7D%5C++G%5Csharp%29%5C+x421x0%26%5Chat%7B1%7D%5C%5C%0A%5C+%26D%5Csharp%5E%5Ccirc%5C+%28D%5Csharp%5C+F%5Csharp%5C+%5Cbold%7BA%7D%29%5C+xx1242%26%5Chat%7B2%7D%5C%5C%0A%5Chat%7B1%7D%26E%5C+%28%5Cbold%7BE%7D%5C+G%5Csharp%5C+%5Cbold%7BB%7D%29%5C+022100%26%5Chat%7B3%7D%5C%5C%0A%5Chat%7B2%7D+%26F%5Csharp+m%5C+%28F%5Csharp%5C+%5Cbold%7BA%7D%5C+C%5Csharp%29%5C+244222%26%5Chat%7B4%7D%5C%5C%0A%5Chat%7B3%7D+%26G%5Csharp+m%5C+%28G%5Csharp%5C+%5Cbold%7BB%7D%5C+D%5Csharp%29%5C+421x04%26%5Chat%7B5%7D%5C%5C%0A%5Chat%7B4%7D%26A%5C+%28%5Cbold%7BA%7D%5C+C%5Csharp%5C+%5Cbold%7BE%7D%29%5C+x02220%26%5Chat%7B6%7D%5C%5C%0A%5Chat%7B5%7D+%26B%5C+%28%5Cbold%7BB%7D%5C+D%5Csharp%5C+F%5Csharp%29%5C+x24442%26%5Chat%7B7%7D%5C%5C%0A%5Chat%7B6%7D+%26C%5Csharp+m%5C+%28C%5Csharp%5C+%5Cbold%7BE%7D%5C++G%5Csharp%29%5C+x421x0%26%5C+%5C%5C%0A%5Chat%7B7%7D+%26D%5Csharp%5E%5Ccirc%5C+%28D%5Csharp%5C+F%5Csharp%5C+%5Cbold%7BA%7D%29%5C+xx1242%26%5C+%5C%5C%0A%0A\" alt=\"E\\ major&amp;\\ &amp;C\\sharp\\ minor\\\\\n\\cline{1-3}\n\\ &amp;C\\sharp m\\ (C\\sharp\\ \\bold{E}\\  G\\sharp)\\ x421x0&amp;\\hat{1}\\\\\n\\ &amp;D\\sharp^\\circ\\ (D\\sharp\\ F\\sharp\\ \\bold{A})\\ xx1242&amp;\\hat{2}\\\\\n\\hat{1}&amp;E\\ (\\bold{E}\\ G\\sharp\\ \\bold{B})\\ 022100&amp;\\hat{3}\\\\\n\\hat{2} &amp;F\\sharp m\\ (F\\sharp\\ \\bold{A}\\ C\\sharp)\\ 244222&amp;\\hat{4}\\\\\n\\hat{3} &amp;G\\sharp m\\ (G\\sharp\\ \\bold{B}\\ D\\sharp)\\ 421x04&amp;\\hat{5}\\\\\n\\hat{4}&amp;A\\ (\\bold{A}\\ C\\sharp\\ \\bold{E})\\ x02220&amp;\\hat{6}\\\\\n\\hat{5} &amp;B\\ (\\bold{B}\\ D\\sharp\\ F\\sharp)\\ x24442&amp;\\hat{7}\\\\\n\\hat{6} &amp;C\\sharp m\\ (C\\sharp\\ \\bold{E}\\  G\\sharp)\\ x421x0&amp;\\ \\\\\n\\hat{7} &amp;D\\sharp^\\circ\\ (D\\sharp\\ F\\sharp\\ \\bold{A})\\ xx1242&amp;\\ \\\\\n\n\" eeimg=\"1\"/><p>　　原本在A大调中指法简单的<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B1%7D%5C+%2C%5Chat%7B4%7D%5C+%2C%5Chat%7B5%7D\" alt=\"\\hat{1}\\ ,\\hat{4}\\ ,\\hat{5}\" eeimg=\"1\"/>级和弦在E大调中变得只有<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B1%7D%5C+%2C%5Chat%7B4%7D\" alt=\"\\hat{1}\\ ,\\hat{4}\" eeimg=\"1\"/>级和弦容易按了，<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B5%7D\" alt=\"\\hat{5}\" eeimg=\"1\"/>级和弦变成了二品的大横按。<br/>　　在空弦方面，3弦和4弦都变成了E大调的调外音，如下图。</p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7B+c%7C%7C+%2A%7B11%7D%7B%40%7B%7Dp%7B30pt%7D%40%7B%7D%7C%7D+%40%7B%7Dp%7B30pt%7D%40%7B%7D%7D%0A%5Ccline%7B2-13%7D%0A+++1%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%7C%26%7C1%7C%7C%5C%5C+%0A++++5%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%7C%5C%5C%0A++%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%7C%7C%5C%5C%0A++%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%7C%7C%5C%5C%0A++4%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%7C%26%7C4%7C%7C%5C%5C%0A+++1%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%7C%26%7C1%7C%7C%5C%5C+%0A++%5Ccline%7B2-13%7D%0A++%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{ c|| *{11}{@{}p{30pt}@{}|} @{}p{30pt}@{}}\n\\cline{2-13}\n   1&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7||&amp;|1||\\\\ \n    5&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5||\\\\\n  &amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||||\\\\\n  &amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||||\\\\\n  4&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3||&amp;|4||\\\\\n   1&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7||&amp;|1||\\\\ \n  \\cline{2-13}\n  \\end{tabular}\" eeimg=\"1\"/><p>　　但是值得注意的是<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B1%7D%5C+%2C%5Chat%7B4%7D%5C+%2C%5Chat%7B5%7D\" alt=\"\\hat{1}\\ ,\\hat{4}\\ ,\\hat{5}\" eeimg=\"1\"/>级和弦的主音全部都在空弦音上，甚至主音E还被重复了，这样低音弦的空弦就能充分利用到，把指法的变化放到旋律与和声上。其它有低音弦优势的调有、e小调、A大调、a小调、D大调和d小调。</p><p><b>▍F大调／d小调自然音阶中的标准调弦</b><br/></p><p>　　从一个尽头沿着五度圈走到另一个尽头就遇到了F大调／d小调自然音阶。</p><img src=\"https://www.zhihu.com/equation?tex=F%5C+major%26%5C+%26D%5C+minor%5C%5C%0A%5Ccline%7B1-3%7D%0A%5C+%26Dm%5C+%28%5Cbold%7BD%7D%5C+F%5C+%5Cbold%7BA%7D%29%5C+xx0231%26%5Chat%7B1%7D%5C%5C%0A%5C+%26E%5E%5Ccirc+%28%5Cbold%7BE%7D%5C++%5Cbold%7BG%7D%5C+B%5Cflat%29%5C+012050%26%5Chat%7B2%7D%5C%5C%0A%5Chat%7B1%7D%26F%5C+%28F%5C+%5Cbold%7BA%7D%5C+%5Cbold%7BC%7D%29%5C+133211%26%5Chat%7B3%7D%5C%5C%0A%5Chat%7B2%7D%26Gm%5C+%28%5Cbold%7BG%7D%5C+B%5Cflat%5C+%5Cbold%7BD%7D%29%5C+355333%26%5Chat%7B4%7D%5C%5C%0A%5Chat%7B3%7D%26Am%5C+%28%5Cbold%7BA%7D%5C+%5Cbold%7BC%7D%5C+%5Cbold%7BE%7D%29%5C+x02210%26%5Chat%7B5%7D%5C%5C%0A%5Chat%7B4%7D%26B%5Cflat+%28B%5Cflat%5C+%5Cbold%7BD%7D%5C+F%29%5C+x13331%26%5Chat%7B6%7D%5C%5C%0A%5Chat%7B5%7D%26C%5C+%28%5Cbold%7BC%7D%5C+%5Cbold%7BE%7D%5C+%5Cbold%7BG%7D%29%5C+x30210%26%5Chat%7B7%7D%5C%5C%0A%5Chat%7B6%7D+%26Dm%5C+%28%5Cbold%7BD%7D%5C+F%5C+%5Cbold%7BA%7D%29%5C+xx0231%26%5C+%5C%5C%0A%5Chat%7B7%7D+%26E%5E%5Ccirc+%28%5Cbold%7BE%7D%5C++%5Cbold%7BG%7D%5C+B%5Cflat%29%5C+012050%26%5C+%5C%5C\" alt=\"F\\ major&amp;\\ &amp;D\\ minor\\\\\n\\cline{1-3}\n\\ &amp;Dm\\ (\\bold{D}\\ F\\ \\bold{A})\\ xx0231&amp;\\hat{1}\\\\\n\\ &amp;E^\\circ (\\bold{E}\\  \\bold{G}\\ B\\flat)\\ 012050&amp;\\hat{2}\\\\\n\\hat{1}&amp;F\\ (F\\ \\bold{A}\\ \\bold{C})\\ 133211&amp;\\hat{3}\\\\\n\\hat{2}&amp;Gm\\ (\\bold{G}\\ B\\flat\\ \\bold{D})\\ 355333&amp;\\hat{4}\\\\\n\\hat{3}&amp;Am\\ (\\bold{A}\\ \\bold{C}\\ \\bold{E})\\ x02210&amp;\\hat{5}\\\\\n\\hat{4}&amp;B\\flat (B\\flat\\ \\bold{D}\\ F)\\ x13331&amp;\\hat{6}\\\\\n\\hat{5}&amp;C\\ (\\bold{C}\\ \\bold{E}\\ \\bold{G})\\ x30210&amp;\\hat{7}\\\\\n\\hat{6} &amp;Dm\\ (\\bold{D}\\ F\\ \\bold{A})\\ xx0231&amp;\\ \\\\\n\\hat{7} &amp;E^\\circ (\\bold{E}\\  \\bold{G}\\ B\\flat)\\ 012050&amp;\\ \\\\\" eeimg=\"1\"/><br/><p>　　F大调／d小调的情况与D大调／b小调很类似，调内共有两种音不在空弦中，分别是F和Bb。不难看出d小调在使用起来较F大调略有优势，这刚刚好与D大调／b小调中的情况相反。<br/>　　但是吉他的2弦空弦音不在F大调／d小调自然音阶内，这又与A大调／f#小调类似。</p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7B+c%7C%7C+%2A%7B11%7D%7B%40%7B%7Dp%7B30pt%7D%40%7B%7D%7C%7D+%40%7B%7Dp%7B30pt%7D%40%7B%7D%7D%0A%5Ccline%7B2-13%7D%0A+++7%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%7C%5C%5C+%0A++++%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%7C%7C%5C%5C%0A++2%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%7C%5C%5C%0A++6%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%7C%5C%5C%0A++3%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%7C%5C%5C%0A+++7%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%7C%5C%5C%0A++%5Ccline%7B2-13%7D%0A++%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{ c|| *{11}{@{}p{30pt}@{}|} @{}p{30pt}@{}}\n\\cline{2-13}\n   7&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7||\\\\ \n    &amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||||\\\\\n  2&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2||\\\\\n  6&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6||\\\\\n  3&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3||\\\\\n   7&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7||\\\\\n  \\cline{2-13}\n  \\end{tabular}\" eeimg=\"1\"/><p>　　以上特点决定了在这种调式下编曲并不是最佳的选择，但是它依然是可用的。</p><p>▍<b>总结</b><br/></p><p>　　以上几种调式几乎就是在标准调弦中能见到的所有情况了，五度圈规则将它们连接起来，形成了一条链。但是链上的各个调式并非同样程度的适合吉他的标准调弦。</p><img src=\"https://www.zhihu.com/equation?tex=+%5C+%26Major-Minor%5C+Scale%5C+%26%5C+%5C%5C%0A%5Ccline%7B1-3%7D%0A%26%5Cvdots%5C%5C%0A-%26B%5Cflat-g%26-%5C%5C%0A%5Cbullet%5Cbullet%26F-d%26%5Cbullet%5Cbullet%5Cbullet%5C%5C%0A%5Ccirc%5Cbullet%5Cbullet%5Cbullet%26C-a%26%5Cbullet%5Cbullet%5Cbullet%5Cbullet%5Cbullet%5C%5C%0A%5Ccirc%5Cbullet%5Cbullet%5Cbullet%5Cbullet%26G-e%26%5Cbullet%5Cbullet%5Cbullet%5Cbullet%5Ccirc%5C%5C%0A%5Cbullet%5Cbullet%5Cbullet%5Cbullet%5Cbullet%26D-b%26-%5C%5C%0A%5Cbullet%5Cbullet%5Cbullet%5Cbullet%26A-f%5Csharp%26-%5C%5C%0A%5Ccirc%5Cbullet%5Cbullet%5Cbullet%26E-c%5Csharp%26-%5C%5C%0A-%26B-g%5Csharp%26-%5C%5C%0A%26%5Cvdots%5C%5C%0A\" alt=\" \\ &amp;Major-Minor\\ Scale\\ &amp;\\ \\\\\n\\cline{1-3}\n&amp;\\vdots\\\\\n-&amp;B\\flat-g&amp;-\\\\\n\\bullet\\bullet&amp;F-d&amp;\\bullet\\bullet\\bullet\\\\\n\\circ\\bullet\\bullet\\bullet&amp;C-a&amp;\\bullet\\bullet\\bullet\\bullet\\bullet\\\\\n\\circ\\bullet\\bullet\\bullet\\bullet&amp;G-e&amp;\\bullet\\bullet\\bullet\\bullet\\circ\\\\\n\\bullet\\bullet\\bullet\\bullet\\bullet&amp;D-b&amp;-\\\\\n\\bullet\\bullet\\bullet\\bullet&amp;A-f\\sharp&amp;-\\\\\n\\circ\\bullet\\bullet\\bullet&amp;E-c\\sharp&amp;-\\\\\n-&amp;B-g\\sharp&amp;-\\\\\n&amp;\\vdots\\\\\n\" eeimg=\"1\"/><p>　　这是我心目中各个调式适合情况的排名，满分5分，“<img src=\"https://www.zhihu.com/equation?tex=%5Cbullet\" alt=\"\\bullet\" eeimg=\"1\"/>”代表1分，“<img src=\"https://www.zhihu.com/equation?tex=%5Ccirc\" alt=\"\\circ\" eeimg=\"1\"/>”代表0.5分，“<img src=\"https://www.zhihu.com/equation?tex=-\" alt=\"-\" eeimg=\"1\"/>”代表资料不足。在大调中是以D大调为中心，在五度圈中距离D越远的调越不适宜使用。其中D调作为“中心”，它的特别之处在于标准调弦的空弦音都在D调，并且在4、5、6三根低音弦中有两根是D调的主音和属音。符合这样条件的还有a小调和e小调。它们都是非常适合标准调弦的调式。</p><p>　　因此，在选择合适的调弦时要一般遵循以下两个原则。</p><blockquote><ol><li><b>吉他的空弦音属于某个调的某种音阶。<br/></b></li><li><b>吉他的低音弦包含上述音阶的主音、属音、下属音中的两个。</b></li></ol></blockquote><p>　　以上原则是最严格的情况，实际使用中可以适当放松，一般而言放松带来的后果是牺牲了指法的简单程度。</p>", 
+            "topic": [
+                {
+                    "tag": "音乐", 
+                    "tagLink": "https://api.zhihu.com/topics/19550453"
+                }, 
+                {
+                    "tag": "吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19556939"
+                }, 
+                {
+                    "tag": "指弹吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19930005"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "余子璘", 
+                    "userLink": "https://www.zhihu.com/people/253451d1224e1815b90eb9bbe29f4888", 
+                    "content": "低音空弦其实比高音空弦重要得多，高音弦其实在大部分时候都不会用到空弦的，因为高音弦一般要演奏和弦，演奏高把位的和弦时最难兼顾的其实是和弦根音，实际上A大调和E大调的曲子要比D大调的曲子多得多，因为三根低音弦刚好包括了A大调的三个骨干音和E大调的两个骨干音，E大调在第七把位有一个主和弦，也比较容易能按到属和弦，有很多D大调的曲子也需要将E弦调成D音", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "徐展", 
+                    "userLink": "https://www.zhihu.com/people/535030b88719d461dfa0f199f424ece4", 
+                    "content": "手动赞", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "长润", 
+                    "userLink": "https://www.zhihu.com/people/944bb824fe97fe4e9218e36231201d9d", 
+                    "content": "期待继续更新", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "折纸", 
+                    "userLink": "https://www.zhihu.com/people/7c6b712fef5c8acf23762ee492ddd364", 
+                    "content": "加油！有我們在看！寫得很好！受教了！", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "我真的叫Ps", 
+                    "userLink": "https://www.zhihu.com/people/1d25bd1735867276bc14a74e50877ec6", 
+                    "content": "四月？ 哈哈", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "邓小猫", 
+                    "userLink": "https://www.zhihu.com/people/20802aafb9ed38ef3bf71cc87c6b6600", 
+                    "content": "我咋就没想过可以这样总结……", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "神奈川是个县", 
+                    "userLink": "https://www.zhihu.com/people/afb5ed56980a25ba4564c72c7ed1eb56", 
+                    "content": "上低音号。。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "吴升伟", 
+                    "userLink": "https://www.zhihu.com/people/1fbfe44b2e99f6a930b7c5a2314a7709", 
+                    "content": "有点没看懂", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>棒！期待更新！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "余子璘", 
+                    "userLink": "https://www.zhihu.com/people/253451d1224e1815b90eb9bbe29f4888", 
+                    "content": "低音空弦其实比高音空弦重要得多，高音弦其实在大部分时候都不会用到空弦的，因为高音弦一般要演奏和弦，演奏高把位的和弦时最难兼顾的其实是和弦根音，实际上A大调和E大调的曲子要比D大调的曲子多得多，因为三根低音弦刚好包括了A大调的三个骨干音和E大调的两个骨干音，E大调在第七把位有一个主和弦，也比较容易能按到属和弦，有很多D大调的曲子也需要将E弦调成D音", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "君不知", 
+                            "userLink": "https://www.zhihu.com/people/7f57e21828081f802fe8cb7a70a14d64", 
+                            "content": "所以你需要多一根弦😂，七弦琴完美的避免这个尴尬", 
+                            "likes": 0, 
+                            "replyToAuthor": "余子璘"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Ta shi", 
+                    "userLink": "https://www.zhihu.com/people/6325c65f6a2530024c69fcb2619f4703", 
+                    "content": "好", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Epsilon", 
+                    "userLink": "https://www.zhihu.com/people/cdde901428337c01d5feaea28905067b", 
+                    "content": "感谢你！我玩指弹好多年了，一直在纠结编曲时该如何选择合适的特殊调弦。这4篇帖子，连着看完的，太受用了，真的谢谢！", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/22005806", 
+            "userName": "彭博", 
+            "userLink": "https://www.zhihu.com/people/6ff9e860659f2c68e6181b680c248789", 
+            "upvote": 18, 
+            "title": "促轸拂弦瑟瑟徽——浅谈吉他调弦与编曲（三）标准调弦(2)", 
+            "content": "本文面向掌握基础乐理的进阶吉他学习者，旨在分享自己的学习心得，为吉他曲的创作、改编提供思路和经验。同时，作为学习心得，文章中将不可避免地出现带有笔者主观意识的猜想、假设、偏见、吐槽，希望各位抱着求同存异的态度在知乎这个分享知识的平台上进行交流。<img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7Bl%7D%0A++%5Chline%0A++%5Chline%0A++%7B%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%7D%0A%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{l}\n  \\hline\n  \\hline\n  {　　　　　　　　　　}\n\\end{tabular}\" eeimg=\"1\"/><br/><h2>▍标准调弦<img src=\"https://www.zhihu.com/equation?tex=EADGBE\" alt=\"EADGBE\" eeimg=\"1\"/></h2><p>▍<b>G</b><b>大调／e</b><b>小调自然音阶中的标准调弦</b></p><p>　　按照与上一章相同的分析方式对G大调／e小调自然音阶进行整理：<br/>　　G自然大调音阶：<img src=\"https://www.zhihu.com/equation?tex=G%2C%5C+A%2C%5C+B%2C%5C+C%2C%5C+D%2C%5C+E+%2C%5C+F%5Csharp\" alt=\"G,\\ A,\\ B,\\ C,\\ D,\\ E ,\\ F\\sharp\" eeimg=\"1\"/>，自然和弦从<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B1%7D\" alt=\"\\hat{1}\" eeimg=\"1\"/>到<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B7%7D\" alt=\"\\hat{7}\" eeimg=\"1\"/>：<img src=\"https://www.zhihu.com/equation?tex=G%2C%5C+Am%2C%5C+Bm%2C%5C+C%2C%5C+D%2C%5C+Em%2C%5C+F%5Csharp%5E%5Ccirc\" alt=\"G,\\ Am,\\ Bm,\\ C,\\ D,\\ Em,\\ F\\sharp^\\circ\" eeimg=\"1\"/>。<br/>　　e自然小调音阶：<img src=\"https://www.zhihu.com/equation?tex=E%2C%5C+F%5Csharp%2C%5C+G%2C%5C+A%2C%5C+B%2C%5C+C%2C%5C+D\" alt=\"E,\\ F\\sharp,\\ G,\\ A,\\ B,\\ C,\\ D\" eeimg=\"1\"/>，自然和弦从<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B1%7D\" alt=\"\\hat{1}\" eeimg=\"1\"/>到<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B7%7D\" alt=\"\\hat{7}\" eeimg=\"1\"/>：<img src=\"https://www.zhihu.com/equation?tex=Em%2C%5C+F%5Csharp%5E%5Ccirc%2C%5C+G%2C%5C+Am%2C%5C+Bm%2C%5C+C%2C%5C+D\" alt=\"Em,\\ F\\sharp^\\circ,\\ G,\\ Am,\\ Bm,\\ C,\\ D\" eeimg=\"1\"/>。<br/>　　标准调弦的空弦音有<img src=\"https://www.zhihu.com/equation?tex=G%2C%5C+A%2C%5C+B%2C%5C+D%2C%5C+E\" alt=\"G,\\ A,\\ B,\\ D,\\ E\" eeimg=\"1\"/>，分别对应大调音级的<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B1%7D%2C%5C+%5Chat%7B2%7D%2C%5C+%5Chat%7B3%7D%2C%5C+%5Chat%7B5%7D%2C%5C+%5Chat%7B6%7D\" alt=\"\\hat{1},\\ \\hat{2},\\ \\hat{3},\\ \\hat{5},\\ \\hat{6}\" eeimg=\"1\"/>和小调音级的<img src=\"https://www.zhihu.com/equation?tex=%5C+%5Chat%7B3%7D%2C%5C+%5Chat%7B4%7D%2C%5C+%5Chat%7B5%7D%2C%5C+%5Chat%7B7%7D%2C%5C+%5Chat%7B1%7D\" alt=\"\\ \\hat{3},\\ \\hat{4},\\ \\hat{5},\\ \\hat{7},\\ \\hat{1}\" eeimg=\"1\"/>。<br/>　　　指板标记如图：</p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7B+c%7C%7C+%2A%7B11%7D%7B%40%7B%7Dp%7B30pt%7D%40%7B%7D%7C%7D+%40%7B%7Dp%7B30pt%7D%40%7B%7D%7D%0A%5Ccline%7B2-13%7D%0A++6%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%7C%5C%5C%0A++3%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%7C%5C%5C%0A+++1%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%7C%26%7C1%7C%7C%5C%5C+%0A++++5%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%7C%5C%5C%0A++2%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%7C%5C%5C%0A++6%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%7C%5C%5C%0A++%5Ccline%7B2-13%7D%0A++%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{ c|| *{11}{@{}p{30pt}@{}|} @{}p{30pt}@{}}\n\\cline{2-13}\n  6&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6||\\\\\n  3&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3||\\\\\n   1&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7||&amp;|1||\\\\ \n    5&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5||\\\\\n  2&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2||\\\\\n  6&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6||\\\\\n  \\cline{2-13}\n  \\end{tabular}\" eeimg=\"1\"/><p>　　G大调与e小调第一把位各级和弦的指法如下：<br/></p><img src=\"https://www.zhihu.com/equation?tex=G%5C+major%5C%5C%5C%5C%0AI%26G%26320003%5C%5C%0Aii%26Am%26x02210%5C%5C%0Aiii%26Bm%26x24432%5C%5C%0AIV%26C%26x32010%5C%5C%0AV%26D%26xx0232%5C%5C%0Avi%26Em%26022000%5C%5C%0Avii%5E%5Ccirc%26F%5Csharp%5E%5Ccirc%2620x212\" alt=\"G\\ major\\\\\\\\\nI&amp;G&amp;320003\\\\\nii&amp;Am&amp;x02210\\\\\niii&amp;Bm&amp;x24432\\\\\nIV&amp;C&amp;x32010\\\\\nV&amp;D&amp;xx0232\\\\\nvi&amp;Em&amp;022000\\\\\nvii^\\circ&amp;F\\sharp^\\circ&amp;20x212\" eeimg=\"1\"/><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7Bc%7Cc%7D%0A%5C+%26%5C+%5C%5C%0A%5C+%5C%5C%0A%5C+%5C%5C%0A%5C+%5C%5C%0A%5C+%5C%5C%0A%5C+%5C%5C%0A%5C+%5C%5C%0A%5C+%5C%5C%0A%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{c|c}\n\\ &amp;\\ \\\\\n\\ \\\\\n\\ \\\\\n\\ \\\\\n\\ \\\\\n\\ \\\\\n\\ \\\\\n\\ \\\\\n\\end{tabular}\" eeimg=\"1\"/><img src=\"https://www.zhihu.com/equation?tex=E%5C+minor%5C%5C%5C%5C%5C%0Ai%26Em%26022000%5C%5C%0Aii%5E%5Ccirc%26F%5Csharp%5E%5Ccirc%2620x212%5C%5C%0AIII%26G%26320003%5C%5C%0Aiv%26Am%26x02210%5C%5C%0Av%26Bm%26x24432%5C%5C%0AVI%26C%26x32010%5C%5C%0AVII%26D%26xx0232%5C%5C\" alt=\"E\\ minor\\\\\\\\\\\ni&amp;Em&amp;022000\\\\\nii^\\circ&amp;F\\sharp^\\circ&amp;20x212\\\\\nIII&amp;G&amp;320003\\\\\niv&amp;Am&amp;x02210\\\\\nv&amp;Bm&amp;x24432\\\\\nVI&amp;C&amp;x32010\\\\\nVII&amp;D&amp;xx0232\\\\\" eeimg=\"1\"/><blockquote>感谢<a href=\"https://www.zhihu.com/people/2dbb113fef42310cc9a0581f81a3e373\" data-hash=\"2dbb113fef42310cc9a0581f81a3e373\" class=\"member_mention\" data-hovercard=\"p$b$2dbb113fef42310cc9a0581f81a3e373\">@孔超</a> 指出的错误，已更正。</blockquote><p>　　G大调和弦中横按分别在<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B3%7D%2C%5C+%5Chat%7B7%7D\" alt=\"\\hat{3},\\ \\hat{7}\" eeimg=\"1\"/>出现，而这两级和弦的使用频率较低。而在关键的<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B1%7D%2C%5C+%5Chat%7B4%7D%2C%5C+%5Chat%7B5%7D\" alt=\"\\hat{1},\\ \\hat{4},\\ \\hat{5}\" eeimg=\"1\"/>和弦中都是开放和弦。而在e小调中，<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B5%7D\" alt=\"\\hat{5}\" eeimg=\"1\"/>级和弦是封闭和弦（好在<img src=\"https://www.zhihu.com/equation?tex=B7\" alt=\"B7\" eeimg=\"1\"/>和弦不是）。相对来说，在编配中G大调略优于e小调。</p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7Bl%7D%0A++%5Chline%0A++%5Chline%0A++%7B%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%7D%0A%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{l}\n  \\hline\n  \\hline\n  {　　　　　　　　　　}\n\\end{tabular}\" eeimg=\"1\"/><br/><p>▍<b>D大调／b小调自然音阶中的标准调弦</b><br/></p><p>　　分析方式同上，不再赘述，表格中粗体为空弦音。</p><img src=\"https://www.zhihu.com/equation?tex=D%5C+major%26%5C+%26B%5C+minor%5C%5C%0A%5Ccline%7B1-3%7D%0A%5C+%26Bm%5C+%28%5Cbold%7BB%7D%5C+%5Cbold%7BD%7D%5C+F%5Csharp%29%5C+x24432%26%5Chat%7B1%7D%5C%5C%0A%5C+%26C%5Csharp%5E%5Ccirc%5C+%28C%5Csharp%5C+%5Cbold%7BE%7D%5C++%5Cbold%7BG%7D%29%5C+x42020%26%5Chat%7B2%7D%5C%5C%0A%5Chat%7B1%7D%26D%5C+%28%5Cbold%7BD%7D%5C+F%5Csharp%5C+%5Cbold%7BA%7D%29%5C+xx0232%26%5Chat%7B3%7D%5C%5C%0A%5Chat%7B2%7D%26Em%5C+%28%5Cbold%7BE%7D%5C+%5Cbold%7BG%7D%5C+%5Cbold%7BB%7D%29%5C+022000%26%5Chat%7B4%7D%5C%5C%0A%5Chat%7B3%7D%26F%5Csharp+m%5C+%28F%5Csharp%5C+%5Cbold%7BA%7D%5C+C%5Csharp%29%5C+244222%26%5Chat%7B5%7D%5C%5C%0A%5Chat%7B4%7D%26G%5C+%28%5Cbold%7BG%7D%5C+%5Cbold%7BB%7D%5C+%5Cbold%7BD%7D%29%5C+320003%26%5Chat%7B6%7D%5C%5C%0A%5Chat%7B5%7D%26A%5C+%28%5Cbold%7BA%7D%5C+C%5Csharp%5C+%5Cbold%7BE%7D%29%5C+x02220%26%5Chat%7B7%7D%5C%5C%0A%5Chat%7B6%7D%26Bm%5C+%28%5Cbold%7BB%7D%5C+%5Cbold%7BD%7D%5C+F%5Csharp%29%5C+x24432%26%5C+%5C%5C%0A%5Chat%7B7%7D%26C%5Csharp%5E%5Ccirc%5C+%28C%5Csharp%5C+%5Cbold%7BE%7D%5C+%5Cbold%7BG%7D%29%5C+x42020%5C%5C\" alt=\"D\\ major&amp;\\ &amp;B\\ minor\\\\\n\\cline{1-3}\n\\ &amp;Bm\\ (\\bold{B}\\ \\bold{D}\\ F\\sharp)\\ x24432&amp;\\hat{1}\\\\\n\\ &amp;C\\sharp^\\circ\\ (C\\sharp\\ \\bold{E}\\  \\bold{G})\\ x42020&amp;\\hat{2}\\\\\n\\hat{1}&amp;D\\ (\\bold{D}\\ F\\sharp\\ \\bold{A})\\ xx0232&amp;\\hat{3}\\\\\n\\hat{2}&amp;Em\\ (\\bold{E}\\ \\bold{G}\\ \\bold{B})\\ 022000&amp;\\hat{4}\\\\\n\\hat{3}&amp;F\\sharp m\\ (F\\sharp\\ \\bold{A}\\ C\\sharp)\\ 244222&amp;\\hat{5}\\\\\n\\hat{4}&amp;G\\ (\\bold{G}\\ \\bold{B}\\ \\bold{D})\\ 320003&amp;\\hat{6}\\\\\n\\hat{5}&amp;A\\ (\\bold{A}\\ C\\sharp\\ \\bold{E})\\ x02220&amp;\\hat{7}\\\\\n\\hat{6}&amp;Bm\\ (\\bold{B}\\ \\bold{D}\\ F\\sharp)\\ x24432&amp;\\ \\\\\n\\hat{7}&amp;C\\sharp^\\circ\\ (C\\sharp\\ \\bold{E}\\ \\bold{G})\\ x42020\\\\\" eeimg=\"1\"/><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7B+c%7C%7C+%2A%7B11%7D%7B%40%7B%7Dp%7B30pt%7D%40%7B%7D%7C%7D+%40%7B%7Dp%7B30pt%7D%40%7B%7D%7D%0A%5Ccline%7B2-13%7D%0A++2%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%7C%5C%5C%0A++6%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%7C%5C%5C%0A++4%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%7C%26%7C4%7C%7C%5C%5C%0A+++1%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%7C%26%7C1%7C%7C%5C%5C+%0A++++5%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%7C%5C%5C%0A++2%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%7C%5C%5C%0A++%5Ccline%7B2-13%7D%0A++%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{ c|| *{11}{@{}p{30pt}@{}|} @{}p{30pt}@{}}\n\\cline{2-13}\n  2&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2||\\\\\n  6&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6||\\\\\n  4&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3||&amp;|4||\\\\\n   1&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7||&amp;|1||\\\\ \n    5&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5||\\\\\n  2&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2||\\\\\n  \\cline{2-13}\n  \\end{tabular}\" eeimg=\"1\"/><p>　　标准调弦中的D大调依然很方便使用，而b小调由于<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B1%7D%2C%5C+%5Chat%7B5%7D\" alt=\"\\hat{1},\\ \\hat{5}\" eeimg=\"1\"/>都被二品的横按占据，改编的局限很大。<br/></p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7Bl%7D%0A++%5Chline%0A++%5Chline%0A++%7B%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%7D%0A%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{l}\n  \\hline\n  \\hline\n  {　　　　　　　　　　}\n\\end{tabular}\" eeimg=\"1\"/><br/><p>▍<b>吉他中的五度圈</b></p><p>　　前面分析过的C、G、D大调以及它们的平行小调在标准调弦的吉它曲中很常用。虽然可以用归纳总结的方式将12个调的各级和弦一一列出来判断它是否易于使用，但其实调与调之间的内在联系使得找出它们变得更加简单。</p><p>　　半音音阶中的12个音间的联系由五度圈来揭示：12个音形成一个闭合的圈，圈中的每一个音都比相连的上一个音高五度。</p><figure><noscript><img src=\"https://pic2.zhimg.com/f128e4560eb2ab6f8e5c0790d14b923d_b.png\" data-rawwidth=\"220\" data-rawheight=\"220\" class=\"content_image\" width=\"220\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;220&#39; height=&#39;220&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"220\" data-rawheight=\"220\" class=\"content_image lazy\" width=\"220\" data-actualsrc=\"https://pic2.zhimg.com/f128e4560eb2ab6f8e5c0790d14b923d_b.png\"/></figure><p>　　C→G→D就是五度圈中的一环。以五度圈中相邻的音为主音产生的大调／小调音阶之间只有一个音不同。以C大调和G大调为例：C大调音阶为<img src=\"https://www.zhihu.com/equation?tex=C%2C%5C+D%2C%5C+E%2C%5C+F%2C%5C+G%2C%5C+A%2C%5C+B\" alt=\"C,\\ D,\\ E,\\ F,\\ G,\\ A,\\ B\" eeimg=\"1\"/>，G大调音阶为<img src=\"https://www.zhihu.com/equation?tex=G%2C%5C+A%2C%5C+B%2C%5C+C%2C%5C+D%2C%5C+E+%2C%5C+F%5Csharp\" alt=\"G,\\ A,\\ B,\\ C,\\ D,\\ E ,\\ F\\sharp\" eeimg=\"1\"/>，其中两者只有<img src=\"https://www.zhihu.com/equation?tex=F\" alt=\"F\" eeimg=\"1\"/>与<img src=\"https://www.zhihu.com/equation?tex=F%5Csharp%0A\" alt=\"F\\sharp\n\" eeimg=\"1\"/>的差别。因此两个调的相似性很高，是近关系调中的一种。于是，由两个音阶中的共同音构成的和弦是一致的，只不过起到的功能不同。<br/>　　在吉他中，近关系调之间的共用和弦相同，非共用和弦由于和弦音仅差半音，因此造成的指板上品位的移动只有一格，一般来说对于指法的影响并不大。因此，<b>沿着五度圈曲寻找某种调弦下适合的调是非常有效的</b>，之前对C、G、D大调的分析就印证了这一点。需要注意的是，随着相距原始调的距离的增加，指法的难度会增大。比如距离C大调最远的F#调一定充满了各种横按，作曲家也不大愿意使用了。<br/></p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7Bl%7D%0A++%5Chline%0A++%5Chline%0A++%7B%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%7D%0A%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{l}\n  \\hline\n  \\hline\n  {　　　　　　　　　　}\n\\end{tabular}\" eeimg=\"1\"/><br/><p>▍<b>示例视频<br/></b></p><blockquote><p>G大调：風と自転車（风和自行车） - 伍伍慧（伍々慧／Satoshi Gogo）<br/><a class=\"video-box\" href=\"https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjkzMzY0ODUy.html\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"\" data-name=\"日本新人伍伍慧(Satoshi Gogo)原创： 風と自転車（风和自行车）—在线播放—优酷网，视频高清在线观看\" data-poster=\"http://r3.ykimg.com/05420408528FB6996A0A4B123AF52485\" data-lens-id=\"\"><img class=\"thumbnail\" src=\"http://r3.ykimg.com/05420408528FB6996A0A4B123AF52485\"/><span class=\"content\"><span class=\"title\">日本新人伍伍慧(Satoshi Gogo)原创： 風と自転車（风和自行车）—在线播放—优酷网，视频高清在线观看<span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>http://v.youku.com/v_show/id_XMjkzMzY0ODUy.html</span></span></a></p><p>e小调：Twilight - 押尾光太郎（押尾 コータロー／Kotaro Oshio）<a class=\"video-box\" href=\"https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMzAzNDk3MDc2.html\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"\" data-name=\"【指弹】郑成河翻弹押尾桑的Twilight(黄昏) 第三次录制—在线播放—优酷网，视频高清在线观看\" data-poster=\"http://r3.ykimg.com/05420408528B8D206A0A4B12530F8497\" data-lens-id=\"\"><img class=\"thumbnail\" src=\"http://r3.ykimg.com/05420408528B8D206A0A4B12530F8497\"/><span class=\"content\"><span class=\"title\">【指弹】郑成河翻弹押尾桑的Twilight(黄昏) 第三次录制—在线播放—优酷网，视频高清在线观看<span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>http://v.youku.com/v_show/id_XMzAzNDk3MDc2.html</span></span></a>（小郑长残了）</p><br/><p>D大调：风之诗（風の詩） - 押尾光太郎（押尾 コータロー／Kotaro Oshio）<a class=\"video-box\" href=\"https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMjc3NzMwMDAw.html\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"\" data-name=\"日本女生奏帆（KANAHO）翻弹押尾的風の詩—在线播放—优酷网，视频高清在线观看\" data-poster=\"http://r4.ykimg.com/054204085271EC196A0A3F42C0040FA8\" data-lens-id=\"\"><img class=\"thumbnail\" src=\"http://r4.ykimg.com/054204085271EC196A0A3F42C0040FA8\"/><span class=\"content\"><span class=\"title\">日本女生奏帆（KANAHO）翻弹押尾的風の詩—在线播放—优酷网，视频高清在线观看<span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>http://v.youku.com/v_show/id_XMjc3NzMwMDAw.html</span></span></a>（然而奏帆一直萌萌哒）</p><p>B小调：待补充</p></blockquote>", 
+            "topic": [
+                {
+                    "tag": "音乐", 
+                    "tagLink": "https://api.zhihu.com/topics/19550453"
+                }, 
+                {
+                    "tag": "吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19556939"
+                }, 
+                {
+                    "tag": "指弹吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19930005"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "G大调七级和弦是＃Fdim啊，低把位指法应该是2342xx", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "彭博", 
+                    "userLink": "https://www.zhihu.com/people/6ff9e860659f2c68e6181b680c248789", 
+                    "content": "感谢指出错误！已经在文章中改正。关于和弦的记号文中使用“°”表示减和弦，为了与上下文统一，指法改正为20x212，你说的2342xx也是正解。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Johnsongnie", 
+                    "userLink": "https://www.zhihu.com/people/307abd358e0695d840caf27e16102fda", 
+                    "content": "first blood", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "G大调七级和弦是＃Fdim啊，低把位指法应该是2342xx", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "彭博", 
+                            "userLink": "https://www.zhihu.com/people/6ff9e860659f2c68e6181b680c248789", 
+                            "content": "感谢指出错误！已经在文章中改正。关于和弦的记号文中使用“°”表示减和弦，为了与上下文统一，指法改正为20x212，你说的2342xx也是正解。", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "嗯嗯😄作者态度很严谨啊，赞一个，坐等更多好文☺", 
+                            "likes": 0, 
+                            "replyToAuthor": "彭博"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "静静yu", 
+                    "userLink": "https://www.zhihu.com/people/a69784ec4c8a1c107a09df73f5ca7700", 
+                    "content": "为什么要用上低音号的配图。。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "彭博", 
+                            "userLink": "https://www.zhihu.com/people/6ff9e860659f2c68e6181b680c248789", 
+                            "content": "夹带的私货而已……", 
+                            "likes": 0, 
+                            "replyToAuthor": "静静yu"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "沉香千帆舞", 
+                    "userLink": "https://www.zhihu.com/people/df260dd0b4ba5d685d96c3ee493063a8", 
+                    "content": "看到久美子进来的", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "老老梅", 
+                    "userLink": "https://www.zhihu.com/people/7999bd7435921d44eea0fff2ea3eb1d5", 
+                    "content": "感谢老哥，可惜图全都挂了只能看字。..", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/21981192", 
+            "userName": "彭博", 
+            "userLink": "https://www.zhihu.com/people/6ff9e860659f2c68e6181b680c248789", 
+            "upvote": 31, 
+            "title": "促轸拂弦瑟瑟徽——浅谈吉他调弦与编曲（二）标准调弦(1)", 
+            "content": "本文面向掌握基础乐理的进阶吉他学习者，旨在分享自己的学习心得，为吉他曲的创作、改编提供思路和经验。同时，作为学习心得，文章中将不可避免地出现带有笔者主观意识的猜想、假设、偏见、吐槽，希望各位抱着求同存异的态度在知乎这个分享知识的平台上进行交流。<img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7Bl%7D%0A++%5Chline%0A++%5Chline%0A++%7B%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%7D%0A%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{l}\n  \\hline\n  \\hline\n  {　　　　　　　　　　}\n\\end{tabular}\" eeimg=\"1\"/><br/><blockquote>　　在上一章结尾提到了一个结论，<b>吉他的空弦音属于某个调的某种音阶</b>，在之后的文章中会经常用到。</blockquote><h2>▍标准调弦 <img src=\"https://www.zhihu.com/equation?tex=EADGBE\" alt=\"EADGBE\" eeimg=\"1\"/></h2><p><b>▍C大调／a小调自然音阶中的标准调弦</b></p><br/>　　C大调和a小调互为同名大小调。<br/>　　C大调自然音阶是<img src=\"https://www.zhihu.com/equation?tex=C%2C+D%2C+E%2C+F%2C+G%2C+A%2C+B\" alt=\"C, D, E, F, G, A, B\" eeimg=\"1\"/>，各级和弦为<img src=\"https://www.zhihu.com/equation?tex=C%2C+Dm%2C+Em%2C+F%2C+G%2C+Am%2C+B%5E%5Ccirc\" alt=\"C, Dm, Em, F, G, Am, B^\\circ\" eeimg=\"1\"/>。<br/>　　a小调自然音阶是<img src=\"https://www.zhihu.com/equation?tex=A%2C+B%2C+C%2C+D%2C+E%2C+F%2C+G\" alt=\"A, B, C, D, E, F, G\" eeimg=\"1\"/>，各级和弦为<img src=\"https://www.zhihu.com/equation?tex=Am%2C+B%5E%5Ccirc%2C+C%2C+Dm%2C+Em%2C+F%2C+G\" alt=\"Am, B^\\circ, C, Dm, Em, F, G\" eeimg=\"1\"/>。<br/>　　标准调弦的空弦音有<img src=\"https://www.zhihu.com/equation?tex=D%2C+E%2C+G%2C+A%2C+B\" alt=\"D, E, G, A, B\" eeimg=\"1\"/>，五个音都在上述自然音阶中。<br/>　　为了方便观察，将它们的简谱标记在指板上，如下图：<br/><br/><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7B+c%7C%7C+%2A%7B11%7D%7B%40%7B%7Dp%7B30pt%7D%40%7B%7D%7C%7D+%40%7B%7Dp%7B30pt%7D%40%7B%7D%7D%0A%5Ccline%7B2-13%7D%0A++3%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%7C%5C%5C%0A+++7%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%7C%5C%5C+%0A++++5%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%7C%5C%5C%0A++2%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%7C%5C%5C%0A++6%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%7C%5C%5C%0A++3%26%7C4%7C%26%7C%7C%26%7C5%7C%26%7C%7C%26%7C6%7C%26%7C%7C%26%7C7%7C%26%7C1%7C%26%7C%7C%26%7C2%7C%26%7C%7C%26%7C3%7C%7C%5C%5C%0A++%5Ccline%7B2-13%7D%0A++%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{ c|| *{11}{@{}p{30pt}@{}|} @{}p{30pt}@{}}\n\\cline{2-13}\n  3&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3||\\\\\n   7&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7||\\\\ \n    5&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5||\\\\\n  2&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2||\\\\\n  6&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3|&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6||\\\\\n  3&amp;|4|&amp;||&amp;|5|&amp;||&amp;|6|&amp;||&amp;|7|&amp;|1|&amp;||&amp;|2|&amp;||&amp;|3||\\\\\n  \\cline{2-13}\n  \\end{tabular}\" eeimg=\"1\"/><br/><br/>　　功能和声理论认为，在调性音乐中起骨架作用的和弦是主和弦、下属和弦与属和弦，也是音乐使用频度最高的几个和弦。C大调的三个和弦分别是<img src=\"https://www.zhihu.com/equation?tex=C%3A+x32010\" alt=\"C: x32010\" eeimg=\"1\"/>、<img src=\"https://www.zhihu.com/equation?tex=F%3A+133211\" alt=\"F: 133211\" eeimg=\"1\"/>、<img src=\"https://www.zhihu.com/equation?tex=G%3A+320003\" alt=\"G: 320003\" eeimg=\"1\"/>。注意到<img src=\"https://www.zhihu.com/equation?tex=F\" alt=\"F\" eeimg=\"1\"/>和弦是一个封闭和弦。在上一章中提到过，封闭和弦的出现是存在弊端的，违背了“多利用空弦音”的基本认识。而在a小调中的和弦为<img src=\"https://www.zhihu.com/equation?tex=Am%3A+x02210\" alt=\"Am: x02210\" eeimg=\"1\"/>、<img src=\"https://www.zhihu.com/equation?tex=Dm%3A+xx0231\" alt=\"Dm: xx0231\" eeimg=\"1\"/>、<img src=\"https://www.zhihu.com/equation?tex=Em%3A+022000\" alt=\"Em: 022000\" eeimg=\"1\"/>。不难看出，三个和弦的指法难度比C大调的要简单一些，空弦的利用率也提高了。因此从匹配程度来讲，a小调在一定程度上要优于C大调。<br/><br/>　　在标准调弦的实际应用中也不难看出a小调与C大调的优劣。在弹唱中，第一把位的<img src=\"https://www.zhihu.com/equation?tex=C+F+G\" alt=\"C F G\" eeimg=\"1\"/>和弦间的切换难度显然是大于<img src=\"https://www.zhihu.com/equation?tex=Am+Dm+Em\" alt=\"Am Dm Em\" eeimg=\"1\"/>和弦间的切换难度的，尤其是对初学者而言。也许C大调并没有那么“顺手”，只是因为最先接触才印象深刻，而初学者接触的时候大多往往还没有基本的乐理知识，于是对和弦的掌握仅仅停在了记忆阶段，还远未融会贯通。因此这种思维惯性决定了非常多的人把标准调弦下的C大调当成了“万金油”，甚至出现了相当多的所谓“特殊调弦改编成标准调弦”的个人制作乐谱流通在论坛中，而这些乐谱大多南辕北辙，与作曲家个人的创作意图背道而驰。<br/><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7Bl%7D%0A++%5Chline%0A++%5Chline%0A++%7B%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%7D%0A%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{l}\n  \\hline\n  \\hline\n  {　　　　　　　　　　}\n\\end{tabular}\" eeimg=\"1\"/><br/><br/>▍示例音频、视频<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">“由于个人能力有限，在笔者读过的现代指弹曲谱中，很遗憾我没有找到一例使用C大调写成的曲子（真的只是巧合吗）。”\n以上删除@160822</code></pre></div>　　感谢<a href=\"https://www.zhihu.com/people/944bb824fe97fe4e9218e36231201d9d\" data-hash=\"944bb824fe97fe4e9218e36231201d9d\" class=\"member_mention\" data-editable=\"true\" data-title=\"@长润\" data-hovercard=\"p$b$944bb824fe97fe4e9218e36231201d9d\">@长润</a> 的补充，押尾光太郎（押尾 コータロー／Kotaro Oshio）的セピア色の写真（泛黄的照片）是用C大调来写的。押尾在使用非常套路的和声进行的同时，大量使用<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B2%7D\" alt=\"\\hat{2}\" eeimg=\"1\"/>级和弦代替功能相同的<img src=\"https://www.zhihu.com/equation?tex=%5Chat%7B4%7D\" alt=\"\\hat{4}\" eeimg=\"1\"/>级和弦，规避掉了横按的麻烦，使得原曲意外地独具匠心。<br/><blockquote><a class=\"video-box\" href=\"https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XMTY5NDgyMzE5Ng%3D%3D.html\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"\" data-name=\"セピア色の写真 押尾コータロー(Cover)—在线播放—优酷网，视频高清在线观看\" data-poster=\"http://r3.ykimg.com/0542040857BA8BFF6A0A4B045AC37F85\" data-lens-id=\"\"><img class=\"thumbnail\" src=\"http://r3.ykimg.com/0542040857BA8BFF6A0A4B045AC37F85\"/><span class=\"content\"><span class=\"title\">セピア色の写真 押尾コータロー(Cover)—在线播放—优酷网，视频高清在线观看<span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>http://v.youku.com/v_show/id_XMTY5NDgyMzE5Ng==.html</span></span></a></blockquote>　　伍伍慧（伍々慧／Satoshi Gogo）的《雨中华尔兹（雨の日はワルツを踊って）》是一首典型的a小调作品，只不过与自然小调不同，这里用的是和声小调。注意里面空弦音的使用，尤其是<img src=\"https://www.zhihu.com/equation?tex=E\" alt=\"E\" eeimg=\"1\"/>和弦与<img src=\"https://www.zhihu.com/equation?tex=Am\" alt=\"Am\" eeimg=\"1\"/>和弦弹响时5、6弦长长的延音。<br/><br/><blockquote><a class=\"video-box\" href=\"https://link.zhihu.com/?target=http%3A//v.youku.com/v_show/id_XOTA4ODcxMTU2.html\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"\" data-name=\"2014指弹中国艺术节 伍伍慧《雨中华尔兹》_超清—在线播放—优酷网，视频高清在线观看\" data-poster=\"http://r1.ykimg.com/0542040854FE87226A0A4A04E2B3BE53\" data-lens-id=\"\"><img class=\"thumbnail\" src=\"http://r1.ykimg.com/0542040854FE87226A0A4A04E2B3BE53\"/><span class=\"content\"><span class=\"title\">2014指弹中国艺术节 伍伍慧《雨中华尔兹》_超清—在线播放—优酷网，视频高清在线观看<span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>http://v.youku.com/v_show/id_XOTA4ODcxMTU2.html</span></span></a></blockquote>", 
+            "topic": [
+                {
+                    "tag": "音乐", 
+                    "tagLink": "https://api.zhihu.com/topics/19550453"
+                }, 
+                {
+                    "tag": "吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19556939"
+                }, 
+                {
+                    "tag": "指弹吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19930005"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "长润", 
+                    "userLink": "https://www.zhihu.com/people/944bb824fe97fe4e9218e36231201d9d", 
+                    "content": "押尾的 泛黄的照片 是c大调的", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "wjhlxx", 
+                    "userLink": "https://www.zhihu.com/people/4746a4a51cd32673f734d0bbb282b432", 
+                    "content": "学习了.", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "写的不错！加油！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "厌恶吉他的胖子", 
+                    "userLink": "https://www.zhihu.com/people/c9ff960a6faac0924588ba1e6a0e17c3", 
+                    "content": "C大调早就写“烂”了...另外，彭大，太短了啊！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "彭博", 
+                            "userLink": "https://www.zhihu.com/people/6ff9e860659f2c68e6181b680c248789", 
+                            "content": "不如说是“滥”。下一篇增加了篇幅，谢谢你的评论！", 
+                            "likes": 0, 
+                            "replyToAuthor": "厌恶吉他的胖子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "长润", 
+                    "userLink": "https://www.zhihu.com/people/944bb824fe97fe4e9218e36231201d9d", 
+                    "content": "押尾的 泛黄的照片 是c大调的", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "彭博", 
+                            "userLink": "https://www.zhihu.com/people/6ff9e860659f2c68e6181b680c248789", 
+                            "content": "感谢提供补充，视频已经补充到原文中了！", 
+                            "likes": 0, 
+                            "replyToAuthor": "长润"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "长润", 
+                    "userLink": "https://www.zhihu.com/people/944bb824fe97fe4e9218e36231201d9d", 
+                    "content": "答主好久没更新了😂", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "彭博", 
+                            "userLink": "https://www.zhihu.com/people/6ff9e860659f2c68e6181b680c248789", 
+                            "content": "最近在准备个考试，之后预计会写关于Drop D的内容。", 
+                            "likes": 1, 
+                            "replyToAuthor": "长润"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/21958693", 
+            "userName": "彭博", 
+            "userLink": "https://www.zhihu.com/people/6ff9e860659f2c68e6181b680c248789", 
+            "upvote": 67, 
+            "title": "促轸拂弦瑟瑟徽——浅谈吉他调弦与编曲（一）调弦概述", 
+            "content": "本文面向掌握基础乐理的进阶吉他学习者，旨在分享自己的学习心得，为吉他曲的创作、改编提供思路和经验。同时，作为学习心得，文章中将不可避免地出现带有笔者主观意识的猜想、假设、偏见、吐槽，希望各位抱着求同存异的态度在知乎这个分享知识的平台上进行交流。<ul><li>除非特殊说明，文中的吉他均指六弦的钢弦吉他<br/></li></ul><br/><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7Bl%7D%0A++%5Chline%0A++%5Chline%0A++%7B%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%7D%0A%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{l}\n  \\hline\n  \\hline\n  {　　　　　　　　　　}\n\\end{tabular}\" eeimg=\"1\"/><br/><h2>关于调弦</h2><p>　　吉他作为弦鸣乐器，其定弦（调弦）决定了吉他本身重要的音响学特性。</p><p>　　吉他的标准调弦是<img src=\"https://www.zhihu.com/equation?tex=EADGBE\" alt=\"EADGBE\" eeimg=\"1\"/>，弦与弦之间的音程关系为：<img src=\"https://www.zhihu.com/equation?tex=P4%2C+P4%2C+P4%2C+M3%2C+P4\" alt=\"P4, P4, P4, M3, P4\" eeimg=\"1\"/> 。与提琴类的五度定弦不同（小提琴的<img src=\"https://www.zhihu.com/equation?tex=GDAE\" alt=\"GDAE\" eeimg=\"1\"/>），吉他采用了“非等间距”的定弦方式。古典吉他在发展过程中，由最初四根弦的<img src=\"https://www.zhihu.com/equation?tex=CFAD\" alt=\"CFAD\" eeimg=\"1\"/>移调至<img src=\"https://www.zhihu.com/equation?tex=DGBE\" alt=\"DGBE\" eeimg=\"1\"/>，而后又依次加入第五弦、第六弦演化而成。<br/>　　与吉他同源但在不同文化中孕育的其它乐器中，演化出了其它种类的调弦。比如琵琶的<img src=\"https://www.zhihu.com/equation?tex=ADEA\" alt=\"ADEA\" eeimg=\"1\"/>，乌德琴的<img src=\"https://www.zhihu.com/equation?tex=GADGCF\" alt=\"GADGCF\" eeimg=\"1\"/>。</p><p>　　在此，有理由提出一个命题：<b>调弦是根据乐曲和演奏的需要作改变的。</b><br/>　　吉他是一种方便移调又可以同时演奏旋律和和声的乐器，然而由于人体手部结构的限制，吉他的演奏并不像钢琴那样便利；而吉他的弦的排列也注定了指板没有钢琴的键盘直观。因此练习吉他——尤其是古典吉他总是充满着困难。<br/>　　相信很多吉他初学者遇到的第一个难关是“大横按”，显然把最灵活的食指牢牢定住反而要用另外三个手指按弦是有点“反人类”的事情。在和弦转换的时候，横按的切换也会强行切断低音的持续音（这在延音较短的古典吉他中并没那么明显）。因此特殊调弦带来的便利是显而易见的：左手指法的简化和空弦音的大量使用。在指法简化后，被解放的食指既可以进一步丰富旋律走向的可能性，又能便于使用吉他特有的左手技巧（击勾等）。弹响的空弦音带来了良好的延音，这使得吉他演奏中的和声变得丰富饱满。这也解释了近百年来音乐家和演奏家开始对吉他各种特殊调弦进行尝试和使用的原因。</p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7Bl%7D%0A++%5Chline%0A++%5Chline%0A++%7B%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%7D%0A%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{l}\n  \\hline\n  \\hline\n  {　　　　　　　　　　}\n\\end{tabular}\" eeimg=\"1\"/><br/><h2>第二个命题</h2><p>一个乐曲中用到的所有音符的音高都属于某个调的某种音阶（的音高构成的集合）。<br/>　　这个命题显然过于狭隘，它取决于几个先决条件：<br/>　　　　1. 在调性音乐中<br/>　　　　2. 不包含转调和离调<br/>　　　　3. 不包含调式交替<br/>　　　　4. 不含装饰音</p><p>　　如此偷懒地使用这么严格的前提是为了方便得出之后的结论：</p><p>　　　　综上考虑，可以认为<b>吉他的空弦音属于某个调的某种音阶。</b><br/>　　　　　　//这里的逻辑待完善<br/>　　这个结论将音阶外的变化音完全剔除在乐曲之外，这在实际应用中是过于简单的。但是在一般认为的调性音乐中，旋律的构成几乎完全在音阶之内（除去装饰音）；而在和声上，各级和声也均由音阶决定的调内构成。因此以上四点假设可以覆盖音乐中的大部分情形。关于特殊情况的处理会在专门的章节中讨论。</p><p>　　在古典吉他时代，罕见标准调弦以外的定弦方式。个人认为在标准调弦下所创作出的音乐与其所在时代的音乐风格相契合是这个调弦长久稳定存在的原因之一（当然更重要的原因是脆弱得没法调来调去的琴弦）。而调式与和声可以一定程度上体现一种音乐风格。在中国，琵琶的定弦是<img src=\"https://www.zhihu.com/equation?tex=ADEA\" alt=\"ADEA\" eeimg=\"1\"/>，这个调弦恰好与中国传统五声音阶的相性很好。如果将<img src=\"https://www.zhihu.com/equation?tex=ADEA\" alt=\"ADEA\" eeimg=\"1\"/>进行移调至<img src=\"https://www.zhihu.com/equation?tex=DGAD\" alt=\"DGAD\" eeimg=\"1\"/>，这正是<img src=\"https://www.zhihu.com/equation?tex=Low%5C+C\" alt=\"Low\\ C\" eeimg=\"1\"/>调弦中前四弦的音高。（知道大家多爱用<img src=\"https://www.zhihu.com/equation?tex=Low%5C+C\" alt=\"Low\\ C\" eeimg=\"1\"/>写中国风么！）</p><br/><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Btabular%7D%7Bl%7D%0A++%5Chline%0A++%5Chline%0A++%7B%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%E3%80%80%7D%0A%5Cend%7Btabular%7D\" alt=\"\\begin{tabular}{l}\n  \\hline\n  \\hline\n  {　　　　　　　　　　}\n\\end{tabular}\" eeimg=\"1\"/><br/><p>下一章会好好重新复习一下标准调弦，看看本章得出的结论是怎么起作用的。</p>", 
+            "topic": [
+                {
+                    "tag": "音乐", 
+                    "tagLink": "https://api.zhihu.com/topics/19550453"
+                }, 
+                {
+                    "tag": "吉他", 
+                    "tagLink": "https://api.zhihu.com/topics/19556939"
+                }, 
+                {
+                    "tag": "指弹", 
+                    "tagLink": "https://api.zhihu.com/topics/19659759"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "飞一脚打跛三只", 
+                    "userLink": "https://www.zhihu.com/people/d60543211c1ef9c4375de9d1472777a4", 
+                    "content": "谢谢老师", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "米八", 
+                    "userLink": "https://www.zhihu.com/people/73a4c82ad06f9adcf527c66ef901d10f", 
+                    "content": "活捉p酱！捏捏捏～", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "其实没有必要用公式输入音名", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "悠风Hao", 
+                    "userLink": "https://www.zhihu.com/people/5a6759b63bde90bbc4aa0f4e9ccd21ac", 
+                    "content": "点赞封面", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "sungine漾离", 
+                    "userLink": "https://www.zhihu.com/people/9601513f2949a51ce7a03dc5201751a0", 
+                    "content": "<p>调弦是根据乐曲和演奏的需要作改变的。 岸部真名的很多曲子都是为了利用空弦调过的</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/musicolle"
+}

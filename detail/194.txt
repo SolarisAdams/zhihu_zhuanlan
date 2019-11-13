@@ -1,0 +1,221 @@
+{
+    "title": "秋枫的信号处理实验室", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/graydon-39", 
+        "https://www.zhihu.com/people/shi-zi-xiong-70", 
+        "https://www.zhihu.com/people/eric-wang-72-63", 
+        "https://www.zhihu.com/people/doghu", 
+        "https://www.zhihu.com/people/lang-zha-93", 
+        "https://www.zhihu.com/people/xie-chen-meng-xing", 
+        "https://www.zhihu.com/people/li.xin.peng", 
+        "https://www.zhihu.com/people/zhang-shuai-23-81", 
+        "https://www.zhihu.com/people/stephen-34-51", 
+        "https://www.zhihu.com/people/fang-yao-10-18", 
+        "https://www.zhihu.com/people/feng-liu-ren-wu-10", 
+        "https://www.zhihu.com/people/zeromaker", 
+        "https://www.zhihu.com/people/soaringsk", 
+        "https://www.zhihu.com/people/yang-shuai-ming-17", 
+        "https://www.zhihu.com/people/he-zheng-e", 
+        "https://www.zhihu.com/people/chen-geng-83-41", 
+        "https://www.zhihu.com/people/deng-li-fa", 
+        "https://www.zhihu.com/people/xu-ze-yu-57-73", 
+        "https://www.zhihu.com/people/chi-fan-chi-fan", 
+        "https://www.zhihu.com/people/jiang-xiao-31-56", 
+        "https://www.zhihu.com/people/kkk-65-40", 
+        "https://www.zhihu.com/people/wang-shiyuan", 
+        "https://www.zhihu.com/people/Inedible_q", 
+        "https://www.zhihu.com/people/justinhan", 
+        "https://www.zhihu.com/people/zhao-jun-qi-15-8", 
+        "https://www.zhihu.com/people/renuv", 
+        "https://www.zhihu.com/people/poiuqeouga", 
+        "https://www.zhihu.com/people/sun-qi-41", 
+        "https://www.zhihu.com/people/hua-xiao-34", 
+        "https://www.zhihu.com/people/fen-meng-26", 
+        "https://www.zhihu.com/people/zztx", 
+        "https://www.zhihu.com/people/she-liang"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/59188900", 
+            "userName": "秋枫", 
+            "userLink": "https://www.zhihu.com/people/5ed5424238575f92a9aed6b0352995d3", 
+            "upvote": 3, 
+            "title": "线性代数入门教材推荐", 
+            "content": "<p>今天查找范德蒙矩阵相关的资料，无意中发现一位台湾的周老师开的wordpress博客，因为他也是做信息专业的，所以线性代数相关的知识讲的比较具象化。强力推荐</p><a href=\"https://link.zhihu.com/?target=https%3A//ccjou.wordpress.com/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-bf322fb70d88a207194c5d25f189d692_ipico.jpg\" data-image-width=\"200\" data-image-height=\"200\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">線代啟示錄</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "线性代数", 
+                    "tagLink": "https://api.zhihu.com/topics/19577698"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57135050", 
+            "userName": "秋枫", 
+            "userLink": "https://www.zhihu.com/people/5ed5424238575f92a9aed6b0352995d3", 
+            "upvote": 15, 
+            "title": "现代信号处理中的子空间思想", 
+            "content": "<p>现代信号处理中，子空间思想是非常划时代的思想，今天有感整理总结一下。</p><p>我们要利用有效信号与噪声信号之间的差异，将有效信号剥离出来，这很自然，把精力放在重要的信号上，同时抑制掉那些没用的干扰，思想由来已久，现代信号处理怎么做的呢？</p><p>我们发现，他们之间的差异可以体现于线性空间中，学习矩阵论后就知道有所谓的空间和子空间的概念。</p><p>信号子空间加噪声子空间能够得到全空间，但是这么抽象的东西，怎么剥离呢。</p><p>线性代数告诉我们，只要掌握了一个空间的基，配合上系数，就能把空间给掌握。</p><p>现在的问题就变成了找基。</p><p>线性代数的知识又要发挥用途了，对于一个任意N维共轭对称矩阵，又叫Hermite矩阵，它的特征向量构成了N维空间的一组标准正交基。</p><p>这里有2点需要注意，【特征向量】【正交基】。</p><p>我们只要对Hermite矩阵做特征分解，就能【同时】拿到特征向量和正交基。</p><p>一般的矩阵怎么会满足共轭对称呢？</p><p>怎么办，我让矩阵这样做</p><p>R = A&#39;A</p><p>其中A&#39;表示共轭对称操作</p><p>这么一来，只要我的A不要太奇异，我总是能用它自己来构造出一个R，这个R【必定】是Hermite矩阵。</p><p>所以你会看到现代信号处理，涉及到子空间操作，到处都是相关阵，无非，构造出一个Hermite矩阵方便后续操作而已。</p><p>分解完了，最后如何处理特征向量和基，就是以此思想为基础遍地开花的各种方法了。</p><p>比如MUSIC是对特征值做排序，小的那一拨对应的特征向量，认为是噪声子空间的基，另一半就是信号的了，至于其他的方法，不展开了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>总结一下，子空间的想法是在矩阵上把信号和噪声分开，分开的思路是找到他们的子空间，子空间由对应的基构成，只要能够得到分别2组基，他们自然就开了，而得到基是通过对Hermite矩阵做特征分解得到的，一般的矩阵不满足Hermite性质，我让他自己的共轭转置乘以自己，就有了。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "数字信号处理", 
+                    "tagLink": "https://api.zhihu.com/topics/19620019"
+                }, 
+                {
+                    "tag": "子空间", 
+                    "tagLink": "https://api.zhihu.com/topics/20682903"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>固体物理中振动的简正模式，量子力学里的态和基态，信号处理里的主成分分析，压缩感知的sensing/representing matrix... 背后都是线性空间那一套，想想总觉得也是挺有意思的</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "秋枫", 
+                            "userLink": "https://www.zhihu.com/people/5ed5424238575f92a9aed6b0352995d3", 
+                            "content": "<p>并不是说背后都是线性空间那一套，线性空间是一种语言，第二代数学建模语言，就像你做中学计算离不开加减乘除一样，对于高等数学来说，线性代数就是以前的加减乘除，属于基本操作，所以哪里都有。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "朱元", 
+                    "userLink": "https://www.zhihu.com/people/44e80e95972cc3992581d1e3145e0ee4", 
+                    "content": "<p>你这是在做信道编码？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "秋枫", 
+                            "userLink": "https://www.zhihu.com/people/5ed5424238575f92a9aed6b0352995d3", 
+                            "content": "<p>不是</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "朱元"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "叶晨梦醒", 
+                    "userLink": "https://www.zhihu.com/people/4a74bbaebc8bfdb9703d89b4f4b0fe07", 
+                    "content": "<p>通俗易懂！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Sid不是种子", 
+                    "userLink": "https://www.zhihu.com/people/8bf10221713f9d141c0d19e804ba8229", 
+                    "content": "<p>干货，写的很好！！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知了", 
+                    "userLink": "https://www.zhihu.com/people/75692c85e6549c5c15e9fffb6c10a059", 
+                    "content": "通过这种方式得到的特征向量，是不是和通过svd得到的特征向量是一样的？（维数一致的那种）", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "MechCD", 
+                    "userLink": "https://www.zhihu.com/people/a39e646f1b5f56a5950837c792e462d0", 
+                    "content": "<p>请问还有后续讲解吗？推荐看哪本数，国内外都可以，谢谢。我最近在看esprit分解，最近几年有没有更流行的算法，谢谢</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/53185937", 
+            "userName": "秋枫", 
+            "userLink": "https://www.zhihu.com/people/5ed5424238575f92a9aed6b0352995d3", 
+            "upvote": 3, 
+            "title": "增益(dB)表达式的2种形式带来的坑", 
+            "content": "<p>最近计算天线方向图，能在不同的论文中看到2种定义</p><p>一种是sinc，一种是sinc^2，令人头大。</p><p>其实他们都是对的，这里要牵扯到工程中的习惯问题了。</p><p>因为工程中经常要把差别很大的东西放在一起比较，比如同一个plot里面既有一万，还有十几，如果不做对数转换，图上就没有办法去同时表示他们了，正如你白天看不见星星一样，不是星星不存在，而是太阳太亮了。</p><p>所以工程中一般转化为dB表示，而且dB还经常归一化搭配使用。</p><p>E = 20*log10(sig/max(sig));</p><p>比如说，一万，取10对数，就等于4，十，取10对数，就等于1，4和1在同一张图就可以画出来了，而且你也能看出，4比1高——他们之间的大小关系依然是保持了的。</p><p>说回到天线方向图中，增益这个概念，其实有很深的坑，就是【到底是功率增益，还是电压/流增益？】</p><p>如果是功率增益，你的这个信号就必须要取平方，如果是电压/流增益，就信号本身就可以了。所以就有了开头前面的，一个天线的增益方向图同时可以使用sinc^2和sinc表示的情况，他们描述的是同一个系统，分别对应了功率增益和电压/流增益。</p><p>然而，既然这两者是一回事，你总不能说一个系统在不同的度量下增益大小还不同吧？</p><p>所以就有了</p><p>G(P) = 10*log10(P);</p><p>G(V) = 20*log10(V);</p><p>其中</p><p>P = V^2;</p><p>所以如果你在不同的文献中看到了同一个式子同时存在一次和二次的表达式，不要惊讶谁错了，他们只是隐含了背景，一次的那个代表了电压/流增益，取dB的时候要乘以20，而二次的那个代表了功率增益，取dB的时候乘以10即可，这里面10与20差的2就把那个平方补掉了。</p>", 
+            "topic": [
+                {
+                    "tag": "天线增益", 
+                    "tagLink": "https://api.zhihu.com/topics/19812081"
+                }, 
+                {
+                    "tag": "DB", 
+                    "tagLink": "https://api.zhihu.com/topics/19629464"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "鹿鼎凭谁问", 
+                    "userLink": "https://www.zhihu.com/people/53b91ac85b297cded95cdb69c5b45ced", 
+                    "content": "谢谢你！！", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "叶晨梦醒", 
+                    "userLink": "https://www.zhihu.com/people/4a74bbaebc8bfdb9703d89b4f4b0fe07", 
+                    "content": "<p>感谢分享！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/52519596", 
+            "userName": "秋枫", 
+            "userLink": "https://www.zhihu.com/people/5ed5424238575f92a9aed6b0352995d3", 
+            "upvote": 6, 
+            "title": "MATLAB语法中的2个误区：转置与eps", 
+            "content": "<p>撇号【&#39;】</p><p>也就是键盘上分号【;】与回车【Enter】之间的那个。</p><p>你想要在MATLAB 中做一般的转置，但是其实这玩意儿是共轭转置，所以如果你在复数运算里面用这个要小心了，他会做共轭，正确的写法是点撇【.&#39;】</p><p>测试代码：</p><p>ans = 1j&#39;</p><p>结果</p><p>ans =</p><p class=\"ztext-empty-paragraph\"><br/></p><p>   0.0000 - 1.0000i</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当然了，之所以最简单的写法对应了共轭转置，是因为共轭转置更加的自然与常用，如果X与Y两条vector要做内积的话，除了对应元相乘做求和之外，X是要做共轭的，</p><p>也就是ans=X&#39;*Y（假设两者都是Column vector）</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>但是，如果你做转置只是为了将数据弄成你想要的形式，不是参与运算的话，就要当心了！</p><p>比如我要对一个矩阵按行做fft，把他的一个维度变到频域，另一个留在时域。</p><p>我除了用for一行一个循环以外，我还可以把这个矩阵转置一下，fft是可以对矩阵操作的，它会对这个矩阵每一列做fft，因为矩阵运算比for快，这种写法有天然的多线程优势。</p><p>然而，这个转置，我曾经就栽在误认为&#39;是普通转置上。因为我这里【仅仅只是为了做一个形式上的转换】，多余的共轭会破坏我的原始数据。</p><p>同理，最后的ifft也用这个，在转置回来，就得到了与2个for等效的按行做处理了。</p><p>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>eps机器精度</p><p>很多人，甚至某些书说这个代表了机器能够表示的最小精度，迭代的时候步进低于eps就表示迭代结束（停机了）</p><p>然而，eps/2是可以算出来的，他比eps小，如果真是最小精度，又怎能表示呢？</p><p>eps其实是表达机器能够分辨的1附近最远的那个点的差距。</p><p>因为浮点数其实是离散的，它在数轴上分布还是非线性非均匀的，距离0越近的数值能表达的越精确，根据四舍五入原则，测试以下代码即可看出eps的真实作用。</p><p>测试代码</p><p>1+0.5*eps==1  %true</p><p>1+0.51*eps==1 %false</p><p>结果</p><p>ans =</p><p class=\"ztext-empty-paragraph\"><br/></p><p>     1</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>ans =</p><p class=\"ztext-empty-paragraph\"><br/></p><p>     0</p><p>所以请不要把eps作为迭代停机条件。</p>", 
+            "topic": [
+                {
+                    "tag": "MATLAB", 
+                    "tagLink": "https://api.zhihu.com/topics/19559252"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>1 + eps(1) == 1 + 0.51*eps(1)</p><p>返回的是true</p><p>这是因为\"round\"机制.</p><p>比1大的最小64位浮点数是1 + eps(1), 中间并没有其他浮点数.</p><p>1 + 0.51*eps(1) round 为1 + eps(1)了.</p><p>1 + 0.49*eps(1) round 为1了.</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "秋枫", 
+                            "userLink": "https://www.zhihu.com/people/5ed5424238575f92a9aed6b0352995d3", 
+                            "content": "<p>是</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "fft第二个参数可以指定做变换的维度", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "秋枫", 
+                            "userLink": "https://www.zhihu.com/people/5ed5424238575f92a9aed6b0352995d3", 
+                            "content": "<p>是第三个参数，fft(x,[],dim)</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "秋枫", 
+                            "userLink": "https://www.zhihu.com/people/5ed5424238575f92a9aed6b0352995d3", 
+                            "content": "<p>第二个参数常用于补零</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1035495728910602240"
+}

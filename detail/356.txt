@@ -1,0 +1,687 @@
+{
+    "title": "非线性光学学习笔记", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/ku-qiao-bu-ku", 
+        "https://www.zhihu.com/people/mei-yan-dai-xiao-48-22", 
+        "https://www.zhihu.com/people/pang-pang-75-66", 
+        "https://www.zhihu.com/people/hello-zju", 
+        "https://www.zhihu.com/people/wx22ad6810d4dbe563", 
+        "https://www.zhihu.com/people/yc-lu-93-74", 
+        "https://www.zhihu.com/people/liao-jin-yun", 
+        "https://www.zhihu.com/people/lin-ze-meng-63", 
+        "https://www.zhihu.com/people/shan-shan-re-ren-ai-1", 
+        "https://www.zhihu.com/people/gu-dong-gu-dong-76-92", 
+        "https://www.zhihu.com/people/ming-ri-huang-hua-57", 
+        "https://www.zhihu.com/people/chen-yi-fan-46", 
+        "https://www.zhihu.com/people/qiu-yu-chen-xi-meng", 
+        "https://www.zhihu.com/people/chen-sai-10", 
+        "https://www.zhihu.com/people/deadeye-20", 
+        "https://www.zhihu.com/people/peng-li-hua-22", 
+        "https://www.zhihu.com/people/chen-chao-3-21", 
+        "https://www.zhihu.com/people/zhang-xiao-yu-53-59", 
+        "https://www.zhihu.com/people/12345-58-19", 
+        "https://www.zhihu.com/people/mu-yi-mu-mu-72", 
+        "https://www.zhihu.com/people/ao-te-man-71-74", 
+        "https://www.zhihu.com/people/shine-22-38", 
+        "https://www.zhihu.com/people/bradchen-66", 
+        "https://www.zhihu.com/people/sun-peng-96-63", 
+        "https://www.zhihu.com/people/zhou-zhi-hao-68", 
+        "https://www.zhihu.com/people/guo-chao-33-67", 
+        "https://www.zhihu.com/people/jian-mo-wu-yan-58", 
+        "https://www.zhihu.com/people/guzhou-34", 
+        "https://www.zhihu.com/people/fei-481327", 
+        "https://www.zhihu.com/people/fu-yi-jia-24", 
+        "https://www.zhihu.com/people/cheung-hello", 
+        "https://www.zhihu.com/people/rex-11-48", 
+        "https://www.zhihu.com/people/yao-xiao-li-21", 
+        "https://www.zhihu.com/people/yang-chun-3-91", 
+        "https://www.zhihu.com/people/hust-73", 
+        "https://www.zhihu.com/people/chen-yu-jun-34", 
+        "https://www.zhihu.com/people/feng-chen-si-xia-87", 
+        "https://www.zhihu.com/people/mang-mang-ru-yan-ran", 
+        "https://www.zhihu.com/people/liujiangqing", 
+        "https://www.zhihu.com/people/ta-lang-45-22", 
+        "https://www.zhihu.com/people/zuo-xiao-you-96", 
+        "https://www.zhihu.com/people/oh-brencis-70", 
+        "https://www.zhihu.com/people/shi-liu-ye-qian-xing-18", 
+        "https://www.zhihu.com/people/qin-nai-de-mu-gua", 
+        "https://www.zhihu.com/people/ye-zi-shu-40-42", 
+        "https://www.zhihu.com/people/wang-ni-ma-10-78", 
+        "https://www.zhihu.com/people/yang-xu-yu-jia", 
+        "https://www.zhihu.com/people/hua-luo-shui-jia-59-98", 
+        "https://www.zhihu.com/people/hougeaaa", 
+        "https://www.zhihu.com/people/momoliy123", 
+        "https://www.zhihu.com/people/he-ye-3-29", 
+        "https://www.zhihu.com/people/jiao-da-xiao-lang-zhong", 
+        "https://www.zhihu.com/people/wang-chong-31-51", 
+        "https://www.zhihu.com/people/qiao-xuan-95-34", 
+        "https://www.zhihu.com/people/zhang-wen-dong-92-24", 
+        "https://www.zhihu.com/people/geeluer-65", 
+        "https://www.zhihu.com/people/ke-xue-fei-long-70", 
+        "https://www.zhihu.com/people/minami-7", 
+        "https://www.zhihu.com/people/tian-tian-guang-guo-ke", 
+        "https://www.zhihu.com/people/sheng-29-10", 
+        "https://www.zhihu.com/people/chen-yun-38-76", 
+        "https://www.zhihu.com/people/yumo-48", 
+        "https://www.zhihu.com/people/zhao-mou-mou-78-96", 
+        "https://www.zhihu.com/people/cai-yue-pei", 
+        "https://www.zhihu.com/people/chen-chen-47-96", 
+        "https://www.zhihu.com/people/hu-zhi-chan-84", 
+        "https://www.zhihu.com/people/deng-zhi-chao-1", 
+        "https://www.zhihu.com/people/Lonegineer", 
+        "https://www.zhihu.com/people/huo-kui-32", 
+        "https://www.zhihu.com/people/wu-si-qing-chun", 
+        "https://www.zhihu.com/people/xu-ming-yang-3-73", 
+        "https://www.zhihu.com/people/yun-zhi-lan-bi", 
+        "https://www.zhihu.com/people/614024365", 
+        "https://www.zhihu.com/people/strong-65-94-67", 
+        "https://www.zhihu.com/people/tian-chang-di-jiu-63-41", 
+        "https://www.zhihu.com/people/zzzzzz-57-8", 
+        "https://www.zhihu.com/people/li-zheng-hui-84-74", 
+        "https://www.zhihu.com/people/wei-yang-24-24", 
+        "https://www.zhihu.com/people/Lapda_Den", 
+        "https://www.zhihu.com/people/wu-gang-50-65-57", 
+        "https://www.zhihu.com/people/zhua-zhua-xi-32", 
+        "https://www.zhihu.com/people/xie-er-ji-er", 
+        "https://www.zhihu.com/people/li-xiang-34-17-41", 
+        "https://www.zhihu.com/people/prof-t", 
+        "https://www.zhihu.com/people/bai-yang-20-55", 
+        "https://www.zhihu.com/people/tang-yu-21-83", 
+        "https://www.zhihu.com/people/nan-feng-87-51", 
+        "https://www.zhihu.com/people/wu-hui-71-74", 
+        "https://www.zhihu.com/people/aelanzhao", 
+        "https://www.zhihu.com/people/like-like-like-love", 
+        "https://www.zhihu.com/people/cheng-meng-77-75", 
+        "https://www.zhihu.com/people/aguaithefreak", 
+        "https://www.zhihu.com/people/lan-qiao-yi-meng-49", 
+        "https://www.zhihu.com/people/zhang-wei-da-93", 
+        "https://www.zhihu.com/people/qiu-da-pi", 
+        "https://www.zhihu.com/people/kelvinte", 
+        "https://www.zhihu.com/people/cheng-gan-56", 
+        "https://www.zhihu.com/people/yang-lue-78", 
+        "https://www.zhihu.com/people/ping-lan-wu-feng", 
+        "https://www.zhihu.com/people/shu_xue_de", 
+        "https://www.zhihu.com/people/daniel-xiang", 
+        "https://www.zhihu.com/people/gang-zi-45-73", 
+        "https://www.zhihu.com/people/fen-fang-74-12", 
+        "https://www.zhihu.com/people/rita-57-17", 
+        "https://www.zhihu.com/people/hua-hua-61-55", 
+        "https://www.zhihu.com/people/wen-yi-5-46", 
+        "https://www.zhihu.com/people/fu-qiang-33-54", 
+        "https://www.zhihu.com/people/wu-xin-yao-36-72", 
+        "https://www.zhihu.com/people/kiiminamoto", 
+        "https://www.zhihu.com/people/yan-xi-24-24", 
+        "https://www.zhihu.com/people/xing-jiang-hao-85", 
+        "https://www.zhihu.com/people/zhouwen-hui", 
+        "https://www.zhihu.com/people/hi-do", 
+        "https://www.zhihu.com/people/han-jiawei", 
+        "https://www.zhihu.com/people/lu-yize-9", 
+        "https://www.zhihu.com/people/sun-meng-di-58", 
+        "https://www.zhihu.com/people/david-kwan-57", 
+        "https://www.zhihu.com/people/feng-ling-zi-71-14", 
+        "https://www.zhihu.com/people/wang-jian-18-26", 
+        "https://www.zhihu.com/people/shang-guan-liang-hong-6", 
+        "https://www.zhihu.com/people/laserhelp", 
+        "https://www.zhihu.com/people/gao-kun-66", 
+        "https://www.zhihu.com/people/hong-ze-69", 
+        "https://www.zhihu.com/people/wh_tutu", 
+        "https://www.zhihu.com/people/gui-quan-6-3", 
+        "https://www.zhihu.com/people/hu-yu-zhou-94", 
+        "https://www.zhihu.com/people/yun-ye-43", 
+        "https://www.zhihu.com/people/heart_king", 
+        "https://www.zhihu.com/people/neepuhuang", 
+        "https://www.zhihu.com/people/jun-yi-li-70", 
+        "https://www.zhihu.com/people/yan-li-jin-le-sha-zi", 
+        "https://www.zhihu.com/people/FDUconquer", 
+        "https://www.zhihu.com/people/shi-zhong-qun", 
+        "https://www.zhihu.com/people/mount_cristo", 
+        "https://www.zhihu.com/people/li-chang-hao-2", 
+        "https://www.zhihu.com/people/han-hua-hua-58-19", 
+        "https://www.zhihu.com/people/yi-da-zheng-zong-62", 
+        "https://www.zhihu.com/people/ma-hui-8-76", 
+        "https://www.zhihu.com/people/le-le-33-68-24", 
+        "https://www.zhihu.com/people/zhang-da-zhuang-54-12", 
+        "https://www.zhihu.com/people/zai-shui-yifang-75-16", 
+        "https://www.zhihu.com/people/man-clement", 
+        "https://www.zhihu.com/people/nan-lai-bei-wang-62", 
+        "https://www.zhihu.com/people/mr-liu-34-3", 
+        "https://www.zhihu.com/people/lenovosk", 
+        "https://www.zhihu.com/people/sun-yu-jia-85", 
+        "https://www.zhihu.com/people/wu-zui-liu-mang", 
+        "https://www.zhihu.com/people/yan-chen-74-72", 
+        "https://www.zhihu.com/people/liukefei", 
+        "https://www.zhihu.com/people/wu-xin-chu-xiu-34", 
+        "https://www.zhihu.com/people/wukei", 
+        "https://www.zhihu.com/people/tang-wei-yuan-90", 
+        "https://www.zhihu.com/people/yishou-liang-liang-song-gei-zi-ji-38", 
+        "https://www.zhihu.com/people/da-shen-jia-lan", 
+        "https://www.zhihu.com/people/manjusaka-54-58", 
+        "https://www.zhihu.com/people/chu-yuan-yuan-16-68", 
+        "https://www.zhihu.com/people/wulixiaobai", 
+        "https://www.zhihu.com/people/yu-tian-58-63", 
+        "https://www.zhihu.com/people/yue-lu-feng-qiao", 
+        "https://www.zhihu.com/people/li-nuo-31-31", 
+        "https://www.zhihu.com/people/nanonaki-tokiwai", 
+        "https://www.zhihu.com/people/ju-san-bu-you-wo-68", 
+        "https://www.zhihu.com/people/djc-74", 
+        "https://www.zhihu.com/people/nobody-52-47", 
+        "https://www.zhihu.com/people/hu-qing-song-13", 
+        "https://www.zhihu.com/people/xp77", 
+        "https://www.zhihu.com/people/pu-pu-71-80-78", 
+        "https://www.zhihu.com/people/jie-yu-chen-17-71", 
+        "https://www.zhihu.com/people/zhu-xi-86", 
+        "https://www.zhihu.com/people/zhen-bao-zhu-44", 
+        "https://www.zhihu.com/people/sara-55-99", 
+        "https://www.zhihu.com/people/zhe-ruo-21", 
+        "https://www.zhihu.com/people/lyujinku", 
+        "https://www.zhihu.com/people/zhang-wei-yu-26-62", 
+        "https://www.zhihu.com/people/apm-a-si-ba-tian-aspartame", 
+        "https://www.zhihu.com/people/hua-jie-da-shao-85", 
+        "https://www.zhihu.com/people/yu-yan-guo", 
+        "https://www.zhihu.com/people/jazz-83", 
+        "https://www.zhihu.com/people/th-liu", 
+        "https://www.zhihu.com/people/emilyxia", 
+        "https://www.zhihu.com/people/guo-jun-chao-89", 
+        "https://www.zhihu.com/people/ge-ru-ru-34", 
+        "https://www.zhihu.com/people/wang-zhou-2-68", 
+        "https://www.zhihu.com/people/ratfish", 
+        "https://www.zhihu.com/people/seanshuhao", 
+        "https://www.zhihu.com/people/feng-shao-feng-28-91", 
+        "https://www.zhihu.com/people/wang-meng-yu-3-74", 
+        "https://www.zhihu.com/people/tao-kun-94-69", 
+        "https://www.zhihu.com/people/tan-wen-hao-71-60", 
+        "https://www.zhihu.com/people/dong-jun-kai", 
+        "https://www.zhihu.com/people/wo-he-wo-de-fei-chang-ji-6", 
+        "https://www.zhihu.com/people/xuan-xuan-6-98", 
+        "https://www.zhihu.com/people/qiao-ke-li-hu-lu-wa", 
+        "https://www.zhihu.com/people/songenmao", 
+        "https://www.zhihu.com/people/tian-lan-91-82", 
+        "https://www.zhihu.com/people/wu-si-min-27", 
+        "https://www.zhihu.com/people/weige-69-56", 
+        "https://www.zhihu.com/people/sxl-78-51", 
+        "https://www.zhihu.com/people/hua-shan-yike-shu-35", 
+        "https://www.zhihu.com/people/xi-shuai-13-68", 
+        "https://www.zhihu.com/people/zhi-zun-mo-fa-shi", 
+        "https://www.zhihu.com/people/zhao-wu-dao", 
+        "https://www.zhihu.com/people/terra-zhao", 
+        "https://www.zhihu.com/people/Maine_Coon", 
+        "https://www.zhihu.com/people/si-ye-bu-neng-wang-sha", 
+        "https://www.zhihu.com/people/eager0626", 
+        "https://www.zhihu.com/people/wu-ying-gen", 
+        "https://www.zhihu.com/people/allen-lam-52", 
+        "https://www.zhihu.com/people/qq992610900", 
+        "https://www.zhihu.com/people/bbb-aaa-58", 
+        "https://www.zhihu.com/people/tc-yi", 
+        "https://www.zhihu.com/people/wang-bing-56-50", 
+        "https://www.zhihu.com/people/bai-yang-87-9", 
+        "https://www.zhihu.com/people/yuanshuoastro", 
+        "https://www.zhihu.com/people/zhang-jian-28-81-70", 
+        "https://www.zhihu.com/people/lz-soledad", 
+        "https://www.zhihu.com/people/li-jia-dong-79", 
+        "https://www.zhihu.com/people/leng-yu-69-32", 
+        "https://www.zhihu.com/people/li-hong-zhang-21-77", 
+        "https://www.zhihu.com/people/tie-quan-wu-di-sun-zhong-shan-20", 
+        "https://www.zhihu.com/people/chen-du-4-29", 
+        "https://www.zhihu.com/people/ligangastro", 
+        "https://www.zhihu.com/people/li-tong-tong-64-20", 
+        "https://www.zhihu.com/people/laizhianzhi", 
+        "https://www.zhihu.com/people/zhang-xue-jun-46", 
+        "https://www.zhihu.com/people/vivi_xu", 
+        "https://www.zhihu.com/people/liu-meng-yuan-72-95", 
+        "https://www.zhihu.com/people/lopene", 
+        "https://www.zhihu.com/people/zhu-yuan-jun-29", 
+        "https://www.zhihu.com/people/diu-diu-50-69", 
+        "https://www.zhihu.com/people/chu-chu-79-29", 
+        "https://www.zhihu.com/people/ch3cooh", 
+        "https://www.zhihu.com/people/wen-rui-98-94", 
+        "https://www.zhihu.com/people/Inedible_q", 
+        "https://www.zhihu.com/people/xi-er-92", 
+        "https://www.zhihu.com/people/xia-tian-84-29-93", 
+        "https://www.zhihu.com/people/NarayanPY", 
+        "https://www.zhihu.com/people/luffybear0", 
+        "https://www.zhihu.com/people/xiao-mo-875", 
+        "https://www.zhihu.com/people/liu-dao-wei-an", 
+        "https://www.zhihu.com/people/cyber007", 
+        "https://www.zhihu.com/people/li-zhan-27-56", 
+        "https://www.zhihu.com/people/pang-zi-hao-9", 
+        "https://www.zhihu.com/people/yanjinrui", 
+        "https://www.zhihu.com/people/l-huang", 
+        "https://www.zhihu.com/people/zhang-xin-zhi-15", 
+        "https://www.zhihu.com/people/cha-andy", 
+        "https://www.zhihu.com/people/ya654", 
+        "https://www.zhihu.com/people/yue-ying-dong", 
+        "https://www.zhihu.com/people/wakkkkkkkkkkkkkkka", 
+        "https://www.zhihu.com/people/meng-fan-chao-6-68", 
+        "https://www.zhihu.com/people/ji-guo-qing-78", 
+        "https://www.zhihu.com/people/bnhsx", 
+        "https://www.zhihu.com/people/yang-jian-61-19-2", 
+        "https://www.zhihu.com/people/aholic-joeureka", 
+        "https://www.zhihu.com/people/liu-han-13-43", 
+        "https://www.zhihu.com/people/liu-shan-60-59", 
+        "https://www.zhihu.com/people/ji-zhong-peng", 
+        "https://www.zhihu.com/people/yan-guan-61"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/46080049", 
+            "userName": "楚连秋", 
+            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+            "upvote": 3, 
+            "title": "非线性的另一个角度理解", 
+            "content": "<p>刚刚看到一篇文章，将非线性行为归结为phonon-phonon（声子-声子）相互作用，作者认为和光和物质相互作用等价。毕竟物质在相互作用时是可以用声子行为描述的。</p><p>我觉得很对，没毛病。</p><p>Ref: Liberal I, Engheta N. Near-zero refractive index photonics[J]. Nature Photonics, 2017, 11(3): 149.</p><p>另：这篇文章提出，EMNZ(epsilon/miu near zero)材料是做非线性光学的非常好的材料。因为它有两个优势：</p><p>1、不需要相位匹配；</p><p>2、可以使场强非常强。</p>", 
+            "topic": [
+                {
+                    "tag": "自然科学", 
+                    "tagLink": "https://api.zhihu.com/topics/19553298"
+                }, 
+                {
+                    "tag": "非线性", 
+                    "tagLink": "https://api.zhihu.com/topics/19655745"
+                }, 
+                {
+                    "tag": "光学", 
+                    "tagLink": "https://api.zhihu.com/topics/19561671"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>在凝聚态物理当中几乎都是这样认为的，还可以使用Feynman图的技术来计算这些非线性行为。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚连秋", 
+                            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+                            "content": "<p>谢谢！我没有学过凝聚态。献丑了。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "我好像以前写过，可惜后来全删了，哈哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "楚连秋"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "zzj", 
+                    "userLink": "https://www.zhihu.com/people/c3a47f3e96570a5969e8b300f9ac3e31", 
+                    "content": "哇，我是从一个回答移步过来的，还真是赞数寥寥[捂脸]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36795340", 
+            "userName": "楚连秋", 
+            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+            "upvote": 1, 
+            "title": "瑞利异常Rayleigh anomaly札记", 
+            "content": "<p>瑞利异常发生在：亚波长光栅（周期结构），即最近出现的光子晶体、metamaterials中都会出现。</p><p>一般光学信号（反射率、透射率、消光率etc）是突变。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-4664164dc3ea5d16f1106cc2b8b5fbad_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"612\" data-rawheight=\"443\" class=\"origin_image zh-lightbox-thumb\" width=\"612\" data-original=\"https://pic2.zhimg.com/v2-4664164dc3ea5d16f1106cc2b8b5fbad_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;612&#39; height=&#39;443&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"612\" data-rawheight=\"443\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"612\" data-original=\"https://pic2.zhimg.com/v2-4664164dc3ea5d16f1106cc2b8b5fbad_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-4664164dc3ea5d16f1106cc2b8b5fbad_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3aacd4992e7088a2702f1648d197e153_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"618\" data-rawheight=\"440\" class=\"origin_image zh-lightbox-thumb\" width=\"618\" data-original=\"https://pic4.zhimg.com/v2-3aacd4992e7088a2702f1648d197e153_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;618&#39; height=&#39;440&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"618\" data-rawheight=\"440\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"618\" data-original=\"https://pic4.zhimg.com/v2-3aacd4992e7088a2702f1648d197e153_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3aacd4992e7088a2702f1648d197e153_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>一种视角认为，Wood-Rayleigh异常是在布洛赫波传播波矢的实部消失时出现（实部0的时候出现了一个突变），定义为传播（这个传播也可以是衰减的那种传播）的布洛赫波模式与纯粹消散的布洛赫波之间的过渡模式【1】。</p><p>【1】Treacy M M J. Dynamical diffraction explanation of the anomalous </p><p>transmission of light through metallic gratings[J]. Physical Review B, </p><p>2002, 66(19): 195105.</p>", 
+            "topic": [
+                {
+                    "tag": "光学", 
+                    "tagLink": "https://api.zhihu.com/topics/19561671"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "yang lue", 
+                    "userLink": "https://www.zhihu.com/people/2c097a7ec65e9f324e58b00ff1a2b1c6", 
+                    "content": "<p>噢,原来如此.</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "亲耐的木瓜", 
+                    "userLink": "https://www.zhihu.com/people/238ea8991421679cd3b45207b20eb894", 
+                    "content": "<p>棒  还希望更具体</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/35654346", 
+            "userName": "楚连秋", 
+            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+            "upvote": 11, 
+            "title": "推荐一个非常好的半导体参数网站", 
+            "content": "<p>俄国人真是科研界的雷锋。</p><a href=\"https://link.zhihu.com/?target=http%3A//www.ioffe.ru/SVA/NSM/Semicond/index.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Physical Properties of Semiconductors</a><p>他们把半导体相关参数总结得很好很详尽。现在分享出来，以飨读者。</p><p>感谢小木虫群友 @逝风。</p>", 
+            "topic": [
+                {
+                    "tag": "半导体", 
+                    "tagLink": "https://api.zhihu.com/topics/19557452"
+                }, 
+                {
+                    "tag": "物理学", 
+                    "tagLink": "https://api.zhihu.com/topics/19556950"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "天天加有油啊", 
+                    "userLink": "https://www.zhihu.com/people/53e01cc3479270acfd8793b2a8d84e56", 
+                    "content": "大佬这个怎么用[拜托][拜托][拜托]", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "天天加有油啊", 
+                            "userLink": "https://www.zhihu.com/people/53e01cc3479270acfd8793b2a8d84e56", 
+                            "content": "这个网站一打开全是俄文[流泪][流泪][流泪]", 
+                            "likes": 0, 
+                            "replyToAuthor": "天天加有油啊"
+                        }, 
+                        {
+                            "userName": "楚连秋", 
+                            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+                            "content": "<p>用谷歌浏览器？右上角可以翻译的。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "天天加有油啊"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32877399", 
+            "userName": "楚连秋", 
+            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+            "upvote": 12, 
+            "title": "一种在ENZ处增强非线性折射率的方法", 
+            "content": "<p>这篇文章是2016年的一篇PRL的article：Enhanced Nonlinear Refractive Index in ϵ-Near-Zero Materials 的概括，如有不妥，请向我指出来，大家共同讨论。</p><p>对于一个pump-probe测量非线性的系统，我们有这么个公式：</p><p><img src=\"https://www.zhihu.com/equation?tex=n_%7B2%7D%3D%5Cfrac%7B3%7D%7B2%5Cepsilon_%7B0%7Dc%7D%5Cfrac%7B%5Cchi%5E%7B%283%29%7D%7D%7Bn%5E%7Bpump%7D_%7Br%7D%28n_r%2Bin_i%29%7D\" alt=\"n_{2}=\\frac{3}{2\\epsilon_{0}c}\\frac{\\chi^{(3)}}{n^{pump}_{r}(n_r+in_i)}\" eeimg=\"1\"/>                (1)</p><p>公式中， <img src=\"https://www.zhihu.com/equation?tex=n_%7B2%7D\" alt=\"n_{2}\" eeimg=\"1\"/> 是非线性折射率， <img src=\"https://www.zhihu.com/equation?tex=%5Cepsilon_%7B0%7D\" alt=\"\\epsilon_{0}\" eeimg=\"1\"/> 是真空介电常数， <img src=\"https://www.zhihu.com/equation?tex=n%5E%7Bpump%7D_%7Br%7D\" alt=\"n^{pump}_{r}\" eeimg=\"1\"/> 是泵浦光的折射率， <img src=\"https://www.zhihu.com/equation?tex=n_%7Br%7D\" alt=\"n_{r}\" eeimg=\"1\"/> 是线性折射率的实部， <img src=\"https://www.zhihu.com/equation?tex=n_%7Bi%7D\" alt=\"n_{i}\" eeimg=\"1\"/> 是线性折射率的虚部， <img src=\"https://www.zhihu.com/equation?tex=%5Cchi%5E%7B%283%29%7D\" alt=\"\\chi^{(3)}\" eeimg=\"1\"/> 是三阶非线性极化率。图1也是论文中的图1，泵浦光（pump光）强度非常大。我们知道， <img src=\"https://www.zhihu.com/equation?tex=%5Coverrightarrow%7BP%7D%3D%5Cepsilon_%7B0%7D%28%5Cchi%5E%7B%281%29%7D%2B%5Cchi%5E%7B%283%29%7DI%29%C2%B7%5Coverrightarrow+E\" alt=\"\\overrightarrow{P}=\\epsilon_{0}(\\chi^{(1)}+\\chi^{(3)}I)·\\overrightarrow E\" eeimg=\"1\"/> 。 <img src=\"https://www.zhihu.com/equation?tex=%5Cchi%5E%7B%283%29%7D\" alt=\"\\chi^{(3)}\" eeimg=\"1\"/> 是很小的，只有当I很大的时候，才可能对结果产生可以观测的影响。而这个pump光，就是提供很大的I的。一般而言，泵浦光的光强可以达到TW（ <img src=\"https://www.zhihu.com/equation?tex=10%5E9+W\" alt=\"10^9 W\" eeimg=\"1\"/> ）。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-174c2e1aa3bd46cbbe007a395db503ce_b.jpg\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"150\" class=\"origin_image zh-lightbox-thumb\" width=\"540\" data-original=\"https://pic3.zhimg.com/v2-174c2e1aa3bd46cbbe007a395db503ce_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;540&#39; height=&#39;150&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"540\" data-rawheight=\"150\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"540\" data-original=\"https://pic3.zhimg.com/v2-174c2e1aa3bd46cbbe007a395db503ce_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-174c2e1aa3bd46cbbe007a395db503ce_b.jpg\"/><figcaption>图1 pump-probe方法示意图</figcaption></figure><p>然后我们吧 <img src=\"https://www.zhihu.com/equation?tex=n_%7B2%7D\" alt=\"n_{2}\" eeimg=\"1\"/> 的实部、虚部分离，可以得到这样的两部分：</p><p><img src=\"https://www.zhihu.com/equation?tex=n_%7B2r%7D%3D%5Cfrac%7B3%7D%7B2%5Cepsilon_%7B0%7Dc%7D%5Cfrac%7Bn_%7Br%7D+%5Cchi%5E%7B%283%29%7D_%7Br%7D%2Bn_%7Bi%7D+%5Cchi%5E%7B%283%29%7D_%7Bi%7D%7D%7BD%7D\" alt=\"n_{2r}=\\frac{3}{2\\epsilon_{0}c}\\frac{n_{r} \\chi^{(3)}_{r}+n_{i} \\chi^{(3)}_{i}}{D}\" eeimg=\"1\"/> </p><p><img src=\"https://www.zhihu.com/equation?tex=n_%7B2i%7D%3D%5Cfrac%7B3%7D%7B2%5Cepsilon_%7B0%7Dc%7D%5Cfrac%7Bn_%7Br%7D+%5Cchi%5E%7B%283%29%7D_%7Bi%7D-n_%7Bi%7D+%5Cchi%5E%7B%283%29%7D_%7Br%7D%7D%7BD%7D\" alt=\"n_{2i}=\\frac{3}{2\\epsilon_{0}c}\\frac{n_{r} \\chi^{(3)}_{i}-n_{i} \\chi^{(3)}_{r}}{D}\" eeimg=\"1\"/> </p><p>其中 <img src=\"https://www.zhihu.com/equation?tex=D%3D%7Bn_r%7D%5E%7Bpump%7D%28n%5E2_r%2Bn%5E2_i%29\" alt=\"D={n_r}^{pump}(n^2_r+n^2_i)\" eeimg=\"1\"/> </p><p>而一般情况下， <img src=\"https://www.zhihu.com/equation?tex=%5Cchi%5E%7B%283%29%7D_%7Br%7D\" alt=\"\\chi^{(3)}_{r}\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=%5Cchi%5E%7B%283%29%7D_%7Bi%7D\" alt=\"\\chi^{(3)}_{i}\" eeimg=\"1\"/> 的值是差不多的——至少是同一个数量级的。那么我们把这两个约一下，很容易可以看出，如果找到一个点， <img src=\"https://www.zhihu.com/equation?tex=n_%7Br%7D\" alt=\"n_{r}\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=n_%7Bi%7D\" alt=\"n_{i}\" eeimg=\"1\"/>的值差不多大，那么 <img src=\"https://www.zhihu.com/equation?tex=n_%7B2r%7D\" alt=\"n_{2r}\" eeimg=\"1\"/> 就可以很大， <img src=\"https://www.zhihu.com/equation?tex=n_%7B2i%7D\" alt=\"n_{2i}\" eeimg=\"1\"/> 几乎为0，就像这样：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c17f69d331e9ff43c5874f0a557962f5_b.jpg\" data-size=\"normal\" data-rawwidth=\"591\" data-rawheight=\"245\" class=\"origin_image zh-lightbox-thumb\" width=\"591\" data-original=\"https://pic2.zhimg.com/v2-c17f69d331e9ff43c5874f0a557962f5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;591&#39; height=&#39;245&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"591\" data-rawheight=\"245\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"591\" data-original=\"https://pic2.zhimg.com/v2-c17f69d331e9ff43c5874f0a557962f5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c17f69d331e9ff43c5874f0a557962f5_b.jpg\"/><figcaption>图2（原论文图2）理想情况下的折射率实部、虚部</figcaption></figure><p>这是一个数学问题。然后问题就是怎样找到这么一个点。他们发现，在ENZ波段，AZO（氧化锌、氧化铝的混合物）的特性符合，于是就做了这么一个实验，发现确实符合的很好：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-c1f35e272e14a0178103b4b3e90b0b77_b.jpg\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"217\" class=\"origin_image zh-lightbox-thumb\" width=\"570\" data-original=\"https://pic4.zhimg.com/v2-c1f35e272e14a0178103b4b3e90b0b77_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;570&#39; height=&#39;217&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"570\" data-rawheight=\"217\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"570\" data-original=\"https://pic4.zhimg.com/v2-c1f35e272e14a0178103b4b3e90b0b77_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-c1f35e272e14a0178103b4b3e90b0b77_b.jpg\"/><figcaption>图3 （原文图5）</figcaption></figure><p>之所以有差距，是因为 <img src=\"https://www.zhihu.com/equation?tex=%5Cchi%5E%7B%283%29%7D_%7Br%7D\" alt=\"\\chi^{(3)}_{r}\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=%5Cchi%5E%7B%283%29%7D_%7Bi%7D\" alt=\"\\chi^{(3)}_{i}\" eeimg=\"1\"/> 的值并不是严格相等——事实上，它们差了4倍，一个是 <img src=\"https://www.zhihu.com/equation?tex=1%5Ctimes10%5E%7B-20%7Dm%5E2%2FV%5E2\" alt=\"1\\times10^{-20}m^2/V^2\" eeimg=\"1\"/> ，一个是 <img src=\"https://www.zhihu.com/equation?tex=4%5Ctimes10%5E%7B-20%7Dm%5E2%2FV%5E2\" alt=\"4\\times10^{-20}m^2/V^2\" eeimg=\"1\"/> ，然而仍然是同一个数量级的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Reference: Caspani L, Kaipurath R P M, Clerici M, et al. Enhanced nonlinear <br/>refractive index in ε-near-zero materials[J]. Physical review letters,  2016, 116(23): 233901.</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "光学", 
+                    "tagLink": "https://api.zhihu.com/topics/19561671"
+                }, 
+                {
+                    "tag": "非线性光学", 
+                    "tagLink": "https://api.zhihu.com/topics/20088432"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "ymw53530", 
+                    "userLink": "https://www.zhihu.com/people/22e33ecc48a95f44a14a575b70f0b9be", 
+                    "content": "请教一下，这种示意图是怎么做的？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚连秋", 
+                            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+                            "content": "我也不知道，是原文里截得", 
+                            "likes": 0, 
+                            "replyToAuthor": "ymw53530"
+                        }, 
+                        {
+                            "userName": "小滨", 
+                            "userLink": "https://www.zhihu.com/people/c73845160cfde8d9a2290d04f105e962", 
+                            "content": "solidworks", 
+                            "likes": 0, 
+                            "replyToAuthor": "ymw53530"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "兜率门童", 
+                    "userLink": "https://www.zhihu.com/people/c841130d3b5d0347c85b6430355083a1", 
+                    "content": "susceptibilty应翻译为极化率，而不是电导率。电导率是麦氏方程中的\\sigma", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚连秋", 
+                            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+                            "content": "好的。谢谢！", 
+                            "likes": 0, 
+                            "replyToAuthor": "兜率门童"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>最近也刚好准备做这个方向，请问关于增强非线性响应，有没有什么经典的综述推荐</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32311215", 
+            "userName": "楚连秋", 
+            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+            "upvote": 1, 
+            "title": "学习抽象代数的笔记", 
+            "content": "<p>在这个问题里：</p><p><a href=\"https://www.zhihu.com/question/68455137/answer/268057610\" class=\"internal\">楚连秋：如何证明 若两个实数 a·b=0，则 a=0 或者 b=0?</a></p><p>我感觉代数之所以放在高年级学，是因为它的基础概念虽然很简单，但是在学习矩阵和线性代数之前，没有足够的直观例子。没有例子，就不好学。</p><p>代数的基础结构是群，用群可以定义环，用群和环可以定义域。然而我们从小到大，学的最简单的例子是全体自然数N。</p><p>而整数，是环。还不是简单的环。除掉0之外，它还是整环。它还不是简单的整环，它还是交换环。</p><p>这性质就太特殊了。</p><p>而在初等数学里，甚至找不到一个比整数更简单的结构。你把整数取一节，比如mod2 同余，只有0和1，总该更简单了吧？</p><p>不好意思，它是域。</p><p>一个更简单的例子如下：</p><p>=========不会用公式编辑器的分割线。求问矩阵在这里怎么编辑？下面应该没有中间那道横线的，我不会编辑矩阵，就用分数代替了。 <a class=\"member_mention\" href=\"https://www.zhihu.com/people/3d198a56310c02c4a83efb9f4a4c027e\" data-hash=\"3d198a56310c02c4a83efb9f4a4c027e\" data-hovercard=\"p$b$3d198a56310c02c4a83efb9f4a4c027e\">@知乎小管家</a> =============</p><p>比如说 <img src=\"https://www.zhihu.com/equation?tex=R%3D%5Cleft%5C%7B+%5Cfrac%7Ba%7D%7Bb%7D%5Cfrac%7B0%7D%7B0%7D+%5Cright%5C%7D\" alt=\"R=\\left\\{ \\frac{a}{b}\\frac{0}{0} \\right\\}\" eeimg=\"1\"/> 这个环，它就仅仅是一个环。 <img src=\"https://www.zhihu.com/equation?tex=%5Cleft%5B+%5Cfrac%7B1%7D%7B0%7D%5Cfrac%7B0%7D%7B0%7D+%5Cright%5D\" alt=\"\\left[ \\frac{1}{0}\\frac{0}{0} \\right]\" eeimg=\"1\"/> 是它的一个左零因子，但不是右零因子。而 <img src=\"https://www.zhihu.com/equation?tex=%5Cleft%5B+%5Cfrac%7B0%7D%7B0%7D%5Cfrac%7B0%7D%7B1%7D%5Cright%5D\" alt=\"\\left[ \\frac{0}{0}\\frac{0}{1}\\right]\" eeimg=\"1\"/> 是一个右零因子，而不是左零因子。</p><p>而四元数环，a+bi+cj+dk，结构上可能比整数要简单一些——它是一个除环，不是整环，也不是交换环。然而理解它就困难多了——起码要学过复数吧。</p><p>=====================================================</p><p>所以怎么理解“结构上更简单但是表示上更复杂”呢？</p>", 
+            "topic": [
+                {
+                    "tag": "代数", 
+                    "tagLink": "https://api.zhihu.com/topics/19558721"
+                }, 
+                {
+                    "tag": "抽象代数", 
+                    "tagLink": "https://api.zhihu.com/topics/19583072"
+                }, 
+                {
+                    "tag": "学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19550581"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "靖靖旖旎", 
+                    "userLink": "https://www.zhihu.com/people/abf01de588f8cc9784dbd8c2227af97a", 
+                    "content": "亲，请问有限域上的线性代数指的是什么？急求！", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26914455", 
+            "userName": "楚连秋", 
+            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+            "upvote": 3, 
+            "title": "一个练习题", 
+            "content": "<p>前几天翻到了自已以前的作业，正好写到色散相关内容，就发上来记录一下。（说实话当时还愣了好久这是我写的吗怎么现在不会证了）</p><p>题目： 证明正常色散的各项同性介质中，对于同方向传播的光波<img src=\"https://www.zhihu.com/equation?tex=2%5Comega_%7B2%7D%3D%5Comega_%7B1%7D%2B%5Comega_%7B3%7D\" alt=\"2\\omega_{2}=\\omega_{1}+\\omega_{3}\" eeimg=\"1\"/>，不能满足<img src=\"https://www.zhihu.com/equation?tex=2k_%7B2%7D%3Dk_%7B1%7D%2Bk_%7B3%7D\" alt=\"2k_{2}=k_{1}+k_{3}\" eeimg=\"1\"/>，其中<img src=\"https://www.zhihu.com/equation?tex=%5Comega_%7B1%7D%5Cneq%5Comega_%7B2%7D%5Cneq%5Comega_%7B3%7D\" alt=\"\\omega_{1}\\neq\\omega_{2}\\neq\\omega_{3}\" eeimg=\"1\"/></p><p>证明：在各项同性、正常色散介质中，一般由Sellmeier公式有：</p><p><img src=\"https://www.zhihu.com/equation?tex=n%3DA%2B%5Cfrac%7BB%7D%7B%5Clambda%7D%2B%5Cfrac%7BC%7D%7B%5Clambda%5E2%7D\" alt=\"n=A+\\frac{B}{\\lambda}+\\frac{C}{\\lambda^2}\" eeimg=\"1\"/>                                                  (1)</p><p>而由于<img src=\"https://www.zhihu.com/equation?tex=k%3D%5Cfrac%7B2%5Cpi+n%7D%7B%5Clambda%7D\" alt=\"k=\\frac{2\\pi n}{\\lambda}\" eeimg=\"1\"/><img src=\"https://www.zhihu.com/equation?tex=%5Comega%3D%5Cfrac%7B2%5Cpi+c%7D%7B%5Clambda%7D\" alt=\"\\omega=\\frac{2\\pi c}{\\lambda}\" eeimg=\"1\"/><br/></p><p>所以  <img src=\"https://www.zhihu.com/equation?tex=k%3D%5Cfrac%7Bn%7D%7Bc%7D+%5Comega\" alt=\"k=\\frac{n}{c} \\omega\" eeimg=\"1\"/></p><p>若要求<img src=\"https://www.zhihu.com/equation?tex=2k_%7B2%7D%3Dk_%7B1%7D%2Bk_%7B3%7D\" alt=\"2k_{2}=k_{1}+k_{3}\" eeimg=\"1\"/>   （2）</p><p>就是要求<img src=\"https://www.zhihu.com/equation?tex=2n_%7B2%7D%5Comega_%7B2%7D%3Dn_%7B1%7D%5Comega_%7B1%7D%2Bn_%7B3%7D%5Comega_%7B3%7D\" alt=\"2n_{2}\\omega_{2}=n_{1}\\omega_{1}+n_{3}\\omega_{3}\" eeimg=\"1\"/>    (3)</p><p>我们把（1）式带入，得到<img src=\"https://www.zhihu.com/equation?tex=2%28A%2B%5Cfrac%7BB%7D%7B%5Clambda_%7B2%7D%7D%2B%5Cfrac%7BC%7D%7B%5Clambda_%7B2%7D%5E2%7D%29%5Comega_%7B2%7D%3D%28A%2B%5Cfrac%7BB%7D%7B%5Clambda_%7B1%7D%7D%2B%5Cfrac%7BC%7D%7B%5Clambda_%7B1%7D%5E2%7D%29%5Comega_%7B1%7D%2B%28A%2B%5Cfrac%7BB%7D%7B%5Clambda_%7B3%7D%7D%2B%5Cfrac%7BC%7D%7B%5Clambda_%7B3%7D%5E2%7D%29%5Comega_%7B3%7D\" alt=\"2(A+\\frac{B}{\\lambda_{2}}+\\frac{C}{\\lambda_{2}^2})\\omega_{2}=(A+\\frac{B}{\\lambda_{1}}+\\frac{C}{\\lambda_{1}^2})\\omega_{1}+(A+\\frac{B}{\\lambda_{3}}+\\frac{C}{\\lambda_{3}^2})\\omega_{3}\" eeimg=\"1\"/>  (4)</p><p>其中A那一项可以约去（因为<img src=\"https://www.zhihu.com/equation?tex=2A%5Comega_%7B2%7D%3DA%5Comega_%7B1%7D%2BA%5Comega_%7B3%7D\" alt=\"2A\\omega_{2}=A\\omega_{1}+A\\omega_{3}\" eeimg=\"1\"/>），若（4）式仍然成立，需要</p><p><img src=\"https://www.zhihu.com/equation?tex=B%5B%5Cfrac%7B2%5Comega_%7B2%7D%7D%7B%5Clambda_%7B2%7D%7D-%28%5Cfrac%7B%5Comega_%7B1%7D%7D%7B%5Clambda_%7B1%7D%7D%2B%5Cfrac%7B%5Comega_%7B1%7D%7D%7B%5Clambda_%7B1%7D%7D%29%5D%2BC%5B%5Cfrac%7B2%5Comega_%7B2%7D%7D%7B%5Clambda_%7B2%7D%5E%7B2%7D%7D-%28%5Cfrac%7B%5Comega_%7B1%7D%7D%7B%5Clambda_%7B1%7D%5E%7B2%7D%7D%2B%5Cfrac%7B%5Comega_%7B1%7D%7D%7B%5Clambda_%7B1%7D%5E2%7D%29%5D%3D0\" alt=\"B[\\frac{2\\omega_{2}}{\\lambda_{2}}-(\\frac{\\omega_{1}}{\\lambda_{1}}+\\frac{\\omega_{1}}{\\lambda_{1}})]+C[\\frac{2\\omega_{2}}{\\lambda_{2}^{2}}-(\\frac{\\omega_{1}}{\\lambda_{1}^{2}}+\\frac{\\omega_{1}}{\\lambda_{1}^2})]=0\" eeimg=\"1\"/>                  （5）<br/></p><p> 这个式子一般是不成立的，因为B和C是任意的。除非</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B2%5Comega_%7B2%7D%7D%7B%5Clambda_%7B2%7D%7D%3D%5Cfrac%7B%5Comega_%7B1%7D%7D%7B%5Clambda_%7B1%7D%7D%2B%5Cfrac%7B%5Comega_%7B3%7D%7D%7B%5Clambda_%7B3%7D%7D\" alt=\"\\frac{2\\omega_{2}}{\\lambda_{2}}=\\frac{\\omega_{1}}{\\lambda_{1}}+\\frac{\\omega_{3}}{\\lambda_{3}}\" eeimg=\"1\"/>和<img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B2%5Comega_%7B2%7D%7D%7B%5Clambda_%7B2%7D%5E2%7D%3D%5Cfrac%7B%5Comega_%7B1%7D%7D%7B%5Clambda_%7B1%7D%5E2%7D%2B%5Cfrac%7B%5Comega_%7B3%7D%7D%7B%5Clambda_%7B3%7D%5E2%7D\" alt=\"\\frac{2\\omega_{2}}{\\lambda_{2}^2}=\\frac{\\omega_{1}}{\\lambda_{1}^2}+\\frac{\\omega_{3}}{\\lambda_{3}^2}\" eeimg=\"1\"/>同时成立，或者有一个非常苛刻的B和C，满足</p><p><img src=\"https://www.zhihu.com/equation?tex=B%5B%5Cfrac%7B2%5Comega_%7B2%7D%7D%7B%5Clambda_%7B2%7D%7D-%28%5Cfrac%7B%5Comega_%7B1%7D%7D%7B%5Clambda_%7B1%7D%7D%2B%5Cfrac%7B%5Comega_%7B3%7D%7D%7B%5Clambda_%7B3%7D%7D%29%5D%3D-C%5B%5Cfrac%7B2%5Comega_%7B2%7D%7D%7B%5Clambda_%7B2%7D%5E2%7D-%28%5Cfrac%7B%5Comega_%7B1%7D%7D%7B%5Clambda_%7B1%7D%5E2%7D%2B%5Cfrac%7B%5Comega_%7B3%7D%7D%7B%5Clambda_%7B3%7D%5E2%7D%29%5D\" alt=\"B[\\frac{2\\omega_{2}}{\\lambda_{2}}-(\\frac{\\omega_{1}}{\\lambda_{1}}+\\frac{\\omega_{3}}{\\lambda_{3}})]=-C[\\frac{2\\omega_{2}}{\\lambda_{2}^2}-(\\frac{\\omega_{1}}{\\lambda_{1}^2}+\\frac{\\omega_{3}}{\\lambda_{3}^2})]\" eeimg=\"1\"/>    (6)</p><p>(6)中，有至少五个量是不确定的——B，C，<img src=\"https://www.zhihu.com/equation?tex=%5Comega_%7B1%7D\" alt=\"\\omega_{1}\" eeimg=\"1\"/>，<img src=\"https://www.zhihu.com/equation?tex=%5Comega_%7B2%7D\" alt=\"\\omega_{2}\" eeimg=\"1\"/>，<img src=\"https://www.zhihu.com/equation?tex=%5Comega_%7B3%7D\" alt=\"\\omega_{3}\" eeimg=\"1\"/>.而方程只有（6）和<img src=\"https://www.zhihu.com/equation?tex=2%5Comega_%7B2%7D%3D%5Comega_%7B1%7D%2B%5Comega_%7B3%7D\" alt=\"2\\omega_{2}=\\omega_{1}+\\omega_{3}\" eeimg=\"1\"/>两个。这个等量关系不一定满足。所以（5）式一般不成立。</p><p>我们注意到了，这里<img src=\"https://www.zhihu.com/equation?tex=k%3D%5Cfrac%7B2%5Cpi+n%7D%7B%5Clambda%7D\" alt=\"k=\\frac{2\\pi n}{\\lambda}\" eeimg=\"1\"/>中，即使n是线性的——也就是说，只满足<img src=\"https://www.zhihu.com/equation?tex=n%3DA%2B%5Cfrac%7BB%7D%7B%5Clambda%7D\" alt=\"n=A+\\frac{B}{\\lambda}\" eeimg=\"1\"/>，<img src=\"https://www.zhihu.com/equation?tex=2k_%7B2%7D%3Dk_%7B1%7D%2Bk_%7B3%7D\" alt=\"2k_{2}=k_{1}+k_{3}\" eeimg=\"1\"/>也还是不成立的。这在于k的表达式里面其实对于波长是除了两次，一次在显式中，一次是隐藏在n中。而k和频率<img src=\"https://www.zhihu.com/equation?tex=%5Comega\" alt=\"\\omega\" eeimg=\"1\"/>成类线性关系，那么当频率满足条件时，由于k还需要再除以一个反比例的波长，所以往往满足不了和频率同样的条件。因此只要有色散，这种倍频关系就不满足动量守恒，几乎发生不了。</p><p>这也是我们做非线性时为什么都要用晶体的原因了。晶体的折射率是有方向性的。一个方向的n1可以和另一个方向的 n2匹配。</p>", 
+            "topic": [
+                {
+                    "tag": "非线性光学", 
+                    "tagLink": "https://api.zhihu.com/topics/20088432"
+                }, 
+                {
+                    "tag": "物理学", 
+                    "tagLink": "https://api.zhihu.com/topics/19556950"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Sunny", 
+                    "userLink": "https://www.zhihu.com/people/c34b7b595a408a1ebcfe32de781aef7c", 
+                    "content": "大神想请问下，晶向是不是和三阶非线性系数有什么联系？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "楚连秋", 
+                            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+                            "content": "三阶非线性好像都有吧，是对称的点群没有二阶非线性貌似。", 
+                            "likes": 0, 
+                            "replyToAuthor": "Sunny"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26833035", 
+            "userName": "楚连秋", 
+            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+            "upvote": 23, 
+            "title": "振子模型——非线性，洛伦兹和德鲁德模型", 
+            "content": "<p>Nonlinear Optics 1.4.1章</p><p>PS4被同学借去打了2B小姐姐，只好继续钻研书本了。<br/></p><p>--------------------------------------------------分割线-----------------------------------------------------------<br/></p><p>振子模型真是一个很方便的东西，它会在各种地方出现。让人感觉好像物理学家就会解这么一个方程，然后到处用。就像我开始学偏微分方程的时候，老师说”到现在数学家其实就会解一个<img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial+F%28x%29%7D%7B%5Cpartial+x%7D%3DC\" alt=\"\\frac{\\partial F(x)}{\\partial x}=C\" eeimg=\"1\"/>方程，剩下就是配F(x)的事了。“ 这样想想确实也没错。<br/></p><p>本来它是这么一个方程：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial%5E2+%5Coverrightarrow+r+%7D%7B%5Cpartial+t%5E2%7D%2B2%5Cgamma++%5Cfrac%7B%5Cpartial+%5Coverrightarrow+r+%7D%7B%5Cpartial+t%7D+%2B%5Comega_%7B0%7D+%5E2+%5Coverrightarrow+r+%3D-%5Cfrac%7Be%5Coverrightarrow+%7BE%28t%29%7D%7D%7Bm%7D\" alt=\"\\frac{\\partial^2 \\overrightarrow r }{\\partial t^2}+2\\gamma  \\frac{\\partial \\overrightarrow r }{\\partial t} +\\omega_{0} ^2 \\overrightarrow r =-\\frac{e\\overrightarrow {E(t)}}{m}\" eeimg=\"1\"/>     （1）<br/></p><p>一个标准的振子模型，有阻尼<img src=\"https://www.zhihu.com/equation?tex=%5Cgamma\" alt=\"\\gamma\" eeimg=\"1\"/>，有本征振幅<img src=\"https://www.zhihu.com/equation?tex=%5Comega_%7B0%7D\" alt=\"\\omega_{0}\" eeimg=\"1\"/>。这个阵子的解是Lorentz形式的：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Coverrightarrow+r+%3D+-+%5Cfrac%7Be%5Coverrightarrow+E%7D%7Bm+%28%5Comega_%7B0%7D%5E2-%5Comega%5E2-2i%5Comega+%5Cgamma%29%7D\" alt=\"\\overrightarrow r = - \\frac{e\\overrightarrow E}{m (\\omega_{0}^2-\\omega^2-2i\\omega \\gamma)}\" eeimg=\"1\"/>               （2）<br/></p><p>然后我这两天在看色散模型的东西，发现这不就是Lorentz模型嘛！感觉好像只要分母上有<img src=\"https://www.zhihu.com/equation?tex=%5Comega_%7B0%7D%5E2-%5Comega%5E2\" alt=\"\\omega_{0}^2-\\omega^2\" eeimg=\"1\"/>这么一项，统统都加入Lorentz豪华套餐包。</p><a href=\"https://www.zhihu.com/question/55690456\" class=\"internal\">知乎 - 知乎 那两样东西相似但完全不相关</a><br/><p>还有一个Lorenz——这两个人傻傻分不清。<br/></p><p>在这个模型里面，如果认为<img src=\"https://www.zhihu.com/equation?tex=%5Cgamma+%3C%3C+%5Cfrac%7B%5Comega_%7B0%7D%5E2-%5Comega%5E2%7D%7B%5Comega%7D+\" alt=\"\\gamma &lt;&lt; \\frac{\\omega_{0}^2-\\omega^2}{\\omega} \" eeimg=\"1\"/>，也就是说虚数项不重要。虚数项在这里代表了损耗。虚数项省略说明不存在损耗——完美的介质，那么乘以一个代表宏观的（数目巨大的）因子就会得到Cauchy-Sellmeier公式。事实上这个公式正是可以很好地描述介质色散的。</p><p>如果认为内部电场完全由外部电场引起，也就是说，材料有着良好的”电学传导“特性——说白了就是导体，那就会得到Drude模型。</p><p>如果认为内部电场不完全由外部电场引起，Lorentz当时是认为<img src=\"https://www.zhihu.com/equation?tex=%5Coverrightarrow+E+_%7Bloc%7D+%3D+%5Coverrightarrow+E+%2B3+%5Cfrac%7B%5Coverrightarrow+P%7D%7B%5Cepsilon_%7B0%7D%7D\" alt=\"\\overrightarrow E _{loc} = \\overrightarrow E +3 \\frac{\\overrightarrow P}{\\epsilon_{0}}\" eeimg=\"1\"/>得到Lorentz模型的。注意这里第一项<img src=\"https://www.zhihu.com/equation?tex=%5Coverrightarrow+E+_%7Bloc%7D+\" alt=\"\\overrightarrow E _{loc} \" eeimg=\"1\"/>就是公式（1）里的<img src=\"https://www.zhihu.com/equation?tex=%5Coverrightarrow+E\" alt=\"\\overrightarrow E\" eeimg=\"1\"/>，等式右边代表的是外部电场。至于为什么第二项有个系数3，以及这一项怎么来的，就只能解释为Lorentz大神无与伦比的物理直觉了。当然，后面那一项你也可以认为是别的什么，于是就有了修正后的Lorentz模型(Modified Lorentz Model)。</p><p>言归正传。现在我们要在这个公式里面加点什么。由于是非线性光学，所以在左边加一个非线性项：<br/></p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial%5E2+%5Coverrightarrow+r+%7D%7B%5Cpartial+t%5E2%7D%2B2%5Cgamma++%5Cfrac%7B%5Cpartial+%5Coverrightarrow+r+%7D%7B%5Cpartial+t%7D+%2B%5Comega_%7B0%7D+%5E2+%5Coverrightarrow+r+%2Ba%5Coverrightarrow+r%5E2+%3D-%5Cfrac%7Be%5Coverrightarrow+%7BE%28t%29%7D%7D%7Bm%7D\" alt=\"\\frac{\\partial^2 \\overrightarrow r }{\\partial t^2}+2\\gamma  \\frac{\\partial \\overrightarrow r }{\\partial t} +\\omega_{0} ^2 \\overrightarrow r +a\\overrightarrow r^2 =-\\frac{e\\overrightarrow {E(t)}}{m}\" eeimg=\"1\"/>               （3）<br/></p><p>这个方程立马就不会解了。</p><p>我们说过，数学家其实就会解一个<img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial+F%28x%29%7D%7B%5Cpartial+x%7D%3DC\" alt=\"\\frac{\\partial F(x)}{\\partial x}=C\" eeimg=\"1\"/>的方程。这个F（x）还是物理学家们凑出来的。现在凑不出来了。</p><p>于是机(ji)智(zei)的物理学家们用了一个叫做”微扰“的方法——我不是不会解这个方程嘛，但是你去掉<img src=\"https://www.zhihu.com/equation?tex=a%5Coverrightarrow+r%5E2\" alt=\"a\\overrightarrow r^2\" eeimg=\"1\"/>这一项我是会解的啊，我假装先解出来，然后再在这个解附近加一个扰动项就好了嘛。</p><p>于是方程（3）就变成了：</p><img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial%5E2+%5Coverrightarrow+r_%7B1%7D+%7D%7B%5Cpartial+t%5E2%7D%2B2%5Cgamma++%5Cfrac%7B%5Cpartial+%5Coverrightarrow+r_%7B1%7D%7D%7B%5Cpartial+t%7D+%2B%5Comega_%7B0%7D+%5E2+%5Coverrightarrow+r_%7B1%7D++%3D-%5Cfrac%7Be%5Coverrightarrow+%7BE%28t%29%7D%7D%7Bm%7D%0A\" alt=\"\\frac{\\partial^2 \\overrightarrow r_{1} }{\\partial t^2}+2\\gamma  \\frac{\\partial \\overrightarrow r_{1}}{\\partial t} +\\omega_{0} ^2 \\overrightarrow r_{1}  =-\\frac{e\\overrightarrow {E(t)}}{m}\n\" eeimg=\"1\"/><img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial%5E2+%5Coverrightarrow+r_%7B2%7D+%7D%7B%5Cpartial+t%5E2%7D%2B2%5Cgamma++%5Cfrac%7B%5Cpartial+%5Coverrightarrow+r_%7B2%7D+%7D%7B%5Cpartial+t%7D+%2B%5Comega_%7B0%7D+%5E2+%5Coverrightarrow+r_%7B2%7D+%2Ba%5Coverrightarrow+r_%7B1%7D%5E2+%3D0\" alt=\"\\frac{\\partial^2 \\overrightarrow r_{2} }{\\partial t^2}+2\\gamma  \\frac{\\partial \\overrightarrow r_{2} }{\\partial t} +\\omega_{0} ^2 \\overrightarrow r_{2} +a\\overrightarrow r_{1}^2 =0\" eeimg=\"1\"/><img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%5Cpartial%5E2+%5Coverrightarrow+r_%7B3%7D+%7D%7B%5Cpartial+t%5E2%7D%2B2%5Cgamma++%5Cfrac%7B%5Cpartial+%5Coverrightarrow+r_%7B3%7D+%7D%7B%5Cpartial+t%7D+%2B%5Comega_%7B0%7D+%5E2+%5Coverrightarrow+r_%7B3%7D+%2Ba%5Coverrightarrow+r_%7B2%7D%5E2+%3D0\" alt=\"\\frac{\\partial^2 \\overrightarrow r_{3} }{\\partial t^2}+2\\gamma  \\frac{\\partial \\overrightarrow r_{3} }{\\partial t} +\\omega_{0} ^2 \\overrightarrow r_{3} +a\\overrightarrow r_{2}^2 =0\" eeimg=\"1\"/><p>…… ……</p><p>每解出来一个<img src=\"https://www.zhihu.com/equation?tex=r_%7Bn%7D\" alt=\"r_{n}\" eeimg=\"1\"/>，我都可以带到下一个里面，然后解出来<img src=\"https://www.zhihu.com/equation?tex=r_%7Bn%2B1%7D\" alt=\"r_{n+1}\" eeimg=\"1\"/>。</p><p>这个方法并不是对于所有问题都合适的，比如说<img src=\"https://www.zhihu.com/equation?tex=r_%7Bn%7D\" alt=\"r_{n}\" eeimg=\"1\"/>和<img src=\"https://www.zhihu.com/equation?tex=r_%7Bn%2B1%7D\" alt=\"r_{n+1}\" eeimg=\"1\"/>的相关系数非常紧密的时候，比如<img src=\"https://www.zhihu.com/equation?tex=r_%7Bn%7D\" alt=\"r_{n}\" eeimg=\"1\"/>变1，<img src=\"https://www.zhihu.com/equation?tex=r_%7Bn%2B1%7D\" alt=\"r_{n+1}\" eeimg=\"1\"/>就变0.8。而且没考虑前n项的协变相。但是，物理学家是一群非常善于猜想的人，尤其对于理论物理而言——碰巧被他们猜对了。</p><p>这个方法其实在量子力学上是最早用的。然而公式打的太麻烦，我就先寄下了，不知道什么时候更。</p>", 
+            "topic": [
+                {
+                    "tag": "光学", 
+                    "tagLink": "https://api.zhihu.com/topics/19561671"
+                }, 
+                {
+                    "tag": "非线性", 
+                    "tagLink": "https://api.zhihu.com/topics/19655745"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "朱善林", 
+                    "userLink": "https://www.zhihu.com/people/9eec40dcf3dcea6a77c7cda180a9e1b9", 
+                    "content": "牛人", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "我黑又不帅", 
+                    "userLink": "https://www.zhihu.com/people/a7ef0d3aa9d4ca38f7b1684c7c9cc3a4", 
+                    "content": "最近开始入门此专业", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "Lorenz和Lorentz就没有分清楚过", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "郑水钦", 
+                    "userLink": "https://www.zhihu.com/people/3d540066603414387078417d7df5d0f2", 
+                    "content": "其实解出来，重新排列一下，很有意思。假设两个光中心频率不一样的光（短脉冲）作用在这个非线性介质上，相当于这个这两个光经过一个频域滤波器（非线性介质的线性项），再经过一个乘法器，然后乘法器出来的信号，再经过一个频域滤波器。<br>得到的就是和频信号，差频也是同样的。<br>然后，上面提到的滤波器的表达式是一模一样的。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25817226", 
+            "userName": "楚连秋", 
+            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+            "upvote": 28, 
+            "title": "序言，以及从麦克斯韦方程说起", 
+            "content": "<p><img src=\"https://www.zhihu.com/equation?tex=%5Cdelta+\" alt=\"\\delta \" eeimg=\"1\"/>       最近在看一些关于非线性光学的东西，因此开了这个专栏，作为笔记，以求更好地检验自己学懂了没有。借宝地一用，也是想走过路过的朋友帮忙看看。独学而无友，则孤陋寡闻，万一我搞错了，还写上去，也是贻笑大方。如果有这样的地方，还请各位不吝赐教。</p><p>        我学习用的书是Boyd的《Nonlinear Optics》第三版，也就是市面上最常能见到的这本书：</p><p><a href=\"https://link.zhihu.com/?target=http%3A//muchong.com/html/201310/6530359.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">         http://muchong.com/html/201310/6530359.html</a></p><p>        闲话休提，书归正传。</p><br/><p><b>从麦克斯韦方程说起</b><br/></p><p>        非线性光学跟材料紧密相关。因为如果没有材料，在真空中传播的光（包括其他类型的电磁波），是完全不存在非线性效应的。</p><p>        我们知道，麦克斯韦方程的微分形式如下：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+%5Coverrightarrow+D%3D%5Crho%3B\" alt=\"\\nabla \\overrightarrow D=\\rho;\" eeimg=\"1\"/>  (1)</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+%5Coverrightarrow+B+%3D+0%3B\" alt=\"\\nabla \\overrightarrow B = 0;\" eeimg=\"1\"/>  (2)  <br/></p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+%5Ctimes+%5Coverrightarrow+E+%3D-%5Cfrac%7B%5Cpartial+%5Coverrightarrow+B%7D%7B%5Cpartial+t%7D+\" alt=\"\\nabla \\times \\overrightarrow E =-\\frac{\\partial \\overrightarrow B}{\\partial t} \" eeimg=\"1\"/> (3)</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+%5Ctimes+%5Coverrightarrow+H+%3D%5Cfrac%7B%5Cpartial+%5Coverrightarrow+E%7D%7B%5Cpartial+t%7D+%2B%5Coverrightarrow+J\" alt=\"\\nabla \\times \\overrightarrow H =\\frac{\\partial \\overrightarrow E}{\\partial t} +\\overrightarrow J\" eeimg=\"1\"/>  (4)</p><p>        其中，电矢量D和电场E、磁感应强度B和磁场强度H的关系，被称为“物质方程”。因为在真空中（没有物质），它们是简单的正比关系。而到了物质里，才有了更为复杂的关系——非线性也就从这里出来了。</p><p>       由于我们研究的是电磁波，一般没有束缚电荷和束缚电流，所以<img src=\"https://www.zhihu.com/equation?tex=%5Crho+\" alt=\"\\rho \" eeimg=\"1\"/>和 <img src=\"https://www.zhihu.com/equation?tex=%5Coverrightarrow+J+\" alt=\"\\overrightarrow J \" eeimg=\"1\"/>一般都是0.而与此同时，在一般的非磁性物质中，<img src=\"https://www.zhihu.com/equation?tex=%5Coverrightarrow+B+%3D%5Cmu+_%7B0%7D+%5Coverrightarrow+H\" alt=\"\\overrightarrow B =\\mu _{0} \\overrightarrow H\" eeimg=\"1\"/>（5）这一条基本不会变，所以起作用的，就只剩下了D和E。</p><p>        我们把他俩的关系给写下来：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Coverrightarrow+D+%3D%5Cepsilon+_%7B0%7D+%5Coverrightarrow+E+%2B%5Coverrightarrow+P\" alt=\"\\overrightarrow D =\\epsilon _{0} \\overrightarrow E +\\overrightarrow P\" eeimg=\"1\"/>     （6）<br/></p><p>        这个P是电极化矢量，一般我们上《电磁场与电磁波》或者《光学电磁理论》或者《电磁波理论》课程的时候，会把它认为是和电场 E 成正比的，这样这个公式就杯化简成了</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Coverrightarrow+D+%3D+%5Cepsilon+_%7B0%7D+%5Cepsilon_%7Br%7D+%5Coverrightarrow+E\" alt=\"\\overrightarrow D = \\epsilon _{0} \\epsilon_{r} \\overrightarrow E\" eeimg=\"1\"/>   （7）<br/></p><p>         这个<img src=\"https://www.zhihu.com/equation?tex=%5Cepsilon_%7Br%7D\" alt=\"\\epsilon_{r}\" eeimg=\"1\"/>一般称为相对介电常数，它表示的其实就是（5）里的 P。在《光学电磁理论》里，<img src=\"https://www.zhihu.com/equation?tex=%5Csqrt%7B%5Cepsilon+_%7Br%7D%7D+\" alt=\"\\sqrt{\\epsilon _{r}} \" eeimg=\"1\"/>=n，也就是我们说的折射率。</p><p>          故事要从亥姆霍茨方程讲起了。把（5）带入（4），然后我们可以用E表示B了。这时候B在（3）和（4）里一个是求散度，一个是对时间求导，所以我们对（3）也求一个散度，这时候把（6）带进去，<br/></p><p>         于是就变成了</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+%5Ctimes+%5Cnabla+%5Ctimes+%5Coverrightarrow+E+%2B%5Cfrac%7B1%7D%7Bc%5E%7B2%7D+%7D+%5Cfrac%7B%5Cpartial+%5E%7B2%7D%7D%7B%5Cpartial+t%5E%7B2%7D%7D+%5Coverrightarrow+E+%3D-%5Cfrac%7B1%7D%7B%5Cepsilon_%7B0%7D+c%5E%7B2%7D+%7D+%5Cfrac%7B%5Cpartial+%5E%7B2%7D%7D%7B%5Cpartial+t%5E%7B2%7D%7D+%5Coverrightarrow+P\" alt=\"\\nabla \\times \\nabla \\times \\overrightarrow E +\\frac{1}{c^{2} } \\frac{\\partial ^{2}}{\\partial t^{2}} \\overrightarrow E =-\\frac{1}{\\epsilon_{0} c^{2} } \\frac{\\partial ^{2}}{\\partial t^{2}} \\overrightarrow P\" eeimg=\"1\"/>     （8）<br/></p><p>          由于<img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+%5Ctimes+%5Cnabla+%5Ctimes+%5Coverrightarrow+E+%3D+%5Cnabla+%28%5Cnabla+%5Coverrightarrow+E%29+-%5Cnabla+%5E%7B2%7D+%5Coverrightarrow+E\" alt=\"\\nabla \\times \\nabla \\times \\overrightarrow E = \\nabla (\\nabla \\overrightarrow E) -\\nabla ^{2} \\overrightarrow E\" eeimg=\"1\"/>,</p><p>           而且这时<img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+%5Coverrightarrow+E+%3D0\" alt=\"\\nabla \\overrightarrow E =0\" eeimg=\"1\"/>由（1）可得出</p><p>           所以（8）式就变成了</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cnabla+%5E%7B2%7D+%5Coverrightarrow+E-%5Cfrac%7B1%7D%7Bc%5E%7B2%7D+%7D+%5Cfrac%7B%5Cpartial+%5E%7B2%7D%7D%7B%5Cpartial+t%5E%7B2%7D%7D+%5Coverrightarrow+E+%3D%5Cfrac%7B1%7D%7B%5Cepsilon_%7B0%7D+c%5E%7B2%7D+%7D+%5Cfrac%7B%5Cpartial+%5E%7B2%7D%7D%7B%5Cpartial+t%5E%7B2%7D%7D+%5Coverrightarrow+P\" alt=\"\\nabla ^{2} \\overrightarrow E-\\frac{1}{c^{2} } \\frac{\\partial ^{2}}{\\partial t^{2}} \\overrightarrow E =\\frac{1}{\\epsilon_{0} c^{2} } \\frac{\\partial ^{2}}{\\partial t^{2}} \\overrightarrow P\" eeimg=\"1\"/>                 (9)</p><p>            如果（9）式右边是0，那就是很easy的亥姆霍茨Helmhotz方程。而正是一项非线性的P，导致了（9）并不能有亥姆霍茨方程那样简单的解，所以才有了非线性。</p><p>======================我是未完待续的分割线======================= <br/></p><p>           （打公式累死了……先写到这儿吧）</p>", 
+            "topic": [
+                {
+                    "tag": "光学", 
+                    "tagLink": "https://api.zhihu.com/topics/19561671"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "小巷子铺", 
+                    "userLink": "https://www.zhihu.com/people/8df13ed0f82b8ff75008c09c26649ff8", 
+                    "content": "<p>玮少不错。帮我科普正确学习思路</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "刘韩", 
+                    "userLink": "https://www.zhihu.com/people/60531e07c3a1ebe2c048e8b44c3701de", 
+                    "content": "真空其实也是有非线性的！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "非黑即白", 
+                            "userLink": "https://www.zhihu.com/people/6174ca393d99fa35cf17d71de2aac6da", 
+                            "content": "<p>怎么个说法</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "刘韩"
+                        }, 
+                        {
+                            "userName": "楚连秋", 
+                            "userLink": "https://www.zhihu.com/people/5d1b6e5a4c078e1b82a7acc1ca517bae", 
+                            "content": "愿闻其详", 
+                            "likes": 0, 
+                            "replyToAuthor": "刘韩"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "钢蛋", 
+                    "userLink": "https://www.zhihu.com/people/31c8102261acb9ec704424e9c8b9cdda", 
+                    "content": "还没到重难点，继续继续，监督你", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "公式（4）里E应该是D，从推导来看应该是笔误。还有，我想问由D的散度为0推出E的散度为0是ok的吗？因为（7）中epsilon_r是E的函数，而E又是空间坐标的函数，所以epsilon是空间坐标的隐函数。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "刘韩", 
+                            "userLink": "https://www.zhihu.com/people/60531e07c3a1ebe2c048e8b44c3701de", 
+                            "content": "这个是非线性光学界的通用的近似……", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "立业成家", 
+                    "userLink": "https://www.zhihu.com/people/3d2a59f9e4d497a9ffd83a426e49c722", 
+                    "content": "<p>正在开始准备学习非线性光学</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "木夏", 
+                    "userLink": "https://www.zhihu.com/people/0691cae5fcfc8f7a1b18e53dafe704e8", 
+                    "content": "我最近也在看这本书，怎么才写到麦克斯韦方程😭本来准备看看大神学习的思路的呢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "落青", 
+                    "userLink": "https://www.zhihu.com/people/c4f915893facef2c30bcedc4564e8292", 
+                    "content": "这才刚开始2333", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "希尔", 
+                    "userLink": "https://www.zhihu.com/people/0a51f2830589dbceb4b78a6b77444492", 
+                    "content": "鼓励支持，加油继续更新，最近也在看这本书，正好学习一下大神的见解~~", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "幽并游侠儿", 
+                    "userLink": "https://www.zhihu.com/people/5c03a1d41aac7d5e83df6e4fd7c06eae", 
+                    "content": "催更催更 更的太慢啦", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "铁拳无敌双鸭山", 
+                    "userLink": "https://www.zhihu.com/people/94455cf8058a890ac3907e5ba8ff3817", 
+                    "content": "加油！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "ajun", 
+                    "userLink": "https://www.zhihu.com/people/d5a04c0e973ffadf057b482c08b76482", 
+                    "content": "<p>大神继续</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/studyingofnonlinearopt"
+}

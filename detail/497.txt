@@ -1,0 +1,386 @@
+{
+    "title": "AI算法背后的思想", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/duan-shihong", 
+        "https://www.zhihu.com/people/fo-shan-chen-yi-xun-96", 
+        "https://www.zhihu.com/people/su-su-95-88", 
+        "https://www.zhihu.com/people/44670", 
+        "https://www.zhihu.com/people/mu-feng-85-91", 
+        "https://www.zhihu.com/people/suhong-69", 
+        "https://www.zhihu.com/people/nie-ya-92", 
+        "https://www.zhihu.com/people/liu-feng-96-66-33", 
+        "https://www.zhihu.com/people/lingeng", 
+        "https://www.zhihu.com/people/dark_knight", 
+        "https://www.zhihu.com/people/hu-bing-shu", 
+        "https://www.zhihu.com/people/wholton", 
+        "https://www.zhihu.com/people/a-kuan-66-7", 
+        "https://www.zhihu.com/people/liu-le-ran-83", 
+        "https://www.zhihu.com/people/weimin-32", 
+        "https://www.zhihu.com/people/chris-xian", 
+        "https://www.zhihu.com/people/liwei46", 
+        "https://www.zhihu.com/people/alex-45-44-1", 
+        "https://www.zhihu.com/people/wen-jie-hua-35", 
+        "https://www.zhihu.com/people/xia-zheng-79", 
+        "https://www.zhihu.com/people/jin-tian-33-40", 
+        "https://www.zhihu.com/people/shui-mu-qing-hua-88-16", 
+        "https://www.zhihu.com/people/yu-mou-52-8", 
+        "https://www.zhihu.com/people/altriaex", 
+        "https://www.zhihu.com/people/wang-wei-86-8-89", 
+        "https://www.zhihu.com/people/13631790885", 
+        "https://www.zhihu.com/people/charles-chen-19-51", 
+        "https://www.zhihu.com/people/liu-yu-qi-5-70", 
+        "https://www.zhihu.com/people/niceworld-49-6", 
+        "https://www.zhihu.com/people/chen-hua-yan-23", 
+        "https://www.zhihu.com/people/cheng-yu-52", 
+        "https://www.zhihu.com/people/blueman", 
+        "https://www.zhihu.com/people/shui.hua.shi", 
+        "https://www.zhihu.com/people/cerena-8", 
+        "https://www.zhihu.com/people/gelu029-99", 
+        "https://www.zhihu.com/people/myron-72", 
+        "https://www.zhihu.com/people/jjww-71-58", 
+        "https://www.zhihu.com/people/schubert-franz-96", 
+        "https://www.zhihu.com/people/yue-mo-58", 
+        "https://www.zhihu.com/people/du-hui-guang", 
+        "https://www.zhihu.com/people/shi-jie-qian-xian-22", 
+        "https://www.zhihu.com/people/wang-ming-66-71", 
+        "https://www.zhihu.com/people/turbo-67-10", 
+        "https://www.zhihu.com/people/jing-hua-shui-yue-87-44", 
+        "https://www.zhihu.com/people/libin-sui", 
+        "https://www.zhihu.com/people/byheaven", 
+        "https://www.zhihu.com/people/zi-feng-tian-yu", 
+        "https://www.zhihu.com/people/woshibabaa", 
+        "https://www.zhihu.com/people/hai-lan-xin", 
+        "https://www.zhihu.com/people/guo-zhen-hong-63", 
+        "https://www.zhihu.com/people/li-cong-46-24-49", 
+        "https://www.zhihu.com/people/yutianrong", 
+        "https://www.zhihu.com/people/chao-meng-36", 
+        "https://www.zhihu.com/people/curry-paul", 
+        "https://www.zhihu.com/people/gable-5", 
+        "https://www.zhihu.com/people/lao-jing-54", 
+        "https://www.zhihu.com/people/cai-jia-ren-60", 
+        "https://www.zhihu.com/people/yq-huang-9", 
+        "https://www.zhihu.com/people/mao-jie-jie-92", 
+        "https://www.zhihu.com/people/su-zhu-xi-lin", 
+        "https://www.zhihu.com/people/song-qing-jun-14", 
+        "https://www.zhihu.com/people/eagletortoise", 
+        "https://www.zhihu.com/people/lin-jia-pei-13", 
+        "https://www.zhihu.com/people/mandy-95-55", 
+        "https://www.zhihu.com/people/mou-zhao-44-79", 
+        "https://www.zhihu.com/people/xu-ning-90-74", 
+        "https://www.zhihu.com/people/xiao-fa-94-94", 
+        "https://www.zhihu.com/people/aaronwen-82", 
+        "https://www.zhihu.com/people/hiliu-nian", 
+        "https://www.zhihu.com/people/zhang-chang-song-55", 
+        "https://www.zhihu.com/people/xiao-xin-53-94", 
+        "https://www.zhihu.com/people/ykp-41", 
+        "https://www.zhihu.com/people/caorui1995", 
+        "https://www.zhihu.com/people/yang-chao-1-77", 
+        "https://www.zhihu.com/people/khch2000", 
+        "https://www.zhihu.com/people/wang-rong-20-34", 
+        "https://www.zhihu.com/people/learn-furtherly", 
+        "https://www.zhihu.com/people/id01", 
+        "https://www.zhihu.com/people/rot-cx", 
+        "https://www.zhihu.com/people/dong-fang-yu-85", 
+        "https://www.zhihu.com/people/li-lruiq", 
+        "https://www.zhihu.com/people/hi.gitcafe.io", 
+        "https://www.zhihu.com/people/li-jia-le-90-74", 
+        "https://www.zhihu.com/people/dai-wei-66-30", 
+        "https://www.zhihu.com/people/mypopy", 
+        "https://www.zhihu.com/people/wang-shuai-jun-66", 
+        "https://www.zhihu.com/people/li-tao-36-63", 
+        "https://www.zhihu.com/people/tang-le-14", 
+        "https://www.zhihu.com/people/peng-mei-di", 
+        "https://www.zhihu.com/people/li-dong-40-53", 
+        "https://www.zhihu.com/people/dhv5", 
+        "https://www.zhihu.com/people/da-tou-xian-sheng", 
+        "https://www.zhihu.com/people/vic-wu-60", 
+        "https://www.zhihu.com/people/fighter-john", 
+        "https://www.zhihu.com/people/ou-zhu", 
+        "https://www.zhihu.com/people/biao-he", 
+        "https://www.zhihu.com/people/zero-3-93-29", 
+        "https://www.zhihu.com/people/htq90", 
+        "https://www.zhihu.com/people/coderyrh", 
+        "https://www.zhihu.com/people/shu-hen", 
+        "https://www.zhihu.com/people/zengweihong", 
+        "https://www.zhihu.com/people/bei-ming-yu-52", 
+        "https://www.zhihu.com/people/hu-kai-73", 
+        "https://www.zhihu.com/people/ju-an-du-shu", 
+        "https://www.zhihu.com/people/lqhuang", 
+        "https://www.zhihu.com/people/chaoyangqunzhong", 
+        "https://www.zhihu.com/people/wang-bin-1-53", 
+        "https://www.zhihu.com/people/liu-meng-yuan-72-95", 
+        "https://www.zhihu.com/people/tonydeng", 
+        "https://www.zhihu.com/people/xiangguangyan", 
+        "https://www.zhihu.com/people/ma-xin-8-7", 
+        "https://www.zhihu.com/people/fang-qiang-qiang-88-14", 
+        "https://www.zhihu.com/people/linf4f5d5", 
+        "https://www.zhihu.com/people/zpji99", 
+        "https://www.zhihu.com/people/dirk-joe", 
+        "https://www.zhihu.com/people/yang-wu-shang", 
+        "https://www.zhihu.com/people/yizhou-liu-36", 
+        "https://www.zhihu.com/people/wang-jian-1-42", 
+        "https://www.zhihu.com/people/mine-lee-4", 
+        "https://www.zhihu.com/people/ge-zi-zuo-zuo-66", 
+        "https://www.zhihu.com/people/deer-83-9", 
+        "https://www.zhihu.com/people/zai-sen-42", 
+        "https://www.zhihu.com/people/zhi-ci-81", 
+        "https://www.zhihu.com/people/ji-ling-72", 
+        "https://www.zhihu.com/people/li-tang-66-22", 
+        "https://www.zhihu.com/people/jeff-soong", 
+        "https://www.zhihu.com/people/bai-jie-79", 
+        "https://www.zhihu.com/people/renzyang", 
+        "https://www.zhihu.com/people/systemdjfjdjs", 
+        "https://www.zhihu.com/people/liu-fei-fei-47-77", 
+        "https://www.zhihu.com/people/wu-hua-45-44", 
+        "https://www.zhihu.com/people/ying-bing-qing", 
+        "https://www.zhihu.com/people/ifpan", 
+        "https://www.zhihu.com/people/hallen-94", 
+        "https://www.zhihu.com/people/chen-zhi-ji-39", 
+        "https://www.zhihu.com/people/hanksuper", 
+        "https://www.zhihu.com/people/jiang-tao-72", 
+        "https://www.zhihu.com/people/da-tou-wu-rou-bu-huan", 
+        "https://www.zhihu.com/people/chevson", 
+        "https://www.zhihu.com/people/ceng-hai-en-22", 
+        "https://www.zhihu.com/people/silvia-58-7", 
+        "https://www.zhihu.com/people/ygy-blazer", 
+        "https://www.zhihu.com/people/qiao-hai-jun", 
+        "https://www.zhihu.com/people/ting-ting-yu-li-8-91", 
+        "https://www.zhihu.com/people/elva-guan-97", 
+        "https://www.zhihu.com/people/lu-bin-97-43", 
+        "https://www.zhihu.com/people/li-yan-peng-07-14", 
+        "https://www.zhihu.com/people/xin-ba-33-19", 
+        "https://www.zhihu.com/people/jangwee1", 
+        "https://www.zhihu.com/people/xiao-qiang-78-77-59", 
+        "https://www.zhihu.com/people/caibin", 
+        "https://www.zhihu.com/people/vinowan", 
+        "https://www.zhihu.com/people/wang-xue-chuan-61", 
+        "https://www.zhihu.com/people/kou-wen-48", 
+        "https://www.zhihu.com/people/qi-xi-wu-que", 
+        "https://www.zhihu.com/people/zj-zhou-6", 
+        "https://www.zhihu.com/people/jiu-ye-20-63", 
+        "https://www.zhihu.com/people/li-xin-95-42-23", 
+        "https://www.zhihu.com/people/wang-peng-cheng-39-36"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/52234925", 
+            "userName": "川流不息", 
+            "userLink": "https://www.zhihu.com/people/15396c51ade9377203b916385298298d", 
+            "upvote": 20, 
+            "title": "grover量子搜索算法解析", 
+            "content": "<p></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-012024983c2aa73a96b9aebab2992c64_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1912\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic1.zhimg.com/v2-012024983c2aa73a96b9aebab2992c64_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1912&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1912\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic1.zhimg.com/v2-012024983c2aa73a96b9aebab2992c64_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-012024983c2aa73a96b9aebab2992c64_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2188ccd92e226ee66422f3bdaa203c39_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1816\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic2.zhimg.com/v2-2188ccd92e226ee66422f3bdaa203c39_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1816&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1816\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic2.zhimg.com/v2-2188ccd92e226ee66422f3bdaa203c39_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-2188ccd92e226ee66422f3bdaa203c39_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1e8cf328efa4ce9d92c17df6cc205e8f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1644\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic4.zhimg.com/v2-1e8cf328efa4ce9d92c17df6cc205e8f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1644&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1644\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic4.zhimg.com/v2-1e8cf328efa4ce9d92c17df6cc205e8f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1e8cf328efa4ce9d92c17df6cc205e8f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-891b625124fa27be793ee5954d91152f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1694\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic4.zhimg.com/v2-891b625124fa27be793ee5954d91152f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1694&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1694\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic4.zhimg.com/v2-891b625124fa27be793ee5954d91152f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-891b625124fa27be793ee5954d91152f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-fced596c2eb0ba34823c03a12924ad12_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1535\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic3.zhimg.com/v2-fced596c2eb0ba34823c03a12924ad12_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1535&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1535\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic3.zhimg.com/v2-fced596c2eb0ba34823c03a12924ad12_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-fced596c2eb0ba34823c03a12924ad12_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-27c5c8d75a0687bfd57b73670f9ed702_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1446\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic3.zhimg.com/v2-27c5c8d75a0687bfd57b73670f9ed702_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1446&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1446\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic3.zhimg.com/v2-27c5c8d75a0687bfd57b73670f9ed702_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-27c5c8d75a0687bfd57b73670f9ed702_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-403bbd622219536eca191a91f35bc31a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1765\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic3.zhimg.com/v2-403bbd622219536eca191a91f35bc31a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1765&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1765\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic3.zhimg.com/v2-403bbd622219536eca191a91f35bc31a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-403bbd622219536eca191a91f35bc31a_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c381056d06695c4a9ae45710d11ec5ad_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1861\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic2.zhimg.com/v2-c381056d06695c4a9ae45710d11ec5ad_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1861&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1861\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic2.zhimg.com/v2-c381056d06695c4a9ae45710d11ec5ad_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c381056d06695c4a9ae45710d11ec5ad_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0199bf4998ed0aa0bc98d90cf29f4815_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1491\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic2.zhimg.com/v2-0199bf4998ed0aa0bc98d90cf29f4815_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1491&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1491\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic2.zhimg.com/v2-0199bf4998ed0aa0bc98d90cf29f4815_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-0199bf4998ed0aa0bc98d90cf29f4815_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-6c3fc62640448b0dcb0b7105b0ee29c2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1942\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic3.zhimg.com/v2-6c3fc62640448b0dcb0b7105b0ee29c2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1942&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1942\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic3.zhimg.com/v2-6c3fc62640448b0dcb0b7105b0ee29c2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-6c3fc62640448b0dcb0b7105b0ee29c2_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e6a4e907b349763d83c2f2f97a1e6f34_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1870\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic1.zhimg.com/v2-e6a4e907b349763d83c2f2f97a1e6f34_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1870&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1870\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic1.zhimg.com/v2-e6a4e907b349763d83c2f2f97a1e6f34_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e6a4e907b349763d83c2f2f97a1e6f34_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c6002b698fe68926760c9607ff3c1246_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1266\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic3.zhimg.com/v2-c6002b698fe68926760c9607ff3c1246_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1266&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1266\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic3.zhimg.com/v2-c6002b698fe68926760c9607ff3c1246_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c6002b698fe68926760c9607ff3c1246_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-cf21e709f35da20020a52662e18950c1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1718\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic2.zhimg.com/v2-cf21e709f35da20020a52662e18950c1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1718&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1718\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic2.zhimg.com/v2-cf21e709f35da20020a52662e18950c1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-cf21e709f35da20020a52662e18950c1_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-9a62ccf67753494fe558a6d219d7ef1f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1866\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic4.zhimg.com/v2-9a62ccf67753494fe558a6d219d7ef1f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1866&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1866\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic4.zhimg.com/v2-9a62ccf67753494fe558a6d219d7ef1f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9a62ccf67753494fe558a6d219d7ef1f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d18046d26df9cad228b2de0a4457c9e3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1252\" class=\"origin_image zh-lightbox-thumb\" width=\"1652\" data-original=\"https://pic4.zhimg.com/v2-d18046d26df9cad228b2de0a4457c9e3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1652&#39; height=&#39;1252&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1652\" data-rawheight=\"1252\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1652\" data-original=\"https://pic4.zhimg.com/v2-d18046d26df9cad228b2de0a4457c9e3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d18046d26df9cad228b2de0a4457c9e3_b.jpg\"/></figure><p>后续介绍下shor因子分解算法，过段时间再写了:)</p>", 
+            "topic": [
+                {
+                    "tag": "量子计算机", 
+                    "tagLink": "https://api.zhihu.com/topics/19938157"
+                }, 
+                {
+                    "tag": "量子计算与量子信息", 
+                    "tagLink": "https://api.zhihu.com/topics/19611129"
+                }, 
+                {
+                    "tag": "量子", 
+                    "tagLink": "https://api.zhihu.com/topics/19575586"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51764555", 
+            "userName": "川流不息", 
+            "userLink": "https://www.zhihu.com/people/15396c51ade9377203b916385298298d", 
+            "upvote": 2, 
+            "title": "Bernstein-Vazirani和simon量子算法解析", 
+            "content": "<p></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-9ff6eaefa2a16569787dd280bd8f76a0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1156\" data-rawheight=\"1851\" class=\"origin_image zh-lightbox-thumb\" width=\"1156\" data-original=\"https://pic1.zhimg.com/v2-9ff6eaefa2a16569787dd280bd8f76a0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1156&#39; height=&#39;1851&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1156\" data-rawheight=\"1851\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1156\" data-original=\"https://pic1.zhimg.com/v2-9ff6eaefa2a16569787dd280bd8f76a0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9ff6eaefa2a16569787dd280bd8f76a0_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-67fecf0193457658bb8ce9928953f82d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1163\" data-rawheight=\"1525\" class=\"origin_image zh-lightbox-thumb\" width=\"1163\" data-original=\"https://pic2.zhimg.com/v2-67fecf0193457658bb8ce9928953f82d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1163&#39; height=&#39;1525&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1163\" data-rawheight=\"1525\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1163\" data-original=\"https://pic2.zhimg.com/v2-67fecf0193457658bb8ce9928953f82d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-67fecf0193457658bb8ce9928953f82d_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-13af89e5145a57396fe7f601d740540c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1177\" data-rawheight=\"1743\" class=\"origin_image zh-lightbox-thumb\" width=\"1177\" data-original=\"https://pic1.zhimg.com/v2-13af89e5145a57396fe7f601d740540c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1177&#39; height=&#39;1743&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1177\" data-rawheight=\"1743\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1177\" data-original=\"https://pic1.zhimg.com/v2-13af89e5145a57396fe7f601d740540c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-13af89e5145a57396fe7f601d740540c_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0390bcd577fc7c1fc8aa69d17038e387_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1161\" data-rawheight=\"946\" class=\"origin_image zh-lightbox-thumb\" width=\"1161\" data-original=\"https://pic4.zhimg.com/v2-0390bcd577fc7c1fc8aa69d17038e387_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1161&#39; height=&#39;946&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1161\" data-rawheight=\"946\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1161\" data-original=\"https://pic4.zhimg.com/v2-0390bcd577fc7c1fc8aa69d17038e387_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0390bcd577fc7c1fc8aa69d17038e387_b.jpg\"/></figure><p>下一步来看看grover量子搜索算法:)</p>", 
+            "topic": [
+                {
+                    "tag": "量子计算机", 
+                    "tagLink": "https://api.zhihu.com/topics/19938157"
+                }, 
+                {
+                    "tag": "量子物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19577481"
+                }, 
+                {
+                    "tag": "量子计算与量子信息", 
+                    "tagLink": "https://api.zhihu.com/topics/19611129"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "孙洪伟", 
+                    "userLink": "https://www.zhihu.com/people/dd7647fecbdf9b502491f7660283a070", 
+                    "content": "<p>这是哪本书上截得图啊</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51666294", 
+            "userName": "川流不息", 
+            "userLink": "https://www.zhihu.com/people/15396c51ade9377203b916385298298d", 
+            "upvote": 4, 
+            "title": "Deutsch-Jozsa量子算法解析", 
+            "content": "<p>Deutsch-Jozsa量子算法解析</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-de4d57f21eade4dff0be05b03608c8eb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1163\" data-rawheight=\"1214\" class=\"origin_image zh-lightbox-thumb\" width=\"1163\" data-original=\"https://pic4.zhimg.com/v2-de4d57f21eade4dff0be05b03608c8eb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1163&#39; height=&#39;1214&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1163\" data-rawheight=\"1214\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1163\" data-original=\"https://pic4.zhimg.com/v2-de4d57f21eade4dff0be05b03608c8eb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-de4d57f21eade4dff0be05b03608c8eb_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-94655abfa9de89c039c0b221663e0cc0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1176\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1176\" data-original=\"https://pic1.zhimg.com/v2-94655abfa9de89c039c0b221663e0cc0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1176&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1176\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1176\" data-original=\"https://pic1.zhimg.com/v2-94655abfa9de89c039c0b221663e0cc0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-94655abfa9de89c039c0b221663e0cc0_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e5a440105e00b38bef2266ac65042648_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1185\" data-rawheight=\"1801\" class=\"origin_image zh-lightbox-thumb\" width=\"1185\" data-original=\"https://pic1.zhimg.com/v2-e5a440105e00b38bef2266ac65042648_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1185&#39; height=&#39;1801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1185\" data-rawheight=\"1801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1185\" data-original=\"https://pic1.zhimg.com/v2-e5a440105e00b38bef2266ac65042648_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e5a440105e00b38bef2266ac65042648_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-28fad9d95dcb2bfce5009a0e32bb9272_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1165\" data-rawheight=\"1896\" class=\"origin_image zh-lightbox-thumb\" width=\"1165\" data-original=\"https://pic3.zhimg.com/v2-28fad9d95dcb2bfce5009a0e32bb9272_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1165&#39; height=&#39;1896&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1165\" data-rawheight=\"1896\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1165\" data-original=\"https://pic3.zhimg.com/v2-28fad9d95dcb2bfce5009a0e32bb9272_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-28fad9d95dcb2bfce5009a0e32bb9272_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-8dca46455c1b83e532840ffca398bc71_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1176\" data-rawheight=\"1613\" class=\"origin_image zh-lightbox-thumb\" width=\"1176\" data-original=\"https://pic2.zhimg.com/v2-8dca46455c1b83e532840ffca398bc71_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1176&#39; height=&#39;1613&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1176\" data-rawheight=\"1613\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1176\" data-original=\"https://pic2.zhimg.com/v2-8dca46455c1b83e532840ffca398bc71_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8dca46455c1b83e532840ffca398bc71_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-5daaf8e1b07f9e9b44851c43ecf04c7e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1269\" data-rawheight=\"866\" class=\"origin_image zh-lightbox-thumb\" width=\"1269\" data-original=\"https://pic3.zhimg.com/v2-5daaf8e1b07f9e9b44851c43ecf04c7e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1269&#39; height=&#39;866&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1269\" data-rawheight=\"866\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1269\" data-original=\"https://pic3.zhimg.com/v2-5daaf8e1b07f9e9b44851c43ecf04c7e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-5daaf8e1b07f9e9b44851c43ecf04c7e_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "量子计算机", 
+                    "tagLink": "https://api.zhihu.com/topics/19938157"
+                }, 
+                {
+                    "tag": "量子", 
+                    "tagLink": "https://api.zhihu.com/topics/19575586"
+                }, 
+                {
+                    "tag": "量子计算与量子信息", 
+                    "tagLink": "https://api.zhihu.com/topics/19611129"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "牛牛牛", 
+                    "userLink": "https://www.zhihu.com/people/b94099357f6e5eac380fd60c083da223", 
+                    "content": "太棒了，跟着你的思路我可算看懂了这个算法呀，正在入门阶段，真的太感谢了🙏", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "川流不息", 
+                            "userLink": "https://www.zhihu.com/people/15396c51ade9377203b916385298298d", 
+                            "content": "552304117 加这个群吧，这里都有，讨论量子机器学习算法", 
+                            "likes": 0, 
+                            "replyToAuthor": "牛牛牛"
+                        }, 
+                        {
+                            "userName": "牛牛牛", 
+                            "userLink": "https://www.zhihu.com/people/b94099357f6e5eac380fd60c083da223", 
+                            "content": "好的，非常感谢", 
+                            "likes": 0, 
+                            "replyToAuthor": "川流不息"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "pang pang", 
+                    "userLink": "https://www.zhihu.com/people/18264c5993190abf1d4a8a141e0f9a30", 
+                    "content": "<p>谢谢 写的很棒明白了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51570751", 
+            "userName": "川流不息", 
+            "userLink": "https://www.zhihu.com/people/15396c51ade9377203b916385298298d", 
+            "upvote": 13, 
+            "title": "为何量子算法那么快？入门级Deutsch算法介绍", 
+            "content": "<figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-ca550540b3d56766bc3ef634fbc784c6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"685\" data-rawheight=\"1116\" class=\"origin_image zh-lightbox-thumb\" width=\"685\" data-original=\"https://pic3.zhimg.com/v2-ca550540b3d56766bc3ef634fbc784c6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;685&#39; height=&#39;1116&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"685\" data-rawheight=\"1116\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"685\" data-original=\"https://pic3.zhimg.com/v2-ca550540b3d56766bc3ef634fbc784c6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-ca550540b3d56766bc3ef634fbc784c6_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-551632f86f00e06a6a60f73651ecaa6e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1130\" data-rawheight=\"1827\" class=\"origin_image zh-lightbox-thumb\" width=\"1130\" data-original=\"https://pic3.zhimg.com/v2-551632f86f00e06a6a60f73651ecaa6e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1130&#39; height=&#39;1827&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1130\" data-rawheight=\"1827\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1130\" data-original=\"https://pic3.zhimg.com/v2-551632f86f00e06a6a60f73651ecaa6e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-551632f86f00e06a6a60f73651ecaa6e_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-8e6afb97b470b5880163ae19f0e35359_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1196\" data-rawheight=\"1871\" class=\"origin_image zh-lightbox-thumb\" width=\"1196\" data-original=\"https://pic2.zhimg.com/v2-8e6afb97b470b5880163ae19f0e35359_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1196&#39; height=&#39;1871&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1196\" data-rawheight=\"1871\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1196\" data-original=\"https://pic2.zhimg.com/v2-8e6afb97b470b5880163ae19f0e35359_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8e6afb97b470b5880163ae19f0e35359_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e8cc32116a962f8e0fed47269d60fddd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1185\" data-rawheight=\"278\" class=\"origin_image zh-lightbox-thumb\" width=\"1185\" data-original=\"https://pic2.zhimg.com/v2-e8cc32116a962f8e0fed47269d60fddd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1185&#39; height=&#39;278&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1185\" data-rawheight=\"278\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1185\" data-original=\"https://pic2.zhimg.com/v2-e8cc32116a962f8e0fed47269d60fddd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e8cc32116a962f8e0fed47269d60fddd_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "量子计算机", 
+                    "tagLink": "https://api.zhihu.com/topics/19938157"
+                }, 
+                {
+                    "tag": "量子计算与量子信息", 
+                    "tagLink": "https://api.zhihu.com/topics/19611129"
+                }, 
+                {
+                    "tag": "量子", 
+                    "tagLink": "https://api.zhihu.com/topics/19575586"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "ngc", 
+                    "userLink": "https://www.zhihu.com/people/0e51c64e4413fe7cd7740db9f718be65", 
+                    "content": "作者你好，请问一下式4.2.3中-1的f(x)次方为什么可以移到最前面？Uf函数不是会保持第一个量子比特不变吗？求解答，谢谢！", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31147349", 
+            "userName": "川流不息", 
+            "userLink": "https://www.zhihu.com/people/15396c51ade9377203b916385298298d", 
+            "upvote": 12, 
+            "title": "详解mobileye强化学习自动驾驶应用及安全策略", 
+            "content": "<p>      本文针对mobileye提出强化学习在自动驾驶中应用的论文：Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving进行讲解，论文见：<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1610.03295\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/abs/1610.0329</span><span class=\"invisible\">5</span><span class=\"ellipsis\"></span></a></p><p>     阅读本文前，最好先阅读《论文解析：面向多智能体的高级驾驶策略增强学习方法》：<a href=\"https://zhuanlan.zhihu.com/p/25673276?from=timeline\" class=\"internal\"><span class=\"invisible\">https://</span><span class=\"visible\">zhuanlan.zhihu.com/p/25</span><span class=\"invisible\">673276?from=timeline</span><span class=\"ellipsis\"></span></a>，因为本文主要是详细讲解了上文中没有的细节部分；</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一、是否可通过在reward函数里通过高惩罚来禁止某种危险策略的存在？</b></p><p>       在reward设计中，假如针对这种非常偶发的边际事件，比如事故，给予一个惩罚，负的奖励：R(s) = - r；而对于其他正常轨迹，其reward为R(s)=[-1,1]，比如针对一个超车策略，在没有事故的轨迹里，R(s)=[-1,1]将能够做到奖励成功的、平滑的超车策略，惩罚未完成超车的策略；而如果轨迹里有事故，我希望惩罚R(s) = - r能提供足够高的惩罚给agent以杜绝事故的发生，那这个惩罚r应该高到什么程度才能完全避免事故发生呢？</p><p>       观察到事故对奖励期望目标函数的影响是一个加项：-pr，p为事故轨迹的概率，如果这个加项可被忽略，比如0&lt;pr&lt;&lt;1，agent学到的策略可能会造成事故，因为事故的影响力太小；如果想确保事故概率最多p，则必须设置r &gt;&gt; 1/p，一般我们希望事故概率p非常小，比如p=10e-9，那么惩罚r就必须非常的大（r &gt;&gt; 10e+9），这也符合直观的想象，要想禁止某策略，就要给它非常大的惩罚，但是，若这样，因为R(s)的方差与p*r平方成正比（如下式3），这比r还要更加巨大，这会导致策略reward目标函值都很难计算，更别说梯度估计了，如下式中，奖励函数R(s)的方差实际还大于p*r平方:</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-756711ae5bf714f4e491b9fac30e909f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"433\" data-rawheight=\"66\" class=\"origin_image zh-lightbox-thumb\" width=\"433\" data-original=\"https://pic4.zhimg.com/v2-756711ae5bf714f4e491b9fac30e909f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;433&#39; height=&#39;66&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"433\" data-rawheight=\"66\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"433\" data-original=\"https://pic4.zhimg.com/v2-756711ae5bf714f4e491b9fac30e909f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-756711ae5bf714f4e491b9fac30e909f_b.jpg\"/></figure><p>       通过上面讨论可知，在不引起策略梯度估计严重的方差问题情形下，通过强化学习的奖励函数是无法确保功能安全的，即使通过减去梯度baseline的方法也没有帮助，这只会将面临的问题从非常高方差的奖励函数转到同样非常高方差的baseline常量上，其估计仍会遇到数字稳定问题（上下溢出）；而且，由于事故概率p很低，我们必须至少采样1/p个轨迹才能遇到这个事故，数据采样效率低，训练规模很大。因此，在强化学习中，针对高维输入状态空间，想学习到绝对禁止某个低概率事件状态的策略，在目前reward设计理论下，难以做到，对此，那mobileye的方案是什么呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二，mobileye采取的安全学习方案</b></p><p>      其核心思想是：安全硬约束不通过学习框架来实现，将整个驾驶策略分为可学习和不可学习的部分，即：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-980fa1c841ee59a65ceaf58e44488f8a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"117\" data-rawheight=\"24\" class=\"content_image\" width=\"117\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;117&#39; height=&#39;24&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"117\" data-rawheight=\"24\" class=\"content_image lazy\" width=\"117\" data-actualsrc=\"https://pic3.zhimg.com/v2-980fa1c841ee59a65ceaf58e44488f8a_b.jpg\"/></figure><p>      上式中，后一项将状态空间映射到一个期望动作集合，这通过强化学习从人类驾驶员经验中学习，它负责做出宏观行为决策，比如：是否超车，目标车道等；</p><p>      前一项将某期望动作映射到一个车小范围内运动轨迹，首先，期望动作转化为驾驶轨迹的cost函数，然后，查找一个能最小化cost函数并满足安全硬约束的策略（比如：车的位置不能在车道外、两车的位置不能在同一时刻位置过近而碰撞、符合车辆运动动力学），这部分不是通过学习实现的；</p><p>      这样，若可学习的部分作出的宏观行为策略有错，在底层运动规划模块时，一定会确保基本的安全，甚至拒绝执行？</p><p>      下面讲解上面cost函数的设计细节；</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>三、驾驶轨迹的cost函数</b></p><p>      举例说明，在双向合并车道中（见下图）：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-630bb9dd156dfe7b2b04ed70f26fcabb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"114\" data-rawheight=\"180\" class=\"content_image\" width=\"114\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;114&#39; height=&#39;180&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"114\" data-rawheight=\"180\" class=\"content_image lazy\" width=\"114\" data-actualsrc=\"https://pic4.zhimg.com/v2-630bb9dd156dfe7b2b04ed70f26fcabb_b.jpg\"/></figure><p>            （下面图片拷不到知乎，单独一个个拷时，会另成一行，很难看，就这样截图了:(）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-637e508c5b1aff71508cf1e7c293dafa_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-637e508c5b1aff71508cf1e7c293dafa_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;444&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"444\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-637e508c5b1aff71508cf1e7c293dafa_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-637e508c5b1aff71508cf1e7c293dafa_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1a0f0d9169c3cfaea586aafa96dcbada_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"387\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-1a0f0d9169c3cfaea586aafa96dcbada_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;387&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"387\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic3.zhimg.com/v2-1a0f0d9169c3cfaea586aafa96dcbada_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1a0f0d9169c3cfaea586aafa96dcbada_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-425687000a9be42b114e7c9b463009e4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"533\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-425687000a9be42b114e7c9b463009e4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;533&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"533\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-425687000a9be42b114e7c9b463009e4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-425687000a9be42b114e7c9b463009e4_b.jpg\"/></figure><p>         上图中从root到leaf节点的任一路径都对应于期望动作集合D中某一项，其内部节点的策略用于挑选下一个子节点；比如：主车知道自己即将双向并道，进入root，首先判断是已在100m的合并区域，还是在300m的准备区域，然后判断左右转、还是直行，若直行，就直接加减速通过合并区，若需要左右转，判断是立即换、先压线行驶、还是保持直行（即不再合并），若非保持直行，则开始执行换线或压线操作，再决定加减速；最后，进入链式结构，遍历所有他车，设置本车相对它们的行为标签：{give way, take way, offset}，在链式结构中，所有节点共享参数，类似于RNN，这样每一次宏观行为决策就是在选择图中按某路径走一遍，即可得到期望动作集合D中一项；</p><p>         选择图的好处在于结果的可解释性，并且每个节点的子动作选择可能性小了很多，同时，这也能提高训练采样效率，降低梯度估计方差，原始方案（大黑箱，强化学习网络决策每一步）中每次训练需要T=250步，而选择图方案中，首先，给定高层决策后，可针对更短的episodes定义一个针对底层决策的reward，比如：已选择left和go节点时，可以在2~3秒（T变为20~30，而不是250）内学习策略对他车的行为标签进行处理；其次，对于高层决策，不必每个100ms周期都更新，可以以一个低频率1秒决策，或者实现一个选择终止节点，梯度只在该点计算，这样，训练的T变得远小于250。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>四、选择图训练</b></p><p>       采用模仿学习去初始化选择图中所有节点；每个节点为一个3层全连接层的神经网络；</p><p>       从人类司机收集的数据只有最终行为，不能观察到其在选择图中运行的过程，对于一些节点，这些分步行为标签可从数据中推理，比如：从主车和他车在未来相对位置，推测出主车对他车的行为标签：{g, t, o}；另一些节点，可用隐式监督的方式，即在未来轨迹上推理出节点行为标签概率，并通过人类驾驶员数据来训练最大似然其概率参数，神经网络也擅长于此；</p><p>        完成模仿学习初始化后，策略进一步的更新是在模拟器中通过self-play完成，即：将agent分为AB组，然他们轮流做主车、他车，每一轮训练收敛后交替角色，这样反复训练约10轮；</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>六，备忘</b></p><p>      无人驾驶技术入门概览，就是那个《第一本无人驾驶技术书》：</p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//geek.csdn.net/news/detail/199280\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">geek.csdn.net/news/deta</span><span class=\"invisible\">il/199280</span><span class=\"ellipsis\"></span></a></u></p><p class=\"ztext-empty-paragraph\"><br/></p><p>     Waymo无人车报告：通往自动驾驶之路</p><p><u><a href=\"https://link.zhihu.com/?target=http%3A//itech.ifeng.com/44718682/news.shtml%3F%26back\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">itech.ifeng.com/4471868</span><span class=\"invisible\">2/news.shtml?&amp;back</span><span class=\"ellipsis\"></span></a></u></p><p>     很有价值的报告！Google这8年来还是做了很多工作的，无人车的真正商业化落地是一个很大的工程；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>     好了，这个坑可能不继续挖了：）留下点也许对其他人有点用处的痕迹；</p>", 
+            "topic": [
+                {
+                    "tag": "自动驾驶", 
+                    "tagLink": "https://api.zhihu.com/topics/19635352"
+                }, 
+                {
+                    "tag": "强化学习 (Reinforcement Learning)", 
+                    "tagLink": "https://api.zhihu.com/topics/20039099"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31005035", 
+            "userName": "川流不息", 
+            "userLink": "https://www.zhihu.com/people/15396c51ade9377203b916385298298d", 
+            "upvote": 30, 
+            "title": "openai PPO强化学习算法解读", 
+            "content": "<p>一、传统策略梯度算法的两难：</p><p>      传统策略梯度算法有个两难的问题，在更新参数时，需要确定超参数步长（即学习率），若步长太小了，学习太慢，无法忍受；若步长大了，容易学到坏策略，若再在坏策略进行采样数据，这些坏数据会导致恶性循环，学习崩溃，因此，梯度更新的步长很难确定，调试工作量很大，正因此，诞生了下面的TRPO置信域策略优化算法；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>二、TRPO置信域策略优化算法的引入</p><p>      TRPO的主要期望是，我可以设置较大的步长，让学习快点，同时对目标函数进行优化时，有一定的约束条件，满足该约束条件后，优化是安全的，并能从数学上证明优化不会劣化，单调递增，可以说算法表达了过犹不及的道理，其目标函数如下，在约束：表示新旧策略差异的KL散度期望小于一定值情形下，最大化下面目标表达式，通过KL散度来表示新旧策略差异，它小于一定值表示一个置信域，在这个置信域内进行优化：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-f751b653888a062c5b61205f857208ee_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"282\" data-rawheight=\"62\" class=\"content_image\" width=\"282\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;282&#39; height=&#39;62&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"282\" data-rawheight=\"62\" class=\"content_image lazy\" width=\"282\" data-actualsrc=\"https://pic3.zhimg.com/v2-f751b653888a062c5b61205f857208ee_b.jpg\"/></figure><p>   注：抱歉，在word里写好后，拷贝到知乎时，里面很多的小截图拷不上来，只能整个拷贝上来了，变成了一张张的图；写这种文章，编辑公式太麻烦了:(</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6a25cfd1398921456bae40c2de3c1dc8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"117\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-6a25cfd1398921456bae40c2de3c1dc8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;117&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"117\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-6a25cfd1398921456bae40c2de3c1dc8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6a25cfd1398921456bae40c2de3c1dc8_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-2ceef69f500a0535e1b8e22c34279043_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"958\" data-rawheight=\"929\" class=\"origin_image zh-lightbox-thumb\" width=\"958\" data-original=\"https://pic4.zhimg.com/v2-2ceef69f500a0535e1b8e22c34279043_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;958&#39; height=&#39;929&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"958\" data-rawheight=\"929\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"958\" data-original=\"https://pic4.zhimg.com/v2-2ceef69f500a0535e1b8e22c34279043_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2ceef69f500a0535e1b8e22c34279043_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-c74f17cc59dcc531e9e07908cbd8cdd8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1052\" data-rawheight=\"938\" class=\"origin_image zh-lightbox-thumb\" width=\"1052\" data-original=\"https://pic1.zhimg.com/v2-c74f17cc59dcc531e9e07908cbd8cdd8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1052&#39; height=&#39;938&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1052\" data-rawheight=\"938\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1052\" data-original=\"https://pic1.zhimg.com/v2-c74f17cc59dcc531e9e07908cbd8cdd8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c74f17cc59dcc531e9e07908cbd8cdd8_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-33852ac9d4d2777be8c12a1ea61e037c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"994\" data-rawheight=\"621\" class=\"origin_image zh-lightbox-thumb\" width=\"994\" data-original=\"https://pic1.zhimg.com/v2-33852ac9d4d2777be8c12a1ea61e037c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;994&#39; height=&#39;621&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"994\" data-rawheight=\"621\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"994\" data-original=\"https://pic1.zhimg.com/v2-33852ac9d4d2777be8c12a1ea61e037c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-33852ac9d4d2777be8c12a1ea61e037c_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-dc8e314a0ab3128d13a6dfae8948fd90_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"966\" data-rawheight=\"660\" class=\"origin_image zh-lightbox-thumb\" width=\"966\" data-original=\"https://pic1.zhimg.com/v2-dc8e314a0ab3128d13a6dfae8948fd90_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;966&#39; height=&#39;660&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"966\" data-rawheight=\"660\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"966\" data-original=\"https://pic1.zhimg.com/v2-dc8e314a0ab3128d13a6dfae8948fd90_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-dc8e314a0ab3128d13a6dfae8948fd90_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-cb1dbca8c4fee120bb81c2ead76893c0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"961\" data-rawheight=\"700\" class=\"origin_image zh-lightbox-thumb\" width=\"961\" data-original=\"https://pic1.zhimg.com/v2-cb1dbca8c4fee120bb81c2ead76893c0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;961&#39; height=&#39;700&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"961\" data-rawheight=\"700\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"961\" data-original=\"https://pic1.zhimg.com/v2-cb1dbca8c4fee120bb81c2ead76893c0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-cb1dbca8c4fee120bb81c2ead76893c0_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "强化学习 (Reinforcement Learning)", 
+                    "tagLink": "https://api.zhihu.com/topics/20039099"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "机器学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19559450"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "喜欢烧菜的程序员", 
+                    "userLink": "https://www.zhihu.com/people/30f0e2d3a7850381d71c5dfe30801c6c", 
+                    "content": "赞一个，写的很好", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "XAI", 
+                    "userLink": "https://www.zhihu.com/people/304786300592420ae514cf1aec239dfa", 
+                    "content": "求word链接", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/30996150", 
+            "userName": "川流不息", 
+            "userLink": "https://www.zhihu.com/people/15396c51ade9377203b916385298298d", 
+            "upvote": 3, 
+            "title": "hinton capsule设计思想美感", 
+            "content": "<p>本文主要讲2个问题：</p><p>1，传统神经网络存在疑点的地方；</p><p>2，capsule的解决之道；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一，传统cnn存在疑点的地方：</p><p>    1，BP是一种数学技巧，通过计算目标函数的梯度，并反向传播到前面层以刷新各层参数，难以想象大脑针对各种各样任务有这么个复杂的目标函数，并计算梯度反向传播，从神经生物学看，大脑中没有发现这样的机制；</p><p>    2，大脑生物信号传递的速度（ms级）相比GPU运算速度（us级）来说是很慢的，因此不可能像cnn那样通过成百上千层网络来能提升效果；</p><p>    3，pool层存在信息丢失，比如：max pool丢弃了一些位置信息，pool的处理带来一定平移和旋转/形变的不变性，但它只是忽略了这些不变性，并没有真正处理这些不变性，而这些平移旋转形变在人 的视觉系统因为坐标参照系的存在是非常重要的，不应该简单忽略，比如，让一个对世界地理知识有点基础的人看下图是哪个洲，很多人都会凭直觉回到说澳洲：</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-cc3579c5feef891369bd3c215ecc8713_b.jpg\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"338\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-cc3579c5feef891369bd3c215ecc8713_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;338&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"338\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-cc3579c5feef891369bd3c215ecc8713_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-cc3579c5feef891369bd3c215ecc8713_b.jpg\"/></figure><p>   这是因为我们潜意识的给这个不规则物体加了这样的坐标参照系：</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-4d121012817345fae782dfee436801bb_b.jpg\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-4d121012817345fae782dfee436801bb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;369&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"369\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic4.zhimg.com/v2-4d121012817345fae782dfee436801bb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4d121012817345fae782dfee436801bb_b.jpg\"/></figure><p>    但假如像下面这样加坐标参照系呢：</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-bd9052d6f2ce2a0363e32cc7e5e18ae5_b.jpg\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"372\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-bd9052d6f2ce2a0363e32cc7e5e18ae5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;372&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"372\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic2.zhimg.com/v2-bd9052d6f2ce2a0363e32cc7e5e18ae5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-bd9052d6f2ce2a0363e32cc7e5e18ae5_b.jpg\"/></figure><p>    你会发现这原来是非洲，它与澳洲差别还是蛮大的；</p><p>    因此，上面示例说明，人的视觉系统会习惯性的正着看东西；若目标不是正，比如倒着写的字，你的大脑会尝试把它转正了后，才会进行识别，因此，观察目标的视角或参照坐标系是非常重要，但这些概念在传统cnn不存在；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>    4，传统cnn中神经元只输出一个标量值，比如可表示某种概念实体的某属性，但一个实体一般是有多种属性的，一个标量表达能力弱，比如这个标量值只有和邻近神经元配合时才能表达图像的空间结构信息，此时，概念实体信息是分散的，需要很多层次提炼，才能有更抽象的概念；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>二，capsule的解决之道</p><p>         注：本文没有讲论文capsule设计细节，最好先了解其设计后再阅读本文；</p><p>   1，受到生物解剖学启发，人类等灵长类的大脑皮层中存在皮层微柱，其内部含有上百个神经元，并存在内部分层。这意味着人脑中的一层并不是类似现在 NN 的一层，而是有复杂的内部结构。如下图：</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-774cb4e08f1ffe04f553412e01fc623e_b.jpg\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"482\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-774cb4e08f1ffe04f553412e01fc623e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;482&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-rawwidth=\"600\" data-rawheight=\"482\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic3.zhimg.com/v2-774cb4e08f1ffe04f553412e01fc623e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-774cb4e08f1ffe04f553412e01fc623e_b.jpg\"/></figure><p>   基于此，hinton提出capsule胶囊的概念，来代表某种概念实体，它的输出为向量，不像标量只是一个简单的数字，向量可具有任意多个维度，每个维度可以表示该概念实体的某个属性，因此，其表达能力得到大大的增强；比如，在底层，这些胶囊代表比较底层的概念，比如颜色/亮度/边沿倾斜方向等等概念，假设有倾斜方向胶囊，不同的胶囊代表不同的倾斜方向，这些倾斜胶囊再向上层传递中进行融合，这些略微不同倾斜方向的胶囊带有的不同方向向量，经过向量加法，就得到了一个更高层的代表倾斜总体方向的胶囊实体概念；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>       2，cnn的pool的存在信息丢失，虽然这种丢失有时是基于任务需求进行噪声剔除，但这种信息损失有时会影响后续处理的效率，比如：目标检测中丢失了精确位置信息，需要增加参考anchor box来进行位置精调，若这些位置信息不被丢失，就不会有如此违反生物学常规的方案，就有可能直接得到目标位置，因此，在底层时，最好不要丢弃信息，而应该是整理信息，让它们分门别类的归类融合，推演出更多高层信息，在最后，才根据任务的需求从这些概念中提取需要的信息，这样处理，可以认为capsule一直保有完整的信息，可以基于这些信息做概念推理，这样才可认为capsule net真正理解了这副图像的方方面面，因此，在信息提取过程中，最需要的是不变性。</p><p>      回到论文中例子，我们要想从PrimaryCaps的1152个向量中，提取概念实体数字1相关的信息，怎么办？可以这样想，这1152个向量中与数字1的capsule输出向量相似度越大，说明它们间存在越多的相似概念，可以说在这1152个向量中存在数字1的线索，用相似度作为系数提取这1152个向量中和数字1概念相关部分，然后，把1152个向量中和数字1概念相似的向量部分求个和就行了，这里用相似度来让上一层概念中与本层capsule概念相关的部分融合在一起，相似度就是不变性的最大体现，dynamic routing从设计上就尽可能的不会损失信息！实现了不变性；</p><p>      另外，论文中相似系数C_ij是通过类似同步锁相环的相似度耦合机制自行学到的，这里没用BP，但前面W_ij还是需要BP的，若这部分也能通过相似度耦合扩散的方式，做到自适应生成，那才有可能抛掉BP。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>      3，图像处理中最大方差来源于姿态的多变，hinton提到图形学中视角转换矩阵能很好的处理这种情况，而传统cnn中没有这样的处理，它只是通过数据姿态多样性增广来忽略这种姿态多变，因此，在论文capsule net增加W_ij矩阵，这是个8x16维的矩阵，你可以认为它就是视角转换矩阵，通过对姿态不理想的场景目标进行仿射变化，实现前面讲到的坐标参照系的对齐；更通用意义上讲，这也是一种维度转换，将上一层PrimaryCaps的8维的capsule输出向量转换到下一层的16维向量，因为不同概念的维度肯定是不一样的；</p><p class=\"ztext-empty-paragraph\"><br/></p><p>三，总结：</p><p>     总的来说，capsule用表达力更强的向量来代替标量，用向量来表达各个神经网络层的概念，用上下层间向量的相似度作为筛分融合的权重，参与融合的上层capsule预测向量间通过向量线性组合来得到当前层capsule的输出向量，这样，从图像中提取的各种概念就像流水一样在各层次被分门别类，然后流到下一层，在信息流动过程中，向量信息（方向不会变）不会丢失！</p><p>     这篇针对minst的capsule net也是非常贴切的，这么简单的minst不必要用多层capsule，通过conv提取卷积特征后，将这些特征视为1152个8维capsule向量，然后从这些向量中提取数字1的线索、提取数字2的线索。。。。，因此，网络天生具有应对重叠数字的能力！ 在重构试验中，证明了capsule向量的不同维度确实代表了实体的不同性质！每一层的capsule向量都有众多性质，然后向量筛分融合成更高层概念向量，这能实现概念的逻辑推理！</p><p>    capsule的设计理念是很好的，大道至简！概念如流水般被分门别类，感觉神经网络好像活了一样！</p>", 
+            "topic": [
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }, 
+                {
+                    "tag": "卷积神经网络（CNN）", 
+                    "tagLink": "https://api.zhihu.com/topics/20043586"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/wangxuechuan"
+}

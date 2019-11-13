@@ -1,0 +1,826 @@
+{
+    "title": "硕博札记", 
+    "description": "记录出差，讲座和重要会议。", 
+    "followers": [
+        "https://www.zhihu.com/people/darkflamematlab-49", 
+        "https://www.zhihu.com/people/chen-kai-28-51-32", 
+        "https://www.zhihu.com/people/lu-fei-15-60", 
+        "https://www.zhihu.com/people/sun-king-20", 
+        "https://www.zhihu.com/people/fen-hai-kuang-qu-13", 
+        "https://www.zhihu.com/people/xi-jiang-shi-su", 
+        "https://www.zhihu.com/people/pophitjazz", 
+        "https://www.zhihu.com/people/ma-xiao-juan-33", 
+        "https://www.zhihu.com/people/hai-feng-76-22", 
+        "https://www.zhihu.com/people/zhang-xiao-yu-60-37-73", 
+        "https://www.zhihu.com/people/xie-shen-90-77", 
+        "https://www.zhihu.com/people/xiao-wang-58-60", 
+        "https://www.zhihu.com/people/mao-xiao-xiao-76-44", 
+        "https://www.zhihu.com/people/xue-hai-wu-ya-86-35-6", 
+        "https://www.zhihu.com/people/bai-xi-9-80", 
+        "https://www.zhihu.com/people/zhang-tai-sheng-76", 
+        "https://www.zhihu.com/people/yuan-shi-68-80", 
+        "https://www.zhihu.com/people/xiang-cai-gai-fan-66", 
+        "https://www.zhihu.com/people/zhou-xin-dong-72", 
+        "https://www.zhihu.com/people/zha-zha-32-69-98", 
+        "https://www.zhihu.com/people/xiao-fei-xia-81-69", 
+        "https://www.zhihu.com/people/lu-yu-yang-59-30", 
+        "https://www.zhihu.com/people/vacillate-35", 
+        "https://www.zhihu.com/people/wang-da-sheng-94", 
+        "https://www.zhihu.com/people/hai-zi-21-69", 
+        "https://www.zhihu.com/people/ou-yang-12-29", 
+        "https://www.zhihu.com/people/zhen-shi-nu-shen", 
+        "https://www.zhihu.com/people/nuan-nuan-de-xiao-tai-yang-11", 
+        "https://www.zhihu.com/people/cheer-19-71", 
+        "https://www.zhihu.com/people/yang-jin-cheng-9-39", 
+        "https://www.zhihu.com/people/tzq-47", 
+        "https://www.zhihu.com/people/wx2bb66d09afbcccd1", 
+        "https://www.zhihu.com/people/gu-lu-gu-lu-dan-44", 
+        "https://www.zhihu.com/people/tmx-97", 
+        "https://www.zhihu.com/people/wang-wu-qi-23", 
+        "https://www.zhihu.com/people/tian-ye-74-72", 
+        "https://www.zhihu.com/people/nan-hu-pan-51", 
+        "https://www.zhihu.com/people/ying-ye-de-107", 
+        "https://www.zhihu.com/people/feng-qing-yang-39-68", 
+        "https://www.zhihu.com/people/yun-yu-54-60", 
+        "https://www.zhihu.com/people/onlychild-22", 
+        "https://www.zhihu.com/people/feng-qing-yun-dan-89-71", 
+        "https://www.zhihu.com/people/lu-tai-shan", 
+        "https://www.zhihu.com/people/xu-you-hui-18", 
+        "https://www.zhihu.com/people/simon1573", 
+        "https://www.zhihu.com/people/zhang-zhen-guo-58", 
+        "https://www.zhihu.com/people/yannster", 
+        "https://www.zhihu.com/people/te-bie-41-50", 
+        "https://www.zhihu.com/people/coffee-cup", 
+        "https://www.zhihu.com/people/li-zhu-21-6", 
+        "https://www.zhihu.com/people/zhang-zhi-qiang-60", 
+        "https://www.zhihu.com/people/kitahara12128", 
+        "https://www.zhihu.com/people/tian-shi-quan-11", 
+        "https://www.zhihu.com/people/wang-wen-jie-72", 
+        "https://www.zhihu.com/people/yao-peng-39-70-92", 
+        "https://www.zhihu.com/people/huxuelong", 
+        "https://www.zhihu.com/people/still-47-86", 
+        "https://www.zhihu.com/people/xu-xiao-fang-56", 
+        "https://www.zhihu.com/people/li-tong-xue-51-40", 
+        "https://www.zhihu.com/people/luycfm-3", 
+        "https://www.zhihu.com/people/kurokoxiao-hei", 
+        "https://www.zhihu.com/people/ma-zi-qian-8-42", 
+        "https://www.zhihu.com/people/yu-sui-wu-tong", 
+        "https://www.zhihu.com/people/harry-toni", 
+        "https://www.zhihu.com/people/jin-xin-96-69", 
+        "https://www.zhihu.com/people/wei-yu-cong-61-9", 
+        "https://www.zhihu.com/people/pfguo", 
+        "https://www.zhihu.com/people/zi-li-16", 
+        "https://www.zhihu.com/people/li-ke-wu", 
+        "https://www.zhihu.com/people/icaros", 
+        "https://www.zhihu.com/people/yuan-fang-de-xin-90", 
+        "https://www.zhihu.com/people/xiao-liang-tang", 
+        "https://www.zhihu.com/people/li-ming-19-94", 
+        "https://www.zhihu.com/people/guai-qiao-ting-hua-ha-shi-qi", 
+        "https://www.zhihu.com/people/wang-rui-45-86", 
+        "https://www.zhihu.com/people/ultrastar", 
+        "https://www.zhihu.com/people/liu-meng-yuan-72-95", 
+        "https://www.zhihu.com/people/magicawonder", 
+        "https://www.zhihu.com/people/XueJ123", 
+        "https://www.zhihu.com/people/dong-yu-long-37", 
+        "https://www.zhihu.com/people/guang-yin-de-gu-shi-38-92", 
+        "https://www.zhihu.com/people/jane-69-77", 
+        "https://www.zhihu.com/people/bao-ni-89-47", 
+        "https://www.zhihu.com/people/wei-feng-nuan-yu", 
+        "https://www.zhihu.com/people/chen-guang-song", 
+        "https://www.zhihu.com/people/dr-ph-51", 
+        "https://www.zhihu.com/people/wo-huan-bu-zhi-15", 
+        "https://www.zhihu.com/people/ke-li-si-42-21", 
+        "https://www.zhihu.com/people/gangjun-wang", 
+        "https://www.zhihu.com/people/li-xin-82-36", 
+        "https://www.zhihu.com/people/asdzxc1994", 
+        "https://www.zhihu.com/people/zhen-shi-76-98", 
+        "https://www.zhihu.com/people/observer-limbo", 
+        "https://www.zhihu.com/people/hua-chai-77", 
+        "https://www.zhihu.com/people/ma-liang-40-79", 
+        "https://www.zhihu.com/people/clover-78", 
+        "https://www.zhihu.com/people/cheng-du-nan-gong", 
+        "https://www.zhihu.com/people/an-ze-yi-63", 
+        "https://www.zhihu.com/people/yin-tian-83-74", 
+        "https://www.zhihu.com/people/xia-bin-bing", 
+        "https://www.zhihu.com/people/luycfm-3-94", 
+        "https://www.zhihu.com/people/ccd-32-93", 
+        "https://www.zhihu.com/people/huang-jia-hao-60-70", 
+        "https://www.zhihu.com/people/hao-chen-57-73", 
+        "https://www.zhihu.com/people/huang-yan-song-61", 
+        "https://www.zhihu.com/people/gong-zheng-90-2", 
+        "https://www.zhihu.com/people/ai-chi-yu-de-you-zi-jun", 
+        "https://www.zhihu.com/people/songrenfeng", 
+        "https://www.zhihu.com/people/liu-kai-49-69", 
+        "https://www.zhihu.com/people/only-3-56", 
+        "https://www.zhihu.com/people/nan-zhi-bei-kui-21", 
+        "https://www.zhihu.com/people/tracy-26-56", 
+        "https://www.zhihu.com/people/rapahelite", 
+        "https://www.zhihu.com/people/fuyan-liaoshi", 
+        "https://www.zhihu.com/people/xiao-xu-zi-45", 
+        "https://www.zhihu.com/people/hai-shang-yan-huo", 
+        "https://www.zhihu.com/people/yu-yu-yu-yu-62-28", 
+        "https://www.zhihu.com/people/xu-meng-yao-47", 
+        "https://www.zhihu.com/people/zhu-xiao-10-95", 
+        "https://www.zhihu.com/people/kai-sa-lan-54", 
+        "https://www.zhihu.com/people/xiao-xiao-shi-tou-52", 
+        "https://www.zhihu.com/people/chen-xiao-tong-79-62", 
+        "https://www.zhihu.com/people/qiu-yang-fan-7", 
+        "https://www.zhihu.com/people/mu-shi-38-8", 
+        "https://www.zhihu.com/people/chu-wu-you-yu", 
+        "https://www.zhihu.com/people/nian-shao-bu-qing-kuang-37", 
+        "https://www.zhihu.com/people/lao-bai-88-19", 
+        "https://www.zhihu.com/people/wo-lai-zhao-ni-45", 
+        "https://www.zhihu.com/people/tang-tang-ai-tang-tang", 
+        "https://www.zhihu.com/people/wang-zhen-88-85", 
+        "https://www.zhihu.com/people/tong-sou-wu-qi-62", 
+        "https://www.zhihu.com/people/peng-zong-shi-kang-ba-zi", 
+        "https://www.zhihu.com/people/nu-li-wei-liao-wei-lai-de-zi-ji", 
+        "https://www.zhihu.com/people/chen-xing-84-28", 
+        "https://www.zhihu.com/people/xiao-wang-67-87", 
+        "https://www.zhihu.com/people/cai-yao-he", 
+        "https://www.zhihu.com/people/di-diao-30-36", 
+        "https://www.zhihu.com/people/mao-mi-xiao-tang-tang", 
+        "https://www.zhihu.com/people/wang-niu-hu"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/88041391", 
+            "userName": "Ready-Player", 
+            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+            "upvote": 16, 
+            "title": "南京会议ICMAMS（2019-10）", 
+            "content": "<p>由于在南京飞回西安的禄口机场候机，所以这次的差旅日记现在抽空写。</p><p>会议貌似叫，The 2nd International conference of mechanics of advanced materials and structures。第一届在意大利，第二届在南航，第三届在德克萨斯Tamu。</p><p>这次来见了J.N Reddy，感觉无比的激动，毕竟见了力学界健在的Timoshenko奖巨佬，放一张会议的图。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-64a18f162c7f9acebe80cbb1df4de4be_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-64a18f162c7f9acebe80cbb1df4de4be_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-64a18f162c7f9acebe80cbb1df4de4be_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-64a18f162c7f9acebe80cbb1df4de4be_b.jpg\"/></figure><p>放一张Prof. Reddy的引用次数</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-940c295893d7e9aa7187bbe71b2b9db5_b.jpg\" data-rawwidth=\"749\" data-rawheight=\"465\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"749\" data-original=\"https://pic2.zhimg.com/v2-940c295893d7e9aa7187bbe71b2b9db5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;749&#39; height=&#39;465&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"749\" data-rawheight=\"465\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"749\" data-original=\"https://pic2.zhimg.com/v2-940c295893d7e9aa7187bbe71b2b9db5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-940c295893d7e9aa7187bbe71b2b9db5_b.jpg\"/></figure><p>我也比较幸运的被介绍和Reddy教授合了影，哇，骑车过来头发被吹没了感觉要秃了</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-488c937efe9d49b6259b5b395dfa5cd2_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-488c937efe9d49b6259b5b395dfa5cd2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-488c937efe9d49b6259b5b395dfa5cd2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-488c937efe9d49b6259b5b395dfa5cd2_b.jpg\"/></figure><p>接着第二天去做了我的报告，第一次国际会议报告，紧张的一※，主持人是一个俄罗斯阿姨，提问环节这个阿姨说什么我也听不懂……反正尴尬着结束了，哈哈哈哈哈哈，哈哈哈哈哈哈（2019-10-20）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-89658a85a21a29115df6a8508718cc5a_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-89658a85a21a29115df6a8508718cc5a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-89658a85a21a29115df6a8508718cc5a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-89658a85a21a29115df6a8508718cc5a_b.jpg\"/></figure><p>接下来是2019-10-21日。</p><p>和几个打卡群里的小伙伴面了基。风波庄真的是江湖豪情，下次还想来</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d370a512a0a56e12a7fcc7159e3c2447_b.jpg\" data-rawwidth=\"1920\" data-rawheight=\"2560\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1920\" data-original=\"https://pic4.zhimg.com/v2-d370a512a0a56e12a7fcc7159e3c2447_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1920&#39; height=&#39;2560&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1920\" data-rawheight=\"2560\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1920\" data-original=\"https://pic4.zhimg.com/v2-d370a512a0a56e12a7fcc7159e3c2447_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d370a512a0a56e12a7fcc7159e3c2447_b.jpg\"/></figure><p>去1912看了一下，小酒吧门口的，(ʘ̆ωʘ̥̆‖)՞小姐姐真好看，可惜我还木有去过 </p><p>2019-10-22回到南航</p><p>在师姐南航的实验室参观了一波，讨论了一些问题，感觉科研氛围很好啊哈哈，感觉一个实验室有没有气氛，就看有没有外国人和白板</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e4e12dc8624eac739b76d39bff46f2f9_b.jpg\" data-rawwidth=\"1440\" data-rawheight=\"1080\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pic2.zhimg.com/v2-e4e12dc8624eac739b76d39bff46f2f9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1440&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1440\" data-rawheight=\"1080\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1440\" data-original=\"https://pic2.zhimg.com/v2-e4e12dc8624eac739b76d39bff46f2f9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e4e12dc8624eac739b76d39bff46f2f9_b.jpg\"/></figure><p>嗯？随缘写板书……</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4c4b2348aa9c17c92bbf2e9a415fd540_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-4c4b2348aa9c17c92bbf2e9a415fd540_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-4c4b2348aa9c17c92bbf2e9a415fd540_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4c4b2348aa9c17c92bbf2e9a415fd540_b.jpg\"/></figure><p>最后放一张会议大海报</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-5f79ee6b0953a6aa473feafa7af8550c_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-5f79ee6b0953a6aa473feafa7af8550c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic1.zhimg.com/v2-5f79ee6b0953a6aa473feafa7af8550c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-5f79ee6b0953a6aa473feafa7af8550c_b.jpg\"/></figure><p>估计飞机快起飞了（๑ `▽´๑)  </p><hr/><p>我喜欢两个主播，不是因为技术特别好吧，可能是因为生活态度？</p><p>之前是苦笑：生活不如意，安静苦笑吧</p><p>最近看东北大鹌鹑，本来觉得贼蠢，但是装的特别正能量，也会说※话，听着爽，现在没事就看，开心的一※</p><p>面对我最近几个月各种生活上的小挫败，我也看淡了，生活上，想更加安稳一些，更加真实一些，而不是狂喜，或者极度悲伤，可能是年纪大了，今年奖学金也拿了个差不多，没有失望，一切都是最好的。</p><p>2019.10.23于南京禄口机场。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "扣扣么么么么", 
+                    "userLink": "https://www.zhihu.com/people/2b89dba99625d26acf3a2b8491e908ec", 
+                    "content": "大佬怎么这么好看 一般秃", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "你师叔还是你师叔", 
+                            "likes": 0, 
+                            "replyToAuthor": "扣扣么么么么"
+                        }, 
+                        {
+                            "userName": "扣扣么么么么", 
+                            "userLink": "https://www.zhihu.com/people/2b89dba99625d26acf3a2b8491e908ec", 
+                            "content": "哦？？<a href=\"https://pic4.zhimg.com/v2-8fb25d33fb4ceda8d3aad31b130f3863.webp\" class=\"comment_sticker\" data-width=\"0\" data-height=\"0\" data-sticker-id=\"1029328882125619200\">[对对对]</a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "我是一只小小", 
+                    "userLink": "https://www.zhihu.com/people/8250b0caee8fe6e93b8c51ff31aa0693", 
+                    "content": "昨天去南航看书的，怪不得感觉辣么多大佬😝", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "安珀", 
+                    "userLink": "https://www.zhihu.com/people/535ee6fe0ce5f1f3b15c934d0e9fdcc4", 
+                    "content": "<p>帅滴很！</p><a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-ba306425d0a7aee2c7260381f1bf7b97.gif\" data-width=\"\" data-height=\"\">[欢呼]</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "死神的游戏", 
+                    "userLink": "https://www.zhihu.com/people/71a4b0d82efd5f6e468c41ee3be1f32c", 
+                    "content": "大佬🐮🍺", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "动也不动", 
+                    "userLink": "https://www.zhihu.com/people/c7822b923403a166fd58d5f3c8f00228", 
+                    "content": "从连续介质力学那里过来。。发现作者竟然是师兄！[大笑]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "一颗豆几", 
+                    "userLink": "https://www.zhihu.com/people/8551e71dd85491e32260b6177e0dc70c", 
+                    "content": "帅", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "好久没见你了啊，怎么大半夜不睡", 
+                            "likes": 0, 
+                            "replyToAuthor": "一颗豆几"
+                        }, 
+                        {
+                            "userName": "一颗豆几", 
+                            "userLink": "https://www.zhihu.com/people/8551e71dd85491e32260b6177e0dc70c", 
+                            "content": "没有 熬不起夜了 现在在多伦多交换[捂脸]", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>是结构所 组织的嘛</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/84358539", 
+            "userName": "Ready-Player", 
+            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+            "upvote": 56, 
+            "title": "第一篇SCI（2019-9）", 
+            "content": "<p>已经一个多月没在知乎长时间逗留过了，最近一个月是特别的忙碌。</p><p>记录一下2019年9月16日第一篇论文接受吧。</p><p>是我研一上学期的工作，108组公式，历经7个多月终于接收了。</p><p>感慨力学理论发SCI文章不易。水货除外。</p><p>研一结束了，研一应该是搞定了三篇文章，虽然只登出来一篇。</p><p>目前手里感兴趣的工作依然是很多，如果第一篇文章再登不出来可能真的很难再往下坚持，就像看不到希望的生活，很痛苦一样。</p><p>研一出去了很多地方，2019年1月哈尔滨，5月南京，6月杭州，8月杭州，这学期10月要去南京，12月要去日本，每一次出去都有很大收获，弥补了大学没有好好旅行的遗憾。</p><p>交大新生都去了创新港，所有重心都偏移了，今年连转博答辩的通知都没有，不知道学院在搞什么。</p><p>老师时不时的鼓励和支持真的是给枯燥的生活添加积极的元素，作为提醒或者是打气都好，喜欢这种模式。现在的生活真美好，睡到自然醒，做自己感兴趣的课题，一两个月就可以出去差旅一次，还有每天中午都可以吃哈密瓜也很开心。</p><p>佛系的科研生活没有太多激情，心情缓慢，平和，我也越来越沉得住气了，希望一切都会一直美好下去。</p><p>2019，9，26（晴天）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6184469d27406da9f22284945355e6d1_b.jpg\" data-rawwidth=\"750\" data-rawheight=\"1334\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic2.zhimg.com/v2-6184469d27406da9f22284945355e6d1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;750&#39; height=&#39;1334&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"750\" data-rawheight=\"1334\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"750\" data-original=\"https://pic2.zhimg.com/v2-6184469d27406da9f22284945355e6d1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6184469d27406da9f22284945355e6d1_b.jpg\"/></figure><p>随便放两页。Proof之前的版本。还有点小问题没修改。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8488a7922842f98558984dd84d85425e_b.jpg\" data-rawwidth=\"750\" data-rawheight=\"1334\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic3.zhimg.com/v2-8488a7922842f98558984dd84d85425e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;750&#39; height=&#39;1334&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"750\" data-rawheight=\"1334\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"750\" data-original=\"https://pic3.zhimg.com/v2-8488a7922842f98558984dd84d85425e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8488a7922842f98558984dd84d85425e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-34fb79964785e1ffab051acb7601c40a_b.jpg\" data-rawwidth=\"750\" data-rawheight=\"1334\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic3.zhimg.com/v2-34fb79964785e1ffab051acb7601c40a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;750&#39; height=&#39;1334&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"750\" data-rawheight=\"1334\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"750\" data-original=\"https://pic3.zhimg.com/v2-34fb79964785e1ffab051acb7601c40a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-34fb79964785e1ffab051acb7601c40a_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "科学引文索引（SCI）", 
+                    "tagLink": "https://api.zhihu.com/topics/19672559"
+                }, 
+                {
+                    "tag": "学术论文", 
+                    "tagLink": "https://api.zhihu.com/topics/19632766"
+                }, 
+                {
+                    "tag": "力学", 
+                    "tagLink": "https://api.zhihu.com/topics/19615099"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "我的八个月了，第四个审稿人估计是去世了，不然应该有审稿意见了", 
+                    "likes": 10, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "哎，力学真的很慢", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "我老师说，感觉今年中美关系紧张，那些人好像有意压着我们的文章～", 
+                            "likes": 1, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "DarkFlameMatlab", 
+                    "userLink": "https://www.zhihu.com/people/f263e4bb5c1a1cefe604f5b1d9b9766d", 
+                    "content": "我的文章搞了一年都没出来，发表的时间比做的还长…", 
+                    "likes": 4, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "啊，什么方向啊", 
+                            "likes": 1, 
+                            "replyToAuthor": "DarkFlameMatlab"
+                        }, 
+                        {
+                            "userName": "甜甜", 
+                            "userLink": "https://www.zhihu.com/people/d2119b7d85f209864e171895796215bd", 
+                            "content": "打电话问问啊", 
+                            "likes": 0, 
+                            "replyToAuthor": "DarkFlameMatlab"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "若你遇见", 
+                    "userLink": "https://www.zhihu.com/people/928b4fa5384e83266a2b356adde5ea3c", 
+                    "content": "突然想起自己7月份中的第一篇sci了，虽然我刚好毕业了，7月初刚毕业还在家里改评委的一两个问题 虽然sci对我没用了，但是接受的时候真的很开心啊", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "恭喜啊兄弟", 
+                            "likes": 1, 
+                            "replyToAuthor": "若你遇见"
+                        }, 
+                        {
+                            "userName": "若你遇见", 
+                            "userLink": "https://www.zhihu.com/people/928b4fa5384e83266a2b356adde5ea3c", 
+                            "content": "谢谢你加油啊。读博还是很辛苦的～感觉你这么强毕业发文章不是问题。我现在在当码农，感觉苦的一笔，感觉读博当老师真的很不错。加油", 
+                            "likes": 2, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Dennis Lee", 
+                    "userLink": "https://www.zhihu.com/people/f7dab66e04f87fafa5e2463738a4f9fa", 
+                    "content": "兄弟我也是西交的，研二争取怼一篇出来，你们马上也去创新港了哇", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "啊，你在哪个系兄弟，我们没通知啊", 
+                            "likes": 1, 
+                            "replyToAuthor": "Dennis Lee"
+                        }, 
+                        {
+                            "userName": "Dennis Lee", 
+                            "userLink": "https://www.zhihu.com/people/f7dab66e04f87fafa5e2463738a4f9fa", 
+                            "content": "机械的，我们通知说是下个月10号", 
+                            "likes": 1, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "为什么飞来这里", 
+                    "userLink": "https://www.zhihu.com/people/e8bcacaba4069d89ee26ff00fed5f590", 
+                    "content": "恭喜恭喜！", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "感谢感谢！", 
+                            "likes": 1, 
+                            "replyToAuthor": "为什么飞来这里"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "siis", 
+                    "userLink": "https://www.zhihu.com/people/d6d8ea96956c2197887023e50da32aa9", 
+                    "content": "祝贺！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "10月在南航举办的会议?", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "是的呀！", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "我课题组都报了那个会议，因为就在学校里开会，Reddy会来[捂脸]", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "美丽的珍妮", 
+                    "userLink": "https://www.zhihu.com/people/39223b777ed374c2371e79218ae92833", 
+                    "content": "特别想知道，研一应该这么度过？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "我没懂你意思？", 
+                            "likes": 0, 
+                            "replyToAuthor": "美丽的珍妮"
+                        }, 
+                        {
+                            "userName": "Lisp", 
+                            "userLink": "https://www.zhihu.com/people/f981e77879734bb7cbc97f94c95a54d2", 
+                            "content": "这个很明显就是“怎么度过”不小心打错了啊……为什么会没能懂", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "张伊森", 
+                    "userLink": "https://www.zhihu.com/people/f40dab22459506ed07e6e53db6e0a2ab", 
+                    "content": "研一新生想知道这些sci的实验内容是老师给的项目还是自己找的idea完全自己做（可能问题比较白痴，才入学几个月。。。）", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "我们组是开放管理，可以找自己喜欢的方向，然后看看老师是不是觉得有研究价值。我是自己的idea和老师说的，老师同意然后做的", 
+                            "likes": 0, 
+                            "replyToAuthor": "张伊森"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "亮仔", 
+                    "userLink": "https://www.zhihu.com/people/eb750fe14dee2fabe8fdbd501935d737", 
+                    "content": "学长牛，我现在大三学复合材料力学都头疼，更别提什么研究了，学长[赞][赞][赞]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/79454506", 
+            "userName": "Ready-Player", 
+            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+            "upvote": 12, 
+            "title": "2019中国力学大会（2019-8）", 
+            "content": "<p>中国力学大会今年在杭州举办。</p><p>8.25注册，26-28我都在。</p><p>有要面基的跟我私信说一声。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-a2a7854607460d16d656bf27bf965172_b.jpg\" data-rawwidth=\"1334\" data-rawheight=\"750\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1334\" data-original=\"https://pic3.zhimg.com/v2-a2a7854607460d16d656bf27bf965172_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1334&#39; height=&#39;750&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1334\" data-rawheight=\"750\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1334\" data-original=\"https://pic3.zhimg.com/v2-a2a7854607460d16d656bf27bf965172_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-a2a7854607460d16d656bf27bf965172_b.jpg\"/></figure><p>从杭州回来一个月了，补充几张照片做纪念。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-32b6800362fedd2e1e3e70c89b7057f5_b.jpg\" data-rawwidth=\"1440\" data-rawheight=\"1080\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pic2.zhimg.com/v2-32b6800362fedd2e1e3e70c89b7057f5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1440&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1440\" data-rawheight=\"1080\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1440\" data-original=\"https://pic2.zhimg.com/v2-32b6800362fedd2e1e3e70c89b7057f5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-32b6800362fedd2e1e3e70c89b7057f5_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-76facce3a6200d12be233bc3dbb1db47_b.jpg\" data-rawwidth=\"1440\" data-rawheight=\"1080\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pic4.zhimg.com/v2-76facce3a6200d12be233bc3dbb1db47_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1440&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1440\" data-rawheight=\"1080\" data-size=\"normal\" data-caption=\"\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1440\" data-original=\"https://pic4.zhimg.com/v2-76facce3a6200d12be233bc3dbb1db47_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-76facce3a6200d12be233bc3dbb1db47_b.jpg\"/></figure><p>时间2019，8，28</p><p>更新时间2019，9，26</p>", 
+            "topic": [
+                {
+                    "tag": "力学", 
+                    "tagLink": "https://api.zhihu.com/topics/19615099"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "皮卡鸭", 
+                    "userLink": "https://www.zhihu.com/people/5931d76ddcfe0da586072c99b9b4ec48", 
+                    "content": "沙发。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "ડ🌚ડ", 
+                            "likes": 0, 
+                            "replyToAuthor": "皮卡鸭"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "我们组一个中南来访问的同学要去", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "跟好几个聊了很久的面个基 ୧😂୨", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "你头像说明你有大新闻", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "hans", 
+                    "userLink": "https://www.zhihu.com/people/b9bc5c241e7ef5906e9b8881b3ea329f", 
+                    "content": "哭了，新生没机会跟课题组一起去开会😭", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "哈哈，下次下次", 
+                            "likes": 0, 
+                            "replyToAuthor": "hans"
+                        }, 
+                        {
+                            "userName": "hans", 
+                            "userLink": "https://www.zhihu.com/people/b9bc5c241e7ef5906e9b8881b3ea329f", 
+                            "content": "两年后了诶", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "桃子", 
+                    "userLink": "https://www.zhihu.com/people/4e42403f6c8d1898c5e556b9e05c20e3", 
+                    "content": "下次下次[捂脸][捂脸]", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "下次下次", 
+                            "likes": 0, 
+                            "replyToAuthor": "桃子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "不去不去[飙泪笑]实验室都去了我没去", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "੭😫੭", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "XgreatHammer", 
+                    "userLink": "https://www.zhihu.com/people/95df216c7e64f1df24d2f7ac62f09e47", 
+                    "content": "在哪个会场？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "像哪个哈哈哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "XgreatHammer"
+                        }, 
+                        {
+                            "userName": "XgreatHammer", 
+                            "userLink": "https://www.zhihu.com/people/95df216c7e64f1df24d2f7ac62f09e47", 
+                            "content": "<p>浙江汇宇华鑫大酒店9楼等你 </p><a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-6eeb544aa5ce6be1e6a6add75e436746.gif\" data-width=\"\" data-height=\"\">[哈哈]</a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "飞天猪", 
+                    "userLink": "https://www.zhihu.com/people/644995fb8c21230e0d51e06be8858c8c", 
+                    "content": "同参会....", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/73579833", 
+            "userName": "Ready-Player", 
+            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+            "upvote": 14, 
+            "title": "浙江大学出差（2019-7）", 
+            "content": "<p>2019年7月7日，和杨老师的合照</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-be2305f7efdafdacfe26bd4273e7c946_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-be2305f7efdafdacfe26bd4273e7c946_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic3.zhimg.com/v2-be2305f7efdafdacfe26bd4273e7c946_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-be2305f7efdafdacfe26bd4273e7c946_b.jpg\"/></figure><p></p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67397903", 
+            "userName": "Ready-Player", 
+            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+            "upvote": 16, 
+            "title": "南京出差（2019-5）", 
+            "content": "<p>这次来南京，和回国开会的我膜拜已久的 Prof. Gao 聊了大半天，受益匪浅，也和 Dr. Zhang 把合作论文的思路梳理完了，吃饭认识了几位东南的老师，收获颇丰。</p><p>我能遇上一个好老板真的是太爽了hhh。各种帮助我，也不会push。</p><p>另外通过这次交流，我也认识到了自己的思维方式有时候也有很大缺陷，缺乏严谨性，知识面也不够。还需要努力，路漫漫其修远兮。</p><p>来之前给 Prof. Gao 和 Dr. Zhang 带了带学校logo的瓷杯，我还害怕送杯具不好hhh，结果回头高老师反手送我一个杯子。</p><p>现在做理论的人越来越少了，可能和大环境有关吧，大部分人还是比较浮躁。</p><p><b><u>我们这边各种课题也多，数学基础可以的，如果想Ms，或者Phd来我们这边的，可以联系我，我可以作为中介帮忙联系老师。</u></b></p><p>附一张和高老师合照，以及夫子庙夜景。</p><p>圆满完成任务，返回大西安。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d3865522f0b3e6a35d2e688c4cceeeb6_b.jpg\" data-rawwidth=\"1440\" data-rawheight=\"1084\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pic3.zhimg.com/v2-d3865522f0b3e6a35d2e688c4cceeeb6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1440&#39; height=&#39;1084&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1440\" data-rawheight=\"1084\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1440\" data-original=\"https://pic3.zhimg.com/v2-d3865522f0b3e6a35d2e688c4cceeeb6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-d3865522f0b3e6a35d2e688c4cceeeb6_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ee127a9936028b8271c20d9542691faf_b.jpg\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-ee127a9936028b8271c20d9542691faf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4032&#39; height=&#39;3024&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"4032\" data-rawheight=\"3024\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4032\" data-original=\"https://pic4.zhimg.com/v2-ee127a9936028b8271c20d9542691faf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ee127a9936028b8271c20d9542691faf_b.jpg\"/></figure><p></p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "L.Lawliet", 
+                    "userLink": "https://www.zhihu.com/people/dbde1123d88d5cf5e73da895982fb4d3", 
+                    "content": "<p>我也是这次结识的高老师，听了老师拓扑优化的报告，受益匪浅，老师人很好，还送了我巧克力</p><a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-6eeb544aa5ce6be1e6a6add75e436746.gif\" data-width=\"\" data-height=\"\">[哈哈]</a>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "你是在哪里跟他聊的？", 
+                            "likes": 0, 
+                            "replyToAuthor": "L.Lawliet"
+                        }, 
+                        {
+                            "userName": "L.Lawliet", 
+                            "userLink": "https://www.zhihu.com/people/dbde1123d88d5cf5e73da895982fb4d3", 
+                            "content": "华东理工", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61901415", 
+            "userName": "Ready-Player", 
+            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+            "upvote": 18, 
+            "title": "记录：一次学术合作（2019-4）", 
+            "content": "<p>2019年4月9日（周二）</p><p>我和章老师初识于知乎，那时章老师在美国读博。我第一篇论文的理论灵感几乎来源于他们这个课题组，在知乎分享时，撞见章老师，加了微信后，跨时差多次请教问题，第一篇paper还在审稿中。</p><p>之后，应该是去年末，章师兄回国，告诉我在东南大学求职，入职了来看我，于是，我一直期待到昨天，终于见到了章师兄本人。我们的学术交流一直持续着，并且，两个课题组的方向也有很多可以交叉发展的地方，这应该是我比较幸运吧。</p><p>早上和章师兄的讨论解决了一些问题，基本上算是把方向初定了。中午去见了老板，这时候，体现了有一个好老板有多重要，老板很支持我认识更多学者，也很支持这次合作，中午老板请客吃饭，我们组相关方向的师兄，还有我和章老师，大家聊聊学术生活，科研方向，气氛很好。下午一起喝茶，我们又Brain storm了很久，最终定了一个大家都觉得满意的方向，这次讨论我真的感觉很学术，很喜欢这种氛围。</p><p>emmm...后续的工作肯定是我来做了，算我的第四篇一作，同时，代表两边课题组的第一次合作。</p><p>关于论文的审稿，我以前真的是太误解了，听了多个师兄，老师的话，才知道投稿真是随缘。第一篇第二篇结束了，第三篇在做flexoelextric，今天的工作争取两个月内结束吧。正确的态度应该是，认真做完，投稿，继续做，等反馈，不要纠结一两篇的状态。</p><p>今年还有两件重要的事，八月的全国力学大会，十一月的转博，十二月在Japan的会议。</p><p>生活哎，最近其实感觉有些感情格外脆弱，不过学术上的长辈们对我的关怀也算弥补了吧，近期要让自己充实起来，忘记不开心的人和事，最起码要对得起自己的老板。</p><p>最后，祝贺章老师入职东南！</p><p>希望两个组第一次合作顺利！</p><p>附上几张游客照吧</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "恭喜学长", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "😊ི", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "争取八月份去杭州听你的报告～", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "谢谢师兄，这种大会水个摘要啦，3000人，咱们到时候好好聊聊，", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "好的", 
+                            "likes": 1, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "开飞机的舒克", 
+                    "userLink": "https://www.zhihu.com/people/ac09410d28af10ebb5a3a8e2c381a8fa", 
+                    "content": "答主是西交本硕博么。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Woshimaidi", 
+                    "userLink": "https://www.zhihu.com/people/c23d7f62517874d952d0fb0216a9e912", 
+                    "content": "日本什么会议呢？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/47292996", 
+            "userName": "Ready-Player", 
+            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+            "upvote": 23, 
+            "title": "随笔（2018-10）", 
+            "content": "<p>2018年10月21，周末，西安，阴天</p><p>周五晚，和子谦师兄出去吃了饭，他给我讲了个有趣的“生命游戏”，其中有个规则是：如果一个细胞周围有3个细胞为生（一个细胞周围共有8个细胞），则该细胞为生（即该细胞若原先为死，则转为生，若原先为生，则保持不变） 在其它情况下，该细胞为死（即该细胞若原先为生，则转为死，若原先为死，则保持不变）。其实规则很形象，人生人，人类繁殖，但人又是群居动物，一个人活不下去。</p><p>周末交大的操场，在给中学生开运动会，吵的我是看不进去书，一直在宿舍呆着，两个师兄都出去了，课题组聚会吧，我一个人越发无助，干脆上床躺被子里，在我眼里，这是多么颓废的生活，可是，我没地方可以去啊。</p><p>研究生的任务是科研嘛？我的导师生活上对我可以说很好了，比较关心我，只是，是那种不会给学生idea的导师，几个师兄说，无论你来读研，读博，都是“博士后培养模式”，一切靠自己。我本科科研经历并不丰富，英文论文读的不超过五十篇吧，是有关新兴的力学超材料，其实是炒作概念，之后，由于老板理论功底深厚，因此读研没有继续炒概念，开始做理论问题，一开始是很迷茫，问了很多人，有我的还在读博士的现任大师兄，大师兄人很好，给了我很多帮助，比如我理论上哪里走不下去了，他都会告诉我查哪些paper，可以解决，实力应该在交大数一数二，硕士就有好多篇，博士有Esi，可是他也没能给我一个具体的方向让我做，之后求救了之前本科带过我的老师，怎么说呢，还是没找到希望的结果吧。终于有一天我忍不住了，从“名词党”想下点功夫，有点干货，下了近几年的116篇paper，用endnote分类整理，开始找一些经典的开始读，嗯，具体不说了，之后做了一个还算非常创新的理论，老板比较满意，说很快就可以做完发了，是我的第一篇。但是，其实我心里清楚，就算师兄说这可以投一个好期刊，我也知道，这是一个理论性很强，几十页公式，但缺乏实际用武之地的文章，这是硕士博士该做的工作吗？纸上谈兵，通过发文章来得到教职或者找到满意的科研岗位工作嘛？从我无法入门到第一篇推完理论，我明白了两件事，第一件事，如果你想靠老板，而遇到了不想给你idea，不想控制你的老板，如果你自觉，有一定基础，你也许会很自由科研，很自由学术。第二件事，理解了，不能用sci数量衡量一个人的学术成就，理解了“灌水”的深刻含义。并不是我的师门不厉害，反而是很厉害，毕业的师兄，有南航的博导，江苏特聘，有陕西的百人计划，航天四院，六院等也有去的，也有在交大留校当教授的，只是不知道他们这个时期的心理状态是什么。</p><p>说说别的，其实我说大学，是我最后的温床，毕业以后，遇到的新的人好像都变得冷漠了，我的好朋友依旧是大学联系的朋友，如果不忙，随叫随到，吃什么玩什么都抢着买单。但是，现在遇到了一些人，非常的不守“君子之道”，甚至是不要脸，没皮没脸，我很好面子，不愿意争执，但是有时候真的是很生气。这里不能说我理解的什么是君子之道？我不能在这说他做的恶心我的事，万一他玩知乎呢？我说说几点我觉得最起码该维持的友谊信条：</p><p>（1）如果真的因为自己没办法解决，找别人帮忙，一定要礼尚往来，不要一味的索取；</p><p>（2）借别人钱，要记得还，别人不提，不代表忘了，可能觉得你是个不要脸；</p><p>（3）不要显摆天生的东西，家里有钱不是你的本事，不要让别人感到尴尬为难；</p><p>（4）如果你微信没回别人消息，下次找别人，一定要先申明，或者道歉，不要像没事一样，理直气壮的用祈使句；</p><p>这也许就是我人生中新的迷茫时期吧，没有可以共同科研的志同道合的人，没有一份稳定可靠的可以预见未来的感情，也没有收入。另外以我目前的基础和智力，应该是可以通过水文章，混到phd毕业的，但是，人生的这后续几年就要这样过的嘛？每天不开心，承受孤独，玩着数学上的推导游戏，背诵学术英文论文模板？未免也太空虚，无聊，乏味了吧。在我正式投入科研之前，我在知乎写了很多文章，很多同行师兄说：你基础这么好，以后很好做科研的。说实话，我完全不相信，我以为他们是鼓励吧，因为在我眼里，这点东西根本算不了什么资本，我觉得我和别人差距甚远，自己就是弱渣，以后科研都不知道怎么走。随着我理论工作的结束，我对“科研”有些失望，我乐在其中，却没有多大实际意义。</p><p>可能注定了，每个人得到的东西不同，别人有的，也许我注定得不到，难受也没办法，知己也好，未来的婚姻也罢，也需要时间再去沉淀吧，我还是一个很浮躁的“孩子”。对自己的各个方面都很失望，失望也没办法。现在的我，总想找到自己的价值，即使别人认可的东西，我自己却不认可，我也不知道自己认可什么，反正就是对现在的生活很不满意。孤独对身体有害吗？我记得有人说有，那该怎么办呢？那唉声叹气又有害吗？终于过了三点半，可以洗澡了。</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "昵郡海", 
+                    "userLink": "https://www.zhihu.com/people/3ed886dffa60778f45d40ec32b74e0fe", 
+                    "content": "你师兄给你讲的游戏叫元胞自动机，现在在计算流体力学和动态相变领域都有用途", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "😨对对对，我记不住名字", 
+                            "likes": 0, 
+                            "replyToAuthor": "昵郡海"
+                        }, 
+                        {
+                            "userName": "Radium", 
+                            "userLink": "https://www.zhihu.com/people/f46df536867a9cf491de408e8a19839b", 
+                            "content": "数学建模，来玩玩?有研究生的～～", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "一颗豆几", 
+                    "userLink": "https://www.zhihu.com/people/8551e71dd85491e32260b6177e0dc70c", 
+                    "content": "开心点吧学弟，用诞总的名言，人间不值得。最少我在网上看到你努力的样子，有被激励呢。网上也有很多默默关注你的人吧。微光总会照亮微光。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "谢谢师姐！我会好好考虑清楚的❤", 
+                            "likes": 0, 
+                            "replyToAuthor": "一颗豆几"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Usagi-chan", 
+                    "userLink": "https://www.zhihu.com/people/7dc53917fc596bfcb6f31b4133852cb7", 
+                    "content": "你老师姓金？那个南航导师姓钱？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "我觉得我已经说的很隐晦了。", 
+                            "likes": 0, 
+                            "replyToAuthor": "Usagi-chan"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "W.GK", 
+                    "userLink": "https://www.zhihu.com/people/4bed284526079aeb801282bd2ccca9b7", 
+                    "content": "加油＾０＾~，没想到读博这么艰难。。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "可能是我太菜了……", 
+                            "likes": 0, 
+                            "replyToAuthor": "W.GK"
+                        }, 
+                        {
+                            "userName": "W.GK", 
+                            "userLink": "https://www.zhihu.com/people/4bed284526079aeb801282bd2ccca9b7", 
+                            "content": "⊙∀⊙！，才两个月你都要发第一篇论文了，已经让一大群人嫉妒恨了。。", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ready-Player"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "无邪", 
+                    "userLink": "https://www.zhihu.com/people/01de38ae3b7f2b0e088496a995018295", 
+                    "content": "帅哥帅哥，我是医学研究生，想把课题和有限元靠拢，能私聊下吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "luycfm", 
+                    "userLink": "https://www.zhihu.com/people/3801c3bf85f5361a949465a14811a3d5", 
+                    "content": "学长加油呀，可能适应了就会好很多吧", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "无邪", 
+                    "userLink": "https://www.zhihu.com/people/01de38ae3b7f2b0e088496a995018295", 
+                    "content": "不是啊，影响科研交流吗?能给个微信嘛？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ready-Player", 
+                            "userLink": "https://www.zhihu.com/people/b839d686b874fbee4d224cfb015781dc", 
+                            "content": "ymgk5339，不影响，我想说医学院有和这边合作，你可以直接找他们", 
+                            "likes": 0, 
+                            "replyToAuthor": "无邪"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "兔兔毛球", 
+                    "userLink": "https://www.zhihu.com/people/642016bdd6265353eec9fcf51f95bb99", 
+                    "content": "原来交大也是不能随时洗澡吗😂", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "厚积落叶听雨声", 
+                    "userLink": "https://www.zhihu.com/people/f25f1f3014e3b8fd3d33d69f4a5628da", 
+                    "content": "很优秀，值得我们学习", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "kitahara12138", 
+                    "userLink": "https://www.zhihu.com/people/7417d8f8cb7bf1824bae3fc27f0b8c3e", 
+                    "content": "就大概就是现在科研的常态吧。你在本科基础阶段打下了坚实的基础，以为到了研究生阶段就能凭此更上一层楼在研究领域作出很有意义的结果，可是你觉得自己现在的成果就是所谓的“灌水”。开始感到迷茫了……（理论性强发文章会容易但是实际意思反而显得鸡肋）其实你还是对自己的成果仍不满足吧，过不了自己心理这一关，所以才会这样想。我觉得你要是过了这个思想瓶颈阶段，经历过这个思辨过程就会有新的突破吧！不要混、继续刚起来、还有这么多同学支持你呢", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "生活在真实中", 
+                    "userLink": "https://www.zhihu.com/people/73dd3475e6344bee22f5a270062e7f04", 
+                    "content": "科研真的很不容易，希望师兄能坚持初心 有好成果吧，", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "fan1122333wo", 
+                    "userLink": "https://www.zhihu.com/people/07e5c3876d9e203620b5beee69de123c", 
+                    "content": "加油(ง •̀_•́)ง", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_161248571"
+}

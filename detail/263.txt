@@ -1,0 +1,121 @@
+{
+    "title": "人工的智能  神经的网络", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/xue-luo-xin-ya", 
+        "https://www.zhihu.com/people/hanson-tian-34", 
+        "https://www.zhihu.com/people/wang-gu-30", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/quxiaofeng", 
+        "https://www.zhihu.com/people/wang-kai-57-94", 
+        "https://www.zhihu.com/people/mrx-78-12", 
+        "https://www.zhihu.com/people/xiao-dian-liu-yuan", 
+        "https://www.zhihu.com/people/hui-sheng-shang-de-hua-66", 
+        "https://www.zhihu.com/people/hu-rui-49-66", 
+        "https://www.zhihu.com/people/ting-king", 
+        "https://www.zhihu.com/people/liu-meng-yuan-72-95", 
+        "https://www.zhihu.com/people/libin-sui", 
+        "https://www.zhihu.com/people/winroot", 
+        "https://www.zhihu.com/people/li-yi-heng-60-80", 
+        "https://www.zhihu.com/people/fei-zhou-nan-min-x", 
+        "https://www.zhihu.com/people/zhu-jian-43-48"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/45145447", 
+            "userName": "段思九", 
+            "userLink": "https://www.zhihu.com/people/7d08e15f93c033cc3691c2e1e682fa69", 
+            "upvote": 0, 
+            "title": "TX2 AI 开发 环境搭建", 
+            "content": "<p>参考： <a href=\"https://link.zhihu.com/?target=https%3A//github.com/peterlee0127/tensorflow-nvJetson\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/peterlee0127</span><span class=\"invisible\">/tensorflow-nvJetson</span><span class=\"ellipsis\"></span></a> <a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/qq_38880380/article/details/77069187\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">blog.csdn.net/qq_388803</span><span class=\"invisible\">80/article/details/77069187</span><span class=\"ellipsis\"></span></a></p><h2>下载安装 JetPack 3.3</h2><p>下载：<a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/embedded/jetpack\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">developer.nvidia.com/em</span><span class=\"invisible\">bedded/jetpack</span><span class=\"ellipsis\"></span></a> 官方安装文档：<a href=\"https://link.zhihu.com/?target=https%3A//docs.nvidia.com/jetpack-l4t/index.html%23jetpack/3.3/install.htm\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">docs.nvidia.com/jetpack</span><span class=\"invisible\">-l4t/index.html#jetpack/3.3/install.htm</span><span class=\"ellipsis\"></span></a> 官方TX2论坛：<a href=\"https://link.zhihu.com/?target=https%3A//devtalk.nvidia.com/default/board/188/jetson-tx2/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">devtalk.nvidia.com/defa</span><span class=\"invisible\">ult/board/188/jetson-tx2/</span><span class=\"ellipsis\"></span></a> 官方下载中心：<a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/embedded/downloads\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">developer.nvidia.com/em</span><span class=\"invisible\">bedded/downloads</span><span class=\"ellipsis\"></span></a> </p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8a2299d017543a12cca99147c65404cf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"408\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-8a2299d017543a12cca99147c65404cf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;408&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"408\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic4.zhimg.com/v2-8a2299d017543a12cca99147c65404cf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8a2299d017543a12cca99147c65404cf_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>注：没事别轻易 apt-get update &amp; upgrade。我遇到过升级后TX2无法正常运行的情况。</p><h2>搭建python 虚拟环境 virtualenv</h2><p>参考文章：<a href=\"https://link.zhihu.com/?target=https%3A//www.cnblogs.com/freely/p/8022923.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">[python三大神器之virtualenv]</a> 虚拟环境有很多好处，例如： <code>* 想用python3，可以单独建一个python3的环境。不用每次 python、pip 都非要跟着一个小尾巴 3。</code> <code>* pip install时，省去很多sudo。</code></p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"err\">$</span> <span class=\"n\">sudo</span> <span class=\"n\">pip3</span> <span class=\"n\">install</span> <span class=\"n\">virtualenv</span>\n<span class=\"err\">$</span> <span class=\"n\">mkdir</span> <span class=\"o\">~/</span><span class=\"n\">dev</span><span class=\"o\">/</span><span class=\"n\">env</span><span class=\"o\">/</span>\n<span class=\"err\">$</span> <span class=\"n\">cd</span> <span class=\"o\">~/</span><span class=\"n\">dev</span><span class=\"o\">/</span><span class=\"n\">env</span>\n<span class=\"err\">$</span> <span class=\"n\">virtualenv</span> <span class=\"n\">RetailX</span> \n<span class=\"c1\"># $ virtualenv -p /usr/bin/python3.5 RetailX</span>\n\n<span class=\"c1\"># 启动虚拟环境</span>\n<span class=\"err\">$</span> <span class=\"n\">source</span> <span class=\"n\">my_project_env</span><span class=\"o\">/</span><span class=\"nb\">bin</span><span class=\"o\">/</span><span class=\"n\">activate</span>\n<span class=\"c1\"># 取消虚拟环境</span>\n<span class=\"err\">$</span> <span class=\"n\">deactivate</span></code></pre></div><h2>TX2 安装 TensorFlow</h2><p>官方参考：<a href=\"https://link.zhihu.com/?target=https%3A//devtalk.nvidia.com/default/topic/1038957/jetson-tx2/tensorflow-for-jetson-tx2-/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">devtalk.nvidia.com/defa</span><span class=\"invisible\">ult/topic/1038957/jetson-tx2/tensorflow-for-jetson-tx2-/</span><span class=\"ellipsis\"></span></a> </p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-bee7501e22a3d906e61690f1f8235cde_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"173\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-bee7501e22a3d906e61690f1f8235cde_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;173&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"800\" data-rawheight=\"173\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic3.zhimg.com/v2-bee7501e22a3d906e61690f1f8235cde_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-bee7501e22a3d906e61690f1f8235cde_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><blockquote> pip 想装啥，都可以尝试加上<br/> <code>--extra-index-url=https://developer.download.nvidia.com/compute/redist/jp33</code><br/> </blockquote><p>参考官方下载中心：<a href=\"https://link.zhihu.com/?target=https%3A//developer.nvidia.com/embedded/downloads\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">developer.nvidia.com/em</span><span class=\"invisible\">bedded/downloads</span><span class=\"ellipsis\"></span></a> 手动下载： <a href=\"https://link.zhihu.com/?target=http%3A//developer.download.nvidia.com/compute/redist/jp33/tensorflow-gpu/tensorflow_gpu-1.9.0%2Bnv18.8-cp35-cp35m-linux_aarch64.whl\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">TensorFlow For TX2 Py3</a> <a href=\"https://link.zhihu.com/?target=http%3A//developer.download.nvidia.com/compute/redist/jp33/tensorflow-gpu/tensorflow_gpu-1.9.0%2Bnv18.8-cp27-cp27mu-linux_aarch64.whl\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">TensorFlow For TX2 Py2</a></p><h2>下载 最新 OpenCV3.4.3:</h2><p><a href=\"https://link.zhihu.com/?target=https%3A//opencv.org/releases.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">opencv.org/releases.htm</span><span class=\"invisible\">l</span><span class=\"ellipsis\"></span></a> <a href=\"https://link.zhihu.com/?target=https%3A//github.com/opencv/opencv/archive/3.4.3.zip\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/opencv/openc</span><span class=\"invisible\">v/archive/3.4.3.zip</span><span class=\"ellipsis\"></span></a> <a href=\"https://link.zhihu.com/?target=https%3A//github.com/opencv/opencv/archive/3.4.3.tar.gz\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/opencv/openc</span><span class=\"invisible\">v/archive/3.4.3.tar.gz</span><span class=\"ellipsis\"></span></a></p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"n\">wget</span> <span class=\"n\">https</span><span class=\"p\">:</span><span class=\"o\">//</span><span class=\"n\">github</span><span class=\"o\">.</span><span class=\"n\">com</span><span class=\"o\">/</span><span class=\"n\">opencv</span><span class=\"o\">/</span><span class=\"n\">opencv</span><span class=\"o\">/</span><span class=\"n\">archive</span><span class=\"o\">/</span><span class=\"mf\">3.4</span><span class=\"o\">.</span><span class=\"mf\">3.</span><span class=\"nb\">zip</span>\n<span class=\"n\">unzip</span> <span class=\"mf\">3.4</span><span class=\"o\">.</span><span class=\"mf\">3.</span><span class=\"nb\">zip</span>\n<span class=\"err\">或</span>\n<span class=\"n\">wget</span> <span class=\"n\">https</span><span class=\"p\">:</span><span class=\"o\">//</span><span class=\"n\">github</span><span class=\"o\">.</span><span class=\"n\">com</span><span class=\"o\">/</span><span class=\"n\">opencv</span><span class=\"o\">/</span><span class=\"n\">opencv</span><span class=\"o\">/</span><span class=\"n\">archive</span><span class=\"o\">/</span><span class=\"mf\">3.4</span><span class=\"o\">.</span><span class=\"mf\">3.</span><span class=\"n\">tar</span><span class=\"o\">.</span><span class=\"n\">gz</span>\n<span class=\"n\">tar</span> <span class=\"o\">-</span><span class=\"n\">xvf</span> <span class=\"mf\">3.4</span><span class=\"o\">.</span><span class=\"mf\">3.</span><span class=\"n\">tar</span><span class=\"o\">.</span><span class=\"n\">gz</span></code></pre></div><p>编译OpenCV 官方参考：<a href=\"https://link.zhihu.com/?target=https%3A//docs.opencv.org/3.4.3/d6/d15/tutorial_building_tegra_cuda.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">docs.opencv.org/3.4.3/d</span><span class=\"invisible\">6/d15/tutorial_building_tegra_cuda.html</span><span class=\"ellipsis\"></span></a> 这个文档搭建的环境，软件版本偏老。主要参考其流程。</p><p>安装依赖包</p><div class=\"highlight\"><pre><code class=\"language-text\">$ sudo apt-get install \\\n    libglew-dev \\\n    libtiff5-dev \\\n    zlib1g-dev \\\n    libjpeg-dev \\\n    libpng12-dev \\\n    libjasper-dev \\\n    libavcodec-dev \\\n    libavformat-dev \\\n    libavutil-dev \\\n    libpostproc-dev \\\n    libswscale-dev \\\n    libeigen3-dev \\\n    libtbb-dev \\\n    libgtk2.0-dev \\\n    pkg-config</code></pre></div><p>安装 Python环境</p><div class=\"highlight\"><pre><code class=\"language-text\">$ sudo apt-get install python-dev python-numpy python-py python-pytest\n# And, optionally:\n$ sudo apt-get install python3-dev python3-numpy python3-py python3-pytest</code></pre></div><p>编译OpenCV (注意，相对OpenCV官方参考，这里我做了一点修改）</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"err\">$</span> <span class=\"n\">cd</span> <span class=\"n\">opencv</span>\n<span class=\"err\">$</span> <span class=\"n\">mkdir</span> <span class=\"n\">build</span>\n<span class=\"err\">$</span> <span class=\"n\">cd</span> <span class=\"n\">build</span>\n<span class=\"err\">$</span> <span class=\"n\">cmake</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DCMAKE_BUILD_TYPE</span><span class=\"o\">=</span><span class=\"n\">Release</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DCMAKE_INSTALL_PREFIX</span><span class=\"o\">=/</span><span class=\"n\">usr</span><span class=\"o\">/</span><span class=\"n\">local</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DBUILD_PNG</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DBUILD_TIFF</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DBUILD_TBB</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DBUILD_JPEG</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DBUILD_JASPER</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DBUILD_ZLIB</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DBUILD_EXAMPLES</span><span class=\"o\">=</span><span class=\"n\">ON</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DBUILD_opencv_java</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DBUILD_opencv_python2</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DBUILD_opencv_python3</span><span class=\"o\">=</span><span class=\"n\">ON</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DENABLE_PRECOMPILED_HEADERS</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DWITH_OPENCL</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DWITH_OPENMP</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DWITH_FFMPEG</span><span class=\"o\">=</span><span class=\"n\">ON</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DWITH_GSTREAMER</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DWITH_GSTREAMER_0_10</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DWITH_CUDA</span><span class=\"o\">=</span><span class=\"n\">ON</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DWITH_GTK</span><span class=\"o\">=</span><span class=\"n\">ON</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DWITH_VTK</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DWITH_TBB</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DWITH_1394</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DWITH_OPENEXR</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DCUDA_TOOLKIT_ROOT_DIR</span><span class=\"o\">=/</span><span class=\"n\">usr</span><span class=\"o\">/</span><span class=\"n\">local</span><span class=\"o\">/</span><span class=\"n\">cuda</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DCUDA_ARCH_BIN</span><span class=\"o\">=</span><span class=\"mf\">6.2</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DCUDA_ARCH_PTX</span><span class=\"o\">=</span><span class=\"s2\">&#34;&#34;</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DINSTALL_C_EXAMPLES</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">-</span><span class=\"n\">DINSTALL_TESTS</span><span class=\"o\">=</span><span class=\"n\">OFF</span> \\\n    <span class=\"o\">..</span>\n<span class=\"c1\"># 参考OpenCV官方文档，我做了些修改</span>\n<span class=\"c1\"># -DBUILD_TBB=OFF 起初编译报错，在调用tbb动态库的时候。关掉它，干脆不使用tbb了。</span>\n<span class=\"c1\"># -DINSTALL_C_EXAMPLES=OFF 想快点，这个就不装了</span>\n<span class=\"c1\"># -DOPENCV_TEST_DATA_PATH=../opencv_extra/testdata TEST 和 TEST DATA 都不装了</span>\n\n<span class=\"err\">$</span> <span class=\"n\">sudo</span> <span class=\"n\">make</span> <span class=\"o\">-</span><span class=\"n\">j4</span>\n<span class=\"c1\"># 如果开了TX2 6核模式，可以用-j6 </span>\n<span class=\"c1\"># 让TX2 6核火力全看，参考：http://www.gpus.cn/qianduan/front/getNewsArc?articleid=133&amp;from=timeline&amp;isappinstalled=0</span>\n<span class=\"err\">$</span> <span class=\"n\">sudo</span> <span class=\"n\">make</span> <span class=\"n\">install</span></code></pre></div><p>测试 OpenCV是否安装成功</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"err\">$</span> <span class=\"n\">python3</span>\n<span class=\"n\">Python</span> <span class=\"mf\">3.5</span><span class=\"o\">.</span><span class=\"mi\">2</span> <span class=\"p\">(</span><span class=\"n\">default</span><span class=\"p\">,</span> <span class=\"n\">Nov</span> <span class=\"mi\">23</span> <span class=\"mi\">2017</span><span class=\"p\">,</span> <span class=\"mi\">16</span><span class=\"p\">:</span><span class=\"mi\">37</span><span class=\"p\">:</span><span class=\"mo\">01</span><span class=\"p\">)</span> \n<span class=\"p\">[</span><span class=\"n\">GCC</span> <span class=\"mf\">5.4</span><span class=\"o\">.</span><span class=\"mi\">0</span> <span class=\"mi\">20160609</span><span class=\"p\">]</span> <span class=\"n\">on</span> <span class=\"n\">linux</span>\n<span class=\"n\">Type</span> <span class=\"s2\">&#34;help&#34;</span><span class=\"p\">,</span> <span class=\"s2\">&#34;copyright&#34;</span><span class=\"p\">,</span> <span class=\"s2\">&#34;credits&#34;</span> <span class=\"ow\">or</span> <span class=\"s2\">&#34;license&#34;</span> <span class=\"k\">for</span> <span class=\"n\">more</span> <span class=\"n\">information</span><span class=\"o\">.</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"kn\">import</span> <span class=\"nn\">cv2</span>\n<span class=\"o\">&gt;&gt;&gt;</span></code></pre></div><h2>让TX2火力全开</h2><p>4 CPU 变 6 CPU</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"c1\"># 查看 cpu 使用情况</span>\n<span class=\"err\">$</span> <span class=\"n\">cat</span> <span class=\"o\">/</span><span class=\"n\">proc</span><span class=\"o\">/</span><span class=\"n\">cpuinfo</span>\n<span class=\"c1\"># 查看 cpu 使用配置</span>\n<span class=\"err\">$</span> <span class=\"n\">sudo</span> <span class=\"n\">nvpmodel</span> <span class=\"o\">-</span><span class=\"n\">q</span> <span class=\"err\">–</span><span class=\"n\">verbose</span>\n<span class=\"c1\"># 配置 6 cpu 模式</span>\n<span class=\"err\">$</span> <span class=\"n\">sudo</span> <span class=\"n\">nvpmodel</span> <span class=\"o\">-</span><span class=\"n\">m</span> <span class=\"mi\">0</span></code></pre></div><p></p>", 
+            "topic": [
+                {
+                    "tag": "AI芯片", 
+                    "tagLink": "https://api.zhihu.com/topics/20100021"
+                }, 
+                {
+                    "tag": "NVIDIA Tegra", 
+                    "tagLink": "https://api.zhihu.com/topics/19883265"
+                }, 
+                {
+                    "tag": "神经网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19607065"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/42112396", 
+            "userName": "段思九", 
+            "userLink": "https://www.zhihu.com/people/7d08e15f93c033cc3691c2e1e682fa69", 
+            "upvote": 0, 
+            "title": "员工/访客 人脸识别", 
+            "content": "<p>实时人脸 员工/访客 识别。   具体内容，有时间再补充吧。</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/1013091511130566656\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"实时人脸 员工/访客 识别\" data-poster=\"https://pic3.zhimg.com/v2-eb510baf59be6aea200e55d5bf4cd36a.jpg\" data-lens-id=\"1013091511130566656\"><img class=\"thumbnail\" src=\"https://pic3.zhimg.com/v2-eb510baf59be6aea200e55d5bf4cd36a.jpg\"/><span class=\"content\"><span class=\"title\">实时人脸 员工/访客 识别<span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/1013091511130566656</span></span></a><p></p>", 
+            "topic": [
+                {
+                    "tag": "人脸识别", 
+                    "tagLink": "https://api.zhihu.com/topics/19559196"
+                }, 
+                {
+                    "tag": "AI技术", 
+                    "tagLink": "https://api.zhihu.com/topics/20106982"
+                }, 
+                {
+                    "tag": "人工智能", 
+                    "tagLink": "https://api.zhihu.com/topics/19551275"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "WiNrOOt", 
+                    "userLink": "https://www.zhihu.com/people/01290739d1e7d08e74fb3b84948158a5", 
+                    "content": "<p>opencv+facenet?</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37183620", 
+            "userName": "段思九", 
+            "userLink": "https://www.zhihu.com/people/7d08e15f93c033cc3691c2e1e682fa69", 
+            "upvote": 5, 
+            "title": "出入门识别", 
+            "content": "<p>只识别进门后的人，门口外的人不识别。</p><a class=\"video-box\" href=\"https://link.zhihu.com/?target=https%3A//www.zhihu.com/video/982557002488238080\" target=\"_blank\" data-video-id=\"\" data-video-playable=\"true\" data-name=\"\" data-poster=\"https://pic2.zhimg.com/80/v2-0f5cabf75a307c0f76a30a8069358321_b.jpg\" data-lens-id=\"982557002488238080\"><img class=\"thumbnail\" src=\"https://pic2.zhimg.com/80/v2-0f5cabf75a307c0f76a30a8069358321_b.jpg\"/><span class=\"content\"><span class=\"title\"><span class=\"z-ico-extern-gray\"></span><span class=\"z-ico-extern-blue\"></span></span><span class=\"url\"><span class=\"z-ico-video\"></span>https://www.zhihu.com/video/982557002488238080</span></span></a><p></p>", 
+            "topic": [
+                {
+                    "tag": "神经网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19607065"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "人工智能安防   很期待", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "海彭", 
+                    "userLink": "https://www.zhihu.com/people/23dc8546d6b1c263adee8e343cf50a3e", 
+                    "content": "这种功能一个程序员能不能做出来？有没有简单的可以直接调用的工具包？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "ChengUU", 
+                    "userLink": "https://www.zhihu.com/people/3531361151c80ca200cabf7bef5be355", 
+                    "content": "<p>这个不是特别难，感觉<br><br>识别目标对象，目标对象位置（距离摄像头距离，角度），但我觉得这个实验估计只能判断目标是否在紫色框内，把桌子抬走，在测试估计就悬了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_191350816"
+}

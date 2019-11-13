@@ -1,0 +1,417 @@
+{
+    "title": "VIO学习笔记", 
+    "description": "不定期更新。", 
+    "followers": [
+        "https://www.zhihu.com/people/minxuan-11-43", 
+        "https://www.zhihu.com/people/fen-dou-de-xiao-tu-dou", 
+        "https://www.zhihu.com/people/sheng-shou-yang-quan-10", 
+        "https://www.zhihu.com/people/thekey-30", 
+        "https://www.zhihu.com/people/li-bai-72-62-55", 
+        "https://www.zhihu.com/people/luo-ya-rong-39", 
+        "https://www.zhihu.com/people/wang-fang-75-70", 
+        "https://www.zhihu.com/people/max-85-39-68", 
+        "https://www.zhihu.com/people/dan-chun-xiang", 
+        "https://www.zhihu.com/people/yun-he-73-56", 
+        "https://www.zhihu.com/people/li-zhi-chao-89", 
+        "https://www.zhihu.com/people/li-jing-88-94-52", 
+        "https://www.zhihu.com/people/lcx-85", 
+        "https://www.zhihu.com/people/yang-jie", 
+        "https://www.zhihu.com/people/lu-wei-3-41", 
+        "https://www.zhihu.com/people/xie-lian-jie-88-26", 
+        "https://www.zhihu.com/people/woruoweiwangKT", 
+        "https://www.zhihu.com/people/wallace-rice", 
+        "https://www.zhihu.com/people/zhu-forrest", 
+        "https://www.zhihu.com/people/chang-broots", 
+        "https://www.zhihu.com/people/gaohongchen01", 
+        "https://www.zhihu.com/people/sssaaa-9", 
+        "https://www.zhihu.com/people/deng-jian-qiang-29", 
+        "https://www.zhihu.com/people/hu-yun-song-22", 
+        "https://www.zhihu.com/people/suqiguang", 
+        "https://www.zhihu.com/people/liu-chang-63-34", 
+        "https://www.zhihu.com/people/sqchee", 
+        "https://www.zhihu.com/people/wu-bo-yi-93", 
+        "https://www.zhihu.com/people/cheng-kai-75", 
+        "https://www.zhihu.com/people/qing-lian-jian-xian-15", 
+        "https://www.zhihu.com/people/zheng-hao-86-4", 
+        "https://www.zhihu.com/people/sheng-yu-de-ming-tian", 
+        "https://www.zhihu.com/people/lan-shun-cong", 
+        "https://www.zhihu.com/people/huang-rui-87-1", 
+        "https://www.zhihu.com/people/80cm-58", 
+        "https://www.zhihu.com/people/shi-jue-slamxiao-bai", 
+        "https://www.zhihu.com/people/du-ying-su-18", 
+        "https://www.zhihu.com/people/hao-hao-39-73", 
+        "https://www.zhihu.com/people/rao-zhu-fa", 
+        "https://www.zhihu.com/people/lu-peng-15-57", 
+        "https://www.zhihu.com/people/chen-94-80-6", 
+        "https://www.zhihu.com/people/howen123", 
+        "https://www.zhihu.com/people/guo-xiao-liang-57", 
+        "https://www.zhihu.com/people/shi-san-pi-58", 
+        "https://www.zhihu.com/people/zhuang-xiao-p", 
+        "https://www.zhihu.com/people/wu-tong-cun-wu-zu-wu-yan-zu", 
+        "https://www.zhihu.com/people/sharine-4", 
+        "https://www.zhihu.com/people/da-bai-51-30-53", 
+        "https://www.zhihu.com/people/yao-nan-41-32", 
+        "https://www.zhihu.com/people/caizhou-79", 
+        "https://www.zhihu.com/people/zhu-di-65-2", 
+        "https://www.zhihu.com/people/tonge-78", 
+        "https://www.zhihu.com/people/yu-bo-65-57", 
+        "https://www.zhihu.com/people/zhang-xiao-long-97-18", 
+        "https://www.zhihu.com/people/wan9009", 
+        "https://www.zhihu.com/people/wen-zhe-ru-si", 
+        "https://www.zhihu.com/people/robot-l-88", 
+        "https://www.zhihu.com/people/luo-di-hu-lu-dong-dong-dong", 
+        "https://www.zhihu.com/people/yang-fan-1-4-61", 
+        "https://www.zhihu.com/people/li-qing-68-37", 
+        "https://www.zhihu.com/people/tang-long-30-1", 
+        "https://www.zhihu.com/people/nogoforever", 
+        "https://www.zhihu.com/people/chen-xiao-cong-16-51", 
+        "https://www.zhihu.com/people/huang-tao-43-45", 
+        "https://www.zhihu.com/people/sx_AH", 
+        "https://www.zhihu.com/people/iflag", 
+        "https://www.zhihu.com/people/ding-wen-dong-62", 
+        "https://www.zhihu.com/people/zhang-kun-yi", 
+        "https://www.zhihu.com/people/xiao-er-lai-ge-id", 
+        "https://www.zhihu.com/people/qi-che-ren-82", 
+        "https://www.zhihu.com/people/quiescencent", 
+        "https://www.zhihu.com/people/du-xiao-te", 
+        "https://www.zhihu.com/people/tam-alex", 
+        "https://www.zhihu.com/people/fang-yu-96-21", 
+        "https://www.zhihu.com/people/xiao-yy-45", 
+        "https://www.zhihu.com/people/tu-jin-ge", 
+        "https://www.zhihu.com/people/wu-nan-gua-3", 
+        "https://www.zhihu.com/people/ykone-43", 
+        "https://www.zhihu.com/people/chen-ran-87-48", 
+        "https://www.zhihu.com/people/yuri-23-93", 
+        "https://www.zhihu.com/people/dou-zi-93-8", 
+        "https://www.zhihu.com/people/kevin-yan-58", 
+        "https://www.zhihu.com/people/amy-77-14", 
+        "https://www.zhihu.com/people/silentsummer1024", 
+        "https://www.zhihu.com/people/ben-pao-de-wang-41", 
+        "https://www.zhihu.com/people/wxnfifth", 
+        "https://www.zhihu.com/people/liu-zhi-56-73", 
+        "https://www.zhihu.com/people/guo-li-cheng-jie-jie-4", 
+        "https://www.zhihu.com/people/wang-zhu-45-2-20", 
+        "https://www.zhihu.com/people/ou-yang-cai-zi-54", 
+        "https://www.zhihu.com/people/liu-jun-80-60", 
+        "https://www.zhihu.com/people/jiang-liu-er-21", 
+        "https://www.zhihu.com/people/a-ti-10", 
+        "https://www.zhihu.com/people/ykp-41", 
+        "https://www.zhihu.com/people/delovsam", 
+        "https://www.zhihu.com/people/wang-yan-5-42-22", 
+        "https://www.zhihu.com/people/yin-shi-da-mo-wang-75", 
+        "https://www.zhihu.com/people/flyaudio", 
+        "https://www.zhihu.com/people/joey_tang", 
+        "https://www.zhihu.com/people/ren-bin-11-87", 
+        "https://www.zhihu.com/people/zhang-qin-sheng-sheng", 
+        "https://www.zhihu.com/people/keifon-lee", 
+        "https://www.zhihu.com/people/feng-xing-long-5", 
+        "https://www.zhihu.com/people/khuang93", 
+        "https://www.zhihu.com/people/wen-xu-9-31", 
+        "https://www.zhihu.com/people/wu-qi-72-92", 
+        "https://www.zhihu.com/people/mao-xian-sheng-1-1", 
+        "https://www.zhihu.com/people/freeman-lu", 
+        "https://www.zhihu.com/people/chen-wen-jing-98-45", 
+        "https://www.zhihu.com/people/fai-5", 
+        "https://www.zhihu.com/people/storyofwanger", 
+        "https://www.zhihu.com/people/liu-yi-25-60", 
+        "https://www.zhihu.com/people/li-cheng-hui-81", 
+        "https://www.zhihu.com/people/jfksajhfjk", 
+        "https://www.zhihu.com/people/ru-shao-nan", 
+        "https://www.zhihu.com/people/zhang-zheng-en", 
+        "https://www.zhihu.com/people/mel-tor", 
+        "https://www.zhihu.com/people/vincent-yue-93", 
+        "https://www.zhihu.com/people/ma-sai-92", 
+        "https://www.zhihu.com/people/zuochongyan", 
+        "https://www.zhihu.com/people/grant-68", 
+        "https://www.zhihu.com/people/carpe-diem-96-73", 
+        "https://www.zhihu.com/people/liu-xiao-wei-14-36", 
+        "https://www.zhihu.com/people/youzx", 
+        "https://www.zhihu.com/people/chen-wei-ru-6", 
+        "https://www.zhihu.com/people/lao-shao-jie-yi", 
+        "https://www.zhihu.com/people/0-618-51", 
+        "https://www.zhihu.com/people/maky-19", 
+        "https://www.zhihu.com/people/wei-yu-teng", 
+        "https://www.zhihu.com/people/wo-a-ou", 
+        "https://www.zhihu.com/people/wang-jun-jie-26-83", 
+        "https://www.zhihu.com/people/yipingjiu-tong", 
+        "https://www.zhihu.com/people/yang-xing-long-32", 
+        "https://www.zhihu.com/people/wang-wei-qing-52", 
+        "https://www.zhihu.com/people/jiang-an-ni-71", 
+        "https://www.zhihu.com/people/jyqjyq-33", 
+        "https://www.zhihu.com/people/xu-lei-76-48", 
+        "https://www.zhihu.com/people/guo-bi-51", 
+        "https://www.zhihu.com/people/qidao-1", 
+        "https://www.zhihu.com/people/robot-3-46", 
+        "https://www.zhihu.com/people/liu-han-ying-6", 
+        "https://www.zhihu.com/people/chen-hu-bei", 
+        "https://www.zhihu.com/people/shi-kong-chuan-suo-64", 
+        "https://www.zhihu.com/people/yao-chen-55-4", 
+        "https://www.zhihu.com/people/xue-lei-han-95-33", 
+        "https://www.zhihu.com/people/liu-lu-34-98", 
+        "https://www.zhihu.com/people/lmg-90"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/75814574", 
+            "userName": "机智的笑晨", 
+            "userLink": "https://www.zhihu.com/people/a3e1007da923d8178ea8afa882f4e0af", 
+            "upvote": 9, 
+            "title": "从一个不很严谨的角度来解释prior factor的概率意义", 
+            "content": "<p>（严正声明：转载需注明出处，否则后果自负）</p><p>（建议已经对prior有一定的理解再阅读本文，因此配合 <a class=\"member_mention\" href=\"https://www.zhihu.com/people/583dc47cd19972bb1223c81d2f3db602\" data-hash=\"583dc47cd19972bb1223c81d2f3db602\" data-hovercard=\"p$b$583dc47cd19972bb1223c81d2f3db602\">@张思宇drZ</a> 同学的<a href=\"https://zhuanlan.zhihu.com/p/58770250\" class=\"internal\">边缘化中矩阵运算的一点细节</a>及其中的参考文献食用更佳）</p><p>————————————丑陋的手动正文分割线——————————————</p><h2>Motivation</h2><p>prior factor是滑窗（SW）BA中经常出现的一个东西。直观的意义是它作为上一轮BA的遗产，对本轮BA起到一个约束作用：你别给我跑太远，太远咱俩就不一致了。</p><p>但当我试图从极大似然估计的角度来分析这个prior factor的cost function是怎么形成的时候，问题出现了。我发现从现有文献的表达式中，难以给它一个准确的物理意义：prior factor到底具有一个怎样的概率意义？</p><p>经过我的苦思冥想，从一个不很严谨的角度大致的理解了它的意义，同时也给出了一个严谨的prior factor的cost function表达式。希望有高人看到这块板砖以后能够指点迷津。</p><h2>这就是那个不很严谨的理解</h2><p>我们的问题放在一个基于滑动窗BA优化的单目视觉VO中，非线性优化方法采用高斯牛顿法。</p><p>假设首次SW优化完全无先验约束，用某种方法得到了一个较合理的迭代初值来进行迭代求解。设迭代完成后，BA的法方程具备下述形式：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Barray%7D%7Bl%7D+%7B%5Cbf%7BH%7D%7D%5Cdelta+%7B%5Cbf%7Bx%7D%7D+%3D+-+%7B%5Cbf%7Bb%7D%7D%5C%5C+%5Cquad+%3D+-+%7B%5Cbf%7BHg%7D%7D+%5Cend%7Barray%7D%5C%5C\" alt=\"\\begin{array}{l} {\\bf{H}}\\delta {\\bf{x}} = - {\\bf{b}}\\\\ \\quad = - {\\bf{Hg}} \\end{array}\\\\\" eeimg=\"1\"/> </p><p>这个地方就是<b><i>不很严谨的由来</i></b>了，因为实际的Hessian不一定是可逆的！</p><p>不管这些，我们先来弄清楚这个法方程表达的含义。注意这里 <img src=\"https://www.zhihu.com/equation?tex=%5Cdelta+%7B%5Cbf%7Bx%7D%7D+%3D+%7B%5Cbf%7Bx%7D%7D+-+%7B%5Cbf%7B%5Chat+x%7D%7D\" alt=\"\\delta {\\bf{x}} = {\\bf{x}} - {\\bf{\\hat x}}\" eeimg=\"1\"/> 。</p><p>不加证明的，我们说这个法方程，表示：<b>此时的状态估计值 <img src=\"https://www.zhihu.com/equation?tex=%7B%5Cbf%7B%5Chat+x%7D%7D%5Cleft%28+1+%5Cright%29\" alt=\"{\\bf{\\hat x}}\\left( 1 \\right)\" eeimg=\"1\"/> ，其与状态真值 <img src=\"https://www.zhihu.com/equation?tex=%5Cbf%7Bx%7D\" alt=\"\\bf{x}\" eeimg=\"1\"/> 之差，满足高斯分布 <img src=\"https://www.zhihu.com/equation?tex=%5Cleft%28+%7B%7B%5Cbf%7B%5Chat+x%7D%7D%5Cleft%28+1+%5Cright%29+-+%7B%5Cbf%7Bx%7D%7D%7D+%5Cright%29+%5Csim+N%5Cleft%28+%7B%7B%5Cbf%7Bg%7D%7D%2C%7B%7B%5Cbf%7BH%7D%7D%5E%7B+-+1%7D%7D%7D+%5Cright%29\" alt=\"\\left( {{\\bf{\\hat x}}\\left( 1 \\right) - {\\bf{x}}} \\right) \\sim N\\left( {{\\bf{g}},{{\\bf{H}}^{ - 1}}} \\right)\" eeimg=\"1\"/></b> （用负对数展开这个高斯分布就可以得到上面那个式子）。</p><p>假设我们对一部分状态进行marg，在法方程中体现为进行Schur Compliment（协方差直接扔掉一块，在信息矩阵中正好对应于做Schur），则可以得到一个关于剩余状态的factor（<b>注意到此时还没有刨去下次SW还会用到的部分</b>）：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Barray%7D%7Bl%7D+%7B%7B%5Cbf%7BH%7D%7D_r%7D%5Cdelta+%7B%7B%5Cbf%7Bx%7D%7D_r%7D+%3D+-+%7B%7B%5Cbf%7Bb%7D%7D_r%7D%5C%5C+%5Cquad+%3D+-+%7B%7B%5Cbf%7BH%7D%7D_r%7D%7B%7B%5Cbf%7Bg%7D%7D_r%7D+%5Cend%7Barray%7D%5C%5C\" alt=\"\\begin{array}{l} {{\\bf{H}}_r}\\delta {{\\bf{x}}_r} = - {{\\bf{b}}_r}\\\\ \\quad = - {{\\bf{H}}_r}{{\\bf{g}}_r} \\end{array}\\\\\" eeimg=\"1\"/> </p><p>下标r表示rest（即没被marg掉的）。类似的，这个factor表示的是：<b>首次BA所有迭代完成时的，对于剩余状态估计值 <img src=\"https://www.zhihu.com/equation?tex=%7B%7B%7B%5Cbf%7B%5Chat+x%7D%7D%7D_r%7D%5Cleft%28+1+%5Cright%29\" alt=\"{{{\\bf{\\hat x}}}_r}\\left( 1 \\right)\" eeimg=\"1\"/> ，其与状态真值 <img src=\"https://www.zhihu.com/equation?tex=%7B%5Cbf%7Bx%7D%7D_r\" alt=\"{\\bf{x}}_r\" eeimg=\"1\"/> 之差，满足高斯分布 <img src=\"https://www.zhihu.com/equation?tex=%5Cleft%28+%7B%7B%7B%7B%5Cbf%7B%5Chat+x%7D%7D%7D_r%7D%5Cleft%28+1+%5Cright%29+-+%7B%7B%5Cbf%7Bx%7D%7D_r%7D%7D+%5Cright%29+%5Csim+N%5Cleft%28+%7B%7B%7B%5Cbf%7Bg%7D%7D_r%7D%2C%7B%5Cbf%7BH%7D%7D_r%5E%7B+-+1%7D%7D+%5Cright%29\" alt=\"\\left( {{{{\\bf{\\hat x}}}_r}\\left( 1 \\right) - {{\\bf{x}}_r}} \\right) \\sim N\\left( {{{\\bf{g}}_r},{\\bf{H}}_r^{ - 1}} \\right)\" eeimg=\"1\"/></b> 。</p><p>在下一次SW中，如果有新的测量加入，则第一次迭代时的法方程中，<b>除了新测量的部分</b>（包括新增加的矩阵块和fill-in additional term），<b>和前面这个公式中得到的结果完全一致</b>。</p><p>但是需要注意的是，两次SW中重复用到的测量factor，在第二个SW中会随着迭代的推进而发生变化，因此习惯的做法是：<b>在第二个公式中将两次SW都会用到的部分刨去。留下一个先验factor</b>：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Barray%7D%7Bl%7D+%7B%7B%5Cbf%7BH%7D%7D_p%7D%5Cdelta+%7B%7B%5Cbf%7Bx%7D%7D_p%7D+%3D+-+%7B%7B%5Cbf%7Bb%7D%7D_p%7D%5C%5C+%5Cquad+%3D+-+%7B%7B%5Cbf%7BH%7D%7D_p%7D%7B%7B%5Cbf%7Bg%7D%7D_p%7D+%5Cend%7Barray%7D%5C%5C\" alt=\"\\begin{array}{l} {{\\bf{H}}_p}\\delta {{\\bf{x}}_p} = - {{\\bf{b}}_p}\\\\ \\quad = - {{\\bf{H}}_p}{{\\bf{g}}_p} \\end{array}\\\\\" eeimg=\"1\"/> </p><p>在下一轮SW迭代中，用这个factor来保留前一轮BA的约束。</p><p>这时，在第二个SW中，<b>先验factor的严谨写法</b>如下：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cleft%5C%7C+%7B%7B%7B%5Cbf%7Bx%7D%7D_r%7D+-+%5Cleft%28+%7B%7B%7B%7B%5Cbf%7B%5Chat+x%7D%7D%7D_r%7D%5Cleft%28+1+%5Cright%29+-+%7B%7B%5Cbf%7Bg%7D%7D_p%7D%7D+%5Cright%29%7D+%5Cright%5C%7C_%7B%7B%7B%5Cbf%7BH%7D%7D_p%7D%7D%5E2%5C%5C\" alt=\"\\left\\| {{{\\bf{x}}_r} - \\left( {{{{\\bf{\\hat x}}}_r}\\left( 1 \\right) - {{\\bf{g}}_p}} \\right)} \\right\\|_{{{\\bf{H}}_p}}^2\\\\\" eeimg=\"1\"/> </p><p>对于第二个SW第 <img src=\"https://www.zhihu.com/equation?tex=l\" alt=\"l\" eeimg=\"1\"/> 次迭代，在高斯牛顿法中这个factor展开如下：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Barray%7D%7Bl%7D+%5Cleft%5C%7C+%7B%7B%5Cbf%7Bx%7D%7D_r%5El+%2B+%5Cdelta+%7B%7B%5Cbf%7Bx%7D%7D_r%7D+-+%5Cleft%28+%7B%7B%7B%7B%5Cbf%7B%5Chat+x%7D%7D%7D_r%7D%5Cleft%28+1+%5Cright%29+-+%7B%7B%5Cbf%7Bg%7D%7D_p%7D%7D+%5Cright%29%7D+%5Cright%5C%7C_%7B%7B%7B%5Cbf%7BH%7D%7D_p%7D%7D%5E2%5C%5C++%3D+%7B%5Cleft%28+%7B%7B%5Cbf%7Bx%7D%7D_r%5El+-+%7B%7B%7B%5Cbf%7B%5Chat+x%7D%7D%7D_r%7D%5Cleft%28+1+%5Cright%29+%2B+%7B%7B%5Cbf%7Bg%7D%7D_p%7D+%2B+%5Cdelta+%7B%7B%5Cbf%7Bx%7D%7D_r%7D%7D+%5Cright%29%5ET%7D%7B%7B%5Cbf%7BH%7D%7D_p%7D%5Cleft%28+%7B%7B%5Cbf%7Bx%7D%7D_r%5El+-+%7B%7B%7B%5Cbf%7B%5Chat+x%7D%7D%7D_r%7D%5Cleft%28+1+%5Cright%29+%2B+%7B%7B%5Cbf%7Bg%7D%7D_p%7D+%2B+%5Cdelta+%7B%7B%5Cbf%7Bx%7D%7D_r%7D%7D+%5Cright%29%5C%5C++%3D+const+%2B+2%7B%5Cleft%28+%7B%7B%5Cbf%7Bx%7D%7D_r%5El+-+%7B%7B%7B%5Cbf%7B%5Chat+x%7D%7D%7D_r%7D%5Cleft%28+1+%5Cright%29+%2B+%7B%7B%5Cbf%7Bg%7D%7D_p%7D%7D+%5Cright%29%5ET%7D%7B%7B%5Cbf%7BH%7D%7D_p%7D%5Cdelta+%7B%7B%5Cbf%7Bx%7D%7D_r%7D+%2B+%5Cdelta+%7B%7B%5Cbf%7Bx%7D%7D%5ET_r%7D%7B%7B%5Cbf%7BH%7D%7D_p%7D%5Cdelta+%7B%7B%5Cbf%7Bx%7D%7D_r%7D+%5Cend%7Barray%7D%5C%5C\" alt=\"\\begin{array}{l} \\left\\| {{\\bf{x}}_r^l + \\delta {{\\bf{x}}_r} - \\left( {{{{\\bf{\\hat x}}}_r}\\left( 1 \\right) - {{\\bf{g}}_p}} \\right)} \\right\\|_{{{\\bf{H}}_p}}^2\\\\  = {\\left( {{\\bf{x}}_r^l - {{{\\bf{\\hat x}}}_r}\\left( 1 \\right) + {{\\bf{g}}_p} + \\delta {{\\bf{x}}_r}} \\right)^T}{{\\bf{H}}_p}\\left( {{\\bf{x}}_r^l - {{{\\bf{\\hat x}}}_r}\\left( 1 \\right) + {{\\bf{g}}_p} + \\delta {{\\bf{x}}_r}} \\right)\\\\  = const + 2{\\left( {{\\bf{x}}_r^l - {{{\\bf{\\hat x}}}_r}\\left( 1 \\right) + {{\\bf{g}}_p}} \\right)^T}{{\\bf{H}}_p}\\delta {{\\bf{x}}_r} + \\delta {{\\bf{x}}^T_r}{{\\bf{H}}_p}\\delta {{\\bf{x}}_r} \\end{array}\\\\\" eeimg=\"1\"/> </p><p>于是可知其对法方程的贡献为：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Barray%7D%7Bl%7D+%7B%7B%5Cbf%7BH%7D%7D_p%7D%5Cdelta+%7B%7B%5Cbf%7Bx%7D%7D_r%7D+%3D+-+%7B%7B%5Cbf%7BH%7D%7D_p%7D%5Cleft%28+%7B%7B%5Cbf%7Bx%7D%7D_r%5El+-+%7B%7B%7B%5Cbf%7B%5Chat+x%7D%7D%7D_r%7D%5Cleft%28+1+%5Cright%29+%2B+%7B%7B%5Cbf%7Bg%7D%7D_p%7D%7D+%5Cright%29%5C%5C+%5Cquad+%3D+-+%7B%7B%5Cbf%7Bb%7D%7D_p%7D+-+%7B%7B%5Cbf%7BH%7D%7D_p%7D%5Cleft%28+%7B%7B%5Cbf%7Bx%7D%7D_r%5El+-+%7B%7B%7B%5Cbf%7B%5Chat+x%7D%7D%7D_r%7D%5Cleft%28+1+%5Cright%29%7D+%5Cright%29+%5Cend%7Barray%7D%5C%5C\" alt=\"\\begin{array}{l} {{\\bf{H}}_p}\\delta {{\\bf{x}}_r} = - {{\\bf{H}}_p}\\left( {{\\bf{x}}_r^l - {{{\\bf{\\hat x}}}_r}\\left( 1 \\right) + {{\\bf{g}}_p}} \\right)\\\\ \\quad = - {{\\bf{b}}_p} - {{\\bf{H}}_p}\\left( {{\\bf{x}}_r^l - {{{\\bf{\\hat x}}}_r}\\left( 1 \\right)} \\right) \\end{array}\\\\\" eeimg=\"1\"/> </p><p>可以看出，先验factor描述的是当前迭代值与前一轮SW估计值之间差异的约束，这个factor法方程的等式右侧是需要随着迭代而更新的。在第二轮SW首次迭代时，由于正好有 <img src=\"https://www.zhihu.com/equation?tex=%7B%5Cbf%7Bx%7D%7D_r%5El+%3D+%7B%7B%7B%5Cbf%7B%5Chat+x%7D%7D%7D_r%7D%5Cleft%28+1+%5Cright%29\" alt=\"{\\bf{x}}_r^l = {{{\\bf{\\hat x}}}_r}\\left( 1 \\right)\" eeimg=\"1\"/> ，因此先验factor的法方程和上一轮BA得到的先验法方程<b>凑巧一样</b>。</p><p>————————————丑陋的手动正文分割线——————————————</p><p>以上。</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }, 
+                {
+                    "tag": "视觉惯性里程计（VIO）", 
+                    "tagLink": "https://api.zhihu.com/topics/20135330"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>爱豆永远是爱豆</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "机智的笑晨", 
+                            "userLink": "https://www.zhihu.com/people/a3e1007da923d8178ea8afa882f4e0af", 
+                            "content": "<p>小人永远匍匐在我杰哥大佬脚下</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "庄小p", 
+                    "userLink": "https://www.zhihu.com/people/baf36279268a2602911d79e6a48dc0a2", 
+                    "content": "老哥可以用知乎的插入换行符，不需要手动打分割线", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "机智的笑晨", 
+                            "userLink": "https://www.zhihu.com/people/a3e1007da923d8178ea8afa882f4e0af", 
+                            "content": "我知道，哈哈哈", 
+                            "likes": 0, 
+                            "replyToAuthor": "庄小p"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "刘弟弟", 
+                    "userLink": "https://www.zhihu.com/people/b073821416080a03e531ebf4b71cf6a1", 
+                    "content": "⑥！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "KeiFon Lee", 
+                    "userLink": "https://www.zhihu.com/people/a33a3448a0c7979b7ecc761507a8b879", 
+                    "content": "prior factor在cost function中的操作感觉很符合直觉，但是怎么套到概率的框架里面表述呢？具体来说，在marg以后增加一个新的状态时，这个概率表达式应该怎么推呢？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/75720184", 
+            "userName": "机智的笑晨", 
+            "userLink": "https://www.zhihu.com/people/a3e1007da923d8178ea8afa882f4e0af", 
+            "upvote": 26, 
+            "title": "特大喜讯！", 
+            "content": "<p>号外！号外！</p><p>错误百出的《<b>IMU预积分总结与公式推导</b>》终于出修订版了！</p><p>修正了关于残差Jacobian的描述问题（详情参见本专栏<a href=\"https://zhuanlan.zhihu.com/p/75714471\" class=\"internal\">上一篇文章</a>），修正了部分下标。</p><p>欢迎移步<a href=\"https://link.zhihu.com/?target=http%3A//paopaorobot.org/bbs/read.php%3Ftid%3D181%26fid%3D5%26page%3D1\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">泡泡机器人论坛</a>下载。</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }, 
+                {
+                    "tag": "视觉惯性里程计（VIO）", 
+                    "tagLink": "https://api.zhihu.com/topics/20135330"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "做梦的咸鱼", 
+                    "userLink": "https://www.zhihu.com/people/aed350437795fa4113bc7f5036962754", 
+                    "content": "你在憋大招吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "机智的笑晨", 
+                            "userLink": "https://www.zhihu.com/people/a3e1007da923d8178ea8afa882f4e0af", 
+                            "content": "<p>一波爆发输出，然后偃旗息鼓</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "做梦的咸鱼"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/75714471", 
+            "userName": "机智的笑晨", 
+            "userLink": "https://www.zhihu.com/people/a3e1007da923d8178ea8afa882f4e0af", 
+            "upvote": 17, 
+            "title": "Computing Jacobian, why error state?", 
+            "content": "<p>（严正声明：转载需注明出处，否则后果自负）</p><p>哈哈哈哈，标题够不够响亮？</p><p>————————————丑陋的手动正文分割线——————————————</p><p>这篇blog来谈谈一个非常细节的问题。BA里面的Jacobian到底是对谁求？是状态还是误差状态（又或者叫扰动/增量）？</p><p>在浩瀚如烟的SLAM论文里，我们会看到各种Jacobian，有的时候文章里会称之为Jacobian about xxx state，但符号却又是一个关于误差的偏导，what the hell？</p><p>这里直接给出结论：<b>从严谨的角度来说，我们应当对误差求Jacobian，这样才能满足部分不符合狭义加法定义的状态之需求</b>。</p><p>下面来详细的聊一聊为什么（其实并没有多长）:</p><p>首先，在Gauss-Newton法中，我们渴望得到一个cost function的下述的线性展开：</p><p><img src=\"https://www.zhihu.com/equation?tex=f%28%7B%5Cbf%7Bx%7D%7D_0%5Coplus%7Bd%7B%5Cbf%7Bx%7D%7D%7D%29%3Df%28%7B%5Cbf%7Bx%7D%7D_0%29%2B%7B%5Cbf%7BJ%7D%7Dd%7B%5Cbf%7Bx%7D%7D%5C%5C\" alt=\"f({\\bf{x}}_0\\oplus{d{\\bf{x}}})=f({\\bf{x}}_0)+{\\bf{J}}d{\\bf{x}}\\\\\" eeimg=\"1\"/> </p><p>其中 <img src=\"https://www.zhihu.com/equation?tex=%5Coplus\" alt=\"\\oplus\" eeimg=\"1\"/> 表示广义加法。</p><p>那么我们来看看如果利用关于状态 <img src=\"https://www.zhihu.com/equation?tex=%7B%5Cbf%7Bx%7D%7D%3D%7B%5Cbf%7Bx%7D%7D_0\" alt=\"{\\bf{x}}={\\bf{x}}_0\" eeimg=\"1\"/> 处的Jacobian来做泰勒展开，<img src=\"https://www.zhihu.com/equation?tex=f%28%7B%5Cbf%7Bx%7D%7D_0%5Coplus%7Bd%7B%5Cbf%7Bx%7D%7D%7D%29\" alt=\"f({\\bf{x}}_0\\oplus{d{\\bf{x}}})\" eeimg=\"1\"/> 会变成什么样：</p><p><img src=\"https://www.zhihu.com/equation?tex=f%28%7B%5Cbf%7Bx%7D%7D_0%5Coplus%7Bd%7B%5Cbf%7Bx%7D%7D%7D%29%3Df%28%7B%5Cbf%7Bx%7D%7D_0%29%2Bf%27%28%7B%5Cbf%7Bx%7D%7D_0%29%28%28%7B%5Cbf%7Bx%7D%7D_0%5Coplus%7Bd%7B%5Cbf%7Bx%7D%7D%7D%29-%7B%5Cbf%7Bx%7D%7D_0%29%5C%5C\" alt=\"f({\\bf{x}}_0\\oplus{d{\\bf{x}}})=f({\\bf{x}}_0)+f&#39;({\\bf{x}}_0)(({\\bf{x}}_0\\oplus{d{\\bf{x}}})-{\\bf{x}}_0)\\\\\" eeimg=\"1\"/> </p><p>注意 <img src=\"https://www.zhihu.com/equation?tex=%28%7B%5Cbf%7Bx%7D%7D_0%5Coplus%7Bd%7B%5Cbf%7Bx%7D%7D%7D%29-%7B%5Cbf%7Bx%7D%7D_0\" alt=\"({\\bf{x}}_0\\oplus{d{\\bf{x}}})-{\\bf{x}}_0\" eeimg=\"1\"/> 这一项，当状态 <img src=\"https://www.zhihu.com/equation?tex=%7B%5Cbf%7Bx%7D%7D\" alt=\"{\\bf{x}}\" eeimg=\"1\"/> 是位置、速度这种欧式量的时候，ok没问题，<img src=\"https://www.zhihu.com/equation?tex=%5Coplus\" alt=\"\\oplus\" eeimg=\"1\"/>退化为狭义加法+，这个项就等于 <img src=\"https://www.zhihu.com/equation?tex=%7Bd%7B%5Cbf%7Bx%7D%7D%7D\" alt=\"{d{\\bf{x}}}\" eeimg=\"1\"/> 。</p><p>但当状态 <img src=\"https://www.zhihu.com/equation?tex=%7B%5Cbf%7Bx%7D%7D\" alt=\"{\\bf{x}}\" eeimg=\"1\"/> 是姿态等其他流形的时候，上述性质就不存在了，这个泰勒展开将不会是我们想要的形式。此时我们应当将 <img src=\"https://www.zhihu.com/equation?tex=f%28%7B%5Cbf%7Bx%7D%7D_0%5Coplus%7Bd%7B%5Cbf%7Bx%7D%7D%7D%29\" alt=\"f({\\bf{x}}_0\\oplus{d{\\bf{x}}})\" eeimg=\"1\"/> 看作一个关于<img src=\"https://www.zhihu.com/equation?tex=%7Bd%7B%5Cbf%7Bx%7D%7D%7D\" alt=\"{d{\\bf{x}}}\" eeimg=\"1\"/>的函数 <img src=\"https://www.zhihu.com/equation?tex=F%28d%7B%5Cbf%7Bx%7D%7D%29\" alt=\"F(d{\\bf{x}})\" eeimg=\"1\"/> （扰动模型），将它在 <img src=\"https://www.zhihu.com/equation?tex=d%7B%5Cbf%7Bx%7D%7D%3D%7B%5Cbf%7B0%7D%7D\" alt=\"d{\\bf{x}}={\\bf{0}}\" eeimg=\"1\"/> 处做泰勒展开：</p><p><img src=\"https://www.zhihu.com/equation?tex=f%28%7B%5Cbf%7Bx%7D%7D_0%5Coplus%7Bd%7B%5Cbf%7Bx%7D%7D%7D%29%3DF%28%7Bd%7B%5Cbf%7Bx%7D%7D%7D%29%5C%5C+%3DF%28%7B%5Cbf%7B0%7D%7D%29%2BF%27%28%7B%5Cbf%7B0%7D%7D%29%28%7Bd%7B%5Cbf%7Bx%7D%7D%7D-%7B%5Cbf%7B0%7D%7D%29%5C%5C+%3Df%28%7B%5Cbf%7Bx%7D%7D_0%5Coplus%7B%5Cbf%7B0%7D%7D%29%2BF%27%28%7B%5Cbf%7B0%7D%7D%29%7Bd%7B%5Cbf%7Bx%7D%7D%7D%5C%5C+%3Df%28%7B%5Cbf%7Bx%7D%7D_0%29%2B%5Cfrac%7B%7B%5Cdelta%7Df%28%7B%5Cbf%7Bx%7D%7D_0%5Coplus%7Bd%7B%5Cbf%7Bx%7D%7D%7D%29%7D%7B%7B%5Cdelta%7Dd%7B%5Cbf%7Bx%7D%7D%7D%7Bd%7B%5Cbf%7Bx%7D%7D%7D\" alt=\"f({\\bf{x}}_0\\oplus{d{\\bf{x}}})=F({d{\\bf{x}}})\\\\ =F({\\bf{0}})+F&#39;({\\bf{0}})({d{\\bf{x}}}-{\\bf{0}})\\\\ =f({\\bf{x}}_0\\oplus{\\bf{0}})+F&#39;({\\bf{0}}){d{\\bf{x}}}\\\\ =f({\\bf{x}}_0)+\\frac{{\\delta}f({\\bf{x}}_0\\oplus{d{\\bf{x}}})}{{\\delta}d{\\bf{x}}}{d{\\bf{x}}}\" eeimg=\"1\"/> </p><p>其中那一坨分式表示的就是原始cost function关于 <img src=\"https://www.zhihu.com/equation?tex=d%7B%5Cbf%7Bx%7D%7D%3D%7B%5Cbf%7B0%7D%7D\" alt=\"d{\\bf{x}}={\\bf{0}}\" eeimg=\"1\"/> 的Jacobian。我们可以发现，这个泰勒展开满足我们所想要的第一个公式中的形式了！</p><p>此外，当状态 <img src=\"https://www.zhihu.com/equation?tex=%7B%5Cbf%7Bx%7D%7D\" alt=\"{\\bf{x}}\" eeimg=\"1\"/> 是欧式量时，无论是对状态本身（在<img src=\"https://www.zhihu.com/equation?tex=%7B%5Cbf%7Bx%7D%7D%3D%7B%5Cbf%7Bx%7D%7D_0\" alt=\"{\\bf{x}}={\\bf{x}}_0\" eeimg=\"1\"/> 处）求Jacobian，还是对误差状态（在<img src=\"https://www.zhihu.com/equation?tex=d%7B%5Cbf%7Bx%7D%7D%3D%7B%5Cbf%7B0%7D%7D\" alt=\"d{\\bf{x}}={\\bf{0}}\" eeimg=\"1\"/>处）求Jacobian，都可以得到相同的渴望的线性形式（可以自己推推看）。所以，<b>为了符号的统一</b>，我们就直接写关于误差状态的Jacobian好了。</p><p>当然，有的作者写paper时不会那么严谨，可能符号直接也写成对状态求Jacobian的样子了。看到的时候不要过于纠结，心中有数就行。</p><p>————————————丑陋的手动正文分割线——————————————</p><p>以上。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }, 
+                {
+                    "tag": "视觉惯性里程计（VIO）", 
+                    "tagLink": "https://api.zhihu.com/topics/20135330"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "robot", 
+                    "userLink": "https://www.zhihu.com/people/1a9cdb4a94c92fbdf808cccbddc4828e", 
+                    "content": "先点赞再学习", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "刘弟弟", 
+                    "userLink": "https://www.zhihu.com/people/b073821416080a03e531ebf4b71cf6a1", 
+                    "content": "<p>666</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "刘弟弟", 
+                    "userLink": "https://www.zhihu.com/people/b073821416080a03e531ebf4b71cf6a1", 
+                    "content": "<p>学习了，学习了！</p><a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-878d130f7db8314bf8eac78484d68fb3.gif\" data-width=\"\" data-height=\"\">[机智]</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "椒盐蘑菇", 
+                    "userLink": "https://www.zhihu.com/people/535bb65faaf7b6deda2e104518b224c5", 
+                    "content": "<p>。。。豁然开朗的感觉，之前一直感觉g2o的论文里面符号看着挺迷糊的</p><a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-ba306425d0a7aee2c7260381f1bf7b97.gif\" data-width=\"\" data-height=\"\">[欢呼]</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/75672946", 
+            "userName": "机智的笑晨", 
+            "userLink": "https://www.zhihu.com/people/a3e1007da923d8178ea8afa882f4e0af", 
+            "upvote": 34, 
+            "title": "如何在kitti raw data上跑起vins-mono", 
+            "content": "<p>（严正声明：转载需注明出处，否则后果自负）</p><p>是的，你没有看错，在kitti的raw data上，跑vins-<b>MONO</b>！</p><p><b>可能是全网首个相关blog喔！</b></p><p>准备好进入填坑之旅了吗？</p><p>其实这些坑填完，也可以在kitti上跑各种VIO算法了。</p><p>————————————丑陋的手动正文分割线——————————————</p><p>笔者最近突发奇想，想测试一下vio算法在车载场景的效果，都知道kitti数据集是一个运用非常广泛的车载感知数据集，因此打起了它的主意。</p><p>经常跑开源代码的同学们应该都知道，一般slam算法在kitti上跑，都是用它的odometry部分的数据。而这部分数据中imu数据是10hz的【★★★重要更正！经大神指出，odometry部分的几个序列在raw data里实际上是有对应数据的！！！我这里调研不周密，希望没有误导太多人，非常抱歉！！！★★★】，对于vio算法来说，实在有点不够用。vins-fusion也仅仅只是在odometry序列上测试了它的双目setup。raw data中的unsychronized数据，则有100hz的imu数据，于是打算试试能不能跑起来。</p><p>下面会分几个部分来说到底要怎么做，主要包括时标问题、rosbag的准备、标定参数的配置。</p><h2>1 时标问题（大坑！）</h2><p>熟悉kitti的小伙伴们都应该知道，raw data中每个sequence都有两种数据，分别是synchronized和unsynchronized。前者主要是将点云数据和图像数据做了对齐，同时其imu数据（oxts中）也是10hz的。因此我们只能用unsynchronized部分来跑。</p><p>为了跑原版的vins-mono，我们首先需要把图像数据和imu数据都录成一个.bag文件。可是这里其实有一个大坑，就是unsynchronized数据里面，imu时标会跳变！比如这样：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f75d3d3bccdba72e4acc939129d85c28_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1120\" data-rawheight=\"986\" class=\"origin_image zh-lightbox-thumb\" width=\"1120\" data-original=\"https://pic1.zhimg.com/v2-f75d3d3bccdba72e4acc939129d85c28_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1120&#39; height=&#39;986&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1120\" data-rawheight=\"986\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1120\" data-original=\"https://pic1.zhimg.com/v2-f75d3d3bccdba72e4acc939129d85c28_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f75d3d3bccdba72e4acc939129d85c28_b.jpg\"/></figure><p>又比如这样：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-b20ce4767addae8ba14df7a3e3d67b4b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1120\" data-rawheight=\"986\" class=\"origin_image zh-lightbox-thumb\" width=\"1120\" data-original=\"https://pic4.zhimg.com/v2-b20ce4767addae8ba14df7a3e3d67b4b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1120&#39; height=&#39;986&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1120\" data-rawheight=\"986\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1120\" data-original=\"https://pic4.zhimg.com/v2-b20ce4767addae8ba14df7a3e3d67b4b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-b20ce4767addae8ba14df7a3e3d67b4b_b.jpg\"/></figure><p>这可太坑了，笔者一开始并没有注意这个问题，直到录完bag跑起来以后发现vins总是报警告，什么throw image之类的一大堆，轨迹也各种重置，最后才debug到原来是imu时标有问题。。。。。。</p><p>所以为了读到这篇blog的读者以后少走弯路，这里直接把时标问题放在前面。同学们可以像我一样先把oxts/timestamp.txt里面的时标画出来，然后看看哪些地方有这种跳变，然后再手动改正。改的时候还是挺简单的，直接在前一个正确时刻的基础上加0.01s即可（温馨提示：部分地方不要忘记进位）。</p><h2>2 rosbag的准备</h2><p>2.1 转换工具的编译</p><p>kitti官网上提供了两个转换为rosbag的工具（kitti2bag和kitti_to_rosbag），我选择了<a href=\"https://link.zhihu.com/?target=https%3A//github.com/ethz-asl/kitti_to_rosbag\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">kitti_to_rosbag</a>。这也是一个基于ros的程序。值得注意的是编译的时候还需要在workspace/src里放上一些依赖项，可以参照这个<a href=\"https://link.zhihu.com/?target=https%3A//github.com/ethz-asl/kitti_to_rosbag/issues/15\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">issue</a>（另外里面的cmake-build-debug不需要，应该是这个大佬用clion自己生成出来的），这些依赖都可以在<a href=\"https://link.zhihu.com/?target=https%3A//github.com/ethz-asl\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ethz-asl的github页面</a>下找到。</p><p>其中笔者在编译的时候gflags_catkin和glog_catkin迟迟下载不下来，采用的方法是：先去github上手动下这两个东西，然后修改这两个catkin pkg的cmakelists，让它去本地路径找东西。</p><p>2.2 转换工具的改进</p><p>然后要注意的是，kitti_to_rosbag里面并没有包含imu数据的读取，因此需要自己改一改。贴心如我，当然是把改好的版本放在<a href=\"https://link.zhihu.com/?target=https%3A//github.com/PetWorm/kitti_to_rosbag_for_vio\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">我的github</a>上了啦。</p><p>对了，这里面还涉及到一个加速度和角速度的坐标系理解问题，在oxts/dataformat.txt里，我们注意到有flu和xyz两套坐标系，经过分析，笔者认为前者是水平前左上（与速度的描述对应），后者才是所需要的车体前左上。因此在录制imu数据的时候，选择xyz体系的加速度和角速度写入bag。</p><h2>3 标定参数的配置</h2><p>数据包录完啦，现在轮到修改vins-mono的配置文件了。</p><p>kitti中的几个calib文件分别给了$T^{velo}_{imu}$和$T^{cam0}_{velo}$，因此需要做个乘法来得到vins-mono所需的$T^{cam0}_{imu}$。另外相机内参等等也需要根据calib文件进行修改（注意D_00只需要前四位k1、k2、p1、p2，最后一个k3不需要）。</p><h2>4 RUN KITTI ! RUN !</h2><p>上述步骤完成之后，就可以跑起来了。虽然笔者写的好像挺短，其实填坑填到秃头，不过基本上把会遇到的问题都写出来了，希望能对后来人有所帮助吧！</p><p>下面是一些跑的结果：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1ac3ca7d1ddc99d1ba07302847a92231_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1120\" data-rawheight=\"986\" class=\"origin_image zh-lightbox-thumb\" width=\"1120\" data-original=\"https://pic2.zhimg.com/v2-1ac3ca7d1ddc99d1ba07302847a92231_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1120&#39; height=&#39;986&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1120\" data-rawheight=\"986\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1120\" data-original=\"https://pic2.zhimg.com/v2-1ac3ca7d1ddc99d1ba07302847a92231_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1ac3ca7d1ddc99d1ba07302847a92231_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0ff99d4ae1d1b11b28210132557aa03c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1120\" data-rawheight=\"986\" class=\"origin_image zh-lightbox-thumb\" width=\"1120\" data-original=\"https://pic1.zhimg.com/v2-0ff99d4ae1d1b11b28210132557aa03c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1120&#39; height=&#39;986&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1120\" data-rawheight=\"986\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1120\" data-original=\"https://pic1.zhimg.com/v2-0ff99d4ae1d1b11b28210132557aa03c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0ff99d4ae1d1b11b28210132557aa03c_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-1427cdb5e51bb22edd2b3e516b7d89ec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1120\" data-rawheight=\"986\" class=\"origin_image zh-lightbox-thumb\" width=\"1120\" data-original=\"https://pic1.zhimg.com/v2-1427cdb5e51bb22edd2b3e516b7d89ec_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1120&#39; height=&#39;986&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1120\" data-rawheight=\"986\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1120\" data-original=\"https://pic1.zhimg.com/v2-1427cdb5e51bb22edd2b3e516b7d89ec_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-1427cdb5e51bb22edd2b3e516b7d89ec_b.jpg\"/></figure><p>只能说轨迹看上去有的还可以吧，代码没有做什么优化，参数都用了跑euroc的那套，也许还有提高的空间。</p><p>对对对，笔者还跑了一版自己的msckf，其中涉及到赋初值的问题，那又是另一个大坑了，此处不表。。。。</p><p>————————————丑陋的手动正文分割线——————————————<br/></p><p>如果有啥问题，欢迎找我讨论哇。</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }, 
+                {
+                    "tag": "视觉惯性里程计（VIO）", 
+                    "tagLink": "https://api.zhihu.com/topics/20135330"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "做梦的咸鱼", 
+                    "userLink": "https://www.zhihu.com/people/aed350437795fa4113bc7f5036962754", 
+                    "content": "先赞为敬！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "机智的笑晨", 
+                            "userLink": "https://www.zhihu.com/people/a3e1007da923d8178ea8afa882f4e0af", 
+                            "content": "<p>不看就赞，令人感叹！</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "做梦的咸鱼"
+                        }, 
+                        {
+                            "userName": "做梦的咸鱼", 
+                            "userLink": "https://www.zhihu.com/people/aed350437795fa4113bc7f5036962754", 
+                            "content": "晨博出品，必属精品", 
+                            "likes": 0, 
+                            "replyToAuthor": "机智的笑晨"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "背书包的贰佰伍", 
+                    "userLink": "https://www.zhihu.com/people/8165ea951ad5636eef65e82b106c1609", 
+                    "content": "给晨博点赞.......em前面那句好像哪里不对.......[看看你][看看你][看看你],希望晨博多输出呀", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "机智的笑晨", 
+                            "userLink": "https://www.zhihu.com/people/a3e1007da923d8178ea8afa882f4e0af", 
+                            "content": "水平有限啊，已经在全力输出了呢", 
+                            "likes": 0, 
+                            "replyToAuthor": "背书包的贰佰伍"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "robot", 
+                    "userLink": "https://www.zhihu.com/people/1a9cdb4a94c92fbdf808cccbddc4828e", 
+                    "content": "笑博强 <a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-c2ca56571fa76c73619f980f31dbeeb2.png\" data-sticker-id=\"1029329540195229696\"> [瑟瑟发抖]</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "夏天", 
+                    "userLink": "https://www.zhihu.com/people/0357ed46d2c35f278705cf5ad1f355fd", 
+                    "content": "<p>这就是专业.jpg</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "蒋成", 
+                    "userLink": "https://www.zhihu.com/people/11768db72a31124c8d1d82161e3ed6a8", 
+                    "content": "晨博好厉害 <a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-ba306425d0a7aee2c7260381f1bf7b97.gif\"> [欢呼]</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "imagine", 
+                    "userLink": "https://www.zhihu.com/people/1ed2e77698d5e9196d5d484d6bedffae", 
+                    "content": "晨博棒<a href=\"https://pic2.zhimg.com/v2-2b7e64f732b793ac0c7323e9d71c9499.webp\" class=\"comment_sticker\" data-width=\"0\" data-height=\"0\" data-sticker-id=\"1029328993056542720\">[笔芯]</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "黄瑞", 
+                    "userLink": "https://www.zhihu.com/people/f89882f5d01531f5620e02bbbedeae8e", 
+                    "content": "<p>点赞已经不足以描述我现在的心情，所以给了赞赏，跪谢大佬.jpg；</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "机智的笑晨", 
+                            "userLink": "https://www.zhihu.com/people/a3e1007da923d8178ea8afa882f4e0af", 
+                            "content": "帮你毕业了吗[飙泪笑][飙泪笑][飙泪笑]", 
+                            "likes": 0, 
+                            "replyToAuthor": "黄瑞"
+                        }, 
+                        {
+                            "userName": "黄瑞", 
+                            "userLink": "https://www.zhihu.com/people/f89882f5d01531f5620e02bbbedeae8e", 
+                            "content": "<p>这倒不是，不过已经准备从apollo里扣数据了</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "机智的笑晨"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "npkhgl", 
+                    "userLink": "https://www.zhihu.com/people/e424fb92579604d0e9fd499872fd45f2", 
+                    "content": "感谢分享！请问可以分享一下imu的原始数据吗，重新下unsync的数据要好久啊😭", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1127177084962992128"
+}

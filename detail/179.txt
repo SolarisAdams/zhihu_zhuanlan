@@ -1,0 +1,169 @@
+{
+    "title": "机电&自动化", 
+    "description": "从传感、执行、控制以及相关建模仿真技术介绍机电自动化领域相关技术", 
+    "followers": [
+        "https://www.zhihu.com/people/kayle-6-25", 
+        "https://www.zhihu.com/people/fig-92", 
+        "https://www.zhihu.com/people/jiu-yue-de-jiu-yue", 
+        "https://www.zhihu.com/people/xiezhiije", 
+        "https://www.zhihu.com/people/qiao-shu-99-90", 
+        "https://www.zhihu.com/people/pessimist-42", 
+        "https://www.zhihu.com/people/bu-zhi-liao-96", 
+        "https://www.zhihu.com/people/kingq", 
+        "https://www.zhihu.com/people/qian-qiu-xue-16", 
+        "https://www.zhihu.com/people/qun-xing-zhi-lian", 
+        "https://www.zhihu.com/people/ke-ke-shu-56-87", 
+        "https://www.zhihu.com/people/akkei", 
+        "https://www.zhihu.com/people/duanduanr", 
+        "https://www.zhihu.com/people/lu-wei-3-41", 
+        "https://www.zhihu.com/people/ningling-33", 
+        "https://www.zhihu.com/people/pan-deng-zhe-26", 
+        "https://www.zhihu.com/people/yangrong_77", 
+        "https://www.zhihu.com/people/ran-shao-ji-qing-75", 
+        "https://www.zhihu.com/people/he-zheng-e", 
+        "https://www.zhihu.com/people/olivia-13-79", 
+        "https://www.zhihu.com/people/jia-qi-82-50-66", 
+        "https://www.zhihu.com/people/wei-liao-na-mo-yun-cai-27", 
+        "https://www.zhihu.com/people/gu-yu-44-2", 
+        "https://www.zhihu.com/people/liu-tian-ming-1", 
+        "https://www.zhihu.com/people/li-xin-95-42-23", 
+        "https://www.zhihu.com/people/devins", 
+        "https://www.zhihu.com/people/yanleirex", 
+        "https://www.zhihu.com/people/jacknlliu", 
+        "https://www.zhihu.com/people/li-ling-12-18-63", 
+        "https://www.zhihu.com/people/owen-51-8", 
+        "https://www.zhihu.com/people/wang-kuan-57-47", 
+        "https://www.zhihu.com/people/yu-yang-96-53", 
+        "https://www.zhihu.com/people/li-da-ke-xue-shi-jue", 
+        "https://www.zhihu.com/people/yzg-44", 
+        "https://www.zhihu.com/people/xu-wen-hua-10", 
+        "https://www.zhihu.com/people/caorui1995", 
+        "https://www.zhihu.com/people/hello-27-14-13", 
+        "https://www.zhihu.com/people/mu-yang-7-72-18", 
+        "https://www.zhihu.com/people/zi-fei-yu-76-10", 
+        "https://www.zhihu.com/people/resurrectcore", 
+        "https://www.zhihu.com/people/rui-jia-33-6", 
+        "https://www.zhihu.com/people/wenbin-yan-007", 
+        "https://www.zhihu.com/people/tan-peng-61", 
+        "https://www.zhihu.com/people/ji-dan-rou-si-ban-mian"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/85235428", 
+            "userName": "stone", 
+            "userLink": "https://www.zhihu.com/people/2f061d00ae82899683c2139b8c638432", 
+            "upvote": 2, 
+            "title": "控制算法手记—基于模型 and/or 数据驱动", 
+            "content": "<p>       在介绍了几种数据驱动控制算法(比例-积分-微分控制PID、迭代学习控制ILC、无模型自适应控制MFAC)后，本文试图探讨这么一个问题：针对处于给定应用场景下的被控对象，如何选择合适的<b><u>动态控制</u></b>方法以保证优异的控制系统性能？为限定讨论的范围，这里<b><u>动态控制</u></b>指在参考输入(Reference Input)已知的情况下，控制方法根据内部观测和被控对象信息计算出控制输入指令(Control Input)使得被控对象输出跟随参考输入的过程。如图1红色虚线框所示，系统对外部环境的感知以及据此做出的轨迹规划/决策暂不在本文的讨论范围。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-7419f327689f50cdf790f407f04fc8b1_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"302\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-7419f327689f50cdf790f407f04fc8b1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;302&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"302\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-7419f327689f50cdf790f407f04fc8b1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-7419f327689f50cdf790f407f04fc8b1_b.jpg\"/><figcaption>图1.自动化系统组成部分[1]</figcaption></figure><p>        对于工业自动化系统来说，动态控制算法应该具备<b>实时</b>(运算时间可短至毫秒级别或者更低)、<b>可靠</b>(始终保持对系统的一致、有效控制，保证控制系统的稳定性)、<b>鲁棒性</b>(干扰或不确定情况下，输出偏差在给定范围内，不能相差很大或得到完全相反的结果)、<b>确定</b>(输出确定性指令使系统尽可能精确地跟随参考输入，而不是概率意义上的判断)以及<b>可解释性</b>(和现实的被控对象关联)的特点。根据在控制实施过程中是否引入<u>被控对象动力学模型</u>，可将控制方法分为两类：基于模型的控制和数据驱动控制，分别如图2(a)和(b)所示。基于模型的控制在合理建模假设下，首先建立被控对象模型描述其动力学特性并以该模型为中心，完成控制器设计、参数整定、性能分析以及实时运算；数据驱动控制则直接从系统可用数据出发，通过对数据的有效组织和整理(表现为数据模型)，完成包含设计、分析以及实时运算的整个控制流程。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-3e2bf439b3c4027b34649b7960a5c614_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"544\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-3e2bf439b3c4027b34649b7960a5c614_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;544&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"544\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-3e2bf439b3c4027b34649b7960a5c614_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3e2bf439b3c4027b34649b7960a5c614_b.jpg\"/><figcaption>图2  不同控制方法实施流程</figcaption></figure><p><b>                                                    基于模型的控制</b></p><p>       基于模型的控制根植于这样一种理念：既然是对被控对象进行动态控制，如果能够准确知道被控对象动力学行为，便能有针对性地设计控制器以给出正确的控制指令；被控对象动力学行为如果能够通过数学模型精确描述，即数学模型所代表的系统和实际被控对象<b>等效</b>，那以模型为中心得到的理论控制性能和控制器实际实施中性能一致。因此，如图2(a)所示，基于模型的控制器设计第一步就是建立被控对象模型，最终控制性能分析和实际运算也是依据模型，其中模型可以经辨识得到或者从作用机理(物理、化学定理定律)出发推导而来。</p><p>       理想情况下，如果建模精确、参数准确，模型能够正确反映被控系统在各种激励/工况下的变化情况：那么就能够通过模型的计算结果得到被控系统的实时输出值，代替传感器的作用，这对于不便于安装传感器或传感测量系统成本较高的场合至关重要；机理模型自动保证了被控系统输入、输出以及内部状态变量之间结构化、可解释的联系(这种联系已经自动包含在由大量实验和理论发现总结得到的各种普适性定理定律中)，这正是利用深度学习利用各种深层神经网络所渴望达到的(相对于支持向量机等‘浅层学习’方法，深度学习在多层次网络结构的架构下，通过对原始数据进行逐层处理，逐步组合低层特征形成更加抽象的高层类别或特征)。<b>充分利用模型所给出的信息，可以达到对被控对象最优的控制效果</b>。从上世纪60年代以来，最优控制(Optimal Control)、模型预测控制MPC(Model Predictive)、自适应控制(Indirect AdaptiveControl)以及针对非线性系统的反馈线性化控制(Feedback Linearization)、反步控制(Back-stepping control)等各种基于模型的控制方法取得了重要研究进展，在实际应用中也已经体现了巨大威力，如模型预测控制(即根据数学模型预测被控系统未来动态变化情况，并根据此预测和当前约束计算出最优的控制输入指令)已经成功地控制人形机器人Atlas (@BostonDynamics)) 优雅地完成奔跑、跳跃、后空翻以及高难度体操动作(在这些动作过程中，需要全身多达几十个关节以及相应执行机构同步、精准完成规定动作)。</p><p>      由于高度依赖于模型，模型的准确性决定了基于模型的控制系统性能。为简化模型并方便控制器设计，如图2(a)所示，在建模时通常会进行合理假设，未建模动态不可避免地存在。加之未知外界干扰或噪声，使得被控对象实际的动力学行为和模型所代表的动力学行为出现偏差，<b>等效原则不再适用</b>，会导致基于模型的控制系统性能恶化甚至系统失稳。此时，在对未建模动态或干扰进行假设的前提下，可通过相应的鲁棒性设计以保证控制系统的控制性能。</p><p>      当被控对象无法准确建模(如随机性或不确定性系统)或者为高复杂性系统(用来等效描述其动力学行为的模型复杂度也随之提高)，基于模型的控制方法面临着控制算法结构复杂以及由此带来的设计、分析、实时运算难度加大等问题，甚至无法设计出有效的基于模型的控制器。另一方面，随着自动化系统数字化程度不断增强，系统可用数据量也随着增加。以上两方面为数据驱动控制的发展及应用开辟了道路。</p><p><b>                                                            数据驱动控制</b></p><p>        从字面上来看，数据驱动控制包含数据驱动和控制两个词，即利用数据驱动方法完成控制任务。从数据驱动的角度来看，一种常见的观念是将数据驱动和机器学习、神经网络直接对应起来。<b>实际上，机器学习或神经网络等方法并不代表着数据驱动的全部内涵。</b>数据驱动可以理解为利用特定框架或结构来组织整理数据并挖掘相关信息以完成特定任务，这个意义上来看，神经网络或者决策树、支持向量机都可以理解为‘特定框架/结构’中的一种，对于工业自动化控制的应用场合来说，当然也存在着其它类型的组织、整理数据的方法。从控制的角度来看：数据驱动控制作为动态控制方法的一类，其性能应该满足工业自动化系统对动态控制算法的一般性要求。在综合了数据驱动控制的不同描述后，参考文献[2]给出了数据驱动控制严格定义：</p><p>【<b>数据驱动控制定义</b>】：数据驱动控制包含所有这样的控制理论及方法：这些理论和方法通过直接利用(被控系统在线/离线输入/输出数据或从数据处理过程中得到的知识)，而并不通过(显式地利用从被控对象数学模型得到的信息)来设计控制器；这些理论和方法的稳定性、收敛性和鲁棒性能够在合理假设前提下能够通过严格的数学分析得到保证。</p><p>         如图2(a, b)所示，与基于模型的控制方法相比，数据驱动控制方法直接从系统可用数据(数据本身包含了系统结构变化、未建模动态和未知干扰等信息)出发，摆脱了对被控对象模型的依赖由此提高了控制系统的鲁棒性、并能够有效地处理难以建模的被控对象的控制问题。值得注意的是，尽管目前机器学习、深度神经网络等数据驱动方法已经成功地应用到外部环境感知、推理决策、故障诊断及预测等不同环节中(见图1)，但其在动态控制中的应用、理论分析仍有待进一步发展。作为参考，这里给出参考文献[1]对机器学习控制(Machine Learning Control)的定义：</p><p>【<b>机器学习控制定义</b>】：机器学习控制是一种<b>使用机器学习算法来学习有效控制率</b>的概念，该概念用来因应难以或不可能(对要处理复杂控制任务的系统)进行建模的场合。</p><p>       在该定义中，机器学习控制也是针对基于模型的控制方法无法应用的场合，以已经存在的有效控制率为学习对象或内容。然而关键性的问题正是面临复杂控制任务时，如何设计这一有效控制率以保证系统正常运转，并提供机器学习所需要的足够数据。参考文献[1]给出了这样的例子：在受控/训练环境下，用动作捕捉系统准确获知无人机位置，并根据位置信息通过模型预测控制器准确控制无人机避障，然后使用强化学习对模型预测控制器进行学习；在测试环境中，撤掉动作捕捉系统(只有机载传感器)，利用已经训练好的深度神经网络来控制无人机运动。这里实际利用了深度神经网络强大的拟合和泛化能力，使得控制系统面临未知新情况也能进行有效控制。按照参考文献[2]对数据驱动控制的定义，深度神经网络作为控制器虽然使用了离线数据进行训练，但该训练数据从模型预测控制而来，仍然显式地使用了被控对象模型信息，并不严格属于数据驱动控制的范畴。实际上，在深度学习取得重要进展的领域(如计算机视觉、自然语言处理等)中，所针对的系统已经独立自主地运行，而且存在着大批量相对容易获取的‘场域’数据。对于工业自动化系统来说，如何对被控对象进行有效动态控制以保证其良好运转已经是一项艰巨的任务；加之数据大多为小批量、单点的数据，某些场景下甚至无法安装传感器获取数据，如何提供足够数据保证深度学习的训练效果以用于动态控制又是另一项重大课题。因此，如何将以各类机器/深度学习算法和动态控制具体需求相结合，是一个开放性问题，需要不断进行探索和研究。针对工业自动化系统的特点，应该开发适用于工业自动化场合的数据驱动控制方法。除已经在前面文章介绍的PID，ILC，MFAC，去伪控制(unfalsified control)、懒惰学习(lazy learning)、迭代反馈调节(iterative feedback tuning)等其它数据驱动控制方法也取得重要研究进展并得到了实际应用，会在后续文章中逐一进行介绍。</p><p><b>                                                               总结</b></p><p>  回到最开始的问题，在选择控制方法时应该清醒地意识到：没有一类控制方法能够适用于所有应用场合，各类控制方法的优缺点也是相对应用场景来说的；不应存在对某一类控制方法的偏执，控制算法的设计应该建立在对被控对象和应用场景的深入理解和把握的基础上。如图3(a)所示，参考文献[2]给出了一种根据被控对象建模情况选用控制方法的方式：对于能够建立精确模型的被控对象，应该优先使用基于模型的控制方法(考虑到该方法能够实现对被控对象的最优控制)；对于被控对象模型不太精确且有不确定性的情况，既可选用各种鲁棒、自适应控制，也可选择数据驱动控制方法；对于基于模型的控制力有不逮的场合则选择数据驱动控制方法。从另一个层面来说，为达到最佳的控制效果，两种控制方法也可根据各自优势结合使用，形成各种<b>混合控制方法。</b>例如：在基于模型的控制方法中利用数据驱动方法处理难以建模部分或未知干扰(利用神经网络拟合能力)以提高鲁棒性或者在线调节基于模型的控制器；在数据驱动控制方法中利用机理模型提供有用信息、数据给数据驱动控制器、或修正数据驱动控制器给出的控制指令。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-9aebb5d630965ff0a27b74b9adc030c8_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1035\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-9aebb5d630965ff0a27b74b9adc030c8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1035&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1035\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-9aebb5d630965ff0a27b74b9adc030c8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9aebb5d630965ff0a27b74b9adc030c8_b.jpg\"/><figcaption>图3. 控制方法总结[2]</figcaption></figure><p>         综上，基于模型和数据驱动控制方法不是互相排斥‘or’的关系，而是互为补充‘and’的关系，两者结合构成了整个动态控制方法体系，如图3(b)所示。<br/></p><p><b>【参考文献】</b></p><p>[1]. S.Moe, Rustad A M, Hanssen K G. &#34;Machine learning in control systems: Anoverview of the state of the art.&#34;International Conference on Innovative Techniques and Applications of Artificial Intelligence. Springer,Cham, 2018: 250-265.</p><p>[2]. Zhong-Sheng Hou and Zhuo Wang. &#34;From model-based control to data-driven control: Survey, classification and perspective.&#34; <i>Information Sciences</i> 2013, vol. 235, pp.3-35.</p><p>【备注】个人公众号定期更新传感、执行及控制方面的机电和自动化研究进展，欢迎关注！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d8491136ecc62309625142dabccbaee2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"129\" data-rawheight=\"129\" class=\"content_image\" width=\"129\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;129&#39; height=&#39;129&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"129\" data-rawheight=\"129\" class=\"content_image lazy\" width=\"129\" data-actualsrc=\"https://pic3.zhimg.com/v2-d8491136ecc62309625142dabccbaee2_b.jpg\"/></figure>", 
+            "topic": [
+                {
+                    "tag": "控制算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19685125"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19553510"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "苏大大", 
+                    "userLink": "https://www.zhihu.com/people/8b0e3bf84b534c639f2076301fe57578", 
+                    "content": "<p>前辈您好。想请教，数据驱动建模相关，有没有书籍或论文可以推荐的？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "stone", 
+                            "userLink": "https://www.zhihu.com/people/2f061d00ae82899683c2139b8c638432", 
+                            "content": "目前方法和思路很多，还没成体系的，所以也是借着专栏文章慢慢总结", 
+                            "likes": 0, 
+                            "replyToAuthor": "苏大大"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/85234985", 
+            "userName": "stone", 
+            "userLink": "https://www.zhihu.com/people/2f061d00ae82899683c2139b8c638432", 
+            "upvote": 7, 
+            "title": "控制算法手记-无模型自适应控制", 
+            "content": "<p>       如何在不依赖被控系统机理模型的前提下，充分利用系统输入输出数据完成对底层控制系统有效乃至最优的控制？这是摆在数据驱动控制（Data-driven Control）算法的面前一个基础问题。传统PID在闭环控制的框架下根据当前时刻和相邻时刻偏差的线性组合计算出控制指令；而迭代学习控制在预设同样工况下重复执行同样任务的基础上，通过系统、深入（以至冗余）地利用历史控制输入和偏差信息直接计算控制指令，以实现在未来迭代步中对动态参考输入的完美跟随。然而，实际被控系统的动力学行为要丰富得多：PID在面临被控系统结构/参数变化时，对系统输入输出数据利用不足；迭代学习控制的预设前提则显然和‘系统结构/参数变化’这一实际工况相抵触。人们期望找到一种既能充分利用输入/输出数据、又能摆脱相对严苛的预设前提的数据驱动控制方法以自动适应变化的工况，进而完成对自动化系统的有效控制。无模型自适应控制（Model-Free Adaptive Control）提供了解答这类问题的思路。</p><p><b>                                                             自适应控制</b></p><p>        从字面意义上理解，自适应这一概念可以表述为某一主体能够根据环境变化自动做出调整以适应新的、变化了的环境。这一描述至少包含两方面的内容：变化的环境是未知的或无法提前预测，需要相关机制去反映或描述这种变化；针对具体变化情况设计处理或响应机制以保证系统在变化的环境中能够保持一致甚至最优的性能。具体到自适应控制算法，以上内容则表现为参数辨识（Parameter identification）以获得变化信息和针对变化信息的响应处理机制--控制器（Controller）。如图1(a)所示，参数辨识方法、控制器以及两者之间的联结方式构成了自适应控制算法的核心。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ea4edb25d2b1adf8a6eef374184c3a7d_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"922\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-ea4edb25d2b1adf8a6eef374184c3a7d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;922&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"922\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-ea4edb25d2b1adf8a6eef374184c3a7d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ea4edb25d2b1adf8a6eef374184c3a7d_b.jpg\"/><figcaption>图1 自适应控制系统</figcaption></figure><p><b>                                            基于模型</b> <b>vs 无模型 自适应控制</b></p><p>         如图1(b, c)所示，根据在算法中是否引入被控系统机理模型，可将自适应控制算法粗略地分为<u>基于模型的自适应控制</u>和<u>无模型自适应控制</u>两类。基于模型的自适应控制从被控系统（Plant）的机理模型(physics/chemicals-based)出发，推导出参数解析模型（parametric analytical model）以显性描述机理模型中待辨识参数矢量<b>θ</b>与系统输入/输出数据之间的关系；然后结合被控系统实际输入输出数据通过相关优化算法进行参数辨识（优化目标函数为最小化辨识误差，根据情况可以兼顾辨识动态）；最后将辨识好的参数矢量<b>θ</b>和控制器<b>u=C(θ,<i>t</i>)</b>以一定方式结合计算出系统控制指令<b>u</b>，其中控制器的设计和运算也利用到从机理模型中得到的信息。总体来看，基于模型的自适应控制是在被控对象机理模型架构下、通过对机理模型中的参数辨识实现局部调整以适应变化，并不涉及模型整体架构的变动，在实际应用中体现出以下特性：-自适应控制性能高度依赖于模型的准确性，鲁棒性较差。实际应用中，微小的未建模动态和未知外部干扰等因素就会导致自适应控制系统失稳，限制了其在工业自动化控制中的应用。为保证控制性能，一般还需进行鲁棒性方面的设计；-自适应控制效果取决于对机理模型中参数的辨识准确性和快速性，对于强时变非线性系统或病态逆问题(ill-possessed inverse problem)，实现快速准确参数辨识难度加大，削弱了自适应控制在这些场合的应用。事实上，基于模型的自适应控制最初主要针对时不变/慢变线性系统，且需要相应激励以保证参数辨识的性能；-当被控系统较为复杂时，描述其动力学特性的机理模型、参数辨识和控制器复杂度也随之升高，增大了参数辨识、控制器和鲁棒性设计和调试所需用的时间，也对控制器硬件运算能力提出了更高要求。</p><p>       无模型自适应控制在保持自适应能力的基础上通过数据驱动方法克服了基于模型的自适应控制的不足，如图1(c)所示。其中，<u>动态线性化数据模型(</u>Dynamic Linearization Data Model)[1]取代了基于模型的自适应控制中系统机理模型和参数解析模型，奠定了无模型自适应控制系统的基础。围绕<b>数据模型</b>和<b>动态线性化</b>，动态线性化数据模型在无模型自适应控制中作用解释如下：</p><p>- 从<b>数据模型</b>角度来说，无模型自适应控制主要指在自适应控制中并不需要（被控系统机理模型和参数解析模型）就可以进行控制系统的设计、分析和运算。然而，作为一种数据驱动控制方法，无模型自适应控制需要对系统输入输出数据进行有效组织和整理，从中挖掘出有效信息并根据该信息计算控制指令。这里系统数据的组织整理形式即表现为数据模型。因此，在无模型自适应控制中，需要数据模型这一数据组织形式以描述系统可用数据之间的联系，为控制器的设计奠定基础；</p><p>- 从<b>动态线性化</b>角度来说，系统输入增量数据∆<b>u</b>和输出增量数据∆<b>y</b>以动态（时变、随工作点变化）、线性的关系建立联系，并以这种联系近似描述系统的非线性、时变的动力学特性。不同于非线性控制中通过反馈线性化（feedback linearization）或者泰勒级数线性化（在系统工作点附近）得到机理模型后再进行控制器的设计和运算，动态线性化用输入输出增量数据的线性联结形式以直接近似描述系统动态，并通过对线性化系数Φ的在线辨识使得算法具备了感知系统整体变化的能力。这种简单的形式虽然不具备明确的物理意义，但却以控制器设计为导向，避免了自适应控制器设计和运行过程中复杂的数学推导和运算。取决于被控系统的工作特性，线性化系数Φ不仅可以包含（历史输入增量数据）和（当前时刻输出增量数据）之间的动态关系，还可以包含（历史输出增量数据）和（当前时刻输出增量数据）之间的联系，这给予了控制器在运算量和控制 效果之间调节的灵活性。</p><p>根据图1(c)，确定动态线性化数据模型后，便可通过类似于图1(b)中的参数辨识方法得到线性化系数Φ；后基于辨识的参数Φ并利用相关优化算法（目标函数为系统跟随误差，同时也可兼顾控制指令的瞬态行为）计算出控制指令<b>u</b>。</p><p><b>                                                              总结</b>    </p><p>      作为一种具备自适应能力的数据驱动控制方法，无模型自适应控制的特点可以从自适应控制和数据驱动控制方法两个维度进行评价：</p><p>-从<b><u>自适应控制</u></b>的角度来说，考虑到系统实际输入输出数据本身已经蕴含了丰富的系统动力学信息（包含未建模动态、系统未知干扰等），无模型自适应控制通过动态线性数据模型和对系统输入输出数据的直接利用，克服了基于模型的自适应控制对系统机理模型的高度依赖和由此带来的鲁棒性差、参数辨识机制复杂、控制器设计困难等不足。另一方面，无模型自适应控制参数辨识的是动态线性化数据模型中的线性系数，该系数近似描述了整个被控系统的动力学行为，因此对于变结构的被控系统，无模型自适应控制仍然具备很强的鲁棒性和自适应性。</p><p>-从<b><u>数据驱动控制</u></b>的角度来说，无模型自适应控制通过动态线性数据模型将系统输入/输出（包含当前和历史）数据有效整合起来以近似描述系统的动力学特性（时变、非线性或变结构），后基于该数据模型和相应的<u>优化</u>算法计算出控制指令，充分利用了系统可用数据并实现了对底层控制系统的有效控制；无模型自适应控制作为一种强大的具备自适应能力的数据驱动控制方法，从1994年由北京交通大学侯忠生教授在其博士论文中首次提出以来，理论体系（如鲁棒性分析、误差单调收敛条件以及和其它控制算法的结合等）得到了不断发展完善，在直线电机、注塑机、焊接过程、船舶防摇等控制系统上得到了成功应用[1]。值得注意的是，无模型自适应控制中，动态线性数据模型仅仅建立起了系统输入输出数据之间的联系，并不具备明确的物理意义，无法根据该模型对被控系统动力学行为进行预测和分析。同时，由于高度依赖系统输入输出数据，对于系统干扰和测量噪声存在的场合，也需要对无模型自适应控制进行相应的鲁棒性设计和稳定性分析，以保证其控制性能。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>参考文献</b>：</p><p>[1] Zhongsheng Hou and Shangtai Jin. Model free adaptive control: theory and applications [M]. CRC press, 2013.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>【备注】个人公众号定期更新传感、执行及控制方面的机电和自动化研究进展，欢迎关注！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d8491136ecc62309625142dabccbaee2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"129\" data-rawheight=\"129\" class=\"content_image\" width=\"129\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;129&#39; height=&#39;129&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"129\" data-rawheight=\"129\" class=\"content_image lazy\" width=\"129\" data-actualsrc=\"https://pic3.zhimg.com/v2-d8491136ecc62309625142dabccbaee2_b.jpg\"/></figure>", 
+            "topic": [
+                {
+                    "tag": "控制算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19685125"
+                }, 
+                {
+                    "tag": "控制系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19589887"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "爬行者", 
+                    "userLink": "https://www.zhihu.com/people/d537bf337a32d0b03266d9baf15d712f", 
+                    "content": "<p>你是候老师的学生？</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "stone", 
+                            "userLink": "https://www.zhihu.com/people/2f061d00ae82899683c2139b8c638432", 
+                            "content": "不是", 
+                            "likes": 0, 
+                            "replyToAuthor": "爬行者"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/85234453", 
+            "userName": "stone", 
+            "userLink": "https://www.zhihu.com/people/2f061d00ae82899683c2139b8c638432", 
+            "upvote": 3, 
+            "title": "控制算法手记-迭代学习控制", 
+            "content": "<p>   ‘任何事情，重复做一万次，你也会成为专家。’ 这并不是鸡汤，而是一类重要的数据驱动控制方法-迭代学习控制ILC（Iterative Learning Control）背后的基本思路。重复并不意味着完全和以前一样，而是每次都能从之前的经验中学习并改进，循序渐进，臻于完美。在工业自动化中，存在着在<b><u>同样的条件下重复执行同一个任务</u></b>的场合（如机器臂重复定位-抓取，晶圆运动平台、数控加工中心、注塑机压力控制、电机控制等），为迭代学习控制的应用提供了可能。</p><p><b>                                                           从历史偏差中学习</b></p><p><br/>       对于人类来说，从过往偏差/错误中学习是掌握并习得新技能的好方法；然而，控制算法并不总是这样。一种经常的情况是，由于外部未知周期性/重复干扰以及模型不确定性等因素的存在，控制系统实际输出和目标输出会出现偏差，且反复出现。干扰信息未知或者无法测量，也就无从在算法中通过前馈控制器予以补偿；反馈控制器（如PID）闭环补偿则会带来滞后；鲁棒控制算法（Robust controller）则只保证干扰带来的影响在一定范围内。考虑历史偏差信息中隐含着丰富的系统信息以及<u>同样的条件下重复执行同一个任务</u>的系统工作特点，控制算法应能够有效利用历史信息<u>直接计算出</u>（不是通过相关物理机理模型或者自适应控制器）当前时刻的<u>控制输入</u>以排除未知重复性干扰影响，进而保证系统输出性能。从这种意义上来说，迭代学习控制本质上是一种根据系统历史输入输出数据、预测外界干扰并提前做出补偿的开环控制器。<b>学习框架</b><br/>   如何从历史信息中学习并达到好的效果? 从身为智能体的人类此类学习经验来说，可能会存在着学习失败、缓慢、状态不稳定、效果不佳等问题。同样地，控制算法也可能会犯类似的错误。因此，算法工程师需要在理解迭代学习机理/框架的基础上，根据实际应用场合来设计算法，以最大限度地发挥迭代学习控制的优势。  <br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-a85fa28802759dd67746e88355e959d0_b.jpg\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"543\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-a85fa28802759dd67746e88355e959d0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;543&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"543\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-a85fa28802759dd67746e88355e959d0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a85fa28802759dd67746e88355e959d0_b.jpg\"/><figcaption> 图1. 迭代学习控制结构图[1]</figcaption></figure><p>        一种常见的迭代学习控制框架如图1所示，图中迭代步数（0,...<i>j</i>,...）为系统当前重复次数，每个重复周期/迭代步数被分割成有限个采样点（1,...<i>k</i>,..<i>N</i>）。迭代学习算法将前一个迭代步 (<i>j</i>-1)的偏差送入学习函数<i>L</i>进行处理，和前一个迭代步(<i>j</i>-1) 控制指令相加后生成当前迭代步<i>j</i>控制指令。即系统当前控制指令是在之前迭代步控制指令的基础上，根据相应的偏差做出调整得到：如果以前迭代步中的控制指令已经能达到相对较好的效果（产生的偏差较小），那么当前控制指令只需在以前的基础上微调；如果以前迭代步中的控制效果不好（产生的偏差较大），当前控制指令则需要做出相对较大的调整；学习函数<i>L</i>规定了历史偏差信息能在多大程度上、以什么方式（如偏差每次放大多少倍？利用了多少时刻的偏差信息以及之间如何组合？）被当前控制指令利用，因此决定了迭代学习算法的收敛速度和实时学习效果（如偏差是否随迭代次数增大单调递减、以什么样的速度递减、是否产生瞬时过大的控制指令、最终是否能实现零误差跟随），是迭代学习算法设计的关键。图1中滤波函数<i>Q</i>一般为1，此时根据历史控制指令和对应偏差信息计算出来的当前控制指令直接送入被控对象<i>P</i>中，历史信息被完全利用，因此当系统满足一定条件时，随着迭代步数的增大，控制输出可以完美跟踪参考轨迹。然而，对于具有高频不确定性或未知非周期性干扰的被控系统来说，历史信息可能隐含着随机误差被代入到下一个迭代步的控制中，导致被控系统不稳定或振荡，此时滤波函数<i>Q</i>可以设计成低通或带通滤波器，以保证系统的鲁棒性和稳定性；但由于未完全利用历史信息，会牺牲掉部分学习速度和最终学习效果（如系统不能完美跟踪参考输入）。因此，滤波器<i>Q</i>的设计需要综合权衡系统稳定性、鲁棒性、实时学习性能和最终控制精度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>                                                                 总结</b></p><p><br/>        不同于PID控制器在反馈控制的框架中利用当前及相邻时刻偏差信息计算控制指令，迭代学习控制可以利用一个多个历史迭代步（<i>j</i>-1，<i>j</i>-2…）中‘未来时刻’（<i>k</i>+1, <i>k</i>+2…）的偏差信息来计算当前迭代步<i>j</i>中<i>k</i>时刻的控制指令。这种区别使得迭代学习控制跳出了反馈控制的框架，能够对某种有规律的干扰或不确定性进行提前补偿，从而在某些方面有效的克服了PID控制器的不足，自从上世纪七八十年代被提出以来，得到了广泛研究和实际应用[1][2]。然而对于并不严格满足<b><u>同样条件下重复执行同一个任务</u></b>的应用场合，或者存在非重复性、随机干扰/噪声或复杂非线性系统，迭代学习控制作为一种开环控制架构并不具备相关反馈及参数辨识机制来处理这些问题。此时，迭代学习控制需要和其他反馈、鲁棒或者自适应控制框架等进行融合以达到理想控制效果。 </p><p><br/><b>参考文献</b>：</p><p><br/>[1] D. A.Bristow , M. Tharayil and A. G. Alleyne. A survey of iterative learning control. IEEE Control Systems Magazine,2006, 26(3):0-114.<br/>[2] Jian-XinXu. A survey on iterative learning control for nonlinear systems. International Journal of Control, 2011, 84(7):1275-1294.<br/></p><p>【备注】个人公众号定期更新传感、执行及控制方面的机电和自动化研究进展，欢迎关注！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d8491136ecc62309625142dabccbaee2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"129\" data-rawheight=\"129\" class=\"content_image\" width=\"129\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;129&#39; height=&#39;129&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"129\" data-rawheight=\"129\" class=\"content_image lazy\" width=\"129\" data-actualsrc=\"https://pic3.zhimg.com/v2-d8491136ecc62309625142dabccbaee2_b.jpg\"/></figure><br/><p><br/> </p>", 
+            "topic": [
+                {
+                    "tag": "控制算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19685125"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/85233678", 
+            "userName": "stone", 
+            "userLink": "https://www.zhihu.com/people/2f061d00ae82899683c2139b8c638432", 
+            "upvote": 11, 
+            "title": "控制算法手记-PID控制器", 
+            "content": "<p>      工业自动化控制中，通常面临着一类问题：对于给定的参考输入或者控制目标（假设参考输入已知，求解参考输入的规划问题另外单独讨论），如何设计控制器使得被控对象的输出自动跟随参考输入。取决于被控对象，参考输入或控制目标可能是使机器运动到某一位置或以某一轨迹运动、输出特定的力/力矩或者某个部位达到设定温度等；如图1所示，典型工业自动控制系统一般由控制器（硬件及算法）、被控对象以及传感器等组成，其中传感器将感知到的被控对象状态输入到控制器，以便控制器根据系统当前状态调整控制指令。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-088452fe804bddcfc9d6c89f624f5905_b.jpg\" data-size=\"normal\" data-rawwidth=\"2415\" data-rawheight=\"700\" class=\"origin_image zh-lightbox-thumb\" width=\"2415\" data-original=\"https://pic2.zhimg.com/v2-088452fe804bddcfc9d6c89f624f5905_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2415&#39; height=&#39;700&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"2415\" data-rawheight=\"700\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2415\" data-original=\"https://pic2.zhimg.com/v2-088452fe804bddcfc9d6c89f624f5905_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-088452fe804bddcfc9d6c89f624f5905_b.jpg\"/><figcaption>图1 典型工业自动控制系统架构</figcaption></figure><p>       遗憾的是，<b>没有通用的控制算法能够处理所有控制问题</b>。在设计控制算法之前，算法工程师需要充分了解并系统评估控制系统本身的特性，包括被控对象是一类什么系统、是否容易建立数学模型描述被控对象行为、模型参数是否容易辨识、外部干扰是否确定、系统状态是否可用传感器测量、传感器信号如何处理以提取有用信息、控制器硬件运算能力等等。以上特性的评估能够帮助工程师做出合理的决策，根据不同应用情景有针对性地设计控制算法。</p><p><b>PID控制器-成功背后的秘诀</b></p><p>   PID控制器是一类在工业自动化控制中应用最广泛的控制器。它简单有效可靠，这和工业场合对控制算法的要求不谋而和。它只包含三个设计参数（比例系数P、积分系数I、微分系数D）或者更少，在低成本低性能的控制器硬件上也能运行良好，不需对整个控制系统进行建模仿真在现场就能调试设计这几个参数。成功的秘诀为：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>PID控制器是一种根据偏差(参考输入减去实际输出)来计算控制指令的控制器</b>；<b>PID</b>控制器里的（P、I、D）分别对偏差值进行比例缩放、积分和微分，然后再进行求和，得到控制指令。这种控制指令的计算方法蕴含着朴素而直接的想法，能够适用于大多数应用场合。以日常生活中调节淋浴水温为例进行说明：P的调节机理是如果水温过高，就立即按照一定比例系数增大冷水阀门开度或减小热水阀门开度，P值越大，阀门调节开度越大，越快达到舒适温度，但会导致水温在某时间段内过热或过冷，还要反复几次才能达到合适水温；I和D调节机理则考虑了温度偏差值随时间变化的过程，根据温度累积偏差值（积分I）或者偏差值变化快慢（微分<b>D</b>）才调节阀门开度，使得这种调节过程更为精细；P、I、D的协同作用时，兼顾了快速、精确和稳定的需求，使得运转良好的自动控制系统成为可能。</p><p><b>PID控制器是一种最简单的数据驱动控制器，即控制器的实际运算完全基于输入到控制器的数据，没有用到任何系统模型的信息。</b>具体来说：控制器输入为偏差值，由系统参考输入和实际测到的输出数据得来；控制器里的参数（P、I、D）也并不包含被控对象模型或参数。本科课程里，涉及到了伯德图、根轨迹法（RootLocus）和Nyquist曲线等基于被控对象模型的方法来设计PID参数，使人容易误认为PID是一种基于物理模型的控制器。然而必须注意到PID参数的确定虽然可以根据系统模型确定（也可以在不需要或不依赖系统模型的情况下现场调定），但控制器本身和被控对象并没有直接关系。正是由于不依赖控制对象模型的特点，使得在模型参数或系统模型发生变化，PID控制器仍能够维持可以接受的性能，即PID控制器具有一定的鲁棒性。</p><p><b>                                                      限制与不足</b></p><p>  PID控制器的成功来源于其有效综合了基于偏差控制和数据驱动的特点，然而在一些场合也成为限制其性能的桎梏：</p><p>- PID控制器预设系统输出能够通过传感器实时在线测量，然而在实际工业场合中并不   能总是得到满足；</p><p>- PID控制器的思路是先产生偏差后有控制输出，这就意味着控制器即使能够提前获知   系统变化也不能及时做出调整，而是必须要等到变化发生后影响到系统输出再做出调   整，这损害了系统的实时响应能力；</p><p>- PID控制器无法有效处理强耦合、非线性或控制输入约束的情况；当系统内部复杂的   互相作用成为主导因素后，仅仅依靠输入输出数据的PID控制器便不具备与所要解决   问题相匹配的结构复杂度，控制器需要引入更多的数据或模型信息。</p><p>    回到开始，没有通用的控制器能够处理所有被控对象的控制问题，是被控对象本身的特性决定了哪类控制器适用。即使应用广泛如PID控制器也面临着一系列不足，那么算法工程师该如何因地制宜，去设计更好的控制器以满足不同应用情景的需要呢？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>【备注】个人公众号定期更新传感、执行及控制方面的机电和自动化研究进展，欢迎关注！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d8491136ecc62309625142dabccbaee2_b.png\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"129\" data-rawheight=\"129\" class=\"content_image\" width=\"129\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;129&#39; height=&#39;129&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"129\" data-rawheight=\"129\" class=\"content_image lazy\" width=\"129\" data-actualsrc=\"https://pic3.zhimg.com/v2-d8491136ecc62309625142dabccbaee2_b.png\"/></figure><p><br/> </p>", 
+            "topic": [
+                {
+                    "tag": "控制算法", 
+                    "tagLink": "https://api.zhihu.com/topics/19685125"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "PID Controller PID控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20032309"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1163729785485828096"
+}

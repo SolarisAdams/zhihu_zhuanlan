@@ -1,0 +1,130 @@
+{
+    "title": "破晓的读书小屋", 
+    "description": "Notes about robotics and control theory; Book and paper review;", 
+    "followers": [
+        "https://www.zhihu.com/people/john-75-46", 
+        "https://www.zhihu.com/people/ysgc", 
+        "https://www.zhihu.com/people/wei-wei-1-60", 
+        "https://www.zhihu.com/people/allen-70-38", 
+        "https://www.zhihu.com/people/yeu-yang", 
+        "https://www.zhihu.com/people/rui-jia-33-6", 
+        "https://www.zhihu.com/people/liu-kang-zhu-72", 
+        "https://www.zhihu.com/people/zhang-chen-74-99", 
+        "https://www.zhihu.com/people/zi-qiao-35", 
+        "https://www.zhihu.com/people/li-xin-95-42-23", 
+        "https://www.zhihu.com/people/chen-chuang-rong-61", 
+        "https://www.zhihu.com/people/shuang-kong-xiao-hun-dun", 
+        "https://www.zhihu.com/people/lewislu"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/54121830", 
+            "userName": "破晓", 
+            "userLink": "https://www.zhihu.com/people/e4610afdcfcdcb7289ada1d6aa65aacf", 
+            "upvote": 15, 
+            "title": "关于Flatness的充要性", 
+            "content": "<p>我自己做几何控制的时候，有时候会遇到需要运用differential flatness的地方。然而说老实话，我一直对于这个性质是只知其然而不知其所以然，至于如何判断一个动力学系统是否differentially flat，则是更加毫无头绪。前几天跟R. Murray讨论了这个问题，他给推荐一篇很数学的Journal，在此与大家分享：</p><p><a href=\"https://link.zhihu.com/?target=https%3A//link.springer.com/article/10.1007/s00200-010-0137-x\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">On necessary and sufficient conditions for differential flatness</a></p><p>文章的主要观点之一就是“flatness is equivalent to the strong closedness of the ideal of 1-forms representing the differentials of all possible trivializations, using an approach which is invariant by endogeneous dynamic feedback.”</p><p>结论很有趣，证明非常繁琐，文末倒是有几个比较直接的例子可以参考。总体来说是一个非常fancy的结论，不知道广大做Control的人士有没有看过这篇文章。</p>", 
+            "topic": [
+                {
+                    "tag": "非线性控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20026567"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "YY硕", 
+                    "userLink": "https://www.zhihu.com/people/13d36f4d156f77e009c117b6021703e7", 
+                    "content": "能和R Murray讨论问题...膜拜大佬", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "枕月", 
+                            "userLink": "https://www.zhihu.com/people/a19fa65c2bdae778e29b485eceab0887", 
+                            "content": "<p>羡慕ls</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "YY硕"
+                        }, 
+                        {
+                            "userName": "破晓", 
+                            "userLink": "https://www.zhihu.com/people/e4610afdcfcdcb7289ada1d6aa65aacf", 
+                            "content": "RI大佬你好😂", 
+                            "likes": 0, 
+                            "replyToAuthor": "YY硕"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "枕月", 
+                    "userLink": "https://www.zhihu.com/people/a19fa65c2bdae778e29b485eceab0887", 
+                    "content": "<p>我正在写微分平坦的科普文。过几天发布一下</p>", 
+                    "likes": 4, 
+                    "childComments": [
+                        {
+                            "userName": "李涵", 
+                            "userLink": "https://www.zhihu.com/people/a2438afd650a2c7f7d5906bb618b77d0", 
+                            "content": "<p>需要被科普</p><p><br></p><a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-ba306425d0a7aee2c7260381f1bf7b97.gif\" data-width=\"\" data-height=\"\">[欢呼]</a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "枕月"
+                        }, 
+                        {
+                            "userName": "faithans", 
+                            "userLink": "https://www.zhihu.com/people/3ec0a060bba25d88aaf5103fbf542add", 
+                            "content": "<p>文章出來的時候想拜讀一下</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "枕月"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "jimcarrie", 
+                    "userLink": "https://www.zhihu.com/people/efdb15e586940a6f9a3230d4cfebf4d6", 
+                    "content": "<p>目前为止，非线性系统的differential flatness的判定还没有一般方法，我和ROUCHON，RESPONDEK都聊过这篇文章，其结果实际上并没有解决判定问题。MARTIN, MURRAY,ROUCHON 有一篇标题为 Flat systems 的资料，54页，刚入门的朋友可以读一下，比较好懂。牵扯到找充要条件的文献都很数学。 </p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "破晓", 
+                            "userLink": "https://www.zhihu.com/people/e4610afdcfcdcb7289ada1d6aa65aacf", 
+                            "content": "确实没有一般方法，毕竟这个他文中给出的这个criterion很难判断。", 
+                            "likes": 0, 
+                            "replyToAuthor": "jimcarrie"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "三脚猫Frank", 
+                    "userLink": "https://www.zhihu.com/people/0bcf10993c14c5406dd55aedc804fe9c", 
+                    "content": "理解flatness和Liebacklund Transform的基础数学知识比较多。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "三脚猫Frank", 
+                    "userLink": "https://www.zhihu.com/people/0bcf10993c14c5406dd55aedc804fe9c", 
+                    "content": "Jean Levine有本nonlinear system analysis，具体书名好像是这个吧，是了解flatness的比较不错的书，就是需要一定时间的研究。我个人以为在模型带有不确定性的情况下，基本没有几个系统能真正flat，在已知信息的情况下，寻找合适输出来寻求最大能力的控制就行了，能不能找到flat output不好说。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "破晓", 
+                            "userLink": "https://www.zhihu.com/people/e4610afdcfcdcb7289ada1d6aa65aacf", 
+                            "content": "现阶段稳定找出flat outputs是一个还未解决的问题", 
+                            "likes": 0, 
+                            "replyToAuthor": "三脚猫Frank"
+                        }, 
+                        {
+                            "userName": "三脚猫Frank", 
+                            "userLink": "https://www.zhihu.com/people/0bcf10993c14c5406dd55aedc804fe9c", 
+                            "content": "是的。我有在写关于这个的，如果能发出去可以交流一下。", 
+                            "likes": 0, 
+                            "replyToAuthor": "破晓"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1035215683210182656"
+}

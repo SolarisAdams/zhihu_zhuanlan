@@ -1,0 +1,513 @@
+{
+    "title": "Isidori非线性控制 & 几何控制 杂记", 
+    "description": "国内目前似乎尚未有较为初等的介绍几何控制的书籍，而国外有Francesco Bullo 所著 Geometric Control of Mechanical Systems一书流行。我本人是几何控制的业余爱好者，本着交流、学习的态度将看书过程中的一些思考写下来帖于此处，并将作为一长期目标。须知，专栏内容绝非单纯之翻译，看官对比之后便知。由于本人才疏学浅，错误在所难免，还望各位同行不吝赐教！", 
+    "followers": [
+        "https://www.zhihu.com/people/hao-hao-kao-shi-15", 
+        "https://www.zhihu.com/people/he-zheng-e", 
+        "https://www.zhihu.com/people/ye-he-zhu-xian-yun", 
+        "https://www.zhihu.com/people/zi-fei-yu-76-10", 
+        "https://www.zhihu.com/people/jmo-li", 
+        "https://www.zhihu.com/people/liao-jin-yun", 
+        "https://www.zhihu.com/people/jxy-68-68", 
+        "https://www.zhihu.com/people/atubo-65-99", 
+        "https://www.zhihu.com/people/shi-zhi-dong-35-41", 
+        "https://www.zhihu.com/people/zhang-xuan-chen-76", 
+        "https://www.zhihu.com/people/captainfuture", 
+        "https://www.zhihu.com/people/wu-shi-zhen-14", 
+        "https://www.zhihu.com/people/li-ling-12-18-63", 
+        "https://www.zhihu.com/people/relmaning-96", 
+        "https://www.zhihu.com/people/liu-lei-3-45", 
+        "https://www.zhihu.com/people/asns", 
+        "https://www.zhihu.com/people/dui-cuo-jie-hao-e", 
+        "https://www.zhihu.com/people/pi-pi-97-81-93", 
+        "https://www.zhihu.com/people/linj-li", 
+        "https://www.zhihu.com/people/xiao-bo-xiao-bo-66", 
+        "https://www.zhihu.com/people/wang-xiao-liang-76-9", 
+        "https://www.zhihu.com/people/hitiant", 
+        "https://www.zhihu.com/people/suyang-34-4", 
+        "https://www.zhihu.com/people/wjxjmj", 
+        "https://www.zhihu.com/people/chi-ye-zhen-ai-dang", 
+        "https://www.zhihu.com/people/KungCheng20160413", 
+        "https://www.zhihu.com/people/tong-gou", 
+        "https://www.zhihu.com/people/liu-zi-mao", 
+        "https://www.zhihu.com/people/KaixiangWang", 
+        "https://www.zhihu.com/people/byte-41", 
+        "https://www.zhihu.com/people/chi-ting-yun-64", 
+        "https://www.zhihu.com/people/wgw0415", 
+        "https://www.zhihu.com/people/feng-zhong-sheng-67", 
+        "https://www.zhihu.com/people/MuhongGuo", 
+        "https://www.zhihu.com/people/xingfu-51", 
+        "https://www.zhihu.com/people/li-yi-heng-60-80", 
+        "https://www.zhihu.com/people/yan-bing-qing-90", 
+        "https://www.zhihu.com/people/dong-shui-57-41", 
+        "https://www.zhihu.com/people/wang-da-sheng-94", 
+        "https://www.zhihu.com/people/zhengguo-83", 
+        "https://www.zhihu.com/people/lidejia1984", 
+        "https://www.zhihu.com/people/SpartanD", 
+        "https://www.zhihu.com/people/jacinto-57", 
+        "https://www.zhihu.com/people/renee-38-47", 
+        "https://www.zhihu.com/people/yan-jia-yuan-49-5", 
+        "https://www.zhihu.com/people/zhang-wen-zhi-46-16", 
+        "https://www.zhihu.com/people/huang-ren-zhi-68", 
+        "https://www.zhihu.com/people/hiking-24", 
+        "https://www.zhihu.com/people/juehui1983", 
+        "https://www.zhihu.com/people/shi-shang-zhu-17", 
+        "https://www.zhihu.com/people/simon-41-16-38", 
+        "https://www.zhihu.com/people/zhenzhong-God", 
+        "https://www.zhihu.com/people/huang-li-gang-63-95", 
+        "https://www.zhihu.com/people/qian-qiu-xue-16", 
+        "https://www.zhihu.com/people/yang-ze-yu-51-53", 
+        "https://www.zhihu.com/people/xiang-zhong-bo", 
+        "https://www.zhihu.com/people/zhengnengliang52690", 
+        "https://www.zhihu.com/people/xue-wu-li-de-cai-ji", 
+        "https://www.zhihu.com/people/tian-tian-85-22-41", 
+        "https://www.zhihu.com/people/powertyuui", 
+        "https://www.zhihu.com/people/wu-yan-62-75", 
+        "https://www.zhihu.com/people/miao-jian-jian", 
+        "https://www.zhihu.com/people/happy-dove", 
+        "https://www.zhihu.com/people/wen-hua-luo-71", 
+        "https://www.zhihu.com/people/howhaw-jocky", 
+        "https://www.zhihu.com/people/zhang-liang-wang-luo", 
+        "https://www.zhihu.com/people/huang-dc-88", 
+        "https://www.zhihu.com/people/ni-pan-rui", 
+        "https://www.zhihu.com/people/zhang-hao-16-36", 
+        "https://www.zhihu.com/people/huang-bo-jun-32", 
+        "https://www.zhihu.com/people/shi-kong-chuan-suo-64", 
+        "https://www.zhihu.com/people/chronaa", 
+        "https://www.zhihu.com/people/gong-qi-jun-21-81", 
+        "https://www.zhihu.com/people/water-pan", 
+        "https://www.zhihu.com/people/chen-jian-yu-36-7", 
+        "https://www.zhihu.com/people/he-si-liang-43", 
+        "https://www.zhihu.com/people/devins", 
+        "https://www.zhihu.com/people/ever-16-68", 
+        "https://www.zhihu.com/people/hai-lan-xin", 
+        "https://www.zhihu.com/people/lao-guo-2-44", 
+        "https://www.zhihu.com/people/mcsfxy", 
+        "https://www.zhihu.com/people/isaac-zst", 
+        "https://www.zhihu.com/people/zhang-chang-song-55", 
+        "https://www.zhihu.com/people/zhang-xin-hao-11", 
+        "https://www.zhihu.com/people/yuan-wei-36-65", 
+        "https://www.zhihu.com/people/le-tian-88-61", 
+        "https://www.zhihu.com/people/MechCD", 
+        "https://www.zhihu.com/people/gu-yu-71-65", 
+        "https://www.zhihu.com/people/tian-chang-di-jiu-63-41", 
+        "https://www.zhihu.com/people/bu-xiang-xue-xi-de-xiao-zha-zha", 
+        "https://www.zhihu.com/people/blu-jim", 
+        "https://www.zhihu.com/people/AI_CONTROL", 
+        "https://www.zhihu.com/people/xue-yi-zhi-yong-66-20", 
+        "https://www.zhihu.com/people/yi-mao-53-7", 
+        "https://www.zhihu.com/people/long-meng-ke", 
+        "https://www.zhihu.com/people/dai-shui-de-feng", 
+        "https://www.zhihu.com/people/yangrong_77", 
+        "https://www.zhihu.com/people/zhang-cong-xi-53", 
+        "https://www.zhihu.com/people/bu-yi-99-43", 
+        "https://www.zhihu.com/people/shi-zu-niao-11-30", 
+        "https://www.zhihu.com/people/yu-yi-90-18", 
+        "https://www.zhihu.com/people/tao-han-47", 
+        "https://www.zhihu.com/people/wu-fang-4-85", 
+        "https://www.zhihu.com/people/zhang-gg-83", 
+        "https://www.zhihu.com/people/hujian1990", 
+        "https://www.zhihu.com/people/shang-ying-zhi-30", 
+        "https://www.zhihu.com/people/luo-di-hu-lu-dong-dong-dong", 
+        "https://www.zhihu.com/people/li-nan-73-55-5", 
+        "https://www.zhihu.com/people/cai-zong-qi-56", 
+        "https://www.zhihu.com/people/gun-lai-gun-qu-21", 
+        "https://www.zhihu.com/people/owen-51-8", 
+        "https://www.zhihu.com/people/cui-yu-kang", 
+        "https://www.zhihu.com/people/tangpeng-98", 
+        "https://www.zhihu.com/people/chang-jiang-san-qiao", 
+        "https://www.zhihu.com/people/cheng-yan-qing-60", 
+        "https://www.zhihu.com/people/dengken145", 
+        "https://www.zhihu.com/people/tian-yi-fei-35", 
+        "https://www.zhihu.com/people/xiezhiije", 
+        "https://www.zhihu.com/people/tian-ming-di", 
+        "https://www.zhihu.com/people/huang-wei-sheng-4", 
+        "https://www.zhihu.com/people/ju-zi-pi-92-44", 
+        "https://www.zhihu.com/people/hu-xiao-ai-65-43", 
+        "https://www.zhihu.com/people/tairan-liu-62", 
+        "https://www.zhihu.com/people/ma-ke-si-84-17", 
+        "https://www.zhihu.com/people/chen-zhu-ren-3-32", 
+        "https://www.zhihu.com/people/tian-cai-mo-mo-mo", 
+        "https://www.zhihu.com/people/lyc4081", 
+        "https://www.zhihu.com/people/zachary", 
+        "https://www.zhihu.com/people/garyye-39", 
+        "https://www.zhihu.com/people/ying-le-49-89", 
+        "https://www.zhihu.com/people/IBOV", 
+        "https://www.zhihu.com/people/zhi-liao-69-88", 
+        "https://www.zhihu.com/people/jiang-jiang-41-58-58", 
+        "https://www.zhihu.com/people/wen-hao-wei-61", 
+        "https://www.zhihu.com/people/bei-ji-sen-lin-xiang", 
+        "https://www.zhihu.com/people/chi-zhen-xiang", 
+        "https://www.zhihu.com/people/shun-feng-niao", 
+        "https://www.zhihu.com/people/wwwhs-41", 
+        "https://www.zhihu.com/people/wang-liao-shi-jian-47", 
+        "https://www.zhihu.com/people/sha-gua-yi-sheng-de-cheng-nuo", 
+        "https://www.zhihu.com/people/li-bin-98", 
+        "https://www.zhihu.com/people/jun.zeng.x14", 
+        "https://www.zhihu.com/people/liu-yong-ying-91", 
+        "https://www.zhihu.com/people/shuang-kong-xiao-hun-dun", 
+        "https://www.zhihu.com/people/diao-ni-xi", 
+        "https://www.zhihu.com/people/KevinLAD", 
+        "https://www.zhihu.com/people/shuo-forever", 
+        "https://www.zhihu.com/people/charmyoung", 
+        "https://www.zhihu.com/people/tang-wei-jie-78", 
+        "https://www.zhihu.com/people/tang-long-30-1", 
+        "https://www.zhihu.com/people/xixixi-72", 
+        "https://www.zhihu.com/people/gangje", 
+        "https://www.zhihu.com/people/zhang-ming-hao-41", 
+        "https://www.zhihu.com/people/gottfried", 
+        "https://www.zhihu.com/people/jin-xin-58-10", 
+        "https://www.zhihu.com/people/kang-ge-lu", 
+        "https://www.zhihu.com/people/yang-yiang", 
+        "https://www.zhihu.com/people/zztx", 
+        "https://www.zhihu.com/people/ccckkkkk", 
+        "https://www.zhihu.com/people/peng-lei-61", 
+        "https://www.zhihu.com/people/ji-qi-wei-meng-de-wang-lao-hu", 
+        "https://www.zhihu.com/people/gao-fei-54-96", 
+        "https://www.zhihu.com/people/chang_xiaozhao", 
+        "https://www.zhihu.com/people/xu-bo-71-91", 
+        "https://www.zhihu.com/people/wei-wei-1-60", 
+        "https://www.zhihu.com/people/liu-zhu-yi-25", 
+        "https://www.zhihu.com/people/wen-xiang-yong-24", 
+        "https://www.zhihu.com/people/tang-yuan-xiang", 
+        "https://www.zhihu.com/people/li-chong-52-17", 
+        "https://www.zhihu.com/people/li-xin-95-42-23", 
+        "https://www.zhihu.com/people/wang-ke-64-29", 
+        "https://www.zhihu.com/people/caorui1995", 
+        "https://www.zhihu.com/people/wang-zhang-tao-67", 
+        "https://www.zhihu.com/people/resurrectcore", 
+        "https://www.zhihu.com/people/miceal-gaxe", 
+        "https://www.zhihu.com/people/bian-yuan-qing-nian-free", 
+        "https://www.zhihu.com/people/tensors", 
+        "https://www.zhihu.com/people/wei-dong-1-75-93", 
+        "https://www.zhihu.com/people/yyang364", 
+        "https://www.zhihu.com/people/lin-yan-kai-56-38", 
+        "https://www.zhihu.com/people/chengz-24", 
+        "https://www.zhihu.com/people/cong-jing-yu-11", 
+        "https://www.zhihu.com/people/zeng-shi-ping", 
+        "https://www.zhihu.com/people/littlefoxxxx", 
+        "https://www.zhihu.com/people/wang-chao-82-51", 
+        "https://www.zhihu.com/people/chen-yu-feng-72", 
+        "https://www.zhihu.com/people/wadeng-0080", 
+        "https://www.zhihu.com/people/zhui-xun-bei-ji-xiong-de-qi-e", 
+        "https://www.zhihu.com/people/challenger-81", 
+        "https://www.zhihu.com/people/zhang-ze-ming-39"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40053666", 
+            "userName": "栖栖遑遑", 
+            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+            "upvote": 5, 
+            "title": "力学系统的几何控制1.4-加速度、力、EL方程", 
+            "content": "<p>接上篇，本文探讨外力作用下的运动方程。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0e8b21fba36a000a436f9e6995a2343f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1063\" data-rawheight=\"822\" class=\"origin_image zh-lightbox-thumb\" width=\"1063\" data-original=\"https://pic4.zhimg.com/v2-0e8b21fba36a000a436f9e6995a2343f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1063&#39; height=&#39;822&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1063\" data-rawheight=\"822\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1063\" data-original=\"https://pic4.zhimg.com/v2-0e8b21fba36a000a436f9e6995a2343f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0e8b21fba36a000a436f9e6995a2343f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7f50f32f32aba531a59b8805b99fb3e7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1066\" data-rawheight=\"853\" class=\"origin_image zh-lightbox-thumb\" width=\"1066\" data-original=\"https://pic4.zhimg.com/v2-7f50f32f32aba531a59b8805b99fb3e7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1066&#39; height=&#39;853&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1066\" data-rawheight=\"853\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1066\" data-original=\"https://pic4.zhimg.com/v2-7f50f32f32aba531a59b8805b99fb3e7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7f50f32f32aba531a59b8805b99fb3e7_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-fea2701e412c0f8dc90541e70e730e26_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1065\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb\" width=\"1065\" data-original=\"https://pic3.zhimg.com/v2-fea2701e412c0f8dc90541e70e730e26_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1065&#39; height=&#39;852&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1065\" data-rawheight=\"852\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1065\" data-original=\"https://pic3.zhimg.com/v2-fea2701e412c0f8dc90541e70e730e26_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-fea2701e412c0f8dc90541e70e730e26_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-ddf171f0c0be0de1bcf6896d1485bd82_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1065\" data-rawheight=\"844\" class=\"origin_image zh-lightbox-thumb\" width=\"1065\" data-original=\"https://pic3.zhimg.com/v2-ddf171f0c0be0de1bcf6896d1485bd82_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1065&#39; height=&#39;844&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1065\" data-rawheight=\"844\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1065\" data-original=\"https://pic3.zhimg.com/v2-ddf171f0c0be0de1bcf6896d1485bd82_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-ddf171f0c0be0de1bcf6896d1485bd82_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3239004043cc6463cd84ccc255368747_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1063\" data-rawheight=\"785\" class=\"origin_image zh-lightbox-thumb\" width=\"1063\" data-original=\"https://pic4.zhimg.com/v2-3239004043cc6463cd84ccc255368747_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1063&#39; height=&#39;785&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1063\" data-rawheight=\"785\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1063\" data-original=\"https://pic4.zhimg.com/v2-3239004043cc6463cd84ccc255368747_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3239004043cc6463cd84ccc255368747_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-8cf299c95c650f12cb835517280d60e8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1063\" data-rawheight=\"771\" class=\"origin_image zh-lightbox-thumb\" width=\"1063\" data-original=\"https://pic1.zhimg.com/v2-8cf299c95c650f12cb835517280d60e8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1063&#39; height=&#39;771&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1063\" data-rawheight=\"771\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1063\" data-original=\"https://pic1.zhimg.com/v2-8cf299c95c650f12cb835517280d60e8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-8cf299c95c650f12cb835517280d60e8_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-a2ef17afe80f84a55227cb9d0fce01aa_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1062\" data-rawheight=\"107\" class=\"origin_image zh-lightbox-thumb\" width=\"1062\" data-original=\"https://pic3.zhimg.com/v2-a2ef17afe80f84a55227cb9d0fce01aa_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1062&#39; height=&#39;107&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1062\" data-rawheight=\"107\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1062\" data-original=\"https://pic3.zhimg.com/v2-a2ef17afe80f84a55227cb9d0fce01aa_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-a2ef17afe80f84a55227cb9d0fce01aa_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-bc16b0cf7f25133c32756901c059f08f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1063\" data-rawheight=\"808\" class=\"origin_image zh-lightbox-thumb\" width=\"1063\" data-original=\"https://pic4.zhimg.com/v2-bc16b0cf7f25133c32756901c059f08f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1063&#39; height=&#39;808&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1063\" data-rawheight=\"808\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1063\" data-original=\"https://pic4.zhimg.com/v2-bc16b0cf7f25133c32756901c059f08f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-bc16b0cf7f25133c32756901c059f08f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-ae52a7f94cb0d876ec8f021876554942_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1065\" data-rawheight=\"439\" class=\"origin_image zh-lightbox-thumb\" width=\"1065\" data-original=\"https://pic3.zhimg.com/v2-ae52a7f94cb0d876ec8f021876554942_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1065&#39; height=&#39;439&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1065\" data-rawheight=\"439\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1065\" data-original=\"https://pic3.zhimg.com/v2-ae52a7f94cb0d876ec8f021876554942_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-ae52a7f94cb0d876ec8f021876554942_b.jpg\"/></figure>", 
+            "topic": [
+                {
+                    "tag": "非线性控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20026567"
+                }, 
+                {
+                    "tag": "力学", 
+                    "tagLink": "https://api.zhihu.com/topics/19615099"
+                }, 
+                {
+                    "tag": "控制理论", 
+                    "tagLink": "https://api.zhihu.com/topics/19803111"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "74a", 
+                    "userLink": "https://www.zhihu.com/people/3eb45c047ee416d7e4ff910dbbae0b15", 
+                    "content": "F(m)=m^K/(1+m)K!", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38761527", 
+            "userName": "栖栖遑遑", 
+            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+            "upvote": 8, 
+            "title": "力学系统的几何控制1.3-拉格朗日方程与测地线", 
+            "content": "<p>接上篇, 我们从更一般的角度来推导经典力学中的欧拉-拉格朗日方程.</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2e58a6d023480b206c2cd914b0f59cc4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1179\" data-rawheight=\"830\" class=\"origin_image zh-lightbox-thumb\" width=\"1179\" data-original=\"https://pic1.zhimg.com/v2-2e58a6d023480b206c2cd914b0f59cc4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1179&#39; height=&#39;830&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1179\" data-rawheight=\"830\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1179\" data-original=\"https://pic1.zhimg.com/v2-2e58a6d023480b206c2cd914b0f59cc4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2e58a6d023480b206c2cd914b0f59cc4_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0214f20a380679ec5afcf8256325e3c7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1187\" data-rawheight=\"846\" class=\"origin_image zh-lightbox-thumb\" width=\"1187\" data-original=\"https://pic4.zhimg.com/v2-0214f20a380679ec5afcf8256325e3c7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1187&#39; height=&#39;846&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1187\" data-rawheight=\"846\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1187\" data-original=\"https://pic4.zhimg.com/v2-0214f20a380679ec5afcf8256325e3c7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0214f20a380679ec5afcf8256325e3c7_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7cb002260f48b56c5af31b0a9b6cdd83_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1182\" data-rawheight=\"67\" class=\"origin_image zh-lightbox-thumb\" width=\"1182\" data-original=\"https://pic4.zhimg.com/v2-7cb002260f48b56c5af31b0a9b6cdd83_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1182&#39; height=&#39;67&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1182\" data-rawheight=\"67\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1182\" data-original=\"https://pic4.zhimg.com/v2-7cb002260f48b56c5af31b0a9b6cdd83_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7cb002260f48b56c5af31b0a9b6cdd83_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-7fcd062268c52c416887db42d453fbbf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1198\" data-rawheight=\"843\" class=\"origin_image zh-lightbox-thumb\" width=\"1198\" data-original=\"https://pic4.zhimg.com/v2-7fcd062268c52c416887db42d453fbbf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1198&#39; height=&#39;843&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1198\" data-rawheight=\"843\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1198\" data-original=\"https://pic4.zhimg.com/v2-7fcd062268c52c416887db42d453fbbf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-7fcd062268c52c416887db42d453fbbf_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-c8194758acf0043c3ca69cd4b2006290_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1189\" data-rawheight=\"736\" class=\"origin_image zh-lightbox-thumb\" width=\"1189\" data-original=\"https://pic1.zhimg.com/v2-c8194758acf0043c3ca69cd4b2006290_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1189&#39; height=&#39;736&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1189\" data-rawheight=\"736\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1189\" data-original=\"https://pic1.zhimg.com/v2-c8194758acf0043c3ca69cd4b2006290_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c8194758acf0043c3ca69cd4b2006290_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8794c01ea680983a13aa9138d9685b46_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1188\" data-rawheight=\"231\" class=\"origin_image zh-lightbox-thumb\" width=\"1188\" data-original=\"https://pic3.zhimg.com/v2-8794c01ea680983a13aa9138d9685b46_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1188&#39; height=&#39;231&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1188\" data-rawheight=\"231\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1188\" data-original=\"https://pic3.zhimg.com/v2-8794c01ea680983a13aa9138d9685b46_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8794c01ea680983a13aa9138d9685b46_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-23d55a7412b1ebf3c4397f2c637262d6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1183\" data-rawheight=\"838\" class=\"origin_image zh-lightbox-thumb\" width=\"1183\" data-original=\"https://pic3.zhimg.com/v2-23d55a7412b1ebf3c4397f2c637262d6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1183&#39; height=&#39;838&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1183\" data-rawheight=\"838\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1183\" data-original=\"https://pic3.zhimg.com/v2-23d55a7412b1ebf3c4397f2c637262d6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-23d55a7412b1ebf3c4397f2c637262d6_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4183852c7c1aa9ba59ab88b57c55ab22_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1185\" data-rawheight=\"808\" class=\"origin_image zh-lightbox-thumb\" width=\"1185\" data-original=\"https://pic3.zhimg.com/v2-4183852c7c1aa9ba59ab88b57c55ab22_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1185&#39; height=&#39;808&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1185\" data-rawheight=\"808\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1185\" data-original=\"https://pic3.zhimg.com/v2-4183852c7c1aa9ba59ab88b57c55ab22_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4183852c7c1aa9ba59ab88b57c55ab22_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d8bac490b74eb5613620f8a12c811698_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1186\" data-rawheight=\"124\" class=\"origin_image zh-lightbox-thumb\" width=\"1186\" data-original=\"https://pic1.zhimg.com/v2-d8bac490b74eb5613620f8a12c811698_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1186&#39; height=&#39;124&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1186\" data-rawheight=\"124\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1186\" data-original=\"https://pic1.zhimg.com/v2-d8bac490b74eb5613620f8a12c811698_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d8bac490b74eb5613620f8a12c811698_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-c60a47cae8fe76d4cda7728bc9e57ca0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1192\" data-rawheight=\"784\" class=\"origin_image zh-lightbox-thumb\" width=\"1192\" data-original=\"https://pic1.zhimg.com/v2-c60a47cae8fe76d4cda7728bc9e57ca0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1192&#39; height=&#39;784&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1192\" data-rawheight=\"784\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1192\" data-original=\"https://pic1.zhimg.com/v2-c60a47cae8fe76d4cda7728bc9e57ca0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c60a47cae8fe76d4cda7728bc9e57ca0_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-111f81f81efe80d8ec9eddb6aeb16fb7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1175\" data-rawheight=\"750\" class=\"origin_image zh-lightbox-thumb\" width=\"1175\" data-original=\"https://pic4.zhimg.com/v2-111f81f81efe80d8ec9eddb6aeb16fb7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1175&#39; height=&#39;750&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1175\" data-rawheight=\"750\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1175\" data-original=\"https://pic4.zhimg.com/v2-111f81f81efe80d8ec9eddb6aeb16fb7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-111f81f81efe80d8ec9eddb6aeb16fb7_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-3e0104d8425c908d5373ab50d199b394_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1188\" data-rawheight=\"332\" class=\"origin_image zh-lightbox-thumb\" width=\"1188\" data-original=\"https://pic1.zhimg.com/v2-3e0104d8425c908d5373ab50d199b394_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1188&#39; height=&#39;332&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1188\" data-rawheight=\"332\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1188\" data-original=\"https://pic1.zhimg.com/v2-3e0104d8425c908d5373ab50d199b394_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3e0104d8425c908d5373ab50d199b394_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b942ae8d77dd1a3e140a76012d2818f5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1194\" data-rawheight=\"835\" class=\"origin_image zh-lightbox-thumb\" width=\"1194\" data-original=\"https://pic2.zhimg.com/v2-b942ae8d77dd1a3e140a76012d2818f5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1194&#39; height=&#39;835&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1194\" data-rawheight=\"835\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1194\" data-original=\"https://pic2.zhimg.com/v2-b942ae8d77dd1a3e140a76012d2818f5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b942ae8d77dd1a3e140a76012d2818f5_b.jpg\"/></figure>", 
+            "topic": [
+                {
+                    "tag": "力学", 
+                    "tagLink": "https://api.zhihu.com/topics/19615099"
+                }, 
+                {
+                    "tag": "控制理论", 
+                    "tagLink": "https://api.zhihu.com/topics/19803111"
+                }, 
+                {
+                    "tag": "非线性控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20026567"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38638316", 
+            "userName": "栖栖遑遑", 
+            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+            "upvote": 7, 
+            "title": "力学系统的几何控制1.2-动能度量", 
+            "content": "<p>动能度量与欧拉-拉格朗日方程预备</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-e7d6a3ae78f38f762c52c49b138e4d9f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1138\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb\" width=\"1138\" data-original=\"https://pic4.zhimg.com/v2-e7d6a3ae78f38f762c52c49b138e4d9f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1138&#39; height=&#39;320&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1138\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1138\" data-original=\"https://pic4.zhimg.com/v2-e7d6a3ae78f38f762c52c49b138e4d9f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e7d6a3ae78f38f762c52c49b138e4d9f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-8719ad9f2fde6cd413dff8379d543865_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1142\" data-rawheight=\"743\" class=\"origin_image zh-lightbox-thumb\" width=\"1142\" data-original=\"https://pic2.zhimg.com/v2-8719ad9f2fde6cd413dff8379d543865_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1142&#39; height=&#39;743&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1142\" data-rawheight=\"743\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1142\" data-original=\"https://pic2.zhimg.com/v2-8719ad9f2fde6cd413dff8379d543865_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8719ad9f2fde6cd413dff8379d543865_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-cd0863d1735969e1c136132a4e8ad48a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1141\" data-rawheight=\"837\" class=\"origin_image zh-lightbox-thumb\" width=\"1141\" data-original=\"https://pic3.zhimg.com/v2-cd0863d1735969e1c136132a4e8ad48a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1141&#39; height=&#39;837&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1141\" data-rawheight=\"837\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1141\" data-original=\"https://pic3.zhimg.com/v2-cd0863d1735969e1c136132a4e8ad48a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-cd0863d1735969e1c136132a4e8ad48a_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-69d23085fbb72bda0b9d5fb8a263aa03_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1141\" data-rawheight=\"237\" class=\"origin_image zh-lightbox-thumb\" width=\"1141\" data-original=\"https://pic4.zhimg.com/v2-69d23085fbb72bda0b9d5fb8a263aa03_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1141&#39; height=&#39;237&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1141\" data-rawheight=\"237\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1141\" data-original=\"https://pic4.zhimg.com/v2-69d23085fbb72bda0b9d5fb8a263aa03_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-69d23085fbb72bda0b9d5fb8a263aa03_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-52ba6c63a2cf57e0ba4d787667ed8226_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1161\" data-rawheight=\"827\" class=\"origin_image zh-lightbox-thumb\" width=\"1161\" data-original=\"https://pic3.zhimg.com/v2-52ba6c63a2cf57e0ba4d787667ed8226_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1161&#39; height=&#39;827&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1161\" data-rawheight=\"827\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1161\" data-original=\"https://pic3.zhimg.com/v2-52ba6c63a2cf57e0ba4d787667ed8226_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-52ba6c63a2cf57e0ba4d787667ed8226_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d44b782667165693a9acd9fd2403e7c8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1139\" data-rawheight=\"768\" class=\"origin_image zh-lightbox-thumb\" width=\"1139\" data-original=\"https://pic1.zhimg.com/v2-d44b782667165693a9acd9fd2403e7c8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1139&#39; height=&#39;768&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1139\" data-rawheight=\"768\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1139\" data-original=\"https://pic1.zhimg.com/v2-d44b782667165693a9acd9fd2403e7c8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d44b782667165693a9acd9fd2403e7c8_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-54ffc83d82fddb6fb36c3db54dc73be2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1138\" data-rawheight=\"167\" class=\"origin_image zh-lightbox-thumb\" width=\"1138\" data-original=\"https://pic3.zhimg.com/v2-54ffc83d82fddb6fb36c3db54dc73be2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1138&#39; height=&#39;167&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1138\" data-rawheight=\"167\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1138\" data-original=\"https://pic3.zhimg.com/v2-54ffc83d82fddb6fb36c3db54dc73be2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-54ffc83d82fddb6fb36c3db54dc73be2_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-a07a3949079a673c07e03a07d1b2c9e8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1141\" data-rawheight=\"818\" class=\"origin_image zh-lightbox-thumb\" width=\"1141\" data-original=\"https://pic1.zhimg.com/v2-a07a3949079a673c07e03a07d1b2c9e8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1141&#39; height=&#39;818&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1141\" data-rawheight=\"818\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1141\" data-original=\"https://pic1.zhimg.com/v2-a07a3949079a673c07e03a07d1b2c9e8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a07a3949079a673c07e03a07d1b2c9e8_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e245dc300985df81d5564060fb00d2f9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1140\" data-rawheight=\"731\" class=\"origin_image zh-lightbox-thumb\" width=\"1140\" data-original=\"https://pic2.zhimg.com/v2-e245dc300985df81d5564060fb00d2f9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1140&#39; height=&#39;731&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1140\" data-rawheight=\"731\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1140\" data-original=\"https://pic2.zhimg.com/v2-e245dc300985df81d5564060fb00d2f9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e245dc300985df81d5564060fb00d2f9_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-70f43edaa594700bcffb00da5a7b7ad2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1141\" data-rawheight=\"183\" class=\"origin_image zh-lightbox-thumb\" width=\"1141\" data-original=\"https://pic3.zhimg.com/v2-70f43edaa594700bcffb00da5a7b7ad2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1141&#39; height=&#39;183&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1141\" data-rawheight=\"183\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1141\" data-original=\"https://pic3.zhimg.com/v2-70f43edaa594700bcffb00da5a7b7ad2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-70f43edaa594700bcffb00da5a7b7ad2_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b833245419c83d3cbc5e924b3c41bc4c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1148\" data-rawheight=\"818\" class=\"origin_image zh-lightbox-thumb\" width=\"1148\" data-original=\"https://pic1.zhimg.com/v2-b833245419c83d3cbc5e924b3c41bc4c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1148&#39; height=&#39;818&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1148\" data-rawheight=\"818\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1148\" data-original=\"https://pic1.zhimg.com/v2-b833245419c83d3cbc5e924b3c41bc4c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b833245419c83d3cbc5e924b3c41bc4c_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9f198ff61faf5a90837fd385df6e22e2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1142\" data-rawheight=\"61\" class=\"origin_image zh-lightbox-thumb\" width=\"1142\" data-original=\"https://pic3.zhimg.com/v2-9f198ff61faf5a90837fd385df6e22e2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1142&#39; height=&#39;61&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1142\" data-rawheight=\"61\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1142\" data-original=\"https://pic3.zhimg.com/v2-9f198ff61faf5a90837fd385df6e22e2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9f198ff61faf5a90837fd385df6e22e2_b.jpg\"/></figure>", 
+            "topic": [
+                {
+                    "tag": "力学", 
+                    "tagLink": "https://api.zhihu.com/topics/19615099"
+                }, 
+                {
+                    "tag": "控制理论", 
+                    "tagLink": "https://api.zhihu.com/topics/19803111"
+                }, 
+                {
+                    "tag": "非线性控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20026567"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "小狐狸M", 
+                    "userLink": "https://www.zhihu.com/people/9c8bf9bb408c80d2ea3fa0dd68e7160a", 
+                    "content": "资兹", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "栖栖遑遑", 
+                    "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+                    "content": "😁谢谢！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Tensor", 
+                    "userLink": "https://www.zhihu.com/people/c57c1e976b8d74c282c29b6e4993a16d", 
+                    "content": "<p>这是哪本书啊</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "栖栖遑遑", 
+                            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+                            "content": "Geometric control of mechanical systems", 
+                            "likes": 0, 
+                            "replyToAuthor": "Tensor"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38445764", 
+            "userName": "栖栖遑遑", 
+            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+            "upvote": 15, 
+            "title": "力学系统的几何控制1.1-构型空间", 
+            "content": "<p>一个力学系统几何控制的系列，主要参考Frances Bullo的书。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9cebbc9be476c225c94a4cc7146745da_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"759\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic3.zhimg.com/v2-9cebbc9be476c225c94a4cc7146745da_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1024&#39; height=&#39;759&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"759\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1024\" data-original=\"https://pic3.zhimg.com/v2-9cebbc9be476c225c94a4cc7146745da_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9cebbc9be476c225c94a4cc7146745da_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-367f64b9d895dd215cc26f55b751e5da_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"967\" data-rawheight=\"668\" class=\"origin_image zh-lightbox-thumb\" width=\"967\" data-original=\"https://pic3.zhimg.com/v2-367f64b9d895dd215cc26f55b751e5da_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;967&#39; height=&#39;668&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"967\" data-rawheight=\"668\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"967\" data-original=\"https://pic3.zhimg.com/v2-367f64b9d895dd215cc26f55b751e5da_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-367f64b9d895dd215cc26f55b751e5da_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-42d6943cf97ad07447521b900a7dd824_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"998\" data-rawheight=\"818\" class=\"origin_image zh-lightbox-thumb\" width=\"998\" data-original=\"https://pic1.zhimg.com/v2-42d6943cf97ad07447521b900a7dd824_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;998&#39; height=&#39;818&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"998\" data-rawheight=\"818\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"998\" data-original=\"https://pic1.zhimg.com/v2-42d6943cf97ad07447521b900a7dd824_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-42d6943cf97ad07447521b900a7dd824_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-aee02caea5af9e15a67411c2ab8c9e62_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1002\" data-rawheight=\"836\" class=\"origin_image zh-lightbox-thumb\" width=\"1002\" data-original=\"https://pic3.zhimg.com/v2-aee02caea5af9e15a67411c2ab8c9e62_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1002&#39; height=&#39;836&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1002\" data-rawheight=\"836\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1002\" data-original=\"https://pic3.zhimg.com/v2-aee02caea5af9e15a67411c2ab8c9e62_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-aee02caea5af9e15a67411c2ab8c9e62_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6a8da94a0eccec67c18fbbb48379063f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"998\" data-rawheight=\"755\" class=\"origin_image zh-lightbox-thumb\" width=\"998\" data-original=\"https://pic4.zhimg.com/v2-6a8da94a0eccec67c18fbbb48379063f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;998&#39; height=&#39;755&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"998\" data-rawheight=\"755\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"998\" data-original=\"https://pic4.zhimg.com/v2-6a8da94a0eccec67c18fbbb48379063f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6a8da94a0eccec67c18fbbb48379063f_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-62b87e0c075b38e93f37bf75a1a8b1af_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"996\" data-rawheight=\"829\" class=\"origin_image zh-lightbox-thumb\" width=\"996\" data-original=\"https://pic4.zhimg.com/v2-62b87e0c075b38e93f37bf75a1a8b1af_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;996&#39; height=&#39;829&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"996\" data-rawheight=\"829\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"996\" data-original=\"https://pic4.zhimg.com/v2-62b87e0c075b38e93f37bf75a1a8b1af_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-62b87e0c075b38e93f37bf75a1a8b1af_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ed14a8b597dc5c4b0e3d4e2254993291_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1008\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb\" width=\"1008\" data-original=\"https://pic2.zhimg.com/v2-ed14a8b597dc5c4b0e3d4e2254993291_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1008&#39; height=&#39;399&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1008\" data-rawheight=\"399\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1008\" data-original=\"https://pic2.zhimg.com/v2-ed14a8b597dc5c4b0e3d4e2254993291_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ed14a8b597dc5c4b0e3d4e2254993291_b.jpg\"/></figure>", 
+            "topic": [
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }, 
+                {
+                    "tag": "非线性控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20026567"
+                }, 
+                {
+                    "tag": "控制理论", 
+                    "tagLink": "https://api.zhihu.com/topics/19803111"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "小狐狸M", 
+                    "userLink": "https://www.zhihu.com/people/9c8bf9bb408c80d2ea3fa0dd68e7160a", 
+                    "content": "支持", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "栖栖遑遑", 
+                            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+                            "content": "多多指点🙏", 
+                            "likes": 0, 
+                            "replyToAuthor": "小狐狸M"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "书名是啥呀~", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "栖栖遑遑", 
+                            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+                            "content": "Geometric control of mechanical systems", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "谢谢~", 
+                            "likes": 0, 
+                            "replyToAuthor": "栖栖遑遑"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "好像看到同行了，不容易啊", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>看你的截图这么糊，你是不是也没有清晰版。。。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>讨论下，configuration有没有什么更好的翻译，我实在是不喜欢构型这个词，这个场合翻译成变量会不会好点？但是好像也缺点啥</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "栖栖遑遑", 
+                            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+                            "content": "<p>这个是力学里面通用的叫法，所以不管好不好就这么叫吧....</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "很多书里翻译成 位型", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38169068", 
+            "userName": "栖栖遑遑", 
+            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+            "upvote": 3, 
+            "title": "Frobenius定理1", 
+            "content": "<p>陆续补充关于Frobenius定理的内容。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-44ee2c8cd07ec97c52adaa744a5bcc60_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"711\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"711\" data-original=\"https://pic1.zhimg.com/v2-44ee2c8cd07ec97c52adaa744a5bcc60_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;711&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"711\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"711\" data-original=\"https://pic1.zhimg.com/v2-44ee2c8cd07ec97c52adaa744a5bcc60_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-44ee2c8cd07ec97c52adaa744a5bcc60_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d462e1bc281f3c73c7a2141825b41104_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"814\" class=\"origin_image zh-lightbox-thumb\" width=\"710\" data-original=\"https://pic1.zhimg.com/v2-d462e1bc281f3c73c7a2141825b41104_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;710&#39; height=&#39;814&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"814\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"710\" data-original=\"https://pic1.zhimg.com/v2-d462e1bc281f3c73c7a2141825b41104_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d462e1bc281f3c73c7a2141825b41104_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1ca22ed07858e4717d4f31f9a0c165f6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"299\" class=\"origin_image zh-lightbox-thumb\" width=\"710\" data-original=\"https://pic3.zhimg.com/v2-1ca22ed07858e4717d4f31f9a0c165f6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;710&#39; height=&#39;299&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"299\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"710\" data-original=\"https://pic3.zhimg.com/v2-1ca22ed07858e4717d4f31f9a0c165f6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1ca22ed07858e4717d4f31f9a0c165f6_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e32cfc431c11f53856217b2c7bfa8445_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"711\" data-rawheight=\"803\" class=\"origin_image zh-lightbox-thumb\" width=\"711\" data-original=\"https://pic2.zhimg.com/v2-e32cfc431c11f53856217b2c7bfa8445_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;711&#39; height=&#39;803&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"711\" data-rawheight=\"803\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"711\" data-original=\"https://pic2.zhimg.com/v2-e32cfc431c11f53856217b2c7bfa8445_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e32cfc431c11f53856217b2c7bfa8445_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2eba8acea712ab885c2579dfee241b54_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"364\" class=\"origin_image zh-lightbox-thumb\" width=\"710\" data-original=\"https://pic1.zhimg.com/v2-2eba8acea712ab885c2579dfee241b54_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;710&#39; height=&#39;364&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"364\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"710\" data-original=\"https://pic1.zhimg.com/v2-2eba8acea712ab885c2579dfee241b54_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2eba8acea712ab885c2579dfee241b54_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-f9f56608fee915c871c93777a9a1ae7e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"711\" data-rawheight=\"282\" class=\"origin_image zh-lightbox-thumb\" width=\"711\" data-original=\"https://pic3.zhimg.com/v2-f9f56608fee915c871c93777a9a1ae7e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;711&#39; height=&#39;282&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"711\" data-rawheight=\"282\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"711\" data-original=\"https://pic3.zhimg.com/v2-f9f56608fee915c871c93777a9a1ae7e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f9f56608fee915c871c93777a9a1ae7e_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "非线性", 
+                    "tagLink": "https://api.zhihu.com/topics/19655745"
+                }, 
+                {
+                    "tag": "控制理论", 
+                    "tagLink": "https://api.zhihu.com/topics/19803111"
+                }, 
+                {
+                    "tag": "非线性控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20026567"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "。。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>我怎么感觉这不是哪本书截屏下来的，是你自己的读书笔记是吗？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "好好考试", 
+                    "userLink": "https://www.zhihu.com/people/059d03ace2527be194e0f56be20b437b", 
+                    "content": "<p>这是什么书？？</p><p></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37941338", 
+            "userName": "栖栖遑遑", 
+            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+            "upvote": 7, 
+            "title": "线性系统的结构分解1.1", 
+            "content": "<p></p><p>知乎不能良好支持TeX代码真是个巨大的遗憾，捣腾了好久都没搞明白，于是只能帖图片了。</p><p>这是Isidori所著《非线性控制系统I》 的第1章引言部分的一些个人笔记。内容是线性系统的结构分解，算是一个复习和准备。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-96c4d2d0b1b6c657dcaf539354ab1c12_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"460\" data-rawheight=\"681\" class=\"origin_image zh-lightbox-thumb\" width=\"460\" data-original=\"https://pic3.zhimg.com/v2-96c4d2d0b1b6c657dcaf539354ab1c12_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;460&#39; height=&#39;681&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"460\" data-rawheight=\"681\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"460\" data-original=\"https://pic3.zhimg.com/v2-96c4d2d0b1b6c657dcaf539354ab1c12_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-96c4d2d0b1b6c657dcaf539354ab1c12_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-deabe5ac6db7d6daf73e7bcd62f9d1a7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"460\" data-rawheight=\"729\" class=\"origin_image zh-lightbox-thumb\" width=\"460\" data-original=\"https://pic4.zhimg.com/v2-deabe5ac6db7d6daf73e7bcd62f9d1a7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;460&#39; height=&#39;729&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"460\" data-rawheight=\"729\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"460\" data-original=\"https://pic4.zhimg.com/v2-deabe5ac6db7d6daf73e7bcd62f9d1a7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-deabe5ac6db7d6daf73e7bcd62f9d1a7_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ea827e7a597d4566d85498e6cc32482c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"457\" data-rawheight=\"350\" class=\"origin_image zh-lightbox-thumb\" width=\"457\" data-original=\"https://pic1.zhimg.com/v2-ea827e7a597d4566d85498e6cc32482c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;457&#39; height=&#39;350&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"457\" data-rawheight=\"350\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"457\" data-original=\"https://pic1.zhimg.com/v2-ea827e7a597d4566d85498e6cc32482c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ea827e7a597d4566d85498e6cc32482c_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "控制理论", 
+                    "tagLink": "https://api.zhihu.com/topics/19803111"
+                }, 
+                {
+                    "tag": "控制系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19589887"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "尘一凡", 
+                    "userLink": "https://www.zhihu.com/people/3152dc2c58fe500ea35abba0663a2d8b", 
+                    "content": "1 为什么这个线性空间就是下面这个矩阵p(t)的像？😂这个矩阵p(t)是怎么得出来(看出来)的？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "栖栖遑遑", 
+                            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+                            "content": "下面就是在论证这件事情", 
+                            "likes": 0, 
+                            "replyToAuthor": "尘一凡"
+                        }, 
+                        {
+                            "userName": "栖栖遑遑", 
+                            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+                            "content": "不容易看出来，需要一些经验", 
+                            "likes": 0, 
+                            "replyToAuthor": "尘一凡"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38051228", 
+            "userName": "栖栖遑遑", 
+            "userLink": "https://www.zhihu.com/people/ae77f348c07c84943758ec995ac65c08", 
+            "upvote": 5, 
+            "title": "非线性系统的局部分解1.2", 
+            "content": "<p>接上一篇，本次开始进入非线性结构分解部分。如果对Frobenius定理不熟悉，可以参考教材。另外，我打算某天外加一节专门讲解分布、Frobenius定理的相关内容，此是后话。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-37a2ed7f615a7ae8eceb2f3710f48aac_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"551\" class=\"origin_image zh-lightbox-thumb\" width=\"710\" data-original=\"https://pic1.zhimg.com/v2-37a2ed7f615a7ae8eceb2f3710f48aac_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;710&#39; height=&#39;551&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"551\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"710\" data-original=\"https://pic1.zhimg.com/v2-37a2ed7f615a7ae8eceb2f3710f48aac_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-37a2ed7f615a7ae8eceb2f3710f48aac_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-e2116609c387d1fe91b2b12f25ccdb9e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"755\" class=\"origin_image zh-lightbox-thumb\" width=\"710\" data-original=\"https://pic3.zhimg.com/v2-e2116609c387d1fe91b2b12f25ccdb9e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;710&#39; height=&#39;755&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"755\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"710\" data-original=\"https://pic3.zhimg.com/v2-e2116609c387d1fe91b2b12f25ccdb9e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-e2116609c387d1fe91b2b12f25ccdb9e_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-38f07cd63d1cf5b30f38827ded12553b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"364\" class=\"origin_image zh-lightbox-thumb\" width=\"710\" data-original=\"https://pic4.zhimg.com/v2-38f07cd63d1cf5b30f38827ded12553b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;710&#39; height=&#39;364&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"364\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"710\" data-original=\"https://pic4.zhimg.com/v2-38f07cd63d1cf5b30f38827ded12553b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-38f07cd63d1cf5b30f38827ded12553b_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-99a81732d6bb34fa4ad6e32146efa6e4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"765\" class=\"origin_image zh-lightbox-thumb\" width=\"710\" data-original=\"https://pic1.zhimg.com/v2-99a81732d6bb34fa4ad6e32146efa6e4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;710&#39; height=&#39;765&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"765\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"710\" data-original=\"https://pic1.zhimg.com/v2-99a81732d6bb34fa4ad6e32146efa6e4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-99a81732d6bb34fa4ad6e32146efa6e4_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-42044d6230f9c21ff1c04b6d900c45b3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"711\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb\" width=\"711\" data-original=\"https://pic4.zhimg.com/v2-42044d6230f9c21ff1c04b6d900c45b3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;711&#39; height=&#39;320&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"711\" data-rawheight=\"320\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"711\" data-original=\"https://pic4.zhimg.com/v2-42044d6230f9c21ff1c04b6d900c45b3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-42044d6230f9c21ff1c04b6d900c45b3_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-a514844fcb931e572376540300d32b26_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"678\" class=\"origin_image zh-lightbox-thumb\" width=\"710\" data-original=\"https://pic3.zhimg.com/v2-a514844fcb931e572376540300d32b26_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;710&#39; height=&#39;678&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"678\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"710\" data-original=\"https://pic3.zhimg.com/v2-a514844fcb931e572376540300d32b26_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-a514844fcb931e572376540300d32b26_b.jpg\"/></figure>", 
+            "topic": [
+                {
+                    "tag": "非线性控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20026567"
+                }, 
+                {
+                    "tag": "控制理论", 
+                    "tagLink": "https://api.zhihu.com/topics/19803111"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_202399865"
+}

@@ -1,0 +1,350 @@
+{
+    "title": "国睿的随笔", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/jerryfly", 
+        "https://www.zhihu.com/people/qi-tai-47", 
+        "https://www.zhihu.com/people/lier-mao", 
+        "https://www.zhihu.com/people/zhushun0008", 
+        "https://www.zhihu.com/people/robin-2-25-88", 
+        "https://www.zhihu.com/people/stones-king-21", 
+        "https://www.zhihu.com/people/hysy-27", 
+        "https://www.zhihu.com/people/wang-yu-jie-73", 
+        "https://www.zhihu.com/people/li-ran110", 
+        "https://www.zhihu.com/people/bow-rain-95", 
+        "https://www.zhihu.com/people/lew-64", 
+        "https://www.zhihu.com/people/lin-quan-pei", 
+        "https://www.zhihu.com/people/ni-wei-tai-yang", 
+        "https://www.zhihu.com/people/ji-xiao-hei-40", 
+        "https://www.zhihu.com/people/liu-bo-69-10", 
+        "https://www.zhihu.com/people/gao-da-shan-2-51", 
+        "https://www.zhihu.com/people/caroline-81-3", 
+        "https://www.zhihu.com/people/liu-lei-66-59", 
+        "https://www.zhihu.com/people/zheng-lei-97", 
+        "https://www.zhihu.com/people/qiao-peng-peng-68", 
+        "https://www.zhihu.com/people/huang-ping-chun-93", 
+        "https://www.zhihu.com/people/temp-70", 
+        "https://www.zhihu.com/people/wu-yao-ming-50", 
+        "https://www.zhihu.com/people/aa-aa-19", 
+        "https://www.zhihu.com/people/chen-lun-42-93-23", 
+        "https://www.zhihu.com/people/cao-lin-hua", 
+        "https://www.zhihu.com/people/li-yi-78-71", 
+        "https://www.zhihu.com/people/CoderXiaoming", 
+        "https://www.zhihu.com/people/mr-lin-82-68", 
+        "https://www.zhihu.com/people/Kwc-Oliver", 
+        "https://www.zhihu.com/people/zhu-yuan-jie-13-65", 
+        "https://www.zhihu.com/people/chen-yi-liang-64-71", 
+        "https://www.zhihu.com/people/de-mi-an-98-74", 
+        "https://www.zhihu.com/people/guo-zi-qing-80", 
+        "https://www.zhihu.com/people/zzx-47-7", 
+        "https://www.zhihu.com/people/lingyv", 
+        "https://www.zhihu.com/people/tang-wei-tuo-90", 
+        "https://www.zhihu.com/people/Tu-FF", 
+        "https://www.zhihu.com/people/yi-wei-9-50", 
+        "https://www.zhihu.com/people/xerwanderer", 
+        "https://www.zhihu.com/people/yu-er-2-46", 
+        "https://www.zhihu.com/people/Sostudio", 
+        "https://www.zhihu.com/people/zhang-sheng-wang-32", 
+        "https://www.zhihu.com/people/gebixiaowang110", 
+        "https://www.zhihu.com/people/mousri", 
+        "https://www.zhihu.com/people/jinchen", 
+        "https://www.zhihu.com/people/tjamc80", 
+        "https://www.zhihu.com/people/zhi-xing-71", 
+        "https://www.zhihu.com/people/strawber2y", 
+        "https://www.zhihu.com/people/gao-hang-79-83", 
+        "https://www.zhihu.com/people/xie-bo-92-28", 
+        "https://www.zhihu.com/people/zhuizi", 
+        "https://www.zhihu.com/people/zhang-yong-qiang-67", 
+        "https://www.zhihu.com/people/du-rui-81-77", 
+        "https://www.zhihu.com/people/chris-vi-7", 
+        "https://www.zhihu.com/people/yy-cc-63-54", 
+        "https://www.zhihu.com/people/xixi-55-35", 
+        "https://www.zhihu.com/people/zhu-cheng-kai-98", 
+        "https://www.zhihu.com/people/duan-xing-99", 
+        "https://www.zhihu.com/people/corgi", 
+        "https://www.zhihu.com/people/Sing-F", 
+        "https://www.zhihu.com/people/lord-pie", 
+        "https://www.zhihu.com/people/feng-kou-shang-de-zhu-hou", 
+        "https://www.zhihu.com/people/superen", 
+        "https://www.zhihu.com/people/li-chou-28", 
+        "https://www.zhihu.com/people/Alex-Yang01698", 
+        "https://www.zhihu.com/people/ni-hui-51-23", 
+        "https://www.zhihu.com/people/tian-shi-qi-32", 
+        "https://www.zhihu.com/people/jasonliu-27-40", 
+        "https://www.zhihu.com/people/yuchenchen", 
+        "https://www.zhihu.com/people/yangdoudou-79", 
+        "https://www.zhihu.com/people/luois-79", 
+        "https://www.zhihu.com/people/joe-lee-9", 
+        "https://www.zhihu.com/people/w-prince", 
+        "https://www.zhihu.com/people/bupt-xiao-guai-shou", 
+        "https://www.zhihu.com/people/rryen", 
+        "https://www.zhihu.com/people/zhu-vino", 
+        "https://www.zhihu.com/people/zhenv5", 
+        "https://www.zhihu.com/people/infoflow", 
+        "https://www.zhihu.com/people/wen-wen-wen-wen-shui-4", 
+        "https://www.zhihu.com/people/martinson", 
+        "https://www.zhihu.com/people/ezail-shen", 
+        "https://www.zhihu.com/people/wang-zhen-85-71", 
+        "https://www.zhihu.com/people/wang-gatsby", 
+        "https://www.zhihu.com/people/feng-zhi-fan-74", 
+        "https://www.zhihu.com/people/xie-dong-40", 
+        "https://www.zhihu.com/people/medium", 
+        "https://www.zhihu.com/people/dsc-debian", 
+        "https://www.zhihu.com/people/ilx-tl", 
+        "https://www.zhihu.com/people/lin-bao", 
+        "https://www.zhihu.com/people/cao-meng-hua-41", 
+        "https://www.zhihu.com/people/feng-xue-ye-gui-zi", 
+        "https://www.zhihu.com/people/wang-jun-guang-25", 
+        "https://www.zhihu.com/people/zhang-shasha-17-35", 
+        "https://www.zhihu.com/people/yang-yu-60", 
+        "https://www.zhihu.com/people/sorte", 
+        "https://www.zhihu.com/people/wo-cai-74-81", 
+        "https://www.zhihu.com/people/wang-zhi-33", 
+        "https://www.zhihu.com/people/eathen-71", 
+        "https://www.zhihu.com/people/eathen_zheng", 
+        "https://www.zhihu.com/people/smile-36-34-23", 
+        "https://www.zhihu.com/people/zhang-cheng-cheng-88", 
+        "https://www.zhihu.com/people/wang-yang-1992", 
+        "https://www.zhihu.com/people/feng-yue-17", 
+        "https://www.zhihu.com/people/peng-hong-qing", 
+        "https://www.zhihu.com/people/niceworld-49-6", 
+        "https://www.zhihu.com/people/jian-xiao-69", 
+        "https://www.zhihu.com/people/zheng-yi-59-4", 
+        "https://www.zhihu.com/people/shenweichen", 
+        "https://www.zhihu.com/people/fang-albert", 
+        "https://www.zhihu.com/people/zi-zi-ya-72", 
+        "https://www.zhihu.com/people/jcyongqin", 
+        "https://www.zhihu.com/people/zhang-ming-feng-91", 
+        "https://www.zhihu.com/people/huo-zeng-wei", 
+        "https://www.zhihu.com/people/yan-ya-chen", 
+        "https://www.zhihu.com/people/qjklw", 
+        "https://www.zhihu.com/people/sirs05", 
+        "https://www.zhihu.com/people/xu-kai-71-15", 
+        "https://www.zhihu.com/people/ben-ll-66", 
+        "https://www.zhihu.com/people/williamwhe", 
+        "https://www.zhihu.com/people/pengzx-11", 
+        "https://www.zhihu.com/people/buptguo", 
+        "https://www.zhihu.com/people/zhouzhuabin5", 
+        "https://www.zhihu.com/people/qinkang-69", 
+        "https://www.zhihu.com/people/yixiaonongfu", 
+        "https://www.zhihu.com/people/ju-shang-38", 
+        "https://www.zhihu.com/people/mel-tor", 
+        "https://www.zhihu.com/people/wht-buaa", 
+        "https://www.zhihu.com/people/xiyao-lin", 
+        "https://www.zhihu.com/people/lambdaji", 
+        "https://www.zhihu.com/people/jwzheng", 
+        "https://www.zhihu.com/people/qichao-tang", 
+        "https://www.zhihu.com/people/yao-yuan-17-92", 
+        "https://www.zhihu.com/people/xi-cheng-27-96", 
+        "https://www.zhihu.com/people/tan-yun-5", 
+        "https://www.zhihu.com/people/jiao-ge-jin-gang-lang", 
+        "https://www.zhihu.com/people/lincoln-ricardo", 
+        "https://www.zhihu.com/people/guan-zhong-bu-yi", 
+        "https://www.zhihu.com/people/liu-fei-94-95", 
+        "https://www.zhihu.com/people/zhang-yi-xuan-6-51", 
+        "https://www.zhihu.com/people/004398", 
+        "https://www.zhihu.com/people/ghostkit", 
+        "https://www.zhihu.com/people/bianjunjie"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/79853964", 
+            "userName": "周国睿", 
+            "userLink": "https://www.zhihu.com/people/6c66edd6d1776636622efcea1820401b", 
+            "upvote": 239, 
+            "title": "我眼中推荐系统走向下一阶段最重要的三个问题", 
+            "content": "<p>推荐系统和搜索引擎一直是比较火热的技术，因为离商业化比较近。她们是互联网领域两个衣着光鲜的美人，小腰一扭就是钱的味道。这几年凭借着两个红利：1. 互联网行业的经济红利、2. 硬件技术突破触发的炒热了深度学习冷饭带来的技术红利，推荐系统的效果有了比较明显的提升。</p><p>工业界的技术，从传统的人工先验特征设计组合+线性模型（如logistics regression），逐步过渡到了wide&amp;deep、deepFM、DIN、GRU4REC、DIEN等等深度学习模型。这些深度学习模型普遍采用embedding的技术先将原始输入的离散高维信号投影到一个低秩的embedding空间，然后用不同结构的神经网络去拟合输入信号和输出的关系。神经网络的非线性能力可以部分学习不同输入信号之间的非线性关系，把人力从特征设计解放出来，研发一些新的技术。硬件的发展让我们拥有更多的计算资源，可以收集和利用更多的样本。这些条件让高自由度的深度学习模型普遍能取得更好的效果。</p><p>为什么之前不说推荐系统有了比较明显进展，而仅仅说效果上有提升呢？因为<b>从技术层面来说</b>，进入深度学习时代后，推荐系统像是各个应用技术领域中比较玩赖的一个。在深度学习时代，我们大部分情况下只是在利用别的领域诞生出的技术，却没有真正从自有领域出发找出特色的问题并在尝试解决的过程中提出新的技术，也没有从这个商业价值转化这么直接的场景研发出可以推广到其他领域的技术。<b>从社会服务模式来说</b>，推荐系统并没有形成新的服务形态，推荐系统还仅仅是掌握在平台手中，使用推荐系统的用户和推荐内容提供方都没能很好的参与到推荐系统的建设当中。推荐系统真的懂用户要什么吗？有想过能为推荐系统的内容提供者做点什么吗？</p><p><b>简单的说就是这个领域拿了很多钱，却没办太多事</b>。</p><p>虽然我对自己从事这个领域的评价，嘴比较臭，但是我想的还是美的。我觉得推荐系统会走入下一阶段，成为一个能为社会提供更好的服务，同时还能源源不断的孕育新技术的好孩子。个人愚见，要步入下一阶段，我们需要研究三个重要问题：</p><p>1. <b><i>和真实应用场景贴近的统一benchmark</i></b>。我们需要一个工业级、可以迭代真实应用场景技术的数据集。</p><p>2. <b><i>推荐系统的可解释性</i></b>。在我看来可解释性重要的不是指导研究人员之后怎么迭代方法，而是增加透明性，让使用推荐系统的用户和为推荐系统提供内容的生产者能看得懂推荐系统，能参与进来。</p><p>3. <b><i>算法对系统数据的Confounding问题</i></b>。可以简单理解为反馈循环（Feedback Loop）问题，简单来说就是算法会决定推荐系统展示给用户内容，从而间接的影响了用户的行为。而用户的行为反馈数据又会决定算法的学习。形成一个循环。</p><h2>数据集</h2><p>统一可迭代的数据集对一个领域技术发展的推动作用不言而喻。图像领域从mnist、cifar到ImageNet等等，这些开放的数据集为从业者提供了公平迭代的土壤。每个人有自己的想法都可以去尽力尝试，同时自己的想法有统一的标准可以验证，技术自然百花齐放。</p><p>反观推荐系统，大家迭代的数据集都不一样，数据集一样处理方式不一样，很难保证我们report出来的是一个可行的方法，而不是让这个方法可行的实验setting。还有一个比较大的问题是现在开放的数据集规模都和真实工业场景使用的规模相去甚远。推荐系统的真实场景很多问题本就是在真实规模的数据上才特有存在的。学术界和工业界在不同的数据上迭代，这就让产出的方法到真实应用间还存在着巨大的天然鸿沟。我还记得我在找实习的时候和面试官讨论问题，他们经常都会说出一句“工业界不是这样的，你的这个想法太天真”。现在我自己在工业界，我能认识到学界和工业界的区别，但是我想我们能尽量部分缩小这个鸿沟。至少让更多的人有机会参与到贴近实际应用场景的迭代中来。提供一个工业级的开放数据集，让更多的力量参与进来，总会碰撞出一些新的想法。同时大家提出的方法可对比，也就能一步一步的把技术推向更高。工业界把自己特有的问题通释化，让外界的人参与进来分担压力，自己也就能投入更多精力去攻克那些暂时还不可通释化的问题。可能会比说一句“工业界不是这样的”好。</p><p>当然要开源这样的一个数据集也面临特别的挑战，如何保护用户的隐私？大规模的数据集如何维护？如何让大家有能力使用这样的数据集等等... 虽然困难，但是我最近和一些同事已经在计划推进尝试开放这样的一个数据集。我相信也有很多同行也在规划类似的工作，最后我们总会有一个可以让大家<b>公平有效</b>迭代的土壤。</p><h2>可解释性</h2><p>推荐系统目前做的事情是把内容（如商品、新闻、音乐等）和用户联系起来，让用户更高效的接触对自己有意义的内容。我们用 <img src=\"https://www.zhihu.com/equation?tex=I_i\" alt=\"I_i\" eeimg=\"1\"/> 来表示某个商品，其中 <img src=\"https://www.zhihu.com/equation?tex=i+%3D+1%2C2%2C3+...+N\" alt=\"i = 1,2,3 ... N\" eeimg=\"1\"/>  一共有 <img src=\"https://www.zhihu.com/equation?tex=N\" alt=\"N\" eeimg=\"1\"/> 个商品，<img src=\"https://www.zhihu.com/equation?tex=U_j\" alt=\"U_j\" eeimg=\"1\"/> 来表示某个用户，其中 <img src=\"https://www.zhihu.com/equation?tex=j+%3D+1%2C2%2C3+...+M\" alt=\"j = 1,2,3 ... M\" eeimg=\"1\"/>  一共有 <img src=\"https://www.zhihu.com/equation?tex=M\" alt=\"M\" eeimg=\"1\"/> 个用户。同时用 <img src=\"https://www.zhihu.com/equation?tex=%5Csigma%28I_i%2C+U_j%29\" alt=\"\\sigma(I_i, U_j)\" eeimg=\"1\"/> 表达将<img src=\"https://www.zhihu.com/equation?tex=I_i\" alt=\"I_i\" eeimg=\"1\"/>推荐给 <img src=\"https://www.zhihu.com/equation?tex=U_j\" alt=\"U_j\" eeimg=\"1\"/> 产生的价值（可以是点击成交等可直接量化的指标，或者是用户的满意度等）。现在推荐系统做的事情是通过预估 <img src=\"https://www.zhihu.com/equation?tex=%5Csigma%28I_i%2C+U_j%29\" alt=\"\\sigma(I_i, U_j)\" eeimg=\"1\"/>来决定如何在有限的推荐机会中最大化总体的推荐价值 <img src=\"https://www.zhihu.com/equation?tex=V+%3D+%5CSigma_j%5EM+%5CSigma_%7BI%5Ek+%5Cin+S_j%7D%5Csigma%28I%5Ek%2C+U_j%29\" alt=\"V = \\Sigma_j^M \\Sigma_{I^k \\in S_j}\\sigma(I^k, U_j)\" eeimg=\"1\"/> , 其中 <img src=\"https://www.zhihu.com/equation?tex=S_j\" alt=\"S_j\" eeimg=\"1\"/> 代表推荐系统给用户 <img src=\"https://www.zhihu.com/equation?tex=U_j\" alt=\"U_j\" eeimg=\"1\"/> 选取的推荐内容集合。我们的目标其实是让推荐产生的价值更大，但是目前我们的推荐系统局限于通过预估 <img src=\"https://www.zhihu.com/equation?tex=%5Csigma%28I_i%2C+U_j%29\" alt=\"\\sigma(I_i, U_j)\" eeimg=\"1\"/>来决定推荐给用户的<img src=\"https://www.zhihu.com/equation?tex=S_j\" alt=\"S_j\" eeimg=\"1\"/> ，仅仅从分配推荐机会的角度来优化推荐价值。</p><p>可是这个游戏的参与方不仅仅是推荐系统，还有为系统提供内容的内容生产者，以及用户。如果推荐系统仅仅是分配流量，那么它本身能创造的价值有限，为什么不能让内容生产者和用户参与一起创造新的价值，做大这个蛋糕呢。如果内容生产者能提供更优质的内容，是不是总体的推荐价值会变大。推荐系统目前预估推荐价值 <img src=\"https://www.zhihu.com/equation?tex=%5Csigma%28I_i%2C+U_j%29\" alt=\"\\sigma(I_i, U_j)\" eeimg=\"1\"/>很大程度上依赖用户的反馈，如果用户能提供更真实，更准确的反馈是不是能更准确的预估推荐价值 <img src=\"https://www.zhihu.com/equation?tex=%5Csigma%28I_i%2C+U_j%29\" alt=\"\\sigma(I_i, U_j)\" eeimg=\"1\"/>从而提升总体的推荐价值。如果我们在建设推荐系统的技术时仅仅局限于平台自己如何精准的预估<img src=\"https://www.zhihu.com/equation?tex=%5Csigma%28I_i%2C+U_j%29\" alt=\"\\sigma(I_i, U_j)\" eeimg=\"1\"/>，那么总体的推荐价值是有上限的。我们需要的是寻找如何让内容生产者和用户参与到优化推荐系统的桥梁。</p><p>最近几年，在如何更精准的预估推荐价值 <img src=\"https://www.zhihu.com/equation?tex=%5Csigma%28I_i%2C+U_j%29\" alt=\"\\sigma(I_i, U_j)\" eeimg=\"1\"/>上，有不少有效的模型被提出（大部分是深度学习的方法），但是这些模型也越来越黑盒化了。不仅仅是用户和内容提供者不明白推荐系统推荐的逻辑，就连做这些模型的工程师、把控推荐系统平台的人也不了解每一次推荐的逻辑。面对这样一个黑盒的系统，内容提供方和用户不能理解，如何能很好的参与进来呢。</p><p>有意思的是即使在这样一个黑盒的推荐系统下，内容提供方和用户其实是有意识或者有欲望想参与建设更好的推荐系统的。不过由于目前系统的黑盒特性，导致大家不知从何入手。举几个例子。<b>从内容生产者来说</b>，我们以电商为例，大家可以看一下淘宝上那些商品的<b>“标题”</b>。</p><figure data-size=\"small\"><noscript><img src=\"https://pic2.zhimg.com/v2-97627ba472870e0e4942c28110188561_b.jpg\" data-size=\"small\" data-rawwidth=\"1080\" data-rawheight=\"2340\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-97627ba472870e0e4942c28110188561_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;2340&#39;&gt;&lt;/svg&gt;\" data-size=\"small\" data-rawwidth=\"1080\" data-rawheight=\"2340\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-97627ba472870e0e4942c28110188561_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-97627ba472870e0e4942c28110188561_b.jpg\"/><figcaption>随机选自淘宝场景，这些商品的标题，是内容生产者（商家）更多为了写给用户看的呢，还是写给推荐系统看的呢？</figcaption></figure><p>这些标题，在简短的标题中，出现了大量的属性词，可读性并不强。很多时候这些标题可能承载了商家通过标题来影响推荐系统从而获取更多的流量的期望。<b>从用户角度来说</b>，我们就以豆瓣为例，大家对内容是有很强的评价意识的。只是很多场景，我们可能只能通过用户的点击之类的信号来建模推荐价值 <img src=\"https://www.zhihu.com/equation?tex=%5Csigma%28I_i%2C+U_j%29\" alt=\"\\sigma(I_i, U_j)\" eeimg=\"1\"/>。这个时候我们会研（bao）究（yuan）用户的点击信号是带有大量噪声的。但是用户又能怎样呢？是不是很多时候是我们展现给用户的内容具有误导性呢（想象一下商品推荐场景的美女图片）？</p><p><b>为什么可解释性可能是让内容生产者和用户参与到优化推荐系统的桥梁呢？</b>想象一下，如果我们的推荐系统不仅仅是建模了推荐价值 <img src=\"https://www.zhihu.com/equation?tex=%5Csigma%28I_i%2C+U_j%29\" alt=\"\\sigma(I_i, U_j)\" eeimg=\"1\"/>，而是我们真正建模了用户的兴趣，且这个兴趣我们能白盒化的给出一些人能理解的解释。推荐系统可以实时的去预估未来用户的兴趣。那么如果这些兴趣不再是一串无法理解的数字（embedding），如果是人类可以理解的兴趣，比如比较简单的文字标签。这样一些人类可以理解的兴趣是不是可以指导内容生产者去生产更满足用户需要的内容呢。而更丰富更满足用户需要的内容自然会将整个系统的推荐价值推到更高。同时推荐系统推荐某个商品的逻辑，是不是可以显式的透传给用户，让用户给出对这个推荐逻辑的反馈，而不是仅仅给出对推荐结果的反馈。让我们能更接近感知用户真实的兴趣。这样推荐系统的学习也有可能变得更精准。这两个只是我比较局限的思考给出的两个例子。基本的逻辑是，让推荐系统变得白盒化，或者有白盒化的能力，让内容生产者和用户的力量一起加入到推荐系统的优化中来。而不是仅仅推荐系统自说自话，让这个系统变得越来越不可琢磨，不可理解，让用户和内容生产者都无从入手。</p><h2>算法对数据Confounding</h2><p>先用一张简图介绍一下反馈循环（Feedback Loop）：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-83c873fe6a5fca13fd84b2fafdb88d1f_b.jpg\" data-size=\"normal\" data-rawwidth=\"4096\" data-rawheight=\"1553\" class=\"origin_image zh-lightbox-thumb\" width=\"4096\" data-original=\"https://pic4.zhimg.com/v2-83c873fe6a5fca13fd84b2fafdb88d1f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;4096&#39; height=&#39;1553&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"4096\" data-rawheight=\"1553\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"4096\" data-original=\"https://pic4.zhimg.com/v2-83c873fe6a5fca13fd84b2fafdb88d1f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-83c873fe6a5fca13fd84b2fafdb88d1f_b.jpg\"/><figcaption>算法决定了模型，模型决定了推荐的结果，推荐的结果会影响用户的决策和行为，最后用户的行为数据又回到影响算法训练出的模型。算法、平台、用户整个形成了一个反馈的循环。</figcaption></figure><p>简单来说，算法对数据的confounding就是算法会改变了整个系统能观测到的数据分布，而feedback loop导致算法永远在一份已经被自己confunded（混淆）过的数据上进行训练和观测，无法跳出这一循环。甚至有很大的可能会在这个循环中让整个系统逐步收敛，所能观测的数据分布越来越局限，从而引发一些列问题。</p><p>举个例子。有一小部分用户part A，他们的喜好很特别，但是现有算法无法很有效的将part A和其他大部分用户part B区分开。那么这些用户的数据无法很好的影响算法的训练，导致模型最终决定了推荐系统给part A推荐的结果和part B推荐的结果一样。part A的用户不喜欢这些推荐结果，给出了负向的反馈，然而推荐系统的优化目标是整体的准确率或者收益，这部分用户的反馈就被忽视掉，模型继续往part B所在的那部分优化。慢慢的part A用户和平台的交互可能变得越来越少，最终推荐系统成功的挤走了这部分用户。这个时候，即使有一个算法能给part A用户提供好的推荐结果，它也再没有机会为part A的用户服务了，也没有机会证明自己。而这一切发生得是很隐蔽的，可能系统都没意识到自己丢失了这部分价值。</p><p>从道德上讲，这样对少数派的忽略是不公平的。从商业价值上讲，可能短期看上去仅仅失去占比很少的少数派代表的价值，然而如果我们的系统这样循环下去，其实是在源源不断的失去一小部分价值，累积起来是非常大的损失。算法对数据的confounding让系统观测的数据分布逐步收敛，让整个系统的收益边界不断缩小，慢慢陷入无法迭代提升的境地。</p><p>可能有同学会觉得这就是一个简单的系统需要explore问题。然而推荐系统涉及到商业价值，explore变得不是这么简单。我们需要：1. 衡量explore带来的收益和成本 2. 高效的explore方法。1和2在学术界都有非常多的研究，但是在一个快速迭代的工业系统中，这两个问题变得相当艰难。这要求我们必须在很短的周期内explore产生收益并可以衡量explore的效果，不然就得拥抱系统的变化，很多时候可能还得拥抱人事组织的变化 : )</p><h2>总结</h2><p>如果把优化推荐系统的准确率是一个一阶梯度learning方向，可能它吸引了我们过多的精力。优化推荐系统，可以从更多的视角来推动。统一的benchmark、可解释性（透明化）、算法对数据confounding这几个问题的推动可能更像是一种更上层对推荐系统meta-learning。当然了，推荐系统研究发展的环境和氛围并没有我前面表达的那么悲观，还是有很多人在这个领域提出了很多有趣的想法，在一些很tough的问题上持续的努力。最后和大家一起共勉，希望我们能见到更公平、更高效、更满足用户时刻变化需要的推荐系统。</p>", 
+            "topic": [
+                {
+                    "tag": "推荐系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19563024"
+                }, 
+                {
+                    "tag": "推荐系统实现", 
+                    "tagLink": "https://api.zhihu.com/topics/19567531"
+                }, 
+                {
+                    "tag": "深度学习（Deep Learning）", 
+                    "tagLink": "https://api.zhihu.com/topics/19813032"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "邓智鸿", 
+                    "userLink": "https://www.zhihu.com/people/37e690d91327c83e0f31f91a424a2f61", 
+                    "content": "<p>期待阿里能牵头开放一个benchmark数据集和评估标准</p><a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-db92f653a2ec17ea3ff309d6d56e8507.gif\" data-width=\"\" data-height=\"\">[吃瓜]</a>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "周国睿", 
+                            "userLink": "https://www.zhihu.com/people/6c66edd6d1776636622efcea1820401b", 
+                            "content": "有计划和mlperf的一起推一个标准，数据集计划中，我们搞不定，早晚也会有人推出来的[微笑]", 
+                            "likes": 3, 
+                            "replyToAuthor": "邓智鸿"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "learner", 
+                    "userLink": "https://www.zhihu.com/people/860dbe3e790124575829b2a7cfd4e106", 
+                    "content": "可解释性，学术界已经开始火热起来了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "4Recommend", 
+                            "userLink": "https://www.zhihu.com/people/02411f64103f5d77907da78b0732f272", 
+                            "content": "和知识图谱结合", 
+                            "likes": 0, 
+                            "replyToAuthor": "learner"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "燕小麦", 
+                    "userLink": "https://www.zhihu.com/people/d6b2e44efaa88605f1a6d5cfb8cccdc2", 
+                    "content": "同是搜索 加个微信？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "周国睿", 
+                            "userLink": "https://www.zhihu.com/people/6c66edd6d1776636622efcea1820401b", 
+                            "content": "私你了", 
+                            "likes": 0, 
+                            "replyToAuthor": "燕小麦"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "智多多", 
+                    "userLink": "https://www.zhihu.com/people/7d0040e64ccb7cc1b02f09bb0bb87ded", 
+                    "content": "领域拿了很多钱，却没办太多事[赞同]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Tang", 
+                    "userLink": "https://www.zhihu.com/people/f05e9379fee682271d4f3b39a29f2fab", 
+                    "content": "学习了~！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "感觉解释性也是较难入门的研究方向之一", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "周国睿", 
+                            "userLink": "https://www.zhihu.com/people/6c66edd6d1776636622efcea1820401b", 
+                            "content": "对于研究，有价值就去解，和难不难无关。讲性价比是很难推动学科进步的。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "汤斌", 
+                    "userLink": "https://www.zhihu.com/people/35ad4824e531e4434664dace25dfbe4c", 
+                    "content": "几个问题都非常有挑战，dataset的标准化确实很有必要，不过相比nlp和cv这种存在客观标准的领域，推荐要构建公平，泛化性能好的数据集看起来并非易事。不过先走出一小步，也已经是进步了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "菊亭晴季", 
+                    "userLink": "https://www.zhihu.com/people/4cf56f9ae7a2f805304a7b182ad384e2", 
+                    "content": "最近看到minority group相关的工作，跟这里confounding的问题很像啊", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "周国睿", 
+                    "userLink": "https://www.zhihu.com/people/6c66edd6d1776636622efcea1820401b", 
+                    "content": "<p>嗯，感兴趣可以看看这篇 <a href=\"http://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1710.11214.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/pdf/1710.1121</span><span class=\"invisible\">4.pdf</span><span class=\"ellipsis\"></span></a>. 虽然视角稍微局限了一点，但是还是描述得很清楚的。writing本身也让人感觉很舒服。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "菊亭晴季", 
+                    "userLink": "https://www.zhihu.com/people/4cf56f9ae7a2f805304a7b182ad384e2", 
+                    "content": "<p>嗯嗯，推荐领域有一些特殊的在selection bias对算法影响的问题。这篇基于Distributionally Robust Optimization 做的也很有意思<a href=\"http://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1806.08010.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/pdf/1806.0801</span><span class=\"invisible\">0.pdf</span><span class=\"ellipsis\"></span></a>，主要基于控制worst-case risk的视角。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "luois", 
+                    "userLink": "https://www.zhihu.com/people/6d558405c972014b37538414e8df63de", 
+                    "content": "<p>在校生想学习推荐系统，该从哪些方面下功夫呢？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "周国睿", 
+                            "userLink": "https://www.zhihu.com/people/6c66edd6d1776636622efcea1820401b", 
+                            "content": "1. 读近几年的相关综述了解技术发展历史<br>2. 看看近几年大会的paper title和abstract 了解目前技术趋势<br>3. 选定自己感兴趣的问题领域开始深入的学习和探索尝试<br><br>本质上就是一个先通过阅读提升自己认知水平，再尝试通过实践突破阅读带来的认知水平", 
+                            "likes": 3, 
+                            "replyToAuthor": "luois"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "马亿", 
+                    "userLink": "https://www.zhihu.com/people/c743127659bf2dfe61a5634075e734ff", 
+                    "content": "刚在新人夜校听完师兄的分享，就火速来点赞了[滑稽]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "GorgeousShar", 
+                    "userLink": "https://www.zhihu.com/people/dee078e628df73c1ff18ca1034c1417d", 
+                    "content": "[捂脸]当时没选nlp就是感觉可解释性略差，很多作为定理的东西更像是经验之谈的设定，有一些先入为主的概念，更依赖个人感觉与数据分布的理解程度，refix有些玄学成分在里面。我觉得nlp可能需要automl的发展，之后也打算再踩踩坑。。不知道您对具体的哪个方向的“研究前景”表示更好一些？？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "hupanpan", 
+                    "userLink": "https://www.zhihu.com/people/02db1c64a96fbe65378f339a59b22c87", 
+                    "content": "50加可以考虑考虑，低这个数就别浪费时间，让哥自己看下家", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Jesse", 
+                    "userLink": "https://www.zhihu.com/people/a878ff500d7629f41719997f7412f4bd", 
+                    "content": "<p>你好，关于DIN那篇模型在github上的示例代码是否有误呢，可否更改下</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Golion", 
+                    "userLink": "https://www.zhihu.com/people/eca58dc769b86311881b3564b29f88f5", 
+                    "content": "关于数据集，我认为用处不是很大。有数据集代表着问题的形式已经确定了，剩下的建模和迭代不是难题。推荐业务不同于搜索或广告，问题本身怎么描述才是最难的问题。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "韦煜", 
+                    "userLink": "https://www.zhihu.com/people/b17cef9dbecbb3f1ba4ca17cd72568bb", 
+                    "content": "<p>对于第3点反馈循环问题，不知道目前有没有什么比较深入的研究分析，比如反馈循环到底对推荐系统产生了怎样的影响，负面影响有多少之类的</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "周国睿", 
+                            "userLink": "https://www.zhihu.com/people/6c66edd6d1776636622efcea1820401b", 
+                            "content": "有几篇学术界的工作，但是工业级的数据分析还没看到过。这个事情用真实数据分析代价和可操作难度都有很大的挑战。不过很快就会做起来了", 
+                            "likes": 0, 
+                            "replyToAuthor": "韦煜"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "雨中漫步", 
+                    "userLink": "https://www.zhihu.com/people/962453bb204ed2f2260901f256bd2f08", 
+                    "content": "<p>学长您好，想做可解释性推荐算法研究，能否推荐几篇您认为较好的文章呢？如果能排个序更好，谢谢学长！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1147211818773725184"
+}

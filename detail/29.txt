@@ -1,0 +1,281 @@
+{
+    "title": "云飞机器人实验室", 
+    "description": "云飞机器人实验室（yfworld.com）博客同步专栏。专栏包含话题：机器人，自动驾驶，实时系统，系统安全，控制工程，嵌入式系统，人工智能 等。", 
+    "followers": [
+        "https://www.zhihu.com/people/qwhjf", 
+        "https://www.zhihu.com/people/laura-33-30-67", 
+        "https://www.zhihu.com/people/dai-a-ha-ha", 
+        "https://www.zhihu.com/people/zhang-xin-hao-11", 
+        "https://www.zhihu.com/people/gao-qiao-yimao", 
+        "https://www.zhihu.com/people/tkgmail", 
+        "https://www.zhihu.com/people/young-dennis", 
+        "https://www.zhihu.com/people/amtili", 
+        "https://www.zhihu.com/people/xing-fu-ze-99", 
+        "https://www.zhihu.com/people/steven-5-96", 
+        "https://www.zhihu.com/people/aryan-char", 
+        "https://www.zhihu.com/people/lechugu", 
+        "https://www.zhihu.com/people/ping-you-l", 
+        "https://www.zhihu.com/people/zhu-xuan-71-88", 
+        "https://www.zhihu.com/people/lemonwhat-2", 
+        "https://www.zhihu.com/people/bai-zhen-tan-47", 
+        "https://www.zhihu.com/people/ni-da-ye-45-89", 
+        "https://www.zhihu.com/people/li-ri-tian-20-49", 
+        "https://www.zhihu.com/people/yige-fang-yang-wa-23", 
+        "https://www.zhihu.com/people/allen-cao-23", 
+        "https://www.zhihu.com/people/liu-mu-zhi-82", 
+        "https://www.zhihu.com/people/chen-ze-wei-38", 
+        "https://www.zhihu.com/people/li-wu-xin-90", 
+        "https://www.zhihu.com/people/reed-84-49", 
+        "https://www.zhihu.com/people/xi-gong-33-23", 
+        "https://www.zhihu.com/people/yang-dawei", 
+        "https://www.zhihu.com/people/zhou-lu-92-5", 
+        "https://www.zhihu.com/people/nuo-wei-si-ji-kou-qiao-dan", 
+        "https://www.zhihu.com/people/da-er-huo-83", 
+        "https://www.zhihu.com/people/marcrew", 
+        "https://www.zhihu.com/people/si-xi-43-10", 
+        "https://www.zhihu.com/people/lmg-90", 
+        "https://www.zhihu.com/people/mi-si-te-xu-96", 
+        "https://www.zhihu.com/people/liu-tian-ming-1", 
+        "https://www.zhihu.com/people/yang-jiang-49-6", 
+        "https://www.zhihu.com/people/liang-fei-58", 
+        "https://www.zhihu.com/people/jie-guo-9", 
+        "https://www.zhihu.com/people/itwob", 
+        "https://www.zhihu.com/people/xiao-meng-meng-yao-ni-xi", 
+        "https://www.zhihu.com/people/daisy-97-88-98", 
+        "https://www.zhihu.com/people/dao-cao-93-25", 
+        "https://www.zhihu.com/people/wu-hui-huan", 
+        "https://www.zhihu.com/people/liuwei-98-50", 
+        "https://www.zhihu.com/people/chendeshen", 
+        "https://www.zhihu.com/people/xu-x-83", 
+        "https://www.zhihu.com/people/zhanghl-52-64", 
+        "https://www.zhihu.com/people/zhen-xing-87", 
+        "https://www.zhihu.com/people/su-su-72-89", 
+        "https://www.zhihu.com/people/linuxcpp", 
+        "https://www.zhihu.com/people/stealing", 
+        "https://www.zhihu.com/people/davidyan", 
+        "https://www.zhihu.com/people/da-shui-piao-peng-peng", 
+        "https://www.zhihu.com/people/libin-sui", 
+        "https://www.zhihu.com/people/xiao-er-lai-ge-id", 
+        "https://www.zhihu.com/people/lin-jia-pei-13", 
+        "https://www.zhihu.com/people/loo-aeo", 
+        "https://www.zhihu.com/people/david-yang-25", 
+        "https://www.zhihu.com/people/wang-guo-guang", 
+        "https://www.zhihu.com/people/yao-nan-41-32", 
+        "https://www.zhihu.com/people/ping-de-shi-jie-49", 
+        "https://www.zhihu.com/people/zhu-lan-fei-66", 
+        "https://www.zhihu.com/people/tu-zhang-jie", 
+        "https://www.zhihu.com/people/wang-shi-lin-46-1", 
+        "https://www.zhihu.com/people/qing-niao-73-13", 
+        "https://www.zhihu.com/people/rang-tong-geng-tong", 
+        "https://www.zhihu.com/people/zhang-chao-18-42", 
+        "https://www.zhihu.com/people/wang-yin-jie", 
+        "https://www.zhihu.com/people/jiu-ye-20-63", 
+        "https://www.zhihu.com/people/imyuntao", 
+        "https://www.zhihu.com/people/god-shawn", 
+        "https://www.zhihu.com/people/Idiotnick", 
+        "https://www.zhihu.com/people/fu-zhen-zhen", 
+        "https://www.zhihu.com/people/wu-de-xin-82-51", 
+        "https://www.zhihu.com/people/nuo-yi-wu-59", 
+        "https://www.zhihu.com/people/yang-jie", 
+        "https://www.zhihu.com/people/field-83-44", 
+        "https://www.zhihu.com/people/zhang-du-mao", 
+        "https://www.zhihu.com/people/li-wen-qi-14-93", 
+        "https://www.zhihu.com/people/xun-zhou", 
+        "https://www.zhihu.com/people/ni-liu-de-guang-jing", 
+        "https://www.zhihu.com/people/chang_xiaozhao", 
+        "https://www.zhihu.com/people/wj2014-59"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61362833", 
+            "userName": "戴晓天", 
+            "userLink": "https://www.zhihu.com/people/f73df03d41a03ef64cecae3d2841107c", 
+            "upvote": 3, 
+            "title": "实时系统领域的研究方向", 
+            "content": "<p>实时系统是计算机科学中的一个重要分支，其与嵌入式系统、操作系统、运筹与优化等领域具有较强关联。我读博期间选择了实时系统任务调度方向，多年下来也算有点经验。在这里，我总结一下实时系统领域内目前主流的几个研究方向，希望对初入这个领域的硕士/博士有所帮助。</p><h3><br/>1. 研究方向</h3><ul><li>多核任务调度：Global/partitioned multicore scheduling；</li><li>多核资源调度：Multiprocessor resource sharing protocols, e.g., MrsP；</li><li>实时编程语言：Real-Time Ada/Spark, Real-Time Specification Java (RTSJ)；</li><li>多关键性系统：Mixed-criticality systems;</li><li>虚拟化：Virtualization, dual-os；</li><li>硬件相关：Many-cores，GPGPU并行化，ASIC；</li><li>实时通信：工业实时总线，CAN消息调度；</li><li>大型网络调度：WSN, Network-on-chip (NoC)</li></ul><h3><br/>2. 研究项目组与大学</h3><p>这里给出的实时系统研究组主要集中在欧美，国内的情况我不太熟悉，日后再做补充：</p><p><b>Europe</b></p><ul><li>Real-Time Systems Research Group, University of York (York, UK)</li><li>ReTis Lab – Real-Time Systems Laboratory, Sant&#39;Anna School of Advanced Studies (Pisa, Italy)</li><li>CISTER: Research Centre in Real-Time Computing Systems (Porto, Portugal)</li><li>Real-Time Systems Research Group (Vienna, Austria)</li><li>MRTC – Mälardalen Real-Time Research Centre (Vasteras, Sweden)</li><li>PARTS – Parallel Architectures for Real-Time Systems (Brussels, Belgium)</li><li>Real-Time Systems at TU Kaiserslautern (Kaiserslautern, Germany)</li><li>Real-Time and Embedded Systems Group at MPI-SWS (Saarbrücken, Germany)</li></ul><p><br/><b>America</b></p><ul><li>Networked Real-Time and Embedded Systems Laboratory, University of Illinoi</li><li>Real-Time Systems Group, University of North Carolina</li><li>Cyber-Physical Systems Lab, Washington University in St. Louis</li></ul><p><br/><b>Asia</b></p><ul><li>Timing Analysis Group, National University of Singapore</li></ul><h3><br/>3. 相关学术会议</h3><p>会议方面有专门针对实时系统的RTSS等，也有嵌入式方面的EmSoft，还有CPS方向的如ICCPS等：</p><p>实时系统方向：</p><ul><li>RTSS (A1, CCF A)</li><li>RTAS (A2, CCF B)</li><li>ECRTS (A2)</li><li>RTCSA (B)</li><li>RTNS (?)</li></ul><p>嵌入式系统方向：</p><ul><li>EmSoft (A1, CCF B)</li><li>Ada-Euorpe (B)</li></ul><p>设计自动化方向：</p><ul><li>DAC (A1, CCF A)</li><li>DATE (A2, CCF B)</li></ul><p>信息物理系统/物联网方向：</p><ul><li>ICCPS (?)</li></ul><p>以上内容算是抛砖引玉，相关内容我会不断更新。欢迎讨论与补充。</p>", 
+            "topic": [
+                {
+                    "tag": "实时系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19583330"
+                }, 
+                {
+                    "tag": "嵌入式系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19565752"
+                }, 
+                {
+                    "tag": "科研", 
+                    "tagLink": "https://api.zhihu.com/topics/19556895"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61332569", 
+            "userName": "戴晓天", 
+            "userLink": "https://www.zhihu.com/people/f73df03d41a03ef64cecae3d2841107c", 
+            "upvote": 1, 
+            "title": "实时系统研究的一点思考", 
+            "content": "<p>要想弄清实时系统的研究意义，首先必须明确实时系统在整个工程系统中的角色。</p><p>实时系统的主要应用对象是工业控制、轨道交通、航空航天、电力及能源、机器人、网络设备及服务等。这些系统的稳定性很大程度上决定了生命财产与经济的安全性：如电力系统的短时间崩溃会导致工业和交通停滞，并可能带来生命财产事故；航天飞行器的软件故障，会导致与地面控制中心的失联甚至是坠毁，带来巨大的财产损失。社会的正常发展和秩序很大程度上依赖于这些实时系统的稳定性和可靠性。纵使我们不想如此，人类生活的方方面面还是很大程度上依存于并不稳定的软件系统。设想如果有这样一个软件漏洞，使得多个重要系统在同一时间失控，那么其带来的社会影响和经济损失将不可估量。 实时系统的主要研究目标：保障实时系统在时间和行为上的可预测性，设立可靠的软件设计方法；就是在预防和避免以上的不可靠情况的出现。</p><p>至于在当前计算机速度已经如此之快的情况下，实时性研究是否还有其必要性。</p><p>答案我想也是肯定的。在新的计算机结构出现之前，CPU速度的提升不等同于系统实时性的提升。CPU速度的提升显然会减少程序的执行时间 (execution time)，但是对于从请求产生到得出结果的响应时间 (response time) 及IO的输出间隔的稳定性 (IO jitter) 依然没有明确的保证。与此同时，更加复杂的操作系统和计算机硬件也提高了这种不确定性，例如CPU流水线、cache缓存、内存分页带来的运行时间浮动。反观实时系统的发展历史，从早期的只有MHz的处理器到如今的多核、异构等高性能运算，算力已经提升了数百倍，然而对实时系统的研究却一直没有停滞。综上，CPU速度的提升无法带来实时性上的保证，依然需要依靠实时性分析来保障系统在时间上的可预测性。</p>", 
+            "topic": [
+                {
+                    "tag": "实时系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19583330"
+                }, 
+                {
+                    "tag": "嵌入式系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19565752"
+                }, 
+                {
+                    "tag": "科研", 
+                    "tagLink": "https://api.zhihu.com/topics/19556895"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57036602", 
+            "userName": "戴晓天", 
+            "userLink": "https://www.zhihu.com/people/f73df03d41a03ef64cecae3d2841107c", 
+            "upvote": 7, 
+            "title": "2019年工作展望", 
+            "content": "<p>回顾2018年，因为科研工作忙碌，几乎没有新写文章，很多设立的目标没有达成。2019年需要再接再厉。</p><p>今年，我想主要围绕我自己的工作写一些中/英文的技术文章，在技术深度上稍加挖掘。云飞实验室在2019年设下的计划有：</p><ol><li>增加实时系统相关的文章，包括实时操作系统的原理和任务调度等；</li><li>写若干机器人深度学习/深度增强学习的入门和调研文章；</li><li>自动驾驶中的一些关键技术；</li><li>写一些ROS与深度增强学习的结合使用；</li><li>写一些 系统工程（Systems Engineering） 和 基于模型的系统工程（MBE）方面的文章。</li></ol><p>敬请期待。2019年和诸位一起努力。</p>", 
+            "topic": [
+                {
+                    "tag": "机器人", 
+                    "tagLink": "https://api.zhihu.com/topics/19551273"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37179323", 
+            "userName": "戴晓天", 
+            "userLink": "https://www.zhihu.com/people/f73df03d41a03ef64cecae3d2841107c", 
+            "upvote": 17, 
+            "title": "RTOS实时操作系统杂谈", 
+            "content": "<blockquote>实时操作系统 (RTOS) 在工业控制、航空航天和电力系统中有大量应用。我自己接触实时操作系统已有几年时间，虽然实际的项目使用经验不多，然而耳濡目染还是积累了一些经验和知识。在这里整理和分享给大家。</blockquote><p>实时操作系统（Real-time Operating System, RTOS）是针对有实时性要求的应用而设计的操作系统。这些应用通常包括汽车引擎控制、轨道交通、工业机器人、飞行器控制系统等。实时操作系统一般提供抢占式调度机制，重要的高优先级任务可以剥夺低优先级任务对CPU的使用权；同时，任务在等待使用资源时，RTOS可以将其CPU的使用权释放给其他就绪的任务，从而使得系统的总体响应速度更快。</p><h2><b>1. 常见的RTOS</b></h2><p>目前市场上常见的商用实时操作系统有：</p><ul><li>uCosII / uCosIII | Micrium</li><li>FreeRTOS</li><li>Nucleus RTOS | Mentor Graphics</li><li>RTLinux (需要MMU支持)</li><li>QNX (需要MMU支持)</li><li>VxWorks | WindRiver</li><li>eCos</li><li>RTEMS</li></ul><p>其中除了FreeRTOS, RTEMS和RTLinux是免费的之外，其余RTOS都是需要商业授权的。uCos II和FreeRTOS是平时接触比较多的RTOS，相关资料比较多。而VxWorks是安全性公认最佳的，用于航空航天、轨道交通和卫星的应用。如果系统中需要使用复杂的文件、数据库、网络等功能，那么以Linux为基础的RTLinux是比较好的选择；但是如果系统对实时性和确定性的要求非常高，那么可以使用较为简单的RTOS（如 uCosII），再根据需要开发通信协议或者软件包。总体上来说，操作系统的复杂性是与应用软件的复杂性一致的。同时，功能上更复杂的RTOS对硬件系统资源的需求也会更高。</p><h2><b>2. RTOS的功能</b></h2><p>一般的RTOS会提供以下全部或部分功能：</p><ul><li>基于静态优先级(fixed-priority)的抢占式(preemptive)任务调度；</li><li>进程间通信(基于消息，消息邮箱，管道)；</li><li>基于信号量(semaphore)的进程间同步；</li><li>任务的创建、暂停、删除；</li><li>资源访问控制(并发控制与防止互锁)；</li><li>临界区(critical section)控制；</li><li>驱动程序的管理与接口；</li><li>MMU内存管理、内存动态申请与分配；</li><li>其他功能：如GUI用户界面和TCP/IP相关功能。</li></ul><h2><b>3. 选用指标</b></h2><p>一般来说，实时操作系统的主要参数指标有：</p><ul><li>支持的优先级数量，如64、128或256；</li><li>使用的任务调度算法：时间片轮转调度，加权轮转调度(weighted round-robin)，先入先出(FCFS)，优先级调度；任务调度算法决定了任务响应时间的可分析性；</li><li>中断响应速度，即从中断产生到进入中断服务程序的时间；</li><li>上下文切换时间，即任务切换时间；</li><li>操作系统大小以及资源使用（footprint, ROM及RAM的占用）；</li><li>授权费用与授权方式，是按产品型号计费、产品数量计费还是一次性授权。</li></ul><p>其他的选择指标主要就是文档的完整程度，是否有GUI支持，团队对该OS的了解程度，所支持的CPU型号以及需求功能的规模，以及相应的技术支持。从更专业的角度上来说，还有是否支持防死锁（deadlock）和优先级反转（priority inversion）等提高系统可靠性的功能，操作系统自身服务程序占用的时间大小。对于时间关键性应用，操作系统需要具备相对确定的执行时间（deterministic execution time）。从调试的角度来说，操作系统是否具有调试功能（尤其是多线程、多核）以及支持的调试工具也是重要的指标。</p><h2><b>4. 关于RTOS的误区</b></h2><p>最后说一下关于实时操作系统的两个误区：</p><p>1、用了实时系统后，系统响应速度一定更快。不一定。因为实时操作系统本身引入了执行开销，所以对于小型应用来说，有RTOS的性能也许不如无操作系统的情况。实时操作系统的优势最能体现在中大型系统中，当任务间存在复杂的耦合和依赖关系，并且应用程序经常要长时间等待外部资源时。</p><p>2、用实时操作系统就可以保证实时性。不一定。相对来说，使用实时系统可以改善系统的实时性。但是实时操作系统只是作为工具存在的，如果需要提供实时性保障，还需要使用实时系统理论对任务的可调度性和响应时间进行分析，才可以得到科学、系统的响应性保障。</p><h2><b>修订历史</b></h2><ul><li>2018-05-22 (v1.1) 修改了部分内容，为知乎专栏调整了版式</li><li>2015-08-17 (v1.0) 初版，在云飞机器人实验室发表</li></ul>", 
+            "topic": [
+                {
+                    "tag": "实时操作系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19702781"
+                }, 
+                {
+                    "tag": "嵌入式系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19565752"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "无觅", 
+                    "userLink": "https://www.zhihu.com/people/110a59f639c43518966d979bd26df803", 
+                    "content": "<p>不错</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "明天要上班", 
+                    "userLink": "https://www.zhihu.com/people/5daf43a9dacd5482c86fcdd9eb518ec6", 
+                    "content": "在哪可以找到RT-Linux的开源代码？怎么学习使用？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37086599", 
+            "userName": "戴晓天", 
+            "userLink": "https://www.zhihu.com/people/f73df03d41a03ef64cecae3d2841107c", 
+            "upvote": 0, 
+            "title": "如何做一个好的博客", 
+            "content": "<p>我从2010年开始写博客。在过去的五年多时间里，除了自然而然增长的博文数量外，我的博文质量也在潜移默化的提高。然而这种质量的提高并不完全是自然形成的，这是需要不断思考博客的核心价值，同时在不断迭代的设计中艰难地产生的。<b>每个人对自己的博客有一个定位，也有自己对于好博客的一套衡量标准。</b>我从我自己以往产生的经验，来谈谈我眼中的好博客应该是什么样子的。</p><p>首先，一个好的博客需要是<b>原创</b>的，至少是半原创的。没有人喜欢整个网站全是复制-粘贴来的博文，这不光来自复制过程中产生的版式错误，而是这种复制的方式的本质是欠思考的、不系统的。行为上的懒惰必然导致思维上的懒惰，这样得来的文章只会显得杂乱无章，而不能体现任何博主自身的意图。可惜的是，这样的博客占了很大一部分。我想很多人也许并无意将自己的博客给别人看，而只是作为自己知识的索引。然而即使是这样，系统的整理也是必须的。这是一个吸收与理解知识的最好机会，有时甚至比文章自身带来的价值更大。</p><p>其次，是<b>核心主题</b>。所谓主题，就是整个博客中的博文是耦合或者是弱耦合的。制造主题的方式有很多，其中之一就是采用博文系列或专题的方式。比如云飞实验室以机器人和嵌入式为主题，也开发了热门的树莓派、Arduino和STM32等专题。正如写文章一样，博文的内容大多是围绕一个主题的。如果偏题太多，同样就会失去博客自己的特色。记住，你的博客是一个博客，而不是一个分享一切信息的网站。想要很好的做到这一点，你需要有自己假象的用户。比如对我自己而言，我的假象用户是嵌入式工程师，机器人爱好者，Makers。我每考虑创作写一篇博文，都会首先站在读者的角度去考虑。我会去判断这篇博文对读者的价值是多少？他们是否感兴趣？能不能帮助他们/引发更深层的扩展和思考？在这个过程中会有很多取舍。可能会遇到你很想发布，然而偏离主题，远离读者的博文。这是需要避免的。</p><p>再者，我就觉得是<b>博客设计</b>。我所说的设计，不仅包括网站的CSS版式，也包含了文章内部的组织。总体上来说，就是要做到<b>美</b>和<b>简洁</b>。简洁就是去除不必要的元素，避免华而不实的特效、动画、插件等。这些元素有时会破坏博客整体的平衡性，也会让读者分散精力。简洁可以给读者创造出纯净的阅读体验。而美就会略为主观了。我所理解的美，包括文章的段落结构，图片的尺寸、配色、位置，示例代码的优美性。以我的经验来看，美是需要用心才能做到的。需要让自己变得沉静，敏感，细腻。<b>美的产生与其说是与生俱来，不如说是精雕细琢的产物。</b>对美的感受也有进化的过程（但我觉得总体上是向正方向前进的）。很多时候，我会去看自己很久之前的博文，如果觉得做的还不够好，会再仔细修改。我也经常从别人的网站和博客中吸取经验，学习如何更好的排版、安插图片和代码等。这些需要一个人的审美层次，然而更多时候是花费时间和精力去雕琢而成的。</p><p>这些是我多年来一直在思考和遵循的原则，今日突然想与诸位分享之，便有此文。</p>", 
+            "topic": [
+                {
+                    "tag": "个人博客", 
+                    "tagLink": "https://api.zhihu.com/topics/19593765"
+                }, 
+                {
+                    "tag": "博客", 
+                    "tagLink": "https://api.zhihu.com/topics/19550419"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32723220", 
+            "userName": "戴晓天", 
+            "userLink": "https://www.zhihu.com/people/f73df03d41a03ef64cecae3d2841107c", 
+            "upvote": 7, 
+            "title": "Linux系统全方位调试与维护工具整理", 
+            "content": "<blockquote>俗话说：“工欲善其事，必先利其器。”<br/>在多年维护和开发Linux服务器的过程中，我接触了一些常用的开发和调试工具。本文将这些工具整理在一起，便于指导读者选择正确的工具。文中对于工具只有简单的介绍，需要详细的用法可以<code>--help</code>或自行Google。<br/>本文针对的环境是<b>CentOS</b>/<b>RedHat</b>服务器 (需要epel库)。其他发行版应该也有相应的命令，但我没有一一测试。</blockquote><p><b>系统管理</b></p><ul><li>ssh: 远程登录</li><li>last, lastlog: 查看用户登录历史</li><li>cron: 设置周期运行的定时任务</li><li>at: 设置运行一次的定时任务</li><li>screen/nohup: 在后台运行程序，程序不会随着shell关闭而退出</li><li>rsync: 文件夹同步</li><li>pv: 文件拷贝（重定向方法，含进度条，但会丢失文件的权限信息）</li><li>lshw: 显示硬件信息</li><li>lscpu: 显示CPU信息</li><li>dmesg: 显示系统日志</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>资源监控</b></p><h2>通过查看系统资源使用，快速定位性能瓶颈与系统异常。</h2><ul><li>内存</li><ul><li>free: 当前内存使用情况</li></ul></ul><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>硬盘</li><ul><li>df: 硬盘空间使用情况</li><li>iotop: 磁盘IO使用实时监视</li><li>ncdu: 分析文件夹使用的磁盘大小</li></ul></ul><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>CPU</li><ul><li>见进程调试</li></ul></ul><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>网络</li><ul><li>nethogs: 监控当前活跃的网络连接</li><li>nload: 主机上传/下载流量监控</li></ul></ul><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>综合</li><ul><li>glances: 系统资源、进程查看工具（我的最爱）</li><li>linux-dash/pyDash: 系统资源监控（基于网页）</li></ul></ul><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>内核调试</b></p><ul><li>perf</li><li>kgdb: 内核调试工具</li><li>lsmod: 显示所有被使用的module</li><li>vmstat</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>进程调试</b></p><ul><li>ps: 查看当前进程</li><li>top: 查看当前进程以及进程资源占用情况（动态更新）</li><li>htop: top替代工具，信息丰富，可以查看树状进程信息</li><li>pidof: 按进程名查PID</li><li>skill: kill的升级版，通过名字（而不是PID）kill进程</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>文件调试</b></p><ul><li>tree: 将文件夹按树形显示</li><li>lsof: 显示当前程序文件（包括虚拟文件）打开情况</li><li>mc: Midnight Commander知名文件管理器</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>网络调试</b></p><ul><li>curl: 发送HTTP, REST请求</li><li>tcpdump: 抓包工具，通过自带的与或非逻辑可以组合成复杂的过滤条件</li><li>wireshark: 类似tcpdump的老牌抓包神器</li><li>nmap: 网络开放端口扫描</li><li>ip: 网络管理工具集</li><li>fping: ping升级版</li><li>netstat</li><li>nicstat</li><li>iptraf</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>程序调试</b></p><ul><li>gdb: gnu项目下的代码调试器</li><li>strace: 打印出进程调用了哪些系统调用。</li><li>ldd: 查看程序依赖库。</li><li>objdump: 打印目标码和反汇编结果。</li><li>xargs: 读取输入流并将读取的文本作为指定命令行工具的命令行参数。</li><li>ipcs: 显示进程间通信设施状态</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>其他工具</b></p><ul><li>vim/nano: 文本编辑器</li><li>grep, sed: 文本信息处理</li><li>awk: 表处理，很强大的二维表处理功能，可以对格式化文本输出进行处理</li><li>jq: 命令行的json查询和格式化工具，适合查看REST接口的输出</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p><b>References</b></p><p>[1] 用十条命令在一分钟内检查Linux服务器性能, <a href=\"https://link.zhihu.com/?target=http%3A//www.infoq.com/cn/news/2015/12/linux-performance\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">infoq.com/cn/news/2015/</span><span class=\"invisible\">12/linux-performance</span><span class=\"ellipsis\"></span></a><br/>[2] Linux Performance, Brendan D. Gregg, <a href=\"https://link.zhihu.com/?target=http%3A//www.brendangregg.com/linuxperf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">brendangregg.com/linuxp</span><span class=\"invisible\">erf</span><span class=\"ellipsis\"></span></a></p>", 
+            "topic": [
+                {
+                    "tag": "计算机", 
+                    "tagLink": "https://api.zhihu.com/topics/19555547"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Nick cKing", 
+                    "userLink": "https://www.zhihu.com/people/e575f181674fe4da0f61989eef2cc971", 
+                    "content": "少了valgrind啊，内存泄漏得找他", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26788184", 
+            "userName": "戴晓天", 
+            "userLink": "https://www.zhihu.com/people/f73df03d41a03ef64cecae3d2841107c", 
+            "upvote": 19, 
+            "title": "使用Markdown进行写作和博客记录", 
+            "content": "<h2>1. 背景</h2><p>Markdown是一种语法简洁的标记语言 (Markup Language)。Markdown可以使用任何一种纯文本编辑器进行编辑，同时可以渲染、生成HTML。Markdown虽然是标记语言，但是和HTML比起来具有更好的可读性。与富文本(Rich Format Text, RFT)格式相比，Markdown的纯文本特性让使用者可以更加关注内容，专注于文字的表达。我多年前在友人的推荐下开始尝试用Markdown写作。我一开始并不习惯这种所写和所得分离的方式，但是之后也慢慢习惯、喜欢上了这种内容与格式分离的文字编辑方式。此文我整理了我关于Markdown的认识（本文也是通过Makrdown书写的），同时我推荐大家开始尝试用Markdown生产笔记、日记、文档、博客等文字信息。</p><h2>2. 使用Markdown的好处</h2><p>先说一下Markdown语言的优势：</p><ul><li>记录速度快：比起其他文字格式，Markdown可以更快地记录信息，编辑过程只需要键盘参与。基本的文字格式 （如标题，粗体，斜体等）可以通过快捷键实现，利用序号、列表功能还可以快速生成层次化的段落结构。</li><li>Markdown是纯文本格式，可以用普通文本编辑器编辑（nano, VIM, Notepad++等），方便修改和共享。</li><li>可移植性好。工具是不断变迁的，对于富文本工具而言，更换工具就意味着文字格式无法完美保留（当初从写字板到word）；而对于Markdown而言，因为源文件本身并没有格式编码，所以更换工具几乎不会影响版式。不同工具的渲染结果也几乎没有差别。</li><li>重内容，轻版式。很多时候我们会浪费很多精力在文字的排版和格式统一上，而Markdown简单清晰的编辑方式，让我们可以集中于内容的编辑。</li><li>可以生成HTML。Markdown在设计时就完全兼容HTML，可以直接插入HTML代码（但是不推荐，会影响纯文本的优点）。Markdown配合不同的CSS可以渲染成不同风格的网页，Markdown还可以导出为pdf。除此之外还可以渲染成多种格式（大多数编辑器有导出功能，或者用Pandoc转换）。</li><li>图文分离，备份或者传播时简单、信息的体积小。</li></ul><h2>3. 使用Markdown的坏处</h2><p>然而Markdown也并非完美：</p><ul><li>所见非所得。编辑器和Live Preview是独立的系统，如果需要实时预览，则需要编辑工具的支持。</li><li>插图不方便。在富文本系统中可以直接copy + paste，而一般的Markdown系统则需要单独的文件夹存储图片，还需要额外输入图片路径。</li><li>文字的表示形式有限。相比富文本，Markdown无法随心所欲地修改文字的属性（字体、颜色、大小等）。如果需要特殊的文字格式，需要插入额外的html属性，但是这些会破坏纯文本的移植性。</li><li>页面版式、布局相对固定。总体来说只能是线性的记录方式。如果需要自由的图文混排，其他工具如Word或者Onenote是更好的平台。</li></ul><h2>4. 常见Markdown编辑器/写作平台</h2><p>我将常见的Markdown编辑器整理如下(按照我的个人喜好排序)，我本人更倾向使用本地编辑平台，可以和本地工具有更好得融合：</p><ul><li>本地Markdown编辑器<br/></li><ul><li><a href=\"https://link.zhihu.com/?target=https%3A//leanote.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Leanote</a>：在线 + Windows客户端，支持MD预览、分类管理、代码高亮、数学公式。是我个人使用最多的笔记编辑和归档工具。</li><li><a href=\"https://link.zhihu.com/?target=http%3A//pad.haroopress.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Haroopad</a>：开源的Markdown编辑器，界面简洁，有多种编辑/预览样式可供使用。这个软件我当前用来编辑本地的Markdown文件。</li><li><a href=\"https://link.zhihu.com/?target=http%3A//zh.mweb.im/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">MWeb</a>：Mac和iOS平台下的Markdown编辑器。看见很多人推荐，就自己用了iOS下的版本。使用后感觉不错，但是还是有很多Bug需要完善。这个软件的特点是支持直接发布到Wordpress, Hexo, JekyII博客平台。官方说之后会收费。</li><li><a href=\"https://link.zhihu.com/?target=http%3A//markdownpad.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">MarkdownPad</a>：是我最早使用的Markdown编辑器，刚开始用来编辑Github的Readme。后来觉得还是不够轻便，就没有再继续使用。Windows本地软件，单文件编辑，没有分类和管理功能。高级版需要付费。</li><li><a href=\"https://link.zhihu.com/?target=https%3A//typora.io/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Typora</a>：很有意思的Windows/Mac下的MD编辑器，写作时同步预览。这种实时预览的模式很多Markdown的老用户会不习惯吧。</li><li>Atom + Markdown Preview插件：跨平台，本地Markdown编辑，没有分类和管理功能。Geek的选择。</li><li>Cmd Markdown - 作业部落：功能很多，主要功能免费，在线/有本地客户端。支持版本回退、代码高亮、数学公式。但是对内容组织的支持不够。</li><li><a href=\"https://link.zhihu.com/?target=http%3A//markdownedit.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Markdown Edit</a>：一款开源的Markdown编辑器，简洁，支持LaTex公式。目前的功能还比较简单。</li><li>Sublime + Evernote-Packages：Atom现在很大程度取代了Sublime，我并没有实际用过这个方案，所以才放在最后。</li></ul></ul><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>在线Markdown编辑器<br/></li><ul><li><a href=\"https://link.zhihu.com/?target=https%3A//stackedit.io/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">StackEdit</a>：在线，编辑界面友善、视觉上很舒服，中文支持不错。</li><li>马克飞象：在线，功能齐全，适合程序员。可以和Evernote连接。但是必须按月付费。</li><li><a href=\"https://link.zhihu.com/?target=http%3A//dillinger.io/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Dillinger</a>：在线，界面简洁，开源，中文字体显示不太清楚。</li><li>小书匠：界面有点花哨，软件庞大，载入也比较慢；但好处是免费。也有很多人推荐。</li></ul></ul><p class=\"ztext-empty-paragraph\"><br/></p><h2>5. 将Markdown与Evernote结合</h2><p>大部分人使用的主要书写/笔记平台是Evernote，那么Markdown怎么和Evernote集成呢？基于知乎上余知兮等人的回答：<a href=\"https://www.zhihu.com/question/20086835\" class=\"internal\">知乎 -有哪些 Markdown 编辑器支持保存到印象笔记 Evernote？</a>，我做了一个亲测调查，以下按我的使用体验排序：</p><ul><li>Windows</li><ul><li>将Markdown源文件作为Evernote笔记的附件，每次修改后将渲染的内容拷贝到Evernote，而MD源文件会自动更新。这是我目前使用的方法，缺点是每次更新md文件后还要拷贝渲染的html网页；并且由于Evernote本身的编辑能力很差，最好每次更新都只通过Markdown软件实现，所以即使是很小的修改也要走这个流程。</li><li>Markdown Here (浏览器插件)：之前使用过一段时间。发现如果在Evernote客户端上操作过，而不是一直使用网页端，有时就无法再切换回Markdown模式了。</li><li>马克飞象/Marxico：功能强大，和Evernote结合紧密，按月收费。</li><li>Cmd Markdown：基础功能免费，同步到Evernote需要收费。</li><li><a href=\"https://link.zhihu.com/?target=http%3A//Markable.in\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">Markable.in</span><span class=\"invisible\"></span></a>：可以双向同步，实际测试时只有单向同步，并发现不支持中文标题。</li><li>小书匠Markdown<br/></li><li>Sublime: Evernote-Packages，支持双向读取（没有实际测试）</li><li>MWeb（Mac平台，没有实际测试过，据说是很好的Markdown写作和静态博客生成软件）</li></ul></ul><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>Mac/iOS</li><ul><li>MWeb: 我不是Mac用户，唯一测试的就是这款有iOS版本的编辑器。实测可以成功导出到Evernote。</li><li>Ulysses, Evermark, Byword, Mou, Day One, Alternote, drafts</li></ul></ul><p>很多软件将Evernote同步作为收费功能，我个人不太愿意为了这一个功能而订购会员。Evernote正在逐步添加一些对Markdown的支持，有希望哪一天就可以完全支持Markdown语法了。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>6. 用Markdown写博客</h2><p>目前支持用Markdown直接写作的静态博客系统：</p><ul><li>Hugo</li><li>Hexo</li><li>JekyII + Emacs + Git</li><li>Ghost</li></ul><p>作为主流的博客平台，Wordpress使用富文本编辑器，对Markdown的支持还不足。如果想要在WordPress中使用Markdown，可以采用以下方法：</p><ul><li>先用各类Markdown编辑器写作，将结果转化为html，然后paste到Wordpress的源码编辑器中。缺点：需要手动上传图片。</li><li>WordPress 4.3后原生支持Markdown（没有找到相关选项，应该是要使用wordpress官方host服务才有这个功能）</li><li>WordPress JetPack插件</li><li>WP Editor.MD插件</li></ul><p>最后给一份Markdown语法说明：<a href=\"https://link.zhihu.com/?target=https%3A//coding.net/help/doc/project/markdown.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">CODING - Markdown语法介绍</a>。</p>", 
+            "topic": [
+                {
+                    "tag": "Markdown", 
+                    "tagLink": "https://api.zhihu.com/topics/19590742"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Bill", 
+                    "userLink": "https://www.zhihu.com/people/546d81094fe999ab7483c39a5f0dbdd5", 
+                    "content": "<p>博主的写作逻辑很清晰，读完收获很大！</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26788177", 
+            "userName": "戴晓天", 
+            "userLink": "https://www.zhihu.com/people/f73df03d41a03ef64cecae3d2841107c", 
+            "upvote": 12, 
+            "title": "如何构建和管理自己的知识系统", 
+            "content": "<h1><strong>1. 背景</strong></h1><p>三年前，我在做硕士毕业设计的时候第一次使用Evernote（印象笔记）收集资料，之后就一直使用Evernote记录一些备忘和生活琐事，但也没有形成相对完整的系统。开始读博士之后，我习惯随手在论文上记批注和笔记，觉得这样个人观点和原文的耦合度会比较高。但是等到要检索和引用资料时，脑中对这些知识点有些印象，可很多资料就是找不到出处，这时又要重新谷歌或者去翻文件夹。这让我思考是否需要将笔记做成电子形式，这样检索和使用的时候会比较方便，知识也能线性积累。去纸化的过程是比较痛苦的，因为我们从小到大习惯了纸质笔记这种记录方式。我们的工具十分简单（纸和笔），却可以记录各种类别的信息（文字、结构图、流程图、批注）。然而到了电子时代，我们可用的工具很多，但却很难形成和纸质笔记相比的“灵活性”。当然，相比传统的笔记方式，电子笔记可以多次修改、任意排序和整理、发布和分享、互相引用与检索，但有的时候却不如传统笔记那么“直观”和“简单”（想想用pdf做标注 v.s. 在书上直接做批注 或是 用画图软件画一个流程图 v.s. 在纸上随手画一个流程图）。在过去的一年时间里，我一直在思考和实践电子化笔记系统的可行性，以及如何凸显和最大程度发挥电子笔记的优势。而我发现，<strong>电子笔记不仅有上述提到的几个优势，还可以成为构建和强化知识系统的有力工具。</strong></p><p>这里，我将一切广义上可以提高人对某一事物或领域的认知或记忆的信息（以文字为主）称为知识，而将通过计算机、平板、手机等手段记录个性化知识的方式称为电子笔记。此文分享了我对于知识和记笔记的理解，以及通过电子化工具构建知识系统的思考和经验。</p><h1>2. 为什么需要记笔记？</h1><p>上一节聊了我为什么需要将笔记电子化的动机，现在简单说一下我们为什么需要记笔记。每个人都有这样的经历：和别人聊天时，总是有一些感觉在嘴边的东西，大脑却无法回忆起来；或者某天去超市购物时，明明觉得需要买什么，却怎么也想不起来。不管我们认不认同，人脑的潜力不是无限的。<strong>理解我们自身局限性的其中之一，就是认识到人脑是有局限性的，并且记忆的容量是有限的</strong>。所以构建一个笔记/知识信息系统，就是要补偿人脑的这种局限性，将笔记系统作为我们的第二大脑。这个观点已经得到了主流大众的认可。我们知道记笔记需要花费时间，这种时间实际上是一种对未来的投资。我们一般记录事情的动机有两个：一是为了增强对摄取信息的认知；二是为了日后需要的时候可以回想起来。大部分人也应该可以认同<strong>记笔记是强化知识的重要手段</strong>。除此之外，<strong>记笔记的核心价值是“使用”</strong>。也就是说，一个好的笔记应该是有使用价值的。一个shopping list可以让你在逛超市的时候买齐所有的东西；一篇日记让你可以回忆过去自己经历的事情；一篇论文笔记让人在需要的时候可以快速回忆起论文的核心观点；一个programming reference可以让你在编程的时候快速想起API的用法，而不用每次都去Google. 这些都是使用价值，是你记录时投资时间换来的回报。记录信息的本质是提供使用价值，所以评价一个笔记系统也应该用&#34;可使用性&#34;为评价方式。有一种观点是：现在（几乎）所有的信息都能在因特网上搜索到，所以需要信息的时候都可以即刻去搜索。这种观点本身没有问题，但是以目前的搜索技术和因特网的归档程度而言，这种方式的时间开销更高：因为你要从海量信息中筛选、判断、提炼出你想要的那一部分信息。而笔记则是<strong>“一次记录，多次使用”</strong>，一劳永逸。并且有新的知识点时，可以修改、完善之前的知识（另一点电子笔记的优势就是修改起来十分简单）。我们记笔记，就是让笔记成为知识的载体，也是为了日后需要这个知识时提供便捷。</p><h1>3. 文字的分类</h1><p>理解如何记录信息的第一步，是意识到信息与信息之间是有很大差别的：一篇娱乐新闻的读后感和一篇期刊文章的评论，其承载的信息和用途是不同的。根据<strong>信息种类</strong>和<strong>严肃程度</strong>的不同，我将这些信息进行以下分类：</p><p><strong>Category 1. 生活类</strong>：备忘录、日记、随想等<br/><strong>Category 2. 严肃类</strong>：工作日志、读书笔记、文献记录等<br/><strong>Category 3. 专业类</strong>：博文、论文、出版物、专栏等</p><p>第一类我称之为生活类，这一类包括基本常识，以及个人主观的、随意的记录。比如我自己喜欢将每天代办的事情记录下来，或是写生活日记等。这一类信息的特点是：不需要对信息进行太大的加工，并且一般来说都是相对隐私的，不会公开给别人。所以在记录和措辞方式上也会比较随意，只要能满足自己的需要就可以。这里我推荐使用的软件是手机自带的备忘录，Evernote，和素签（iOS日记应用）。</p><p>第二类就相对严肃一点了，这一类承载的知识和信息相对专业，并且需要投入很多脑力活动。要求我们对原始信息进行抽取、提炼、总结等工作。如听了一场seminar报告，对作者的观点有疑虑或是认同，就写了一篇感想。这类信息的特点是，信息的专业度高，并且不同的人对于严肃的定义也不同（如物理专业的人会把物理分为第二类，却会把生物分类为第一类，因为生物方面的知识对其来说不属于专业知识）。此类信息需要日后自己或他人阅读，所以在结构和语言上更加严谨。对于这一类的信息，我使用一款名为Leanote的软件进行记录和管理 [1]。最早我使用的是Evernote，但是Evernote不支持Markdown、Code Highlight以及MathJax的功能，对于理工科专业的人很不方便。</p><p>第三类则是严谨程度要求最高，并且知识的系统化程度最高的。这类信息需要大量的时间收集、整理。因为知识的体系化程度高，一般需要有内在的层次和结构关系。Cat 3的知识有时会依赖Cat 2，或者说Cat 3是Cat 2的总结和升华。不同于一类和二类信息以自己使用为中心，三类信息的读者可以是除你之外的人，这就要求知识具有可传播性。也就是说除了你自己可以理解，别人也要能透过你的文字和其他信息来理解你所要表达的知识。这就要求你在表述“意思”之外，还要有好的文笔。对于论文或是书籍我使用的软件是LaTex，也是使用的比较广泛的写作环境。至于博文，我就相对比较随意了：有时候用MarkdownPad/Evernote写一个框架，有时候用Leanote写，有时候就干脆直接用Wordpress自带的编辑器了。</p><p>除了上述根据严肃程度的分类外，我还总结了另外一种分类方式，就是按照<strong>文字承载的功能</strong>划分信息：</p><p><strong>A. 记录</strong>：没有知识加工的过程，作为辅助记忆的手段。<br/><strong>B. 整理</strong>：对原输入数据进行一次滤波，小幅度修改原文的内容和结构，删去不需要的信息等。<br/><strong>C. 归纳</strong>：通过脑力活动，对数据进行结构化的整理。<br/><strong>D. 发布</strong>：对归纳后的信息进行文学化、排版、公开/或非公开的发布过程。<br/><strong>E. 记忆、索引、查阅</strong>：对A、B、C、D过程中产出的文字进行使用。</p><p>其中A -&gt; B -&gt; C -&gt; D是递进、逐层依赖关系，而D和E是最终目的。也就是说，我们在这个过程中所创造的知识最终都是期望被以后查阅、引用或者公之于众的。</p><h1>4. 文字产生的工作流</h1><p>在理解了以上的概念后，我们来看一下一个文字是如何从无到有的：</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-732db6c28f59a100c0f0fad74972c053_b.jpg\" data-rawwidth=\"794\" data-rawheight=\"335\" class=\"origin_image zh-lightbox-thumb\" width=\"794\" data-original=\"https://pic4.zhimg.com/v2-732db6c28f59a100c0f0fad74972c053_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;794&#39; height=&#39;335&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"794\" data-rawheight=\"335\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"794\" data-original=\"https://pic4.zhimg.com/v2-732db6c28f59a100c0f0fad74972c053_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-732db6c28f59a100c0f0fad74972c053_b.jpg\"/></figure><p>▲ Figure 1. 文字产生的work flow</p><p>简单说来，一个文字经历了资料采集、生产、输出的过程。采集的过程为之后的文字提供了引用依据、素材（包括图片素材，公式等）、话题（如&#34;吴恩达将机器学习等同于电力&#34;）或者原始资料本身提供了文字的主体（比如一般对于专业书籍的笔记，其内容来自于对原文的转义和理解）。采集的信息需要通过一定方式的整理，这里大部分人推荐的软件是Evernote [2][3]。Evernote支持文字、图片、附件，可以非常容易的copy-paste，有网页抓取，标签和搜索的功能，所以我认为极其适用于第一步的资料采集。</p><p>信息整理的过程就是将采集到的信息提炼，提取出自己期望或是对文字产出有用的信息。我提炼信息的过程有三种：</p><p><strong>1、删</strong>，删掉无用部分；<br/><strong>2、加</strong>，将有用的信息单独整理出来；<br/><strong>3、概</strong>，使用自己的语言梳理、分段概括原文的内容。</p><p>信息整理的过程是将碎片化知识系统化，并且将别人的知识转化为自己知识的过程。有的人喜欢收集一堆信息，却没有自己的总结和整理。这样的信息与其放在电脑里浪费空间，不如删掉，需要的时候再去找就可以了。在互联网时代，知识的碎片化现象很严重，书本也不再成为最新知识的承载体 [5]。整理的过程就是让自己的碎片化知识逐步成型的过程。</p><p>有了一部分整理后的初始信息后，我们就进入了文字生产阶段。这个阶段可以十分简单，比如一句话概括看了的一部电影（豆瓣短评），一段话说明一篇论文使用的方法的优势、劣势、创新点；生产的过程也可以很复杂，比如一篇Survey需要几百篇的references作为输入。生产文字时需要迭代，需要收集新的资料。生产文字也需要大脑脑力投入。不同于资料整理的过程，这个过程需要揉入自己的想法、创新和思考。需要在理解原文字面上的意思之后，进行概括、引申、扩展、表示赞同或是否认。这个过程是整个系统中最核心的一部分，它决定了你手里的资料能否转化为自己的知识。</p><p>文字输出阶段就是将临时的文字存储/发布的过程。这个发布的对象可以是你自己、你的同事、你的group，或是你也不知道的概念化的一群人（概念化：不是具体的人，而是具有一定特征和标签的人（如我的博文的对象是电子爱好者、机器人研究者、嵌入式系统从业人员等）。文字输出是文字生产后的必然步骤，生产的文字总会以某种形式输出出来。比如一篇空间日记，写完之后就（公开或非公开）发布在了系统里。又比如一篇论文发布给了一个conference，一本书给出版社publish。即使是在电脑上用word写的文章，也存储在了电脑硬盘里。总之，输出的过程就是提供一个日后访问的接口，将临时的资料永久化保存的方法。对于现代人来说，网络式的输出是最优的发布渠道。无论是发布到自己的私有云笔记系统，或是公开到博客/专栏/公众号，都可以让自己/别人快速、随时的访问到这些信息。</p><p>最后，输出的文件可以选择进行归档。归档的过程是将输出的文件进行层次化管理、标签的过程。归档的本质就是将相同类型的文件统一整理，<strong>归档也是将个人知识体系化的过程</strong>。归档的方式很多，这里举我自己的几个例子：</p><ul><li>将新的博文添加到不同的分类目录下，并添加关键词标签；</li><li>所有生活日记、工作日志按年份进行整理，并放到Evernote的单独子目录下；</li><li>发现大量同质信息后，将其整理到一个单独的系统中（目前正在尝试将控制系统相关知识做成wiki [6]）。</li></ul><p>之所以要归档，是因为输出的文字有时只是零散的知识，需要有一个大的结构来让碎片化的信息行程体系结构。这个步骤有时候就是简单地建层次化的文件夹，有时候相对复杂，需要一个额外的新系统来管理，甚至是一个再创造的过程。举一个例子，你写了50篇文章C语言的文章后，发现这些知识可以按照章节或是深浅划分，甚至这些内容提供了一本新书的基础。归档的另一个作用是提供检索和使用时的方便。想想我的Evernote现在有100多篇note，从生活到科研的内容都有，如果不建立目录层次，需要的时候根本找不到想要找的内容。我自己是一个深度整理狂，喜欢事无巨细的整理。但我要说归档层次的建立是和note的数量相关的。如果你只有5篇文章，细分之后分了5个分类，每个分类下面一篇文章，那和不分类没有区别。而如果你简单分成 工作 和 生活，那你不仅区分开了两种完全不同的notes，而且也没有增加检索时的复杂度。但是如果你有30篇notes了，那你这时候要考虑再分出一些子分类，让每个分类下的内容尽量少一些。至于检索功能，很大程度依赖你所使用的软件。Evernote用户津津乐道的功能就是它的搜索所有笔记标题和内容的功能，以及可以给note打上不同标签。我觉得检索功能确实很方便，对于数据较多时也十分有效。想想有搜索引擎之前和之后的互联网就能理解数据可检索性的重要了。</p><h1>5. 工具列表与比较</h1><p>前几章我提到了很多我使用的工具，这里总结一下不同工具适用的使用环境和彼此的优劣：</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-2ed1c403d30021c6e86c6a76f40605cb_b.png\" data-rawwidth=\"844\" data-rawheight=\"559\" class=\"origin_image zh-lightbox-thumb\" width=\"844\" data-original=\"https://pic4.zhimg.com/v2-2ed1c403d30021c6e86c6a76f40605cb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;844&#39; height=&#39;559&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"844\" data-rawheight=\"559\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"844\" data-original=\"https://pic4.zhimg.com/v2-2ed1c403d30021c6e86c6a76f40605cb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2ed1c403d30021c6e86c6a76f40605cb_b.png\"/></figure><p>其中Evernote是目前最为广泛使用的云笔记软件。Leanote是我自己找到适合在科研工作中替代Evernote的云笔记软件。素签是我遍历了iOS可用的日记软件后选择用来进行日记、文学创作的手机app，功能单一但是有简洁的书写环境。LaTex不用多说了。三个主流博客软件，Wordpress功能强大，但是资源占用多。后两个可以在Github托管，可以使用Markdown生成静态网页。Mkdocs是我找到的一个维基系统，使用Markdown写作，可以支持MathJax公式和检索。OneNote有很多人推荐，我本人尝试使用过用来记生活常识、历史和地理，但是我用起来不是很习惯，所以没有坚持下去了。但是OneNote本身用来记录和整理通用知识的功能是非常强大的，读者可以自行研究、开发。TiddlyWiki是万维钢提到的他使用的知识系统 [4]，我觉得很有意思就提一下，因为这个系统是&#34;非线性&#34;的维基，你可以按照任意顺序打开和排列维基条目。</p><h1>6. 结论</h1><p>写这篇文章花了我两天时间。我自己作为还在半路的实践者，觉得这其中还有很大可以开发和扩展的东西。很长一段时间我都在思考知识是什么，知识在我们大脑中的表现形式是什么，知识是如何产生和迭代的。这些思考最终产生了一个结论：就是知识有记忆时效性、层次性和关联性的，而我们的大脑所能记忆的细节又是那么有限。作为一个普通人而非记忆大师，我们最终在大脑中形成的知识实际上是一些概念和经验，而非具体的细节。我们所处的是一个信息爆炸而又缺乏秩序的时代，我们应该需要建立这样一种辅助的系统：通过整理资料、记录笔记、写博文、创建维基的方式，来强化自己对于知识的理解，扩充自己的知识库。这个过程耗时，甚至有时候我也不确定这样做是否就能加深对知识的理解。但是经过长时间的尝试之后，有一点我是可以肯定的，就是这种方式减少了我对同样信息的重复搜索，节约了时间也避免了分心。另一点我深刻理解的，就是你手上里的资料在你电脑里和在网络上没有区别，只有当你把它整理、转化为自己的理解时，它才成为你自己的知识。</p><h1>参考资料</h1><p>[1] Leanote官方主页，我认为是一款针对程序员和科研人员的笔记软件，<a href=\"https://link.zhihu.com/?target=https%3A//leanote.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Leanote, Not Just A Notepad!</a></p><p>[2] Evernote官方主页，一款全能型云同步笔记软件，<a href=\"https://link.zhihu.com/?target=https%3A//evernote.com/intl/zh-cn/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">工作必备效率应用</a></p><p>[3] 知乎 - 如何构建自己的笔记系统，<a href=\"https://www.zhihu.com/question/23427617\" class=\"internal\">如何构建自己的笔记系统？ - 知乎</a></p><p>[4] 万维钢 - 《万万没想到》，Part Two - 笔记本就是力量</p><p>[5] 罗辑思维，第205期：这一代人的学习</p><p>[6] 我正在做的控制系统维基，<a href=\"https://link.zhihu.com/?target=http%3A//wiki.xiaotiandai.com/control/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Control Systems by X.Dai</a></p>", 
+            "topic": [
+                {
+                    "tag": "个人知识管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19558457"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/26788165", 
+            "userName": "戴晓天", 
+            "userLink": "https://www.zhihu.com/people/f73df03d41a03ef64cecae3d2841107c", 
+            "upvote": 1, 
+            "title": "知乎专栏开通公告", 
+            "content": "<p>今天在知乎上开通了专栏，内容和我的云飞机器人实验室网站同步，希望让知乎读者更方便的浏览我的文章。</p><p>本专栏包括的内容包括：</p><p>1. 机器人开发与设计；<br/>2. 嵌入式与实时系统；<br/>3. 机器学习算法与优化技术；<br/>4. 我在生活、科研和开发过程中的心得体会。</p><p>感谢大家的支持，欢迎留言并提出意见。</p>", 
+            "topic": [
+                {
+                    "tag": "博客", 
+                    "tagLink": "https://api.zhihu.com/topics/19550419"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/yfworld"
+}

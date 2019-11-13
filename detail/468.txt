@@ -1,0 +1,1080 @@
+{
+    "title": "第九实验室", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/lli-shu-lin", 
+        "https://www.zhihu.com/people/xi-cheng-du-hui-22-20", 
+        "https://www.zhihu.com/people/zi-ming-jun-89", 
+        "https://www.zhihu.com/people/chen-xin-16-28-66", 
+        "https://www.zhihu.com/people/yang-shu-lin-91", 
+        "https://www.zhihu.com/people/wang-jun-jie-8-56", 
+        "https://www.zhihu.com/people/deng-yu-hang-88", 
+        "https://www.zhihu.com/people/quan-ru-jiao-shou", 
+        "https://www.zhihu.com/people/kai-xiao-che-kang-ju-pao", 
+        "https://www.zhihu.com/people/yi-qi-zuochang-dream", 
+        "https://www.zhihu.com/people/bing-zhi-yu-65", 
+        "https://www.zhihu.com/people/nortwolf", 
+        "https://www.zhihu.com/people/agreatbigjoseph", 
+        "https://www.zhihu.com/people/xian-zhi-hou-jue-90", 
+        "https://www.zhihu.com/people/jiang-yu-nan-63", 
+        "https://www.zhihu.com/people/chen-zhi-xuan-30-35", 
+        "https://www.zhihu.com/people/vski-bird", 
+        "https://www.zhihu.com/people/ya-ting-1", 
+        "https://www.zhihu.com/people/zheng-xiao-ming-41-32", 
+        "https://www.zhihu.com/people/guan-yu-85-94", 
+        "https://www.zhihu.com/people/shan-dian-xia-31-77", 
+        "https://www.zhihu.com/people/le-le-he-he-90", 
+        "https://www.zhihu.com/people/fei-chai-xian-sheng", 
+        "https://www.zhihu.com/people/lmkking", 
+        "https://www.zhihu.com/people/hao-de-64-15", 
+        "https://www.zhihu.com/people/107-83", 
+        "https://www.zhihu.com/people/xie-sheng-cai-23", 
+        "https://www.zhihu.com/people/blake-jin", 
+        "https://www.zhihu.com/people/0668", 
+        "https://www.zhihu.com/people/chen-xing-yu-1-12", 
+        "https://www.zhihu.com/people/lequco", 
+        "https://www.zhihu.com/people/li-chuang-45", 
+        "https://www.zhihu.com/people/san-nian-12-20", 
+        "https://www.zhihu.com/people/wu-xin-shui-mian-94", 
+        "https://www.zhihu.com/people/gu-du-de-mu-yang-ren-23", 
+        "https://www.zhihu.com/people/wang-wu-tu-36", 
+        "https://www.zhihu.com/people/jiang-lei-90-28", 
+        "https://www.zhihu.com/people/qin-chuan-13-58", 
+        "https://www.zhihu.com/people/xiang-pi-ca-eraser", 
+        "https://www.zhihu.com/people/wolf-sol", 
+        "https://www.zhihu.com/people/ding-ding-50-45", 
+        "https://www.zhihu.com/people/fangweimin-2015", 
+        "https://www.zhihu.com/people/zhang-xi-yuan-hen-you-xiu", 
+        "https://www.zhihu.com/people/bo-ge-da-74", 
+        "https://www.zhihu.com/people/charles-37-35", 
+        "https://www.zhihu.com/people/wayne-71-52", 
+        "https://www.zhihu.com/people/hu-tu-hao-hao", 
+        "https://www.zhihu.com/people/qwerty-60-58", 
+        "https://www.zhihu.com/people/yang-xiao-fei-44-34", 
+        "https://www.zhihu.com/people/su-san-99-67", 
+        "https://www.zhihu.com/people/fu-jia-chen-70", 
+        "https://www.zhihu.com/people/da-pi-bin", 
+        "https://www.zhihu.com/people/fei-cun-jian-xin-73", 
+        "https://www.zhihu.com/people/huo-zhao-37-1-20", 
+        "https://www.zhihu.com/people/zhang-jing-fu-86-22", 
+        "https://www.zhihu.com/people/liu-jing-chang", 
+        "https://www.zhihu.com/people/jiang-lin-96-60", 
+        "https://www.zhihu.com/people/wu-jie-43-30", 
+        "https://www.zhihu.com/people/zhan-zheng-43", 
+        "https://www.zhihu.com/people/junliang-ron", 
+        "https://www.zhihu.com/people/yuan-chong-67", 
+        "https://www.zhihu.com/people/meng-li-39", 
+        "https://www.zhihu.com/people/ba-ge-70-27", 
+        "https://www.zhihu.com/people/singal-chen", 
+        "https://www.zhihu.com/people/wang-shuo-96-10", 
+        "https://www.zhihu.com/people/lao-ren-yu-gou-50", 
+        "https://www.zhihu.com/people/yichuang-qing-meng-ya-xing-he", 
+        "https://www.zhihu.com/people/mang-zhao-sheng-mang-zhao-si-96", 
+        "https://www.zhihu.com/people/li-yu-jia-69-29", 
+        "https://www.zhihu.com/people/chao-ren-8-29", 
+        "https://www.zhihu.com/people/qin-guang-ming-16", 
+        "https://www.zhihu.com/people/wang-hao-tong-97", 
+        "https://www.zhihu.com/people/yang-chen-46-66", 
+        "https://www.zhihu.com/people/hitnoah", 
+        "https://www.zhihu.com/people/linyuxuanlin", 
+        "https://www.zhihu.com/people/wike007", 
+        "https://www.zhihu.com/people/jing-zhou-20-60", 
+        "https://www.zhihu.com/people/wo-da-qing-wang-liao-ma", 
+        "https://www.zhihu.com/people/zhangxinn", 
+        "https://www.zhihu.com/people/cheng-zi-81-67", 
+        "https://www.zhihu.com/people/yisuo-yan-yu-ren-ping-sheng-11-15", 
+        "https://www.zhihu.com/people/cheng-chen-20-38", 
+        "https://www.zhihu.com/people/hydrogen-61", 
+        "https://www.zhihu.com/people/sbki", 
+        "https://www.zhihu.com/people/shui-shi-qing-cheng-de-nu-shen", 
+        "https://www.zhihu.com/people/fslp1982", 
+        "https://www.zhihu.com/people/zhu-zhen-xuan-50", 
+        "https://www.zhihu.com/people/lan-meng-18", 
+        "https://www.zhihu.com/people/maikeashe"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64795392", 
+            "userName": "麦克阿摄", 
+            "userLink": "https://www.zhihu.com/people/d6cc130b0ed0624cb9dac2de0c0ceee1", 
+            "upvote": 52, 
+            "title": "ARM+Win的PC新物种？—2019款 华为MateBook E 长篇评测报告", 
+            "content": "<h2><b>前言</b></h2><p>麦克上一台笔记本电脑已经六年了，各方面都已经跟不上时代了。所以，最近一直在寻找一台笔电，能够满足我目前工作上经常出差、高铁和飞机上做文案、奔走于各种会议，当然偶尔也会中远途自驾旅行。对了，其实就是说我需要一台商务便携笔电。</p><p>其实我的需求也很明确：我需要绝对的续航和便携，能够满足我一整天在外的中高强度使用；还需要一块高质量的屏幕，现实指标各方面OK，并且最好是长宽比3：2的“生产力屏幕”。至于性能方面，倒不是说我不需要性能怪兽，主要是忍受不了性能怪兽们的笨拙和高功耗，偶有的这种需求，家里和单位的台式机都已能够满足。此外，“开盖即用，合盖就走”正是我对笔电的理想使用方式。</p><p>最后进入我选择空间的是ARM+Win笔电，相比传统的轻薄本或者二合一本，这类“新物种笔电”在我重点需求的几个方面显得更加极致。</p><p>我也早就在观察微软Surface Go，它是10寸屏幕，对我来说总觉得小了点，看屏幕上的内容太过于吃力。而MateBook E是12寸屏，大部分配置也要高一些，还标配键盘，价格也便宜不少（8+256的MateBook E售价3999元，带键盘的8+128 LTE版Surface Go售价5626元）。 </p><p>最终选择了MateBook E，魅海蓝的8+256版本，产品已经使用了四五天了，特意详细记录了整个过程中的使用感受，不仅仅是为了和大家分享MateBook E的评测，更是想详细介绍一下ARM+Win的这个新PC物种。</p><h2>产品展示</h2><p>本部分主要记录和评价华为MateBook E 的“<b>颜值相关</b>”，以及对<b>轻薄机身、窄边框&amp;屏占比、皮质手感、配色的美观性</b>和<b>键盘手感</b>进行展开。</p><p>▼ 减去一般开箱的繁文缛节，直接了当现真身。产品主要包括平板式机身+键盘，键盘同时也是支撑架，这也是“二合一笔电”的经典模式。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-156177e244a0ff01ac25171859dc5205_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3648\" data-rawheight=\"2736\" class=\"origin_image zh-lightbox-thumb\" width=\"3648\" data-original=\"https://pic2.zhimg.com/v2-156177e244a0ff01ac25171859dc5205_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;3648&#39; height=&#39;2736&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"3648\" data-rawheight=\"2736\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"3648\" data-original=\"https://pic2.zhimg.com/v2-156177e244a0ff01ac25171859dc5205_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-156177e244a0ff01ac25171859dc5205_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 先说说键盘。键盘除去按键和触摸板部分是塑料的，其他各个面都是皮质的，很柔软。同时上盖中间有个铰链，是可以翻折的，折起来当机身支架使用。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0638133575b4e0827ad665947f6b3a23_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-0638133575b4e0827ad665947f6b3a23_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-0638133575b4e0827ad665947f6b3a23_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0638133575b4e0827ad665947f6b3a23_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 作为二合一本的主机，其实也是个平板。装上键盘会自动切换到PC使用的视窗模式（更适合鼠标和触摸板的操作），拿下键盘就切换到“平板模式”（更适合手指触摸操作）。摄像头方面，正面和背面都有摄像头，正面主要可以用作视频聊天，背面则主要当作平板使用的时候用到。机身背面也不同于一般二合一本或者平板电脑的金属材质，而是<b>皮质</b>的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e09000fb72d7710eb1370d803839479c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-e09000fb72d7710eb1370d803839479c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-e09000fb72d7710eb1370d803839479c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e09000fb72d7710eb1370d803839479c_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c0a3919fb50f7f64d8a9c34b8ab13b7d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-c0a3919fb50f7f64d8a9c34b8ab13b7d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-c0a3919fb50f7f64d8a9c34b8ab13b7d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c0a3919fb50f7f64d8a9c34b8ab13b7d_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>其实大家可以看到，MateBook E的边框还是蛮窄的，屏占比数据是82.4%，这个数值在手机界肯定不算高，但在二合一笔电界绝对算高了。而且小E的<b>四周边框是等宽</b>的，相比不等宽边框的笔电，视觉感受要好太多了！</p><p>▼ 键盘和机身之间是通过磁吸固定，有三个金属触点连接通电。特别要指出的是，键盘连接处和机身下半部分都有磁吸，磁吸很牢固。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-dcaa744156e09a996746446eafbe3554_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-dcaa744156e09a996746446eafbe3554_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-dcaa744156e09a996746446eafbe3554_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-dcaa744156e09a996746446eafbe3554_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 笔电的A面，中间是铰链，把铰链折过来，再反过来，就成下方第二张图那样展开了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-b00ff6b3280cba06989c1d0aa1966cc2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-b00ff6b3280cba06989c1d0aa1966cc2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-b00ff6b3280cba06989c1d0aa1966cc2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-b00ff6b3280cba06989c1d0aa1966cc2_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-690acf47a8fab3ade0d8c681caec1755_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-690acf47a8fab3ade0d8c681caec1755_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-690acf47a8fab3ade0d8c681caec1755_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-690acf47a8fab3ade0d8c681caec1755_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 上盖翻折程度不同，可以调整笔电打开的角度。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-85cbfdbcb34f8cdb39c7cfd672a1ef21_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-85cbfdbcb34f8cdb39c7cfd672a1ef21_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-85cbfdbcb34f8cdb39c7cfd672a1ef21_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-85cbfdbcb34f8cdb39c7cfd672a1ef21_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0c69ca0c2bffdb1b0e7bf26c9634b920_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-0c69ca0c2bffdb1b0e7bf26c9634b920_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-0c69ca0c2bffdb1b0e7bf26c9634b920_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0c69ca0c2bffdb1b0e7bf26c9634b920_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ B面则是PC的显示页面，正面视觉上和传统笔电并无两样。（PS：顺便再感受一下等宽边框的视觉感受。）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-172f6a655b913d29df524cf13577d386_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-172f6a655b913d29df524cf13577d386_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-172f6a655b913d29df524cf13577d386_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-172f6a655b913d29df524cf13577d386_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-20090fbdf28c0a642fb2729ab940263a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-20090fbdf28c0a642fb2729ab940263a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-20090fbdf28c0a642fb2729ab940263a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-20090fbdf28c0a642fb2729ab940263a_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ C面是键盘，MateBook E虽然是小尺寸二合一笔电，但配备的是<b>全尺寸键盘</b>，打字习惯不会被打破。这里要说的是，键盘的键程是1.3mm，也没有因为要做超薄而做短键程，手感是可以得到保证的。当然，键盘是没有背光的，这基本上是二合一笔电的通病了。键盘右边的“耳朵”，是放手写笔用的，但MateBook E并没有标配华为M-Pen手写笔，由于我对绘图的需求不高，也就没有购置手写笔。（此处注意右下角的蓝白色贴纸，写着：<b>Huawei Share</b>，下文重点说。）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-11be5f74b736e3d60f9bcde719fc0688_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-11be5f74b736e3d60f9bcde719fc0688_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-11be5f74b736e3d60f9bcde719fc0688_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-11be5f74b736e3d60f9bcde719fc0688_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-baade4928c623dd8601d6bba8996438c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-baade4928c623dd8601d6bba8996438c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-baade4928c623dd8601d6bba8996438c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-baade4928c623dd8601d6bba8996438c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ D面也是皮质，很柔软，对桌面的贴合性不错。看完整机，让人印象深刻的是较好的做工，和中高端手机差不多的做工。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e6baf1eef354cc6861d12b02ad21d4f8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-e6baf1eef354cc6861d12b02ad21d4f8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-e6baf1eef354cc6861d12b02ad21d4f8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e6baf1eef354cc6861d12b02ad21d4f8_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>现在重点说说MateBook E键盘套和主机背面的材质——<b>皮质</b>，为什么主机背面不使用和边框一样的金属材质？为什么键盘套使用的不是更为常见的硬塑料？其实几天的使用下来，感觉皮质对手感的提升非常大。</p><p>皮质材质，除了柔软之外，更是可以做到<b>“冬暖夏凉”</b>。<b>冬天的金属和硬塑料让人感觉很冷；而夏天因为机身的发热，皮质阻碍了热量传导出来，也就不会烫手了。</b></p><p>▼ 机身左侧金属边框的顶端是3.5mm耳机孔，下边一点是SIM卡和TF卡二合一卡槽，中间部位是扬声器孔。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-3a0c2bddd9136079dc1e94a69ca152ec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"801\" data-rawheight=\"1200\" class=\"origin_image zh-lightbox-thumb\" width=\"801\" data-original=\"https://pic1.zhimg.com/v2-3a0c2bddd9136079dc1e94a69ca152ec_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;801&#39; height=&#39;1200&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"801\" data-rawheight=\"1200\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"801\" data-original=\"https://pic1.zhimg.com/v2-3a0c2bddd9136079dc1e94a69ca152ec_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3a0c2bddd9136079dc1e94a69ca152ec_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 顶端一侧是开关键，除了麦克风孔之外，就没有接口开孔了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-c472310cf13895e0a7999561e22cafe7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-c472310cf13895e0a7999561e22cafe7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-c472310cf13895e0a7999561e22cafe7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-c472310cf13895e0a7999561e22cafe7_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 边框右侧上方是指纹模块+上下音量调整键，中间同样是扬声器孔（小E配备了左右双扬声器），下部是Type-C数据和电源二合一孔。指纹模块设置在了边框上，位置不错，正常使用中右手伸手就能摸到。这里也需要注意的是，<b>机身全身只有一个Type-C数据接口</b>，如果要考虑和外界硬件的数据交互的话，确实少了点。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-0afbbe4df9a72b06cb49380e2218d1ae_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-0afbbe4df9a72b06cb49380e2218d1ae_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-0afbbe4df9a72b06cb49380e2218d1ae_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-0afbbe4df9a72b06cb49380e2218d1ae_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-9b5dfd2ac4ef077c518ffd35a071e0dd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-9b5dfd2ac4ef077c518ffd35a071e0dd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-9b5dfd2ac4ef077c518ffd35a071e0dd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-9b5dfd2ac4ef077c518ffd35a071e0dd_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 不含键盘的机身厚度是8.5mm、重量是698g，可以说是非常轻薄了。安装上键盘，自然是比竖起来的一元硬币更薄的，也要明显比竖起来的5角硬币更薄！轻薄，是商务便携的重要指标之一。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a036e42187da405b067eb6205017cd05_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-a036e42187da405b067eb6205017cd05_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-a036e42187da405b067eb6205017cd05_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a036e42187da405b067eb6205017cd05_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-109fbbc2158d07935a4738e7edb399cf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-109fbbc2158d07935a4738e7edb399cf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-109fbbc2158d07935a4738e7edb399cf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-109fbbc2158d07935a4738e7edb399cf_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-960d75e6dc064348429b64494b39dc3e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-960d75e6dc064348429b64494b39dc3e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-960d75e6dc064348429b64494b39dc3e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-960d75e6dc064348429b64494b39dc3e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>最后，来说说MateBook E的配色。其实小E有两种配色：<b>钛金灰</b>和<b>魅海蓝</b>，这是官方的说法，我们简化成灰色和蓝色。其实这里的灰色和蓝色，都是<b>饱和度非常低</b>的灰色和蓝色，和目前手机配色的灰色或者蓝色简直就是两回事。就我的蓝色而言，其实是非常淡雅的蓝色，饱和度低到更像是淡色的蓝灰色，大家也能看到上文的展示照片中，有时候更显蓝色，有时候有点像灰色，这都是因为不同的的光照条件所致。</p><p>笔记本不比手机，其实配色上更需要低调和百搭。蓝色相比灰色更加活泼和年轻一些，而这种低饱和度的蓝色也不显妖艳，个人感觉是比较好看的，这也是我更喜欢蓝色的原因。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>产品重要特点的详解和体验</h2><p>上文说到，MateBook E是ARM+Win本，是二合一本，我想这也是笔记本电脑向极致轻薄发展的产物。ARM+Win的PC，其实高通也一直在重点推。MateBook E 所搭载的操作系统，是基于Win10原生系统，且为ARM架构做了适配了的Win10。</p><p>硬件方面，小E所搭载的<b>高通骁龙850移动计算平台</b>，它并不是和安卓手机共用的（手机上搭载的要么骁龙845，要么855，是没有850的），而是专门为Windows操作系统设计的SoC。我们通常把PC的处理器叫做CPU，把手机的叫做SoC（System on Chip），即便现在PC的CPU也不仅仅只有CPU部分，但显然SoC上集成度更高。骁龙850，相比其他PC的CPU，是集成基带的，可以插SIM卡后连接4G LTE，它<b>具有天然的连接属性</b>，加上华为自己的射频相关领域的成就，使得这款小E在信号连接上就非常有特点了。</p><p>骁龙850的TDP功耗相比上一代尽管有所提升，但也是极致低功耗的存在。本身不管是ARM PC也好，二合一本也好，其实都有共同的特点：<b>低功耗、高续航</b>。当然，和续航相关的不能漏了充电方面，下文也将拿出来详细阐述。</p><p>此外，我挑选笔电的时候是非常看重屏幕的，分辨率不能太低，2K分辨率是必须的，毕竟现在的手机屏幕分辨率也普遍达到1080P+了，比较接受不了笔电屏幕的分辨率比手机还要低。长宽比例是不能接受16：9的，最好是3：2的，因为这方面直接和生产力相关。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>MateBook E的连接相关</b></p><p>在选择小E之前，我看过不少小E的评测，说的最多的是：<b>全时连接</b>（Always Connected，或者简称AC）。全时连接是指，相比一般笔电产品息屏的时候，网络其实相当于断网的，软件并不能在息屏的时候联网工作。但我们知道，智能手机是可以在息屏的时候联网工作的，微信、邮件等信息也会在息屏的时候传送到你手机上。骁龙850其实其实就是源自手机SoC，内置基带，可以使得使用它的笔电同样在息屏的时候联网工作。</p><p>因为考虑到移动性，要保证“全时连接”，小E也是标配了Nano-SIM卡槽，都可以插卡链接4G LTE的。全时连接的电脑也就有了ACPC。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-a652a2e5f40de933082b78d11002eccc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-a652a2e5f40de933082b78d11002eccc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-a652a2e5f40de933082b78d11002eccc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a652a2e5f40de933082b78d11002eccc_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>关于笔电用4G连接，我想主要得益于现在无限流量卡的降价和普及，每月资费已经降低到三四十元，我也有两张无限流量卡。</p><p>小E可以WiFi和4G网络同时连接，可以设置多种触发条件来确定何时使用4G网络。当然，仅仅4G网络连接的时候，也可以作为热点，供其他笔电或者手机连接。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-fe9f7abaa3211783e9e78c5fd859f17b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"860\" data-rawheight=\"1017\" class=\"origin_image zh-lightbox-thumb\" width=\"860\" data-original=\"https://pic4.zhimg.com/v2-fe9f7abaa3211783e9e78c5fd859f17b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;860&#39; height=&#39;1017&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"860\" data-rawheight=\"1017\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"860\" data-original=\"https://pic4.zhimg.com/v2-fe9f7abaa3211783e9e78c5fd859f17b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-fe9f7abaa3211783e9e78c5fd859f17b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>或许有人要说：用手机做个热点不就行了吗？</p><p>其实手机热点自然也是一种解决方案，但考虑到我经常出差或者参加一些外面的会议，很多时候现场的WiFi质量非常差，经常性的是没法使用的；或者旅行在外的话，可能根本没有公共WiFi可用。此时如果使用手机热点的话，手机耗电量非常大，经常用一下就掉了一半电；如果手机来电话，可能也会中断网络连接；甚至忘了关热点导致手机电量完全耗尽，这时候恐怕要去救手机的急了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-65e9ed717c2bd0d68d087fc1bd2bc9de_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-65e9ed717c2bd0d68d087fc1bd2bc9de_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-65e9ed717c2bd0d68d087fc1bd2bc9de_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-65e9ed717c2bd0d68d087fc1bd2bc9de_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>接下来，我重点说说同时作为华为手机用户的<b>一碰传功能</b>。</p><p>上文开箱展示中说到了C面右下角的<b>Huawei Share贴纸</b>，其实这并不是一张简单的贴纸，里面是有NFC电路的，看到贴吧上有不少网友以为这是广告贴纸，买到后直接撕了。这里大家切记：千万不要撕了。</p><p>一碰传的意思是，华为手机碰一下这个贴纸，可以实现手机和电脑之间的数据互通，目前可以双向传送照片、视频等文件，未来肯定会增加更多的文件类别。实现一碰传对于手机来说也是有条件的，首先得是华为品牌的手机，EMUI版本要在9.0或者以上，手机得有NFC功能（一般近两年的华为和荣耀系列旗舰手机都具备），手机也得开启蓝牙、WiFi和NFC。</p><p>▼ 举个典型的操作例子：把手机上的照片传到电脑端。直接相册里选定若干张照片，用手机顶部（手机的NFC线圈区域）碰一下“贴纸”，手机会震动一下，提示连接电脑，电脑端提示连接手机，都点确定之后，瞬间这12张照片传到了电脑上。一碰传文件的速度是急速的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b29e795c263a94a6ed891a724d28fc30_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"801\" data-rawheight=\"1200\" class=\"origin_image zh-lightbox-thumb\" width=\"801\" data-original=\"https://pic1.zhimg.com/v2-b29e795c263a94a6ed891a724d28fc30_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;801&#39; height=&#39;1200&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"801\" data-rawheight=\"1200\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"801\" data-original=\"https://pic1.zhimg.com/v2-b29e795c263a94a6ed891a724d28fc30_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b29e795c263a94a6ed891a724d28fc30_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-452f6c63ac22569d696ee6d5c21dc774_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-452f6c63ac22569d696ee6d5c21dc774_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-452f6c63ac22569d696ee6d5c21dc774_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-452f6c63ac22569d696ee6d5c21dc774_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-277756ad276ff5b7f0f7856a3901b30a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-277756ad276ff5b7f0f7856a3901b30a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic3.zhimg.com/v2-277756ad276ff5b7f0f7856a3901b30a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-277756ad276ff5b7f0f7856a3901b30a_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>此外，小E的骁龙850具备4*4 MIMO天线，并且WiFi和蓝牙的天线是独立的，且WiFi是双天线，加上1路蓝牙天线，也就是说<b>小E拥有7根天线</b>。而一般普通电脑的WiFi和蓝牙的天线是合一的，很多情况两者之间会相互干扰，蓝牙信号干扰WiFi，WiFi信号干扰蓝牙，用蓝牙鼠标会影响WiFi，下载中会影响蓝牙耳机音质。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ee5c0a8952e6d3087958bbf9abd2c9a9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-ee5c0a8952e6d3087958bbf9abd2c9a9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-ee5c0a8952e6d3087958bbf9abd2c9a9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ee5c0a8952e6d3087958bbf9abd2c9a9_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>关于连接方面，我深究了下，发现还有更多的小特点：WiFi上可以2.4G和5G并发、真千兆网络、可低延时投屏等。这些方面就不展开了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3：2的生产力屏幕</b></p><p>屏幕对于笔电来说太重要了。我选择笔电，屏幕是最重要的考量方面之一。</p><p>小E屏幕的第一观感就让人觉得不错，分辨率很高，PPI也高，全贴合，色彩也不错，长宽比还是3：2的。分辨率具体是2160*1440，也就是常说的2K分辨率。其实这些方面很讨好于我，市面上也少有4K元档的笔电是配备这等屏幕的。</p><p><b>3：2比例的屏幕，其实就是生产力屏幕。</b>我会非常多的编辑文字、文档、图片。如果是16：9的屏幕，那么竖向的显示内容实在太少了！这一点真的让人无法容忍！哪怕是16：10也要好不少啊！当然3：2是更好的。目前市面上绝大部分笔电屏幕都是16：9，其实这个比例更适合追剧，毕竟电视剧片源就是这个长宽比，但真不适合做生产力相关，不管是码字还是编程。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8951ba7a562305896ace1ed04cc18d1b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-8951ba7a562305896ace1ed04cc18d1b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-8951ba7a562305896ace1ed04cc18d1b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8951ba7a562305896ace1ed04cc18d1b_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-9c58516194dde9f47877903719e42abb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"1112\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-9c58516194dde9f47877903719e42abb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;1112&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"1112\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-9c58516194dde9f47877903719e42abb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9c58516194dde9f47877903719e42abb_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>其实同样是12寸，3：2的和16：9的屏幕面积是不一样的，因为屏幕多少寸是以对角线计算的，简单算了下，3：2的屏幕面积要多8%。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>续航和充电</b></p><p>官方说本地视频播放，续航是10个小时。为此，我也特意做了个实验，把爱奇艺的电视剧下载到本地，开50%的亮度和50%的音量，关在书房里，等睡了一觉起来还在播放，刚到公司就彻底把电耗光，一共差不多是9个半小时，和标称相近。</p><p>骁龙850是本身就是一款低功耗的处理器，因为发热低，机子当然也是没有风扇的，MateBook E 标配36.3Wh电池（和12.9寸的iPad Pro相当），电池容量不大，但追剧的续航已经证明了是足够的。</p><p>日常移动办公的续航表现，我的经验是用下来都能达到7小时以上，基本足够在外一天的使用。我寻思着，这次华为并没有标配一块超大容量的电池，原因在于更想做好超薄和便携，毕竟8.5mm的厚度和当下主流手机相当，电池方面做到够用就行。（此处剧透：下文还有“绝招”。）</p><p>其实我还比较关心<b>合盖息屏之后的耗电表现（待机续航表现）</b>，“开盖即用，合盖就走”，不用开关机，我个人觉得这是笔电都该有的性能。为此，我特意测试了一下：连上WiFi、登录社交软件情况下息屏12小时的耗电测试：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b16d988f3be6676ac6288e9cfa0c60f4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1381\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1381\" data-original=\"https://pic1.zhimg.com/v2-b16d988f3be6676ac6288e9cfa0c60f4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1381&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1381\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1381\" data-original=\"https://pic1.zhimg.com/v2-b16d988f3be6676ac6288e9cfa0c60f4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b16d988f3be6676ac6288e9cfa0c60f4_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-5015330f966922b68f87cf4c64ee80ac_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1381\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1381\" data-original=\"https://pic1.zhimg.com/v2-5015330f966922b68f87cf4c64ee80ac_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1381&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1381\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1381\" data-original=\"https://pic1.zhimg.com/v2-5015330f966922b68f87cf4c64ee80ac_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-5015330f966922b68f87cf4c64ee80ac_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>12个小时耗电11%。如果不连接WiFi、不登录社交软件，耗电肯定会更低。这样的待机耗电率，不太需要关注息屏之后的耗电情况，其实基本可以做到“开盖即用，合盖就走”了。</p><p>此外，续航应该是节流和开源两个方面，上文都是在说节流，下面重点说说<b>开源</b>。</p><p>MateBook E原装的充电头最大充电功率是40W，支持PD协议。其实如果大家熟悉华为手机的话，40W和PD协议，正是Mate20Pro和P30Pro标配充电头的两个显著特征，事实上它们也是和MateBook E通用的。</p><p>由于充电口是Type-C，我就有疑问了：<b>普通手机的充电宝或者充电头，能否给它充电吗？</b>我做了以下实验：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-052f0118b4b179a976a1d390f2c4d6ed_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-052f0118b4b179a976a1d390f2c4d6ed_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-052f0118b4b179a976a1d390f2c4d6ed_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-052f0118b4b179a976a1d390f2c4d6ed_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-9040c5b3cdd412701dc395669dd09a10_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-9040c5b3cdd412701dc395669dd09a10_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-9040c5b3cdd412701dc395669dd09a10_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9040c5b3cdd412701dc395669dd09a10_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-e04c38c5f9bda37609d55780c33b30a3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-e04c38c5f9bda37609d55780c33b30a3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic4.zhimg.com/v2-e04c38c5f9bda37609d55780c33b30a3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e04c38c5f9bda37609d55780c33b30a3_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>都可以！</b>并不支持PD协议的手机充电头、充电宝都可以给MateBook E充电！而且现在餐厅随处可见的USB插座也能为其充电！而且我特意看了，用这些方式边充电边使用，电池百分比在不断缓慢的上升，也就是说用这些不支持PD的“慢充”给小E充电，充电功率是超过用电功率的，也是实实在在的在给电池充电的！</p><p>说了这么多，<b>MateBook E的充电有极佳的可得性</b>，普通手机充电头、充电宝都能给其充电，基本到哪里都不怕没电可充了。出差旅行甚至只需要带一套手机充电设备就行了。<b>如果还有人惦记着没有标配超大电池，那么如此方便的充电体系，应该能给你安慰。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><h2>软件的兼容性</h2><p><b>为什么还需要说这个呢？因为这不是传统的X86 PC，这是ARM PC，底层所用的指令集是不同的，软件的兼容性也就必须考虑了。</b></p><p>其实我使用的较多的就是办公软件（主要是Word、Excel和PowerPoint）、网页浏览、修图和视频娱乐，现在基本不玩PC游戏。</p><p>Office软件方面，小E是自带正版的，可以自助激活。因为操作系统是Win10 on ARM，微软已经在底层给做了适配，且Office也是微软的，兼容性是非常好。这几天使用下来都是非常流畅，没有发生过任何异常。</p><p>浏览器方面，我使用的是自带的Edge和谷歌的Chrome，两者也是非常流畅和没有异常。本文的编辑，大部分就是在Matebook E上的这两个浏览器上完成的。</p><p>其实在此之前，我是比较担心Adobe公司的两个修图软件的流畅性和兼容性，我经常使用<b>Photoshop CC</b>和<b>Lightroom 5</b>，这是我高频使用的两个修图软件。实测使用下来，不仅仅流畅且无异常，而且令人惊讶的是，Adobe还为这版操作系统的2K屏幕做了适配，文字显示细腻，视窗的显示效果非常好。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-dcaf4b2f394ea1c981a63fcaec0e57fd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-dcaf4b2f394ea1c981a63fcaec0e57fd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-dcaf4b2f394ea1c981a63fcaec0e57fd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-dcaf4b2f394ea1c981a63fcaec0e57fd_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-6b44431d89ba94df63b2f2ddc78a57d2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pic3.zhimg.com/v2-6b44431d89ba94df63b2f2ddc78a57d2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1440&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1440\" data-original=\"https://pic3.zhimg.com/v2-6b44431d89ba94df63b2f2ddc78a57d2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-6b44431d89ba94df63b2f2ddc78a57d2_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>工作之余，追剧也是必须的，视频内容主要来自bt下载和几个视频客户端软件，其实也都能完美适配。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-23ae6cb7286a93320f1f16f450132948_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-23ae6cb7286a93320f1f16f450132948_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-23ae6cb7286a93320f1f16f450132948_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-23ae6cb7286a93320f1f16f450132948_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>拿下键盘，作为普通平板电脑那样追剧。这里要特别说一下外放的<b>杜比声效</b>，比普通的平板电脑或者手机相比，升级很大，真的令人印象深刻。</p><p>在软件兼容性方面还是令我惊讶的，这也是我文章加入这部分的原因。ARM+Win这种模式的PC正在走来，软件生态也在不断的完善，使用下来的感受是：<b>一般常见的、常用的软件基本都已经做到了很好的适配，能够满足绝大部分办公+娱乐的需求。如果要说那些非常小众的软件、专用的软件，适配起来可能还没完全做好，毕竟Win10的适配还不如Win7，Win7还不如XP呢。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>总结</b></h2><p>用这么大的篇幅，来记录我对Matebook E 2019款的使用感受，自然不仅仅是为了开箱，而是想和大家一起讨论ARM+Win这类新生笔电。它特点明显：省电且超长续航、轻便，长得更像平板，也往往都有一块相对传统笔电更好的屏幕，但绝对性能不突出。我想，目前的ARM+Win电脑并不适合充当手上唯一的电脑，但作为出差机、旅行机、娱乐机，是非常适合的，这方面MateBook E做的都不错。</p><p>就MateBook E而言，优点方面有标配正版Office软件、3：2的生产力屏幕、超强的连接性能、比较不错的颜值和做工、杜比声效、超强的充电可得性，还有3999元比较不错的性价比。缺点方面：主要有标配电池不是很大、键盘没有背光、数据接口偏少等。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2dcbcb60a7bec376e98ba8a9562d87ac_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-2dcbcb60a7bec376e98ba8a9562d87ac_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;801&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"801\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic1.zhimg.com/v2-2dcbcb60a7bec376e98ba8a9562d87ac_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2dcbcb60a7bec376e98ba8a9562d87ac_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>（本文首发于什么值得买。）</p><p><b>【End】</b></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "华为", 
+                    "tagLink": "https://api.zhihu.com/topics/19565956"
+                }, 
+                {
+                    "tag": "个人电脑", 
+                    "tagLink": "https://api.zhihu.com/topics/19550286"
+                }, 
+                {
+                    "tag": "笔记本电脑", 
+                    "tagLink": "https://api.zhihu.com/topics/19559604"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "sure", 
+                    "userLink": "https://www.zhihu.com/people/18623d151f6dbc8266239eef91e9d70c", 
+                    "content": "CAD行吗[微笑]", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "飞跃彩虹", 
+                            "userLink": "https://www.zhihu.com/people/ec9362678005b52bc3f39977826e9de2", 
+                            "content": "同问，行就买一台", 
+                            "likes": 1, 
+                            "replyToAuthor": "sure"
+                        }, 
+                        {
+                            "userName": "麦克阿摄", 
+                            "userLink": "https://www.zhihu.com/people/d6cc130b0ed0624cb9dac2de0c0ceee1", 
+                            "content": "<p>我没试过呢，也不会做cad。试了ps可以用。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "飞跃彩虹"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "人字拖", 
+                    "userLink": "https://www.zhihu.com/people/4917b6ad683c25a5c720ba848ecf81e2", 
+                    "content": "多开几个软件会不会卡顿，反应慢？例如打开多个浏览器标签页面，word，微信等等", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "麦克阿摄", 
+                            "userLink": "https://www.zhihu.com/people/d6cc130b0ed0624cb9dac2de0c0ceee1", 
+                            "content": "日常使用都没问题。", 
+                            "likes": 1, 
+                            "replyToAuthor": "人字拖"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "椿菜树", 
+                    "userLink": "https://www.zhihu.com/people/051c15c2048e643dcb60031af5404dd0", 
+                    "content": "请问试过同时开QQ，微信，网页，Word、Excel和Ps这几个软件时切换或是会卡吗，谢谢", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "carryonplease", 
+                            "userLink": "https://www.zhihu.com/people/26af349ee566b1f7d45da8aaaaf7d569", 
+                            "content": "你说的那几个，我tab s6都不会卡", 
+                            "likes": 0, 
+                            "replyToAuthor": "椿菜树"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "麦克阿摄", 
+                    "userLink": "https://www.zhihu.com/people/d6cc130b0ed0624cb9dac2de0c0ceee1", 
+                    "content": "<p>不卡</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "yAow", 
+                    "userLink": "https://www.zhihu.com/people/3f93905b38528f86faf12628e5a9b06d", 
+                    "content": "axure行吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "寡人", 
+                    "userLink": "https://www.zhihu.com/people/b8934d284b4ab0821af035e28fcd15a3", 
+                    "content": "能不能玩英雄联盟", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "江岩", 
+                    "userLink": "https://www.zhihu.com/people/4caa25cd324ff0043cca28d713838e18", 
+                    "content": "炉石可以么？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "江岩", 
+                    "userLink": "https://www.zhihu.com/people/4caa25cd324ff0043cca28d713838e18", 
+                    "content": "还有能不能测试一下华为的那个笔", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "nortwolf", 
+                    "userLink": "https://www.zhihu.com/people/9de5b362210fc9134fc5b02d0a98caeb", 
+                    "content": "网上好像只有灰色在卖?", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "nortwolf", 
+                    "userLink": "https://www.zhihu.com/people/9de5b362210fc9134fc5b02d0a98caeb", 
+                    "content": "标配里有拓展坞吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "nortwolf", 
+                    "userLink": "https://www.zhihu.com/people/9de5b362210fc9134fc5b02d0a98caeb", 
+                    "content": "您是什么渠道购买的呢？你说的痛点我都有，只是我老婆说蓝色的那么骚气，不适合男士用", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "nortwolf", 
+                            "userLink": "https://www.zhihu.com/people/9de5b362210fc9134fc5b02d0a98caeb", 
+                            "content": "我也更喜欢蓝色[捂嘴]", 
+                            "likes": 1, 
+                            "replyToAuthor": "nortwolf"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "odjvnrij", 
+                    "userLink": "https://www.zhihu.com/people/618cac6e5f11186b95c15e95f2c8641f", 
+                    "content": "这续航，心动了，性能不高，但上课做个笔记绰绰有余，续航也强.......", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "李子沐", 
+                    "userLink": "https://www.zhihu.com/people/c44c57836f8c3964ce5fd3dcde9e7349", 
+                    "content": "<p>我想知道你安装的Adobe是什么版本的？？CC不是必须64位系统吗？？这个电脑好像标是说64位但实际不是。。。我装7-zip的时候有提示说无法安装64位的软件，那应该实际是32位的。。</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Ailsa", 
+                            "userLink": "https://www.zhihu.com/people/781f332afaf91e62bad7aeeea1fb9e2b", 
+                            "content": "现在Adobe的问题解决了吗？可以安装使用吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "李子沐"
+                        }, 
+                        {
+                            "userName": "李子沐", 
+                            "userLink": "https://www.zhihu.com/people/c44c57836f8c3964ce5fd3dcde9e7349", 
+                            "content": "我装了au和ps的cs6版 据说cc的2017<br>版支持32位的系统。应该也能装。adobe的软件可以用，没问题", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ailsa"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "oooo yo", 
+                    "userLink": "https://www.zhihu.com/people/b3fba2448b6ce4401ecf2ef4f3206ae9", 
+                    "content": "看了非常心动，我正要换个笔记本", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "犬儒叫兽", 
+                    "userLink": "https://www.zhihu.com/people/3f0039ab62de809d8b016dad1b9db7bc", 
+                    "content": "<p>正好我也在纠结E和GO 看了你的文章就下定决心买E啦</p><a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-ba306425d0a7aee2c7260381f1bf7b97.gif\" data-width=\"\" data-height=\"\">[欢呼]</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>线下店面一直缺货，说只能全款预订。线上商城256GB的也显示到货通知。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "残风", 
+                    "userLink": "https://www.zhihu.com/people/03ed98c1673c4002382eda975b4212f4", 
+                    "content": "华为的键盘布局可以改进下，我就是因为键盘才不买的。insert键请独立出来，拷贝粘帖要用。空格键那行请学ThinkPad对齐一下，强迫症实在受不了…", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "容若慕", 
+                    "userLink": "https://www.zhihu.com/people/cde3df5b7ea37830f412a763a24af61c", 
+                    "content": "请问ps安装的是32位还是64位呢？会闪退吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Ailsa", 
+                            "userLink": "https://www.zhihu.com/people/781f332afaf91e62bad7aeeea1fb9e2b", 
+                            "content": "同问", 
+                            "likes": 0, 
+                            "replyToAuthor": "容若慕"
+                        }, 
+                        {
+                            "userName": "江有雪", 
+                            "userLink": "https://www.zhihu.com/people/f128b83c8afd167c8663f0a15749a667", 
+                            "content": "同问", 
+                            "likes": 0, 
+                            "replyToAuthor": "容若慕"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "财务专用软件可以安装使用吗", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "答主试试手势软件gesturesign能用吗？商店版的好像限制arm了，看看exe安装包的那种能不能用", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37694649", 
+            "userName": "麦克阿摄", 
+            "userLink": "https://www.zhihu.com/people/d6cc130b0ed0624cb9dac2de0c0ceee1", 
+            "upvote": 274, 
+            "title": "绝对是这个价位最值的手机！——小米8 简单体验评测", 
+            "content": "<p>小米8会在今日（6月5日）正式开卖，2699起的价格虽然相比前一代又稍有涨价，但纵观目前安卓旗舰机市场，似乎这个价位就能买到骁龙845处理器，以及其他方面也都还不错、甚至都是可圈可点的手机，真的是不多！啊不！是没有！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-00556600591baa8e450313e5d7a5e91d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1067\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb\" width=\"1067\" data-original=\"https://pic2.zhimg.com/v2-00556600591baa8e450313e5d7a5e91d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1067&#39; height=&#39;1500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1067\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1067\" data-original=\"https://pic2.zhimg.com/v2-00556600591baa8e450313e5d7a5e91d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-00556600591baa8e450313e5d7a5e91d_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6a794a20e1e3ac5f95e7b77cb8af9fa1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1059\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb\" width=\"1059\" data-original=\"https://pic2.zhimg.com/v2-6a794a20e1e3ac5f95e7b77cb8af9fa1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1059&#39; height=&#39;1500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1059\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1059\" data-original=\"https://pic2.zhimg.com/v2-6a794a20e1e3ac5f95e7b77cb8af9fa1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6a794a20e1e3ac5f95e7b77cb8af9fa1_b.jpg\"/></figure><p>▲ 小米8采用黑色包装盒，似乎目前小米手机已经形成了【红色包装盒是低端、白色是中端，黑色是高端】的惯例。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-07e05e1562e5dc39bf59c1433d171e2c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1053\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb\" width=\"1053\" data-original=\"https://pic1.zhimg.com/v2-07e05e1562e5dc39bf59c1433d171e2c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1053&#39; height=&#39;1500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1053\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1053\" data-original=\"https://pic1.zhimg.com/v2-07e05e1562e5dc39bf59c1433d171e2c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-07e05e1562e5dc39bf59c1433d171e2c_b.jpg\"/></figure><p>▲ 开箱后的小米8，屏幕上覆盖着印有配置特点信息的磨砂塑料薄膜。前两项都能猜到或者有所感知，第三项的双路GPS，能够使用GPS系统中的两个不同频段，能够更加精确的定位，这也是手机界第一次采用双路GPS。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6d0c764d67e0ff8810adb9b3c79b18ed_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1038\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-6d0c764d67e0ff8810adb9b3c79b18ed_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1038&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1038\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-6d0c764d67e0ff8810adb9b3c79b18ed_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6d0c764d67e0ff8810adb9b3c79b18ed_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0d8384dce2a96a06b17b18949c1263c3_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1152\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic4.zhimg.com/v2-0d8384dce2a96a06b17b18949c1263c3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1152&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1152\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic4.zhimg.com/v2-0d8384dce2a96a06b17b18949c1263c3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0d8384dce2a96a06b17b18949c1263c3_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-26426214e03f548a8276da6ac33d34dd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1055\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-26426214e03f548a8276da6ac33d34dd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1055&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1055\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-26426214e03f548a8276da6ac33d34dd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-26426214e03f548a8276da6ac33d34dd_b.jpg\"/></figure><p>▲ Type-C充电口当然必须有的，USB3.0也是不会有的。可以明显的看到，小米8很明显的相比以前小米数字系列更加的轻巧。视觉上看还是很薄的，后盖两边有明显的收窄，后盖的弧度更大，手感自然是不错的。这里必须指出的是：小米8没有红外模块，雷军也在微博中指出是因为采用了红外人脸识别，实在是没空间放了！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-073cfac4e656ce1055db7a9bd04af28e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1147\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb\" width=\"1147\" data-original=\"https://pic3.zhimg.com/v2-073cfac4e656ce1055db7a9bd04af28e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1147&#39; height=&#39;1500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1147\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1147\" data-original=\"https://pic3.zhimg.com/v2-073cfac4e656ce1055db7a9bd04af28e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-073cfac4e656ce1055db7a9bd04af28e_b.jpg\"/></figure><p>▲ 黑色是我最喜欢的手机颜色。小米8的黑色是很黑的那种，不是灰灰的那种，个人认为这样的黑色更加深邃，也更适合男性用户。竖排的双摄，主摄采用的是IMX363感光元件，和MIX2S相同，也是目前大多数安卓旗舰机所用的元件。黑色虽然好看，但拍过黑色手机的朋友都知道：黑色手机真的太难拍了！</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-521769b704804e8de67f6cff74a62715_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1023\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-521769b704804e8de67f6cff74a62715_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1023&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1023\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-521769b704804e8de67f6cff74a62715_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-521769b704804e8de67f6cff74a62715_b.jpg\"/></figure><p>▲ 正面看，小米8采用的是刘海屏设计。从iPhone X开始，我一直都很细刘海屏，也用过了几款刘海屏手机。刘海屏可以有更高的屏占比，视觉冲击感更强！市面上现在热销的2000元以上的安卓手机几乎已经全是刘海屏。我还是坚持之前的评价：以后会没有刘海屏就像没有屏幕似的。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-aa0f10a83f9da9d34af21d36b7a2cc2d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1037\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-aa0f10a83f9da9d34af21d36b7a2cc2d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1037&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1037\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-aa0f10a83f9da9d34af21d36b7a2cc2d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-aa0f10a83f9da9d34af21d36b7a2cc2d_b.jpg\"/></figure><p>▲ 整体握感方面，我觉得这是小米8表现进步最大的方面！现在大部分手机都在采用玻璃后盖后做得更厚了，其实当然是有影响手感的。米8是继米6X之后的又一款“手感之作”。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>拍照体验</b></h2><p>拍照方面可能是目前手机众多功能中最重要的一个，也是诸多厂商绝对血拼的领域。小米8在DoX的评分第四。这方面华为的确牛逼，一下子采用了1/1.7英寸的巨幅CMOS。雷军在发布会上也坦诚的承认华为P20p的领先，P20p的确是bug级的存在。但拍照获得105分，已经明显超过了苹果旗舰，以及小米自己的Mix 2S了。</p><p>还是上样张吧！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1aecc149494aabd92a418cc689e88c67_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"850\" data-rawheight=\"1134\" class=\"origin_image zh-lightbox-thumb\" width=\"850\" data-original=\"https://pic4.zhimg.com/v2-1aecc149494aabd92a418cc689e88c67_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;850&#39; height=&#39;1134&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"850\" data-rawheight=\"1134\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"850\" data-original=\"https://pic4.zhimg.com/v2-1aecc149494aabd92a418cc689e88c67_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1aecc149494aabd92a418cc689e88c67_b.jpg\"/></figure><p>放大了看细节表现恐怖！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>继续样张：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c40f356941ded5095c06ad1e3121089e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"850\" data-rawheight=\"638\" class=\"origin_image zh-lightbox-thumb\" width=\"850\" data-original=\"https://pic3.zhimg.com/v2-c40f356941ded5095c06ad1e3121089e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;850&#39; height=&#39;638&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"850\" data-rawheight=\"638\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"850\" data-original=\"https://pic3.zhimg.com/v2-c40f356941ded5095c06ad1e3121089e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c40f356941ded5095c06ad1e3121089e_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-0af20ba38f4d603cd94f4585c2af52eb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"850\" data-rawheight=\"638\" class=\"origin_image zh-lightbox-thumb\" width=\"850\" data-original=\"https://pic4.zhimg.com/v2-0af20ba38f4d603cd94f4585c2af52eb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;850&#39; height=&#39;638&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"850\" data-rawheight=\"638\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"850\" data-original=\"https://pic4.zhimg.com/v2-0af20ba38f4d603cd94f4585c2af52eb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-0af20ba38f4d603cd94f4585c2af52eb_b.jpg\"/></figure><h2><b>性能和MIUI10之使用感受</b></h2><p>这是我使用的第一款骁龙845手机，说实话相比当年第一次使用820和835的那种突如其来的畅快感，845给我带来的感觉是没有那么强烈的。但毫无疑问，845也绝对是目前安卓手机所采用的最好的SoC。</p><p>相比雷军在发布会上演示的30万分的安兔兔跑分，经过多次测试，实际上基本都是接近27万分的成绩，也有听说是因为当前版本的系统还没完全更新完驱动，后期如有变动，我会在这里更新。</p><p>到了你们熟悉的androbench跑分的阶段了！连续读取高达700+，自然是UFS2.1该有的成绩！另一个更相关于日常使用的，也是瓶颈最大的是随机写入速度，米8的跑分高达120+！上一代米6在这方面的跑分仅仅20左右，这次已经有了数量级的进步！暂时不清楚到底是硬件芯片的全面大升级，还是文件系统的更换所致。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-1644178d55566e11184a9fb9b801d70c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"2248\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-1644178d55566e11184a9fb9b801d70c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;2248&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"2248\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-1644178d55566e11184a9fb9b801d70c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-1644178d55566e11184a9fb9b801d70c_b.jpg\"/></figure><p>这次MIUI10的底层依然使用的是安卓8（废话！P还没有这么快！），但界面的变化相比9是巨大的，而且可以明显的感受到拥有了不少类似P的新特性。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-65f527433acb21cdf9e032fd05e7d8f1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"2248\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-65f527433acb21cdf9e032fd05e7d8f1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;2248&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"2248\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-65f527433acb21cdf9e032fd05e7d8f1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-65f527433acb21cdf9e032fd05e7d8f1_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-557a1f39a77e12cb3329e8c6032c3628_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"2248\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-557a1f39a77e12cb3329e8c6032c3628_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;2248&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"2248\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic1.zhimg.com/v2-557a1f39a77e12cb3329e8c6032c3628_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-557a1f39a77e12cb3329e8c6032c3628_b.jpg\"/></figure><h2><b>关于米8、探索版和米8SE</b></h2><p>本次小米一共发布了以上三款手机产品，除了探索版还需要下个月到来，其余两款已经上市。米8采用的是近19：9的6.21英寸的屏幕，这其实不是小屏机！而是相当于以前16：9的5.5英寸屏幕的机身尺寸！很明显，这次小米8更加类似于承担了过去小米Note系列角色！</p><p>其实很好理解，经典5.5英寸屏幕的机身尺寸才是市场绝对的主流！OV两家的R系列和X系列也都是这个尺寸！毫无疑问，小米数字系列必须是小米的主力当担，所以小米也必须把数字系列的尺寸调整至市场容量最大的数字。</p><p>小米8相比探索版，在配置上最主要的区别就是缺少了屏幕指纹和结构光。麦克之前了解到，这两个部件，大部分供应商都还在“崩了”之中，也就是说目前大部分行业内的供应商还无法大量出货，小米8探索版的相对迟到也是必须的。而缺少了这两项配置的小米8，也绝对也绝对是小米旗舰机的跑货主力了！</p><p>我个人非常稀饭探索版！因为更骚！</p><p>SE则是采用的5.8英寸的屏幕，机身尺寸类似于之前的小米6。SE相比米8在处理器上从845降到了710，并且后盖玻璃也从3D变成2.5D，且也没有配备红外人脸解锁，摄像头模块也略有降级。相对增加的配置是有了红外遥控。</p><p>然而，1799起的售价，还要什么自行车！可以说是小米这次重新定义了中端机！啊不！是重新定义了中端机的价格！</p><p>如果你追求极致，你会在SE上看到一大堆缺点；但你看了价格，缺点也都是优点了！</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>【End】</p><p></p><p></p><p></p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "手机", 
+                    "tagLink": "https://api.zhihu.com/topics/19551676"
+                }, 
+                {
+                    "tag": "小米科技", 
+                    "tagLink": "https://api.zhihu.com/topics/19552883"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "金子", 
+                    "userLink": "https://www.zhihu.com/people/42d6b1189bc5ce5891f8a7f473caf018", 
+                    "content": "这文有点软啊..  十点发售..  十点十分文章就发出来了..  还带图..这么多字..  在加上小米之家发售排队取手机...", 
+                    "likes": 65, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "媒体机提前拿到很正常", 
+                    "likes": 43, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "少说多看好好想", 
+                    "userLink": "https://www.zhihu.com/people/72726c39fa1c3fd08b5a224183fe38ba", 
+                    "content": "我只关心一点，题主是抢到的还是加价买的？", 
+                    "likes": 18, 
+                    "childComments": [
+                        {
+                            "userName": "Who cares", 
+                            "userLink": "https://www.zhihu.com/people/d845f338e8a04040116254339fe5be58", 
+                            "content": "去线下小米之家预定，这次小米8铺货可以的。", 
+                            "likes": 27, 
+                            "replyToAuthor": "少说多看好好想"
+                        }, 
+                        {
+                            "userName": "少说多看好好想", 
+                            "userLink": "https://www.zhihu.com/people/72726c39fa1c3fd08b5a224183fe38ba", 
+                            "content": "多谢了！", 
+                            "likes": 0, 
+                            "replyToAuthor": "Who cares"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "金子", 
+                    "userLink": "https://www.zhihu.com/people/42d6b1189bc5ce5891f8a7f473caf018", 
+                    "content": "这文有点软啊..  十点发售..  十点十分文章就发出来了..  还带图..这么多字..  在加上小米之家发售排队取手机...", 
+                    "likes": 65, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "媒体机提前拿到很正常", 
+                            "likes": 43, 
+                            "replyToAuthor": "金子"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>看作者的想法就知道作者昨天就拿到了</p>", 
+                            "likes": 4, 
+                            "replyToAuthor": "金子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "胡大姐", 
+                    "userLink": "https://www.zhihu.com/people/d4306d3763a541c8f14d5deaa5992024", 
+                    "content": "<p>状态栏推送的消息，你能整条消息全部看全吗？</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "那个这个", 
+                    "userLink": "https://www.zhihu.com/people/85ee9b113f796f4e55f56bfab5b7cee1", 
+                    "content": "黑色确实好看啊…", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "jijijison", 
+                    "userLink": "https://www.zhihu.com/people/690757101b99f12e839c216289a283e4", 
+                    "content": "据说屏幕发灰", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "闫德傲", 
+                            "userLink": "https://www.zhihu.com/people/64531b84fa0c610d50721226208d9d7e", 
+                            "content": "根据杨女士说的吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "jijijison"
+                        }, 
+                        {
+                            "userName": "jijijison", 
+                            "userLink": "https://www.zhihu.com/people/690757101b99f12e839c216289a283e4", 
+                            "content": "没，别人拍的照片看的，息屏下不是很黑", 
+                            "likes": 0, 
+                            "replyToAuthor": "闫德傲"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Ricolove", 
+                    "userLink": "https://www.zhihu.com/people/6007022fabc3896a7c96a14f1e1368cd", 
+                    "content": "没有红外，打扰了，se真香", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "闫德傲", 
+                            "userLink": "https://www.zhihu.com/people/64531b84fa0c610d50721226208d9d7e", 
+                            "content": "1999，回归初心", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ricolove"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "氮磷钾", 
+                    "userLink": "https://www.zhihu.com/people/cfcededef43ee83117785f7a75368963", 
+                    "content": "2699买个爱疯X（安卓版），你还要咋样？山寨的不够优秀吗？", 
+                    "likes": 12, 
+                    "childComments": [
+                        {
+                            "userName": "ICER零号君", 
+                            "userLink": "https://www.zhihu.com/people/f6f83c5edd323843c2f218a428bc1942", 
+                            "content": "您厉害，这个价位请给我一个845的手机，二手的不要，谢谢", 
+                            "likes": 3, 
+                            "replyToAuthor": "氮磷钾"
+                        }, 
+                        {
+                            "userName": "氮磷钾", 
+                            "userLink": "https://www.zhihu.com/people/cfcededef43ee83117785f7a75368963", 
+                            "content": "所以够优秀啊，我用的是小米MIX2S，感觉买亏了，应该等半拉月，差不多配置，便宜五百，最重要的是还抢了个把月", 
+                            "likes": 0, 
+                            "replyToAuthor": "ICER零号君"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "中单控符人符双送", 
+                    "userLink": "https://www.zhihu.com/people/ccb7d0b808a24ebc3173e266476f412d", 
+                    "content": "神特么喜欢刘海屏  苹果 刘海屏只是一种暂时的妥协 技术够了肯定去掉了  国产纯粹就是抄袭没啥技术 没啥感光原件  有了刘海还有下巴", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "歪歪", 
+                            "userLink": "https://www.zhihu.com/people/15ea91c3920ce8f516fd370b36478b92", 
+                            "content": "关键你不喜欢不代表其他人不喜欢啊，从刘海到光结构，从屏下指纹到优秀的双摄，从845到大内存大存储，关键才2699你还要什么自行车，跟国内骄傲的hov比比，看他们没光结构的刘海屏都啥价格", 
+                            "likes": 1, 
+                            "replyToAuthor": "中单控符人符双送"
+                        }, 
+                        {
+                            "userName": "玛丽亚 王", 
+                            "userLink": "https://www.zhihu.com/people/e9fcae0663675ba0742ae5360ea483ef", 
+                            "content": "别闹，2699的也没有结构光，还是个大刘海", 
+                            "likes": 0, 
+                            "replyToAuthor": "歪歪"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "鳕鱼", 
+                    "userLink": "https://www.zhihu.com/people/df66cb4cd6891a847484de3550cf828e", 
+                    "content": "今日头条:小米黄牛……这是独秀同志吧！", 
+                    "likes": 4, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "金夕", 
+                    "userLink": "https://www.zhihu.com/people/9bc2b360bf3ed53c9b3636e416eda490", 
+                    "content": "这刘海真的是气的牙痒痒", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "布鲁斯李", 
+                    "userLink": "https://www.zhihu.com/people/cf5f5c335f0f26fccf3f1adc0492587a", 
+                    "content": "老哥，续航测一下吧，很重要的", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "夜无晴", 
+                    "userLink": "https://www.zhihu.com/people/82f245888960e964d478ff4f34a36273", 
+                    "content": "给媳妇儿大人买了个小米8，被嫌弃了。嫌一拿手机手机屏幕就亮，开启了抬手机人脸解锁，不过很快，我的mate9表示压力不小。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "半梦", 
+                    "userLink": "https://www.zhihu.com/people/f437996af98dbaddf54d6aaa2f309c5a", 
+                    "content": "现货2999", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "无敌风火轮", 
+                    "userLink": "https://www.zhihu.com/people/ac93c651eaf14ff5a34f39afcbe86952", 
+                    "content": "宣传照和真机边框黑边差别有点大", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "三万英尺", 
+                    "userLink": "https://www.zhihu.com/people/47ce014fac896de240aaa66efcc21618", 
+                    "content": "我想问问你的会不会有bug，我看视频会有一部分屏幕看不见。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "jasonwwho", 
+                    "userLink": "https://www.zhihu.com/people/8d1e56fc368cab3dbcddeb08b07284f9", 
+                    "content": "拍照体验那里  是dxo，打错了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "佩佩猪", 
+                    "userLink": "https://www.zhihu.com/people/7db20b7fe7ec4e5c93377aee267cbab4", 
+                    "content": "其实比较关心耗电问题", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "yeah", 
+                    "userLink": "https://www.zhihu.com/people/6c2a891f11b0e83c2ee911aebe935187", 
+                    "content": "8带不带防水", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "金子", 
+                    "userLink": "https://www.zhihu.com/people/42d6b1189bc5ce5891f8a7f473caf018", 
+                    "content": "这文有点软啊..  十点发售..  十点十分文章就发出来了..  还带图..这么多字..  在加上小米之家发售排队取手机...", 
+                    "likes": 65, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "媒体机提前拿到很正常", 
+                    "likes": 43, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "少说多看好好想", 
+                    "userLink": "https://www.zhihu.com/people/72726c39fa1c3fd08b5a224183fe38ba", 
+                    "content": "我只关心一点，题主是抢到的还是加价买的？", 
+                    "likes": 18, 
+                    "childComments": [
+                        {
+                            "userName": "Who cares", 
+                            "userLink": "https://www.zhihu.com/people/d845f338e8a04040116254339fe5be58", 
+                            "content": "去线下小米之家预定，这次小米8铺货可以的。", 
+                            "likes": 27, 
+                            "replyToAuthor": "少说多看好好想"
+                        }, 
+                        {
+                            "userName": "少说多看好好想", 
+                            "userLink": "https://www.zhihu.com/people/72726c39fa1c3fd08b5a224183fe38ba", 
+                            "content": "多谢了！", 
+                            "likes": 0, 
+                            "replyToAuthor": "Who cares"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "金子", 
+                    "userLink": "https://www.zhihu.com/people/42d6b1189bc5ce5891f8a7f473caf018", 
+                    "content": "这文有点软啊..  十点发售..  十点十分文章就发出来了..  还带图..这么多字..  在加上小米之家发售排队取手机...", 
+                    "likes": 65, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "媒体机提前拿到很正常", 
+                            "likes": 43, 
+                            "replyToAuthor": "金子"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>看作者的想法就知道作者昨天就拿到了</p>", 
+                            "likes": 4, 
+                            "replyToAuthor": "金子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "胡大姐", 
+                    "userLink": "https://www.zhihu.com/people/d4306d3763a541c8f14d5deaa5992024", 
+                    "content": "<p>状态栏推送的消息，你能整条消息全部看全吗？</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "那个这个", 
+                    "userLink": "https://www.zhihu.com/people/85ee9b113f796f4e55f56bfab5b7cee1", 
+                    "content": "黑色确实好看啊…", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "jijijison", 
+                    "userLink": "https://www.zhihu.com/people/690757101b99f12e839c216289a283e4", 
+                    "content": "据说屏幕发灰", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "闫德傲", 
+                            "userLink": "https://www.zhihu.com/people/64531b84fa0c610d50721226208d9d7e", 
+                            "content": "根据杨女士说的吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "jijijison"
+                        }, 
+                        {
+                            "userName": "jijijison", 
+                            "userLink": "https://www.zhihu.com/people/690757101b99f12e839c216289a283e4", 
+                            "content": "没，别人拍的照片看的，息屏下不是很黑", 
+                            "likes": 0, 
+                            "replyToAuthor": "闫德傲"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Ricolove", 
+                    "userLink": "https://www.zhihu.com/people/6007022fabc3896a7c96a14f1e1368cd", 
+                    "content": "没有红外，打扰了，se真香", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "闫德傲", 
+                            "userLink": "https://www.zhihu.com/people/64531b84fa0c610d50721226208d9d7e", 
+                            "content": "1999，回归初心", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ricolove"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "氮磷钾", 
+                    "userLink": "https://www.zhihu.com/people/cfcededef43ee83117785f7a75368963", 
+                    "content": "2699买个爱疯X（安卓版），你还要咋样？山寨的不够优秀吗？", 
+                    "likes": 12, 
+                    "childComments": [
+                        {
+                            "userName": "ICER零号君", 
+                            "userLink": "https://www.zhihu.com/people/f6f83c5edd323843c2f218a428bc1942", 
+                            "content": "您厉害，这个价位请给我一个845的手机，二手的不要，谢谢", 
+                            "likes": 3, 
+                            "replyToAuthor": "氮磷钾"
+                        }, 
+                        {
+                            "userName": "氮磷钾", 
+                            "userLink": "https://www.zhihu.com/people/cfcededef43ee83117785f7a75368963", 
+                            "content": "所以够优秀啊，我用的是小米MIX2S，感觉买亏了，应该等半拉月，差不多配置，便宜五百，最重要的是还抢了个把月", 
+                            "likes": 0, 
+                            "replyToAuthor": "ICER零号君"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "中单控符人符双送", 
+                    "userLink": "https://www.zhihu.com/people/ccb7d0b808a24ebc3173e266476f412d", 
+                    "content": "神特么喜欢刘海屏  苹果 刘海屏只是一种暂时的妥协 技术够了肯定去掉了  国产纯粹就是抄袭没啥技术 没啥感光原件  有了刘海还有下巴", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "歪歪", 
+                            "userLink": "https://www.zhihu.com/people/15ea91c3920ce8f516fd370b36478b92", 
+                            "content": "关键你不喜欢不代表其他人不喜欢啊，从刘海到光结构，从屏下指纹到优秀的双摄，从845到大内存大存储，关键才2699你还要什么自行车，跟国内骄傲的hov比比，看他们没光结构的刘海屏都啥价格", 
+                            "likes": 1, 
+                            "replyToAuthor": "中单控符人符双送"
+                        }, 
+                        {
+                            "userName": "玛丽亚 王", 
+                            "userLink": "https://www.zhihu.com/people/e9fcae0663675ba0742ae5360ea483ef", 
+                            "content": "别闹，2699的也没有结构光，还是个大刘海", 
+                            "likes": 0, 
+                            "replyToAuthor": "歪歪"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "鳕鱼", 
+                    "userLink": "https://www.zhihu.com/people/df66cb4cd6891a847484de3550cf828e", 
+                    "content": "今日头条:小米黄牛……这是独秀同志吧！", 
+                    "likes": 4, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "金夕", 
+                    "userLink": "https://www.zhihu.com/people/9bc2b360bf3ed53c9b3636e416eda490", 
+                    "content": "这刘海真的是气的牙痒痒", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "布鲁斯李", 
+                    "userLink": "https://www.zhihu.com/people/cf5f5c335f0f26fccf3f1adc0492587a", 
+                    "content": "老哥，续航测一下吧，很重要的", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "夜无晴", 
+                    "userLink": "https://www.zhihu.com/people/82f245888960e964d478ff4f34a36273", 
+                    "content": "给媳妇儿大人买了个小米8，被嫌弃了。嫌一拿手机手机屏幕就亮，开启了抬手机人脸解锁，不过很快，我的mate9表示压力不小。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "半梦", 
+                    "userLink": "https://www.zhihu.com/people/f437996af98dbaddf54d6aaa2f309c5a", 
+                    "content": "现货2999", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "无敌风火轮", 
+                    "userLink": "https://www.zhihu.com/people/ac93c651eaf14ff5a34f39afcbe86952", 
+                    "content": "宣传照和真机边框黑边差别有点大", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "三万英尺", 
+                    "userLink": "https://www.zhihu.com/people/47ce014fac896de240aaa66efcc21618", 
+                    "content": "我想问问你的会不会有bug，我看视频会有一部分屏幕看不见。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "jasonwwho", 
+                    "userLink": "https://www.zhihu.com/people/8d1e56fc368cab3dbcddeb08b07284f9", 
+                    "content": "拍照体验那里  是dxo，打错了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "佩佩猪", 
+                    "userLink": "https://www.zhihu.com/people/7db20b7fe7ec4e5c93377aee267cbab4", 
+                    "content": "其实比较关心耗电问题", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "yeah", 
+                    "userLink": "https://www.zhihu.com/people/6c2a891f11b0e83c2ee911aebe935187", 
+                    "content": "8带不带防水", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "金子", 
+                    "userLink": "https://www.zhihu.com/people/42d6b1189bc5ce5891f8a7f473caf018", 
+                    "content": "这文有点软啊..  十点发售..  十点十分文章就发出来了..  还带图..这么多字..  在加上小米之家发售排队取手机...", 
+                    "likes": 65, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "媒体机提前拿到很正常", 
+                    "likes": 43, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "少说多看好好想", 
+                    "userLink": "https://www.zhihu.com/people/72726c39fa1c3fd08b5a224183fe38ba", 
+                    "content": "我只关心一点，题主是抢到的还是加价买的？", 
+                    "likes": 18, 
+                    "childComments": [
+                        {
+                            "userName": "Who cares", 
+                            "userLink": "https://www.zhihu.com/people/d845f338e8a04040116254339fe5be58", 
+                            "content": "去线下小米之家预定，这次小米8铺货可以的。", 
+                            "likes": 27, 
+                            "replyToAuthor": "少说多看好好想"
+                        }, 
+                        {
+                            "userName": "少说多看好好想", 
+                            "userLink": "https://www.zhihu.com/people/72726c39fa1c3fd08b5a224183fe38ba", 
+                            "content": "多谢了！", 
+                            "likes": 0, 
+                            "replyToAuthor": "Who cares"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "金子", 
+                    "userLink": "https://www.zhihu.com/people/42d6b1189bc5ce5891f8a7f473caf018", 
+                    "content": "这文有点软啊..  十点发售..  十点十分文章就发出来了..  还带图..这么多字..  在加上小米之家发售排队取手机...", 
+                    "likes": 65, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "媒体机提前拿到很正常", 
+                            "likes": 43, 
+                            "replyToAuthor": "金子"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>看作者的想法就知道作者昨天就拿到了</p>", 
+                            "likes": 4, 
+                            "replyToAuthor": "金子"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "胡大姐", 
+                    "userLink": "https://www.zhihu.com/people/d4306d3763a541c8f14d5deaa5992024", 
+                    "content": "<p>状态栏推送的消息，你能整条消息全部看全吗？</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "那个这个", 
+                    "userLink": "https://www.zhihu.com/people/85ee9b113f796f4e55f56bfab5b7cee1", 
+                    "content": "黑色确实好看啊…", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "jijijison", 
+                    "userLink": "https://www.zhihu.com/people/690757101b99f12e839c216289a283e4", 
+                    "content": "据说屏幕发灰", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "闫德傲", 
+                            "userLink": "https://www.zhihu.com/people/64531b84fa0c610d50721226208d9d7e", 
+                            "content": "根据杨女士说的吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "jijijison"
+                        }, 
+                        {
+                            "userName": "jijijison", 
+                            "userLink": "https://www.zhihu.com/people/690757101b99f12e839c216289a283e4", 
+                            "content": "没，别人拍的照片看的，息屏下不是很黑", 
+                            "likes": 0, 
+                            "replyToAuthor": "闫德傲"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Ricolove", 
+                    "userLink": "https://www.zhihu.com/people/6007022fabc3896a7c96a14f1e1368cd", 
+                    "content": "没有红外，打扰了，se真香", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "闫德傲", 
+                            "userLink": "https://www.zhihu.com/people/64531b84fa0c610d50721226208d9d7e", 
+                            "content": "1999，回归初心", 
+                            "likes": 0, 
+                            "replyToAuthor": "Ricolove"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "氮磷钾", 
+                    "userLink": "https://www.zhihu.com/people/cfcededef43ee83117785f7a75368963", 
+                    "content": "2699买个爱疯X（安卓版），你还要咋样？山寨的不够优秀吗？", 
+                    "likes": 12, 
+                    "childComments": [
+                        {
+                            "userName": "ICER零号君", 
+                            "userLink": "https://www.zhihu.com/people/f6f83c5edd323843c2f218a428bc1942", 
+                            "content": "您厉害，这个价位请给我一个845的手机，二手的不要，谢谢", 
+                            "likes": 3, 
+                            "replyToAuthor": "氮磷钾"
+                        }, 
+                        {
+                            "userName": "氮磷钾", 
+                            "userLink": "https://www.zhihu.com/people/cfcededef43ee83117785f7a75368963", 
+                            "content": "所以够优秀啊，我用的是小米MIX2S，感觉买亏了，应该等半拉月，差不多配置，便宜五百，最重要的是还抢了个把月", 
+                            "likes": 0, 
+                            "replyToAuthor": "ICER零号君"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "中单控符人符双送", 
+                    "userLink": "https://www.zhihu.com/people/ccb7d0b808a24ebc3173e266476f412d", 
+                    "content": "神特么喜欢刘海屏  苹果 刘海屏只是一种暂时的妥协 技术够了肯定去掉了  国产纯粹就是抄袭没啥技术 没啥感光原件  有了刘海还有下巴", 
+                    "likes": 6, 
+                    "childComments": [
+                        {
+                            "userName": "歪歪", 
+                            "userLink": "https://www.zhihu.com/people/15ea91c3920ce8f516fd370b36478b92", 
+                            "content": "关键你不喜欢不代表其他人不喜欢啊，从刘海到光结构，从屏下指纹到优秀的双摄，从845到大内存大存储，关键才2699你还要什么自行车，跟国内骄傲的hov比比，看他们没光结构的刘海屏都啥价格", 
+                            "likes": 1, 
+                            "replyToAuthor": "中单控符人符双送"
+                        }, 
+                        {
+                            "userName": "玛丽亚 王", 
+                            "userLink": "https://www.zhihu.com/people/e9fcae0663675ba0742ae5360ea483ef", 
+                            "content": "别闹，2699的也没有结构光，还是个大刘海", 
+                            "likes": 0, 
+                            "replyToAuthor": "歪歪"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "鳕鱼", 
+                    "userLink": "https://www.zhihu.com/people/df66cb4cd6891a847484de3550cf828e", 
+                    "content": "今日头条:小米黄牛……这是独秀同志吧！", 
+                    "likes": 4, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "金夕", 
+                    "userLink": "https://www.zhihu.com/people/9bc2b360bf3ed53c9b3636e416eda490", 
+                    "content": "这刘海真的是气的牙痒痒", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "布鲁斯李", 
+                    "userLink": "https://www.zhihu.com/people/cf5f5c335f0f26fccf3f1adc0492587a", 
+                    "content": "老哥，续航测一下吧，很重要的", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "夜无晴", 
+                    "userLink": "https://www.zhihu.com/people/82f245888960e964d478ff4f34a36273", 
+                    "content": "给媳妇儿大人买了个小米8，被嫌弃了。嫌一拿手机手机屏幕就亮，开启了抬手机人脸解锁，不过很快，我的mate9表示压力不小。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "半梦", 
+                    "userLink": "https://www.zhihu.com/people/f437996af98dbaddf54d6aaa2f309c5a", 
+                    "content": "现货2999", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "无敌风火轮", 
+                    "userLink": "https://www.zhihu.com/people/ac93c651eaf14ff5a34f39afcbe86952", 
+                    "content": "宣传照和真机边框黑边差别有点大", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "三万英尺", 
+                    "userLink": "https://www.zhihu.com/people/47ce014fac896de240aaa66efcc21618", 
+                    "content": "我想问问你的会不会有bug，我看视频会有一部分屏幕看不见。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "jasonwwho", 
+                    "userLink": "https://www.zhihu.com/people/8d1e56fc368cab3dbcddeb08b07284f9", 
+                    "content": "拍照体验那里  是dxo，打错了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "佩佩猪", 
+                    "userLink": "https://www.zhihu.com/people/7db20b7fe7ec4e5c93377aee267cbab4", 
+                    "content": "其实比较关心耗电问题", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "yeah", 
+                    "userLink": "https://www.zhihu.com/people/6c2a891f11b0e83c2ee911aebe935187", 
+                    "content": "8带不带防水", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/31429261", 
+            "userName": "麦克阿摄", 
+            "userLink": "https://www.zhihu.com/people/d6cc130b0ed0624cb9dac2de0c0ceee1", 
+            "upvote": 12, 
+            "title": "高端而不贵——352 X50 智能空气净化器 使用评测", 
+            "content": "<h2><b>前言</b></h2><p>其实很简单的，我对空气净化器比较熟悉，这三年来已经使用过多台空气净化器，有国内品牌，也有国际品牌，有很坑的，也有确实不错的，但还不曾是352产品的用户。</p><p>但朋友圈里有相同爱好的小伙伴们，每每提到空气净化器都会对352之前的型号X80/X83赞叹不已，并且我也特此借来使用过，见到如此堆料却做工精致的塔式净化器确实让人眼前一亮，要知道某品牌的同类产品售价可是五位数啊！而352只要两三千元！</p><p>又值进入秋冬，可以预见的是雾霾季即将来临，在双十一之前，352发布了新品：售价1599元的X50净化器。相比前两款产品，X50的设计没有了此前产品浓浓的工业风，显得更加家居化，我个人自然是更喜欢X50的外观设计。X50的滤芯也不是之前的塔式设计，改用家用空气净化器更为流行的桶式滤芯，但堆料不变。</p><p>产品正式发售还没多久，但京东的评论数已经高达4700+（楼主撰稿时），可见X50真的很受市场欢迎了，并且产能也不赖。要知道352公司不倚靠任何大集团，没有自带巨量流量的天然属性，352更像是一个安安静静做好空气净化器的美男子。</p><p>说了这么多，到底X50表现如何，是优点开挂还是槽点满满，接下来我给大家一起展示和评测一下。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>展示和使用感受篇</b></h2><p>快递收到352 X50之后，第一感受就是这货真大！因为之前使用过的这类桶式滤芯空气净化都比较奶油小生。但我始终坚持着空气净化是个物理过程，更大的尺寸才会有更高的性能。把13.5公斤重量的大箱子背上四楼之后，就迫不及待的开箱使用了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 开箱就像扒快递，我对任何产品都体验不到所谓的“仪式感”。但打开箱子第一眼看到的就是这张“352性能检验证书”，很明显的可以看到，任何一项数据都进行了实测，并手写记录了下来！当然，这是352产品固有的习惯，但突然想到价格差不多只有X80/X83一半的X50还是能够如此用心，的确有那么一点点的感动。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-99ede4958a983e57f55499d93f99cfed_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1175\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-99ede4958a983e57f55499d93f99cfed_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1175&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1175\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-99ede4958a983e57f55499d93f99cfed_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-99ede4958a983e57f55499d93f99cfed_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 性能检验证书和其他文档，可以看到本宝宝是10月17日生产的，味道自然是很新鲜的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ea892ba5e2496d7eea4bd3fe22edaa55_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1058\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-ea892ba5e2496d7eea4bd3fe22edaa55_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1058&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1058\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-ea892ba5e2496d7eea4bd3fe22edaa55_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ea892ba5e2496d7eea4bd3fe22edaa55_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 噔噔噔~噔！先来一张定妆照！黑白灰的设计，这种素调和不是很抓人眼球的外观，我认为正是所有白色家电的最佳设计，白电只需要默默的工作，最好让人能够不知道它的存在，外形和各种家装风格也足够百搭。正面中间采用的是类似拉丝的银灰色金属面板，在保证不抓人眼球的同时，也不显得单调。此外，这里必须指出的是：X50没有滚轮，我一直认为对于<b>家用</b>净化器来说，轮子不是必备。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c9644c87e6fae4941bfaa7d950a7992d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1117\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb\" width=\"1117\" data-original=\"https://pic2.zhimg.com/v2-c9644c87e6fae4941bfaa7d950a7992d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1117&#39; height=&#39;1500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1117\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1117\" data-original=\"https://pic2.zhimg.com/v2-c9644c87e6fae4941bfaa7d950a7992d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c9644c87e6fae4941bfaa7d950a7992d_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 上部控制面板使用的是高光亮面的黑底有机玻璃，所有按键都是触摸式的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-785362b6532adf2f52a324545042104f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1001\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic4.zhimg.com/v2-785362b6532adf2f52a324545042104f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1001&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1001\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic4.zhimg.com/v2-785362b6532adf2f52a324545042104f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-785362b6532adf2f52a324545042104f_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 侧边上边是拉手，下部是进风口，采用的是类似开口向下的百叶窗进风通道，好处是通道口不易累计灰尘，并且很好清理。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-2ab443cb19f1409b9ce7bbbe820b5fbf_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1029\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb\" width=\"1029\" data-original=\"https://pic4.zhimg.com/v2-2ab443cb19f1409b9ce7bbbe820b5fbf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1029&#39; height=&#39;1500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1029\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1029\" data-original=\"https://pic4.zhimg.com/v2-2ab443cb19f1409b9ce7bbbe820b5fbf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2ab443cb19f1409b9ce7bbbe820b5fbf_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 后面盖板之下就是滤芯，这滤芯“相当巨大”，一直有人说空净机很简单，就是一个滤芯加一个鼓风机，相比滤芯对于空净机的重要性不需要累述了。滤芯上面的盖板里是激光霾表。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e8cdbb21eff38529e41ed52e9b3f9658_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1013\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb\" width=\"1013\" data-original=\"https://pic1.zhimg.com/v2-e8cdbb21eff38529e41ed52e9b3f9658_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1013&#39; height=&#39;1500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1013\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1013\" data-original=\"https://pic1.zhimg.com/v2-e8cdbb21eff38529e41ed52e9b3f9658_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e8cdbb21eff38529e41ed52e9b3f9658_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 揭开盖子后的<b>激光霾表</b>。激光霾表一般是空气净化器的高端配置，自然是成本更高，性能上更灵敏、更精确。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-9e3f9826e12dfc047449c5114b3b7aa2_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"985\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic3.zhimg.com/v2-9e3f9826e12dfc047449c5114b3b7aa2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;985&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"985\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic3.zhimg.com/v2-9e3f9826e12dfc047449c5114b3b7aa2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-9e3f9826e12dfc047449c5114b3b7aa2_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 上文说的巨大的滤芯特写。官宣是使用了<b>4平米的H13级别的滤纸和950克的活性炭</b>！所以整个滤芯拿在手里也是非常沉甸甸的（相比市面上其他产品，这真是个大家伙）。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-aa3e2a0c7a4632c09970236b76077bd8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1094\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb\" width=\"1094\" data-original=\"https://pic1.zhimg.com/v2-aa3e2a0c7a4632c09970236b76077bd8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1094&#39; height=&#39;1500&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1094\" data-rawheight=\"1500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1094\" data-original=\"https://pic1.zhimg.com/v2-aa3e2a0c7a4632c09970236b76077bd8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-aa3e2a0c7a4632c09970236b76077bd8_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 外侧是滤纸，内侧是被铁网固定住的活性炭，量真的很大。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6ae934f3891e6172fca1786b735b74c5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1001\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-6ae934f3891e6172fca1786b735b74c5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1001&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1001\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-6ae934f3891e6172fca1786b735b74c5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-6ae934f3891e6172fca1786b735b74c5_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>滤纸，顾名思义是用来过滤粉尘的，也就是颗粒物，或者大家说的PM多少多少。H13级别的HEPA滤纸，也是在整个行业中属于比较高端滤纸，同样也是中高端空气净化器才标配的滤纸。</p><p>活性炭在滤芯中的作用主要是吸附甲醛等有害气体，同时也能滤除空气异味。和滤网逮住pm2.5一样，活性炭抓住甲醛同样也是物理的过程。大尺寸&amp;高标准的滤纸自然能够更高效的净化空气中的颗粒物，同时滤网也会有更高的寿命，X50的颗粒物CCM值达到60000mg（实测是60942mg），甲醛的CCM值也达到了标称值3000mg！也就是说整个滤芯可以过滤60克的颗粒物和3克的甲醛！这就显示出了滤芯尺寸的重要性了！大家试想下那些一平米滤纸、95克活性炭的滤芯的CCM值是多少呢！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 顶部的出风口形状比较特别，和现在浮萍或者巧克力式的笔记本电脑键盘比较相像。格子式的开孔保证了硬币不会被扔进去，同时尺寸很小的彩虹糖也投不进去。其实这个很重要，家里有小孩的更加重要，这事绝对关系到安全。什么？牙签能不能放进去？嗯哼~</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-88c6b6e4ae20c0890e0168ad37e08ff6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1001\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic3.zhimg.com/v2-88c6b6e4ae20c0890e0168ad37e08ff6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1001&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1001\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic3.zhimg.com/v2-88c6b6e4ae20c0890e0168ad37e08ff6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-88c6b6e4ae20c0890e0168ad37e08ff6_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8b9968e282b89beb02d14f3e8a6ec233_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1001\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic4.zhimg.com/v2-8b9968e282b89beb02d14f3e8a6ec233_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1001&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1001\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic4.zhimg.com/v2-8b9968e282b89beb02d14f3e8a6ec233_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8b9968e282b89beb02d14f3e8a6ec233_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-eb4a5c12c5a454cf4180da0a08abe533_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1001\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic4.zhimg.com/v2-eb4a5c12c5a454cf4180da0a08abe533_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1001&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1001\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic4.zhimg.com/v2-eb4a5c12c5a454cf4180da0a08abe533_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-eb4a5c12c5a454cf4180da0a08abe533_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 打开空气净化器，正面显示实时霾表检测到的PM2.5数值。嗯嗯，这正是封面图，也是第一张实际工况图。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-0e6c616d62a0a0527b5bbb42cb8e3906_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"999\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic3.zhimg.com/v2-0e6c616d62a0a0527b5bbb42cb8e3906_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;999&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"999\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic3.zhimg.com/v2-0e6c616d62a0a0527b5bbb42cb8e3906_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-0e6c616d62a0a0527b5bbb42cb8e3906_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 这事晚上没有灯光情况下的实拍图，当然灯光是可以关闭的。绿色自然代表是空气质量好的意思，还有橙色、红色的显示，我想各自代表什么意思就不需要解释了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-5aa7efb9f42b8f87c3ba36f5d8a0f402_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1153\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic3.zhimg.com/v2-5aa7efb9f42b8f87c3ba36f5d8a0f402_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1153&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1153\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic3.zhimg.com/v2-5aa7efb9f42b8f87c3ba36f5d8a0f402_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-5aa7efb9f42b8f87c3ba36f5d8a0f402_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 控制面板后侧有一排led灯珠来显示代表当时空气质量的颜色。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-be5117295fce732a323e2e8f487a21c7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"975\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic4.zhimg.com/v2-be5117295fce732a323e2e8f487a21c7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;975&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"975\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic4.zhimg.com/v2-be5117295fce732a323e2e8f487a21c7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-be5117295fce732a323e2e8f487a21c7_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1e766615678d4dfaf2f258b0725f38b9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"928\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-1e766615678d4dfaf2f258b0725f38b9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;928&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"928\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-1e766615678d4dfaf2f258b0725f38b9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1e766615678d4dfaf2f258b0725f38b9_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 由于到货后这些天，江南的空气质量一直都非常不错，甚至没有哪天的PM2.5是超过120的。所以，本着没有困难创造困难的精神，我就在14平米左右的书房，关闭门窗，问老爸要了根烟，点了起来，烟烧到3/4的时候，屏显PM2.5就达到了999，这也是能够显示的最高值。嗯嗯，高速除霾测试开始了！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-5dcb51b9426e02e64a542633b08623e6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"957\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic3.zhimg.com/v2-5dcb51b9426e02e64a542633b08623e6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;957&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"957\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic3.zhimg.com/v2-5dcb51b9426e02e64a542633b08623e6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-5dcb51b9426e02e64a542633b08623e6_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 具体机滤如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f7645fc03bc37037f1a667a85c8391c0_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1094\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic1.zhimg.com/v2-f7645fc03bc37037f1a667a85c8391c0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1094&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1094\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic1.zhimg.com/v2-f7645fc03bc37037f1a667a85c8391c0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f7645fc03bc37037f1a667a85c8391c0_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>开了最高风量，也就是CADR500的速度迅速过滤，两分钟后还是报表的999，说明屋里的PM2.5还是远超999的。差不多两分半钟之后，屏显数值开始下降了，下降了！</p><p>之后每分钟都记录一次，到15分钟的时候达到22，这时候还在继续下降，但下降的速度变慢了，甚至我走动一下之后，数值就会有些许上升，可能是沉积在我身上的颗粒物被飘舞到了空气当中。霾秒的灵敏度非常之高。</p><p>书房内被一支烟就能使得PM2.5严重报表，尽管X50能够在15分钟内让空气恢复，但这能是继续抽烟的理由吗？</p><p class=\"ztext-empty-paragraph\"><br/></p><p>▼ 对了，差点忘了，给大家展示下X50的遥控器。现在不少智能空气净化器产品都没有遥控器，这对于年轻人来说或许没什么，可以用手机APP来控制，但对于老年人来说，遥控器还是非常必要的。遥控器可以基本实现操作面板上的所有功能，但这个使用纽扣电池的遥控器总觉得太小了点，手感不是很好。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3398fa39b8cc151e1990ba7dc4e52995_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1059\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-3398fa39b8cc151e1990ba7dc4e52995_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;1059&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"1059\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-3398fa39b8cc151e1990ba7dc4e52995_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-3398fa39b8cc151e1990ba7dc4e52995_b.jpg\"/></figure><h2><b>总结</b></h2><p>352 X50是一款1K5价位的空气净化器产品，这个价位其实比X80/X83的两三千价位档的竞争更加激烈。尽管X50的售价不是很贵，但令人高兴的是，堆料也没有停止，能够采用4平米H13滤纸+950克活性炭的滤芯，这个相比塔式滤芯的机器或许还比不上，但对于市面上占绝大部分的桶式滤芯来讲，基本上是保有着绝对的领先优势。要知道，空气净化是个物理过程，滤芯大，力量就大。</p><p>在使用过程中，另一个让我非常满意的是X50的噪声表现。关于噪声水平，官方是给出了如下的数据：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-bee20f51f9249d351377c5c97fa464ec_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1566\" data-rawheight=\"588\" class=\"origin_image zh-lightbox-thumb\" width=\"1566\" data-original=\"https://pic1.zhimg.com/v2-bee20f51f9249d351377c5c97fa464ec_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1566&#39; height=&#39;588&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1566\" data-rawheight=\"588\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1566\" data-original=\"https://pic1.zhimg.com/v2-bee20f51f9249d351377c5c97fa464ec_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-bee20f51f9249d351377c5c97fa464ec_b.jpg\"/></figure><p>我想大家和我一样，对于这个噪声数字并不能够立即准确想象到是多大的噪声水平，或者说这些数字对于非专业人士来讲完全不能转化为切身的体验等级。但我这里要说的是：即便是X50的最高档，噪声水平还是可以让人的接受的。不仅噪声不高，而且噪声的频率既不是很高的让人刺耳心烦的那种，也不是低频的让鼓膜共震耳痛的那种。</p><p>写完本文，我知道可能用了太多的溢美之词。写文本，也是在时刻提醒自己克制住自己的赞美的情况下写完的。嗯嗯，转眼一看X50，空气质量是这样的：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-78e5266a8c606b7526bc1570095a392d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"977\" class=\"origin_image zh-lightbox-thumb\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-78e5266a8c606b7526bc1570095a392d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1500&#39; height=&#39;977&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1500\" data-rawheight=\"977\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1500\" data-original=\"https://pic2.zhimg.com/v2-78e5266a8c606b7526bc1570095a392d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-78e5266a8c606b7526bc1570095a392d_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>感谢352！产品来自352的官方提问奖品：</b><a href=\"https://www.zhihu.com/question/67127165\" class=\"internal\">选购空气净化器，你走过哪些弯路？</a></p><p><b>祝大家天天好心情！</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>【End】</b></p>", 
+            "topic": [
+                {
+                    "tag": "空气净化器", 
+                    "tagLink": "https://api.zhihu.com/topics/19554061"
+                }, 
+                {
+                    "tag": "健康", 
+                    "tagLink": "https://api.zhihu.com/topics/19550937"
+                }, 
+                {
+                    "tag": "家用电器", 
+                    "tagLink": "https://api.zhihu.com/topics/19560767"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "项鹰", 
+                    "userLink": "https://www.zhihu.com/people/cdb7a50d885dc0267bce6f3d983956e8", 
+                    "content": "看着跟张小凡评测那个海尔扫地机器人的感觉像像的。", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "大雄", 
+                    "userLink": "https://www.zhihu.com/people/3a3ecff1153c19e23fd81f95187abbd1", 
+                    "content": "滤芯多久换一次，大概多少费用", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "352空气净化器", 
+                            "userLink": "https://www.zhihu.com/people/80e5811c58f2dec4b5311cda3bb75660", 
+                            "content": "<p>1年左右更换1次，299元。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "大雄"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "赛博", 
+                    "userLink": "https://www.zhihu.com/people/5986dedb0fd3f53553920c7cb3a07c1c", 
+                    "content": "竟然没有定时开关功能!", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "神乐", 
+                    "userLink": "https://www.zhihu.com/people/171ad55ecedf385943000235e6c90a6d", 
+                    "content": "我刚买了两台，新家。虽然晾了7-8个月，还是有味道。家里有小朋友，为了安全，双十一入了。感觉还不错目前。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/djsys"
+}

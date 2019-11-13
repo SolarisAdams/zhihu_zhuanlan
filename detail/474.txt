@@ -1,0 +1,591 @@
+{
+    "title": "DFMEA & IQ-RM FMEA65", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/jian-dan-jiandan", 
+        "https://www.zhihu.com/people/ming-yue-dang-37", 
+        "https://www.zhihu.com/people/glgyyxz", 
+        "https://www.zhihu.com/people/li723cheng", 
+        "https://www.zhihu.com/people/wan-shang-bu-chi-fan-12", 
+        "https://www.zhihu.com/people/zhi-duo-duo-78", 
+        "https://www.zhihu.com/people/zhu-jun-rui-52", 
+        "https://www.zhihu.com/people/xing-kong-30-57-26", 
+        "https://www.zhihu.com/people/wu-jian-fang-91", 
+        "https://www.zhihu.com/people/neko-44-39", 
+        "https://www.zhihu.com/people/zhang-zhe-ren-52", 
+        "https://www.zhihu.com/people/ke-chang-tang-77", 
+        "https://www.zhihu.com/people/guo-ke-19-62-24", 
+        "https://www.zhihu.com/people/wang-si-bo-34", 
+        "https://www.zhihu.com/people/cheng-xu-10-39", 
+        "https://www.zhihu.com/people/zhang-leo-2205", 
+        "https://www.zhihu.com/people/dou-y2332", 
+        "https://www.zhihu.com/people/a-yuan-2-90-90", 
+        "https://www.zhihu.com/people/siruo-zhuang", 
+        "https://www.zhihu.com/people/ren-fei-21-29", 
+        "https://www.zhihu.com/people/xia-qiang-60", 
+        "https://www.zhihu.com/people/eeblacksmith", 
+        "https://www.zhihu.com/people/tang-hao-5", 
+        "https://www.zhihu.com/people/bei-si-dou", 
+        "https://www.zhihu.com/people/xiao-hei-xian-sheng-74", 
+        "https://www.zhihu.com/people/jasonzhang-74-71", 
+        "https://www.zhihu.com/people/wang-flying-68", 
+        "https://www.zhihu.com/people/joe-65-65", 
+        "https://www.zhihu.com/people/freya-sun", 
+        "https://www.zhihu.com/people/wang-lin-jie-6", 
+        "https://www.zhihu.com/people/han-dou-ku-liao", 
+        "https://www.zhihu.com/people/huan-yong-hu-yi-ting-ji", 
+        "https://www.zhihu.com/people/mi-zi-34-32", 
+        "https://www.zhihu.com/people/mzdzm", 
+        "https://www.zhihu.com/people/chen-rong-cheng", 
+        "https://www.zhihu.com/people/zhu-qu-guan-guan-54", 
+        "https://www.zhihu.com/people/chen-mo-35-17-25", 
+        "https://www.zhihu.com/people/mcda-ma-ha-yu", 
+        "https://www.zhihu.com/people/chen-yu-chao-22-72", 
+        "https://www.zhihu.com/people/zqfrank", 
+        "https://www.zhihu.com/people/ma-bing-83-46", 
+        "https://www.zhihu.com/people/wu-zheng-xun-73", 
+        "https://www.zhihu.com/people/marco-81-21", 
+        "https://www.zhihu.com/people/hu-niu-70-95", 
+        "https://www.zhihu.com/people/qiu-shan-57-39", 
+        "https://www.zhihu.com/people/sun-meng-21", 
+        "https://www.zhihu.com/people/qi-zi-17-25", 
+        "https://www.zhihu.com/people/gabriel-wang-69", 
+        "https://www.zhihu.com/people/zui-qing-feng-yu-ye", 
+        "https://www.zhihu.com/people/xiao-tian-54-3-33", 
+        "https://www.zhihu.com/people/hu-jia-ming-89", 
+        "https://www.zhihu.com/people/guo-shao-zhu", 
+        "https://www.zhihu.com/people/ha-ha-jing-79-81", 
+        "https://www.zhihu.com/people/bictllz", 
+        "https://www.zhihu.com/people/mai-di-zui-hua-li", 
+        "https://www.zhihu.com/people/zhang-yu-xin-8-54-55", 
+        "https://www.zhihu.com/people/li-gong-xiao-yu", 
+        "https://www.zhihu.com/people/baibai-90-97", 
+        "https://www.zhihu.com/people/di-gu-69-13", 
+        "https://www.zhihu.com/people/ren-zheng-hua-41", 
+        "https://www.zhihu.com/people/kuai-huo-tu-dou-17", 
+        "https://www.zhihu.com/people/cai-cai-nu", 
+        "https://www.zhihu.com/people/ying-wei-lai-13", 
+        "https://www.zhihu.com/people/shang-xian-yue-de-yu", 
+        "https://www.zhihu.com/people/karin-72", 
+        "https://www.zhihu.com/people/yi-shi-7-16", 
+        "https://www.zhihu.com/people/shzdxx", 
+        "https://www.zhihu.com/people/li-shao-ke-77", 
+        "https://www.zhihu.com/people/sun-fan-68", 
+        "https://www.zhihu.com/people/feng-xi-54-33", 
+        "https://www.zhihu.com/people/lu-chang-94-87", 
+        "https://www.zhihu.com/people/bi-ren-wang-yiqiao", 
+        "https://www.zhihu.com/people/pang-da-hai", 
+        "https://www.zhihu.com/people/iqs-china.cn", 
+        "https://www.zhihu.com/people/shang-guan-fang-hui", 
+        "https://www.zhihu.com/people/sky-28-80", 
+        "https://www.zhihu.com/people/bruceli-20", 
+        "https://www.zhihu.com/people/xiao-wang-55-97", 
+        "https://www.zhihu.com/people/suci-29", 
+        "https://www.zhihu.com/people/huang-yao-shi-39-18-91", 
+        "https://www.zhihu.com/people/fang-shou-er-xing", 
+        "https://www.zhihu.com/people/leo-57-96-97", 
+        "https://www.zhihu.com/people/chai-zhi-sheng-9", 
+        "https://www.zhihu.com/people/yh-shi-64", 
+        "https://www.zhihu.com/people/liu-xin-qiang-58", 
+        "https://www.zhihu.com/people/nipf", 
+        "https://www.zhihu.com/people/fabien-liang", 
+        "https://www.zhihu.com/people/lu-bian-xiao-pi-qiu", 
+        "https://www.zhihu.com/people/bu-hui-shui-de-yu-55", 
+        "https://www.zhihu.com/people/iyunye", 
+        "https://www.zhihu.com/people/zhi-shui-32-99", 
+        "https://www.zhihu.com/people/xue-xi-69-4", 
+        "https://www.zhihu.com/people/jangxue-51", 
+        "https://www.zhihu.com/people/zuoguangsheng", 
+        "https://www.zhihu.com/people/xin-qi-20-84", 
+        "https://www.zhihu.com/people/mo-neng-dilou-xia-xiao-hei", 
+        "https://www.zhihu.com/people/mcai-a-ke-si", 
+        "https://www.zhihu.com/people/lin-mengyao-39", 
+        "https://www.zhihu.com/people/li-jing-95-86", 
+        "https://www.zhihu.com/people/liu-shuai-68-53", 
+        "https://www.zhihu.com/people/wu-kong-j", 
+        "https://www.zhihu.com/people/ivcwang", 
+        "https://www.zhihu.com/people/feng-shi-41-37", 
+        "https://www.zhihu.com/people/jiang-lu-20", 
+        "https://www.zhihu.com/people/chai-xie-ping-99", 
+        "https://www.zhihu.com/people/he-he-113-91", 
+        "https://www.zhihu.com/people/li-jun-le-16", 
+        "https://www.zhihu.com/people/fntt", 
+        "https://www.zhihu.com/people/ying-qing-jiang", 
+        "https://www.zhihu.com/people/daguchn"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/73408635", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 2, 
+            "title": "怎么在IQRM中双开窗口，同时打开两份FMEA文档", 
+            "content": "<p>首先打开其中一份FMEA文档。正常操作即可，如下：<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-48acfb8efa6de1101429964b5d5d4809_b.jpg\" data-size=\"normal\" data-rawwidth=\"313\" data-rawheight=\"168\" class=\"content_image\" width=\"313\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;313&#39; height=&#39;168&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"313\" data-rawheight=\"168\" class=\"content_image lazy\" width=\"313\" data-actualsrc=\"https://pic2.zhimg.com/v2-48acfb8efa6de1101429964b5d5d4809_b.jpg\"/><figcaption>打开IQRM，打开第一份FMEA文档</figcaption></figure><p>此时打开为单窗口，如下所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-b411be62f3b578ebd9c0af4f93639a7b_b.jpg\" data-size=\"normal\" data-rawwidth=\"979\" data-rawheight=\"634\" class=\"origin_image zh-lightbox-thumb\" width=\"979\" data-original=\"https://pic4.zhimg.com/v2-b411be62f3b578ebd9c0af4f93639a7b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;979&#39; height=&#39;634&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"979\" data-rawheight=\"634\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"979\" data-original=\"https://pic4.zhimg.com/v2-b411be62f3b578ebd9c0af4f93639a7b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-b411be62f3b578ebd9c0af4f93639a7b_b.jpg\"/><figcaption>顺利打开大窗口，如上所示</figcaption></figure><p>然后点击如下图标：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-a5dcd8cc5f7266607d41532e6e10df9f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"650\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb\" width=\"650\" data-original=\"https://pic4.zhimg.com/v2-a5dcd8cc5f7266607d41532e6e10df9f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;650&#39; height=&#39;384&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"650\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"650\" data-original=\"https://pic4.zhimg.com/v2-a5dcd8cc5f7266607d41532e6e10df9f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a5dcd8cc5f7266607d41532e6e10df9f_b.jpg\"/></figure><p>获得双窗口，显示如下，出现第二个  System/结构 窗口：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-c980e3556c3203e343a9f32591ab7fff_b.jpg\" data-size=\"normal\" data-rawwidth=\"1057\" data-rawheight=\"759\" class=\"origin_image zh-lightbox-thumb\" width=\"1057\" data-original=\"https://pic4.zhimg.com/v2-c980e3556c3203e343a9f32591ab7fff_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1057&#39; height=&#39;759&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1057\" data-rawheight=\"759\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1057\" data-original=\"https://pic4.zhimg.com/v2-c980e3556c3203e343a9f32591ab7fff_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-c980e3556c3203e343a9f32591ab7fff_b.jpg\"/><figcaption>获得双窗口显示</figcaption></figure><p>下一步，在新窗口中单击一下，以选中激活，窗口红框区域会显示轻微的加亮。选择&#34;打开文件&#34;，打开另一份FMEA文档即可。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-9533b5998d57c49241c2608a62e85aab_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"977\" data-rawheight=\"656\" class=\"origin_image zh-lightbox-thumb\" width=\"977\" data-original=\"https://pic4.zhimg.com/v2-9533b5998d57c49241c2608a62e85aab_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;977&#39; height=&#39;656&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"977\" data-rawheight=\"656\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"977\" data-original=\"https://pic4.zhimg.com/v2-9533b5998d57c49241c2608a62e85aab_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9533b5998d57c49241c2608a62e85aab_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "汽车制造", 
+                    "tagLink": "https://api.zhihu.com/topics/19587257"
+                }, 
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }, 
+                {
+                    "tag": "IATF16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20746462"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "北灬斗", 
+                    "userLink": "https://www.zhihu.com/people/0555c9d392162eafe706e14fdce961ac", 
+                    "content": "<p>还有一种方式，两个.fme同时选中，右键open ，在弹出的warning窗口中重新选择新的.cfg ，也可以双开，只是提示其中一个不能编辑。</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "ChinChen", 
+                    "userLink": "https://www.zhihu.com/people/4b34982f193f5a5b69783570e2a0a235", 
+                    "content": "<p>哪里有单机版的软件可以下载？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Fun Traveller", 
+                            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+                            "content": "不清楚：p", 
+                            "likes": 0, 
+                            "replyToAuthor": "ChinChen"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/55126724", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 1, 
+            "title": "怎么创建 system/function/failure/detection/prevention", 
+            "content": "<p>选中相应元素，无脑右键。</p><p>选中system element，右键，即可创建下级 system element。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-e321112395d6d7172ca3d4c9b060247a_b.jpg\" data-size=\"normal\" data-rawwidth=\"895\" data-rawheight=\"347\" class=\"origin_image zh-lightbox-thumb\" width=\"895\" data-original=\"https://pic3.zhimg.com/v2-e321112395d6d7172ca3d4c9b060247a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;895&#39; height=&#39;347&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"895\" data-rawheight=\"347\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"895\" data-original=\"https://pic3.zhimg.com/v2-e321112395d6d7172ca3d4c9b060247a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-e321112395d6d7172ca3d4c9b060247a_b.jpg\"/><figcaption>右键创建 system element</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>在右侧列表窗口，选中对应的system elemnt或者fucntion，右键，都可以继续创建 新的Function。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d0e7495fbc1df9551066687ec3dc5f04_b.jpg\" data-size=\"normal\" data-rawwidth=\"688\" data-rawheight=\"231\" class=\"origin_image zh-lightbox-thumb\" width=\"688\" data-original=\"https://pic1.zhimg.com/v2-d0e7495fbc1df9551066687ec3dc5f04_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;688&#39; height=&#39;231&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"688\" data-rawheight=\"231\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"688\" data-original=\"https://pic1.zhimg.com/v2-d0e7495fbc1df9551066687ec3dc5f04_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d0e7495fbc1df9551066687ec3dc5f04_b.jpg\"/><figcaption>右键创建function</figcaption></figure><p>选中system/function/failure，则可以右键创建Failure</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-ca8fd5b004fed877e4321a1e7ffa86a9_b.jpg\" data-size=\"normal\" data-rawwidth=\"644\" data-rawheight=\"278\" class=\"origin_image zh-lightbox-thumb\" width=\"644\" data-original=\"https://pic2.zhimg.com/v2-ca8fd5b004fed877e4321a1e7ffa86a9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;644&#39; height=&#39;278&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"644\" data-rawheight=\"278\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"644\" data-original=\"https://pic2.zhimg.com/v2-ca8fd5b004fed877e4321a1e7ffa86a9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-ca8fd5b004fed877e4321a1e7ffa86a9_b.jpg\"/><figcaption>右键创建 Failure</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>创建完毕后，都可以直接双击内容进行编辑；<br/>或者右键内容，选择“property”进行编辑；</p>", 
+            "topic": [
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "惠耀楠", 
+                    "userLink": "https://www.zhihu.com/people/1af49f5bb8004b5c8058f0fdefd92f93", 
+                    "content": "感谢大神分享", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/55125350", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 0, 
+            "title": "IQ-RM怎么调出负责人员/时间/事件状态", 
+            "content": "<p>FMEA 中的每一条措施需要对应到具体的负责人，当前状态，以及起止时间点。</p><p>怎么调出deadline/state/Responsibility?</p><p>IQ-RM 提供了这个功能，但是不是默认显示的。（下图中上圈中信息量明显少于下圈）。<br/>我们需要稍微调整下设置。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ed1ce6df431eaf4ba91277559d7e9794_b.jpg\" data-size=\"normal\" data-rawwidth=\"1228\" data-rawheight=\"316\" class=\"origin_image zh-lightbox-thumb\" width=\"1228\" data-original=\"https://pic1.zhimg.com/v2-ed1ce6df431eaf4ba91277559d7e9794_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1228&#39; height=&#39;316&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1228\" data-rawheight=\"316\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1228\" data-original=\"https://pic1.zhimg.com/v2-ed1ce6df431eaf4ba91277559d7e9794_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ed1ce6df431eaf4ba91277559d7e9794_b.jpg\"/><figcaption>第一组的措施中没有显示responsible/ deadline/state</figcaption></figure><p>第一步：<br/>点击“Administration”下，红圈中任何一个选项，都可以进入到后续的编辑界面。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-30c5619865aa7b520dc0c065f05dea56_b.jpg\" data-size=\"normal\" data-rawwidth=\"521\" data-rawheight=\"517\" class=\"origin_image zh-lightbox-thumb\" width=\"521\" data-original=\"https://pic3.zhimg.com/v2-30c5619865aa7b520dc0c065f05dea56_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;521&#39; height=&#39;517&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"521\" data-rawheight=\"517\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"521\" data-original=\"https://pic3.zhimg.com/v2-30c5619865aa7b520dc0c065f05dea56_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-30c5619865aa7b520dc0c065f05dea56_b.jpg\"/><figcaption>点击红圈中任何一个选项</figcaption></figure><p>第二步：<br/>在该页面中，可以看到左侧列出了刚才的所有的选项的按钮，这就上文红圈中的选项。其中绝大多数按钮点下后，页面都会如下图一般出现一个 “APIS”的标题。<br/>（测试了下，不是所有的“APIS”都有双击跳转链接）<br/>选择“<b>symbolic dealine</b>” 或者 “<b>Note list</b>”页面中的“APIS”。<b>双击“APIS”。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-b70547b3fce461402215f3636cccfbc7_b.jpg\" data-size=\"normal\" data-rawwidth=\"1025\" data-rawheight=\"844\" class=\"origin_image zh-lightbox-thumb\" width=\"1025\" data-original=\"https://pic4.zhimg.com/v2-b70547b3fce461402215f3636cccfbc7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1025&#39; height=&#39;844&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1025\" data-rawheight=\"844\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1025\" data-original=\"https://pic4.zhimg.com/v2-b70547b3fce461402215f3636cccfbc7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-b70547b3fce461402215f3636cccfbc7_b.jpg\"/><figcaption>进入按钮页面，选择特定按钮页面下的APIS，双击</figcaption></figure><p>第三步：<br/>双击“APIS”后弹窗如下，勾选两个和“initial state”有关系的选项 ， Apply即可。<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-bc3801d158a30299cefbb8cf54307e8b_b.jpg\" data-size=\"normal\" data-rawwidth=\"1129\" data-rawheight=\"598\" class=\"origin_image zh-lightbox-thumb\" width=\"1129\" data-original=\"https://pic4.zhimg.com/v2-bc3801d158a30299cefbb8cf54307e8b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1129&#39; height=&#39;598&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1129\" data-rawheight=\"598\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1129\" data-original=\"https://pic4.zhimg.com/v2-bc3801d158a30299cefbb8cf54307e8b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-bc3801d158a30299cefbb8cf54307e8b_b.jpg\"/><figcaption>General document settings</figcaption></figure><p>第四步：<br/>返回FMEA页面，即可看到FMEA出现了 详细的信息。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-17ca8256473dc312f1c3305ce0c140cc_b.jpg\" data-size=\"normal\" data-rawwidth=\"1207\" data-rawheight=\"274\" class=\"origin_image zh-lightbox-thumb\" width=\"1207\" data-original=\"https://pic1.zhimg.com/v2-17ca8256473dc312f1c3305ce0c140cc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1207&#39; height=&#39;274&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1207\" data-rawheight=\"274\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1207\" data-original=\"https://pic1.zhimg.com/v2-17ca8256473dc312f1c3305ce0c140cc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-17ca8256473dc312f1c3305ce0c140cc_b.jpg\"/><figcaption>信息得到完善</figcaption></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/55124038", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 0, 
+            "title": "怎么在IQ-RM中创建Milestone信息", 
+            "content": "<p>在FMEA中，通常各种措施会对应于几个阶段，分别实施。</p><p>如果几个阶段的时间发生变动，在FMEA内容中逐条修改，工作量不可想象。。</p><p>因此IQ-Rm软进提供了一个时间节点的管理功能，用于在时间信息发生变化的时候，可以批量修改FMEA内容中的时间节点。</p><p>执行逻辑如下：<br/>1.在时间管理页面，按照项目节点创建多个时间节点<br/>2.在创建FMEA内容的时候，对创建好的时间节点进行引用<br/>3.在出现时间变更的时候，在时间管理页面更改对应节点的名称或者时间。<br/><br/>进入时间管理页面</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-abfd594a6eabb013dfef88c7fabc099d_b.jpg\" data-size=\"normal\" data-rawwidth=\"622\" data-rawheight=\"269\" class=\"origin_image zh-lightbox-thumb\" width=\"622\" data-original=\"https://pic2.zhimg.com/v2-abfd594a6eabb013dfef88c7fabc099d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;622&#39; height=&#39;269&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"622\" data-rawheight=\"269\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"622\" data-original=\"https://pic2.zhimg.com/v2-abfd594a6eabb013dfef88c7fabc099d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-abfd594a6eabb013dfef88c7fabc099d_b.jpg\"/><figcaption>点击进入Symbolic Deadlines</figcaption></figure><p>单击，弹窗如下，首先在1#处勾选“symbolic Dealines”，然后在在2#处，填写时间点的名字（kickoff，Asample， Bsample，Csample，DV...etc），在3#处单击，选择相应的日期。<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-3dd7eea23db0aa27df5e8920d86839bc_b.jpg\" data-size=\"normal\" data-rawwidth=\"1142\" data-rawheight=\"439\" class=\"origin_image zh-lightbox-thumb\" width=\"1142\" data-original=\"https://pic1.zhimg.com/v2-3dd7eea23db0aa27df5e8920d86839bc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1142&#39; height=&#39;439&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1142\" data-rawheight=\"439\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1142\" data-original=\"https://pic1.zhimg.com/v2-3dd7eea23db0aa27df5e8920d86839bc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3dd7eea23db0aa27df5e8920d86839bc_b.jpg\"/><figcaption>时间节点编辑页面</figcaption></figure><p>右键操作可以添加/删除时间节点。双击对应内容，可以直接编辑。单击红圈处列标题可以排序。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4da1434312a895c5c8609d97c87bdcec_b.jpg\" data-size=\"normal\" data-rawwidth=\"1153\" data-rawheight=\"305\" class=\"origin_image zh-lightbox-thumb\" width=\"1153\" data-original=\"https://pic1.zhimg.com/v2-4da1434312a895c5c8609d97c87bdcec_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1153&#39; height=&#39;305&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1153\" data-rawheight=\"305\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1153\" data-original=\"https://pic1.zhimg.com/v2-4da1434312a895c5c8609d97c87bdcec_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4da1434312a895c5c8609d97c87bdcec_b.jpg\"/><figcaption>创建多个时间点</figcaption></figure><p>创建完毕后，可以在FMEA中直接引用时间节点。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-dead7be69753aa0a28f711f979630626_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"750\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb\" width=\"750\" data-original=\"https://pic3.zhimg.com/v2-dead7be69753aa0a28f711f979630626_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;750&#39; height=&#39;800&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"750\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"750\" data-original=\"https://pic3.zhimg.com/v2-dead7be69753aa0a28f711f979630626_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-dead7be69753aa0a28f711f979630626_b.jpg\"/></figure><p>选择后，FMEA中相应条目的时间变更</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-57630fcdd022adce1d4d322cf1d79b48_b.jpg\" data-size=\"normal\" data-rawwidth=\"1245\" data-rawheight=\"285\" class=\"origin_image zh-lightbox-thumb\" width=\"1245\" data-original=\"https://pic1.zhimg.com/v2-57630fcdd022adce1d4d322cf1d79b48_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1245&#39; height=&#39;285&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1245\" data-rawheight=\"285\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1245\" data-original=\"https://pic1.zhimg.com/v2-57630fcdd022adce1d4d322cf1d79b48_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-57630fcdd022adce1d4d322cf1d79b48_b.jpg\"/><figcaption>时间变更为A sample</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>虽然该页面名字为“Deadlines”，但是实际上主要意义在“symbolic time”，即创建时间节点。将时间节点作为Deadline引用，就是Deadline，如果将该时间节点引用成 Start from，那就是开始时间。</p>", 
+            "topic": [
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/55122049", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 1, 
+            "title": "怎么创建Team&Person 信息", 
+            "content": "<p>在FMEA中，每一个措施都会对应到具体的负责人员。当项目的人员发生变更的时候，往往需要将某十几条内容统一更换负责人。例如将原本所有由小明负责的内容一并修改成大明负责。</p><p>IQ-RM就提供了这项功能，避免了人员信息发生变更的时候，深入到内容中逐条修改的工作量。执行逻辑如下：<br/>1.首先定义人员矩阵<br/>2.在创建FMEA内容的时候，对人员矩阵信息进行引用。<br/>3.未来人员信息如果发生变更，只需要在人员矩阵中进行修改即可。</p><p>具体操作如下：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f39054ee48f28e98ed274e69e6dab590_b.jpg\" data-size=\"normal\" data-rawwidth=\"507\" data-rawheight=\"230\" class=\"origin_image zh-lightbox-thumb\" width=\"507\" data-original=\"https://pic1.zhimg.com/v2-f39054ee48f28e98ed274e69e6dab590_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;507&#39; height=&#39;230&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"507\" data-rawheight=\"230\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"507\" data-original=\"https://pic1.zhimg.com/v2-f39054ee48f28e98ed274e69e6dab590_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f39054ee48f28e98ed274e69e6dab590_b.jpg\"/><figcaption>进入“人员矩阵信息”界面</figcaption></figure><p>弹窗后，进入编辑界面，选项卡中提供Team/person两种选项卡，用于创建Team或者Person。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5fc3329e167e085a134bbfe2d08f1dc3_b.jpg\" data-size=\"normal\" data-rawwidth=\"940\" data-rawheight=\"420\" class=\"origin_image zh-lightbox-thumb\" width=\"940\" data-original=\"https://pic4.zhimg.com/v2-5fc3329e167e085a134bbfe2d08f1dc3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;940&#39; height=&#39;420&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"940\" data-rawheight=\"420\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"940\" data-original=\"https://pic4.zhimg.com/v2-5fc3329e167e085a134bbfe2d08f1dc3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-5fc3329e167e085a134bbfe2d08f1dc3_b.jpg\"/><figcaption>Team&amp;amp;person界面</figcaption></figure><p>在界面右键，可以创建信的Person/Team </p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4308a5b47c2335e481d0ad2e7c96de82_b.jpg\" data-size=\"normal\" data-rawwidth=\"582\" data-rawheight=\"496\" class=\"origin_image zh-lightbox-thumb\" width=\"582\" data-original=\"https://pic3.zhimg.com/v2-4308a5b47c2335e481d0ad2e7c96de82_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;582&#39; height=&#39;496&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"582\" data-rawheight=\"496\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"582\" data-original=\"https://pic3.zhimg.com/v2-4308a5b47c2335e481d0ad2e7c96de82_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4308a5b47c2335e481d0ad2e7c96de82_b.jpg\"/><figcaption>右键创建新的Person/Team</figcaption></figure><p>选择新建Person后弹窗如下，名字必须要填写，否则后续无法识别。其余信息看需求，无强制要求。但是左下角的“授权创建新人员”可以无视，需要在联网许可证下才使用的，单机版用不到该授权功能。单机模式下，所有人都有权限进行改动。。。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-c43f510cfe62e84e682e96f87774ce3c_b.jpg\" data-size=\"normal\" data-rawwidth=\"591\" data-rawheight=\"352\" class=\"origin_image zh-lightbox-thumb\" width=\"591\" data-original=\"https://pic1.zhimg.com/v2-c43f510cfe62e84e682e96f87774ce3c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;591&#39; height=&#39;352&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"591\" data-rawheight=\"352\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"591\" data-original=\"https://pic1.zhimg.com/v2-c43f510cfe62e84e682e96f87774ce3c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c43f510cfe62e84e682e96f87774ce3c_b.jpg\"/><figcaption>人员信息输入页面</figcaption></figure><p>人员创建成功，创建成功后，可以直接在对应的格子内双击修改。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-83bf93f704932ffcb6e3f94f14862d22_b.jpg\" data-size=\"normal\" data-rawwidth=\"1238\" data-rawheight=\"222\" class=\"origin_image zh-lightbox-thumb\" width=\"1238\" data-original=\"https://pic3.zhimg.com/v2-83bf93f704932ffcb6e3f94f14862d22_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1238&#39; height=&#39;222&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1238\" data-rawheight=\"222\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1238\" data-original=\"https://pic3.zhimg.com/v2-83bf93f704932ffcb6e3f94f14862d22_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-83bf93f704932ffcb6e3f94f14862d22_b.jpg\"/><figcaption>xiaoming的信息添加成功</figcaption></figure><p>后续的FMEA中，便可以直接引用“xiaoming”的信息了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0896de7055ba1dacdef382ee09518679_b.jpg\" data-size=\"normal\" data-rawwidth=\"762\" data-rawheight=\"813\" class=\"origin_image zh-lightbox-thumb\" width=\"762\" data-original=\"https://pic2.zhimg.com/v2-0896de7055ba1dacdef382ee09518679_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;762&#39; height=&#39;813&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"762\" data-rawheight=\"813\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"762\" data-original=\"https://pic2.zhimg.com/v2-0896de7055ba1dacdef382ee09518679_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-0896de7055ba1dacdef382ee09518679_b.jpg\"/><figcaption>选择“xiaoming”</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-567216dd418447dafcd081413e306e19_b.jpg\" data-size=\"normal\" data-rawwidth=\"1240\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb\" width=\"1240\" data-original=\"https://pic2.zhimg.com/v2-567216dd418447dafcd081413e306e19_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1240&#39; height=&#39;324&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1240\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1240\" data-original=\"https://pic2.zhimg.com/v2-567216dd418447dafcd081413e306e19_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-567216dd418447dafcd081413e306e19_b.jpg\"/><figcaption>xiaoming出现在对应FMEA中</figcaption></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/43847444", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 0, 
+            "title": "怎么修改显示窗口的字体大小（IQ-RM）", 
+            "content": "<p>软件中默认字体尺寸极小，在书写FMEA和投影FMEA时候及其不便。所以首先介绍下怎么修改显示字体的尺寸。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-754a0c319ee34c76ec776a3a417c8fb7_b.jpg\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"210\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic4.zhimg.com/v2-754a0c319ee34c76ec776a3a417c8fb7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;210&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"210\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic4.zhimg.com/v2-754a0c319ee34c76ec776a3a417c8fb7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-754a0c319ee34c76ec776a3a417c8fb7_b.jpg\"/><figcaption>IQ-RM默认字体较小</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-80b42810c47fb9e59de4fb3f8ada35f8_b.jpg\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"188\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic1.zhimg.com/v2-80b42810c47fb9e59de4fb3f8ada35f8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;188&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"188\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic1.zhimg.com/v2-80b42810c47fb9e59de4fb3f8ada35f8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-80b42810c47fb9e59de4fb3f8ada35f8_b.jpg\"/><figcaption>修改字体后阅读更轻松</figcaption></figure><p>步骤一：按照下图，依次Tools--&gt;workstation settings--&gt;fonts and colors</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-b4591f376b934822e2882a7863590727_b.jpg\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"259\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic4.zhimg.com/v2-b4591f376b934822e2882a7863590727_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;259&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"259\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic4.zhimg.com/v2-b4591f376b934822e2882a7863590727_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-b4591f376b934822e2882a7863590727_b.jpg\"/><figcaption>步骤一：Tools--&amp;amp;amp;gt;workstation settings--&amp;amp;amp;gt; fonts and colors</figcaption></figure><p>步骤二：双击“Graphical Tree”的字号即可修改，其余同理。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-38d405a7a4a9bd0d4e36f8e1a31e82df_b.jpg\" data-size=\"normal\" data-rawwidth=\"618\" data-rawheight=\"378\" class=\"origin_image zh-lightbox-thumb\" width=\"618\" data-original=\"https://pic4.zhimg.com/v2-38d405a7a4a9bd0d4e36f8e1a31e82df_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;618&#39; height=&#39;378&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"618\" data-rawheight=\"378\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"618\" data-original=\"https://pic4.zhimg.com/v2-38d405a7a4a9bd0d4e36f8e1a31e82df_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-38d405a7a4a9bd0d4e36f8e1a31e82df_b.jpg\"/><figcaption>步骤二：修改Graphical Tree &amp;amp;amp;amp; Lists对应的字号，双击字号即可</figcaption></figure><p>其中Graphical Tree就是下图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-52c3e4fdb1766a445786c7d77da922fe_b.jpg\" data-size=\"normal\" data-rawwidth=\"460\" data-rawheight=\"174\" class=\"origin_image zh-lightbox-thumb\" width=\"460\" data-original=\"https://pic3.zhimg.com/v2-52c3e4fdb1766a445786c7d77da922fe_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;460&#39; height=&#39;174&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"460\" data-rawheight=\"174\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"460\" data-original=\"https://pic3.zhimg.com/v2-52c3e4fdb1766a445786c7d77da922fe_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-52c3e4fdb1766a445786c7d77da922fe_b.jpg\"/><figcaption>Graphical Tree</figcaption></figure><p>Lists就是下图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-47ed1b7b65c5c06e04cd05d51367563b_b.jpg\" data-size=\"normal\" data-rawwidth=\"348\" data-rawheight=\"147\" class=\"content_image\" width=\"348\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;348&#39; height=&#39;147&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"348\" data-rawheight=\"147\" class=\"content_image lazy\" width=\"348\" data-actualsrc=\"https://pic4.zhimg.com/v2-47ed1b7b65c5c06e04cd05d51367563b_b.jpg\"/><figcaption>Lists</figcaption></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "汽车制造", 
+                    "tagLink": "https://api.zhihu.com/topics/19587257"
+                }, 
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }, 
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/43846702", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 8, 
+            "title": "介绍IQ-RM FMEA 6.5里比较常用的操作", 
+            "content": "<p>iq-rm-fema6.5是个非常好用非常牛比的软件，本质是风险量化管理。</p><p>但是这个工具普及得不够好，大概因为FMEA这个东西普及的不好。然后这个软件不支持中文。最后是这个软件居然找不到像样的的教程。</p><p>基于这个状况，决定写几篇iq-rm-fema 6.5软件相关的教程文。</p><h2>本篇是目录</h2><p>目录动态增加以及更新超链接，每次有空更新了相关的条目就会在相应的条目上挂上超链接。<br/>可以催更，有要求可以私信或者留言。。。</p><ol><li><a href=\"https://zhuanlan.zhihu.com/p/43847444\" class=\"internal\">怎么修改字体大小</a></li><li><a href=\"https://zhuanlan.zhihu.com/p/44857249\" class=\"internal\">怎么使用help文档（基本的FMEA引导教程）</a></li><li><a href=\"https://zhuanlan.zhihu.com/p/44858320\" class=\"internal\">怎么调阅help文档，查找操作设置</a></li><li><a href=\"https://zhuanlan.zhihu.com/p/55126724\" class=\"internal\">怎么创建system-function-failure-detection&amp;prevention</a></li><li><a href=\"https://zhuanlan.zhihu.com/p/55122049\" class=\"internal\">怎么创建 人员信息，</a></li><li><a href=\"https://zhuanlan.zhihu.com/p/55124038\" class=\"internal\">怎么创建milestone信息</a></li><li><a href=\"https://zhuanlan.zhihu.com/p/44858859\" class=\"internal\">怎么生成FMEA表格</a></li><li>怎么创建编辑日志</li><li><a href=\"https://zhuanlan.zhihu.com/p/55125350\" class=\"internal\">怎么显示负责人员和时间的起止日期和事件的当前状态</a></li><li>怎么描述失效表现</li><li>怎么创建SOD</li><li>怎么评估RPN</li><li>怎么给失效进行SC标示</li><li>SC的符号选择自定义</li><li>SC在影响-模式-原因三个层级分别显示。</li><li>怎么review DFMEA？</li><li><a href=\"https://zhuanlan.zhihu.com/p/73408635\" class=\"internal\">双开窗口，同时打开两份FMEA文档</a></li></ol><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>分享两个IQ-RM相关的网址：</p><p>1.官网本尊见下</p><p><a href=\"https://link.zhihu.com/?target=https%3A//www.apis-iq.com/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">APIS IQ Software | FMEA | DRBFM | Functional Safety</a></p><p>2.一个国内的培训机构，本人未曾参加过该机构培训，也无广告意愿，但是该主页的介绍很专业，故而分享在此。</p><p><a href=\"https://link.zhihu.com/?target=http%3A//www.reliabench.com/apis-iq/apis-characteristic.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">reliabench.com/apis-iq/</span><span class=\"invisible\">apis-characteristic.html</span><span class=\"ellipsis\"></span></a></p>", 
+            "topic": [
+                {
+                    "tag": "汽车制造", 
+                    "tagLink": "https://api.zhihu.com/topics/19587257"
+                }, 
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }, 
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "nipf", 
+                    "userLink": "https://www.zhihu.com/people/4e46614a805130de90230432c7a603b2", 
+                    "content": "我也最近用这个软件，催更。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Fun Traveller", 
+                            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+                            "content": "收到:p", 
+                            "likes": 0, 
+                            "replyToAuthor": "nipf"
+                        }, 
+                        {
+                            "userName": "有梦想的咸鱼", 
+                            "userLink": "https://www.zhihu.com/people/dc3409e035742a1d161d55534a113e19", 
+                            "content": "请问下在哪里能下载啊？是免费的么", 
+                            "likes": 0, 
+                            "replyToAuthor": "nipf"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Leo", 
+                    "userLink": "https://www.zhihu.com/people/25a37022180df54a19588322c3d482b7", 
+                    "content": "催更第4项，谢谢！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "上官方汇", 
+                    "userLink": "https://www.zhihu.com/people/d24b8c32f7f1b67d338e98a317fa6463", 
+                    "content": "<p>你好，非常感谢分享IQ软件使用技巧。</p><p><br></p><p>我也在使用IQ软件，软件是支持中文的，可以在tool里面进行设置。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Fun Traveller", 
+                            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+                            "content": "您的可以打中文，不是乱码吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "上官方汇"
+                        }, 
+                        {
+                            "userName": "上官方汇", 
+                            "userLink": "https://www.zhihu.com/people/d24b8c32f7f1b67d338e98a317fa6463", 
+                            "content": "<p>是的，软件在可以支持中文的，你使用的是什么版本？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Fun Traveller"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "bictllz", 
+                    "userLink": "https://www.zhihu.com/people/5ea106c8da3f8ea60e488d7b6b781a1d", 
+                    "content": "<p>写的很好学习了</p><a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-fa3cb6bc9ec57da84ab53a60f48d0c6f.gif\" data-width=\"\" data-height=\"\">[棒]</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "小天", 
+                    "userLink": "https://www.zhihu.com/people/9eed1ec19bdd726eb1f9bda8f035b85e", 
+                    "content": "能更新下RPN值么，我这定义了SOD，却无法出RPN[捂脸][捂脸]", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Fun Traveller", 
+                            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+                            "content": "手机不会贴链接。本篇专栏下有一篇RPN的文章，可以看下，我觉得应该可以解决问题。", 
+                            "likes": 0, 
+                            "replyToAuthor": "小天"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "无言", 
+                    "userLink": "https://www.zhihu.com/people/d04a98c9abcaa8df66b58f836b2fc69e", 
+                    "content": "<p>请教，如何双开？在做对比参考时需要</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Fun Traveller", 
+                            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+                            "content": "您好，刚看见问题，我明天放个图上来。", 
+                            "likes": 0, 
+                            "replyToAuthor": "无言"
+                        }, 
+                        {
+                            "userName": "Fun Traveller", 
+                            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+                            "content": "<p>怎么在IQRM中双开窗口，同时打开两份FMEA文档 - Fun Traveller的文章 - 知乎<br><a href=\"https://zhuanlan.zhihu.com/p/73408635\" class=\"internal\"><span class=\"invisible\">https://</span><span class=\"visible\">zhuanlan.zhihu.com/p/73</span><span class=\"invisible\">408635</span><span class=\"ellipsis\"></span></a></p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "无言"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "henninggao", 
+                    "userLink": "https://www.zhihu.com/people/94fc9307cf007659af7b4c972d3fc45c", 
+                    "content": "第7版出来了！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "阿元", 
+                    "userLink": "https://www.zhihu.com/people/44666de01d692f25676accae4ada0b6f", 
+                    "content": "能否提供个软件链接，找了半天没有找到软件，非常感谢啊[飙泪笑][飙泪笑][飙泪笑]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "yu.rong", 
+                    "userLink": "https://www.zhihu.com/people/57a696671d569980b46a1eff8c1227c2", 
+                    "content": "最近刚接触这个软件，请问有没有可以学习的书推荐呀，在网上都找不到[大哭]", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Fun Traveller", 
+                            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+                            "content": "这个得找自己领导去买&gt;_&gt;", 
+                            "likes": 0, 
+                            "replyToAuthor": "yu.rong"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38057403", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 13, 
+            "title": "DFMEA只有三层-->影响/模式/原因", 
+            "content": "<p>每次审阅DFMEA的时候，看着其中密密麻麻的内容，分分钟让人丧失继续审阅的兴趣。一份普通的DFMEA文档中往往集成了众多的失效模式，各个影响/模式/原因之间的还有眼花缭乱的网络关系。</p><p>而实际上，DFMEA在书写形式有着极高的规律。用大白话说，如果会写一份只包含一个失效模式的DFMEA（后文简称single_DFMEA），那么就已经掌握了写包含两个失效模式的DFMEA，并向包含更多失效模式的DFMEA（后文简称Multi_DFMEA）自由扩展。</p><p>Single_DFMEA报告与Multi_DFMEA，二者在书写格式和创作思路上，没有发生任何本质变化，甚至可以说Multi_DFMEA是将Single_DFMEA进行重复和累加而形成的。</p><p>所以这里我们抛开多种失效模式的情况，聊聊基于单一失效模式的DFMEA。</p><p><b>首先DFMEA是什么？</b></p><p><b>D</b>esign <b>F</b>ailure <b>M</b>ode and <b>E</b>ffects <b>A</b>nalysis,设计失效模式及其影响分析，按照前篇所述，个人认为DFMEA本质上是一份checklist，用于对设计过程进行检查，起到查漏补缺的作用。<br/>最终的文档呈现为一份格式规范，描述严谨的表格形式的文档。</p><p><b>DFMEA作为一个checklist，包含什么内容？</b></p><p>DFMEA这个名字已经写的特别清楚。</p><p>首先这个文档的起手着重于失效模式，然后针对该失效模式分析其产生的失效影响和失效原因，即影响/模式/原因。</p><p>其中失效模式的构成部分最为简洁，只需要描述失效现象即可；</p><p>但是影响的构成部分除了需要描述失效现象，还需要对其严重度（S）进行评估。</p><p>最后原因的构成部分最为复杂，除了需要描述失效现象，还需要针对失效原因配置预防措施和探测措施，以及评估该失效的可探测程度（D）和发生度（O）。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-bccfc74bc9d65b346d5b3688ccef4e42_b.jpg\" data-size=\"normal\" data-rawwidth=\"920\" data-rawheight=\"246\" class=\"origin_image zh-lightbox-thumb\" width=\"920\" data-original=\"https://pic3.zhimg.com/v2-bccfc74bc9d65b346d5b3688ccef4e42_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;920&#39; height=&#39;246&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"920\" data-rawheight=\"246\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"920\" data-original=\"https://pic3.zhimg.com/v2-bccfc74bc9d65b346d5b3688ccef4e42_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-bccfc74bc9d65b346d5b3688ccef4e42_b.jpg\"/><figcaption>DFMEA标准的三段（层）结构</figcaption></figure><p>在DFMEA的表格中见过两种表达顺序，一种顺序是 模式--&gt;影响--&gt;原因，还有另外一种表达顺序是 影响--&gt;模式--&gt;原因。第一种顺序来自于DFMEA的自然分析顺序，如上文所述；第二种顺序来自于iq-rm_fema6.5。后文所有的表述都使用第二种顺序进行表述，即“影响/模式/原因 ”。</p><p>（个人推崇 影响--&gt;模式--&gt;原因 这种表达形式。这种表达形式在iq-rm-fema6.5这个FEMA软件中是一个无比6666的标准循环结构。这个表达形式试图用统一的表达结构得到任意层级的DFMEA。我觉得这个软件差一点就实现这个目标了。限于篇幅，后续文章讲iq-rm-fema6.5这个软件的时候再细说。）</p><p><b>DFMEA报告的层级数&amp;实际失效分析过程层级数的区别？</b></p><p>Single_DFMEA报告最终呈现内容（后文简称问为DFMEA报告），就是非常简单三段式结构：失效影响/失效模式/失效原因。从报告整体来看，DFMEA报告是三层。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-3a9a76ff317e21dd3399fc93dc135fcd_b.jpg\" data-size=\"normal\" data-rawwidth=\"310\" data-rawheight=\"364\" class=\"content_image\" width=\"310\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;310&#39; height=&#39;364&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"310\" data-rawheight=\"364\" class=\"content_image lazy\" width=\"310\" data-actualsrc=\"https://pic2.zhimg.com/v2-3a9a76ff317e21dd3399fc93dc135fcd_b.jpg\"/><figcaption>DFMEA报告中只呈现三层结构</figcaption></figure><p>标准的三段（层）结构，影响/模式/原因。<br/>经典的三段（层）结构，影响/模式/原因。<br/>伟大的三段（层）结构，影响/模式/原因。</p><p>有且只有三段。即失效影响是由于失效模式导致的，失效模式是由于失效原因导致的。以失效模式为起点来看，原因和影响看起来“貌似”只向外扩展一层。</p><p>最后再强调下，一份DFMEA报告的最终呈现，一个失效模式，只允许呈现一层影响，以及一层原因。（注意，此处是“层”不是“个”，后文亦如是）</p><p>但是在思考创作的过程中，如果以失效模式为起点，那么该失效模式的影响将会向更上级的系统逐级扩散出去，失效原因则可以向下级系统逐级追溯而去。可见失效影响有很多层，失效原因也有很多层。越多层级的顺序展开，对分析过程的引导和完整越有帮助，也是触及深层影响和根本原因的正常方式。从整体上看，多层影响加多层原因，总层级自然远超3层。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6ac85b44d15f0e0005f2554ad62e52c8_b.jpg\" data-size=\"normal\" data-rawwidth=\"481\" data-rawheight=\"465\" class=\"origin_image zh-lightbox-thumb\" width=\"481\" data-original=\"https://pic1.zhimg.com/v2-6ac85b44d15f0e0005f2554ad62e52c8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;481&#39; height=&#39;465&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"481\" data-rawheight=\"465\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"481\" data-original=\"https://pic1.zhimg.com/v2-6ac85b44d15f0e0005f2554ad62e52c8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6ac85b44d15f0e0005f2554ad62e52c8_b.jpg\"/><figcaption>DFMEA的分析过程中，影响和原因分别向内外扩散好多层级</figcaption></figure><p><b>怎么处理分析过程的多层级和DFMEA报告中的只能容纳三层的矛盾？</b></p><p>个人观点，无需将每一层级的失效影响&amp;失效原因都逐级录入DFMEA表格。</p><p>因为DFMEA作为一个checklist，最重要的属性就是实用性，其内容当直指本质，一目了然。以失效模式为起点，其中的影响应该是最终影响，原因应该是根本原因。</p><p>更多的分层分析过程，例如4层5层展开，对于问题的分析过程有用，但是将思考过程的细节呈现在DFMEA的报告中，则显得过于冗余，妨碍了DFMEA的可读性和实用性。</p><p>所以略过失效模式与根本原因之间以及失效模式与最终影响之间的过渡层级，将根本原因和最终影响直接列示在DFMEA的报告上即可。</p><p><b>什么是最终影响，什么是根本原因？</b></p><p><b><u>对于最终影响</u>，</b>个人经验，影响评估必须至少覆盖到直接客户的直接产品层级，否则DFMEA对失效模式的后果评估不足，无法对工程师团队产生足够的警示效果，会导致工程师团队对失效后果未做足够充分的预防措施，；当然同时需要避免对更高层级系统进行猜测式评估，因为对于客户端的更高层级的系统，作为供应商的我们一般缺少足够的信息进行更全面审慎的评估。因此一般评估到直接客户端的直接系统（最多扩大到整车），即可定义为最终影响。</p><p><u><b>对于根本原因，</b></u>由于根本二字，实际上是无穷尽的，或者说是每一个原因都有一个更深层次的原因。那么我们所谓的根本原因是其中的哪一层次的原因呢？当逐层推进原因，推进至可以提出很好的改善对策进行失效消除的层级时候，即可以定义为根本原因。</p><p>今天这篇算是对DFMEA的一个总体描述。DFMEA这个东西脉络很深，用于书写DFMEA的工具iq-rm_fema6.5这个工具也很好玩。后续慢慢写。</p>", 
+            "topic": [
+                {
+                    "tag": "汽车行业", 
+                    "tagLink": "https://api.zhihu.com/topics/19585985"
+                }, 
+                {
+                    "tag": "失效模式", 
+                    "tagLink": "https://api.zhihu.com/topics/20106708"
+                }, 
+                {
+                    "tag": "产品设计", 
+                    "tagLink": "https://api.zhihu.com/topics/19551625"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/38302804", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 3, 
+            "title": "Iq-rm-fema6.5眼里的DFMEA", 
+            "content": "<p>前篇说到DFMEA的本质是一个checklist，这个是描述DFMEA作为一个文档在设计流程中的使用意义，描述的是DFMEA对外的影响。</p><p>iq-rm-fema6.5是一个软件，这个软件为创建和编辑DFEMA提供了极大的便利。个人认为这个软件最碉堡的地方在于它提供了一个新的思路，即向内认知DFMEA，认为DFMEA的是一个由不同层级的失效组成的失效网络，DFMEA报告则是失效网络表格化的结果。</p><p> =======================================================</p><p>在iq-rm-fema6.5看来：</p><p>1. 失效影响/失效模式/失效原因，这三者的本质都是失效，只不过是处于不同层级的失效；</p><p>2. DFMEA是由不同层级的失效相互连接形成失效网络，DFMEA报告则是失效网络表格化的结果。</p><p>3. 影响/模式/原因，这三个名词描述的是不同层级的失效之间的关系；</p><p>信息量有点大，一条一条来。</p><p><b>“失效影响/失效模式/失效原因，这三者的本质都是失效，只不过是处于不同层级的失效”</b></p><p>首先看失效模式，其本身必然是一种失效，这一点毫无疑问，不再赘述。</p><p>再来看失效影响，失效模式必然导致更高层级的功能产生失效，这个失效，就是失效模式导致的失效影响。</p><p>最后失效模式的产生原因必然会追溯到子级系统的某个功能的失效，bingo，所以失效原因也是一个失效。</p><p>所以影响/模式/原因三者本质上都是失效，但是隶属不同层级。</p><p>对照下图可以看到，失效c导致失效b发生，失效b导致失效a发生。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ef4c94a1a025e295f2a4f382ff780b27_b.jpg\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"196\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic4.zhimg.com/v2-ef4c94a1a025e295f2a4f382ff780b27_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;196&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"196\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic4.zhimg.com/v2-ef4c94a1a025e295f2a4f382ff780b27_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ef4c94a1a025e295f2a4f382ff780b27_b.jpg\"/><figcaption>影响/模式/原因的本质是不同层级的失效</figcaption></figure><p><b>“DFMEA是由不同层级的失效相互连接形成失效网络，DFMEA报告则是失效网络表格化的结果。”</b></p><p>下方图是DFMEA报告明面上的格式，其网络形式是从中间向两端扩展，以失效模式作为中心，关联失效影响和失效原因。这张图展现了普通的DFMEA中，影响/模式/原因三者之间的网络关系。先放在这里，为了方便与接下来的iq-rm-fema6.5所表达的网络形式进行对比，给这个网络起个名字，叫“双向网络”。（名字是我瞎编的:P）</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-d3a5e45a73da41732d027e45e3e1d032_b.jpg\" data-size=\"normal\" data-rawwidth=\"459\" data-rawheight=\"114\" class=\"origin_image zh-lightbox-thumb\" width=\"459\" data-original=\"https://pic3.zhimg.com/v2-d3a5e45a73da41732d027e45e3e1d032_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;459&#39; height=&#39;114&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"459\" data-rawheight=\"114\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"459\" data-original=\"https://pic3.zhimg.com/v2-d3a5e45a73da41732d027e45e3e1d032_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-d3a5e45a73da41732d027e45e3e1d032_b.jpg\"/><figcaption>普通三段式网络</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2b4d1e089fd73a03f86fd4d830c2ffa1_b.jpg\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"96\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic2.zhimg.com/v2-2b4d1e089fd73a03f86fd4d830c2ffa1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;96&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"96\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic2.zhimg.com/v2-2b4d1e089fd73a03f86fd4d830c2ffa1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-2b4d1e089fd73a03f86fd4d830c2ffa1_b.jpg\"/><figcaption>以模式为宇宙中心的双向网络</figcaption></figure><p>上文已经说到影响/模式/原因三者本质上都是失效，但是隶属不同层级。</p><p>那么将各层级失效相互连接，自然就形成一个失效网络（iq-rm-fema6.5中的单层失效网络表现为一个失效链，如下图），该失效网络也正好与DFMEA报告所需的三段结构契合。但是在下图中可以看到这个失效网络中的箭头指向与上文提到的双向网络中的箭头指向不一样。此处网络结构中，箭头指向是单向的，不存在所谓的中心，是个单向网络。</p><p>此处网络中箭头的朝向只要一致即可，从左往右的朝向代表了原因向影响演变过程；从右向左的朝向代表由结果向原因的追溯过程。两个朝向代表的意义是等价的。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-da18e69c2fe729488097c0485c9bde5e_b.jpg\" data-size=\"normal\" data-rawwidth=\"782\" data-rawheight=\"421\" class=\"origin_image zh-lightbox-thumb\" width=\"782\" data-original=\"https://pic3.zhimg.com/v2-da18e69c2fe729488097c0485c9bde5e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;782&#39; height=&#39;421&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"782\" data-rawheight=\"421\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"782\" data-original=\"https://pic3.zhimg.com/v2-da18e69c2fe729488097c0485c9bde5e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-da18e69c2fe729488097c0485c9bde5e_b.jpg\"/><figcaption>单向网络的两种箭头朝向</figcaption></figure><p>继续看图，可以发现理论上失效a还会继续引起更前级的失效x，末端的失效c也必然可以追溯到更深层的失效y，因此此处的失效网络虽然是单向网络，但是两端却也是无限延伸的。</p><p>按照前篇DFMEA的三段式的要求，手动选定合适的三段，获得合适的失效网络，将之网格化之后，就可以得到DFMEA报告了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d673b15886fcfcfb95fa6c8331642090_b.jpg\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"76\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic1.zhimg.com/v2-d673b15886fcfcfb95fa6c8331642090_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;76&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"76\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic1.zhimg.com/v2-d673b15886fcfcfb95fa6c8331642090_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d673b15886fcfcfb95fa6c8331642090_b.jpg\"/><figcaption>理论上失效链可以两端无限延伸</figcaption></figure><p><b>“影响/模式/原因，这三个名词描述了不同层级的失效之间的关系”</b></p><p>宇宙惯例，看图说话。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-74f23729532a6fcf3d495e38faa1ed40_b.jpg\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"344\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic1.zhimg.com/v2-74f23729532a6fcf3d495e38faa1ed40_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;344&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"344\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic1.zhimg.com/v2-74f23729532a6fcf3d495e38faa1ed40_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-74f23729532a6fcf3d495e38faa1ed40_b.jpg\"/><figcaption>不同层级的失效之间的关系</figcaption></figure><p>先说一段绕口令：</p><p>失效c导致失效b发生，失效b导致失效a发生。</p><p>即，失效c是失效b的原因，失效b是失效a的原因。</p><p>倒过来说，失效a是失效b的后果，失效b是失效c的后果。</p><p>即失效a是失效b的影响，失效b是失效c的影响。</p><p>在上文“绕口令”里，我们看到，所谓影响&amp;原因，描述的其实是不同层级的失效之间的前后级关系，前级是后级的失效影响，后级是前级的失效原因。</p><p>这里的关系是一种相对关系，例如失效b与失效a相联系的时候，失效b是作为原因存在的（作为失效a的原因）；但是失效b与失效c比较的时候，失效b则作为失效影响而存在（作为失效c的影响）。</p><p>“影响&amp;原因”描述的是相邻2级的失效之间的关系。</p><p>“影响/模式/原因”描述的则是相邻3级的失效之间的关系。上图中，任意指定某级失效作为失效模式，则该失效的前级即是该失效模式的直接失效影响，该失效的后级即是该失效模式的直接原因。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>写在最后：</b></p><p>本篇只写到了iq-rmfema6.5在对DFMEA内向认知上创建了一个碉堡的思路，令人惊艳。在实际的DFMEA的报告创建过程中，虽然文中这个思路是正确的，但是操作处理超过三层的多层失效网络还是有诸多难以克服的困难。后续再写。</p><p>现场讲演可以说好几遍，直到听众或者同事听到认同为止。但是当要把一些想法落到纸上，期望读到的人可以一次理解，发现这个事情的确好难。梳理好久，还是只能分成几篇慢慢写Orz。</p>", 
+            "topic": [
+                {
+                    "tag": "失效模式", 
+                    "tagLink": "https://api.zhihu.com/topics/20106708"
+                }, 
+                {
+                    "tag": "汽车行业", 
+                    "tagLink": "https://api.zhihu.com/topics/19585985"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Fun Traveller", 
+                    "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+                    "content": "图片上传到知乎文章里之后，画质都会变得很感人，何解？", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "姐夫哥", 
+                    "userLink": "https://www.zhihu.com/people/ccf1e8dc5d17856e3cd44b90a2e9c57f", 
+                    "content": "<p>写的好棒，支持一个，不容易！！！</p>", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37827699", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 5, 
+            "title": "SC list--DFMEA的核心之一", 
+            "content": "<p>最近一直想要更详细的写写DFMEA。但是打草稿的时候发现这个东西实在是脉络太深，也有可能是认识不够深刻，难以深入浅出，简单明了的进行阐述。</p><p>也罢，决定分成几篇写。首先写写DFMEA中很重要的一个东西“特殊特性清单”。</p><p><b>什么是SC list？</b></p><p>产品的特殊特性（special character,简称SC），一般一个产品有好几个SC，列式成一张清单，就是 SC list，各家叫法名称不尽相同，不必纠结。</p><p>一般来说，产品报价结束，SC list基本就成形了，主要由三个部分构成，一是法规要求，例如禁用物质，行业里特殊的安全要求。二是客户指定，例如阻燃等级，气味性等级以及一些特殊的性能要求；三是自我识别，例如客户相关的一些安装结构的尺寸，一些需要重点关注的其他产品特性等等。</p><p><b>为什么要关注SC list？</b></p><p>首先特殊特性是产品的重中之重。所列的特性皆是特殊，任何一个特性，直接会导致产品严重失常，让步余地极小。一旦失效，代价极大，自然要花大心思去重视。</p><p>然后SC在工程师和客户之间是有相当的心态差异的。怎么个差异法呢？对于客户来说，产品或者项目就只有这么一个，特殊特性自然是特殊的存在，少一根毫毛意味着产品有可能不能好好工作，自然紧张重视。但是对于工程师来说，同类项目十几个，设计或者生产流程经过多番改进，产品品质日趋稳定，“特殊特性”相关的流程甚至已经被标准化了，早就习以为常，毫无新鲜感或者特殊感了，原本“重中之重的特殊特性”自然化身成为小透明。更要命的是，SC list的影响极广，前后涉及多份文档，并且存在不同的环节，不经过系统整合和细致的内部审核，很难形成完美的一致性。于是工程师们在各种项目节点的重压之下，最烦躁的部分恐怕就是各类文档书写了，因此在种种“心态”加持之下，直接照抄照搬也不是稀罕事，修改不全产生错漏时有发生，形成文档地雷。</p><p>然后我们回看各种审核进行时，就很好理解为什么审核都很关注SC list。因为客户或者是审核老师没有机会了解产品设计的各种细节，而SC作为名义上的设计重点，理所应当的成为了高频审核点。再加上上述“地雷”的存在，审核老师们往往是一查一个准，屡试不爽，变相的刺激了客户和审核老师们对SC list的兴趣。</p><p>所以，SC这个文档一定要好好写，然后尽早向后端环节传递，保证一致性。</p><p><b>SC list是怎么发挥用处的？</b></p><p>SC list影响范围很广。可以先从三个文件说起。一个是产品图纸；二是DFMEA；三是PFMEA。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c48713bdc0ce466ba5cedee0820f0a61_b.jpg\" data-size=\"normal\" data-rawwidth=\"1074\" data-rawheight=\"710\" class=\"origin_image zh-lightbox-thumb\" width=\"1074\" data-original=\"https://pic2.zhimg.com/v2-c48713bdc0ce466ba5cedee0820f0a61_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1074&#39; height=&#39;710&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1074\" data-rawheight=\"710\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1074\" data-original=\"https://pic2.zhimg.com/v2-c48713bdc0ce466ba5cedee0820f0a61_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c48713bdc0ce466ba5cedee0820f0a61_b.jpg\"/><figcaption>SC list与三大文件的互动逻辑：零部件控制、内容澄清、生产管理</figcaption></figure><p>首先聊聊SC和产品图纸的互动（产品总成图）。<br/>SC首先需要明确在产品图纸上，向客户进行特性展示和澄清，保证双方在产品的定义和理解上的一致性，并签核图纸。消除模糊概念，并有助于预防客户后续随意添加特殊要求产生的范围蔓延，保证后续开发过程的完整性和稳定性。<br/>标注在产品图上的SC，有助于生产过程对部分依赖于生产组装过程实现的特殊特性进行及时识别，采取相应的检验和管控措施。<br/>标注在产品图上的SC，还有助于后续的成品检验环节，更容易对关键特性进行识别、检验和管控。<br/>最重要的是与各方协定该产品的特殊特性，澄清无误，然后向后端所有环节进行准确传递。</p><p>然后，再聊聊SC和DFMEA的互动。SC需要从产品特性分解到相应零部件的设计上，产生相应的探测预防措施，落实到具体结构的具体尺寸，所谓关键尺寸。并对在零件图上和DFMEA里对关键尺寸或者关键特征进行特殊符号的标注，方便后续的设计审查、制造组装和原材料检验等环节对SC进行正确地识别和管控。<br/>着重于从零部件设计环节这个源头上对产品特殊特性进行管控。</p><p>最后是SC与PFMEA的互动，部分SC特性需要组装实现，并且多数SC特性需要在成品下线前进行终检保证，相关的SC自然是PFMEA的重要组成。实际上，SC在生产上不仅仅是影响PFMEA，它会被完整的传递到Flowchart，WI，CP等生产制造相关的文件中去。</p><p>这里着重体现了SC对生产过程的影响。</p><p>到这里，可以比较清楚的看到产品的SC list逐级传递影响的过程，从产品传递到零部件，从需求到设计，然后变成关键尺寸和参数，对原材料管理、生产制造过程管理，成品检验管理等过程产生了极其重要的影响。</p><p><b>写在最后</b></p><p>其实SC list并不复杂，只是一张简洁的表单，在项目越早期完成越有利于后续所有文件在SC list上的协调一致性。应当尽早内部审核和协定SC list这份。但是实际过程中，这个文档中的内容由于“习以为常”这种原因，通常被拖到设计末期补文档才开始完成，的确是偏晚了。我觉得这个真的可以改。:P</p>", 
+            "topic": [
+                {
+                    "tag": "汽车术语", 
+                    "tagLink": "https://api.zhihu.com/topics/19606637"
+                }, 
+                {
+                    "tag": "汽车零部件设计", 
+                    "tagLink": "https://api.zhihu.com/topics/20007657"
+                }, 
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39024727", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 7, 
+            "title": "RPN——DFMEA的核心之二", 
+            "content": "<p>FMEA有其中一个核心是SC list，前篇已叙。</p><p>写写另一个核心，RPN——风险量化。</p><p>常说风险有大小，这是定性分析。</p><p>但是DFMEA作为一个失效合集，汇总了众多失效，即风险数量众多。怎么样确保把有限的资源投入到最高级别的失效风险上去呢？要想精确打击，必须针对失效风险进行量化评估。</p><p><br/>在开始之前，必须再说一遍，如前篇所述，失效影响/失效模式/失效原因，三者本质都是失效，只是在同一失效链上处于不同层级。<a href=\"https://zhuanlan.zhihu.com/p/38302804\" class=\"internal\">不清楚的同学可以的点这里复习下</a>。<br/>======================================================</p><p>本篇介绍 RPN 是如何将风险进行量化的。</p><h2><b>RPN是什么？</b></h2><p>RPN，全称是 risk priority number，风险顺序数或者风险系数，这是个数字，取值范围在1-1000之间。数字越大，表明风险越大，越值得优先重视和积极改善。</p><h2><b>RPN的评价对象？</b></h2><p>评价对象为处于失效原因层级上的失效。前篇已叙，失效原因层级的失效，工程师已经有能力进行改善消除。RPN的作用就是告诉工程师，在失效原因层级上，哪个失效值得重点关注，优先消除。<br/>例如下图中的三种失效模式，分析结果显示有三个失效原因（失效c1&amp;c2&amp;c3）需要去关注和改善，那么根据RPN数值，可以明显看出应优先投入资源关注和改善失效c3。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4dcca34e1954db27083b06e9541ccf5b_b.jpg\" data-size=\"normal\" data-rawwidth=\"1155\" data-rawheight=\"577\" class=\"origin_image zh-lightbox-thumb\" width=\"1155\" data-original=\"https://pic4.zhimg.com/v2-4dcca34e1954db27083b06e9541ccf5b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1155&#39; height=&#39;577&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1155\" data-rawheight=\"577\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1155\" data-original=\"https://pic4.zhimg.com/v2-4dcca34e1954db27083b06e9541ccf5b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4dcca34e1954db27083b06e9541ccf5b_b.jpg\"/><figcaption>RPN对失效风险进行了量化</figcaption></figure><h2><b>怎么确定RPN的数值？RPN=S*O*D</b></h2><p>RPN的数值由三个参数相乘得到，分别是严重度(<b>S</b>everity)、发生频率(<b>O</b>ccurrence)、探测难易程度(<b>D</b>etection)，例如下图中失效c的RPN=S*O*D=10*10*10=1000。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-385a490f8ce2efd8da6fc26ad0cfc49d_b.jpg\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"205\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic2.zhimg.com/v2-385a490f8ce2efd8da6fc26ad0cfc49d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;205&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"205\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic2.zhimg.com/v2-385a490f8ce2efd8da6fc26ad0cfc49d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-385a490f8ce2efd8da6fc26ad0cfc49d_b.jpg\"/><figcaption>RPN=S*O*D</figcaption></figure><p><br/><b>严重度(Severity)：</b>数值范围1-10分，用于评估“失效<b>影响</b>”这个层级上的失效的严重程度，分数越高，影响越大。FMEA手册提供了10段文字描述，用于对应1-10分的分数，方便工程师对相应的“失效影响”给出相对准确的分数。</p><p><b>发生频率(Occurrence)：</b>数值范围1-10分，用于评估“失效<b>原因</b>”这个层级上的失效的发生频率，分数越高，发生的频率越高。同样，FMEA手册提供了10段文字描述，用于对应1-10分的分数，方便工程师对依据不同的发生频率给出相对准确的分数。</p><p><b>探测难易程度(Detection)：</b>数值范围1-10分，用于评估“失效<b>原因</b>”层级上的失效被检测出来的难易程度，分数越高，检测识别的难度越大。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-385a490f8ce2efd8da6fc26ad0cfc49d_b.jpg\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"205\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic2.zhimg.com/v2-385a490f8ce2efd8da6fc26ad0cfc49d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;205&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"205\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic2.zhimg.com/v2-385a490f8ce2efd8da6fc26ad0cfc49d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-385a490f8ce2efd8da6fc26ad0cfc49d_b.jpg\"/><figcaption>S / O / D / RPN 各自的评价对象</figcaption></figure><p>再提醒一遍，S的评价对象是“失效<b>影响</b>”；O&amp;D评价的对象是“失效<b>原因</b>”；RPN的评估对象是“失效<b>原因</b>”。</p><h2><b>风险应对策略</b></h2><p>RPN全部标定完毕之后，如果资源充足，可以选择从高到低依次改善。但是资源往往是不充足的，根据二八原则，我们知道，有限的资源应该投入到最有价值的部分去。所谓帕累托分析。<br/>方法有好几种，这里重点介绍FMEA手册中提供的风险矩阵，可以根据RPN/S/O/D的分值标定某失效在风险矩阵中的位置，从而为下一步应对措施提供参考。<br/>总共有四种矩阵，分别是SXO、SXD、OXD、RMR矩阵，前三个二维阵列是双因素判据，RMR则是综合判据。应当同时进行四个风险矩阵的评估。</p><p>红色表示高危，即必须整改项目，黄色表示中等风险，即强烈建议改善，绿色表示安全，即当前应对已经相对妥当。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c9a14274fcb55540037d9a297b6df819_b.jpg\" data-size=\"normal\" data-rawwidth=\"634\" data-rawheight=\"809\" class=\"origin_image zh-lightbox-thumb\" width=\"634\" data-original=\"https://pic2.zhimg.com/v2-c9a14274fcb55540037d9a297b6df819_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;634&#39; height=&#39;809&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"634\" data-rawheight=\"809\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"634\" data-original=\"https://pic2.zhimg.com/v2-c9a14274fcb55540037d9a297b6df819_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c9a14274fcb55540037d9a297b6df819_b.jpg\"/><figcaption>四种风险矩阵</figcaption></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "汽车零部件", 
+                    "tagLink": "https://api.zhihu.com/topics/19728409"
+                }, 
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }, 
+                {
+                    "tag": "汽车设计", 
+                    "tagLink": "https://api.zhihu.com/topics/19593808"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Jack.Liang", 
+                    "userLink": "https://www.zhihu.com/people/b7a343bebb8908bad4efec527f1eb433", 
+                    "content": "真的准备做学术研究了啊！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Fun Traveller", 
+                            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+                            "content": "报告梁哥，学术夸张了。就是通过写作的方式强迫自己整理提炼下知识点。", 
+                            "likes": 0, 
+                            "replyToAuthor": "Jack.Liang"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "今天好好学习", 
+                    "userLink": "https://www.zhihu.com/people/733559e309de476bbe79c6d4d78785ad", 
+                    "content": "您好，我对dfmea有一个理解，但是不知道对不对，因为手册里面感觉还是比较笼统，能否帮我看看我的理解有无问题？<br>1，开展dfmea分析时，对象应该是具体的一个产品，而不是一类。当一个单位要针对某种产品开展dfmea，那么应该是具体的产品具体分析的。<br>2，对于结构类似的产品，dfmea分析可以借鉴以往经验。这里我觉得主要在于对于相似结构的，各个零部件的失效模式及其sod评分可能是相近的。也就是之前一个结构的sod怎么打的分，类似结构可以做参考。<br>请问是这样么？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Fun Traveller", 
+                            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+                            "content": "非常正确~", 
+                            "likes": 0, 
+                            "replyToAuthor": "今天好好学习"
+                        }, 
+                        {
+                            "userName": "今天好好学习", 
+                            "userLink": "https://www.zhihu.com/people/733559e309de476bbe79c6d4d78785ad", 
+                            "content": "谢谢答复[赞]", 
+                            "likes": 0, 
+                            "replyToAuthor": "Fun Traveller"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39282643", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 5, 
+            "title": "DFMEA——如何高效搭建失效网", 
+            "content": "<p>前篇说到影响/模式/原因 三者本质是一条失效链上不同层级的失效。</p><p>DFMEA三段式结构是由失效模式起始，对外产生影响，对内追溯原因。因此只要选定失效模式，就可以很轻松的搞定DFEMA三段结构。</p><p>理论上任意选择一个失效作为失效模式，该失效的前后级就可以在逻辑上构成影响和原因，从而获得一个DFMEA的三段结构。<br/>实际情况中，作为某个具体的公司，只可能处于失效链上某个局部位置，而不是任意部位，所以对于具体的实际操作，失效模式不可以任意选择的。 =======================================================</p><p>本篇以<b>汽车行业电子零部件开发</b>为例，写写实际运用中。如何创建一个失效网络，并将一个失效锚定为失效模式，以及锚定失效影响和失效原因</p><p><b>首先介绍三个基础条件：</b></p><p>1. 通常将产品定义为为失效影响的对象，设计因素定义为失效原因关联的对象。（<a href=\"https://zhuanlan.zhihu.com/p/38057403\" class=\"internal\">前文已述 最终影响和根本原因</a>）<br/>2. 失效，必然对应于某个功能的丧失，而功能的实现又依赖于具体物理结构的承载，所以可以顺着结构-功能-失效的逻辑的进行失效的建立。<br/>3. 产品结构是现成的网络结构。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>基于以上三个条件，可以比较顺利的写出一份较为完整，并且逻辑清楚的DFMEA，</b><br/><b>步骤介绍如下：</b></p><p>1. 产品本身展开成三级的树形结构（<b>产品-零件-设计</b>）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-8244d7ba8c2a3c9a0a4c865d5ecdf538_b.jpg\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"116\" class=\"origin_image zh-lightbox-thumb\" width=\"444\" data-original=\"https://pic1.zhimg.com/v2-8244d7ba8c2a3c9a0a4c865d5ecdf538_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;444&#39; height=&#39;116&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"444\" data-rawheight=\"116\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"444\" data-original=\"https://pic1.zhimg.com/v2-8244d7ba8c2a3c9a0a4c865d5ecdf538_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-8244d7ba8c2a3c9a0a4c865d5ecdf538_b.jpg\"/><figcaption>结构网络示例</figcaption></figure><p>2. 依次分析每个层级单元相应的功能</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8099242964346b173bd49c5b63cdfaa2_b.jpg\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"160\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic3.zhimg.com/v2-8099242964346b173bd49c5b63cdfaa2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;160&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"160\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic3.zhimg.com/v2-8099242964346b173bd49c5b63cdfaa2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8099242964346b173bd49c5b63cdfaa2_b.jpg\"/><figcaption>在每个单元中生成功能</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>3. 针对功能写下对应功能的失效</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f201b85fff0c850ecbd6a4d722b7c114_b.jpg\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"230\" class=\"origin_image zh-lightbox-thumb\" width=\"692\" data-original=\"https://pic1.zhimg.com/v2-f201b85fff0c850ecbd6a4d722b7c114_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;692&#39; height=&#39;230&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"692\" data-rawheight=\"230\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"692\" data-original=\"https://pic1.zhimg.com/v2-f201b85fff0c850ecbd6a4d722b7c114_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f201b85fff0c850ecbd6a4d722b7c114_b.jpg\"/><figcaption>在每个单元中根据功能生成相应的失效</figcaption></figure><p>4. 将失效之间依次连接成网络</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-3aea588706dcf0d09134a35479a95c5c_b.jpg\" data-size=\"normal\" data-rawwidth=\"443\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb\" width=\"443\" data-original=\"https://pic1.zhimg.com/v2-3aea588706dcf0d09134a35479a95c5c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;443&#39; height=&#39;161&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"443\" data-rawheight=\"161\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"443\" data-original=\"https://pic1.zhimg.com/v2-3aea588706dcf0d09134a35479a95c5c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3aea588706dcf0d09134a35479a95c5c_b.jpg\"/><figcaption>失效网络</figcaption></figure><p>至此失效网络完成。<br/>并且失效影响与产品锚定，失效原因与设计锚定，失效模式自然与结构网络图中的零件锚定。</p><p>=======================================================</p><p>个人理解：产品-零件-设计</p><p><b>产品</b>：卖出给客户的东西</p><p><b>零件</b>：采购回来的东西</p><p><b>设计</b>：定义零件的过程（0-1的过程是设计，外购件选型的过程也是设计，因为都是定义零件的过程）</p><p> =======================================================</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>上文中按照产品结构展开方式有几个突出的优势：</b></p><p>1. 层级是伴随产品结构树状展开，所以DFMEA分析的完整性较高。不会产生重大缺漏事项。2. 层级伴随零部件树状展开，逻辑性和可视性较好，方便团队进行审核和更新。一个设计文档如果无法被review，其质量基本是很难被保证的。<br/>3. 失效模式绑定在零部件层级上，可以保证所有的失效模式都是隶属同一层级。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>以上三个好处，前两个很好理解。<b>重点讲讲第三个“失效模式同一层级”这个特性。这个特性解决了一个很重要的问题。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-603cfe10e039540fb2c84480a1066af5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-603cfe10e039540fb2c84480a1066af5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1200&#39; height=&#39;718&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1200\" data-rawheight=\"718\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1200\" data-original=\"https://pic2.zhimg.com/v2-603cfe10e039540fb2c84480a1066af5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-603cfe10e039540fb2c84480a1066af5_b.jpg\"/></figure><p>在上图中，有一条失效链x-a-b-c-y，按照<a href=\"https://zhuanlan.zhihu.com/p/38057403\" class=\"internal\">前篇所述</a>，以失效x为终极影响，以失效y为根本原因，那么中间三个失效a&amp;b&amp;c可以任意指定一个失效作为失效模式，就可以轻松获得一个三段式结构的DFMEA，例如x-a-y和x-b-y。</p><p>x-a-y和x-b-y虽然失效模式看起来不同（分别是失效a&amp;失效b），但是本质上,裁取出来的两个子链来源于同一条失效链，失效原因和失效影响完全一致，重复研究毫无意义。</p><p>此处的 a&amp;b 就是典型的前后级关系，而非同层级。保证各失效模式之间的同级特性，可以保证DFMEA的简洁高效性。或者说，同一条失效链上只需要产生一条DFMEA即可。</p><p>当前的失效模式全部被绑定在各个零部件的失效上，可以有效的预防如上所述的同链裁取而导致的某些失效模式互为前后级的情况，有效减少重复的失效原因分析。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>=======================================================</p><p>关于失效的书写规则，以及一些特例情况分析；还有如何遵守一些基本规则以优化DFMEA的维护性和可审核特性等等，后续有缘再叙:p<br/>有问题可以私信或者留言，一起讨论。</p>", 
+            "topic": [
+                {
+                    "tag": "失效模式", 
+                    "tagLink": "https://api.zhihu.com/topics/20106708"
+                }, 
+                {
+                    "tag": "汽车零部件设计", 
+                    "tagLink": "https://api.zhihu.com/topics/20007657"
+                }, 
+                {
+                    "tag": "产品设计", 
+                    "tagLink": "https://api.zhihu.com/topics/19551625"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/37633327", 
+            "userName": "Fun Traveller", 
+            "userLink": "https://www.zhihu.com/people/484ad150e8004bd6027f5d096cee8260", 
+            "upvote": 13, 
+            "title": "Guideline & DFMEA & Lessons Learned", 
+            "content": "<p>本篇打算简单写写Guideline &amp; DFMEA &amp; Lessons Learned，是什么，有什么关系？</p><p>=======================================================</p><p>背景介绍下：</p><p>作为一个汽车零部件行业的结构工程师，入门的时候都会接触到三个重要的设计相关的文档。分别是设计指导手册（Guideline,下文简称GL），设计失效模式影响和分析（Design failure mode and analysis,简称DFMEA），经验教训总结（Lessons Learned,下文简称LL）</p><p>这三个文件有个共同点，都记载了和设计有关的要点，都可以提供相关的设计信息，去帮助设计者完善设计，帮助设计者规避或者减少设计风险，或者降低影响。</p><p>个人风格比较偏实用主义，总是试图简化自己觉得能简化的东西。 </p><p>刚开始接触这三个文件，很烦，明明差不多的东西，难道三个不同的地方写三遍好玩嘛？？文件就不能统一化嘛！！搞这个流程的都是XXX。（当然不能说出来。。。历史经验教训表明，很多时候我才是傻。。。但是没人可以说明详细缘由，总觉得很难把握重点进而把一件事情执行到位。恼。）</p><p>后来我还是没有机会找到别人告知我这这三到底是啥，什么关系，为何都要。或者有人说了，但是我没理解。。。</p><p>下面接正题，说明下我想明白的东西，贴出来，以供讨论。</p><p>GL &amp; DFMEA &amp; LL三个文件各自是啥？</p><p>GL &amp; DFMEA &amp; LL是什么关系？</p><p>GL &amp; DFMEA &amp; LL三个文件是否必须？</p><p> =======================================================</p><h2><b>GL &amp; DFMEA &amp; LL 分别是什么？</b></h2><p><b>GL是一份成熟的设计指导文件</b></p><p>内容规范，设计要点陈述清楚，目标明确。一般作为设计的输入文件。独立于所有项目之外，不会在短期内因为某一个项目或者某些事件就发生改变，稳定性极高。</p><p><b>DFMEA是一份checklist</b></p><p>用于罗列记录我们或者团队在设计先期识别到的各种设计要点，并针对各个要点设定初步的预防和探测措施，给予一定的风险评估，方便设计过程中检查，跟踪和更新。因为设计本身是一个复杂而且漫长的过程，很容易就在这个过程中遗漏一些细节。但是一份合理运作DFMEA系统提供了一个保证，允许我们把设计要求以及对应的措施一个一个详细的追踪完善下去。精确绑定在某个项目的过程之中，伴随项目不同具备极高的特异性，但是类似项目又具备类似的DFMEA结构和内容。</p><p><b>LL是一份书面化的经验小结，或者是各种小结的汇总。</b></p><p>它是这三个文档中写法最简单，流程最简单，也很容易被忽略的一份文档。</p><p>个人最推崇的的写法是三段式写法，包含问题现象，问题原因，问题应对措施，打开Word，一张A4图文并茂，清晰简洁，一页一事，便于查看。</p><p>LL有几个特点：</p><p><b>LL 的产生和运用过程不限定于某个特殊阶段</b>，例如在项目的初期的时候，可以用其他项目输出的LL，用于检查和提醒当前的项目，避免犯重复错误。在当前项目进行过程中或者项目结束的时候，会产生许多新的失效以及相应的解决方案，此时就产生了新的LL，可以输出存档，供后续的新项目参考使用。</p><p><b>不限定于特殊人员</b>，研发工程师可以写，制程工程师可以写，采购可以写，项目经理也可以写，只要是个经验教训，都值得被人记录和分享。</p><p><b>LL是GL的一个重要输入来源</b>。一份经过可靠检验值得推广的LL，经过确认和细化和规范的流程释放，即可被吸纳成为加入GL，名传千古。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-fad1d35164d32255563446428d8879da_b.jpg\" data-size=\"normal\" data-rawwidth=\"716\" data-rawheight=\"269\" class=\"origin_image zh-lightbox-thumb\" width=\"716\" data-original=\"https://pic3.zhimg.com/v2-fad1d35164d32255563446428d8879da_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;716&#39; height=&#39;269&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"716\" data-rawheight=\"269\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"716\" data-original=\"https://pic3.zhimg.com/v2-fad1d35164d32255563446428d8879da_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-fad1d35164d32255563446428d8879da_b.jpg\"/><figcaption>GL&amp;amp;amp;amp;DFMEA&amp;amp;amp;amp;LL 简单特性比较</figcaption></figure><h2><b>GL &amp; DFMEA &amp; LL是什么关系？</b></h2><p>图是我们的好朋友，来一张。下图展示了GL &amp; DFMEA &amp; LL三者在项目里的关系流。按照项目过程中顺序排列，并展示了三者与项目的互动关系。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e5b7656aaf54ca9ba69828db7f906684_b.jpg\" data-size=\"normal\" data-rawwidth=\"559\" data-rawheight=\"519\" class=\"origin_image zh-lightbox-thumb\" width=\"559\" data-original=\"https://pic1.zhimg.com/v2-e5b7656aaf54ca9ba69828db7f906684_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;559&#39; height=&#39;519&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"559\" data-rawheight=\"519\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"559\" data-original=\"https://pic1.zhimg.com/v2-e5b7656aaf54ca9ba69828db7f906684_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e5b7656aaf54ca9ba69828db7f906684_b.jpg\"/><figcaption>GL&amp;amp;amp;amp;DFMEA&amp;amp;amp;amp;LL 三者在项目的关系流</figcaption></figure><p>那么可以从上图中看到GL &amp; DFMEA &amp; LL三个文件围绕项目和产品展开运作，为其提供支持服务。顺序上，一般GL是在设计前期被引用，作为项目的输入，用于指导后续开始的设计工作；DFMEA紧跟其后，与项目需求&amp;产品设计之间反复交互并更新，用于梳理和识别各种设计要点，设计风险，应对措施。LL一般产生于项目各阶段收尾时候，对各种经验教训进行汇总工作，进行存档，提供给后续工作和其他项目参考使用。</p><p><b>GL &amp; DFMEA &amp; LL三个文件都必须？</b></p><p>现在换个角度，从必要性的角度来理解下这三者的意义。</p><p>LL是基础是起源是一切。<br/>从前肯定啥都没有，但是设计怎么搞？按经验主义搞！这就是最朴素的LL，只不过书面形式较少，口述亲授比较多。然后对实际案例的提炼总结和书面记录，这便诞生了LL。</p><p>GL是LL的升华。<br/>区别于LL的最大特点，GL是对多份LL的总结和提炼，是经过进一步抽象和泛化的工具，脱离了具体的经验范畴，不再纠结于细节产品，提炼出设计特征，向方法论靠拢，可以说是LL 的飞仙版本。</p><p>DFMEA是一份设计过程的checklist。<br/>设计过程日渐复杂，为了防止缺漏遗失，确保设计过程完善，我们需要一份动态的checklist来作为检查和跟踪设计进度。大概就是DFMEA的起源。</p><p>借此我们可以来认识一个现象：<br/>很多小公司当然大公司也好不哪里去，三个文档都写烂，甚至不全，但是项目和产品依旧能勉力运作下去，为何？<br/>具体怎么个不好法咧：<br/><b>-</b>GL写的不好，用的不好，推广的不好；<br/><b>-</b>DFMEA只是草草一写，应付了事，甚至纯粹当成一项应付IATF16949的审核任务，有很多  的-DFMEA甚至是和设计过程独立开来的，产品冻结设计了，然后写一份DFMEA交差；<br/><b>-</b>LL写的也不好，各自为政，格式不统一，形式大于内容，交流分享渠道不畅通等等。<br/>但是他们的产品依旧没有逆天爆炸，还总是能度过危机，磕磕绊绊还总是能走到结束。<br/>这里就不得不说，某些大牛工程师的个人经验真的很好用。三个文档都没有做好，但是依靠朴素版本的LL就能度日为生。由此也可见三个文档地位关系。</p><p>但是想干大事的时候，必须团队作战，依靠个人经验就比较费钱费事费人品。为何？<br/>因为放在个人脑子里的经验教训有固有优势，那就是便捷直观，毕竟活人教程和书面文件差异挺大的，但是这对于团队和个人的可持续成长是一个严重的制约。</p><p><b>首先是导致文档流于形式，导致人力浪费。</b>对个人经验主义的依赖，会对团队在文档维护上的积极性产生严重的负面暗示：不写也没关系，节省了时间；我写了没人看，没有产生实际作用。团队成长基本停滞，甚至退化。导致拥有经验的人员不停的从零开始重复同一个故事，不必要的工作负担。流程上为了完善，还是要执行这些文档操作，应付了事，未发挥本来功能的流程文档，真正的浪费时间。</p><p><b>然后是人员的不稳定性风险</b>，人走了，经验就没有了。</p><p><b>再然后是纯人力传播会导致严重的信息失真</b>，应该比较好理解，不赘述。</p><p><b>最后，无法被检索，</b>存在各个人脑子的经验教训，几乎不可能提供完善及时的检索服务，经常发生事后诸葛亮的故事——失效发生了，有人一拍大腿告诉你早前他们遇到过并且解决过了?（你说气不气）。统一格式记录在案的，允许前期就进行规范详细的检索，极大的减小设计风险。</p><p>个人想法，这三个文件是三个工具，小公司小团队小项目自然可以无所谓，单纯依靠个人的经验主义，自然能做下去，一锤子买卖，做完就撤，写这些劳什子玩意当真就是浪费时间。</p><p>但是如果参与在规模稍微大些的公司，多个项目中，不同团队里，这三个工具的认知水平和维护水平，基本上就是团队设计能力和效率的天花板了。</p><p>仁者见仁，各自取舍。</p>", 
+            "topic": [
+                {
+                    "tag": "汽车零部件设计", 
+                    "tagLink": "https://api.zhihu.com/topics/20007657"
+                }, 
+                {
+                    "tag": "汽车行业", 
+                    "tagLink": "https://api.zhihu.com/topics/19585985"
+                }, 
+                {
+                    "tag": "项目管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19560856"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_212463269"
+}

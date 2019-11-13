@@ -1,0 +1,466 @@
+{
+    "title": "Guang的密码学与信息安全专栏", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/jiu-shi-xiang-di-diao", 
+        "https://www.zhihu.com/people/wang-hao-fan-89", 
+        "https://www.zhihu.com/people/xiao-bai-57-52", 
+        "https://www.zhihu.com/people/fqclll", 
+        "https://www.zhihu.com/people/bo-he-hong-cha-23", 
+        "https://www.zhihu.com/people/zhao-xiang-yu-58-26", 
+        "https://www.zhihu.com/people/wxfa966f500bf7ded4", 
+        "https://www.zhihu.com/people/er-ke-mu-tu-a", 
+        "https://www.zhihu.com/people/liu-yi-53-50", 
+        "https://www.zhihu.com/people/ban-di-yan-lei", 
+        "https://www.zhihu.com/people/huang-yao-zha", 
+        "https://www.zhihu.com/people/ma-san-dao-30", 
+        "https://www.zhihu.com/people/CBF_DT", 
+        "https://www.zhihu.com/people/chan-chan-rong-rong", 
+        "https://www.zhihu.com/people/guo-xiao-yu-49-27", 
+        "https://www.zhihu.com/people/leveapi", 
+        "https://www.zhihu.com/people/chen-yao-lin-22", 
+        "https://www.zhihu.com/people/yi-neng-64", 
+        "https://www.zhihu.com/people/liu-lin-tao-27", 
+        "https://www.zhihu.com/people/nagra-king", 
+        "https://www.zhihu.com/people/Mou_Qee", 
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82", 
+        "https://www.zhihu.com/people/yang-jing-lin-16", 
+        "https://www.zhihu.com/people/chun-chun-28-9", 
+        "https://www.zhihu.com/people/duijie2017", 
+        "https://www.zhihu.com/people/tnpe", 
+        "https://www.zhihu.com/people/huanglifeng", 
+        "https://www.zhihu.com/people/li-lin-95-82", 
+        "https://www.zhihu.com/people/zhen-shi-de-shi-jie-83", 
+        "https://www.zhihu.com/people/li-yi-heng-60-80", 
+        "https://www.zhihu.com/people/chrischau", 
+        "https://www.zhihu.com/people/happyqq", 
+        "https://www.zhihu.com/people/YukiSou", 
+        "https://www.zhihu.com/people/zheng-xiao-guang-13", 
+        "https://www.zhihu.com/people/guannan", 
+        "https://www.zhihu.com/people/fugq", 
+        "https://www.zhihu.com/people/HatBoy-dj", 
+        "https://www.zhihu.com/people/ling-46-86-5", 
+        "https://www.zhihu.com/people/huomosi", 
+        "https://www.zhihu.com/people/a-qun-99", 
+        "https://www.zhihu.com/people/lin-shu-dong", 
+        "https://www.zhihu.com/people/sec-fly", 
+        "https://www.zhihu.com/people/qiao-shu-ai-gou-dan", 
+        "https://www.zhihu.com/people/wang-heng-hao-60", 
+        "https://www.zhihu.com/people/kai-zhao-tuo-la-ji-ying-jie-chun-tian-8", 
+        "https://www.zhihu.com/people/ren-sheng-neng-you-ji-hui-bo-51", 
+        "https://www.zhihu.com/people/trackw0ld", 
+        "https://www.zhihu.com/people/evin-57", 
+        "https://www.zhihu.com/people/beihai_", 
+        "https://www.zhihu.com/people/jiu-ye-20-63", 
+        "https://www.zhihu.com/people/present-19", 
+        "https://www.zhihu.com/people/silver-bell-", 
+        "https://www.zhihu.com/people/jiangx3915", 
+        "https://www.zhihu.com/people/duan-he-tu", 
+        "https://www.zhihu.com/people/zhang-xiao-hai-13-39", 
+        "https://www.zhihu.com/people/cai_iamfree", 
+        "https://www.zhihu.com/people/wang-yu-jie-35", 
+        "https://www.zhihu.com/people/aguaithefreak", 
+        "https://www.zhihu.com/people/ming-ri-qing-yun-qu", 
+        "https://www.zhihu.com/people/seven11-47", 
+        "https://www.zhihu.com/people/normantag", 
+        "https://www.zhihu.com/people/zhang-jun-long-4", 
+        "https://www.zhihu.com/people/leo-66-31", 
+        "https://www.zhihu.com/people/wang-hui-74-43", 
+        "https://www.zhihu.com/people/chen-ping-24-86", 
+        "https://www.zhihu.com/people/liu-bo-tao-72-84", 
+        "https://www.zhihu.com/people/Lunmole", 
+        "https://www.zhihu.com/people/an-quan-chan-shi-guan", 
+        "https://www.zhihu.com/people/tianyuechen", 
+        "https://www.zhihu.com/people/dominee-dominee", 
+        "https://www.zhihu.com/people/iancandy", 
+        "https://www.zhihu.com/people/ceng-ni-ma-47", 
+        "https://www.zhihu.com/people/mo-zi-46-48", 
+        "https://www.zhihu.com/people/anchor626", 
+        "https://www.zhihu.com/people/daoman", 
+        "https://www.zhihu.com/people/liu-wei-75-8-77", 
+        "https://www.zhihu.com/people/zosa", 
+        "https://www.zhihu.com/people/qi-zhi-ke", 
+        "https://www.zhihu.com/people/ivanlong", 
+        "https://www.zhihu.com/people/liuchaopy", 
+        "https://www.zhihu.com/people/zong-zi-54-9", 
+        "https://www.zhihu.com/people/jzy-fisher", 
+        "https://www.zhihu.com/people/yang-qing-yu-67-51", 
+        "https://www.zhihu.com/people/foxwest", 
+        "https://www.zhihu.com/people/ppp-46-87-94", 
+        "https://www.zhihu.com/people/shen-zhen-lao-mo-89", 
+        "https://www.zhihu.com/people/shi-ze-huan", 
+        "https://www.zhihu.com/people/aiweiyang521", 
+        "https://www.zhihu.com/people/shao-nian-fu-gou", 
+        "https://www.zhihu.com/people/zhao-ying-1-78", 
+        "https://www.zhihu.com/people/shao6730", 
+        "https://www.zhihu.com/people/m4gma7ron", 
+        "https://www.zhihu.com/people/zhi-lu-77", 
+        "https://www.zhihu.com/people/naide-champier", 
+        "https://www.zhihu.com/people/haochuan_", 
+        "https://www.zhihu.com/people/dosun9588", 
+        "https://www.zhihu.com/people/BobHuNanjing", 
+        "https://www.zhihu.com/people/zeroyu-27", 
+        "https://www.zhihu.com/people/ruo-yi-82", 
+        "https://www.zhihu.com/people/90snake", 
+        "https://www.zhihu.com/people/man-yes-8", 
+        "https://www.zhihu.com/people/tt-tt-13-48", 
+        "https://www.zhihu.com/people/zhu-mo-78-34", 
+        "https://www.zhihu.com/people/wang-cheng-ao", 
+        "https://www.zhihu.com/people/ge-ge-92-91", 
+        "https://www.zhihu.com/people/xiao-jia-ke-39", 
+        "https://www.zhihu.com/people/stevenson-26", 
+        "https://www.zhihu.com/people/martinh-74", 
+        "https://www.zhihu.com/people/yanglixue", 
+        "https://www.zhihu.com/people/bbzdd", 
+        "https://www.zhihu.com/people/riddle-49"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25191040", 
+            "userName": "有心人", 
+            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+            "upvote": 54, 
+            "title": "（一）Python密码学之旅---02古典密码之凯撒密码推广", 
+            "content": "<p>安全性是密码学不可回避的话题，是密码算法最为重要的特性。一旦密码算法被破解，那么人们将不再使用它。古典密码在用现代的眼光来看，都是不安全的，可以被分析破解。随着计算机技术的发展和破译方法的推陈出新，很多原来安全的密码也会变得不安全。比如<a href=\"https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E8%25B3%2587%25E6%2596%2599%25E5%258A%25A0%25E5%25AF%2586%25E6%25A8%2599%25E6%25BA%2596https%3A//zh.wikipedia.org/wiki/%25E8%25B3%2587%25E6%2596%2599%25E5%258A%25A0%25E5%25AF%2586%25E6%25A8%2599%25E6%25BA%2596\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">DES算法</a>，因被暴力破解而不再使用了 。</p><p>本节将从安全性的角度，对凯撒密码进行分析，在此基础上介绍它的推广版本。</p><p><b>一、</b><b>凯撒密码的分析</b></p><p>回顾下凯撒密码：其基本思想是：通过把字母移动一定的位数来实现加密和解密。例如，密匙是把明文字母的位数向后移动三位，那么明文字母B就变成了密文的E,依次类推，X将变成A，Y变成B，Z变成C。</p><p>也就是说，当密钥key=3时，明文字母表和密文字母表分别是：</p><br/><blockquote><p>明文字母表：ABCDEFGHIJKLMNOPQRSTUVWXYZ</p><p>密文字母表：DEFGHIJKLMNOPQRSTUVWXYZABC</p></blockquote><p><b>那么，请问密钥有多少种可能？</b></p><p>很简单25个。因为当key=26时，明文还是不变换。</p><p>因此，可以通过<a href=\"https://link.zhihu.com/?target=https%3A//zh.wikipedia.org/wiki/%25E7%25A9%25B7%25E4%25B8%25BE%25E6%25B3%2595\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">穷举法</a>，很轻易地进行破解！</p><p>凯撒密码的破解算法穷举算法比较简单，在此不作赘述，留给读者自行编写。</p><p><b>二、</b><b>凯撒密码的推广</b></p><p>凯撒密码的密钥空间有限，导致安全性极差，那么如何对它进行改进呢？</p><p>一个简单的思路是：将明文字符进行任意替换，也就是“a”可以替换为26个字符，“b”在剩余25个字符中任意选择一个，依次类推。我们将这样的凯撒密码称之为“凯撒密码推广算法”。\n</p><p>那么“凯撒密码推广算法”的密钥量是多少呢？</p><p>答案是26！=  4.0329146×<img src=\"https://www.zhihu.com/equation?tex=10%5E%7B26%7D+\" alt=\"10^{26} \" eeimg=\"1\"/>（26的阶乘）。大家可以用Python来计算下26的阶乘。这是一个极为巨大的数字，比DES的密钥大10个数量级。试想下，如果计算机每秒运行1万次穷举攻击算法，那么完全运算完需要多长的时间呢？</p><p>实现代码为：<br/></p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"k\">class</span> <span class=\"nc\">ECaesarCipher</span><span class=\"p\">(</span> <span class=\"p\">):</span>\n    <span class=\"k\">def</span> <span class=\"fm\">__init__</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"p\">,</span> <span class=\"n\">message</span><span class=\"o\">=</span><span class=\"bp\">None</span><span class=\"p\">):</span>\n        <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">message</span> <span class=\"o\">=</span> <span class=\"n\">message</span>\n        <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">cipherMessage</span><span class=\"o\">=</span><span class=\"s2\">&#34;&#34;</span>\n        \n        <span class=\"c1\">#获取“a”到”z“的顺序字符表</span>\n        <span class=\"n\">pT</span><span class=\"o\">=</span><span class=\"nb\">tuple</span><span class=\"p\">(</span><span class=\"n\">string</span><span class=\"o\">.</span><span class=\"n\">ascii_lowercase</span><span class=\"p\">)</span>\n        \n        <span class=\"c1\">#建立随机化的密文字符表</span>\n        <span class=\"n\">cT</span><span class=\"o\">=</span><span class=\"p\">[]</span>\n        <span class=\"n\">temp</span><span class=\"o\">=</span><span class=\"nb\">range</span><span class=\"p\">(</span><span class=\"mi\">0</span><span class=\"p\">,</span><span class=\"mi\">26</span><span class=\"p\">)</span>\n        <span class=\"n\">random</span><span class=\"o\">.</span><span class=\"n\">shuffle</span><span class=\"p\">(</span><span class=\"n\">temp</span><span class=\"p\">)</span>\n        <span class=\"k\">for</span> <span class=\"n\">x</span> <span class=\"ow\">in</span> <span class=\"n\">temp</span><span class=\"p\">:</span>\n            <span class=\"n\">cT</span><span class=\"o\">.</span><span class=\"n\">append</span><span class=\"p\">(</span><span class=\"n\">pT</span><span class=\"p\">[</span><span class=\"n\">x</span><span class=\"p\">])</span>\n            \n        <span class=\"c1\">#建立密码本，即明文、密文对照表，这里使用了字典结构</span>\n        <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">keyTable</span><span class=\"o\">=</span><span class=\"p\">{}</span>\n        <span class=\"k\">for</span> <span class=\"n\">x</span><span class=\"p\">,</span><span class=\"n\">y</span> <span class=\"ow\">in</span> <span class=\"nb\">zip</span><span class=\"p\">(</span><span class=\"n\">pT</span><span class=\"p\">,</span><span class=\"n\">cT</span><span class=\"p\">):</span>\n            <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">keyTable</span><span class=\"p\">[</span><span class=\"n\">x</span><span class=\"p\">]</span><span class=\"o\">=</span><span class=\"n\">y</span>\n                         \n                                         \n    <span class=\"k\">def</span> <span class=\"nf\">encrypt</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"p\">):</span>\n        <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">cipherMessage</span><span class=\"o\">=</span><span class=\"s2\">&#34;&#34;</span>\n        \n        <span class=\"k\">for</span> <span class=\"n\">x</span> <span class=\"ow\">in</span> <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">message</span><span class=\"p\">:</span>\n            <span class=\"k\">if</span> <span class=\"n\">x</span><span class=\"o\">==</span><span class=\"s1\">&#39; &#39;</span><span class=\"p\">:</span>\n                <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">cipherMessage</span><span class=\"o\">+=</span><span class=\"s1\">&#39; &#39;</span>\n            <span class=\"k\">elif</span> <span class=\"n\">x</span><span class=\"o\">.</span><span class=\"n\">isupper</span><span class=\"p\">():</span>\n                <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">cipherMessage</span><span class=\"o\">+=</span><span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">keyTable</span><span class=\"p\">[</span><span class=\"n\">x</span><span class=\"o\">.</span><span class=\"n\">lower</span><span class=\"p\">()]</span><span class=\"o\">.</span><span class=\"n\">upper</span><span class=\"p\">()</span>\n            <span class=\"k\">else</span><span class=\"p\">:</span>\n                <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">cipherMessage</span><span class=\"o\">+=</span><span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">keyTable</span><span class=\"p\">[</span><span class=\"n\">x</span><span class=\"p\">]</span>\n                \n        <span class=\"k\">return</span> <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">cipherMessage</span>\n    \n    <span class=\"k\">def</span> <span class=\"nf\">decrypt</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"p\">):</span>\n        <span class=\"n\">keyTableDec</span><span class=\"o\">=</span><span class=\"nb\">dict</span><span class=\"p\">((</span><span class=\"n\">value</span><span class=\"p\">,</span><span class=\"n\">key</span><span class=\"p\">)</span> <span class=\"k\">for</span> <span class=\"n\">key</span><span class=\"p\">,</span><span class=\"n\">value</span> <span class=\"ow\">in</span> <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">keyTable</span><span class=\"o\">.</span><span class=\"n\">iteritems</span><span class=\"p\">())</span>\n        <span class=\"n\">message</span><span class=\"o\">=</span><span class=\"s2\">&#34;&#34;</span>\n        <span class=\"k\">if</span> <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">cipherMessage</span><span class=\"p\">:</span>\n            <span class=\"k\">for</span> <span class=\"n\">x</span> <span class=\"ow\">in</span> <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">cipherMessage</span><span class=\"p\">:</span>\n                <span class=\"k\">if</span> <span class=\"n\">x</span><span class=\"o\">==</span><span class=\"s1\">&#39; &#39;</span><span class=\"p\">:</span>\n                    <span class=\"n\">message</span><span class=\"o\">+=</span><span class=\"s1\">&#39; &#39;</span>\n                <span class=\"k\">elif</span> <span class=\"n\">x</span><span class=\"o\">.</span><span class=\"n\">isupper</span><span class=\"p\">():</span>\n                    <span class=\"n\">message</span><span class=\"o\">+=</span><span class=\"n\">keyTableDec</span><span class=\"p\">[</span><span class=\"n\">x</span><span class=\"o\">.</span><span class=\"n\">lower</span><span class=\"p\">()]</span><span class=\"o\">.</span><span class=\"n\">upper</span><span class=\"p\">()</span>\n                <span class=\"k\">else</span><span class=\"p\">:</span>\n                    <span class=\"n\">message</span><span class=\"o\">+=</span><span class=\"n\">keyTableDec</span><span class=\"p\">[</span><span class=\"n\">x</span><span class=\"p\">]</span>\n                    \n        <span class=\"k\">return</span> <span class=\"n\">message</span>\n</code></pre></div>算法建立了ECaesarCipher类，支持大小写英文字母、空格作为明文字符，初始化时随机产生明密文对照表。这个明密文对照表也可以称为密码本，是必须要私密保存的密钥。<p>丢失了密码本，也就意味着该密码的破解。二战中德国使用的ENIGMA密码机，被成为为当时最可靠的加密系统。在第二次世界大战开始时，德军通讯的保密性在当时世界上无与伦比。似乎可以这样说，ENIGMA在纳粹德国二战初期的胜利中起到的作用是决定性的。然而1941年英国海军在Joe Baker-Cresswell舰长的斗牛犬号军舰捕获德国潜艇U-110才真正拿到德国海军用的密码机和密码本，这让原本连数学天才图灵也破译不出的德军密码机得到破译。</p><p>我们来运行一下：</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"o\">&gt;&gt;</span><span class=\"n\">ec</span><span class=\"o\">=</span><span class=\"n\">ECaesarCipher</span><span class=\"p\">(</span><span class=\"s2\">&#34;I want to fly to sky&#34;</span><span class=\"p\">)</span>\n<span class=\"o\">&gt;&gt;</span><span class=\"k\">print</span> <span class=\"n\">ec</span><span class=\"o\">.</span><span class=\"n\">keyTable</span>\n<span class=\"p\">{</span><span class=\"s1\">&#39;a&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;q&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;c&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;f&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;b&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;y&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;e&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;v&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;d&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;g&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;g&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;e&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;f&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;r&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;i&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;u&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;h&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;x&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;k&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;p&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;j&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;z&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;m&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;d&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;l&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;n&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;o&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;s&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;n&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;o&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;q&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;b&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;p&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;c&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;s&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;m&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;r&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;i&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;u&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;h&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;t&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;w&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;w&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;k&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;v&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;j&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;y&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;l&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;x&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;a&#39;</span><span class=\"p\">,</span> <span class=\"s1\">&#39;z&#39;</span><span class=\"p\">:</span> <span class=\"s1\">&#39;t&#39;</span><span class=\"p\">}</span>\n<span class=\"o\">&gt;&gt;</span> <span class=\"n\">ec</span><span class=\"o\">.</span><span class=\"n\">encrypt</span><span class=\"p\">()</span>\n<span class=\"s1\">&#39;U kqow ws rnl ws mpl&#39;</span>\n<span class=\"o\">&gt;&gt;</span><span class=\"n\">ec</span><span class=\"o\">.</span><span class=\"n\">decrypt</span><span class=\"p\">()</span>\n<span class=\"s1\">&#39;I want to fly to sky&#39;</span></code></pre></div><p><b>三、凯撒密码推广算法的安全性分析</b></p>该算法密钥量如此的巨大，如果“明密文对照表”得到有效的保护，它是安全的吗？<p>并不是。自然语言有一定的统计规律，如每个字符出现的频度是不同的。下图为英文中每个字符的使用频度（见参考文献3）。我们发现e的频度是最高的，为12.702%。前五位的是e、t、a、o、i，而后五位是k、j、x、q、z。</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-76eef06388826bf0b49917a56b81150e_b.png\" data-rawwidth=\"342\" data-rawheight=\"631\" class=\"content_image\" width=\"342\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;342&#39; height=&#39;631&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"342\" data-rawheight=\"631\" class=\"content_image lazy\" width=\"342\" data-actualsrc=\"https://pic3.zhimg.com/v2-76eef06388826bf0b49917a56b81150e_b.png\"/></figure><br/><p>每个字母使用频度的不同为破译代替密码提供了密钥信息。密文字母出现的概率对应着明密文对照表中明文字母出现的概率。只要统计出密文中每个字母的概率，再将其与自然语言中概率相同的字母一一对应，便可找出相应明文。除此之外，还可以统计出双字母，三字母及多个字母组合的概率，以提高破译的准确性。</p><p>但对于特殊的明文段落，统计分析有时也会束手无策。1969年法国作家乔治斯．佩雷克写了一本200页的小说《逃亡》，其中没有一个含有字母e的单词。更令人称道的是英国小说和评论家吉尔伯特．阿代尔成功地将《逃亡》译成英文，而其中居然也没有一个字母e。阿代尔将这本译著取名为《真空》。</p><p><b>四、总结</b></p>在密码学和信息安全中，安全是相对的，是有条件的安全。一般指的是在现有计算资源和已知算法条件下，在多项式时间内无法攻破该算法。比如广泛使用的RSA算法，目前认为是安全的，但在量子计算机出现后，使用Shor可以攻破它。现有密码学面临着量子计算机的威胁，很多人在研究抗量子算法（或后量子算法）。<p><b>请大家在阅读后，使用Python自行编写凯撒密码推广算法的破解算法。</b></p><br/><p><b>参考文献：</b><br/></p><ol><li>彭长根.现代密码学趣味之旅.金城出版社.2015<br/></li><li><a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Enigma_machine\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Enigma machine - Wikipedia</a><br/></li><li>Letter frequency. <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Letter_frequency\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">en.wikipedia.org/wiki/L</span><span class=\"invisible\">etter_frequency</span><span class=\"ellipsis\"></span></a></li></ol>", 
+            "topic": [
+                {
+                    "tag": "Python", 
+                    "tagLink": "https://api.zhihu.com/topics/19552832"
+                }, 
+                {
+                    "tag": "密码学", 
+                    "tagLink": "https://api.zhihu.com/topics/19621679"
+                }, 
+                {
+                    "tag": "信息安全和密码学", 
+                    "tagLink": "https://api.zhihu.com/topics/19827596"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Serena Yu", 
+                    "userLink": "https://www.zhihu.com/people/d424837bffd7fd4ae461c88a4fb5a6fd", 
+                    "content": "这感觉还是用c/c++实现比较方便，char* 直接暴力加数值就行了.........", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "有心人", 
+                            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+                            "content": "嗯嗯，一般算法都是用c来实现，效率更高", 
+                            "likes": 0, 
+                            "replyToAuthor": "Serena Yu"
+                        }, 
+                        {
+                            "userName": "Serena Yu", 
+                            "userLink": "https://www.zhihu.com/people/d424837bffd7fd4ae461c88a4fb5a6fd", 
+                            "content": "C/C++确实一般效率更高一些，但我不是这个意思。我是说在这个特定需求中，因为C/C++可以方便地用指针操作单个字符，而且C风格的char类型本质上是数值，可以直接加减，可以为这个特定应用带来巨大的方便。", 
+                            "likes": 0, 
+                            "replyToAuthor": "有心人"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "陈翰杰", 
+                    "userLink": "https://www.zhihu.com/people/4f1a3ca87883ee4112781f182280dc09", 
+                    "content": "RyUaRbTbIbSsIrLwSwBR~ObOyUyEbDxM~SdEsI~MsEbSaRuEbHyFbIbTwFdSyEtFyWxSzTxTcNsE<br>有偿破解两层加密的密文", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "有心人", 
+                            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+                            "content": "‘ ~ ’和空格的作用是什么？", 
+                            "likes": 0, 
+                            "replyToAuthor": "陈翰杰"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Serena Yu", 
+                    "userLink": "https://www.zhihu.com/people/d424837bffd7fd4ae461c88a4fb5a6fd", 
+                    "content": "<p>python题主已经写了，我就不重复了。早晨起来用C随便写了段(评论文本不能缩进). main()的输入输出略。<br>void encrypt(char* input, const char key[])<br>{<br> int size = strlen(input), i = 0, j = 0;<br> while (i &lt; size)<br> {<br>  if (j = 10)<br>   j = 0;<br>  input[i] = input[i] + key[j];<br>  i++; j++;<br> }<br>}<br>void decrypt(char* input, const char key[])<br>{<br> int size = strlen(input), i = 0, j = 0;<br> while (i &lt; size)<br> {<br>  if (j = 10)<br>   j = 0;<br>  input[i] = input[i] - key[j];<br>  i++; j++;<br> }<br>}</p><p><br>运行: <br>Input your text:<br>The dog is smarter than the cat.<br>Input your 10-character key:<br>F#$ $W4wrfw%h<br>Encrypted text is:<br>毊玣璮f钩Ц韩竑寒Тf寒玣┃簍<br>Decrypted text is:<br>The dog is smarter than the cat.</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "有心人", 
+                            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+                            "content": "点赞", 
+                            "likes": 0, 
+                            "replyToAuthor": "Serena Yu"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "烛伊", 
+                    "userLink": "https://www.zhihu.com/people/d6588bc45b933fb39e45ebdd7d6def15", 
+                    "content": "不知道楼主是否知道百度密码吧？？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "有心人", 
+                            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+                            "content": "刚百度了下，有好多古典密码的介绍，挺好", 
+                            "likes": 0, 
+                            "replyToAuthor": "烛伊"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25157493", 
+            "userName": "有心人", 
+            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+            "upvote": 141, 
+            "title": "（一）Python密码学之旅---01古典密码之初识", 
+            "content": "<p>一提起“密码”这个词，大家总是觉得它蒙着一层神秘的面纱，给人的感觉总是神乎其神。其实不尽然，密码学源于我们的生活，反过来服务于我们，现在每个人都在使用着密码学的服务。从知乎、QQ等的验证登录，到支付宝的安全支付，再到最近火热的比特币和区块链技术，都离不开密码的支持。笔者想通过一系列的Python密码学教程，使大家正确认识密码学，理解密码基本概念，并能正确将密码学应用于实践之中。</p><p>本节将介绍密码学的基本概念和发展历程，以古典密码为例，了解密码学的基本加密方法。</p><h2>一、密码学简介</h2><p>密码学是一门非常古老的学科，是把人们能够读懂的消息变换成不易读懂的信息用来隐藏信息内容，使得窃听者无法理解消息的内容，同时又能够让合法用户把变换的结果还原成能够读懂的消息。</p><p>密码学的发展经历了3个阶段：（1）古典密码。这个时期的密码应该被称之为艺术，而不是科学，是古代人民智慧的结晶，典型的密码有阴符、藏头诗、石蜡密信、反切密码（明代戚继光）、凯撒密码和天书等。（2）近代密码。1949年，伟大科学家香农发表了著名的《保密系统的通信理论》和《通信的数学理论》两篇文章，使得密码学从此由艺术走上了科学的道路，成为一门学科。（3）现代密码学。1976年，美国国家标准局公布了数据加密标准（DES），这一对称密码标准在世界上广泛流传和应用；同年，密码学家、图灵奖获得者Diffie和Hellman（2016年图灵奖）发表了《密码学的新方向》，开创了公钥密码学的新纪元。 </p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-1dcccfc555553941a8950e6e3da49899_b.png\" data-rawwidth=\"573\" data-rawheight=\"349\" class=\"origin_image zh-lightbox-thumb\" width=\"573\" data-original=\"https://pic2.zhimg.com/v2-1dcccfc555553941a8950e6e3da49899_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;573&#39; height=&#39;349&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"573\" data-rawheight=\"349\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"573\" data-original=\"https://pic2.zhimg.com/v2-1dcccfc555553941a8950e6e3da49899_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1dcccfc555553941a8950e6e3da49899_b.png\"/></figure><br/><h2>二、古典密码</h2><p>作为密码学的最开始发展阶段，虽然并未形成体系，但有了近现代密码的雏形，体现了密码学的加密思想。</p><p>两种基本的加密思想为：（1）代替(substitution)/替换，即明文字符被其他字符所替换，典型的密码为凯撒密码。（2）置乱（permutation）/置换，即打乱明文字符的顺序，典型的密码有天书、栅栏密码、矩阵密码等。</p><p>下面介绍最为经典的两种古典密码，即凯撒密码和栅栏密码，并使用Python进行实现。</p><p><b>2.1 凯撒密码</b><br/></p><p>该密码以被古罗马皇帝凯撒使用而闻名，用于和将军们进行联系。它通常被作为其他更复杂的加密方法中的一个步骤，例如维吉尼亚密码。但是和所有的利用字母表进行替换的加密技术一样，恺撒密码非常容易被破解，而且在实际应用中也无法保证通信安全。</p><p>其基本思想是：通过把字母移动一定的位数来实现加密和解密。例如，密匙是把明文字母的位数向后移动三位，那么明文字母B就变成了密文的E,依次类推，X将变成A，Y变成B，Z变成C。</p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-50e35707a39ba3c33777ac4ed15e579a_b.png\" data-rawwidth=\"400\" data-rawheight=\"169\" class=\"content_image\" width=\"400\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;400&#39; height=&#39;169&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"400\" data-rawheight=\"169\" class=\"content_image lazy\" width=\"400\" data-actualsrc=\"https://pic3.zhimg.com/v2-50e35707a39ba3c33777ac4ed15e579a_b.png\"/></figure><br/><p>实现代码为：</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"c1\">#字符表</span>\n<span class=\"n\">mstr</span><span class=\"o\">=</span><span class=\"s1\">&#39;abcdefghijklmnopqrstuvwxyz&#39;</span>\n<span class=\"c1\">#字符表长度</span>\n<span class=\"n\">lengthM</span><span class=\"o\">=</span><span class=\"nb\">len</span><span class=\"p\">(</span><span class=\"n\">mstr</span><span class=\"p\">)</span>\n\n<span class=\"c1\">#strs为输入的明文，shitf为移动的位数</span>\n<span class=\"k\">def</span> <span class=\"nf\">caesar</span><span class=\"p\">(</span><span class=\"n\">strs</span><span class=\"p\">,</span><span class=\"n\">shift</span><span class=\"p\">):</span>\n    <span class=\"n\">newstrs</span> <span class=\"o\">=</span><span class=\"s1\">&#39;&#39;</span>\n    <span class=\"k\">for</span> <span class=\"n\">x</span> <span class=\"ow\">in</span> <span class=\"n\">strs</span><span class=\"p\">:</span>\n            <span class=\"c1\">#获取x字符在mstr中的位置</span>\n        <span class=\"n\">numX</span><span class=\"o\">=</span><span class=\"n\">mstr</span><span class=\"o\">.</span><span class=\"n\">index</span><span class=\"p\">(</span><span class=\"n\">x</span><span class=\"p\">)</span>\n        \n            <span class=\"c1\">#新的字符位置加上shift</span>\n        <span class=\"n\">numX</span><span class=\"o\">=</span><span class=\"p\">(</span><span class=\"n\">numX</span><span class=\"o\">+</span><span class=\"n\">shift</span><span class=\"p\">)</span><span class=\"o\">%</span><span class=\"n\">lengthM</span>\n        \n        <span class=\"n\">newstrs</span><span class=\"o\">=</span><span class=\"n\">newstrs</span><span class=\"o\">+</span><span class=\"n\">mstr</span><span class=\"p\">[</span><span class=\"n\">numX</span><span class=\"p\">]</span>\n     \n    <span class=\"k\">return</span> <span class=\"n\">newstrs</span>\n\n<span class=\"k\">if</span> <span class=\"vm\">__name__</span> <span class=\"o\">==</span> <span class=\"s1\">&#39;__main__&#39;</span><span class=\"p\">:</span>\n    <span class=\"n\">strs</span> <span class=\"o\">=</span> <span class=\"nb\">raw_input</span><span class=\"p\">(</span><span class=\"s2\">&#34;Enter character sequence:&#34;</span><span class=\"p\">)</span>\n    <span class=\"n\">shift</span> <span class=\"o\">=</span> <span class=\"nb\">input</span><span class=\"p\">(</span><span class=\"s2\">&#34;Shift Numbers:&#34;</span><span class=\"p\">)</span>\n    <span class=\"n\">C</span><span class=\"o\">=</span><span class=\"n\">caesar</span><span class=\"p\">(</span><span class=\"n\">strs</span><span class=\"p\">,</span><span class=\"n\">shift</span><span class=\"p\">)</span>\n    <span class=\"k\">print</span><span class=\"p\">(</span><span class=\"s2\">&#34;CiperText:&#34;</span><span class=\"p\">,</span><span class=\"n\">C</span><span class=\"p\">)</span>\n    <span class=\"k\">print</span><span class=\"p\">(</span><span class=\"s2\">&#34;PlainText:&#34;</span><span class=\"p\">,</span><span class=\"n\">caesar</span><span class=\"p\">(</span><span class=\"n\">C</span><span class=\"p\">,</span><span class=\"nb\">int</span><span class=\"p\">(</span><span class=\"n\">shift</span><span class=\"p\">)</span><span class=\"o\">*</span><span class=\"p\">(</span><span class=\"o\">-</span><span class=\"mi\">1</span><span class=\"p\">)))</span>\n\n</code></pre></div><p>运行结果为：</p><div class=\"highlight\"><pre><code class=\"language-text\">&gt;&gt;Enter character sequence:abcde\n&gt;&gt;Shift Numbers:3\n(&#39;CiperText:&#39;, &#39;defgh&#39;)\n(&#39;PlainText:&#39;, &#39;abcde&#39;)\n</code></pre></div><br/><p>2.2 栅栏密码<br/></p><p>该密码的思想是“按列写入，按行读出”，就是把要加密的明文分成N个一组，然后把每组的第1个字连起来，形成一段无规律的话。</p><p>例如：用深度为2的栅栏技术加密明文“meet me after the party”</p><p>       \n可写为<figure><noscript><img src=\"https://pic4.zhimg.com/v2-9ae057e796b3533627292fe2148809df_b.png\" data-rawwidth=\"314\" data-rawheight=\"96\" class=\"content_image\" width=\"314\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;314&#39; height=&#39;96&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"314\" data-rawheight=\"96\" class=\"content_image lazy\" width=\"314\" data-actualsrc=\"https://pic4.zhimg.com/v2-9ae057e796b3533627292fe2148809df_b.png\"/></figure></p><br/><p> 那么按行读出，密文为“mematrhtpryetefeteat”<br/></p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"k\">def</span> <span class=\"nf\">encrypt</span><span class=\"p\">(</span><span class=\"n\">pT</span><span class=\"p\">,</span><span class=\"n\">key</span><span class=\"p\">):</span>\n    <span class=\"c1\">#一维key列的字符串数组</span>\n    <span class=\"n\">array</span><span class=\"o\">=</span><span class=\"p\">[</span><span class=\"s2\">&#34;&#34;</span><span class=\"p\">]</span><span class=\"o\">*</span><span class=\"n\">key</span>\n    \n   <span class=\"c1\">#将明文pT，按列写入array中</span>\n    <span class=\"k\">for</span> <span class=\"n\">x</span> <span class=\"ow\">in</span> <span class=\"nb\">range</span><span class=\"p\">(</span><span class=\"mi\">0</span><span class=\"p\">,</span><span class=\"nb\">len</span><span class=\"p\">(</span><span class=\"n\">pT</span><span class=\"p\">)):</span>\n        <span class=\"n\">row</span><span class=\"o\">=</span><span class=\"n\">x</span><span class=\"o\">%</span><span class=\"n\">key</span>\n        <span class=\"n\">array</span><span class=\"p\">[</span><span class=\"n\">row</span><span class=\"p\">]</span><span class=\"o\">+=</span><span class=\"n\">pT</span><span class=\"p\">[</span><span class=\"n\">x</span><span class=\"p\">]</span>\n        <span class=\"k\">print</span> <span class=\"n\">array</span>\n    \n    <span class=\"c1\">#cp即为密文，将array按行读出    </span>\n    <span class=\"n\">cp</span><span class=\"o\">=</span><span class=\"s2\">&#34;&#34;</span>    \n    <span class=\"k\">for</span> <span class=\"n\">x</span> <span class=\"ow\">in</span> <span class=\"n\">array</span><span class=\"p\">:</span>\n        <span class=\"n\">cp</span><span class=\"o\">+=</span><span class=\"n\">x</span>\n   \n    <span class=\"k\">return</span> <span class=\"n\">cp</span>\n\n\n<span class=\"k\">if</span> <span class=\"vm\">__name__</span> <span class=\"o\">==</span> <span class=\"s1\">&#39;__main__&#39;</span><span class=\"p\">:</span>\n    <span class=\"c1\">#明文    </span>\n    <span class=\"n\">plainTxt</span><span class=\"o\">=</span><span class=\"s2\">&#34;meetmeaftertheparty&#34;</span> \n    <span class=\"c1\">#栅栏设置为2栏</span>\n    <span class=\"n\">key</span><span class=\"o\">=</span><span class=\"mi\">2</span>\n    <span class=\"c1\">#对明文加密，并输入密文</span>\n    <span class=\"n\">cipherTxt</span><span class=\"o\">=</span><span class=\"n\">encrypt</span><span class=\"p\">(</span><span class=\"n\">plainTxt</span><span class=\"p\">,</span><span class=\"n\">key</span><span class=\"p\">)</span>\n    <span class=\"k\">print</span> <span class=\"n\">cipherTxt</span>\n</code></pre></div><h2>三、总结</h2><p>本节介绍了密码学的基本概念和发展历程，接着讲解了古典密码中的凯撒密码和栅栏密码，并使用Python实现。</p><p><b>请大家在阅读后，使用Python自行编写出栅栏密码的解密算法。</b></p><p><b>参考文献：</b></p><ol><li>彭长根.现代密码学趣味之旅.金城出版社.2015<br/></li><li>AI Sweigart. Python密码学编程.人民邮电出版社.2016</li><li>郑东, 赵庆兰, 张应辉. 密码学综述[J]. 西安邮电大学学报, 2013, 18(6): 1-10.</li></ol>", 
+            "topic": [
+                {
+                    "tag": "密码学", 
+                    "tagLink": "https://api.zhihu.com/topics/19621679"
+                }, 
+                {
+                    "tag": "信息安全和密码学", 
+                    "tagLink": "https://api.zhihu.com/topics/19827596"
+                }, 
+                {
+                    "tag": "Python", 
+                    "tagLink": "https://api.zhihu.com/topics/19552832"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "阿橙", 
+                    "userLink": "https://www.zhihu.com/people/9826f79b7d26d8d015245dd394e83f3e", 
+                    "content": "支持一下！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "有心人", 
+                            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+                            "content": "谢谢", 
+                            "likes": 0, 
+                            "replyToAuthor": "阿橙"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "轻度面瘫", 
+                    "userLink": "https://www.zhihu.com/people/23ad60401f13b2c1cf0d4ebd0780fee1", 
+                    "content": "相关硕士在读，顶一个！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "有心人", 
+                            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+                            "content": "多多交流", 
+                            "likes": 0, 
+                            "replyToAuthor": "轻度面瘫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "刘五奎", 
+                    "userLink": "https://www.zhihu.com/people/84b2f0a079e3d60031d407054e8a622b", 
+                    "content": "里面%那里是取余吗？为啥是这样", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "ReAl", 
+                            "userLink": "https://www.zhihu.com/people/53e0cf0e05cc4bc22bcc472328caf862", 
+                            "content": "取余是为了当ASCII码大于z时重新跳回a", 
+                            "likes": 0, 
+                            "replyToAuthor": "刘五奎"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "DoSun", 
+                    "userLink": "https://www.zhihu.com/people/b1f4c2dc15f0dee3df134f9ee23aac25", 
+                    "content": "密码学新人 十分期待接下来的内容~", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "鬼子", 
+                    "userLink": "https://www.zhihu.com/people/2de3bb181ce61f1a012676c3f6478db0", 
+                    "content": "支持", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "非常好，期待密码系列~", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "Python密码学编程 里面就有答案 不过这本书真的讲古典密码多一些", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "有心人", 
+                            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+                            "content": "恩，是的。这本书还是不错的。以后我打算把对称密码和公钥密码的经典算法，以及双线应对公钥密码算法编程介绍下", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "李佳骏", 
+                    "userLink": "https://www.zhihu.com/people/a724fcd24ed95e6bc514f2ba5ac146fb", 
+                    "content": "好文，支持！", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "刘巍然-学酥", 
+                    "userLink": "https://www.zhihu.com/people/d543743c88797978a0a8c453f8768974", 
+                    "content": "来支持一下", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "有心人", 
+                            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+                            "content": "谢谢大牛的支持", 
+                            "likes": 0, 
+                            "replyToAuthor": "刘巍然-学酥"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "挺有意思，希望可以坚持下去", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "石头", 
+                    "userLink": "https://www.zhihu.com/people/83b79e2781e16a7a23eafd78b0fe9b56", 
+                    "content": "莫名奇妙的就总结了。。冒的味啊~作者快更新", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "有心人", 
+                            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+                            "content": "<a href=\"https://zhuanlan.zhihu.com/p/25191040\" class=\"internal\"><span class=\"invisible\">https://</span><span class=\"visible\">zhuanlan.zhihu.com/p/25</span><span class=\"invisible\">191040</span><span class=\"ellipsis\"></span></a> 小更了一个", 
+                            "likes": 0, 
+                            "replyToAuthor": "石头"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Joting", 
+                    "userLink": "https://www.zhihu.com/people/4e96b228ce6982348ea676abc43be85c", 
+                    "content": "正在学习Python中，感谢作者。尝试写了下解密的方法，欢迎交流学习。<a href=\"http://link.zhihu.com/?target=https%3A//github.com/JotingYou/secure\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">JotingYou/secure</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "童真初识绮罗香", 
+                    "userLink": "https://www.zhihu.com/people/edde284efd2a24662afeaf55056cbaef", 
+                    "content": "本科学了密码学这门课，不过都停留在计算。目前正自学Python顺便准备下个月的复试。打算选个这方面的导师?", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "有心人", 
+                            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+                            "content": "密码学吗？", 
+                            "likes": 0, 
+                            "replyToAuthor": "童真初识绮罗香"
+                        }, 
+                        {
+                            "userName": "童真初识绮罗香", 
+                            "userLink": "https://www.zhihu.com/people/edde284efd2a24662afeaf55056cbaef", 
+                            "content": "密码学与网络安全方面的。<br>彭长根那本书用来入门还是很不错的，很有意思。🙄", 
+                            "likes": 0, 
+                            "replyToAuthor": "有心人"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/48463531", 
+            "userName": "有心人", 
+            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+            "upvote": 12, 
+            "title": "Python 抓取微博小蛮腰", 
+            "content": "<p>最近微博很火的知名时尚博主colouration，举办了多个比赛，如大长腿、美臀、锁骨、小蛮腰等比赛。各妹子纷纷参加，看得我眼花缭乱。可是由于尺度问题，大长腿、美臀、锁骨等比赛的图片被博主删除了。看到有小蛮腰比赛，本人就试着下载下来，于是编程来实现吧。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一、主要问题及思路</b>：</p><p>1、模拟登录新浪微博</p><p>登录新浪微博不太容易，如果自己写模拟登录的代码，需要花一番功夫。还好有selenium，本人本着偷懒的原则，果断选择，简单轻松地实现登录。</p><p>selenium是一个用于Web应用程序测试的工具，能直接运行在浏览器中,就像真正的用户在操作一样。</p><p>安装介绍见<a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/qq_29186489/article/details/78581249\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Python爬虫环境常用库安装 - 天涯笨熊的博客 - CSDN博客</a>；使用介绍见<a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/qq_29186489/article/details/78661008\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">selenium用法详解 - 天涯笨熊的博客 - CSDN博客</a>。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>2、找到待抓取的微博，不断抓取其评论图片。</p><p>过程：（1）获取评论第一页内的图片链接，并下载</p><p>          （2）找到下一页地址</p><p>          （3）获取该页内的图片链接，并下载，转到（2）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二、主要做法</b>：</p><p>1、登录微博</p><div class=\"highlight\"><pre><code class=\"language-text\">def login(self,url):\n        #打开登录网页\n        self.browser.get(url)    \n        time.sleep(2)\n        #找到登录用户名编辑框\n        user=self.browser.find_element_by_id(&#34;loginName&#34;)\n        #找到登录口令编辑框\n        pwd=self.browser.find_element_by_id(&#34;loginPassword&#34;)\n\n        #输入用户名和口令\n        user.send_keys(&#34;xxxx@xxx.com&#34;)\n        pwd.send_keys(&#34;xxxxx&#34;)\n\n        #找到登录确认按钮\n        submit_btn=self.browser.find_element_by_id(&#34;loginAction&#34;)\n        submit_btn.click()\n        #如遇到验证码，请手工输入\n        print(&#34;Pleare input Codes&#34;)\n        time.sleep(10)</code></pre></div><p>这里选择的登录页是”    url=&#34;<a href=\"https://link.zhihu.com/?target=https%3A//passport.weibo.cn/signin/login%3Fentry%3Dmweibo%26r%3Dhttps%253A%252F%252Fweibo.cn%252F%26backTitle%3D%25CE%25A2%25B2%25A9%26vt%3D\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">登录 - 新浪微博</a>&#34;，手机网页登录页比较适合抓取吧。</p><p>2.抓取页面内的图片链接</p><div class=\"highlight\"><pre><code class=\"language-text\">    #获取页面内的所有图片链接\n    def getPicUrlsFromPage(self,initurl):\n        self.browser.get(initurl)\n        \n        #经查看图片元素，发现图片链接在类名ctt内。该函数找到ctt名类的所有\n        comments=self.browser.find_elements_by_class_name(&#34;ctt&#34;)\n        picUrls=[]\n        #获取图片链接\n        for x in comments:\n            pic_temp=x.text.split(&#34; &#34;)[-1]\n            if(&#34;http&#34; in pic_temp):\n                picUrls.append(pic_temp)\n    \n        #下一页地址\n        nextPageUrl=&#34;&#34;\n        try:\n            nextPage=self.browser.find_element_by_xpath(&#34;//a[text()=&#39;下页&#39;]&#34;)\n            nextPageUrl=nextPage.get_property(&#39;href&#39;)\n        except :\n                print(&#34;There is no pages moer!&#34;)\n\n           \n        return picUrls,nextPageUrl</code></pre></div><p>3.下载图片</p><p>上步获取的图片链接都是短地址的，我们也得访问该短地址，再在页面中获取图片的真正地址。由于selenium未提供图片下载函数，我们使用了urllib.request.urlretrieve来下载图片。</p><div class=\"highlight\"><pre><code class=\"language-text\">def getPic(self,url):\n        #打开图片短地址\n        self.browser.get(url)\n        try:\n            #获取图片的真正地址\n            img=self.browser.find_element_by_xpath(&#34;//img&#34;).get_property(&#39;src&#39;)\n            print(&#34;We are downloading &#34;+img)\n            #print(&#34;Download the&#34; +num +&#34; pics&#34;)\n            print(self.num)\n            #下载该图片，并为它命名\n            urllib.request.urlretrieve(img, &#39;%s.jpg&#39; %self.num)\n            self.num=self.num+1\n            time.sleep(random.randint(3,6))\n        \n        except:\n        \n            print(&#34;there is a error, need to re-login&#34;)\n            time.sleep(15)\n            return 1\n        return 0</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p><b>三、效果及不足</b></p><p><b>程序效果差强人意吧，基本可以下载小蛮腰的全部图片，如下图所示。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a5cc970901d666b26cd7e9cdcc4b43c5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1683\" data-rawheight=\"683\" class=\"origin_image zh-lightbox-thumb\" width=\"1683\" data-original=\"https://pic2.zhimg.com/v2-a5cc970901d666b26cd7e9cdcc4b43c5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1683&#39; height=&#39;683&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1683\" data-rawheight=\"683\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1683\" data-original=\"https://pic2.zhimg.com/v2-a5cc970901d666b26cd7e9cdcc4b43c5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a5cc970901d666b26cd7e9cdcc4b43c5_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>存在的问题还是比较多：1、新浪防爬虫比较严格，很多短地址图片后期无法打开；一般抓取500个图片，程序会中断1-2次；2、没有去重，由于新浪微博评论是动态更新的，我使用翻页的方式来迭代，从而下载图片。这会出现图片同时出现在两个评论页，下载的图片会重复，不过量很小；3、没有用多线程，程序运行比较慢。</p><p>程序还是有很多问题的，算是抛砖引玉吧，请保函。</p><p>完整代码请见<a href=\"https://link.zhihu.com/?target=https%3A//github.com/sumguang/weiboPics\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">sumguang/weiboPics</a>。</p><p>如需要下载图片，可以私信我。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><br/> </p>", 
+            "topic": [
+                {
+                    "tag": "python爬虫", 
+                    "tagLink": "https://api.zhihu.com/topics/20086364"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25278582", 
+            "userName": "有心人", 
+            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+            "upvote": 10, 
+            "title": "（02）Python密码库Cryptography探究学习---深入理解Fernet", 
+            "content": "本节对Fernet进行深入介绍，使读者能够理解cryptographic recipes的含义，能在实践中正确使用密码学的相关算法。<p>Fernet不仅仅是个对称密码算法，它是密码学原语的集合应用，主要有3个特点：（1）使用了符合密码安全的随机数密钥。（2）提供了加密功能：使用了128位密钥的AES加密算法，对数据 <a class=\" wrap external\" href=\"https://link.zhihu.com/?target=https%3A//cryptography.io/en/latest/hazmat/primitives/padding/%23cryptography.hazmat.primitives.padding.PKCS7\" target=\"_blank\" rel=\"nofollow noreferrer\">PKCS7</a> 填充后，以AES-CBC模式进行加密。（3）提供了认证的功能，采用Sha256的哈希函数，产生消息认证码（HMAC）。</p><p>大家先通过<a href=\"https://link.zhihu.com/?target=https%3A//github.com/pyca/cryptography/blob/master/src/cryptography/fernet.py\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/pyca/cryptog</span><span class=\"invisible\">raphy/blob/master/src/cryptography/fernet.py</span><span class=\"ellipsis\"></span></a>，结合源代码，看看下面的详细介绍：</p><p><b>一、使用了密码安全的随机数密钥</b><br/></p><p>对于密码算法而言，密钥应该是符合密码学安全的随机数。只有这样才能保证密码算法的安全性，否则容易遭受攻击。在很多应用中，密钥并不随机，不能符合密码学的要求，存在着漏洞。</p><p>那么如何得到真正的随机数呢？真正的随机数是通过物理过程得到的，比如抛硬币、掷骰子，布朗运动，量子效应，放射性衰变，振荡器采样等。</p><p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-b5514cddbc3dead413d069ee8334684b_b.png\" data-rawwidth=\"277\" data-rawheight=\"184\" class=\"content_image\" width=\"277\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;277&#39; height=&#39;184&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"277\" data-rawheight=\"184\" class=\"content_image lazy\" width=\"277\" data-actualsrc=\"https://pic4.zhimg.com/v2-b5514cddbc3dead413d069ee8334684b_b.png\"/></figure>通过计算法的方式得到真正的随机数，是几乎不可能的。冯.诺依曼说过：“任何人考虑用数学的方法产生随机数肯定是不合情理的”。一般而言，大家经常用到的随机数生成函数，并不能真正的产生随机数，也不能用在密码学算法中，比如C语言中的rand（）函数，它通过如下的函数计算而来。</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-5575a50d06f06c85cff4ca258a505ca8_b.png\" data-rawwidth=\"550\" data-rawheight=\"96\" class=\"origin_image zh-lightbox-thumb\" width=\"550\" data-original=\"https://pic1.zhimg.com/v2-5575a50d06f06c85cff4ca258a505ca8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;550&#39; height=&#39;96&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"550\" data-rawheight=\"96\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"550\" data-original=\"https://pic1.zhimg.com/v2-5575a50d06f06c85cff4ca258a505ca8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-5575a50d06f06c85cff4ca258a505ca8_b.png\"/></figure><p>能密码算法中使用的随机数，如何产生呢？建议采用操作系统中的随机数产生器来产生，在Unix操作系统中使用 /dev/urandom，而在Windows操作系统中使用CryptGenRandom 生成。由于我们使用Python语言，只需要使用如下的方法，即</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"o\">&gt;&gt;&gt;</span> <span class=\"kn\">import</span> <span class=\"nn\">os</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"n\">salt</span> <span class=\"o\">=</span> <span class=\"n\">os</span><span class=\"o\">.</span><span class=\"n\">urandom</span><span class=\"p\">(</span><span class=\"mi\">32</span><span class=\"p\">)</span></code></pre></div><p>我们通过<a href=\"https://link.zhihu.com/?target=https%3A//docs.python.org/2/library/os.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">15.1. os - Miscellaneous operating system interfaces - Python 2.7.13 documentation</a>，来查看os.urandom(<em>n</em>)的说明。</p><blockquote>Return a string of <em>n</em> random bytes suitable for cryptographic use.<br/>This function returns random bytes from an OS-specific randomness source. The returned data should be unpredictable enough for cryptographic applications, though its exact quality depends on the OS implementation. </blockquote><p>使用Fernet时，有两种方式产生密钥：</p><p>（1）让Fernet直接产生</p><p>这种方法调用key = Fernet.generate_key()。</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"k\">def</span> <span class=\"nf\">generate_key</span><span class=\"p\">(</span><span class=\"bp\">cls</span><span class=\"p\">):</span>\n\n        <span class=\"k\">return</span> <span class=\"n\">base64</span><span class=\"o\">.</span><span class=\"n\">urlsafe_b64encode</span><span class=\"p\">(</span><span class=\"n\">os</span><span class=\"o\">.</span><span class=\"n\">urandom</span><span class=\"p\">(</span><span class=\"mi\">32</span><span class=\"p\">))</span></code></pre></div><p>通过os.urandom(32)产生符合密码学要求的随机数，而后进行base64编码。</p><p>（2）自己设定一个密码</p><p>如下是个例子：</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"o\">&gt;&gt;&gt;</span> <span class=\"kn\">import</span> <span class=\"nn\">base64</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"kn\">import</span> <span class=\"nn\">os</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"kn\">from</span> <span class=\"nn\">cryptography.fernet</span> <span class=\"kn\">import</span> <span class=\"n\">Fernet</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"kn\">from</span> <span class=\"nn\">cryptography.hazmat.backends</span> <span class=\"kn\">import</span> <span class=\"n\">default_backend</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"kn\">from</span> <span class=\"nn\">cryptography.hazmat.primitives</span> <span class=\"kn\">import</span> <span class=\"n\">hashes</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"kn\">from</span> <span class=\"nn\">cryptography.hazmat.primitives.kdf.pbkdf2</span> <span class=\"kn\">import</span> <span class=\"n\">PBKDF2HMAC</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"n\">password</span> <span class=\"o\">=</span> <span class=\"sa\">b</span><span class=\"s2\">&#34;password&#34;</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"n\">salt</span> <span class=\"o\">=</span> <span class=\"n\">os</span><span class=\"o\">.</span><span class=\"n\">urandom</span><span class=\"p\">(</span><span class=\"mi\">16</span><span class=\"p\">)</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"n\">kdf</span> <span class=\"o\">=</span> <span class=\"n\">PBKDF2HMAC</span><span class=\"p\">(</span>\n<span class=\"o\">...</span>     <span class=\"n\">algorithm</span><span class=\"o\">=</span><span class=\"n\">hashes</span><span class=\"o\">.</span><span class=\"n\">SHA256</span><span class=\"p\">(),</span>\n<span class=\"o\">...</span>     <span class=\"n\">length</span><span class=\"o\">=</span><span class=\"mi\">32</span><span class=\"p\">,</span>\n<span class=\"o\">...</span>     <span class=\"n\">salt</span><span class=\"o\">=</span><span class=\"n\">salt</span><span class=\"p\">,</span>\n<span class=\"o\">...</span>     <span class=\"n\">iterations</span><span class=\"o\">=</span><span class=\"mi\">100000</span><span class=\"p\">,</span>\n<span class=\"o\">...</span>     <span class=\"n\">backend</span><span class=\"o\">=</span><span class=\"n\">default_backend</span><span class=\"p\">()</span>\n<span class=\"o\">...</span> <span class=\"p\">)</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"n\">key</span> <span class=\"o\">=</span> <span class=\"n\">base64</span><span class=\"o\">.</span><span class=\"n\">urlsafe_b64encode</span><span class=\"p\">(</span><span class=\"n\">kdf</span><span class=\"o\">.</span><span class=\"n\">derive</span><span class=\"p\">(</span><span class=\"n\">password</span><span class=\"p\">))</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"n\">f</span> <span class=\"o\">=</span> <span class=\"n\">Fernet</span><span class=\"p\">(</span><span class=\"n\">key</span><span class=\"p\">)</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"n\">token</span> <span class=\"o\">=</span> <span class=\"n\">f</span><span class=\"o\">.</span><span class=\"n\">encrypt</span><span class=\"p\">(</span><span class=\"sa\">b</span><span class=\"s2\">&#34;Secret message!&#34;</span><span class=\"p\">)</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"n\">token</span>\n<span class=\"s1\">&#39;...&#39;</span>\n<span class=\"o\">&gt;&gt;&gt;</span> <span class=\"n\">f</span><span class=\"o\">.</span><span class=\"n\">decrypt</span><span class=\"p\">(</span><span class=\"n\">token</span><span class=\"p\">)</span>\n<span class=\"s1\">&#39;Secret message!</span><span class=\"err\">\n</span></code></pre></div><p>设定一个password，接着使用PBKDF2HMAC。它是个密钥推导函数，通过多次对salt进行hash运算从而产生密钥。该方法被美国政府标准化，并得到广泛采用。以后有时间再进行更加详细的介绍。</p><p>通过密钥推导函数，输出32位随机数，使用key = base64.urlsafe_b64encode(kdf.derive(password))产生Fernet使用的密钥。</p><p><b>二、加密和认证功能</b><br/></p><p>这两个功能主要通过 encrypt和_encrypt_from_parts函数实现。</p><div class=\"highlight\"><pre><code class=\"language-python\">    <span class=\"k\">def</span> <span class=\"nf\">_encrypt_from_parts</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"p\">,</span> <span class=\"n\">data</span><span class=\"p\">,</span> <span class=\"n\">current_time</span><span class=\"p\">,</span> <span class=\"n\">iv</span><span class=\"p\">):</span>\n        <span class=\"k\">if</span> <span class=\"ow\">not</span> <span class=\"nb\">isinstance</span><span class=\"p\">(</span><span class=\"n\">data</span><span class=\"p\">,</span> <span class=\"nb\">bytes</span><span class=\"p\">):</span>\n            <span class=\"k\">raise</span> <span class=\"ne\">TypeError</span><span class=\"p\">(</span><span class=\"s2\">&#34;data must be bytes.&#34;</span><span class=\"p\">)</span>\n\n        <span class=\"n\">padder</span> <span class=\"o\">=</span> <span class=\"n\">padding</span><span class=\"o\">.</span><span class=\"n\">PKCS7</span><span class=\"p\">(</span><span class=\"n\">algorithms</span><span class=\"o\">.</span><span class=\"n\">AES</span><span class=\"o\">.</span><span class=\"n\">block_size</span><span class=\"p\">)</span><span class=\"o\">.</span><span class=\"n\">padder</span><span class=\"p\">()</span>\n        <span class=\"n\">padded_data</span> <span class=\"o\">=</span> <span class=\"n\">padder</span><span class=\"o\">.</span><span class=\"n\">update</span><span class=\"p\">(</span><span class=\"n\">data</span><span class=\"p\">)</span> <span class=\"o\">+</span> <span class=\"n\">padder</span><span class=\"o\">.</span><span class=\"n\">finalize</span><span class=\"p\">()</span>\n        <span class=\"n\">encryptor</span> <span class=\"o\">=</span> <span class=\"n\">Cipher</span><span class=\"p\">(</span>\n            <span class=\"n\">algorithms</span><span class=\"o\">.</span><span class=\"n\">AES</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">_encryption_key</span><span class=\"p\">),</span> <span class=\"n\">modes</span><span class=\"o\">.</span><span class=\"n\">CBC</span><span class=\"p\">(</span><span class=\"n\">iv</span><span class=\"p\">),</span> <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">_backend</span>\n        <span class=\"p\">)</span><span class=\"o\">.</span><span class=\"n\">encryptor</span><span class=\"p\">()</span>\n        <span class=\"n\">ciphertext</span> <span class=\"o\">=</span> <span class=\"n\">encryptor</span><span class=\"o\">.</span><span class=\"n\">update</span><span class=\"p\">(</span><span class=\"n\">padded_data</span><span class=\"p\">)</span> <span class=\"o\">+</span> <span class=\"n\">encryptor</span><span class=\"o\">.</span><span class=\"n\">finalize</span><span class=\"p\">()</span>\n\n        <span class=\"n\">basic_parts</span> <span class=\"o\">=</span> <span class=\"p\">(</span>\n            <span class=\"sa\">b</span><span class=\"s2\">&#34;</span><span class=\"se\">\\x80</span><span class=\"s2\">&#34;</span> <span class=\"o\">+</span> <span class=\"n\">struct</span><span class=\"o\">.</span><span class=\"n\">pack</span><span class=\"p\">(</span><span class=\"s2\">&#34;&gt;Q&#34;</span><span class=\"p\">,</span> <span class=\"n\">current_time</span><span class=\"p\">)</span> <span class=\"o\">+</span> <span class=\"n\">iv</span> <span class=\"o\">+</span> <span class=\"n\">ciphertext</span>\n        <span class=\"p\">)</span>\n\n        <span class=\"n\">h</span> <span class=\"o\">=</span> <span class=\"n\">HMAC</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">_signing_key</span><span class=\"p\">,</span> <span class=\"n\">hashes</span><span class=\"o\">.</span><span class=\"n\">SHA256</span><span class=\"p\">(),</span> <span class=\"n\">backend</span><span class=\"o\">=</span><span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">_backend</span><span class=\"p\">)</span>\n        <span class=\"n\">h</span><span class=\"o\">.</span><span class=\"n\">update</span><span class=\"p\">(</span><span class=\"n\">basic_parts</span><span class=\"p\">)</span>\n        <span class=\"n\">hmac</span> <span class=\"o\">=</span> <span class=\"n\">h</span><span class=\"o\">.</span><span class=\"n\">finalize</span><span class=\"p\">()</span>\n        <span class=\"k\">return</span> <span class=\"n\">base64</span><span class=\"o\">.</span><span class=\"n\">urlsafe_b64encode</span><span class=\"p\">(</span><span class=\"n\">basic_parts</span> <span class=\"o\">+</span> <span class=\"n\">hmac</span><span class=\"p\">)</span>\n\n</code></pre></div><br/><p>（1）数据填充</p><div class=\"highlight\"><pre><code class=\"language-python\"> <span class=\"o\">......</span>\n   <span class=\"n\">padder</span> <span class=\"o\">=</span> <span class=\"n\">padding</span><span class=\"o\">.</span><span class=\"n\">PKCS7</span><span class=\"p\">(</span><span class=\"n\">algorithms</span><span class=\"o\">.</span><span class=\"n\">AES</span><span class=\"o\">.</span><span class=\"n\">block_size</span><span class=\"p\">)</span><span class=\"o\">.</span><span class=\"n\">padder</span><span class=\"p\">()</span>\n            <span class=\"n\">padded_data</span> <span class=\"o\">=</span> <span class=\"n\">padder</span><span class=\"o\">.</span><span class=\"n\">update</span><span class=\"p\">(</span><span class=\"n\">data</span><span class=\"p\">)</span> <span class=\"o\">+</span> <span class=\"n\">padder</span><span class=\"o\">.</span><span class=\"n\">finalize</span><span class=\"p\">()</span>\n<span class=\"o\">......</span>\n</code></pre></div><p>它使用Cryptography提供的padding函数，对明文数据进行填充。</p><br/>明文消息的长度是随机的，按128比特分组时，最后一组消息长度可能不足128比特。此时要填充一些数字凑够128比特。为了让接收者能区分正确消息与填充的无用数字，需要加上指示信息。通常数据尾部、填充字符和填充指示符作为一组明文进行加密。\n <br/><p>（2）使用了AES-CBC模式进行加密</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"o\">......</span>\n        <span class=\"n\">encryptor</span> <span class=\"o\">=</span> <span class=\"n\">Cipher</span><span class=\"p\">(</span>\n            <span class=\"n\">algorithms</span><span class=\"o\">.</span><span class=\"n\">AES</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">_encryption_key</span><span class=\"p\">),</span> <span class=\"n\">modes</span><span class=\"o\">.</span><span class=\"n\">CBC</span><span class=\"p\">(</span><span class=\"n\">iv</span><span class=\"p\">),</span> <span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">_backend</span>\n        <span class=\"p\">)</span><span class=\"o\">.</span><span class=\"n\">encryptor</span><span class=\"p\">()</span>\n        <span class=\"n\">ciphertext</span> <span class=\"o\">=</span> <span class=\"n\">encryptor</span><span class=\"o\">.</span><span class=\"n\">update</span><span class=\"p\">(</span><span class=\"n\">padded_data</span><span class=\"p\">)</span> <span class=\"o\">+</span> <span class=\"n\">encryptor</span><span class=\"o\">.</span><span class=\"n\">finalize</span><span class=\"p\">()</span>\n<span class=\"o\">......</span></code></pre></div><p><figure><noscript><img src=\"https://pic3.zhimg.com/v2-97f58ac4fd10783f2761cffa8d787e66_b.png\" data-rawwidth=\"671\" data-rawheight=\"227\" class=\"origin_image zh-lightbox-thumb\" width=\"671\" data-original=\"https://pic3.zhimg.com/v2-97f58ac4fd10783f2761cffa8d787e66_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;671&#39; height=&#39;227&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"671\" data-rawheight=\"227\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"671\" data-original=\"https://pic3.zhimg.com/v2-97f58ac4fd10783f2761cffa8d787e66_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-97f58ac4fd10783f2761cffa8d787e66_b.png\"/></figure>在加密开始前，选择一个初始化向量IV，先于明文分组异或，再开始加密流程；加密每一分组后，该分组的密文与下一分组的明文异或，接着继续加密流程，并如此反复。初始化向量（IV）没有实际意义，在第一次计算时使用，当然在解密时同样需要IV。该模式不容易被主动攻击，适合传输长度长的报文，是SSL、IPSec的标准。</p><br/><p>（3）产生认证码</p><div class=\"highlight\"><pre><code class=\"language-python\">        <span class=\"n\">basic_parts</span> <span class=\"o\">=</span> <span class=\"p\">(</span>\n            <span class=\"sa\">b</span><span class=\"s2\">&#34;</span><span class=\"se\">\\x80</span><span class=\"s2\">&#34;</span> <span class=\"o\">+</span> <span class=\"n\">struct</span><span class=\"o\">.</span><span class=\"n\">pack</span><span class=\"p\">(</span><span class=\"s2\">&#34;&gt;Q&#34;</span><span class=\"p\">,</span> <span class=\"n\">current_time</span><span class=\"p\">)</span> <span class=\"o\">+</span> <span class=\"n\">iv</span> <span class=\"o\">+</span> <span class=\"n\">ciphertext</span>\n        <span class=\"p\">)</span>\n\n        <span class=\"n\">h</span> <span class=\"o\">=</span> <span class=\"n\">HMAC</span><span class=\"p\">(</span><span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">_signing_key</span><span class=\"p\">,</span> <span class=\"n\">hashes</span><span class=\"o\">.</span><span class=\"n\">SHA256</span><span class=\"p\">(),</span> <span class=\"n\">backend</span><span class=\"o\">=</span><span class=\"bp\">self</span><span class=\"o\">.</span><span class=\"n\">_backend</span><span class=\"p\">)</span>\n        <span class=\"n\">h</span><span class=\"o\">.</span><span class=\"n\">update</span><span class=\"p\">(</span><span class=\"n\">basic_parts</span><span class=\"p\">)</span>\n        <span class=\"n\">hmac</span> <span class=\"o\">=</span> <span class=\"n\">h</span><span class=\"o\">.</span><span class=\"n\">finalize</span><span class=\"p\">()</span>\n        <span class=\"k\">return</span> <span class=\"n\">base64</span><span class=\"o\">.</span><span class=\"n\">urlsafe_b64encode</span><span class=\"p\">(</span><span class=\"n\">basic_parts</span> <span class=\"o\">+</span> <span class=\"n\">hmac</span><span class=\"p\">)</span>\n\n</code></pre></div><p>basic_parts以“\\x80”开头，包含现有时间、IV和密文。接着使用SHA256（）哈希函数产生HMAC认证码。HMAC是使用hash算法构造的含有密钥散列函数算法，其中哈希算法采用了SHA256，密钥是self._signing_key（32位key中的前16位），产生固定长度的认证码，以防止密文在传输过程中被篡改。</p><p>最后将basic_parts和消息认证码hmac一同返回。</p><p><b>三、小结</b></p><p>本文对Fernet进行了深入的介绍，希望读者能够理解密码算法中使用的随机数是如何产生的，并理解对明文的加密，要有填充、加密的步骤，且为了防止密文传输过程中的篡改，要使用HMAC算法，从而对cryptographic recipes有更加深刻的认识。</p><br/><p>由于部分读者对一些密码学原语并不十分清楚，这里知道大概的含义即可，有时间我会进行更加详细的介绍。</p>", 
+            "topic": [
+                {
+                    "tag": "密码学", 
+                    "tagLink": "https://api.zhihu.com/topics/19621679"
+                }, 
+                {
+                    "tag": "信息安全和密码学", 
+                    "tagLink": "https://api.zhihu.com/topics/19827596"
+                }, 
+                {
+                    "tag": "Python", 
+                    "tagLink": "https://api.zhihu.com/topics/19552832"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25168804", 
+            "userName": "有心人", 
+            "userLink": "https://www.zhihu.com/people/b1c7bad540ae83c689f069f3f83055c0", 
+            "upvote": 32, 
+            "title": "（01）Python密码库Cryptography探究学习---简介和入门", 
+            "content": "<h2>一、简介</h2><p>Cryptography的目标是建立一个标准Python加密库，支持 Python\n2.6-2.7, Python 3.3+, and PyPy 2.6+。如果对密码学领域感兴趣的话，可以学习Crypto\n101（作者是 Laurens Van Houtven），链接为<a href=\"https://link.zhihu.com/?target=https%3A//www.crypto101.io/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Crypto 101</a>，这本教材很不错，适合初学者学习。<br/></p><br/><b>1.1 为什么建立一个新的Python密码库？ <br/></b><p>现有的Python密码库，如M2Crypto, PyCrypto, or PyOpenSSL，存在一些问题：<br/></p><ul><li> 缺少PyPy和Python 3支持<br/></li><li> 缺少维护<br/></li><li> 使用了差评的算法实现（例如旁路攻击side-channel attacks）<br/></li><li> 缺少高级（易于使用）的APIs</li><li>  缺少AES-GCM和HKDF等算法</li><li>经不住测试<br/></li><li>错误百出的APIs</li></ul><p><b>1.2 特性</b><br/></p><p>Cyptography密码库包括两个部分：cryptographic\nrecipes and primitives.这是本密码库非常有意思的地方，很多现有的其他密码库并没有这个特点。cryptographic recipes，直接翻译为密码学菜谱。其实个人也一时找不出合适的词语来解释。cryptographic primitives，即为密码学原语，也就是基本的密码概念，如加密、签名、Hash等算法。但是直接使用密码学原语容易出错，在实际应用中无法保证安全性。基于这一点，该库对密码学原语进行了安全集成，形成了更高层次的“密码学菜谱”。这么说吧，密码学原语像是做菜的原材料，对于初学者来说，虽然手里都有，但是不懂得如何去制作；如果有了“密码学菜谱”，初学者直接按照说明，制作菜肴就可以了。</p><p>看看原文中，作者怎么说吧：</p><blockquote>One with safe cryptographic recipes, “cryptography for humans” if you will. These are safe and easy to use and don’t require developers to make many decisions.<br/><br/><p>The other level is low-level cryptographic primitives. These are often dangerous and can be used incorrectly. They require making decisions and having an in-depth knowledge of the cryptographic concepts at work. Because of the potential danger in working at this level, this is referred to as the “hazardous materials” or “hazmat” layer. These live in the cryptography.hazmat package, and their documentation will always contain an admonition at the top.We recommend using the recipes layer whenever possible, and falling back to the hazmat layer only when necessary.</p></blockquote><p><b>1.3  安装</b><br/></p><p>使用Pip可以直接安装，即</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"err\">$</span> <span class=\"n\">pip</span> <span class=\"n\">install</span> <span class=\"n\">cryptography</span>\n</code></pre></div><p>当然使用anaconda也可以安装。<br/></p><h2> 二、例子</h2><p>Cryptography密码库实现了一个集成的对称密码函数，称之为Fernet。它可以保证信息无法被篡改和破解。</p><p><b>2.1 一个加解密的例子</b></p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"o\">&gt;&gt;&gt;</span><span class=\"kn\">from</span> <span class=\"nn\">cryptography.fernet</span> <span class=\"kn\">import</span> <span class=\"n\">Fernet</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">key</span> <span class=\"o\">=</span> <span class=\"n\">Fernet</span><span class=\"o\">.</span><span class=\"n\">generate_key</span><span class=\"p\">()</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">key</span>\n\n<span class=\"n\">Out</span><span class=\"p\">[</span><span class=\"mi\">3</span><span class=\"p\">]:</span> <span class=\"s1\">&#39;x10qxCPeNGhddcP5fASy5XB1JedmwXJeAF1gS-zeuvw=&#39;</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">f</span> <span class=\"o\">=</span> <span class=\"n\">Fernet</span><span class=\"p\">(</span><span class=\"n\">key</span><span class=\"p\">)</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">f</span>\n\n<span class=\"n\">Out</span><span class=\"p\">[</span><span class=\"mi\">6</span><span class=\"p\">]:</span> <span class=\"o\">&lt;</span><span class=\"n\">cryptography</span><span class=\"o\">.</span><span class=\"n\">fernet</span><span class=\"o\">.</span><span class=\"n\">Fernet</span> <span class=\"n\">at</span> <span class=\"mh\">0xb969668</span><span class=\"o\">&gt;</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">token</span> <span class=\"o\">=</span> <span class=\"n\">f</span><span class=\"o\">.</span><span class=\"n\">encrypt</span><span class=\"p\">(</span><span class=\"sa\">b</span><span class=\"s2\">&#34;my deep dark secret&#34;</span><span class=\"p\">)</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">token</span>\n\n<span class=\"n\">Out</span><span class=\"p\">[</span><span class=\"mi\">8</span><span class=\"p\">]:</span> <span class=\"s1\">&#39;gAAAAABYnKtVmGpMe6rM39jzSYFTlBxjXBwbCix8nZ2DBzsFh6BVzwtrYx0qDyohXQ3xqj232_DJsdN8bR9sMUQbEcPenZD-MAWqR-YkOdg7prc9e0QnMA4=&#39;</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">f</span><span class=\"o\">.</span><span class=\"n\">decrypt</span><span class=\"p\">(</span><span class=\"n\">token</span><span class=\"p\">)</span>\n\n<span class=\"n\">Out</span><span class=\"p\">[</span><span class=\"mi\">9</span><span class=\"p\">]:</span> <span class=\"s1\">&#39;my deep dark secret&#39;</span>\n</code></pre></div><p> 解释：</p><blockquote><b>from</b> cryptography.fernet <b>import</b> Fernet<br/>该句为从函数库中导入Fernet。<br/>key <b>=</b> Fernet<b>.</b>generate_key()<br/>产生加密所需的密钥key，它通过调用相关函数而产生随机数。这个随机数是不是满足密码安全呢？我们下节进行详细的解读。<br/> f <b>=</b> Fernet(key)。实例化Fernet<br/> token <b>=</b> f<b>.</b>encrypt(b&#34;my deep dark secret&#34;)，加密消息<br/>f.decrypt(token)，解密消息</blockquote><p><b>2.2 密钥轮换（Key rotation）的例子</b></p><p>MultiFernet的输入为多个key的列表，它总是以第一个密钥加密消息，而在解密时，依次使用每个密钥。</p><p>Key rotation机制使得替代旧的密钥变得容易。个人可以将新的密钥添加在key列表的第一个，开始加密新的消息，而在解密以前的密文后，如果旧的密钥不再需要则丢弃。</p><div class=\"highlight\"><pre><code class=\"language-python\"><span class=\"o\">&gt;&gt;&gt;</span><span class=\"kn\">from</span> <span class=\"nn\">cryptography.fernet</span> <span class=\"kn\">import</span> <span class=\"n\">Fernet</span><span class=\"p\">,</span> <span class=\"n\">MultiFernet</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">key1</span> <span class=\"o\">=</span> <span class=\"n\">Fernet</span><span class=\"p\">(</span><span class=\"n\">Fernet</span><span class=\"o\">.</span><span class=\"n\">generate_key</span><span class=\"p\">())</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">key2</span> <span class=\"o\">=</span> <span class=\"n\">Fernet</span><span class=\"p\">(</span><span class=\"n\">Fernet</span><span class=\"o\">.</span><span class=\"n\">generate_key</span><span class=\"p\">())</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">f</span> <span class=\"o\">=</span> <span class=\"n\">MultiFernet</span><span class=\"p\">([</span><span class=\"n\">key1</span><span class=\"p\">,</span> <span class=\"n\">key2</span><span class=\"p\">])</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">token</span> <span class=\"o\">=</span> <span class=\"n\">f</span><span class=\"o\">.</span><span class=\"n\">encrypt</span><span class=\"p\">(</span><span class=\"sa\">b</span><span class=\"s2\">&#34;Secret message!&#34;</span><span class=\"p\">)</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">token</span>\n<span class=\"n\">Out</span><span class=\"p\">[</span><span class=\"mi\">6</span><span class=\"p\">]:</span> <span class=\"s1\">&#39;gAAAAABYnKzqNxRAbwP6hMMGmB4eIBhiAR2oVG136Dpive8AhNBdtjwKKiOj_Zaxv8e1dHWp1_WpvktTCT5lRnm9ZnBIK4AoMw==&#39;</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">f</span><span class=\"o\">.</span><span class=\"n\">decrypt</span><span class=\"p\">(</span><span class=\"n\">token</span><span class=\"p\">)</span>\n<span class=\"n\">Out</span><span class=\"p\">[</span><span class=\"mi\">7</span><span class=\"p\">]:</span> <span class=\"s1\">&#39;Secret message!&#39;</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">key3</span> <span class=\"o\">=</span> <span class=\"n\">Fernet</span><span class=\"p\">(</span><span class=\"n\">Fernet</span><span class=\"o\">.</span><span class=\"n\">generate_key</span><span class=\"p\">())</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">f</span> <span class=\"o\">=</span> <span class=\"n\">MultiFernet</span><span class=\"p\">([</span><span class=\"n\">key3</span><span class=\"p\">,</span><span class=\"n\">key1</span><span class=\"p\">,</span> <span class=\"n\">key2</span><span class=\"p\">])</span>\n\n<span class=\"o\">&gt;&gt;&gt;</span><span class=\"n\">f</span><span class=\"o\">.</span><span class=\"n\">decrypt</span><span class=\"p\">(</span><span class=\"n\">token</span><span class=\"p\">)</span>\n<span class=\"n\">Out</span><span class=\"p\">[</span><span class=\"mi\">10</span><span class=\"p\">]:</span> <span class=\"s1\">&#39;Secret message!&#39;</span>\n\n</code></pre></div><h2> 三、小结</h2><p>简要介绍了Cryptography密码库，最有意思的特性是包含的两个部分cryptographic recipes 和 cryptographic primitives。</p><br/><p>以Fernet（对称加密）为例，介绍了cryptographic recipes的使用。</p><p>下一节将对Fernet的代码进行分析，解释为什么它被称之为cryptographic recipes，而不是cryptographic primitives</p>", 
+            "topic": [
+                {
+                    "tag": "Python", 
+                    "tagLink": "https://api.zhihu.com/topics/19552832"
+                }, 
+                {
+                    "tag": "信息安全和密码学", 
+                    "tagLink": "https://api.zhihu.com/topics/19827596"
+                }, 
+                {
+                    "tag": "密码学", 
+                    "tagLink": "https://api.zhihu.com/topics/19621679"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "WindDee", 
+                    "userLink": "https://www.zhihu.com/people/4977b2a8b2a251d7df701414ab0f5106", 
+                    "content": "客户端加密，服务器端怎么解密。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "秋风扫落叶", 
+                            "userLink": "https://www.zhihu.com/people/308303c2fae18187a4191703d7273093", 
+                            "content": "用RSA传递key就行了，服务端持有私钥", 
+                            "likes": 0, 
+                            "replyToAuthor": "WindDee"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/simcrypt"
+}

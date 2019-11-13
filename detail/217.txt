@@ -1,0 +1,513 @@
+{
+    "title": "八音克谐 渐近自然", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/ye-he-zhu-xian-yun", 
+        "https://www.zhihu.com/people/deng-yuan-han-79", 
+        "https://www.zhihu.com/people/su-ji-bai-89", 
+        "https://www.zhihu.com/people/ke-li-si-42-21", 
+        "https://www.zhihu.com/people/wei-wei-shi-da", 
+        "https://www.zhihu.com/people/mao-de-xue-ding-e-7", 
+        "https://www.zhihu.com/people/jia-jia-81-7-82", 
+        "https://www.zhihu.com/people/wu-gao-feng-73", 
+        "https://www.zhihu.com/people/yu-wu-er-wo", 
+        "https://www.zhihu.com/people/uncleai-sen", 
+        "https://www.zhihu.com/people/an_yx", 
+        "https://www.zhihu.com/people/wang-xi-peng-74-24", 
+        "https://www.zhihu.com/people/xue-ding-chuan", 
+        "https://www.zhihu.com/people/dan-yang-wen", 
+        "https://www.zhihu.com/people/di-san-miao-mo-de-shuang-qu-zheng-qie-43", 
+        "https://www.zhihu.com/people/little-prince-24-14", 
+        "https://www.zhihu.com/people/shang-ge-lai-te", 
+        "https://www.zhihu.com/people/ma-lian-liang-meng-lu-51", 
+        "https://www.zhihu.com/people/leon-9-87", 
+        "https://www.zhihu.com/people/asdzxc1994", 
+        "https://www.zhihu.com/people/yang-hui-79-83", 
+        "https://www.zhihu.com/people/zha-shu-gu-gu", 
+        "https://www.zhihu.com/people/yisuo_yanyu", 
+        "https://www.zhihu.com/people/niu-cheng-26", 
+        "https://www.zhihu.com/people/chi-gui-98", 
+        "https://www.zhihu.com/people/cheng-yi-fei-38", 
+        "https://www.zhihu.com/people/miller-cool", 
+        "https://www.zhihu.com/people/shu-xue-xing-kong", 
+        "https://www.zhihu.com/people/bai-lang-48-32", 
+        "https://www.zhihu.com/people/melchior-li-28", 
+        "https://www.zhihu.com/people/hjjia-you", 
+        "https://www.zhihu.com/people/huang-jian-kai-67", 
+        "https://www.zhihu.com/people/yue-wen-jun-9", 
+        "https://www.zhihu.com/people/zheng-dong-dong-77-57", 
+        "https://www.zhihu.com/people/ye-hu-30-72", 
+        "https://www.zhihu.com/people/jwr2phy_ce", 
+        "https://www.zhihu.com/people/jie-zi-tang-10-4", 
+        "https://www.zhihu.com/people/he-hai-lin-36", 
+        "https://www.zhihu.com/people/li-ming-19-94", 
+        "https://www.zhihu.com/people/he-he-35-3", 
+        "https://www.zhihu.com/people/li-zhi-hui-80-64", 
+        "https://www.zhihu.com/people/M-P-P-P", 
+        "https://www.zhihu.com/people/yu-xiao-fei-23-51", 
+        "https://www.zhihu.com/people/lily2016-84", 
+        "https://www.zhihu.com/people/li-qiang-83-32", 
+        "https://www.zhihu.com/people/yuan-ye-27-77", 
+        "https://www.zhihu.com/people/finalwind1", 
+        "https://www.zhihu.com/people/fen-hai-kuang-qu-13", 
+        "https://www.zhihu.com/people/tian-chang-di-jiu-63-41", 
+        "https://www.zhihu.com/people/xing-zi-bu-xiang", 
+        "https://www.zhihu.com/people/reseted1532435625700", 
+        "https://www.zhihu.com/people/tao-wen-8-91", 
+        "https://www.zhihu.com/people/le-xiao-yao-97-59", 
+        "https://www.zhihu.com/people/sywang-27", 
+        "https://www.zhihu.com/people/re-ai-shu-xue", 
+        "https://www.zhihu.com/people/ye-lu-sha-leng", 
+        "https://www.zhihu.com/people/li-qian-cheng-52", 
+        "https://www.zhihu.com/people/yuanshuoastro", 
+        "https://www.zhihu.com/people/lan-xiao-he-61", 
+        "https://www.zhihu.com/people/liang-min-17-71", 
+        "https://www.zhihu.com/people/fletin", 
+        "https://www.zhihu.com/people/fan-xing-zhong", 
+        "https://www.zhihu.com/people/chaochao-fu", 
+        "https://www.zhihu.com/people/tang-yu-21-83", 
+        "https://www.zhihu.com/people/he-xiao-zi-94", 
+        "https://www.zhihu.com/people/ceng-nong-87", 
+        "https://www.zhihu.com/people/zhangjiajie043", 
+        "https://www.zhihu.com/people/chen-jun-yu-25-51-96", 
+        "https://www.zhihu.com/people/mhcmhc", 
+        "https://www.zhihu.com/people/bei-fang-xing-zi-13", 
+        "https://www.zhihu.com/people/jin-jing-20-45", 
+        "https://www.zhihu.com/people/heathckliff", 
+        "https://www.zhihu.com/people/andy-chou-3", 
+        "https://www.zhihu.com/people/li-daniel-22", 
+        "https://www.zhihu.com/people/ye-xue-bi-xi", 
+        "https://www.zhihu.com/people/wang-qiu-yuan-56-55", 
+        "https://www.zhihu.com/people/lindsays", 
+        "https://www.zhihu.com/people/zztx", 
+        "https://www.zhihu.com/people/dou-hua-82-17", 
+        "https://www.zhihu.com/people/na-yao-shen-mi-mei-li-39", 
+        "https://www.zhihu.com/people/cha-qiu-15", 
+        "https://www.zhihu.com/people/stheory-48", 
+        "https://www.zhihu.com/people/DeQuoiOnReve", 
+        "https://www.zhihu.com/people/123098-21", 
+        "https://www.zhihu.com/people/gangjun-wang", 
+        "https://www.zhihu.com/people/sfsf-88", 
+        "https://www.zhihu.com/people/zhou-yun-peng-74", 
+        "https://www.zhihu.com/people/jin-yan-ze-85", 
+        "https://www.zhihu.com/people/hu-kai-wen-63-41", 
+        "https://www.zhihu.com/people/hengweihu", 
+        "https://www.zhihu.com/people/rsysw", 
+        "https://www.zhihu.com/people/li-jin-yu-15-69", 
+        "https://www.zhihu.com/people/ling-san-san-69", 
+        "https://www.zhihu.com/people/liu-yong-33-93-5", 
+        "https://www.zhihu.com/people/li-zhi-jie-97-72", 
+        "https://www.zhihu.com/people/shui-hua-hua-71", 
+        "https://www.zhihu.com/people/yong-jing-gui-83", 
+        "https://www.zhihu.com/people/iridescent-8-8", 
+        "https://www.zhihu.com/people/wang-wen-jie-72", 
+        "https://www.zhihu.com/people/shi-ba-ke-84", 
+        "https://www.zhihu.com/people/ceng-yan-bo-98", 
+        "https://www.zhihu.com/people/qyhfbqz", 
+        "https://www.zhihu.com/people/wang-zu-qing-2", 
+        "https://www.zhihu.com/people/NarayanPY", 
+        "https://www.zhihu.com/people/dan-yi-18-57-18", 
+        "https://www.zhihu.com/people/pan-meng-89", 
+        "https://www.zhihu.com/people/fxh90", 
+        "https://www.zhihu.com/people/Heartbane", 
+        "https://www.zhihu.com/people/hanzhao-yang", 
+        "https://www.zhihu.com/people/chen-li-52-62", 
+        "https://www.zhihu.com/people/scilence7-50", 
+        "https://www.zhihu.com/people/cyc-12", 
+        "https://www.zhihu.com/people/sun-869693715-16", 
+        "https://www.zhihu.com/people/SingChia", 
+        "https://www.zhihu.com/people/GalAster", 
+        "https://www.zhihu.com/people/joehawking", 
+        "https://www.zhihu.com/people/lao-wu-31-78", 
+        "https://www.zhihu.com/people/luo-ling-11-52-37", 
+        "https://www.zhihu.com/people/mo-bu-ke-yan-58", 
+        "https://www.zhihu.com/people/xiang-shu-xian-sheng-73", 
+        "https://www.zhihu.com/people/yu-xin-yang-90", 
+        "https://www.zhihu.com/people/abel-77-78", 
+        "https://www.zhihu.com/people/luo-xin-2-98", 
+        "https://www.zhihu.com/people/yu-tong-lan", 
+        "https://www.zhihu.com/people/yu-sui-wu-tong", 
+        "https://www.zhihu.com/people/cai-yue-cheng-95", 
+        "https://www.zhihu.com/people/Gwan-siu", 
+        "https://www.zhihu.com/people/li-wang-cai-65", 
+        "https://www.zhihu.com/people/longdao-80", 
+        "https://www.zhihu.com/people/ti-richardo", 
+        "https://www.zhihu.com/people/taste-song-30", 
+        "https://www.zhihu.com/people/li-wei-77-21", 
+        "https://www.zhihu.com/people/schubert-franz-96", 
+        "https://www.zhihu.com/people/wen-tao-16-68", 
+        "https://www.zhihu.com/people/tyutgd", 
+        "https://www.zhihu.com/people/ampht", 
+        "https://www.zhihu.com/people/zheng-xin-yang-7", 
+        "https://www.zhihu.com/people/Poc2ZrBvZ86Hh8Pi9BXN", 
+        "https://www.zhihu.com/people/jiao-yang-si-wo-95-48", 
+        "https://www.zhihu.com/people/cheng-wallace", 
+        "https://www.zhihu.com/people/chou-suan-xing-zhi", 
+        "https://www.zhihu.com/people/fei-zhi-tu-dou-zha", 
+        "https://www.zhihu.com/people/barry-allen-46", 
+        "https://www.zhihu.com/people/dr-ph-51", 
+        "https://www.zhihu.com/people/sui-ji-cu-cao-mian", 
+        "https://www.zhihu.com/people/name1e5s", 
+        "https://www.zhihu.com/people/fanhan", 
+        "https://www.zhihu.com/people/yvren1994", 
+        "https://www.zhihu.com/people/mcsfxy", 
+        "https://www.zhihu.com/people/wuyu-77", 
+        "https://www.zhihu.com/people/qu-wen-di-fang", 
+        "https://www.zhihu.com/people/shen-ao-zhuo-28", 
+        "https://www.zhihu.com/people/zhang-nuo-min-2", 
+        "https://www.zhihu.com/people/chronaa", 
+        "https://www.zhihu.com/people/siyun-song", 
+        "https://www.zhihu.com/people/shenlinyi", 
+        "https://www.zhihu.com/people/qi-da-wei-65", 
+        "https://www.zhihu.com/people/zhang-zhi-hao-58-94", 
+        "https://www.zhihu.com/people/shu-xue-tian-cai-qi-lu-nuo-77", 
+        "https://www.zhihu.com/people/Maine_Coon", 
+        "https://www.zhihu.com/people/hydra-80-38", 
+        "https://www.zhihu.com/people/onlygalois", 
+        "https://www.zhihu.com/people/wang-rui-yu-59", 
+        "https://www.zhihu.com/people/wei-lin-feng-49", 
+        "https://www.zhihu.com/people/liu-kuan-43-75", 
+        "https://www.zhihu.com/people/jun-23124", 
+        "https://www.zhihu.com/people/cao-xiong-hui", 
+        "https://www.zhihu.com/people/ascenoputing", 
+        "https://www.zhihu.com/people/gu-yu-71-65"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33647543", 
+            "userName": "「已注销」", 
+            "userLink": "https://www.zhihu.com/people/7f5c64e2fc5c5b0b001083ffd0aead8f", 
+            "upvote": 24, 
+            "title": "9 渐近和的概念", 
+            "content": "<p>Olver 的书中问了这样的问题: </p><blockquote>给定一个无穷序列 <img src=\"https://www.zhihu.com/equation?tex=a_0%2C+a_1%2C+a_2%2C%5Ccdots\" alt=\"a_0, a_1, a_2,\\cdots\" eeimg=\"1\"/> , 可以形式上写出一个级数<br/> <img src=\"https://www.zhihu.com/equation?tex=a_0%2B%5Cfrac%7Ba_1%7D%7Bz%7D%2B%5Cfrac%7Ba_2%7D%7Bz%5E2%7D%2B%5Ccdots%5C%5C\" alt=\"a_0+\\frac{a_1}{z}+\\frac{a_2}{z^2}+\\cdots\\\\\" eeimg=\"1\"/> <br/>问在什么条件下，存在一个函数，当 <img src=\"https://www.zhihu.com/equation?tex=z%5Cto%5Cinfty\" alt=\"z\\to\\infty\" eeimg=\"1\"/> 时其渐近级数是上面这个级数？</blockquote><p>答案相当令人震惊，也许也不是很震惊：不需要什么条件，总存在这样的函数。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b3ccc5500636ff46b6c87c62298e24e1_b.jpg\" data-size=\"normal\" data-rawwidth=\"760\" data-rawheight=\"507\" class=\"origin_image zh-lightbox-thumb\" width=\"760\" data-original=\"https://pic2.zhimg.com/v2-b3ccc5500636ff46b6c87c62298e24e1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;760&#39; height=&#39;507&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"760\" data-rawheight=\"507\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"760\" data-original=\"https://pic2.zhimg.com/v2-b3ccc5500636ff46b6c87c62298e24e1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b3ccc5500636ff46b6c87c62298e24e1_b.jpg\"/><figcaption>Carl Bender 近照，“名著”Advanced Mathematical Methods for Scientists and Engineers, Asymptotic Methods and Perturbation Theory 一书的作者.</figcaption></figure><p>回忆一下之前说过的函数的<a href=\"https://zhuanlan.zhihu.com/p/33610940\" class=\"internal\">渐近展开的条件</a>： <img src=\"https://www.zhihu.com/equation?tex=R_n%28z%29%3D%5Cmathcal%7BO%7D%28z%5E%7B-n%7D%29%5Cquad%7Bz%5Cto%5Cinfty%7D\" alt=\"R_n(z)=\\mathcal{O}(z^{-n})\\quad{z\\to\\infty}\" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=R_n%28z%29\" alt=\"R_n(z)\" eeimg=\"1\"/> 是函数 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29\" alt=\"f(z)\" eeimg=\"1\"/> 与形式的幂级数 <img src=\"https://www.zhihu.com/equation?tex=%5Csum_%7Bs%3D0%7D%5E%5Cinfty+a_sz%5E%7B-s%7D\" alt=\"\\sum_{s=0}^\\infty a_sz^{-s}\" eeimg=\"1\"/> 的前 n 项部分和的差值： <img src=\"https://www.zhihu.com/equation?tex=R_n%28z%29%3Df%28z%29-%5Csum_%7Bs%3D0%7D%5E%7Bn-1%7Da_sz%5E%7B-s%7D\" alt=\"R_n(z)=f(z)-\\sum_{s=0}^{n-1}a_sz^{-s}\" eeimg=\"1\"/> .</p><p>所以我们也许可以定义这样一个函数——给定如上面的一个任意序列，定义这样的函数</p><p><img src=\"https://www.zhihu.com/equation?tex=f%28z%29%3D%5Csum_%7Bs%3D0%7D%5E%7Bv%28%7Cz%7C%29%7D%5Cfrac%7Ba_s%7D%7Bz%5Es%7D%5C%5C\" alt=\"f(z)=\\sum_{s=0}^{v(|z|)}\\frac{a_s}{z^s}\\\\\" eeimg=\"1\"/> </p><p>其中 <img src=\"https://www.zhihu.com/equation?tex=v%28%7Cz%7C%29\" alt=\"v(|z|)\" eeimg=\"1\"/> 是一个满足如下条件的最大整数：</p><p><img src=\"https://www.zhihu.com/equation?tex=%7Ca_0%7C%2B%7Ca_1%7C%2B%5Ccdots%2B%7Ca_%7Bv%28%7Cz%7C%29%7D%7C%2Bv%28%7Cz%7C%29%5Cleqslant%7Cz%7C%5C%5C\" alt=\"|a_0|+|a_1|+\\cdots+|a_{v(|z|)}|+v(|z|)\\leqslant|z|\\\\\" eeimg=\"1\"/> </p><p>可以想见 <img src=\"https://www.zhihu.com/equation?tex=v%28%7Cz%7C%29\" alt=\"v(|z|)\" eeimg=\"1\"/> 是一个非减函数，因为上面的不等式中取了序列中的数字的绝对值。给一个任意的正整数 <img src=\"https://www.zhihu.com/equation?tex=n\" alt=\"n\" eeimg=\"1\"/> ，定义</p><p><img src=\"https://www.zhihu.com/equation?tex=z_n%3D%7Ca_0%7C%2B%7Ca_1%7C%2B%5Ccdots%2B%7Ca_%7Bn%2B1%7D%7C%2Bn%2B1%5C%5C\" alt=\"z_n=|a_0|+|a_1|+\\cdots+|a_{n+1}|+n+1\\\\\" eeimg=\"1\"/> </p><p>如果 <img src=\"https://www.zhihu.com/equation?tex=%7Cz%7C%5Cgeqslant+z_n\" alt=\"|z|\\geqslant z_n\" eeimg=\"1\"/> ，那么 <img src=\"https://www.zhihu.com/equation?tex=v%28%7Cz%7C%29%5Cgeqslant+n%2B1%2C%5C%2C%7Cz%7C%3E1\" alt=\"v(|z|)\\geqslant n+1,\\,|z|&gt;1\" eeimg=\"1\"/> ，所以就有如下的式子</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cleft%7Cf%28z%29-%5Csum_%7Bs%3D0%7D%5E%7Bn-1%7D%5Cfrac%7Ba_s%7D%7Bz%5Es%7D%5Cright%7C%3D%5Cleft%7C%5Csum_%7Bs%3Dn%7D%5E%7Bv%28%7Cz%7C%29%7D%5Cfrac%7Ba_s%7D%7Bz%5Es%7D%5Cright%7C%5Cleqslant%5Cfrac%7B%7Ca_n%7C%7D%7B%7Cz%7C%5En%7D%2B%5Cfrac%7B1%7D%7B%7Cz%7C%5E%7Bn%2B1%7D%7D%5Csum_%7Bs%3Dn%2B1%7D%5E%7Bv%28%7Cz%7C%29%7D%7Ca_s%7C%5C%5C\" alt=\"\\left|f(z)-\\sum_{s=0}^{n-1}\\frac{a_s}{z^s}\\right|=\\left|\\sum_{s=n}^{v(|z|)}\\frac{a_s}{z^s}\\right|\\leqslant\\frac{|a_n|}{|z|^n}+\\frac{1}{|z|^{n+1}}\\sum_{s=n+1}^{v(|z|)}|a_s|\\\\\" eeimg=\"1\"/> </p><p>其中不等式用到了三角不等式.</p><p>不等式右边 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%7Ca_n%7C%7D%7B%7Cz%7C%5En%7D%2B%5Cfrac%7B1%7D%7B%7Cz%7C%5E%7Bn%2B1%7D%7D%5Csum_%7Bs%3Dn%2B1%7D%5E%7Bv%28%7Cz%7C%29%7D%7Ca_s%7C\" alt=\"\\frac{|a_n|}{|z|^n}+\\frac{1}{|z|^{n+1}}\\sum_{s=n+1}^{v(|z|)}|a_s|\" eeimg=\"1\"/> 可以由 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%7Ca_n%7C%2B1%7D%7B%7Cz%7C%5En%7D\" alt=\"\\frac{|a_n|+1}{|z|^n}\" eeimg=\"1\"/> 来限制，这是由就是说，当 <img src=\"https://www.zhihu.com/equation?tex=%7Cz%7C%3EM\" alt=\"|z|&gt;M\" eeimg=\"1\"/> 时候， <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B%7Ca_n%7C%7D%7B%7Cz%7C%5En%7D%2B%5Cfrac%7B1%7D%7B%7Cz%7C%5E%7Bn%2B1%7D%7D%5Csum_%7Bs%3Dn%2B1%7D%5E%7Bv%28%7Cz%7C%29%7D%7Ca_s%7C%5Cleqslant+A%5Cleft%5C%7B%5Cfrac%7B%7Ca_n%7C%2B1%7D%7B%7Cz%7C%5En%7D%5Cright%5C%7D%5C%5C\" alt=\"\\frac{|a_n|}{|z|^n}+\\frac{1}{|z|^{n+1}}\\sum_{s=n+1}^{v(|z|)}|a_s|\\leqslant A\\left\\{\\frac{|a_n|+1}{|z|^n}\\right\\}\\\\\" eeimg=\"1\"/> </p><p>原因是 <img src=\"https://www.zhihu.com/equation?tex=%7Ca_0%7C%2B%7Ca_1%7C%2B%5Ccdots%2B%7Ca_%7Bv%28%7Cz%7C%29%7D%7C%5Cleqslant%7Cz%7C\" alt=\"|a_0|+|a_1|+\\cdots+|a_{v(|z|)}|\\leqslant|z|\" eeimg=\"1\"/> </p><p>所以， <img src=\"https://www.zhihu.com/equation?tex=f%28z%29\" alt=\"f(z)\" eeimg=\"1\"/> 与形式的幂级数 <img src=\"https://www.zhihu.com/equation?tex=%5Csum_%7Bs%3D0%7D%5E%5Cinfty+a_sz%5E%7B-s%7D\" alt=\"\\sum_{s=0}^\\infty a_sz^{-s}\" eeimg=\"1\"/> 的前 n 项部分和的差值： <img src=\"https://www.zhihu.com/equation?tex=R_n%28z%29%3Df%28z%29-%5Csum_%7Bs%3D0%7D%5E%7Bn-1%7Da_sz%5E%7B-s%7D\" alt=\"R_n(z)=f(z)-\\sum_{s=0}^{n-1}a_sz^{-s}\" eeimg=\"1\"/> 就满足 <img src=\"https://www.zhihu.com/equation?tex=%7CR_n%28z%29%7C%5Cleqslant+A%5Cleft%5C%7B%5Cfrac%7B%7Ca_n%7C%2B1%7D%7B%7Cz%7C%5En%7D%5Cright%5C%7D%5Cquad%28%7Cz%7C%3EM%29\" alt=\"|R_n(z)|\\leqslant A\\left\\{\\frac{|a_n|+1}{|z|^n}\\right\\}\\quad(|z|&gt;M)\" eeimg=\"1\"/> ，即 <img src=\"https://www.zhihu.com/equation?tex=R_n%28z%29%3D%5Cmathcal%7BO%7D%28z%5E%7B-n%7D%29\" alt=\"R_n(z)=\\mathcal{O}(z^{-n})\" eeimg=\"1\"/> ，这就证明了 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29%3D%5Csum_%7Bs%3D0%7D%5E%7Bv%28%7Cz%7C%29%7D%5Cfrac%7Ba_s%7D%7Bz%5Es%7D\" alt=\"f(z)=\\sum_{s=0}^{v(|z|)}\\frac{a_s}{z^s}\" eeimg=\"1\"/> 的渐近展开为 <img src=\"https://www.zhihu.com/equation?tex=a_0%2B%5Cfrac%7Ba_1%7D%7Bz%7D%2B%5Cfrac%7Ba_2%7D%7Bz%5E2%7D%2B%5Ccdots\" alt=\"a_0+\\frac{a_1}{z}+\\frac{a_2}{z^2}+\\cdots\" eeimg=\"1\"/> 。整个证明的要点在于 <img src=\"https://www.zhihu.com/equation?tex=v%28%7Cz%7C%29\" alt=\"v(|z|)\" eeimg=\"1\"/> 的选取，即当 <img src=\"https://www.zhihu.com/equation?tex=v%28%7Cz%7C%29%5Cgeqslant+n%2B1\" alt=\"v(|z|)\\geqslant n+1\" eeimg=\"1\"/> 的时候，要满足 <img src=\"https://www.zhihu.com/equation?tex=%7Ca_0%7C%2B%7Ca_1%7C%2B%5Ccdots%2B%7Ca_%7Bv%28%7Cz%7C%29%7D%7C%5Cleqslant%7Cz%7C\" alt=\"|a_0|+|a_1|+\\cdots+|a_{v(|z|)}|\\leqslant|z|\" eeimg=\"1\"/> . 所以我可以知道，这样的 <img src=\"https://www.zhihu.com/equation?tex=v%28%7Cz%7C%29%5Cgeqslant+n%2B1\" alt=\"v(|z|)\\geqslant n+1\" eeimg=\"1\"/> 有无穷多个，也就是说有无穷多个函数的渐近展开是由给定的无穷序列 <img src=\"https://www.zhihu.com/equation?tex=a_0%2C+a_1%2C+a_2%2C%5Ccdots\" alt=\"a_0, a_1, a_2,\\cdots\" eeimg=\"1\"/> 所生成的 <img src=\"https://www.zhihu.com/equation?tex=a_0%2B%5Cfrac%7Ba_1%7D%7Bz%7D%2B%5Cfrac%7Ba_2%7D%7Bz%5E2%7D%2B%5Ccdots\" alt=\"a_0+\\frac{a_1}{z}+\\frac{a_2}{z^2}+\\cdots\" eeimg=\"1\"/> 。</p><p>我们管这类函数（就是那类渐近展开是级数 <img src=\"https://www.zhihu.com/equation?tex=a_0%2B%5Cfrac%7Ba_1%7D%7Bz%7D%2B%5Cfrac%7Ba_2%7D%7Bz%5E2%7D%2B%5Ccdots\" alt=\"a_0+\\frac{a_1}{z}+\\frac{a_2}{z^2}+\\cdots\" eeimg=\"1\"/> 的函数）叫这个级数的渐近和 (asymptotic sum ).</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "数学分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19622000"
+                }, 
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }, 
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33610940", 
+            "userName": "「已注销」", 
+            "userLink": "https://www.zhihu.com/people/7f5c64e2fc5c5b0b001083ffd0aead8f", 
+            "upvote": 3, 
+            "title": "8 函数的渐近展开以及有关性质", 
+            "content": "<p>一、渐近展开</p><p>之前讨论的是渐近级数本身，现在来说函数的渐近展开。</p><blockquote><img src=\"https://www.zhihu.com/equation?tex=f%28z%29\" alt=\"f(z)\" eeimg=\"1\"/> 是一个函数， <img src=\"https://www.zhihu.com/equation?tex=%5Csum_%7Bs%3D0%7D%5E%7B%5Cinfty%7Da_sz%5E%7B-s%7D\" alt=\"\\sum_{s=0}^{\\infty}a_sz^{-s}\" eeimg=\"1\"/> 是形式上的幂级数，记 <img src=\"https://www.zhihu.com/equation?tex=R_n%28z%29\" alt=\"R_n(z)\" eeimg=\"1\"/> 为 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29\" alt=\"f(z)\" eeimg=\"1\"/> 与 该级数的第 <img src=\"https://www.zhihu.com/equation?tex=n\" alt=\"n\" eeimg=\"1\"/> 个部分和的差值：<br/> <img src=\"https://www.zhihu.com/equation?tex=f%28z%29%3Da_0%2B%5Cfrac%7Ba_1%7D%7Bz%7D%2B%5Cfrac%7Ba_2%7D%7Bz%5E2%7D%2B%5Ccdots%2B%5Cfrac%7Ba_%7Bn-1%7D%7D%7Bz%5E%7Bn-1%7D%7D%2BR_n%28z%29\" alt=\"f(z)=a_0+\\frac{a_1}{z}+\\frac{a_2}{z^2}+\\cdots+\\frac{a_{n-1}}{z^{n-1}}+R_n(z)\" eeimg=\"1\"/> <br/>若对每一个 <img src=\"https://www.zhihu.com/equation?tex=n\" alt=\"n\" eeimg=\"1\"/> ，都有 <img src=\"https://www.zhihu.com/equation?tex=R_n%28z%29%3D%5Cmathcal%7BO%7D%28z%5E%7B-n%7D%29%5Cquad%28z%5Cto%5Cinfty%29\" alt=\"R_n(z)=\\mathcal{O}(z^{-n})\\quad(z\\to\\infty)\" eeimg=\"1\"/> ，那么 <img src=\"https://www.zhihu.com/equation?tex=%5Csum_%7Bs%3D0%7D%5E%7B%5Cinfty%7Da_sz%5E%7B-s%7D\" alt=\"\\sum_{s=0}^{\\infty}a_sz^{-s}\" eeimg=\"1\"/> 就是 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29\" alt=\"f(z)\" eeimg=\"1\"/> 的一种渐近展开，并记作 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29%3Da_0%2B%5Cfrac%7Ba_1%7D%7Bz%7D%2B%5Cfrac%7Ba_2%7D%7Bz%5E2%7D%2B%5Ccdots%5Cquad%28z%5Cto%5Cinfty%29\" alt=\"f(z)=a_0+\\frac{a_1}{z}+\\frac{a_2}{z^2}+\\cdots\\quad(z\\to\\infty)\" eeimg=\"1\"/> </blockquote><p>由于我们要求对每一个 n 都成立 <img src=\"https://www.zhihu.com/equation?tex=R_n%28z%29%3D%5Cmathcal%7BO%7D%28z%5E%7B-n%7D%29%5Cquad%28z%5Cto%5Cinfty%29\" alt=\"R_n(z)=\\mathcal{O}(z^{-n})\\quad(z\\to\\infty)\" eeimg=\"1\"/> ，一个很快的结果就是：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Clim_%7Bz%5Cto%5Cinfty+%7Dz%5En%5Cleft%5C%7Bf%28z%29-%5Csum_%7Bs%3D0%7D%5E%7Bn-1%7D%5Cfrac%7Ba_s%7D%7Bz%5Es%7D%5Cright%5C%7D%5Cto+a_n\" alt=\"\\lim_{z\\to\\infty }z^n\\left\\{f(z)-\\sum_{s=0}^{n-1}\\frac{a_s}{z^s}\\right\\}\\to a_n\" eeimg=\"1\"/> ，</p><p>明显地，这个极限式子可以推出 <img src=\"https://www.zhihu.com/equation?tex=R_n%28z%29%3D%5Cmathcal%7BO%7D%28z%5E%7B-n%7D%29%5Cquad%28z%5Cto%5Cinfty%29\" alt=\"R_n(z)=\\mathcal{O}(z^{-n})\\quad(z\\to\\infty)\" eeimg=\"1\"/> 。现在我们来反着推一下：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cleft%5C%7Bf%28z%29-%5Csum_%7Bs%3D0%7D%5E%7Bn-1%7D%5Cfrac%7Ba_s%7D%7Bz%5Es%7D%5Cright%5C%7D%3DR_n%28z%29\" alt=\"\\left\\{f(z)-\\sum_{s=0}^{n-1}\\frac{a_s}{z^s}\\right\\}=R_n(z)\" eeimg=\"1\"/> ，这是定义</p><p>乘以 <img src=\"https://www.zhihu.com/equation?tex=z%5En\" alt=\"z^n\" eeimg=\"1\"/> 得到 <img src=\"https://www.zhihu.com/equation?tex=z%5En%5Cleft%5C%7Bf%28z%29-%5Csum_%7Bs%3D0%7D%5E%7Bn-1%7D%5Cfrac%7Ba_s%7D%7Bz%5Es%7D%5Cright%5C%7D%3Dz%5EnR_n%28z%29%3Dz%5En%5Cleft%5C%7B%5Cfrac%7Ba_n%7D%7Bz_n%7D%2BR_%7Bn%2B1%7D%28z%29+%5Cright%5C%7D\" alt=\"z^n\\left\\{f(z)-\\sum_{s=0}^{n-1}\\frac{a_s}{z^s}\\right\\}=z^nR_n(z)=z^n\\left\\{\\frac{a_n}{z_n}+R_{n+1}(z) \\right\\}\" eeimg=\"1\"/> </p><p>最后的这项在 <img src=\"https://www.zhihu.com/equation?tex=z%5Cto%5Cinfty\" alt=\"z\\to\\infty\" eeimg=\"1\"/> 的时候，由于 <img src=\"https://www.zhihu.com/equation?tex=R_%7Bn%2B1%7D%28z%29%3D%5Cmathcal%7BO%7D%28z%5E%7B-n-1%7D%29%5CRightarrow+z%5EnR_%7Bn%2B1%7D%28z%29%3Dz%5En%5Cmathcal%7BO%7D%28z%5E%7B-n-1%7D%29%3D%5Cmathcal%7BO%7D%28z%5E%7B-1%7D%29\" alt=\"R_{n+1}(z)=\\mathcal{O}(z^{-n-1})\\Rightarrow z^nR_{n+1}(z)=z^n\\mathcal{O}(z^{-n-1})=\\mathcal{O}(z^{-1})\" eeimg=\"1\"/> ，最后一步可用定义验证，所以</p><p><img src=\"https://www.zhihu.com/equation?tex=z%5En%5Cleft%5C%7Bf%28z%29-%5Csum_%7Bs%3D0%7D%5E%7Bn-1%7D%5Cfrac%7Ba_s%7D%7Bz%5Es%7D%5Cright%5C%7D%3Dz%5EnR_n%28z%29%3Da_n.\" alt=\"z^n\\left\\{f(z)-\\sum_{s=0}^{n-1}\\frac{a_s}{z^s}\\right\\}=z^nR_n(z)=a_n.\" eeimg=\"1\"/> </p><p>所以</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Clim_%7Bz%5Cto%5Cinfty+%7Dz%5En%5Cleft%5C%7Bf%28z%29-%5Csum_%7Bs%3D0%7D%5E%7Bn-1%7D%5Cfrac%7Ba_s%7D%7Bz%5Es%7D%5Cright%5C%7D%5Cto+a_n%5C%5C%5CLeftrightarrow+f%28x%29%E6%9C%89%E5%9E%8B%E5%A6%82%5Csum_%7Bs%3D0%7D%5E%7B%5Cinfty%7Da_sz%5E%7B-s%7D%E7%9A%84%E6%B8%90%E8%BF%91%E7%BA%A7%E6%95%B0%E5%AD%98%E5%9C%A8\" alt=\"\\lim_{z\\to\\infty }z^n\\left\\{f(z)-\\sum_{s=0}^{n-1}\\frac{a_s}{z^s}\\right\\}\\to a_n\\\\\\Leftrightarrow f(x)有型如\\sum_{s=0}^{\\infty}a_sz^{-s}的渐近级数存在\" eeimg=\"1\"/> </p><p class=\"ztext-empty-paragraph\"><br/></p><p>唯一性也不难证明~，即给定 f(z) 若存在渐近级数 <img src=\"https://www.zhihu.com/equation?tex=%5C%28%5Csum_%7Bs%3D0%7D%5E%7B%5Cinfty%7Da_sz%5E%7B-s%7D%5C%29\" alt=\"\\(\\sum_{s=0}^{\\infty}a_sz^{-s}\\)\" eeimg=\"1\"/> ，则这级数唯一。</p><p>下面介绍一个定理：</p><blockquote>在以无穷为中心的去心邻域内，若 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29\" alt=\"f(z)\" eeimg=\"1\"/> 是单值解析的，且 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29%5Csim%5Csum_%7Bs%3Dn%7D%5E%7B%5Cinfty%7Da_sz%5E%7B-s%7D%5Cquad%28%5Cforall+%5Carg+z%2C%5C%2Cz%5Cto%5Cinfty%29\" alt=\"f(z)\\sim\\sum_{s=n}^{\\infty}a_sz^{-s}\\quad(\\forall \\arg z,\\,z\\to\\infty)\" eeimg=\"1\"/> ，其中 n 是一个整数，那么 <img src=\"https://www.zhihu.com/equation?tex=%5Csum_%7Bs%3Dn%7D%5E%7B%5Cinfty%7Da_sz%5E%7B-s%7D%5C\" alt=\"\\sum_{s=n}^{\\infty}a_sz^{-s}\\\" eeimg=\"1\"/> 这个渐近展开在该邻域内都收敛到 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29\" alt=\"f(z)\" eeimg=\"1\"/> :<br/>证明：可由Laurent展开得到，即洛朗展开就是这函数的渐近展开。<br/>令 <img src=\"https://www.zhihu.com/equation?tex=%7Cz%7C%3ER\" alt=\"|z|&gt;R\" eeimg=\"1\"/> 为题目中的邻域，将 f(z) 展开 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29%3D%5Csum_%7B-%5Cinfty%7D%5E%7B%5Cinfty%7D%5Cfrac%7Bb_s%7D%7Bz%5Es%7D\" alt=\"f(z)=\\sum_{-\\infty}^{\\infty}\\frac{b_s}{z^s}\" eeimg=\"1\"/> ，其中系数 <img src=\"https://www.zhihu.com/equation?tex=b_s%3D%5Cfrac%7B1%7D%7B2%5Cpi+i%7D%5Cint_%7B%7Cz%7C%3D%5Crho%7Df%28z%29z%5E%7Bs-1%7Ddz%5Cquad+%28%5Crho%3ER%29\" alt=\"b_s=\\frac{1}{2\\pi i}\\int_{|z|=\\rho}f(z)z^{s-1}dz\\quad (\\rho&gt;R)\" eeimg=\"1\"/> ，当 <img src=\"https://www.zhihu.com/equation?tex=%5Crho%5Cto%5Cinfty\" alt=\"\\rho\\to\\infty\" eeimg=\"1\"/> 时，由于 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29%3D%5Cmathcal%7BO%7D%28z%5E%7B-n%7D%29\" alt=\"f(z)=\\mathcal{O}(z^{-n})\" eeimg=\"1\"/> ，所以若 <img src=\"https://www.zhihu.com/equation?tex=s%3Cn\" alt=\"s&lt;n\" eeimg=\"1\"/> ，则 <img src=\"https://www.zhihu.com/equation?tex=b_%7Bs%3Cn%7D%3D0\" alt=\"b_{s&lt;n}=0\" eeimg=\"1\"/> . 所以 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29%3D%5Csum_%7Bs%3Dn%7D%5E%7B%5Cinfty%7D%5Cfrac%7Bb_s%7D%7Bz%5Es%7D\" alt=\"f(z)=\\sum_{s=n}^{\\infty}\\frac{b_s}{z^s}\" eeimg=\"1\"/> ，由之前的<a href=\"https://zhuanlan.zhihu.com/p/33357254\" class=\"internal\">定理</a>可以知道，这个Laurent展开也是渐近的，渐近的意思就是 <img src=\"https://www.zhihu.com/equation?tex=R_n%28z%29%3D%5Cmathcal%7BO%7D%28z%5E%7B-n%7D%29\" alt=\"R_n(z)=\\mathcal{O}(z^{-n})\" eeimg=\"1\"/> 。我们又由渐近展开展开的唯一性知道 <img src=\"https://www.zhihu.com/equation?tex=b_s%3Da_s\" alt=\"b_s=a_s\" eeimg=\"1\"/> ，所以 Laurent 展开和预先知道的渐近展开 <img src=\"https://www.zhihu.com/equation?tex=%5Csum_%7Bs%3Dn%7D%5E%7B%5Cinfty%7Da_sz%5E%7B-s%7D\" alt=\"\\sum_{s=n}^{\\infty}a_sz^{-s}\" eeimg=\"1\"/> 相等，而我们知道解析函数的 Laurent 展开总是收敛的。这就证明了定理。重点在于，渐近展开对 f(z) 在无穷远处的行为作了限制。</blockquote><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-500a47adc1e3ba9aa11893fed5ffbdb8_b.jpg\" data-size=\"normal\" data-rawwidth=\"292\" data-rawheight=\"326\" class=\"content_image\" width=\"292\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;292&#39; height=&#39;326&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"292\" data-rawheight=\"326\" class=\"content_image lazy\" width=\"292\" data-actualsrc=\"https://pic1.zhimg.com/v2-500a47adc1e3ba9aa11893fed5ffbdb8_b.jpg\"/><figcaption>Frank W.J. Olver, （1924–2013）， Asymptotics and Special Functions 一书的作者</figcaption></figure><p>二、渐近展开的除法、积分</p><p>给定一个渐近展开 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29%5Csim+f_0%2B%5Cfrac%7Bf_1%7D%7Bz%7D%2B%5Cfrac%7Bf_2%7D%7Bz%5E2%7D%2B%5Ccdots\" alt=\"f(z)\\sim f_0+\\frac{f_1}{z}+\\frac{f_2}{z^2}+\\cdots\" eeimg=\"1\"/>，我们形式上地尝试求它的倒数的渐近级数，并考察是否真的渐近：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7D%26%5Cfrac%7B1%7D%7Bf%28z%29%7D%5C%5C%3D%26%5Cfrac%7B1%7D%7Bf_0%2BF_1%28z%29%7D+%5C%5C+%3D%26+%5Csum_%7Bs%3D0%7D%5E%7Bn-1%7D%5Cfrac%7B%28-%29%5Es%7D%7Bf_0%5E%7Bs%2B1%7D%7D%5Cleft%5C%7B+%5Cfrac%7Bf_1%7D%7Bz%7D%2B%5Ccdots%2B%5Cfrac%7Bf_%7Bn-1%7D%7D%7Bz%5E%7Bn-1%7D%7D%2B%5Cmathcal%7BO%7D%28z%5E%7B-n%7D%29%5Cright%5C%7D%5Es%2B%5Cfrac%7B%28-%29%5En%5B%5Cmathcal%7BO%7D%28z%5E%7B-1%7D%29%5D%5En%7D%7Bf_0%5En%5C%7Bf_0%2B%5Cmathcal%7BO%7D%28n%5E%7B-1%7D%29%5C%7D%7D+%5C%5C+%3D%26+%5Csum_%7Bs%3D0%7D%5E%7Bn-1%7D%5Cleft%5C%7B%5Cfrac%7Bk_s%7D%7Bz%5Es%7D%5Cright%5C%7D%2B%5Csum_%7Bs%3D0%7D%5E%7Bn%28n-1%29%7D%5Cmathcal%7BO%7D%28z%5E%7B-s%7D%29+%2B%5Cmathcal%7BO%7D%28z%5E%7B-n%7D%29+%5C%5C+%3D%26%5Csum_%7Bs%3D0%7D%5E%7Bn-1%7D%5Cfrac%7Bk_s%7D%7Bz%5Es%7D%2B%5Cmathcal%7BO%7D%28z%5E%7B-n%7D%29+%5Cend%7Balign%7D\" alt=\"\\begin{align}&amp;\\frac{1}{f(z)}\\\\=&amp;\\frac{1}{f_0+F_1(z)} \\\\ =&amp; \\sum_{s=0}^{n-1}\\frac{(-)^s}{f_0^{s+1}}\\left\\{ \\frac{f_1}{z}+\\cdots+\\frac{f_{n-1}}{z^{n-1}}+\\mathcal{O}(z^{-n})\\right\\}^s+\\frac{(-)^n[\\mathcal{O}(z^{-1})]^n}{f_0^n\\{f_0+\\mathcal{O}(n^{-1})\\}} \\\\ =&amp; \\sum_{s=0}^{n-1}\\left\\{\\frac{k_s}{z^s}\\right\\}+\\sum_{s=0}^{n(n-1)}\\mathcal{O}(z^{-s}) +\\mathcal{O}(z^{-n}) \\\\ =&amp;\\sum_{s=0}^{n-1}\\frac{k_s}{z^s}+\\mathcal{O}(z^{-n}) \\end{align}\" eeimg=\"1\"/> </p><p>其中 <img src=\"https://www.zhihu.com/equation?tex=F_1%28z%29%3D%5Cmathcal%7BO%7D%28n%5E%7B-1%7D%29\" alt=\"F_1(z)=\\mathcal{O}(n^{-1})\" eeimg=\"1\"/> </p><p>第二个等号是我们之前说过的 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B1%7D%7B1%2Bt%7D\" alt=\"\\frac{1}{1+t}\" eeimg=\"1\"/> 的<a href=\"https://zhuanlan.zhihu.com/p/33350417\" class=\"internal\">精确和</a>的一个应用。</p><p>式中其中 <img src=\"https://www.zhihu.com/equation?tex=k_s\" alt=\"k_s\" eeimg=\"1\"/> 可以递推地求得：</p><p>作如下考虑</p><p><img src=\"https://www.zhihu.com/equation?tex=f%28z%29%5Ccdot%5Cfrac%7B1%7D%7Bf%28z%29%7D%3D1\" alt=\"f(z)\\cdot\\frac{1}{f(z)}=1\" eeimg=\"1\"/> </p><p>那么 <img src=\"https://www.zhihu.com/equation?tex=%5Cleft%28f_0%2Bf_1%2Fz%2Bf_2%2Fz%5E2%2B%5Ccdots%5Cright%29%28k_0%2Bk_1%2Fz%2Bk_2%2Fz%5E2%2B%5Ccdots%29%3D1%2B0%2Fz%2B0%2F+z%5E2%2B%5Ccdots\" alt=\"\\left(f_0+f_1/z+f_2/z^2+\\cdots\\right)(k_0+k_1/z+k_2/z^2+\\cdots)=1+0/z+0/ z^2+\\cdots\" eeimg=\"1\"/> </p><p>对应项相等即可求得前几项为</p><p><img src=\"https://www.zhihu.com/equation?tex=k_0%3D1%2Ff_0%3B%5C%2Ck_1%3D-f_1%2Ff_0%5E2%3B%5C%2Ck_2%3D%28f_1%5E2-f_0f_2%29%2Ff_0%5E3\" alt=\"k_0=1/f_0;\\,k_1=-f_1/f_0^2;\\,k_2=(f_1^2-f_0f_2)/f_0^3\" eeimg=\"1\"/> </p><p>实际上有递推式：</p><p><img src=\"https://www.zhihu.com/equation?tex=k_s%3D%5Cfrac%7B-%28f_1k_%7Bs-1%7D%2Bf_2k_%7Bs-2%7D%2B%5Ccdots%2Bf_sk_0%29%7D%7Bf_0%7D\" alt=\"k_s=\\frac{-(f_1k_{s-1}+f_2k_{s-2}+\\cdots+f_sk_0)}{f_0}\" eeimg=\"1\"/> .</p><p>由于上面的式子对所有的 n 都成立，我们可以断言，渐近级数的倒数存在。</p><p>对函数渐近展开的乘除法更详细的论述可以在 A. Erdelyi 的 Asymptotic Expansion 一书中找到（P17 , Dover Publication, 1956）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>渐近展开的积分形式上比较容易得到，</p><p>先考虑 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29\" alt=\"f(z)\" eeimg=\"1\"/> 的前 n+1 项渐近展开：</p><p><img src=\"https://www.zhihu.com/equation?tex=f%28z%29%5Csim+f_0%2Bf_1%2Fz%2Bf_2%2Fz%5En%2B%5Ccdots%2Bf_n%2Fz%5E%7Bn%7D%2B%5Cmathcal%7BO%7D%28z%5E%7B-n-1%7D%29\" alt=\"f(z)\\sim f_0+f_1/z+f_2/z^n+\\cdots+f_n/z^{n}+\\mathcal{O}(z^{-n-1})\" eeimg=\"1\"/> ，需要注意的是前两项在 <img src=\"https://www.zhihu.com/equation?tex=%28x%2C%5Cinfty%29\" alt=\"(x,\\infty)\" eeimg=\"1\"/> 区间内的积分发散，所以，我们仅考虑 f(z) 减掉前两项之后（即 <img src=\"https://www.zhihu.com/equation?tex=%5Cbar%7Bf%7D%28z%29%5Cequiv+f%28z%29-f_0-%5Cfrac%7Bf_1%7D%7Bt%7D\" alt=\"\\bar{f}(z)\\equiv f(z)-f_0-\\frac{f_1}{t}\" eeimg=\"1\"/> ）的积分： <img src=\"https://www.zhihu.com/equation?tex=%5Cint%5E%5Cinfty_x%5Cleft%5C%7Bf%28z%29-f_0-%5Cfrac%7Bf_1%7D%7Bt%7D%5Cright%5C%7Ddt\" alt=\"\\int^\\infty_x\\left\\{f(z)-f_0-\\frac{f_1}{t}\\right\\}dt\" eeimg=\"1\"/> .</p><p>考虑 <img src=\"https://www.zhihu.com/equation?tex=%5Cbar%7Bf%7D%28z%29\" alt=\"\\bar{f}(z)\" eeimg=\"1\"/> ，我们有 <img src=\"https://www.zhihu.com/equation?tex=%7C%5Cbar%7Bf%7D%28z%29-f_2%2Fz%5En%2B%5Ccdots%2Bf_n%2Fz%5E%7Bn%7D%7C%3CA%5Cleft%7C%5Cfrac%7B%7B1%7D%7D%7Bz%5E%7Bn%2B1%7D%7D%5Cright%7C%5Cquad%28%7Cz%7C%3ER%29\" alt=\"|\\bar{f}(z)-f_2/z^n+\\cdots+f_n/z^{n}|&lt;A\\left|\\frac{{1}}{z^{n+1}}\\right|\\quad(|z|&gt;R)\" eeimg=\"1\"/> </p><p>形式上地，写出到第 n 次幂的渐近展开的积分：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cint_x%5E%5Cinfty+%5C%7Bf_2%2Fz%5E2%2B%5Ccdots%2Bf_n%2Fz%5En%5C%7Ddt%3D%5Cfrac%7Bf_2%7D%7Bz%7D%2B%5Cfrac%7Bf_3%7D%7B2z%5E2%7D%2B%5Cfrac%7Bf_4%7D%7B3z%5E3%7D%5Ccdots%5Cfrac%7Bf_n%7D%7B%28n-1%29z%5E%7Bn-1%7D%7D\" alt=\"\\int_x^\\infty \\{f_2/z^2+\\cdots+f_n/z^n\\}dt=\\frac{f_2}{z}+\\frac{f_3}{2z^2}+\\frac{f_4}{3z^3}\\cdots\\frac{f_n}{(n-1)z^{n-1}}\" eeimg=\"1\"/> </p><p>那么由上面那个不等式可以得到</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7D%26+%5Cleft%7C%5Cint_x%5E%5Cinfty%5Cbar%7Bf%7D%28z%29%5C%2Cdz-%5Cint_x%5E%5Cinfty+%5C%7B+f_2%2Fz%5En%2B%5Ccdots%2Bf_n%2Fz%5E%7Bn%7D%5C%7Ddz%5Cright%7C+%5C%5C+%3D%26+%5Cleft%7C%5Cint_x%5E%5Cinfty%5C%7B%5Cbar%7Bf%7D%28z%29%5C%2C-+%28+f_2%2Fz%5En%2B%5Ccdots%2Bf_n%2Fz%5E%7Bn%7D%29%5C%7Ddz%5Cright%7C+%5C%5C+%5Cleqslant%26+%5Cint_x%5E%5Cinfty%5Cleft%7C+%5C%7B%5Cbar%7Bf%7D%28z%29%5C%2C-+%28+f_2%2Fz%5En%2B%5Ccdots%2Bf_n%2Fz%5E%7Bn%7D%29%5C%7D+%5Cright%7Cdz+%5C%5C+%3D%26A%5Cint_x%5E%5Cinfty+%5Cleft%7C%5Cfrac%7B1%7D%7Bz%5En%7D%5Cright%7Cdz%5C%5C+%5Cleqslant%26%5Cfrac%7BA%7D%7Bn%2B1%7D%7Cx%7C%5E%7B-n-1%7D%3D%5Cmathcal%7BO%7D%28x%5E%7B-n-1%7D%29+%5Cend%7Balign%7D\" alt=\"\\begin{align}&amp; \\left|\\int_x^\\infty\\bar{f}(z)\\,dz-\\int_x^\\infty \\{ f_2/z^n+\\cdots+f_n/z^{n}\\}dz\\right| \\\\ =&amp; \\left|\\int_x^\\infty\\{\\bar{f}(z)\\,- ( f_2/z^n+\\cdots+f_n/z^{n})\\}dz\\right| \\\\ \\leqslant&amp; \\int_x^\\infty\\left| \\{\\bar{f}(z)\\,- ( f_2/z^n+\\cdots+f_n/z^{n})\\} \\right|dz \\\\ =&amp;A\\int_x^\\infty \\left|\\frac{1}{z^n}\\right|dz\\\\ \\leqslant&amp;\\frac{A}{n+1}|x|^{-n-1}=\\mathcal{O}(x^{-n-1}) \\end{align}\" eeimg=\"1\"/> </p><p>由此推出 <img src=\"https://www.zhihu.com/equation?tex=%5Cleft%7C%5Cint_x%5E%5Cinfty+%5C%7Bf_2%2Fz%5E2%2B%5Ccdots%2Bf_n%2Fz%5En%5C%7Ddt%5Cright%7C%3D%5Cmathcal%7BO%7D%28z%5E%7B-n-1%7D%29\" alt=\"\\left|\\int_x^\\infty \\{f_2/z^2+\\cdots+f_n/z^n\\}dt\\right|=\\mathcal{O}(z^{-n-1})\" eeimg=\"1\"/> </p><p>这就说明，对 f(z) 的渐近展开积分后得到的那个级数也是渐近的，即 <img src=\"https://www.zhihu.com/equation?tex=%5Cbar%7BR%7D_n%28z%29%3D%5Cmathcal%7BO%7D%28z%5E%7B-n%7D%29\" alt=\"\\bar{R}_n(z)=\\mathcal{O}(z^{-n})\" eeimg=\"1\"/> .</p>", 
+            "topic": [
+                {
+                    "tag": "数学分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19622000"
+                }, 
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }, 
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>A. Erdelyi 的 Asymptotic Expansion 这本书，Dover最近又翻印了，而且很便宜，虽说只有一百多页。</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "「已注销」", 
+                            "userLink": "https://www.zhihu.com/people/e76942afb8b82a3ccf149c5ae2f18819", 
+                            "content": "你好，我对渐近分析兴趣颇大，不知有什么优秀的文献提供吗？网络上的相关资源很短缺，搜寻laplace渐近方法这种基础的都很少。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "我想我明天可以尽早回复你，因为我不大记得这些书籍和讲义准确的名字", 
+                            "likes": 0, 
+                            "replyToAuthor": "「已注销」"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33584374", 
+            "userName": "「已注销」", 
+            "userLink": "https://www.zhihu.com/people/7f5c64e2fc5c5b0b001083ffd0aead8f", 
+            "upvote": 40, 
+            "title": "7 超越方程的渐近级数解（续）", 
+            "content": "<p>再看一个超越方程的例子： <img src=\"https://www.zhihu.com/equation?tex=x%5Ctan+x%3D1\" alt=\"x\\tan x=1\" eeimg=\"1\"/> ，即 <img src=\"https://www.zhihu.com/equation?tex=x%3Dn%5Cpi%2B%5Ctan%5E%7B-1%7D%281%2Fx%29\" alt=\"x=n\\pi+\\tan^{-1}(1/x)\" eeimg=\"1\"/> ，知道 <img src=\"https://www.zhihu.com/equation?tex=%5Ctan%5E%7B-1%7D%281%2Fx%29%5Cin%28-%5Cfrac%7B1%7D%7B2%7D%5Cpi%2C%5Cfrac%7B1%7D%7B2%7D%5Cpi%29\" alt=\"\\tan^{-1}(1/x)\\in(-\\frac{1}{2}\\pi,\\frac{1}{2}\\pi)\" eeimg=\"1\"/> ，也就是说 <img src=\"https://www.zhihu.com/equation?tex=%5Carctan%3D%5Ctan%5E%7B-1%7D\" alt=\"\\arctan=\\tan^{-1}\" eeimg=\"1\"/> 有界（我们取主值）。那么 <img src=\"https://www.zhihu.com/equation?tex=x%28n%29%5Csim+n%5Cpi%5Cquad%28n%5Cto%5Cinfty%29\" alt=\"x(n)\\sim n\\pi\\quad(n\\to\\infty)\" eeimg=\"1\"/> . 这从图上可以直观的看到：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ff42531304bf278db7566f210384edfb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"567\" data-rawheight=\"349\" class=\"origin_image zh-lightbox-thumb\" width=\"567\" data-original=\"https://pic4.zhimg.com/v2-ff42531304bf278db7566f210384edfb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;567&#39; height=&#39;349&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"567\" data-rawheight=\"349\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"567\" data-original=\"https://pic4.zhimg.com/v2-ff42531304bf278db7566f210384edfb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ff42531304bf278db7566f210384edfb_b.jpg\"/></figure><p>可以看见， <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B1%7D%7Bx%7D\" alt=\"\\frac{1}{x}\" eeimg=\"1\"/> 与 <img src=\"https://www.zhihu.com/equation?tex=%5Ctan+x\" alt=\"\\tan x\" eeimg=\"1\"/> 的交点不断地逼近 <img src=\"https://www.zhihu.com/equation?tex=n%5Cpi\" alt=\"n\\pi\" eeimg=\"1\"/> 。</p><p>分析地而言，我们可将 <img src=\"https://www.zhihu.com/equation?tex=%5Ctan%5E%7B-1%7D%281%2Fx%29\" alt=\"\\tan^{-1}(1/x)\" eeimg=\"1\"/> 展开： <img src=\"https://www.zhihu.com/equation?tex=%5Ctan%5E%7B-1%7D%281%2Fx%29%3D%5Cfrac%7B1%7D%7Bx%7D-%5Cfrac%7B1%7D%7B3x%5E3%7D%2B%5Cfrac%7B1%7D%7B5x%5E5%7D-%5Cfrac%7B1%7D%7B7x%5E7%7D%2B%5Ccdots\" alt=\"\\tan^{-1}(1/x)=\\frac{1}{x}-\\frac{1}{3x^3}+\\frac{1}{5x^5}-\\frac{1}{7x^7}+\\cdots\" eeimg=\"1\"/> </p><p>所以 <img src=\"https://www.zhihu.com/equation?tex=x%3Dn%5Cpi%2BO%28x%5E%7B-1%7D%29%3Dn%5Cpi%2BO%28n%5E%7B-1%7D%29\" alt=\"x=n\\pi+O(x^{-1})=n\\pi+O(n^{-1})\" eeimg=\"1\"/> ，逐项代入</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7D+x%26%3Dn%5Cpi%2B%5Cfrac%7B1%7D%7Bn%5Cpi%2BO%28n%5E%7B-1%7D%29%7D%2BO%28%5Cfrac%7B1%7D%7Bn%5E3%7D%29%5C%5C+%26%3Dn%5Cpi%2B%5Cfrac%7B1%7D%7Bn%5Cpi%7D%5C%7B1%2B%5Cfrac%7BO%28n%5E%7B-1%7D%29%7D%7Bn%5Cpi%7D%29%5C%7D%2BO%28%5Cfrac%7B1%7D%7Bn%5E3%7D%29%5C%5C+%26%3Dn%5Cpi%2B%5Cfrac%7B1%7D%7Bn%5Cpi%7D%2BO%28%5Cfrac%7B1%7D%7Bn%5E3%7D%29%5Cend%7Balign%7D\" alt=\"\\begin{align} x&amp;=n\\pi+\\frac{1}{n\\pi+O(n^{-1})}+O(\\frac{1}{n^3})\\\\ &amp;=n\\pi+\\frac{1}{n\\pi}\\{1+\\frac{O(n^{-1})}{n\\pi})\\}+O(\\frac{1}{n^3})\\\\ &amp;=n\\pi+\\frac{1}{n\\pi}+O(\\frac{1}{n^3})\\end{align}\" eeimg=\"1\"/> </p><p>再代入一次：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7D+x%26%3Dn%5Cpi%2B%5Cfrac%7B1%7D%7Bn%5Cpi%2B%5Cfrac%7B1%7D%7Bn%5Cpi%7D%2BO%28%5Cfrac%7B1%7D%7Bn%5E3%7D%29%7D-%5Cfrac%7B1%7D%7B3%5C%7Bn%5Cpi%2B%5Cfrac%7B1%7D%7Bn%5Cpi%7D%2BO%5Cfrac%7B1%7D%7Bn%5E3%7D%29%5C%7D%5E3%7D%2BO%28%5Cfrac%7B1%7D%7Bx%5E5%7D%29%5C%5C+%26%3D+n%5Cpi%2B%5Cfrac%7B1%7D%7Bn%5Cpi%7D-%5Cfrac%7B4%7D%7B3%28n%5Cpi%29%5E3%7D%2BO%28%5Cfrac%7B1%7D%7Bn%5E5%7D%29%5Cend%7Balign%7D\" alt=\"\\begin{align} x&amp;=n\\pi+\\frac{1}{n\\pi+\\frac{1}{n\\pi}+O(\\frac{1}{n^3})}-\\frac{1}{3\\{n\\pi+\\frac{1}{n\\pi}+O\\frac{1}{n^3})\\}^3}+O(\\frac{1}{x^5})\\\\ &amp;= n\\pi+\\frac{1}{n\\pi}-\\frac{4}{3(n\\pi)^3}+O(\\frac{1}{n^5})\\end{align}\" eeimg=\"1\"/> </p><p>值得注意的是，每一次都要向 <img src=\"https://www.zhihu.com/equation?tex=%5Ctan%5E%7B-1%7Dx\" alt=\"\\tan^{-1}x\" eeimg=\"1\"/> 即修正项中代入新的值，而不是只代入更高一阶的项中。</p><p>值得指出，这个代入的过程与级数反演的过程等价，我们来详细考察一下方程 <img src=\"https://www.zhihu.com/equation?tex=x%5Ctan+x%3D1\" alt=\"x\\tan x=1\" eeimg=\"1\"/> ，正如上面所说，当n大时， <img src=\"https://www.zhihu.com/equation?tex=x%5Csim+n%5Cpi\" alt=\"x\\sim n\\pi\" eeimg=\"1\"/> ，那么可以设 <img src=\"https://www.zhihu.com/equation?tex=x%3Dn%5Cpi%2B%5Cdelta\" alt=\"x=n\\pi+\\delta\" eeimg=\"1\"/> ， <img src=\"https://www.zhihu.com/equation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"/>  是 <img src=\"https://www.zhihu.com/equation?tex=O%281%29\" alt=\"O(1)\" eeimg=\"1\"/> 的，将其代入原方程中得到 <img src=\"https://www.zhihu.com/equation?tex=%28n%5Cpi%2B%5Cdelta%29%5Ctan+%28n%5Cpi%2B%5Cdelta%29%3D1\" alt=\"(n\\pi+\\delta)\\tan (n\\pi+\\delta)=1\" eeimg=\"1\"/> ，将左边按照 <img src=\"https://www.zhihu.com/equation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"/> 展开，得到： <img src=\"https://www.zhihu.com/equation?tex=n%5Cpi+%5Cdelta+%2B%5Cdelta+%5E2%2B%5Cfrac%7B1%7D%7B3%7D+n%5Cpi+%5Cdelta+%5E3%2B%5Cfrac%7B%5Cdelta+%5E4%7D%7B3%7D%2B%5Cfrac%7B2%7D%7B15%7Dn+%5Cpi+%5Cdelta+%5E5+%2BO%5Cleft%28%5Cdelta+%5E6%5Cright%29%3D1\" alt=\"n\\pi \\delta +\\delta ^2+\\frac{1}{3} n\\pi \\delta ^3+\\frac{\\delta ^4}{3}+\\frac{2}{15}n \\pi \\delta ^5 +O\\left(\\delta ^6\\right)=1\" eeimg=\"1\"/> </p><p>现在进行级数反演，即对上式中左端的幂级数反演：</p><p>令 <img src=\"https://www.zhihu.com/equation?tex=t%3Dn%5Cpi+%5Cdelta+%2B%5Cdelta+%5E2%2B%5Cfrac%7B1%7D%7B3%7D+n%5Cpi+%5Cdelta+%5E3%2B%5Cfrac%7B%5Cdelta+%5E4%7D%7B3%7D%2B%5Cfrac%7B2%7D%7B15%7Dn+%5Cpi+%5Cdelta+%5E5+%2BO%5Cleft%28%5Cdelta+%5E6%5Cright%29\" alt=\"t=n\\pi \\delta +\\delta ^2+\\frac{1}{3} n\\pi \\delta ^3+\\frac{\\delta ^4}{3}+\\frac{2}{15}n \\pi \\delta ^5 +O\\left(\\delta ^6\\right)\" eeimg=\"1\"/> </p><p>设 <img src=\"https://www.zhihu.com/equation?tex=%5Cdelta%3D%5Csum_%7Bi%3D0%7D%5E%5Cinfty+a_i+t%5Ei\" alt=\"\\delta=\\sum_{i=0}^\\infty a_i t^i\" eeimg=\"1\"/> ，代入到上式中，然后两边系数相等即可求出 <img src=\"https://www.zhihu.com/equation?tex=a_i\" alt=\"a_i\" eeimg=\"1\"/> . 然后令 <img src=\"https://www.zhihu.com/equation?tex=t%3D1\" alt=\"t=1\" eeimg=\"1\"/> 就得到我们可爱的修正项 <img src=\"https://www.zhihu.com/equation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"/> 的渐近表达式了。</p><p>在 Mathematica 中 用 InverseSeries 命令可以一步搞定：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7D%5Cdelta%26%3D%5Cfrac%7Bt%7D%7B%5Cpi+n%7D-%5Cfrac%7Bt%5E2%7D%7B%5Cpi+%5E3+n%5E3%7D%2B%5Cfrac%7B%5Cleft%286-%5Cpi+%5E2+n%5E2%5Cright%29+t%5E3%7D%7B3+%5Cpi+%5E5+n%5E5%7D%2B%5Cfrac%7B%5Cleft%284+%5Cpi+%5E2+n%5E2-15%5Cright%29+t%5E4%7D%7B3+%5Cpi+%5E7+n%5E7%7D%2B%5Cfrac%7B%5Cleft%28%5Cpi+%5E4+n%5E4-25+%5Cpi+%5E2+n%5E2%2B70%5Cright%29+t%5E5%7D%7B5+%5Cpi+%5E9+n%5E9%7D%2BO%5Cleft%28t%5E6%5Cright%29%5C%5C+%26%5Coverset%7Bt%3D1%7D%5Crightarrow%5Cfrac%7B1%7D%7B%5Cpi+n%7D-%5Cfrac%7B1%7D%7B%5Cpi+%5E3+n%5E3%7D%2B%5Cfrac%7B4+%5Cpi+%5E2+n%5E2-15%7D%7B3+%5Cpi+%5E7+n%5E7%7D%2B%5Cfrac%7B6-%5Cpi+%5E2+n%5E2%7D%7B3+%5Cpi+%5E5+n%5E5%7D%2B%5Cfrac%7B%5Cpi+%5E4+n%5E4-25+%5Cpi+%5E2+n%5E2%2B70%7D%7B5+%5Cpi+%5E9+n%5E9%7D+%5Cend%7Balign%7D\" alt=\"\\begin{align}\\delta&amp;=\\frac{t}{\\pi n}-\\frac{t^2}{\\pi ^3 n^3}+\\frac{\\left(6-\\pi ^2 n^2\\right) t^3}{3 \\pi ^5 n^5}+\\frac{\\left(4 \\pi ^2 n^2-15\\right) t^4}{3 \\pi ^7 n^7}+\\frac{\\left(\\pi ^4 n^4-25 \\pi ^2 n^2+70\\right) t^5}{5 \\pi ^9 n^9}+O\\left(t^6\\right)\\\\ &amp;\\overset{t=1}\\rightarrow\\frac{1}{\\pi n}-\\frac{1}{\\pi ^3 n^3}+\\frac{4 \\pi ^2 n^2-15}{3 \\pi ^7 n^7}+\\frac{6-\\pi ^2 n^2}{3 \\pi ^5 n^5}+\\frac{\\pi ^4 n^4-25 \\pi ^2 n^2+70}{5 \\pi ^9 n^9} \\end{align}\" eeimg=\"1\"/> </p><p>值得提到，这个例子写进了Maple教程<i> Essential Maple 7: An Introduction for Scientific Programmers</i>中。见此书 P85.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>这个例子在<i> Numerical Methods for Special Functions </i>一书中被多次反复不厌其烦地拿来作 toy model。 要言不烦，可见其要。</p>", 
+            "topic": [
+                {
+                    "tag": "数学分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19622000"
+                }, 
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }, 
+                {
+                    "tag": "数值分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19665355"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "最后提到的这本书是本好书～", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "数学天才琪露诺", 
+                    "userLink": "https://www.zhihu.com/people/c6c9dc4cd09749bed7922020985dcede", 
+                    "content": "好厉害", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "酱紫君", 
+                    "userLink": "https://www.zhihu.com/people/a74574db96f2d0e717fc410bf90dd150", 
+                    "content": "你这个Mathematica版本有点老啊，新版默认不画出无穷渐近线", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "10.2版本😁", 
+                            "likes": 0, 
+                            "replyToAuthor": "酱紫君"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33554935", 
+            "userName": "「已注销」", 
+            "userLink": "https://www.zhihu.com/people/7f5c64e2fc5c5b0b001083ffd0aead8f", 
+            "upvote": 28, 
+            "title": "6 超越方程的渐近级数解", 
+            "content": "<p>一、一个超越方程</p><p>这样的方程 <img src=\"https://www.zhihu.com/equation?tex=x%2B%5Ctanh+x%3Du%5Cquad%28u%5Cin%5Cmathbb%7BR%7D%29\" alt=\"x+\\tanh x=u\\quad(u\\in\\mathbb{R})\" eeimg=\"1\"/> 是没有封闭解的，用渐近级数可以给一个解。</p><p>方程左端是严格增函数，所以从图像上可以想见，该方程一定有一个实根，而且当 <img src=\"https://www.zhihu.com/equation?tex=u\" alt=\"u\" eeimg=\"1\"/> 很大的时候，这个根也会很大，所以我们先来考虑 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 够大的情形。</p><p><img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 很大时，方程左边由 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 主导，因为我们知道 <img src=\"https://www.zhihu.com/equation?tex=%5Ctanh+x\" alt=\"\\tanh x\" eeimg=\"1\"/> 的图像是这样的（所以tanh 函数常用来模拟二元混合物界面密度）：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-6562a5f20446039bee0ede4d5ca06b95_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"399\" data-rawheight=\"410\" class=\"content_image\" width=\"399\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;399&#39; height=&#39;410&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"399\" data-rawheight=\"410\" class=\"content_image lazy\" width=\"399\" data-actualsrc=\"https://pic2.zhimg.com/v2-6562a5f20446039bee0ede4d5ca06b95_b.jpg\"/></figure><p>那么，将 <img src=\"https://www.zhihu.com/equation?tex=%5Ctanh+x\" alt=\"\\tanh x\" eeimg=\"1\"/> 视作修正项，我们可以写出方程的解 <img src=\"https://www.zhihu.com/equation?tex=x%28u%29%3D%28u-%5Ctanh+x%29%5Csim+u+%5Cquad%28u%5Cto%5Cinfty%29\" alt=\"x(u)=(u-\\tanh x)\\sim u \\quad(u\\to\\infty)\" eeimg=\"1\"/> .将其作为一阶近似代入修正项 <img src=\"https://www.zhihu.com/equation?tex=%5Ctanh+x%3D1-2e%5E%7B-2x%7D%2B2e%5E%7B-4x%7D-2e%5E%7B-6x%7D%2B%5Ccdots%5Cquad%28x%3E0%29\" alt=\"\\tanh x=1-2e^{-2x}+2e^{-4x}-2e^{-6x}+\\cdots\\quad(x&gt;0)\" eeimg=\"1\"/> ，可以得到逐阶的解。</p><p>具体而言，首先取 <img src=\"https://www.zhihu.com/equation?tex=%5Ctanh+x\" alt=\"\\tanh x\" eeimg=\"1\"/> 级数中的第一项得到：</p><p><img src=\"https://www.zhihu.com/equation?tex=x%3Du-1%2Bo%281%29+%5Cquad+u%5Cto%5Cinfty\" alt=\"x=u-1+o(1) \\quad u\\to\\infty\" eeimg=\"1\"/> </p><p>其中小o可由在<a href=\"https://zhuanlan.zhihu.com/p/33357254\" class=\"internal\">第二篇文章</a>中介绍的幂级数余项渐近定理得到（具体来说，收敛级数的n项后之和总与第n项有大O关系。在本例中，与 <img src=\"https://www.zhihu.com/equation?tex=2e%5E%7B-2x%7D\" alt=\"2e^{-2x}\" eeimg=\"1\"/> 有大O关系，也就与1有小o关系）</p><p>从上面的渐近关系出发，我们可以得到tanhx级数第二项的估计： <img src=\"https://www.zhihu.com/equation?tex=e%5E%7B-2x%7D%3DO%28e%5E%7B-2u%7D%29\" alt=\"e^{-2x}=O(e^{-2u})\" eeimg=\"1\"/> （注意，这个得到不是平凡的，它与我们之前介绍的例题有关系：<a href=\"https://www.zhihu.com/people/youknow_who/posts\" class=\"internal\">例题</a>，即 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29%5Csim%5Cphi%28x%29+%5Cquad%28x%5Cto%5Cinfty%29\" alt=\"f(x)\\sim\\phi(x) \\quad(x\\to\\infty)\" eeimg=\"1\"/> 不一定推得出 <img src=\"https://www.zhihu.com/equation?tex=e%5E%7Bf%28x%29%7D%5Csim+e%5E%7B%5Cphi%28x%29%7D\" alt=\"e^{f(x)}\\sim e^{\\phi(x)}\" eeimg=\"1\"/> ，所以不能由 <img src=\"https://www.zhihu.com/equation?tex=x%5Csim+u\" alt=\"x\\sim u\" eeimg=\"1\"/> 得出 <img src=\"https://www.zhihu.com/equation?tex=e%5E%7B-2x%7D%3DO%28+e%5E%7B-2u%7D%29\" alt=\"e^{-2x}=O( e^{-2u})\" eeimg=\"1\"/> ）</p><p>所以得到另一个版本的估计：</p><p><img src=\"https://www.zhihu.com/equation?tex=x%3Du-1%2BO%28e%5E%7B-2x%7D%29%3Du-1%2BO%28e%5E%7B-2u%7D%29\" alt=\"x=u-1+O(e^{-2x})=u-1+O(e^{-2u})\" eeimg=\"1\"/> </p><p>下一步就是</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7D+x%26%3Du-1%2B2%5Cexp%5C%7B-2u%2B2%2BO%28e%5E%7B-2u%7D%29%5C%7D%2BO%28e%5E%7B-4x%7D%29%5C%5C+%26%3Du-1%2B2e%5E%7B-2u%2B2%7D%2BO%28e%5E%7B-4u%7D%29+%5Cend%7Balign%7D\" alt=\"\\begin{align} x&amp;=u-1+2\\exp\\{-2u+2+O(e^{-2u})\\}+O(e^{-4x})\\\\ &amp;=u-1+2e^{-2u+2}+O(e^{-4u}) \\end{align}\" eeimg=\"1\"/> </p><p>对第二个等号作个解释：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7D+%5Cexp%5C%7BO%28e%5E%7B-2u%7D%29%5C%7D%26%3D1%2B%5Cfrac%7BO%28e%5E%7B-2u%7D%29O%28e%5E%7B-2u%7D%29%7D%7B2%21%7D%2B%5Ccdots%5C%5C+%26%3D1%2BO%28e%5E%7B-4u%7D%29%2B%5Ccdots+%5Cend%7Balign%7D\" alt=\"\\begin{align} \\exp\\{O(e^{-2u})\\}&amp;=1+\\frac{O(e^{-2u})O(e^{-2u})}{2!}+\\cdots\\\\ &amp;=1+O(e^{-4u})+\\cdots \\end{align}\" eeimg=\"1\"/> </p><p>其中的大O乘积可以用定义来验证。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>到这里，对该方程渐近解的分析告一段落。下面做数值计算稍微验证一下：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>当 u = 5 时，忽略渐近解中的 <img src=\"https://www.zhihu.com/equation?tex=O%28e%5E%7B-4u%7D%29\" alt=\"O(e^{-4u})\" eeimg=\"1\"/> ，则渐近解给出 <img src=\"https://www.zhihu.com/equation?tex=x%3D4.0006709\" alt=\"x=4.0006709\" eeimg=\"1\"/> ，精确解是 4.0006698</p><p>实际上，给出精确的误差估计公式也是能做到的。</p><p>只要注意到 <img src=\"https://www.zhihu.com/equation?tex=x%5Cin%28u-1%2Cu%2B1%29\" alt=\"x\\in(u-1,u+1)\" eeimg=\"1\"/> 即可给出~</p><p>看到这里的读者可以自己试着给出来，具体推导以后再写出来：</p><p>答案是：</p><p><img src=\"https://www.zhihu.com/equation?tex=x%3Du-1%2B2%5Cvartheta_1e%5E%7B-2u%2B2%7D\" alt=\"x=u-1+2\\vartheta_1e^{-2u+2}\" eeimg=\"1\"/> </p><p><img src=\"https://www.zhihu.com/equation?tex=x%3Du-1%2B2e%5E%7B-2u%2B2%7D-10%5Cvartheta+e%5E%7B-4u%2B4%7D\" alt=\"x=u-1+2e^{-2u+2}-10\\vartheta e^{-4u+4}\" eeimg=\"1\"/> </p><p>其中 <img src=\"https://www.zhihu.com/equation?tex=%5Cvartheta_1%2C%5Cvartheta_2\" alt=\"\\vartheta_1,\\vartheta_2\" eeimg=\"1\"/> 是 <img src=\"https://www.zhihu.com/equation?tex=%280%2C1%29\" alt=\"(0,1)\" eeimg=\"1\"/> 区间内的数~</p>", 
+            "topic": [
+                {
+                    "tag": "数学分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19622000"
+                }, 
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }, 
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "完美！", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33527095", 
+            "userName": "「已注销」", 
+            "userLink": "https://www.zhihu.com/people/7f5c64e2fc5c5b0b001083ffd0aead8f", 
+            "upvote": 3, 
+            "title": "5 对复平面内渐近关系的微分", 
+            "content": "<blockquote><b>定理</b>：若 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29\" alt=\"f(z)\" eeimg=\"1\"/> 在一个闭扇面 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbf%7BS%7D%3D%5C%7Bz%3A%5Calpha%5Cleq+%5Carg%28z-z_0%29%5Cleq+%5Cbeta%2C%7Cz-z_0%7C%5Cgeq+R%5Cgeq+0%5C%7D\" alt=\"\\mathbf{S}=\\{z:\\alpha\\leq \\arg(z-z_0)\\leq \\beta,|z-z_0|\\geq R\\geq 0\\}\" eeimg=\"1\"/> 全纯（解析，无奇点），且在 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbf%7BS%7D\" alt=\"\\mathbf{S}\" eeimg=\"1\"/> 内满足渐近关系： <img src=\"https://www.zhihu.com/equation?tex=f%28z%29%3DO%28z%5Ep%29%5Cquad%28z%5Cto%5Cinfty%2C%5C%2Cp%5Cin+%5Cmathbb%7BR%7D%29\" alt=\"f(z)=O(z^p)\\quad(z\\to\\infty,\\,p\\in \\mathbb{R})\" eeimg=\"1\"/> ，那么<br/> <img src=\"https://www.zhihu.com/equation?tex=f%5E%7B%28m%29%7D%28z%29%3DO%28z%5E%7Bp-m%7D%29\" alt=\"f^{(m)}(z)=O(z^{p-m})\" eeimg=\"1\"/> 在任意一个包含于 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbf%7BS%7D\" alt=\"\\mathbf{S}\" eeimg=\"1\"/> 的闭扇面 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbf%7BS%27%7D\" alt=\"\\mathbf{S&#39;}\" eeimg=\"1\"/> 内成立（要求 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbf%7BS%27%7D\" alt=\"\\mathbf{S&#39;}\" eeimg=\"1\"/> 与 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbf%7BS%7D\" alt=\"\\mathbf{S}\" eeimg=\"1\"/> 有相同的顶点）<br/>证明：由于 <img src=\"https://www.zhihu.com/equation?tex=%7Cz-%5Ctext%7Bconstant%7D%7C%5Ep%5Csim%7Cz%7C%5Ep\" alt=\"|z-\\text{constant}|^p\\sim|z|^p\" eeimg=\"1\"/> ，所以我们可以将扇面的顶点统一取为原点。将 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbf%7BS%27%7D\" alt=\"\\mathbf{S&#39;}\" eeimg=\"1\"/> 取成 <img src=\"https://www.zhihu.com/equation?tex=%5Cmathbf%7BS%27%7D%3D%5C%7Bz%3A%5Calpha-%5Cdelta%5Cleq+%5Carg%28z%29%5Cleq+%5Cbeta%2B%5Cdelta%2C%7Cz%7C%5Cgeq+R%27%5Cgeq+R%5Cgeq+0%5C%7D\" alt=\"\\mathbf{S&#39;}=\\{z:\\alpha-\\delta\\leq \\arg(z)\\leq \\beta+\\delta,|z|\\geq R&#39;\\geq R\\geq 0\\}\" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=%5Cdelta\" alt=\"\\delta\" eeimg=\"1\"/> 为正的。<br/>考虑 Cauchy 积分公式<br/> <img src=\"https://www.zhihu.com/equation?tex=f%5E%7B%28m%29%7D%28z%29%3D%5Cfrac%7Bm%21%7D%7B2%5Cpi%7D%5Cint_%5Cell%5Cfrac%7Bf%28t%29%5C%2Cdt%7D%7B%28t-z%29%5E%7Bm%2B1%7D%7D\" alt=\"f^{(m)}(z)=\\frac{m!}{2\\pi}\\int_\\ell\\frac{f(t)\\,dt}{(t-z)^{m+1}}\" eeimg=\"1\"/> <br/>将积分围道取成 <img src=\"https://www.zhihu.com/equation?tex=%7Ct-z%7C%3D%7Cz%7C%5Csin+%5Cdelta\" alt=\"|t-z|=|z|\\sin \\delta\" eeimg=\"1\"/> ，就是下图中的小圆~</blockquote><figure data-size=\"small\"><noscript><img src=\"https://pic3.zhimg.com/v2-552e9b65c21d5cd33169ed1de7a84222_b.jpg\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"776\" data-rawheight=\"764\" class=\"origin_image zh-lightbox-thumb\" width=\"776\" data-original=\"https://pic3.zhimg.com/v2-552e9b65c21d5cd33169ed1de7a84222_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;776&#39; height=&#39;764&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"776\" data-rawheight=\"764\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"776\" data-original=\"https://pic3.zhimg.com/v2-552e9b65c21d5cd33169ed1de7a84222_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-552e9b65c21d5cd33169ed1de7a84222_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>在这小圆上有这样的不等式： <img src=\"https://www.zhihu.com/equation?tex=%7Cz%7C%281-%5Csin%5Cdelta%29%5Cleqslant%7Ct%7C%5Cleqslant%7Cz%7C%281%2B%5Csin%5Cdelta%29\" alt=\"|z|(1-\\sin\\delta)\\leqslant|t|\\leqslant|z|(1+\\sin\\delta)\" eeimg=\"1\"/> ，上下限分别对应着图上 <img src=\"https://www.zhihu.com/equation?tex=%5Ctext%7Bph%7Dz%3D%5Carg+z%3D%5Cbeta-%5Cdelta\" alt=\"\\text{ph}z=\\arg z=\\beta-\\delta\" eeimg=\"1\"/> 这条线与小圆的两个交点。<br/>将 <img src=\"https://www.zhihu.com/equation?tex=f%28z%29%3DO%28z%5Ep%29%5Cquad%28z%5Cto%5Cinfty%2C%5C%2Cp%5Cin+%5Cmathbb%7BR%7D%29\" alt=\"f(z)=O(z^p)\\quad(z\\to\\infty,\\,p\\in \\mathbb{R})\" eeimg=\"1\"/> 写成 <img src=\"https://www.zhihu.com/equation?tex=%7Cf%28z%29%2Fz%5Ep%7C%5Cleqslant+K\" alt=\"|f(z)/z^p|\\leqslant K\" eeimg=\"1\"/> 的样子。<br/>则Cauchy积分成为：<br/> <img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7D%7C%26f%5E%7B%28m%29%7D%28z%29%7C%5C%5C%3D%26%5Cleft%7C%5Cfrac%7Bm%21%7D%7B2%5Cpi+i%7D%5Cint_%5Cell%5Cfrac%7Bf%28t%29%5C%2Cdt%7D%7B%28t-z%29%5E%7Bm%2B1%7D%7D%5Cright%7C%3D%5Cfrac%7Bm%21%7D%7B2%5Cpi%7D%5Cint_0%5E%7B2%5Cpi%7D%5Cfrac%7Bf%28t%29%7Cz%7C%5Csin%5Cdelta+%5C%2Cd%5Ctheta%7D%7B%28t-z%29%5E%7Bm%2B1%7D%7D%5C%5C+%5Cleqslant%26%5Cfrac%7Bm%21%7D%7B2%5Cpi%7D%5Cint_0%5E%7B2%5Cpi%7D%5Cleft%7C%5Cfrac%7Bf%28t%29%7Cz%7C%5Csin%5Cdelta%7D%7B%28t-z%29%5E%7Bm%2B1%7D%7D%5Cright%7C%5C%2Cd%5Ctheta%5Cleqslant%5Cfrac%7Bm%21%7D%7B2%5Cpi%7D%5Cint_0%5E%7B2%5Cpi%7D%5Cleft%7C%5Cfrac%7BKt%5Ep%7Cz%7C%5Csin%5Cdelta%7D%7B%28%7Cz%7C%5Csin%5Cdelta%29%5E%7Bm%2B1%7D%7D%5Cright%7C%5C%2Cd%5Ctheta%5C%5C+%3D%26%5Cfrac%7Bm%21%7D%7B2%5Cpi%7D%5Cfrac%7BK%7D%7B%28%7Cz%7C%5Csin%5Cdelta%29%5E%7Bm%7D%7D%5Cint_0%5E%7B2%5Cpi%7D%7Ct%5Ep%7C%5C%2Cd%5Ctheta%5C%5C+%5Cleqslant%26%5Cfrac%7Bm%21%7D%7B2%5Cpi%7D%5Cfrac%7BK%7D%7B%28%7Cz%7C%5Csin%5Cdelta%29%5E%7Bm%7D%7D%5Ctimes+%5Cmax_%7Bt%5Cin%5C%7Bt%3A%7Ct-z%7C%3D%7Cz%7C%5Csin%5Cdelta%5C%7D%7D%5C%7B%7Ct%5Ep%7C%5C%7D%5C%2Cd%5Ctheta%5C%5C+%3D%26%5Cfrac%7Bm%21K%7D%7B%28%7Cz%7C%5Csin%5Cdelta%29%5E%7Bm%7D%7D%7Cz%7C%5Ep%281%5Cpm%5Csin%5Cdelta%29%5Ep+%5Cend%7Balign%7D\" alt=\"\\begin{align}|&amp;f^{(m)}(z)|\\\\=&amp;\\left|\\frac{m!}{2\\pi i}\\int_\\ell\\frac{f(t)\\,dt}{(t-z)^{m+1}}\\right|=\\frac{m!}{2\\pi}\\int_0^{2\\pi}\\frac{f(t)|z|\\sin\\delta \\,d\\theta}{(t-z)^{m+1}}\\\\ \\leqslant&amp;\\frac{m!}{2\\pi}\\int_0^{2\\pi}\\left|\\frac{f(t)|z|\\sin\\delta}{(t-z)^{m+1}}\\right|\\,d\\theta\\leqslant\\frac{m!}{2\\pi}\\int_0^{2\\pi}\\left|\\frac{Kt^p|z|\\sin\\delta}{(|z|\\sin\\delta)^{m+1}}\\right|\\,d\\theta\\\\ =&amp;\\frac{m!}{2\\pi}\\frac{K}{(|z|\\sin\\delta)^{m}}\\int_0^{2\\pi}|t^p|\\,d\\theta\\\\ \\leqslant&amp;\\frac{m!}{2\\pi}\\frac{K}{(|z|\\sin\\delta)^{m}}\\times \\max_{t\\in\\{t:|t-z|=|z|\\sin\\delta\\}}\\{|t^p|\\}\\,d\\theta\\\\ =&amp;\\frac{m!K}{(|z|\\sin\\delta)^{m}}|z|^p(1\\pm\\sin\\delta)^p \\end{align}\" eeimg=\"1\"/> <br/>倒数第三步到第二步用到了我们的不等式。<br/>这就证明了定理。</blockquote>需要注意一点：在定理的陈述中，为什么渐近关系只在 \\mathbf{S} 的内部成立？从这个积分估值上可以看见，如果 \\delta\\to0 ，也就是 \\mathbf{S&#39;\\to S} ，则系数（也就是比值）趋于无穷，从而渐近关系失效。若在S`内部再重复一次如上证明，得到的不等式也完全相同，可我们知道渐近关系在S&#39; 上也是成立的，而不止在其内部成立。若用更好的围道，即能穿过扇面母线的围道，则结果改善。重点在于围道能否穿过边界。", 
+            "topic": [
+                {
+                    "tag": "数学分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19622000"
+                }, 
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }, 
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "围道积分换成角度积分一步有点笔误", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33511516", 
+            "userName": "「已注销」", 
+            "userLink": "https://www.zhihu.com/people/7f5c64e2fc5c5b0b001083ffd0aead8f", 
+            "upvote": 4, 
+            "title": "4 渐近关系的微（积）分", 
+            "content": "<p>通常情况下，对渐近关系直接微分是不可行的，举个例子：若 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29%3Dx%2B%5Ccos+x\" alt=\"f(x)=x+\\cos x\" eeimg=\"1\"/> ，则当 <img src=\"https://www.zhihu.com/equation?tex=x%5Cto%5Cinfty\" alt=\"x\\to\\infty\" eeimg=\"1\"/> 时， <img src=\"https://www.zhihu.com/equation?tex=f%28x%29%5Csim+x\" alt=\"f(x)\\sim x\" eeimg=\"1\"/> ，然而 <img src=\"https://www.zhihu.com/equation?tex=f%27%28x%29%5Csim+1\" alt=\"f&#39;(x)\\sim 1\" eeimg=\"1\"/> 却不成立。为了能够对渐进关系直接微分，需要加更强的条件。从这个例子中可以看见，也许导函数的单调性是重要的。我们有如下定理：</p><blockquote>若 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29\" alt=\"f(x)\" eeimg=\"1\"/> 是连续可微函数，且 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29%5Csim+x%5Ep%5Cquad%28x%5Cto%5Cinfty%2C%5C%2Cp%5Cgeq1%29\" alt=\"f(x)\\sim x^p\\quad(x\\to\\infty,\\,p\\geq1)\" eeimg=\"1\"/> ，那么若 <img src=\"https://www.zhihu.com/equation?tex=f%27%28x%29\" alt=\"f&#39;(x)\" eeimg=\"1\"/> 在 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 够大时是非减函数，则 <img src=\"https://www.zhihu.com/equation?tex=f%27%28x%29%5Csim+px%5E%7Bp-1%7D\" alt=\"f&#39;(x)\\sim px^{p-1}\" eeimg=\"1\"/> <br/>证明：<br/>设 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29%3Dx%5Ep%5C%7B1%2B%5Ceta%28x%29%5C%7D\" alt=\"f(x)=x^p\\{1+\\eta(x)\\}\" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=%7C%5Ceta%28x%29%7C%5Cleq+%5Cvarepsilon\" alt=\"|\\eta(x)|\\leq \\varepsilon\" eeimg=\"1\"/> 当 <img src=\"https://www.zhihu.com/equation?tex=x%3EX\" alt=\"x&gt;X\" eeimg=\"1\"/> ，且是正数，那么由于 <img src=\"https://www.zhihu.com/equation?tex=f%27%28x%29\" alt=\"f&#39;(x)\" eeimg=\"1\"/> 的递增性，有<br/> <img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7Dhf%27%28x%29%26%5Cleq+%5Cint_x%5E%7Bx%2Bh%7Df%27%28t%29%5C%2Cdt%5C%5C+%26%3Df%28x%2Bh%29-f%28x%29%5C%5C+%26%3D%5Cint_x%5E%7Bx%2Bh%7Dpt%5E%7Bp-1%7D%5C%2Cdt%2B%28x%2Bh%29%5Ep%5Ceta%28x%2Bh%29-x%5Ep%5Ceta%28x%29%5C%5C+%26%5Cleq+hp%28x%2Bh%29%5E%7Bp-1%7D%2B2+%5Cvarepsilon%28x%2Bh%29%5Ep%5Cend%7Balign%7D\" alt=\"\\begin{align}hf&#39;(x)&amp;\\leq \\int_x^{x+h}f&#39;(t)\\,dt\\\\ &amp;=f(x+h)-f(x)\\\\ &amp;=\\int_x^{x+h}pt^{p-1}\\,dt+(x+h)^p\\eta(x+h)-x^p\\eta(x)\\\\ &amp;\\leq hp(x+h)^{p-1}+2 \\varepsilon(x+h)^p\\end{align}\" eeimg=\"1\"/> <br/>令 <img src=\"https://www.zhihu.com/equation?tex=h%3D%5Cvarepsilon%5E%7B1%2F2%7Dx\" alt=\"h=\\varepsilon^{1/2}x\" eeimg=\"1\"/> ，则有<br/> <img src=\"https://www.zhihu.com/equation?tex=f%27%28x%29%5Cleq+px%5E%7Bp-1%7D%5C%7B%281%2B%5Cvarepsilon%5E%7B1%2F2%7D%29%5E%7Bp-1%7D%2B2p%5E%7B-1%7D%5Cvarepsilon%5E%7B1%2F2%7D%281%2B%5Cvarepsilon%5E%7B1%2F2%7D%29%5C%7D%5Cquad%28x%3EX%29\" alt=\"f&#39;(x)\\leq px^{p-1}\\{(1+\\varepsilon^{1/2})^{p-1}+2p^{-1}\\varepsilon^{1/2}(1+\\varepsilon^{1/2})\\}\\quad(x&gt;X)\" eeimg=\"1\"/> <br/>另一方面<br/> <img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7Dhf%27%28x%29%26%5Cgeq+%5Cint_%7Bx-h%7D%5E%7Bx%7Df%27%28t%29%5C%2Cdt%5Cend%7Balign%7D\" alt=\"\\begin{align}hf&#39;(x)&amp;\\geq \\int_{x-h}^{x}f&#39;(t)\\,dt\\end{align}\" eeimg=\"1\"/> ，由此仿照上面可以得出<br/> <img src=\"https://www.zhihu.com/equation?tex=f%27%28x%29%5Cgeq+px%5E%7Bp-1%7D%5C%7B%281-%5Cvarepsilon%5E%7B1%2F2%7D%29%5E%7Bp-1%7D-2p%5E%7B-1%7D%5Cvarepsilon%5E%7B1%2F2%7D%5C%7D%5Cquad+%28x%3EX%2F%281-%5Cvarepsilon%5E%7B1%2F2%7D%29%29\" alt=\"f&#39;(x)\\geq px^{p-1}\\{(1-\\varepsilon^{1/2})^{p-1}-2p^{-1}\\varepsilon^{1/2}\\}\\quad (x&gt;X/(1-\\varepsilon^{1/2}))\" eeimg=\"1\"/> <br/>夹逼得到结果。</blockquote>", 
+            "topic": [
+                {
+                    "tag": "数学分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19622000"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33350417", 
+            "userName": "「已注销」", 
+            "userLink": "https://www.zhihu.com/people/7f5c64e2fc5c5b0b001083ffd0aead8f", 
+            "upvote": 60, 
+            "title": "1 渐近级数~", 
+            "content": "<p>一、两个普通积分</p><p>考虑实积分（ <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 是实数）</p><p><img src=\"https://www.zhihu.com/equation?tex=F%28x%29%3D%5Cint_0%5E%5Cinfty+e%5E%7B-xt%7D%5Ccos+t%5C%2Cdt\" alt=\"F(x)=\\int_0^\\infty e^{-xt}\\cos t\\,dt\" eeimg=\"1\"/> </p><p>若将被积部分中的 <img src=\"https://www.zhihu.com/equation?tex=%5Ccos+t\" alt=\"\\cos t\" eeimg=\"1\"/> 展成 Taylor 级数（收敛半径为无穷），然后逐项积分，则有</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7DF%28x%29%26%3D%5Cint_0%5E%5Cinfty+e%5E%7B-xt%7D%5Cleft%281-%5Cfrac%7Bt%5E2%7D%7B2%7D%2B%5Cfrac%7Bt%5E4%7D%7B4%21%7D-%5Ccdots%5Cright%29%5C%5C+%26%3D%5Cfrac%7B1%7D%7Bx%7D-%5Cfrac%7B1%7D%7Bx%5E3%7D%2B%5Cfrac%7B1%7D%7Bx%5E5%7D-%5Ccdots+%5Cend%7Balign%7D\" alt=\"\\begin{align}F(x)&amp;=\\int_0^\\infty e^{-xt}\\left(1-\\frac{t^2}{2}+\\frac{t^4}{4!}-\\cdots\\right)\\\\ &amp;=\\frac{1}{x}-\\frac{1}{x^3}+\\frac{1}{x^5}-\\cdots \\end{align}\" eeimg=\"1\"/> </p><p>如果 <img src=\"https://www.zhihu.com/equation?tex=x%3E1\" alt=\"x&gt;1\" eeimg=\"1\"/> ，则上述等比的函数级数收敛于：</p><p><img src=\"https://www.zhihu.com/equation?tex=F%28x%29%3D%5Cfrac%7Bx%7D%7Bx%5E2%2B1%7D\" alt=\"F(x)=\\frac{x}{x^2+1}\" eeimg=\"1\"/> </p><p>为了验证该结果，将原式来显式地包含 <img src=\"https://www.zhihu.com/equation?tex=%5Ccos+t\" alt=\"\\cos t\" eeimg=\"1\"/> 的积分进行两次分部积分，发现结果相同，这也说明， <img src=\"https://www.zhihu.com/equation?tex=x%3E1\" alt=\"x&gt;1\" eeimg=\"1\"/> 的限制可以放宽到 <img src=\"https://www.zhihu.com/equation?tex=x%3E0\" alt=\"x&gt;0\" eeimg=\"1\"/> .</p><p class=\"ztext-empty-paragraph\"><br/></p><p>现考虑一个类似的积分：</p><p><img src=\"https://www.zhihu.com/equation?tex=G%28x%29%3D%5Cint_0%5E%5Cinfty+%5Cfrac%7Be%5E%7B-xt%7D%7D%7B1%2Bt%7D%5C%2Cdt\" alt=\"G(x)=\\int_0^\\infty \\frac{e^{-xt}}{1+t}\\,dt\" eeimg=\"1\"/> </p><p>按相同的步骤有：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7DG%28x%29%26%3D%5Cint_0%5E%5Cinfty+e%5E%7B-xt%7D%5Cleft%281-t%2Bt%5E2-%5Ccdots%5Cright%29%5C%5C+%26%3D%5Cfrac%7B1%7D%7Bx%7D-%5Cfrac%7B1%21%7D%7Bx%5E2%7D%2B%5Cfrac%7B3%21%7D%7Bx%5E3%7D-%5Cfrac%7B5%21%7D%7Bx%5E5%7D%2B%5Ccdots+%5Cend%7Balign%7D\" alt=\"\\begin{align}G(x)&amp;=\\int_0^\\infty e^{-xt}\\left(1-t+t^2-\\cdots\\right)\\\\ &amp;=\\frac{1}{x}-\\frac{1!}{x^2}+\\frac{3!}{x^3}-\\frac{5!}{x^5}+\\cdots \\end{align}\" eeimg=\"1\"/> </p><p>由于级数分子上的阶乘项，该级数对所有的 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 都发散。</p><p>两个类似的积分，有两个完全不一样的结果，这可以如此解释， <img src=\"https://www.zhihu.com/equation?tex=%5Ccos+t\" alt=\"\\cos t\" eeimg=\"1\"/> 的级数在所有有界区间内一致收敛，而 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B1%7D%7B1-t%7D\" alt=\"\\frac{1}{1-t}\" eeimg=\"1\"/> 的级数在 <img src=\"https://www.zhihu.com/equation?tex=t%5Cgeq1\" alt=\"t\\geq1\" eeimg=\"1\"/> 时发散，根据无穷级数逐项积分的定理， 这个结果是可预期的。</p><p>二、峰回路转</p><p>如果只关心形式上的理论，也许上面的讨论已经足够，但若对 <img src=\"https://www.zhihu.com/equation?tex=G%28x%29\" alt=\"G(x)\" eeimg=\"1\"/> 对应的那个发散级数进行一下数值计算，则可以发现一个有趣的现象：</p><p>当 <img src=\"https://www.zhihu.com/equation?tex=x%3D10\" alt=\"x=10\" eeimg=\"1\"/> 时，发散级数的前几项是</p><p><img src=\"https://www.zhihu.com/equation?tex=0.100-010100%2B010020-0.0006%3D0.0914\" alt=\"0.100-010100+010020-0.0006=0.0914\" eeimg=\"1\"/> </p><p>而 <img src=\"https://www.zhihu.com/equation?tex=G%2810%29%3D0.09153%5Ccdots\" alt=\"G(10)=0.09153\\cdots\" eeimg=\"1\"/> ，二者非常接近。</p><p>考察一下 <img src=\"https://www.zhihu.com/equation?tex=G%28x%29\" alt=\"G(x)\" eeimg=\"1\"/> 和那个发散级数前 n 项和[记为 <img src=\"https://www.zhihu.com/equation?tex=g_n%28x%29\" alt=\"g_n(x)\" eeimg=\"1\"/> ]之间的差值 <img src=\"https://www.zhihu.com/equation?tex=%5Cvarepsilon_n%28x%29%3DG%28x%29-g_n%28x%29\" alt=\"\\varepsilon_n(x)=G(x)-g_n(x)\" eeimg=\"1\"/> </p><p>为此先写出 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B1%7D%7B1%2Bt%7D\" alt=\"\\frac{1}{1+t}\" eeimg=\"1\"/> 的精确和：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B1%7D%7B1%2Bt%7D%3D1-t%2Bt%5E2-%5Ccdots%2B%28-%29%5E%7Bn-1%7Dt%5E%7Bn-1%7D%2B%5Cfrac%7B%28-%29%5Ent%5En%7D%7B1%2Bt%7D\" alt=\"\\frac{1}{1+t}=1-t+t^2-\\cdots+(-)^{n-1}t^{n-1}+\\frac{(-)^nt^n}{1+t}\" eeimg=\"1\"/> （该式子可用等比级数和求得，或者通过考虑 Taylor 展开的积分余项得到）</p><p>将它代入 <img src=\"https://www.zhihu.com/equation?tex=G%28x%29\" alt=\"G(x)\" eeimg=\"1\"/> 的那个积分中，然后减去 <img src=\"https://www.zhihu.com/equation?tex=g_n%28x%29\" alt=\"g_n(x)\" eeimg=\"1\"/> 就得到：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cvarepsilon_n%28x%29%3D%28-%29%5En%5Cint_0%5E%5Cinfty+%5Cfrac%7Bt%5Ene%5E%7B-xt%7D%7D%7B1%2Bt%7D%5C%2Cdt\" alt=\"\\varepsilon_n(x)=(-)^n\\int_0^\\infty \\frac{t^ne^{-xt}}{1+t}\\,dt\" eeimg=\"1\"/> </p><p>可以有不等式</p><p><img src=\"https://www.zhihu.com/equation?tex=%7C%5Cvarepsilon_n%28x%29%7C%3C%5Cint_0%5E%5Cinfty+%7Bt%5Ene%5E%7B-xt%7D%7D%5C%2Cdt%3D%5Cfrac%7Bn%21%7D%7Bx%5E%7Bn%2B1%7D%7D\" alt=\"|\\varepsilon_n(x)|&lt;\\int_0^\\infty {t^ne^{-xt}}\\,dt=\\frac{n!}{x^{n+1}}\" eeimg=\"1\"/> </p><p>右边这个，正是发散级数的第 n+1 项，所以只考虑前 n 项带来的误差小于第一个被忽略的项。当 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 够大时，我们可以用发散级数的前几项来近似 <img src=\"https://www.zhihu.com/equation?tex=G%28x%29\" alt=\"G(x)\" eeimg=\"1\"/> 这个积分。</p><p>我们将这种特别的发散级数叫做渐近级数。这种办法叫做渐近展开。</p>", 
+            "topic": [
+                {
+                    "tag": "物理学", 
+                    "tagLink": "https://api.zhihu.com/topics/19556950"
+                }, 
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }, 
+                {
+                    "tag": "数学分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19622000"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "张智浩", 
+                    "userLink": "https://www.zhihu.com/people/e3cf160c11d91ea71674eae48f2fe470", 
+                    "content": "<p>唔。。还有后续么</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "有的～", 
+                            "likes": 0, 
+                            "replyToAuthor": "张智浩"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "酱紫君", 
+                    "userLink": "https://www.zhihu.com/people/a74574db96f2d0e717fc410bf90dd150", 
+                    "content": "太短了没看够😃😃😃", 
+                    "likes": 3, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "陈泓", 
+                    "userLink": "https://www.zhihu.com/people/9f0d2655e84861791465d0511f8ee3b2", 
+                    "content": "没看够+1", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "曾文天", 
+                    "userLink": "https://www.zhihu.com/people/861dcf61e51da21176c5b70aab68f7b4", 
+                    "content": "作为一个普普通通的一本院校毕业生，手残点进来后被恶心到了……我太高估自己了", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>有个问题请教一下 第一个普通积分 无论是逐项积分还是分部积分对指数函数里那个x有取值范围的限定吗。。。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>不是在文中讨论过了嘛，x&gt;0就行~</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33357254", 
+            "userName": "「已注销」", 
+            "userLink": "https://www.zhihu.com/people/7f5c64e2fc5c5b0b001083ffd0aead8f", 
+            "upvote": 12, 
+            "title": "2 渐近分析：大O记号、小o记号与“~”记号", 
+            "content": "<p>一、符号的定义</p><p>为用已知的函数 <img src=\"https://www.zhihu.com/equation?tex=%5Cphi%28x%29\" alt=\"\\phi(x)\" eeimg=\"1\"/> [通常是一些简单函数]描述某函数 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29\" alt=\"f(x)\" eeimg=\"1\"/> [复杂函数]在 <img src=\"https://www.zhihu.com/equation?tex=x%5Cto%5Cinfty\" alt=\"x\\to\\infty\" eeimg=\"1\"/> 时的行为，我们用一些记号来标记二者之间的某些关系。这些符号由 Bachman 和 Landau（非苏联朗道）引入。</p><p>当 <img src=\"https://www.zhihu.com/equation?tex=x%5Cto%5Cinfty\" alt=\"x\\to\\infty\" eeimg=\"1\"/> 时</p><p>① 若 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7Bf%28x%29%7D%7B%5Cphi%28x%29%7D%5Cto1\" alt=\"\\frac{f(x)}{\\phi(x)}\\to1\" eeimg=\"1\"/> ，则记</p><p><img src=\"https://www.zhihu.com/equation?tex=f%28x%29%5Csim%5Cphi%28x%29%5Cquad%28x%5Cto%5Cinfty%29\" alt=\"f(x)\\sim\\phi(x)\\quad(x\\to\\infty)\" eeimg=\"1\"/> ，且称 <img src=\"https://www.zhihu.com/equation?tex=f\" alt=\"f\" eeimg=\"1\"/> 渐近等价于 <img src=\"https://www.zhihu.com/equation?tex=%5Cphi\" alt=\"\\phi\" eeimg=\"1\"/> </p><p>② 若 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7Bf%28x%29%7D%7B%5Cphi%28x%29%7D%5Cto+0\" alt=\"\\frac{f(x)}{\\phi(x)}\\to 0\" eeimg=\"1\"/> ，则记</p><p><img src=\"https://www.zhihu.com/equation?tex=f%28x%29%3Do%5C%7B%5Cphi%28x%29%5C%7D%5Cquad%28x%5Cto%5Cinfty%29\" alt=\"f(x)=o\\{\\phi(x)\\}\\quad(x\\to\\infty)\" eeimg=\"1\"/> ，且称 <img src=\"https://www.zhihu.com/equation?tex=f\" alt=\"f\" eeimg=\"1\"/> 比 <img src=\"https://www.zhihu.com/equation?tex=%5Cphi\" alt=\"\\phi\" eeimg=\"1\"/> 低阶（当 <img src=\"https://www.zhihu.com/equation?tex=x%5Cto%5Cinfty\" alt=\"x\\to\\infty\" eeimg=\"1\"/> 时）</p><p>③ 若 <img src=\"https://www.zhihu.com/equation?tex=%5Cleft%7C%5Cfrac%7Bf%28x%29%7D%7B%5Cphi%28x%29%7D%5Cright%7C\" alt=\"\\left|\\frac{f(x)}{\\phi(x)}\\right|\" eeimg=\"1\"/> 有限，则记</p><p><img src=\"https://www.zhihu.com/equation?tex=f%28x%29%3DO%5C%7B%5Cphi%28x%29%5C%7D%5Cquad%28x%5Cto%5Cinfty%29\" alt=\"f(x)=O\\{\\phi(x)\\}\\quad(x\\to\\infty)\" eeimg=\"1\"/> ，称 <img src=\"https://www.zhihu.com/equation?tex=f\" alt=\"f\" eeimg=\"1\"/> 的阶不超过 <img src=\"https://www.zhihu.com/equation?tex=%5Cphi\" alt=\"\\phi\" eeimg=\"1\"/> （当 <img src=\"https://www.zhihu.com/equation?tex=x%5Cto%5Cinfty\" alt=\"x\\to\\infty\" eeimg=\"1\"/> 时）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>举例来说，若 <img src=\"https://www.zhihu.com/equation?tex=f%3Do%281%29\" alt=\"f=o(1)\" eeimg=\"1\"/> ，则当 <img src=\"https://www.zhihu.com/equation?tex=x%5Cto%5Cinfty\" alt=\"x\\to\\infty\" eeimg=\"1\"/> 时， <img src=\"https://www.zhihu.com/equation?tex=f\" alt=\"f\" eeimg=\"1\"/> 趋于零。若 <img src=\"https://www.zhihu.com/equation?tex=f%3DO%281%29\" alt=\"f=O(1)\" eeimg=\"1\"/> ，则当 <img src=\"https://www.zhihu.com/equation?tex=x%5Cto%5Cinfty\" alt=\"x\\to\\infty\" eeimg=\"1\"/> 时， <img src=\"https://www.zhihu.com/equation?tex=f\" alt=\"f\" eeimg=\"1\"/> 趋于无穷。更具体的例子有：</p><p><img src=\"https://www.zhihu.com/equation?tex=%28x%2B1%29%5E2%5Csim+x%5E2\" alt=\"(x+1)^2\\sim x^2\" eeimg=\"1\"/> </p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7B1%7D%7Bx%5E2%7D%3Do%28%5Cfrac%7B1%7D%7Bx%7D%29\" alt=\"\\frac{1}{x^2}=o(\\frac{1}{x})\" eeimg=\"1\"/> </p><p><img src=\"https://www.zhihu.com/equation?tex=%5Csinh+x%3DO%28e%5Ex%29\" alt=\"\\sinh x=O(e^x)\" eeimg=\"1\"/> </p><p>仔细来看，①和②互不相容，且二者都是③的特殊情况，它们给出的信息都比③更详细。</p><p>大 <img src=\"https://www.zhihu.com/equation?tex=O\" alt=\"O\" eeimg=\"1\"/> 记号，不仅可以用于 <img src=\"https://www.zhihu.com/equation?tex=x%5Cto+%5Cinfty\" alt=\"x\\to \\infty\" eeimg=\"1\"/> 的情况，也可以扩展到任意区间 <img src=\"https://www.zhihu.com/equation?tex=%5Ba%2C%5Cinfty%5D\" alt=\"[a,\\infty]\" eeimg=\"1\"/> 上面，具体而言，记号 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29%3DO%5C%7B%5Cphi%28x%29%5C%7D%5Cquad+x%5Cin%5Ba%2C%5Cinfty%5D\" alt=\"f(x)=O\\{\\phi(x)\\}\\quad x\\in[a,\\infty]\" eeimg=\"1\"/> 的意思就是：对所有在 <img src=\"https://www.zhihu.com/equation?tex=%5Ba%2C%5Cinfty%5D\" alt=\"[a,\\infty]\" eeimg=\"1\"/> 上的 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> ， <img src=\"https://www.zhihu.com/equation?tex=%5Cleft%7C%5Cfrac%7Bf%28x%29%7D%7B%5Cphi%28x%29%7D%5Cright%7C\" alt=\"\\left|\\frac{f(x)}{\\phi(x)}\\right|\" eeimg=\"1\"/> 都有限。</p><p>若将上面的叙述改为存在性的，则是：</p><p>存在一个数字 <img src=\"https://www.zhihu.com/equation?tex=K\" alt=\"K\" eeimg=\"1\"/> ，使得 <img src=\"https://www.zhihu.com/equation?tex=%7Cf%28x%29%7C%5Cleq+K%7C%5Cphi%28x%29%7C%5Cquad%28x%5Cgeq+a%29\" alt=\"|f(x)|\\leq K|\\phi(x)|\\quad(x\\geq a)\" eeimg=\"1\"/> 。这里我们并不关心 K 的具体大小。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>更一般来说， <img src=\"https://www.zhihu.com/equation?tex=o\" alt=\"o\" eeimg=\"1\"/> 与 <img src=\"https://www.zhihu.com/equation?tex=O\" alt=\"O\" eeimg=\"1\"/> 都可以代表某类函数——一类具有符号所代表的性质的函数，实际上，有所谓的 O 记号四则运算规则，给出一些等式</p><p><img src=\"https://www.zhihu.com/equation?tex=o%28%5Cphi%29%2Bo%28%5Cphi%29%3Do%28%5Cphi%29\" alt=\"o(\\phi)+o(\\phi)=o(\\phi)\" eeimg=\"1\"/> </p><p><img src=\"https://www.zhihu.com/equation?tex=o%28%5Cphi%29%3DO%28%5Cphi%29\" alt=\"o(\\phi)=O(\\phi)\" eeimg=\"1\"/> </p><p>注意第二个反过来不一定成立，即 <img src=\"https://www.zhihu.com/equation?tex=O%28%5Cphi%29%3Do%28%5Cphi%29\" alt=\"O(\\phi)=o(\\phi)\" eeimg=\"1\"/> 不一定对，这个锅应该由记号 <img src=\"https://www.zhihu.com/equation?tex=%E2%80%9C%3D%E2%80%9D\" alt=\"“=”\" eeimg=\"1\"/> 来背。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一个更具体的例子是：</p><p><img src=\"https://www.zhihu.com/equation?tex=e%5E%7Bix%7D%5C%7B1%2Bo%281%29%5C%7D%2Be%5E%7B-ix%7D%5C%7B1%2Bo%281%29%5C%7D%3D2%5Ccos+x%2Bo%281%29\" alt=\"e^{ix}\\{1+o(1)\\}+e^{-ix}\\{1+o(1)\\}=2\\cos x+o(1)\" eeimg=\"1\"/> </p><p>需要说明，虽然上面定义的 <img src=\"https://www.zhihu.com/equation?tex=o\" alt=\"o\" eeimg=\"1\"/> 和 <img src=\"https://www.zhihu.com/equation?tex=O\" alt=\"O\" eeimg=\"1\"/> 是对实函数定义的，我们可以将复函数取模后方便地纳入这个符号体系中来。</p><p>上面的例子中，需注意的一点是，左边的两个 <img src=\"https://www.zhihu.com/equation?tex=o%281%29\" alt=\"o(1)\" eeimg=\"1\"/> 不一定代表同一个函数，因而右边不能写成 <img src=\"https://www.zhihu.com/equation?tex=2%5C%7B1%2Bo%281%29%5C%7D%5Ccos+x\" alt=\"2\\{1+o(1)\\}\\cos x\" eeimg=\"1\"/> ，否则当 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 是 <img src=\"https://www.zhihu.com/equation?tex=%5Cpi%2F2\" alt=\"\\pi/2\" eeimg=\"1\"/> 的奇数倍时，右边等于0，但是左边不一定等于 0，这样等式就会不成立。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>二、推广的定义以及两个例子</p><p>上面的定义可以推广到 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 趋于任意一个数时的情况。举例而言</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7Bx%5E2-c%5E2%7D%7Bx%5E2%7D%5Csim%5Cfrac%7B2%28x-c%29%7D%7Bc%7D%3DO%28x-c%29%3Do%281%29%5Cquad+%28%5Ctext%7Bwhen%7D%5C%2C%5C%2Cx%5Cto+c%29\" alt=\"\\frac{x^2-c^2}{x^2}\\sim\\frac{2(x-c)}{c}=O(x-c)=o(1)\\quad (\\text{when}\\,\\,x\\to c)\" eeimg=\"1\"/> </p><p>下面介绍一个比较显然的定理：</p><blockquote>若 <img src=\"https://www.zhihu.com/equation?tex=%5Csum_%7Bs%3D0%7D%5E%5Cinfty+a_sz%5Es\" alt=\"\\sum_{s=0}^\\infty a_sz^s\" eeimg=\"1\"/> 在圆盘 <img src=\"https://www.zhihu.com/equation?tex=%7Cz%7C%3Cr\" alt=\"|z|&lt;r\" eeimg=\"1\"/> 内都收敛，则对于任一个固定的 <img src=\"https://www.zhihu.com/equation?tex=n\" alt=\"n\" eeimg=\"1\"/> ，当 <img src=\"https://www.zhihu.com/equation?tex=%7Cz%7C%3C%5Crho%2C%5C%2C%5Crho%3Cr\" alt=\"|z|&lt;\\rho,\\,\\rho&lt;r\" eeimg=\"1\"/> 时都有<br/> <img src=\"https://www.zhihu.com/equation?tex=%5Csum_%7Bs%3Dn%7D%5E%5Cinfty+a_sz%5Es%3DO%28z%5En%29\" alt=\"\\sum_{s=n}^\\infty a_sz^s=O(z^n)\" eeimg=\"1\"/> .<br/>证：注意到收敛的必要条件：对 <img src=\"https://www.zhihu.com/equation?tex=%5Crho%27%5Cin%28%5Crho%2Cr%29\" alt=\"\\rho&#39;\\in(\\rho,r)\" eeimg=\"1\"/> ，都有 <img src=\"https://www.zhihu.com/equation?tex=%7Ca_s%7C%5Crho%27%5Es%5Cleq+A%5Cquad+%28s%3D0%2C1%2C2%5Ccdots%29\" alt=\"|a_s|\\rho&#39;^s\\leq A\\quad (s=0,1,2\\cdots)\" eeimg=\"1\"/> 。<br/>那么， <img src=\"https://www.zhihu.com/equation?tex=%5Cleft%7C%5Csum_%7Bs%3Dn%7D%5E%5Cinfty+a_sz%5Es%5Cright%7C%5Cleq%5Csum_%7Bs%3Dn%7D%5E%5Cinfty+A%5Cfrac%7B%7Cz%5Es%7C%7D%7B%5Crho%27%5Es%7D%3D%5Cfrac%7BA%5Crho%27%5E%7B%281-n%29%7D%7Cz%7C%5En%7D%7B%5Crho%27-%7Cz%7C%7D%5Cleq%5Cfrac%7BA%5Crho%27%5E%7B%281-n%29%7D%7D%7B%5Crho%27-%5Crho%7D%7Cz%7C%5En\" alt=\"\\left|\\sum_{s=n}^\\infty a_sz^s\\right|\\leq\\sum_{s=n}^\\infty A\\frac{|z^s|}{\\rho&#39;^s}=\\frac{A\\rho&#39;^{(1-n)}|z|^n}{\\rho&#39;-|z|}\\leq\\frac{A\\rho&#39;^{(1-n)}}{\\rho&#39;-\\rho}|z|^n\" eeimg=\"1\"/> <img src=\"https://www.zhihu.com/equation?tex=%7B%5Cblacksquare%7D\" alt=\"{\\blacksquare}\" eeimg=\"1\"/> </blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>一个题目：</p><blockquote>设 <img src=\"https://www.zhihu.com/equation?tex=%5Cphi%28x%29%3E0\" alt=\"\\phi(x)&gt;0\" eeimg=\"1\"/> ， <img src=\"https://www.zhihu.com/equation?tex=p\" alt=\"p\" eeimg=\"1\"/> 为一个实数，且 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29%5Csim%5Cphi%28x%29+%5Cquad%28x%5Cto%5Cinfty%29\" alt=\"f(x)\\sim\\phi(x) \\quad(x\\to\\infty)\" eeimg=\"1\"/> ，用上面介绍的定理证明<br/>① <img src=\"https://www.zhihu.com/equation?tex=%5C%7Bf%28x%29%5C%7D%5Ep%5Csim%5C%7B%5Cphi%28x%29%5C%7D%5Ep\" alt=\"\\{f(x)\\}^p\\sim\\{\\phi(x)\\}^p\" eeimg=\"1\"/> <br/>② 若 <img src=\"https://www.zhihu.com/equation?tex=%5Cphi%28x%29%3E1\" alt=\"\\phi(x)&gt;1\" eeimg=\"1\"/> 对所有的 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> ，则 <img src=\"https://www.zhihu.com/equation?tex=%5Cln%5C%7Bf%28x%29%5C%7D%5Csim%5Cln%5C%7B%5Cphi%28x%29%5C%7D\" alt=\"\\ln\\{f(x)\\}\\sim\\ln\\{\\phi(x)\\}\" eeimg=\"1\"/> <br/>③ <img src=\"https://www.zhihu.com/equation?tex=e%5E%7Bf%28x%29%7D%5Csim+e%5E%7B%5Cphi%28x%29%7D\" alt=\"e^{f(x)}\\sim e^{\\phi(x)}\" eeimg=\"1\"/> 不一定成立<br/> <br/>改天发答案~<br/> </blockquote>", 
+            "topic": [
+                {
+                    "tag": "数学分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19622000"
+                }, 
+                {
+                    "tag": "物理学", 
+                    "tagLink": "https://api.zhihu.com/topics/19556950"
+                }, 
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "答案：展成级数便可证明2和3，1是直接的。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "迪卡丘", 
+                    "userLink": "https://www.zhihu.com/people/5d18f01be752e71ac3eaa9695ed1969c", 
+                    "content": "2为什么对啊。。。f(x)是1+1/x，g(x)是1+1/x²就挂了吧。。。", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/33409120", 
+            "userName": "「已注销」", 
+            "userLink": "https://www.zhihu.com/people/7f5c64e2fc5c5b0b001083ffd0aead8f", 
+            "upvote": 3, 
+            "title": "3 渐近关系的（微）积分", 
+            "content": "<p>若 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29\" alt=\"f(x)\" eeimg=\"1\"/> 是一个可积实变量函数，且 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29%5Csim+x%5E%5Cnu+%5Cquad%28x%5Cto%5Cinfty%29\" alt=\"f(x)\\sim x^\\nu \\quad(x\\to\\infty)\" eeimg=\"1\"/> ， <img src=\"https://www.zhihu.com/equation?tex=%5Cnu\" alt=\"\\nu\" eeimg=\"1\"/> 是实的或复的常数，那么，给定一个有限实数 <img src=\"https://www.zhihu.com/equation?tex=a\" alt=\"a\" eeimg=\"1\"/> ，我们就有如下关系（当 <img src=\"https://www.zhihu.com/equation?tex=x%5Cto%5Cinfty\" alt=\"x\\to\\infty\" eeimg=\"1\"/> 时）：</p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cint_x%5E%5Cinfty+f%28d%29%5C%2Cdt%5Csim%5Cfrac%7Bx%5E%7B%5Cnu%2B1%7D%7D%7B%5Cnu%2B1%7D+%5Cquad%28%5Ctext%7BRe%7D%5C%7B%5Cnu%5C%7D%3C1%29\" alt=\"\\int_x^\\infty f(d)\\,dt\\sim\\frac{x^{\\nu+1}}{\\nu+1} \\quad(\\text{Re}\\{\\nu\\}&lt;1)\" eeimg=\"1\"/> </p><p><img src=\"https://www.zhihu.com/equation?tex=%5Cint_a%5Exf%28t%29%5C%2Cdt%5Csim%5Cbegin%7Bcases%7D+a%5Cquad%5Ctext%7Bconst%7D%26%28%5Ctext%7BRe%7D%5C%7B%5Cnu%5C%7D%3C-1%29%5C%5C+%5Cln+x%26%28%5Cnu%3D-1%29%5C%5C+%7Bx%5E%7B%5Cnu%2B1%7D%7D%2F%7B%28%5Cnu%2B1%29%7D%26%28%5Ctext%7BRe%7D%5C%7B%5Cnu%5C%7D%3E-1%29+%5Cend%7Bcases%7D\" alt=\"\\int_a^xf(t)\\,dt\\sim\\begin{cases} a\\quad\\text{const}&amp;(\\text{Re}\\{\\nu\\}&lt;-1)\\\\ \\ln x&amp;(\\nu=-1)\\\\ {x^{\\nu+1}}/{(\\nu+1)}&amp;(\\text{Re}\\{\\nu\\}&gt;-1) \\end{cases}\" eeimg=\"1\"/> </p><p>这是直觉上可期的，想严格证明，可以将 <img src=\"https://www.zhihu.com/equation?tex=f%28x%29\" alt=\"f(x)\" eeimg=\"1\"/> 写成这种形式：<img src=\"https://www.zhihu.com/equation?tex=f%28x%29%3Dx%5E%5Cnu%5C%7B1%2B%5Ceta%28x%29%5C%7D\" alt=\"f(x)=x^\\nu\\{1+\\eta(x)\\}\" eeimg=\"1\"/> ，只需 <img src=\"https://www.zhihu.com/equation?tex=%7C%5Ceta%28x%29%7C\" alt=\"|\\eta(x)|\" eeimg=\"1\"/> 在 <img src=\"https://www.zhihu.com/equation?tex=x\" alt=\"x\" eeimg=\"1\"/> 大于某个正数 <img src=\"https://www.zhihu.com/equation?tex=X\" alt=\"X\" eeimg=\"1\"/> 时足够小即可~</p><p>那么以括号中的第三种情况为例，证明一下：</p><blockquote>当 <img src=\"https://www.zhihu.com/equation?tex=x%3EX\" alt=\"x&gt;X\" eeimg=\"1\"/> 时，有<br/> <img src=\"https://www.zhihu.com/equation?tex=%5Cint_a%5Exf%28t%29%5C%2Cdt%3D%5Cint_a%5EXf%28t%29%5C%2Cdt%2B%5Cfrac%7B1%7D%7B%5Cnu%2B1%7D%28x%5E%7B%5Cnu%2B1%7D-X%5E%7B%5Cnu%2B1%7D%29%2B%5Cint_X%5Ext%5E%5Cnu%5Ceta%28t%29%5C%2Cdt\" alt=\"\\int_a^xf(t)\\,dt=\\int_a^Xf(t)\\,dt+\\frac{1}{\\nu+1}(x^{\\nu+1}-X^{\\nu+1})+\\int_X^xt^\\nu\\eta(t)\\,dt\" eeimg=\"1\"/> <br/>因而<br/> <img src=\"https://www.zhihu.com/equation?tex=%5Cbegin%7Balign%7D%26%5Cfrac%7B%5Cnu%2B1%7D%7Bx%5E%7B%5Cnu%2B1%7D%7D%5Cint_a%5Exf%28t%29%5C%2Cdt%5C%5C%3D%26%5Cfrac%7B%5Cnu%2B1%7D%7Bx%5E%7B%5Cnu%2B1%7D%7D%5Cint_a%5EXf%28t%29%5C%2Cdt-%5Cfrac%7BX%5E%7B%5Cnu%2B1%7D%7D%7Bx%5E%7B%5Cnu%2B1%7D%7D%2B1%2B%5Cfrac%7B%5Cnu%2B1%7D%7Bx%5E%7B%5Cnu%2B1%7D%7D%5Cint_X%5Ext%5E%5Cnu%5Ceta%28t%29%5C%2Cdt+%5Cend%7Balign%7D\" alt=\"\\begin{align}&amp;\\frac{\\nu+1}{x^{\\nu+1}}\\int_a^xf(t)\\,dt\\\\=&amp;\\frac{\\nu+1}{x^{\\nu+1}}\\int_a^Xf(t)\\,dt-\\frac{X^{\\nu+1}}{x^{\\nu+1}}+1+\\frac{\\nu+1}{x^{\\nu+1}}\\int_X^xt^\\nu\\eta(t)\\,dt \\end{align}\" eeimg=\"1\"/> <br/>前两项在 <img src=\"https://www.zhihu.com/equation?tex=x%5Cto%5Cinfty\" alt=\"x\\to\\infty\" eeimg=\"1\"/> 时等于 0，最后一项可以任意小~，任意小的原因是这个不等式：<br/> <img src=\"https://www.zhihu.com/equation?tex=%5Cleft%7C%5Cfrac%7B%5Cnu%2B1%7D%7Bx%5E%7B%5Cnu%2B1%7D%7D%5Cint_X%5Ext%5E%5Cnu%5Ceta%28t%29%5C%2Cdt%5Cright%7C%3C%5Cvarepsilon\" alt=\"\\left|\\frac{\\nu+1}{x^{\\nu+1}}\\int_X^xt^\\nu\\eta(t)\\,dt\\right|&lt;\\varepsilon\" eeimg=\"1\"/> ，其中 <img src=\"https://www.zhihu.com/equation?tex=%5Cvarepsilon\" alt=\"\\varepsilon\" eeimg=\"1\"/> 是与 <img src=\"https://www.zhihu.com/equation?tex=X\" alt=\"X\" eeimg=\"1\"/> 对应的，在 <img src=\"https://www.zhihu.com/equation?tex=x%3EX\" alt=\"x&gt;X\" eeimg=\"1\"/> 时， <img src=\"https://www.zhihu.com/equation?tex=%7C%5Ceta%28x%29%7C%3C%5Cvarepsilon\" alt=\"|\\eta(x)|&lt;\\varepsilon\" eeimg=\"1\"/> </blockquote>", 
+            "topic": [
+                {
+                    "tag": "数学", 
+                    "tagLink": "https://api.zhihu.com/topics/19554091"
+                }, 
+                {
+                    "tag": "理论物理", 
+                    "tagLink": "https://api.zhihu.com/topics/19567442"
+                }, 
+                {
+                    "tag": "数学分析", 
+                    "tagLink": "https://api.zhihu.com/topics/19622000"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_158843696"
+}

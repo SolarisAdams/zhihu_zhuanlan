@@ -1,0 +1,420 @@
+{
+    "title": "ISO45001职业健康安全管理体系", 
+    "description": "ISO45001是一个定义职业健康安全管理体系要求的国际标准，旨在取代OHSAS 18001等其他同类型的管理体系，致力于使组织实现预防伤害和疾病、提升职业健康安全绩效。", 
+    "followers": [
+        "https://www.zhihu.com/people/pin-xie-51-7", 
+        "https://www.zhihu.com/people/xiao-yao-60-67-53", 
+        "https://www.zhihu.com/people/wendy-22-47", 
+        "https://www.zhihu.com/people/shang-gu-zhi-nuo", 
+        "https://www.zhihu.com/people/a-fei-99-54", 
+        "https://www.zhihu.com/people/jiang-xin-bi-xin-98-22", 
+        "https://www.zhihu.com/people/yang-tian-58-33", 
+        "https://www.zhihu.com/people/yoenda-84", 
+        "https://www.zhihu.com/people/BBQyangxin2018", 
+        "https://www.zhihu.com/people/xiao-ting-qin-24", 
+        "https://www.zhihu.com/people/lisa-72-24", 
+        "https://www.zhihu.com/people/wan-zhen-yi-52", 
+        "https://www.zhihu.com/people/wang-li-35-45-80", 
+        "https://www.zhihu.com/people/jeffsao", 
+        "https://www.zhihu.com/people/jieweiwei", 
+        "https://www.zhihu.com/people/jimmy-qiuji-mi", 
+        "https://www.zhihu.com/people/saimin218", 
+        "https://www.zhihu.com/people/tan-zhao-24-78", 
+        "https://www.zhihu.com/people/lu-shen-72-86", 
+        "https://www.zhihu.com/people/yang-5-71-20", 
+        "https://www.zhihu.com/people/ru-shi-ru-hua-7-78", 
+        "https://www.zhihu.com/people/xia-lang-15-83", 
+        "https://www.zhihu.com/people/zhanghq-35-15", 
+        "https://www.zhihu.com/people/cindyfyf", 
+        "https://www.zhihu.com/people/du-du-97-39-97", 
+        "https://www.zhihu.com/people/ni-guang-13-5", 
+        "https://www.zhihu.com/people/eryisha-eryisha", 
+        "https://www.zhihu.com/people/wan-hua-71-5", 
+        "https://www.zhihu.com/people/gao-yuan-52-4-15", 
+        "https://www.zhihu.com/people/wang-lei-51-17", 
+        "https://www.zhihu.com/people/cai-cai-65-5-12", 
+        "https://www.zhihu.com/people/rong-xin-95-39", 
+        "https://www.zhihu.com/people/zhao-xiang-42-88", 
+        "https://www.zhihu.com/people/ibmk", 
+        "https://www.zhihu.com/people/kai-shi-89-75", 
+        "https://www.zhihu.com/people/ling-xiao-mu-99", 
+        "https://www.zhihu.com/people/florence-97-76", 
+        "https://www.zhihu.com/people/na-ge-shui-20-42", 
+        "https://www.zhihu.com/people/ke-li-yan-56", 
+        "https://www.zhihu.com/people/yu-shan-lun-jin-41-63", 
+        "https://www.zhihu.com/people/jin-xi-ming-yue", 
+        "https://www.zhihu.com/people/ben-niao-63-27", 
+        "https://www.zhihu.com/people/yi-yi-62-64-68", 
+        "https://www.zhihu.com/people/zhang-zhu-5-13-88", 
+        "https://www.zhihu.com/people/zhi-hu-zhe-ye-54-90-8", 
+        "https://www.zhihu.com/people/liu-bian-60", 
+        "https://www.zhihu.com/people/san-jun-ke-duo-shuai-ye-57", 
+        "https://www.zhihu.com/people/guan-li-ming-81", 
+        "https://www.zhihu.com/people/wu-lan-yi-shun", 
+        "https://www.zhihu.com/people/liu-yan-jun-2-31", 
+        "https://www.zhihu.com/people/dui-fang-bian-you-86", 
+        "https://www.zhihu.com/people/ai-ke-xian-sheng", 
+        "https://www.zhihu.com/people/larry-10-49", 
+        "https://www.zhihu.com/people/yu-guo-99-43", 
+        "https://www.zhihu.com/people/wo-jia-54", 
+        "https://www.zhihu.com/people/vert-75", 
+        "https://www.zhihu.com/people/shang2100year", 
+        "https://www.zhihu.com/people/jone-zhong-16", 
+        "https://www.zhihu.com/people/chb-43-16", 
+        "https://www.zhihu.com/people/dong-jin-fang-66", 
+        "https://www.zhihu.com/people/mu-yang-chun-xiao", 
+        "https://www.zhihu.com/people/weeeiyao-55", 
+        "https://www.zhihu.com/people/li-xin-7-56-32", 
+        "https://www.zhihu.com/people/miao-ao-3", 
+        "https://www.zhihu.com/people/young-miracle", 
+        "https://www.zhihu.com/people/lin-shun-qing-46", 
+        "https://www.zhihu.com/people/wu-ben-29-99", 
+        "https://www.zhihu.com/people/jia-hui-10-31", 
+        "https://www.zhihu.com/people/hao-hao-22-59", 
+        "https://www.zhihu.com/people/zhang-lei-25-4-55", 
+        "https://www.zhihu.com/people/an-an-78-39-77", 
+        "https://www.zhihu.com/people/yu-liu-qing-feng", 
+        "https://www.zhihu.com/people/cong-xiao-jiu-la-feng-17", 
+        "https://www.zhihu.com/people/bo-cai-pai-pai", 
+        "https://www.zhihu.com/people/li-lin-93-34", 
+        "https://www.zhihu.com/people/wang-li-jun-68-87", 
+        "https://www.zhihu.com/people/hou-hou-93-61", 
+        "https://www.zhihu.com/people/kahn-6-37", 
+        "https://www.zhihu.com/people/tan-yao-xiao", 
+        "https://www.zhihu.com/people/wei-tian-pian-suan", 
+        "https://www.zhihu.com/people/chen-shan-87-38", 
+        "https://www.zhihu.com/people/li-yi-heng-60-80", 
+        "https://www.zhihu.com/people/xiong-da-xiong-er-yi-qi-wan", 
+        "https://www.zhihu.com/people/chen-mei-mei-69-42", 
+        "https://www.zhihu.com/people/an-hao-90-5", 
+        "https://www.zhihu.com/people/huang-sheng-53-52", 
+        "https://www.zhihu.com/people/lao-tie-45-24", 
+        "https://www.zhihu.com/people/rosafarewell", 
+        "https://www.zhihu.com/people/yang-song-5-6", 
+        "https://www.zhihu.com/people/loopkong", 
+        "https://www.zhihu.com/people/liu-cheng-cheng-62-5", 
+        "https://www.zhihu.com/people/attout", 
+        "https://www.zhihu.com/people/chen-rui-22-6", 
+        "https://www.zhihu.com/people/qian-zhao-gua-niu-qu-san-bu-46", 
+        "https://www.zhihu.com/people/liu-ya-lu-83", 
+        "https://www.zhihu.com/people/luo-te-65", 
+        "https://www.zhihu.com/people/zui-zhong-yao-de-jiu-shi-kai-xin-21", 
+        "https://www.zhihu.com/people/bo-bi-30-47", 
+        "https://www.zhihu.com/people/wei-47-59-57", 
+        "https://www.zhihu.com/people/zhang-ye-9-38", 
+        "https://www.zhihu.com/people/ammon-47", 
+        "https://www.zhihu.com/people/qing-liu-94-45", 
+        "https://www.zhihu.com/people/lao-zi-xin-liao-ni-de-xie-30-83", 
+        "https://www.zhihu.com/people/bu-zhi-suo-wei-98-32", 
+        "https://www.zhihu.com/people/zhang-ming-yu-52-54", 
+        "https://www.zhihu.com/people/yier-63-96-55", 
+        "https://www.zhihu.com/people/arvin-2-75", 
+        "https://www.zhihu.com/people/qi-she-ke-ju", 
+        "https://www.zhihu.com/people/xiao-xian-sheng-7-54", 
+        "https://www.zhihu.com/people/wutong-67", 
+        "https://www.zhihu.com/people/lulu-65-63-63", 
+        "https://www.zhihu.com/people/ying-jia-xin-83", 
+        "https://www.zhihu.com/people/wo-jiu-feng-wo-jiu-sha", 
+        "https://www.zhihu.com/people/ju-li-ai-ren", 
+        "https://www.zhihu.com/people/spark-zhang-56", 
+        "https://www.zhihu.com/people/a-ha-48-5", 
+        "https://www.zhihu.com/people/zhang-mou-mou-87-53", 
+        "https://www.zhihu.com/people/flashpeng", 
+        "https://www.zhihu.com/people/julia-3-64", 
+        "https://www.zhihu.com/people/fang-xiu-82-54"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34790837", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 3, 
+            "title": "ISO45001:2018职业健康安全管理体系要求及使用指南【ISO45001:2018标准-7】", 
+            "content": "<p><b>9 绩效评价</b></p><p><b>9.1 监视、测量、分析和评价</b></p><p>9.1.1总则</p><p>组织应建立、实施和保持一个过程，用以监视、测杂和评价。</p><p>组织应确定：</p><p>a) 需要监视和测量的内容，包括：</p><p>1) 适用的法律法规要求和其它要求；</p><p>2) 与所识别的危险源和职业健康安全风险和职业健康机遇相关的活动和运行；</p><p>3) 运行控制措施：</p><p>4) 组织的职业健康安全目标；</p><p>b) 组织评价其职业健康安全绩效所依据的准则；</p><p>c) 适用时，监视、测拭、分析与评价的方法，以确保有效的结果；</p><p>d) 何时应实施监视和测量；</p><p>e) 何时应分析、评价和沟通监视和测量结果。</p><p>适用时，组织应确保监视和测点设备经校准或经验证，确保恰当使用并对其进行适当的维护。</p><p>注：关于监视和测量设备的校准和检定，可能存在法律法规要求和其它要求（例如：国家或国际标准）。</p><p>组织应评价其职业健康安全管理绩效并确定职业健康安全管理体系的有效性。</p><p>组织应保留适当的文件化信息，作为监视、测量、分析和评价结果的证据。</p><p>9.1.2法律法规要求和其他要求的合规性评价</p><p>组织应策划、建立、实施和保持一个过程，以评价适用的法律法规要求和其他要求的符合性。（见6.1.3).</p><p>组织应：</p><p>a) 确定评价合规性的频次和方法；</p><p>b) 评价合规性；</p><p>c) 必要时按照10.1采取措施；</p><p>d) 保持其法律法规要求和其他要求的合规情况的知识和理解；</p><p>e) 保留合规性评价结果的文件化信息。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>9.2 内部审核</b></p><p>9.2.1内部审核目标</p><p>组织应按计划的时间间隔实施内部审核，以提供下列职业健康安全管理体系的信息：</p><p>a) 是否符合：</p><p>1) 组织自身职业健康安全管理体系的要求，包括职业健康安全方针和职业健康安全目标；</p><p>2) 本标准的要求；</p><p>b) 是否得到了有效的实施和保持。</p><p>9.2.2内部审核过程</p><p>组织应：</p><p>a) 策划、建立、实施并保持一个或多个内部审核方案，包括实施审核的频次、方法、职责、协商、策划要求和报告。策划、建立、实施和保持内部审核方案时，组织除了应考虑相关过程的重要性和以往审核的结果外，还应考虑：</p><p>1) 影响组织的重要变更；</p><p>2) 绩效评价和改进结果（见条款9和10）;</p><p>3) 重要的职业健康安全风险和职业健康安全机遇；</p><p>b) 规定每次审核的准则和范围；</p><p>c) 选择胜任的审核员并实施审核，确保审核过程的客观性与公正性；</p><p>d) 确保向相关管理者报告审核结果；</p><p>e) 确保向相关的员工，员工代表（如有）及有关的相关方报告相关的审核发现；</p><p>f) 采取适当的措施应对不符合（见10.1)和持续改进其职业健康安全绩效（见10.2);</p><p>g) 组织应保留文件化信息，作为审核方案实施和审核结果的证据。</p><p>注：有关审核的更多信息，参考GB/T19011管理体系审核指南。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>9.3 管理评审</b></p><p>最高管理者应按计划的时间间隔对组织的职业健康安全管理体系进行评审，以确保其持续的适宜性、充分性和有效性。</p><p>管理评审应包括对下列事项的考虑：</p><p>a) 以往管理评审所采取措施的状况；</p><p>b) 与职业健康安全管理体系相关的内外部问题的变更，包括：</p><p>1) 适用的法律法规要求和其他要求；</p><p>2) 组织的职业健康安全风险和职业健康安全机遇；</p><p>c) 职业健康安全方针和职业健康安全目标的满足程度；</p><p>d) 职业健康安全绩效方面的信息，包括以下方面的趋势：</p><p>1) 事件、不符合、纠正措施和持续改进；</p><p>2) 员工参与和协商的输出；</p><p>3) 监视和测量的结果；</p><p>4) 审核结果；</p><p>S) 合规性评价的结果；</p><p>6) 职业健康安全风险和职业健康安全机遇。</p><p>e) 与相关方的有关沟通；</p><p>f) 持续改进的机遇；</p><p>g) 为保持有效的职业健康安全管理体系所需的资源的充分性；</p><p>管理评审的输出应包括与以下方面相关的决策：</p><p>—对职业健康安全管理体系的待续适宜性、充分性和有效性的结论；</p><p>—持续改进机遇；</p><p>—职业健康安全管理体系变更的任何需求，包括所需的资源；</p><p>—目标未满足时需耍采取的措施。</p><p>组织应向其相关的员工及员工代表（如有）沟通（见7.4.)管理评审的相关输出。</p><p>组织应保留文件化信息，作为管理评审结果的证据。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>10 改进</b></p><p><b>10.1 事件、不符合和纠正措施</b></p><p>组织应策划、建立、实施和保持一个过程，以管理事件和不符合，包括报告、调查和采取措施。</p><p>当发生串件或不符合时，组织应：</p><p>a) 对事件或不符合作出及时反应，并且适用时：</p><p>1) 直接采取措施控制并纠正该事件或不符合；</p><p>2) 处理后果；</p><p>b) 评价消除事件或不符合根本原因的措施需求，以防止不符合再次发生或在其他地方发生。评价时</p><p>应有员工参与（见5.4)和其他有关相关方的参加。通过以下方式评价：</p><p>1) 评审事件或不符合；</p><p>2) 确定事件或不符合的原因；</p><p>3) 确定是否存在或是否可能发生类似的事件或不符合；</p><p>c) 适当时，评审职业健康安全风险的评价请况；（见6.1);</p><p>d) 确定并实施与控制层级（见8.1.2)和变更管理（见8.2)相一致的任何所需的措施，包括纠正措施；</p><p>e) 评审所采取的任何纠正措施的有效性；</p><p>f) 必要时，对职业健康安全管理体系进行变更。</p><p>纠正措施应与所发生的事件或不符合造成的影响或潜在影响相适应。</p><p>组织应保留文件化信息作为下列事项的证据：</p><p>—事件或不符合的性质和所采取的任何后续措施；</p><p>—任何纠正措施的结果，包括所采取措施的有效性。</p><p>组织应与相关的员工和员工代表（如）及有关的相关方沟通该文件化信息。</p><p>注：及时地报告和调查事件可能有助于消除危险源和尽可能降低相关的职业健康安全风险。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>10.2 持续改进</b></p><p>10.2.1持续改进目标</p><p>组织应持续改进职业健康安全管理体系的适宜性、充分性与有效性，以：</p><p>a) 预防事件和不符合的发生；</p><p>b) 宣传正面的职业健康安全文化；</p><p>c) 提升职业健康安全绩效。</p><p>适当时，组织应确保员工参与实施其持续改进目标。</p><p>10.2.2持续改进过程</p><p>组织应在考虑本标准描述的活动的输出的基础上，策划、建立、实施和保持一个或多个持续改进过程。</p><p>组织应与其相关的员工及员工代表（如有）沟通持续改进的结果。</p><p>组织应保留文件化信息，作为持续改进的证据。</p>", 
+            "topic": [
+                {
+                    "tag": "ISO9000", 
+                    "tagLink": "https://api.zhihu.com/topics/19915664"
+                }, 
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }, 
+                {
+                    "tag": "ISO内审员", 
+                    "tagLink": "https://api.zhihu.com/topics/19705700"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34790691", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 4, 
+            "title": "ISO45001:2018职业健康安全管理体系要求及使用指南【ISO45001:2018标准-6】", 
+            "content": "<p><b>8 运行</b></p><p><b>8.1 运行策划和控制</b></p><p>8.1.1总则</p><p>组织应策划、实施并控制满足职业健康安全管理体系要求以及实施条款6所确定的措施所需的过程，通过：</p><p>a) 建立过程准则；</p><p>b) 按照准则实施过程控制；</p><p>c) 保持必要的文件化信息，以确信过程已按策划得到实施；</p><p>d) 确定因缺乏文件化信息而可能偏离职业健康安全方针和职业健康安全目标的情况；</p><p>e) 使工作适合于员工。</p><p>在存在多个雇主的工作场所，组织应实施一个过程用以协调职业健康安全管理体系相关各方与其它组织。</p><p>8.1.2控制层级</p><p>组织应建立一个过程并确定实现减少职业健康安全风险的控制措施，通过运用下面的层级：</p><p>a) 消除危险源；</p><p>b) 用危险性较低的材料、过程、运行或设备替代；</p><p>c) 运用工程控制措施；</p><p>d) 运用管理控制措施；</p><p>e) 提供并确保使用充分的个人防护装备。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>8.2 变更管理</b></p><p>组织应建立一个过程，以实施和控制影响职业健康安全绩效的有计划的变更，例如：</p><p>a) 新的产品、过程或服务；</p><p>b) 工作过程、程序、设备或组织结构的变更；</p><p>c) 适用的法律法规要求和其他要求的变更；</p><p>d) 有关危险源和相关的职业健康安全风险的知识或信息的变更；</p><p>e) 知识和技术的发展。</p><p>组织应控制临时性的和永久性的变更，以推动职业健康安全机遇，并确保其不会对职业健康安全绩效产生不利的影响。</p><p>组织应对非预期性变更的后果予以评审，必要时，应采取措施降低任何不利影响，包括应对潜在的机遇（见条款6)。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>8.3 外包</b></p><p>组织应确保对影响其职业健康安全管理体系的外包过程实施控制。应在职业健康安全管理体系内规定对这些过程实施控制的类型和程度。</p><p>注：对外包过程的控制类型和程度属于职业健康安全管理体系的一部分，不论该过程在工作场所的哪个地方实施。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>8.4 采购</b></p><p>组织应制定控制措施，确保商品（例如：产品、危险材料或物质、原材料、设备）和服务的采购符合其职业健康安全管理体系要求。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>8.5 承包商</b></p><p>组织应建立过程，用以识别和沟通因下述情况产生的危险源并评价和控制相应的职业健康安全风险：</p><p>a) 承包商的活动和运行对组织的员工；</p><p>b) 组织的活动和运行对承包商的员工；</p><p>c) 承包商的活动和运行对工作场所的其它相关方；</p><p>d) 承包商的活动和运行对承包商自身员工。</p><p>组织应建立和保持过程以确保承包商及其员工符合组织的职业健康安全管理体系要求。这些过程应包括选择承包商的职业健康安全准则。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>8.6 应急准备和响应</b></p><p>组织应识别潜在的紧急情况；评价与这些紧急情况（见6.1.2）相关的职业健康安全风险并保持一个过程以预防或尽可能降低因潜在的紧急情况带来的职业健康安全风险，包括：</p><p>a) 建立紧急情况的响应计划，包括急救；</p><p>b) 定期测试和演练应急响应能力；</p><p>c) 评价应急准备过程和程序，必要时对其进行修订，包括在测试后特别是在紧急情况发生后；</p><p>d) 向组织所有层次的所有员工沟通和提供与他们的岗位和职责相关的信息；</p><p>e) 提供紧急预防、急救、应急准备和响应的培训；</p><p>f) 与承包商、访问者、应急响应服务机构、政府当局以及，适当时，当地社区沟通相关信息。</p><p>组织应在过程的所有阶段考虑所有相关方的需求和能力并确保他们的参与。</p><p>组织应保持和保留过程及响应潜在的紧急情况的计划的文件化信息。</p>", 
+            "topic": [
+                {
+                    "tag": "ISO9000", 
+                    "tagLink": "https://api.zhihu.com/topics/19915664"
+                }, 
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }, 
+                {
+                    "tag": "ISO内审员", 
+                    "tagLink": "https://api.zhihu.com/topics/19705700"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34790522", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 3, 
+            "title": "ISO45001:2018职业健康安全管理体系要求及使用指南【ISO45001:2018标准-5】", 
+            "content": "<p><b>7 支持</b></p><p><b>7.1 资源</b></p><p>组织应确定并提供建立、实施、保持和持续改进职业健康安全管理体系所需的资源。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>7.2 能力</b></p><p>组织应：</p><p>a) 确定对组织职业健康安全绩效有影响或可能有影响的员工所需的能力；</p><p>b) 基于适当的教育、入职引导、培训或经历，确保员工能够胜任工作；</p><p>c) 适当时，采取措施以获得所必需的能力，并评价所采取措施的有效性；</p><p>d) 保留适当的文件化信息作为能力的证据。</p><p>注：适当措施可能包括，例如：向现有员工提供培训和指导，或重新委派其职务；或聘用、雇佣胜任的人员。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>7.3 意识</b></p><p>组织应让员工意识到：</p><p>a) 职业健康安全方针；</p><p>b) 他们对职业健康安全管理体系有效性的贡献，包括对改进职业健康安全绩效的贡献；</p><p>c) 不符合职业健康安全管理体系要求的后果，包括他们的工作活动的实际或潜在的后果；</p><p>d) 相关事件调查的信息和结果；</p><p>e) 与他们相关的职业健康安全危险源和风险。</p><p>注：国际劳工组织制定的国际劳工标准建议，如果员工发现了可能造成伤害和健康损害的危险情况或危险环境时，他们应当能够自己消除并向组织报告该情况，不会有遭受惩罚的风险。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>7.4 信息和沟通</b></p><p>组织应确定与职业健康安全管理体系有关的内外部信息和沟通需求，包括：</p><p>a) 通知和沟通的内容；</p><p>b) 何时进行通知和沟通；</p><p>c) 通知谁及与谁进行沟通</p><p>1) 在组织内部各层次和职能之间；</p><p>2) 与到达工作场所的承包商人员和访问者：</p><p>3) 与其他外部或相关方；</p><p>d) 如何进行通知和沟通；</p><p>e) 如何接收、保持相关沟通及回应的文件化信息。</p><p>组织应通过通知和沟通规定要实现的目标，并应评价这些目标是否已经得到满足。</p><p>在考虑其信息和沟通需求时，组织应考虑多样性方面，如有（比如语言、文化、读写能力、伤残）。</p><p>适当时，组织应确保考虑了有关的外部相关方关于职业健康安全管理体系问题的观点。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>7.5 文件化信息</b></p><p>7.5.1总则</p><p>组织的职业健康安全管理体系应包括：</p><p>a) 本标准要求的文件化信息；</p><p>b) 组织确定的实现职业健康安全管理体系有效性所必需的文件化信息；</p><p>注：不同组织的职业健康安全管理体系文件化信息的复杂程度可能不同，取决于：</p><p>—组织的规模及其活动、过程、产品和服务的类型；</p><p>—过程的复杂性及其相互作用；</p><p>—人员的能力。</p><p>7.5.2创建和更新</p><p>创建和更新文件化信息时，组织应确保适当的：</p><p>a) 识别和描述（例如：标题、日期、作者或文献编号）；</p><p>b) 形式（例如：语言文字、软件版本、图表）与载体（例如：纸质、电子）；</p><p>c) 评审和批准，以确保适宜性和充分性。</p><p>7.5.3文件化信息的控制</p><p>职业健康安全管理体系及本标准要求的文件化信息应予以控制，以确保其：</p><p>a) 在需要的时间和场所均可获得并适用；</p><p>b) 受到充分的保护（例如：防止失密、不当使用或完整性受损）。</p><p>为了控制文件化信息，适用时，组织应采取以下措施：</p><p>—分发、访问、检索和使用；</p><p>—存储和保护，包括保持易读性；</p><p>—变更的控制（例如：版本控制）；</p><p>—保留和处置。</p><p>—员工及员工代表（如有）对相关的文件化信息的访问。</p><p>组织应识别所确定的对职业健康安全管理体系策划和运行所需的来自外部的文件化信息，适当时，应对其予以控制。</p><p>注：“访问”可能指只允许查阅文件化信息的决定，或可能指允许并授权查阅和更改文件化信息的决定。</p>", 
+            "topic": [
+                {
+                    "tag": "国际标准化组织（ISO）", 
+                    "tagLink": "https://api.zhihu.com/topics/19612495"
+                }, 
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }, 
+                {
+                    "tag": "ISO内审员", 
+                    "tagLink": "https://api.zhihu.com/topics/19705700"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34790359", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 3, 
+            "title": "ISO45001:2018职业健康安全管理体系要求及使用指南【ISO45001:2018标准-4】", 
+            "content": "<p><b>6 策划</b></p><p><b>6.1 应对风险和机遇的措施</b></p><p>6.1.1总则</p><p>策划职业健康安全管理体系时，组织应考虑到4.1所描述的因素（所处的环境）、4.2 所提及的要求（相关方）和4.3(职业健康安全管理体系范围），确定需要应对的风险和机遇，以便：</p><p>a) 确保职业健康安全管理体系能够实现其预期结果：</p><p>b) 预防或减少不期望的影响；</p><p>c) 实现持续改进。</p><p>组织应考虑在策划过程中员工的有效参与以及，适当时，其他相关方的参与。</p><p>确定需要应对的风险和机遇时，组织应考虑：</p><p>a) 职业健康安全危险源及其相关联的职业健康安全风险（见6.1.2.3)和机遇（见6.1.2.4);</p><p>b) 适用的法律法规要求和其他要求（见6.1.3) :</p><p>c) 与职业健康安全管理体系运行有关的能够影响实现预期结果的风险（见6.1.2.3 )和机遇（见6.1.2.4):</p><p>对于职业健康安全管理体系的预期结果，连同组织及其过程、职业健康安全管理体系的变更，组织应评价相关的风险并识别相关的机遇。若是有计划性的变更，永久性的或是临时性的，该评价应在变更实施前进行（见8.2) 。</p><p>组织应保持：</p><p>－需要应对的职业健康安全风险和职业健康安全机遇的文件化信息：</p><p>—应对风险和机遇所需过程（见6.1.1到6.1.4)的文件化信息，其程度应足以确信这些过程按策划实施。</p><p>6.1.2危险源辨识和职业健康安全风险评价</p><p>6.1.2.1 危险源辨识</p><p>组织应建立、实施并保持一个过程，以持续积极地对产生的危险源进行辨识。危险源辨识过程应考虑但不限于：</p><p>a) 常规和非常规的活动和情形，包括考虑：</p><p>1) 工作场所的基础设施、设备、材料、物质和物理条件：</p><p>2) 因产品设计而产生的危险源，包括研究、开发、测试、生产、组装、施工、服务交付、维护或处置；</p><p>3) 人为因素；</p><p>4) 工作实际是如何完成的；</p><p>b) 紧急情况；</p><p>c) 人员，包括考虑：</p><p>1) 进入工作场所的人员及其活动，包括员工、承包商人员、访问者和其他人员；</p><p>2) 在工作场所附近的可能受到组织活动影响的人员；</p><p>3) 在不受组织直接控制的地点的员工；</p><p>d) 其他问题，包括考虑：</p><p>1) 工作区域、过程、安装、机器／设备、操作程序和工作组织的设计，包括它们对人员能力的适应性；</p><p>2) 在工作场所附近发生的由工作相关的活动造成的组织控制下的情况；</p><p>3) 在工作场所附近发生的可能对工作场所中的人员造成与工作相关的伤害和健康损害的不受组织控制的情况；</p><p>e) 组织及其运行、过程、活动和职业健康安全管理体系（见8.2) 实际或有计划的变更；</p><p>f) 危险源知识和危险源信息的变更；</p><p>g) 组织内部或外部曾经发生的事件，包括紧急情况及其原因；</p><p>h) 工作组织形式和社会因素，包括工作量、工作时间、领导作用和组织文化。</p><p>6.1.2.2 职业健康安全风险和其他职业健康安全管理体系风险的评价</p><p>组织应建立、实施和保持一个或多个过程，以便：</p><p>a) 评价已识别出的危险源中的职业健康安全风险，此时须考虑适用的法律法规要求和其他要求以及现有控制措施的有效性；</p><p>b) 识别和评价与建立、实施、运行和保持职业健康安全管理体系有关的风险。其风险可能来自于4.1所识别的问题和4.2所识别的需求和期望。</p><p>组织用于评价职业健康安全风险的方法和准则应在范围、性质和时机方面进行界定，以确保其是主动的而非被动的并且以系统的方式运用。应保持和保留这些方法和准则的文件化信息。</p><p>6.1.2.3 识别职业健康安全机遇和其他机遇</p><p>组织应建立、实施和保持一个或多个过程，以识别：</p><p>a) 提升职业健康安全绩效的机遇，此时须考虑：</p><p>1) 组织及其过程或活动的有计划的变更；</p><p>2) 消除或减少职业健康安全风险的机遇；</p><p>3) 使工作、工作组织和工作环境适合于员工的机遇；</p><p>b) 改进职业健康安全管理体系的机遇；</p><p>6.1.3确定适用的法律法规要求和其他要求</p><p>组织应建立、实施和保持一个过程，以便：</p><p>a) 确定并获取适用于组织危险源和职业健康安全风险的、最新的法律法规要求和其他组织应遵守的要求；</p><p>b) 确定如何将这些法律法规要求和其他要求应用于组织，并确定需要沟通的内容（见7.4）;</p><p>c) 组织在建立、实施、保持和持续改进其职业健康安全管理体系时必须考虑这些法律法规要求和其他要求；</p><p>组织应保持和保留其适用的法律法规要求和其他要求的文件化信息，同时应确保对其进行更新以反映任何变化情况。</p><p>注：法律法规要求和其他要求可能会给组织带来风险和机遇。</p><p>6.1.4措施的策划</p><p>组织应策划：</p><p>a) 措施以：</p><p>1) 应对这些风险和机遇（见6.1.2.3 和6.1.2.4);</p><p>2) 应对适用的法律法规要求和其他要求（见6.1.3);</p><p>3) 准备应对紧急情况和对紧急情况做出响应（见8.6):</p><p>b) 如何：</p><p>1) 在其职业健康安全管理体系过程中或其他业务过程中融入并实施这些措施；</p><p>2) 评价这些措施的有效性。</p><p>策划措施时，组织应考虑控制层级（见8.1.2)和职业健康安全管理体系的输出(see 10.2.2) 。</p><p>策划措施时，组织应考虑最佳实践、可选技术方案、财务、运行和经营要求及限制。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>6.2 职业健康安全目标及其实现的策划</b></p><p>6.2.1职业健康安全目标</p><p>组织应针对其相关职能和层次建立职业健康安全目标，以保持和改进职业健康安全管理体系，实现职业健康安全绩效的持续改进（见条款10) 。</p><p>职业健康安全目标应：</p><p>a) 与职业健康安全方针一致：</p><p>b) 考虑适用的法律法规要求和其他要求：</p><p>c) 考虑职业健康安全风险和职业健康安全机遇以及其它风险和机遇的评价结果；</p><p>d) 考虑与员工及员工代表（如有）协商的输出；</p><p>e) 可测量（可行时）或可评价；</p><p>f) 得到监视；</p><p>g) 予以清晰沟通（见7.4);</p><p>h) 适当时予以更新。</p><p>6.2.2实现职业健康安全目标的策划</p><p>策划如何实现职业健康安全目标时，组织应确定：</p><p>a) 要做什么；</p><p>b）需要什么资源；</p><p>c) 由谁负责；</p><p>d) 何时完成；</p><p>e) 如何通过参数进行测量（可行时）及如何进行监视，包括频率；</p><p>f) 如何评价结果；</p><p>g) 如何能将实现职业健康安全目标的措施融入其业务过程．</p><p>组织应保持和保留职业健康安全目标及其实现计划的文件化信息。</p>", 
+            "topic": [
+                {
+                    "tag": "ISO内审员", 
+                    "tagLink": "https://api.zhihu.com/topics/19705700"
+                }, 
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }, 
+                {
+                    "tag": "ISO9000", 
+                    "tagLink": "https://api.zhihu.com/topics/19915664"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34790217", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 4, 
+            "title": "ISO45001:2018职业健康安全管理体系要求及使用指南【ISO45001:2018标准-3】", 
+            "content": "<p></p><p><b>4 组织所处的环境</b></p><p><b>4.1 理解组织及其所处的环境</b></p><p>组织应确定与其宗旨相关并影响其实现职业健康安全管理体系预期结果的能力的外部和内部间题。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4.2 理解员工及其他相关方的需求和期望</b></p><p>组织应确定：</p><p>a) 除了员工以外，与职业健康安全管理体系有关的相关方；</p><p>b) 员工及这些其他相关方的有关需求和期望（即要求）；</p><p>c) 这些需求和期望中哪些将成为适用的法律法规要求和其他要求；</p><p>注：确定管理类员工和非管理类员工不同的需求和期望是很重要的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4.3 确定职业健康安全管理体系的范围</b></p><p>组织应确定职业健康安全管理体系的边界和适用性，以界定其范围。</p><p>确定范围时组织应：</p><p>a) 考虑4.1 所提及的内、外部问题；</p><p>b) 考虑4.2 所提及的要求；</p><p>c) 考虑所实施的与工作相关的活动。</p><p>范围一经确定，组织控制下的或在其影响范围内的可能影响组织职业健康安全绩效的活动、产品和服务应纳入职业健康安全管理体系。</p><p>应保持范围的文件化信息，并可获取。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>4.4 职业健康安全管理体系</b></p><p>组织应根据本标准的要求建立、实施、保持并持续改进职业健康安全管理体系，包括所需的过程及其相互作用。</p><p><b>5 领导作用与员工参与</b></p><p><b>5.1 领导作用与承诺</b></p><p>最商管理者应证实其在职业健康安全管理体系方面的领导作用和承诺，通过：</p><p>a) 对保护员工的与工作相关的健康和安全承担全部职责和责任；</p><p>b) 确保建立职业健康安全方针和职业健康安全目标，并确保其与组织的战略方向相一致；</p><p>c) 确保将职业健康安全管理体系的过程和要求融入组织的业务过程；</p><p>d) 确保可获得建立、实施、保持和改进职业健康安全管理体系所需的资源；</p><p>e) 通过协商、识别以及消除妨碍参与的障碍或障碍物，确保员工及员工代表（如有）的积极参与；</p><p>f) 就有效职业健康安全管理的重要性和符合职业健康安金管理体系要求的重要性进行沟通；</p><p>g) 确保职业健康安全管理体系实现其预期结果；</p><p>h) 指导并支持员工对职业健康安全管理体系的有效性做出贡献；</p><p>i) 通过系统地识别和采取措施以应对不符合、机遇以及与工作相关的危险源和风险，包括体系缺陷，确保及促进职业健康安全管理体系的持续改进以提商职业健康安全绩效；</p><p>j) 支持其他相关管理人员在其职责范围内证实其领导作用；</p><p>k) 在组织内培养、引导和宣传支持职业健康安全管理体系的文化。</p><p>注：本标准所提及的“ 业务”可从广义上理解为涉及组织存在目的的那些核心活动。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>5.2 职业健康安全方针</b></p><p>最高管理者应与组织各层次的员工协商后（见5.3和5.4）建立、实施并保持职业健康安全方针，环境方针应：</p><p>a) 包括提供安全健康的工作条件以预防与工作相关的伤害和健康损害的承诺，并适合于组织的宗旨、规模、所处的环境以及组织的职业健康安全风险和机遇的特定性质；</p><p>b) 为制定职业健康安全目标提供框架；</p><p>c) 包括满足适用的法律法规要求和其他要求的承诺；</p><p>d) 包括利用控制层级（见8.1.2)控制职业健康安全风险的承诺；</p><p>e) 包括持续改进职业健康安全管理体系（见10.2）以提高职业健康安全绩效的承诺；</p><p>f) 包括员工及员工代表（如有）参与职业健康安全管理体系决策过程的承诺。</p><p>职业健康安全方针应：</p><p>—保持文件化信息并可获取；</p><p>—向组织内的员工沟通；</p><p>—适当时，可向有关相关方提供；</p><p>—应定期评审以确保持续的相关性和适宜性。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>5.3 组织的岗位、职责、贲任和权限</b></p><p>最高管理者应确保在组织内部各层次分配井沟通职业健康安全管理体系内相关岗位的职责、责任和权限并保持文件化信息。组织内每一层次的员工应承担职业健康安全管理体系中其控制部分的职责。</p><p>最高管理者应对下列事项分配职责和权限：</p><p>a) 确保职业健康安全管理体系符合本标准的要求；</p><p>b) 向最高管理者报告职业健康安全管理体系的绩效。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>5.4 参与和协商</b></p><p>组织应建立、实施和保持一个或多个程序，由所有相关层次和职能部门的员工和员工代表（如有）参与（包括协商）建立、策划、实施、评价和改进职业健康安全管理体系。</p><p>组织应：</p><p>a) 提供参与所需的机制、时间、培训和资源；</p><p>b) 及时提供有关职业健康安全管理体系的清晰的、可理解的和相关的信息；</p><p>c) 识别和消除妨碍参与的障碍或障碍物并最大限度地降低那些无法消除的；</p><p>注1: 障碍和障碍物可能包括没有对员工的输入或建议作出回应，语言或读写障碍，报复或报复的威胁以及使员工丧失参与信心的或妨碍员工参与的方针或做法。</p><p>d) 特别强调非管理类员工参与下述活动：</p><p>1) 确定他们参与和协商的机制；</p><p>2) 危险源辨识和风险评价（见6.1,6.1.1和6.1.2）；</p><p>3) 控制危险源和风险（见6.1.4）的措施；</p><p>4) 识别能力、培训和培训评价的需求（见7.2）;</p><p>5) 确定需要沟通的信息以及如何沟通（见7.4）；</p><p>6) 确定控制措施及其有效应用（见8.1，8.2和8.6）；</p><p>7) 调查事件和不符合并确定纠正措施（见10.1）；</p><p>e) 特别强调非管理类员工参与协商下述活动：</p><p>1) 确定相关方的需求和期望（见4.2）；</p><p>2) 制定方针（见5.2）；</p><p>3) 适用时分配组织的岗位、职责、责任和权限（见5.3）；</p><p>4) 确定如何应用法律法规要求和其他要求（见6.1.3）；</p><p>5) 制定职业健康安全目标（见6.2.1）；</p><p>6) 确定外包、采购和分包商的适用的控制方法（见8.3,8.4和8.5）;</p><p>7) 确定哪些需要监视、测量和评价；（见9.1.1）;</p><p>8) 策划、建立、实施并保持一个或多个审核方案（见9.2.2）；</p><p>9) 建立一个或多个持续改进过程（见10.2.2)。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>注2: 参与可能包括，适用时，积极参与健康安全委员会和员工代表。</p><p>注3: 国际组织制定的国际劳工标准建议无偿向员工提供个人防护用品(PPE)以消除在职业健康安全管理体系中妨碍员工参与的一个重要障碍。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "国际标准化组织（ISO）", 
+                    "tagLink": "https://api.zhihu.com/topics/19612495"
+                }, 
+                {
+                    "tag": "ISO9000", 
+                    "tagLink": "https://api.zhihu.com/topics/19915664"
+                }, 
+                {
+                    "tag": "ISO内审员", 
+                    "tagLink": "https://api.zhihu.com/topics/19705700"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34789736", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 4, 
+            "title": "ISO45001:2018职业健康安全管理体系要求及使用指南【ISO45001:2018标准-2】", 
+            "content": "<p><b>3 术语和定义</b></p><p>下列术语和定义适用于本标准。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.1 </b></p><p><b>组织 organization</b></p><p>为实现其目标(3.16)而具有职责、权限和关系等自身职能的个人或群体。</p><p>注 1:组织包括但不限于个体经营者、公司、集团公司、商行、企事业单位、政府机构、合股经营的公司、公益机构、社团、或上述单位中的一部分或其结合体，无论其是否具有法人资格、公信或私营。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.2 </b></p><p><b>相关方 interested party</b></p><p>能够影响决策或活动、受决策或活动影响，或感觉自身受到决策或活动影响的个人或组织 (3.1)。</p><p>注 1 :本标准规定了与员工有关的要求，员工也属于相关方． </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.3 </b></p><p><b>员工 worker</b></p><p>在组织(3.1)控制下从组工作或与工作相关活动的人员。</p><p>注 1:人员从事工作或与工作相关的活动有各种不同的安排方式，有偿的或无性的，比如定期的或临时的，间歇性的或季节性的，偶然的或兼职的。</p><p>注 2 :员工包括最高管理者(3.12),管理人员和非管理人员。</p><p>注 3:在组织控制下从事工作或与工作相关的活动的可以是组织雇佣的员工，或是其他人员，包括来自于外部供方的员工、承包商的员工、个人，也包括组织对派遣员工有一定控制程度的情形。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.4 </b></p><p><b>参与 participation</b></p><p>员工(3.3)参加职业健康安全管理体系的决策过程。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.5 </b></p><p><b>协商 consultation</b></p><p>组织(3.1)在决策之前向员工征求意见的过程(3.25)。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.6 </b></p><p><b>工作场所 workplace</b></p><p>组织(3.1)控制下的一个人需要在的或是因工作的原因需要去的地方。</p><p>注 1:组织在职业健康安全管理体系(3.1])中对工作场所的职责取决于对工作场所的控制程度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.7 </b></p><p><b>承包商 contractor</b></p><p>按照约定的规格、条款和条件在一个工作场所(3.6)向本组织提供服务的外部组织(3.1)。</p><p>注 1 :服务可以包括建筑活动。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.8 </b></p><p><b>要求 requirement</b></p><p>明示的、通常隐含的或必须履行的衙求或期望。</p><p>注 1 :&#34;通常隐含”是指与组织的职业健康安全方针(3.15)一致的惯例或一般做法。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.9 </b></p><p><b>法律法规要求和其他要求 legal requirements and other requirements</b></p><p>适用于组织(3.1)的法定要求(3.8),对组织有法律约束力的义务以及组织应遵守的要求。</p><p>注 1:在本标准中，法律法规要求和其他要求指的是那些与职业健康安全管理体系(3.11)相关的要求。</p><p>注 2 :有法律约束力的义务可包括媒体合同中的条款．</p><p>注 3 :法律法规要求和其他要求包括那些按照法作、法规、媒体合同和实践选举员工代表 (3.3)的要求。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.10 </b></p><p><b>管理体系 management system</b></p><p>组织(3.1)用于制订方针(3.14)、目标(3.15)以及实现这些目标的过程(3.25)所需的一系列相互关联或相互作用的要素。</p><p>注 1 :一个管理体系可关注一个领域或多个领域。</p><p>注 2 :体系要素包括组织的结构、岗位和职贵、策划和运行、绩效评价和改进．</p><p>注 3 :管理体系的范围可包括整个组织、其特定的职能、其特定的部门、或跨组织的一个或多个职能。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.11 </b></p><p><b>职业健康安全管理体系 occupationalhealth and safety management system</b></p><p>职业健康安全管理体系 OH&amp;S management system</p><p>用于实现职业健康安全方针(3.15)的管理体系(3.10)或管理体系的一部分。</p><p>注 1 :职业健康安全管理体系的预期结果是预防员工(3.3)的伤害和健康损害(3.18),提供安全和健康的工作场所(3.4)。</p><p>注 2 :术语“职业健康安全&#34;(OH&amp;S)和“职业安全健康&#34; (OSH)含义相同． </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.12 </b></p><p><b>最高管理者 top management</b></p><p>在最高层指挥并控制组织(3.1)的—个人或一组人。</p><p>注 1 :最高管理者有权在组织内部授权并提供资源，对职业健康安全管理体系(3.11)承担最终责任。</p><p>注 2 :若管理体系(3.10)的范围仅涵盖组织的一部分，则最高管理者是指那些指挥并控制组织该部分的人员。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.13 </b></p><p><b>有效性 effectiveness</b></p><p>实现策划的活动并取得策划的结果的程度。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.14</b></p><p><b>方针 policy</b></p><p>由最高管理者(3.12)正式表述的组织(3.1)的意图和方向。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.15</b></p><p><b>职业健康安全方针 occupationalhealth and safety policy</b></p><p><b>职业健康安全方针 OH&amp;S policy</b></p><p>预防员工(3.3)的与工作相关的伤害和健康损害(3.18)并提供一个安全和健康的工作场所(3.6)的方针(3.14)。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.16</b></p><p><b>目标 objective</b></p><p>要实现的结果</p><p>注1:目标可能是战略性的、战术性的或运行层面的。</p><p>注 2 :目标可能涉及不同的领域（例如：财务、健康与安全以及环境目标），并能够应用于不同层面（例如：战略、组织范围、项目、产品和过程(3.25))。</p><p>注 3:目标可能以其他方式表达，例如：预期结果、目的、运行准则、职业健康安全目标(3.17),或使用其他意思相近的词语（例如．目的、指标）等表达。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.17</b></p><p><b>职业健康安全目标 occupationalhealth and safety objective</b></p><p><b>职业健康安全目标 OH&amp;S objective</b></p><p>组织(3.1)为了实现具体的结果依据职业健康安全方针(3.15)制定的目标(3.16)。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.18</b></p><p><b>伤害和健康损害 injury and ill health</b></p><p>对人的身体、精神或认知状况造成的不良影响。</p><p>注1:这些状况可包括职业病、疾病和死亡。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.19</b></p><p><b>危险源 hazard</b></p><p>可能导致伤宫和健康损害(3.18)的根源或状态。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.20</b></p><p><b>风险 risk</b></p><p>不确定性的影响。</p><p>注 1:影响是指偏离预期，可以是正面的或负面的。</p><p>注 2 :不确定性是一种对某个小件，甚至是局部的结果或可能性缺乏理解或知识方面的信息的状态。</p><p>注 3:一般通过有关可能手件(GB/T 23694一 2013中的定义，4.5.1.3)和后果(GB/T 23694一 2013中的定义，4.6.1.3)或两者组合来表现风险的特性。</p><p>注 4 :通常风险是以某个事件的后果（包括情况的变化）及其发生的可能性(GB/T 23694</p><p>一 2013中的定义，4.6.1.1)的组合来表述。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.21</b></p><p><b>职业健康安全风险 occupationalhealth and safety risk</b></p><p><b>职业健康安全风险 OH&amp;S risk</b></p><p>一种与工作相关的危险事件或暴露发生的可能性和由此事件或暴露造成的伤害及健康损害 </p><p>(3.18)的严重程度的组合。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.22</b></p><p><b>职业健康安全机遇 occupationalhealth and safety opportunity</b></p><p><b>职业健康安全机遇 OH&amp;S opportunity</b></p><p>一种或多种可能导致职业健康安全绩效(3 .28)改进的情形。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.23</b></p><p><b>能力 competence</b></p><p>应用知识和技能实现预期结果的本领。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.24</b></p><p><b>形成文件的信息 documented information</b></p><p>组织(3.1)需要控制和保持的信息及其载体。</p><p>注 1:形成文件的信息可以任何格式和载体存在，并可来自任何来源。</p><p>注 2:形成文件的信息可包括： </p><p>a)管理体系(3.10),包括相关过程(3.25)； </p><p>b)为组织运行产生的信息（一组文件）； </p><p>c)结果实现的证据（记录）。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.25</b></p><p><b> process</b></p><p>一组将输入转换为输出的相互关联或相互作用的活动。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.26</b></p><p><b>程序 procedure</b></p><p>为进行某项活动或过程(3.25)所规定的途径。</p><p>注 1:程序可以形成文件，也可以不形成文件。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.27</b></p><p><b>绩效 performance</b></p><p>可测量的结果。</p><p>注 1:绩效可能涉及定量的或定性的结果。结果可能由定性的或定量的方法确定和评价。</p><p>注 2 :绩效可能涉及活动、过程(3.25),、产品（包括服务）、体系或组织(3.1)的管理。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.28</b></p><p><b>职业健康安全绩效 occupationalhealth and safety performance</b></p><p><b>职业健康安全绩效 OH&amp;S performance</b></p><p>与预防员工(3.3)伤害和健康损害以及提供健康安全的工作场所(3.6)有效性(3.13)相关的绩效(3.25)。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.29 </b></p><p><b>外包 outsource(verb)</b></p><p>安排外部组织执行组织(3.1)的部分职能或过程(3.25)。</p><p>注 1:虽然外包的职能或过程是在组织的管理体系(3.10)覆盖范册内，但是外部组织是处在覆盖范围之外。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.30</b></p><p><b>监视 monitoring</b></p><p>确定体系、过程(3.25)或活动的状态。</p><p>注 1 :确定状态可能需要检查、监督或密切观察。 </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.31</b></p><p><b>测量 measurement</b></p><p>确定数值的过程(3.25)。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.32</b></p><p><b>审核 audit</b></p><p>为获得审核证据并对其进行客观的评价，以确定满足审核准则的程度所进行的系统的、独立的并形成文件的过程(3.25)。</p><p>注 1:内部审核由组织自己实施或以组织的名义由外部其他方实施。</p><p>注 2:独立的过程包括对确保客观性和公正性的要求。</p><p>注 3:“审核证据”包括与审核准则相关且可验证的记录、事实陈述或其他信息；而“审核</p><p>准则”则是指与审核证据进行比较时作为参照的一组方针(3.16)、程序(3.26)或要求 (3.8),GB/T19011管理体系审核指南对它们进行了定义。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.33</b></p><p><b>符合 conformity</b></p><p>满足要求(3.8) </p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.34</b></p><p><b>不符合 nonconformity</b></p><p>未满足要求(3.8)</p><p>注 1:不符合与本标准要求及组织(3.1)自身规定的附加的职业健康安全管理体系(3.11)要求有关。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.35</b></p><p><b>事件 incident</b></p><p>因工作或在工作过程中引发的可能或已经造成了伤害和健康损害(3.18)的情况。</p><p>注 1:有些人将发生了伤害和健康损害的事件称之为“事故”。</p><p>注 2:未发生但有可能造成伤害和健康损害的本件通常称为“未遂本件”，在英文中也可称为&#34;near-miss&#34; ,&#34;near-hit&#34;或&#34;closecall&#34;。</p><p>注 3:尽管一个事件可能存在一个或多个不符合，但没有不符合(3.34)时也可能发生事件。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.36</b></p><p><b>纠正措施 corrective action</b></p><p>为消除不符合(3.34)或车件(3.35)的原因并预防再次发生所采取的措施。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3.37</b></p><p><b>持续改进 continual improvement</b></p><p>不断提升绩效(3.27)的活动。</p><p>注 1:提升绩效是指运用职业健康安全管理体系(3.11),实现符合职业健康安全方针(3.15)和职业健康安全目标(3.17)的总体职业健康安全绩效3.26)的改进。</p><p>注 2 :持续并不意味着不间断，因此该活动不必同时发生于所有领域。</p>", 
+            "topic": [
+                {
+                    "tag": "ISO9000", 
+                    "tagLink": "https://api.zhihu.com/topics/19915664"
+                }, 
+                {
+                    "tag": "企业经营管理结合ISO 9001:2015应用实务（书籍）", 
+                    "tagLink": "https://api.zhihu.com/topics/20124886"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34789408", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 2, 
+            "title": "ISO45001:2018职业健康安全管理体系要求及使用指南【ISO45001:2018标准-1】", 
+            "content": "<p><b>1 范围</b></p><p>本标准规定了对职业健康安全管理体系的要求及使用指南，旨在使组织能够提供健康安全的工作条件以预防与工作相关的伤害和健康损害，同时主动改进职业健康安全绩效。这包括考虑适用的法律法规要求和其他要求并制定和实施职业健康安全方针和目标。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本标准适用于任何有下列愿望的组织：</p><p><b>a)</b> 建立、实施和保持职业健康安全管理体系，以提高职业健康安全，消除或尽可能降低职业健康安全风险（包括体系缺陷），利用职业健康安全机遇，应对与组织活动相关的职业健康安全体系不符合；</p><p><b>b)</b> 持续改进组织的职业健康安全绩效和目标的实现程度；</p><p><b>c)</b> 确保组织自身符合其所阐明的职业健康安全方针；</p><p><b>d)</b> 证实符合本标准的要求。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本标准旨在适用于不同规模、各种类型和活动的组织，并适用于组织控制下的职业健康安全风险，该风险考虑了组织运行所处的环境以及员工和其他相关方的需求和期望。</p><p>本标准未提出具体的职业健康安全绩效准则，也未规定职业健康安全管理体系的结构。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本标准使组织能够通过组织的职业健康安全管理体系，整合健康和安全的其他方面，比如员工健康／福利。</p><p>本标准未涉及除给员工及其他相关方造成的风险以外的其他问题，比如产品安全、财产损失或环境影响等风险。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本标准能够全部或部分地用于系统地改进职业健康安全管理。但是，只有本标准的所有要求都被包含在了组织的职业健康安全管理体系中且全部得以满足，组织才能声明符合本标准。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>注：有关本标准要求的意图的更多指南，请见附录A 。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2 规范性引用文件</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>无规范性引用文件。</p>", 
+            "topic": [
+                {
+                    "tag": "ISO内审员", 
+                    "tagLink": "https://api.zhihu.com/topics/19705700"
+                }, 
+                {
+                    "tag": "安全", 
+                    "tagLink": "https://api.zhihu.com/topics/19569215"
+                }, 
+                {
+                    "tag": "ISO9001 管理体系", 
+                    "tagLink": "https://api.zhihu.com/topics/19591774"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34352037", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 3, 
+            "title": "智天下管理顾问-解读!ISO45001:2018换版《职业健康安全管理体系 要求及使用指南》-3", 
+            "content": "<p>　都要求对不符合项进行管理评审并加强培训教育。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　都要求组织的最高管理者任命管理者代表，负责建立、保持和实施管理体系。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　ISO 9001、ISO 14001、ISO 45001框架整合</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　在国内，组织都是将各个管理体系进行整合，质量、环境、职业健康安全管理体系作为ISO标准，均使用了高阶结构，为体系的整合提供了便利。表2将三个体系的框架进行了对应于合并，可供读者参考。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　表2 ISO 9001、ISO 14001、ISO 45001框架整合</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-7eca79c2b07a35d8edb7ed7beb962585_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"886\" data-rawheight=\"1400\" class=\"origin_image zh-lightbox-thumb\" width=\"886\" data-original=\"https://pic2.zhimg.com/v2-7eca79c2b07a35d8edb7ed7beb962585_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;886&#39; height=&#39;1400&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"886\" data-rawheight=\"1400\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"886\" data-original=\"https://pic2.zhimg.com/v2-7eca79c2b07a35d8edb7ed7beb962585_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-7eca79c2b07a35d8edb7ed7beb962585_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f81ff63f6a1f70ecb48d227dc496d478_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"853\" data-rawheight=\"1400\" class=\"origin_image zh-lightbox-thumb\" width=\"853\" data-original=\"https://pic1.zhimg.com/v2-f81ff63f6a1f70ecb48d227dc496d478_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;853&#39; height=&#39;1400&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"853\" data-rawheight=\"1400\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"853\" data-original=\"https://pic1.zhimg.com/v2-f81ff63f6a1f70ecb48d227dc496d478_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f81ff63f6a1f70ecb48d227dc496d478_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　组织保持健康和安全的5步法</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　组织可通过以下五步，使其工作人员在工作过程中保持健康和安全：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　第一步，识别工作场所的所有过程和活动;</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　第二步，在工作人员的帮助下，检查是否某些活动中有可能造成伤害的重大危险源。比如注意一些危险情况/过程，包括高处工作、机械、电气设备、化学品、建筑活动和农场工作等等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　第三步，降低可能导致严重损伤(事故或长期病痛)的风险，可通过消除危险源、变更工作流程、保护工作人员等方式。例如：长期接触重物、辐射、噪音、振动、视觉显示屏、化学品等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　第四步，验证保护工作人员而采取的措施是否正常运行，这些规定是否在遵守。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　第五步，通过寻找如何做得更好、更安全的方法改进。</p>", 
+            "topic": [
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }, 
+                {
+                    "tag": "ISO内审员", 
+                    "tagLink": "https://api.zhihu.com/topics/19705700"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34351866", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 6, 
+            "title": "智天下管理顾问-解读!ISO45001:2018换版《职业健康安全管理体系 要求及使用指南》-2", 
+            "content": "<p><b>更加关注于管理职责</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　强调了基于风险的思维</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　更加关注于绩效的监视与测量</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　表1 ISO 45001.2与OHSAS 18001:2007的对应关系</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-92711ee6c051d0e2aba7c5b620fc077d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"909\" data-rawheight=\"1400\" class=\"origin_image zh-lightbox-thumb\" width=\"909\" data-original=\"https://pic2.zhimg.com/v2-92711ee6c051d0e2aba7c5b620fc077d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;909&#39; height=&#39;1400&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"909\" data-rawheight=\"1400\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"909\" data-original=\"https://pic2.zhimg.com/v2-92711ee6c051d0e2aba7c5b620fc077d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-92711ee6c051d0e2aba7c5b620fc077d_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e752d50cbe53b8539bd13d73f2731b18_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"641\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic1.zhimg.com/v2-e752d50cbe53b8539bd13d73f2731b18_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1000&#39; height=&#39;641&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1000\" data-rawheight=\"641\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://pic1.zhimg.com/v2-e752d50cbe53b8539bd13d73f2731b18_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e752d50cbe53b8539bd13d73f2731b18_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>　　在新标准中，一个组织将不仅仅专注于其直接的健康和安全问题，而是会考虑到更大的社会期许。组织需要考虑到他们的分包商和供应商，还有比如说他们自身的工作会在周围对相邻的邻居造成怎样的影响。这会比仅仅关注与内部员工的条件更加广泛，意味着组织不能仅仅将其风险通过外包“嫁接”出去。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　ISO 45001强调，这些职业健康和安全因素体现在组织的整个管理体系中，需要从管理和领导层获得更高程度的认可。这对于那些目前习惯于将责任授权给一个安全经理而不是完全地融合入组织的运行中的使用者来说，将是一个很大的变化。ISO 45001要求职业健康和安全因素是组织完整管理体系中不可分割的一部分，而不再只是附加的部分。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　标准要求组织在策划职业健康安全体系时，应确定组织所需要应对的风险和机遇。风险和机遇存在于组织的危险源、合规性，以及所处的环境和相关方需求和期望中。标准要求组织要采取应对风险和机遇的措施，以确保体系能够实现组织的预期结果，实现组织在职业健康安全方面的持续改进。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　ISO 9001、ISO 14001、ISO 45001的相同点和不同点</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　ISO实施三个标准最大的不同点是其对象不同：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　组织按ISO 9001标准建立的质量管理体系，其对象是顾客。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　组织按ISO 14001标准建立的环境管理体系，其对象是社会和相关方。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　组织按OHSAS 18001标准建立的职业安全健康管理体系，其对象是员工。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　ISO实施三个标准的相同点：</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　组织实施管理的总方针和目标相同。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　三项标准使用共同的过程模式结构，结构相似以方便使用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　体系的原理都是PDCA(计划-执行-检查-改进)循环。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　都需要有文化的管理体系。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　都明确要有文件化的职责分工。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　都提出了通过体系运行实现持续改进。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　都提出了遵守法规和其他要求的承诺。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　都提出用内部审核和管理评审来评价体系运行的有效性、适宜性和符合性。</p>", 
+            "topic": [
+                {
+                    "tag": "ISO9000", 
+                    "tagLink": "https://api.zhihu.com/topics/19915664"
+                }, 
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34345018", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 2, 
+            "title": "智天下管理顾问-解读!ISO45001:2018换版《职业健康安全管理体系 要求及使用指南》-1", 
+            "content": "<p>　ISO 45001《职业健康安全管理体系 要求及使用指南》DIS2草案已于2017年5月19日发布;目前，ISO45001现已进入最终国际标准版草案(FDIS)阶段，预计将于2018年3月正式发布。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　职业健康安全管理体系发展历程</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　职业健康安全管理体系是在20世纪80年代后期兴起的，当时一些跨国公司和大型现代化联合企业，为强化自己的社会关注力和控制损失的需要，开始建立自律性的职业健康与环境保护的管理制度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　1996年，英国颁布了《职业健康安全管理体系指南》(BS8800);同年，美国工业卫生协会(AIHA)制定了《职业健康安全管理体系》的指导性文件;1997年，澳大利亚、新西兰提出了《职业健康安全管理体系原则、体系和支持技术通用指南》草案;同年，日本工业安全卫生协会(JISHA)提出了《职业健康安全管理体系导则》，挪威船级社(DNV)制定了《职业健康安全管理体系认证标准》。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　在1999年，英国标准协会(BSI)、挪威船级社(DNV)等13个组织提出了职业健康安全评价系列(OHSAS)标准，即OHSAS 18001《职业健康安全管理体系——规范》和OHSAS 18002《职业健康安全管理体系——OHSAS 18001实施指南》。2007年，OHSAS 18001得到进一步修订，是其与ISO 9001和ISO 14001标准的语言和架构得到进一步融合。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　直到2013年，国际标准化组织(ISO)开始编制一项新的标准——ISO 45001《职业健康安全管理体系 要求及使用指南》，用于取代OHSAS 18001标准。 </p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-d099a9c1161f988ec48e4d0676b58ab5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"415\" data-rawheight=\"584\" class=\"content_image\" width=\"415\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;415&#39; height=&#39;584&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"415\" data-rawheight=\"584\" class=\"content_image lazy\" width=\"415\" data-actualsrc=\"https://pic2.zhimg.com/v2-d099a9c1161f988ec48e4d0676b58ab5_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>　　ISO 发布《职业健康安全管理体系 要求及使用指南》DIS2草案</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　为什么要将OHSAS 18001转化成ISO标准?</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　首先，根据调查，目前大约有45个国家利用OHSAS 18001标准架构管理其职安卫(职业健康管理、安全管理、卫生管理简称)系统。虽然应用范围很广，但并非全球通用，而转化成ISO标准，仅其会员就有近70个国家，使其应用范围得到仅一步扩大。同时，ISO标准是全球认可的标准，不仅使其应用范围进一步扩大，另外使其更具有权威性。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　其次，ISO拥有国际性的专业知识。通过ISO成员组织，有近70个国家参与方或者观察员的方式参与到ISO 45001的发展中来。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　第三，现在许多组织都在使用ISO管理体系标准，这将更加使其与其他职业健康安全标准的整合更加容易。同时，对于许多小企业或许只有一个人员在管理安全以及环境方面的事宜，所以委员会也更加关注与ISO 14001相整合的可能性。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　ISO 45001与OHSAS 18001的区别</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　ISO 45001的构建是在OHSAS 18001已有的规范上，其主要目标是相同的，都是为提高组织的职业健康安全绩效。同时，通过以下表1框架的对比，也存如下不同之处：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　使用了ISO管理体系的高级结构</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　更加关注“组织环境”</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　强调最高管理者的职责和领导作用</b></p>", 
+            "topic": [
+                {
+                    "tag": "国际标准化组织（ISO）", 
+                    "tagLink": "https://api.zhihu.com/topics/19612495"
+                }, 
+                {
+                    "tag": "ISO内审员", 
+                    "tagLink": "https://api.zhihu.com/topics/19705700"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/34343359", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 4, 
+            "title": "ISO45001:2018职业健康安全管理体系介绍", 
+            "content": "<p><b>ISO 45001由谁负责编写？</b></p><p>这个委员会由69个正式成员(包括中国国家标准化委员会SAC以及英、美、德、法等国家的相关机构)和16个观察成员组成。国际劳工组织（International Labour Organization, ILO）、职业安全与健康协会（Institution of Occupational Safety and Health, IOSH）等组织的代表也参与了标准的讨论。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>ISO 45001的起源？</b></p><p>国际劳工组织最新的估计显示，每天大约有6300人因工作活动而造成死亡，每年的数字则达到了惊人的230万人，而其他因工作造成的受伤事件数量每年也多达3亿件。这些不仅给员工及其家庭造成了严重的影响，还极大地增加了企业的负担，这些负担包括员工缺勤、提前退休、保险费用增加等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>尽管有很多职业健康安全类的文件可以用于监管和自愿使用，但是之前ISO从未在此领域发布过国际标准。2013年，ISO/PC 283在参考了BS OHSAS 18001、ILO-OSH 2001以及其他文件的相关内容之后，开始起草ISO 45001。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>ISO 45001并无意替代、增加或更改任何法规文本和组织的法律要求，它将帮助企业为员工和在其工作场所内的人员提供更加安全、健康的工作环境，防止发生死亡、工伤和健康问题，并致力于持续改进职业健康安全绩效。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>ISO 45001适用于哪些组织？</b></p><p>所有组织。</p><p>无论您的组织是高风险的大企业、低风险的小公司、非盈利性组织、慈善机构、学术科研机构、或者政府机关部门，只要您的组织有人员为其工作、或者因其活动而受到影响，那么您就可以采用系统的方法来管理人员的职业健康和安全。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>应用ISO 45001对您有哪些益处？</b></p><p>ISO 45001可以帮助组织改善职业健康安全绩效，并确保为员工提供安全的作业场所。如：</p><p>提高符合法律法规的能力；</p><p>降低事故事件的总成本；</p><p>减少停机时间和生产中断的成本；</p><p>降低保险费用；</p><p>减少误工和员工离职率；</p><p>到国际职业健康安全管理水准的认可。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>如何应用ISO 45001？</b></p><p>ISO 45001可以通过如下方式来加以应用：</p><p>制定和实施职业健康安全方针和目标；</p><p>通过理解组织所处的环境、需要应对的风险和机遇，来建立系统的管理过程；</p><p>进行危险源辨识、风险评价，并确定必要的控制措施；</p><p>提升人员的职业健康安全意识和能力；</p><p>评价职业健康安全绩效，寻找改善的机会并加以实施；</p><p>确保工人在职业健康安全事务中发挥积极作用。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>ISO 45001将在何时正式发布？</b></p><p>ISO 45001已经于2017年11月底进入最终草案版投票阶段（Final Draft International Standard，FDIS)，如果投票顺利，预计最早将于2018年3月正式发布。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>ISO 45001和其他标准的关系？</b></p><p>ISO 45001和其他ISO管理体系标准，如ISO 9001:2015（质量管理体系）和ISO 14001:2015（环境管理体系）一样采用了高阶结构。在制定标准的时候，对其他国际标准的内容给予了考虑，如OHSAS 18001、国际劳工组织的职业安全健康指南、国家标准、国际劳工标准和公约。</p><p>正是因为提前考虑了和其他标准的融合，等到ISO 45001发布之后，我们可以发现它和那些标准、指南和公约和要求是一致的。如果您现在已经建立了职业健康安全管理体系，那么今后切换到ISO 45001就相对比较容易，同时，也便于组织将职业健康安全管理要求融入和整合到总体的管理过程中去。</p>", 
+            "topic": [
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }, 
+                {
+                    "tag": "ISO内审员", 
+                    "tagLink": "https://api.zhihu.com/topics/19705700"
+                }, 
+                {
+                    "tag": "精益生产", 
+                    "tagLink": "https://api.zhihu.com/topics/19595406"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32885157", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 6, 
+            "title": "【ISO45001转版】ISO45001新版与OHSAS18001的关系！", 
+            "content": "<p>2016年3月30日，<a href=\"https://link.zhihu.com/?target=https%3A//www.baidu.com/s%3Fwd%3DISO%26tn%3D44039180_cpr%26fenlei%3Dmv6quAkxTZn0IZRqIHckPjm4nH00T1dWrj0vmyPBPh7-njb1Pjmz0ZwV5Hcvrjm3rH6sPfKWUMw85HfYnjn4nH6sgvPsT6KdThsqpZwYTjCEQLGCpyw9Uz4Bmy-bIi4WUvYETgN-TLwGUv3En1bYnW6zPWb4rHT4njfdPjfd\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">I</a>SO/ DIS 45001职业健康安全管理体系标准草案版正式发布，标志着 <b>ISO 45001 </b>的标准制定进入了公开评审的阶段。并且正式替代OHSAS18001:2007，这份标准草案版基本描述了一个职业健康安全体系的所有必要的要求。标准草案版评审期为三个月，期间由 ISO 组织中的各个成员国参与评审并反馈意见。如果结果是肯定的，后续的最终草案版会基于这个版本中的已有要求适当再更新，正式标准预计将于2018年第一季度发布。<br/>2013年3月：提案阶<br/>2013年11月：准备阶段<br/>2014年7月：草拟阶段（CD）<br/>2015年3月：目前在第二个草拟阶段（CD）<br/>2015年10月：咨询阶段（DIS）<br/>2016年5月：审核阶段（FDIS）<br/>2018年3月：预计出版<br/><br/>负责 ISO 45001 标准开发委员会的主席 Mr. David Smith 公开表示：其实在职业健康与安全管理方面，OHSAS 18001已经是一个被广泛应用的成熟标准。本次开发 ISO 标准，一方面是希望企业能便捷地将职业健康和安全的工具整合入已有的管理体系中，另一方面我们也希望 ISO 的在国际上的认可度可以给本标准带来进一步的可信度，从而带动其更广泛的应用。近日，ISO/DIS 45001标准草案版正式发布，标志着ISO 45001的标准制定进入了公开评审的阶段。这份标准草案版基本描述了一个职业健康安全体系的所有必要的要求。作为职业健康安全管理体系的第一个 ISO 标准，ISO / DIS 45001 的构建借助了 OHSAS 18001 的已有规范，同时也结合了主要利益相关方的需求。其主要变化内容包括：<br/><br/>高级结构框架<br/><br/>ISO / DIS 45001和当前所有新增或修订的其它 ISO 管理体系标准一样，均采用了 Annex SL 中规定的高级结构作为框架，在确保 ISO 45001 与其他管理体系标准如 ISO 9001 和 ISO14001 的一致性的前提下，用更加契合业务发展的方式来运行。<br/><br/>ISO / DIS 45001中重要的变化还在于：<br/>■ 更加关注组织环境，要求组织考虑那些来自职业健康安全管理方面的社会因素<br/>■ 引入风险思维的理念来建立、实施和保持组织自身的职业健康安全管理体系，而不仅仅是职业健康安全（OHS）风险<br/>■ 以往在体系中对高层管理者的职责要求，将被允许分派到各级的健康安全经理身上<br/>■ 要求组织去说明如何管理供应商和承包商的风险<br/>■ 用“文件化信息”取代原有的“文件和记录”，允许使用电子信息</p><p><br/>ISO/ DIS 45001 的主要方向是指导组织高水平、系统化地去理解那些有重大影响的因素(包括正面的或是负面的)，指导组织如何去管理在其职业健康安全管理体系控制下工作的人员，去探讨是哪些因素影响了组织实现其预期成果(包括其职业健康安全目标)的能力，以实现其职业健康安全的承诺。<br/><br/>组织必须确定与其职业健康安全管理体系有关的相关方，以及这些相关方的需求。<br/><br/>风险思维<br/><br/>在制定和实施职业健康安全管理体系时应引入风险思维将体系与组织环境密切结合在一起。组织必须识别所有亟须解决的与组织环境相关的或由组织环境起决定因素的风险和机遇，以确保职业健康安全管理体系能够达到预期效果。组织必须策划措施应对这些风险和机遇，在其职业健康安全管理体系过程中加以整合及实施，并评估这些措施的有效性。<br/><br/>领导力：来自高层的承诺<br/><br/>要求从现在起，高层管理者必须直接参与到职业健康安全管理体系中，在战略规划中兼顾职业健康安全的绩效，并在组织内去沟通关于建立有效的职业健康安全管理体系及符合其要求的重要性。<br/><br/>高层管理者还必须积极发挥领导作用，支持各职能人员，推动和领导关于职业健康安全管理体系的组织文化，确保职业健康安全管理体系有效实施。<br/><br/>外包<br/><br/>组织应确保那些影响其职业健康安全管理体系的外包过程均得到识别和控制。对这些过程涉及的供应商和承包商，应确保他们在工作场所中执行和贯彻了要求。<br/><br/>文件<br/><br/>术语“文件化信息”取代“文件和记录”。 相关的证据不必非得用一个正式的文件系统来保持，如平板电脑里持有的电子信息，现在都可以作为证据。</p>", 
+            "topic": [
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }, 
+                {
+                    "tag": "ISO内审员", 
+                    "tagLink": "https://api.zhihu.com/topics/19705700"
+                }, 
+                {
+                    "tag": "ISO9000", 
+                    "tagLink": "https://api.zhihu.com/topics/19915664"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/32884792", 
+            "userName": "管理培训与咨询", 
+            "userLink": "https://www.zhihu.com/people/fb2f6b811de59907ecbd157d4be1f4a9", 
+            "upvote": 3, 
+            "title": "【ISO45001转版】新版ISO45001职业健康安全常见的6大问题！", 
+            "content": "<p>ISO 45001预计2018年3月正式发布。对于新标准，您可能还抱有很多疑问，本文将就您关心的ISO 45001话题进行初步梳理。<br/> </p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-36d54ad2fdf53701f50deef7fd70293a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"454\" class=\"origin_image zh-lightbox-thumb\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-36d54ad2fdf53701f50deef7fd70293a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;640&#39; height=&#39;454&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"640\" data-rawheight=\"454\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"640\" data-original=\"https://pic3.zhimg.com/v2-36d54ad2fdf53701f50deef7fd70293a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-36d54ad2fdf53701f50deef7fd70293a_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>　　ISO 45001是一个定义职业健康安全管理体系要求的国际标准，旨在取代OHSAS 18001等其他同类型的管理体系，致力于使组织实现预防伤害和疾病、提升职业健康安全绩效。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　一.ISO 45001适用于哪些组织？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　所有组织。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　无论您的组织是高风险的大企业、低风险的小公司、非盈利性组织、慈善机构、学术科研机构、或者政府机关部门，只要您的组织有人员为其工作、或者因其活动而受到影响，那么您就可以采用系统的方法来管理人员的职业健康和安全。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　二.应用ISO 45001对您有哪些益处？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　ISO 45001可以帮助组织改善职业健康安全绩效，并确保为员工提供安全的作业场所。如：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　提高符合法律法规的能力</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　降低事故事件的总成本</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　减少停机时间和生产中断的成本</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　降低保险费用</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　减少误工和员工离职率</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　到国际职业健康安全管理水准的认可</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　三.如何应用ISO 45001？</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　ISO 45001可以通过如下方式来加以应用：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　制定和实施职业健康安全方针和目标</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　通过理解组织所处的环境、需要应对的风险和机遇，来建立系统的管理过程</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　进行危险源辨识、风险评价，并确定必要的控制措施</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　提升人员的职业健康安全意识和能力</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　评价职业健康安全绩效，寻找改善的机会并加以实施</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　确保工人在职业健康安全事务中发挥积极作用</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　四.ISO 45001和其他标准的关系?</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　ISO 45001和其他ISO管理体系标准，如ISO 9001:2015（体系）和ISO 14001:2015（环境管理体系）一样采用了高阶结构。在制定标准的时候，对其他国际标准的内容给予了考虑，如OHSAS 18001、国际劳工组织的职业安全健康指南、国家标准、国际劳工标准和公约。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　正是因为提前考虑了和其他标准的融合，等到ISO 45001发布之后，我们可以发现它和那些标准、指南和公约和要求是一致的。如果您现在已经建立了职业健康安全管理体系，那么今后切换到ISO 45001就相对比较容易，同时，也便于组织将职业健康安全管理要求融入和整合到总体的管理过程中去。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　五.ISO 45001现在进展到什么阶段?</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　ISO 45001第二次征求意见稿已经于2017年7月投票获得通过，标准制定和发布的大致时间进度如下：<br/> </p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-372fda2bd62592589da538fb476aaeb8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"572\" data-rawheight=\"468\" class=\"origin_image zh-lightbox-thumb\" width=\"572\" data-original=\"https://pic1.zhimg.com/v2-372fda2bd62592589da538fb476aaeb8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;572&#39; height=&#39;468&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"572\" data-rawheight=\"468\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"572\" data-original=\"https://pic1.zhimg.com/v2-372fda2bd62592589da538fb476aaeb8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-372fda2bd62592589da538fb476aaeb8_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0972cc13a8467eec6c6c40c11a6847c9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"569\" data-rawheight=\"496\" class=\"origin_image zh-lightbox-thumb\" width=\"569\" data-original=\"https://pic2.zhimg.com/v2-0972cc13a8467eec6c6c40c11a6847c9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;569&#39; height=&#39;496&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"569\" data-rawheight=\"496\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"569\" data-original=\"https://pic2.zhimg.com/v2-0972cc13a8467eec6c6c40c11a6847c9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-0972cc13a8467eec6c6c40c11a6847c9_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　六.ISO 45001 DIS2与DIS1相比</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　　主要变化点有哪些?</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　构成ISO 45001职业健康安全体系的方法并没有发生改变，仍然沿用基于策划、实施、检查与改进（PDCA）的概念。主要的变化点包括名词与定义、要素与条款以及和其他管理体系标准的一致性等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　名词与定义：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>a.</b>将之前DIS1中有争议的的三个名词包</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　含“worker(工作人员)“、”participation(参与)“、”hazard(危害)“做进一步的修正。例如在DIS1中对工作人员的定义包含”组织具有某些程度控制的人员“，已在DIS2中删除，以避免可能的模糊空间。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　要素与条款：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　顺序大幅度变化，便于终版ISO 45001与ISO 14001的整合</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>a.</b> DIS2最大的变化在于条款8“运行的策划与控制”</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>　i. </b>原本在DIS1中的条款8.2“变更管理”到8.5“承包商”在DIS2中改为条款8.1.3到8.1.6</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>ii.</b> 原本的8.6“应急准备与响应”预计将会改回与ISO 14001:2015相同的条款编号8.2</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>b.</b> 条款10中，在DIS2中新增条款10.1“总则”，并将原本条款中10.2“持续改进“中的两个次条款10.2.1与10.2合并，改为条款10.3。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　与其他管理体系标准的一致性：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>　　部分会员国对于DIS1与其他管理体系在条款结构上的一致性认为有改进的必要，以便更符合ISO/IEC Directive, Part 1中的Appendix 2内容。例如将DIS1中条款5.3中的“accountability“，以及7.4中的”information“删除。另外，与ISO 14001:2015新版的高度一致性，也是这次DIS2最大的改变之一。<br/> </p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-0e43e3a9bb76d6df35cd970c2ba0bdd9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"632\" data-rawheight=\"511\" class=\"origin_image zh-lightbox-thumb\" width=\"632\" data-original=\"https://pic2.zhimg.com/v2-0e43e3a9bb76d6df35cd970c2ba0bdd9_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;632&#39; height=&#39;511&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"632\" data-rawheight=\"511\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"632\" data-original=\"https://pic2.zhimg.com/v2-0e43e3a9bb76d6df35cd970c2ba0bdd9_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-0e43e3a9bb76d6df35cd970c2ba0bdd9_b.jpg\"/></figure><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "ISO/TS 16949", 
+                    "tagLink": "https://api.zhihu.com/topics/20019282"
+                }, 
+                {
+                    "tag": "ISO内审员", 
+                    "tagLink": "https://api.zhihu.com/topics/19705700"
+                }, 
+                {
+                    "tag": "ISO9000", 
+                    "tagLink": "https://api.zhihu.com/topics/19915664"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "小青桔", 
+                    "userLink": "https://www.zhihu.com/people/3b7981dd93d0fb21bc1e779bdca0a9aa", 
+                    "content": "你好，请问OHSAS18001转ISO45001是不是已经发布了，发布了我们又在哪里备案?", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/iso45001"
+}

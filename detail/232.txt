@@ -1,0 +1,742 @@
+{
+    "title": "SLAM技术总结", 
+    "description": "ORBSLAM2公布源码已经两年多，但是源码解析多是从单目相机的角度来进行，最近项目需要用RGBD相机来进行实验，记录一下从RGBD的角度来阅读ORB-SLAM2代码的过程。", 
+    "followers": [
+        "https://www.zhihu.com/people/reader-11-53", 
+        "https://www.zhihu.com/people/ming-ran-89-65", 
+        "https://www.zhihu.com/people/husad", 
+        "https://www.zhihu.com/people/zlyzly-24", 
+        "https://www.zhihu.com/people/da-wang-69-63", 
+        "https://www.zhihu.com/people/sam-82-58-97", 
+        "https://www.zhihu.com/people/liu-rong-jie-6", 
+        "https://www.zhihu.com/people/xiong-meng-biao", 
+        "https://www.zhihu.com/people/chu-jian-8-97", 
+        "https://www.zhihu.com/people/shang-ye-qi-cai-91", 
+        "https://www.zhihu.com/people/torchtao", 
+        "https://www.zhihu.com/people/zhang-xiao-dong-34-85", 
+        "https://www.zhihu.com/people/qing-huan-40-33", 
+        "https://www.zhihu.com/people/zhi-zhang-xiao-xiao-qi", 
+        "https://www.zhihu.com/people/frank-31-46-39", 
+        "https://www.zhihu.com/people/dufei-lee", 
+        "https://www.zhihu.com/people/deng-jian-qiang-29", 
+        "https://www.zhihu.com/people/liu-xiao-feng-64-34", 
+        "https://www.zhihu.com/people/jia-yong-ji-64", 
+        "https://www.zhihu.com/people/du-shen-zi-ni", 
+        "https://www.zhihu.com/people/wei-zhi-20-39-17", 
+        "https://www.zhihu.com/people/kylin-z-42", 
+        "https://www.zhihu.com/people/mmmmmmmm-36", 
+        "https://www.zhihu.com/people/yi-wei-jian-81", 
+        "https://www.zhihu.com/people/xu-ze-yang-35", 
+        "https://www.zhihu.com/people/shan-ye-lan-man", 
+        "https://www.zhihu.com/people/jsutin", 
+        "https://www.zhihu.com/people/yang-zhao-chen-30", 
+        "https://www.zhihu.com/people/jiuxuan_zhao", 
+        "https://www.zhihu.com/people/huang-yong-17-28", 
+        "https://www.zhihu.com/people/li-zhi-peng-13-66", 
+        "https://www.zhihu.com/people/wallace-rice", 
+        "https://www.zhihu.com/people/shuang-zi-xing-xing", 
+        "https://www.zhihu.com/people/cao-yi-73-46", 
+        "https://www.zhihu.com/people/ditrant", 
+        "https://www.zhihu.com/people/hei-an-zhong-de-tun", 
+        "https://www.zhihu.com/people/liu-xue-jun-79", 
+        "https://www.zhihu.com/people/xl-yy-37", 
+        "https://www.zhihu.com/people/gaohongchen01", 
+        "https://www.zhihu.com/people/youngpan-52", 
+        "https://www.zhihu.com/people/deng-bo-wen-86", 
+        "https://www.zhihu.com/people/wilson-71-11", 
+        "https://www.zhihu.com/people/yu-hong-sheng-91", 
+        "https://www.zhihu.com/people/zhou-peng-21-71", 
+        "https://www.zhihu.com/people/xxxs-89", 
+        "https://www.zhihu.com/people/da-ma-27-77", 
+        "https://www.zhihu.com/people/chen-wen-qiang-34", 
+        "https://www.zhihu.com/people/li-chao-10-51", 
+        "https://www.zhihu.com/people/yao-nan-41-32", 
+        "https://www.zhihu.com/people/nu-li-que-chang-chang-shi-bai", 
+        "https://www.zhihu.com/people/chen-yong-fei-15", 
+        "https://www.zhihu.com/people/pitaya-79-85", 
+        "https://www.zhihu.com/people/wang-ning-71-98", 
+        "https://www.zhihu.com/people/xiao-hong-dou-sha-bao-92", 
+        "https://www.zhihu.com/people/li-zhong-22-80", 
+        "https://www.zhihu.com/people/xie-qi-7-32", 
+        "https://www.zhihu.com/people/castle-96-36", 
+        "https://www.zhihu.com/people/wang-lt-23", 
+        "https://www.zhihu.com/people/juin-44-90", 
+        "https://www.zhihu.com/people/lsky380", 
+        "https://www.zhihu.com/people/lang-li-bai-tiao-42-73", 
+        "https://www.zhihu.com/people/xin-zhi-97-20-98", 
+        "https://www.zhihu.com/people/zhi-liao-12-22", 
+        "https://www.zhihu.com/people/wei-xing-wei-xing-88", 
+        "https://www.zhihu.com/people/dalingxues", 
+        "https://www.zhihu.com/people/jin-yu-ying-12-16", 
+        "https://www.zhihu.com/people/lei-da-83-22", 
+        "https://www.zhihu.com/people/claylau", 
+        "https://www.zhihu.com/people/yao-chen-55-4", 
+        "https://www.zhihu.com/people/feng-xi-can-ying-31", 
+        "https://www.zhihu.com/people/xian-lai-cai-xia", 
+        "https://www.zhihu.com/people/cheche-70", 
+        "https://www.zhihu.com/people/ba-du-yao", 
+        "https://www.zhihu.com/people/qidao-1", 
+        "https://www.zhihu.com/people/ou-yang-cai-zi-54", 
+        "https://www.zhihu.com/people/zhangxinnan", 
+        "https://www.zhihu.com/people/luan-lin-bao", 
+        "https://www.zhihu.com/people/ling-yong-3", 
+        "https://www.zhihu.com/people/leisureya", 
+        "https://www.zhihu.com/people/ban-shi-fu-yuan", 
+        "https://www.zhihu.com/people/ren-gan-16", 
+        "https://www.zhihu.com/people/asukafighting", 
+        "https://www.zhihu.com/people/shi-mu-mu-69", 
+        "https://www.zhihu.com/people/xiao-xiao-zhou-34-28", 
+        "https://www.zhihu.com/people/li-ling-12-18-63", 
+        "https://www.zhihu.com/people/yang-yun-1-32-18", 
+        "https://www.zhihu.com/people/cao-ya-zhu-3", 
+        "https://www.zhihu.com/people/wo-ai-he-ke-le-25", 
+        "https://www.zhihu.com/people/li-zhi-zuo-ge-xiao-xiao-cong", 
+        "https://www.zhihu.com/people/ren-tian-you-37", 
+        "https://www.zhihu.com/people/liekkas1996", 
+        "https://www.zhihu.com/people/basenew", 
+        "https://www.zhihu.com/people/chx-55-13", 
+        "https://www.zhihu.com/people/mr-yy-86", 
+        "https://www.zhihu.com/people/jfksajhfjk", 
+        "https://www.zhihu.com/people/an-ju-ya", 
+        "https://www.zhihu.com/people/guo-xiao-liang-57", 
+        "https://www.zhihu.com/people/fei-zai-tian-kong-zhong-de-yu-47", 
+        "https://www.zhihu.com/people/yao-67-38", 
+        "https://www.zhihu.com/people/zhmman-9", 
+        "https://www.zhihu.com/people/zou-lu-hui-6", 
+        "https://www.zhihu.com/people/zou-cun-an", 
+        "https://www.zhihu.com/people/hai-na-bai-chuan-36-24", 
+        "https://www.zhihu.com/people/htj-57", 
+        "https://www.zhihu.com/people/huanyu-wu", 
+        "https://www.zhihu.com/people/wang-gang-88-75", 
+        "https://www.zhihu.com/people/xiao-xiao-guai-shou-yo", 
+        "https://www.zhihu.com/people/jianzechen", 
+        "https://www.zhihu.com/people/wsy-12-54", 
+        "https://www.zhihu.com/people/da-yu-74-93-33", 
+        "https://www.zhihu.com/people/rcbear", 
+        "https://www.zhihu.com/people/yuan-shun-ying", 
+        "https://www.zhihu.com/people/wang-xiao-xiao-52-84", 
+        "https://www.zhihu.com/people/liang-kun-can-15", 
+        "https://www.zhihu.com/people/chi-ren-zen-wan-22-82", 
+        "https://www.zhihu.com/people/huan-huan-3-83", 
+        "https://www.zhihu.com/people/shu-wen-79-17", 
+        "https://www.zhihu.com/people/wucien", 
+        "https://www.zhihu.com/people/yang-zhe-73-74", 
+        "https://www.zhihu.com/people/jiang-liu-er-21", 
+        "https://www.zhihu.com/people/xiao-ai-43-45-82", 
+        "https://www.zhihu.com/people/yue-guang-qin-liao-cheng", 
+        "https://www.zhihu.com/people/erik-73-16", 
+        "https://www.zhihu.com/people/gong-zi-shuai", 
+        "https://www.zhihu.com/people/isad-10", 
+        "https://www.zhihu.com/people/lanjice-55", 
+        "https://www.zhihu.com/people/ling-feng-93-19-25", 
+        "https://www.zhihu.com/people/meng-ding-ming", 
+        "https://www.zhihu.com/people/shu-tong-69-9", 
+        "https://www.zhihu.com/people/wei-wen-le-58", 
+        "https://www.zhihu.com/people/feng-zhong-na-ke-cao", 
+        "https://www.zhihu.com/people/justin-52-71", 
+        "https://www.zhihu.com/people/sane-70", 
+        "https://www.zhihu.com/people/ku-cha-65-93", 
+        "https://www.zhihu.com/people/du-huan-81-50", 
+        "https://www.zhihu.com/people/san-nian-yi-hou-shou", 
+        "https://www.zhihu.com/people/qian-nian-xiao-yi-86", 
+        "https://www.zhihu.com/people/wang-jie-43-46", 
+        "https://www.zhihu.com/people/nuo-wei-si-ji-kou-qiao-dan", 
+        "https://www.zhihu.com/people/gai-nie-63-95", 
+        "https://www.zhihu.com/people/jin-zhe-kai", 
+        "https://www.zhihu.com/people/shao-shuo-hua-80", 
+        "https://www.zhihu.com/people/zhang-bao-qun-64", 
+        "https://www.zhihu.com/people/shi-san-pi-58", 
+        "https://www.zhihu.com/people/cheng-kai-75", 
+        "https://www.zhihu.com/people/xiang-hui-yu-li-ming", 
+        "https://www.zhihu.com/people/zhuang-xiao-p", 
+        "https://www.zhihu.com/people/li-da-pan-52", 
+        "https://www.zhihu.com/people/han-yu-zhe-10", 
+        "https://www.zhihu.com/people/hhrn", 
+        "https://www.zhihu.com/people/liu-zhong-yin-35", 
+        "https://www.zhihu.com/people/agentdaisy", 
+        "https://www.zhihu.com/people/yinglong-feng", 
+        "https://www.zhihu.com/people/fang-shuo-63-16", 
+        "https://www.zhihu.com/people/niyoung", 
+        "https://www.zhihu.com/people/long-de-chuan-ren-21-60", 
+        "https://www.zhihu.com/people/edmond-73", 
+        "https://www.zhihu.com/people/ssp1152453877", 
+        "https://www.zhihu.com/people/qing-tai-you-you", 
+        "https://www.zhihu.com/people/gu-jin-ming-57-12", 
+        "https://www.zhihu.com/people/hahaha-92-99", 
+        "https://www.zhihu.com/people/zhang-xin-hao-11", 
+        "https://www.zhihu.com/people/lu-hao-23-35", 
+        "https://www.zhihu.com/people/flyaudio", 
+        "https://www.zhihu.com/people/cheng-zi-76-86", 
+        "https://www.zhihu.com/people/yin-peng-yu-15", 
+        "https://www.zhihu.com/people/xi-xi-ha-ha-7-14", 
+        "https://www.zhihu.com/people/zha-gu-40", 
+        "https://www.zhihu.com/people/yuan-xiao-rong-57", 
+        "https://www.zhihu.com/people/civic-tesla", 
+        "https://www.zhihu.com/people/zhong-pang-zi-46", 
+        "https://www.zhihu.com/people/neil-lee-99", 
+        "https://www.zhihu.com/people/dersieger", 
+        "https://www.zhihu.com/people/qi-che-ren-82", 
+        "https://www.zhihu.com/people/colin-43-18", 
+        "https://www.zhihu.com/people/chen-wei-ru-6", 
+        "https://www.zhihu.com/people/liuxiaocha", 
+        "https://www.zhihu.com/people/yang-yifan-31-90", 
+        "https://www.zhihu.com/people/shun-qi-zi-ran-84-45", 
+        "https://www.zhihu.com/people/wang-gavin-56", 
+        "https://www.zhihu.com/people/szm-6-90", 
+        "https://www.zhihu.com/people/liu-xiao-sheng-27", 
+        "https://www.zhihu.com/people/you62580", 
+        "https://www.zhihu.com/people/MingheCao", 
+        "https://www.zhihu.com/people/song-zhao-qi-16-16", 
+        "https://www.zhihu.com/people/da-shi-sui-xiong-kou-39", 
+        "https://www.zhihu.com/people/geoyuzhaokai", 
+        "https://www.zhihu.com/people/yi-chu-88", 
+        "https://www.zhihu.com/people/liang-mu-qi-64", 
+        "https://www.zhihu.com/people/xue-ding-e-mao-yao", 
+        "https://www.zhihu.com/people/huai-si-86", 
+        "https://www.zhihu.com/people/xie-zhen-yu-37-19", 
+        "https://www.zhihu.com/people/peter-49-43", 
+        "https://www.zhihu.com/people/su-dragon", 
+        "https://www.zhihu.com/people/ding-gua-gua-91", 
+        "https://www.zhihu.com/people/du-yang-qin", 
+        "https://www.zhihu.com/people/grant-68", 
+        "https://www.zhihu.com/people/ccdreamoldboys", 
+        "https://www.zhihu.com/people/shliu", 
+        "https://www.zhihu.com/people/jay-Happy", 
+        "https://www.zhihu.com/people/wen-zhe-ru-si", 
+        "https://www.zhihu.com/people/du-du-5-42-44", 
+        "https://www.zhihu.com/people/Gtesla-10-49-76", 
+        "https://www.zhihu.com/people/xian-yun-gu-he-51-42", 
+        "https://www.zhihu.com/people/ouyang-michael", 
+        "https://www.zhihu.com/people/xj-fu-71", 
+        "https://www.zhihu.com/people/crazyalexzhang", 
+        "https://www.zhihu.com/people/jin-lin-54-65", 
+        "https://www.zhihu.com/people/lu-gong-gong-10", 
+        "https://www.zhihu.com/people/shi-yan-ji-lu-ben", 
+        "https://www.zhihu.com/people/yu-zhou-60-88", 
+        "https://www.zhihu.com/people/zztx", 
+        "https://www.zhihu.com/people/ding-hua-wen", 
+        "https://www.zhihu.com/people/liu-lu-34-98", 
+        "https://www.zhihu.com/people/sjhstone", 
+        "https://www.zhihu.com/people/zhuang-xiao-xian-27", 
+        "https://www.zhihu.com/people/huang-tao-43-45", 
+        "https://www.zhihu.com/people/zhu-tou-bo-shi-hou", 
+        "https://www.zhihu.com/people/jack-tang-40-49", 
+        "https://www.zhihu.com/people/leo-zhang-70", 
+        "https://www.zhihu.com/people/wu-ming-xiao-zu-68-85", 
+        "https://www.zhihu.com/people/wu-qi-72-92", 
+        "https://www.zhihu.com/people/ji-mo-sha-zhou-leng-4", 
+        "https://www.zhihu.com/people/wang-shi-tou-57", 
+        "https://www.zhihu.com/people/suo-long-16-97", 
+        "https://www.zhihu.com/people/meng-li-feng-lin", 
+        "https://www.zhihu.com/people/shadow-32-57", 
+        "https://www.zhihu.com/people/specialqijie", 
+        "https://www.zhihu.com/people/wang-shi-guo-62", 
+        "https://www.zhihu.com/people/wang-zhe-26", 
+        "https://www.zhihu.com/people/kevin-11-55-27", 
+        "https://www.zhihu.com/people/luo-chuan-chen-79", 
+        "https://www.zhihu.com/people/cheng-xu-yuan-10", 
+        "https://www.zhihu.com/people/li-ding-15-15", 
+        "https://www.zhihu.com/people/JARK006", 
+        "https://www.zhihu.com/people/26-3fen-de-hit", 
+        "https://www.zhihu.com/people/xiao-xiao-zhi-54-69", 
+        "https://www.zhihu.com/people/dsire", 
+        "https://www.zhihu.com/people/william-zhu-82", 
+        "https://www.zhihu.com/people/timo-66-56", 
+        "https://www.zhihu.com/people/yc-cq", 
+        "https://www.zhihu.com/people/hhhui-68", 
+        "https://www.zhihu.com/people/a-mu-mu-5-77", 
+        "https://www.zhihu.com/people/guan-yue-60", 
+        "https://www.zhihu.com/people/zhao-bing-6-49", 
+        "https://www.zhihu.com/people/jfyh", 
+        "https://www.zhihu.com/people/sx_AH", 
+        "https://www.zhihu.com/people/wenbo9", 
+        "https://www.zhihu.com/people/she-liang", 
+        "https://www.zhihu.com/people/jimmy-fu-32", 
+        "https://www.zhihu.com/people/chen-dong-xue-33", 
+        "https://www.zhihu.com/people/HamRadioDXerGly", 
+        "https://www.zhihu.com/people/frank999-1", 
+        "https://www.zhihu.com/people/chang-sun-wu-ming-62", 
+        "https://www.zhihu.com/people/dong-feng-66-72", 
+        "https://www.zhihu.com/people/huangbaichuanwhu", 
+        "https://www.zhihu.com/people/su-feng-yu-5", 
+        "https://www.zhihu.com/people/shi-ha-ha-80-62", 
+        "https://www.zhihu.com/people/qia-er-16-2", 
+        "https://www.zhihu.com/people/yeu-yang", 
+        "https://www.zhihu.com/people/qi-zhao-xiao-huang-jiu-shi-pao", 
+        "https://www.zhihu.com/people/gui-ke-82", 
+        "https://www.zhihu.com/people/zhao-hu-41-13", 
+        "https://www.zhihu.com/people/icewis", 
+        "https://www.zhihu.com/people/li-hong-12-65", 
+        "https://www.zhihu.com/people/jingsong-zhao", 
+        "https://www.zhihu.com/people/robot-3-46", 
+        "https://www.zhihu.com/people/falcon-94-52", 
+        "https://www.zhihu.com/people/zhi-shi-pao-zi", 
+        "https://www.zhihu.com/people/deng-chao-78", 
+        "https://www.zhihu.com/people/liu-xian-sheng-15-68", 
+        "https://www.zhihu.com/people/ye-cha-4", 
+        "https://www.zhihu.com/people/guo-quan-2-20", 
+        "https://www.zhihu.com/people/cyber007", 
+        "https://www.zhihu.com/people/s0ulfly", 
+        "https://www.zhihu.com/people/zhui-meng-yisheng-zhi-gang", 
+        "https://www.zhihu.com/people/smartcat", 
+        "https://www.zhihu.com/people/qia-qia-qia-qia-qia-qia-27", 
+        "https://www.zhihu.com/people/libin-sui", 
+        "https://www.zhihu.com/people/golaced", 
+        "https://www.zhihu.com/people/daoming_ji", 
+        "https://www.zhihu.com/people/duyankang", 
+        "https://www.zhihu.com/people/laoyoutiao_trap", 
+        "https://www.zhihu.com/people/chen-xing-70-43", 
+        "https://www.zhihu.com/people/moni-gg"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/77230802", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 2, 
+            "title": "用tum数据集评价工具测试VIO + euroc生成的轨迹", 
+            "content": "<p>这个名字实在太奇葩,这篇文章看起来也有点脱了裤子放屁.但这就是我实际遇到的问题.(-_-),起因是因为跑一个VIO系统,跑euroc数据集,但是系统保存了tum格式的数据(三维坐标+四元数),因此既可以使用tum的评价工具来查看效果,也可以使用evo工具,先用tum的评价工具看一下效果.以下是主要步骤:</p><ol><li>将euroc的groundtruth.csv文件转成tum的txt文件</li><li>使用evaluate_ate.py显示轨迹</li></ol><p><b>第一步:文件格式转化</b></p><p>euroc的groundtruth用csv格式保存,保存了三维坐标,四元数相机位姿,速度等,tum数据集的轨迹只需要前三维坐标和四元数,因此写了一个python程序来提取数据:</p><p><b>TUM真实值格式:  timestamp tx ty tz qx qy qz qw</b></p><p><b>EUROC真实值格式:  timestamp tx ty tz qw qx qy qz</b></p><p><b>用法: python <a href=\"https://link.zhihu.com/?target=http%3A//euroc2tum.py\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">euroc2tum.py</a> </b></p><p><b>程序功能:处理时间戳和互换qw和qx的位置</b></p><p>然后输入csv文件名称和txt文件名称,即可完成数据转换.</p><div class=\"highlight\"><pre><code class=\"language-text\">#!/usr/bin/python\n# -*- coding: UTF-8 -*-\nimport csv\n# 输入csv文件名称和输出txt文件名称\ncsv_file = raw_input(&#39;Enter the name of your input csv file: &#39;)\ntxt_file = raw_input(&#39;Enter the name of your output txt file: &#39;)\nwith open(txt_file, &#34;w&#34;) as my_output_file:\n    with open(csv_file, &#34;r&#34;) as my_input_file:\n        #逐行读取csv存入txt中\n        for row in csv.reader(my_input_file):\n            # 前8个数据是:timestamp tx ty tz qw qx qy qz\n            row = row[0:8]\n            # 时间戳单位处理\n            temp1 = row[0][0:10] + &#39;.&#39; + row[0][10:16]\n            row[0] = temp1\n            # 互换 qw 和 qx\n            temp2 = row[4]\n            row[4] = row[7]\n            row[7] = temp2\n            my_output_file.write(&#34; &#34;.join(row)+&#39;\\n&#39;)\n    my_output_file.close()</code></pre></div><p><b>第二步:结果评价</b></p><p>使用tum rgbd数据集提供的evaluate_ate.py显示轨迹,TUM数据集评价工具下载链接为:</p><a href=\"https://link.zhihu.com/?target=https%3A//svncvpr.in.tum.de/cvpr-ros-pkg/trunk/rgbd_benchmark/rgbd_benchmark_tools/scripts/\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">cvpr-ros-pkg - Revision 232: /trunk/rgbd_benchmark/rgbd_benchmark_tools/scripts</a><p>简单使用方法:</p><div class=\"highlight\"><pre><code class=\"language-text\"># python evaluate_ate.py [真实轨迹] [VIO系统估计的估计] --plot [输出图像名称]\npython evaluate_ate.py groundtruth.txt pose_output.txt --plot result.png</code></pre></div><p>上一张图看一下效果:</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d2399babaffb6b33a489b6481eb23684_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic1.zhimg.com/v2-d2399babaffb6b33a489b6481eb23684_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;720&#39; height=&#39;540&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"540\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic1.zhimg.com/v2-d2399babaffb6b33a489b6481eb23684_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d2399babaffb6b33a489b6481eb23684_b.jpg\"/></figure><p>误差为0.188631,看起来效果还是不错的!</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "步清梨", 
+                    "userLink": "https://www.zhihu.com/people/72f0ece32b35394e4a4f15cac1f62bd0", 
+                    "content": "大佬你好，我有点没看懂，可以私信你问一下具体的细节吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "卫浩", 
+                            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+                            "content": "<p>好的，我微信私信你了</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "步清梨"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "卫浩", 
+                    "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+                    "content": "<p>好</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/76927743", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 0, 
+            "title": "ubuntu下编译运行PL-SVO", 
+            "content": "<p>PL-SVO是线特征大神Rubén Gómez Ojeda在SVO基础上加入了线段特征的VO系统,加入线段特征提高了SVO系统的鲁棒性,在普通的笔记本上速度能够达到60帧/s,对应的论文为<b>PL-SVO: Semi-Direct Monocular Visual Odometry by Combining Points and Line Segments</b></p><p>.总结一下安装编译过程.</p><p>1.下载源码</p><div class=\"highlight\"><pre><code class=\"language-text\">git clone https://github.com/rubengooj/pl-svo.git </code></pre></div><p>2. 编译安装</p><p>在下载的文件目录下,运行build.sh编译整个系统</p><div class=\"highlight\"><pre><code class=\"language-text\">chmod +x build.sh\n./build.sh</code></pre></div><p>出现错误:By not providing &#34;Findfast.cmake&#34; in CMAKE_MODULE_PATH this project has</p><p>  asked CMake to find a package configuration file provided by &#34;fast&#34;, but</p><p>  CMake did not find one.</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-d78000303e6d2a77a1ab17c5d5593bd5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"721\" data-rawheight=\"422\" class=\"origin_image zh-lightbox-thumb\" width=\"721\" data-original=\"https://pic2.zhimg.com/v2-d78000303e6d2a77a1ab17c5d5593bd5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;721&#39; height=&#39;422&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"721\" data-rawheight=\"422\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"721\" data-original=\"https://pic2.zhimg.com/v2-d78000303e6d2a77a1ab17c5d5593bd5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-d78000303e6d2a77a1ab17c5d5593bd5_b.jpg\"/></figure><p>解决方法:安装fast角点检测库</p><div class=\"highlight\"><pre><code class=\"language-text\">git clone https://github.com/uzh-rpg/fast.git\ncd fast\nmkdir build\ncd build\ncmake ..\nmake</code></pre></div><p>再次运行./build.sh再次缺少依赖库:Could not find a package configuration file provided by &#34;vikit_common&#34; with  any of the following names</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-822a844fcee99cf39112d7bbf8e80957_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"727\" data-rawheight=\"405\" class=\"origin_image zh-lightbox-thumb\" width=\"727\" data-original=\"https://pic4.zhimg.com/v2-822a844fcee99cf39112d7bbf8e80957_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;727&#39; height=&#39;405&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"727\" data-rawheight=\"405\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"727\" data-original=\"https://pic4.zhimg.com/v2-822a844fcee99cf39112d7bbf8e80957_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-822a844fcee99cf39112d7bbf8e80957_b.jpg\"/></figure><p>解决方法:安装vikit_common</p><div class=\"highlight\"><pre><code class=\"language-text\">git clone https://github.com/uzh-rpg/rpg_vikit.git\ncd rpg_vikit/vikit_common\nmkdir build\ncd build\ncmake ..\nmake</code></pre></div><p>运行./build.sh仍然不能通过,出现如下错误:Project &#39;plsvo&#39; tried to find library &#39;vikit_common&#39;.  The library is  neither a target nor built/installed properly.  Did you compile project  &#39;vikit_common&#39;? Did you findpackage() it before the subdirectory containing its code is included?,错误原因,在<b>编译安装vikit_common库的时候需要在CMakeLists.txt文件中将的USE ROS 设为false,然后重新编译</b>:在vikit_common的build文件夹下:</p><div class=\"highlight\"><pre><code class=\"language-text\">cmake ..\nmake\nsudo make install</code></pre></div><p>编译仍然出现错误,fatal error: nlls_solverimpl.hpp: No such file or directory,在vikit文件夹下找到nlls_solver_impl.hpp,将该文件复制到/usr/local/include/vikit目录下:</p><div class=\"highlight\"><pre><code class=\"language-text\">sudo cp nlls_solver_impl.hpp /usr/local/include/vikit/nlls_solver_impl.hpp</code></pre></div><p>重新运行./build.sh出现新的错误,make[2]: *** No rule to make target &#39;/home/weihao/libs/Sophus/build/libSophus.so&#39;, needed by &#39;../lib/libplsvo.so&#39;.  Stop. CMakeFiles/Makefile2:67: recipe for target &#39;CMakeFiles/plsvo.dir/all&#39; failed make[1]: *** [CMakeFiles/plsvo.dir/all] Error 2,<b>检查pl-svo的CMakeLists.txt文件,发现在包含Sophus的库文件时竟然是用的绝对路径&#34;  ~/libs/Sophus/build/libSophus.so&#34;,大坑货,将这句改为&#34;${Sophus_LIBRARIES}&#34;然后重新运行./build.sh通过.</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-af018d82888dd1c0c2648d22b771981a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"728\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb\" width=\"728\" data-original=\"https://pic3.zhimg.com/v2-af018d82888dd1c0c2648d22b771981a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;728&#39; height=&#39;384&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"728\" data-rawheight=\"384\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"728\" data-original=\"https://pic3.zhimg.com/v2-af018d82888dd1c0c2648d22b771981a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-af018d82888dd1c0c2648d22b771981a_b.jpg\"/></figure><p>3.数据集测试</p><p>用Euroc数据集进行测试,首先需要设置数据集路径:</p><div class=\"highlight\"><pre><code class=\"language-text\">gedit ~/.bashrc\n// .bashrc文件末尾加入:\nexport DATASETS_DIR=/home/weihao/Datastes/MH_01easy/\n</code></pre></div><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-9e99e9291470e12f0f451a5b1a8773a1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1806\" data-rawheight=\"972\" class=\"origin_image zh-lightbox-thumb\" width=\"1806\" data-original=\"https://pic2.zhimg.com/v2-9e99e9291470e12f0f451a5b1a8773a1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1806&#39; height=&#39;972&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1806\" data-rawheight=\"972\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1806\" data-original=\"https://pic2.zhimg.com/v2-9e99e9291470e12f0f451a5b1a8773a1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-9e99e9291470e12f0f451a5b1a8773a1_b.jpg\"/></figure><p>将config文件夹下的dataset_params.yaml复制到euroc数据mav0下,按照数据集提供的内容修改对应参数.运行结果如上图.</p><p>假如出现yaml-cpp错误,说明dataset_params.yaml的图片路径设置不对,修改一下即可.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>总结:安装编译过程真够折腾的,确实有一些坑,习惯的脑残安装方式可能不太适用.感觉有一条规律,安装过程有问题去看CMakeLists.txt文件,运行过程出问题去看源码.</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/74217936", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 2, 
+            "title": "图优化库g2o学习", 
+            "content": "<p>本文是高博视觉SLAM14讲g2o优化库进行曲线拟合的学习记录，并在高博的代码上加了详细的注释（因为我是c++小白，好多c++知识都不清楚），没有任何有价值的东西！！！</p><p>g2o安装方式参考github的readme文件即可：<a href=\"https://link.zhihu.com/?target=https%3A//github.com/RainerKuemmerle/g2o\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">RainerKuemmerle/g2o</a></p><p><b><i>g2o优化库的核心思想是：</i></b></p><p><b>节点是优化变量，边是误差项。</b></p><p><i><b>g2o优化库的使用包括以下步骤：</b></i></p><ol><li>定义定点和边的类型</li><li>构建图</li><li>选择优化算法</li><li>调用g2o进行优化，返回优化后的结果</li></ol><p><b>g2o的主要配置：</b></p><div class=\"highlight\"><pre><code class=\"language-text\"> typedef g2o::BlockSolver&lt; g2o::BlockSolverTraits&lt;3,1&gt; &gt; Block;  // 每个误差项优化变量维度为3，误差值维度为1,残差对优化变量求导\n std::unique_ptr&lt;Block::LinearSolverType&gt; linearSolver (new g2o::LinearSolverDense&lt;Block::PoseMatrixType&gt;()); // 线性方程求解器\n std::unique_ptr&lt;Block&gt; solver_ptr (new Block( std::move(linearSolver) ));      // 矩阵块求解器\n // 梯度下降方法，从GN, LM, DogLeg 中选\n g2o::OptimizationAlgorithmLevenberg* solver = new g2o::OptimizationAlgorithmLevenberg( std::move(solver_ptr) );\n // g2o::OptimizationAlgorithmGaussNewton* solver = new g2o::OptimizationAlgorithmGaussNewton( solver_ptr );\n // g2o::OptimizationAlgorithmDogleg* solver = new g2o::OptimizationAlgorithmDogleg( solver_ptr );\n g2o::SparseOptimizer optimizer;     // 图模型\n optimizer.setAlgorithm( solver );   // 设置求解器\n optimizer.setVerbose( true );       // 打开调试输出</code></pre></div><p>在编译的时候这个地方会出错，只要把对应的代码替换成上述代码即可。</p><div class=\"highlight\"><pre><code class=\"language-text\">#include &lt;iostream&gt;\n#include &lt;g2o/core/base_vertex.h&gt;\n#include &lt;g2o/core/base_unary_edge.h&gt;\n#include &lt;g2o/core/block_solver.h&gt;\n#include &lt;g2o/core/optimization_algorithm_levenberg.h&gt;\n#include &lt;g2o/core/optimization_algorithm_gauss_newton.h&gt;\n#include &lt;g2o/core/optimization_algorithm_dogleg.h&gt;\n#include &lt;g2o/solvers/dense/linear_solver_dense.h&gt;\n#include &lt;Eigen/Core&gt;\n#include &lt;opencv2/core/core.hpp&gt;\n#include &lt;cmath&gt; //需要使用cmath计算指数(exp)\n#include &lt;chrono&gt;\nusing namespace std; \n\n/**\n * c++知识补充：\n * 虚函数：是在基类中使用关键字 virtual 声明的函数。在派生类中重新定义基类中定义的虚函数时，会告诉编译器不要静态链接到该函数。也称为动态链接，或后期绑定。\n * 参考链接：https://www.runoob.com/cplusplus/cpp-polymorphism.html\n */\n// 曲线模型的顶点，模板参数：优化变量维度和数据类型\nclass CurveFittingVertex: public g2o::BaseVertex&lt;3, Eigen::Vector3d&gt;\n{\npublic:\n    EIGEN_MAKE_ALIGNED_OPERATOR_NEW  //EIGEN保证指针对齐\n    virtual void setToOriginImpl() // 重置\n    {\n        _estimate &lt;&lt; 0,0,0;\n    }\n    \n    virtual void oplusImpl( const double* update ) // 更新\n    {\n        _estimate += Eigen::Vector3d(update);\n    }\n    // 存盘和读盘：留空\n    virtual bool read( istream&amp; in ) {}\n    virtual bool write( ostream&amp; out ) const {}\n};\n\n// 误差模型 模板参数：观测值维度，类型，连接顶点类型\nclass CurveFittingEdge: public g2o::BaseUnaryEdge&lt;1,double,CurveFittingVertex&gt;\n{\npublic:\n    EIGEN_MAKE_ALIGNED_OPERATOR_NEW\n    CurveFittingEdge( double x ): BaseUnaryEdge(), _x(x) {}\n    // 计算曲线模型误差\n    void computeError()\n    {\n        const CurveFittingVertex* v = static_cast&lt;const CurveFittingVertex*&gt; (_vertices[0]);//static_cast相当于传统的C语言里的强制转换\n        const Eigen::Vector3d abc = v-&gt;estimate();\n        _error(0,0) = _measurement - std::exp( abc(0,0)*_x*_x + abc(1,0)*_x + abc(2,0) ) ;//残差定义\n    }\n    virtual bool read( istream&amp; in ) {}\n    virtual bool write( ostream&amp; out ) const {}\npublic:\n    double _x;  // x 值， y 值为 _measurement\n};\n\n\nint main( int argc, char** argv )\n{\n    // 第一部分：生成带高斯噪声的数据\n    double a=1.0, b=2.0, c=1.0;         // 真实参数值\n    int N=100;                          // 数据点\n    double w_sigma=1.0;                 // 噪声Sigma值\n    cv::RNG rng;                        // OpenCV随机数产生器\n    double abc[3] = {0,0,0};            // abc参数的估计值\n\n    vector&lt;double&gt; x_data, y_data;      // 数据\n    \n    cout&lt;&lt;&#34;generating data: &#34;&lt;&lt;endl;\n    for ( int i=0; i&lt;N; i++ )\n    {\n        double x = i/double(N);\n        x_data.push_back ( x );\n        y_data.push_back (\n            exp ( a*x*x + b*x + c ) + rng.gaussian ( w_sigma )\n        );\n        cout&lt;&lt;x_data[i]&lt;&lt;&#34; &#34;&lt;&lt;y_data[i]&lt;&lt;endl;\n    }\n    \n    // 第二部分：配置g2o优化器\n    typedef g2o::BlockSolver&lt; g2o::BlockSolverTraits&lt;3,1&gt; &gt; Block;  // 每个误差项优化变量维度为3，误差值维度为1,残差对优化变量求导\n    std::unique_ptr&lt;Block::LinearSolverType&gt; linearSolver (new g2o::LinearSolverDense&lt;Block::PoseMatrixType&gt;()); // 线性方程求解器\n    std::unique_ptr&lt;Block&gt; solver_ptr (new Block( std::move(linearSolver) ));      // 矩阵块求解器\n    // 梯度下降方法，从GN, LM, DogLeg 中选\n    g2o::OptimizationAlgorithmLevenberg* solver = new g2o::OptimizationAlgorithmLevenberg( std::move(solver_ptr) );\n    // g2o::OptimizationAlgorithmGaussNewton* solver = new g2o::OptimizationAlgorithmGaussNewton( solver_ptr );\n    // g2o::OptimizationAlgorithmDogleg* solver = new g2o::OptimizationAlgorithmDogleg( solver_ptr );\n    g2o::SparseOptimizer optimizer;     // 图模型\n    optimizer.setAlgorithm( solver );   // 设置求解器\n    optimizer.setVerbose( true );       // 打开调试输出\n    \n    // 第三部分：构建图模型\n    // 往图中增加顶点（优化变量） abc={0,0,0}\n    CurveFittingVertex* v = new CurveFittingVertex();\n    v-&gt;setEstimate( Eigen::Vector3d(0,0,0) );//顶点是待优化变量（相当于设置优化的初始值）\n    v-&gt;setId(0);\n    optimizer.addVertex( v );//向优化器中增加该顶点\n    \n    // 往图中增加边(误差项，每一对数据点都能带来一个误差项)\n    for ( int i=0; i&lt;N; i++ )\n    {\n        CurveFittingEdge* edge = new CurveFittingEdge( x_data[i] );\n        edge-&gt;setId(i);\n        edge-&gt;setVertex( 0, v );                // 设置连接的顶点\n        edge-&gt;setMeasurement( y_data[i] );      // 观测数值\n        edge-&gt;setInformation( Eigen::Matrix&lt;double,1,1&gt;::Identity()*1/(w_sigma*w_sigma) ); // 信息矩阵：协方差矩阵之逆（对角矩阵求逆）\n        optimizer.addEdge( edge );\n    }\n    \n    // 执行优化\n    cout&lt;&lt;&#34;start optimization&#34;&lt;&lt;endl;\n    chrono::steady_clock::time_point t1 = chrono::steady_clock::now();\n    optimizer.initializeOptimization();\n    optimizer.optimize(100);//图优化的迭代次数\n    chrono::steady_clock::time_point t2 = chrono::steady_clock::now();\n    chrono::duration&lt;double&gt; time_used = chrono::duration_cast&lt;chrono::duration&lt;double&gt;&gt;( t2-t1 );\n    cout&lt;&lt;&#34;solve time cost = &#34;&lt;&lt;time_used.count()&lt;&lt;&#34; seconds. &#34;&lt;&lt;endl;\n    \n    // 输出优化值\n    Eigen::Vector3d abc_estimate = v-&gt;estimate();\n    cout&lt;&lt;&#34;estimated model: &#34;&lt;&lt;abc_estimate.transpose()&lt;&lt;endl;\n    \n    return 0;\n}</code></pre></div><p>CMakeLists.txt文件内容如下：</p><div class=\"highlight\"><pre><code class=\"language-text\">cmake_minimum_required( VERSION 2.8 )\nproject( g2o_curve_fitting )\n\nset( CMAKE_BUILD_TYPE &#34;Release&#34; )\nset( CMAKE_CXX_FLAGS &#34;-std=c++11 -O3&#34; )\n\n# 添加cmake模块以使用ceres库\nlist( APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake_modules )\n\n# 寻找G2O\nfind_package( G2O REQUIRED )\ninclude_directories( \n    ${G2O_INCLUDE_DIRS}\n    &#34;/usr/include/eigen3&#34;\n)\n\n# OpenCV\nfind_package( OpenCV REQUIRED )\ninclude_directories( ${OpenCV_DIRS} )\n\nadd_executable( curve_fitting main.cpp )\n# 与G2O和OpenCV链接\ntarget_link_libraries( curve_fitting \n    ${OpenCV_LIBS}\n    g2o_core g2o_stuff\n)</code></pre></div><p>然后运行即可，得到的结果见下图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-396167b6be3364b9b46160c682125212_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1082\" data-rawheight=\"277\" class=\"origin_image zh-lightbox-thumb\" width=\"1082\" data-original=\"https://pic3.zhimg.com/v2-396167b6be3364b9b46160c682125212_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1082&#39; height=&#39;277&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1082\" data-rawheight=\"277\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1082\" data-original=\"https://pic3.zhimg.com/v2-396167b6be3364b9b46160c682125212_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-396167b6be3364b9b46160c682125212_b.jpg\"/></figure><p>参考文献：</p><p>高翔, 张涛, 颜沁睿, 刘毅, 视觉SLAM十四讲：从理论到实践, 电子工业出版社, 2017</p><p>闲扯：</p><p>每次写完专栏，都有一堆话想说，其实一直很惧怕编程，代码，这几天也在逐步去看，写一些代码，逐步走出舒适区，挑战自己。加油吧，少年！</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }, 
+                {
+                    "tag": "视觉SLAM十四讲（书籍）", 
+                    "tagLink": "https://api.zhihu.com/topics/20127173"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/73415550", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 12, 
+            "title": "为ORB-SLAM2写一个launch文件", 
+            "content": "<p>在ros下启动ORB-SLAM2的步骤比较繁琐，比如运行单目版本，首先需要启动相机，然后在新的命令窗口下打开ORB-SLAM2的相应节点，这个步骤需要输入配置好的路径等：</p><div class=\"highlight\"><pre><code class=\"language-text\"># ros 启动orb-slam2的单目节点\n$ rosrun ORB_SLAM2 Mono PATH_TO_VOCABULARY PATH_TO_SETTINGS_FILE</code></pre></div><p>为了以后偷懒，用一个launch文件来管理ORB-SLAM2的启动过程，本文主要记录完成这个简单任务的过程。</p><h2>一. 在ROS下建立orb_launch包</h2><p><a href=\"https://link.zhihu.com/?target=http%3A//wiki.ros.org/ROS/Tutorials/CreatingPackage\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">参考官方的教程</a>，建立orb_launch package，其实就一行代码：</p><div class=\"highlight\"><pre><code class=\"language-text\">$ cd ~/catkin_ws/src\n$ catkin_create_pkg orb_launch std_msgs rospy roscpp</code></pre></div><p>然后在orb_launch文件夹下建立launch文件夹。</p><h2>二.在launch文件夹下建立xxx.launch文件</h2><p>我主要建立了三个launch文件，具体的功能是：</p><ul><li>orb_<i>slam2.launch ： 单独启动orb_slam2 的某一个ros节点</i></li><li><i>orb_slam2_mono.launch : 启动usb相机和orb_slam2 mono节点</i></li><li><i>orb_slam2_rgbd.launch : 启动深度相机和orb_slam2 rgbd节点</i></li></ul><p><i>具体代码：</i></p><p>放单目版本的文件内容（每个版本都差不多，具体代码我已经上传到github:</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/weihaotobe94/ORB_SLAM2_launch\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic1.zhimg.com/v2-75ad4983a46d8b5eb7054a5f93082a0c_ipico.jpg\" data-image-width=\"304\" data-image-height=\"304\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">weihaotobe94/ORB_SLAM2_launch</a><p>）<a href=\"https://link.zhihu.com/?target=https%3A//github.com/weihaotobe94/ORB_SLAM2_launch\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">weihaotobe94/ORB_SLAM2_launch</a>）</p><p><i>orb_slam2_mono.launch ：</i></p><div class=\"highlight\"><pre><code class=\"language-text\">&lt;launch&gt;\n    &lt;!--定义全局参数--&gt;\n    &lt;arg name=&#34;rgb_image&#34; default=&#34;/usb_cam/image_raw&#34;/&gt;\n    &lt;arg name=&#34;path_to_vacabulary&#34; default=&#34;/home/weihao/SLAM_Project/ORB_SLAM2-master/Vocabulary/ORBvoc.txt&#34;/&gt;\n    &lt;arg name=&#34;path_to_settings&#34; default=&#34;/home/weihao/SLAM_Project/ORB_SLAM2-master/Examples/Monocular/TUM1.yaml&#34;/&gt;\n    &lt;!--启动摄像头节点(USB相机)--&gt;\n    &lt;include file=&#34;$(find usb_cam)/launch/usb_cam-test.launch&#34;/&gt;\n\n    &lt;!--启动ORB-SLAM2 RGBD--&gt;\n    &lt;node name =&#34;Mono&#34; pkg=&#34;ORB_SLAM2&#34; type=&#34;Mono&#34; \n        args=&#34;$(arg path_to_vacabulary) $(arg path_to_settings)&#34; respawn=&#34;true&#34; output=&#34;screen&#34;&gt;\n        &lt;remap from=&#34;/camera/image_raw&#34; to=&#34;$(arg rgb_image)&#34;/&gt;\n    &lt;/node&gt;\n&lt;/launch&gt;\n</code></pre></div><p>可以根据实际情况修改全局参数的配置。（我的相机输出是640*480，因此直接调用了TUM1.yaml的配置文件，也可标定相机然后加载自己的配置文件，这里只是看一下效果，虽然实际差别可能不会太大，因为orb_slam2貌似对相机内参进行了在线优化）</p><h2>三.运行效果</h2><p>启动上述节点</p><div class=\"highlight\"><pre><code class=\"language-text\">$ roslaunch orb_launch orb_slam2_mono.launch</code></pre></div><p>实际运行效果如图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-24d5bdc7c69d67b3d5af51504986070c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1672\" data-rawheight=\"758\" class=\"origin_image zh-lightbox-thumb\" width=\"1672\" data-original=\"https://pic1.zhimg.com/v2-24d5bdc7c69d67b3d5af51504986070c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1672&#39; height=&#39;758&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1672\" data-rawheight=\"758\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1672\" data-original=\"https://pic1.zhimg.com/v2-24d5bdc7c69d67b3d5af51504986070c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-24d5bdc7c69d67b3d5af51504986070c_b.jpg\"/></figure><h2>四.问题总结</h2><ol><li>roslaunch找不到orb_slam2 mono节点</li></ol><p>原因：ros找不到orb_slam2的ros包，需要将路径放在.bashrc文件末尾</p><div class=\"highlight\"><pre><code class=\"language-text\">export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:PATH/ORB_SLAM2/Examples/ROS</code></pre></div><p>然后&#34;source ~/.bashrc&#34;，假如仍然不能正常运行，请参考：<a href=\"https://link.zhihu.com/?target=http%3A//bubuko.com/infodetail-3066854.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">（十一）ORBSLAM2在ROS下运行-布布扣-bubuko.com</a></p><p>2.launch文件的格式一定要写对，经常忘了写/等。</p><p>3.本来打算用一个config/xx.yaml文件来管理所有参数，但node 的args传递参数没完全明白，之后再改进。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>好长时间没有搞ros了，写十行代码花了2个小时，以后还是要加强学习啊！！！！</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "步清梨", 
+                    "userLink": "https://www.zhihu.com/people/72f0ece32b35394e4a4f15cac1f62bd0", 
+                    "content": "大哥来亲手给你点赞了，敢动吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "卫浩", 
+                            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+                            "content": "<a class=\"comment_sticker\" href=\"https://pic2.zhimg.com/v2-90359a720808ff45062287127cfa1039.gif\" data-width=\"\" data-height=\"\">[爱心]</a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "步清梨"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/52282302", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 0, 
+            "title": "VINS-Mono实际相机测试", 
+            "content": "<p>　　毕业设计选择了VIO方向，因此需要对该领域的一些工作进行重复和对比，这是进行研究的第一步骤，接下来将对VIO领域的经典工作进行实际测试，包括vins-mono，VIORB,MSCKF等，并将实验测试记录在此，作为我的一个总结，本篇记录VINS在实际相机上的测试，之前已经在公开数据集上进行了测试。</p><a href=\"https://zhuanlan.zhihu.com/p/46286217\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">卫浩：VINS-Mono效果测试</a><p><b>运行环境：</b></p><p>系统：Ubuntu16.04+ ROS Kinetic</p><p>电脑配置：Intel® Core™ i7-7700 CPU @ 3.60GHz × 8 8G内存</p><p>相机:小觅相机深度版（双目＋ＩＭＵ，可直接输出深度图（内部芯片））</p><p><b>添加config文件：</b></p><p>在vins-mono文件目录下的config文件夹下</p><div class=\"highlight\"><pre><code class=\"language-text\">/home/weihao/catkin_ws/src/VINS-Mono/config</code></pre></div><p>新建mynteye文件夹，新建相机配置文件mynteye_d_config.yaml（参考realsense）</p><div class=\"highlight\"><pre><code class=\"language-text\">/home/weihao/catkin_ws/src/VINS-Mono/config/mynteye/mynteye_d_config.yaml</code></pre></div><p>修改配置文件中的对应参数，包括imu和相机的话题，建图的路径和位姿图保存路径，相机内参，畸变参数，相机和ＩＭＵ之间的外参等。更改对应的参数为自己相机的参数。具体参数文件如下：</p><div class=\"highlight\"><pre><code class=\"language-text\">%YAML:1.0\n#common parameters\nimu_topic: &#34;/mynteye/imu/data_raw&#34;  #imu话题\nimage_topic: &#34;/mynteye/left/image_mono&#34;　#相机话题\noutput_path: &#34;/home/weihao/catkin_ws/src/VINS-Mono/config/mynteye/output/&#34;　#输出文件保存路径\n\n#camera calibration, please replace it with your own calibration file.\n# 相机内参\nmodel_type: MEI\ncamera_name: camera\nimage_width: 1280\nimage_height: 720\nmirror_parameters:\n   xi: 2.1194262525320258\ndistortion_parameters: #畸变参数\n   k1: -0.33287811279296875\n   k2: 0.13589859008789062\n   p1: -0.00014495849609375\n   p2: 0.00000000000000000\nprojection_parameters: #投影参数\n   gamma1: 2192.0393422024795\n   gamma2: 2191.4751134374337\n   u0: 648.56774902343750000\n   v0: 371.21051025390625000\n\n# Extrinsic parameter between IMU and Camera.\n#相机和imu之间的相关参数\nestimate_extrinsic: 1   # 0  Have an accurate extrinsic parameters. We will trust the following imu^R_cam, imu^T_cam, don&#39;t change it.\n                        # 1  Have an initial guess about extrinsic parameters. We will optimize around your initial guess.\n                        # 2  Don&#39;t know anything about extrinsic parameters. You don&#39;t need to give R,T. We will try to calibrate it. Do some rotation movement at beginning.                        \n#If you choose 0 or 1, you should write down the following matrix.\n#Rotation from camera frame to imu frame, imu^R_cam\nextrinsicRotation: !!opencv-matrix　　#旋转\n   rows: 3\n   cols: 3\n   dt: d\n   data: [ 0.99996651999999997,  0.00430873000000000,  0.00695718000000000,\n           0.00434878000000000,  -0.99997400999999997,  -0.00575128000000000, \n           0.00693222000000000,  0.00578135000000000,  -0.99995926000000002]\n#Translation from camera frame to imu frame, imu^T_cam\nextrinsicTranslation: !!opencv-matrix  #平移\n   rows: 3\n   cols: 1\n   dt: d\n   data: [-0.04777362000000000108,-0.00223730999999999991, -0.00160071000000000008]\n\n#feature traker paprameters\n# 特征提取相关参数\nmax_cnt: 150            # max feature number in feature tracking\nmin_dist: 30            # min distance between two features \nfreq: 10                # frequence (Hz) of publish tracking result. At least 10Hz for good estimation. If set 0, the frequence will be same as raw image \nF_threshold: 1.0        # ransac threshold (pixel)\nshow_track: 1           # publish tracking image as topic\nequalize: 1             # if image is too dark or light, trun on equalize to find enough features\nfisheye: 0              # if using fisheye, trun on it. A circle mask will be loaded to remove edge noisy points\n\n#optimization parameters\n#优化相关参数\nmax_solver_time: 0.04  # max solver itration time (ms), to guarantee real time\nmax_num_iterations: 8   # max solver itrations, to guarantee real time\nkeyframe_parallax: 10.0 # keyframe selection threshold (pixel)\n\n#imu parameters       The more accurate parameters you provide, the better performance\n#imu的参数，误差，噪声等\nacc_n: 0.00253          # accelerometer measurement noise standard deviation. #0.599298904976\n#acc_n: 0.02024\ngyr_n: 0.0291        # gyroscope measurement noise standard deviation.     #0.198614898699\n#gyr_n: 0.2328\nacc_w: 2.04543326912e-05         # accelerometer bias random work noise standard deviation.  #0.02\n#acc_w: 1.636347e-04\ngyr_w: 0.00088056       # gyroscope bias random work noise standard deviation.     #4.0e-5\n#gyr_w: 0.00704448\n\n\ng_norm: 9.806    # gravity magnitude\n\n#loop closure parameters\n#回环检测参数\nloop_closure: 0                    # start loop closure\nload_previous_pose_graph: 0        # load and reuse previous pose graph; load from &#39;pose_graph_save_path&#39;\nfast_relocalization: 0             # useful in real-time and large project\npose_graph_save_path: &#34;/home/weihao/catkin_ws/src/VINS-Mono/config/mynteye/pose_graph/&#34; # save and load path\n\n#unsynchronization parameters\nestimate_td: 1                      # online estimate time offset between camera and imu\ntd: 0                       # initial value of time offset. unit: s. readed image clock + td = real image clock (IMU clock)\n\n#rolling shutter parameters\n#卷帘快门参数\nrolling_shutter: 0                  # 0: global shutter camera, 1: rolling shutter camera\nrolling_shutter_tr: 0               # unit: s. rolling shutter read out time per frame (from data sheet). \n\n#visualization parameters\n# 可视化参数\nsave_image: 1                   # save image in pose graph for visualization prupose; you can close this function by setting 0 \nvisualize_imu_forward: 0        # output imu forward propogation to achieve low latency and high frequence results\nvisualize_camera_size: 0.4      # size of camera marker in RVIZ</code></pre></div><p><b>添加launch文件：</b></p><p>参考该文件夹下的其他文件，在launch文件夹下添加相机的launch文件</p><div class=\"highlight\"><pre><code class=\"language-text\">&lt;launch&gt;\n　　　　&lt;!--配置文件地址--&gt;\n    &lt;arg name=&#34;config_path&#34; default = &#34;$(find feature_tracker)/../config/mynteye/mynteye_d_config.yaml&#34; /&gt;\n      &lt;arg name=&#34;vins_path&#34; default = &#34;$(find feature_tracker)/../config/../&#34; /&gt;\n    &lt;!--特征提取--&gt;\n    &lt;node name=&#34;feature_tracker&#34; pkg=&#34;feature_tracker&#34; type=&#34;feature_tracker&#34; output=&#34;log&#34;&gt;\n        &lt;param name=&#34;config_file&#34; type=&#34;string&#34; value=&#34;$(arg config_path)&#34; /&gt;\n        &lt;param name=&#34;vins_folder&#34; type=&#34;string&#34; value=&#34;$(arg vins_path)&#34; /&gt;\n    &lt;/node&gt;\n　　　　&lt;!--vins estimator--&gt;\n    &lt;node name=&#34;vins_estimator&#34; pkg=&#34;vins_estimator&#34; type=&#34;vins_estimator&#34; output=&#34;screen&#34;&gt;\n       &lt;param name=&#34;config_file&#34; type=&#34;string&#34; value=&#34;$(arg config_path)&#34; /&gt;\n       &lt;param name=&#34;vins_folder&#34; type=&#34;string&#34; value=&#34;$(arg vins_path)&#34; /&gt;\n    &lt;/node&gt;\n   &lt;!--位姿图优化--&gt;\n   &lt;node name=&#34;pose_graph&#34; pkg=&#34;pose_graph&#34; type=&#34;pose_graph&#34; output=&#34;screen&#34;&gt;\n        &lt;param name=&#34;config_file&#34; type=&#34;string&#34; value=&#34;$(arg config_path)&#34; /&gt;\n        &lt;param name=&#34;visualization_shift_x&#34; type=&#34;int&#34; value=&#34;0&#34; /&gt;\n        &lt;param name=&#34;visualization_shift_y&#34; type=&#34;int&#34; value=&#34;0&#34; /&gt;\n        &lt;param name=&#34;skip_cnt&#34; type=&#34;int&#34; value=&#34;0&#34; /&gt;\n        &lt;param name=&#34;skip_dis&#34; type=&#34;double&#34; value=&#34;0&#34; /&gt;\n    &lt;/node&gt;\n    &lt;!--rviz显示--&gt;\n    &lt;node name=&#34;rvizvisualisation&#34; pkg=&#34;rviz&#34; type=&#34;rviz&#34; output=&#34;log&#34; args=&#34;-d $(find vins_estimator)/../config/vins_rviz_config.rviz&#34; /&gt;\n\n&lt;/launch&gt;</code></pre></div><p><b>运行：</b></p><p>启动相机：</p><div class=\"highlight\"><pre><code class=\"language-text\">roslaunch mynteye_wrapper_d mynteye.launch</code></pre></div><p>启动vins程序：</p><div class=\"highlight\"><pre><code class=\"language-text\">roslaunch vins_estimator mynteye_d.launch</code></pre></div><p>接下来就可以看到vins运行的结果了：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1a9b9dad872cbe5f0967ccd633290ff5_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb\" width=\"1855\" data-original=\"https://pic2.zhimg.com/v2-1a9b9dad872cbe5f0967ccd633290ff5_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1855&#39; height=&#39;1056&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1855\" data-rawheight=\"1056\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1855\" data-original=\"https://pic2.zhimg.com/v2-1a9b9dad872cbe5f0967ccd633290ff5_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1a9b9dad872cbe5f0967ccd633290ff5_b.jpg\"/></figure><p><b>总结：</b></p><p>如上图所示，一开始我在小范围移动相机，轨迹和相机的位姿估计都比较准确，但运行一段时间后，<b>轨迹开始漂移，整个程序跑飞了</b>，并且也没有矫正回来的趋势！！！暂时没有发现出现这个问题的原因！！！</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }, 
+                {
+                    "tag": "机器人", 
+                    "tagLink": "https://api.zhihu.com/topics/19551273"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Perfective姚", 
+                    "userLink": "https://www.zhihu.com/people/bb025a86ed0fda152c55f8d185a104a5", 
+                    "content": "应该是相机发热导致的帧数据和imu的数据匹配不了 有累计误差", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "寂寞沙洲冷", 
+                    "userLink": "https://www.zhihu.com/people/e336e40971d9234bd654658cf7c0d45b", 
+                    "content": "同跑飞，楼主找到原因了么", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Bibi Vell", 
+                    "userLink": "https://www.zhihu.com/people/74b4a7f5c649a2841032cc469d7b66e4", 
+                    "content": "<p>同跑飞，求解决方案啊</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "步清梨", 
+                    "userLink": "https://www.zhihu.com/people/72f0ece32b35394e4a4f15cac1f62bd0", 
+                    "content": "同跑飞，楼主找到原因了吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "卫浩", 
+                            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+                            "content": "<p>目前没有好的解决方法，可能和相机有关</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "步清梨"
+                        }, 
+                        {
+                            "userName": "步清梨", 
+                            "userLink": "https://www.zhihu.com/people/72f0ece32b35394e4a4f15cac1f62bd0", 
+                            "content": "那我再尝试一下，谢谢大神，大神好厉害呦！膜拜！ <a class=\"comment_sticker\" href=\"https://pic4.zhimg.com/v2-8fb25d33fb4ceda8d3aad31b130f3863.png\" data-sticker-id=\"1029328882125619200\"> [对对对]</a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "卫浩"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>您好，我运行的时候发现右边没有轨迹，这该如何解决？谢谢</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "希希", 
+                    "userLink": "https://www.zhihu.com/people/ee3f8257cb217879f2f52fde417b89b9", 
+                    "content": "应该是imu要重新标定一下", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51617565", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 10, 
+            "title": "激光SLAM简单入门（2）-代码解读和分析", 
+            "content": "<p>这篇文章是本系列文章的第二篇，主要写我对代码的理解，梳理主要的框架，感兴趣的可以直接下载代码运行，看一下实际的效果。本系列主要内容是理解激光SLAM的过程，在原文的基础上进行了改进和升级，并增加了的细节内容，同时也加入了部分自己的理解。代码的下载地址为：</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/weihaotobe94/LaserSLAM\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">weihaotobe94/LaserSLAM</a><p>在matlab中直接运行main.m文件即可看到运行结果。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-c0c70ff3a68d4e3527007eb0e43fbd08_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"576\" data-rawheight=\"514\" class=\"origin_image zh-lightbox-thumb\" width=\"576\" data-original=\"https://pic1.zhimg.com/v2-c0c70ff3a68d4e3527007eb0e43fbd08_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;576&#39; height=&#39;514&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"576\" data-rawheight=\"514\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"576\" data-original=\"https://pic1.zhimg.com/v2-c0c70ff3a68d4e3527007eb0e43fbd08_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-c0c70ff3a68d4e3527007eb0e43fbd08_b.jpg\"/></figure><p><b>程序分析：</b></p><p>程序完全是一个扫描匹配的过程，没有后端优化和回环检测，位姿的计算采用先估计（匀速运动模型）后优化的方式，在估计位姿附近用贪心算法进行优化，优化目标为局部图像和当前扫描数据的相似度。程序的主要运行过程如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e0d546360c138e69a02b47c68a5acd64_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"738\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"738\" data-original=\"https://pic1.zhimg.com/v2-e0d546360c138e69a02b47c68a5acd64_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;738&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"738\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"738\" data-original=\"https://pic1.zhimg.com/v2-e0d546360c138e69a02b47c68a5acd64_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e0d546360c138e69a02b47c68a5acd64_b.jpg\"/></figure><p>ps:作者在代码中注释说采用匀速运动模型预测下一时刻的位姿，但是我认为是利用上一时刻的姿态来预测当前的位姿，因为优化过程中扫描数据是当前数据，局部地图（将当前数据利用上一时刻位姿变换到全局地图中，然后在该变换附近1米的范围内取全局数据点）是当前数据的近似数据，因此理解成当前数据可能更加符合代码，但作者的说法也是正确的，因为本质上这两者并没有区别。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>代码组成：</b></p><p>代码共包括11个.m文件，包括主程序main.m和10个函数，各个函数的作用如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-a8e38525ebda133fb337b25f787de248_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"867\" data-rawheight=\"611\" class=\"origin_image zh-lightbox-thumb\" width=\"867\" data-original=\"https://pic1.zhimg.com/v2-a8e38525ebda133fb337b25f787de248_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;867&#39; height=&#39;611&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"867\" data-rawheight=\"611\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"867\" data-original=\"https://pic1.zhimg.com/v2-a8e38525ebda133fb337b25f787de248_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-a8e38525ebda133fb337b25f787de248_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>运行结果：</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d04fc0d66f43dc5572c2b4d34f6ee637_b.jpg\" data-size=\"normal\" data-rawwidth=\"2060\" data-rawheight=\"1580\" class=\"origin_image zh-lightbox-thumb\" width=\"2060\" data-original=\"https://pic4.zhimg.com/v2-d04fc0d66f43dc5572c2b4d34f6ee637_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2060&#39; height=&#39;1580&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"2060\" data-rawheight=\"1580\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2060\" data-original=\"https://pic4.zhimg.com/v2-d04fc0d66f43dc5572c2b4d34f6ee637_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d04fc0d66f43dc5572c2b4d34f6ee637_b.jpg\"/><figcaption>实际地图效果（Cartographer算法结果）</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-2fd4f490a20ced84317f57009fcaed27_b.jpg\" data-size=\"normal\" data-rawwidth=\"1154\" data-rawheight=\"514\" class=\"origin_image zh-lightbox-thumb\" width=\"1154\" data-original=\"https://pic4.zhimg.com/v2-2fd4f490a20ced84317f57009fcaed27_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1154&#39; height=&#39;514&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1154\" data-rawheight=\"514\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1154\" data-original=\"https://pic4.zhimg.com/v2-2fd4f490a20ced84317f57009fcaed27_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2fd4f490a20ced84317f57009fcaed27_b.jpg\"/><figcaption>左图为本程序建立的地图，右图为机器人的路径</figcaption></figure><p><b>结果分析：</b></p><p>程序本身是一个扫描匹配的程序，并且采用贪心算法来对位姿进行优化，因此位姿估计在很大程度上是不准确的，当数据增多时，可能会出现大量的错误点和重影点。从结果可知，与现有的主流激光SLAM算法Cartographer算法相比，本程序的建图效果简直是惨不忍睹。但作为入门的程序，可以通过本程序来熟悉激光SLAM的算法流程。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>结语：</b>本来想仔细分析每一部分的代码，但是觉得这样可能没什么意义，毕竟matlab程序相对比较简单，但想真正入门，一定要把所有代码看一遍，代码看一遍，看一遍！！！</p><p>代码地址：</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/weihaotobe94/LaserSLAM.git\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-93cba8c5c051b3a9ae3567579ba4d23a_ipico.jpg\" data-image-width=\"420\" data-image-height=\"420\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">weihaotobe94/LaserSLAM</a><p>本系列第一篇地址：</p><a href=\"https://zhuanlan.zhihu.com/p/51577331\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\"internal\">卫浩：激光SLAM简单入门（1）-matlab读取bag文件并保存为mat文件</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }, 
+                {
+                    "tag": "机器人", 
+                    "tagLink": "https://api.zhihu.com/topics/19551273"
+                }, 
+                {
+                    "tag": "MATLAB", 
+                    "tagLink": "https://api.zhihu.com/topics/19559252"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "含泪", 
+                    "userLink": "https://www.zhihu.com/people/317a1f1b10a515702351f46d0ef53aa7", 
+                    "content": "<p>加油哦，现在VSLAM越来越火，以后搞这个方向哈哈</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "依依东望", 
+                    "userLink": "https://www.zhihu.com/people/8e3f99c44a7ab98975b6d5b04f785125", 
+                    "content": "扫图不太好用，场地大无法闭合", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "卫浩", 
+                            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+                            "content": "<p>这个完全就是简单的入门程序，可能对新手更加有用，能够直观感受一下激光SLAM的过程</p><a class=\"comment_sticker\" href=\"https://pic2.zhimg.com/v2-f941117b9911dd9af1a6b637fc22ee9d.gif\" data-width=\"\" data-height=\"\">[安慰]</a>", 
+                            "likes": 0, 
+                            "replyToAuthor": "依依东望"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "mengdeersijiu", 
+                    "userLink": "https://www.zhihu.com/people/db3b93b9245d80d4e650bc3d25c9371a", 
+                    "content": "您好，请问有没有类似cartographer这样带后端和回环检查的代码或者资源呢[拜托]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "26.3分的HIT", 
+                    "userLink": "https://www.zhihu.com/people/4d7f134f6a03a3a6dcf09c9f73553bc9", 
+                    "content": "<p>感谢分享，在AddAKeyScan函数中，newPoints = scan<i>w(hits&gt;1.1, :);这一句，hits是出现在局部地图中的scan的hits集和，也就是说hits的维度要比scan_w小，因此这里应该是有问题的。在FastMatch中应该记录下每个hit所对应的scan索引。我的看法，供讨论</i></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51577331", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 16, 
+            "title": "激光SLAM简单入门（1）-matlab读取bag文件并保存为mat文件", 
+            "content": "<p>       最近在一篇公众号发现了一篇激光SLAM的入门文章，作者提供了源码，下载下来跑了一下，效果还不错。之前一直在用激光雷达建图，但一直没能对激光雷达SLAM基础理论有深入的研究，因此萌生了以该代码为基础，系统整理激光雷达SLAM步骤的想法。原文见：</p><a href=\"https://zhuanlan.zhihu.com/p/50797499\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-f3c35ad4613554cc7d9d5c6ca2bd0f5d_180x120.jpg\" data-image-width=\"893\" data-image-height=\"701\" class=\"internal\">北辰灬星星：SLAM demo using 2D LiDAR</a><p>本系列主要内容是理解激光SLAM的过程，在原文的基础上进行了改进和升级，并增加了的细节内容，同时也加入了部分自己的理解。</p><p>     作者在文章中提供了所有的代码，把所有的代码复制到同一文件夹下，运行main.m文件即可，我也将代码整理到我的github，下载地址为：</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/weihaotobe94/LaserSLAM\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-93cba8c5c051b3a9ae3567579ba4d23a_ipico.jpg\" data-image-width=\"420\" data-image-height=\"420\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">weihaotobe94/LaserSLAM</a><p>      第一部分记录matlab读取bag文件并将需要的数据保存成mat文件的过程。写这部分的原因是网络上关于matlab读取bag文件的内容较少，在提取数据的过程中浪费了较多时间。主要步骤包括下载bag文件，在ros环境下解压缩，解压缩后bag文件的数据提取和保存（matlab）。</p><p><b>1  下载bag文件</b> </p><p> 谷歌的Cartographer算法中提供的数据集，文件下载地址：</p><a href=\"https://link.zhihu.com/?target=https%3A//google-cartographer-ros.readthedocs.io/en/latest/data.html\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Public Data - Cartographer ROS documentation</a><p>我下载了<a href=\"https://link.zhihu.com/?target=https%3A//storage.googleapis.com/cartographer-public-data/bags/backpack_2d/b2-2014-12-12-14-41-29.bag\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">b2-2014-12-12-14-41-29.bag</a>，文件大小为46MB。</p><p>ps:下载后直接在matlab下用rosbag函数读取，会提示如下错误：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-544f9668e08c072a2182be6e510c26b7_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"870\" data-rawheight=\"88\" class=\"origin_image zh-lightbox-thumb\" width=\"870\" data-original=\"https://pic4.zhimg.com/v2-544f9668e08c072a2182be6e510c26b7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;870&#39; height=&#39;88&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"870\" data-rawheight=\"88\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"870\" data-original=\"https://pic4.zhimg.com/v2-544f9668e08c072a2182be6e510c26b7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-544f9668e08c072a2182be6e510c26b7_b.jpg\"/></figure><p>原因：matlab只能读取未压缩的文件，直接下载的bag文件是压缩后的文件，因此首先需要解压缩。</p><p><b>2 在ros环境中解压缩bag文件</b></p><p> 在ros环境（ubuntu16.04+ros kinetic）下对原始的bag文件进行解压缩，得到解压后的bag文件。</p><div class=\"highlight\"><pre><code class=\"language-text\">rosbag decompress b2-2014-12-12-14-41-29.bag</code></pre></div><p>解压后文件大小为230M：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-1b3ceb2423e4fbf62a7f56901922db42_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"632\" data-rawheight=\"53\" class=\"origin_image zh-lightbox-thumb\" width=\"632\" data-original=\"https://pic3.zhimg.com/v2-1b3ceb2423e4fbf62a7f56901922db42_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;632&#39; height=&#39;53&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"632\" data-rawheight=\"53\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"632\" data-original=\"https://pic3.zhimg.com/v2-1b3ceb2423e4fbf62a7f56901922db42_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-1b3ceb2423e4fbf62a7f56901922db42_b.jpg\"/></figure><p><b>3 在matlab下对bag文件中的数据进行提取和保存</b></p><p>  matlab提供了ros相关的函数来提取数据，但是一次对所有的数据进行处理，会发生内存不足的问题。比如我用如下的代码读取bag文件：</p><div class=\"highlight\"><pre><code class=\"language-text\">bag = rosbag(&#39;b2-2014-12-12-14-41-29.bag&#39;);%读取所有数据\n%读取水平雷达topic 数据\nlaser = select(bag, &#39;Time&#39;, ...\n            [bag.StartTime bag.EndTime], &#39;Topic&#39;, &#39;/horizontal_laser_2d&#39;);\nx = readMessages(laser);</code></pre></div><p>matlab报错(内存不足)：</p><div class=\"highlight\"><pre><code class=\"language-text\">Error in robotics.ros.BagSelection/readMessages (line 194)\n            msgs = obj.deserializeMessages(obj.MessageList, rows);\nError in LoadMeasurements (line 47)\n    msgs = readMessages(bag);</code></pre></div><p>因此，采用循环的方式逐一读取数据，代码如下：</p><div class=\"highlight\"><pre><code class=\"language-text\">clear;clc;\nbag = rosbag(&#39;b2-2014-12-12-14-41-29.bag&#39;);%读取所有数据\n%读取水平雷达topic 数据\n laser = select(bag, &#39;Time&#39;, ...\n            [bag.StartTime bag.EndTime], &#39;Topic&#39;, &#39;/horizontal_laser_2d&#39;);\n        \n%% 从文件中查找数据的大小 \nN = laser.NumMessages;%雷达数据条数\nx = readMessages(laser,1);\n[M,~] = size(x{1,1}.Ranges);\ntimes = zeros(N,1);%时间参数\nranges = zeros(N,M);%距离参数\n\n%% 循环读取数据 ：整体读取时会出现内存不足的情况\nfor i=1:N\n    temp = readMessages(laser,i);\n    times(i) = temp{1,1}.Header.Stamp.Sec;%时间\n    ranges_temp = temp{1,1}.Ranges;%雷达测量（1079维数据）\n    for j = 1:M %不知道如何整体读取，所以加了循环\n        laser_echo = ranges_temp(j,1).Echoes;\n        [xx,yy] = size(laser_echo);\n        if xx*yy&lt;1 %当laser_echo为空时，跳出当前循环\n            continue\n        end\n        ranges(i,j) = laser_echo(1);%雷达测量的距离数据\n    end\n    %显示进度\n    if mod(i,100)==0\n        disp([&#39;处理进度%：&#39;, num2str(i/N*100)]);\n    end\nend\n%数据保存为mat文件\nsave new_laser_data.mat times ranges</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>以上三个步骤得到了从激光SLAM建图需要的激光雷达ranges数据和times数据并保存到.mat文件中！</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }, 
+                {
+                    "tag": "机器人", 
+                    "tagLink": "https://api.zhihu.com/topics/19551273"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>谢谢分享！</p><p>另外，在“ranges_temp = temp{1,1}.Ranges;%雷达测量（1079维数据）”这一行后面加上“ranges(i,:) = ranges_temp;”即可，后面的那个for循环可以不用了。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>谢谢分享！</p><p>另外，在“ranges_temp = temp{1,1}.Ranges;%雷达测量（1079维数据）”这一行后面加上“ranges(i,:) = ranges_temp;”即可，后面的那个for循环可以不用了。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "卫浩", 
+                            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+                            "content": "<p>谢谢，确实是这样。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "你好呀", 
+                            "userLink": "https://www.zhihu.com/people/08bd29f0dfaf39a5d00994a7b43e40ca", 
+                            "content": "<p>不行的,因为ranges_temp不是double,</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "小石头", 
+                    "userLink": "https://www.zhihu.com/people/6ae510ff0e5b4459838f54d6189e9853", 
+                    "content": "谢谢分享，帮助很大，我也是想通过matlab来进一步学习slam算法，请问该教程是用matlab的slam代码进行建图吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "卫浩", 
+                            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+                            "content": "<p>matlab可以帮助理解一下概念，但是假如想真正学习的话还是得啃C++，虽然确实很麻烦</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "小石头"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "西红柿", 
+                    "userLink": "https://www.zhihu.com/people/d1f66a15e4a35a3fdba0d9d031b7b986", 
+                    "content": "<p>temp = readMessages(laser,i);<br>这句总是提示： <br>错误使用 robotics.ros.BagSelection/readMessages (line 256) The specified message indices are not within the valid range of [1,0].</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "卫浩", 
+                            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+                            "content": "<p>需要在ROS环境下解压一下，rosbag decompress b2-2014-12-12-14-41-29.bag</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "西红柿"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "西红柿", 
+                    "userLink": "https://www.zhihu.com/people/d1f66a15e4a35a3fdba0d9d031b7b986", 
+                    "content": "<p>有个问题线问大佬：</p><p>你这里读取的是 bag中的数组信息 ，当数组过大时，存在读取错误情况。</p><p>如果读取的是bag中的结构体信息的话，会出现因为读取的结构体过大，出现error吗？</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/50947408", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 4, 
+            "title": "ubuntu16.04 PCL库安装", 
+            "content": "<p>PCL(Point Cloud Library )点云库是一个开源的c++代码库，包含了大量的点云相关的通用算法和数据结构。在SLAM领域有着广泛的应用，官方的<a href=\"https://link.zhihu.com/?target=http%3A//pointclouds.org/downloads/linux.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">安装教程</a>：</p><div class=\"highlight\"><pre><code class=\"language-text\">sudo add-apt-repository ppa:v-launchpad-jochen-sprickerhof-de/pcl\nsudo apt-get update\nsudo apt-get install libpcl-all</code></pre></div><p>会出现无法定位到libpcl-all　package的问题，因此采用源码安装方式。</p><p class=\"ztext-empty-paragraph\"><br/></p><ol><li>安装依赖库，PCL依赖Boost,Eigen,FlANN,VTK,OpenNI,QHull等第三方库，部分可以通过apt-get 方式直接安装，如下：</li></ol><div class=\"highlight\"><pre><code class=\"language-text\">sudo apt-get update  \n# flann库\nsudo apt-get install libflann1.8 libflann-dev \n# eigen库\nsudo apt-get install libeigen3-dev\n# boost库  \nsudo apt-get install libboost-all-dev \n\n# 其他依赖\nsudo apt-get install git build-essential linux-libc-dev  \nsudo apt-get install cmake cmake-gui   \nsudo apt-get install libusb-1.0-0-dev libusb-dev libudev-dev  \nsudo apt-get install mpi-default-dev openmpi-bin openmpi-common    \nsudo apt-get install libqhull* libgtest-dev  \nsudo apt-get install freeglut3-dev pkg-config  \nsudo apt-get install libxmu-dev libxi-dev   \nsudo apt-get install mono-complete   \nsudo apt-get install libopenni-dev   \nsudo apt-get install libopenni2-dev </code></pre></div><p>2. 源码安装vtk库(很重要！！！apt安装会出现.so文件缺失的情况！)</p><p> 2.1首先安装依赖项X11，OpenGL，CMake-gui</p><div class=\"highlight\"><pre><code class=\"language-text\">＃　x11\nsudo apt-get install libx11-dev libxext-dev libxtst-dev libxrender-dev libxmu-dev libxmuu-dev\n# OpenGL\nsudo apt-get install build-essential libgl1-mesa-dev libglu1-mesa-dev\n# cmake\nsudo apt-get install cmake cmake-gui </code></pre></div><p> 2.2然后安装编译环境qt5，<a href=\"https://link.zhihu.com/?target=https%3A//www.qt.io/download%23section-2\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Download Qt: Choose commercial or open source</a>，下载开源版本（open source），需要注册帐号后才能下载。在下载文件目录打开cmd窗口，输入命令来安装：</p><div class=\"highlight\"><pre><code class=\"language-text\">sudo chmod u+x qt-unified-linux-x64-3.0.2-online.run\nsudo ./qt-unified-linux-x64-3.0.2-online.run</code></pre></div><p>输入命令后则进入图形安装界面，直到finish完成安装。</p><p> 2.3下载vtk源码，<a href=\"https://link.zhihu.com/?target=https%3A//www.vtk.org/download/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Download | VTK</a>，我选择了<a href=\"https://link.zhihu.com/?target=https%3A//www.vtk.org/files/release/8.1/VTK-8.1.2.tar.gz\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">VTK-8.1.2.tar.gz</a>，下载完成后解压缩到你的文件安装目录。在文件目录下打开cmd窗口，输入cmake-gui打开cmake图形界面：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c498b3e040e0876ee8e72dbd768bdad1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"587\" data-rawheight=\"626\" class=\"origin_image zh-lightbox-thumb\" width=\"587\" data-original=\"https://pic2.zhimg.com/v2-c498b3e040e0876ee8e72dbd768bdad1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;587&#39; height=&#39;626&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"587\" data-rawheight=\"626\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"587\" data-original=\"https://pic2.zhimg.com/v2-c498b3e040e0876ee8e72dbd768bdad1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c498b3e040e0876ee8e72dbd768bdad1_b.jpg\"/></figure><p>配置“where is the source code”的路径为vtk-8.1.2所在的目录</p><p>在vtk-8.1.2目录新建build文件夹，配置“where to build the binaries”为build文件夹</p><p>点击Configure，配置完成后提示configure done</p><p>选择“VTK_<i>GROUP_</i>QT”再次点击configure</p><p>配置完成后点击generate按钮，会在build文件夹下生成工程文件</p><p> 2.4　切换文件目录到build文件夹，然后打开cmd窗口，输入：</p><div class=\"highlight\"><pre><code class=\"language-text\">make\nsudo make install</code></pre></div><p>完成vtk库的安装</p><p class=\"ztext-empty-paragraph\"><br/></p><p>3. 安装PCL库</p><p> 3.1 下载PCL源文件<a href=\"https://link.zhihu.com/?target=https%3A//github.com/PointCloudLibrary/pcl\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/PointCloudLi</span><span class=\"invisible\">brary/pcl</span><span class=\"ellipsis\"></span></a></p><p> 3.2 在pcl库文件目录下打开cmd窗口，输入如下命令：</p><div class=\"highlight\"><pre><code class=\"language-text\">mkdir build &amp;&amp; cd build\n# cmake编译选项\ncmake  -D CMAKE_BUILD_TYPE=None  -D BUILD_GPU=ON  -D BUILD_apps=ON  -D BUILD_examples=ON ..\nmake\nsudo make install </code></pre></div><p>完成PCL库的安装！！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>参考文献:</p><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/zkj126521/article/details/80157351\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-68b66d03733b685c683c9977e4051517_180x120.jpg\" data-image-width=\"572\" data-image-height=\"118\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ubuntu16.04 pcl安装教程</a><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/sinat_28752257/article/details/79169647\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic4.zhimg.com/v2-52db244ec08b8db070f9c3a8c8c01c1f_180x120.jpg\" data-image-width=\"1063\" data-image-height=\"640\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Ubuntu16.04下pcl库和vtk的安装编译 - GeneralShark - CSDN博客</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "Ubuntu 16.04", 
+                    "tagLink": "https://api.zhihu.com/topics/20050221"
+                }, 
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/46826848", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 0, 
+            "title": "ORB-SLAM2 RGBD 代码阅读（４）－Local Mapping", 
+            "content": "<p>　　中途停了一段时间，按照我拖拖拉拉的性格，已经快要放弃了，但是最近有两人竟然关注了这个专栏，给了我莫大的鼓励，不管怎样，终究可以给大家提供一种新的思路。</p><p>　　ORB-SLAM2的视觉ＶＯ包括Tracking线程和Local Mapping线程，Tracking对图像进行预处理（反畸变），然后提取ORB特征，将特征还原到三维空间，并决定是否加入关键帧。</p><p>　　Local Mapping线程循环接受新加入的关键帧和地图点，剔除冗余的关键帧和地图点，从而保证Keyframe的规模。主要流程如下图：　</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-21383f3b5fb6df5b298b7fce88c0c49f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1269\" data-rawheight=\"1562\" class=\"origin_image zh-lightbox-thumb\" width=\"1269\" data-original=\"https://pic4.zhimg.com/v2-21383f3b5fb6df5b298b7fce88c0c49f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1269&#39; height=&#39;1562&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1269\" data-rawheight=\"1562\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1269\" data-original=\"https://pic4.zhimg.com/v2-21383f3b5fb6df5b298b7fce88c0c49f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-21383f3b5fb6df5b298b7fce88c0c49f_b.jpg\"/></figure><p>　原图摘自：吃水的鱼<a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/chishuideyu/article/details/76021496\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ORBSlam2学习研究(Code analysis)-ORBSlam2中的视觉里程计LocalMapping</a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>核心程序：</p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"n\">ProcessNewKeyFrame</span><span class=\"p\">();</span><span class=\"c1\">//处理新的关键帧（计算ＢＯＷ向量并将关键帧插入地图）\n</span><span class=\"c1\"></span><span class=\"n\">MapPointCulling</span><span class=\"p\">();</span><span class=\"c1\">//检查最近添加的地图点，剔除不符合要求的点\n</span><span class=\"c1\"></span><span class=\"n\">CreateNewMapPoints</span><span class=\"p\">();</span><span class=\"c1\">//三角化新添加的地图点\n</span><span class=\"c1\"></span><span class=\"n\">SearchInNeighbors</span><span class=\"p\">();</span><span class=\"c1\">//在邻近关键帧中寻找更多的匹配（新地图点－邻近关键帧）\n</span><span class=\"c1\">//局部优化\n</span><span class=\"c1\"></span><span class=\"n\">Optimizer</span><span class=\"o\">::</span><span class=\"n\">LocalBundleAdjustment</span><span class=\"p\">(</span><span class=\"n\">mpCurrentKeyFrame</span><span class=\"p\">,</span><span class=\"o\">&amp;</span><span class=\"n\">mbAbortBA</span><span class=\"p\">,</span> <span class=\"n\">mpMap</span><span class=\"p\">);</span>\n<span class=\"n\">KeyFrameCulling</span><span class=\"p\">();</span><span class=\"c1\">//删除冗余关键帧\n</span></code></pre></div><p>计算关键帧ＢＯＷ并插入地图：</p><div class=\"highlight\"><pre><code class=\"language-text\">void LocalMapping::ProcessNewKeyFrame()\n{\n    {\n        //锁住程序块，保证在取关键帧的过程中mlNerKeyFrames不进行操作\n        unique_lock&lt;mutex&gt; lock(mMutexNewKFs);\n        mpCurrentKeyFrame = mlNewKeyFrames.front();\n        mlNewKeyFrames.pop_front();\n    }\n\n    // Compute Bags of Words structures\n    mpCurrentKeyFrame-&gt;ComputeBoW();//计算关键帧的ＢＯＷ描述子\n\n    // Associate MapPoints to the new keyframe and update normal and descriptor\n    const vector&lt;MapPoint*&gt; vpMapPointMatches = mpCurrentKeyFrame-&gt;GetMapPointMatches();\n\n    for(size_t i=0; i&lt;vpMapPointMatches.size(); i++)\n    {\n        MapPoint* pMP = vpMapPointMatches[i];\n        if(pMP)\n        {\n            if(!pMP-&gt;isBad())\n            {\n                if(!pMP-&gt;IsInKeyFrame(mpCurrentKeyFrame))//假如该地图点没有被当前帧观察到\n                {\n                    pMP-&gt;AddObservation(mpCurrentKeyFrame, i);\n                    pMP-&gt;UpdateNormalAndDepth();\n                    pMP-&gt;ComputeDistinctiveDescriptors();\n                }\n                else // this can only happen for new stereo points inserted by the Tracking\n                {\n                    mlpRecentAddedMapPoints.push_back(pMP);\n                }\n            }\n        }\n    }    \n\n    // Update links in the Covisibility Graph\n    //更新covisibility graph中的连接关系\n    mpCurrentKeyFrame-&gt;UpdateConnections();\n\n    // Insert Keyframe in Map\n    mpMap-&gt;AddKeyFrame(mpCurrentKeyFrame);//将当前关键帧插入地图\n}</code></pre></div><p>筛选地图点：</p><div class=\"highlight\"><pre><code class=\"language-text\">if(pMP-&gt;isBad())\n{\n    lit = mlpRecentAddedMapPoints.erase(lit);//坏点\n}\nelse if(pMP-&gt;GetFoundRatio()&lt;0.25f )　//被观测到的概率小于２５％\n{\n    pMP-&gt;SetBadFlag();\n    lit = mlpRecentAddedMapPoints.erase(lit);\n}\nelse if(((int)nCurrentKFid-(int)pMP-&gt;mnFirstKFid)&gt;=2 &amp;&amp; pMP-&gt;Observations()&lt;=cnThObs)\n{//未被两个关键帧看到且首次看到该点的关键帧和当前帧ＩＤ相差２\n    pMP-&gt;SetBadFlag();\n    lit = mlpRecentAddedMapPoints.erase(lit);\n}\n//当前关键帧和首次看到该点帧ＩＤ相差超过３\nelse if(((int)nCurrentKFid-(int)pMP-&gt;mnFirstKFid)&gt;=3)\n    lit = mlpRecentAddedMapPoints.erase(lit);</code></pre></div><p>新地图点的三角化：</p><div class=\"highlight\"><pre><code class=\"language-text\">//在covisibility graph 上寻找有共视关系的关键帧（１０帧）\nint nn = 10;\nif(mbMonocular)\n    nn=20;\nconst vector&lt;KeyFrame*&gt; vpNeighKFs = mpCurrentKeyFrame-&gt;GetBestCovisibilityKeyFrames(nn);</code></pre></div><p>计算当前帧和共视关键帧的对极约束并三角化地图点：</p><p>　　　　检查基线是否满足要求；</p><p>　　　　计算基础矩阵；</p><p>　　　　计算冲投影误差，如果大于一定值直接抛弃；</p><p>　　　　检查尺度一致性；</p><p>局部ＢＡ优化；</p><p>删除冗余关键帧：</p><p>检查冗余关键帧（仅限局部关键帧）</p><p>如果它看到的90％的MapPoints至少在其他3个关键帧（同样或更精细的尺度）中被看到，则关键帧被认为是冗余的</p><p class=\"ztext-empty-paragraph\"><br/></p><p>写的心烦意乱的，草草结束～</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "阅读", 
+                    "tagLink": "https://api.zhihu.com/topics/19550564"
+                }, 
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/46286217", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 3, 
+            "title": "VINS-Mono效果测试", 
+            "content": "<p>VINS-Mono是港科大2017年在开源的视觉-惯性融合算法，据我了解，是目前state-of-the-art的单目VIO算法，本文主要测试一下VINS-Mono的效果（没有任何技术含量），论文地址：<a href=\"https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/1708.03852.pdf\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">arxiv.org/pdf/1708.0385</span><span class=\"invisible\">2.pdf</span><span class=\"ellipsis\"></span></a> 。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>运行环境：Ubuntu16.04+ ROS Kinetic</p><p>配置：Intel® Core™ i7-7700 CPU @ 3.60GHz × 8   8G内存</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一.将VINS-Mono的代码下载到本地并编译</p><div class=\"highlight\"><pre><code class=\"language-text\">～：cd ~/catkin_ws/src\n～：git clone https://github.com/HKUST-Aerial-Robotics/VINS-Mono.git\n～：cd ../\n～：catkin_make\n～：source ~/catkin_ws/devel/setup.bash</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>二.下载测试用的bag文件（ <b>EuRoC MAV Dataset</b>）</p><p>数据集地址：<a href=\"https://link.zhihu.com/?target=https%3A//projects.asl.ethz.ch/datasets/doku.php%3Fid%3Dkmavvisualinertialdatasets\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">projects.asl.ethz.ch/da</span><span class=\"invisible\">tasets/doku.php?id=kmavvisualinertialdatasets</span><span class=\"ellipsis\"></span></a></p><p class=\"ztext-empty-paragraph\"><br/></p><p>三.新开三个cmd窗口，分别运行</p><div class=\"highlight\"><pre><code class=\"language-text\">～：roslaunch vins_estimator euroc.launch \n～：roslaunch vins_estimator vins_rviz.launch\n～：rosbag play  rosbag play MH_05_difficult\\ \\(1\\).bag </code></pre></div><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-7ec9b64fd3a4b5987d5aa825f00eb0e4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1838\" data-rawheight=\"963\" class=\"origin_image zh-lightbox-thumb\" width=\"1838\" data-original=\"https://pic1.zhimg.com/v2-7ec9b64fd3a4b5987d5aa825f00eb0e4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1838&#39; height=&#39;963&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1838\" data-rawheight=\"963\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1838\" data-original=\"https://pic1.zhimg.com/v2-7ec9b64fd3a4b5987d5aa825f00eb0e4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-7ec9b64fd3a4b5987d5aa825f00eb0e4_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>四.VINS-Mono同样提供了与Ground Truth对比的功能，只需要在上述运行的过程中运行Ground Trunth发布launch文件，新开四个窗口（其中三个与步骤三相同）</p><div class=\"highlight\"><pre><code class=\"language-text\">～：roslaunch vins_estimator euroc.launch \n～：roslaunch vins_estimator vins_rviz.launch\n～：roslaunch benchmark_publisher publish.launch sequence_name:=MH_05_difficult\n～：rosbag play  rosbag play MH_05_difficult\\ \\(1\\).bag </code></pre></div><p>可看到实际轨迹和VINS-Mono的轨迹区别：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-f5b48da1176a4bc96920f24ba56ab2ab_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1837\" data-rawheight=\"917\" class=\"origin_image zh-lightbox-thumb\" width=\"1837\" data-original=\"https://pic4.zhimg.com/v2-f5b48da1176a4bc96920f24ba56ab2ab_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1837&#39; height=&#39;917&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1837\" data-rawheight=\"917\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1837\" data-original=\"https://pic4.zhimg.com/v2-f5b48da1176a4bc96920f24ba56ab2ab_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-f5b48da1176a4bc96920f24ba56ab2ab_b.jpg\"/></figure><p>其中红色为真实轨迹，绿色为VINS-Mono的轨迹。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>五.地图保存</p><p>假如需要保存地图，需要先设置config文件中的pose_graph_save_path（地图保存地址）为地图保存文件夹（默认为作者自己的文件路径），config文件在：</p><div class=\"highlight\"><pre><code class=\"language-text\">/home/weihao/catkin_ws/src/VINS-Mono/config/euroc/euroc_config.yaml</code></pre></div><p>在上述3或4运行完成后，在运行 [ roslaunch vins_estimator euroc.launch ]的窗口输入‘s‘后’回车‘，则文件中保存在pose_graph_save_path设置的路径内。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b62d1b9afafda9b9c1f4da7e2fdf2051_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"830\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb\" width=\"830\" data-original=\"https://pic2.zhimg.com/v2-b62d1b9afafda9b9c1f4da7e2fdf2051_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;830&#39; height=&#39;450&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"830\" data-rawheight=\"450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"830\" data-original=\"https://pic2.zhimg.com/v2-b62d1b9afafda9b9c1f4da7e2fdf2051_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b62d1b9afafda9b9c1f4da7e2fdf2051_b.jpg\"/></figure><p>六.地图加载</p><p>在步骤5的config文件中设置load_previous_pose_graph参数为1,则再次运行[ roslaunch vins_estimator euroc.launch ]时会加载之前保存的地图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-aa6bc0fdc4b12514f1a6c9359f2d7577_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1843\" data-rawheight=\"959\" class=\"origin_image zh-lightbox-thumb\" width=\"1843\" data-original=\"https://pic4.zhimg.com/v2-aa6bc0fdc4b12514f1a6c9359f2d7577_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1843&#39; height=&#39;959&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1843\" data-rawheight=\"959\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1843\" data-original=\"https://pic4.zhimg.com/v2-aa6bc0fdc4b12514f1a6c9359f2d7577_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-aa6bc0fdc4b12514f1a6c9359f2d7577_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>接下来将在自己的设备上进行测试！</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }, 
+                {
+                    "tag": "Mono", 
+                    "tagLink": "https://api.zhihu.com/topics/19741151"
+                }, 
+                {
+                    "tag": "机器人", 
+                    "tagLink": "https://api.zhihu.com/topics/19551273"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Perfective姚", 
+                    "userLink": "https://www.zhihu.com/people/bb025a86ed0fda152c55f8d185a104a5", 
+                    "content": "老铁 你这边测试如何 能分享一下吗 我们实验室也在弄", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/45565860", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 5, 
+            "title": "ORB-SLAM2  RGB-D代码阅读", 
+            "content": "<p>         ORBSLAM2公布源码已经两年多，但是源码解析多是从单目相机的角度来进行，最近项目需要用RGBD相机来进行实验，记录一下从RGBD的角度来阅读ORB-SLAM2代码的过程。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一 .    基本使用：</p><p>下载ORB-SLAM2的源码后，在ROS进行编译，    /Examples/RGB-D中会有一个叫rgdb_tum的可执行文件，在该文件目录下打开（crtl+alt+t）命令窗口。输入：</p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"c1\">//调用格式（4个参数）\n</span><span class=\"c1\"></span><span class=\"p\">.</span><span class=\"o\">/</span><span class=\"n\">rgbd_tum</span> <span class=\"p\">[</span><span class=\"n\">ORB词典</span><span class=\"p\">]</span> <span class=\"p\">[</span><span class=\"err\">相机内参数</span><span class=\"p\">]</span> <span class=\"p\">[</span><span class=\"n\">TUM库图片序列地址</span><span class=\"p\">]</span> <span class=\"p\">[</span><span class=\"n\">TUM库连接文件</span><span class=\"p\">]</span>\n<span class=\"p\">.</span><span class=\"o\">/</span><span class=\"n\">rgbd_tum</span> <span class=\"n\">path_to_vocabulary</span> <span class=\"n\">path_to_settings</span> <span class=\"n\">path_to_sequence</span> <span class=\"n\">path_to_association</span>\n\n<span class=\"c1\">//实际调用方法\n</span><span class=\"c1\"></span><span class=\"p\">.</span><span class=\"o\">/</span><span class=\"n\">Examples</span><span class=\"o\">/</span><span class=\"n\">RGB</span><span class=\"o\">-</span><span class=\"n\">D</span><span class=\"o\">/</span><span class=\"n\">rgbd_tum</span> <span class=\"n\">Vocabulary</span><span class=\"o\">/</span><span class=\"n\">ORBvoc</span><span class=\"p\">.</span><span class=\"n\">txt</span> <span class=\"n\">Examples</span><span class=\"o\">/</span><span class=\"n\">RGB</span><span class=\"o\">-</span><span class=\"n\">D</span><span class=\"o\">/</span><span class=\"n\">TUM1</span><span class=\"p\">.</span><span class=\"n\">yaml</span> <span class=\"n\">Data</span><span class=\"o\">/</span><span class=\"n\">rgbd_dataset_freiburg1_desk</span> <span class=\"n\">Data</span><span class=\"o\">/</span><span class=\"n\">rgbd_dataset_freiburg1_desk</span><span class=\"o\">/</span><span class=\"n\">associate</span><span class=\"p\">.</span><span class=\"n\">txt</span> \n</code></pre></div><p>之后可以看到ORB-SLAM2可以正常运行！</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-d9c691ffe9c8e549dfcd5e20e233da49_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1499\" data-rawheight=\"705\" class=\"origin_image zh-lightbox-thumb\" width=\"1499\" data-original=\"https://pic2.zhimg.com/v2-d9c691ffe9c8e549dfcd5e20e233da49_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1499&#39; height=&#39;705&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1499\" data-rawheight=\"705\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1499\" data-original=\"https://pic2.zhimg.com/v2-d9c691ffe9c8e549dfcd5e20e233da49_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-d9c691ffe9c8e549dfcd5e20e233da49_b.jpg\"/></figure><p>二.   代码阅读（沿着RGBD主线） </p><p> 1     <a href=\"https://link.zhihu.com/?target=http%3A//rgdb_tum.cc\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">rgdb_tum.cc</span><span class=\"invisible\"></span></a>(代码的主程序)</p><p>       作用：读取ORB词典，相机参数文件，TUM图像序列（彩色和深度），TUM associate.txt</p><p>                   循环读取图像序列送入到ORB_SLAM2::System对象中进行建图和定位。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-691e193e14766657d1143e6246c94789_b.jpg\" data-size=\"normal\" data-rawwidth=\"620\" data-rawheight=\"355\" class=\"origin_image zh-lightbox-thumb\" width=\"620\" data-original=\"https://pic2.zhimg.com/v2-691e193e14766657d1143e6246c94789_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;620&#39; height=&#39;355&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"620\" data-rawheight=\"355\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"620\" data-original=\"https://pic2.zhimg.com/v2-691e193e14766657d1143e6246c94789_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-691e193e14766657d1143e6246c94789_b.jpg\"/><figcaption>rgbd_tum.cc程序主要内容</figcaption></figure><p>    核心代码解读：</p><p>      创建ORB_SLAM2::System对象</p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"c1\">// 传入参数意义：\n</span><span class=\"c1\">//     argv[1]:ORB词典 \n</span><span class=\"c1\">//     argv[2]:相机内参数文件   \n</span><span class=\"c1\">//     ORB_SLAM2::System::RGBD : 指定相机类型为RGBD相机   \n</span><span class=\"c1\">//     true:使用显示窗口   \n</span><span class=\"c1\"></span><span class=\"n\">ORB_SLAM2</span><span class=\"o\">::</span><span class=\"n\">System</span> <span class=\"n\">SLAM</span><span class=\"p\">(</span><span class=\"n\">argv</span><span class=\"p\">[</span><span class=\"mi\">1</span><span class=\"p\">],</span><span class=\"n\">argv</span><span class=\"p\">[</span><span class=\"mi\">2</span><span class=\"p\">],</span><span class=\"n\">ORB_SLAM2</span><span class=\"o\">::</span><span class=\"n\">System</span><span class=\"o\">::</span><span class=\"n\">RGBD</span><span class=\"p\">,</span><span class=\"nb\">true</span><span class=\"p\">);</span>\n</code></pre></div><p>          将读取的图像传给SLAM对象</p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"c1\">//传入参数意义：（SLAM为以上建立的ORB_SLAM2::System对象）\n</span><span class=\"c1\">//     imRGB: 彩色图片\n</span><span class=\"c1\">//     imD  : 深度图片\n</span><span class=\"c1\">//     tframe:该帧图像的时间戳\n</span><span class=\"c1\"></span><span class=\"n\">SLAM</span><span class=\"p\">.</span><span class=\"n\">TrackRGBD</span><span class=\"p\">(</span><span class=\"n\">imRGB</span><span class=\"p\">,</span><span class=\"n\">imD</span><span class=\"p\">,</span><span class=\"n\">tframe</span><span class=\"p\">);</span>\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p>2.   接下来看一下ORB_SLAM2::System对象的构造函数进行了哪些操作</p><p>  主要操作如下：</p><p>     a. 读取配置文件（相机内参数等），读取ORB词典</p><p>     b. 新建关键帧数据库对象，地图对象，显示窗口对象</p><p>     c. 开启跟踪、局部地图、回环检测、窗口显示对象（线程）</p><p>（ps:</p><p>         跟踪传入参数：ORB词典, 图片窗口, 地图窗口,地图, 关键帧数据库, 配置文件, 相机类型</p><p>         局部地图传入参数：地图，相机类型</p><p>        回环检测传入参数：地图，关键帧数据库，ORB词典，相机类型</p><p>）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-a9d7667dd1938be40c3688f61f1fcdd3_b.jpg\" data-size=\"normal\" data-rawwidth=\"837\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb\" width=\"837\" data-original=\"https://pic4.zhimg.com/v2-a9d7667dd1938be40c3688f61f1fcdd3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;837&#39; height=&#39;558&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"837\" data-rawheight=\"558\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"837\" data-original=\"https://pic4.zhimg.com/v2-a9d7667dd1938be40c3688f61f1fcdd3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-a9d7667dd1938be40c3688f61f1fcdd3_b.jpg\"/><figcaption>System对象的构造函数</figcaption></figure><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"cm\">/*\n</span><span class=\"cm\"> * 初始化的参数：\n</span><span class=\"cm\"> *    mSensor:相机类型\n</span><span class=\"cm\"> *    mpViewer(static_cast&lt;Viewer*&gt;(NULL))：窗口\n</span><span class=\"cm\"> *    mbReset:是否重置\n</span><span class=\"cm\"> *    mbActivateLocalizationMode(false)：是否激活定位模式\n</span><span class=\"cm\"> *    mbDeactivateLocalizationMode(false)：是否解除定位模式\n</span><span class=\"cm\"> */</span>\n<span class=\"n\">System</span><span class=\"o\">::</span><span class=\"n\">System</span><span class=\"p\">(</span><span class=\"k\">const</span> <span class=\"n\">string</span> <span class=\"o\">&amp;</span><span class=\"n\">strVocFile</span><span class=\"p\">,</span> <span class=\"k\">const</span> <span class=\"n\">string</span> <span class=\"o\">&amp;</span><span class=\"n\">strSettingsFile</span><span class=\"p\">,</span> <span class=\"k\">const</span> <span class=\"n\">eSensor</span> <span class=\"n\">sensor</span><span class=\"p\">,</span>\n               <span class=\"k\">const</span> <span class=\"kt\">bool</span> <span class=\"n\">bUseViewer</span><span class=\"p\">)</span><span class=\"o\">:</span><span class=\"n\">mSensor</span><span class=\"p\">(</span><span class=\"n\">sensor</span><span class=\"p\">),</span> <span class=\"n\">mpViewer</span><span class=\"p\">(</span><span class=\"k\">static_cast</span><span class=\"o\">&lt;</span><span class=\"n\">Viewer</span><span class=\"o\">*&gt;</span><span class=\"p\">(</span><span class=\"nb\">NULL</span><span class=\"p\">)),</span> <span class=\"n\">mbReset</span><span class=\"p\">(</span><span class=\"nb\">false</span><span class=\"p\">),</span><span class=\"n\">mbActivateLocalizationMode</span><span class=\"p\">(</span><span class=\"nb\">false</span><span class=\"p\">),</span>\n        <span class=\"n\">mbDeactivateLocalizationMode</span><span class=\"p\">(</span><span class=\"nb\">false</span><span class=\"p\">)</span>\n<span class=\"p\">{</span>\n    <span class=\"c1\">// Output welcome message\n</span><span class=\"c1\"></span>    <span class=\"n\">cout</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span> <span class=\"o\">&lt;&lt;</span>\n    <span class=\"s\">&#34;ORB-SLAM2 Copyright (C) 2014-2016 Raul Mur-Artal, University of Zaragoza.&#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span> <span class=\"o\">&lt;&lt;</span>\n    <span class=\"s\">&#34;This program comes with ABSOLUTELY NO WARRANTY;&#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span>  <span class=\"o\">&lt;&lt;</span>\n    <span class=\"s\">&#34;This is free software, and you are welcome to redistribute it&#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span> <span class=\"o\">&lt;&lt;</span>\n    <span class=\"s\">&#34;under certain conditions. See LICENSE.txt.&#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>\n\n    <span class=\"n\">cout</span> <span class=\"o\">&lt;&lt;</span> <span class=\"s\">&#34;Input sensor was set to: &#34;</span><span class=\"p\">;</span>\n\n    <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"n\">mSensor</span><span class=\"o\">==</span><span class=\"n\">MONOCULAR</span><span class=\"p\">)</span>\n        <span class=\"n\">cout</span> <span class=\"o\">&lt;&lt;</span> <span class=\"s\">&#34;Monocular&#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>\n    <span class=\"k\">else</span> <span class=\"nf\">if</span><span class=\"p\">(</span><span class=\"n\">mSensor</span><span class=\"o\">==</span><span class=\"n\">STEREO</span><span class=\"p\">)</span>\n        <span class=\"n\">cout</span> <span class=\"o\">&lt;&lt;</span> <span class=\"s\">&#34;Stereo&#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>\n    <span class=\"k\">else</span> <span class=\"nf\">if</span><span class=\"p\">(</span><span class=\"n\">mSensor</span><span class=\"o\">==</span><span class=\"n\">RGBD</span><span class=\"p\">)</span>\n        <span class=\"n\">cout</span> <span class=\"o\">&lt;&lt;</span> <span class=\"s\">&#34;RGB-D&#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>\n\n    <span class=\"c1\">//Check settings file 打开相机内参数文件\n</span><span class=\"c1\"></span>    <span class=\"n\">cv</span><span class=\"o\">::</span><span class=\"n\">FileStorage</span> <span class=\"n\">fsSettings</span><span class=\"p\">(</span><span class=\"n\">strSettingsFile</span><span class=\"p\">.</span><span class=\"n\">c_str</span><span class=\"p\">(),</span> <span class=\"n\">cv</span><span class=\"o\">::</span><span class=\"n\">FileStorage</span><span class=\"o\">::</span><span class=\"n\">READ</span><span class=\"p\">);</span>\n    <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"o\">!</span><span class=\"n\">fsSettings</span><span class=\"p\">.</span><span class=\"n\">isOpened</span><span class=\"p\">())</span>\n    <span class=\"p\">{</span>\n       <span class=\"n\">cerr</span> <span class=\"o\">&lt;&lt;</span> <span class=\"s\">&#34;Failed to open settings file at: &#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">strSettingsFile</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>\n       <span class=\"n\">exit</span><span class=\"p\">(</span><span class=\"o\">-</span><span class=\"mi\">1</span><span class=\"p\">);</span>\n    <span class=\"p\">}</span>\n\n\n    <span class=\"c1\">//Load ORB Vocabulary  读取ORB词典\n</span><span class=\"c1\"></span>    <span class=\"n\">cout</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span> <span class=\"o\">&lt;&lt;</span> <span class=\"s\">&#34;Loading ORB Vocabulary. This could take a while...&#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>\n\n    <span class=\"n\">mpVocabulary</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"n\">ORBVocabulary</span><span class=\"p\">();</span>\n    <span class=\"kt\">bool</span> <span class=\"n\">bVocLoad</span> <span class=\"o\">=</span> <span class=\"n\">mpVocabulary</span><span class=\"o\">-&gt;</span><span class=\"n\">loadFromTextFile</span><span class=\"p\">(</span><span class=\"n\">strVocFile</span><span class=\"p\">);</span>\n    <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"o\">!</span><span class=\"n\">bVocLoad</span><span class=\"p\">)</span>\n    <span class=\"p\">{</span>\n        <span class=\"n\">cerr</span> <span class=\"o\">&lt;&lt;</span> <span class=\"s\">&#34;Wrong path to vocabulary. &#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>\n        <span class=\"n\">cerr</span> <span class=\"o\">&lt;&lt;</span> <span class=\"s\">&#34;Falied to open at: &#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">strVocFile</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>\n        <span class=\"n\">exit</span><span class=\"p\">(</span><span class=\"o\">-</span><span class=\"mi\">1</span><span class=\"p\">);</span>\n    <span class=\"p\">}</span>\n    <span class=\"n\">cout</span> <span class=\"o\">&lt;&lt;</span> <span class=\"s\">&#34;Vocabulary loaded!&#34;</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span> <span class=\"o\">&lt;&lt;</span> <span class=\"n\">endl</span><span class=\"p\">;</span>\n\n    <span class=\"c1\">//Create KeyFrame Database 创建关键帧数据库\n</span><span class=\"c1\"></span>    <span class=\"n\">mpKeyFrameDatabase</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"n\">KeyFrameDatabase</span><span class=\"p\">(</span><span class=\"o\">*</span><span class=\"n\">mpVocabulary</span><span class=\"p\">);</span>\n\n    <span class=\"c1\">//Create the Map  创建地图对象\n</span><span class=\"c1\"></span>    <span class=\"n\">mpMap</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"n\">Map</span><span class=\"p\">();</span>\n\n    <span class=\"c1\">//创建显示窗口，一个用来显示图片，另一个显示地图\n</span><span class=\"c1\"></span>    <span class=\"n\">mpFrameDrawer</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"n\">FrameDrawer</span><span class=\"p\">(</span><span class=\"n\">mpMap</span><span class=\"p\">);</span>\n    <span class=\"n\">mpMapDrawer</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"n\">MapDrawer</span><span class=\"p\">(</span><span class=\"n\">mpMap</span><span class=\"p\">,</span> <span class=\"n\">strSettingsFile</span><span class=\"p\">);</span>\n\n    <span class=\"c1\">//Initialize the Tracking thread\n</span><span class=\"c1\"></span>    <span class=\"c1\">//(it will live in the main thread of execution, the one that called this constructor)\n</span><span class=\"c1\"></span>    <span class=\"c1\">//创建跟踪对象\n</span><span class=\"c1\"></span>    <span class=\"c1\">//传入参数：(this, ORB词典, 图片窗口, 地图窗口,地图, 关键帧数据库, 相机内参数文件, 相机类型)\n</span><span class=\"c1\"></span>    <span class=\"n\">mpTracker</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"n\">Tracking</span><span class=\"p\">(</span><span class=\"k\">this</span><span class=\"p\">,</span> <span class=\"n\">mpVocabulary</span><span class=\"p\">,</span> <span class=\"n\">mpFrameDrawer</span><span class=\"p\">,</span> <span class=\"n\">mpMapDrawer</span><span class=\"p\">,</span>\n                             <span class=\"n\">mpMap</span><span class=\"p\">,</span> <span class=\"n\">mpKeyFrameDatabase</span><span class=\"p\">,</span> <span class=\"n\">strSettingsFile</span><span class=\"p\">,</span> <span class=\"n\">mSensor</span><span class=\"p\">);</span>\n\n    <span class=\"c1\">//Initialize the Local Mapping thread and launch\n</span><span class=\"c1\"></span>    <span class=\"c1\">//新建局部地图对象\n</span><span class=\"c1\"></span>    <span class=\"c1\">//传入参数：（地图，相机类型）\n</span><span class=\"c1\"></span>    <span class=\"n\">mpLocalMapper</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"n\">LocalMapping</span><span class=\"p\">(</span><span class=\"n\">mpMap</span><span class=\"p\">,</span> <span class=\"n\">mSensor</span><span class=\"o\">==</span><span class=\"n\">MONOCULAR</span><span class=\"p\">);</span>\n    <span class=\"n\">mptLocalMapping</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"kr\">thread</span><span class=\"p\">(</span><span class=\"o\">&amp;</span><span class=\"n\">ORB_SLAM2</span><span class=\"o\">::</span><span class=\"n\">LocalMapping</span><span class=\"o\">::</span><span class=\"n\">Run</span><span class=\"p\">,</span><span class=\"n\">mpLocalMapper</span><span class=\"p\">);</span><span class=\"c1\">//开启线程\n</span><span class=\"c1\"></span>\n    <span class=\"c1\">//Initialize the Loop Closing thread and launch\n</span><span class=\"c1\"></span>    <span class=\"c1\">//新建回环检测对象\n</span><span class=\"c1\"></span>    <span class=\"c1\">//传入参数：地图，关键帧数据库，ORB词典，相机类型\n</span><span class=\"c1\"></span>    <span class=\"n\">mpLoopCloser</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"n\">LoopClosing</span><span class=\"p\">(</span><span class=\"n\">mpMap</span><span class=\"p\">,</span> <span class=\"n\">mpKeyFrameDatabase</span><span class=\"p\">,</span> <span class=\"n\">mpVocabulary</span><span class=\"p\">,</span> <span class=\"n\">mSensor</span><span class=\"o\">!=</span><span class=\"n\">MONOCULAR</span><span class=\"p\">);</span>\n    <span class=\"n\">mptLoopClosing</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"kr\">thread</span><span class=\"p\">(</span><span class=\"o\">&amp;</span><span class=\"n\">ORB_SLAM2</span><span class=\"o\">::</span><span class=\"n\">LoopClosing</span><span class=\"o\">::</span><span class=\"n\">Run</span><span class=\"p\">,</span> <span class=\"n\">mpLoopCloser</span><span class=\"p\">);</span>\n\n    <span class=\"c1\">//假如要使用显示窗口，则开启窗口显示线程\n</span><span class=\"c1\"></span>    <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"n\">bUseViewer</span><span class=\"p\">)</span>\n    <span class=\"p\">{</span>\n        <span class=\"c1\">//传入参数：this,图片显示，地图显示，跟踪对象，相机内参\n</span><span class=\"c1\"></span>        <span class=\"n\">mpViewer</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"n\">Viewer</span><span class=\"p\">(</span><span class=\"k\">this</span><span class=\"p\">,</span> <span class=\"n\">mpFrameDrawer</span><span class=\"p\">,</span><span class=\"n\">mpMapDrawer</span><span class=\"p\">,</span><span class=\"n\">mpTracker</span><span class=\"p\">,</span><span class=\"n\">strSettingsFile</span><span class=\"p\">);</span>\n        <span class=\"n\">mptViewer</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"kr\">thread</span><span class=\"p\">(</span><span class=\"o\">&amp;</span><span class=\"n\">Viewer</span><span class=\"o\">::</span><span class=\"n\">Run</span><span class=\"p\">,</span> <span class=\"n\">mpViewer</span><span class=\"p\">);</span>\n        <span class=\"n\">mpTracker</span><span class=\"o\">-&gt;</span><span class=\"n\">SetViewer</span><span class=\"p\">(</span><span class=\"n\">mpViewer</span><span class=\"p\">);</span>\n    <span class=\"p\">}</span>\n\n    <span class=\"c1\">//Set pointers between threads\n</span><span class=\"c1\"></span>    <span class=\"c1\">//跟踪、局部地图、全局地图之间的互相联系\n</span><span class=\"c1\"></span>    <span class=\"n\">mpTracker</span><span class=\"o\">-&gt;</span><span class=\"n\">SetLocalMapper</span><span class=\"p\">(</span><span class=\"n\">mpLocalMapper</span><span class=\"p\">);</span>\n    <span class=\"n\">mpTracker</span><span class=\"o\">-&gt;</span><span class=\"n\">SetLoopClosing</span><span class=\"p\">(</span><span class=\"n\">mpLoopCloser</span><span class=\"p\">);</span>\n\n    <span class=\"n\">mpLocalMapper</span><span class=\"o\">-&gt;</span><span class=\"n\">SetTracker</span><span class=\"p\">(</span><span class=\"n\">mpTracker</span><span class=\"p\">);</span>\n    <span class=\"n\">mpLocalMapper</span><span class=\"o\">-&gt;</span><span class=\"n\">SetLoopCloser</span><span class=\"p\">(</span><span class=\"n\">mpLoopCloser</span><span class=\"p\">);</span>\n\n    <span class=\"n\">mpLoopCloser</span><span class=\"o\">-&gt;</span><span class=\"n\">SetTracker</span><span class=\"p\">(</span><span class=\"n\">mpTracker</span><span class=\"p\">);</span>\n    <span class=\"n\">mpLoopCloser</span><span class=\"o\">-&gt;</span><span class=\"n\">SetLocalMapper</span><span class=\"p\">(</span><span class=\"n\">mpLocalMapper</span><span class=\"p\">);</span>\n<span class=\"p\">}</span>\n</code></pre></div><p>3 . System::TrackRGBD()的主要内容</p><p>对SLAM系统的运行状态进行判断，然后将图片送入跟踪线程进行处理！</p><p>  补充知识：</p><p>    多线程中要加锁的程序用{}括起来构成作用域。</p><div class=\"highlight\"><pre><code class=\"language-text\"> unique_lock&lt;mutex&gt; lock2(mMutexState);</code></pre></div><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-b5ef33ba5e59336446dc1946e83885cc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"607\" data-rawheight=\"259\" class=\"origin_image zh-lightbox-thumb\" width=\"607\" data-original=\"https://pic1.zhimg.com/v2-b5ef33ba5e59336446dc1946e83885cc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;607&#39; height=&#39;259&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"607\" data-rawheight=\"259\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"607\" data-original=\"https://pic1.zhimg.com/v2-b5ef33ba5e59336446dc1946e83885cc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-b5ef33ba5e59336446dc1946e83885cc_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这一部分主要是RGBD相机的主程序部分，重点分析了ORB_SLAM2::System对象的构造函数和跟踪函数，接下来将深入到跟踪线程中查看发生了什么～</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/45736044", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 0, 
+            "title": "ORB_SLAM2 RGBD代码阅读（3）-MapPoint和Frame", 
+            "content": "<p>ORB_SLAM2的主要数据类型有Frame(一帧图片)，MapPoint（地图点），KeyFrames(关键帧)，map(地图，包括关键帧和地图点)，我们看一下这些数据结构中存储了哪些内容。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一. Frame(帧)</p><p>SLAM.TrackRGBD()  -&gt;  Tracking::GrabImageRGBD()  -&gt;  mCurrentFrame 中新建了当前帧。</p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"c1\">//传入参数：灰度图像，深度图像，时间戳，ORB特征提取器，ORB词典\n</span><span class=\"c1\">//         相机内参，相机畸变，红外视频流，深度阈值（远近点）\n</span><span class=\"c1\"></span><span class=\"n\">mCurrentFrame</span> <span class=\"o\">=</span> <span class=\"n\">Frame</span><span class=\"p\">(</span><span class=\"n\">mImGray</span><span class=\"p\">,</span><span class=\"n\">imDepth</span><span class=\"p\">,</span><span class=\"n\">timestamp</span><span class=\"p\">,</span><span class=\"n\">mpORBextractorLeft</span><span class=\"p\">,</span><span class=\"n\">mpORBVocabulary</span><span class=\"p\">,</span><span class=\"n\">mK</span><span class=\"p\">,</span><span class=\"n\">mDistCoef</span><span class=\"p\">,</span><span class=\"n\">mbf</span><span class=\"p\">,</span><span class=\"n\">mThDepth</span><span class=\"p\">);</span>\n</code></pre></div><p>调用了深度图像帧的构造函数。</p><div class=\"highlight\"><pre><code class=\"language-text\">Frame::Frame(const cv::Mat &amp;imGray, const cv::Mat &amp;imDepth, const double &amp;timeStamp, ORBextractor* extractor,ORBVocabulary* voc, cv::Mat &amp;K, cv::Mat &amp;distCoef, const float &amp;bf, const float &amp;thDepth)\n    :mpORBvocabulary(voc),mpORBextractorLeft(extractor),mpORBextractorRight(static_cast&lt;ORBextractor*&gt;(NULL)),\n     mTimeStamp(timeStamp), mK(K.clone()),mDistCoef(distCoef.clone()), mbf(bf), mThDepth(thDepth)</code></pre></div><p>其中，构造函数主要进行了如下操作（假如是第一帧，还需要进行相机参数提取）：</p><div class=\"highlight\"><pre><code class=\"language-text\">mnId=nNextId++; //静态参数，用于指定帧数\n//提取各种尺度信息\nmnScaleLevels = mpORBextractorLeft-&gt;GetLevels();\n//灰度图提取ORB特征，计算关键点mvKeys,描述子mDescriptors\nExtractORB(0,imGray);\n//去畸变，通过畸变系数矫正后特征点 mvKeysU\nUndistortKeyPoints() -&gt; cv::undistortPoints(mat,mat,mK,mDistCoef,cv::Mat(),mK);\n//计算虚拟右图\nComputeStereoFromRGBD(imDepth); -&gt; mvuRight[i] = kpU.pt.x-mbf/d;\n//将提取的特征分配到网格（在网格下看关键点是否正确），可以加速匹配过程\nAssignFeaturesToGrid();</code></pre></div><p>总结：图片帧中主要存储了该帧图片的位姿（世界坐标系）mTcw、ORB特征数量N、图片的关键点（左图，右图，矫正图）、深度mvDepth、与地图点有关联的地图点mvpMapPoints、特征点是否异常mvbOutlier、当前帧mnId、下一帧id nNextId、当前帧的参考关键帧mpReferenceKF、图片的范围等信息。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>二. MapPoint(地图点)</p><p>地图点在跟踪线程进行地图相关操作时需要用到，比如：</p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"c1\">// 特征点的3D坐标（世界坐标系）  当前帧 地图\n</span><span class=\"c1\"></span><span class=\"n\">MapPoint</span><span class=\"o\">*</span> <span class=\"n\">pNewMP</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"n\">MapPoint</span><span class=\"p\">(</span><span class=\"n\">x3D</span><span class=\"p\">,</span><span class=\"n\">pKFini</span><span class=\"p\">,</span><span class=\"n\">mpMap</span><span class=\"p\">);</span>\n</code></pre></div><p>地图点的构造函数：</p><div class=\"highlight\"><pre><code class=\"language-text\">MapPoint::MapPoint(const cv::Mat &amp;Pos, KeyFrame *pRefKF, Map* pMap):\n    mnFirstKFid(pRefKF-&gt;mnId), mnFirstFrame(pRefKF-&gt;mnFrameId), nObs(0), mnTrackReferenceForFrame(0),\n    mnLastFrameSeen(0), mnBALocalForKF(0), mnFuseCandidateForKF(0), mnLoopPointForKF(0), mnCorrectedByKF(0),\n    mnCorrectedReference(0), mnBAGlobalForKF(0), mpRefKF(pRefKF), mnVisible(1), mnFound(1), mbBad(false),\n    mpReplaced(static_cast&lt;MapPoint*&gt;(NULL)), mfMinDistance(0), mfMaxDistance(0), mpMap(pMap)\n{\n    Pos.copyTo(mWorldPos);//在世界坐标下的位置\n    mNormalVector = cv::Mat::zeros(3,1,CV_32F);//平均观测视角\n\n    // MapPoints can be created from Tracking and Local Mapping. This mutex avoid conflicts with id.\n    unique_lock&lt;mutex&gt; lock(mpMap-&gt;mMutexPointCreation);\n    mnId=nNextId++;//索引\n}</code></pre></div><p>当地图点少于两次观测，则删除</p><div class=\"highlight\"><pre><code class=\"language-text\">if(nObs&lt;2) bBad=true;</code></pre></div><p>地图点的替换函数MapPoint::Replace(MapPoint* pMP)，用其他点替代该点！</p><p>尺度不变性距离：</p><div class=\"highlight\"><pre><code class=\"language-text\">mfMaxDistance = dist*levelScaleFactor;\nmfMinDistance = mfMaxDistance/pFrame-&gt;mvScaleFactors[nLevels-1];</code></pre></div><p>总结：地图点主要保存了地图点的尺度不变距离（最小距离：mfMinDistance，最大距离：mfMaxDistance）、是否是一个坏点mbBad、被观测的次数nObs 、 参考关键帧mpRefKF、最佳描述mDescriptor、被观测的平均视角mNormalVector、观测到该点的关键帧mObservations （map&lt;KeyFrame*, size_t&gt;）、世界坐标系下的位置mWorldPos</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/45588477", 
+            "userName": "卫浩", 
+            "userLink": "https://www.zhihu.com/people/90434905fbdfe61af83b6693dbc6d0ed", 
+            "upvote": 3, 
+            "title": "ORB-SLAM2 RGB-D代码阅读（2）-跟踪线程", 
+            "content": "<p>ORB-SLAM2的跟踪部分通过寻找对局部地图的特征，并且进行匹配，通过motion-only BA算法来最小化重投影误差，进行跟踪和定位。在System对象中，主要调用了两个与跟踪线程相关的函数，分别是Tracking线程的构造函数：</p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"c1\">// 传入参数：(this, ORB词典, 图片窗口, 地图窗口,地图, 关键帧数据库, 相机内参数文件, 相机类型)\n</span><span class=\"c1\"></span><span class=\"n\">mpTracker</span> <span class=\"o\">=</span> <span class=\"k\">new</span> <span class=\"n\">Tracking</span><span class=\"p\">(</span><span class=\"k\">this</span><span class=\"p\">,</span> <span class=\"n\">mpVocabulary</span><span class=\"p\">,</span> <span class=\"n\">mpFrameDrawer</span><span class=\"p\">,</span> <span class=\"n\">mpMapDrawer</span><span class=\"p\">,</span>\n                             <span class=\"n\">mpMap</span><span class=\"p\">,</span> <span class=\"n\">mpKeyFrameDatabase</span><span class=\"p\">,</span> <span class=\"n\">strSettingsFile</span><span class=\"p\">,</span> <span class=\"n\">mSensor</span><span class=\"p\">);</span>\n</code></pre></div><p>以及Tracking线程的RGBD图像处理程序：</p><div class=\"highlight\"><pre><code class=\"language-text\">cv::Mat Tcw = mpTracker-&gt;GrabImageRGBD(im,depthmap,timestamp);</code></pre></div><p>我们主要来看一下这两个函数分别进行了什么操作。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>一.  Tracking线程的构造函数</p><p>构造函数主要在提取参数以及对参数进行基本判断。</p><p>具体包括相机参数（内参数和畸变参数），ORB特征提取参数，视频帧数（用来判断重定位和关键帧插入），远近点阈值mThDepth以及深度因子mDepthMapFactor。</p><p>远近点阈值计算公式为：</p><div class=\"highlight\"><pre><code class=\"language-text\">阈值 = 红外视频流帧数 × 深度判断阈值 / 相机参数fx\nmThDepth = mbf*(float)fSettings[&#34;ThDepth&#34;]/fx;</code></pre></div><p>构造函数同时新建了ORB特征提取对象<b>mpORBextractorLeft</b>（相机为RGBD相机时只新建以下对象，相机为双目时建立了右图提取对象，单目时新建了双倍特征提取的对象）</p><div class=\"highlight\"><pre><code class=\"language-text\">//传入参数：特征数量，金字塔尺度因子，金字塔层数，网格初始特征最小值，网格调整后特征最小值\nmpORBextractorLeft = new ORBextractor(nFeatures,fScaleFactor,nLevels,fIniThFAST,fMinThFAST);</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>二. Tracking::GrabImageRGBD(im, depthmap,timestmap)函数</p><p>主要内容为彩色图像和深度图像格式变换，新建当前帧<b>mCurrentFrame</b> ，进入跟踪程序<b>Track()</b>,返回当前帧位姿</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-97acd08a5d1c481bc167b251c04ecf0a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"749\" data-rawheight=\"271\" class=\"origin_image zh-lightbox-thumb\" width=\"749\" data-original=\"https://pic3.zhimg.com/v2-97acd08a5d1c481bc167b251c04ecf0a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;749&#39; height=&#39;271&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"749\" data-rawheight=\"271\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"749\" data-original=\"https://pic3.zhimg.com/v2-97acd08a5d1c481bc167b251c04ecf0a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-97acd08a5d1c481bc167b251c04ecf0a_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>三.跟踪线程的主要函数Tracking::Track()</p><p>如果程序没有初始化，则调用相应的初始化函数（单目：MonocularInitialization() 双目或者RGBD：StereoInitialization()），如果初始化成功，则进行进一步处理，即进入论文中所提到的跟踪线程的步骤（估计位姿，判断是否加入关键帧等），最后将保存计算好的相机位姿结果。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-86a4f85e4a4ab843272e34942db0b8fd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"724\" data-rawheight=\"866\" class=\"origin_image zh-lightbox-thumb\" width=\"724\" data-original=\"https://pic2.zhimg.com/v2-86a4f85e4a4ab843272e34942db0b8fd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;724&#39; height=&#39;866&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"724\" data-rawheight=\"866\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"724\" data-original=\"https://pic2.zhimg.com/v2-86a4f85e4a4ab843272e34942db0b8fd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-86a4f85e4a4ab843272e34942db0b8fd_b.jpg\"/></figure><p>这部分代码中包含几个重要的函数，在下面我们将详细了解这些函数：</p><div class=\"highlight\"><pre><code class=\"language-text\"> StereoInitialization(); //RGBD相机和双目初始化函数\n// Local Mapping might have changed some MapPoints tracked in last frame\n\n//局部地图线程有可能已经改变了部分地图点，因此需要进行检查\nCheckReplacedInLastFrame();\n\n//三种计算初始位姿的方式\nbOK = TrackReferenceKeyFrame();//备选关键帧定位\nbOK = TrackWithMotionModel();//运动模型\nbOK = Relocalization();//重定位\n\nbOK = TrackLocalMap(); //局部地图与当前帧产生更多约束\n\n//如果需要加入关键帧，则新建关键帧\nif(NeedNewKeyFrame())\n                CreateNewKeyFrame();\n</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>四. RGBD相机/双目相机初始化函数  StereoInitialization()</p><p>由于是双目/RGBD相机，因此不需要单目相机复杂的初始化步骤。初始化的一个基本要求是该帧图像有500个以上的关键点。初始化进行了很多操作，具体见代码：</p><div class=\"highlight\"><pre><code class=\"language-text\">void Tracking::StereoInitialization()\n{\n    if(mCurrentFrame.N&gt;500)\n    {\n        // Set Frame pose to the origin\n        // 初始位姿：单位矩阵\n        mCurrentFrame.SetPose(cv::Mat::eye(4,4,CV_32F));\n\n        // Create KeyFrame\n        //创建关键帧\n        KeyFrame* pKFini = new KeyFrame(mCurrentFrame,mpMap,mpKeyFrameDB);\n\n        // Insert KeyFrame in the map\n        //将当前图片加入关键帧\n        mpMap-&gt;AddKeyFrame(pKFini);\n\n        // Create MapPoints and asscoiate to KeyFrame\n        //创建地图点并将地图点和关键帧相连\n        for(int i=0; i&lt;mCurrentFrame.N;i++)\n        {\n            float z = mCurrentFrame.mvDepth[i];\n            if(z&gt;0)\n            {\n                cv::Mat x3D = mCurrentFrame.UnprojectStereo(i);\n                MapPoint* pNewMP = new MapPoint(x3D,pKFini,mpMap);//地图点（图像点，关键帧，地图）\n                pNewMP-&gt;AddObservation(pKFini,i);//该地图点被观测\n                pKFini-&gt;AddMapPoint(pNewMP,i);//关键帧增加地图点\n                pNewMP-&gt;ComputeDistinctiveDescriptors();//地图点计算描述子（尺度不变）\n                pNewMP-&gt;UpdateNormalAndDepth();\n                mpMap-&gt;AddMapPoint(pNewMP);//地图增加地图点\n\n                mCurrentFrame.mvpMapPoints[i]=pNewMP;\n            }\n        }\n\n        cout &lt;&lt; &#34;New map created with &#34; &lt;&lt; mpMap-&gt;MapPointsInMap() &lt;&lt; &#34; points&#34; &lt;&lt; endl;\n\n        mpLocalMapper-&gt;InsertKeyFrame(pKFini);//局部地图插入关键帧\n\n        mLastFrame = Frame(mCurrentFrame);//上一帧\n        mnLastKeyFrameId=mCurrentFrame.mnId;\n        mpLastKeyFrame = pKFini;//上一个关键帧\n\n        mvpLocalKeyFrames.push_back(pKFini);//局部关键帧\n        mvpLocalMapPoints=mpMap-&gt;GetAllMapPoints();//局部地图点\n        mpReferenceKF = pKFini; //备选关键帧\n        mCurrentFrame.mpReferenceKF = pKFini; //当前帧的备选关键帧\n\n        mpMap-&gt;SetReferenceMapPoints(mvpLocalMapPoints);//地图的参考地图点\n\n        mpMap-&gt;mvpKeyFrameOrigins.push_back(pKFini); //地图的初始关键帧\n\n        mpMapDrawer-&gt;SetCurrentCameraPose(mCurrentFrame.mTcw);//显示当前地图位姿\n\n        mState=OK;\n    }\n}</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>五. 通过运动模型估计当前帧位姿TrackWithMotionModel()</p><p>首先设置当前帧的位姿（相对）与上一帧位姿相同，估计当前帧在世界坐标系下位姿：</p><div class=\"highlight\"><pre><code class=\"language-text\">mCurrentFrame.SetPose(mVelocity*mLastFrame.mTcw);//假定当前帧姿态与上一帧位姿相同</code></pre></div><p>当前帧与上一帧进行匹配（假如匹配的数量过低，扩大匹配窗口）</p><div class=\"highlight\"><pre><code class=\"language-text\">int nmatches = matcher.SearchByProjection(mCurrentFrame,mLastFrame,th,mSensor==System::MONOCULAR);//匹配点数目</code></pre></div><p>加入匹配点数量大于20,则对位姿进行优化</p><div class=\"highlight\"><pre><code class=\"language-text\">Optimizer::PoseOptimization(&amp;mCurrentFrame);//优化位姿</code></pre></div><p>丢弃异常地图点（当前帧生成的）</p><div class=\"highlight\"><pre><code class=\"language-text\"> int nmatchesMap = 0;\n    for(int i =0; i&lt;mCurrentFrame.N; i++)\n    {\n        if(mCurrentFrame.mvpMapPoints[i])\n        {\n            if(mCurrentFrame.mvbOutlier[i])\n            {\n                MapPoint* pMP = mCurrentFrame.mvpMapPoints[i];\n\n                mCurrentFrame.mvpMapPoints[i]=static_cast&lt;MapPoint*&gt;(NULL);\n                mCurrentFrame.mvbOutlier[i]=false;\n                pMP-&gt;mbTrackInView = false;\n                pMP-&gt;mnLastFrameSeen = mCurrentFrame.mnId;\n                nmatches--;\n            }\n            else if(mCurrentFrame.mvpMapPoints[i]-&gt;Observations()&gt;0)\n                nmatchesMap++;\n        }\n    }</code></pre></div><p>与地图的匹配点大于10,返回真，否则，返回假。纯定位模式下对mbVO真假进行判断！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>六.  通过参考帧估计当前帧位姿TrackReferenceKeyFrame()</p><p>计算当前帧的Bag of Words</p><div class=\"highlight\"><pre><code class=\"language-text\">mCurrentFrame.ComputeBoW();</code></pre></div><p>通过搜索BOW进行计算匹配点的数量</p><div class=\"highlight\"><pre><code class=\"language-text\">int nmatches = matcher.SearchByBoW(mpReferenceKF,mCurrentFrame,vpMapPointMatches);</code></pre></div><p>当匹配数量大于15时，认为当前帧估计位姿=上一帧，然后进行优化</p><div class=\"highlight\"><pre><code class=\"language-text\">mCurrentFrame.SetPose(mLastFrame.mTcw);\nOptimizer::PoseOptimization(&amp;mCurrentFrame);</code></pre></div><p>丢弃异常地图点（与 五采用方法相同）</p><p>当与地图的匹配数量大于10时，返回真，否则返回假！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>七. 当丢失的时候，进行全局重定位Relocalization()</p><p>关键帧数据库的作用：加速全局重定位和回环检测的速度！</p><p>全局重定位首先计算当前帧的BOW，然后在关键帧数据库中检索与当前帧匹配度较高的帧作为候选帧</p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"c1\">//取出当前帧的候选关键帧（可能匹配）\n</span><span class=\"c1\"></span> <span class=\"n\">vector</span><span class=\"o\">&lt;</span><span class=\"n\">KeyFrame</span><span class=\"o\">*&gt;</span> <span class=\"n\">vpCandidateKFs</span> <span class=\"o\">=</span> <span class=\"n\">mpKeyFrameDB</span><span class=\"o\">-&gt;</span><span class=\"n\">DetectRelocalizationCandidates</span><span class=\"p\">(</span><span class=\"o\">&amp;</span><span class=\"n\">mCurrentFrame</span><span class=\"p\">);</span>\n</code></pre></div><p>然后计算当前帧与候选关键帧的PNP匹配得到位姿和内点</p><div class=\"highlight\"><pre><code class=\"language-text\">//通过PnP(P4P RANSAC)算法计算位姿和内点，算法迭代5次\ncv::Mat Tcw = pSolver-&gt;iterate(5,bNoMore,vbInliers,nInliers);</code></pre></div><p>假如得到的内点数量小于50,需要利用最小化重投影误差进行再次优化！</p><div class=\"highlight\"><pre><code class=\"language-text\">//通过最小化重投影误差得到更多的内点\nint nadditional =matcher2.SearchByProjection(mCurrentFrame,vpCandidateKFs[i],sFound,10,100);</code></pre></div><p>假如最终找到匹配则全局定位成功，否则全局定位失败！</p><p class=\"ztext-empty-paragraph\"><br/></p><p>八. 当得到初始的位姿后，通过TrackLocalMap（）使当前帧与局部地图产生更多约束（联系）</p><div class=\"highlight\"><pre><code class=\"language-text\">UpdateLocalMap();//更新局部关键帧和地图点\nSearchLocalPoints();//寻找局部地图与当前帧的匹配</code></pre></div><p>然后判断是否有足够多的匹配点（当前帧和局部地图）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>九. 查看当前帧是否需要加入关键帧NeedNewKeyFrame(), 需要的话新建关键帧CreateNewKeyFrame()，是否需要插入关键帧的判断条件和文中的条件一致（ORB_SLAM2）</p><div class=\"highlight\"><pre><code class=\"language-text\">bool Tracking::NeedNewKeyFrame()\n{\n    if(mbOnlyTracking)\n        return false;\n\n    // If Local Mapping is freezed by a Loop Closure do not insert keyframes\n    //局部地图正忙\n    if(mpLocalMapper-&gt;isStopped() || mpLocalMapper-&gt;stopRequested())\n        return false;\n\n    const int nKFs = mpMap-&gt;KeyFramesInMap();\n\n    // Do not insert keyframes if not enough frames have passed from last relocalisation\n    //在前几帧进行了全局重定位\n    if(mCurrentFrame.mnId&lt;mnLastRelocFrameId+mMaxFrames &amp;&amp; nKFs&gt;mMaxFrames)\n        return false;\n\n    // Tracked MapPoints in the reference keyframe\n    int nMinObs = 3;\n    if(nKFs&lt;=2)\n        nMinObs=2;\n    int nRefMatches = mpReferenceKF-&gt;TrackedMapPoints(nMinObs);\n\n    // Local Mapping accept keyframes?\n    bool bLocalMappingIdle = mpLocalMapper-&gt;AcceptKeyFrames();\n\n    // Check how many &#34;close&#34; points are being tracked and how many could be potentially created.\n    //计算双目/RGBD相机的近点有多少被Track到\n    int nNonTrackedClose = 0;\n    int nTrackedClose= 0;\n    if(mSensor!=System::MONOCULAR)\n    {\n        for(int i =0; i&lt;mCurrentFrame.N; i++)\n        {\n            if(mCurrentFrame.mvDepth[i]&gt;0 &amp;&amp; mCurrentFrame.mvDepth[i]&lt;mThDepth)\n            {\n                if(mCurrentFrame.mvpMapPoints[i] &amp;&amp; !mCurrentFrame.mvbOutlier[i])\n                    nTrackedClose++;\n                else\n                    nNonTrackedClose++;\n            }\n        }\n    }\n    //被跟踪近点小于100,没有被跟踪近点大于70\n    bool bNeedToInsertClose = (nTrackedClose&lt;100) &amp;&amp; (nNonTrackedClose&gt;70);\n\n    // Thresholds\n    float thRefRatio = 0.75f;\n    if(nKFs&lt;2)\n        thRefRatio = 0.4f;\n\n    if(mSensor==System::MONOCULAR) //单目相机\n        thRefRatio = 0.9f;\n\n    // Condition 1a: More than &#34;MaxFrames&#34; have passed from last keyframe insertion\n    //有很长时间没有插入关键帧了\n    const bool c1a = mCurrentFrame.mnId&gt;=mnLastKeyFrameId+mMaxFrames;\n    // Condition 1b: More than &#34;MinFrames&#34; have passed and Local Mapping is idle\n    //局部地图线程处于空闲状态\n    const bool c1b = (mCurrentFrame.mnId&gt;=mnLastKeyFrameId+mMinFrames &amp;&amp; bLocalMappingIdle);\n    //Condition 1c: tracking is weak\n    //跟踪到的内点较少\n    const bool c1c =  mSensor!=System::MONOCULAR &amp;&amp; (mnMatchesInliers&lt;nRefMatches*0.25 || bNeedToInsertClose) ;\n    // Condition 2: Few tracked points compared to reference keyframe. Lots of visual odometry compared to map matches.\n    //匹配到的内点数是参考关键帧的0.75\n    const bool c2 = ((mnMatchesInliers&lt;nRefMatches*thRefRatio|| bNeedToInsertClose) &amp;&amp; mnMatchesInliers&gt;15);\n\n    //局部地图不处于空闲状态，需要中止局部地图线程的BA，插入关键帧\n    if((c1a||c1b||c1c)&amp;&amp;c2)\n    {\n        // If the mapping accepts keyframes, insert keyframe.\n        // Otherwise send a signal to interrupt BA\n        if(bLocalMappingIdle)\n        {\n            return true;\n        }\n        else\n        {\n            mpLocalMapper-&gt;InterruptBA();\n            if(mSensor!=System::MONOCULAR)\n            {\n                if(mpLocalMapper-&gt;KeyframesInQueue()&lt;3) //小于3\n                    return true;\n                else\n                    return false;\n            }\n            else\n                return false;\n        }\n    }\n    else\n        return false;\n}</code></pre></div><p>新建关键帧就是新建一个KeyFrame(),假如采用的是双目或者RGBD，需要新建100个近点，当前帧变为上一帧，然后结束。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>Tracking线程主要是目的是估计当前帧的位姿，然后判断是否插入关键帧等，最主要的函数是Track()，但具体的实现需要深入到每个函数去查看，我的思路也是如此，接下来看一下ORB_SLAM2中的两个基本单元MapPoint和Frame的信息～</p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>想问问你的图是用什么软件画的呢</p><p><br></p><a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-cb8443f07a41298e45191cef11b90fd2.gif\" data-width=\"\" data-height=\"\">[干杯]</a>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1029056951879147520"
+}

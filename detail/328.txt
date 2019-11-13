@@ -1,0 +1,1488 @@
+{
+    "title": "孙运耀的数码后宫", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/liu-mao-jin", 
+        "https://www.zhihu.com/people/lily2518", 
+        "https://www.zhihu.com/people/tian-chang-5-62", 
+        "https://www.zhihu.com/people/wei-feng-tang-tang-18-71", 
+        "https://www.zhihu.com/people/la-la-la-81-54-83", 
+        "https://www.zhihu.com/people/yu-zi-jiang-58-47", 
+        "https://www.zhihu.com/people/yingxin-li", 
+        "https://www.zhihu.com/people/stone-72", 
+        "https://www.zhihu.com/people/xiao-shi-59-66-10", 
+        "https://www.zhihu.com/people/wai-po-qiao-po", 
+        "https://www.zhihu.com/people/fann-yang", 
+        "https://www.zhihu.com/people/sheng-gao", 
+        "https://www.zhihu.com/people/yang-chen-62-97", 
+        "https://www.zhihu.com/people/kernzhu", 
+        "https://www.zhihu.com/people/lyhb-32", 
+        "https://www.zhihu.com/people/si-zhi-ruo-yu", 
+        "https://www.zhihu.com/people/dai-pai-45", 
+        "https://www.zhihu.com/people/he-yi-you-wei-78", 
+        "https://www.zhihu.com/people/mor-36-32", 
+        "https://www.zhihu.com/people/vrips", 
+        "https://www.zhihu.com/people/li-lin-cong-43-34", 
+        "https://www.zhihu.com/people/dou-hui-39", 
+        "https://www.zhihu.com/people/chen-xian-97-94-86", 
+        "https://www.zhihu.com/people/yang-yimao-60", 
+        "https://www.zhihu.com/people/dang-wo-lao-liao-2-34", 
+        "https://www.zhihu.com/people/lu-chang-38-84", 
+        "https://www.zhihu.com/people/bi-yao-zhi-e-35", 
+        "https://www.zhihu.com/people/yu-si-zheng-yi-pin-han-lin-da-xue-shi", 
+        "https://www.zhihu.com/people/bao-min-jie-44", 
+        "https://www.zhihu.com/people/kiss-wen-23", 
+        "https://www.zhihu.com/people/master-65-20", 
+        "https://www.zhihu.com/people/qing-yu-56-85", 
+        "https://www.zhihu.com/people/kang-shi-fu-48-53", 
+        "https://www.zhihu.com/people/sophiawu100", 
+        "https://www.zhihu.com/people/api2004", 
+        "https://www.zhihu.com/people/mu-mu-shu-30", 
+        "https://www.zhihu.com/people/mhz-70", 
+        "https://www.zhihu.com/people/dian-feng-kai-ge", 
+        "https://www.zhihu.com/people/wu-xiao-bo-74", 
+        "https://www.zhihu.com/people/javris-84", 
+        "https://www.zhihu.com/people/dad-14-30", 
+        "https://www.zhihu.com/people/yang-guang-54-55-88", 
+        "https://www.zhihu.com/people/wang-han-yang", 
+        "https://www.zhihu.com/people/koppie-79", 
+        "https://www.zhihu.com/people/org.println", 
+        "https://www.zhihu.com/people/bai-xin-3-58", 
+        "https://www.zhihu.com/people/bao-zi-ma-15-28", 
+        "https://www.zhihu.com/people/yuan-wang-93-71", 
+        "https://www.zhihu.com/people/he-ping-de-da-xiong-mao", 
+        "https://www.zhihu.com/people/ren-cun-shan-shu", 
+        "https://www.zhihu.com/people/wang-bo-91-88", 
+        "https://www.zhihu.com/people/che-mu-xiang", 
+        "https://www.zhihu.com/people/niu-jiao-san-zhao-hui-zhuan-wan", 
+        "https://www.zhihu.com/people/huang-yun-hao-18", 
+        "https://www.zhihu.com/people/yang-kai-lin-86-46", 
+        "https://www.zhihu.com/people/wang-liao-52", 
+        "https://www.zhihu.com/people/helipengtony", 
+        "https://www.zhihu.com/people/hao-ying-zhi-20-32", 
+        "https://www.zhihu.com/people/lord-lzh", 
+        "https://www.zhihu.com/people/ding-ding-50-45", 
+        "https://www.zhihu.com/people/cocoasprite", 
+        "https://www.zhihu.com/people/menger", 
+        "https://www.zhihu.com/people/nanfengdaren", 
+        "https://www.zhihu.com/people/long-shi-jing-4", 
+        "https://www.zhihu.com/people/gu-du-lang-zi-8-24", 
+        "https://www.zhihu.com/people/wo-shi-shui-wo-shi-wo-zi-ji", 
+        "https://www.zhihu.com/people/xing-xing-41-32-68", 
+        "https://www.zhihu.com/people/xiao-wen-xiao-zhi-69", 
+        "https://www.zhihu.com/people/fan-pei-yuan-62", 
+        "https://www.zhihu.com/people/fh-li-54", 
+        "https://www.zhihu.com/people/zhu-lei-8-92", 
+        "https://www.zhihu.com/people/han-kai-3", 
+        "https://www.zhihu.com/people/ping-zhong-shui-mu", 
+        "https://www.zhihu.com/people/sheng-ru-hong-liu", 
+        "https://www.zhihu.com/people/liu-hai-67-13", 
+        "https://www.zhihu.com/people/huai-chuai-dou-bi-meng-xiang-qing-nian", 
+        "https://www.zhihu.com/people/la-ke-59-88", 
+        "https://www.zhihu.com/people/stone-moses", 
+        "https://www.zhihu.com/people/sylvia-tsao-97", 
+        "https://www.zhihu.com/people/wang-wei-shi-52", 
+        "https://www.zhihu.com/people/sailfishc", 
+        "https://www.zhihu.com/people/he-yu-meng-4", 
+        "https://www.zhihu.com/people/feng-lan-25-30", 
+        "https://www.zhihu.com/people/wei-wei-34-41", 
+        "https://www.zhihu.com/people/farris", 
+        "https://www.zhihu.com/people/GavinPal", 
+        "https://www.zhihu.com/people/gu-ma-30", 
+        "https://www.zhihu.com/people/xuwl", 
+        "https://www.zhihu.com/people/isabellayeehar", 
+        "https://www.zhihu.com/people/feng-zhi-you-shui", 
+        "https://www.zhihu.com/people/sakei-67", 
+        "https://www.zhihu.com/people/han-yu-3-64", 
+        "https://www.zhihu.com/people/nei-shuang-yan", 
+        "https://www.zhihu.com/people/yangdake", 
+        "https://www.zhihu.com/people/BryanYau", 
+        "https://www.zhihu.com/people/shui-ping-zhi-zi", 
+        "https://www.zhihu.com/people/da-xia-95-40", 
+        "https://www.zhihu.com/people/di-tong", 
+        "https://www.zhihu.com/people/zhang-tan-79-70", 
+        "https://www.zhihu.com/people/da-yang-20", 
+        "https://www.zhihu.com/people/liang-pei-xing", 
+        "https://www.zhihu.com/people/jin-ceng-qi", 
+        "https://www.zhihu.com/people/ming-yun-xiao-88", 
+        "https://www.zhihu.com/people/fen-bai-dai-lu", 
+        "https://www.zhihu.com/people/zhao-hui-ting-41", 
+        "https://www.zhihu.com/people/kuanyu-li"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/86428298", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 4, 
+            "title": "大疆 Mavic 2 Zoom（御2变焦版）上手体验测评", 
+            "content": "<p>各位好，我拿到大疆Mavic 2 Zoom已经有一段时间了，在这段时间里我带它去了很多地方，也拍摄了很多令我满意的素材。在我使用的这段时间里，对于这台机器，或者对于航拍本身，我都有一些自己的感想，在这里和大家分享一下。</p><p>我想和大家聊的第一个问题就是，我们为什么需要航拍。作为一种全新的拍摄方式，航拍在拍摄中为我们提供了更多的可能性，举个例子，如果我们要拍一个城市，那么我们就很容易拍出千篇一律的游客照，但如果使用航拍的话，则可以让作品更有新意。同时航拍也为我们提供了讲故事的另一种方式。使用航拍进行运镜、拍摄，我们可以更好的达到某一种效果。</p><p>大疆Mavic 2分为Zoom和Pro两个版本，我拿到的是可变焦的Zoom版本，Pro版本内置了哈苏H1DC相机，有着更好的画质和色彩管理系统。但我更喜欢Zoom版本的变焦系统，这可以为航拍创作中提供了更多的可能性。同时继承了Mavic系列可折叠的机身，我们可以很轻松的把它放在包里，这很大程度上提高了我们创作的热情。</p><p>我们再来说一下Zoom的变焦系统，它可以提供24mm-48mm的无损变焦，但我在后期回看素材时总感觉无人机在调到更大的焦距时会损失一部分画质。当然这可能是我的错觉。我很喜欢Zoom自带的希区柯克式变焦，它可以一边后退一边调焦，实现主体比例不变、背景变化的效果。我们当然可以用其他无人机拍摄后后期处理出同样的效果，但是这种无损变焦的方式可以最大程度的保证画面不被裁减、画质不被压缩。长焦距的加入可以更多限度的压缩背景，让画面实现独特的效果。同时对于危险、不易靠近的物体，我们也可以使用长焦进行远处拍摄，最大限度的保证了飞行的安全。</p><p>Mavic 2 Zoom并不支持拍摄D-log模式，但它可以拍摄依然有后期处理空间的D-cinelike模式，对于不会调色，只愿意套Luts的我来说，这显然已经够用。我一般拍摄普通模式，然后套一个风格化的Lut。同时它最高支持4K 30P的录制能力，这为后期视频提供了更多的裁剪空间，在实际成片中，Mavic 2 Zoom也能有着不错的效果。</p><p>对于航拍设备来说，可操纵性也是很关键的指标，这直接决定了航拍设备的安全性。Mavic 2在前方、后方、侧面、下方均配备了摄像头避障系统，这当然不是说我们可以随便的操作设备，我有一次在拍摄中不小心进入了一个工地，无人机险些撞入旁边的吊楼，这时避障系统就发挥了它的作用为我及时的进行了刹车，避障系统为航拍提供了安全的意外保障，它确实降低了操作难度，但是飞手自身的小心谨慎和技术能力也至关重要。</p><p>Mavic 2系列提供了最高31分钟的飞行时间，在实际使用中，安全飞行时间应该是25分钟，因为我们要给飞行器返航预留出一定的时间。25分钟的飞行时间一般是够用的，但是如果想拍摄出一个成熟的视频，那么建议多准备几块电池，因为一块电池确实经常用意犹未尽的感觉。Mavic 2官方宣称的最长遥控距离为八公里，这当然是最为理想的遥控距离，在日常飞行中由于各种信号的干扰导致遥控距离会不断地缩短，我一般的飞行高度大约为150米，在飞行过程中我很少注意它的飞行距离，不过Mavic 2的连接性是不用担心的，在一般的飞行中中Mavic 2很少出现失联的情况，同时它可以很稳定地进行1080P的图传。</p><p>我说了这么多，你们可能认为Mavic 2 Zoom已经是一台完美的飞行器，但它并不是这样，它也有很多缺点，只不过这些缺点并不会很影响使用，下面我会详细阐述一下。</p><p>第一个问题就是它的夜景摄像能力，Mavic 2 Zoom使用了1/2.3寸的画幅，这并不能提供很棒的夜景能力。Mavic 2 Zoom在夜间拍摄的素材噪点特别多，我认为属于不可用的等级。据说Mavic 2 Pro有着更好的夜景记录能力，对夜间拍摄有需求的朋友建议入手Mavic 2 Pro。</p><p>第二个问题就是Mavic 2 Zoom在拍摄中时常遇到跳帧的现象，我的拍摄参数为4K 60P的普通模式，素材拍摄完毕进行回放时会发现素材比较卡顿，运镜也比较卡顿，这个问题从我使用第一代Mavic Pro延续至今，所以这个也有可能是我自身拍摄的问题。</p><p>第三个问题是Mavic 2 Zoom的色彩科学，使用普通模式进行拍摄，它的色彩有时会出现断层、泛白的现象，同时饱和度较低，需要自行调色或者套用Lut才能用不错的效果。使用D-cinelike模式可能会改善这个问题，但一般的用户是不会使用这个模式的，所以我希望大疆能够改善一些Mavic 2 Zoom的色彩科学。</p><p>同时，我还希望下一代Mavic的体积能够再小一点，现在当然已经控制在了一个非常可观的体积，但是我还是希望大疆能够再次自我突破，带来更Mavic的产品。</p><p>Mavic 2系列是否值得购买？我认为是值得的，它不是必需品，所以更适合经常旅游、手里有闲钱的朋友去购买。我也看到了很多朋友使用Mavic 2系列拍摄出不错的作品，如果你看了这篇文章决定要购买，我还是要劝你在思考一下，因为航拍视角固然美好，但是在过了对于新产品的探索过程后我们还能继续保留用它进行创作的激情吗？这个问题，我们应该好好问一下自己。</p>", 
+            "topic": [
+                {
+                    "tag": "无人机（UAV）", 
+                    "tagLink": "https://api.zhihu.com/topics/19604166"
+                }, 
+                {
+                    "tag": "Mavic 御", 
+                    "tagLink": "https://api.zhihu.com/topics/20062040"
+                }, 
+                {
+                    "tag": "DJI 大疆创新", 
+                    "tagLink": "https://api.zhihu.com/topics/20004433"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/85315636", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 2, 
+            "title": "浅谈  iPhone 11 的摄影系统", 
+            "content": "<p> 各位好，我拿到iPhone 11 Pro Max已经有一段时间，我也用它拍摄了很多照片。相机是本次iPhone升级的一个重点，经过了一段时间的探索，我也对这个影像系统有了一定的认知，今天和大家分享一下。</p><p> 先说总结：今年iPhone的影像系统发挥十分稳定，是目前的第一梯队，补齐了很多短板，但也有一些不足。</p><p><b>超广角</b></p><p> 这次的iPhone全系加入了超广角镜头，查阅相关参数，发现这是一枚等效13MM、光圈为F2.4的超广角镜头，在实际表现中，这颗超广角镜头的成像素质谈不上出色，准确的说是勉强及格。在日间，第一感觉并没有和主摄像头拉开差距，但缺失了很多细节。而在夜晚，由于更大视角、更小光圈的缘故，这颗超广角镜头与主镜头形成了较大的亮度差，有些影响体验。而在畸变方面，这颗镜头控制的并不算出色，有着较强的畸变。</p><p> 但不可否认的是，超广角镜头的加入提供了更多的创作空间，使得很多创意可以得到更好的发挥。我很喜欢这颗镜头，因为它更多的是提供了一种全新的创作语言。</p><p> 值得一提的是，这次的前置摄像头也加入了一定的广角：当你把iPhone横置时，前置广角会自动启动。它可以让拍摄主体变的更小，这很棒。遗憾的是并不支持视频录制模式和人像模式。</p><p><b>多镜头协作</b></p><p> 多镜头协作主要体现于以下几点：超取景框取景、无缝变焦、多镜头同时摄录。</p><p> 我们用之前的iPhone拍照时，屏幕上下会有比较显眼的黑边。而是使用这一代iPhone进行拍照，它的黑边会呈现半透明状，并无缝显示主像头取景外的一些画面：这是由超广角镜头呈现的。也就是说，当你拿起iPhone 11系列使用广角镜头拍照时，超广角镜头也在工作，利用算法拼接，为画面上下部分带来无缝的连接以便你后期更好的进行裁剪、构图。举个例子，当你拍照发现有些重要的元素正好处于画面之外时，以往束手无策的你这次可以通过超广角带来的画面以重新呈现你要表达的画面。遗憾的是由于超广角镜头天然存在的畸变、亮度差问题，该模式只能在拍远景、拍摄亮度较好的情况下得以激活。</p><p> 这次iPhone的三枚镜头同时覆盖了等效13MM-52MM的焦距，并最高实现10倍变焦。变焦时在进行个镜头直接的切换时，我们会发现它们之间的切换是否顺滑，以至于会给人这是一枚镜头的错觉。iPhone的三枚镜头在变焦时有着相同的色温、曝光，这很棒。但坦白来讲，但我们进行镜头切换、变焦时，仍然可以发现切换的痕迹，只是不那么明显而已。</p><p> 利用NOMO、FiLMiC Pro等软件，我们可以同时调用iPhone的两枚，这项功能支持iPhone Xs及以后的设备。这也为我们在拍摄时提供更多的创作空间以发挥创意。</p><p><b>人像模式</b></p><p> 升级到iOS 13后，人像模式多了「高调单色光」的拍摄模式，这很棒，并且抠图更加精准。</p><p> 值得一提的是，iPhone 11 Pro系列可以使用广角模式进行人像模式的拍摄，就像XR那样。也就是说现在人像模式支持了广角、长焦两枚镜头，同时11系列的广角镜头均对物体、宠物等进行了人像模式的支持。</p><p><b>Deep Fusion</b></p><p> Deep Fusion是利用A13 Bionic强大的算力，在用户按下快门的前后一段时间分别拍摄4张照片，加上按下快门共9张照片以某种方式合并形成最终为2400万像素的成片。这一切都是自动的，并在即将发布的iOS 13.2中正式启用，这是很棒的功能。与智能HDR不同，该功能的实现更多的是依靠SOC以提供更多的算力，最终形成更高的解析力。</p><p> 我第一时间将我的iPhone 11 Pro Max升级到了13.2开发者测试版，与iPhone XS Max对比，有了Deep Fusion加持的iPhone 11 Pro Max在解析力方面确实要更好一些。遗憾的是该功能并不针对超广角镜头开放。</p><p><b>Night Mode</b></p><p> 这一代iPhone终于有了夜景模式（Night Mode），与一众Android不同的是，iPhone的夜景模式更加顺滑，并且自动开启。</p><p> 我一直觉得所谓夜景模式并不只是单纯的「将夜晚拍成白天」，幸运的是Apple.也这么认为，所以在iPhone 11的夜景模式中，所呈现的成片并不会像华为P30 Pro那样提升亮度，而是提升可见度。我更愿意将iPhone的夜景模式当成「颜色修正模式」。即不改变环境的亮度，同时使颜色更加真实。</p><p> iPhone的夜景模式有个很有意思的细节，首先它能自动识别周围环境并开启夜景模式，其次在自动开启夜景模式后，取景框内的亮度也就是最终成片的亮度，并且当iPhone进行夜景模式长曝光时，画面会有一个由暗到亮的一个渐变的变化，这是一些细节，也是Android所有厂商缺失的细节。</p><p> 遗憾的是，iPhone的夜景模式并不支持超广角镜头，这是一个很大的遗憾。</p><p><b>摄像</b></p><p> iPhone一直是手机摄像的标杆，这次iPhone的进步也是巨大的，主要是两个方面的提升：4K扩展动态范围、增强稳定性。</p><p> iPhone 7开始就已经支持4K视频的录制，iPhone X开始支持4K 60P的录制，这次的iPhone 11系列仍然支持最高4K 60P的录制，但加入了扩展的动态范围。我们使用iPhone Xs及以下手机进行4K 60P的录制时，在夜晚通常会出现一片漆黑的情况，这是不可用的素材。而在新一代的iPhone中，由于扩展动态范围、4K HDR录制的加持，录制的画面可以更多的呈现细节，同时提升亮度，我觉得这是很了不起的一点。</p><p> 这次iPhone的视频录制稳定性可以说是很棒了，以4K 60P的参数进行拍摄，在走动拍摄时已经不会像上一代iPhone那样有着很强的晃动，这一代的iPhone在走路时更多的是「呼吸感」，我甚至觉得这一代的iPhone已经不再需要稳定器，直接拍摄就是稳定性不错的素材。虽然不能和部分使用画质较低的超广角进行算法稳定的手机进行比较，但使用广角录制、尽量减少裁切的iPhone，取得了画质、稳定性双方面的均衡。</p><p><b>前置慢动作</b></p><p> 这次的iPhone加入了前置慢动作拍摄模式，这很酷，但是我一般用不到…</p><p><b>遗憾</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p> 超广角镜头的夜间成像画质不尽人意，同时不支持Deep Fusion和夜景模式的加持，这很程度上限制了超广角镜头的发挥。</p><p> 前置摄像头提供了更广角拍摄，这很棒。但不支持人像模式和视频录制。如果可以的话，在视频录制加上广角，就会变的很棒。</p><p> 视频录制时如果录制4K的视频，不支持各镜头之间的切换，如果是1080P的话就可以进行无缝切换。</p><p> iPhone 11的升级可圈可点，但总有一些遗憾让我们觉得差了点什么。这或许是有意为之，又或是技术限制，虽然无伤大雅，但总让我们觉得，或许可以做得更好？</p>", 
+            "topic": [
+                {
+                    "tag": "摄影", 
+                    "tagLink": "https://api.zhihu.com/topics/19551388"
+                }, 
+                {
+                    "tag": "iPhone", 
+                    "tagLink": "https://api.zhihu.com/topics/19550292"
+                }, 
+                {
+                    "tag": "iPhone 摄影", 
+                    "tagLink": "https://api.zhihu.com/topics/19893604"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Phone", 
+                    "userLink": "https://www.zhihu.com/people/3f718a467b09b96621f5034f73d3bbf6", 
+                    "content": "我想问问你，设置，相机，格式，里面，你用高效，还是兼容性最佳？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "兼容性最佳～", 
+                            "likes": 0, 
+                            "replyToAuthor": "Phone"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/78564185", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 0, 
+            "title": "不止「稳定」 — 大疆 DJI OSMO Mobile 3上手体验", 
+            "content": "<p> 2019年8月14日，大疆毫无征兆的发布了旗下最新手机稳定器—OSMO Mobile 3。当时我在去南京的路上，到达南京，前往DJI直营店顺利拿到了一台零售机。再经过短暂的体验之后，写下了这篇体验报告。</p><p> 在外观方面，Mobile 3和Mobile 2设计相似，同是深灰色的背面，但也有很多不同。比如可以全新的倒三角结构和可以折叠的机身。这些我会在下文详细说明。</p><p> 稳定器的本职工作就是能帮助拍摄者拍摄出稳定的画面。Mobile 3在这一点上做的十分出色，从承重压力上来看，208克的iPhone XS Max可以很轻松的调平使用。从调平上看，这次你只需挪动手机位置，不需要调整各种卡扣就可以完成调平，降低了使用门槛。同时这次Mobile 3使用了与如影S系列相似的三角结构：手机装上后并不垂直于云台，这也就意味着你可以在稳定的同时使用OSMO自带的USB接口给手机进行供电。</p><p> Mobile 3给我的第一感觉是：十分平滑。这种平滑主要表现在云台开机、云台移动中。我之前使用的是智云Smooth Q，它也是十分出色的稳定器，在稳定方面两者比较类似，但是Mobile 3明显要更加顺滑，这种区别就像是60Hz与144Hz之间的对抗，前者够用，后者更好。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-90d53e1d3dd923e208175c0238bbdf25_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-90d53e1d3dd923e208175c0238bbdf25_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1920&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1080\" data-rawheight=\"1920\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic2.zhimg.com/v2-90d53e1d3dd923e208175c0238bbdf25_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-90d53e1d3dd923e208175c0238bbdf25_b.jpg\"/></figure><p> Mobile 3与以往的产品最大的不同就是它能够像Mavic一样折叠，这也就意味着它能够极大程度地缩小自己的体积，同时也解决了稳定云台的通病—不实用时经常胡乱摆动，难以收纳。Mobile 3折叠后和仅比手机大一圈，可以很轻松的放进包里。同时这次有了卡扣设计，也就是说在不使用云台时也不必担心它胡乱摆动，解决了稳定云台很大的痛点。</p><p> Mobile 3也支持了使用DJI MIMO软件控制，也就是说现在DJI MIMO已经可以控制OSMO全系列。这次的物体跟踪是一个亮点，在实际使用中确实能够更好的拍摄物体，完成环绕拍摄。它的逻辑和如影SC相同：先在取景器上为跟踪物体画框，软件识别后即可开始跟踪。这时候无论怎么移动云台，跟踪物体总会出现在画面上。同时这次的MIMO还带来了Story故事模式，软件自定了很多模版，使用模版只需控制好时间即可拍摄，它可以实现旋转拍摄等众多拍摄效果，这种模式降低了使用门槛，使用者只需设置模版根据提示进行拍摄即可，极大的增强了云台的可玩性。</p><p> 这次的Mobile 3在稳定器后面，也就是握持中食指的位置加入了全新的按钮，通过这个按钮操纵者可以实现运动模式的开启与关闭：短按下后持续按住可开启运动模式，这时候的云台以高灵敏度的模式去跟踪更快的物体。松开后则自动切换为普通模式。目前尚不知晓DJI是否会自定义该按键为其他功能。</p><p> 同时，这次的Mobile 3采用了Type-C的充电接口（Mavic 2用户表示强烈不满），包装内还赠送了一根Type-C的充电线。如果非要说缺点的话，这次的Mobile 3并没有把底部做平，如果需要拍摄延时摄影的话，可能需要三脚架的加持。</p><p> 这次的Mobile 3的售价为699元。可以说很值得购买了。但很多朋友反映它是吃灰神器，所以各位在购买之前一定要思考清楚自己是否真的需要稳定云台的加持来拍摄作品。我的建议是，如果你想让自己的视频流畅性更高一些，同时也不觉得每次拍摄拿出云台这个事情是个累赘，那么我推荐你购买Mobile 3，因为它真的好用。如果你一般不怎么拍视频，那就不怎么建议入手这个吃灰神器。</p>", 
+            "topic": [
+                {
+                    "tag": "DJI 大疆创新", 
+                    "tagLink": "https://api.zhihu.com/topics/20004433"
+                }, 
+                {
+                    "tag": "大疆 Osmo Mobile 3", 
+                    "tagLink": "https://api.zhihu.com/topics/20776464"
+                }, 
+                {
+                    "tag": "灵眸（OSMO）", 
+                    "tagLink": "https://api.zhihu.com/topics/20028306"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "一木", 
+                    "userLink": "https://www.zhihu.com/people/431e4faa20dc177776daabb3bf3c0b9a", 
+                    "content": "真正的缺点是俯仰拍摄死角太大，手柄需要基本保持垂直状态才可以", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "yHunter", 
+                            "userLink": "https://www.zhihu.com/people/97b689fbbca293f8687e81ab6f76f84c", 
+                            "content": "新款和智云smooth4谁更适合拍微电影啊？", 
+                            "likes": 0, 
+                            "replyToAuthor": "一木"
+                        }, 
+                        {
+                            "userName": "岩崎燕", 
+                            "userLink": "https://www.zhihu.com/people/d4958cafe9d1b91ffb9bec1670dd7980", 
+                            "content": "osmo3 智云适合萌新小白，但是对安卓这个儿子不好", 
+                            "likes": 0, 
+                            "replyToAuthor": "yHunter"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "储艺璇", 
+                    "userLink": "https://www.zhihu.com/people/a0edc635a005eaea513a85aa77946219", 
+                    "content": "想知道他和smooth4比哪个更稳", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Anno Roland", 
+                    "userLink": "https://www.zhihu.com/people/553410f5de5b64c4b5cd3c4f99322abf", 
+                    "content": "226g的11 Pro Max我很慌，还有几个小时快递就到了，现在疯狂的查承重。200±30不够啊", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "同11pm 带上保护套后有点不稳，我也不知道咋办了…", 
+                            "likes": 0, 
+                            "replyToAuthor": "Anno Roland"
+                        }, 
+                        {
+                            "userName": "Anno Roland", 
+                            "userLink": "https://www.zhihu.com/people/553410f5de5b64c4b5cd3c4f99322abf", 
+                            "content": "我到手了，226g+纯金属的仅边框大概250g了。还算稳，主要是平衡，大概界限在lock键下面3mm，然后左右移动手机确保两个夹子伸出的长度相等。我平衡有1°偏差，目前大疆正在更新手动横滚的调平功能，mimo真的不太好用，还不能直播", 
+                            "likes": 0, 
+                            "replyToAuthor": "IMSTE"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/76660249", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 1, 
+            "title": "大学生笔记本选购指南：我们需要什么样的电脑？", 
+            "content": "<p> 又是一年一度的开学季，即将进入大学的同学们又一次面临一个问题，即：我们究竟需要一台什么电脑？</p><p> 这绝对是一个引人深思的问题。一台电脑，决定了我们四年能做什么，或是不能做什么。这时候同学们或许就会感到迷茫，那么，我们究竟应该如何选择电脑？</p><p><b>我们为什么需要笔记本？</b></p><p> 首先，你的大学专业、所学习的课程都离不开笔记本，与高中不同，我们在大学中无论什么专业，都需要记笔记或完成各种项目，所以笔记本是不可缺少的。</p><p> 同时，一台笔记本电脑能够极大幅度的提升办事效率，由于鼠标、高运算能力的加持，我们可以用笔记本电脑做更多的事。</p><p> 在以后的工作中，我们也离不开一台电脑，因为没有人会常用手机办公。</p><p><b>我们需要什么样的笔记本电脑？</b></p><p> 我们要先了解一下笔记本电脑的种类：轻薄本、游戏本、轻薄性能本。</p><p> 轻薄本的核心就是「轻薄」，它易于携带，可以很自然的塞进我们的包里。也正是因为轻薄本的特点，导致了这些笔记本通常不会有更好的性能。但它的便携性、移动性真的强，适合大学从事文字等专业、对笔记本性能没有太高要求的同学购买。</p><p> 游戏本是高性能的代名词，游戏本的性能甚至可以比肩台式电脑。但由于游戏本有着更好的配置，导致了它们在便携性上不尽人意，他们通常有着厚重的外观与重量。可以协助我们更高效率的完成事情。需要注意的是游戏本并不是打游戏的代名词，而是高性能的代名词。适合大学从事计算机计算、影视后期剪辑等对性能有要求的同学购买，但是在购买之前，一定要问好自己是否愿意在接下来的大学四年，背着厚重的游戏本跑遍整个校园？</p><p> 轻薄性能本，顾名思义，它是轻薄本的进化，通过尽可能高的配置让笔记本拥有更好的性能，它的性能虽然不如游戏本，但是它却有着更薄的机身和大部分专业都能驾驭住的性能。这是目前的主流，也是我更推荐大家去购买的笔记本种类。</p><p> 了解完笔记本的种类，我们需要什么样的笔记本电脑？</p><p> 首先记住一个原则：按需购买。</p><p> 我们购买笔记本电脑常见的一个误区就是“性能最大化”，即为了CPU、显卡的性能可以不惜一切代价。其实这是十分错误的做法。我们需要的是一台全面的、均衡的笔记本电脑。我们还要提前预知自己的大学究竟更注重于什么，即自己更需要笔记本的哪个方面，比如文字工作者，笔记本键盘手感则显得十分重要。对于设计师来说，一块屏幕素质领先的屏幕则十分重要。</p><p> 这时候很多朋友会有一个疑问：我需要一台性能笔记本电脑，但我又不想背着重重的笔记本电脑跑来跑去怎么办？我的建议是在宿舍组转一台台式机，而日常则配备一台配置不高轻薄本。关于预算的问题，其实这与一台游戏笔记本差不了多少。</p><p><b>我们应该如何选择笔记本？</b></p><p> 再次强调原则：按需购买。</p><p> 并且，尽量不要去实体店购买，因为实体店购买的话价格会贵一些，同时会有猫腻。我当然不能以偏概全，只是以目前实体店的环境来看，确实不是笔记本购买的合适场所。所以我更推荐大家去京东、苏宁等知名品牌购买，他们还提供七天无理由退换货，也给了自己选择的权利。</p><p> 从事文科专业，文字类方面的专业的同学，建议选择轻薄本。从事理科相关专业的同学们推荐使用游戏本。而编导、传媒等专业的同学建议选择轻薄性能本。从事设计、绘画等方面的同学建议对屏幕的素质要求高一些。</p><p> 很多同学可能会对「屏幕素质」这个词比较好奇，它指的就是电脑屏幕的显示效果。这关系到分辨率、可视角度、色域等方面。这是一个很大的问题，不建议各位了解，我以后会出一篇这样的文章。而在这篇文章里，我会有「好」与「不好」来形容屏幕素质。</p><p> 我们还需要考虑笔记本的什么因素？做工、品控、售后，这些都是要考虑的点，因为它们也直接影响着笔记本的使用体验。</p><p> 在笔记本的选择方面，由于各种配置过于复杂，所以我决定写一个清单，我根据价格进行排序与分类，因为轻薄本和轻薄性能本的性能差距只是在价格上，即价格越贵性能越好。所以我将两者合在了一起推荐。而游戏本则单独推荐。</p><p><b>轻薄本推荐部分</b></p><p> 荣耀MagicBook 2019，参考价格：3999。它的基本配置为：R5-3500u，8G内存，256G硬盘，1080P屏幕，配备指纹识别。这是一款性价比极高的电脑，它有着这个价位的最强性能。搭载指纹识别也是它的亮点。各方面都表现比较均衡。配置不算特别优秀，但也是目前主流配置。推荐大学从事文字工作方面的同学购买。而在缺点方面，由于价格的原因这款笔记本的屏幕素质不尽人意，在售后方面也不如传统厂商。</p><p> 红米RedmiBook，参考价格：3999.它的基本配置为：i5-8265u，8G内存，256G硬盘，1080P的屏幕。红米一直以性价比而著名，笔记本方面更是如此。这款电脑的配置可以比肩同类型5k左右的笔记本。配置比MagicBook 2019强一些，也是目前的主流配置，但是没有配备指纹识别。推荐从事文字工作等方面的同学购买，另外预算不足但对性能有一定要求的同学，也可以选择这款笔记本。而在缺点方面，这款笔记本的做工不尽人意，屏幕素质虽然比MagicBook强一些但是也是半斤八两。</p><p> 惠普星13，参考价格：4599.它的基本配置为：i5-8565u，8g内存，256g硬盘，1080P的屏幕。这款笔记本虽然性能和红米差不多，但屏幕素质更好，同时更加轻薄，还有粉色可以选择。外观也更为时尚。推荐从事设计类专业、文字类专业的同学们购买。而在缺点方面，这款电脑的续航成绩一般，也不会太差，也能日常满足一天使用。</p><p> 华为MateBook 14，参考价格：5699.它的基本配置为：i5-8565u，8G内存，256G硬盘，2K的屏幕。这款笔记本的屏幕素质极好，性价比也极高。做工精致，机身纤薄，续航也不错。推荐从事设计类专业、文字类专业的同学们购买。而在缺点方面，我认为只有一个不算缺点的缺点，它的机身接口较少，需要配备扩展坞来扩展更多接口。日常不影响使用。</p><p> 惠普Envy X360，参考价格：6499.它的基本配置为：R7-3700U，8G内存，512G硬盘，1080P的屏幕。这是一款触控笔记本，同时可以360度翻转作平板电脑使用。屏幕素质较好。R7-3700U的cpu保证了性能，可以满足对性能有一些要求的同学。在缺点方面，这款笔记本的续航不尽人意，但也可以满足一天使用。</p><p> 戴尔XPS13-9360，参考价格：6999.它的基本配置为：i5-8250u，8G内存，256G硬盘，1080P的屏幕。XPS系列是戴尔的旗舰产品，也就意味着戴尔在这个系列不仅有着更好的性能，在品控、做工等方面也有保证。推荐对性能有一定要求、文字工作者购买。这款笔记本采用了金属和碳纤维的工艺，提升了整机的质感，同时戴尔的售后也十分棒。而在缺点方面，大概就是键盘那一面由于采用了碳纤维的材质，在呈现高端质感的同时比较容易沾染指纹。</p><p> ThinkPad X390，参考价格：6999.它的基本配置为：i5-8565u，8g内存，256g硬盘，1080P的屏幕。ThinkPad在业内一直以可靠著称，X390则延续了这种可靠。X390的性能与同价位无异，但它有着更扎实的做工和更好的可靠性，在保证可靠性的同时，X390还延续了ThinkPad极其优秀的键盘手感，也有着极好的屏幕素质。推荐文字工作者、对性能有一定要求的同学购买。而在缺点方面，X390有着比同级别更厚重的机身，同时除了顶配之外，其他版本没有配备背光键盘，在夜晚创作有了一定的麻烦。</p><p> LG gram 13，参考价格：7799.它的基本配置为：i5-8565u，8g内存，256g硬盘，1080P的屏幕，这个系列的电脑一直以「轻薄」著称，它十分轻薄。同时还有这极其优秀的续航能力，屏幕素质也极其优秀。还配备了雷电三接口，因为这你可以用它来扩展更多可能。适合设计领域、文字领域的同学购买。在扩展性方面，这款笔记本可以自行添加更大的内存。在缺点方面，因为LG并没有在中国有着太多的市场，所以在售后方面可能不尽人意。</p><p> 华为MateBook X Pro，参考价格：7999.它的基本配置为：i5-8565u，8g内存，512g硬盘，2K的屏幕。这个是华为的旗舰笔记本电脑，意味着再拥有更好的性能同时有着更好的做工与品控。它的屏幕素质极其优秀，并且支持触控。huawei share意味着那可以很轻松的在它和华为手机之间无缝连接。适合对性能有一些要求、设计领域、文字领域的同学购买。</p><p> ThinkPad X1 Carbon，参考价格：9999.它的基本配置为：i5-8550u，8g内存，256g硬盘，1080P的屏幕。这是ThinkPad的旗舰系列，它有着更好的可靠性和键盘手感。适合文字领域、对性能有一定要求的同学购买。而在缺点方面，这款笔记本的国行价格较高，推荐各位购买美版。</p><p> MacBook Pro 2019，参考价格：9999送beats耳机.它的基本配置为：i5-8257u，8g内存，128g硬盘，2K Retina的屏幕。它有着极其优秀的性能、极其优秀的屏幕、极其优秀的做工。而缺点也很明显：macOS初期学习成本较高，128G与256G版本差价较高，键盘手感较差。适合愿意使用mac系统、并不打游戏的同学购买。</p><p><b>游戏本推荐部分</b></p><p> 炫龙DD2畅玩版，参考价格：4199.它的基本配置为：G5400，8G，256G。这款笔记本搭载了1050Ti的显卡，保证了大部分游戏的流畅性。同时可方便后期更换更高性能的CPU，性价比较高，适合想玩游戏、对性能有要求的同学购买。而在缺点方面，这款笔记本的屏幕素质并不优秀，同时做工较差，售后一般。</p><p> 炫龙KP2，参考价格：5499.它的基本配置为：i5-9400，8G，256G。这款笔记本搭载了1060的显卡，可以畅玩大部分大型游戏，CPU性能优秀，但是也可以更换更高性能的CPU，性价比较高，适合想玩游戏、对性能要求高的同学购买。而在缺点方面，同时做工较差，机身较厚，售后一般。</p><p> 联想Y7000，参考价格：5699，它的基本配置为：i5-9300H，8G，512G。这款笔记本搭载1050的显卡，保证了大部分游戏的流畅性。外观较为商务，可避免会议时候的尴尬。散热不错。做工精致。适合想玩游戏、对性能有要求的同学购买。而在缺点方面，这款笔记本的屏幕素质有点不尽人意。值得注意的是，这款笔记本可以选择屏幕素质更好，游戏性能更强的1650显卡版本，参考价为6599.</p><p> 惠普暗影精灵5，参考价格：6299，它的基本配置为：i5-9300H，8G，512G。这款笔记本搭载1650的显卡，保证了大部分大型游戏的流畅性。性价比高，散热好，为满足更高需求可选择i7版本。屏幕素质也极好。适合视频剪辑、设计师、想玩游戏、对性能有要求的同学购买。而在缺点方面，这块笔记本的散热好，但隔热差。</p><p> 联想Y7000P，参考价格：7899，它的基本配置为：i5-9300H，8G，1T。这款笔记本搭载了1660TI的显卡，性能优秀。144Hz的屏幕使游戏体验更为舒适。1T的固态硬盘可以储存更多游戏。推荐视频剪辑、设计师、想玩游戏、对性能有要求的同学购买。而在缺点方面，这款笔记本的键盘布局需要适应。</p><p> 神州战神TX9，参考价格：9399，它的基本配置为：i5-9400，16G，256G+1T的存储盘。这款笔记本搭载了2060的显卡，同时有着16.1英寸的电竞屏幕。确保了游戏体验。性价比也极高。推荐视频剪辑、设计师、想玩游戏、对性能有要求的同学购买。而在缺点方面，这款笔记本的做工一般，售后一般。不推荐小白购买。</p><p> 机械革命X9Ti-R，参考价格：9999.它的基本配置为：i7-9750H，16G，256G+1T的存储盘。这款笔记本搭载了2060的显卡，同时有着16.1英寸的电竞屏幕。确保了游戏体验。性价比也极高。（怎么和神舟一样一样的），但是它有着比神舟更好的做工和更好的便携性。而在缺点方面，它的售后不尽人意。</p><p> 惠普暗影精灵5 Air，参考价格：10299，它的基本配置为：i7-9750H，16G，512G。这款笔记本搭载了2060的显卡，确保了整机的游戏体验。全金属机身有着更好的散热表现。屏幕素质也较好。荐视频剪辑、设计师、想玩游戏、对性能有要求的同学购买。而在缺点方面，这款笔记本较重，不利于携带。（但是都游戏本了就别要求携带了）</p><p> ROG 枪神3 Plus，参考价格：16999，它的基本配置为：i7-9750H，16G，1T。。这款笔记本搭载了2070的显卡，同时配备144Hz 17.3英寸的屏幕，保证了游戏体验。推荐视频剪辑、设计师、想玩游戏、对性能有极高要求的同学购买。而在缺点方面，那就是价格比较贵呗。。</p><p> 很多朋友会问为什么没有推荐外星人，因为外星人确实很棒，在我看来它们的每一款都值得购买。我尽量不去推荐一些很贵的笔记本，因为我觉得我们的大学生活并不需要那么贵的笔记本。将合适的设备发挥到最大作用，这才是我们的目的，也是这篇文章的目的。</p><p><b>购买渠道&amp;后记</b></p><p> 我推荐去京东购买，因为京东有着七天无理由退货、售后好、次日达等优势，更适合大家去购买。如果非要去实体店后买的话，建议提前在京东看好价格和配置，精确到每一项，并前往官方授权店购买，以免被坑。</p><p> 指南中的参考价格并不是实际购买价格，实际购买价格受各种活动等影响，可能会有一些涨幅与跌幅。具体价格以实际价格为准。</p><p> 本次推荐的大部分电脑均有高配可选，大家可根据需求自行选择。</p><p><b>鸣谢</b></p><p> 本篇文章的参考资料为：京东、百度贴吧—笔记本吧。由衷感谢笔记本吧的支持。</p><p> 同时，由衷的感谢吕同学对本文章提供的可贵的建议和支持。</p>", 
+            "topic": [
+                {
+                    "tag": "笔记本电脑", 
+                    "tagLink": "https://api.zhihu.com/topics/19559604"
+                }, 
+                {
+                    "tag": "大学生", 
+                    "tagLink": "https://api.zhihu.com/topics/19555480"
+                }, 
+                {
+                    "tag": "知乎指南", 
+                    "tagLink": "https://api.zhihu.com/topics/19550235"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/76553159", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 2, 
+            "title": "5G使用手册：告诉你一些关于5G的事情", 
+            "content": "<p><b>5G</b>是什么？</p><p> 5G，即第五代通信技术，它是4G网络的延伸，也就是新一代技术革命。具有大带宽、低时延、万物互联的特征。</p><p> 5G的标准由3GPP（国际通信标准组织）联合高通，三星，爱立信、华为、中国移动制定。</p><p> 关于5G的速度，这是最无聊的一点，5G的理论速度可达10Gbps。受各种因素的影响，5G状态下的我们无法获得这种下载速度，但相比4G，5G在速度方面是一个飞跃的提升。据实际测试，5G的下载速度可稳定在70-80M每秒。</p><p> 5G是万物互联的第一步，也是人类科技进化到现在至关重要的一步。它标志着人类在通讯领域即将进入一个新的时代。在4G时代，我们基本可以随意的在网络上查看高清视频。而在即将到来的5G时代，一切皆有可能，万物互联，AR或许已经开始了至关重要的一步。</p><p>组网方式</p><p> 在探究5G的组网方式之前，我们需要了解两个名字，也就是目前媒体经常说的NSA、SA。</p><p> 它们是什么？它们都是5G时代的基站组网方式。如果你听不懂什么意思，不要着急，听我慢慢和你讲解。</p><p> NSA，也就是非独立组网。在5G的发展初期，为了更快的在各个地方部署5G网络，可以在4G基站的基础上，继续搭建5G网络。这样做的好处就是可以以更低成本、更快时间的在各个地方部署5G网络，让更多人第一时间用上5G。但这种组网方式的基站仍是4G基站，只是加以改装，所以无法更好的体验上5G网络的大连接、低时延等特性。你可以将NSA理解成5G初期的过渡阶段。</p><p> SA，也就是独立组网，这是5G的完全体。也就是在5G的基站上搭建的5G，它拥有5G的全部特性。但这种组网方式由于成本过高而不利于早期建设。但随着技术、时间的发展，SA的组网方式将成为主流的组网方式。</p><p> 你可以将NSA理解成在火车道上行驶的高铁，虽然有了速度，但仍收到许多限制。而SA则是高铁的完完全全体，有着5G的全部特性。NSA是5G发展必经的一个阶段，早期发布的5G手机，也多是以NSA的方式入网。</p><p> 但无论是NSA或者SA，它们都属于5G网络，只是5G的先后阶段。现在有很多“NSA将会被淘汰的谣言”，其实并不是这样，两者将在今后的很长一段时间共同发展，NSA也会继续获得运营商的支持。</p><p>基带</p><p> 什么是基带？基带是手机的重要组成部分之一。它是手机接受网络信息的重要组件。基带也绝对影响着手机对于网络制式的支持。</p><p> 目前支持5G网络的基带分别有：高通X50/X55，华为巴龙5000、三星Exynos 5100。</p><p> 其中，高通X55与华为巴龙5000为SA、NSA双模基带，其他的则是NSA的单模基带。</p><p>我国地位</p><p> 自始自终，我国均没有停止过对于通讯网络的探索。</p><p> 我国先后经历了1G落后、2G追随、3G突破、4G同步。而对于5G，我们则是引领者。</p><p> 2019年6月6日，工信部正式向中国电信、中国移动、中国联通、中国广电发放5G商用牌照，中国正式进入5G商用元年。</p><p> 说到5G，就应该来聊一聊华为。提到华为，或许很多人的反应就是这是一家手机公司。其实并不是这样，华为更多的是通信公司。华为也是5G的重要制定者。华为对于5G技术的研究是世界领先的，这也是为什么华为进入「川普优选名单」的原因之一。华为巴龙5000是第一款支持NSA和SA双模入网的基带。</p><p>什么时候能用上<b>5G</b>？</p><p> 使用5G必须的三个条件：当地有5G基站的支持、运营商提供5G套餐、使用设备支持5G。</p><p> 目前由于早期使用NSA组网的缘故，全国各地都在很快进行着5G的基站部署。我国的一线、新一线城市将率先完成5G基站的部署。</p><p> 在5G基站部署完毕后，各地的运营商将很快的推出5G套餐，很多朋友担心5G的流量资费过高的问题。诚然，由于早期5G的高成本建设，资费确实可能会贵一些，但随着成本的均摊，我们很快就能用上价格平民的5G套餐。就像4G一样。</p><p> 在5G设备方面，目前中兴、华为已推出5G手机，并将于8月份进行售卖。而其他如OPPO VIVO 三星等厂商也会在今年或下一年推出5G手机。值得注意的是，今年的iPhone由于与高通的历史遗留问题，无法支持5G网络。至少目前来看，即将发布的新机型都是5G手机。</p><p> 5G的普及速度要比想象的要快，所以不妨大胆预测一下，我们最快将可以在2020年初在一线城市用上5G网络。而对于二线及以下城市，则需要等到2020年后半年和2021年。</p><p><b>5G</b>能做什么？</p><p> 正如上文所说，速度是5G最无聊的特点。</p><p> 以目前展望5G，云存储会无限发达，也就是我们的资料将直接存储至网络，由于5G的下载速度和内存的读取速度相差无几，所以即使我们将资料存储至网络，也能获得不错的使用体验。</p><p> 同时，我们可以借助5G低延迟的特点，让5G在医疗、无人驾驶发挥着作用。</p><p> 未来可以预见而无法预测，我们以现实为基础展望未来，但关于5G的更多应用，这是个变数。我们只能期待着未来，并为未来而努力。</p>", 
+            "topic": [
+                {
+                    "tag": "5G通信", 
+                    "tagLink": "https://api.zhihu.com/topics/19925547"
+                }, 
+                {
+                    "tag": "5G 手机", 
+                    "tagLink": "https://api.zhihu.com/topics/20746089"
+                }, 
+                {
+                    "tag": "第五代移动通信（5G）", 
+                    "tagLink": "https://api.zhihu.com/topics/19565565"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/76350435", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 192, 
+            "title": "“买后爱奇艺”— iPad 购买推荐指南", 
+            "content": "<p> 圈内有句话说得好：买前生产力，买后爱奇艺。这句话就是为iPad而生的。诚然，我们可以从Apple的所作所为看出其很想让iPad成为新一代生产力工具。但无论是A12X性能的加持，或是iPad OS 13的助攻。几乎都改变不了iPad“买前生产力，买后爱奇艺”的命运。</p><p> 即将进入大学的我们，显然也是需要一台自己的iPad以提升自己的追剧体验。但是我们在使用iPad追剧的同时，也可以使用它的次要功能以完善我们的使用体验。</p><p><b>选购</b></p><p> 打开Apple官网，发现iPad目前在售的型号有以下几种：</p><p>iPad、iPad mini、iPad Air、iPad Pro</p><p> 它们的定位也是由低到高依次排开，如果你还是没看懂什么意思，不要着急，让我慢慢跟你解释。</p><p> 我们先说iPad，iPad的最大优点就是便宜，2499元的起步价成为了iPad系列的入门机型，它搭载9.7寸的屏幕，A10的处理器，可以看作一个大号的iPhone 7。虽然配置在今天看来有点落伍，但是整体来看，iPad的使用寿命更长一些，没有顶级的配置，但足以应付日常使用。苹果笔的加持让你在用iPad追剧的同时用铅笔和绘画软件赋予更多想象力。而在缺点方面，由于iPad的触摸屏幕和显示屏幕并不是一体的，所以屏幕观感不如其他iPad系列那么优秀，总有一种隔层玻璃的感觉。这款iPad适合新手使用，不过我还是建议你加500人民币选择iPad mini。</p><p> iPad mini的定价为2999，相比iPad有了500块钱的差价，而加了500块钱iPad mini究竟多了什么？首先，它有着当今移动端最强的A12芯片，也就是说它和iPhone XS Max在速度上几乎没有差距，这也让它成为了新一代游戏机。同时让触摸屏幕和显示屏幕合在一起，提供了更好的显示效果和更薄的机身。更关键的是，7.9英寸的iPad mini5是一款真正意义上可以捧在手上的iPad，这是一块介于平板与手机之间的设备。它可以做平板上的事情，也可以做手机上的事情，还做得更好。苹果笔的支持让你在任何时候都可以涂涂画画，不放过任何灵感。这是我极其推荐的iPad，因为它可以随时移动，不用的时候装在包里也不会有累赘，就算是手包也可以轻松装下。</p><p> iPad Air搭载了10.5寸的屏幕，你可以把它理解成放大版iPad mini5：它有着很多与mini 5相似的地方，最大的不同在于屏幕尺寸。10.5寸的屏幕意味着可以用它做更多提升效率的事情，同时这款iPad在支持苹果笔的同时还支持了苹果键盘保护盖。也就是你可以随时随地拿着带着键盘的它去任何地方写文章。但是它不能单手掌握，也就是说你必须把它「放」在某一个地方。它更像是一台家里的iPad，在家里使用它写文章、看视频不会有任何累赘。但是在外边，虽然也不会有累赘，但似乎并没有iPad mini5舒服。</p><p> iPad Pro的关键词在于「Pro」，Pro意味着更好的性能和更高的售价。它有11寸和12.9寸两个版本。分别对应了RMB 6331和RMB 7890的起售价。两者除了尺寸之外没有任何差异。这款iPad采用了全新的外观，让四周的边框宽度相等。搭载了A12X的处理器，这是目前最强悍的处理器，强悍到狠狠的甩第二A12很远很远。但是它和其他iPad性能上的差距真的值得我们去花更多的钱去买这款iPad吗？我觉得不值得，因为A12已经是目前很强的处理器，也就是说它能做的事情，iPad mini5和iPad Air 3也能做。受限于系统的限制，我们也无法用iPad Pro做更多提升效率的事情。至少在目前这个阶段，我不推荐大家去买这款iPad，纵然它有更好的性能。但是在真正提升生产力方面，远远不值这高昂的售价。</p><p> 有什么适合iPad的配件？这是个有趣的问题，请看下文：</p><p><b>配件选择</b></p><p> 苹果笔：它的名字其实是Apple Pencil，也就是适用于iPad的一根笔。这根笔的奇妙之处在于它的低延迟和高灵敏度，可以完成手指无法完成的精细点按。同时也建议所有绘画爱好者入手，用过都说好(/ω＼)</p><p> 苹果智能键盘保护盖：它的名字是Smart Keyboard。iPad配上他之后可以变成一个小型笔记本，用途呢，当然就是打字啦。如果你是如果你平时喜欢打字，或者是文字工作者。那么我建议你入手Smart Keyboard。</p><p> 保护壳：iPad越来越薄的机身导致了它极其容易弯曲，所以我们需要使用保护壳来保护它。在这里需要注意的是，如果你已经入手了苹果笔，那么你需要一款带笔槽的保护壳以保护它。如果你入手了苹果键盘，那么你只需要一个后壳就好了，因为iPad的屏幕可以交给智能键盘来保护。如果你两个都没入手，就选择你觉得好看的保护壳就好啦。</p><p> 类纸贴膜：我不建议iPad贴膜，因为保护壳已经可以保护iPad的屏幕，但如果你入手了苹果笔，那我建议你贴一下类纸贴膜。顾名思义，贴上后可以拥有纸张一般的书写阻尼感。最大程度还原书写体验。</p><p> 那么我们选好了iPad和配件，如何避免让它成为「追剧神器」而不断提升我们我们的效率呢，下面就是我给大家推荐的一些APP：</p><p><b>应用程序</b></p><p> Procreate：如果你是绘画热爱者，请一定要购买这款APP。使用苹果笔与这款APP作画可以提供前所未有的体验。这是一款十分强大的APP，以至于没有绘画天赋的我也在这款APP上面用苹果笔为好朋友画了一张速写，虽然不是太好看，但是也有模有样嘻嘻。</p><p> Videoleap：这是一款视频剪辑软件，使用这款APP，你可以很自然的在iPad上剪辑你的视频，虽然无法做到很专业的剪辑，但是剪辑日常vlog、小视频的话，还是绰绰有余的。</p><p> Lumafushion：这是一款专业级的视频剪辑软件，你可以在iPad上用它给你的视频进行专业级的调色，甚至套Luts，或者是各种特效，大概就是iPad版本的Premiere。</p><p> 泼辣修图：我很喜欢这个修图工具，与大家熟知的snapseed不同，这个软件界面分为新手与专业两种模式，上面有各种滤镜可以选择。同时如果你是专业的修图人员，也可以用它做出你想要的图片效果。</p><p> 幕布：这是一款思维导图软件，可以快速的理清你的思维。我很喜欢在上面梳理我的事情。比如学习计划、剧本什么的，它还可以根据你的记录生成思维树，从而提升办事效率。</p><p> 石墨文档：我经常用它进行团队协作，比如写个策划案、数据报表之类的。它可以让多个人同时写一篇文档，延迟也特别低。可谓是团队文档协作的首选。</p><p> Quik：这是一款由GoPro公司出的软件，它可以根据你选择的照片自动生成好看的视频，也有很多模版可以选择。十分精良，比普通的幻灯片有意思多啦。</p><p> 好啦，暂时就推荐这么多啦，以后我会不断更新的。如果你是或者即将是大学生的话，前往苹果官方零售店和任何一家苹果授权店购买iPad，是可以享受八折优惠的。并且赠送一款Beats头戴式耳机。大概就是这样，Lucky to you～</p>", 
+            "topic": [
+                {
+                    "tag": "苹果公司 (Apple Inc.)", 
+                    "tagLink": "https://api.zhihu.com/topics/19551762"
+                }, 
+                {
+                    "tag": "iPad", 
+                    "tagLink": "https://api.zhihu.com/topics/19550297"
+                }, 
+                {
+                    "tag": "平板电脑", 
+                    "tagLink": "https://api.zhihu.com/topics/19559188"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "锋锋锋锋锋锋锋锋锋", 
+                    "userLink": "https://www.zhihu.com/people/f9e5d754f30b66953730c395c442c63e", 
+                    "content": "这么通俗的文章居然没人看……", 
+                    "likes": 11, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "感谢支持[微笑]", 
+                            "likes": 8, 
+                            "replyToAuthor": "锋锋锋锋锋锋锋锋锋"
+                        }, 
+                        {
+                            "userName": "猫爪实验室", 
+                            "userLink": "https://www.zhihu.com/people/d4628d1597dc17dfaf1371f53539e9a1", 
+                            "content": "对呀！通俗易懂，谢谢作者了！！", 
+                            "likes": 2, 
+                            "replyToAuthor": "IMSTE"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "错了错了……标题应该命名叫买前生产力，买后盖泡面[飙泪笑]", 
+                    "likes": 5, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "哈哈哈是这样了", 
+                            "likes": 2, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "rtt", 
+                            "userLink": "https://www.zhihu.com/people/524abd8930b913e1309331a568833f96", 
+                            "content": "还是爱奇艺好听", 
+                            "likes": 2, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "关于四款iPad的区别还应该详细一些，有些特点还没有说清楚", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "好的 近期会继续更改～", 
+                            "likes": 2, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "凤飞飞的玫瑰", 
+                    "userLink": "https://www.zhihu.com/people/4810f8749ac864b1c7409fd112f759da", 
+                    "content": "学生优惠确定八折 ？ 不可能的吧", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "我我我可能记错了 具体情况请咨询Apple Store～", 
+                            "likes": 2, 
+                            "replyToAuthor": "凤飞飞的玫瑰"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "这是半杯果汁", 
+                    "userLink": "https://www.zhihu.com/people/ed5b73700e7088b327e2f782681a6e06", 
+                    "content": "写的很棒，解答了我很多疑惑", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "哈哈 感谢支持～", 
+                            "likes": 2, 
+                            "replyToAuthor": "这是半杯果汁"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "王锡纸", 
+                    "userLink": "https://www.zhihu.com/people/f6b591fe902acb50d9dfa8ee128f8bc0", 
+                    "content": "爱奇艺给你多少钱，我B站双倍[生气]", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "哈哈哈哈哈因为爱奇艺没给我钱 所以b站也不用给啦", 
+                            "likes": 2, 
+                            "replyToAuthor": "王锡纸"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "幼叟", 
+                    "userLink": "https://www.zhihu.com/people/e283c85086af3b235056d2a1eee823e5", 
+                    "content": "10.5的pro和air您觉得应该选哪款，价格差不多的情况下，pro是4g版，air是wlan版的，最近纠结死了。", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "更建议pro 10.5。原因如下：120Hz、四扬声器所带来的体验要远比A12好很多，因为A10X的性能也不落伍。同时4G插卡版，在插上流量卡后可以做更多事情。", 
+                            "likes": 2, 
+                            "replyToAuthor": "幼叟"
+                        }, 
+                        {
+                            "userName": "幼叟", 
+                            "userLink": "https://www.zhihu.com/people/e283c85086af3b235056d2a1eee823e5", 
+                            "content": "好的，谢谢您的建议，那就买pro了。", 
+                            "likes": 2, 
+                            "replyToAuthor": "IMSTE"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "加州的猫", 
+                    "userLink": "https://www.zhihu.com/people/fb509cdd2dfe3319c56c9dd1cd0bb38e", 
+                    "content": "纠结air还是pro。。虽然pro贵很多但是屏幕和扬声器也太香了[捂脸]", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "pro10.5也不贵，和air差不多一个价格，推荐平日10.5", 
+                            "likes": 2, 
+                            "replyToAuthor": "加州的猫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "黑凤凰", 
+                    "userLink": "https://www.zhihu.com/people/1ff8b74a32f4e2489dc712be77cfb797", 
+                    "content": "都不推荐nota的吗", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "不好意思没用过所以没推荐…欢迎您分享使用体验～", 
+                            "likes": 2, 
+                            "replyToAuthor": "黑凤凰"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "杯酒慰风尘", 
+                    "userLink": "https://www.zhihu.com/people/f31a7b060264c839069b8a62b69bc52d", 
+                    "content": "用过iPad Pro三代，再用其他的iPad，都感觉像是在看PPT", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "哈哈哈哈120Hz屏幕的优势", 
+                            "likes": 1, 
+                            "replyToAuthor": "杯酒慰风尘"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Saem", 
+                    "userLink": "https://www.zhihu.com/people/e0e4d618450f7131e3a5728e648d4227", 
+                    "content": "iPad下载个Affinity photo和procreate简直生产力爆表[滑稽]", 
+                    "likes": 1, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "李富强", 
+                    "userLink": "https://www.zhihu.com/people/a62907058cd9026fa1d8d44af4f7382d", 
+                    "content": "谢谢，写的很容易接受，一口气看完了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "美少女的小矮子", 
+                    "userLink": "https://www.zhihu.com/people/eebbf9543ff8045be786f3f4cf31db70", 
+                    "content": "但是pro颜值高啊！！！", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/73738084", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 2, 
+            "title": "这一刻，静了— Bose QC 30 体验报告", 
+            "content": "<p> 在入手 QC30 之前，我曾无数次的问自己是否在已经拥有 AirPods 的同时在入手一幅降噪耳机？在得到需要的答复之后。我终于入手了 Bose 的 QC30 。</p><p> 我选择降噪耳机主要因为以下几点：对于一个经常做绿皮火车的我来说，曾在火车上无比的遐想一些事情。带上耳机，看着窗外的风景。但 AirPods 降噪的缺失打碎了我的美梦：我永远听到的是大妈大爷的逼逼叨叨。同时对于一个经常写稿的文字工作者来说，安静的环境是有利于思考的。我家因为狗总喜欢跑来跑去以扰乱我的思绪，所以我通常是带上耳机的，但是。。我只能把耳机声音开到较大才能完全避开噪音。可是这时候我的思绪已经被音乐扰乱了。。综以上所述，我绝对入手降噪耳机。</p><p> 为什么是 QC30 ？首先我之前已经在旗舰店领略到 QC30 的实力，同时我无比的希望拥有一幅挂在脖子上的耳机。如果你不理解什么意思，那你一定不够理解我，至少不知道我丢三落四的本质性格。</p><p> 好了说了这么多无用的，我们来谈谈 QC30 的以下几点：「舒适度」、「降噪」、「音质」、「续航」。</p><p> 在佩戴方面，QC30 采用了 Bose 独家的鲨鱼鳍耳套。该耳套有着极高的韧性，佩戴者可以轻而易举的戴在耳朵上。我觉得这是一个黑科技。这一切是那么完美。但问题也出在了我很喜欢的颈挂式设计：它的确解决了耳机丢失的问题。但在夏天两个耳机就像两个项链，晃晃悠悠的。特别是未佩戴而跑步的情况下，总给我一种blingbling的错觉。QC30 的主体采用了硅胶材质，挂在脖子上有时候确实很热，可能是因为现在是夏天的缘故。</p><p> QC30 只能用「牛逼」来形容它的降噪了。至少我是这么认为，我也不了解其他降噪耳机有着什么样的水准。但 QC30 打开降噪开关后，周边的环境音可以说一点都听不到了，如果是有人在你旁边说话的话，还是能听到一些。当你播放音乐时，你的内心一定会默默的说出：「嗯，这就是我的世界。」</p><p> QC30 的音质还算不错，至少比 AirPods 强很多，但是咱也不能给 AirPods 比，如果和 GR09 对比的话，QC30 在高频上差了点意思，同时声音细节没有 GR09 丰富。但是，QC30 有降噪o o o啊！！也就意味着，因为降噪能力的加持，QC30 在大部分时候能够更安静的听音乐，从而在低音量下听出更多的细节。</p><p> 我对电子产品的续航其实并不是那么敏感，QC30 完全可以支援我一天的工作，我大概是中度使用。虽然对比有着充电盒的AirPods仍有着明显的差距，但是以目前来看QC30完全可以使用一天，只要晚上养成充电的习惯就好。</p><p>正如前文所说，在入手QC30之前，我一直在问自己是否真的需要降噪耳机？以目前来看我的选择是正确的。对于一个耳机，音质和便携性固然重要，但更重要的是可以让体验更加舒适，完全的回归「音乐」。QC30在音质上或许并不合格，便携性上或许也不是那么出彩。但是关于音乐的诠释，QC30通过降噪给出了自己的答案。</p>", 
+            "topic": [
+                {
+                    "tag": "降噪", 
+                    "tagLink": "https://api.zhihu.com/topics/19670018"
+                }, 
+                {
+                    "tag": "降噪耳机", 
+                    "tagLink": "https://api.zhihu.com/topics/19852078"
+                }, 
+                {
+                    "tag": "Bose", 
+                    "tagLink": "https://api.zhihu.com/topics/19678048"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "山非石", 
+                    "userLink": "https://www.zhihu.com/people/3e207913baa673524200775a47563e10", 
+                    "content": "都9012年了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "都9102年了，qc30仍然是最好的无线入耳降噪耳机之一", 
+                            "likes": 0, 
+                            "replyToAuthor": "山非石"
+                        }, 
+                        {
+                            "userName": "山非石", 
+                            "userLink": "https://www.zhihu.com/people/3e207913baa673524200775a47563e10", 
+                            "content": "啊，说的也是吧。不过项圈有些偏重 有点烦人，带着带着就跑偏了。", 
+                            "likes": 0, 
+                            "replyToAuthor": "IMSTE"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "valiant", 
+                    "userLink": "https://www.zhihu.com/people/ef7e506541c2fed008ff4b827a3599cb", 
+                    "content": "楼主请问你的qc30 那个项圈会开胶吗？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/70995129", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 0, 
+            "title": "AirPods 2体验报告", 
+            "content": "<h2>前言</h2><p> 在长达两年的等待中，AirPods在悄无声息中更新了，它保持着与上一代同样的外观，但加入了无线充电与全新的H1芯片，这也意味着你可以在耳机上使用Hey Siri了。同时，连接性能、稳定性的提升也是本次升级的重点。而我在短暂的体验近3个月之后，终于写下了本篇报告。</p><h2>外观&amp;音质</h2><p> 在外观和音质方面，AirPods 2并没有明显的变化和提升。甚至有线充电版的AirPods 2采用了和初代AirPods相同的充电盒。而对于耳机本体则没有任何改变，在音质方面也并没有做出任何提升。</p><p> 为了AirPods 2无线充电版线圈的妥协，无线充电版的充电盒将配对按钮由原来的底部挪动到了中部，同时将指示灯搬到了外边。另外，耳机盒背面的金属材质也有原来的不锈钢更改成了铝。提升了耳机盒该区域的耐磨性。</p><h2>连接性</h2><p> 搭载了全新H1芯片的AirPods 2着重提升了连接性与稳定性。这主要表现在：多个iCloud设备之间的串联。之前的AirPods在多设备之间相互连接时总需要等待一段时间，这令我很无奈。而新版的AirPods则极大程度缩短了等待的时间，这从而使iCloud设备之间的一体性更强一些。</p><h2>无线充&amp;Hey Siri</h2><p> 我原本期待着全新AirPower的发布，但是在我入手AirPods 2无线充电版的第二天，关于AirPower被砍掉的传闻已经得到苹果高管的确认，这让我有些恼火，但又有些无奈。</p><p> 最终我给AirPods 2配备了米家床头灯（无线充版），在充电速度方面我没有明确的感知，故不做评论。但是前几天一个生活场景很有意思：我前往郑州旅游，忘记携带了移动电源与数据线。AirPods已经没电，此时的我立即前往小米之家与华为专卖店进行体验他们的新品，同时将AirPods放入充电，大概我在两个店都出来之后，AirPods充电盒获得了40%的电量。这可能也是无线充电版带来的好处之一：在任何有Qi标准的无线充电器上均可充电。从而从另一个维度保证了耳机的“永不断电”。</p><p> 而对于Hey Siri，这完全是智障般的存在。我当然可以通过耳机直接呼出Siri，但是它却无法做到及时的响应。尤其在一些我无法使用手机，比如骑车的场景，它完全无法给我带来任何实质性的帮助，如果被路人当成SB不算的话。”</p><h2>未来</h2><p>对于未来，我更关心的是Apple生态圈的建立，AirPods的伟大之处在于用户可以忽视耳机的存在，这也是“科技以人为本”最好的体现。通过iCloud，各种Apple产品可以做到无缝的衔接，这真的很棒，我很庆幸生在这个时代，有着Apple这种愿意为1+1＞2而不断努力的公司。很庆幸见证着很多未来新科</p>", 
+            "topic": [
+                {
+                    "tag": "苹果公司 (Apple Inc.)", 
+                    "tagLink": "https://api.zhihu.com/topics/19551762"
+                }, 
+                {
+                    "tag": "AirPods", 
+                    "tagLink": "https://api.zhihu.com/topics/20060030"
+                }, 
+                {
+                    "tag": "AirPods（2019）", 
+                    "tagLink": "https://api.zhihu.com/topics/20747329"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/69668444", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 2, 
+            "title": "我们应该如何拍好一期vlog？", 
+            "content": "<p> 得益于网络速度的提升，我们不再满足于传统的通过文字、照片记录生活的方式，因此Vlog应运而生。</p><p> Vlog是blog的变种，全程为video-blog，简单地说，就是通过视频的方式去记录生活或是其他事情，这是目前的热点，拍摄vlog的人被称为vlogger，那么我们应该如何拍好一期vlog？</p><h2>概况</h2><p> Vlog由视频和声音组成，必要时可以加上字幕。视频作为vlog最重要的组成部分，往往起着至关重要的作品，在拍摄视频之前，你一定要想好拍摄这段视频的目的是什么？应该为观众传达什么信息？这是应该去思考的，应尽量的做到每一段视频都有自己的用途。</p><p> 声音也是vlog的重要组成部分之一，通过声音，观众可以更加直观的感受vlogger要表达的意思，在vlog中往往起着辅助的作用。</p><h2>组成</h2><p> 在视频部分，通常视频会被分为A-roll以及B-roll，如果你听不懂什么意思，不要担心，当我慢慢解释。A-roll是指你面对镜头说话的部分，这个目的是你可以直接阐述你要表达的内容，这也是vlog的主体。B-roll是vlog为更好的表达意思，而穿插的其他部分，通常由空镜头组成，它可以交代vlog拍摄的时间、地点、背景。B-roll往往能够很大程度提升着vlog的质量。</p><p> 在声音部分，往往分为同期声、背景音乐、旁白。同期声是你在面对镜头时说话的声音，和视频中的A-roll一样，它也是vlog的主体部分，通过同期声，你可以直接地阐述你要表达的事物。背景音乐通常决定着vlog整篇的基调，它是视频中表达情感的方式之一，通过恰当的背景音乐，我们可以更加直观的感受vlogger要表达的感情。旁白则是在B-roll中，vlogger后期录制的一些声音，它往往起着抒情的作用，但似乎也不是那么重要，它完全可以被同期声取代。</p><p> 以上是一个vlog的组成部分，需要注意的是vlog并不一定非要有以上组成部分，更多是根据实际需求来进行调整，比如国外youtuber JR Aili的作品，往往只有B-roll和背景音乐，但做出来的食品十分酷炫，推荐大家去观看。</p><h2>拍摄</h2><p> 说到拍摄，不得不扯到拍摄器材。很多朋友认为拍摄器材很大程度上决定了vlog的质量。这句话…当然不错，但是vlog最重要的影响因素还是内容，即你要表达的故事。好的器材当然可以起更好的作用，但这也并不意味着手机拍不出好的vlog，更多的，我们还是要更加侧重于我们要表达的内容。</p><p> 在拍摄A-roll时，我们通常会犯一个错误：有时候会说错话或是卡顿，这时候不要着急，从新再来一遍，然后把说错的部分后期剪辑掉就可以了，不要有太大压力，这是很正常的。同时如果我们在街上拍摄，可能会引起一些围观，这时候千万不要紧张，你要知道我们生活中大部分陌生人一生中只能看到一次，所以不要太在乎别人，不然就会陷入一个紧张——更容易说错话——更紧张的死循环里。</p><p> 在拍摄B-roll时，我们一定要注意自己要表达的内容，空镜头当然是极好的，但尽量不要拍摄无用的镜头，不然容易给观众造成云里雾里的感觉。</p><p> 还有几个注意事项：在拍摄时尽量保持稳定，不然容易把观众看晕…，尽量避免在光线不好的地方拍摄，因为会把人拍黑…，尽量把镜头都拍正，不然会治好大家的颈椎病…</p><h2>器材</h2><p> 在拍摄设备选择上，往往手机就能搞定所有的事情，必要时可以外接麦克风以获得更好的声音。对画面有更高要求的话，推荐使用大疆OSMO Mobile 2进行稳定，往往会取得更好的效果。</p><p> 有更高要求的话，可以选择Dji OSMO Pocket和OSMO Action进行拍摄，这些都是极好的设备。</p><h2>剪辑</h2><p> 剪辑的话呢，推荐几个软件。</p><p> 当然首推Final Cut Pro和Adobe Premiere，但是这两个软件的门槛相对较高，不推荐新手使用。</p><p> 关于手机剪辑，推荐iOS端的videoleap和安卓端的一闪。</p><p> 还有一些手机软件，比如WIDE、Tap相机、Swish、Quik、可立拍、字说，都是不错的软件，推荐尝试。往往它们结合起来会有更好的效果。</p>", 
+            "topic": [
+                {
+                    "tag": "Vlog", 
+                    "tagLink": "https://api.zhihu.com/topics/20038413"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68376703", 
+            "userName": "TonyHe", 
+            "userLink": "https://www.zhihu.com/people/cf0ff7c8f799988aebca327c7c2f2cb9", 
+            "upvote": 19, 
+            "title": "入坑 Hackintosh 黑苹果 macOS High Sierra 10.13.6 记录与指南", 
+            "content": "<h2>背景</h2><p>前段时间把主要生产力 MacBook Pro 给摔了，屏幕出了问题拿去修，前后搞了两周</p><p>但是作为一个优秀的 高中生，两周没有电脑是不可能生存的，这辈子都不可能生存下来的…</p><p>很早以前在淘宝买过黑苹果远程安装服务(macOS Sierra 时代)尝过黑苹果(Hackintosh) 的流畅、优雅、绚丽、便捷、高效… 多少也了解了些操作和基础知识，所以这次尝试把家里台式机自己拿来装个黑苹果临时代替使用...</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>素材</b></h2><p>总的来说，大概是我运气好，整个安装很简单顺滑。</p><p><b>所有工具：</b></p><p>整合了 Clover 的 macOS 镜像： <a href=\"https://link.zhihu.com/?target=https%3A//blog.daliansky.net/macOS-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">blog.daliansky.net/macO</span><span class=\"invisible\">S-High-Sierra-10.13.6-17G65-Release-Version-with-Clover-4596-original-mirror.html</span><span class=\"ellipsis\"></span></a></p><p>安装 U 盘制作工具：<a href=\"https://link.zhihu.com/?target=https%3A//www.balena.io/etcher/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">balena.io/etcher/</span><span class=\"invisible\"></span></a></p><p>磁盘工具：<a href=\"https://link.zhihu.com/?target=http%3A//www.diskgenius.cn/download.php\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">diskgenius.cn/download.</span><span class=\"invisible\">php</span><span class=\"ellipsis\"></span></a></p><h2><b>过程</b></h2><p>首先在 Windows 下，<b>下载镜像</b>。注意如果使用 NVIDIA 的独立显卡，请勿使用 macOS Mojave 的任何版本 和 17G2112 版本的 macOS High Sierra，这两类系统暂时无法安装英伟达为 macOS 开发的驱动(WebDriver)，该驱动已经很久没有更新…</p><p>之后在 Windows 下，<b>使用 DiskGenius 创建 EFI 分区</b>。在你顶栏最左边的分区上右键 =&gt; 调整分区大小 =&gt; 分区前部的空间 220MB =&gt; 开始 =&gt; 完成后在顶栏最左边的灰色分区上右键 =&gt; 建立新分区 =&gt; 文件系统类型 「EFI system partition」=&gt; 保存退出</p><p>当然，请确保你有一个独立的分区来安装 macOS 并且作为系统盘(也就是桌面、应用程序等存放的磁盘)，不同于 Windows 下普遍的 C 盘，这个盘在 macOS 下要存放所有应用程序(如果你希望在 macOS 下使用 Dashboard 来选择应用打开)</p><p>之后在 Windows 下，<b>使用 Etcher 制作一个系统安装 U 盘</b>。操作比较简单，不再赘述。</p><p>首次重启先进入 <b>BIOS 调整选项。</b>各种电脑配置不同，我是 Acer 的台式电脑，BIOS 版本是 P11-C1 参考此处进入 BIOS：<a href=\"https://link.zhihu.com/?target=https%3A//jingyan.baidu.com/article/b24f6c82c11ad286bfe5da23.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">jingyan.baidu.com/artic</span><span class=\"invisible\">le/b24f6c82c11ad286bfe5da23.html</span><span class=\"ellipsis\"></span></a></p><ol><li>Advanced =&gt; Integrated Peripherals =&gt;Onboard SATA Mode =&gt; AHCI</li><li>Authentication =&gt; Secure Boot =&gt; Disabled</li><li>保存退出</li></ol><p>插入制作好的 U 盘，重启时<b>选择该 U盘为启动引导</b>。参考此处选择引导：<a href=\"https://link.zhihu.com/?target=https%3A//jingyan.baidu.com/article/ab0b5630d340f6c15afa7d32.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">jingyan.baidu.com/artic</span><span class=\"invisible\">le/ab0b5630d340f6c15afa7d32.html</span><span class=\"ellipsis\"></span></a></p><p>之后就会进入 <b>Clover 界面</b>，选中 Boot OS X from Install macOS High Sierra 回车，等待一堆代码跑过，进入 macOS Recovery 页面</p><p>使用<b>磁盘工具</b>格式化你作为 macOS 系统安装盘的分区为 macOS 支持的格式。选中该分区，点击顶栏 =&gt; 抹掉 =&gt; Mac OS 扩展(日志式) =&gt; 完成</p><p>如果操作失败，需要增加 EFI 分区的大小(至少200 MB)。之后点击左上方关闭磁盘工具。</p><p>点击<b>安装 macOS。</b>一系列操作后选则格式化为 macOS 扩展格式的磁盘，开始安装系统。</p><p>安装完成后会<b>自动重启，继续选择 U盘启动，进入 Clover</b>。选择 Boot macOS Install from XXX，回车。一堆代码跑过后会开始自动安装系统，完成后会再次自动重启。</p><p>继续选择 U 盘启动，进入 Clover。选择 <b>Boot macOS from XXX</b>，回车。一堆代码跑过后就会进入「欢迎使用」界面，最后进入 macOS 系统。</p><p>镜像内包含众多声卡、网卡、集成显卡的驱动，一般来说这些设备都可以正常运行(要是不行就请自行百度了)。进入系统后各种显示可能不正常，出现闪屏等问题：</p><ol><li>进入 Terminal.app (终端)，输入bash &lt;(curl -s https:<i>//<a href=\"https://link.zhihu.com/?target=http%3A//raw.githubusercontent.com/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">raw.githubusercontent.com</span><span class=\"invisible\">/Benjamin-Dobell/nvidia-update/master/nvidia-update.sh</span><span class=\"ellipsis\"></span></a>)</i><br/>这段脚本会自动检测系统适配的 NVIDIA WebDriver 并下载，完成后会要求输入密码，之后需要手动重启</li><li>使用 Safari 搜索下载 Clover Configurator (<a href=\"https://link.zhihu.com/?target=https%3A//mackie100projects.altervista.org/download-clover-configurator/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">mackie100projects.altervista.org</span><span class=\"invisible\">/download-clover-configurator/</span><span class=\"ellipsis\"></span></a>)</li><ol><li>进入 App 点击 Mount EFI =&gt; EFI Partitions 下的磁盘 =&gt; Mount Partition =&gt; Open Partition =&gt; EFI =&gt; CLOVER =&gt; 双击 config.plist =&gt; 选择 Boot 选项 =&gt; 删除 -v 条段(区块右下角「-」字样)(此步可以去除开关机时展示的代码) =&gt;  增加 nvda_drv=1 条段</li><li>选择 SMBIOS 选项 =&gt; 第一个区块右下角「↕️」字样按钮 =&gt; 选择 iMac 18,1 (19系列无法使用，会导致无法开机)</li><li>保存退出</li></ol></ol><p>完成全过程…</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>后记</h2><p>我的机器是 Acer Predator G3-605 + 1050Ti 没有大神们制作的对应 EFI，所以能驱动是万幸~</p><p>所以运气好就不麻烦，当然 AMD 显卡是免驱的…</p><p>炒鸡流畅，作为主力电脑用也是完全能胜任的。macOS 下设计软件都要跑得快一些，何乐而不为？但是最好还是保留 Windows 系统，我作死并没有留，导致我后来遇到无法解决的磁盘问题，只能使用 Windows 下更强大的软件来解决。</p>", 
+            "topic": [
+                {
+                    "tag": "黑苹果（Hackintosh）", 
+                    "tagLink": "https://api.zhihu.com/topics/19579005"
+                }, 
+                {
+                    "tag": "macOS", 
+                    "tagLink": "https://api.zhihu.com/topics/19550290"
+                }, 
+                {
+                    "tag": "苹果产品", 
+                    "tagLink": "https://api.zhihu.com/topics/19550266"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "火狐魅力", 
+                    "userLink": "https://www.zhihu.com/people/5dda7f9bc268b0e0fe81a565f29811b6", 
+                    "content": "<p>也是喜欢折腾的人啊……😁</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61370832", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 1, 
+            "title": "使用iPhone XS Max的第171天：我想和你聊一聊它的这些缺陷", 
+            "content": "<p> 2018年10月15日，我正式从iPhone X换成了XS Max，经过短暂的从大屏幕适应期后，我愈发觉得XS Max是一台「轻·生产力工具」，它有着世界上最好的消费级屏幕，世界上最快的移动处理器以及世界上最好的图形处理器等。它代表着世界上移动设备技术的最先进的水平。但是，这依然是一台有遗憾的设备，下面，我将以一个普通使用者的角度和你聊一聊，这台「移动怪兽」所留下的遗憾。</p><p><b>「厚实」的机身与重量</b></p><p> 相信我，一款手机的轻薄度和重量在很大程度上决定了其是否能造就完美的体验。很遗憾，iPhone XS Max在这一方面十分不合格。它的厚度是7.7mm，在戴上手机壳之后可以厚达1cm，这真的十分可怕，配合着208g的重量，在夏天放裤兜里简直像板砖一样。长时间使用Max后再换成三星S9，第一感觉就是：这手机真的好薄。</p><p> 我对近期iPhone的厚度与重量均不太满意，尤以iPhone X开始，iPhone的厚度与重量开始爆发式的增长，换回iPhone 8甚至觉得这是一台「小屏旗舰」，在使用iPhone SE的话，会发现这件事不像一台当今时代的手机。</p><p><b>「娇气」的不锈钢机身</b></p><p> 早在Apple Watch，不锈钢就开始进入苹果的材质范围内。自iPhone X开始，iPhone的边框均用不锈钢打造，但这种十分高端的材质显然并不十分适合使用在消费级电子产品上：带来的第一个问题就是银色的Apple Watch以及iPhone X极容易出现大量的划痕，好在使用砂纸可以打磨，工序也不算复杂。但是不锈钢的亮面性质导致了其成为了指纹收集器。在不佩戴保护壳的情况下，iPhone X及最新的设备再也无法保持旧款设备边框的整洁性。这是一个对于强迫症来说极其严重的问题，同时这也陷入了必须戴保护壳-增加重量的一个恶性循环。</p><p><b>「无法冷静」的信号</b></p><p> 由于自己是艺考生的缘故，导致了我经常需要坐火车奔波各地。起初我认为所有的手机在火车上信号都是极其微弱。直到后来我带着我的MOTO进了火车。。</p><p> iPhone信号是出了名的微弱，但是搭载了Intel基带的XS系列则将这种微弱发挥到了极致。当然，也并不是出于一个「无法正常使用」的状态，只是在一些比较极端的情况，Max的4G信号相比于其他手机有着很大的劣势。当其他手机可以正常开网页、刷视频的时候，Max甚至连基本的联网都无法保证。</p><p><b>「相对粗糙」的iOS系统</b></p><p> 这里的相对粗糙的参照物是iOS 10之前的系统，虽然这代iPhone的iOS 12相比于iOS 11已经修复了大部分bug，但是在使用中仍然没有iOS10之前的系统舒爽，这是一种很微妙的感觉。就像遇到了一位十分陌生的朋友一样。一种久违的感觉无法复现。即使是使用Max，我也是不清我遇到过多少次APP假死、闪退的状况，这在之前的iOS上是极其罕见的。</p><p> 甚至连AirPods搭配iOS 12也完全没有搭配iOS 10自然，我数不清我的AirPods有多少次断连，而在iOS 10时代是完全没有这种情况的。Control Center中的手电筒，iOS 10的情况下可以做到0延迟，而在iOS 11以后的系统，则需要停留几毫秒。</p><p> 但整体来说，iOS依然是目前最可靠最稳定的系统，并且领先于Android一大截，配合着iCloud的生态闭环，iOS用户总能沉浸在自己的世界。</p><p><b>「一言难尽」的快充与续航</b></p><p> 似乎每一个iPhone用户都需要随身携带充电宝，至少我是这样。由于对低屏占比的排斥，我并没有使用iPhone的Plus系列。所以我也无法体验所谓的「Plus」续航，但只从我体验的这些iPhone正统期间上来看，iPhone的续航始终不尽人意。Max在重度使用的情况下可以保持6个小时的亮屏时间，这似乎是个很不错的续航成绩，但对比同时期的Android旗舰，Max也只能算是垫底水平。</p><p> 千呼万唤的快速充电在iPhone 8及以后机型得以实现，但至今Apple仍为最高端旗舰Max标配5v1a的充电器，让人不得不感叹苹果的勤俭节约。通过C to L的充电配置后Max最高可以达到15W快充，充满电池大概需要一个半小时。这似乎也是一个很不错的快充成绩。但是相比较安卓旗舰的40W快充，这个成绩总是少了点意思。特别是对于这个价位的手机而言，我觉得应该是让「超级快充」代替5v1a成为标配的。</p><p><b>总结</b></p><p> 即使以上我列举了一些iPhone XS Max的缺陷，但这些缺陷在日常使用中基本上都是可以忽略不计的，iPhone XS Max仍是这个世界上最强大的智能手机，只不过我们也应该更加期待，在市值已经突破万亿的Apple，还应该以什么样的姿势继续引领潮流？</p>", 
+            "topic": [
+                {
+                    "tag": "iPhone", 
+                    "tagLink": "https://api.zhihu.com/topics/19550292"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/57859584", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 571, 
+            "title": "Mac双系统的另一选择：Windows To Go", 
+            "content": "<p> Windows To Go是微软官方推出的移动硬盘存储系统的解决方案，利用Windows To Go，我们可以以移动硬盘为系统存储介质，将系统随时的可以在任何计算机上运行。所以这也就成了Mac计算机装Windows的另一解决方案。</p><p> Win To Go在Mac上运行的优势主要是相比双系统或是虚拟机，Win To Go可以完全独立于系统内置存储，即完全不影响内置存储空间的占用。将系统安装至外置硬盘，最大限度的保证了双系统的独立性。</p><p> 我的MacBook Pro仅有128G存储，如果使用双系统的话对于计算机硬盘来说是远远不够的。更换硬盘会破坏计算机的整体性。因此在Windows端，我使用了Windows To Go作为了解决方案。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>前期准备：</b></p><p> 一台Windows电脑</p><p> Windows 10官方镜像</p><p> 速度尽可能快的移动硬盘（或U盘）</p><p class=\"ztext-empty-paragraph\"><br/></p><p> 我使用了Lenovo的SL700作为Win To Go的存储介质，SL700是联想的中端固态硬盘，写入和读取速度均在300MB/S左右，这对于偶尔使用Windows的我绰绰有余。我为其配备了绿联的USB 3.1 Gen1移动硬盘盒，保证了其的传输效率，也保证了Windows在运行时的稳定性。</p><p> 系统镜像我用的是在msdn上下载的Windows 10 (business editions), version 1809 (Updated Jan 2019），这是最新的Win10操作系统，我对版本比较敏感。对版本号不敏感的朋友可以随意下载Win 10的原版镜像。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>安装硬盘：</b></p><p> 安装Win To Go的过程很简单，为了安全起见推荐在安装之前对移动硬盘进行格式化。直接在Win电脑上的导航栏Cortana搜索Win To Go，解压windows镜像，用Win To Go选择镜像中的sources/install.wim，然后选择移动硬盘，等待刻录。</p><p> 在安装的过程中，打开Mac上的「Boot Camp助理」，然后点击导航栏上的「工具」-下载Windows驱动程序，插入U盘，将Boot Camp驱动下载至u盘。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>To Mac：</b></p><p> 刻录成功后，将Mac关机并插入移动硬盘。按住电源键的同时按住键盘上的「option」键，出现硬盘启动项选择后选择EFI boot，完成Windows的启动。</p><p> 启动Windows后，插入u盘，安装Boot Camp驱动。并激活Windows。</p><p> 至此，Windows To Go已安装完成。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>使用体验：</p><p> 使用Windows To Go的Mac和双系统的Mac并没有表现出太大差异。理论来说，Windows To Go的速度瓶颈在于连接方法和硬盘素质。使用USB 3.0以上的ssd作为移动硬盘，通常速度不会有太大差距。</p>", 
+            "topic": [
+                {
+                    "tag": "Mac", 
+                    "tagLink": "https://api.zhihu.com/topics/19550264"
+                }, 
+                {
+                    "tag": "Windows 10", 
+                    "tagLink": "https://api.zhihu.com/topics/20007813"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "竹露晨曦", 
+                    "userLink": "https://www.zhihu.com/people/22a84fc1f60677b43f8107f619f04e24", 
+                    "content": "Wtg的蓝牙比较坑，当然，win的蓝牙都比较坑，蓝牙设备最好要用接收器", 
+                    "likes": 13, 
+                    "childComments": [
+                        {
+                            "userName": "风雪千山", 
+                            "userLink": "https://www.zhihu.com/people/59157e7dd21d4d0ca8132e64543fc37d", 
+                            "content": "好像在Windows下蓝牙和无线网会冲突，比如把Wi-Fi关掉，蓝牙就完全没有问题。如果要同时使用需要在某个地方设置一下（具体忘了）", 
+                            "likes": 3, 
+                            "replyToAuthor": "竹露晨曦"
+                        }, 
+                        {
+                            "userName": "Aaron", 
+                            "userLink": "https://www.zhihu.com/people/65a7a8f50d8d174e285f98e30843b0d0", 
+                            "content": "我用着没这个问题，蓝牙Wi-Fi都正常工作", 
+                            "likes": 0, 
+                            "replyToAuthor": "风雪千山"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "DW233", 
+                    "userLink": "https://www.zhihu.com/people/a0c635103f2106ef4d87fcab1433c642", 
+                    "content": "1809版本做wtg会出现蓝屏等bug，最好用1803", 
+                    "likes": 16, 
+                    "childComments": [
+                        {
+                            "userName": "牛牛牛", 
+                            "userLink": "https://www.zhihu.com/people/abdcf7ecb3508010791a849b70c84614", 
+                            "content": "<p>今天刚做了个wtg，先用1809最新版的，各种不稳定 蓝屏，换回1803一次成功</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "DW233"
+                        }, 
+                        {
+                            "userName": "mdmbct", 
+                            "userLink": "https://www.zhihu.com/people/8aec39db9648784f40b3a7024f85dbe3", 
+                            "content": "我从1803上复制一个文件到1809里替换了 就行了。百度上有😂", 
+                            "likes": 0, 
+                            "replyToAuthor": "牛牛牛"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Json Xu", 
+                    "userLink": "https://www.zhihu.com/people/7c6ba4578810d9306db47a4be764a9f7", 
+                    "content": "曾经在15年乞丐版上用wtg打守望先锋，还是挺不错的", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "曼妥思加可乐", 
+                            "userLink": "https://www.zhihu.com/people/0e2ae98f2330b9e8811eb62d30883538", 
+                            "content": "hhh 我也是，永远不知道队友在用什么打守望先锋", 
+                            "likes": 3, 
+                            "replyToAuthor": "Json Xu"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "我想请问下，wtg的移动硬盘再插在电脑上是什么格式？可以继续当做移动硬盘用吗？", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>ntfs，可以，但不要修改系统文件。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "飞奔的豆浆", 
+                    "userLink": "https://www.zhihu.com/people/fa7af0798f34f6ca94ed5197a53511f9", 
+                    "content": "<p>这个好赞，请问内置SD读卡器的电脑，wtg可以装在SD卡上吗？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "BoysDeadMonster", 
+                            "userLink": "https://www.zhihu.com/people/8f6ffde11a37265345ce6acdfc6cea94", 
+                            "content": "需要读写速度够快，我记得做之前会有一个检测", 
+                            "likes": 0, 
+                            "replyToAuthor": "飞奔的豆浆"
+                        }, 
+                        {
+                            "userName": "memset0", 
+                            "userLink": "https://www.zhihu.com/people/f7c2857757eb514009a13eda158d97b4", 
+                            "content": "<p>以前玩过，感觉 SD 卡速度可能偏慢。。。（也可能是我那张比较垃圾 ...</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "飞奔的豆浆"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Adger", 
+                    "userLink": "https://www.zhihu.com/people/5fe5e33f219be80815fa571d970d76d6", 
+                    "content": "请问是否需要把移动硬盘格式改为ntfs", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "同问", 
+                            "likes": 0, 
+                            "replyToAuthor": "Adger"
+                        }, 
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "可以的", 
+                            "likes": 0, 
+                            "replyToAuthor": "Adger"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "李经纶", 
+                    "userLink": "https://www.zhihu.com/people/1be1ac537a1587d7ba4047e1e46c1eb0", 
+                    "content": "这个厉害，我一会试试，看看能不能用我的mac pro 2017打魔兽", 
+                    "likes": 4, 
+                    "childComments": [
+                        {
+                            "userName": "席琳麦基", 
+                            "userLink": "https://www.zhihu.com/people/30197c105e60c9893398f1f768c24d71", 
+                            "content": "你好 如果只是想玩魔兽的话macOS是可以运行的 而且魔兽支持Metal图形接口 应该比mac装win用opengl接口好一些 希望有所帮助", 
+                            "likes": 4, 
+                            "replyToAuthor": "李经纶"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "骑驴上高速", 
+                    "userLink": "https://www.zhihu.com/people/4d76c6fd0b3fa073a7b61194876af657", 
+                    "content": "试过几次，macbookpro2017好几次莫名崩溃，后来还是放弃了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "NickyJ", 
+                    "userLink": "https://www.zhihu.com/people/28c6027a7c22f4225d71cea1cebcb609", 
+                    "content": "安了wtg之后 用Office或者打lol 风扇狂转 <br>请问怎么解决呢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "YZZZZZ", 
+                    "userLink": "https://www.zhihu.com/people/59360706109b46c103f8be4b09840909", 
+                    "content": "1809版本需要替换/system32/drivers下的Wpprecorder.sys文件为1803版本对应文件，否则大概率蓝屏", 
+                    "likes": 9, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "张磊", 
+                    "userLink": "https://www.zhihu.com/people/5063fba62ee022ba354bdb35f42c9197", 
+                    "content": "<p>驱动不匹配大概率蓝屏</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>我担心mac偶尔使用移动硬盘会断网的问题～</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "ZHuTODy", 
+                    "userLink": "https://www.zhihu.com/people/444affebecabf1bf39dde5b30dcdc051", 
+                    "content": "这几天遇到个新问题 从win to go关机后开机启动到macOS 会出现找不到麦克风的情况 重启后问题消失 不知道怎么回事", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "stevapple", 
+                    "userLink": "https://www.zhihu.com/people/bec45e02929e32dac63e622653a82e0c", 
+                    "content": "硬盘盒我还是嫌不方便，ChipFancier 的方案不错", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "stevapple", 
+                            "userLink": "https://www.zhihu.com/people/bec45e02929e32dac63e622653a82e0c", 
+                            "content": "我还在纠结要买 256GB 还是 512GB，如果大文件不存在系统盘的话", 
+                            "likes": 0, 
+                            "replyToAuthor": "stevapple"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "怪哉盒子", 
+                    "userLink": "https://www.zhihu.com/people/1f9373019f456895065c52fc84749e30", 
+                    "content": "<p>同款绿联硬盘盒</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Kelvin", 
+                            "userLink": "https://www.zhihu.com/people/3b72237ffb11a5eb296dc172655febd3", 
+                            "content": "能具体告知一下名字吗  我按题主说的没有搜索到", 
+                            "likes": 0, 
+                            "replyToAuthor": "怪哉盒子"
+                        }, 
+                        {
+                            "userName": "怪哉盒子", 
+                            "userLink": "https://www.zhihu.com/people/1f9373019f456895065c52fc84749e30", 
+                            "content": "你说硬盘盒吗？你在某宝搜绿联，进店找嘛", 
+                            "likes": 0, 
+                            "replyToAuthor": "Kelvin"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>可是用线连,时间一长,接口一松,太吓人了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>parallel desktop就已经可以做到安装虚拟机在外置硬盘上了，而且使用时可以直接和Mac os一起开着</p>", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "小手冰凉", 
+                            "userLink": "https://www.zhihu.com/people/c008fe78e4edcfa25365503688394c0a", 
+                            "content": "开虚拟机和独立系统两码事 每个人需求不同的 跟你系统软件装在哪无关, 比如你在苹果系统里开着windows虚拟机 然后在虚拟机里打着xxx游戏 你有想过电脑的感受么。我买了parallel以后根本没用过几次 新版15寸pro 没干嘛风扇都呼啦啦转", 
+                            "likes": 3, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "FireVodka", 
+                            "userLink": "https://www.zhihu.com/people/75542ee499baa9c64151dce605099252", 
+                            "content": "我就是用parallel desktop的，觉得那个写代码差不多，玩游戏就太勉强它了。而且本来256G的硬盘地方就不够", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "燕青", 
+                    "userLink": "https://www.zhihu.com/people/bf6997b8ea2af16c0343407815f64eca", 
+                    "content": "能访问mac硬盘文件吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>可以的</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "燕青"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "蓝色机器猫", 
+                    "userLink": "https://www.zhihu.com/people/ba3cb568732aa02fed1e5665ddd828f8", 
+                    "content": "偶尔用用虚拟机就好了嘛，嘿嘿", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "乾珳", 
+                            "userLink": "https://www.zhihu.com/people/c5139f6e53e7be2aec87cc1896b6f3b3", 
+                            "content": "这是给低配SSD容量小的解决方案", 
+                            "likes": 1, 
+                            "replyToAuthor": "蓝色机器猫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>parallel desktop才是高级选择！</p><a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-cb8443f07a41298e45191cef11b90fd2.gif\" data-width=\"\" data-height=\"\">[干杯]</a>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "亚克力面包", 
+                            "userLink": "https://www.zhihu.com/people/08271a8207031fc8301b650f436b702f", 
+                            "content": "风扇表示不适", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "竹露晨曦", 
+                    "userLink": "https://www.zhihu.com/people/22a84fc1f60677b43f8107f619f04e24", 
+                    "content": "Wtg的蓝牙比较坑，当然，win的蓝牙都比较坑，蓝牙设备最好要用接收器", 
+                    "likes": 13, 
+                    "childComments": [
+                        {
+                            "userName": "风雪千山", 
+                            "userLink": "https://www.zhihu.com/people/59157e7dd21d4d0ca8132e64543fc37d", 
+                            "content": "好像在Windows下蓝牙和无线网会冲突，比如把Wi-Fi关掉，蓝牙就完全没有问题。如果要同时使用需要在某个地方设置一下（具体忘了）", 
+                            "likes": 3, 
+                            "replyToAuthor": "竹露晨曦"
+                        }, 
+                        {
+                            "userName": "Aaron", 
+                            "userLink": "https://www.zhihu.com/people/65a7a8f50d8d174e285f98e30843b0d0", 
+                            "content": "我用着没这个问题，蓝牙Wi-Fi都正常工作", 
+                            "likes": 0, 
+                            "replyToAuthor": "风雪千山"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "DW233", 
+                    "userLink": "https://www.zhihu.com/people/a0c635103f2106ef4d87fcab1433c642", 
+                    "content": "1809版本做wtg会出现蓝屏等bug，最好用1803", 
+                    "likes": 16, 
+                    "childComments": [
+                        {
+                            "userName": "牛牛牛", 
+                            "userLink": "https://www.zhihu.com/people/abdcf7ecb3508010791a849b70c84614", 
+                            "content": "<p>今天刚做了个wtg，先用1809最新版的，各种不稳定 蓝屏，换回1803一次成功</p>", 
+                            "likes": 3, 
+                            "replyToAuthor": "DW233"
+                        }, 
+                        {
+                            "userName": "mdmbct", 
+                            "userLink": "https://www.zhihu.com/people/8aec39db9648784f40b3a7024f85dbe3", 
+                            "content": "我从1803上复制一个文件到1809里替换了 就行了。百度上有😂", 
+                            "likes": 0, 
+                            "replyToAuthor": "牛牛牛"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Json Xu", 
+                    "userLink": "https://www.zhihu.com/people/7c6ba4578810d9306db47a4be764a9f7", 
+                    "content": "曾经在15年乞丐版上用wtg打守望先锋，还是挺不错的", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "曼妥思加可乐", 
+                            "userLink": "https://www.zhihu.com/people/0e2ae98f2330b9e8811eb62d30883538", 
+                            "content": "hhh 我也是，永远不知道队友在用什么打守望先锋", 
+                            "likes": 3, 
+                            "replyToAuthor": "Json Xu"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "我想请问下，wtg的移动硬盘再插在电脑上是什么格式？可以继续当做移动硬盘用吗？", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>ntfs，可以，但不要修改系统文件。</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "飞奔的豆浆", 
+                    "userLink": "https://www.zhihu.com/people/fa7af0798f34f6ca94ed5197a53511f9", 
+                    "content": "<p>这个好赞，请问内置SD读卡器的电脑，wtg可以装在SD卡上吗？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "BoysDeadMonster", 
+                            "userLink": "https://www.zhihu.com/people/8f6ffde11a37265345ce6acdfc6cea94", 
+                            "content": "需要读写速度够快，我记得做之前会有一个检测", 
+                            "likes": 0, 
+                            "replyToAuthor": "飞奔的豆浆"
+                        }, 
+                        {
+                            "userName": "memset0", 
+                            "userLink": "https://www.zhihu.com/people/f7c2857757eb514009a13eda158d97b4", 
+                            "content": "<p>以前玩过，感觉 SD 卡速度可能偏慢。。。（也可能是我那张比较垃圾 ...</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "飞奔的豆浆"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Adger", 
+                    "userLink": "https://www.zhihu.com/people/5fe5e33f219be80815fa571d970d76d6", 
+                    "content": "请问是否需要把移动硬盘格式改为ntfs", 
+                    "likes": 2, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "同问", 
+                            "likes": 0, 
+                            "replyToAuthor": "Adger"
+                        }, 
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "可以的", 
+                            "likes": 0, 
+                            "replyToAuthor": "Adger"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "李经纶", 
+                    "userLink": "https://www.zhihu.com/people/1be1ac537a1587d7ba4047e1e46c1eb0", 
+                    "content": "这个厉害，我一会试试，看看能不能用我的mac pro 2017打魔兽", 
+                    "likes": 4, 
+                    "childComments": [
+                        {
+                            "userName": "席琳麦基", 
+                            "userLink": "https://www.zhihu.com/people/30197c105e60c9893398f1f768c24d71", 
+                            "content": "你好 如果只是想玩魔兽的话macOS是可以运行的 而且魔兽支持Metal图形接口 应该比mac装win用opengl接口好一些 希望有所帮助", 
+                            "likes": 4, 
+                            "replyToAuthor": "李经纶"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "骑驴上高速", 
+                    "userLink": "https://www.zhihu.com/people/4d76c6fd0b3fa073a7b61194876af657", 
+                    "content": "试过几次，macbookpro2017好几次莫名崩溃，后来还是放弃了", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "NickyJ", 
+                    "userLink": "https://www.zhihu.com/people/28c6027a7c22f4225d71cea1cebcb609", 
+                    "content": "安了wtg之后 用Office或者打lol 风扇狂转 <br>请问怎么解决呢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "YZZZZZ", 
+                    "userLink": "https://www.zhihu.com/people/59360706109b46c103f8be4b09840909", 
+                    "content": "1809版本需要替换/system32/drivers下的Wpprecorder.sys文件为1803版本对应文件，否则大概率蓝屏", 
+                    "likes": 9, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "张磊", 
+                    "userLink": "https://www.zhihu.com/people/5063fba62ee022ba354bdb35f42c9197", 
+                    "content": "<p>驱动不匹配大概率蓝屏</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>我担心mac偶尔使用移动硬盘会断网的问题～</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "ZHuTODy", 
+                    "userLink": "https://www.zhihu.com/people/444affebecabf1bf39dde5b30dcdc051", 
+                    "content": "这几天遇到个新问题 从win to go关机后开机启动到macOS 会出现找不到麦克风的情况 重启后问题消失 不知道怎么回事", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "stevapple", 
+                    "userLink": "https://www.zhihu.com/people/bec45e02929e32dac63e622653a82e0c", 
+                    "content": "硬盘盒我还是嫌不方便，ChipFancier 的方案不错", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "stevapple", 
+                            "userLink": "https://www.zhihu.com/people/bec45e02929e32dac63e622653a82e0c", 
+                            "content": "我还在纠结要买 256GB 还是 512GB，如果大文件不存在系统盘的话", 
+                            "likes": 0, 
+                            "replyToAuthor": "stevapple"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "怪哉盒子", 
+                    "userLink": "https://www.zhihu.com/people/1f9373019f456895065c52fc84749e30", 
+                    "content": "<p>同款绿联硬盘盒</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "Kelvin", 
+                            "userLink": "https://www.zhihu.com/people/3b72237ffb11a5eb296dc172655febd3", 
+                            "content": "能具体告知一下名字吗  我按题主说的没有搜索到", 
+                            "likes": 0, 
+                            "replyToAuthor": "怪哉盒子"
+                        }, 
+                        {
+                            "userName": "怪哉盒子", 
+                            "userLink": "https://www.zhihu.com/people/1f9373019f456895065c52fc84749e30", 
+                            "content": "你说硬盘盒吗？你在某宝搜绿联，进店找嘛", 
+                            "likes": 0, 
+                            "replyToAuthor": "Kelvin"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>可是用线连,时间一长,接口一松,太吓人了</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>parallel desktop就已经可以做到安装虚拟机在外置硬盘上了，而且使用时可以直接和Mac os一起开着</p>", 
+                    "likes": 3, 
+                    "childComments": [
+                        {
+                            "userName": "小手冰凉", 
+                            "userLink": "https://www.zhihu.com/people/c008fe78e4edcfa25365503688394c0a", 
+                            "content": "开虚拟机和独立系统两码事 每个人需求不同的 跟你系统软件装在哪无关, 比如你在苹果系统里开着windows虚拟机 然后在虚拟机里打着xxx游戏 你有想过电脑的感受么。我买了parallel以后根本没用过几次 新版15寸pro 没干嘛风扇都呼啦啦转", 
+                            "likes": 3, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "FireVodka", 
+                            "userLink": "https://www.zhihu.com/people/75542ee499baa9c64151dce605099252", 
+                            "content": "我就是用parallel desktop的，觉得那个写代码差不多，玩游戏就太勉强它了。而且本来256G的硬盘地方就不够", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "燕青", 
+                    "userLink": "https://www.zhihu.com/people/bf6997b8ea2af16c0343407815f64eca", 
+                    "content": "能访问mac硬盘文件吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>可以的</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "燕青"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "蓝色机器猫", 
+                    "userLink": "https://www.zhihu.com/people/ba3cb568732aa02fed1e5665ddd828f8", 
+                    "content": "偶尔用用虚拟机就好了嘛，嘿嘿", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "乾珳", 
+                            "userLink": "https://www.zhihu.com/people/c5139f6e53e7be2aec87cc1896b6f3b3", 
+                            "content": "这是给低配SSD容量小的解决方案", 
+                            "likes": 1, 
+                            "replyToAuthor": "蓝色机器猫"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>parallel desktop才是高级选择！</p><a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-cb8443f07a41298e45191cef11b90fd2.gif\" data-width=\"\" data-height=\"\">[干杯]</a>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "亚克力面包", 
+                            "userLink": "https://www.zhihu.com/people/08271a8207031fc8301b650f436b702f", 
+                            "content": "风扇表示不适", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/54329858", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 4, 
+            "title": "视频高画质的背后：分辨率、码率、色采样和编码", 
+            "content": "<blockquote>\t文章的开头，要感谢影视飓风的两期关于视频画质的讲解。也正是因为影视剧风的科普，让我现在能够有能力去写科普文章，谢谢。</blockquote><p>\t我们都不愿意看到模糊的视频，换而言之我们都不愿意看到低画质的视频。但高画质的视频在给我们带来完美视听享受的背后，又有着什么决定性的参数？简单的说，就是：分辨率、码率、色采样、编码。如果你看到这里已经没有了看下去的欲望，不要着急，我会用最通俗的语言讲下去。</p><p>分辨率</p><p>\t分辨率是一个很好理解也是被大家熟知的参数。我们在观看视频时经常会看到视频app有标清、高清、超清等清晰度可以选择。在这里的清晰度指的就是分辨率，对应着分辨率分别是540P、720P、1080P。分辨率指的是视频纵横间像素的数量。如1080P的分辨率具体一点就1920X1080，也就是视频纵向有1080个像素，横向有1920个像素。分辨率越高，视频的清晰程度就越高。</p><p>\t目前常见的有8K、4K、2K、1080P、720P、540P。其中1080P是我们目前最常用的分辨率。不过随着科技的发展，2K和4K时代也将很快来临。</p><p>\t我们在拍摄视频时，也应尽可能的拍摄高分辨率的视频，这在保证我们视频细腻度的同时，也可以提供更多的裁剪空间。</p><p>码率</p><p>\t码率指的是单位时间内视频所包含的信息量，码率越高，视频画面所呈现的信息就越多，画面更多的细节也会被保留。我们的视频都是经过几次压缩之后呈现的，这时候码率就显得尤为关键：码率大的视频会保留画面的更多细节，同时视频文件的大小也是由码率决定的。</p><p>\t码率的单位是kbps、mbps。目前1080P视频的常见码率为2.5mbps，4K视频的常见码率为10mbps。如果我们将自己的视频上传至bilibili、优酷等视频网站，最好能提前了解视频网站的码率上限，并把自己的视频控制在上限以内以避免二次压缩，并获得最好画质。</p><p>\t刚才讲的都是恒定码率，不过现在更常用的码率为可变码率。也就是视频会根据每一帧进行分析，最后在每一帧计算出单独的码率，以保证视频的体积在获得更高画质的同时，进一步地缩小。</p><p>帧率</p><p>\t帧率指的是单位时间内影片所播放的静态图片量。我们都知道视频的原理是“视觉暂留”，即通过不断变化的图片以极快的方式连接在一起形成视频。而帧率可以表示这些照片出现的数量。所以理论来说帧率越高，画面越流畅。反之，画面则显得比较卡顿。</p><p>\t目前国际标准的电影视频帧率是24帧/秒，也就是说在电影里一秒可以出现24个画面。我们在日常拍摄帧率大于24帧/秒的视频一般也可以保证视频的流畅度。不过拍更高帧率的视频会让观感更顺滑一些。</p><p>\t除此之外，还有两个简单的小知识：升格和降格。这两个名词起源于胶片电影时代，那时候的胶片就是以24帧/秒进行放映。如果前期拍摄超过24帧/秒的素材，后期以24帧/秒的速度进行放映，视频会变慢，这被称为升格，一般用于拍摄子弹时间等镜头。如果前期拍摄了低于24帧/秒的素材，后期以24帧/秒的速度进行放映，视频会变快，这被称为降格，一般用于压缩时间，拍摄延时摄影等。</p><p>\t所以，我们在拍摄视频时应在保证存储空间的情况下尽量拍摄高帧率的视频，这能给我们后期提供更多的升格空间。</p><p>色深&amp;色采样</p><p>\t色深指的是色彩空间，一般分为8bit和10bit，我们都知道色彩的三原色是红、绿、蓝。其他色彩都是在这三个色彩像素的不断组合诞生的，8bit指的是2的8次方，即红绿蓝分别有2的八次方个色度值，通过红绿蓝三个的2的8次方的不断组合以实现不同颜色，加起来就是16777216种颜色，这看起来已经很多了。但是和10bit比起来则是小巫见大巫。10bit指的是2的10次方，也就是红绿蓝各有2的10次方以组合不同的颜色，加起来的颜色已经超过了10亿种。一般来说8bit的视频在看起来也不会存在太大问题，但是面对一些复杂的环境如天空渐变等，8bit就会出现色彩断层的问题。我们通常采用加入噪点的方式以减缓这个问题。</p><p>\t我们都知道，一个像素具有两个信息：明度值、色度值。很早以前科学家们就发现每个像素需要保留自己的明度信息，但不一定要保留色度信息，可以多个像素共享一个色度值以呈现同样的颜色。这就是色采样。在色采样模式下我们无法使用RGB模式，而使用TCrCb模式。色采样值通常分为4:4:4/4:2:2/4:2:0。第一个数字代表色度采样的数量，第二个像素代表速度采样值，第三个数字代表第二行色度采样值。如444，表示每行像素都有独立的色度值，一般适用于电影机。而422，表示每行像素均保留了2个色度信息，加起来也就是4个色度信息，相比444丢失了一般的像素。而420则只保留第一行像素的一般色度信息（2个），第二行则直接继承第一行的色度信息，相比444丢失了75%的像素。不过420仍可以满足日常拍摄和简单调色，但如果需要更高级别的调色或是抠像，因为420模式很多像素没有自己的色度信息，后期则需要更多的精力以纠正色彩，看起来也没有444或者422那么自然。</p><p>编码&amp;封装</p><p>\t编码的英文叫做codec，分解之后就是coder和decoder。即编解码器。编码在素材中可以分为三类：拍摄编码、剪辑编码、渲染编码。也就是在制作视频时编码可能会发生一些变化。但我更喜欢用帧间编码和帧内编码以分类。帧内编码以Prores为代表，指的是在回放视频时，视频的每一帧都经过回放，以组成一个视频，这样的好处是可以减少播放设备的压力，但与此同时或造成视频体积冗余。帧间编码主要以H.264为代表，帧间编码指的是在回放视频时，分析前后两帧相同和不同之处，只分析两帧不同的地方。这样的好处是防止视频体积冗余，缩小视频的体积。不过缺点是增加播放设备的处理信息量。</p><p>\t封装指的就是在视频录制并压缩完成之后，以一种特定的形式合成在一。常见的封装格式也就是我们熟知的.MP4、.MOV等，视频的封装格式包含着视频的画面、音频等信息，甚至还包括字幕、弹幕等其他信息。在互联网中，我们通常使用.MP4格式进行封装。</p><p>总结</p><p>\t本篇文章就到这里结束了。总的来说就是在设备支持能力的情况下，尽可能的使用高分辨率、高帧率、高编码……以获得更好的后期空间。当然，视频的内容是更重要的。我们在追求视频画质的同时，也应该考虑如何去更好的讲述我们的故事。如果还有其他疑问，请私信问我。最后的最后，再次感谢影视飓风给我带来的帮助，也让我坚信「追求画质是一种态度」。</p><p></p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51871479", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 1, 
+            "title": "生产力工具？iPad Pro 10.5体验", 
+            "content": "<blockquote>我是否需要一台iPad？我不知道，这让我想起了乔布斯之前说过的一句话：用户永远不知道需要什么，知道拿出产品。报着这样的想法，我入手了iPad Pro 10.5。</blockquote><p>在2018款iPad Pro性能、外观获得巨大提升的今天，我为什么仍然固执的选择2017款iPad Pro？原因是因为性价比：我认为没有笔和键盘的iPad Pro是没有灵魂的。如果入手2018款Pro的话配上笔和键盘大概8000左右—可以买一台18款MacBook Air。并且在购买之前我仍然不对iPad上对「生产力工具」有很大的信心，所以考虑到性价比，我入手了全套的iPad Pro 10.5。</p><p><b>便携性</b></p><p>这是我很喜欢iPad的一点，iPad配上Smartkeyboard+Apple Pencil的重量不过是一台MacBook Air的重量，并且厚度、大小适中，装进包里不费事。在经历过背着XPS 15游荡北京之后，我就打消了使用15寸及以上电脑的念头。</p><p>在需要iPad时可以随时唤醒，配上Touch ID指纹解锁，可以随时进入工作状态，键盘盖上iPad也不会有明显的负担，显得十分自然。</p><p><b>外附配件</b></p><p>无非就是键盘和笔。Smartkeyboard的键程和12寸MacBook类似，我们已经十分熟悉这个新版的蝴蝶键盘，但对于手感只能见仁见智。我个人更倾向于老款MacBook、ThinkPad的键盘在输入时所带来的快感。而这个键盘没有背光灯则决定了在黑暗环境下很难正常工作。键盘和iPad通过触点链接，并且是二级链接，这也降低了误触的概率。键盘很容易清洗，由毛绒纤维内衬，配以硅胶的外衬。遇到水和油都可以用湿巾轻松地擦拭干净，整体还是让我满意的。</p><p>相比用笔写字，我更喜欢键盘输入所带来的快感。所以Apple Pencil对于我的使用场景并不多。但这支笔确实是我用过最好的电子笔：强于Galaxy Note 8。就舒适度而言，除了没有纸质写字的阻尼感，其他的基本上差不多，配上120刷新率的屏幕，使得我开始后悔：为什么不去学习画画。我觉得这支笔有两个缺陷：充电方式诡异和不耐磨。不过这都在二代pencil上得到了良好的解决。</p><p><b>屏幕&amp;性能</b></p><p>我对于OLED和LCD的辨识并不敏感，在我使用XSM一段时间后也并没有出现其他朋友的眼酸的症状。而对于iPad Pro这款10.5寸的屏幕，给我最大的感觉就是比XSM流畅，当然并不是性能的流畅，而是120刷新率所带来的流畅，配合TrueTone，这应该是我见过最好的移动设备屏幕。</p><p>搭载了A10X的iPad Pro放在今天依然是旗舰级的性能标杆，这对于糙剪视频的我来说显然已经足够，而在实际使用中我也并没有发现卡顿的现象，就目前来说和A12甚至A12X没有明显差距。</p><p><b>使用场景</b></p><p>我之前就说过，单是Apple的一个产品，不得体现出其的魅力。而如果很多产品组成iCloud生态链之后，则会无比的舒心。这句话同样适用于iPad，通过iPad，我可以无缝的查看我用mac写的文章，或是其他东西。也可以在各设备之间无缝的接力。</p><p>就使用场景而言，iPad更多的是扮演第二台电脑的角色。配合键盘可以做keynote、pages、numbers，配合笔可以进行绘画、记笔记。但如果要用它做难度更大的工作，受限于iOS系统本身，则显得十分困难，至少目前是这样。</p><p><b>生产力工具？</b></p><p>很显然，iPad Pro即使配上键盘和笔，受限于iOS本身的缘故，并不是合格的生产力工具，更多的是扮演第二台电脑的角色。至少目前是这样。我也很期待着iPad日后的发展。通过新款Pro我们可以清晰的看出Apple开始在iPad上发力，但无论怎么样，它暂时都不是一台合格的生产力工具。</p>", 
+            "topic": [
+                {
+                    "tag": "生产力工具", 
+                    "tagLink": "https://api.zhihu.com/topics/19772918"
+                }, 
+                {
+                    "tag": "生产力", 
+                    "tagLink": "https://api.zhihu.com/topics/19565621"
+                }, 
+                {
+                    "tag": "iPad", 
+                    "tagLink": "https://api.zhihu.com/topics/19550297"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/48931779", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 1, 
+            "title": "改变？或是开始-Apple Watch Series 4体验", 
+            "content": "<blockquote>作为Apple Watch的第一批用户，也算经历了Apple Watch的迭代和成长，而我对于Apple Watch的看法也在不断的改观。无疑Apple Watch在我生活中的权重越来越高。以至于当其迭至第三代时我意识到我已经离不开Apple Watch。而这次的四代对于我来说，更多的是锦上添花-外观上的改变，也正是因为外观上的改变，让Apple Watch不仅是一种玩具，更多的是生活伴侣。</blockquote><p>从初代的确定产品，s2的确定定位，s3的确定性能，和s4的确定外观。Apple Watch发展到今天谈不上完美，但已经没有了太多的缺陷。这也让我更加信服当一种产品经历了四次迭代后，会趋向成熟。iPhone 4之于iPhone，S4之于Apple Watch。</p><p>屏占比的增加使整机看上去十分精致，配合着机身更加圆润的R角，竟有一种鹅卵石般的感觉。这是Apple Watch第一次更改设计id，带更多的继承—S4兼容Apple Watch系列所有表带。采用全新三明治的结构让机身背面全部换为了蓝宝石。无形中增加了一种高端感。而定位较低的铝制版在正面采用了康宁玻璃，虽然耐刮程度不及定位更加高端的不锈钢和edition，但是也从另一个角度降低了成本，并且降低了碎屏率。</p><p>中度使用两天的续航让我忘记了当时戴着续航只有半天的初代遇到关机时的尴尬。而现在我也已经习惯和手机放在一起充电，因此我格外的期待着AirPower，虽然它已经跳票一年。但我相信发售只是时间问题，那应该是我见过最优雅的充电方式：连同我的AirPods也可以一起充电。虽然对于iPhone的充电效率不如18W快充，但少了很多线缆的束缚，也是值得用更多的时间去迎接这一种新的趋势。</p><p>S4的整机体验和S3相差不大，除去屏幕。单轮性能的话我体验不出和S3的任何差异。也让我忘记了当时初代经常掉帧、死机的尴尬。在S4上我可以很自然的调出任何APP，和iCloud设备的联动也让我在不知不觉中得到效率的提升。</p><p>新的数码表冠依托着Taptic Engine带来了机械表独有的线性震动。新的表盘也显得更加高端。这是一块智能表，或这一块时装表。总之我再也不用担心前几代因为粗边框导致不能随意换表盘所带来的尴尬。</p><p>Apple Watch不是独立的成品，它是iPhone的附加品，也是iCloud的一员。引用我在《Apple Watch体验》中的话：Apple Watch不会像手机那样改变人的生活。但可以在细节中提高人的生活质量。</p><p>如果你还在因为糟糕的续航、跑马的边框而对Apple Watch犹豫不决，现在你可以大胆地去入手Apple Watch Series 4，相信它是让你满意的附加品，正如AirPods一样，在细节中提高生活质量。</p><p></p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/47846557", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 1, 
+            "title": "Dell XPS 15（9500）Hackintosh体验报告", 
+            "content": "<p>配置：</p><p> CPU：i5-6300HQ</p><p> ROM：Intel 760P 256G</p><p> RAM：三星4G ddr4*2</p><p> 显卡：Nvdia 960m</p><p> 网卡：博通，型号未知（免驱）</p><p class=\"ztext-empty-paragraph\"><br/></p><p>完善度：90%</p><p class=\"ztext-empty-paragraph\"><br/></p><p>已知bug：</p><p> 电量显示不准</p><p> 无法使用HDMI接口</p><p> 无法使用雷电接口</p><p> 无法使用内置读卡器</p><p> 无法连接手机热点</p><p class=\"ztext-empty-paragraph\"><br/></p><p>安装方式：</p><p> 使用TransMac将带有clover的dmg镜像刻录进u盘。</p><p> 将硬盘分区：300M的efi分区和自定义大小的系统分区，将系统分区格式化为RAW格式。</p><p> 使用DiskGenius替换u盘中的EFI文件（EFI文件根据机型自行选择）</p><p> 进入计算机BIOS开启UEFI启动，插入u盘，进入Mac安装界面</p><p> 将系统盘格式化为APFS，并安装系统。</p><p> enjoy it.</p><p class=\"ztext-empty-paragraph\"><br/></p><p>体验：</p><p> iCloud、handoff、airdrop等可正常使用。</p><p> 5G频段WiFi网速较慢，2.4G频段可正常使用。</p><p> 触控板使用ApplePS2SmartTouchPad可满足日常使用，但三指以上手势动画过于生硬，故使用屏幕触发角代替。</p><p> 完美驱动集显，但无法驱动独显，在不分场合下有规则应用框出现，不影响正常使用。</p><p> 键盘快捷键可正常使用，键位参照apple官方，以Alt代替Command。</p><p> 音量大小可无极调节，但无极调节无法快速明显改变音量大小，所以我更喜欢官方调节方式。 </p><p> 屏幕亮度可无极调节，但调节后亮暗程度变化不大，不过不影响正常使用。</p><p> 开机速度较慢，开机过程为：Dell logo（uefi驱动）-clover引导-apple进度条。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>升级macOS 10.14之后：</p><p> 开机速度明显变慢，已通过替换SMCBatteryManager.kext EFI文件解决。</p><p> 网速明显变慢，已通过加入BT4LEContiunityFixup.kext EFI文件解决。</p><p> 声卡无法驱动，暂未解决。</p><p> 蓝牙无法驱动，暂为解决。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>总结：</p><p> 整体体验和Mac机没有太大差距，但在细节处或多或少存在一些问题，并不影响正常使用。但如果对于Mac没有太大的依赖程度，不建议安装。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>建议：</p><p> Hackintosh对于大部分计算机来说安装过于繁琐，不建议普通用户进行折腾。若对Hackintosh有着狂热的追求，请在折腾前做好心理准备，或者使用对Hackintosh友好的计算机进行安装。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>鸣谢：</p><p> PCbeta黑苹果论坛</p><p> 黑果小兵</p><p> darkhands </p><p> 悦享软件</p>", 
+            "topic": [
+                {
+                    "tag": "黑苹果（Hackintosh）", 
+                    "tagLink": "https://api.zhihu.com/topics/19579005"
+                }, 
+                {
+                    "tag": "戴尔 XPS 系列笔记本电脑", 
+                    "tagLink": "https://api.zhihu.com/topics/19582404"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "NickyJ", 
+                    "userLink": "https://www.zhihu.com/people/28c6027a7c22f4225d71cea1cebcb609", 
+                    "content": "您好 请问能分享一下您的efi吗，同配置", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/39248833", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 1, 
+            "title": "未来已来-看苹果2017冬季发布会有感", 
+            "content": "<p>Apple无疑是当今数码界的领导者/先驱者，它的每一次创新都会带动整个行业的发展甚至革命。2017年9月苹果发布了iPhoneX/iPhone 8/applewatchseries3/airpower等多款新品。而在这短短的两个多小时的发布会时间，苹果又向这个行业宣告：又一个新的革命开始了。<br/><b>全面屏趋势<br/>完全沉浸</b><br/>在iPhone X产品介绍中苹果这样写道“一直以来，我们都心存一个设想，期待着能够打造出这样一部 iPhone：它有整面的屏幕，能让你在使用时完全沉浸其中，仿佛忘记了它的存在。它是如此智能，你的一触、一碰、一言、一语，哪怕是轻轻一瞥，都会得到它心有灵犀的回应。”无疑iPhone X带动了整个手机屏幕的变革。简单来说就是四个字：完全沉浸。使用户忘记使用的是手机，而是一套完全沉浸其中的智能设备。<br/><b>屏幕又一突破</b><br/>无疑这是手机屏幕的一次重大的突破。手机屏幕史上第一次尝试异性屏幕，带来最大的改变就是观感体验上的优化，而这其中的改变和apple强大的硬件链/研发能力是分不开的。<br/><b>交互体验</b><br/>看似只是屏幕外观的变化，其背后却是设备整个交互方式的变化。IPhone X底部横条的出现标志着智能设备按键交互方式由点到滑的一次重大革新。这也向未来整个行业的全面屏指明了方向：滑动操作。而同时代的三星S8则是用安卓传统的虚拟按键进行操作。并没有针对全面屏优化。但ios11不一样：从底部横条的出现/control center的更新到应用开发适配的更新，无疑iPhone X的方式更适合全面屏使用。<br/><b>无线时代</b><br/><b>由Airpods说起</b><br/>我曾说过Airpods是无线耳机的一个重大的革命。同时这也是智能设备进入无线时代的一个里程碑。而今年苹果发布会又发布了带有无线充电功能的全新iPhone series以及airpower无线充电底座。这个充电底座可以同时为全新iPhone 全新applewatch 全新airpods充电盒充电。这也意味着一个全新的无线时代要来临了。而引领者，无疑也是苹果。<br/>现在我们充电方式受到线的束缚。现在看来貌似没什么，但是为什么不用更好的方式呢？全新的apple series均支持了无线充电，还有全新的airpower。也就是说以后的充电方式完全不用收到线的束缚。一根lighting线足矣。同时这也意味着更快捷的充电方式。将设备放在充电枕即可充电。那可比拿三根线优雅多了。<br/><b>未来</b><br/>设想未来的世界：一个被统一标准后的无线充电包装后的时代。也就是说你家的墙壁/地板都配备了无线接收器。餐馆的桌子什么的也配备了无线充电。设备没电了？没关系，随手贴在任何地方即可开始充电。不要认为不可能。Apple已经迈出了一步。新的无线时代很快就会来临。<br/><b>AR</b><br/><b>为什么不是VR？</b><br/>因为VR至今仍不够成熟。<br/>或者说apple标准的VR至今没能实现。<br/><b>从游戏说起</b><br/>仍然是一个新时代的来临，这是手机游戏从虚拟转向半现实的里程碑。还记得发布会上那个利用AR做的moba游戏么？那或许就是以后的标杆，那或许就代表着未来：虚拟与现实结合。分不清现实和虚拟。配合全面屏幕的显示效果。沉浸感会提升很多。<br/><b>摄影 </b><br/><b>人像模式</b><br/>上一年随着iPhone7 Series的发布苹果向我们引入了一个概念：人像模式。它的原理是利用双摄像头测距然后抠图形成背景虚化效果。原理似乎很简单，这个模式似乎也可有可无。但在上手之后就会发现：这个模式太好用了。<br/>而今年随着New iPhone Series的发布苹果为我们带来了新的人像模式：灯光模式。利用智能算法进行智能扣图。最终形成类似于摄影棚效果的照片。<br/>这种新的玩法必然也会引起一些厂商的跟风。这也是小白使用相机的新玩法。不能说变革。但减少了小白玩摄影的门槛。<br/><b>和单反的界限</b><br/>尽管苹果很简单的就介绍新相机传感器。但是其内部带来的提升确是十分强大的。凭借着苹果强大的相机优化能力现在普通用户用手机也能拍出美好的照片。配合人像/灯光模式。使得单反并不是追求更高质量拍摄的必需品。而手机足以胜任一切。<br/><b>End</b><br/>本文未完，以后想起什么我还会重新编辑。<br/>但看完今年苹果发布会后的我只想说：未来已来。</p><p>有很多我们认为不可能的事，都已经发生。这些美好，这些里程碑。注定激励着我们继续对未来的探索，对未来的创新。</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/47196325", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 0, 
+            "title": "比较稳的升级-iPhone XS Max体验", 
+            "content": "<blockquote> 又是一年九月。<br/> 又是一场发布会。</blockquote><p> 作为苹果日历中的「小年」，这次发布会不出意料的只是对过去产品的升级。但我始终觉得正是这种小型的「升级」驱使工业品的不断「完善」和「艺术化」。作为Apple.的老用户，我也见证着苹果每一次S型号对于以往产品的突破，正如这一次的iPhone XS Max—有史以来屏幕最大的iPhone。</p><p> iPhone XS Max的外观与上一代 iPhone并没有明显的差异，同样的前后玻璃面板，同样的不锈钢中框。不同的是更大的机身和再次被定义的「金」色。</p><p> 从5s开始苹果就没有停止对金色的探讨，在经历了6s的玫瑰金、8的腮红金之后，又有一种截然不同的金色出现在XS系列产品里。得益于不锈钢的机身，这种金色显得格外的高雅甚至奢侈，似乎有了「土豪金」的韵味。而这次的金色后壳相比上一代的腮红金，去除了红色元素或者说让「黄」原色得以进一步变得显现。颜色因为每个人的眼光不同而选择不同，对于我这种「黑色控」来说，在经历了短暂对于黑色的审美疲劳，这一次我选择了金色。</p><p> A12 Bionic的性能如何？我不知道，因为以目前我的操作体验来看并没有与上一代A11 Bionic拉开太大的差异，打开任何软件都不需要任何的等待。而让我感知更明显的则是「续航」和「发热」。我曾惊艳于8的7h亮屏续航，也曾吐槽过X的5h亮屏续航，但这次Xs Max在我日常操作的环境下也能保持着7H的亮屏续航。同时因为A12 Bionic单核处理性能的提升，导致这次的XS系列在打开省电模式的情况下也不会有太大的卡顿，所以我一般都是在省电模式下使用手机，以获得更好的续航。而对于发热，我曾陷入过在太阳底下X因为发热卡顿导致我无法使用导航的尴尬，但这次XS Max的发热控制的还算令我满意：在佩戴官方Case的情况下，我在短暂的使用XS Max这一段时间内并没有出现过一次因为发热导致的降频。</p><p> 这次的相机相比上一代升级在感知上不是特别明显，但是如果对比的话还是有很大差距。iPhone X的相机给我留下了很深的印象，尽管他在DXO Mark榜上处于垫底的水平，但我认为评价一个手机中相机的好坏不能只是单纯的「参数」。XS系列这次主要集中在夜景的提升，并且加入了零延迟快门、智能HDR功能，智能HDR的意思也就是手机可以在短时间内连续拍摄多张照片并由AI进行分析拼接出一张相对来说观感更好的照片。而在实际体验中智能HDR在一些如夜景的情况下有着很强的提升作用。并且由于智能HDR的加入导致了本代iPhone在人的皮肤上有着智能美颜的功能，并在国外掀起了一个热点。我个人将其理解成背后有人炒作，因为Android机这种功能已经很常见，并且还不能关闭。</p><p> 我个人将iPhone不带美颜理解成了一个歧视性问题：苹果是一个全球公司，将人像变白美颜是否在某种意义上承认了白人比黑人更好一些？将人脸去痘、修脸是否也意味着在某种意义上歧视了面瘫或其他人群？这些似乎很荒唐的问题，一旦降落在了一个体量很大的产品面前，很有可能掀起一个热点，甚至形成危机。</p><p> 在使用XSM之前我用的是X和7，我的是联通卡，在我的城市来说，三者的信号并没有明显差异。而在极端情况下来说，X和7可以保持4G并且可以正常上网，但XSM则有一部分概率无法上网，需要挪动机器以获取更好的信号。但这些极端环境在日常使用中并不常见。所以，不必太担心所谓的信号问题。</p><p> 这次XS最大的升级也是立体性麦克风，我用X和XSM做了一个对比，如下：同时录制相同人声的音频，XSM和X在本机回放的时候无明显差异，在电脑上或者耳机中回放的时候，XSM的声音会更加饱满，但仅针对日常体验来说，无明显差异。</p><p> iPhone XS Max+DJI OSMO 2是我最喜欢的一套vlog设备，因为它们能在保持画质、稳定的同时更加轻便，同时自带强大的麦克风系统足以让我日常去录制我的声音。强大的性能在日常中也很流畅，续航能力很强配上充电速度很快的快充。如果苹果能在外观上继续升级，或许是更强大的一款移动终端设备。</p><p> 我也在不断问自己，iPhone X系列丑吗？最终我得出的结论是，iPhone X相比其他在外观上有差异化的手机，更加的耐看，虽然不是很惊艳，但是足以应对长期使用。并且产品本就是工业设计和理想主义不断妥协的成果。无疑，iPhone X系列是不完美的的，但是在「不完美」做到了尽可能的「极致」和「完美」。</p>", 
+            "topic": [
+                {
+                    "tag": "iPhone X", 
+                    "tagLink": "https://api.zhihu.com/topics/20095029"
+                }, 
+                {
+                    "tag": "iPhone", 
+                    "tagLink": "https://api.zhihu.com/topics/19550292"
+                }, 
+                {
+                    "tag": "苹果产品", 
+                    "tagLink": "https://api.zhihu.com/topics/19550266"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/45867258", 
+            "userName": "IMSTE", 
+            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+            "upvote": 29, 
+            "title": "这次，稳了：GoPro Hero 7测评", 
+            "content": "<blockquote> 我是摄像爱好者。与其说拍照，不如用摄像去记录动态的故事。而作为独立影像爱好者，我很难拿着许多大而重设备、外设去记录我喜欢的事情。所以我一直幻想着一种小巧轻便、不会给我带来太多负担的设备，让我用更多的时间和精力去安排讲故事。而这一切，都要从我遇见GoPro说起。</blockquote><p> 初识GoPro源于大疆，而GoPro的一切似乎和大疆有着重叠。但不同的是Dji擅长上天，而GoPro擅长在地面工作。所以我一直认为Dji的Mavic系列和GoPro的Hero系列堪称绝配，至少为我们这种独立影像工作者带来了便利。尽管似乎我已经充分的了解了GoPro，但我第一次认真的去摆弄这个小巧而不俗的设备，则源于这一次的Hero 7。</p><p> Hero 7 Black（黑狗7）是GoPro最新的旗舰运动相机，它有着4K 60fps的摄像能力，同时有着720p 240fps的升格能力，配备了最新的防抖性能，由于外观和前代Hero 6相似，所以黑狗7也可以和黑狗6共享生态配件，极大地提升了扩展能力。</p><p> 黑狗7的广角令我印象深刻，它有着两种广角模式：「宽」和「线型」，在「宽」模式下，黑狗7可以呈现更多的内容，与之而来的还有更强的畸变。所以我更喜欢使用「线型」模式，在「线型」模式下黑狗7的畸变的带了改善，同时也减少了一部分画面内容，但足以用「超广角」去形容它。举个最简单的例子，我用手机配合PIXI做vlog时，画面内容只能勉强呈现我的头部。而当我使用黑狗7「线型」模式用同样的设备做vlog时，画面就可以把我的头发、胸部显现出来，同时让我看起来更加自然。</p><p> 黑狗7的也有着极强的稳定性，之前Tim已经讲过黑狗6相比黑狗5已经极大的增强了稳定性，而这次的黑狗7甚至可以不佩戴稳定器直接使用，我通常使用它配合我的PIXI，从画面稳定性来说，黑狗7已经做的足够出色。不过需要注意的是GoPro使用的是电子防抖，也就是它会通过算法裁剪一定的画面（大概15%）来进行防抖，不过得益于超广角的作用，即使开启了稳定模式的黑狗7，也有着不错的广角。</p><p> 画质同样令我印象深刻，这次的黑狗7与上一代采用了相同的图像处理器，同时提升了画面质量，与iPhone X相比，黑狗7的画面质量在小超iPhone X的同时增加了广角，画面细节得到保留，同时最高达240fps的记录能力也让画面有着更强的升格空间。</p><p> 值得一提的是，黑狗7拍摄的画面没有电影感，同时调色偏向于真实。这是我认为值得改进的地方。同时在夜景表现中，黑狗7在有灯光的地方容易产生拖影，而将到30fps后，这种问题则得以缓解。</p><p> 总而言之，目前黑狗7是我理想的vlog设备，因为它在保证画面质量的同时也有着小巧的机身，并且还有着很强的扩展能力。但它并非没有缺点，相反有着很多很多的小问题，比如电池续航能力短、机身不耐刮花、系统稳定性有待增强等。但是作为日常的vlog设备，黑狗7足以胜任。</p><p> GoPro是否值得购买？我认为是值得的，虽然现在的手机在画面质量已经追平甚至超越GoPro，GoPro仍然有着很多值得购买的理由，如广角、拓展性、防水等。同时就我自己而言，我很难拿着手机、单反去拍摄东西，而对于GoPro来说，会让我拍摄故事的专注力更强一些，所以，我认为值得购买。</p>", 
+            "topic": [
+                {
+                    "tag": "测评", 
+                    "tagLink": "https://api.zhihu.com/topics/19892061"
+                }, 
+                {
+                    "tag": "GoPro", 
+                    "tagLink": "https://api.zhihu.com/topics/19676891"
+                }, 
+                {
+                    "tag": "摄影", 
+                    "tagLink": "https://api.zhihu.com/topics/19551388"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "二文", 
+                    "userLink": "https://www.zhihu.com/people/96b595d975d5723ca1332dec9d3af8ce", 
+                    "content": "请问GoProAPP怎么连接相机啊", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "蓝牙", 
+                            "likes": 0, 
+                            "replyToAuthor": "二文"
+                        }, 
+                        {
+                            "userName": "peng wu", 
+                            "userLink": "https://www.zhihu.com/people/4abf17a21f3e3d1f97790c2a2c680d0a", 
+                            "content": "晕，你真的用过gopro吗？是WiFi连好不好", 
+                            "likes": 0, 
+                            "replyToAuthor": "IMSTE"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "秋红苇", 
+                    "userLink": "https://www.zhihu.com/people/f47e5c183eb4d7fce29501cefb9b995f", 
+                    "content": "请问黑狗7 哪里买，咸鱼上看到2780元的黑狗7，很心动", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "我见过最便宜的2400…就怕翻车", 
+                            "likes": 0, 
+                            "replyToAuthor": "秋红苇"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "无由再逢伊面", 
+                    "userLink": "https://www.zhihu.com/people/efcf15db67ec2f0aef5574ad78238373", 
+                    "content": "emmm，京东上狗6也有4k60帧的，黑狗7也是4k60帧，能帮忙分析一下二者具体差别吗", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "gopro7防抖效果更强一些，价格差不多的话建议入手7", 
+                            "likes": 0, 
+                            "replyToAuthor": "无由再逢伊面"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "拜仁抹你黑", 
+                    "userLink": "https://www.zhihu.com/people/826964c06875a7f836f7b4fdd5c3ab8c", 
+                    "content": "请问狗7的防抖和Sony FDR-X3000R光学防抖差距有多大呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "抱歉，没用过索尼，不过用过索尼的dv，感觉gopro7比索尼好很多，建议亲自体验一下。", 
+                            "likes": 0, 
+                            "replyToAuthor": "拜仁抹你黑"
+                        }, 
+                        {
+                            "userName": "虾米", 
+                            "userLink": "https://www.zhihu.com/people/14e986819d71c1a386118f0424311ada", 
+                            "content": "我恰好两个都长期性用过。这几天刚出掉索尼x3000。go7更好一些。索尼那个我简直不想吐槽了。等有回复了我再详细说明吧。", 
+                            "likes": 0, 
+                            "replyToAuthor": "拜仁抹你黑"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "晗晗晗晗晗晗晗", 
+                    "userLink": "https://www.zhihu.com/people/42f54622e84d3812877a82be89c387b2", 
+                    "content": "请问续航大概多久呢", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "有人你", 
+                    "userLink": "https://www.zhihu.com/people/94fd24983aaf18ed62b58c3d01d534b2", 
+                    "content": "作者你好，请问初学vlog的人用狗7white怎么样，还有如果单独拍摄vlog的话它能不能看见自拍的画面", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "有人你", 
+                    "userLink": "https://www.zhihu.com/people/94fd24983aaf18ed62b58c3d01d534b2", 
+                    "content": "作者你好，请问初学vlog的人用狗7white怎么样，还有如果单独拍摄vlog的话它能不能看见自拍的画面", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "卡力斯瓦", 
+                            "userLink": "https://www.zhihu.com/people/3b8d2bc05f886413ab1ffc46e8f9ca6b", 
+                            "content": "<p>只为了vlog的话建议osmo pocket</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "有人你"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "毛豆豆", 
+                    "userLink": "https://www.zhihu.com/people/cf1aa78e5279290a936b28d5e09f3987", 
+                    "content": "楼主，我想问下，7的广角怎么开线性，我找不到", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "IMSTE", 
+                            "userLink": "https://www.zhihu.com/people/392f99bc8f5ea873678b9af46784b943", 
+                            "content": "改成线性模式就可以了", 
+                            "likes": 0, 
+                            "replyToAuthor": "毛豆豆"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1037651298677673984"
+}

@@ -1,0 +1,158 @@
+{
+    "title": "体胖勤跑步 人丑多读书", 
+    "description": "主要内容涉及程序代码，游戏，健身等，偶尔会有一些人生感悟，欢迎各位朋友前来围观指导，大家多交流，互相学习。", 
+    "followers": [
+        "https://www.zhihu.com/people/a-e-e-95-43", 
+        "https://www.zhihu.com/people/pang-pang-pang-pang-pang-54", 
+        "https://www.zhihu.com/people/tian-xing-jian-85-1-67", 
+        "https://www.zhihu.com/people/a-jie-21-47", 
+        "https://www.zhihu.com/people/aaaaa11111", 
+        "https://www.zhihu.com/people/tian-er-leng", 
+        "https://www.zhihu.com/people/noeltoby", 
+        "https://www.zhihu.com/people/wu-xian-li-liang-12", 
+        "https://www.zhihu.com/people/zhu-yuan-55-22", 
+        "https://www.zhihu.com/people/xerrard", 
+        "https://www.zhihu.com/people/francis-shen-59", 
+        "https://www.zhihu.com/people/bian-dong-en", 
+        "https://www.zhihu.com/people/wangyoulin", 
+        "https://www.zhihu.com/people/liu-yan-hong-48-49", 
+        "https://www.zhihu.com/people/chen-en-qiao-14", 
+        "https://www.zhihu.com/people/che-che-dong", 
+        "https://www.zhihu.com/people/lu-fu-jiang-48", 
+        "https://www.zhihu.com/people/ni-zui-zhen-gui-29-24", 
+        "https://www.zhihu.com/people/zi-wei-46-33", 
+        "https://www.zhihu.com/people/jptvhzzxx", 
+        "https://www.zhihu.com/people/zhao-hai-yan-75-8", 
+        "https://www.zhihu.com/people/sarah-wei-77", 
+        "https://www.zhihu.com/people/junjun-5-55", 
+        "https://www.zhihu.com/people/ellen-white-51", 
+        "https://www.zhihu.com/people/chu-xiao-ran", 
+        "https://www.zhihu.com/people/tian-mi-1-84", 
+        "https://www.zhihu.com/people/fa-liao-20", 
+        "https://www.zhihu.com/people/shi-ren-zheng-38", 
+        "https://www.zhihu.com/people/bin-bin-91-56", 
+        "https://www.zhihu.com/people/yushang", 
+        "https://www.zhihu.com/people/shen-hai-li-de-xing-xing-55-34", 
+        "https://www.zhihu.com/people/chen-xin-69-10", 
+        "https://www.zhihu.com/people/lu-a-ma-31", 
+        "https://www.zhihu.com/people/lin-long-69", 
+        "https://www.zhihu.com/people/grace-72-54", 
+        "https://www.zhihu.com/people/da-xue-wen-71", 
+        "https://www.zhihu.com/people/li-zi-78-89-2", 
+        "https://www.zhihu.com/people/ji-ji-wai-wai-da-da-meng", 
+        "https://www.zhihu.com/people/huang-wen-ju", 
+        "https://www.zhihu.com/people/xi-hong-shi-ji-dan-mian-46", 
+        "https://www.zhihu.com/people/yun-yu-dian", 
+        "https://www.zhihu.com/people/luo-wuming", 
+        "https://www.zhihu.com/people/long-36-4", 
+        "https://www.zhihu.com/people/wei-dong-58-79", 
+        "https://www.zhihu.com/people/hudo-58", 
+        "https://www.zhihu.com/people/bai-rui-dan-80", 
+        "https://www.zhihu.com/people/zhang-xing-kai-36", 
+        "https://www.zhihu.com/people/afvbmp", 
+        "https://www.zhihu.com/people/yuan-qiu-hua", 
+        "https://www.zhihu.com/people/love_paradise", 
+        "https://www.zhihu.com/people/zhang-san-68-93-55", 
+        "https://www.zhihu.com/people/zhi-duo-duo-78", 
+        "https://www.zhihu.com/people/richard1989", 
+        "https://www.zhihu.com/people/hana", 
+        "https://www.zhihu.com/people/zhang-jia-li-58-55", 
+        "https://www.zhihu.com/people/energetic-86", 
+        "https://www.zhihu.com/people/bao-bao-ge-88-51"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/42623969", 
+            "userName": "于左臣", 
+            "userLink": "https://www.zhihu.com/people/ba69f9be5aa72edf7d196aab0a1c28f4", 
+            "upvote": 2, 
+            "title": "进程 线程 协程", 
+            "content": "<blockquote>这些概念老生常谈了，最近使用了下Lua的协程，查了查资料，又有些新的理解，整理整理。</blockquote><p>先上基本概念，以下内容来源于维基百科。</p><ul><li><b>进程 </b><br/>进程（英语：process），是计算机中已运行程序的实体。进程为曾经是分时系统的基本运作单位。在面向进程设计的系统（如早期的UNIX，Linux2.4及更早的版本）中，进程是程序的基本执行实体；在面向线程设计的系统（如当代多数操作系统、Linux2.6及更新的版本）中，进程本身不是基本运行单位，而是线程的容器。程序本身只是指令、数据及其组织形式的描述，进程才是程序（那些指令和数据）的真正运行实例。若干进程有可能与同一个程序相关系，且每个进程皆可以同步（循序）或异步（平行）的方式独立运行。现代计算机系统可在同一段时间内以进程的形式将多个程序加载到存储器中，并借由时间共享（或称时分复用），以在一个处理器上表现出同时（平行性）运行的感觉。同样的，使用多线程技术（多线程即每一个线程都代表一个进程内的一个独立执行上下文）的操作系统或计算机体系结构，同样程序的平行线程，可在多CPU主机或网络上真正同时运行（在不同的CPU上）</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>线程 </b><br/>线程（英语：thread）是操作系统能够进行运算调度的最小单位。它被包含在进程之中，是进程中的实际运作单位。一条线程指的是进程中一个单一顺序的控制流，一个进程中可以并发多个线程，每条线程并行执行不同的任务。在Unix System V及SunOS中也被称为轻量进程（lightweight processes），但轻量进程更多指内核线程（kernel thread），而把用户线程（user thread）称为线程。线程是独立调度和分派的基本单位。线程可以为操作系统内核调度的内核线程，如Win32线程；由用户进程自行调度的用户线程，如Linux平台的POSIXThread；或者由内核与用户进程，如Windows 7的线程，进行混合调度。同一进程中的多条线程将共享该进程中的全部系统资源，如虚拟地址空间，文件描述符和信号处理等等。但同一进程中的多个线程有各自的调用栈（call stack），自己的寄存器环境（register context），自己的线程本地存储（thread-local storage）。一个进程可以有很多线程，每条线程并行执行不同的任务。在多核或多CPU，或支持Hyper-threading的CPU上使用多线程程序设计的好处是显而易见，即提高了程序的执行吞吐率。在单CPU单核的计算机上，使用多线程技术，也可以把进程中负责I/O处理、人机交互而常被阻塞的部分与密集计算的部分分开来执行，编写专门的workhorse线程执行密集计算，从而提高了程序的执行效率。</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><ul><li><b>协程 </b><br/>与子例程一样，协程也是一种程序组件。相对子例程而言，协程更为一般和灵活，但在实践中使用没有子例程那样广泛。协程源自Simula和Modula-2语言，但也有其他语言支持。协程更适合于用来实现彼此熟悉的程序组件，如合作式多任务，迭代器，无限列表和管道。</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><blockquote>好，官方说明结束，如果你看到这里，还是一脸懵逼的话，那我说说我自己的理解。和上面介绍的顺序一样，先有进程，在有线程，然后是协程，可以这么想象，试着在空间上去理解进程，在时间上去理解线程。<br/><br/>进程给出了一个空间，在这个空间内共享系统资源，内存等，但是进程不具备执行的能力，一个进程至少需要一个主线程来供操作系统调度，实际上真正消耗CPU是线程(当然线程也有自己独立的小空间)在一个进程内，多个线程可以共享这个进程的大空间，那线程与协程区别又是什么呢？<br/><br/>说到系统调度，这个是人为不可控的，多线程之间到底这个时候哪条线程再跑，这是由系统决定的，当有时候我们想自己决定执行顺序以避免一些问题的时候，就产生了锁这个概念，上锁之后顺序是确定了，但是成本增加了。而协程的调度，完全是由用户决定的，无需锁的参与，并且是在一个线程内，自然成本最低，最快，当然缺点也就来了，那就是一个线程内不管你开了多少协程，始终无法真正利用多核CPU，无法做到真正的并发，有利有弊，多线程甚至多进程下在开协程，那自然另说。<br/><br/>在回过来看，各自之间切换的成本 进程 &gt; 线程 &gt; 协程，速度也自然是由慢到快，举个栗子，传统的生产者-消费者模型是一个线程写消息，一个线程取消息，通过锁机制控制队列和等待，但一不小心就可能死锁。如果改用协程，生产者生产消息后，直接通过yield跳转到消费者开始执行，待消费者执行完毕后，切换回生产者继续生产，效率极高。可安全性就就反过来了，进程之间一个挂了，对另一个完全没有影响，好比你电脑或者手机上，崩掉一个程序(进程)，另外的该是啥样还是啥样，进程是咋崩的，线程执行过程中出错导致的，那这个进程内如果有多个线程，随便一个出错了，别的也别玩了，大空间(进程)都了没了，玩个毛。</blockquote><p>总结一下 <br/>1. 进程，线程是操作系统级的，协程是语言级的。 <br/>2. 每个进程至少包含一个线程，因为线程才是真正的运行单位。 <br/>3. 线程进程都是同步机制，而协程则是异步。 <br/>4. IO密集型一般使用多线程或者多进程，CPU密集型一般使用多进程，强调非阻塞异步并发的一般都是使用协程，当然有时候也是需要多进程线程池结合的，或者是其他组合方式。</p>", 
+            "topic": [
+                {
+                    "tag": "线程", 
+                    "tagLink": "https://api.zhihu.com/topics/19619468"
+                }, 
+                {
+                    "tag": "进程", 
+                    "tagLink": "https://api.zhihu.com/topics/19634510"
+                }, 
+                {
+                    "tag": "协程", 
+                    "tagLink": "https://api.zhihu.com/topics/19890065"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/28399283", 
+            "userName": "于左臣", 
+            "userLink": "https://www.zhihu.com/people/ba69f9be5aa72edf7d196aab0a1c28f4", 
+            "upvote": 12, 
+            "title": "力量训练基础(二) 深蹲-简介", 
+            "content": "<blockquote>很长时间以来，深蹲都是所有训练项目中最重要的，但它也是最未被人们充分了解的一个项目。深蹲这种全幅度动作的练习是举重室里最重要的单项练习，也是我们用来构建力量、爆发力和练出块头最有价值的训练方法。</blockquote><h2><b>后链肌肉</b></h2><p>在所有的人体负重运动中，深蹲实际上是唯一一个能够直接训练“髋部发力”这种复合运动模式的练习，在这种运动模式中，后链肌肉主动发力。<b>后链</b>指的是产生髋部伸展运动的肌肉，他们能够在深蹲的最低点帮助弯曲的髋关节伸直。这些肌肉群，也叫做髋部伸肌，包括腘绳肌、臀肌和内收肌(腹股沟肌肉)。因为这些重要的肌肉有助于跳跃、拉、推和其他所有涉及到下半身的动作，所以我们需要这些肌肉强壮。</p><p>使他们变强壮的最好的方法就是深蹲。如果想通过正确的动作来练习深蹲的话，你必须运用”髋部发力”，这个动作可以被认为是在抬起下背部的骶骨区域，也就是臀部正上方的区域。每一次运用这个动作从深蹲的底部将自己的身体推起的时候，其实你都是在锻炼自己的后链肌肉。</p><p>如果做的正确，深蹲是健身房中唯一一种能够以循序渐进的方式将整个后链作为一个整体来训练的动作，同时也是最佳的力量训练项目。相比其他可以锻炼后链肌肉群的动作，深蹲更为有效。因为其他任何动作都不会在使用所有后链肌肉的同时，还能够保持足够的动作幅度，也没有任何其他动作以先进行<b>向心运动</b>(收缩运动)，再进行<b>离心运动</b>(拉伸运动)的方式训练如此大幅度的动作，从而完成一次拉伸-收缩循环，这也被称作<b>牵张反射</b>。</p><p>“后链”这个术语显然指的是这部分的肌肉在解刨学上的位置。当大多数人试图在深蹲过程中提高自己的运动效率时，“后链”也显示出大多数人在杠铃下感受到的问题的本质。人类是有着适于抓握的双手的双足动物，这种身体结构深刻地影像着我们感觉和体位。我们习惯于双手在双眼能够看到的区域做事情，同时也总觉得应该用双手来完成各种事情。我们不习惯用下半身做事，至少是那些与上厕所无关的事情。</p><p>你很少会注意到自己的头部、躯干和腿部后侧，除非他们受伤了，即时是照镜子，它们也很难被看到。你在镜子里能看到的部位，有手臂、胸部和腹部，如果穿短裤的话，你还能看见大腿和小腿。这些部位也是大多数人最喜欢训练的部位，同时它们也是训练者在锻炼时最容易练到的部位，因为它们会使用双手或者方便使用双手。我们是很喜欢用手的动物。</p><p><i>最难正确锻炼的身体部位其实是我们看不见的部位。后链是帮助身体进行整体运动的肌肉系统中最重要的部分，它也是我们全身力量的源头。</i>后链也是我们最难掌握如何正确使用的部位。如果没有手的话，这个问题可能简单一些。失去了抓住物体边缘的能力，你要怎样拿起桌子并将其举起来？最好的方式是钻到桌子下面去用你的上背部将其顶起来，或者屈膝半蹲用髋部顶住桌子并推动桌子，或者躺下来用你的双脚将其蹬起来，以上这些是你仅有的几个选项。但是你的双手把你的注意力从这几个选项上转移了，从而让你完全不去考虑这些选项。所以大多数人并没有深入地探讨过后链的问题，而这就使得正确锻炼后链成为一个开创性的体验。</p><p>人们并没有充分认识并理解深蹲这个动作，其实它能够锻炼到很多肌肉，比绝大多数人认为的更多。因此，绝大多数人也从未正确的做过这个动作。这就意味着他们不但不能了解这个动作的本质，还无法让所有肌肉以协同的方式相互作用。想要真正理解一件事情，你就必须亲自去体验它。学习正确深蹲的人越多，真正理解深蹲的人就会越多。然后，知识和力量就会像水池中的波纹一样传播开来。这个过程就从这里开始，从你开始！</p><p>感谢大家阅读，下一讲会具体讲解学习如何深蹲，敬请期待~</p>", 
+            "topic": [
+                {
+                    "tag": "深蹲", 
+                    "tagLink": "https://api.zhihu.com/topics/19668009"
+                }, 
+                {
+                    "tag": "健身", 
+                    "tagLink": "https://api.zhihu.com/topics/19552192"
+                }, 
+                {
+                    "tag": "力量训练", 
+                    "tagLink": "https://api.zhihu.com/topics/19721659"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27551960", 
+            "userName": "于左臣", 
+            "userLink": "https://www.zhihu.com/people/ba69f9be5aa72edf7d196aab0a1c28f4", 
+            "upvote": 14, 
+            "title": "力量训练基础 (一)力量", 
+            "content": "<blockquote><p>最近阅读了一本好书 &lt;&lt;力量训练基础&gt;&gt; 读书中发现书中很多知识点都讲的非常好，于是做点笔记，加以整理，分享给大家。</p>\n</blockquote>\n<h1>力量</h1>\n<p><strong>力量是生命中最重要的东西。</strong>虽然随着人类历史的发展，身体对我们的日常生活来说越来越来越不重要，但对我们生命的重要性却从未减弱。以前，我们的身体力量决定了我们我们能获得多少食物，与我们的生存息息相关；现在，在人类通过文明积淀所创造的新环境中，力量仅仅决定了我们的身体在其中会运转得怎样。但我们仍是动物，归根结底，身体的存在才是唯一重要的。一个人在身体孱弱时不会比身体强壮时活得开心。</p>\n<p>我们之前生活在一个简单的世界中，身体的强壮作为一种素质与自身的生存紧密相连。我们曾经很好的适应了这种生存方式，因为我们别无选择。那些身体足够强壮、能够生存下来的人继续活着并保持着强壮。这种生存方式塑造了我们的生理基础，并一直跟随我们直到现在。而就在不久前，人类才出现“劳动分工”这种组织生产新方式，所以我们的基因没有时间去再次适应。而且大多数人也确实没有必要去独立地争取个人生存的权益，身体的活动也看做是可有可无的。从直接必要性来讲，确实是这样；但我们经历了数百万年的进化所形成的强健身体，不会因为办公桌的发明而消失。</p>\n<p>不管你是否喜欢，我们仍然拥有可以变得强壮的肌肉、骨骼、肌腱和神经，这些来之不易的宝贝需要我们的正视。这些东西经历那么久的时间才得以形成，不能就这样忽视了，它们是我们肉体存在不可或缺的组成部分；它们的质量取决于我们有意识的、有目标的努力，努力提供它们所需要的刺激。而锻炼就是这个刺激。</p>\n<p>锻炼不是我们针对某一问题而找到的解决方法，而是我们无论如何都必须做的一件事，一件如果我们不做就会出现很多问题的事。我们必须通过锻炼复制出我们的生理功能曾经适应的那个环境，而只要在这样的环境下，我们的身体状态才是正常的。</p>\n<h1>为什么选择杠铃</h1>\n<p>各种健身器之所以如此成功，是因为他们的出现让健身房行业给大众提供了一种从未有过的体验。想想看，如果我们要在健身房使用杠铃训练，必须有人教我们使用杠铃，而且还必须有人教会健身房的员工使用杠铃。这种专业的教育在以前和现在都很费时间，并且不太普及的。但如果有了各种健身器，即时拿着最低薪水的员工也能很快掌握其使用流程。很显然，健身房经营者无需在员工培训上投入太多，就能够为会员们提供一整套全身训练方案。此外，完成整套流程大约只需30分钟，这样就大大减少了会员在俱乐部滞留的时间，从而增加的客流量并且能够使营业额最大化。</p>\n<p>但问题在于，以机器为基础的训练并不像广告描述中那样有效。完成一个流程的训练几乎不可能增加肌肉的含量。尝试着这样做的人会发现，努力训练了几个月而肌肉量并没有明显增加。但当他们使用杠铃训练时，奇迹就会发生：在一个星期内，他们增长的肌肉量会比他们在机器上奋斗了几个月增长还要多。</p>\n<p><em>把不同的身体训练部位孤立起来，各自独立的进行训练是使用机器训练没有效果的根源所在。</em>而杠铃训练之所以有效果的原因在于，训练者可以同时锻炼全身肌肉。杠铃优于其他任何增长力量的健身器材。<strong>人体是作为一个完整的系统来运作的，它以这样的方式运作，它也希望能以同样的方式进行训练。</strong>人体不喜欢被分成各个部分，然后各自孤立的开来训练，因为训练获得的力量不是以这种方式被使用的。<strong>获取力量的模式必须与使用力量的模式相同。</strong></p>\n<p>杠铃和基于杠铃的主要练习远远优于其他的训练器材。<strong>正确实施的，全动作幅度的杠铃练习，实际上是人类骨骼，肌肉系统在负重下的功能性表达。</strong>杠铃练习由每个人特定的运动模式来控制，并由训练者的肢体长度、肌肉的连接位置、力量水平、柔韧性和神经肌肉连接效能来精细调整。在一个杠铃动作中，所有参与的肌肉是自然达到平衡状态的，因为所有参与的肌肉都贡献了它们在人体机构上特定的那一部分工作量。肌肉移动骨骼之间的关节，骨骼则把力传递给杠铃：这样的运动方式是符合人体运动系统的规律的——当人体系统根据自己的设计运转时，它会达到最优状态，所以我们训练应遵循其设计。杠铃移动的方式恰好符合人体设计的动作模式，因为动作的每一方面都由身体自己决定。</p>\n<p>在训练时，杠铃还要求训练者进行所有必要的调整，以在重量移动的过程中保持控制。这个方面的重要性再怎么强调都不为过，对杠铃的控制、对训练者平衡和协调能力的需求，这些是杠铃训练独有的，而在以机器为基础的训练中是完全见不到的。因为负重运动的每一个方面都要由训练者自己控制，这样每一个方面都会得到锻炼。</p>\n<p><em>杠铃的训练还有其他的好处，</em>杠铃的重量最终是由骨骼来支持的。<strong>骨骼是有生命的、</strong>能够对外界的压力做出反应的组织，就像肌肉、韧带、肌腱、皮肤、神经和大脑一样。它也会像其他组织一样适应外界的刺激，并在经过更大重量的训练后变得密度更大、更结实。从这方面来说，<strong>杠铃训练对老年人和女性来说是很重要的，因为骨密度是影响他们健康的一个主要因素。</strong></p>\n<p><em>杠铃训练的唯一问题是相当多的人不知道如何正确地使用杠铃。</em>学习渠道的缺失“名正言顺”地阻止了很多人使用杠铃进行训练。</p>\n<p>希望通过对&lt;&lt;力量训练基础&gt;&gt;这本书的学习和整理，把杠铃训练的方法呈现给大家，能够对大家有所帮助。</p>", 
+            "topic": [
+                {
+                    "tag": "健身", 
+                    "tagLink": "https://api.zhihu.com/topics/19552192"
+                }, 
+                {
+                    "tag": "力量训练", 
+                    "tagLink": "https://api.zhihu.com/topics/19721659"
+                }, 
+                {
+                    "tag": "力量", 
+                    "tagLink": "https://api.zhihu.com/topics/19573542"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27466406", 
+            "userName": "于左臣", 
+            "userLink": "https://www.zhihu.com/people/ba69f9be5aa72edf7d196aab0a1c28f4", 
+            "upvote": 2, 
+            "title": "减肥历程", 
+            "content": "<h2>减肥前后对比图</h2><figure><noscript><img src=\"https://pic3.zhimg.com/v2-498bbc31a313b49e1c2f9b0e180851aa_b.png\" data-rawwidth=\"523\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"523\" data-original=\"https://pic3.zhimg.com/v2-498bbc31a313b49e1c2f9b0e180851aa_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;523&#39; height=&#39;360&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"523\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"523\" data-original=\"https://pic3.zhimg.com/v2-498bbc31a313b49e1c2f9b0e180851aa_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-498bbc31a313b49e1c2f9b0e180851aa_b.png\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-91583994148457887afeee9bdf75c390_b.png\" data-rawwidth=\"481\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb\" width=\"481\" data-original=\"https://pic1.zhimg.com/v2-91583994148457887afeee9bdf75c390_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;481&#39; height=&#39;360&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"481\" data-rawheight=\"360\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"481\" data-original=\"https://pic1.zhimg.com/v2-91583994148457887afeee9bdf75c390_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-91583994148457887afeee9bdf75c390_b.png\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/v2-e7bae48ec251c0f7734d5c217f6b3d53_b.png\" data-rawwidth=\"481\" data-rawheight=\"642\" class=\"origin_image zh-lightbox-thumb\" width=\"481\" data-original=\"https://pic4.zhimg.com/v2-e7bae48ec251c0f7734d5c217f6b3d53_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;481&#39; height=&#39;642&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"481\" data-rawheight=\"642\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"481\" data-original=\"https://pic4.zhimg.com/v2-e7bae48ec251c0f7734d5c217f6b3d53_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-e7bae48ec251c0f7734d5c217f6b3d53_b.png\"/></figure><br/><h2>性别资料</h2><p>性别:男 身高:181CM\n体重(最重):200斤\n体重(最轻):160斤</p><br/><h2>故事是这么开始的</h2><p>从小不知道啥毛病，严重挑食，只吃少量的几种蔬菜，几乎大部分的绿色蔬菜都不吃，吃了就恶心(现在想来，当时就是心理作用)，每顿没肉吃不下饭，经常可以一碗米饭一碗肉就解决一顿，而且不怎么爱运动(因为太胖也没人带你玩啊…)，就这样，体重慢慢的涨到了200斤。</p><p>后来上了初中，得到了”名师”教导(同班同学哈，现在的好兄弟)，开始学习打篮球了(终于有人带我玩了…)，这才慢慢开始运动，但是各种跑不动啊，不灵活，跳多了还膝盖疼(“职业生涯”还没开始感觉就药丸..)，这时候自己才意识到自己实在是太！胖！了！</p><p>在后来上了高中，也一直在坚持打球，但是该多胖还是多胖，因为该怎么吃还是怎么吃呃(挑食是个坏毛病…)，这个时候出现了一个关键人物，也是我后来的好兄弟，一个曾经减肥成功的人！！他给我看了他以前的照片，讲了减肥的故事，我就这么被震撼了（现在想想自己还是挺幸运的，能够遇到这么多好兄弟），在他的鼓励下，等到暑假，我俩找了个健身房就开始了减肥之旅。</p><p>先上张图(我和我那个哥们 左边是我)</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-aeb3145fbe3eafa0b40b98f07d2b725f_b.jpg\" data-rawwidth=\"2816\" data-rawheight=\"2112\" class=\"origin_image zh-lightbox-thumb\" width=\"2816\" data-original=\"https://pic4.zhimg.com/v2-aeb3145fbe3eafa0b40b98f07d2b725f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2816&#39; height=&#39;2112&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"2816\" data-rawheight=\"2112\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2816\" data-original=\"https://pic4.zhimg.com/v2-aeb3145fbe3eafa0b40b98f07d2b725f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-aeb3145fbe3eafa0b40b98f07d2b725f_b.jpg\"/></figure><p>同年暑假过后(五官最起码能看清楚了..)</p><br/><figure><noscript><img src=\"https://pic2.zhimg.com/v2-98698dd8c62034d0c8e250f7f07f8c35_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"1024\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic2.zhimg.com/v2-98698dd8c62034d0c8e250f7f07f8c35_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;1024&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"1024\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic2.zhimg.com/v2-98698dd8c62034d0c8e250f7f07f8c35_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-98698dd8c62034d0c8e250f7f07f8c35_b.jpg\"/></figure><p>在后来(还是我和我那个哥们 右边是我)</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-08a78953ee94448d037df9a6fc0efacb_b.jpg\" data-rawwidth=\"3648\" data-rawheight=\"2056\" class=\"origin_image zh-lightbox-thumb\" width=\"3648\" data-original=\"https://pic4.zhimg.com/v2-08a78953ee94448d037df9a6fc0efacb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;3648&#39; height=&#39;2056&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"3648\" data-rawheight=\"2056\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"3648\" data-original=\"https://pic4.zhimg.com/v2-08a78953ee94448d037df9a6fc0efacb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-08a78953ee94448d037df9a6fc0efacb_b.jpg\"/></figure><blockquote>那个暑假一个月瘦了20斤，到了学校，同学们都惊呆了..连自行车棚的大妈都说，小伙子，你暑假干嘛去了，咋瘦成这样了..</blockquote><br/><h2>这个暑假我经历了什么</h2><h2>饮食</h2><ul><li>早饭:简单的早餐，豆浆，包子，鸡蛋啥的，垫垫就行。</li><li>午饭:一小碗米饭，正常的家常菜。</li><li>晚饭:就没有晚饭好么！！屯了几十斤的西红柿，黄瓜，饿了就啃这些，是在饿的不行了，就去睡觉…</li></ul><h2>运动</h2><ul><li>每天去健身房两个小时。</li><li>跑步机一小时，在上一节45分钟的动感单车课，然后拉伸下，偶尔练练器械。</li><li>我比较爱出汗，每天出汗到什么情况，短袖短裤完全湿透！汗贴着腿往下流，袜子湿一半！</li><li>就这样坚持了一个月，天天如此。</li></ul><h2>关于坚持</h2><ul><li>头一周饮食突然减少，实在是饿的不行..硬生生的忍住了，过了第一周后面就好很多了，感觉自己的胃变小了一样，不需要吃那么多了。</li><li>每天锻炼也非常辛苦，尤其天天去，好在有个人一起，相互加油，鼓励。</li><li>那个时候想法也很简单，就想着从小到大似乎还没做过什么让我特别骄傲的事情，那就从减肥开始吧。</li></ul><h2>减肥成功的感觉</h2><ul><li><b>衣服好买了很多</b>，我以前买裤子一大难，根本提不上去你知道么，运动裤还好，牛仔裤就压根别想，后来是突然刮来一股HIP-POP风，各种宽松的滑板裤，我记得我当时特激动，终于能穿上牛仔裤了！！还不怎么紧，简直不要太爽！(后来瘦了就SB了，买了一堆嘻哈风的衣服裤子，全玩完，太大了，简直不能再嘻哈..)</li><li><b>不在自卑</b>，因为胖，从小被人嘲笑，被人欺负，被人起各种外号..出去买衣服也很难买到自己喜欢的，这并不是一段很好的经历，既然我们没办法改变别人，那就改变自己吧，正确的面对自己，取长补短。能够掌控自己的身体人，就有机会掌控自己的人生。</li><li><b>被人正视</b>，你周围的所有人，所有人，不论大人，还是同龄人，你能明显的感到，对你的看法不一样了，发自内心的那种，会以你为榜样，减肥真的是一件很不容易的事情，有太多的人尝试过，失败过。</li><li><b>你比以往更加相信自己</b>，接下来在做什么事情，无论多么困难，你都会坚持下去，你始终觉得，只要付出，就一定会有回报。放弃是什么，你根本不知道。</li><li><b>发现美好</b>，你看待这个世界的眼光和从前不太一样了，从未感觉原来生活如此美好。</li><li><b>脱胎换骨</b>，整个人从里到外都焕然一新，充满着朝气，充满着能量，你更愿意去帮助别人。</li><li><b>乐于助人</b>，你真正能体谅那些收到肥胖困扰的人，愿意和他们分享你的故事。</li><li><b>你再也不想胖回去</b>。</li></ul><br/><h2>故事还没结束</h2><p>整个人瘦下来了，脸看着也确实瘦的比较明显，可瘦!=身材好，如下。</p><br/><figure><noscript><img src=\"https://pic3.zhimg.com/v2-385ecabb721ff42ec8b4b6a6393c07ba_b.jpg\" data-rawwidth=\"2112\" data-rawheight=\"2816\" class=\"origin_image zh-lightbox-thumb\" width=\"2112\" data-original=\"https://pic3.zhimg.com/v2-385ecabb721ff42ec8b4b6a6393c07ba_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2112&#39; height=&#39;2816&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"2112\" data-rawheight=\"2816\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2112\" data-original=\"https://pic3.zhimg.com/v2-385ecabb721ff42ec8b4b6a6393c07ba_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-385ecabb721ff42ec8b4b6a6393c07ba_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/v2-0f912f3e1fb9505670c4801f8da8d1a0_b.jpg\" data-rawwidth=\"2448\" data-rawheight=\"3264\" class=\"origin_image zh-lightbox-thumb\" width=\"2448\" data-original=\"https://pic1.zhimg.com/v2-0f912f3e1fb9505670c4801f8da8d1a0_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2448&#39; height=&#39;3264&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"2448\" data-rawheight=\"3264\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2448\" data-original=\"https://pic1.zhimg.com/v2-0f912f3e1fb9505670c4801f8da8d1a0_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0f912f3e1fb9505670c4801f8da8d1a0_b.jpg\"/></figure><p>是不是看起来还是有种感觉，这不还是一个死胖子..这不能够啊，于是，新的一轮健身之旅又开始了。</p><br/><h2>健身篇</h2><p>一张图证明训练痕迹</p><figure><noscript><img src=\"https://pic2.zhimg.com/v2-005a4b23a69ec17ef20f10099bcecd11_b.png\" data-rawwidth=\"2707\" data-rawheight=\"1150\" class=\"origin_image zh-lightbox-thumb\" width=\"2707\" data-original=\"https://pic2.zhimg.com/v2-005a4b23a69ec17ef20f10099bcecd11_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;2707&#39; height=&#39;1150&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"2707\" data-rawheight=\"1150\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"2707\" data-original=\"https://pic2.zhimg.com/v2-005a4b23a69ec17ef20f10099bcecd11_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-005a4b23a69ec17ef20f10099bcecd11_b.png\"/></figure><p>目前状态</p><figure><noscript><img src=\"https://pic4.zhimg.com/v2-3ceec0d98669e36e6da723bc9eb04a8b_b.jpg\" data-rawwidth=\"1080\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-3ceec0d98669e36e6da723bc9eb04a8b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1080&#39; height=&#39;1080&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1080\" data-rawheight=\"1080\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1080\" data-original=\"https://pic4.zhimg.com/v2-3ceec0d98669e36e6da723bc9eb04a8b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3ceec0d98669e36e6da723bc9eb04a8b_b.jpg\"/></figure><p>是不是这个时候才有点像一部完整的励志大片~\n先交代一下背景，开始健身的时候已经踏入社会了，楼主一不小心就踏入了北漂的行列，并且成为了一个游戏程序猿。背景离乡的，又搞IT的，基本就要面临以下这么几个问题了:</p><ul><li><b>饮食不规律</b>，外卖，加班餐，福利好点的，饮食饮料不限量啊，不克制一下简直药丸。</li><li><b>久坐</b>，一体检，就是各种颈椎问题啊，腰椎间盘突出啥的..</li><li><b>熬夜</b>，明天出版本，那基本今天这就这么个节奏了。简直是拿绳命在工作啊。</li><li><b>加班</b>，90%的IT公司，99%的游戏公司~不用多说哈，面试时候对话可能是这样的…</li></ul><blockquote>“什么？不加班？下一个。”(Are you fucking kiding me！？)\n基本我北漂的前几年就是这么度过的，每天到了下班的点，工作群了准时帮大家订下午饭，项目组长带头起订，你说你咋办？还有时间健身？？连特么把妹的时间都没有啊，DOTA啥的更别提了…回去倒头就睡了。<br/>说到这就不得不顺便安利一下我现在待的公司了，简直游戏界的一股清流啊，业内良心，不加班，福利好，还支持全民健身~谁搜谁知道(重要的是，我司策划个个好脾气，绝对打不还手，骂不还嘴！惊不惊喜！开不开心！)。\n公司名称: 北京魂世界信息技术有限公司 各种坑位齐全，欢迎有兴趣的小伙伴前来参观指导。</blockquote><h2>如何开始科学的健身</h2><ul><li><b>时间</b>，首先你要保证一定的训练时间，还有一定的休息时间，身材的雕琢不是一天两天的事情，慢工出细活。还是那句话，通往成功的路上没有捷径，有付出才有收获。</li><li><b>决心</b>，和减肥一样，锻炼其实是一件很枯燥的事情，我们一定需要有坚定的决心，去坚持下去，给自己一个不能放弃的理由，或者人。</li><li><b>方法</b>，有了时间和决心后，我们就要开始付出行动了，这个时候如果有正确的方法那就能起到事半功倍的效果，我自从开始健身以来，也走了不少弯路，费了不少时间，身材还没有太大的变化。现在不断的通过学习，看健身方面的书籍，请教各种健身大神，总算是摸索出一套适合自己的健身方法了，找到合适自己的方法后，每次锻炼过后，都能过很明显的感觉到自己的身体在一点一点的锐变。</li><li><b>饮食</b>，说到饮食，那就不得不提一句话了，”三分练，七分吃”，有时候即使你平常付出了很多的精力来锻炼，但是在吃上不注意，那效果就会大打折扣，所以这方面我们一定要积累一些相关的知识，让自己的锻炼成果能落到实处。</li><li><b>心情</b>，心理因素也是我们不可忽视的一个关键点，我们在生活上往往不会是一帆风顺的，会碰到各种各样的问题，其中的任何一点都有可能会影响我们的训练，甚至导致放弃，如何调控自己的情绪，知道它们如何产生，不利的如何消除，有利的如何加以利用。这里推荐一本书和一段在线课程，我看了之后受到很多启发，感慨良多，有兴趣的朋友可以关注下。书:<a href=\"https://link.zhihu.com/?target=https%3A//book.douban.com/subject/10786473/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">自控力</a>，在线课程:<a href=\"https://link.zhihu.com/?target=http%3A//open.163.com/special/positivepsychology/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">幸福课</a></li></ul><h2>最后</h2><p>在上一张自己最胖的时候到现在的照片。\n</p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-5357d0dab0e6fe2f4c363126c2c80d3c_b.jpg\" data-rawwidth=\"800\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb\" width=\"800\" data-original=\"https://pic1.zhimg.com/v2-5357d0dab0e6fe2f4c363126c2c80d3c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;800&#39; height=&#39;800&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"800\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"800\" data-original=\"https://pic1.zhimg.com/v2-5357d0dab0e6fe2f4c363126c2c80d3c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-5357d0dab0e6fe2f4c363126c2c80d3c_b.jpg\"/></figure><p>这一路走来，经历了很多，从一个完全不爱运动的”死胖子”，慢慢变成这样，真的是很不容易，我知道有时候我们迈出那一步很难，所以希望把我的个人经历写下来，多少能够对朋友们起到一点帮助哈。</p><p>如果看完这个，大家还有什么问题，也欢迎随时交流哈，私信或者微信(<b>gy03285806</b>)都可以，无论是减肥的，健身的，我都会尽我所能的去帮助大家，有批评指导的也欢迎哈，互相监督，一起进步。</p><p>我一直相信，无论何时，只要开始就不晚！\n共勉~</p>", 
+            "topic": [
+                {
+                    "tag": "减肥", 
+                    "tagLink": "https://api.zhihu.com/topics/19553128"
+                }, 
+                {
+                    "tag": "运动", 
+                    "tagLink": "https://api.zhihu.com/topics/19552706"
+                }, 
+                {
+                    "tag": "健身", 
+                    "tagLink": "https://api.zhihu.com/topics/19552192"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/yuzuochen"
+}

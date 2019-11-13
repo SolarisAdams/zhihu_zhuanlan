@@ -1,0 +1,33 @@
+{
+    "title": "码农——编程之路", 
+    "description": "分享编程技巧、经验、心得等内容，希望能够给予乐于编程的朋友一些帮助。", 
+    "followers": [
+        "https://www.zhihu.com/people/lan-lan-lan-lan-96-82"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/40690911", 
+            "userName": "AI贾书军", 
+            "userLink": "https://www.zhihu.com/people/4d9e87f4a04401c6bc176fbf1ff6c1d0", 
+            "upvote": 0, 
+            "title": "首篇：如何高效编程总结", 
+            "content": "<p>第一条：时刻按照编码规范编写代码，从形式上减少犯错的概率；</p><p>第二条：在开发过程中，使用自动测试技术，保证代码能够进行充分的白盒测试，并保证自己在编码过程中对于各种边界条件考虑充分；</p><p>第三条：熟练掌握所使用的开发工具；</p><p>第四条：请坚持前三条，就会成为优秀的码农。</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "编程技巧", 
+                    "tagLink": "https://api.zhihu.com/topics/19614163"
+                }, 
+                {
+                    "tag": "编程", 
+                    "tagLink": "https://api.zhihu.com/topics/19554298"
+                }, 
+                {
+                    "tag": "编程学习", 
+                    "tagLink": "https://api.zhihu.com/topics/19593616"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_217207183"
+}

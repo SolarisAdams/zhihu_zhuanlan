@@ -1,0 +1,359 @@
+{
+    "title": "Rethinking", 
+    "description": "关于互联网思维以及大数据的读书感想和思考", 
+    "followers": [
+        "https://www.zhihu.com/people/goodlooks-com-cn", 
+        "https://www.zhihu.com/people/hanbing-81-91", 
+        "https://www.zhihu.com/people/kong-kong-di-81", 
+        "https://www.zhihu.com/people/guan-shan-yue-82-20", 
+        "https://www.zhihu.com/people/15693339348", 
+        "https://www.zhihu.com/people/jiang-hu-dao-ke-41", 
+        "https://www.zhihu.com/people/yige-xiao-qi", 
+        "https://www.zhihu.com/people/edward-young", 
+        "https://www.zhihu.com/people/Jackyuu", 
+        "https://www.zhihu.com/people/seven-change", 
+        "https://www.zhihu.com/people/gu-yu-71-65", 
+        "https://www.zhihu.com/people/zhi-hu-zhe-ye-8-20", 
+        "https://www.zhihu.com/people/wu-jia-ni-28-51", 
+        "https://www.zhihu.com/people/chen-zhi-wei-37-90", 
+        "https://www.zhihu.com/people/ppp-46-87-94", 
+        "https://www.zhihu.com/people/cheng-yu-26-64", 
+        "https://www.zhihu.com/people/canghyx-canghyx-40", 
+        "https://www.zhihu.com/people/long-zeng-hao-53", 
+        "https://www.zhihu.com/people/pinocc", 
+        "https://www.zhihu.com/people/ting-feng-zhe-14", 
+        "https://www.zhihu.com/people/ityangs", 
+        "https://www.zhihu.com/people/zhang-zhe-47", 
+        "https://www.zhihu.com/people/wang-cherry-70", 
+        "https://www.zhihu.com/people/gu-yue-peng-53", 
+        "https://www.zhihu.com/people/snowdream86", 
+        "https://www.zhihu.com/people/ticktock-47", 
+        "https://www.zhihu.com/people/AnnieNew", 
+        "https://www.zhihu.com/people/green-56-63", 
+        "https://www.zhihu.com/people/mattzhang27", 
+        "https://www.zhihu.com/people/guolong", 
+        "https://www.zhihu.com/people/du-xue-cheng", 
+        "https://www.zhihu.com/people/kevin-du-66", 
+        "https://www.zhihu.com/people/peng-hao-42", 
+        "https://www.zhihu.com/people/xyls220", 
+        "https://www.zhihu.com/people/x-w-35-68", 
+        "https://www.zhihu.com/people/li-you-yu", 
+        "https://www.zhihu.com/people/lu-fei-46-34-29", 
+        "https://www.zhihu.com/people/ke-nan-47-27", 
+        "https://www.zhihu.com/people/joymonkey", 
+        "https://www.zhihu.com/people/huang-hua-feng", 
+        "https://www.zhihu.com/people/latiao", 
+        "https://www.zhihu.com/people/ceng-xing-2-13", 
+        "https://www.zhihu.com/people/he-lu-zi", 
+        "https://www.zhihu.com/people/meng-jue-2", 
+        "https://www.zhihu.com/people/zheng-mason", 
+        "https://www.zhihu.com/people/best-ren", 
+        "https://www.zhihu.com/people/lin-hui-feng", 
+        "https://www.zhihu.com/people/williambao", 
+        "https://www.zhihu.com/people/zbin-bin", 
+        "https://www.zhihu.com/people/wuxiaolong.me", 
+        "https://www.zhihu.com/people/zhao-qing-bo-74", 
+        "https://www.zhihu.com/people/L5a", 
+        "https://www.zhihu.com/people/razioooooo", 
+        "https://www.zhihu.com/people/beskyme", 
+        "https://www.zhihu.com/people/swing-shi", 
+        "https://www.zhihu.com/people/cao-xiao-18", 
+        "https://www.zhihu.com/people/xue-yun-13", 
+        "https://www.zhihu.com/people/joe-kuai", 
+        "https://www.zhihu.com/people/xuzho", 
+        "https://www.zhihu.com/people/wangyifengeel", 
+        "https://www.zhihu.com/people/tan-shi-wei", 
+        "https://www.zhihu.com/people/zhang-wei-31-47", 
+        "https://www.zhihu.com/people/hahass", 
+        "https://www.zhihu.com/people/weirdbird", 
+        "https://www.zhihu.com/people/zhang-xin-qwer34", 
+        "https://www.zhihu.com/people/cbq926", 
+        "https://www.zhihu.com/people/cheng-kai-80-51", 
+        "https://www.zhihu.com/people/zerro-jia", 
+        "https://www.zhihu.com/people/firewire3", 
+        "https://www.zhihu.com/people/calv1n", 
+        "https://www.zhihu.com/people/zhen-liu-36", 
+        "https://www.zhihu.com/people/chen-chen-60-90", 
+        "https://www.zhihu.com/people/ynopeeb", 
+        "https://www.zhihu.com/people/liulun", 
+        "https://www.zhihu.com/people/zrock-zhao", 
+        "https://www.zhihu.com/people/forcyy", 
+        "https://www.zhihu.com/people/tang-yi-feng-84", 
+        "https://www.zhihu.com/people/zmingchun", 
+        "https://www.zhihu.com/people/dstmath-dstmath", 
+        "https://www.zhihu.com/people/jin-shou-zhi-89", 
+        "https://www.zhihu.com/people/mo-bin-58", 
+        "https://www.zhihu.com/people/ivan_gong", 
+        "https://www.zhihu.com/people/jiang-yuan-53", 
+        "https://www.zhihu.com/people/excited-sugar", 
+        "https://www.zhihu.com/people/ilaowu", 
+        "https://www.zhihu.com/people/pychan", 
+        "https://www.zhihu.com/people/mengfanhao", 
+        "https://www.zhihu.com/people/duwulun", 
+        "https://www.zhihu.com/people/xx-xx-6-8", 
+        "https://www.zhihu.com/people/sherlock-holmes-4", 
+        "https://www.zhihu.com/people/li-pei-feng", 
+        "https://www.zhihu.com/people/linggang-xu", 
+        "https://www.zhihu.com/people/zhang-feng-2", 
+        "https://www.zhihu.com/people/ljsxiao-mi", 
+        "https://www.zhihu.com/people/yan-yuan-41", 
+        "https://www.zhihu.com/people/liu-zhen-87-35", 
+        "https://www.zhihu.com/people/yan-yu-jiang-nan-39", 
+        "https://www.zhihu.com/people/ding-chun-26", 
+        "https://www.zhihu.com/people/wang-xiao-shuai-14-10", 
+        "https://www.zhihu.com/people/qiu-shui-32-9", 
+        "https://www.zhihu.com/people/clarkyu", 
+        "https://www.zhihu.com/people/feiyu-xiuchun", 
+        "https://www.zhihu.com/people/next_26", 
+        "https://www.zhihu.com/people/zhang-kai-84-66", 
+        "https://www.zhihu.com/people/bluesky0", 
+        "https://www.zhihu.com/people/fang-fang-feng-88", 
+        "https://www.zhihu.com/people/yang-lu-hui", 
+        "https://www.zhihu.com/people/lian-zhi-gu", 
+        "https://www.zhihu.com/people/jiang-jian-hua", 
+        "https://www.zhihu.com/people/zhang-wei-10-7", 
+        "https://www.zhihu.com/people/paiguquan", 
+        "https://www.zhihu.com/people/liucundong"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/23564742", 
+            "userName": "佚名", 
+            "userLink": "https://www.zhihu.com/people/413df232fd0e85e2bbf792c956a94b65", 
+            "upvote": 0, 
+            "title": "僵尸咖啡店靠什么存活？", 
+            "content": "我家附近（北京郊区农村）有一家上岛咖啡。和城里的星巴克等咖啡厅的开放式设计很不一样， 即使和同是上岛咖啡的城里分店比起来，也不太一样。 这里没有开放大厅， 都是一个一个的私密小包间。 还有配有一间麻将式。 和三四线城市的咖啡娱乐厅类似。<p>来这里的客人不单纯来喝咖啡的， 为了喝咖啡来的客人其实比例很低。 多是来谈商务或者小聚的。</p><p><figure><noscript><img src=\"https://pic1.zhimg.com/v2-70d1767324135d1ed52211d4c3413498_b.png\" data-rawwidth=\"690\" data-rawheight=\"460\" class=\"origin_image zh-lightbox-thumb\" width=\"690\" data-original=\"https://pic1.zhimg.com/v2-70d1767324135d1ed52211d4c3413498_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;690&#39; height=&#39;460&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"690\" data-rawheight=\"460\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"690\" data-original=\"https://pic1.zhimg.com/v2-70d1767324135d1ed52211d4c3413498_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-70d1767324135d1ed52211d4c3413498_b.png\"/></figure>别看这是郊区，店的装修是花了不少本钱的。用的比较典型的欧式豪华装修，虽然和城里人的品味差别较大，但是依然看得出老板是花了大本钱和心思的。 服务人员也和旁边的饺子馆拉面店区别很大，服务态度甚好。据观察服务员和老板另外一家星级酒店的服务员一起培训，一点不比四星级酒店服务差。 </p><br/><p>这家店深得我喜爱的一大特点就是人少。十几个包间就两三个客人，甚至经常就我一个客人。 我常拿着电脑或者一本书，点一杯大美式，一坐就是一天， 没人打搅我， 感觉甚爽。</p><p>只是有一件事情一直想不通， 这家店开了好几年，生意一直惨淡，而又要花高成本来运营，明显是亏本的，老板为啥一直在运营呢？</p><p>后来和店里的服务员混熟了， 问了问服务员， 小女孩说， 不知道啊， 老板有钱任性呗。</p><p>了然。 </p><p>再想想特朗普当总统了， 然。</p>", 
+            "topic": [
+                {
+                    "tag": "咖啡", 
+                    "tagLink": "https://api.zhihu.com/topics/19551387"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/23398768", 
+            "userName": "佚名", 
+            "userLink": "https://www.zhihu.com/people/413df232fd0e85e2bbf792c956a94b65", 
+            "upvote": 2, 
+            "title": "三十岁前看这个世界哪儿哪儿都不正常，三十岁后看这个世界哪儿哪儿都正常", 
+            "content": "<p>这句话不是我说的，</p><p>过了31岁生日又几天的时候，</p><p>赋闲在家，</p><p>体会一下，</p><p>觉得说得很有道理。</p><br/><p> 不光这句话，</p><p>很多话都有道理，</p><p>包括那些有道理和没有道理的话， </p><p>好像都有些道理。 </p>", 
+            "topic": [
+                {
+                    "tag": "人生意义", 
+                    "tagLink": "https://api.zhihu.com/topics/19578210"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20416711", 
+            "userName": "佚名", 
+            "userLink": "https://www.zhihu.com/people/413df232fd0e85e2bbf792c956a94b65", 
+            "upvote": 1, 
+            "title": "How Important It Is To Give A Second Thought", 
+            "content": "December 14, 2015 5:45 PM \n<br/><br/>注：\n<br/><ul><li>这篇文章的作者是一个叫佚名的名人，我只是替他把他的想法从键盘上敲出来。</li><li>我从未见过他，但我确认这是他所想的， 并且他一定是这么想的。</li><li>我并不知道我的确认有多少把握。</li></ul><br/>沟通的难处在于很多时候你并不能直接通过对方的话语了解对方的真实意图。 在英文里， 有个很好的单词表达这种情况， 『literally』，即你不能简单通过字面上的意思来推导对方真实的意图。 \n<br/><br/>之前我常困惑于中国人之间的交流非常费劲， 不愿意直接表达真实的想法，总是各种拐弯抹角。后来发现不光是中国人这样， 美国人也这样。 任何民族都这样， 这是存在于整个人类沟通中的普遍现象。\n<br/><br/>一个很大的缘由是说话人不想直接点破所带来的冲突，或者会造成听话人的反感，只能通过一种让对方意会却又能保留对方颜面的方式，这是一种善意的间接。还有一种恶意的， 通过间接表达的方式使得描述模糊化，从而想传达意会的观点而给自己反悔留下余地。如果之后想要传达的想法被证明为有问题， 说话人到最后可以把责任推给听话人，因为听话人会错了意。这样可以使自己更加安全。这是人性趋利避害的基因。\n<br/><br/>实际的案例可能更加复杂。基本上沟通就是这样，需要在各种人类语言的模糊基础上来推断语言背后的真实意图，而不仅仅是语言所表达的内容本身。 \n<br/><br/>对于机器来说， 间接表达很困难。当然对机器来说，这也没有必要。 因为我们的假设里， 机器没有情感， 你直接告诉机器某个事实并不会对它造成什么情感上的伤害。 \n<br/><br/>而在人和人构成的社会里，在沟通的过程中情感尤为重要。作为工科出身的我， 以及不善沟通的我， 以前很难理解。 在和机器的交流过程中（Programming），非常简单直接， 告诉机器命令就好了。 然后在和人的交流过程中， 沟通变得异常复杂。 一个简单的指令， 你需要考虑到接收人的情感状态(俗称心情)， 环境上下文，传达意图以及面部表情、语气都很重要。 这也是我厌烦人类的一个原因。 我憧憬人类和机器一样简单， 直白， 善良。我愿意相信人本善，但从逻辑角度来讲这是讲不通的。因为如果善良有其对立面 — 不善良，你基本上无法构建一个单磁极系统（和这句话一样，我用了『基本』这个字眼）。\n<br/><br/>如果假设机器是善良的， 而善良又是情感的一种， 从而表明机器是有感情的，而实际上很难去说机器只有善良的， 没有对立面 — 邪恶。而实际上我们都非常善良的假设了机器没有感情。 所以这件事就非常复杂。 如果机器是善良的， 那能够推导出的结论是机器和人类一样情感复杂， 反馈回来，结论是这种善良的假设导致了机器会给人类带来复杂，从而机器是不善良的。所以我更愿意『善良』地相信机器没有善良不善良一说，即机器是无情感的。 从而和机器的交流会变得简单很多。 \n<br/><br/>和人类的交流非常复杂， 比如我想向你 — 这篇文章的读者 — 传达这个观点的时候，就用了很多我自己（人类）都觉得头晕的解释方式。人类的语言是如此模糊， 不善于表达清晰逻辑的。 当然这不能归罪于语言本身，毕竟这是人类自己发明出来表达自己脑子里的弯弯绕的工具而已。真正使得这个世界复杂的是我们的大脑。 当我说『世界』这个单词的时候， 我又开始使用了人类发明的『唯心』论。 当人类不存在的时候， 还有一个真实存在的世界吗？或者说还存在一个需要我们在这里讨论的有意义的世界吗？ 没有。 所以，『世界』表示的是存在我们大脑中想象的一个东西，或者概念。 如果不那么极端， 可能是一个真实的存在（假如能脱离唯心说来讨论这个问题）和想象的镜像的合体。 这种关系犹如物理学家提出的关于光的波粒二象性（这又是人来大脑很难直观理解的一个复杂认知）。因为我们的大脑更倾向于接受直观上正确容易理解的东西。 当概念涉及到『元』和『二次』的时候， 人脑就显得很笨拙。 比如在函数式编程语言中的monad，或者哲学中的形而上学，还有一些其他概念， 人脑的逻辑思维能力显得非常力不从心， 只有少数能够认知理解的人才会被成为真正的高智商的人，比如爱因斯坦的相对论，一些哲学家思考元哲学问题等。 \n<br/><br/>在人类的沟通交流中， 也是一样。 能够理解二次语义的人， 被称为善于交流的人。这些人人缘好， 受大家的欢迎，被认为是情商很高的人，比如李莲英，还比如领导身边的大秘书们。 \n<br/><br/>回到现实问题， 作为lifehacker的一个建议（跳跃这么大， 你理解我之前说那么多我自己都不理解的话的真实意图了么？）， 作为一个犬儒主义的实践者， 给一个tip，就是尝试去了解一下说话人背后的意图， 会使得自己生活的不那么痛苦。\n<br/><br/><br/>其实就是听完说话人的话并得到直观字面理解之后， 想想当时的环境，语气，表情等，在自己大脑中重建一下说话人的状态， 尝试站在说话人的角度来理解为什么这么说， 想要传达的是什么。 有没有另外要传达的意思在里面。 在沟通理论中， 这叫『换位思考』。当你真实理解说话人的真实出发点后， 他实际上说的是什么并不重要了。\n<br/><br/>那如何训练自己呢？其实一个非常简单的做法是，不要急于回答，想3秒钟，再回答。 这里，慢就是快。 给自己3秒钟，把能想到的都想一遍， 就能得到更多的信息。 \n<br/><br/>我把这种接受信息的方式称为 Second Thought， 因为需要你思维第二次， 才能明白的沟通方式。 注意，第二次和第一次并不是线性关系， 是指数关系！（不明白就给自己3秒钟想想）\n<br/><br/><br/>未完不待续，取决于我还能不能想起来自己写过这样一篇文章（年过30， 现在已经想不起来我半个小时在想什么，做什么，说什么了，或许还是庆幸的，计算机应该也想不起来吧，加入它有意识的话）。 如果在未来未知的日子里我还能想起来自己写过这样的胡言乱语并且能承继现在的逻辑的话， 我大概也许可能一定会写一篇如何做Second Thought的文章。 （最后一句话是矛盾的，有逻辑错误的，并且是我故意的。 到时候如果我真的写出来了， 我会说我以前说过之后一定会写的了，我就是这么君子一言，死（si）马难追。但是如果没写的话， 你也不要骂什么，那时我会说，是你会错了意。）", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>你说的这个叫情感化沟通</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20327465", 
+            "userName": "佚名", 
+            "userLink": "https://www.zhihu.com/people/413df232fd0e85e2bbf792c956a94b65", 
+            "upvote": 1, 
+            "title": "Evernote powered with Markdown", 
+            "content": "<p>我有随时记录零散笔记的习惯。<strong>Evernote</strong> 『中毒』(重度)用户， 使用多年， 纵使 Evernote 现在变得有些落伍、慢，用户体验比起其他新秀越来越差， 由于<a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Network_effect\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">网络效应</a>和迁移成本的原因， 我依然不离不弃。\n</p><p>另一方面，Markdown 作为格式化记录的生产力工具， 并没有很好地被Evernote 支持。 官方出品的客户端编辑器都没有支持Markdown格式。 这种貌似 <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Niche_market\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">niche</a> 的需求其实很多用户都有，尤其集中在程序员群体中。 也有很多第三方插件支持。 我也一直在找寻一些很好的 Markdown 和 Evernote 结合体， <a href=\"https://link.zhihu.com/?target=http%3A//marxi.co/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Marxico</a> 是很不错的选择，关联 Evernote 账户就可以。 现在收费， $15.99/year 一年， 如果是 Markdown 和 Evernote 深度用户， 建议购买， 大大提高生产率。人民币用户可以在 <a href=\"https://link.zhihu.com/?target=https%3A//maxiang.io/vip.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">这里购买</a> 79 元 / 年。支持 Windows, Mac native客户端， 也有 <a href=\"https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/marxico/kidnkfckhbdkfgbicccmdggmpgogehop%3Fhl%3Den\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Chrome web app</a>。\n</p><figure><noscript><img src=\"https://pic3.zhimg.com/61960310785209e3294b582975570522_b.png\" data-rawwidth=\"1280\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic3.zhimg.com/61960310785209e3294b582975570522_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;800&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"800\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic3.zhimg.com/61960310785209e3294b582975570522_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/61960310785209e3294b582975570522_b.png\"/></figure><br/><br/><h2>Alternatives\n</h2><p>也有一些其他选择， 将 Markdown 文件存储到 Github, Google Drive, DropBox 等第三方存储上。 可以根据你自己的需求做一些定制选择。\n</p><ul><li><a href=\"http://www.zhihu.com/question/20086835\" class=\"internal\">『知乎』: 有哪些 Markdown 编辑器支持保存到印象笔记 Evernote？</a></li><li><a href=\"https://link.zhihu.com/?target=http%3A//dillinger.io/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Dillinger</a> is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.<br/></li><li><a href=\"https://link.zhihu.com/?target=https%3A//atom.io/packages/ever-notedown\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">EVND (Ever Notedown)</a> is an Atom plugin for editing Evernote notes in Markdown format that works with the Evernote Mac client via AppleScript.</li></ul><h2>Refs\n</h2><ol><li><a href=\"https://link.zhihu.com/?target=http%3A//citeseerx.ist.psu.edu/viewdoc/download%3Fdoi%3D10.1.1.83.2595%26rep%3Drep1%26type%3Dpdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Network Effects on Standard Software Markets:A Simulation Model to examine Pricing Strategies</a></li></ol>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/20199122", 
+            "userName": "佚名", 
+            "userLink": "https://www.zhihu.com/people/413df232fd0e85e2bbf792c956a94b65", 
+            "upvote": 14, 
+            "title": "学会用手机写作", 
+            "content": "一个偶然的机会，手边没有电脑，又急需把灵犀一现的想法写下来，只好使用手机。没想到洋洋洒洒一下子就写了几百字，产出之高我自己都很意外。一直以来手机无法做长文字写作工具的固化思维不攻自破，长久这么认为，只是自己未曾尝试。被先入为主的圈圈思维毒害这么久。<br/><br/>这次的小小自得对我产生了两个大的影响。一是设计重文字输入的手机app不在那么担心用户输入问题了。二是让我养成了很好地手机写作习惯。<br/><br/><b>第一个影响直接应用于手机app产品设计</b><b>上</b>。<br/><br/>人的能力是会进化的，在手机上输入文字这项能力也一样。这使得以后设计重输入类手机应用不再有之前的担心。其实都不需要做科学严谨的统计，随便观察一下身边的人以及自己，每天在手机上生产多少文字，又在电脑上生产多少文字，比较一下，怕是手机上的产出早早就超出电脑了吧。这要大大归功于微信QQ等IM应用，非常好地培养了用户的手机输入习惯。<br/><br/><b>第二个影响是让我养成了手机写作的习惯。</b><br/><br/>相比电脑写作来说，手机写作在移动时代更有优势。<br/>1.聚焦。<br/>有人说手机容易让人分心，一会儿来个微信新消息提醒，很难专心下来。我要说，用户是会很好地自我进化地。这种担扰在电脑早期也同样存在，你在写作过程中受到这样那样的诱惑打扰，本质不在于这些打扰，而是你写不下去，没想好怎么写。有人称之为写作拖延症，即在写不下去的时候借助于各种外界骚扰来缓解焦虑，然并卵，在处理完这些担扰后焦虑会更加严重。所以这里的关键其实并不是手机上的干扰多，而是写作的欲望 desire并不是那么强烈，思路也不明晰。<br/><br/>其实手机屏幕小，更容易聚焦。当你在输入的时候，眼里都是你所想，实际所受担扰更少。如果你觉得微信提醒太骚扰，可以把微信关了，或者更甚，把网络关了，这样就没有骚扰了。<br/><br/>2. 手脑协调。<br/>电脑上写的时候，经常容易出现脑子跟不是上手的速度，写出来很多废话。<br/>手机让写作速度慢下来，给你更多的时间思考，让大脑和手的速度更协调。在输入的时候可以思考更深入。当然这点是辩证的，你可能会认为手速应该更好地跟上大脑的速度，免得忘了脑中的灵光一闪。我的观点是如果那么快就忘记了，说明你的灵光一闪太没有价值了。<br/><br/>3. 随处写。<br/>手机是移动环境，让你write anywhere。有个想法随时写下来。一种好的方式是，找5分钟把支架提纲写下来，然后在这一天的空闲时间里，随时想一想每个小节，花几分钟写一个小节。这样每天就能攒出一个长文。这种方式还有一个好处，就是你有更多的时间来思考充实细节，更加全面。但要注意的是，一开始就要将文章的整体结构确定好，不然容易发散到无法收拾。<br/><br/>4. 读写同境<br/>我们的阅读很大一部分已经迁移到手机上了。面临这种对内容消费情境的迁移，作为内容生产者的你应该学会在同样的场景下生产内容，这样能更好的体会到移动阅读的特点。比如多碎片，多短阅读。这样要求所写多需要观点明确，论点多简要突出，最好一二三四列出来，用更少的字数传达自己的想法。让你的写作更接近于读者对内容的消费场景。便于他人移动消费。<br/><br/><br/><b>手机写作的几点建议</b>：<br/>1. 挑选一个好的写作app。<br/>我个人喜好使用Evernote，因为绝大多数碎片资料都整理在这里。操作也很熟悉。Medium，简书，有道云笔记据说都不错，没试过直接在上面写长文。<br/><br/>2. 花5分钟定好提纲，确定框架，避免过分发散。<br/>早上写好提纲，这一天剩下的碎片时间完善细节。<br/><br/>3. 简单写，复杂想。适合别人读<br/>多用碎片时间构思写作细节，多想一些表达方式，选一种写出来。<br/><br/>4. 坚持每天写，随时写。<br/>坚持才能进化你移动写作的能力。大可不必别扭地<br/>坚持，找到激发自己欲望的内容和方式，比如某段时间专注于特定领域，做读书笔记，随笔，思考等等。寻找激发动力的方式，分享，打卡等等。<br/><br/>5. 每周集中时间回到电脑上整理，编辑，格式化，沉淀。<br/>好内容需要整理沉淀。鉴于手机端有限的格式化能力，可以每周集中时间在电脑上将内容格式化，排版等。<br/><br/>6. 分享<br/>分享是最好的激励方式，可以多注册一些写作平台，比如知乎专栏，简书，medium，Logdown等等，将文章发出去，分享到朋友圈，微博，听听别人的观点和反馈。<br/><br/>欢迎分享你在手机上长文码字的感想。 xianminx AT gmail DOT com<br/><br/>ps，<ul><li>这篇文章是在手机上使用Evernote码的。</li><br/><li>题图 <a href=\"https://link.zhihu.com/?target=http%3A//www.mobilebeat.com/call-for-dj-bloggers-be-part-of-the-mobile-beat-team/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Call for DJ Bloggers: Be Part of the Mobile Beat Team</a></li></ul>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "路意", 
+                    "userLink": "https://www.zhihu.com/people/1c0c805915ce95b799926c02b45f2f3e", 
+                    "content": "推荐使用Zine，宣传视频：<a href=\"http://link.zhihu.com/?target=http%3A//v.qq.com/x/page/l0325dj1if2.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">v.qq.com/x/page/l0325dj</span><span class=\"invisible\">1if2.html</span><span class=\"ellipsis\"></span></a>，", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>搜如何用手机在知乎写专栏路过( •̀∀•́ )</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "上帝是个妞", 
+                    "userLink": "https://www.zhihu.com/people/4ea2d370e2ff78516c7cdf7ebb43f53d", 
+                    "content": "你在网上发文。一般都是没有人理你的。", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/19969422", 
+            "userName": "佚名", 
+            "userLink": "https://www.zhihu.com/people/413df232fd0e85e2bbf792c956a94b65", 
+            "upvote": 24, 
+            "title": "墙内无缝更新Android SDK", 
+            "content": "<ol><li>打开Android SDK Manager， 打开设置</li></ol><br/><figure><noscript><img src=\"https://pic4.zhimg.com/b6a4c5c6f18606d66b0959bd88b557bb_b.jpg\" data-rawwidth=\"367\" data-rawheight=\"235\" class=\"content_image\" width=\"367\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;367&#39; height=&#39;235&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"367\" data-rawheight=\"235\" class=\"content_image lazy\" width=\"367\" data-actualsrc=\"https://pic4.zhimg.com/b6a4c5c6f18606d66b0959bd88b557bb_b.jpg\"/></figure><br/>2. 设置代理<br/>可选取下面之一<br/><ul><li>大连东软信息学院镜像服务器地址:</li></ul>服务器: <a href=\"https://link.zhihu.com/?target=http%3A//mirrors.neusoft.edu.cn\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">mirrors.neusoft.edu.cn</span><span class=\"invisible\"></span></a> 端口：80<br/><ul><li>北京化工大学镜像服务器地址:</li><li><ul><li>IPv4: <a href=\"https://link.zhihu.com/?target=http%3A//ubuntu.buct.edu.cn\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">ubuntu.buct.edu.cn</span><span class=\"invisible\"></span></a> 端口：80</li><li>IPv4: <a href=\"https://link.zhihu.com/?target=http%3A//ubuntu.buct.cn\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">ubuntu.buct.cn</span><span class=\"invisible\"></span></a> 端口：80</li><li>IPv6: <a href=\"https://link.zhihu.com/?target=http%3A//ubuntu.buct6.edu.cn\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">ubuntu.buct6.edu.cn</span><span class=\"invisible\"></span></a> 端口：80</li></ul></li><li>上海GDG镜像服务器地址:</li></ul>服务器: <a href=\"https://link.zhihu.com/?target=http%3A//sdk.gdgshanghai.com\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">sdk.gdgshanghai.com</span><span class=\"invisible\"></span></a> 端口：8000<br/><br/><figure><noscript><img src=\"https://pic3.zhimg.com/52f187ce9377ea7a865ad632a8e777ea_b.jpg\" data-rawwidth=\"450\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"450\" data-original=\"https://pic3.zhimg.com/52f187ce9377ea7a865ad632a8e777ea_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;450&#39; height=&#39;400&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"450\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"450\" data-original=\"https://pic3.zhimg.com/52f187ce9377ea7a865ad632a8e777ea_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/52f187ce9377ea7a865ad632a8e777ea_b.jpg\"/></figure><br/>3. 关闭设置页， 选择Packages-&gt;Reload 重新加载， 接下来你就可以无阻碍的更新各种SDK了。 <br/><br/><figure><noscript><img src=\"https://pic2.zhimg.com/374d4621bbdef03c2f8179f55956c92d_b.jpg\" data-rawwidth=\"467\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb\" width=\"467\" data-original=\"https://pic2.zhimg.com/374d4621bbdef03c2f8179f55956c92d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;467&#39; height=&#39;180&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"467\" data-rawheight=\"180\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"467\" data-original=\"https://pic2.zhimg.com/374d4621bbdef03c2f8179f55956c92d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/374d4621bbdef03c2f8179f55956c92d_b.jpg\"/></figure><br/><br/><a href=\"https://link.zhihu.com/?target=http%3A//www.androiddevtools.cn/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">AndroidDevTools</a> 还提供了很多Android 相关工具的下载地址， 推荐给您。", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "中科院开源协会于2015年3月开始支持Android 镜像<br><br><a href=\"http://link.zhihu.com/?target=http%3A//forum.opencas.org/t/184\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">中科院开源协会镜像站 Android SDK镜像测试发布</a>", 
+                    "likes": 4, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "二胡", 
+                    "userLink": "https://www.zhihu.com/people/9a375f1e8121e52c4b202badca405e35", 
+                    "content": "赞", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "为何放弃志良", 
+                    "userLink": "https://www.zhihu.com/people/63d4d5f1b6b430f2d39508900bb41d68", 
+                    "content": "50M的宽带，发现下载速度只有15KiB/s，突然心好累", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "文涛", 
+                    "userLink": "https://www.zhihu.com/people/03288dc2be3ffa92ba664222d55e50af", 
+                    "content": "速度真心很慢，每次更新都是熄灯后再慢慢来。。。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "shih.lee", 
+                    "userLink": "https://www.zhihu.com/people/80a5eb9882296235876f82f91844a907", 
+                    "content": "谢谢楼主,很有帮助", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "best ren", 
+                    "userLink": "https://www.zhihu.com/people/63accf36558ccad6f36cbd402d710f9b", 
+                    "content": "多谢。我在北京，测试发现用北化工的最快。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "tangyichao", 
+                    "userLink": "https://www.zhihu.com/people/795be902e7f7ad625ab819677374107f", 
+                    "content": "<a href=\"http://link.zhihu.com/?target=http%3A//mp.weixin.qq.com/s%3F__biz%3DMzI0NDYzMzg0OQ%3D%3D%26mid%3D2247483667%26idx%3D1%26sn%3D7cdedcaacfdc1f65bcf4e4fcbbe299e3%26chksm%3De95b9885de2c11936015af7be87d43314bf9381c8ed8be8d0af09d793f0a3569e676e04b9026%23rd\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">开发过程中，Android Studio 或者Eclipse工具之 Android SDK快速更新（精品）</a><br>这个方法有点老套吧 ", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>国内现在貌似没有大站的镜像了吧。腾讯阿里的都没有了。</p><p></p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "知道有能用的吗？？老哥", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "东软", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/19918856", 
+            "userName": "佚名", 
+            "userLink": "https://www.zhihu.com/people/413df232fd0e85e2bbf792c956a94b65", 
+            "upvote": 5, 
+            "title": "海淀图书城的涅槃重生 — 商业地产的转型", 
+            "content": "<p>December 21, 2014 2:43 PM <br/>海淀图书城（海图）于我们这一代人是一个记忆，学生时代的记忆。 我想应该也是上世纪90年代到本世纪00年代在北京读书的大学生除了学校之外最熟悉的地方。 那些年在上大学的日子里， 周末有空基本都往海淀图书城跑。图书城里结构复杂，常年灯光昏暗，一家一家的小铺面， 大部分是出版社开的店面，以批发为主。 由于是出版社聚集地， 图书很全，尤其是学生用书。那时，我最常光顾的就是&#34;九章图书”这家店了，店名是王元题写的字。 我们这一代80年代出生的被“学好数理化， 走遍天下都不怕”思想武装着的孩子，从小听着华罗庚陈景润的故事考上大学报效国家和社会的大学生， 大部分都知道王元是谁。估计现在的大学生比较少知道王元了。 80时代流传着一个关于陈景润的故事。他在中关村街上边走路边看书，结果被人撞了。故事发生的地点就在中关村海图附近。那个时代的中关村是中科院的精英科研人员聚集的地方。 <br/><br/>2003年，我刚上大学的那一年，一路之隔新开一个左岸公社新华书店， 规模堪比西单图书大厦，甚至有过之而无不及。环境比以昊海楼为代表的海淀图书城不知道好多少，于是慢慢的人气都转移到新华书店了。 到05年前后， 新华书店周末买书的人都是推着家乐福的那种购物推车，而人流也要比家乐福还要拥挤。 那应该是传统书店发展到顶峰的时期了。 再后来， 毕业了， 当当、京东、亚马逊这些网上书店慢慢地起来了， 于是也就很少去逛实体书店了。到09年前后网上劈天盖地的新闻和讨论各种实体书店如光合作用等的关门倒闭，估计新华书店日子也不好过吧。 这或许昭示着一个旧的时代过去了。一个新的时代到来了。<br/><br/>只是03年到2013年的这10年时间，海淀图书城落寞出一个颓废和沧桑，静静的立在那里，在越来越拥堵的北四环边，心已沧桑地阅尽中关村的繁华和蜕变。 海图10年的苟且存活完全和中国特别是中关村在这过去10年的欣欣向荣高速发展形成强烈的对比和反差。<br/><br/>前些年，每次开车从四环上经过看见海淀图书城，都在那里为她没有发挥其商业价值默默可惜。这坐拥中关村黄金地段的图书城， 和左岸公社一路之隔， 怎么会落寞成这样。 估计商业地产的价值也差别非常之多。然而中国有句古话，30年河东，30年河西。没错， 海图在10年的沉沦中，又恢复了生机和活力，她，活过来了。 没想到， 经过10年蛰伏， 存活下来之后， 华丽转身， 今后或许将成为这里最有商业价值的地产。<br/><br/>给海图带来生机的第一件事是，2007年这里改造升级步行街， 将原来停车拉书的地方改造了，形成220米长的步行区。但依旧没有大多人气，自从互联网书店暴发后，实体书店很难吸引到买书的人了。<br/><br/>第二件事， 2011年，车库咖啡入驻步行街，给这条老街带来了一些涌动的暗流。越来越多的创业者，来自全国各地， 来车库咖啡寻找创业伙伴点燃创业激情。 这里逐渐成为创业人和投资人的聚集地，也成为一桩桩互联网行业投资的孵化酝酿的所在地。车库咖啡的成立，今天于我看来（也许多年以后于大家看来），象征着以移动互联网创业为代表的新经济时代拉开帷幕。 然而这股暗流还在水低，海图表面还是平静。<br/><br/>再后来，北京作为全国尤其是以“互联网思维”武装的创业团队聚集的核心地带，需要将中关村进行产业升级。2014年，中关村打造了“中关村创业大街”，要把这里打造成真正的“硅谷”。<br/><br/>虽然把中关村打造成硅谷的提法自从中关村诞生之初就开始提了， 但是过去20多年间， 一直被“联想”为代表的商贩扭曲成电子产品的“菜市场”。过去10年，中关村充斥着各种A货，假货，水货，盗版，黑市，欺骗。在媒体上看到的关于中国经济环境的负面评论基本都可以在这里找到案例和佐证。中关村见证着这个国家在过去10年的经济超高速发展中的各种畸形。伴随这这些畸形发展的是，中关村万丈高楼平地起，以超音速的速度发展着商业地产和IT经济。 然后随着互联网产业的高速发展，以京东为代表的电商，终于以暴风骤雨般的速度和气势摧枯拉朽，将中关村的电子市场的命革了，而且非常之彻底。中关村的核心商业地产海龙和鼎好，被迫转型，提升产业结构。 中关村“电子产品菜市场”的时代结束了。鱼龙混杂，混乱发展的时代也随之结束了。 <br/><br/>现在，在创业圈子里， 这里又成为了中关村的核心地带。 一个在中国经济飞速发展时默默存在乃至快要消亡的海淀图书城涅槃重生了。这次，她有了新的名字: “中关村创业大街”。这里集聚了一批创业服务机构。已经有车库咖啡、3W咖啡、Binggo咖啡、飞马旅、36氪、言几又、创业家、联想之星、天使汇等10余家创业服务机构入驻街区。<br/><br/>今天， 中关村通过孵化大量创新型的创业团队， 终于开始向着“硅谷”的方向努力了。 这里将代表着21世纪第二个10年以创新创业为代表的中国新产业和新经济的崛起。</p><p> 附:</p><figure><noscript><img src=\"https://pic1.zhimg.com/79b88426fcdca001efb24f681f500a04_b.jpg\" data-rawwidth=\"960\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic1.zhimg.com/79b88426fcdca001efb24f681f500a04_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;1280&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"960\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic1.zhimg.com/79b88426fcdca001efb24f681f500a04_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/79b88426fcdca001efb24f681f500a04_b.jpg\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/392a94afe906e52bf267a1dfa62cc68b_b.jpg\" data-rawwidth=\"1280\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb\" width=\"1280\" data-original=\"https://pic4.zhimg.com/392a94afe906e52bf267a1dfa62cc68b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1280&#39; height=&#39;960&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1280\" data-rawheight=\"960\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1280\" data-original=\"https://pic4.zhimg.com/392a94afe906e52bf267a1dfa62cc68b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/392a94afe906e52bf267a1dfa62cc68b_b.jpg\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/4e4fc40f3211c6492ea44923ac3b75d7_b.jpg\" data-rawwidth=\"960\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/4e4fc40f3211c6492ea44923ac3b75d7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;1280&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"960\" data-rawheight=\"1280\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/4e4fc40f3211c6492ea44923ac3b75d7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/4e4fc40f3211c6492ea44923ac3b75d7_b.jpg\"/></figure>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/19887025", 
+            "userName": "佚名", 
+            "userLink": "https://www.zhihu.com/people/413df232fd0e85e2bbf792c956a94b65", 
+            "upvote": 6, 
+            "title": "软件更新 第二篇 增量更新服务", 
+            "content": "<h2>第二篇 增量更新服务</h2><p>在前一篇的最后我们通过两个公式定义了增量更新的模型。这一篇中，我们将详细讨论这个模型。</p><h3>2.1 服务模型</h3><p>一个基本的流程是:</p><ol><li>客户端(软件本身或者是App Store) 将本地的软件的识别号和版本汇报给增量更新的服务器端。 识别号可以是包名等用来唯一识别一款软件的标示符。 在Android 应用中，可以使用APK的包名来表示，版本号可以使用apk的version_code.</li><li>服务器收到客户端的请求， 查询数据库，找到对应软件的最新版本号。<ul><li>如果等于客户端版本号，返回&#34;没有更新&#34;。</li><li>如果大于客户端版本号， 返回给客户端最新版本号、下载文件的URL 以及新版本说明等信息。 <ul><li>如果服务器端能够为客户端找到或者生成对应的patch 文件， 返回patch 文件的URL。</li><li>如果因为服务器端因为各种原因不能生成patch 文件， 返回完整安装文件的URL。</li></ul></li><li>这里服务器端版本号是不会小于客户端的， 如果小于客户端版本号， 则是非法请求，应返回error。</li></ul></li><li>客户端:<ul><li>客户端收到服务器返回结果， 如果没有更新， 结束本次查询。 </li><li>如果发现有更新，通过服务器端返回信息，提示用户或者静默下载文件。<ul><li>如果下载的是patch 文件， 则启动增量更新，和本地的老版本文件一起生成新版本文件。 启动安装过程。如果此过程失败， 可以尝试切换到请求下载完整安装文件。</li><li>如果是完整的安装文件， 则可以直接启动安装过程。</li></ul></li></ul></li><li>更新完毕或者失败。 </li></ol><p>这里有两个关键步骤: </p><ul><li>服务器端通过diff生成patch 文件</li><li>客户端通过patch 算法还原新版本软件</li></ul><p>这两个步骤在具体实施时需要考虑一些现实因素。</p><h3>2.2 服务器端</h3><h4>2.2.1 lazy 策略</h4><p>如果有很多用户， 客户端可能就会用很多活跃版本。 我们假设软件有6个版本1.0~1.5，最新版本是1.5。这意味服务器端需要准备的patch 文件为C(6,2)= 15。 6个版本服务器端需要存储15个文件！仔细想一下，就能发现这些patch 文件并不是被均匀访问的。 比如diff(1.0~1.4), 在发布最新1.5 版本的时候， 可能大部分用户都已经升级到1.4版本了。 这其中有一些组合是没有必要存在的。<br/>这里有一个办法， 不用提前生成所有的组合，而是使用lazy 策略， 即如果有用户访问，实时生成patch并缓存下来， 之后的用户再访问的时候可以直接访问缓存的文件。 这样避免了生成和存储很多不必要的patch文件。 </p><h4>2.2.2 diff 性能</h4><p>如果使用了lazy 策略， 需要特别关注diff 算法的性能问题。 diff 是非常耗费资源的。<a href=\"https://link.zhihu.com/?target=http%3A//www.daemonology.net/bsdiff/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">bsdiff</a> 算法需要内存 max(17<em>n,9</em>n+m)+O(1) bytes， 其中 n 为老文件的大小， m为新文件的大小。为了维护性能的稳定， 将后端的diff服务同更新服务本身分离出来对于维护服务的稳定性很重要。 bsdiff 也有可能会造成死机。如果当第一次请求diff时生成patch文件超过指定时间， 建议更新服务直接切换到全量下载，不用block 第一个用户的更新过程， 等到patch文件生成之后后续的用户可以使用增量更新。 </p><h4>2.2.3 磁盘清理</h4><p>当发布了最新的1.5版本， 如果软件不用降级，即只允许用户升级到最新版本，服务器也可以考虑将1.0~1.4之间的所有patch文件清理删除掉。这样能够节省部分硬盘，防止文件指数膨胀。</p><h3>2.3 客户端</h3><h4>2.3.1 性能</h4><p>设计patch算法的时候需要考虑客户端的硬件性能和运行环境。 对于服务器端来说， 是软件开发者可控制可投入资源升级硬件性能的。而对客户端来说， 软件开发者一点办法也没有。 用户的硬件设备可能多种多样， 需要考虑最坏的情况。 </p><p>比如Android平台， C++版本的bspatch 算法就比java 版本的要快10倍以上。如果在Android上使用Java 来做bspatch，所带来的性能问题将使得增量更新不具有更多的优势，因为patch花费太久时间了。 </p><p>这就涉及到一个全局优化的问题。当我们选择一种优化方案时， 我们希望整体上做全局优化。假设增量更新是使得下载的文件减小了10%，但是在客户端的patch过程却多花了10s，这是得不偿失的。 另外diff 算法得到的patch 文件总不是会变小。现实环境是复杂的。 如果一个用户从一个很老的版本更新到最新版本的时候，老版本和新版本的差异会很大， 可能delta文件比新文件还要大，这个时候还继续采用增量更新服务显然不是一个明智的策略。 </p><p>综上所述， 服务器端应该通过patch 文件和新文件大小比较做一个综合决定是返回全量更新的结果还是增量更新的结果。 </p><h4>获取老文件</h4><p>一些平台上获取老版本的文件可能会是一个问题。 在Windows 平台上， 安装文件(.iso或者exe安装文件)安装完之后就被删除了， 并不会在系统中保存。这就要求软件本身去追踪安装后的每个文件，对每个文件实施增量更新。或者保存一份安装文件。 Chrome 就是这么干的。 </p><p>在Android 平台上， 系统保留apk 文件。 如何获取呢？参考: </p><blockquote><p>The apk is located at <em>/data/app/com.package.name.apk</em>.<br/><a href=\"https://link.zhihu.com/?target=http%3A//stackoverflow.com/questions/11012976/get-apk-of-installed-app\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Get APK of installed app</a><br/><a href=\"https://link.zhihu.com/?target=http%3A//stackoverflow.com/questions/3146513/question-on-asec-encryption-on-froyo-2-2-installing-app-onto-sdcard\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">android - Question on .asec (encryption) on Froyo 2.2 / installing app onto sdcard</a></p></blockquote><h3>2.4 实验</h3><p>为了说明性能上优化，我们在此拿&#34;豆瓣电台&#34;这个应用的APK文件做一个实验， 大体能说明采用增量更新可以节省70%左右的文件传输。</p><h4>环境</h4><ul><li><p>硬件</p><div class=\"highlight\"><pre><code class=\"language-text\">    Model Name: MacBook Pro\n    Model Identifier:    MacBookPro8,1\n    Processor Name:    Intel Core i7\n    Processor Speed:    2.8 GHz\n    Number of Processors:    1\n    Total Number of Cores:    2\n    L2 Cache (per Core):    256 KB\n    L3 Cache:    4 MB\n    Memory:    4 GB\n    Boot ROM Version:    MBP81.0047.B27\n    SMC Version (system):    1.68f98\n    Serial Number (system):    Not Available\n    Hardware UUID:    **************************************\n    Sudden Motion Sensor:\n    State:    Enabled\n</code></pre></div></li><li><p>软件<br/>bsdiff / bspath<br/>安装: 在Mac OSX 上使用 brew: </p><div class=\"highlight\"><pre><code class=\"language-text\">  brew install bsdiff\n</code></pre></div><p>  Linux 有相应的工具 bsdiff and bspatch. 见 <a href=\"https://link.zhihu.com/?target=http%3A//www.daemonology.net/bsdiff/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Binary diff</a></p></li><li><p>文件列表: </p><div class=\"highlight\"><pre><code class=\"language-text\">  -rw-r--r--  1 lucas  staff  282499 Sep 13 14:57 com.douban.radio.2.1.3-4.patch  \n  -rw-r--r--@ 1 lucas  staff  960038 Sep 11 17:30 com.douban.radio.2.1.3.apk\n  -rw-r--r--@ 1 lucas  staff  891700 Sep 11 17:46 com.douban.radio.2.1.4.apk\n  -rw-r--r--  1 lucas  staff  891700 Sep 13 14:58 com.douban.radio.2.1.4.apk.patched\n</code></pre></div></li><li><p>com.douban.radio.2.1.3.apk 和 com.douban.radio.2.1.4.apk: 相邻两个版本的Douban FM 应用.</p></li><li><p>com.douban.radio.2.1.3-4.patch: The diff of com.douban.radio.2.1.3.apk and com.douban.radio.2.1.4.apk. 通过命令生成: </p><div class=\"highlight\"><pre><code class=\"language-text\">bsdiff com.douban.radio.2.1.3.apk com.douban.radio.2.1.4.apk com.douban.radio.2.1.3-4.patch\n</code></pre></div></li><li><p>com.douban.radio.2.1.4.apk.patched: com.douban.radio.2.1.3.apk applied with the patch.通过命令生成: </p><div class=\"highlight\"><pre><code class=\"language-text\">bspatch com.douban.radio.2.1.3.apk com.douban.radio.2.1.4.apk.patched com.douban.radio.2.1.3-4.patch\n</code></pre></div></li><li><p>验证: </p><div class=\"highlight\"><pre><code class=\"language-text\">lucas-mac:experiment lucas$ md5 com.douban.radio.2.1.4.apk\nMD5 (com.douban.radio.2.1.4.apk) = 6f730c01a40dd3b7b9f034fe649ac4e8\nlucas-mac:experiment lucas$ md5 com.douban.radio.2.1.4.apk.patched \nMD5 (com.douban.radio.2.1.4.apk.patched) = 6f730c01a40dd3b7b9f034fe649ac4e8\n</code></pre></div></li><br/><li>解释</li><li>新文件 <strong>com.douban.radio.2.1.4.apk</strong> 大小 891700 bytes,  patch 文件大小仅仅是282499 bytes. 比例 31.680946506%, 节省了 68.319053493% 带宽。 </li><li>bsdiff and bspatch 在Mac Pro CPU Intel Core i7 2.8G, Memory 4GB 电脑上运行时间小于1s.    </li></ul><h4>Camera360 vStudio.Android.Camera360</h4>\n\n2\n105\n110\nsize\n4000713\n3999524\n4607816\n2\n%\n689739\n1472865\n105\n%\n%\n1473953\n110\n%\n%\n%\n<h3>引用</h3><p>[1]: <a href=\"https://link.zhihu.com/?target=http%3A//www.daemonology.net/bsdiff/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Binary diff</a> &#34;bsdiff&#34;<br/></p><p>[2]: <a href=\"https://link.zhihu.com/?target=http%3A//en.wikipedia.org/wiki/Delta_encoding\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Delta encoding</a>  &#34;Delta engcoding&#34;</p>", 
+            "topic": [], 
+            "comments": [
+                {
+                    "userName": "彭浩", 
+                    "userLink": "https://www.zhihu.com/people/a618cf60b9b28b00229ae7b3f6cbcb6e", 
+                    "content": "你好，请教一下.<br>如果客户端部分文件丢失或者被其他软件删除，这时候该怎么更新，更新流程大概怎样", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "SEVEN", 
+                            "userLink": "https://www.zhihu.com/people/85a2d1339656010517a138a5614c2fbd", 
+                            "content": "<p>直接下载客户端完整包</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "彭浩"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/19881296", 
+            "userName": "佚名", 
+            "userLink": "https://www.zhihu.com/people/413df232fd0e85e2bbf792c956a94b65", 
+            "upvote": 2, 
+            "title": "软件更新  第一篇 软件更新概述", 
+            "content": "<h2>第一篇 软件更新概述</h2><ul><li>概述</li><li>新的挑战</li><li>增量更新</li></ul><h3>概述</h3><p>一个软件诞生之日(第一次写完发布)之后， 会有不断的维护和改进。可能是修复缺陷， 可能是优化老功能模块， 也可能是增加新功能。总之， 一个软件自出生之日起， 不断会有更新，软件开发者有必要通过某种方式将这种更新带给用户。 </p><p>在Windows 平台上， 软件是通过EXE文件格式封装， 用户通过网站下载或者光盘安装。在Linux 平台上， 可能是 deb 或者 rpm 等。 在苹果的Mac 上， 这种文件格式是dmg。 在Android上是APK， iOS上是pkg。更多可参考 <a href=\"https://link.zhihu.com/?target=http%3A//en.wikipedia.org/wiki/Package_format\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Package format</a>.</p><p>软件安装到用户的操作系统上之后， 软件的作者如果更新了软件，发布了新版本， 应该如何通知它的用户，让用户使用最新版本的软件呢？ 有几种方式： </p><ol><li><p>发邮件给用户， 邮件里带有新版软件的下载链接，用户点击链接下载， 安装，替换老版本。<figure><noscript><img src=\"https://pic3.zhimg.com/bbb377f7584e891c918d3f5ea257ec92_b.jpg\" data-rawwidth=\"863\" data-rawheight=\"654\" class=\"origin_image zh-lightbox-thumb\" width=\"863\" data-original=\"https://pic3.zhimg.com/bbb377f7584e891c918d3f5ea257ec92_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;863&#39; height=&#39;654&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"863\" data-rawheight=\"654\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"863\" data-original=\"https://pic3.zhimg.com/bbb377f7584e891c918d3f5ea257ec92_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/bbb377f7584e891c918d3f5ea257ec92_b.jpg\"/></figure></p></li><li><p>软件自带检测更新功能。<br/> 这要求软件开发者建立一个服务器， 每次用户打开软件的时候， 软件自动向服务器端查询最新版本，并和本地版本比较。 如果服务器端说有新版本， 软件客户端弹出一个对话框提示用户，让用户直接下载或者打开浏览器页面去指定的页面下载新版应用。 比如QQ， Adobe Reader等。<br/><figure><noscript><img src=\"https://pic2.zhimg.com/88f4d86dc52ea9cc8133a72e24bcd081_b.jpg\" data-rawwidth=\"427\" data-rawheight=\"275\" class=\"origin_image zh-lightbox-thumb\" width=\"427\" data-original=\"https://pic2.zhimg.com/88f4d86dc52ea9cc8133a72e24bcd081_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;427&#39; height=&#39;275&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"427\" data-rawheight=\"275\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"427\" data-original=\"https://pic2.zhimg.com/88f4d86dc52ea9cc8133a72e24bcd081_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/88f4d86dc52ea9cc8133a72e24bcd081_b.jpg\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/a5d8d17ac59fc5c58c3120b1e9aa9531_b.jpg\" data-rawwidth=\"501\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb\" width=\"501\" data-original=\"https://pic2.zhimg.com/a5d8d17ac59fc5c58c3120b1e9aa9531_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;501&#39; height=&#39;361&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"501\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"501\" data-original=\"https://pic2.zhimg.com/a5d8d17ac59fc5c58c3120b1e9aa9531_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/a5d8d17ac59fc5c58c3120b1e9aa9531_b.jpg\"/></figure><figure><noscript><img src=\"https://pic1.zhimg.com/140d33e18873c434048b5259e2512648_b.jpg\" data-rawwidth=\"501\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb\" width=\"501\" data-original=\"https://pic1.zhimg.com/140d33e18873c434048b5259e2512648_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;501&#39; height=&#39;361&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"501\" data-rawheight=\"361\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"501\" data-original=\"https://pic1.zhimg.com/140d33e18873c434048b5259e2512648_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/140d33e18873c434048b5259e2512648_b.jpg\"/></figure><br/><br/></p></li><li><p>软件发布到应用商店或者操作系统支持的软件更新渠道上。比如Mac 上的App Store, Ubuntu 的Synaptic 包管理器， 以及国内大量的Android 市场渠道。 软件开发者只需要将新版本发布到App Store 上， Mac 上的App Store 会帮助软件做新版本监测，如果软件有新的版本发布， 会提醒用户更新。<figure><noscript><img src=\"https://pic4.zhimg.com/5cbbca16d372b133d5eb31d9a882c7bf_b.jpg\" data-rawwidth=\"1032\" data-rawheight=\"769\" class=\"origin_image zh-lightbox-thumb\" width=\"1032\" data-original=\"https://pic4.zhimg.com/5cbbca16d372b133d5eb31d9a882c7bf_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1032&#39; height=&#39;769&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1032\" data-rawheight=\"769\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1032\" data-original=\"https://pic4.zhimg.com/5cbbca16d372b133d5eb31d9a882c7bf_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/5cbbca16d372b133d5eb31d9a882c7bf_b.jpg\"/></figure><br/></p></li></ol><p>软件更新的基本模型是: </p><p>检测<br/> |<br/>下载<br/> |<br/>按装(覆盖)  </p><h3>新的挑战</h3><p>在远古的Windows 时代， 软件的开发周期很长， 软件的更新频率很低， 可能是几个月一次。 所以维护一个软件更新服务相对简单， 就是提醒用户去下载新版软件的安装文件， 覆盖安装。 甚至有些软件要求先卸载老版本软件， 再安装新版本。比如很多银行软件和驱动软件。 </p><p>然而软件开发当时代进入互联网，尤其是移动互联网的高速发展时代， 快速迭代被产品经理们崇尚。 软件的开发周期大大缩短。 快速、频繁的软件版本发布成为主流的开发模式。 这给软件更新服务带来了新的挑战。 在原来的情况下， 几个月更新一次，用户不会频繁的被干扰。现在，可能每周会有更新， 如果还是按照原来的模式， 让用户每周都去下载一个新的安装文件，显得非常笨重了。 原始的安装文件可能很大，对于移动平台来说， Android上的应用可能会是几M 到几十M， iOS上的安装包更大， 让用户每周去下载这么大的文件， 显然给用户不会带来很好的升级体验。 同时我们应该注意到， 由于采取了快速迭代的开发模式， 每周的不同版本之间，差异并不是很大。比如新版本可能只是更改了Logo图片， 或者加了一个很小的功能，修改了一行代码。 用户升级需要下载的安装包，相邻版本可能有70%内容是相同的， 只有很少一部分内容是不同的。 在这种情况下， 是没有必要浪费用户和开发者的带宽去下载那么大的文件。 </p><p>于是这里我们可以引入一种算法， 这种算法可以算出新版本的软件安装包和老版本的差异， 我们且把这个过程称之为diff，diff 得到的结果称为delta. 用户只需要下载这个delta文件到自己电脑或者手机上， 然后通过一种办法，将delta和用户本地的老版本软件结合在一起， 生成新版本的软件，此过程我们且称之为patch。 这里要求生成的新版本和单独安装全新版本的效果是一样的。 </p><p>于是我们的任务变成了寻找高效的 diff/patch 算法，使得中间传输的delta文件尽量变小。</p><p>下载的文件变小带来两个好处： </p><ol><li>节省用户和软件开发者的带宽费用。对高昂上网成本的移动环境下的用户来说，这一点意义重大。 对开发者来说，移动时代， 用户基数巨大， 动辄千万量级，单个传输的文件大小一点点优化，都将大幅降低带宽成本。</li><li>文件变小， 意味着下载时间变短，用户升级体验更流畅。 会大大提高软件升级的比例。对于短时间提高升级比例有特殊需求的软件来说， 比如游戏和浏览器， 可以在相对很短的时间内将绝大部分用户升级到新版服务。一方面减少旧版本服务的研发维护成本，另外一方面，能够快速帮助用户升级将提高软件的安全性。 Chrome 团队就为此研发了Courgette算法， 专门优化diff 过程， 减小delta 文件大小， 使得Chrome软件可以快速更新， 保持安全。</li></ol><h3>增量更新</h3><p>我们将上一节提到的 diff/patch 模型称为增量更新模式，即用户不需要下载全量的新版软件，只需要下载增量的那一部分。 </p><p>这个模式的简单形式可以用<a href=\"https://link.zhihu.com/?target=http%3A//www.chromium.org/developers/design-documents/software-updates-courgette\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">两个公式</a>来表示: </p><div class=\"highlight\"><pre><code class=\"language-text\">server:\n    delta = diff(original, update)\n    transmit delta\n\nclient:\n    receive delta\n    update = patch(original, delta)\n</code></pre></div><p>依赖于软件在不同平台上的文件格式， 可能会有多种不同的 diff/patch 算法。 </p><p>比较成熟的算法是<a href=\"https://link.zhihu.com/?target=http%3A//www.daemonology.net/bsdiff/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">bsdiff/bspatch</a>， 这个算法的优点是非常简单， 不用考虑文件内部格式， 把文件完全当做二进制来处理。 </p><p>其他的一些方式还有<a href=\"https://link.zhihu.com/?target=http%3A//hp.vector.co.jp/authors/VA002803/exediff.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">exediff</a>， 专门正对Windows 平台上EXE文件做diff。 </p><p>后面我们还会介绍一个更深入的考虑文件内部格式的算法courgette， Google 将它用在Chrome 浏览器的版本更新中。这个算法 diff 出来的 delta 文件是bsdiff 结果的10%，将中间结果减小了90%！sugoi :)</p><h3>引用</h3><p>[1]: <a href=\"https://link.zhihu.com/?target=http%3A//en.wikipedia.org/wiki/Package_format\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Package format</a> &#34;Package format&#34;</p><p>[2]: <a href=\"https://link.zhihu.com/?target=http%3A//www.chromium.org/developers/design-documents/software-updates-courgette\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Software Updates: Courgette</a>  &#34;Software Updates: Courgette&#34;</p><p>[3]: <a href=\"https://link.zhihu.com/?target=http%3A//www.daemonology.net/bsdiff/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Binary diff</a>  &#34;Binary diff/patch utility&#34;</p><p>[4]: <a href=\"https://link.zhihu.com/?target=http%3A//hp.vector.co.jp/authors/VA002803/exediff.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">exediff: exediff</a> &#34;exediff&#34;</p>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/19881287", 
+            "userName": "佚名", 
+            "userLink": "https://www.zhihu.com/people/413df232fd0e85e2bbf792c956a94b65", 
+            "upvote": 0, 
+            "title": "软件更新", 
+            "content": "<h2>序</h2><p>一个偶然的机会，承接了公司的Android 软件更新项目， 为Android 平台设计了一套应用更新的服务，对此领域有些许了解。但一直不成体系。 后来找时间查看了此领域的一些资料，在此尝试做一些总结， 得此系列文章。重点放在技术层面上，以飨读者。 如有谬误， 请不吝指教。 </p><p>此《软件更新》 系列文章计划分为6篇，争取每周完成一篇。拟提纲如下， 随着后续文章的进展， 结构可能会有所调整。</p><h3>提纲</h3><ul><li>第一篇 软件更新概述<ul><li>概述</li><li>新的挑战</li><li>增量更新</li></ul></li><li>第二篇 增量更新服务</li><li>第三篇 bsdiff 算法</li><li>第四篇 exediff 算法</li><li>第五篇 courgette算法</li><li>第六篇 第三方软件更新服务介绍<ul><li>Windows</li><li>Mac</li><li>Ubuntu</li><li>Redhat</li><li>Android</li><li>iPhone</li><li>Windows Phone</li></ul></li></ul>", 
+            "topic": [], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/19792081", 
+            "userName": "佚名", 
+            "userLink": "https://www.zhihu.com/people/413df232fd0e85e2bbf792c956a94b65", 
+            "upvote": 0, 
+            "title": "互联网，从量变到质变", 
+            "content": "最近两周看了一些书， 重点关注了互联网思维和创业。 “互联网思维”是一个近两年发展出来的新名词。美国没有这个提法。 网上有”Internet Thinking” 的提法， 也是美国记者对中国“互联网思维”的翻译报道。 目前为止，还没有找到美国线上关于互联网思维的热烈讨论。这算是中国互联网的独创。 或许美国有另外的叫法，但是“互联网思维” 将会是中国互联网和美国互联网发展的分水岭。 <br/><br/>最初网上断断续续的看到这个名词， 不知所云， 大部分读者也都不知所云。 和君商学院有个学员赵大伟， 总结归纳了一下互联网思维包括九大特点，写了一本书叫《互联网思维独孤九剑》。自此大家都以此为中心来讨论什么是互联网思维，传统行业如何用互联网思维的特点来武装自己。 本书文字写得一般， 很无聊的商业书籍。 倒是其中讲到很多的案例可以讨论。 其中讲到有马佳佳的炮否科技，雕爷牛腩，黄太吉，罗振宁的逻辑思维等等。 其中罗辑思维非常不错， 陆陆续续的讨论了互联网给生活的方方面面带来的影响。 <br/><br/>互联网从诞生到现在二十多年。前期发展速度虽然很快， 但主要还是在其本身，在工具技术层面。只是最近两年， 由以iPhone 和Android 为主的智能手机设备催化，使其发展从量变到质变，从技术层面到哲学思维方式， 以极其快的发展速度改变人类的思考和生活方式。<br/>要说互联网在2010年以前是人类工作的一个重要工具， 但对大多数普通人的日常生活而言，其可有可无。而现在呢， 已经成为绝大多数人生活中最密不可分的身体一部分。 手机已经成为人类身体上的一个衍生器官了。 <br/>人类了解外面的世界的主要手段将不再是看向窗外， 听人聊天， 到处打听， 而是手机，移动互联网。 去哪里吃饭， 大众点评，去哪里怎么走， 高德地图， 心情郁闷，发朋友圈求安慰，买东西，更是淘宝京东。我完全可以在这个世界里不和任何一个人产生现实世界的交集而生活的很好。 <br/><br/>另外一方面，现实世界也将在互联网的虚拟世界中对应起来。 包子店，理发店，按摩店，在网上都能找到， 网上购买服务比线下还便宜。 <br/><br/>移动互联网带给传统行业的是分工更加精细和效率的极大提升。 <br/><br/> 各种传统行业在互联网的作用下正在发生着极大的改变。 尤其是这两年以微信为核心的移动互联网生活方式。 <br/><br/>微信有一小部分人的沟通工具发展到大部分中国人生活不可或缺的朋友。 <br/>微信绑定银行卡查余额，买东西， 讨论群，关注阅读，追星，各种形式的O2O。 正在一点一点的改变我们的生活。<br/>这将是一个比Windows对我们生活改变更大的工具。 <br/><br/><br/><br/><i><br/>注： 题图来自<a href=\"https://link.zhihu.com/?target=http%3A//news.sdchina.com/show/2148682.html\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">康斯坦丁:成为覆盖山体的土壤 开放平台或成互联网OS雏形</a></i>", 
+            "topic": [], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/internet-thinking"
+}

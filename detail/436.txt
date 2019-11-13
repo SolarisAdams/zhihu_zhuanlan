@@ -1,0 +1,139 @@
+{
+    "title": "Triocrossin’s SLAM Learning Notes", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/li-ling-12-18-63", 
+        "https://www.zhihu.com/people/shao-lin-xiao-zi-24", 
+        "https://www.zhihu.com/people/nuo-wei-si-ji-kou-qiao-dan", 
+        "https://www.zhihu.com/people/zheng-dan-yang-88", 
+        "https://www.zhihu.com/people/pin-bo-fen-dou-ba", 
+        "https://www.zhihu.com/people/deng-chao-78", 
+        "https://www.zhihu.com/people/zhu-forrest", 
+        "https://www.zhihu.com/people/jluautolab", 
+        "https://www.zhihu.com/people/ou-yang-cai-zi-54", 
+        "https://www.zhihu.com/people/he-li-73-1-40", 
+        "https://www.zhihu.com/people/shan-shan-66-94", 
+        "https://www.zhihu.com/people/jach-liu", 
+        "https://www.zhihu.com/people/jx-hu-82", 
+        "https://www.zhihu.com/people/love-le", 
+        "https://www.zhihu.com/people/lai-dong-dong-91", 
+        "https://www.zhihu.com/people/zhang-rui-16-14", 
+        "https://www.zhihu.com/people/mu-feng-yu-fei-82", 
+        "https://www.zhihu.com/people/ge-ge-85-34", 
+        "https://www.zhihu.com/people/rong-yao-78-52", 
+        "https://www.zhihu.com/people/sun-go", 
+        "https://www.zhihu.com/people/gao-yan-36-87", 
+        "https://www.zhihu.com/people/ji-e-bu-luo", 
+        "https://www.zhihu.com/people/li-shi-jie-17-58", 
+        "https://www.zhihu.com/people/wang-cai-78-23", 
+        "https://www.zhihu.com/people/wang-slam", 
+        "https://www.zhihu.com/people/li-chen-ming-58-1", 
+        "https://www.zhihu.com/people/ganghai", 
+        "https://www.zhihu.com/people/mao-yuan-30-43", 
+        "https://www.zhihu.com/people/li-da-pang-59", 
+        "https://www.zhihu.com/people/yimjushi", 
+        "https://www.zhihu.com/people/li-xun-huan-47-95", 
+        "https://www.zhihu.com/people/xue-lian-jie-37", 
+        "https://www.zhihu.com/people/su-feng-yu-71", 
+        "https://www.zhihu.com/people/kirby-zhou", 
+        "https://www.zhihu.com/people/liu-qiang-83-70", 
+        "https://www.zhihu.com/people/frog-76", 
+        "https://www.zhihu.com/people/guo-sir-58", 
+        "https://www.zhihu.com/people/xchen-14-22", 
+        "https://www.zhihu.com/people/liu-xiao-nan-17", 
+        "https://www.zhihu.com/people/tyiop-42", 
+        "https://www.zhihu.com/people/dong-jing-21-24", 
+        "https://www.zhihu.com/people/eyeeh", 
+        "https://www.zhihu.com/people/nian-ren-de-tang", 
+        "https://www.zhihu.com/people/yang-yu-zhu-64", 
+        "https://www.zhihu.com/people/wchen-88", 
+        "https://www.zhihu.com/people/Pengbo-GAO", 
+        "https://www.zhihu.com/people/hai-lan-xin", 
+        "https://www.zhihu.com/people/lu-gong-gong-10", 
+        "https://www.zhihu.com/people/he-bing-long", 
+        "https://www.zhihu.com/people/REX-X-96-9", 
+        "https://www.zhihu.com/people/yin-yan-peng", 
+        "https://www.zhihu.com/people/guang-ying-so", 
+        "https://www.zhihu.com/people/yu-chao-22-97-8", 
+        "https://www.zhihu.com/people/chen-kai-69-35-87"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63450011", 
+            "userName": "王尔玉", 
+            "userLink": "https://www.zhihu.com/people/72adbd1ddbf164d36c0b6eb5eabf0095", 
+            "upvote": 0, 
+            "title": "MacOS 10.14 Mojave Upgrading", 
+            "content": "<p>If errors may occur reporting not found some headers, e.g.:</p><div class=\"highlight\"><pre><code class=\"language-text\">fatal error: &#39;libxml/xmlmemory.h&#39; file not found\n#include &lt;libxml/xmlmemory.h&gt; // Functions of libxml.</code></pre></div><p>One solution is to:</p><div class=\"highlight\"><pre><code class=\"language-text\">cd /Library/Developer/CommandLineTools/Packages/ $ \nopen macOS_SDK_headers_for_macOS_10.14.pkg</code></pre></div><p>To force the reinstallation of the headers for macOS 10.14.</p><p>Enjoy Mojave.</p>", 
+            "topic": [
+                {
+                    "tag": "macOS Mojave", 
+                    "tagLink": "https://api.zhihu.com/topics/20205408"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/27276532", 
+            "userName": "王尔玉", 
+            "userLink": "https://www.zhihu.com/people/72adbd1ddbf164d36c0b6eb5eabf0095", 
+            "upvote": 0, 
+            "title": "ROS Learning Notes", 
+            "content": "This article should mostly be considered as a personal reading note of the book <b><i><a href=\"https://link.zhihu.com/?target=https%3A//www.gitbook.com/book/jontian/-ros-indigo/details\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">机器人操作系统 ROS Indigo 入门学习</a>  </i></b>but NOT a sharing blog, so I will  detail too much but just <b>try to shorten the most important elements. </b><br/><br/><br/><b><i>Terminology:</i></b><br/><br/><br/><b>ROS</b>: Robot Operating System which ORB-SLAM and other SLAM systems use as the foundation of the SLAM structure for camera streaming, visualization etc.<br/><br/><b>C<b>atkin:</b></b> the official build system of ROS and the successor to the original ROS build system<br/><br/><i><b>Chapter 1 Basic structure of the ROS file system</b></i><br/><br/><br/><b>Package: </b>Basic structure in ROS system, including: libraries, tools and executable files.<br/><b>Manifest</b>: xml file to describe the dependency of the packages.<br/><div class=\"highlight\"><pre><code class=\"language-text\">&gt;Stack\n     Stack Manifest\n     \n     &gt;Packages\n          Manifests</code></pre></div><br/><b>rospack</b> and <b>rosstack</b> can be used to search the path of the packages and stacks:<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">$ rospack find [pack_name]\n$ rosstack find [stack_name]</code></pre></div><br/>By similar logic in linux basic operating, <b>roscd, rosls, </b>and other APIs can be easily found in ROS Wiki: <a href=\"https://link.zhihu.com/?target=http%3A//wiki.ros.org/\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Documentation - ROS Wiki</a><br/><br/><br/><b><i>Chapter 2 Create And Compile a ROS Package</i></b><br/><br/><br/>The condition that one package can be recognised as a catkin packages:<br/><ol><li>catkin compliant package.xml</li><li>CMakeLIst.txt</li><li>Only one package in one folder:<br/></li></ol><br/>A simple example:<br/><br/>     Packages/<br/><br/>          CMakeList.txt<br/>          Manifests.xml<br/><br/>A standard catkin package:<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">workspace_folder/\n    src/\n        CMakeLists.txt  -- Toplevel CMake file, provided by catkin\n    package1/ \n        CMakeLists.txt \n        package.xml\n    package_n/ \n        CMakeLists.txt \n        package.xml</code></pre></div><br/><br/>We compile the packages with <b>catkin_make </b>command:<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">catkin_make [make_targets][-DCMAKE_VARIABLES=...]\n</code></pre></div><br/><br/><br/><br/><i><b>Chapter 3 ROS Nodes, Topics and Messages</b></i><br/><br/>Terms:<br/><br/><b>Nodes</b>: Rosnode is an executable files which is able to proceed communication with other nodes.<br/><b>Topics</b>: Nodes can distribute messages to one topic and can also receive messages from one topic. <br/><b>Message</b>: The data milieu of the communication between nodes and topics.<br/><b>rosout</b>: stdout/stderr in ROS.<br/><b>roscore</b>: Master+rosout+parameter server.<br/><br/><i><b>Nodes</b></i>:<br/><br/>Thanks to different client libraries (rospy, roscpp etc), the nodes compiled from different programming languages can communicate with each other.  <br/><br/><i><b>Some basic operations:</b></i><br/><br/>List all active nodes:<br/><div class=\"highlight\"><pre><code class=\"language-text\">rosnode list\n</code></pre></div><br/>rosrun allows user to add a node of one certain package by its name.<br/><div class=\"highlight\"><pre><code class=\"language-text\">rosrun [package_name][node_name]\n</code></pre></div><br/><br/><i><b>Topics:</b></i><br/><br/>Node 1 －－－－－Topic－－－－－－ Node 2<br/><br/>Essential APIs:<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">rostopic bw    display bandwidth used by topic\nrostopic echo  print messages to screen \nrostopic hz    display publishing rate of topic\nrostopic list  print information about active topics \nrostopic pub   publish data to topic \nrostopic type  print topic type</code></pre></div><br/>Here we could use rostopic type to get the type of messages.<br/><br/>If we want to publish message directly to topics:<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">rostopic pub [topic] [msg_type] [args]\n</code></pre></div><br/>Here&#39;s a example of one single publish:<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- &#39;[2.0, 0 .0, 0.0]&#39; &#39;[0.0, 0.0, 1.8]&#39;\n</code></pre></div><br/>And a periodic one with frequency equals 1Hz:<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">rostopic pub /turtle1/cmd_vel geometry_msgs/Twist -r 1 -- &#39;[2.0, 0.0, 0.0]&#39; &#39;[0.0, 0.0, 1.8]&#39;\n</code></pre></div><br/><br/><br/><i><b>Chapter 4 Service and Parameter</b></i><br/><br/><i><b>rosservice:</b></i><br/><br/><br/>ROS Service is another method of communication between nodes:<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">rosservice list    print information about active services\nrosservice call    call the service with the provided args\nrosservice type    print service type\nrosservice find    find services by service type\nrosservice uri     print service ROSRPC uri</code></pre></div><br/>One example is given here:<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">rosservice call [service][args]\n</code></pre></div><br/><br/><i><b>rosparam:</b></i><br/>rosparam allows user to save and operate data in ROS parameter server, which respects YAML grammar.<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">rosparam set        set parameter\nrosparam get        get parameter\nrosparam load       load parameters\nrosparam dump       from file dump parameters\nrosparam delete     to file delete parameter\nrosparam list       list parameter names</code></pre></div><br/><br/><br/><i><b>Chapter 5 rqt_console and roslaunch</b></i><br/><br/>rqt_console and rqt_logger_level is used to debug and roslaunch allow users to launch multiple nodes simultaneously.<br/><br/>We only concern roslaunch for this moment, the usage of rqt_console can be easily found in the book given above.<br/><br/><div class=\"highlight\"><pre><code class=\"language-text\">roslaunch [package] [filename.launch]\n</code></pre></div><br/><b>Launch file:</b><br/><br/><br/><div class=\"highlight\"><pre><code class=\"language-xml\"><span class=\"nt\">&lt;launch&gt;</span>\n     <span class=\"nt\">&lt;group</span> <span class=\"na\">ns=</span><span class=\"s\">&#34;turtlesim1&#34;</span><span class=\"nt\">&gt;</span> \n          <span class=\"nt\">&lt;node</span> <span class=\"na\">pkg=</span><span class=\"s\">&#34;turtlesim&#34;</span> <span class=\"na\">name=</span><span class=\"s\">&#34;sim&#34;</span> <span class=\"na\">type=</span><span class=\"s\">&#34;turtlesim_node&#34;</span><span class=\"nt\">/&gt;</span>\n     <span class=\"nt\">&lt;/group&gt;</span>\n     <span class=\"nt\">&lt;group</span> <span class=\"na\">ns=</span><span class=\"s\">&#34;turtlesim2&#34;</span><span class=\"nt\">&gt;</span> \n          <span class=\"nt\">&lt;node</span> <span class=\"na\">pkg=</span><span class=\"s\">&#34;turtlesim&#34;</span> <span class=\"na\">name=</span><span class=\"s\">&#34;sim&#34;</span> <span class=\"na\">type=</span><span class=\"s\">&#34;turtlesim_node&#34;</span><span class=\"nt\">/&gt;</span>\n     <span class=\"nt\">&lt;/group&gt;</span>\n     <span class=\"nt\">&lt;node</span> <span class=\"na\">pkg=</span><span class=\"s\">&#34;turtlesim&#34;</span> <span class=\"na\">name=</span><span class=\"s\">&#34;mimic&#34;</span> <span class=\"na\">type=</span><span class=\"s\">&#34;mimic&#34;</span><span class=\"nt\">&gt;</span> \n          <span class=\"nt\">&lt;remap</span> <span class=\"na\">from=</span><span class=\"s\">&#34;input&#34;</span> <span class=\"na\">to=</span><span class=\"s\">&#34;turtlesim1/turtle1&#34;</span><span class=\"nt\">/&gt;</span> \n          <span class=\"nt\">&lt;remap</span> <span class=\"na\">from=</span><span class=\"s\">&#34;output&#34;</span> <span class=\"na\">to=</span><span class=\"s\">&#34;turtlesim2/turtle1&#34;</span><span class=\"nt\">/&gt;</span>\n     <span class=\"nt\">&lt;/node&gt;</span> \n<span class=\"nt\">&lt;/launch&gt;</span></code></pre></div><p><i><b>Feel free to contact me by 站内信 if you have any questions</b></i></p><br/><b>TrioXin&#39;</b><br/><b>06 Jun 2017</b>", 
+            "topic": [
+                {
+                    "tag": "机器人操作平台 (ROS)", 
+                    "tagLink": "https://api.zhihu.com/topics/19821635"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/25077218", 
+            "userName": "王尔玉", 
+            "userLink": "https://www.zhihu.com/people/72adbd1ddbf164d36c0b6eb5eabf0095", 
+            "upvote": 1, 
+            "title": "ORB SLAM Installation and Environment Configuration", 
+            "content": "<p><b><i>This article should mostly be regarded as a personal note but NOT a sharing blog. So I will not detail too much as lots of tutorials of ORB SLAM installation could be easily found. The objective of this article is to help several correct unexpected bugs occurred during the installation and makefile process which haven&#39;t been indicated by the README.txt. I am NOT sure if these bugs would occur under different environments, so please DON&#39;T try remedy solutions proposed here if you have a different environment configuration. </i></b></p><br/><p><b>Environment</b>:</p><ul><li>Ubuntu <b>16.04 LTS</b> (a VMware Fusion virtual machine installed under MacOS)<br/></li><li>ROS <b>Kinetic</b><br/></li><li>OpenCV <b>2.4.13</b><br/></li><li>Other dependencies demanded in README.txt<br/></li></ul><br/><p>Basically, we follow the README.txt in the cloned project from:<br/><a href=\"https://link.zhihu.com/?target=https%3A//github.com/raulmur/ORB_SLAM\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/raulmur/ORB_</span><span class=\"invisible\">SLAM</span><span class=\"ellipsis\"></span></a></p><p>All dependencies can be correctly installed and &#34;maked&#34; as well as two third-party libs. However, some unexpected bugs still occurred during the makefile process, and here I collected some fixing solutions which have been already confirmed by testing on my own project.</p><p>Since we are using ROS Kinetic, the dependency with OpenCV should be removed from <b>manifest.xml</b>:</p><br/><div class=\"highlight\"><pre><code class=\"language-text\">diff --git a/manifest.xml b/manifest.xml\n--- a/manifest.xml\n+++ b/manifest.xml\n@@ -9,7 +9,6 @@\n   &lt;depend package=&#34;roscpp&#34;/&gt;\n   &lt;depend package=&#34;tf&#34;/&gt;\n   &lt;depend package=&#34;sensor_msgs&#34;/&gt;\n-  &lt;depend package=&#34;opencv2&#34;/&gt;\n   &lt;depend package=&#34;image_transport&#34;/&gt;\n   &lt;depend package=&#34;cv_bridge&#34;/&gt;\n</code></pre></div><br/><p>And the including source should be added into <b><a href=\"https://link.zhihu.com/?target=http%3A//ORBextractor.cc\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">ORBextractor.cc</span><span class=\"invisible\"></span></a></b> to avoid compilation errors:</p><br/><div class=\"highlight\"><pre><code class=\"language-text\">diff --git a/src/ORBextractor.cc b/src/ORBextractor.cc\n--- a/src/ORBextractor.cc\n+++ b/src/ORBextractor.cc\n@@ -54,7 +54,7 @@\n+#include &lt;opencv2/opencv.hpp&gt;\n #include &lt;opencv2/core/core.hpp&gt;\n #include &lt;opencv2/highgui/highgui.hpp&gt;\n #include &lt;vector&gt;\n</code></pre></div><p>As well as a compilation bug in the <b>g2o</b> lib which could be easily fixed by:</p><br/><div class=\"highlight\"><pre><code class=\"language-text\">diff --git a/Thirdparty/g2o/g2o/solvers/linear_solver_eigen.h b/Thirdparty/g2o/g\n2o/solvers/linear_solver_eigen.h\n--- a/Thirdparty/g2o/g2o/solvers/linear_solver_eigen.h\n+++ b/Thirdparty/g2o/g2o/solvers/linear_solver_eigen.h\n@@ -53,7 +53,8 @@ \nclass LinearSolverEigen: public LinearSolver&lt;MatrixType&gt;\n   public:\n     typedef Eigen::SparseMatrix&lt;double, Eigen::ColMajor&gt; SparseMatrix;\n     typedef Eigen::Triplet&lt;double&gt; Triplet;\n-    typedef Eigen::PermutationMatrix&lt;Eigen::Dynamic, Eigen::Dynamic, SparseMatrix::Index&gt; PermutationMatrix;\n+    typedef Eigen::PermutationMatrix&lt;Eigen::Dynamic, Eigen::Dynamic, SparseMatrix::StorageIndex&gt; PermutationMatrix;\n</code></pre></div><p>And here I propose a new functional launch file basing on the provided launch file <b>ExampleGroovyOrNewer.launch</b>, which demands a <b>preinstallation of ROS usb_cam package.</b></p><br/><div class=\"highlight\"><pre><code class=\"language-text\">&lt;launch&gt;\n \n  &lt;node pkg=&#34;image_view&#34; type=&#34;image_view&#34; name=&#34;image_view&#34; respawn=&#34;false&#34; output=&#34;log&#34;&gt;\n    &lt;remap from=&#34;/image&#34; to=&#34;/ORB_SLAM/Frame&#34; /&gt;\n    &lt;param name=&#34;autosize&#34; value=&#34;true&#34;/&gt;\n  &lt;/node&gt;\n\t\n  &lt;node pkg=&#34;rviz&#34; type=&#34;rviz&#34; name=&#34;rviz&#34; args=&#34;-d $(find ORB_SLAM)/Data/rviz.rviz&#34; output=&#34;log&#34;&gt;\n  &lt;/node&gt;\n\n  &lt;node pkg=&#34;ORB_SLAM&#34; type=&#34;ORB_SLAM&#34; name=&#34;ORB_SLAM&#34;  args=&#34;Data/ORBvoc.txt Data/SettingsWebcamMac13.yaml&#34; cwd=&#34;node&#34; output=&#34;screen&#34;&gt;\n  &lt;/node&gt;\n\n  &lt;node name=&#34;usb_cam&#34; pkg=&#34;usb_cam&#34; type=&#34;usb_cam_node&#34; output=&#34;screen&#34; &gt;\n    &lt;param name=&#34;video_device&#34; value=&#34;/dev/video0&#34; /&gt;\n    &lt;param name=&#34;image_width&#34; value=&#34;640&#34; /&gt;\n    &lt;param name=&#34;image_height&#34; value=&#34;480&#34; /&gt;\n    &lt;param name=&#34;pixel_format&#34; value=&#34;yuyv&#34; /&gt;\n    &lt;param name=&#34;camera_frame_id&#34; value=&#34;camera&#34; /&gt;\n    &lt;param name=&#34;io_method&#34; value=&#34;mmap&#34;/&gt;\n    &lt;remap from=&#34;/usb_cam/image_raw&#34; to=&#34;/camera/image_raw&#34; /&gt;\n  &lt;/node&gt;\n\n&lt;/launch&gt;\n</code></pre></div><p>With this launch file, you could use your webcam to test ORB SLAM lib. ( ﾟ ▽ ﾟ)つ□</p><p>DON&#39;T forget to change the camera parameters in <b>Settings.yaml </b>if you want to use the webcam as an input source, in ROS we could calibrate our webcam by following cmdLine (assuming <b>roscore</b> and <b>usb_cam </b>working correctly).</p><br/><div class=\"highlight\"><pre><code class=\"language-text\">$ rosrun camera_calibration cameracalibrator.py --size 7x9 --square 0.23 image:=/usb_cam/image_raw camera:=/usb_cam\n</code></pre></div><br/><p><b><i>Feel free to contact me by 站内信 if you have any questions</i></b></p><p><b>Triocrossin&#39;</b></p><p><b>31 Jan 2017</b><br/></p><br/><p><b>Related Publications:</b><br/>[1] Raúl Mur-Artal, J. M. M. Montiel and Juan D. Tardós. ORB-SLAM: A Versatile and Accurate Monocular SLAM System. <em>IEEE Transactions on Robotics,</em> vol. 31, no. 5, pp. 1147-1163, 2015. (2015 IEEE Transactions on Robotics Best Paper Award). <a href=\"https://link.zhihu.com/?target=http%3A//webdiis.unizar.es/~raulmur/MurMontielTardosTRO15.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">PDF</a>.<br/>[2] Dorian Gálvez-López and Juan D. Tardós. Bags of Binary Words for Fast Place Recognition in Image Sequences. <em>IEEE Transactions on Robotics,</em> vol. 28, no. 5, pp. 1188-1197, 2012. <a href=\"https://link.zhihu.com/?target=http%3A//doriangalvez.com/php/dl.php%3Fdlp%3DGalvezTRO12.pdf\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">PDF</a></p>", 
+            "topic": [
+                {
+                    "tag": "同时定位和地图构建（SLAM）", 
+                    "tagLink": "https://api.zhihu.com/topics/20033502"
+                }, 
+                {
+                    "tag": "机器人操作平台 (ROS)", 
+                    "tagLink": "https://api.zhihu.com/topics/19821635"
+                }, 
+                {
+                    "tag": "增强现实（AR）", 
+                    "tagLink": "https://api.zhihu.com/topics/19561596"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>Please come up with more of these notes!</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "王尔玉", 
+                            "userLink": "https://www.zhihu.com/people/72adbd1ddbf164d36c0b6eb5eabf0095", 
+                            "content": "<p>大神真是闹，我就是。。。note一下毫无分享意义。。。感觉自己是水资源的一颗尘埃</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>I mean it! It's always a noble act to share. I am just too lazy to wite anything seriously on Zhihu.</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王尔玉"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/SLAM-Notes"
+}

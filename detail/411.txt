@@ -1,0 +1,59 @@
+{
+    "title": "pcb设计--基于 allegro", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/wang-xiang-yang-71", 
+        "https://www.zhihu.com/people/zhou-xiao-yu-18-99", 
+        "https://www.zhihu.com/people/xue-bu-hui-37-58", 
+        "https://www.zhihu.com/people/you-yu-70-9", 
+        "https://www.zhihu.com/people/guan-li-ming-81", 
+        "https://www.zhihu.com/people/hong-yun-zhou-93", 
+        "https://www.zhihu.com/people/da-mao-mao-mao-10", 
+        "https://www.zhihu.com/people/hui-ku-de-cao", 
+        "https://www.zhihu.com/people/seven-78-89-35", 
+        "https://www.zhihu.com/people/johnny-r-22", 
+        "https://www.zhihu.com/people/lee-28-5-11", 
+        "https://www.zhihu.com/people/guy428135"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/51161220", 
+            "userName": "ICDesignStory", 
+            "userLink": "https://www.zhihu.com/people/ab2be50e6d41df457b990fe230110845", 
+            "upvote": 0, 
+            "title": "FPC封装的制作_cadence_allegro，视频上线，完全手把手，零基础教学", 
+            "content": "<p>视频上线，完全手把手，零基础教学，观看地址：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av36990904\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">bilibili.com/video/av36</span><span class=\"invisible\">990904</span><span class=\"ellipsis\"></span></a><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/Bi53b6PEkf7urecM93sU\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/Bi53b6P</span><span class=\"invisible\">Ekf7urecM93sU</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-9735feecab0e6582beeb635cba4252c4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1050\" data-rawheight=\"592\" class=\"origin_image zh-lightbox-thumb\" width=\"1050\" data-original=\"https://pic1.zhimg.com/v2-9735feecab0e6582beeb635cba4252c4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1050&#39; height=&#39;592&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1050\" data-rawheight=\"592\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1050\" data-original=\"https://pic1.zhimg.com/v2-9735feecab0e6582beeb635cba4252c4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-9735feecab0e6582beeb635cba4252c4_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>youtube地址：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3DOS_-8wfnXBY%26t%3D441s\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">youtube.com/watch?</span><span class=\"invisible\">v=OS_-8wfnXBY&amp;t=441s</span><span class=\"ellipsis\"></span></a><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/Bi53b6PEkf7urecM93sU\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/Bi53b6P</span><span class=\"invisible\">Ekf7urecM93sU</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "Cadence", 
+                    "tagLink": "https://api.zhihu.com/topics/19718043"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/50936639", 
+            "userName": "ICDesignStory", 
+            "userLink": "https://www.zhihu.com/people/ab2be50e6d41df457b990fe230110845", 
+            "upvote": 0, 
+            "title": "PCB封装设计-基于cadence allegro 16.6，视频上线", 
+            "content": "<p>今天设计了一个小封装，给大家分享一下。今天主要同步了我的各个网站的视频，蛮累，希望大家支持，不知道在这条开源的路上能做多久。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-17dc606bd27104e7b8489b2fd91ce302_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"499\" data-rawheight=\"483\" class=\"origin_image zh-lightbox-thumb\" width=\"499\" data-original=\"https://pic3.zhimg.com/v2-17dc606bd27104e7b8489b2fd91ce302_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;499&#39; height=&#39;483&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"499\" data-rawheight=\"483\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"499\" data-original=\"https://pic3.zhimg.com/v2-17dc606bd27104e7b8489b2fd91ce302_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-17dc606bd27104e7b8489b2fd91ce302_b.jpg\"/></figure><p>youtube频道：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/watch%3Fv%3D7X7ucPfn8pU%26t%3D10s\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">youtube.com/watch?</span><span class=\"invisible\">v=7X7ucPfn8pU&amp;t=10s</span><span class=\"ellipsis\"></span></a><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-69c7e09278e5c7a1e385550c63afe04e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1328\" data-rawheight=\"834\" class=\"origin_image zh-lightbox-thumb\" width=\"1328\" data-original=\"https://pic3.zhimg.com/v2-69c7e09278e5c7a1e385550c63afe04e_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1328&#39; height=&#39;834&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1328\" data-rawheight=\"834\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1328\" data-original=\"https://pic3.zhimg.com/v2-69c7e09278e5c7a1e385550c63afe04e_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-69c7e09278e5c7a1e385550c63afe04e_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>B站：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av36830027%3Ffrom%3Dsearch%26seid%3D17747170677591342354\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">bilibili.com/video/av36</span><span class=\"invisible\">830027?from=search&amp;seid=17747170677591342354</span><span class=\"ellipsis\"></span></a><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-dca8712a82c2a2f4403dd7b075935052_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1022\" data-rawheight=\"776\" class=\"origin_image zh-lightbox-thumb\" width=\"1022\" data-original=\"https://pic3.zhimg.com/v2-dca8712a82c2a2f4403dd7b075935052_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1022&#39; height=&#39;776&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1022\" data-rawheight=\"776\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1022\" data-original=\"https://pic3.zhimg.com/v2-dca8712a82c2a2f4403dd7b075935052_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-dca8712a82c2a2f4403dd7b075935052_b.jpg\"/></figure><p>感兴趣的，就关注吧。在当今娱乐泛化，各种视频网站，抖音等的侵蚀下，学习，竟也慢慢成了一件“反人性”的事情。我要告诉我，要坚持学习！</p><p><a href=\"https://link.zhihu.com/?target=http%3A//weixin.qq.com/r/Bi53b6PEkf7urecM93sU\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">weixin.qq.com/r/Bi53b6P</span><span class=\"invisible\">Ekf7urecM93sU</span><span class=\"ellipsis\"></span></a> (二维码自动识别)</p><p>我的其他几个联系方式：</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我的csdn博客：后续会慢慢和微信公众号同步更新。</p><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/shishu8385\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">【shishu8385的博客】verilog_电脑技术 - CSDN博客</a><p>知乎主页：</p><a href=\"https://www.zhihu.com/people/shishu8385\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-4dd0feeece743bfe77095ac9bac10d8d_ipico.jpg\" data-image-width=\"959\" data-image-height=\"959\" class=\"internal\">shishu8385</a><p>github主页：</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/shishu8385\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-699813f438492ee4bb99a18711a9b291_ipico.jpg\" data-image-width=\"400\" data-image-height=\"400\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">shishu8385 - Overview</a><p></p>", 
+            "topic": [
+                {
+                    "tag": "PCB", 
+                    "tagLink": "https://api.zhihu.com/topics/19599564"
+                }, 
+                {
+                    "tag": "Cadence", 
+                    "tagLink": "https://api.zhihu.com/topics/19718043"
+                }, 
+                {
+                    "tag": "PCB 硬件 工程师", 
+                    "tagLink": "https://api.zhihu.com/topics/20056110"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1050756190434299904"
+}

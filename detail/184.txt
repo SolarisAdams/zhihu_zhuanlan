@@ -1,0 +1,516 @@
+{
+    "title": "汽车科技Something", 
+    "description": "汽车电子相关，汽车领域相关", 
+    "followers": [
+        "https://www.zhihu.com/people/jiaozhuzxm", 
+        "https://www.zhihu.com/people/du-gu-wu-di-83-40", 
+        "https://www.zhihu.com/people/ha-ha-40-2-38", 
+        "https://www.zhihu.com/people/da-gu-39", 
+        "https://www.zhihu.com/people/xxx-elven", 
+        "https://www.zhihu.com/people/sunnoy888", 
+        "https://www.zhihu.com/people/reddoor", 
+        "https://www.zhihu.com/people/dou-dou-ba-32", 
+        "https://www.zhihu.com/people/mu-xiao-xi-93", 
+        "https://www.zhihu.com/people/he-he-he-70-87", 
+        "https://www.zhihu.com/people/zhao-fang-hao", 
+        "https://www.zhihu.com/people/andy-58-72", 
+        "https://www.zhihu.com/people/jinghualin", 
+        "https://www.zhihu.com/people/cong-huo-xing-lai-de-jing-shen-bing", 
+        "https://www.zhihu.com/people/zhao-qing-5-36", 
+        "https://www.zhihu.com/people/wwwggv", 
+        "https://www.zhihu.com/people/we-lyc", 
+        "https://www.zhihu.com/people/listentorainflower", 
+        "https://www.zhihu.com/people/tang-xiao-han-4-38", 
+        "https://www.zhihu.com/people/momo-67-69-33", 
+        "https://www.zhihu.com/people/pbl999", 
+        "https://www.zhihu.com/people/rex-zhang", 
+        "https://www.zhihu.com/people/li-yuan-36-79-49", 
+        "https://www.zhihu.com/people/mydays-15", 
+        "https://www.zhihu.com/people/su-zi-xun-yue", 
+        "https://www.zhihu.com/people/yong-wang-zhi-qian-70-23", 
+        "https://www.zhihu.com/people/jiang-nan-10-72", 
+        "https://www.zhihu.com/people/qin-wen-biao-82", 
+        "https://www.zhihu.com/people/jiang-wen-25-58", 
+        "https://www.zhihu.com/people/zhuang-zhuang-96-69", 
+        "https://www.zhihu.com/people/qing-feng-96-40-22", 
+        "https://www.zhihu.com/people/gao-chuan-xiang-7", 
+        "https://www.zhihu.com/people/su-mu-han-48", 
+        "https://www.zhihu.com/people/he-zheng-e", 
+        "https://www.zhihu.com/people/xu-zuo-zhi-nan-lbj", 
+        "https://www.zhihu.com/people/openthedoors", 
+        "https://www.zhihu.com/people/di-shu-27-57", 
+        "https://www.zhihu.com/people/wu-la-la-67-24-13", 
+        "https://www.zhihu.com/people/gao-xuan-19-42", 
+        "https://www.zhihu.com/people/search-3", 
+        "https://www.zhihu.com/people/kuaker-lan", 
+        "https://www.zhihu.com/people/la-ji-tian-ya-77", 
+        "https://www.zhihu.com/people/cheng-zi-71-69-6", 
+        "https://www.zhihu.com/people/ling-qi-boy", 
+        "https://www.zhihu.com/people/FuzzyLogic", 
+        "https://www.zhihu.com/people/hyforward-48", 
+        "https://www.zhihu.com/people/wu-yi-wei-89", 
+        "https://www.zhihu.com/people/chen-di-da-79", 
+        "https://www.zhihu.com/people/tony-48-67", 
+        "https://www.zhihu.com/people/yang-jin-chen-20-18", 
+        "https://www.zhihu.com/people/hu-la-la-de-xiao-mo-wang", 
+        "https://www.zhihu.com/people/gavin-li-70", 
+        "https://www.zhihu.com/people/tan-ya-sha-long", 
+        "https://www.zhihu.com/people/a-peng-4-63", 
+        "https://www.zhihu.com/people/lu-dong-79-33", 
+        "https://www.zhihu.com/people/xie-shu-qi-15", 
+        "https://www.zhihu.com/people/YPHFree", 
+        "https://www.zhihu.com/people/shu-zhi-45", 
+        "https://www.zhihu.com/people/udsmi", 
+        "https://www.zhihu.com/people/xiaobing88", 
+        "https://www.zhihu.com/people/shang-cheng-zhi-11", 
+        "https://www.zhihu.com/people/song-jia-94-28", 
+        "https://www.zhihu.com/people/jocker-74-48", 
+        "https://www.zhihu.com/people/liu-zheng-98-2-82", 
+        "https://www.zhihu.com/people/yimi-yang-guang-53-88", 
+        "https://www.zhihu.com/people/lu-jian-feng-18", 
+        "https://www.zhihu.com/people/wader32", 
+        "https://www.zhihu.com/people/lei-xiao-er", 
+        "https://www.zhihu.com/people/wu-kong-j", 
+        "https://www.zhihu.com/people/wayne_yi", 
+        "https://www.zhihu.com/people/dai-xiang-12-14", 
+        "https://www.zhihu.com/people/xiaozhen-14", 
+        "https://www.zhihu.com/people/sevenren", 
+        "https://www.zhihu.com/people/liu-hao-81-75", 
+        "https://www.zhihu.com/people/yang-ming-53-32", 
+        "https://www.zhihu.com/people/fei-tian-mao-mao-chong-25", 
+        "https://www.zhihu.com/people/woody-93", 
+        "https://www.zhihu.com/people/hua-jian-yihu-jiu-16-74", 
+        "https://www.zhihu.com/people/yu-ming-6-1", 
+        "https://www.zhihu.com/people/liu-liang-66-97", 
+        "https://www.zhihu.com/people/ni-zhao-hui-24", 
+        "https://www.zhihu.com/people/sun-da-sheng-67-93", 
+        "https://www.zhihu.com/people/song-xiao-kang-52", 
+        "https://www.zhihu.com/people/qing-feng-27-55", 
+        "https://www.zhihu.com/people/zhuangxiang", 
+        "https://www.zhihu.com/people/wu-xing-ye-de-yong-tan-diao", 
+        "https://www.zhihu.com/people/shan-ding-ye-ren", 
+        "https://www.zhihu.com/people/change-li", 
+        "https://www.zhihu.com/people/gogo-91-76", 
+        "https://www.zhihu.com/people/xiao-liu-zi-65-1", 
+        "https://www.zhihu.com/people/xie-yang-23-5", 
+        "https://www.zhihu.com/people/zhaokb", 
+        "https://www.zhihu.com/people/zhang-wei-30-82", 
+        "https://www.zhihu.com/people/wang-wen-ju-75", 
+        "https://www.zhihu.com/people/ken-51-92", 
+        "https://www.zhihu.com/people/wu-yun-tao-79-38", 
+        "https://www.zhihu.com/people/zhai-ted", 
+        "https://www.zhihu.com/people/liu-liang-liao-35", 
+        "https://www.zhihu.com/people/lin-ding-69-25", 
+        "https://www.zhihu.com/people/jax-59", 
+        "https://www.zhihu.com/people/jiang-ming-zhi-43", 
+        "https://www.zhihu.com/people/zhao-zz-28", 
+        "https://www.zhihu.com/people/gao-run-jia-30", 
+        "https://www.zhihu.com/people/shan-shang-ju-shi-48", 
+        "https://www.zhihu.com/people/atp-73-3", 
+        "https://www.zhihu.com/people/lijuqqkiko", 
+        "https://www.zhihu.com/people/frankwang-97", 
+        "https://www.zhihu.com/people/qianpengpeng", 
+        "https://www.zhihu.com/people/guo-kai-75-86", 
+        "https://www.zhihu.com/people/mao-eny", 
+        "https://www.zhihu.com/people/yanlx-12", 
+        "https://www.zhihu.com/people/guo-ji-jiao-yu-liu-xue-guan", 
+        "https://www.zhihu.com/people/nick-99-2", 
+        "https://www.zhihu.com/people/will-67-94", 
+        "https://www.zhihu.com/people/tu-zi-er-ge-16", 
+        "https://www.zhihu.com/people/lb-chengang", 
+        "https://www.zhihu.com/people/scottfly-52", 
+        "https://www.zhihu.com/people/jon-54-65"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/59680565", 
+            "userName": "Lewis", 
+            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+            "upvote": 3, 
+            "title": "[专栏通知]：一起玩V-REP", 
+            "content": "<p>这一定是正经的汽车类科技专栏，因为我们要搞仿真啦！simulation！为啥我每次搞仿真会这么激动呢？因为之前每次实践测试真机的时候，各种意想不到的 BUG 会渐渐消磨掉原本如火的热情，这次来讲我学习 V-REP 的经历同步发专栏，边学边发，看看真正的 建模-仿真-测试-验证 (prototyping and verification) 是怎么样的。</p><p>现代汽车业，除了专栏之前所分析的 UDS 等框架性的工程类代码之外，还有很多算法类的控制代码（我是不会说人工智能的orz），这些都需要我们真正地测试算法的可行性，所以在现在 计算机科学 崛起的时代，机器人（包括车辆）成为了最好的验证平台。而在验证之前，建模就要从仿真做起。</p><p>仿真第一步，环境先起步（V-REP 软件如下所示）&gt;_&gt; 顺便吐槽一下垃圾的国内网络环境，不过我科学地下载了，大家一起用。（2019.3.15 最新款式软件 &gt;_&lt;）</p><div class=\"highlight\"><pre><code class=\"language-text\">链接：https://pan.baidu.com/s/1qwO344q_imaz7em2GjWPyQ \n提取码请私信我联系哈！！交流一下:) </code></pre></div><p>跨平台软件，windows 下<b>无脑安装</b>，Linux 下解压缩到你喜欢的 directory，然后进入vrep目录，使用 <b>./vrep.sh </b>启动</p><p>安装完之后可以开始膜拜一下教程了，其 tutorial 教学文档之齐全，太赞了。学完 ROS tutorial 之后感慨 V-REP 太良心了！！</p><p>再推荐一个 youtube 视频入门：</p><a href=\"https://link.zhihu.com/?target=https%3A//www.youtube.com/channel/UC2P7h5Vik9tLafPQ2hlKVLA/playlists\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">youtube.com/channel/UC2</span><span class=\"invisible\">P7h5Vik9tLafPQ2hlKVLA/playlists</span><span class=\"ellipsis\"></span></a><p>完美。大家先玩起来再说吧，后面介绍我做的小仿真。</p><p>栏友如果有想要一起做建模的请联系~</p><p class=\"ztext-empty-paragraph\"><br/></p><p><i>转载请联系</i></p><p>All rights reserved. copyright Lewis</p>", 
+            "topic": [
+                {
+                    "tag": "汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19551915"
+                }, 
+                {
+                    "tag": "建模", 
+                    "tagLink": "https://api.zhihu.com/topics/19626304"
+                }, 
+                {
+                    "tag": "仿真", 
+                    "tagLink": "https://api.zhihu.com/topics/19578073"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "不让你知道我是谁", 
+                    "userLink": "https://www.zhihu.com/people/22ca1074f1de820d37b59069dcabb85e", 
+                    "content": "你好 请问在设置万向轮与地面无摩擦no friction material时为什么不能选择，选什么都是none", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "柏林", 
+                    "userLink": "https://www.zhihu.com/people/da35be015460b62e1d4fdc49517fa97a", 
+                    "content": "请问这款软件可以做水下机器人的仿真嘛", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/47683280", 
+            "userName": "夜尽天明", 
+            "userLink": "https://www.zhihu.com/people/eae67b43475431698f73afc80abe7bd6", 
+            "upvote": 21, 
+            "title": "质量工程师：从入门到精通", 
+            "content": "<p>在知乎上一直默默收到有些童鞋的私信提问，既有毕业不久，初涉质量的新人，也有一些在职场中谋求转型的伙伴，大多是对于未来的前景和方向不甚明了。笔者不才，在这方面有一些小小的体会，也借着知乎和大家分享，如果能够帮到一些童鞋，那字就不算白码啦～</p><p class=\"ztext-empty-paragraph\"><br/></p><p>自我介绍一下，笔者从事质量行业大概有七年，不算太长，也不算太短，期间经历了种种的困惑，迷茫，到现在开始有一些比较明确的方向，希望自己能够努力达成吧～</p><p class=\"ztext-empty-paragraph\"><br/></p><p>毕业至今在两家公司任职，其中一家是国内某著名OEM，另一家则是初创型的新能源企业，担任过的工作既有量产前的开发测试质量，也有量产后的售后质量，算是从前到后都接触过。大凡谈到质量，总是会讲究一些分析问题的鱼骨图，人机料法环等工具，今天不想写这方面，纯当做心理入门吧哈哈。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>回溯一下旧时光，当我第一次跨进OEM的大门时，还是11年的毕业季，出生机械的我并没有特别接触过汽车，便机缘巧合下以质量工程师作为了职场的起点。在第一次压力危机之前，我的自我标签是能够轻松应付面试，懂得职场礼仪，并且上进好学的合格新人。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>我会礼善地对待所有的同事，在合适的时机提出疑问，增长自己的业务知识；会彬彬有礼的回复邮件，兢兢业业地每天发送最新的问题状态；会协调资源去完成一项我认为应该要做的任务。。。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>然而确实还不够，第一次项目会议Review，被PM一顿劈头盖脸的骂：你是质量吗？这么明显的漏洞看不出来吗？。。。当时我是有些懵逼的，毕竟是第一次做项目，而且看起来似乎错也并不在我，而更加在于零件设计工程师。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>冷静下来反思之后，得到了进阶法则1：质量工程师不是质量协调。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>在这里务必谈一下业内质量工程师的一些通用职责：</p><ul><li>通用职责1：问题分析与责任归属判定</li><li>通用职责2：问题状态跟踪与反馈</li><li>通用职责3：项目管理与协调</li></ul><p>这样解释可能比较抽象，打个比方：如果说项目组是一支足球队，PM是球队老板，质量工程师（某些情况下会冠以质量经理的title）则是球队的教练。翻译一下就是：</p><ul><li>职责1：在球队进攻、防守不利时分锅，找到需要改进的球员</li><li>职责2：持续监督问题球员的改进过程，并观察球队整体表现</li><li>职责3：在出现更衣室打架事件时要迅速调解；球员消极怠工时要集中训练</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>后来一些年，我其实有些感谢当初骂我的那位PM，因为在此之前我真的不懂什么是追问，什么是challenge。如果质量工程师只是一味接收和认可其他人员的反馈，那被骂几乎是必然的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>原因在于：</p><ol><li>整车制造或检测中的问题，很多既涉及软件，又涉及硬件，还会有一些其他对手件，因此，当碰到问题需要分析时，往往需要团队成员各自贡献自己的意见和想法；</li><li>由于专业和经验上的不对等，会造成某些信息来源，实际上是错误的</li><li>成熟OEM的分工已经非常细致，而问题的责任归属者一旦认定，可能会承受来自项目可小可大的压力，因此，个人或部门立场不同，决定了某些信息可能并不会被轻易的挖掘出来。</li></ol><p class=\"ztext-empty-paragraph\"><br/></p><p>此时，作为问题裁判的质量工程师，如果傻傻的听信某一方或几方的意见，要么会使分析误入歧途，浪费资源，要么被弄得晕头转向，不知从何下手。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>需要做什么呢？对于刚入门的工程师来说，一方面尽快熟悉整车结构，功能设计，这是为了让自己形成问题分析的基础思路；另一方面，需要时刻提醒自己，至少在内心要多问几个why：</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>为什么原因是1而不是2？</li><li>如果问题的原因是1，那么按演绎法推导出的结果有哪些？和问题症状表现一致吗？</li><li>有横向对比吗？</li><li>有没有可能是原因3？</li><li>如果原因1解决了，问题能够马上得到解决吗？</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><p>质疑，是质量工程师入门的必修课。有逻辑有依据的质疑，是成熟质量工程师的表现。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>未完待续。。。（太困了）</p>", 
+            "topic": [
+                {
+                    "tag": "质量工程师", 
+                    "tagLink": "https://api.zhihu.com/topics/19671365"
+                }, 
+                {
+                    "tag": "质量管理", 
+                    "tagLink": "https://api.zhihu.com/topics/19641683"
+                }, 
+                {
+                    "tag": "汽车质量", 
+                    "tagLink": "https://api.zhihu.com/topics/20092998"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "我在等风也等你", 
+                    "userLink": "https://www.zhihu.com/people/077b87b4115d5ce8b771bee447cc25b2", 
+                    "content": "整车制造或检测时   会用到can通讯进行读取obd数据吗", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "如果是量产的话，不会～但是如果是负责试制或者测试的话，这项是必须的", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "我在等风也等你", 
+                            "userLink": "https://www.zhihu.com/people/077b87b4115d5ce8b771bee447cc25b2", 
+                            "content": "也就是说  pvs   一定会把？", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "会用于问题诊断，软件刷写等～不过如果是质量工程师，那需要看具体的岗位，电器类的质量工程师基本都会懂", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Lewis", 
+                    "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+                    "content": "<p>希望继续投稿哈 专栏期待你的下一篇 给我们带来产业方向的新认知</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/52694304", 
+            "userName": "Lewis", 
+            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+            "upvote": 0, 
+            "title": "UDS on CAN 详解网络层分析[8]", 
+            "content": "<blockquote>阅读本文前，最好下载了 ISO15765-2 的 pdf，最最好自己已经阅读了一遍英文原文，最最最好已经自己有实现的想法，如果你已经有自己的想法了就别看这篇文章了，快去写代码实现吧！</blockquote><p>基本大致框架前面季节都介绍完啦，今天来讲讲 <b>时间控制</b> 和 <b>错误处理 </b>这两个模块的事情，会涉及到一些实现细节，但是每个人都可以用自己的想法去实现，这里只给一些参考。</p><ul><li><b>时间控制</b></li></ul><p>关于时间的控制是一个比较蛋疼的点，因为控制时间涉及到起始时间与结束时间，还要涉及到发送与接收两个部分的计时。举个例子，设有一个时间参数A，它计时的范围是本栈从发送首帧开始到接收流量控制帧结束这段时间。这里就涉及到了：发送接收两部分、始末的数据帧状态、超时之后的处理模块等等很多方面。分析之后你就会发现，时间控制就是嵌入到程序的，我认为单独用c写出来一个模块是不可能的（或者有高人写出来po在专栏啊！），当然正常计时之后或者超时的处理是在时间模块里面的。</p><p>单独拉出来ISO文档里面对于时间参数的规定，如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-90cf6ea35424fe25f58b8bcbaffcb203_b.jpg\" data-size=\"normal\" data-rawwidth=\"944\" data-rawheight=\"693\" class=\"origin_image zh-lightbox-thumb\" width=\"944\" data-original=\"https://pic4.zhimg.com/v2-90cf6ea35424fe25f58b8bcbaffcb203_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;944&#39; height=&#39;693&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"944\" data-rawheight=\"693\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"944\" data-original=\"https://pic4.zhimg.com/v2-90cf6ea35424fe25f58b8bcbaffcb203_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-90cf6ea35424fe25f58b8bcbaffcb203_b.jpg\"/><figcaption>时间参数规定</figcaption></figure><p>A类的参数都是协议栈里面的内部参数，防止内部阻塞设置的，我在具体编码中没有去实现，但是各位可以去实现一下，描述和始末状态都很清晰。</p><p>B类都是表示末状态为 FC数据帧 的，对于发送模块来讲，N_Bs 表示接收到 FC 的计时时间，当然其初始状态是有很多的，FF，CF，FC 状态都是可以开始计时。N_Br亦然。不过会有一点<b>疑问</b>，对于状态之间会有混淆，这就需要自己搞清楚整个通信的架构，因为每一个ISO15765-2里面都有接收与发送模块。搞清楚状态之间可以怎样转换。</p><p><b>For example</b>，我们将电子检测器接入汽车网络，我们固定地将检测器标志为 S（Sender），车内的存储器表示为 R（Receiver）；然后由于这两个部件架构都是符合 ISO15765-2 的标准，所以 S 和 R 都是有发送与接收两个模块的。具体的可以画出来，然后再做数据流的分析。具体的可以画状态机去表示。</p><p>C类表示的 CF连续帧 的，对于发送模块来讲，N_Cs 表示接收到 CF 的计时时间，当然其初始状态只有 FC 和 CF 开始计时。N_Cr亦然。</p><p>理顺B类的，C类的时间参数就ok啦，当然计时的部分，还要对底层做一下封装，使得代码能适应不同的硬件平台。计时模块还是要有初始化的，因为每次唤起的状态不同，所以还要用固定地编码去表示，具体的编码方式可以自己规定（反正就是在 define.h 里面自己写一下，用的时候还是看得懂的英文单词）。</p><ul><li><b>错误处理</b></li></ul><p>错误处理没有什么难度，主要是自己要考虑到的方面要全，这里直接po一张自己画的图吧</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2f3a23cf29573d975ede59d0dd67df28_b.jpg\" data-size=\"normal\" data-rawwidth=\"1851\" data-rawheight=\"1360\" class=\"origin_image zh-lightbox-thumb\" width=\"1851\" data-original=\"https://pic1.zhimg.com/v2-2f3a23cf29573d975ede59d0dd67df28_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1851&#39; height=&#39;1360&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1851\" data-rawheight=\"1360\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1851\" data-original=\"https://pic1.zhimg.com/v2-2f3a23cf29573d975ede59d0dd67df28_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2f3a23cf29573d975ede59d0dd67df28_b.jpg\"/><figcaption>错误处理模块 Flow Chart</figcaption></figure><p>可能自己当时考虑的方面也会有遗漏的，希望大家补充，错误处理主要是各个模块出现问题，调用这个模块就行，然后初始化一下继续循环工作。</p><p>网络层提供的功能就是向上屏蔽网络传输的阻塞或者错误等等，向下进行数据的分组封装传输，脏活累活干的还是挺多的，但是其功能其实是很明确的。</p><p>8节的内容对于网络层来说差不多了，希望能带来一些开发上的灵感。设计好框架，考虑到边界情况，再去编码效果会好很多。</p><p>下面专栏里面可能会总结一些 SLAM，Motion Planning 相关的算法与应用，当代无人车的两大难点：传感器的数据融合 与 Mapping 仍然是需要我们去克服的，希望后面的相关内容也能引起大家的兴趣。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>撒花~</p><p class=\"ztext-empty-paragraph\"><br/></p><p>有错误请指正！</p><p><i>转载请联系</i></p><p>All rights reserved. copyright Lewis</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "汽车电子", 
+                    "tagLink": "https://api.zhihu.com/topics/19697968"
+                }, 
+                {
+                    "tag": "汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19551915"
+                }, 
+                {
+                    "tag": "智能汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19581103"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/52474816", 
+            "userName": "Lewis", 
+            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+            "upvote": 3, 
+            "title": "UDS on CAN 详解网络层分析[7]", 
+            "content": "<blockquote>阅读本文前，最好下载了 ISO15765-2 的 pdf，最最好自己已经阅读了一遍英文原文，最最最好已经自己有实现的想法，如果你已经有自己的想法了就别看这篇文章了，快去写代码实现吧！</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>最近知乎大裁员，写下这篇文章的时候还是感慨互联网时代的变化之快。还是好好提升自我，免得处于边缘的尴尬境地。然后来把这个系列做个了解，鬼知道就一个网络层哪来那么多东西可以写。</p><p>这篇文章应该要讲解接收部分的构造，上一篇改不回来的图我在邮箱找到了，先贴出来理解一下，还是那句话：如果有想法了，思路理通了，就马上用代码去实现一下，比看系列文章好懂的多。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-47025dcb43f53efef5c66608b814a8a3_b.jpg\" data-size=\"normal\" data-rawwidth=\"1720\" data-rawheight=\"1477\" class=\"origin_image zh-lightbox-thumb\" width=\"1720\" data-original=\"https://pic4.zhimg.com/v2-47025dcb43f53efef5c66608b814a8a3_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1720&#39; height=&#39;1477&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1720\" data-rawheight=\"1477\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1720\" data-original=\"https://pic4.zhimg.com/v2-47025dcb43f53efef5c66608b814a8a3_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-47025dcb43f53efef5c66608b814a8a3_b.jpg\"/><figcaption>整体框架图</figcaption></figure><p>今天分析一下接收模块的逻辑吧！首先接收的时候，最怕的就是数据接收错误，个人以为数据发送的时候数据帧是不会有什么顺序错误的，但是因为网络阻塞与传输的原因，接收的时候是会存在数据帧乱序到达的情况的，当然这些都是可以通过判断模块判断实现的。</p><p>首先，数据读取处理模块我使用状态机去实现了，由于我完成的是半双工的功能，所以逻辑较简单。下列分析中可能会掺杂 <b>流量控制 </b>等功能，<b>半双工接收模块状态机</b>如下图所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6f73c28cb32ce8a867a667ed8660e134_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"454\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb\" width=\"454\" data-original=\"https://pic1.zhimg.com/v2-6f73c28cb32ce8a867a667ed8660e134_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;454&#39; height=&#39;400&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"454\" data-rawheight=\"400\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"454\" data-original=\"https://pic1.zhimg.com/v2-6f73c28cb32ce8a867a667ed8660e134_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6f73c28cb32ce8a867a667ed8660e134_b.jpg\"/></figure><p>初始化状态为 S， 一开始接收模块接收到 单帧（SingleFrame）或者 首帧（FirstFrame）均可。其中接收 SF 后，其状态转移有两条，这个不难理解。在接收了 FF 之后，说明发送方进行多帧传输的请求。这时候我们要对 FF 所<b>携带的信息进行解析，</b>这里的的解析ISO文档中并没有十分清晰地给出，当时和组长也讨论了良久，困扰我们的问题是：</p><p><b>对于数据量的错误判断按照什么标准？</b></p><p>是直接通过 首帧 的 FF_DL 数据域去判断？还是通过后续对于连续帧 CF_DL 进行累加判断？后来我们选择的是通过假设 FF_DL 正确的情况下进行数据量的判断。</p><p>如果 FF_DL 指示的数据量超过了接收容量的限度，接收模块应该进行 <b>流量控制，</b>通过转移到下一个状态发送 FC 进行 传输终止 的指示；如果容量可以接受发送方的数据那么就给出 继续传输 的指示。</p><p>其次，连续帧 CF 和 流量控制帧 FC 是交替转换状态的，这不难理解。在接收了Block Size (BS)个数据之后，发送方是需要得到接收方的流量控制的指示的。</p><p>当传输接收结束时，状态调回初始状态 S。</p><p>还有要提的是，可能在建模或者理解的时候对于接收方，发送方会有混淆，但这是作为传输协议不可避免要遇到的情况，因为全双工情况下传送与接收是同时进行的，其复杂程度是很高的，所以代码要尽量做到解耦，提高可复用性，干净利落。如何区分好半双工状态时的接收、发送方呢？画张图，将发送方和接收方确定好了再进行分析。否则碰到的情况就是很容易混，因为这两个称呼都是<b>相对</b>的，需要我们自己在分析的时候画图<b>确定</b>下来。</p><p>细节的，在接收 CF（ConsecutiveFrame）的时候，我们需要判断其序号，是否符合 <b>循环累加</b>的顺序，如果有乱序出现，立即取消此次接收，并且进行流量控制。相应的错误控制会在后续讲到。</p><p>最后分析的一个模块是数据存储，不管是 单帧 或者是 多帧 的存储，我们都需要先开辟一个固定大小的内存空间（嵌入式编程的需要，动态分配内存是不允许的）。我的实现方式是边读边存，具体的思想是：</p><p>利用一个标志位来指示存储空间下一步的动作：</p><ul><li>CTS --&gt; Continue To Store</li><li>END --&gt; Store End，正常结束存储，并且向上传送存储空间的地址与大小</li><li>ERR --&gt; CF Error, Terminate 非正常结束存储，初始化存储空间</li></ul><div class=\"highlight\"><pre><code class=\"language-c\"><span class=\"n\">IF</span> <span class=\"n\">ConsecutiveFrame的序列号正确</span> <span class=\"o\">&amp;&amp;</span> <span class=\"err\">不是最后一帧数据帧</span> <span class=\"n\">THEN</span>\n    <span class=\"n\">DO</span> <span class=\"err\">数据存储，标志位</span><span class=\"n\">CTS</span>\n<span class=\"n\">ELSE</span> <span class=\"n\">ConsecutiveFrame的序列号正确</span> <span class=\"o\">&amp;&amp;</span> <span class=\"err\">是最后一帧数据帧</span> <span class=\"n\">THEN</span>\n    <span class=\"n\">DO</span> <span class=\"err\">数据存储，标志位</span><span class=\"n\">END</span>\n    <span class=\"err\">向上传送存储地址与大小</span>\n<span class=\"n\">ELSE</span> <span class=\"n\">ConsecutiveFrame的序列号不正确</span> <span class=\"n\">THEN</span>\n    <span class=\"err\">终止接收并且报错</span>\n<span class=\"n\">ENDIF</span></code></pre></div><p>接收模块基本的分析就以上这些，网络层剩下的也不多啦，就只剩下 <b>定时机制</b> 与 <b>错误处理</b> 模块了，本次连载预计在下一章里结束。</p><p>本节完</p><p>有错误请指正！</p><p><i>转载请联系</i></p><p>All rights reserved. copyright Lewis</p>", 
+            "topic": [
+                {
+                    "tag": "汽车电子控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19752937"
+                }, 
+                {
+                    "tag": "OBD", 
+                    "tagLink": "https://api.zhihu.com/topics/19603874"
+                }, 
+                {
+                    "tag": "汽车行业", 
+                    "tagLink": "https://api.zhihu.com/topics/19585985"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/46877059", 
+            "userName": "Lewis", 
+            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+            "upvote": 1, 
+            "title": "UDS on CAN 详解网络层分析[6]", 
+            "content": "<p><b>博客原文：</b></p><a href=\"https://link.zhihu.com/?target=http%3A//blog.lewissoft.com\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">shape the whole world</a><blockquote>阅读本文前，最好下载了 ISO15765-2 的 pdf，最最好自己已经阅读了一遍英文原文，最最最好已经自己有实现的想法，如果你已经有自己的想法了就别看这篇文章了，快去写代码实现吧！</blockquote><p>啧啧，这个系列好久没更新，中秋好好的休息了一下，为了后面算的学习与工作做了一些准备，在 “十一” 长假开工写作，然后呢，就到现在才发表出来。。。</p><p>上一节描述了接口设计与地址信息介绍。今天我们就来想想看一共可以有多少个设计模块来实现网络层的功能。这节就涉及到我个人在工作实现中的想法了，如果有人已经熟读了标准文档的话，其实就可以自己设计一遍，考虑一下边界情况，然后一起来讨论一下看看如何设计更加合理。</p><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>首先，在协议栈中，肯定先分为两大块，发送模块与接收模块，两个模块相互独立有相互联系，这时候需要有一个网络层的主控程序的大while循环来控制网络层的工作状态，因为有些网络的阻塞控制与时间控制是不需要应用层来管理的，这些都是需要网络层控制程序调用模块来控制的。那么，大致来讲，框架是 主控程序 + 接收模块 + 发送模块。</li></ul><p class=\"ztext-empty-paragraph\"><br/></p><ul><li>接下来，剖析一下发送模块，个人觉得发送模块比较简单，无非就是上层调用接口进入发送模块，模块中分析一下数据量的大小，上层会给出数据的起始地址与数据长度，如果数据量大于等于8字节，那么就是多帧发送，如果小于8字节，那么就是单帧发送模式，所以综上，发送模块中包含 单/多帧判断模块、帧拆分组装模块、 帧发送模块；如果判断是单帧的话，那么给在数据域之前加上标志（地址信息，PCI 信息）之后即可调用下层接口进行数据传输。如果是多帧的话，那么我们就需要计算 连续帧 帧数，假设数据量大小为 D Bytes，那么连续帧帧数    <b>N = ((D-6)%7==0) ? (D/7) : (D/7+1)</b>；我的处理方式是先将首帧进行处理之后，再利用 N 作为拆分模块 for 循环中的参数值去拆分连续帧，然后在拆分的同时进行 标志信息 的添加进行数据发送。</li></ul><p>So easy, nothing in Transmission Part, Right？大家不妨现在就去写一下发送模块！</p><p>上一张自己当时画的发送部分的图。接收部分大家可以再想想，也不是很难。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-3b51a38e5352d4d16680f1d7d7038b9c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1720\" data-rawheight=\"1477\" class=\"origin_image zh-lightbox-thumb\" width=\"1720\" data-original=\"https://pic1.zhimg.com/v2-3b51a38e5352d4d16680f1d7d7038b9c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1720&#39; height=&#39;1477&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1720\" data-rawheight=\"1477\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1720\" data-original=\"https://pic1.zhimg.com/v2-3b51a38e5352d4d16680f1d7d7038b9c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-3b51a38e5352d4d16680f1d7d7038b9c_b.jpg\"/></figure><p>完了，图片改完之后改不回来了，，，，[狗头]</p><p>本节完</p><p class=\"ztext-empty-paragraph\"><br/></p><p><i>转载请联系</i></p><p>All rights reserved. copyright Lewis</p>", 
+            "topic": [
+                {
+                    "tag": "计算机网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19572894"
+                }, 
+                {
+                    "tag": "汽车电子", 
+                    "tagLink": "https://api.zhihu.com/topics/19697968"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44972779", 
+            "userName": "Lewis", 
+            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+            "upvote": 1, 
+            "title": "UDS on CAN 详解网络层分析[5]", 
+            "content": "<p><b>lewis edit this</b></p><p><b>博客原文：</b></p><a href=\"https://link.zhihu.com/?target=http%3A//blog.lewissoft.com\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">shape the whole world</a><blockquote>阅读本文前，最好下载了 ISO15765-2 的 pdf，最最好自己已经阅读了一遍英文原文，最最最好已经自己有实现的想法，如果你已经有自己的想法了就别看这篇文章了，快去写代码实现吧！</blockquote><p>今天又在上班的时候写文档了【黑脸】，明天就要离职了，说实话人真是一种神奇的生物，还是有点不舍的（虽然说是暑假实习的单位），但还是很感激 Fujitsu 给我带来的知识，让我经历了完整的开发过程。此处感谢省略一万字。</p><p>上一节我们介绍了时间参数与错误处理模块相关的标准设定，今天我们来仔细介绍一下接口设计与地址的分类相关事宜。</p><hr/><p>对于网络层的接口设计，标准 ISO15765-2 的第五节给出了相应的设计。</p><p>总体来讲，网络层服务项有统一的结构，总共定义了三类主要的服务项：</p><ul><li>请求服务 request service primitive </li><li>指示服务 indication service primitive</li><li>确认服务 confirm service primitive</li></ul><p>其中，15765标准有统一的结构形式，是如下形式：</p><p>service_name.type(parameter A, parameter B, parameter C, ... )</p><p>这里面，service_name 是服务名称， type 是服务的类型，其中的参数A，参数B等表示服务所要传递的参数。</p><p>下面的是相应的特定的端口设计：</p><div class=\"highlight\"><pre><code class=\"language-c\"><span class=\"n\">N_USData</span><span class=\"p\">.</span><span class=\"n\">request</span> <span class=\"p\">(</span>\n    <span class=\"n\">Mtype</span>\n    <span class=\"n\">N_SA</span>\n    <span class=\"n\">N_TA</span>\n    <span class=\"n\">N_TAtype</span>\n    <span class=\"n\">N_AE</span>\n    <span class=\"o\">&lt;</span><span class=\"n\">MessageData</span><span class=\"o\">&gt;</span>\n    <span class=\"o\">&lt;</span><span class=\"n\">Length</span><span class=\"o\">&gt;</span>\n<span class=\"p\">)</span></code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><div class=\"highlight\"><pre><code class=\"language-text\">N_USData.confirm (\n    Mtype\n    N_SA\n    N_TA\n    N_TAtype\n    N_AE \n    &lt;N_Result&gt;\n)</code></pre></div><p>request 是由网络层提供给上层的接口，上层使用该接口可以向下传递数据，同时网络层使用confirm 接口确定 request 的完成情况。</p><hr/><div class=\"highlight\"><pre><code class=\"language-text\">N_USData_FF.indication (\n    Mtype\n    N_SA\n    N_TA\n    N_TAtype\n    N_AE \n    &lt;Length&gt;\n)</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><div class=\"highlight\"><pre><code class=\"language-text\">N_USData.indication (\n    Mtype\n    N_SA\n    N_TA\n    N_TAtype\n    N_AE \n    &lt;MessageData&gt;\n    &lt;Length&gt;\n    &lt;N_Result&gt;\n)</code></pre></div><p>indication 服务类型表示网络层通知上层接收到了对等实体的数据已经收到了，FF 表示首帧的数据接收到了，没有 FF 表示 SF 或者 CF 数据已经接收到了。</p><hr/><div class=\"highlight\"><pre><code class=\"language-text\">N_ChangeParameter.request (\n    Mtype\n    N_SA\n    N_TA\n    N_TAtype\n    N_AE \n    &lt;Parameter&gt;\n    &lt;Parameter_Value&gt;\n)</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><div class=\"highlight\"><pre><code class=\"language-text\">N_ChangeParameter.confirm (\n    Mtype\n    N_SA\n    N_TA\n    N_TAtype\n    N_AE \n    &lt;Parameter&gt;\n    &lt;Result_ChangeParameter&gt;\n)</code></pre></div><p>request 服务项表示请求本地实体内部参数的修改，confirm 表示对于request请求的确认情况。</p><p>上面介绍的内容中所有的服务参数项都有特定的标准，具体参考 15765 文档的 5.3 节。</p><ul><li>地址信息</li><li> &lt;Length&gt;</li><li> &lt;MessageData&gt; </li><li> &lt;Parameter&gt;</li><li> &lt;Parameter_Value&gt;</li><li> &lt;N_Result&gt;</li><li> &lt;Result_ChangeParameter&gt;</li></ul><p>具体的仔细看标准文档，这个不算难。</p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p>关于地址的相关的信息，标准文档中也给出了解释：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-53ab1e5fbc247e69ee0f9eff84e9687b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"475\" data-rawheight=\"63\" class=\"origin_image zh-lightbox-thumb\" width=\"475\" data-original=\"https://pic4.zhimg.com/v2-53ab1e5fbc247e69ee0f9eff84e9687b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;475&#39; height=&#39;63&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"475\" data-rawheight=\"63\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"475\" data-original=\"https://pic4.zhimg.com/v2-53ab1e5fbc247e69ee0f9eff84e9687b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-53ab1e5fbc247e69ee0f9eff84e9687b_b.jpg\"/></figure><blockquote>The N_AI is used to identify the communicating peer entities of the network layer. <br/><br/>The N_AI information received in the N_SDU — N_SA, N_TA, N_TAtype, N_AE  — shall be copied and included in the N_PDU.<br/><br/> If the message data (&lt;MessageData&gt; and &lt;Length&gt;) received in the N_SDU is so long that segmentation is needed for the network layer to transmit the complete message, the N_AI shall be copied and included (repeated) in every N_PDU that is transmitted.<br/><br/>This field contains address information that identifies the type of message exchanged, and the recipient(s) and sender between whom data exchange takes place. The address information consists of message addresses.<br/><br/>NOTE  For a detailed description of address information, see <b>5.3.2.</b></blockquote><p>按照标准，我们去 5.3.2 看看相关的地址信息。</p><ul><li>N_AI</li></ul><p>这个 地址域 标志了 SA 源地址，TA 目标地址，TAtype 目标地址类型，AE 地址拓展形式。 </p><p class=\"ztext-empty-paragraph\"><br/></p><blockquote><b>N_SA, Network Source Address</b><br/><b>Type:</b> 1 byte unsigned integer value<br/><b>Range:</b> 00-FF hex<br/><b>Description:</b> The N_SA parameter shall be used to encode the sending network layer protocol entity.</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><blockquote><b>N_TA, Network Target Address</b><br/><b>Type:</b> 1 byte unsigned integer value<br/><b>Range:</b> 00-FF hex<br/><b>Description:</b> The N_TA parameter shall be used to encode the receiving network layer protocol entity.</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><blockquote><b>N_TAtype, Network Target Address type</b><br/><b>Type:</b> enumeration<br/><b>Range:</b> physical, functional<br/><b>Description:</b> The parameter N_TAtype is an extension to the N_TA parameter. It shall be used to encode the communication model used by the communicating peer entities of the network layer. Two communication models are specified: <br/>1 to 1 communication, called physical addressing, and <br/>1 to n communication, called functional addressing.</blockquote><p> Physical addressing (1-to-1 communication) shall be supported for all types of network layer messages.</p><p> Functional addressing (1-to-n communication) shall only be supported for Single Frame communication.</p><p>上面介绍了物理编址与功能编址的类别，一对一通信的时候表示用物理地址，一对多通信的时候表示用功能地址。其中，功能编址只支持单帧传输通信。</p><blockquote><b>N_AE, Network Address Extension</b><br/><b>Type:</b> 1 byte unsigned integer value<br/><b>Range:</b> 00-FF hex<br/><b>Description:</b> The N_AE parameter is used to extend the available address range for large networks, and to encode both sending and receiving network layer entities of subnets other than the local network where the communication takes place. N_AE is only part of the addressing information if Mtype is set to remote diagnostics.</blockquote><p>这部分大家仔细研读标准文件即可，有问题评论即可。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本节完</p><p class=\"ztext-empty-paragraph\"><br/></p><p><i>转载请联系</i></p><p>All rights reserved. copyright Lewis</p>", 
+            "topic": [
+                {
+                    "tag": "科技", 
+                    "tagLink": "https://api.zhihu.com/topics/19556664"
+                }, 
+                {
+                    "tag": "汽车电子", 
+                    "tagLink": "https://api.zhihu.com/topics/19697968"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Rook1E", 
+                    "userLink": "https://www.zhihu.com/people/de25c7a2389e7b70d8d999459717dceb", 
+                    "content": "您好，《15765-2》 7.3.2小节中说明了针对normal addressing，CAN ID和N_AI存在映射关系。然后N_AI又标识了N_TA、N_SA、N_TAtype、N_AE这四个参数。那么CAN ID究竟和这些参数是怎么映射的呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Lewis", 
+                            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+                            "content": "CAN ID是CAN帧的一部分，对于CAN ID 汽车厂家是可以自己定义的，据我所知丰田就有自己的一套映射标准；CAN 的 DATA 帧是携带信息的部分（这里的信息是指往上层的数据）CAN ID 应该是指示CAN帧的标志，是物理层相关的，与网络层应该无关。如有错误请指正。", 
+                            "likes": 1, 
+                            "replyToAuthor": "Rook1E"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "忧郁", 
+                    "userLink": "https://www.zhihu.com/people/532c8f1d9db10877a63e436e697340c4", 
+                    "content": "你好，关于N-AE的解释是什么呢？", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44855129", 
+            "userName": "Lewis", 
+            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+            "upvote": 10, 
+            "title": "UDS on CAN 详解网络层分析[1]", 
+            "content": "<h2><b>lewis edit this</b></h2><p><b>博客原文：</b></p><a href=\"https://link.zhihu.com/?target=http%3A//blog.lewissoft.com/2018/09/17/uds-on-can-%25E8%25AF%25A6%25E8%25A7%25A3%25E7%25BD%2591%25E7%25BB%259C%25E5%25B1%2582%25E5%2588%2586%25E6%259E%25901/\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-81d25a63f572b856e50313ac93667562_180x120.jpg\" data-image-width=\"2000\" data-image-height=\"1200\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">UDS on CAN 详解网络层分析[1]</a><blockquote>阅读本文前，最好下载了 ISO15765-2 的 pdf，最最好自己已经阅读了一遍英文原文，最最最好已经自己有实现的想法，如果你已经有自己的想法了就别看这篇文章了，快去写代码实现吧！</blockquote><p>​ 今天是二零一八年的九月十七号，天空微雨，台风“山竹”成功地登陆沿海，空气也弥漫着初秋的味道，自由凉爽的味道；暑假一开始就在富士通实习，不紧不慢地也快三个月了，感谢组长给我一个给丰田的小项目，使得自己在从小热爱的汽车行业里面留下了一点微小的痕迹，从公司回去的路上想到将近三个月的实习快结束了（因为其他原因，其实还请了不少的假的），想通过这一个系列的讲解把自己所作所学的东西记录在文章中。</p><p>​ 关于UDS (unified diagnostics services) 这个概念的基本解释我就不过多阐述了，属于汽车电子故障诊断领域的基本概念，而且在这个方面我这篇文章属于general类型的，原因的话下面会具体讲（主要还是各家汽车厂商的标准不同）。当然主要因为源码不能泄露，公司在安全这方面管理相当严格，想了解思路见解+代码概要还有小白入手还是可以看这篇文章的，所有我所讲的都已经代码实现了，所以应该不会太坑 Orzzzz. </p><p>​ 一般来讲，汽车的总线类型均为CAN总线，CAN为上层服务提供链路与物理层的支持 （这些通信的东西就留给通信组去研究吧），而UDS是基于CAN总线的，所以我们对于CAN总线的数据格式需要了解一下即可。再往上的UDS网络层就是我们这次系列要分析的对象了。有人可能会对于 <b>往上</b> 这个词会感到诧异，恕我直言，如果我现在提了一下你还没有感觉的话，那就得回顾一下《计算机网络》这门课程了。</p><p>​ 接着上段，UDS采用了层级结构，类似于OSI的结构，所以我用了 ”往上“ 这个词，具体的对应关系我们可以看下图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-f4ba26744f2fcff7237e9c3c1e79e148_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1187\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb\" width=\"1187\" data-original=\"https://pic1.zhimg.com/v2-f4ba26744f2fcff7237e9c3c1e79e148_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1187&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1187\" data-rawheight=\"457\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1187\" data-original=\"https://pic1.zhimg.com/v2-f4ba26744f2fcff7237e9c3c1e79e148_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-f4ba26744f2fcff7237e9c3c1e79e148_b.jpg\"/></figure><p>​ 这张图已经给我们一个明显的直观感受了，就是在原有的 OSI 模型中，UDS从其中抽象了出来，形成了在汽车电子领域所使用的统一诊断标准。关于 <a href=\"https://www.zhihu.com/question/26374239\" class=\"internal\">汽车诊断</a>，可以点击自行了解一下。我们要分析透彻的是 ISO 15765-2 这一层的东西。</p><p>​ 这方面的内容 CSDN 上也有一篇文章写得内容比较多，但我觉得这位工程师写文章的风格我不喜欢，大杂烩，可能一口吃不下，所以我决定开一个系列来讲UDS网络层的内容。CSDN上的那篇文章感兴趣 <a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/qq_28086637/article/details/73699677\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">点击</a> 即可。</p><p>​ 我大致的开发流程还是比较规范的，首先就是需求分析，这一步相当的繁琐，要先看英文标准文档，然后再过一下中文的翻译版diff一下，然后再和组长一起开会Review分析一下要写哪些模块，可能花了将近三周的时间才将需求分析写完（确实东西也很多，需求分析要好好做）；所以我们重点要讲的东西就是要让自己对于基本概念的理解与贯彻，这样后面代码重构的概率会直线下降。</p><p>​ 就我自己看文档的感受而言，我算是看英文文档比较熟悉的了，但是第一遍下来还是会有点懵，因为ISO的文档一开始全都是在将小的概念，在全局都不懂的情况下去理解这些东西谈何容易！所以我会竟可能解释可以理解的，是在结束不了的放在后面示例里面讲。</p><p>​ 先映入眼帘的便是 ISO 所介绍的 服务原语 (Service Primitives) 这个名字看起来十分的具有原力（至少我是这么想的）；简单点，我们可以将他理解为接口，这些接口是层级之间通信所依赖的东西，比如数据通过CAN总线到达了ECU端，此时网络层需要提供一个接口给链路层，使得链路层能调用该接口将数据实现上行，这个 <b>服务</b> 在标准文档里面叫做 L_Data.indication, 其中 L 表示 Link链路层，indication 表示 CAN 总线上的数据到了，提示一下，调用这个接口实现数据上行。当然在实现的时候我是将 L_Data.indication 放在了网络层中，通过回调函数使得链路层能调用该接口。</p><p>​ 同样的链路层为网路层提供的接口还有 L_Data.request / L_Data.confirm，分别提供给网络层向底层发送数据和确认的服务。那么在网络层之上还有高层层级，相应的网络层也要为他们提供网络层的服务接口，分别为N_USData.request / N_USData.indication / N_USData.confirm, 这些定义在文档都有详细的介绍了。至于为什么会有 N_USData_FF 这个字眼，其实很简单，在标准的一开始就有所有变量的定义，大家一定要好好看看，FF表示First Frame， 即首帧，第一帧的意思，SF (Single Frame) 表示单帧，CF (Consecutive Frame) 表示连续帧，FC (Flow Control) 表示流控制帧，这样放眼看来还挺像是传统网络的感觉，但其实UDS不完全是，它自己有一套处理帧传输的机制。</p><p>​ 首先要在脑海中构建出数据传输的基本框架，因为实现一套协议个人以为不是一件比较简单的事，因为一套代码要能实现接收发送的功能，支持全双工与半双工的工作模式，所以先前的概念要清楚。</p><p>​ 然而，在搭建框架之前得将基本的数据格式搞清楚。</p><p>​ 之前说过在链路层方面，数据是以CAN帧为载体传输的，网络层的接收模块得正确地提取出链路层的数据从而形成网络层的 PDU (Protocol  Data Unit)，可以将 PDU 理解成为每一层的处理数据单元。层级的结构层次特点在于每一层的数据由下自上属于 层层“剥开” 的状态，如下图所示。</p><p>​ CAN的数据格式大致如下所示：</p><p><b>CAN 标志 | Data Length Code | Data Field</b></p><p>Identifier  | DLCData                  | Field</p><p>​ 对于每一种数据载体来讲，所包含的三个信息一定是清晰的，即ID+数据长度+数据域，对于上层网络层来讲，CAN帧的Data Field表示的就是网络层的 <a href=\"https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Protocol_data_unit\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">PDU</a> （对于PDU概念不清的请点击）；将网络层的PDU简写为 <b>N_PDU</b> 。</p><p>​ N_PDU的格式如下所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-edc0e16bd90293a3737b175f70d4706d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1417\" data-rawheight=\"173\" class=\"origin_image zh-lightbox-thumb\" width=\"1417\" data-original=\"https://pic2.zhimg.com/v2-edc0e16bd90293a3737b175f70d4706d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1417&#39; height=&#39;173&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1417\" data-rawheight=\"173\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1417\" data-original=\"https://pic2.zhimg.com/v2-edc0e16bd90293a3737b175f70d4706d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-edc0e16bd90293a3737b175f70d4706d_b.jpg\"/></figure><p>​ 同CAN帧，N_PDU的数据格式不出所料，还是 ID+数据类型（数据长度是数据的一种属性）+数据域的形式，下面我们简单的将这三个重点部分讲解一下：</p><ul><li>N_AI : 表示地址信息，我们可以理解为ID标识，可能各个厂商的定义不同，例如丰田的定义是。。。（我是不会说的），每个厂商对于寻址的定义方式都不同，所以这个地址域就是自定义的部分</li><li>N_PCI：表示 Network Protocol Control Information，表明整个 N_PDU 的性质是什么，例如上述提到的帧的类型，这个指示域还能指明流控制相关的参数，该部分是标准严格定义过的，我们放在第二部分分析。</li><li>N_Data：表示传递的数据，数据域。<br/><br/>​ 分析完数据格式，就可以再讲眼界放宽一点，看一下整体的流程。由于每次传输的时候，数据量有大有小，数据量小的时候，单帧就能传输完成，但是一般情况下，需要多帧才能完成数据的传输任务。<br/>​ <br/>​     <i>单帧情况：</i><br/></li></ul><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-d87ff21760662cb6171a78f6d18020fc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"774\" data-rawheight=\"441\" class=\"origin_image zh-lightbox-thumb\" width=\"774\" data-original=\"https://pic1.zhimg.com/v2-d87ff21760662cb6171a78f6d18020fc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;774&#39; height=&#39;441&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"774\" data-rawheight=\"441\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"774\" data-original=\"https://pic1.zhimg.com/v2-d87ff21760662cb6171a78f6d18020fc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-d87ff21760662cb6171a78f6d18020fc_b.jpg\"/></figure><p><br/>​    <i>多帧情况：</i><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-5ed252fea4faec72d0b436c6582475b1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"782\" data-rawheight=\"645\" class=\"origin_image zh-lightbox-thumb\" width=\"782\" data-original=\"https://pic2.zhimg.com/v2-5ed252fea4faec72d0b436c6582475b1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;782&#39; height=&#39;645&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"782\" data-rawheight=\"645\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"782\" data-original=\"https://pic2.zhimg.com/v2-5ed252fea4faec72d0b436c6582475b1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-5ed252fea4faec72d0b436c6582475b1_b.jpg\"/></figure><p><br/>​ 相比之下，引入多帧传输之后，随之而来的问题会很多，大家可以提前思考一下，对于如何解决多帧传输带来的问题应该在第三讲指出。当然 UDS网络层 的另外一个难点，时间控制也是非常值得关注的。</p><p><br/>​ 本节完。</p><p><br/><i>转载请联系</i><br/>All rights reserved. copyright Lewis</p>", 
+            "topic": [
+                {
+                    "tag": "科技", 
+                    "tagLink": "https://api.zhihu.com/topics/19556664"
+                }, 
+                {
+                    "tag": "汽车电子", 
+                    "tagLink": "https://api.zhihu.com/topics/19697968"
+                }, 
+                {
+                    "tag": "汽车", 
+                    "tagLink": "https://api.zhihu.com/topics/19551915"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Triple Z", 
+                    "userLink": "https://www.zhihu.com/people/bcb55c013d162ccf78cc8f91fc4123a8", 
+                    "content": "陆神太强了啊！吹爆！", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Lewis", 
+                            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+                            "content": "举报你啊 再这样", 
+                            "likes": 0, 
+                            "replyToAuthor": "Triple Z"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "Shen", 
+                    "userLink": "https://www.zhihu.com/people/4726af9270ebe69d6873555faaae405b", 
+                    "content": "<p>你好，想请教下N_AI network address information 这个在只有在非标准地址的时候才存在吗？</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Lewis", 
+                            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+                            "content": "<p>地址信息肯定是任何类型信息都存在的。刚才去看了一下标准文档，信息类型为诊断和远程诊断AI所包含的内容是不一样的。</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Shen"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44875001", 
+            "userName": "Lewis", 
+            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+            "upvote": 1, 
+            "title": "UDS on CAN 详解网络层分析[3]", 
+            "content": "<p><b>lewis edit this</b></p><p><b>博客原文：</b></p><a href=\"https://link.zhihu.com/?target=http%3A//blog.lewissoft.com\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">shape the whole world</a><blockquote>阅读本文前，最好下载了 ISO15765-2 的 pdf，最最好自己已经阅读了一遍英文原文，最最最好已经自己有实现的想法，如果你已经有自己的想法了就别看这篇文章了，快去写代码实现吧！</blockquote><p>上一节讲述了帧的数据格式，这一节讲解连续帧 CF (Consecutive Frame) 和 流控制帧 FC (Flow Control Frame) 的格式与相应处理他们的方式。</p><p>首先，请回顾一下第二章里面的流程图，了解 CF 与 FC 所处的通信顺序。</p><ul><li>连续帧 CF </li></ul><p>连续帧是发送方为了发送大量数据字节而采用的方法，发送模块将发送的数据进行拆分，通过多帧传送的方式传递出去。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-8093d10f12f63b87ca56682d1ea1d284_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"446\" data-rawheight=\"154\" class=\"origin_image zh-lightbox-thumb\" width=\"446\" data-original=\"https://pic1.zhimg.com/v2-8093d10f12f63b87ca56682d1ea1d284_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;446&#39; height=&#39;154&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"446\" data-rawheight=\"154\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"446\" data-original=\"https://pic1.zhimg.com/v2-8093d10f12f63b87ca56682d1ea1d284_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-8093d10f12f63b87ca56682d1ea1d284_b.jpg\"/></figure><p>从 PCI 信息可以看出连续帧的类型号为0x2，SN表示 Sequence Number，用来指示连续帧的序号是多少，使用这个机制的目的就是为了让发送方按顺序发送CF，并且接收方在接收CF的时候，能根据 SN 来判断数据帧是否按照正确顺序来接收，从而做出相应的判断。</p><p>SN一共有4位表示，所以其可以表达的范围是 0x0 - 0xf；</p><p>相应的，对于 SN 标准是有一条约束的：</p><p>① SN应该从0开始计数，<b>首帧</b>的序列号应该为0，<b>首帧虽然没有明确表示出序列号，但是应该将首帧当作0号序列对待</b>；</p><p>② 连续帧的第一帧的序列号应该为1；</p><p>③ 当拆分传输时，SN 序列号加一递增；</p><p>④ <b>SN的值不应受任何流控制帧的影响；</b></p><p>⑤ SN的值循环增加。</p><p>这些都是要记住的规则，在编码时要按照这些标准来进行，这样发送模块的代码才能写对；相应的接收模块的逻辑也才会写对。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e06e36e81a17ffca377e864b316e73e8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"504\" data-rawheight=\"63\" class=\"origin_image zh-lightbox-thumb\" width=\"504\" data-original=\"https://pic1.zhimg.com/v2-e06e36e81a17ffca377e864b316e73e8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;504&#39; height=&#39;63&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"504\" data-rawheight=\"63\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"504\" data-original=\"https://pic1.zhimg.com/v2-e06e36e81a17ffca377e864b316e73e8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e06e36e81a17ffca377e864b316e73e8_b.jpg\"/></figure><p>对于 SN 的递增，大家要记住上述的第一条，FF 默认的 SN 为0，虽然 FF 的 PCI 信息没有显式的表明自己的 SN；可以理解为 FF 作为多帧传输的第一帧，其 SN 默认为0；同样的，在发送模块给 CF 的 SN 赋值时，要从 0x1 开始，并且循环增加，这个思想上图已经表示的很清楚了。</p><div class=\"highlight\"><pre><code class=\"language-c\"><span class=\"kt\">void</span>\n<span class=\"nf\">Transmit_CF</span><span class=\"p\">(</span> <span class=\"n\">parameters</span><span class=\"p\">...){</span>\n  <span class=\"n\">u8</span> <span class=\"n\">cf_sn</span> <span class=\"o\">=</span> <span class=\"mh\">0x01</span><span class=\"p\">;</span>\n  <span class=\"n\">u8</span> <span class=\"n\">cf_symbol</span> <span class=\"o\">=</span> <span class=\"mh\">0x20</span><span class=\"p\">;</span>\n  <span class=\"n\">u32</span> <span class=\"n\">i</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span>\n  <span class=\"k\">for</span><span class=\"p\">(</span><span class=\"n\">i</span> <span class=\"o\">=</span> <span class=\"mi\">0</span><span class=\"p\">;</span><span class=\"n\">i</span> <span class=\"o\">&lt;</span> <span class=\"n\">N_CF</span><span class=\"p\">;</span><span class=\"n\">i</span><span class=\"o\">++</span><span class=\"p\">){</span>\n    <span class=\"cm\">/*last consecutive frame*/</span>\n    <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"n\">N_CF</span> <span class=\"o\">-</span> <span class=\"mi\">1</span> <span class=\"o\">==</span> <span class=\"n\">i</span><span class=\"p\">){</span>\n      <span class=\"err\">将剩余的字节数打包传输，这些字节数可能不满</span><span class=\"mi\">7</span><span class=\"err\">字节；</span>\n      <span class=\"n\">cf_sn</span> <span class=\"o\">=</span> <span class=\"p\">(</span><span class=\"n\">cf_sn</span> <span class=\"o\">+</span> <span class=\"mi\">1</span><span class=\"p\">)</span> <span class=\"o\">%</span> <span class=\"mh\">0xf</span><span class=\"p\">;</span>\n    <span class=\"p\">}</span>\n    <span class=\"cm\">/*normal consecutive frame*/</span>\n    <span class=\"k\">else</span><span class=\"p\">{</span>\n      <span class=\"err\">正常拆分传输连续帧；</span>\n      <span class=\"n\">cf_sn</span> <span class=\"o\">=</span> <span class=\"p\">(</span><span class=\"n\">cf_sn</span> <span class=\"o\">+</span> <span class=\"mi\">1</span><span class=\"p\">)</span> <span class=\"o\">%</span> <span class=\"mh\">0xf</span><span class=\"p\">;</span>\n    <span class=\"p\">}</span>\n  <span class=\"p\">}</span>\n<span class=\"p\">}</span></code></pre></div><p>是不是觉得 So easy.</p><p>当然上述代码非常地概括，但是已经包含核心的功能了，自己再添加一些辅助变量来处理数据就ok了。</p><p>同时，对于 SN 出错的错误处理，标准也是有相应的规定的：</p><p>如果SN的值有错误，那么接受方应该<b>停止接受数据</b>，并且接收方网络层应该向上层发送带有N_WRONG_SN参数的indication原语。</p><ul><li>流控制帧 FC</li></ul><p>对于流控制帧来讲，是接收方反馈给发送方的帧类型，他表示了数据接收方对于数据的接受与处理能力，同时也是网络中流量控制的一个指示帧，其 PCI 信息如下所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-f6d0fff9e53b05e79be3f5c0c9d81322_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"516\" data-rawheight=\"114\" class=\"origin_image zh-lightbox-thumb\" width=\"516\" data-original=\"https://pic3.zhimg.com/v2-f6d0fff9e53b05e79be3f5c0c9d81322_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;516&#39; height=&#39;114&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"516\" data-rawheight=\"114\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"516\" data-original=\"https://pic3.zhimg.com/v2-f6d0fff9e53b05e79be3f5c0c9d81322_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f6d0fff9e53b05e79be3f5c0c9d81322_b.jpg\"/></figure><p>流控制帧的标志位为0x3，流控制帧的参数有FS (Flow Status)、BS (Block Size)、STmin (Seperation Time)。</p><p>① <b>FS表示发送方是否能继续进行数据的传输</b>，FS共有4 bits，取值为下表所示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4b1549666271b0b413f5b0ec248ccd48_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"464\" data-rawheight=\"254\" class=\"origin_image zh-lightbox-thumb\" width=\"464\" data-original=\"https://pic1.zhimg.com/v2-4b1549666271b0b413f5b0ec248ccd48_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;464&#39; height=&#39;254&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"464\" data-rawheight=\"254\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"464\" data-original=\"https://pic1.zhimg.com/v2-4b1549666271b0b413f5b0ec248ccd48_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4b1549666271b0b413f5b0ec248ccd48_b.jpg\"/></figure><p>这里值得一提的是，当 FS = 0x2 时，发送方停止发送数据并且发送方网络层向上层发送带有N_BUFFER_OVFLW参数的N_USData.confirm原语，<b>该信号只有在接受首帧之后的流控制帧中使用</b>，并且只有当FF_DL大于接受方数据缓冲区大小时才使用。</p><p>并且，如果FS的取值为0x3-0xF，则表示为<b>无效</b>的值，发送方应该中断数据传输，并且发送方网络层向上层发送带有N_INVALID_FS参数的N_USData.confirm原语。</p><p>② <b>BS（Block Size）</b>共有1字节8 bits，其定义为 <b>The units of BS are the absolute number of CF N_PDUs per block. </b>BS表示每一块中的连续帧个数。Last Block中所传输的连续帧数量 ≤ BS；其数据定义如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-670858c94f654db716feffb702b5e890_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"504\" data-rawheight=\"184\" class=\"origin_image zh-lightbox-thumb\" width=\"504\" data-original=\"https://pic1.zhimg.com/v2-670858c94f654db716feffb702b5e890_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;504&#39; height=&#39;184&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"504\" data-rawheight=\"184\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"504\" data-original=\"https://pic1.zhimg.com/v2-670858c94f654db716feffb702b5e890_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-670858c94f654db716feffb702b5e890_b.jpg\"/></figure><p>这里值得一提的是，当 BS = 0 时，发送方后面无需等待流控制帧，可以将数据全部拆分发出，这体现了接收者对于自身接收能力的自信。</p><p>③ <b>STmin（Separation Time）</b>共有1字节8 bits，其定义为连续帧之间最短的传输时间间隙，该参数由接收方网络层向发送方网络层发送并且由发送方网络层保存从而用来控制发送连续帧的时间间隔。其数据定义如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-71b67b521eb98fcdd3cdd81e9de7ac4d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"508\" data-rawheight=\"206\" class=\"origin_image zh-lightbox-thumb\" width=\"508\" data-original=\"https://pic2.zhimg.com/v2-71b67b521eb98fcdd3cdd81e9de7ac4d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;508&#39; height=&#39;206&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"508\" data-rawheight=\"206\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"508\" data-original=\"https://pic2.zhimg.com/v2-71b67b521eb98fcdd3cdd81e9de7ac4d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-71b67b521eb98fcdd3cdd81e9de7ac4d_b.jpg\"/></figure><p>值得一提的是，当 STmin 的赋值区间在 Reserved 区域时，接收方应默认将定时参数设置为最大值 127 ms。</p><p>是不是觉得 流控制帧也 so easy</p><p>本节就已经将 UDS 网络层通信的基本数据类型讲述完毕了，大家还是得多阅读标准文档来提升自己的理解能力，毕竟那个是最规范的。</p><p>下一节会讲述比较坑爹的定时机制与错误处理机制。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本节完。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><i>转载请联系</i></p><p>All rights reserved. copyright Lewis</p><p></p>", 
+            "topic": [
+                {
+                    "tag": "科技", 
+                    "tagLink": "https://api.zhihu.com/topics/19556664"
+                }, 
+                {
+                    "tag": "汽车电子", 
+                    "tagLink": "https://api.zhihu.com/topics/19697968"
+                }, 
+                {
+                    "tag": "OBD", 
+                    "tagLink": "https://api.zhihu.com/topics/19603874"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44865440", 
+            "userName": "Lewis", 
+            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+            "upvote": 1, 
+            "title": "UDS on CAN 详解网络层分析[2]", 
+            "content": "<blockquote>阅读本文前，最好下载了 ISO15765-2 的 pdf，最最好自己已经阅读了一遍英文原文，最最最好已经自己有实现的想法，如果你已经有自己的想法了就别看这篇文章了，快去写代码实现吧！</blockquote><p class=\"ztext-empty-paragraph\"><br/></p><p>​ 又结束了一天的实习工作，总结一下今天的感悟，组里最近的人事调动有点大，看来想要留住人才真的不是十分容易的事情，公司管理，特别是人才管理真的很难，因为总有人和你的核心业务不相符合，或者不感兴趣。（开公司好难，哈哈哈哈哈哈），开公司这种职业确实要等到自己有两把刷子了才行，不然就只能靠人格魅力开公司了，像乔布斯那样，依靠自己的人格魅力撑几年，边干边学，得到真传，最后成为一代名CEO &lt;__&lt; 。</p><p>​ 今天整理之前资料的时候，突然发现自己系列文章写晚了，因为真的有好多需要写下来才能讲明白标准文件所要表达的意思，自己也会将这次的写作练习好好利用哒。</p><p>​ 上一节介绍了数据的格式，由下往上链路层、网络层、应用层之间每层数据的格式都不一样，但是又有规律可寻，就像 <b>剥洋葱</b> 一样，将外围标注的传输信息（传输地址、数据长度与类型等）“剥” 去后，我们就能得到应用层最为关心的一个东西 —— 数据，上层应用程式可以利用数据进行相应的分析，从而得到相应的诊断结果。对于宏观的诊断过程不理解的同学，自己去 google 一下哈，或者看下图就基本理解了。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c3af1ffa5892230493df6504ed5b5002_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"305\" data-rawheight=\"165\" class=\"content_image\" width=\"305\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;305&#39; height=&#39;165&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"305\" data-rawheight=\"165\" class=\"content_image lazy\" width=\"305\" data-actualsrc=\"https://pic3.zhimg.com/v2-c3af1ffa5892230493df6504ed5b5002_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>​ 可以将电脑理解为诊断仪，当车辆需要检测的时候，将诊断仪插入汽车的诊断接口中；诊断仪向相应的ECU发送诊断指令；ECU根据指令的内容进行相应的操作，统计计算出相应的结果反馈给诊断仪；诊断仪根据返回的结果就知道车辆的故障情况了。</p><p>​ 上一节粗略地介绍了传输形式 —— 单帧与多帧传输方式，今天我们就要讨论一下他们的基本数据格式是什么样的。</p><p>​ 网络层 PDU （协议数据单元）格式：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-edc0e16bd90293a3737b175f70d4706d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1417\" data-rawheight=\"173\" class=\"origin_image zh-lightbox-thumb\" width=\"1417\" data-original=\"https://pic2.zhimg.com/v2-edc0e16bd90293a3737b175f70d4706d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1417&#39; height=&#39;173&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1417\" data-rawheight=\"173\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1417\" data-original=\"https://pic2.zhimg.com/v2-edc0e16bd90293a3737b175f70d4706d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-edc0e16bd90293a3737b175f70d4706d_b.jpg\"/></figure><p>​</p><p> 网络层 PDU（协议数据单元）PCI（协议控制信息）格式：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-7b76ef12117fefe2b403de8e695aae0c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"940\" data-rawheight=\"230\" class=\"origin_image zh-lightbox-thumb\" width=\"940\" data-original=\"https://pic1.zhimg.com/v2-7b76ef12117fefe2b403de8e695aae0c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;940&#39; height=&#39;230&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"940\" data-rawheight=\"230\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"940\" data-original=\"https://pic1.zhimg.com/v2-7b76ef12117fefe2b403de8e695aae0c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-7b76ef12117fefe2b403de8e695aae0c_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>​ 特地说明一下，我在实现这个标准协议的时候，采用的是普通寻址方式 (normal addressing)，关于地址方面的问题各个汽车制造商的规定肯定是不一样的，所以无法给出明确的解释，好好看标准文档中对于地址的解释，之后也会对应写对于地址部分的解释。</p><p>​ 通过上面的表格可以看到，PCItype 表示的是该数据帧的类型，0x0 到 0x3分别表示了不同类型的数据帧，其后的三个字节分别表示了数据帧的其他数据特性。下面一一介绍。</p><ul><li>单帧传输情况<br/>​ 在普通寻址方式下，单帧最大数据载荷为7字节，所以 SF_DL （SF Data Length）的最大值即为 0x7, 它表示的是单帧携带的数据量的大小为7字节，在标准中有对于SF_DL的取值范围的约束：<br/></li></ul><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2a3b9dda2800f066cc67eeb31c6fd8b8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"938\" data-rawheight=\"304\" class=\"origin_image zh-lightbox-thumb\" width=\"938\" data-original=\"https://pic1.zhimg.com/v2-2a3b9dda2800f066cc67eeb31c6fd8b8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;938&#39; height=&#39;304&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"938\" data-rawheight=\"304\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"938\" data-original=\"https://pic1.zhimg.com/v2-2a3b9dda2800f066cc67eeb31c6fd8b8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2a3b9dda2800f066cc67eeb31c6fd8b8_b.jpg\"/></figure><p><br/>​ 注意，所有 <b>Invalid</b> 的标志就表示该范围的值是无效的，任何携带该信息的数据帧在解析的时候都应该报错并抛弃。</p><div class=\"highlight\"><pre><code class=\"language-c\"><span class=\"cm\">/*这里为了提取标志位，不同的地址编址方式取的位数会不一样*/</span>\n<span class=\"k\">if</span><span class=\"p\">((</span><span class=\"n\">data</span><span class=\"p\">[</span><span class=\"mi\">2</span><span class=\"p\">]</span> <span class=\"o\">&amp;</span> <span class=\"mh\">0xf0</span><span class=\"p\">)</span> <span class=\"o\">==</span> <span class=\"mi\">0</span><span class=\"p\">){</span> \n <span class=\"cm\">/*This frame is Single Frame*/</span>\n <span class=\"n\">u8</span> <span class=\"n\">pci</span> <span class=\"o\">=</span> <span class=\"n\">data</span><span class=\"p\">[</span><span class=\"mi\">2</span><span class=\"p\">]</span> <span class=\"o\">&amp;</span> <span class=\"mh\">0x0f</span><span class=\"p\">;</span>\n <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"n\">pci</span> <span class=\"o\">==</span> <span class=\"mh\">0x0</span> <span class=\"o\">||</span> <span class=\"n\">pci</span> <span class=\"o\">&gt;</span> <span class=\"mh\">0x7</span><span class=\"p\">){</span>\n <span class=\"cm\">/*ignore this frame*/</span>\n <span class=\"cm\">/*do nothing*/</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">}</span></code></pre></div><p><br/><i>ISO 15765-2  8.5.2.2</i> 中讲述了标准的错误处理流程，与代码表达的是一致的。<br/>​ 单帧是所有传输情况中最为简单的，也是出错率较低的传输方式。<br/></p><ul><li>多帧传输情况<br/>​ 数据量大的时候，可想而知，问题接踵而至，这时就必须要完整的一套机制来支撑大量的数据拆分传输，当然两端通信，一端将数据拆分传送出去，另一端必须将数据重组形成原来的完整数据。<br/>​ 这里一看一想就会有很多的问题：<br/><br/></li><ul><li>从顶层应用产生的大量字节的数据如何拆分？</li><li>数据拆分完传输出去的时候怎么标记他们？</li><li>传输过程中如何保证数据的正确性？（虽然这个是CAN总线来保障物理传输正确性的）</li><li>接收方接收数据的时候怎么知道数据是有序并且正确的呢？</li><li>接收方该如何重组数据？</li><li>接收方将重组的数据存放在哪里？（这个问题看似不起眼，但后面确实值得 <i>讨论</i> ）</li></ul></ul><p><br/>​ 当时，我就是带着不止这些疑问，开始了自己的开发之旅（好坑），其实一切都在标准文档里，好好阅读就会有思路。首先在多帧传输的时候，发送方会先发送 FF (First Frame)，你可以将这个理解为试探性的第一步，FF 会告知接收方这次传输的数据量，接收方解析得到该信息后，返回 FC (Flow Control) 告知发送方的下一步发送行动，至于是什么行动下面再讲。<br/>​ 如果接收方能力足以容纳将要发送过来的数据，那么他会允许发送方继续发送数据，那么发送方就会将剩余的数据拆分，形成 CF 连续帧发送给接收方。<br/>​ 直观的流程图如下所示：<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-66f4e27747fcffdd53b2a5aded876dbc_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"664\" data-rawheight=\"847\" class=\"origin_image zh-lightbox-thumb\" width=\"664\" data-original=\"https://pic1.zhimg.com/v2-66f4e27747fcffdd53b2a5aded876dbc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;664&#39; height=&#39;847&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"664\" data-rawheight=\"847\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"664\" data-original=\"https://pic1.zhimg.com/v2-66f4e27747fcffdd53b2a5aded876dbc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-66f4e27747fcffdd53b2a5aded876dbc_b.jpg\"/></figure><p><br/><br/>​ 值得一提的是，观察可以发现，每次发送完一定数量的 CF 连续帧后，发送方都需要等待的接收方的 FC 流控制帧；但是，这是一般情况，特殊情况也存在，即发送方一次性发送完连续帧，不等待接收方的 FC  响应。（当时编程之前忘记了这个细节，后来小小地重构了一部分代码）<br/><br/></p><ul><ul><li><b>首帧  FF， First Frame</b><br/>首帧的 PCI 如下图所示：<br/></li></ul></ul><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-a55b261312d47b3b5b248324469a7e15_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"175\" class=\"origin_image zh-lightbox-thumb\" width=\"710\" data-original=\"https://pic2.zhimg.com/v2-a55b261312d47b3b5b248324469a7e15_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;710&#39; height=&#39;175&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"710\" data-rawheight=\"175\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"710\" data-original=\"https://pic2.zhimg.com/v2-a55b261312d47b3b5b248324469a7e15_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-a55b261312d47b3b5b248324469a7e15_b.jpg\"/></figure><p><br/><br/>​ 可以看到，FF 的标志位是 0x1，FF_DL同样也有范围限制，FF_DL一共占有了12位，所以所表示的数值空间基本可以确定了。这里的 FF_DL 表示的是 <b>本次多帧传输的所有数据字节数</b> 。<br/><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ae7236df44f84f2f81eae913946cfa77_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"950\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb\" width=\"950\" data-original=\"https://pic4.zhimg.com/v2-ae7236df44f84f2f81eae913946cfa77_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;950&#39; height=&#39;324&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"950\" data-rawheight=\"324\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"950\" data-original=\"https://pic4.zhimg.com/v2-ae7236df44f84f2f81eae913946cfa77_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-ae7236df44f84f2f81eae913946cfa77_b.jpg\"/></figure><p><br/><br/>​ 在正常寻址情况下，多帧传输的数据量应该大于7字节，因为此时单帧传输的最大数据量为7字节；这也就意味着如果数据量大于7字节才能使用多帧传输模式，否则无效，标记为 <b>invalid</b> 范围。<br/>​ 所以，在正常寻址情况下，FF_DL 的合理取值应该为 0x8 - 0xFFF，从这里我们知道可传输的数据一次性最大为 4095 字节。（ 如何算到的就不用讲了吧 &lt;__&lt;）<br/></p><div class=\"highlight\"><pre><code class=\"language-c\"><span class=\"cm\">/*这里为了提取标志位，不同的地址编址方式取的位数会不一样*/</span>\n <span class=\"k\">if</span><span class=\"p\">((</span><span class=\"n\">data</span><span class=\"p\">[</span><span class=\"mi\">2</span><span class=\"p\">]</span> <span class=\"o\">&amp;</span> <span class=\"mh\">0xf0</span><span class=\"p\">)</span> <span class=\"o\">==</span> <span class=\"mi\">1</span><span class=\"p\">){</span> \n <span class=\"cm\">/*This frame is First Frame*/</span>\n <span class=\"n\">u16</span> <span class=\"n\">pci</span> <span class=\"o\">=</span> <span class=\"n\">data</span><span class=\"p\">[</span><span class=\"mi\">2</span><span class=\"p\">]</span> <span class=\"o\">&amp;</span> <span class=\"mh\">0x0f</span><span class=\"p\">;</span>\n <span class=\"n\">pci</span> <span class=\"o\">=</span> <span class=\"p\">(</span><span class=\"n\">pci</span> <span class=\"o\">&lt;&lt;</span> <span class=\"mi\">12</span><span class=\"p\">)</span> <span class=\"o\">+</span> <span class=\"n\">data</span><span class=\"p\">[</span><span class=\"mi\">3</span><span class=\"p\">];</span>\n <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"n\">pci</span> <span class=\"o\">&gt;=</span> <span class=\"mh\">0x0</span> <span class=\"o\">||</span> <span class=\"n\">pci</span> <span class=\"o\">&lt;</span> <span class=\"mh\">0x7</span><span class=\"p\">){</span>\n <span class=\"cm\">/*ignore this frame*/</span>\n <span class=\"cm\">/*do nothing*/</span>\n <span class=\"p\">}</span>\n <span class=\"k\">else</span> <span class=\"k\">if</span><span class=\"p\">(</span><span class=\"n\">pci</span> <span class=\"o\">&gt;</span> <span class=\"n\">CAPACITY</span><span class=\"p\">){</span>\n <span class=\"cm\">/*beyond the receive entity&#39;s capacity*/</span>\n <span class=\"cm\">/*send Flow Control Frame with FlowStatus = Overflow*/</span>\n <span class=\"n\">Transmit_FC</span><span class=\"p\">(</span><span class=\"n\">Overflow</span><span class=\"p\">);</span>\n <span class=\"p\">}</span>\n <span class=\"k\">else</span><span class=\"p\">{</span>\n <span class=\"cm\">/*this First Frame is correct*/</span>\n <span class=\"n\">Set</span> <span class=\"n\">the</span> <span class=\"n\">flag</span> <span class=\"n\">to</span> <span class=\"n\">start</span> <span class=\"n\">receive</span> <span class=\"n\">data</span><span class=\"p\">.</span>\n <span class=\"n\">read</span> <span class=\"n\">FF_DL</span> <span class=\"n\">to</span> <span class=\"n\">calculate</span> <span class=\"n\">the</span> <span class=\"n\">frames</span> <span class=\"n\">in</span> <span class=\"n\">the</span> <span class=\"n\">following</span> <span class=\"n\">reception</span>\n    <span class=\"p\">}</span>\n<span class=\"p\">}</span></code></pre></div><p><br/>所以，FF 是多帧传输的开端，对于它的处理也是相对简单的，但是解析完他的参数得算出一共得接收多少连续帧，并且之后还得与实际接收到连续帧帧数进行对比，确保数据完整性。<br/>本节就讲到这吧，下一节分析连续帧与流控制帧，分别保证了数据的正确性与网络的流畅性。<br/><br/>本节完。<br/><br/><i>转载请联系</i><br/>All rights reserved.  copyright Lewis </p><p></p>", 
+            "topic": [
+                {
+                    "tag": "科技", 
+                    "tagLink": "https://api.zhihu.com/topics/19556664"
+                }, 
+                {
+                    "tag": "计算机网络", 
+                    "tagLink": "https://api.zhihu.com/topics/19572894"
+                }, 
+                {
+                    "tag": "汽车电子", 
+                    "tagLink": "https://api.zhihu.com/topics/19697968"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Shen", 
+                    "userLink": "https://www.zhihu.com/people/4726af9270ebe69d6873555faaae405b", 
+                    "content": "<p>作者你好这个first frame 这块代码</p><p>pci = (pci &lt;&lt; 12) + data[3];<br> if(pci &gt;= 0x0 || pci &lt; 0x7){<br> <i>/*ignore this frame*/</i><br> <i>/*do nothing*/</i><br> }</p><p>好像有点问题。</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Lewis", 
+                            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+                            "content": "<p>请指正，是对于哪种情况来讲不对呀？</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Shen"
+                        }, 
+                        {
+                            "userName": "知乎用户", 
+                            "userLink": "https://www.zhihu.com/people/0", 
+                            "content": "<p>对pci取值不太理解</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "Lewis"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "跑赢冬天", 
+                    "userLink": "https://www.zhihu.com/people/ba424bdc1cef0d393665d70f5c45dde1", 
+                    "content": "你好，可不可以解释下，其他几种寻址方式的应用场景和区别，谢谢", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/44902213", 
+            "userName": "Lewis", 
+            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+            "upvote": 3, 
+            "title": "UDS on CAN 详解网络层分析[4]", 
+            "content": "<p><b>lewis edit this</b></p><p><b>博客原文：</b></p><a href=\"https://link.zhihu.com/?target=http%3A//blog.lewissoft.com\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">shape the whole world</a><blockquote>阅读本文前，最好下载了 ISO15765-2 的 pdf，最最好自己已经阅读了一遍英文原文，最最最好已经自己有实现的想法，如果你已经有自己的想法了就别看这篇文章了，快去写代码实现吧！</blockquote><p>当时进入 Fujitsu 实习的时候，不图啥，就是看准了有自己喜欢的汽车行业的开发工作，当时其实也有其他的实习机会，有AI和金融行业的公司给了面试和offer，但是我还是义无反顾地投身汽车开发的环境中来，毕竟这也是属于选择自己喜欢的了，虽然之后毕业了按照我的性子我也会选择自己喜欢的：）</p><p>实习的这三个月，开发了 UDS 网络层的相关工作，在组长大佬的带领下阅读了 丰田 的代码，一定程度上一窥了汽车电子行业的情况。只能说日本人民是着实富有工匠精神的，Toyota 代码的规范程度真的是很高，代码里的每一个 TAB 键都被手动改成了空格，真是一件消耗人力物力的事情。代码的模块化程度很高，裁剪起来我感觉是相当容易的。毕竟嵌入式代码写起来十分的不容易，需要下板验证调试啥的（虽然我没有留出时间下板验证【黑人脸】），但是在编码的时候自己还是要注意规则与规范，多多 Review。</p><p>所以，大家在开发项目的时候，开发代码尽量做到尽善尽美吧。</p><p>这节讲解的是时间控制与错误处理部分。</p><ul><li>时间控制</li></ul><p>我所理解的时间控制就是为了传输的可靠性，降低网络延时与死等的情况出现的概率，我将时间控制分为了两个部分：内部的时间控制，实体间通信的时间控制（entity作为标准里的标准术语，我们要常用）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-0bf9ad1d459ec3f78ee51e0fc5feb340_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"392\" class=\"origin_image zh-lightbox-thumb\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-0bf9ad1d459ec3f78ee51e0fc5feb340_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;554&#39; height=&#39;392&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"554\" data-rawheight=\"392\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"554\" data-original=\"https://pic1.zhimg.com/v2-0bf9ad1d459ec3f78ee51e0fc5feb340_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-0bf9ad1d459ec3f78ee51e0fc5feb340_b.jpg\"/></figure><p>这张图给出了整个网络层所要用到的网络定时参数。内部的定时参数规范的是实体内部的延时情况，而实体之间的通信时间参数则是规范网络中的延时情况。</p><p>时间参数的分类为：</p><p>这里会引用另外一篇博客的总结，我觉得写得挺好，他博客的链接我会在文章末尾给出。下面对他博客的引用中我会去除不必要的一些观点，增加客观的描述，让大家读起来更加清楚。</p><p>N_As和N_Ar</p><blockquote>    以下为引用<br/>    N_As和N_Ar可以认为是同一个timer，是发送者或者接受者本地的定时器，从网络层发出request（网络层调用CAN消息发送函数）开始，到网络层收到confirm（CAN消息发送成功或失败）结束，如果超时就丢弃消息，并调用N_USData.confirm 服务，其服务参数是N_TIMEOUT_A。</blockquote><p>我并没有实现这两个timer，这两个timer是为了规避本地消息阻塞而引入的。如果本地系统中不会出现阻塞或者出现阻塞也不会影响到后续消息发送，则不需要实现。</p><p>上面的这两个时间参数是实体内部的定时参数，如果我们的代码实现完整的话，其阻塞的概率与影响很小，所以暂时没有实现这部分功能（其实加上去也不复杂）。</p><hr/><p>下面就是另外一类时间参数了。</p><p>N_Bs</p><blockquote>    以下为引用<br/>    N_Bs是发送者用来监控对端的定时器，如Table 16 中的描述，“Time until reception of the next FlowControl N_PDU. ” ，N_Bs是指到接收到下一个FC的最大时间，具体实现方法如下：<br/>    发送者发送完FF或者BS（发送者每次连续发送的CF个数）个CF后，启动定时器TIMER_N_BS；<br/>    如果定时器超时，则应该丢弃目前正在发送的消息，并且调用N_USData.confirm 服务，with N_TIMEOUT_Bs；<br/>    如果发送者收到了FC，则应该检查TIMER_N_BS定时器是否超时，如果没有超时，则关闭该定时器，继续处理FC N_PDU；<br/>    然后如果该FC携带的FS = WT，则应该重新启动TIMER_N_BS，继续等待下一个FC；如果发现TIMER_N_BS已经超时，则应该丢弃该FC。</blockquote><p>大家在编码的时候其实就是按照上述分析的思路去实现，当然思考地更加细致，编出来的代码越有效。像上述的思路就是典型的 if - if else - else 结构。</p><p>N_Br</p><blockquote>    以下为引用<br/>    N_Br是接收者本地的时间参数，如Table 16中描述“Time until transmission of the next FlowControl N_PDU ”，N_Br是指到发送下一个FC的时间。后面的Start说明，我认为有问题，Start中L_Data.indication (FF) 是指接收者收到FF（首帧），是没问题的，这一条是为了保证接收者接收到FF后要尽快发送FC；Start中的L_Data.confirm (FC) 是指接收者成功发送FC，这就没道理了，首先下一个FC的发送时间不应该参考上一个FC，即便是参考上一个FC，时间参数也不该跟接收到FF之后发送FC的时间参数相同。（有点绕口）。实际代码中，我没有显式的实现这一个参数，但是却满足该参数的要求，因为我收到FF之后没有做特殊延时，立即回复FC，另一个情况是收到BS个CF之后，也是立即回复FC。</blockquote><p>上面这段引用表达的意思还是比较全面的，N_Br 表示的接收方发送下一个流控制帧的等待时间，这里有两种情况，一个是在收到了首帧 FF 之后发送 流控制帧 FC；一个是在收到了一个 BlockSize 的连续帧 CF 后发送 流控制帧 FC。但是在 Table 16 中并没有明确指出到底是收到单个 CF 之后开始计时还是收到一个 Block Size 的 CF 之后再开始计时。</p><p>由于我在实现的时候，没有做特殊延时，同上述引用一样没有显式的实现这个时间参数。</p><p>N_Cs</p><blockquote>   以下为引用<br/>   N_Cs是发送者本地的时间参数，如Table 16中描述“Time until transmission of the next ConsecutiveFrame N_PDU L”，N_Cs是指从收到FC或者发送完一个CF后，到发送下一个CF的时间，同样，实际代码中，我没有显式的实现这一参数，但是却满足该参数的要求，我收到FC之后立即发送一个CF，而发送完成一个CF之后，我等待STmin时间后立即发送下一个CF，并未做其他特殊延时。</blockquote><p>N_Cr</p><blockquote>      N_Cr是接收者用来监控对端的定时器，如Table 16中描述“Time until reception of the next ConsecutiveFrame N_PDU ”，N_Cr是指到接收到下一个CF的最大时间，Table 16中描述的Start是发送完FC或者接收到CF，然而我在实现时稍微变通了一下，Start变成了接收到FF或者CF后（因为收到FF后会立即发送FC，收到BS个CF后也会立即发送FC，所以不如直接在每次收到FF或者CF后启动TIMER_N_CR），具体实现方法如下：<br/>      接收者收到一个FF或者CF之后，启动定时器TIMER_N_CR，如果定时器超时，则应该丢弃目前正在接收的消息，并且调用N_USData.confirm 服务with N_TIMEOUT_Cr。如果接收者收到一个CF，则应该检查TIMER_N_CR是否超时，如果没有超时，则应该关闭定时器，继续处理CF N_PDU；如果发现TIMER_N_CR已经超时，则应该丢弃该CF。</blockquote><p>上面的时间参数的含义还是需要大家好好消化的，设计到编码的问题一定不能含糊，需要不断提出方案和review，然后再敲代码。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8563f11df7eff23cf1189fc760b35843_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1932\" data-rawheight=\"1275\" class=\"origin_image zh-lightbox-thumb\" width=\"1932\" data-original=\"https://pic4.zhimg.com/v2-8563f11df7eff23cf1189fc760b35843_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1932&#39; height=&#39;1275&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1932\" data-rawheight=\"1275\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1932\" data-original=\"https://pic4.zhimg.com/v2-8563f11df7eff23cf1189fc760b35843_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8563f11df7eff23cf1189fc760b35843_b.jpg\"/></figure><p>还是给张图大家参考一下吧，自己画的，转载的还是请联系我再使用哈。实现的定时功能还是请看绿色部分吧。Tx 表示发送模块，Rx 表示接收模块。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>上面讲的只是时间参数，但是有了时间参数后，要用这些值去实现定时功能，怎么办？如果有人只是想做一个仿真的话，我有一个方案可以提供给你们：</p><ul><li>采用一个有序链表来维护计时顺序；</li><li>每次有新的计时任务来时，按照升序插入计时链表中；</li><li>在每一次 Tick 计时脉冲来时，将每一个节点的值减去一个计时单位，同时遍历链表，如果有节点的值为 0，则报错 timeout；</li><li>当有任务完成时，遍历计时链表，将其任务取出，结束；</li></ul><p>所以如果要电脑仿真，这些节点里要存储相应的任务信息，不然报超时错误都不知道是哪种类型的超时了。下面简单的给大家看一下我当时画的图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-f0a60506045b1b2761c514eb1d64bbc6_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"881\" data-rawheight=\"2450\" class=\"origin_image zh-lightbox-thumb\" width=\"881\" data-original=\"https://pic3.zhimg.com/v2-f0a60506045b1b2761c514eb1d64bbc6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;881&#39; height=&#39;2450&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"881\" data-rawheight=\"2450\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"881\" data-original=\"https://pic3.zhimg.com/v2-f0a60506045b1b2761c514eb1d64bbc6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f0a60506045b1b2761c514eb1d64bbc6_b.jpg\"/></figure><p>当时和组长提出方案的时候，立马被否决了，经验万能啊，因为在嵌入式设备中内存空间有限，是不会使用动态内存分配的，一定要预先开辟好内存空间才行，所以我的这个项目设计的一个目标就是内存友好型设计。这个链表方案感兴趣的可以实现一下，我实现过了，难度不大。</p><p>最后就是在实现定时功能的时候，计时部分要对硬件做一下虚拟化，因为可能之后引用的时候硬件的计时方式是不同的，需要做一个虚拟接口的设计，使得上层代码对计时接口的调用不用改变。</p><ul><li>错误处理</li></ul><p>网络传输难免会出错，所以我认为错误处理模块需要大家在统合了所有模块的出错情况后再去实现，但是他的大概思想是不难的，无非就是判断出错的情况然后进行相应的处理，该丢弃帧的要丢弃，该向上层报错的要报错，总之，如果刚开始实现的话，是不用太着急实现这个模块的，只需要敲代码的时候先预留一个接口，最后添上即可。</p><p>这里给大家看一下一篇《汽车使用 维修》上的文章一页，是哈工大的一帮人写的错误处理（可以放大看一看），我觉得还不错，但是我觉得他们说自己上板验证了可能是假的（因为他们用了链表的计时方式，不知道他们是怎么烧录到板子上的，现代嵌入式开发编译器对于内存动态分配好像都有严格限制）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-bc68c355b328583d6ab3d25043863c76_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1093\" data-rawheight=\"1533\" class=\"origin_image zh-lightbox-thumb\" width=\"1093\" data-original=\"https://pic3.zhimg.com/v2-bc68c355b328583d6ab3d25043863c76_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1093&#39; height=&#39;1533&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1093\" data-rawheight=\"1533\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1093\" data-original=\"https://pic3.zhimg.com/v2-bc68c355b328583d6ab3d25043863c76_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-bc68c355b328583d6ab3d25043863c76_b.jpg\"/></figure><p>再给大家看看我画的错误处理机制：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-2f3a23cf29573d975ede59d0dd67df28_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1851\" data-rawheight=\"1360\" class=\"origin_image zh-lightbox-thumb\" width=\"1851\" data-original=\"https://pic1.zhimg.com/v2-2f3a23cf29573d975ede59d0dd67df28_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1851&#39; height=&#39;1360&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1851\" data-rawheight=\"1360\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1851\" data-original=\"https://pic1.zhimg.com/v2-2f3a23cf29573d975ede59d0dd67df28_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-2f3a23cf29573d975ede59d0dd67df28_b.jpg\"/></figure><p>我建议大家错误处理模块还是后面再看吧，其他模块搞清楚之后再写错误处理模块就相对来说很简单了。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文在时间参数部分用到的博客转载链接为：</p><a href=\"https://link.zhihu.com/?target=https%3A//blog.csdn.net/qq_28086637/article/details/73699677\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic3.zhimg.com/v2-236097b675e90cf52159a6f0e895fc92_180x120.jpg\" data-image-width=\"658\" data-image-height=\"196\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">基于CAN总线的汽车诊断协议UDS (网络层 ISO 15765)</a><p class=\"ztext-empty-paragraph\"><br/></p><p><i>转载请联系</i></p><p>All rights reserved. copyright Lewis</p>", 
+            "topic": [
+                {
+                    "tag": "科技", 
+                    "tagLink": "https://api.zhihu.com/topics/19556664"
+                }, 
+                {
+                    "tag": "汽车电子", 
+                    "tagLink": "https://api.zhihu.com/topics/19697968"
+                }, 
+                {
+                    "tag": "汽车制造", 
+                    "tagLink": "https://api.zhihu.com/topics/19587257"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "装象", 
+                    "userLink": "https://www.zhihu.com/people/e17f7a4cbbaf2029ab99cd59291e1252", 
+                    "content": "<p>楼主好用心</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Lewis", 
+                            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+                            "content": "哈？一般吧 分析的必经之路", 
+                            "likes": 0, 
+                            "replyToAuthor": "装象"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "阿不错", 
+                    "userLink": "https://www.zhihu.com/people/37e54e5a367fec10892634cc1f2c2433", 
+                    "content": "<p>可以的，学习一下</p><a class=\"comment_sticker\" href=\"https://pic3.zhimg.com/v2-cb8443f07a41298e45191cef11b90fd2.gif\" data-width=\"\" data-height=\"\">[干杯]</a>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "Lewis", 
+                            "userLink": "https://www.zhihu.com/people/355814a932c19bb6e3222d79642d582b", 
+                            "content": "<p>谢谢蛤 有错误请指正</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "阿不错"
+                        }
+                    ]
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1025686494299701248"
+}

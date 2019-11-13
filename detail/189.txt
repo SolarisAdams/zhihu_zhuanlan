@@ -1,0 +1,877 @@
+{
+    "title": "自控仪表工程设计", 
+    "description": "本专栏由(公众号)“自控学堂”开设，专注于分享自控工程设计领域的知识干货。", 
+    "followers": [
+        "https://www.zhihu.com/people/cai-shu-guang", 
+        "https://www.zhihu.com/people/yi-hua-yi-shi-jie-19-40", 
+        "https://www.zhihu.com/people/jiang-xiao-bai-6-11", 
+        "https://www.zhihu.com/people/sgd-70", 
+        "https://www.zhihu.com/people/luo-jing-80-56", 
+        "https://www.zhihu.com/people/hu-jia-jun-9-12", 
+        "https://www.zhihu.com/people/yuan-bu-liu-diu", 
+        "https://www.zhihu.com/people/wang-jiang-cui", 
+        "https://www.zhihu.com/people/feng-tao-9-21", 
+        "https://www.zhihu.com/people/kong-ming-43-24", 
+        "https://www.zhihu.com/people/junjiexia", 
+        "https://www.zhihu.com/people/cheng-zi-94-27-81", 
+        "https://www.zhihu.com/people/zhang-yong-qing-40", 
+        "https://www.zhihu.com/people/ren-yin-tao-78", 
+        "https://www.zhihu.com/people/finexiao-bai", 
+        "https://www.zhihu.com/people/zww-88-75", 
+        "https://www.zhihu.com/people/joker-3-69-18", 
+        "https://www.zhihu.com/people/xiao-hei-ren-72-32", 
+        "https://www.zhihu.com/people/xing-xing-chuan-chang-70", 
+        "https://www.zhihu.com/people/fu-cao-wei-ying-69-55", 
+        "https://www.zhihu.com/people/liang-kevin-44", 
+        "https://www.zhihu.com/people/chen-mei-ji-5", 
+        "https://www.zhihu.com/people/ding-bei-27-33", 
+        "https://www.zhihu.com/people/jasonever", 
+        "https://www.zhihu.com/people/lurt-98", 
+        "https://www.zhihu.com/people/yong-gan-de-xin-48-71", 
+        "https://www.zhihu.com/people/alexbeijing", 
+        "https://www.zhihu.com/people/peng-xin-kai-68", 
+        "https://www.zhihu.com/people/destiny-68-36", 
+        "https://www.zhihu.com/people/supermary-39", 
+        "https://www.zhihu.com/people/li-zi-42-83-98", 
+        "https://www.zhihu.com/people/guo-guo-38-10-45", 
+        "https://www.zhihu.com/people/fa-mu-lei-95-19", 
+        "https://www.zhihu.com/people/hhh-64-48-34", 
+        "https://www.zhihu.com/people/wen-zheng-37-74", 
+        "https://www.zhihu.com/people/kai-kai-60-42-84", 
+        "https://www.zhihu.com/people/wang-a-dong-57", 
+        "https://www.zhihu.com/people/zhu-feng-7-36", 
+        "https://www.zhihu.com/people/nayim-49", 
+        "https://www.zhihu.com/people/zhao-ming-47-63", 
+        "https://www.zhihu.com/people/wo-yao-shang-zi-xi", 
+        "https://www.zhihu.com/people/xiao-a-hui-95-56", 
+        "https://www.zhihu.com/people/deng-huo-lan-shan-96-17", 
+        "https://www.zhihu.com/people/mo-yu-46-84", 
+        "https://www.zhihu.com/people/zhang-xiao-hui-2-44", 
+        "https://www.zhihu.com/people/wangxz-34", 
+        "https://www.zhihu.com/people/feng-er-zhong-68", 
+        "https://www.zhihu.com/people/chang-yi-ban-de-ge-68", 
+        "https://www.zhihu.com/people/shi-geng-bei-28", 
+        "https://www.zhihu.com/people/liu-hai-peng-97", 
+        "https://www.zhihu.com/people/Cybersphaker", 
+        "https://www.zhihu.com/people/hong-mei-gui-68-87", 
+        "https://www.zhihu.com/people/yin-di-13-92", 
+        "https://www.zhihu.com/people/cui-yuan-qing-3", 
+        "https://www.zhihu.com/people/hnytlqw", 
+        "https://www.zhihu.com/people/wo-shi-yike-ke-ai-de-mo-gu", 
+        "https://www.zhihu.com/people/coco200206", 
+        "https://www.zhihu.com/people/bai-yue-11-39", 
+        "https://www.zhihu.com/people/cheng-di-52", 
+        "https://www.zhihu.com/people/xi-shou-ming", 
+        "https://www.zhihu.com/people/yao-zou-de-ren", 
+        "https://www.zhihu.com/people/wang-vv-61", 
+        "https://www.zhihu.com/people/tong-jin-yong", 
+        "https://www.zhihu.com/people/wenyiming", 
+        "https://www.zhihu.com/people/ana-e", 
+        "https://www.zhihu.com/people/hao-zi-13-49", 
+        "https://www.zhihu.com/people/nan-gong-28", 
+        "https://www.zhihu.com/people/liyunchao", 
+        "https://www.zhihu.com/people/sun-cong-86-31", 
+        "https://www.zhihu.com/people/feng-qing-yang-23-7-46", 
+        "https://www.zhihu.com/people/hao-yue-liu-ying-64", 
+        "https://www.zhihu.com/people/rain-84-4", 
+        "https://www.zhihu.com/people/xiao-wei-41-60", 
+        "https://www.zhihu.com/people/guan-zheng-yu-2", 
+        "https://www.zhihu.com/people/charles-61-99", 
+        "https://www.zhihu.com/people/lin-hong-yu-na", 
+        "https://www.zhihu.com/people/wei-xiao-94-19-95", 
+        "https://www.zhihu.com/people/tanson-33", 
+        "https://www.zhihu.com/people/hao-jiu-bu-jian-85-12", 
+        "https://www.zhihu.com/people/zhang-hai-wang-90", 
+        "https://www.zhihu.com/people/he-zheng-e", 
+        "https://www.zhihu.com/people/wei-60-68", 
+        "https://www.zhihu.com/people/bang-di-70", 
+        "https://www.zhihu.com/people/guzonghua", 
+        "https://www.zhihu.com/people/lin-yong-95-44", 
+        "https://www.zhihu.com/people/ferryman-88-93", 
+        "https://www.zhihu.com/people/idionil", 
+        "https://www.zhihu.com/people/xu-hong-rui-65", 
+        "https://www.zhihu.com/people/llong-ze", 
+        "https://www.zhihu.com/people/xiezhiije", 
+        "https://www.zhihu.com/people/huang-bo-jun-32", 
+        "https://www.zhihu.com/people/bad-boy-62", 
+        "https://www.zhihu.com/people/lu-ke-32-18-6", 
+        "https://www.zhihu.com/people/zhang-xin-hao-11", 
+        "https://www.zhihu.com/people/gong-bao-bao-9", 
+        "https://www.zhihu.com/people/shuang-kong-xiao-hun-dun", 
+        "https://www.zhihu.com/people/hong-mu-ye-30", 
+        "https://www.zhihu.com/people/bei-chen-yidao-liu", 
+        "https://www.zhihu.com/people/reastent-19", 
+        "https://www.zhihu.com/people/yi-zhi-61-29", 
+        "https://www.zhihu.com/people/JichangJunDjpeity", 
+        "https://www.zhihu.com/people/xie-jun-xiang-89", 
+        "https://www.zhihu.com/people/zai-jian-xiao-lan-chong", 
+        "https://www.zhihu.com/people/edisonliu-72", 
+        "https://www.zhihu.com/people/li-wen-yu-40-74", 
+        "https://www.zhihu.com/people/ye-cha-4", 
+        "https://www.zhihu.com/people/xiang-yi-55-49", 
+        "https://www.zhihu.com/people/ru-he-cheng-wei-peng-yu-yan"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/72246941", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 2, 
+            "title": "【自动控制】离心泵流量控制的三种方法", 
+            "content": "<p>离心泵是使用最广的液体输送设备。它一般由电动机驱动，在启动前，泵及吸入管路内充满液体。泵的压头是由旋转叶轮作用于液体的离心力而产生的，转速越高，则离心力越大，压头也越高。</p><p>离心泵流量控制的目的是要将泵的排出流量恒定于某一给定的数值上。流量控制在石油化工厂是非常常见的，例如进入化学反应器的原料量需要维持恒定、精馏塔的进料量或回流量需要维持恒定等。</p><p><b>这里介绍3种离心泵的流量控制的常用方法。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>1、 控制泵出口调节阀开度</b><br/></p><p>通过控制泵出口调节阀开启度，改变调节阀两端压降，从而改变管路阻力来控制流量，如图1所示。当干扰作用使被控变量（流量）发生变化偏离给定值时，控制器发出控制信号，调节阀动作，控制结果使流量回到给定值。</p><p><b>图1：改变泵出口管路阻力控制流量</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-7778fcdbee5c396c2156761cb7957a35_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"432\" data-rawheight=\"355\" class=\"origin_image zh-lightbox-thumb\" width=\"432\" data-original=\"https://pic2.zhimg.com/v2-7778fcdbee5c396c2156761cb7957a35_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;432&#39; height=&#39;355&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"432\" data-rawheight=\"355\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"432\" data-original=\"https://pic2.zhimg.com/v2-7778fcdbee5c396c2156761cb7957a35_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-7778fcdbee5c396c2156761cb7957a35_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p><b>图2：泵的流量特性曲线与管路特性曲线</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-79cdac6a310a5160b512a767f74b762b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"544\" data-rawheight=\"394\" class=\"origin_image zh-lightbox-thumb\" width=\"544\" data-original=\"https://pic4.zhimg.com/v2-79cdac6a310a5160b512a767f74b762b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;544&#39; height=&#39;394&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"544\" data-rawheight=\"394\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"544\" data-original=\"https://pic4.zhimg.com/v2-79cdac6a310a5160b512a767f74b762b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-79cdac6a310a5160b512a767f74b762b_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>当调节阀开启度发生变化时，由于转速是恒定的，所以泵的特性没有变化，即图2中的曲线A没有变化。但管路上的阻力却发生了变化，即管路特性曲线不再是曲线1，随着调节阀的关小，可能变为曲线2或曲线3了。工作点就由C1移向C2或C3，出口流量也由Q1改变为Q2或Q3，如图2所示。以上就是通过控制泵的出口调节阀开启度来改变排出流量的基本原理。</p><p>采用本方案时，要注意调节阀一般应该安装在泵的出口管线上，而不应该安装在泵的吸入管线上（特殊情况除外）。这是因为调节阀在正常工作时，需要有一定的压降，有可能形成负压，使液体部分汽化，会产生冲击，损坏叶轮和泵壳。调节阀还应该装在检测元件（如孔板）的下游，这样对保证测量精度有好处。</p><p>控制出口调节阀开启度这种方案优点是简单易行，所以应用最为广泛。缺点是在流量小的情况下，总的机械效率较低。特别是调节阀开度较小时，阀门压降较大，对于大功率的泵，损耗的功率相当大，因此是不经济的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2、控制泵出口旁路调节阀开度</b></p><p>如图3所示，在泵出口旁路一部分返流至泵吸入管路，用改变旁路调节阀开启度的方法来控制泵的实际排出量。</p><p><b>图3：改变旁路调节阀开度控制流量</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-4d1947bc2c1d70d255bab1ffc982fa58_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"424\" data-rawheight=\"299\" class=\"origin_image zh-lightbox-thumb\" width=\"424\" data-original=\"https://pic1.zhimg.com/v2-4d1947bc2c1d70d255bab1ffc982fa58_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;424&#39; height=&#39;299&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"424\" data-rawheight=\"299\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"424\" data-original=\"https://pic1.zhimg.com/v2-4d1947bc2c1d70d255bab1ffc982fa58_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-4d1947bc2c1d70d255bab1ffc982fa58_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>调节阀装在旁路上，由于压差大，流量小，所以调节阀的尺寸可以选的比装在出口管道上的要小得多。但也不难看出，对旁路通过的那部分液体来说，由于泵所供的能量几乎完全消耗在调节阀上，因此总的机械效率较低。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>3、控制泵的转速</b></p><p>当泵的转速改变时，泵的流量特性曲线会发生变化。图4中曲线1、2、3表示转速分别为n1,n2,n3时的流量特性，且有n1&gt;n2&gt;n3。在同样的流量情况下，泵的转速提高会使压头H增加。在一定的管路特性曲线B的情况下，减小泵的转速，会使工作点由C1移向C2或C3，流量相应也由Q1减少到Q2或Q3。</p><p><b>图4：改变泵的转速控制流量</b></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-077acff0fb3cb122d503cb013fe2e96f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"624\" data-rawheight=\"412\" class=\"origin_image zh-lightbox-thumb\" width=\"624\" data-original=\"https://pic4.zhimg.com/v2-077acff0fb3cb122d503cb013fe2e96f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;624&#39; height=&#39;412&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"624\" data-rawheight=\"412\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"624\" data-original=\"https://pic4.zhimg.com/v2-077acff0fb3cb122d503cb013fe2e96f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-077acff0fb3cb122d503cb013fe2e96f_b.jpg\"/></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>这种解决方案从能量消耗的角度来衡量最为经济，机械效率较高，但调速机构一般较复杂，所以多用在蒸汽透平驱动离心泵的场合，此时仅需控制蒸汽量即可控制转速。</p><p>随着电机变频调速控制技术的发展和应用，改变泵的转速已很容易实现，因此，这种方案应用日渐增多，特别对较大的输送泵这种方案应是首选。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>本文属于原创，如需转载请联系原作者。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>作者简介</u>：</b><br/></p><p><b>邱老师，自控学堂创办人，教授级高级工程师，从事自控工程设计30余年，先后承担了几十个大中型工程项目的设计、施工安装指导、调试开车及新技术开发等工作，是国家科技进步一等奖获得者，获国务院特殊津贴、行业工程设计大师等荣誉称号，国家科技进步奖评审专家。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>关于自控学堂</u>：</b></p><p><b>自控学堂专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注【自控学堂】微信公众号获取更多知识信息（加助理微信号“happylife101010”可以送3本经典电子书）</b></p><p><b>让我们一起成为自控高手吧！</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/71927087", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 1, 
+            "title": "【自控仪表工程设计实例】如何设计P&ID图", 
+            "content": "<p>最近有粉丝拿着工艺流程图和工艺要求来找我，请教该怎么样在工艺流程图上表示仪表检测、控制相关内容，形成工艺和仪表流程图（通常称P&amp;ID图）。</p><p>下面就来谈谈如何设计P&amp;ID图：</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一、什么是P&amp;ID图</b></p><p>P&amp;ID是英文Process &amp; Instrument Diagram（工艺和仪表流程图）的缩写，是工程上最基本的图纸资料，P&amp;ID图包括所有工艺、仪表、管道、设备的相关信息，它也是自控专业开展设计工作最基本的条件。</p><p>仪表检测、控制相关内容可按GB2526《过程检测和控制流程图用图形符号和文字代号》、HG20505《过程检测和控制系统用文字代号和图形符号》，也可参考ISA S5.1《Instrument Symbols》等标准，将其表示在工艺流程图中，就形成了P&amp;ID图。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二、设计实例</b></p><p>下面我们举一个实际应用中的案例说明P&amp;ID图的设计。</p><p><b>2.1 工艺要求（条件）</b></p><p><b>1）工艺流程图如图1</b></p><p><b>图1：工艺流程图</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3aa0b9b5283e0ffca789d6ac47d2d397_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1244\" data-rawheight=\"660\" class=\"origin_image zh-lightbox-thumb\" width=\"1244\" data-original=\"https://pic4.zhimg.com/v2-3aa0b9b5283e0ffca789d6ac47d2d397_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1244&#39; height=&#39;660&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1244\" data-rawheight=\"660\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1244\" data-original=\"https://pic4.zhimg.com/v2-3aa0b9b5283e0ffca789d6ac47d2d397_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3aa0b9b5283e0ffca789d6ac47d2d397_b.jpg\"/></figure><p><b>2）工艺控制要求</b><br/></p><p>这是一个吸热反应，反应器采用蒸汽夹套加热，工艺控制要求如下：</p><p>1.添加剂进料量与反应器主物料进料量成比例关系（1:10），主物料量不宜控制；</p><p>2.反应器液位、温度要求控制稳定；</p><p>3.反应器液位到达高高限时，停止进料；反应器液位低于低低限时，停止搅拌器；</p><p>4.反应器温度现场指示；</p><p>5.反应器气相排气管（去洗涤塔）上温度、压力现场指示；</p><p>6.反应器加热蒸汽温度、压力现场指示。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>2.2 根据工艺控制要求设计检测、控制系统</b><br/></p><p>自控人员在收到工艺流程图和控制要求后，应充分理解和认真核对，再确定检测、控制方案，如检测点设置在什么地方，控制阀设置在哪里合适？需要哪些控制功能？所有这些都要满足工艺要求，并且可实施。</p><p>根据工艺控制要求，设计检测、控制方案如下：</p><p>1.由于主物料不可控，因此应设置以主物料流量信号经比值器运算后作为添加剂流量控制器的设定值，组成单闭环比值控制系统；</p><p>2.反应器液位采用控制出料量的方式来稳定，设置液位单回路控制系统；</p><p>3.由于反应器温度采用蒸汽夹套加热，容量滞后比较大，且蒸汽流量时有波动，因此拟采用反应器温度与蒸汽流量组成串级控制系统；</p><p>4.反应器液位高高限联锁停进料泵，反应器液位低低限联锁停搅拌器的联锁控制系统。</p><p>5.反应器设双金属温度计现场指示；</p><p>6.反应器气相排气管上设双金属温度计和压力表现场指示；</p><p>7.反应器加热蒸汽管上设双金属温度计和压力表现场指示。</p><p>按照HG/T 20505-2014标准，绘制的P&amp;ID图如图2所示：</p><p><b>图2：反应器工艺和仪表流程图</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-4f2bcc2cd2571c4a007945e15f68b6ca_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1612\" data-rawheight=\"892\" class=\"origin_image zh-lightbox-thumb\" width=\"1612\" data-original=\"https://pic3.zhimg.com/v2-4f2bcc2cd2571c4a007945e15f68b6ca_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1612&#39; height=&#39;892&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1612\" data-rawheight=\"892\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1612\" data-original=\"https://pic3.zhimg.com/v2-4f2bcc2cd2571c4a007945e15f68b6ca_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-4f2bcc2cd2571c4a007945e15f68b6ca_b.jpg\"/></figure><p>图2是按盘装模拟仪表做的P&amp;ID图，如是选用DCS或PIC控制系统，就应按照相关标准，绘制与DCS或PIC控制系统相应的P&amp;ID图。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>三、P&amp;ID图的设计流程和要求</b><br/></p><p>在工程设计中，P&amp;ID图一般是由工艺专业人员与自控专业人员共同完成的，通常是由工艺专业人员提出工艺流程图和检测、控制要求，自控专业人员根据工艺专业的要求，设计检测、控制回路，并在工艺流程图上按国家、行业相关标准绘制出仪表检测点及控制回路。</p><p>需要说明的是P&amp;ID图的制作有个不断完善的过程，在检测、控制点确定之后，可绘制初步的P&amp;ID图，待仪表、调节阀等设备选型完毕后，再依据仪表、调节阀的类型完善P&amp;ID图。</p><p>如果是成熟的工艺，或已成功运行过的工艺，P&amp;ID图一般变化不大，对于这种情况工艺专业与自控专业可共同确认，局部修改完善即可。</p><p>P&amp;ID图的设计是自控工程设计工作中非常重要的环节，做好P&amp;ID图设计，设计人员应当做到：</p><p><b>1) 熟悉工艺流程及工艺原理对设计检测、控制方案非常关键，也是做好自控设计的基础；</b></p><p><b>2) 深刻理解工艺专业对自控专业提出的设计要求；</b></p><p><b>3) 熟悉相关的标准规范。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>本文属于原创，如需转载请联系原作者。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>作者简介</u>：</b><br/></p><p><b>邱老师，自控学堂创办人，教授级高级工程师，从事自控工程设计30余年，先后承担了几十个大中型工程项目的设计、施工安装指导、调试开车及新技术开发等工作，是国家科技进步一等奖获得者，获国务院特殊津贴、行业工程设计大师等荣誉称号，国家科技进步奖评审专家。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>关于自控学堂</u>：</b></p><p><b>自控学堂专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息，现在关注还可以送3本经典电子书。</b></p><p><b>让我们一起成为自控高手吧！</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/69873176", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 2, 
+            "title": "【干货】控制系统动态流程图设计组态", 
+            "content": "<p>随着DCS、PLC等控制系统应用越来越广泛，控制系统组态工作也越来越多，<b>其中监控操作界面“动态流程图”的组态是一项重要工作。</b></p><p>控制系统动态流程图是非常重要的人机对话界面，操作人员通过它可以非常直观和方便地监控生产工艺过程。<b>因此，动态流程图需要满足：正确反应工艺流程图、显示信息量足够大、操作直观和方便、颜色协调和美观等条件。</b></p><p>下面是我的一些关于控制系统动态流程图设计组态的经验分享。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一、动态流程画面设计</b><br/></p><p><b>1．静态流程图画面设计</b><br/></p><p>首先要对工艺仪表流程图（P&amp;ID）进行简化，在此基础上设计成静态流程图画面，设计静态流程图画面时对次要管线要进行简化，使之既符合工艺流程又简捷。画面布置要尽量均匀，避免过紧或过松。</p><p><b>2．动态流程画面的功能设计</b></p><p>动态流程画面的功能设计对不同的设计者会有所差别。但一般而言，需要有以下主要功能：</p><p>（a）控制回路的显示和操作功能</p><p>对控制回路需要显示其设计位号，并实时显示测量值、设定值、操作方式、工程单位、输出值、报警状态等，能对设定值、操作方式、输出值进行操作。</p><p>（b）模拟量显示</p><p>对模拟量显示回路需要显示其设计位号，并实时显示测量值、工程单位、报警状态等。</p><p>（c）开关量显示</p><p>对温度、压力、液位等热工参数越限报警，一般需要显示设计位号、正常状态、报警状态、报警确认后状态。</p><p>（d）液位显示</p><p>液位除采用数字显示外，一般需有随液位变化的棒图显示。</p><p>（e）马达（泵）显示</p><p>马达（泵）一般应采用不同的颜色显示其运行状态、停止状态、故障状态。</p><p>（f）其他显示</p><p>其它显示一般有最新报警显示、趋势显示、联锁显示、综合信号显示、设备位号、介质名称等。</p><p><b>3．动态流程图画面的调出</b></p><p>动态流程图画面的调出，除定义专用功能键外，一般可采用两种方式：一种是按流程衔接顺序调出；另一种是按动态流程图画面总菜单调出，即设计一幅流程图画面总菜单，从总菜单中分别调出各幅动态流程图画面，各动态流程图画面还必须能返回到动态流程图画面总菜单。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二、动态流程画面组态</b> </p><p><b>1．确定颜色</b> </p><p>首先要确定动态流程图画面的底色，一般底色以灰色（或深灰色）为宜，色泽太浅或太亮对操作人员的视力影响较大，时间长了会感到不舒服。其次要确定各种物料管线和设备的颜色，各种静止设备一般采用统一颜色，各种物料管线的颜色应按国家、行业、企业的有关规定来确定。</p><p>例如：某装置主要管线的颜色 </p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-b3b3815f5a35275a695a5ec7720e0766_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"760\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb\" width=\"760\" data-original=\"https://pic3.zhimg.com/v2-b3b3815f5a35275a695a5ec7720e0766_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;760&#39; height=&#39;662&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"760\" data-rawheight=\"662\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"760\" data-original=\"https://pic3.zhimg.com/v2-b3b3815f5a35275a695a5ec7720e0766_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-b3b3815f5a35275a695a5ec7720e0766_b.jpg\"/></figure><p>例如：某装置马达、泵的显示颜色</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-20d79abb071934cd43c89d16c98fb410_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"520\" data-rawheight=\"278\" class=\"origin_image zh-lightbox-thumb\" width=\"520\" data-original=\"https://pic1.zhimg.com/v2-20d79abb071934cd43c89d16c98fb410_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;520&#39; height=&#39;278&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"520\" data-rawheight=\"278\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"520\" data-original=\"https://pic1.zhimg.com/v2-20d79abb071934cd43c89d16c98fb410_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-20d79abb071934cd43c89d16c98fb410_b.jpg\"/></figure><p><b>2．编制静态、动态子图</b><br/></p><p>在动态流程图画面中许多静态图形、动态图形会反复使用，因此，应先编制相关的子图，便于提高工作效率及统一性。</p><p>编制子图是一项基础性的工作，需要仔细总结归纳出代表性的特怔、功能，对动态子图，还应进行测试，确认达到预想的功能后才能插入到主图中使用，下面介绍几种子图：</p><p>（a）控制回路显示子图</p><p>控制回路显示子图如图1所示，它能显示设计位号、测量值、设定值、操作方式，工程单位。</p><p>图1：控制回路显示子图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-13fa4cc2fa03f47ccdf8491665940ba1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"380\" data-rawheight=\"278\" class=\"content_image\" width=\"380\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;380&#39; height=&#39;278&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"380\" data-rawheight=\"278\" class=\"content_image lazy\" width=\"380\" data-actualsrc=\"https://pic2.zhimg.com/v2-13fa4cc2fa03f47ccdf8491665940ba1_b.jpg\"/></figure><p>（b）模拟量显示子图<br/></p><p>模拟量显示子图如图2所示，它能显示设计位号、测量值、工程单位。</p><p>图2：模拟量显示子图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c31ce1266390cc2b47e324a79feca8e1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"344\" data-rawheight=\"216\" class=\"content_image\" width=\"344\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;344&#39; height=&#39;216&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"344\" data-rawheight=\"216\" class=\"content_image lazy\" width=\"344\" data-actualsrc=\"https://pic2.zhimg.com/v2-c31ce1266390cc2b47e324a79feca8e1_b.jpg\"/></figure><p>（c）流量累积显示子图<br/></p><p>流量累积显示子图如图3所示，它能显示设计位号、累积值、累积设定值、操作状态，工程单位。</p><p>图3：流量累积显示子图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-1f4334b50ff20ea6d97a17c43fef070c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"348\" data-rawheight=\"269\" class=\"content_image\" width=\"348\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;348&#39; height=&#39;269&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"348\" data-rawheight=\"269\" class=\"content_image lazy\" width=\"348\" data-actualsrc=\"https://pic1.zhimg.com/v2-1f4334b50ff20ea6d97a17c43fef070c_b.jpg\"/></figure><p>上述每个子图右上角显示报警状态，如“HH”、“HI”、“LO”、“LL”分别表示PV值的高高报、高报、低报、低低报，当报警时显示相应字符并红色闪烁，报警确认后不闪烁，不报警时不显示字符。</p><p>子图种类还有很多，在此不一一列举。</p><p><b>3．绘制流程图画面</b></p><p>根据已设计好的静态流程图画面，在图形编辑环境下绘制静态流程图，并添加动态显示数据（子图）。带动态显示数据的子图可以是通用子图，插入主图后赋予具体数据点的标识（设计位号），就有对于这个设计位号的动态数据显示在子图中所规定的功能。</p><p>对于控制回路、流量累积回路通过点击相应的子图显示区，能调出相应的操作控制面板，对控制回路可以进行操作方式切换、改变设定值和输出，对流量累积回路可以进行累积功能的启动、停止、复位操作。</p><p>控制回路操作面板如图4所示。绘制流程图画面是一项工作量很大，而且也是比较繁锁的组态工作。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-0f082206d4453dedc705e19146923b82_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"952\" data-rawheight=\"971\" class=\"origin_image zh-lightbox-thumb\" width=\"952\" data-original=\"https://pic3.zhimg.com/v2-0f082206d4453dedc705e19146923b82_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;952&#39; height=&#39;971&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"952\" data-rawheight=\"971\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"952\" data-original=\"https://pic3.zhimg.com/v2-0f082206d4453dedc705e19146923b82_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-0f082206d4453dedc705e19146923b82_b.jpg\"/></figure><p><b>三、动态流程图画面调试</b><br/></p><p>要使流程图画面能运行并达到动态效果，首先必须对其进行在线编译、检查，测试等，主要内容有：</p><p>1、检查动态数据点。即对流程图画面中的数据点是否在系统中已存在进行检查，主要通过编译、保存等操作完成。由此可见，在编译、保存流程图画面之前，所引用的数据点在系统中必须要先建立。此外，要对每个动态数据点进行逐点测试，以确定动态数据显示的正确性。</p><p>2、测试各种点击操作和调用功能。如与之连接上一幅流程图、或下一幅流程图，调用控制回路操作面板等。</p><p>3、其它需要测试的功能。</p><p>需要注意的是已经通过测试的动态流程图画面，当其中的动态数据点类型改变、或删除后再重新建立时，一般情况下应重新测试，否则就有可能出现不能显示或显示有错。</p><p><b>以上是我的一点经验与体会，供大家参考。由于控制系统组态编程方法随系统不同而不同，实际应用中应按厂家提供的使用手册规定的方法进行编制、组态及调试。</b><br/></p><p><b>在整个控制系统编程组态工作中，编制、组态和调试动态流程图画面约占一半的工作量，而且也是一项综合性较强的工作。设计操作方便、显示直观、图面布置美观大方、颜色协调的动态流程图画面并非一件易事，需要对系统的软件平台有较深入的了解，熟悉控制方案以及工艺的基本操作，并需要不断修改完善和总结提高。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>本文属于原创，如需转载请联系原作者。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>作者简介</u>：</b><br/></p><p><b>邱老师，自控学堂创办人，教授级高级工程师，从事自控工程设计30余年，先后承担了几十个大中型工程项目的设计、施工安装指导、调试开车及新技术开发等工作，是国家科技进步一等奖获得者，获国务院特殊津贴、行业工程设计大师等荣誉称号，国家科技进步奖评审专家。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>关于自控学堂</u>：</b></p><p><b>自控学堂专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注【自控学堂】微信公众号获取更多知识信息（加助理微信号“happylife101010”可以送3本经典电子书）</b></p><p><b>让我们一起成为自控高手吧！</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/69027658", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "你听过像火车一样轰鸣的调节阀吗？", 
+            "content": "<p><i>多年前我曾经历过一个项目，在项目现场，正在开车时突然传来一阵如同汽笛般的尖叫声，同时伴随咣咣的像火车一样的巨大震动声。现场所有人都吓坏了，大家在定下神之后发现是一台口径为DN80的流闭型调节阀出现了巨大的振动。</i></p><p><i>我们首先采取了加大气源压力等措施，但振动仍然没有明显改善，而开车已经迫在眉睫，这样的调节阀不可能有备件，重新订货也来不及，后来，我和在现场的同事经过详细了解实际工况，仔细检查、分析后提出将调节阀由流闭型改为流开型的建议，经过现场紧急处理后，振动现象消除了，调节阀运行正常，项目也顺利完成了开车。</i></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-5806f841618ac5608aae9b8859a7e97a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"768\" class=\"origin_image zh-lightbox-thumb\" width=\"1024\" data-original=\"https://pic3.zhimg.com/v2-5806f841618ac5608aae9b8859a7e97a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1024&#39; height=&#39;768&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1024\" data-rawheight=\"768\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1024\" data-original=\"https://pic3.zhimg.com/v2-5806f841618ac5608aae9b8859a7e97a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-5806f841618ac5608aae9b8859a7e97a_b.jpg\"/></figure><p><b>这是一个典型的调节阀流开流闭选型不当造成的问题。</b><br/></p><p>在调节阀的选型中，除了要考虑阀门的气开、气关；执行器的正作用与反作用、是否配置定位器等等，调节阀的流开和流闭也十分重要，选择调节阀的流开和流闭也是常常困扰刚入行新手的一个问题。这里我们就来谈谈调节阀的流开流闭、改变流向有哪些影响以及如何选择流开流闭。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>一、什么是调节阀的流开流闭</b></p><p>对介质流向而言，流开、流闭的定义为：</p><p>在阀体节流口，介质的流动方向向着阀打开方向流动（即与阀开方向相同）时叫流开，反之，向着阀关闭方向流动（即与阀关方向相同）时叫流闭。见下面示意图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-dcdc58cec39ca9c1d44eb1982311bf64_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1124\" data-rawheight=\"680\" class=\"origin_image zh-lightbox-thumb\" width=\"1124\" data-original=\"https://pic1.zhimg.com/v2-dcdc58cec39ca9c1d44eb1982311bf64_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1124&#39; height=&#39;680&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1124\" data-rawheight=\"680\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1124\" data-original=\"https://pic1.zhimg.com/v2-dcdc58cec39ca9c1d44eb1982311bf64_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-dcdc58cec39ca9c1d44eb1982311bf64_b.jpg\"/></figure><p><b>调节阀对流体的流向可分为三种情况：</b></p><p>1）对流向没有要求，如球阀、普通蝶阀等；</p><p>2）规定一个方向，一般不得改变，如三通阀、文丘里角阀等；</p><p>3）根据工作条件，存在介质流向的选择，即调节阀的流开和流闭的选择，比如单密封的调节阀，如单座阀、角形阀、高压阀等。</p><p>因此，第三种情况是我们这里需要讨论的内容，那么我们首先来了解当介质流动方向改变时，对调节阀有什么影响？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>二、介质流动方向改变对调节阀的影响</b></p><p>当介质流动方向的改变时，首先它使得阀前后压力改变，阀前和阀后压力对换，不平衡作用力的方向改变或大小改变；其次它使得介质对阀芯的绕流方向的改变，使得流体流动的形态改变，对流体的阻力不同。</p><p>介质流动方向的改变对调节阀工作性能的影响主要有以下几个方面：</p><p>1）不平衡力作用方向改变将产生以下影响：第一，影响阀门的稳定性；第二，影响阀芯的密封性能；第三，影响阀门的允许压力及允许压力差。如装配同样的阀芯，流闭型的允许压力及允许压力差较流开型的大。</p><p>2）流体阻力的改变对工作性能的影响：流闭型阀门阻力比流开型阀门小，故流闭型的流量系数比流开型大，一般可提高10~15%。同时，也提高了阀门的可调范围。</p><p>3）介质流动方向的改变对使用寿命的影响，流开型的阀门，阀芯尖端一头迎着流体，流体冲刷和气蚀直接作用在密封面上，而流闭型调节阀基本不作用在密封面上，故流闭型调节阀的使用寿命比流开型使用寿命长，一般长25%-50%以上。</p><p>4）不同的流向对工作性能的其它影响：第一，对产生闪蒸的临界压力差的影响，流闭型调节阀比流开型易产生闪蒸，一般来说压力恢复系数值，流闭型调节阀小于流开型调节阀；第二，对“自洁”作用性能的影响，流闭型的好于流开型的；第三，对阀杆密封性能的影响，阀后压力作用于阀杆端头时，阀杆密封性好，阀前压力作用于阀杆端头时，阀杆密封性要差，特别是在高差压时更为突出。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>三、调节阀流开流闭的选择原则</b></p><p>从上面表述可以看出，两种流向各有利弊，<b>具体选择应根据实际工况，以解决主要矛盾为重点。</b></p><p>依据HG/T20507-2014《自动化仪表设计选型规定》，选择流开、流闭的原则如下：</p><p>1）直通单座、角阀、高压阀、无平衡孔的单密封套筒阀等，应根据不同的工艺条件，阀门的稳定性来决定调节阀的流开和流闭；</p><p>2）对于高粘度，含固体颗粒的，且要求自洁性能好的介质，角型阀宜选用流闭型的调节阀；</p><p>3）直通单座阀宜选用流开型的，当冲刷严重时，可选用流闭型的调节阀；</p><p>4）单密封套筒阀宜选用流开型，当有自洁要求时可选用流闭型的调节阀；</p><p>5）两位式控制阀（直通单座阀、角形阀、套筒阀、快开流量特性），宜选用流闭型的调节阀，当出现水击、喘振时，宜改选为流开型。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>本文属于原创，如需转载请联系原作者。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>作者简介</u>：</b><br/></p><p><b>邱老师，自控学堂创办人，教授级高级工程师，从事自控工程设计30余年，先后承担了几十个大中型工程项目的设计、施工安装指导、调试开车及新技术开发等工作，是国家科技进步一等奖获得者，获国务院特殊津贴、行业工程设计大师等荣誉称号，国家科技进步奖评审专家。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>关于自控学堂</u>：</b></p><p><b>自控学堂专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>长按识别下方二位码关注“自控学堂”微信公众号获取更多知识信息（加助理微信号“happylife101010”可以送3本经典电子书）</b></p><p><b>让我们一起成为自控高手吧！</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68767275", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 6, 
+            "title": "深度解析串级调节系统", 
+            "content": "<p>最近陆续收到一些粉丝的提问（提问可加助理微信：happylife101010），都与串级调节系统有关。串级调节系统是在工业控制中常用的调节系统，但我们发现还是有很多人对串级调节系统的设置、特点及适用场合不太清楚。</p><p><b>比如下图就是一个实际应用中的串级调节系统，请问这个串级调节系统的意图是什么？是否合理？存在什么问题？</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-d0aefac0c43ce3cd8192a9d22d63b4eb_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1140\" data-rawheight=\"555\" class=\"origin_image zh-lightbox-thumb\" width=\"1140\" data-original=\"https://pic4.zhimg.com/v2-d0aefac0c43ce3cd8192a9d22d63b4eb_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1140&#39; height=&#39;555&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1140\" data-rawheight=\"555\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1140\" data-original=\"https://pic4.zhimg.com/v2-d0aefac0c43ce3cd8192a9d22d63b4eb_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-d0aefac0c43ce3cd8192a9d22d63b4eb_b.jpg\"/></figure><p><b>如果你不能很好地回答上面的问题，那么就请认真地学习一下这篇文章吧。</b><br/></p><p><b>一、串级调节系统的概念</b><br/></p><p>串级调节系统主要特征是有两个调节器，一个调节器的输出作为另一个调节器的给定，两个调节器之间互相串接；其组成除了两个调节器外还有两个变送器，一个执行器（调节阀）及对象。</p><p>下图为液位与流量串级调节系统：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-45efacbf80421b5c84b065e603970c2f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1236\" data-rawheight=\"749\" class=\"origin_image zh-lightbox-thumb\" width=\"1236\" data-original=\"https://pic4.zhimg.com/v2-45efacbf80421b5c84b065e603970c2f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1236&#39; height=&#39;749&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1236\" data-rawheight=\"749\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1236\" data-original=\"https://pic4.zhimg.com/v2-45efacbf80421b5c84b065e603970c2f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-45efacbf80421b5c84b065e603970c2f_b.jpg\"/></figure><p>液位与流量串级调节系统方块图如下图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-6893143536116bd1783f5dd2d0cb1853_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"477\" class=\"origin_image zh-lightbox-thumb\" width=\"1440\" data-original=\"https://pic4.zhimg.com/v2-6893143536116bd1783f5dd2d0cb1853_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1440&#39; height=&#39;477&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1440\" data-rawheight=\"477\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1440\" data-original=\"https://pic4.zhimg.com/v2-6893143536116bd1783f5dd2d0cb1853_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-6893143536116bd1783f5dd2d0cb1853_b.jpg\"/></figure><p>为了更好地理解，下面先介绍几个串级调节系统常用的名词：<br/></p><ul><li><b>主参数：</b>串级调节系统中起主导作用的被调参数，即为主参数，如方块图中液位。</li><li><b>副参数：</b>串级调节系统中为了稳定主参数或因某种需要而引入的辅助参数，也就是给定值随主调节器（液位调节器）的输出而变化的辅助被调参数称为副参数，如方块图中流量。</li><li><b>主调节器：</b>按主参数对给定值的偏差而动作、其输出作为副参数给定值的调节器，称为主调节器（又名主导调节器），如方块图中的液位调节器。</li><li><b>副调节器：</b>其给定值由主调节器的输出所决定，并按副参数对给定值的偏差而动作的调节器称为副调节器（又名随动调节器），如方块图中的流量调节器。</li><li><b>主回路：</b>串级调节系统中断开副调节器后的整个外回路称为主回路。</li><li><b>副回路：</b>处于串级调节系统里面的，由副参数、副调节器及其所包括的一部分对象等环节所组成的闭合回路称为副回路（又名随动回路）。</li></ul><p><b>二、串级调节系统的特点</b></p><p>串级调节系统与单回路调节系统相比，在结构上增加了一个与之相联的副回路，因而具有以下特点：</p><p>1、串级调节系统由于副回路的快速作用，因而对于进入副回路的干扰具有很强的克服能力。</p><p>2、串级调节系统由于副回路起了改善对象特性的作用，因而可以提高系统的工作频率，调节时间较短，动态偏差较小，调节质量有所提高。</p><p>3、串级调节系统具有一定的自适应能力。串级调节系统就其主回路来看，它是一个定值调节系统，但其副回路却是一个随动系统，主调节器能按对象操作条件及负荷的变化而不断地纠正副调节器的给定值。从这点意义上来讲它具有一定的自适应能力。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>三、串级调节系统的应用范围</b></p><p>从串级调节系统特点不难看出其优于单回路调节系统，但也有不足，与单回路调节系统相比，所用仪表较多，而且PID参数整定也比较麻烦，因此，在设计自动调节系统时，必须坚持一个原则，<b>能用简单调节系统解决问题，就不要用复杂调节系统。</b></p><p>串级调节系统也不是任何情况下都能适用，只在某些情况下应用才有显著的效果。下面介绍几种常用场合：</p><p>1、对象的容量滞后比较大，用单回路调节时的过渡过程时间长、超调量大、参数恢复慢，因而调节质量不能满足要求时，可以采用串级调节系统。如下图反应器温度要求控制严格，反应器内物料温度控制，若采用冷却水进水流量调节，这样的单回路调节，如果冷却水进水压力波动势必影响流量波动、再引起物料温度波动，则需要较长的一段时间，造成调节不及时。采用反应器内物料温度与冷却水进水流量串级调节系统，一旦前述情况发生，流量调节系统立即开始调节，克服干扰，反应器内物料温度就不会引起大的波动。反应器物料温度与冷却水流量串级调节系统如下图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-9d63c259ba8b2bb658609c2d868f7a57_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1284\" data-rawheight=\"692\" class=\"origin_image zh-lightbox-thumb\" width=\"1284\" data-original=\"https://pic4.zhimg.com/v2-9d63c259ba8b2bb658609c2d868f7a57_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1284&#39; height=&#39;692&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1284\" data-rawheight=\"692\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1284\" data-original=\"https://pic4.zhimg.com/v2-9d63c259ba8b2bb658609c2d868f7a57_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-9d63c259ba8b2bb658609c2d868f7a57_b.jpg\"/></figure><p>2、调节对象纯滞后时间比较长，用单回路调节系统不能满足调节质量要求时，可以采用串级调节系统。一般工业调节对象都具有一定的纯滞后时间，如纯滞后时间比较长，可以在离调节阀比较近、纯滞后时间比较小的地方选择一个辅助参数，当干扰在它之前进入系统时，就可在影响主参数之前，及早在副参数上得到反映，副调节器及时采取措施来克服干扰。由于副回路的调节通道短、滞后小，因而调节作用的过调现象不显著，过渡过程的工作周期短，超调量也比较小。所以，整个副回路起了一个超前的调节作用，从而大大减少了主参数的波动。<br/></p><p>3、系统内存在变化激励和幅值很大的干扰作用时，调节质量往往比较差。在这种情况下，为了提高系统的抗干扰能力，可以采用串级调节系统。注意一定要将大幅度激励变化的干扰纳入副回路中。</p><p>4、由于对象具有一定的非线性特性，当负荷变化较大时，单回路调节往往不能满足调节质量要求，这时可以采用串级调节系统。</p><p>5、当被调参数的给定值需要根据工艺情况经常改变时，就必须采用串级调节系统来实现自动校正其给定值的要求。这种情况应选择一个与被调参数直接相关的参数作为主参数构成串级调节系统。</p><p>设计人员需要深入研究工艺过程、原理、操作、控制对象特性等因素，来设计串级调节系统，以使其发挥应有的作用。</p><p><b>四、串级调节系统主、副回路的选择原则</b></p><p>一般情况下，主参数的选择与单回路调节时被调参数的选择原则是一样的，凡能直接或间接地表征生产过程质量的参数都可以作为调节系统的被调参数。主参数确定后，副回路的选择是串级调节效果的关键因素，一般有以下几个原则供参考：</p><p>1、副回路应该将生产中的主要干扰包括在内。</p><p>2、应力求把更多的干扰包括在副回路内。</p><p>3、选择副参数时，应注意使副参数的给定值与主参数之间有一定的单向关系，否则，串级调节是不可能实现的。</p><p>4、副回路的选择应考虑它在工艺上的合理性和实现起来的可能性与经济性。</p><p>5、对因副参数给定值需要自动校正而采用串级调节的系统中，主、副参数的选择应该根据工艺要求来确定，主参数应能及时反映变化的操作条件，而副参数必须精确地、快速地跟踪主调节器的输出而变化。</p><p><b>五、串级调节系统中主、副调节器的选择原则</b><br/></p><p>串级调节系统的应用越来越广泛，主、副参数匹配形式也很多，其作用和要求也不完全相同，因而对主、副调节规律的选择也得分别情况予以恰当处理。</p><p><b>第一种情况：</b></p><p>主参数是工艺操作的重要指标，其允许波动范围很小，更不允许有余差存在，而副回路的引入完全是为了保证主参数的稳定，它本身可以在较大的范围内变化。这类串级调节系统是比较常见的。为了保证主参数调节质量，主调节器常用比例积分调节，有时为了克服对象的容量滞后及提高主参数的调节质量，也常引入微分作用。而副参数由于要求不高，一般选用比例作用就能满足要求，如果引入积分作用，则反而可能影响副回路的快速作用。</p><p><b>第二种情况：</b></p><p>对主参数的调节质量要求比较高，同时对副参数的调节质量也有一定要求。这样，主调节器、副调节器均应引入积分作用。由于副调节器的给定值本身就是一个变参数，如果主调节器输出的变化剧烈，即使副调节器具有积分作用，副参数也仍然不能稳定在工艺给定的数值。对于这类串级调节系统，在参数整定时应予以充分注意。</p><p><b>第三种情况：</b></p><p>对主参数的调节质量要求不太高，允许它在一定范围内波动，但却要求副参数能快速、精确地随主调节器的输出变化而调节。对此，主调节器可采用比例作用，而副调节器应该用比例积分调节。</p><p><b>第四种情况：</b></p><p>对主参数的调节质量要求不十分严格，对副参数的要求也不高，而是为了使两者互相兼顾而采用串级调节。这种情况下主、副调节器都可用比例调节作用，但有时为了不使主参数偏离给定值太远，主调节器也常用比例、积分作用。</p><p>主、副调节器选择原则不是绝对的准则，应根据实际需要和效果来适当处理。</p><p><b>六、小结</b></p><p>以上我们介绍了串级调剂系统的概念、特点、应用范围、主副回路和调节器的选择原则等。请再回过头看文章开头的那个问题，你会回答了吗？</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>本文属于原创，如需转载请联系原作者。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>作者简介</u>：</b></p><p><b>邱老师，自控学堂创办人，教授级高级工程师、从事自控工程设计30余年，先后承担了几十个大中型工程项目的设计、施工安装指导、调试开车及新技术开发等工作，是国家科技进步一等奖获得者，获国务院特殊津贴、行业工程设计大师等荣誉称号，国家科技进步奖评审专家。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>关于自控学堂</u>：</b></p><p><b>自控学堂专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注【自控学堂】微信公众号获取更多知识信息。让我们一起成为自控高手吧！</b></p><p><b>现在关注还可以送三本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/68075816", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 1, 
+            "title": "仪表设备选型，谁之责？", 
+            "content": "<p>这篇文章不讲技术，聊一聊我对现在设计工作中设计人员在仪表设备选型环节工作的一些看法。</p><p><b>仪表设备选型的工作中，设计人员到底应该承担怎样的职责和责任？</b></p><p>随着我国改革开放和体制机制的转变，绝大多数设计院由原来的事业单位转变科技型企业，作用和业务范围发生了变化，由过去为国家把好基本建设关，转变为用户提供工程建设技术服务；业务范围也由原先单一的工程设计扩展到为用户提供全方位的工程技术服务，包括：工程设计、工程承包、技术研发等。</p><p>工程承包一般包含工程公司/设计院提供工艺技术（或第三方提供工艺包）、装备、材料，施工安装调试、投料开车等全过程工程服务，通常称<b>交钥匙工程</b>。</p><p><b>随着工程承包业务的开展，自控工程设计的工作内容也发生了变化。</b></p><p>在过去，设计院仅提供工程设计服务的情况下，自控设计人员负责自控设备、材料选型选厂，用户按设计院提供的自控设备规格表（书）、材料表中确定的型号、规格、数量及供货厂家采购自控设备和材料。这种模式下自控设计人员需自行完成仪表设备的选型工作，需要自控设计人员具备仪表选型的专业能力。</p><p>然而在采用工程承包模式后，按照国际上通行的做法，设备、材料采购应货比三家。在自控设备、材料采购阶段，设计人员需要提出自控设备、材料规格表（书），由采购部门将其提交给多家供应商，由供应商依据自控设备、材料规格表（书）完成选型，自控设计人员需要对供应商的自控设备、材料规格表（书）进行技术确认，最后由供应商提出商务报价。这种模式下，设备选型的实际工作由供应商承担，自控设计人员的角色变成了审核和确认。</p><p>这种模式设计的初衷是多家供应商相互竞争，使选型工作更加公平、合理、市场化，同时，设计人员需要对多家供应商的自控设备、材料规格表（书）进行把关，确保其选型结果都可以符合专业要求。这种模式下，设计人员需要了解更多供应商的产品，对设计人员的专业性、工作量和工作难度本质上都提出了更高的要求。然而，在实际工作中，却产生了一种非常“流行”的现象：</p><p><b>设计人员将仪表设备选型的工作完全依赖供应商，而对供应商提供的选型清单，又不能认真、仔细地研究和核对，久而久之，导致设计人员设备选型的专业能力退化，对供应商的依赖度加深，形成恶性循环，给设计工作的质量带来了隐患。</b></p><p>也许有些设计人员认为仪表选型的工作太繁杂，供应商对自己的产品最了解，由他们进行选型属于术业有专攻，能够提高工作效率，真的是这样吗？</p><p><b>恕我直言，对这种做法我实在是不能苟同。无论从利益冲突、专业要求和责任分工的角度，对仪表设备的选型结果进行严格把关，都是设计人员义不容辞的职责和责任！</b><br/></p><p><b>从利益冲突的角度，</b>追求商业利益最大化是所有商业机构的使命，这一点仪表供货商也不例外。每个供货商的销售人员都有自己的销售业绩指标，在满足仪表数据表的情况下，追求商业利益最大化，对于仪表销售人员和仪表供货商来说是合乎情理的。在能够满足仪表数据表的情况下，有的供应商为了多些销售额，参数往大做，导致仪表价格高，有的供应商在面临激烈的市场竞争的情况下，为了能拿到订单，在选型时仅满足用户最低要求，把价格压低；有的供应商甚至改变技术参数，如更换材质、减少功能等，这些情况都会导致仪表设备选型不合理，甚至会无法使用。由仪表供应商完成的仪表选型和客户的利益有着天然的冲突，而设计人员受托于客户，就应当服务于客户的利益，代表客户对供应商的选型结果进行严格的把关，充分发挥作用。</p><p><b>从专业要求的角度，</b>设计工作中仪表选型是整个设计中技术含量很高的一项工作。最终投入生产线的仪表，既要满足工艺要求，又要考虑技术的先进性、安全性、性价比等，是多重因素统筹考虑的结果，对选型人员的经验、专业水平都提出了更高的要求。而仪表供货商的技术人员水平参差不齐，人员流动性大，专业性难以得到保证。同时，当设计人员过分依赖仪表供应商进行选型，久而久之，能力得不到增长，专业水平不进反退。当设计人员的能力水平甚至不如供应商时，又有什么能力审核和确认供应商的数据表，承担设计的重任？</p><p><b>从责任分工的角度，</b>工程设计人员对工程项目负责，仪表供应商对仪表质量负责。至于仪表供应商所选的仪表是否适用于工况，这份责任仪表供应商无法承担，也不应该由他们承担。仪表设备的选型结果是设计人员的责任，而所有可能由于选型失误产生的问题和后果，也将由设计人员承担。当设计人员在设计、校对、审核栏里签上大名时，请记住，这份责任将伴随终身。</p><p>随着技术的不断进步，仪表的型号和功能日益丰富，设计人员需要与时俱进，不断学习和掌握更多仪表的功能和特点，持续提升自己的专业能力和技术水平。逆水行舟，不进则退。<b>在专业面前，没有捷径；在责任面前，只有担当！</b></p><p><b>本文属于原创，如需转载请联系原作者。</b></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>作者简介</u>：</b><br/></p><p><b>邱老师，自控学堂创办人，教授级高级工程师、从事自控工程设计30余年，是国家科技进步一等奖获得者，获国务院特殊津贴、行业工程设计大师等荣誉称号，国家科技进步奖评审专家。</b></p><p>毕业于浙江大学化工自动化及仪表专业，在国家甲级设计院从事石油化工及化纤行业自控工程设计30余年，任教授级高级工程师、专业总工程师、设计部主任、技术处长等职，先后承担了几十个大中型工程项目的设计、施工安装指导、调试开车及新技术开发等工作。所承担的项目获得国家及省部级优秀设计奖9项、省部级科技进步一等奖3项、国家科技进步一等奖1项，获国务院特殊津贴、行业工程设计大师荣誉称号，国家科技奖评审专家。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>关于自控学堂</u>：</b></p><p><b>自控学堂专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/67833627", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 1, 
+            "title": "谈谈自动控制系统的输入输出信号", 
+            "content": "<p>在仪表自动化工程设计中，要使设计选用的仪表、控制设备能正常运行，除了设备自身因素外，还有一个容易被忽视的因素，就是<b>控制系统、仪表之间的信号匹配与传输。</b><br/></p><p>为了描述方便，我们将所有接收信号和/或输出信号的仪表控制设备统称为<b>集中控制设备</b>：如DCS、PLC、SIS等控制系统，二次仪表（如调节器、指示仪、记录仪、闪光报警器等）等。</p><p>集中控制设备要接收现场仪表信号，如温度传感器、流量、压力、液位变送器等信号；集中控制设备要向现场执行器输出控制信号，如调节阀，变频器等；集中控制设备之间也有信号互相传输，如安全栅与控制系统输入卡件或盘装仪表之间等。</p><p>输入到集中控制设备的信号叫输入信号，从集中控制设备输出的信号叫输出信号。当一台仪表或设备的输出信号作为另一台仪表或设备的输入信号的时候，输出和输入的信号必须互相匹配。比如现场有一台压力变送器输出信号4~20mA到DCS系统，这就应该选择DSC系统4~20mA模拟量输入卡才能匹配。</p><p><b>如果信号不匹配会造成什么后果呢？</b></p><p>（1）集中控制设备就接受不到信号，或者接受到信号导致集中控制设备出现不正确的信息，使控制系统或者说控制回路无法正常运行；</p><p>（2）最坏的情况有可能损毁集中控制设备的部件（元件），如控制系统开关量输入卡是接受干接点信号，而发送给它的是220VAC有源接点信号，这样会导致某个通道，甚至整块卡都会损坏。</p><p><b>信号是控制设备之间联系的纽带，也可以说是控制设备之间对话的语言，如果语言不同，他们之间就不能相互交流，也就是说整个控制系统或者说控制回路就不可能正常运行。</b></p><p>因此在设计选用现场仪表、集中控制设备时，匹配好输入到集中控制设备的信号类型、集中控制设备输出到下一级控制设备的信号类型就非常重要，而自动控制系统中存在多种信号类型，人们在实际应用中，对于这些信号类型的概念又非常容易混淆。<br/></p><p><b>下面我们来谈谈常用的信号类型及选用原则。</b></p><p><b>一、常用信号类型及含义</b></p><p><b>1、模拟量信号</b></p><p>模拟量是在时间和数量上都是连续的物理量，其表示的信号则为模拟信号。模拟量在连续的变化过程中任何一个取值都是一个具体有意义的物理量，如温度，压力，电流等。常用模拟量信号有：热电阻、热电偶、4~20mA、1~5VDC、mV等。</p><p>模拟量信号如下图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-785576fb2826991091f68e2b2db345de_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"752\" data-rawheight=\"442\" class=\"origin_image zh-lightbox-thumb\" width=\"752\" data-original=\"https://pic3.zhimg.com/v2-785576fb2826991091f68e2b2db345de_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;752&#39; height=&#39;442&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"752\" data-rawheight=\"442\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"752\" data-original=\"https://pic3.zhimg.com/v2-785576fb2826991091f68e2b2db345de_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-785576fb2826991091f68e2b2db345de_b.jpg\"/></figure><p>模拟量信号通常来自现场仪表，如铂热电阻，压力，流量、液位变送器等；集中控制设备也会发送模拟量信号给调节阀，变频器等；集中控制设备之间也有模拟量信号交流，如盘装仪表之间的信号。<br/></p><p><b>2、开关量信号</b><br/></p><p>一般指的是触点的“开”与“关”的状态，在计算机设备中也会用“0”或“1”来表示开关量的状态。开关量分为有源开关量信号和无源开关量信号，有源开关量信号指的是“开”与“关”的状态时带电源，通常电源是220VAC, 24VDC；无源开关量信号指的是当开关处于“开”和“关”的状态时不带电源，行话俗称之为干接点。对于控制系统来说，通常开关量输入卡件接收的是无源开关量信号，开关量输出信号根据实际应用可以有源，也可以无源。</p><p>开关量信号如下图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-fbafbf95d72931cc30e951d32c6012ce_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"608\" data-rawheight=\"368\" class=\"origin_image zh-lightbox-thumb\" width=\"608\" data-original=\"https://pic3.zhimg.com/v2-fbafbf95d72931cc30e951d32c6012ce_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;608&#39; height=&#39;368&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"608\" data-rawheight=\"368\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"608\" data-original=\"https://pic3.zhimg.com/v2-fbafbf95d72931cc30e951d32c6012ce_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-fbafbf95d72931cc30e951d32c6012ce_b.jpg\"/></figure><p>开关量信号通常由现场仪表发出，如温度开关、压力，流量，物位开关、位置开关等；集中控制设备发送开关量信号到执行器，如开关阀，电磁阀等，集中控制设备之间也有开关量信号交流，如盘装仪表发出信号至闪光信号报警器等。</p><p><b>3、数字量信号</b></p><p>数字量，也就是离散量，指得是分散开来的、不存在中间值的量。例如，一个开关所能够取的值是离散的，只能是开或者关，不存在中间的状况。所以数字量在时间和数量上都是离散的物理量，其表示的信号则为数字信号，数字量是由0和1组成的信号，如循环二进制码。</p><p>数字量信号如下图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-ce8359d6d474100e9535b847fef2c730_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"704\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb\" width=\"704\" data-original=\"https://pic1.zhimg.com/v2-ce8359d6d474100e9535b847fef2c730_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;704&#39; height=&#39;366&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"704\" data-rawheight=\"366\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"704\" data-original=\"https://pic1.zhimg.com/v2-ce8359d6d474100e9535b847fef2c730_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-ce8359d6d474100e9535b847fef2c730_b.jpg\"/></figure><p><b>4、脉冲量信号</b></p><p>脉冲量就是瞬间电压或电流由某一值跃变到另一值的信号量。在量化后，其变化持续有规律就是数字量，在工业应用中一些流量计就可以输出脉冲信号，如椭圆齿轮量计通常使用其输出的脉冲信号。如果其由0变成某一固定值并保持不变，其就是开关量。</p><p>脉冲量信号如下图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1673dd03a98bc81dde30f8bbaf45413b_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"532\" data-rawheight=\"381\" class=\"origin_image zh-lightbox-thumb\" width=\"532\" data-original=\"https://pic4.zhimg.com/v2-1673dd03a98bc81dde30f8bbaf45413b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;532&#39; height=&#39;381&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"532\" data-rawheight=\"381\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"532\" data-original=\"https://pic4.zhimg.com/v2-1673dd03a98bc81dde30f8bbaf45413b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1673dd03a98bc81dde30f8bbaf45413b_b.jpg\"/></figure><p><b>5、通信</b><br/></p><p>通信就是信息的传递，是指由一地向另一地进行信息的传输与交换，其目的是传输消息，依据通信协议不同有HART、RS-485等。</p><p><b>二、数字量信号和模拟量信号的区别</b><br/></p><p>很多人容易将数字量信号与模拟量信号混淆。</p><p>1、在时间上和数量上都是离散的物理量称为数字量，表示数字量的信号叫数字信号。</p><p>例如：在工厂成品打包工段，打包机每打好一包成品，发出一个信号，输入到计算机进行统计（如，每小时、每班、每天、每月的打包数量）管理，其输入信号就是数字信号。</p><p>2、在时间上或数值上都是连续的物理量称为模拟量，表示模拟量的信号叫模拟信号。</p><p>例如：热电阻在工作时输出的电阻信号就属于模拟信号，因为在任何情况下被测温度都不可能发生突跳,所以测得的电阻信号无论在时间上还是在数量上都是连续的。而且，这个电阻信号在连续变化过程中的任何一个取值都是具体的物理意义，即表示一个相应的温度。</p><p><b>三、选用信号类型的原则</b></p><p>选用仪表信号类型时，除了上面提到的输出信号或输入信号的仪表信号类型必须匹配之外，我们在多年的设计和仪表选型的工作中，总结出很多非常有价值的经验，有助于降低控制系统的复杂性，控制成本，减少发生错误的概率。<b>在这里分享4条经验给大家，希望对你们的工作有所帮助：</b></p><p>1、在控制系统应用中信号类型应尽可能少，可以减少控制系统输入、输出卡件类型，减少备品备件，节省投资。</p><p>比如在某个工程项目中，有一台现场仪表只能输出脉冲量信号，这时就需要选用一块脉冲量输入卡用于接收这台仪表的信号，通常情况一块脉冲量输入卡有8个通道（可接收8台仪表的信号），而现在只用了一个通道，资源利用率很低。像这种情况可以选择一台将输入脉冲量信号转换成4~20mA输出的转换器，来减少DCS系统的输入卡种类，经济上也更合理。</p><p>2、在可能的情况下，仪表信号应选用电流信号（如4~20mA）传输，如果选用电压信号（如1~5VDC）传输，在线路上会有电压降，线路越长压降越大，因此造成信号衰减。</p><p>3、在同一个工程项目中，通信信号的标准应尽可能统一，可以减少系统集成、调试、维护工作量。</p><p>4、非标准的信号（如振动传感器、速度传感器等）应将其转换成标准信号（如4~20mA），使集中控制设备易于接收。</p><p><b>本文属于原创，如需转载请联系原作者。</b><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>作者简介</u>：</b></p><p><b>邱老师，自控学堂创办人，教授级高级工程师、从事自控工程设计30余年，是国家科技进步一等奖获得者，获国务院特殊津贴、行业工程设计大师等荣誉称号，国家科技进步奖评审专家。</b></p><p>毕业于浙江大学化工自动化及仪表专业，在国家甲级设计院从事石油化工及化纤行业自控工程设计30余年，任教授级高级工程师、专业总工程师、设计部主任、技术处长等职，负责专业技术管理、质量管理、技术开发，退休后任某国家一级协会秘书长。</p><p>从事仪表自控工程设计和管理30余年，先后承担了几十个大中型工程项目的设计、施工安装指导、调试开车及新技术开发等工作。所承担的项目获得国家及省部级优秀设计奖9项、省部级科技进步一等奖3项、国家科技进步一等奖1项，获国务院特殊津贴、行业工程设计大师荣誉称号，国家科技奖评审专家。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>关于自控学堂</u>：</b></p><p><b>自控学堂专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/66308977", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "自控仪表工程设计：仪表电缆屏蔽层的作用及其接地方式", 
+            "content": "<p><b>一、仪表电缆屏蔽层的作用</b></p><p>仪表信号电缆通常选用带有屏蔽层的电缆，屏蔽层一般是金属丝编织的网，以防止电磁干扰信号叠加到正常信号上，造成测量、控制误差，甚至影响控制系统、二次仪表的正常运行。</p><p><b>二、电缆屏蔽层接地方式</b></p><p>为防止电磁干扰信号叠加到正常信号上，电缆屏蔽层必须接地，通常接到仪表工作接地上。电缆屏蔽层通常有几种方式：</p><p>1、控制室侧接地，现场端浮空。大多数情况，仪表电缆屏蔽层在现场端浮空，在控制室侧接地，一般接到控制柜、仪表盘的工作接地母排上，如图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-47a54eef5aba58ea1cb17ea0d0bbdecd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1380\" data-rawheight=\"630\" class=\"origin_image zh-lightbox-thumb\" width=\"1380\" data-original=\"https://pic2.zhimg.com/v2-47a54eef5aba58ea1cb17ea0d0bbdecd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1380&#39; height=&#39;630&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1380\" data-rawheight=\"630\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1380\" data-original=\"https://pic2.zhimg.com/v2-47a54eef5aba58ea1cb17ea0d0bbdecd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-47a54eef5aba58ea1cb17ea0d0bbdecd_b.jpg\"/></figure><p>2、控制室侧浮空，现场端接地。仪表电缆屏蔽层也有在现场端接地，在控制室侧浮空，如接地型热电偶、pH计溶液、电磁流量计等，在应用中应按照仪表厂家提供的资料要求进行接地，如图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-c92226ab8a3716afd0279df68b031b85_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"880\" data-rawheight=\"542\" class=\"origin_image zh-lightbox-thumb\" width=\"880\" data-original=\"https://pic2.zhimg.com/v2-c92226ab8a3716afd0279df68b031b85_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;880&#39; height=&#39;542&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"880\" data-rawheight=\"542\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"880\" data-original=\"https://pic2.zhimg.com/v2-c92226ab8a3716afd0279df68b031b85_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-c92226ab8a3716afd0279df68b031b85_b.jpg\"/></figure><p>3、在实际应用中也有一些要求信号回路、信号源、接受仪表的公共端都要接地，在这种情况下，应采用电器隔离器，将两个接地点隔离开，如图：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4242a4d50dbc2440d8a1bf363f7d6d5f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1372\" data-rawheight=\"595\" class=\"origin_image zh-lightbox-thumb\" width=\"1372\" data-original=\"https://pic4.zhimg.com/v2-4242a4d50dbc2440d8a1bf363f7d6d5f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1372&#39; height=&#39;595&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1372\" data-rawheight=\"595\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1372\" data-original=\"https://pic4.zhimg.com/v2-4242a4d50dbc2440d8a1bf363f7d6d5f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-4242a4d50dbc2440d8a1bf363f7d6d5f_b.jpg\"/></figure><p>4、电缆屏蔽层的电气连续性。在实际应用中，通常会采用现场接线箱将每台仪表信号电缆（分电缆）连接到现场接线箱，再用一根多芯屏蔽电缆（总电缆）连接到安装在控制室的控制柜、仪表盘，这种情况下在现场接线箱内应将屏蔽层与总电缆的屏蔽层连接在一起，以保持电缆屏蔽层电气连续性。</p><p><b>三、电缆屏蔽层为什么不能多点接地</b></p><p>由于地电位差的存在，如果两个以上的接地点，在屏蔽层形成的电流回路，感应到信号线上形成干扰，不但起不到屏蔽作用，反而引进干扰。尤其在变频器用的多的场合，干扰中含有各种高次谐波分量，造成影响更大。所以同一信号回路、同一屏蔽层只能有一点接地，不能有两个以上的接地点。</p><p>本文属于原创，如需转载请联系原作者。<br/></p><p class=\"ztext-empty-paragraph\"><br/></p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。让我们一起成为自控高手吧！</b></p><p><b>关注微信公众号还可以免费赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/65772701", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "气动薄膜执行器的执行机构选型应考虑的因素", 
+            "content": "<p>调节阀也称控制阀，是控制回路中一个重要的执行环节，相当于控制回路中的手脚，在控制回路中也被称为执行器。调节阀是由执行机构和阀体组成，执行机构按信号来源的种类分有气动，电动，液动三大类，组成气动调节阀，电动调节阀，液动调节阀。气动调节阀又可分为气动薄膜调节阀和气动活塞调节阀等。如果执行机构为<b>气动薄膜执行机构</b>，即为我们常称为<b>气动薄膜调节阀。</b></p><p>调节器输出信号送至阀门定位器，阀门定位器的输出信号作用气动薄膜执行机构的膜片上，产生相应的推力，使得阀杆产生相应的位移，并压缩弹簧，直至作用在膜片上的信号压力与弹簧的反作用力达到平衡。在这过程中阀杆带动阀芯动作，改变阀门流通截面积，起到调节压力、温度、流量、液位等作用。由于它机构简单，动作可靠，维修方便，价格也不高，因此大量被应用到石油，化工，冶金，电厂等等行业。</p><p>气动薄膜执行机构通常分为正作用和反作用，当阀门定位器的输出信号压力增加时推动阀杆向下动作的是正作用执行机构，反之，当信号压力增加时推动阀杆向上动作的是反作用执行机构。<b>在设计选型时如何选择执行机构的正作用还是反作用，要考虑以下几点：</b></p><p>1、首先根据生产安全的需要确定调节阀气开还是气关； </p><p>2、然后确定阀体的阀芯部件是流开型还是流闭型；</p><p>3、再考虑阀门定位器的正反作用（一般情况下都是正作用），最后确定执行机构的正反作用。</p><p>例如：一个调节阀为气关阀，阀芯为流闭型，阀门定位器为正作用，这种情况执行机构应该是反作用。而一个调节阀为气开阀，阀芯为流闭型，阀门定位器为反作用，这种情况执行机构应该是正作用。</p><p>当调节阀从全开到全关，或全关到全开，气动薄膜执行机构走完全行程需用的信号压力也被称为弹簧范围，也是调节阀动作需要的作用力。调节阀动作的过程中，前后压差的变化，全关时达到最大，要使执行机构克服对阀芯产生的不平衡力，保证关阀时关的严，阀门动作时平稳不振动，更不至于流体将阀门顶开，作用在阀芯上的作用力必须大于阀门全关时前后的压差，所以我们在工程设计选型时，<b>选择气动执行机构主要考虑以下两个因素：</b></p><p>1）一般标准组合的调节阀所规定的允许压差，是否满足工艺操作时阀上压降的要求；</p><p>2）在大压差的情况下，一般要计算阀芯所受的不平衡力和执行机构的输出力，使其满足：F≥（1.5~2）Ft。</p><p>式中：F—执行机构的输出力；Ft—阀芯所受的不平衡力</p><p>F执行机构的输出力与执行机构的弹簧范围、膜片的有效面积、气源压力有关。气源压力依据弹簧范围确定，如弹簧范围80~160kPa,这时气源压力应是250kPa；弹簧范围20~100kPa, 这时气源压力应是140kPa。</p><p>本文属于原创，如需转载请联系原作者。<br/></p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/65390408", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "自控仪表工程设计：测量低压、微压或负压介质时该如何选用压力表？", 
+            "content": "<p>在很多工程中需要测量的对象是微小压力，负压，如测量烟道压力、风道压力、过滤器两端的压差等，我们该如何选择适合压力计？<b>这种情况通常会选择膜盒压力表、真空压力表或U型管压力计、单管压力计和斜管压力计。</b></p><p>膜盒压力表的弹性元件是膜盒，一般的膜盒由两片带波纹的圆形膜片焊接而组成，一片固定，一片自由。当测量介质的压力通过接头作用于膜盒内壁时，自由端膜盒发生的变形传递给拔杆，拔杆带动齿轮机构旋转，再带动指针，显示被测介质压力。膜盒的材质一般是铜合金和316不锈钢，由于它受力面积大，输出推力大，适用于低中压及负压的测量，如测量范围：0~10 kPa ，-20~20 kPa，不可用于高压介质的测量。</p><p>详见下面图例：</p><figure data-size=\"small\"><noscript><img src=\"https://pic2.zhimg.com/v2-cf94989755eac31a6831bdb374d02359_b.jpg\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"788\" data-rawheight=\"706\" class=\"origin_image zh-lightbox-thumb\" width=\"788\" data-original=\"https://pic2.zhimg.com/v2-cf94989755eac31a6831bdb374d02359_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;788&#39; height=&#39;706&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"small\" data-rawwidth=\"788\" data-rawheight=\"706\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"788\" data-original=\"https://pic2.zhimg.com/v2-cf94989755eac31a6831bdb374d02359_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-cf94989755eac31a6831bdb374d02359_b.jpg\"/></figure><p>选用真空压力表和压力真空表时要考虑被测介质的特性，比如材质是铜和铜合金的弹性元件只适用测量不结晶，不凝固，对铜和铜合金无腐蚀作用的液体、气体的低压及真空压力。</p><p>真空压力表和压力真空表之间的差别在于：真空压力表以大气压为基准单位，用来测量小于大气压的仪表，如测量范围：-20~0 kPa；压力真空表是以大气压为基准单位，用来测量大于和小于大气压的仪表，如测量范围:-20~20 kPa。他们的测量原理都是介质压力使得弹性元件变形，经连杆齿轮机构放大，带动指针。<br/></p><p>当测量低微压或负压时，如烟道、风道压力，有时还会用到液柱式压力计，它们有U型管式、单管式和斜管式压力计。液柱式压力计利用静压平衡的原理，结构简单可靠，价格低廉，灵敏度高，精度高。缺点是携带不便，没有超量程保护，被测介质与工作液需要搭配。当液柱式压力计的工作液确定后，被测量压力P与液柱H成线性关系，液柱H常常被用来表示压力值，习惯上常说多少mmHg（毫米汞柱）或多少mmH2O（毫米水柱）。</p><p>详见下面图例：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-324eef831c11a22be8cf682cddb51e36_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"932\" data-rawheight=\"1003\" class=\"origin_image zh-lightbox-thumb\" width=\"932\" data-original=\"https://pic3.zhimg.com/v2-324eef831c11a22be8cf682cddb51e36_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;932&#39; height=&#39;1003&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"932\" data-rawheight=\"1003\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"932\" data-original=\"https://pic3.zhimg.com/v2-324eef831c11a22be8cf682cddb51e36_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-324eef831c11a22be8cf682cddb51e36_b.jpg\"/></figure><p>本文属于原创，如需转载请联系原作者。<br/></p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注【自控学堂】微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注还可以赠送3本经典电子书哦。</b></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气工程及其自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19675907"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/65113320", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 1, 
+            "title": "自控工程设计：膜片压力表与隔膜压力表的原理和选型", 
+            "content": "<p>弹簧管压力表内的弹簧管不可能适用所有的工况，如测量稀盐酸、重油、碱液等强腐蚀性介质、含有颗粒的介质、易结晶、易结痂的粘稠性介质等，若使用弹簧管压力表，弹簧管可能很快被腐蚀，被堵塞。</p><p><b>遇上这样的工况，设计人员首先会考虑选用膜片压力表或隔膜压力表。</b></p><p>膜片压力表和隔膜压力表都是利用膜片将强腐蚀，高粘度等被测介质分隔开，不受介质的影响。膜片压力表将被测介质压力的变化通过膜片的变形，传导给连杆机构，连杆机构带动齿轮机构旋转，带动指针显示被测压力。</p><p>膜片压力表的隔离膜片既是弹性元件又起到隔离外部介质的作用；隔膜压力表其实是膜片压力表的一种，他们的区别在于: 隔膜压力表是由一个普通的弹簧管压力表和一个隔离膜片及中间的工作液组成，被测介质的压力作用到隔离膜片上，引起膜片变形，膜片变形又通过内部的工作液传递给弹簧管，弹簧管变形传导到连杆，带动齿轮机构旋转，经放大带动指针显示被测压力。</p><p>详见下面图例：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-40bae415a01a758d75b55380e8ea05b8_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1488\" data-rawheight=\"708\" class=\"origin_image zh-lightbox-thumb\" width=\"1488\" data-original=\"https://pic1.zhimg.com/v2-40bae415a01a758d75b55380e8ea05b8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1488&#39; height=&#39;708&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1488\" data-rawheight=\"708\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1488\" data-original=\"https://pic1.zhimg.com/v2-40bae415a01a758d75b55380e8ea05b8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-40bae415a01a758d75b55380e8ea05b8_b.jpg\"/></figure><p><b>膜片压力表和隔膜压力表适合测量腐蚀性介质，含有颗粒的和粘度大的等介质，但对易结晶、易结痂的高粘稠介质应选用法兰连接的隔膜压力表。</b><br/></p><p>由于隔膜压力表内灌注着工作液，它可以通过硬连接或软连接的方法，将压力表与测量膜片分开安装，除了测量腐蚀性介质，含有颗粒的和粘度大的等介质外还可应用于测量高温介质。</p><p>膜片的材料应根据被测介质的腐蚀性特点选择适合的耐腐蚀性材料。常用的有316L、316不锈钢，适合用于测量硫化物和氧化物；哈氏合金C适合用于稀盐酸、稀硫酸；蒙乃尔合金适用与氧化物气体、还原性酸类；钽适合用于氧化物气体、还原酸、无机酸、无机盐等。</p><p>为了保证仪表的测量精度及使用寿命，膜片压力表和隔膜压力表的使用范围一般也应在它量程的1/3～2/3处。</p><p>本文属于原创，转载请联系作者。</p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气工程及其自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19675907"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "王明明", 
+                    "userLink": "https://www.zhihu.com/people/40c2bea849ac133a99fb4826170e8647", 
+                    "content": "已关注，请问怎么领取电子书呢？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "自控学堂邱老师", 
+                            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+                            "content": "<p>关注微信公众号“自控学堂”，加助理微信“happylife101010\"领取</p>", 
+                            "likes": 0, 
+                            "replyToAuthor": "王明明"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64981690", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "安装弹簧管压力表时，怎样选择取压点?", 
+            "content": "<p>我们在做设计时要和工艺专业确定压力表取压口的方位，安装弹簧管压力表的取压口应主要考虑以下四点：</p><p>（1）取压点要选在被测介质直线流动的管段部分，不要选在管路拐弯、分叉、死角或其它易形成漩涡的地方；</p><p>（2）测量流动介质的压力时，应使取压点与流体流动的方向垂直；</p><p>（3）测量液体压力时，取压点应在管道下部，使导压管内不积存气体；测量气体时，取压点应在管道上方，使导管内不积存液体；</p><p>（4）安装在容器上的弹簧管压力表接口，一般在容器的侧壁或顶部用法兰连接，法兰标准应与设备上其他法兰标准相同。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-1be24ea743fd74d6894120296794713f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1016\" data-rawheight=\"249\" class=\"origin_image zh-lightbox-thumb\" width=\"1016\" data-original=\"https://pic4.zhimg.com/v2-1be24ea743fd74d6894120296794713f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1016&#39; height=&#39;249&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1016\" data-rawheight=\"249\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1016\" data-original=\"https://pic4.zhimg.com/v2-1be24ea743fd74d6894120296794713f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-1be24ea743fd74d6894120296794713f_b.jpg\"/></figure><p>A取压口：测量气体（或纯净的液体）；</p><p>B取压口：测量液体（液体中可能会夹带有气体或气泡的介质）；</p><p>C取压口：测量液体，主要用于长安装形式的弹簧管压力表。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "仪表", 
+                    "tagLink": "https://api.zhihu.com/topics/19595365"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64845298", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "弹簧管压力表的几种常见的安装方法", 
+            "content": "<p><b>在自控工程设计时，弹簧管压力表面对不同的介质，气体，液体，蒸汽及高温热媒等，应该如何安装？</b></p><p>由于弹簧管压力表的弹簧管材质及焊接材料的特性，决定了高于60℃的热介质进入弹簧管内，除了改变性能影响测量精度外，焊接点易造成破漏损坏。自控工程设计时，面对不同的介质，气体，液体，蒸汽及高温热媒（温度在300℃以上的介质）等，根据不同的介质特性及不同的温度、压力，以及安装位置的局限等，有多种安装方法，这里介绍几种常用的安装方案供参考:</p><ul><li>低于60℃的介质，压力≤PN2.5MPa，包括气体、液体；</li><li>高于60℃的介质,压力≤PN6.4MPa的气体、液体与蒸汽；</li><li>高温介质，压力≤PN2.5MPa的高温热媒。</li></ul><p><b>测量介质温度低于60℃，压力≤PN2.5MPa</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-dbc4d077188d596d9aca9e182597c150_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1766\" data-rawheight=\"754\" class=\"origin_image zh-lightbox-thumb\" width=\"1766\" data-original=\"https://pic1.zhimg.com/v2-dbc4d077188d596d9aca9e182597c150_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1766&#39; height=&#39;754&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1766\" data-rawheight=\"754\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1766\" data-original=\"https://pic1.zhimg.com/v2-dbc4d077188d596d9aca9e182597c150_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-dbc4d077188d596d9aca9e182597c150_b.jpg\"/></figure><p><b>测量介质温度高于60℃，压力≤PN6.4MPa</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e0c8d9d20c8fd7ca5a44d4133795de44_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1766\" data-rawheight=\"708\" class=\"origin_image zh-lightbox-thumb\" width=\"1766\" data-original=\"https://pic1.zhimg.com/v2-e0c8d9d20c8fd7ca5a44d4133795de44_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1766&#39; height=&#39;708&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1766\" data-rawheight=\"708\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1766\" data-original=\"https://pic1.zhimg.com/v2-e0c8d9d20c8fd7ca5a44d4133795de44_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e0c8d9d20c8fd7ca5a44d4133795de44_b.jpg\"/></figure><p><b>测量介质：高温热媒，压力≤PN2.5MPa</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-80133be868850530579630277878cbbd_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1766\" data-rawheight=\"708\" class=\"origin_image zh-lightbox-thumb\" width=\"1766\" data-original=\"https://pic2.zhimg.com/v2-80133be868850530579630277878cbbd_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1766&#39; height=&#39;708&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1766\" data-rawheight=\"708\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1766\" data-original=\"https://pic2.zhimg.com/v2-80133be868850530579630277878cbbd_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-80133be868850530579630277878cbbd_b.jpg\"/></figure><p>取压口在高处或在低处，操作人员不易观察的地方，需用导压管将压力表引到低处或高处，通常称之为长安装。压力表典型长安装如下图：</p><p><b>测量介质：气体，压力≤PN6.4MPa，低于取压点长安装</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8a34e1bb8bfa357521045fb9e03fb986_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1770\" data-rawheight=\"768\" class=\"origin_image zh-lightbox-thumb\" width=\"1770\" data-original=\"https://pic3.zhimg.com/v2-8a34e1bb8bfa357521045fb9e03fb986_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1770&#39; height=&#39;768&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1770\" data-rawheight=\"768\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1770\" data-original=\"https://pic3.zhimg.com/v2-8a34e1bb8bfa357521045fb9e03fb986_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8a34e1bb8bfa357521045fb9e03fb986_b.jpg\"/></figure><p><b>测量介质：液体，压力≤PN6.4MPa，低于取压点长安装</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-407b44b7a357ac1355407f2ec01f724c_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1766\" data-rawheight=\"754\" class=\"origin_image zh-lightbox-thumb\" width=\"1766\" data-original=\"https://pic1.zhimg.com/v2-407b44b7a357ac1355407f2ec01f724c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1766&#39; height=&#39;754&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1766\" data-rawheight=\"754\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1766\" data-original=\"https://pic1.zhimg.com/v2-407b44b7a357ac1355407f2ec01f724c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-407b44b7a357ac1355407f2ec01f724c_b.jpg\"/></figure><p>其它安装方法可参考行业标准HG/T 21581“自控安装图册”。</p><p>本文属于原创，转载需联系作者。</p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "仪表", 
+                    "tagLink": "https://api.zhihu.com/topics/19595365"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64395847", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 1, 
+            "title": "测量蒸汽压力时，弹簧管压力表的安装有什么要求?", 
+            "content": "<p><b>测量蒸汽压力时，弹簧管压力表的安装有什么要求?</b></p><p>这要从弹簧管压力表里的弹簧管材质说起，一般的弹簧管是铜合金制作，为了保证弹簧管的弹性系数，铜合金的焊接材料一般是铜锡合金，测量介质温度若高于60℃，除了弹性元件受介质温度的影响而改变性能，焊接点极易造成破漏损坏。</p><p>因此测量蒸汽压力时，为了压力表性能不受影响，<b>压力表下端应装有冷凝弯或冷凝圈，</b>由蒸汽冷凝液传递压力，既避免高温的蒸汽直接进入仪表内，也起到对压力表的缓冲作用和对仪表维护人员的防护作用。</p><p><b><u>压力表在垂直管道上安装</u></b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-2af85282d763adc40f004a20e29cdbad_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"516\" data-rawheight=\"344\" class=\"origin_image zh-lightbox-thumb\" width=\"516\" data-original=\"https://pic2.zhimg.com/v2-2af85282d763adc40f004a20e29cdbad_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;516&#39; height=&#39;344&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"516\" data-rawheight=\"344\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"516\" data-original=\"https://pic2.zhimg.com/v2-2af85282d763adc40f004a20e29cdbad_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-2af85282d763adc40f004a20e29cdbad_b.jpg\"/></figure><p><b><u>压力表在水平管道上安装</u></b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-96e3f7c8bb827e3be9de1c9cea4a31c9_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"360\" data-rawheight=\"355\" class=\"content_image\" width=\"360\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;360&#39; height=&#39;355&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"360\" data-rawheight=\"355\" class=\"content_image lazy\" width=\"360\" data-actualsrc=\"https://pic2.zhimg.com/v2-96e3f7c8bb827e3be9de1c9cea4a31c9_b.jpg\"/></figure><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动化专业", 
+                    "tagLink": "https://api.zhihu.com/topics/19776082"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64141330", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 5, 
+            "title": "自控工程设计超级干货：如何选择DCS系统与PLC系统？", 
+            "content": "<p>在实际的自控设计工作中经常会遇到是选择DCS系统还是PLC系统，使设计人员或用户感到很困惑，以下是我们就这个问题的一点意见和建议，供大家参考。</p><p>首先DCS系统、PLC系统都是控制系统，都能完成对生产过程的检测、控制和管理，但两者也有一些区别，主要有：</p><p><b>1、发展历程方面</b></p><p>在DCS系统产生之前，工业上是采用计算机控制系统，一台计算机控制几十个、上百个控制回路，控制高度集中危险性极高，随着电子技术发展，微处理器的出现，为解决控制集中危险性高的问题，产生以微处理器为基础，集控制技术、计算机技术、通信技术为一体的分散控制、集中监视控制系统（即DCS系统），所以DCS系统也称集中分散型控制系统、分散型综合控制系统等。DCS的总体设计理念是偏向于仪表的，因此，最早生产的DCS系统有的甚至没有逻辑控制功能，随着技术的发展功能也逐步完善。</p><p>PLC是代替继电器实现逻辑控制的装置，最早生产的PLC只有逻辑控制功能，随着技术的发展其功能也不断完善，以PLC为基础构成的控制系统其功能与DCS系统基本类似，在连续生产的过程控制中也广泛应用，如西门子公司生产的PCS7系统也是DCS系统。</p><p><b>2、平台与功能方面</b></p><p>在平台与功能方面，DCS与PLC的主要区别有：一是数据来源不同，DCS系统是全局数据库，控制级和监控级数据来源于同一个数据库；而PLC系统控制级和监控级数据来源于不同的数据库，因此控制软件与监控软件可以是不同的供应商，市场化程度高。二是控制功能偏向不同，DCS模拟信号处理能力强，PLC逻辑信号处理能力强，处理速度快。三是在线修改程序不同，DCS可按控制回路在线修改组态、下装，只影响本控制回路。而PLC在线修改程序下装影响整个PLC站，影响面广。当然，不管哪个系统一般情况下在线修改时都有保护措施，不会影响生产过程正常运行。</p><p><b>3、建设投资方面</b></p><p>通常情况下，DCS系统的投资比PLC系统要稍高些，主要原因是PLC产量大、市场化程度高，所以成本相对低些。</p><p>DCS系统与PLC系统的区别还有许多，大家可查阅其它一些资料，在此就不再赘述了。</p><p>从DCS系统与PLC系统的主要区别可以看出，DCS系统比较适合于以连续生产过程为主的场合，如石油化工、造纸、化纤、制药等工业领域。PLC系统比较适合于以间断（批量）生产过程的场合，如汽车制造、钢铁、包装等生产流水线的控制。</p><p>在选用系统时特别提醒一点，PLC系统具有处理速度快的优点（可达到毫秒级），不管哪种场合，如果要求处理速度快就应该选用PLC系统，DCS系统要达到同样的处理速度需要占用控制站大量资源，非常不经济。</p><p>本文属于原创，转载需联系我们。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "自动化专业", 
+                    "tagLink": "https://api.zhihu.com/topics/19776082"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/64012801", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "谈谈仪表的灵敏度和灵敏限", 
+            "content": "<p>仪表灵敏度是仪表技术性能指标的一个重要参数，是仪表的显示或输出的变化值与被测参数变化值之比。在相同的输入变化值下，输出变化值大的仪表灵敏度高，输出变化值小的仪表灵敏度低，我们也称之为仪表对被测参数变化的灵敏程度。</p><p>由于检测元件材质性能及电子元器件性能的原因，以及环境等因素，在实际应用中有的仪表不可能在整个量程范围内灵敏度都是线性的，即使同一类型仪表，不同型号有不同的灵敏度。在设计选型时不能一味的追求高灵敏度的仪表，灵敏度高的仪表价格就高，所以我们在选用仪表时要综合考虑，在保证能满足生产要求的前提下，考虑有足够灵敏度的仪表。<br/></p><p>灵敏限是指仪表在刻度起点处，输入量的变化而引起输出变化的微小值，这个微小值的变化不至于引起有可被察觉任何的变化，这个区域被称为灵敏限，我们常称为仪表的死区，灵敏限数值越大，仪表越不灵敏。</p><p>本文属于原创，转载需联系我们。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "自动化专业", 
+                    "tagLink": "https://api.zhihu.com/topics/19776082"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63628345", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "设计仪表选型时，如何选择仪表外壳防护等级？", 
+            "content": "<p>工业仪表的安装使用场合不同，其环境条件也不一样，为了能适应各种不同的使用场合，工业仪表就必须具备一定的环境防护能力，这种防护能力是通过仪表的外壳设计来实现的，同一种仪表封装在不同的外壳中，就具有了不同的防护能力。</p><p>工业仪表的防护能力是用“仪表外壳防护等级”来表示的，那防护等级是如何定义的？在实际应用中又如何选择仪表外壳防护等级？</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-004a91b1a0024ac9108a66529b2bc50d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-004a91b1a0024ac9108a66529b2bc50d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;383&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-004a91b1a0024ac9108a66529b2bc50d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-004a91b1a0024ac9108a66529b2bc50d_b.jpg\"/></figure><p><b>1、</b> <b>仪表外壳防护等级</b></p><p>世界上关于工业仪表的防护标准主要有两个：一个是IEC（国际电工技术委员会）的标准IEC60529，主要用于欧洲地区；另一个是NEMA（美国电气制造商协会）的标准NEMA  ICSI-110，主要用于美国及北美地区。</p><p>在IEC标准中，仪表的防护等级是指不同级别的防尘、防水能力。而在NEMA标准中，除了防尘、防水之外，还包括了防爆。我国国家标准GB4208“外壳防护等级”等同采用IEC标准。</p><p>在IEC标准和国标GB4208中，使用IP代码来表示外壳的防护等级， IP代码由特征字母IP（International Protection 国际防护）、第一位特征数字（表示防尘）、第二位特征数字（表示防水，不要求规定特征数字时，该处由字母X代替）、附加字母（可选择）、补充字母（可选择）组成。</p><p><b>第一位特征数字：</b></p><ul><li>0----无防护；</li><li>1----防止直径不小于50mm的固体异物；</li><li>2----防止直径不小于12.5mm的固体异物；</li><li>3----防止直径不小于2.5mm的固体异物；</li><li>4----防止直径不小于1.0mm的固体异物；</li><li>5----不能完全防止尘埃进入，但进入的灰尘量不得影响设备的正常运行，不得影响安全；</li><li>6----无灰尘进入。</li></ul><p><b>第二位特征数字：</b></p><ul><li>0----无防护；</li><li>1----垂直方向滴水应无有害影响；</li><li>2----当外壳的各垂直面在15o范围内倾斜时，垂直方向滴水应无有害影响；</li><li>3----各垂直面在60o范围内淋水无有害影响（防淋水）；</li><li>4----向外壳各方向溅水无有害影响（防溅水）；</li><li>5----向外壳各方向喷水无有害影响（防喷水）；</li><li>6----向外壳各方向强力喷水无有害影响（防强力喷水）；</li><li>7----浸入规定压力的水中经规定时间后外壳进水量不致达有害程度（防短时间进水影响）；</li><li>8----按生产厂和用户双方同意的条件（应比数字7更严酷）持续潜水后外壳进水量不致达有害程度（防持续潜水影响）。</li></ul><p><b>附加字母、补充字母，在仪表上不常用，需参见相关标准。</b></p><p><b>2、如何选择仪表外壳防护等级</b></p><p>选择仪表外壳防护等级不仅要考虑仪表是安装在室内或室外（露天），同时也要考虑工艺装置正常生产或事故时环境条件对仪表的影响。以下几点供大家参考：</p><p>（1）无电子元器件的仪表，如压力表、双金属温度计等，防护等级一般可选用IP54。</p><p>（2）有电子元器件的仪表，如变送器、电气阀门定位器等，防护等级一般不低于IP55。</p><p>（3）在室外仪表井里安装的电动仪表防护等级应选用IP68。</p><p>大多数仪表制造商为了减少品种规格，电动仪表的防护等级通常都是IP65，也有IP66、IP67，IP68的。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>本文属于原创，转载需联系我们。</p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气工程及其自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19675907"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63496817", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "为什么弹簧管压力表的使用范围最好在仪表的1/3～2/3量程范围内？", 
+            "content": "<p><b>我们在设计仪表选型时，压力表的使用范围一般在它量程的1/3～2/3处。你知道这是为什么吗？</b><br/></p><p><b><u>弹簧压力表的结构</u>：</b></p><p>弹簧管压力表的测量元件是一弯成圆弧形的弹性元件，截面积为扁圆形或椭圆形的空心弹簧管。</p><p>弹簧管一端固定，并通过接头与被测介质相连；另一端封闭，为自由端。自由端与连杆与扇形齿轮相连，扇形齿轮又和机心齿轮咬合组成传动放大装置。当测量介质压力变化时，弹簧管压力表通过空心弹簧管弹性形变，再由表内机芯的转换机构将压力引起的机械变形传导至连杆机构，经齿轮机构带动指针转动来显示压力。</p><p>压力表结构示意图如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-cdfca12910537e7928fc45f1b85f7f88_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1774\" data-rawheight=\"776\" class=\"origin_image zh-lightbox-thumb\" width=\"1774\" data-original=\"https://pic1.zhimg.com/v2-cdfca12910537e7928fc45f1b85f7f88_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1774&#39; height=&#39;776&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1774\" data-rawheight=\"776\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1774\" data-original=\"https://pic1.zhimg.com/v2-cdfca12910537e7928fc45f1b85f7f88_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-cdfca12910537e7928fc45f1b85f7f88_b.jpg\"/></figure><p>弹簧管压力表弹性元件的特性决定了弹簧管压力表的最佳使用范围，当测量压力大于量程的1/3时，它的线性度，重复性最好，相对误差最小，精确度高；若长时间使用在超过量程的2/3，弹性元件会产生弹性效果降低，引起仪表零漂和量程改变，加速元件老化，减少使用寿命。</p><p><b>综合上述原因，我们在设计选型时，压力表的使用范围一般在它量程的1/3～2/3处。</b><br/></p><p>本文属于原创，转载请说明出处。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>二位码关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气工程及其自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19675907"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63344186", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "自控设计仪表选型时，如何选用仪表法兰？", 
+            "content": "<p>在自控工程设计中，检测仪表，执行装置总是安装在工艺管道上，串接在工艺管道中，安装在设备上，如控制阀、流量计、液位计等大部分都采用法兰连接的形式。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-522f81d3070dc9ea72bd1366ee063307_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-522f81d3070dc9ea72bd1366ee063307_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;383&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic4.zhimg.com/v2-522f81d3070dc9ea72bd1366ee063307_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-522f81d3070dc9ea72bd1366ee063307_b.jpg\"/></figure><p><b>1、如何选择仪表法兰密封面形式</b></p><p>法兰密封面形式主要取决于被测介质的性质和压力,设计中选用仪表法兰应符合国家、行业标准，如GB（国家）、HG（化工）、JB（机械）等。</p><p><b>一般情况下：</b></p><ul><li>介质压力不大于1.6MPa时，可选用平面法兰；</li><li>介质压力不大于2.5MPa时，可选突面法兰；</li><li>对于高温、高压、易燃、易爆、有毒的介质，介质压力不大于6.4MPa时，应选用凹凸面法兰；</li><li>对于榫槽面法兰，虽然其密封性能优良，但因制造和拆卸检修麻烦，所以除剧毒介质或介质压力不大于42MPa以外，一般不采用。</li></ul><p><u><b>常用仪表法兰面图</b></u></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-33f50c65a0c94ef970e0aab1f6829ae4_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1064\" data-rawheight=\"680\" class=\"origin_image zh-lightbox-thumb\" width=\"1064\" data-original=\"https://pic1.zhimg.com/v2-33f50c65a0c94ef970e0aab1f6829ae4_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1064&#39; height=&#39;680&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1064\" data-rawheight=\"680\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1064\" data-original=\"https://pic1.zhimg.com/v2-33f50c65a0c94ef970e0aab1f6829ae4_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-33f50c65a0c94ef970e0aab1f6829ae4_b.jpg\"/></figure><p><b>2、如何选择仪表法兰的压力等级</b></p><p>选择原则是：仪表法兰压力等级应等于或高于与其连接的管道或设备的压力等级。<br/></p><p><b>3、如何选择仪表法兰的标准</b></p><p>选择的仪表法兰的标准应尽可能和与其连接的管道或设备的法兰标准相一致。</p><p>本文属于原创，转载请说明出处。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>关注“自控学堂”微信公众号获取更多知识信息。让我们一起成为自控高手吧！</b></p><p><b>现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气工程及其自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19675907"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63168657", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 6, 
+            "title": "如何理解PID参数整定？", 
+            "content": "<p>PID是调节器的三种基本调节规律，即比例控制（P）、积分控制（I）和微分控制（D）。PID参数是指比例度（δ）、积分时间（Ti）、微分时间（Td），分别代表比例控制、积分控制和微分控制作用的强弱，PID参数整定就是调整δ、Ti、Td三个参数，使控制回路达到最佳的控制效果（如过渡过程达到4:1衰减）。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b>PID参数整定可以简单的概括为：</b></p><p><b>比例调节其实就像个放大器，</b>它将测量值与给定值的偏差放大输出，至于放大多少倍，取决于比例度设置是多少，比例度越大，放大倍数越低。</p><p><b>积分调节也称为重定调节器，</b>只要偏差存在，累积作用不停止，直到消除偏差为止，至于消除偏差的速度快慢，取决于积分时间长短，积分时间长，消除偏差的速度慢。</p><p><b>微分调节的输出变化量与输入偏差变化的速度成正比，</b>测量值与给定值的偏差变化速度快，微分作用强，微分时间长微分作用也强。</p><p>在生产过程控制中，一般不单独使用积分或微分作用，而是与比例作用同时使用。比例控制的优点是反应快、控制及时，但是有余差，如果要消除余差，就得再加上积分控制作用。微分控制规律的特点是具有一定的超前控制作用，能抑制系统振荡，增加稳定性，一般用于过程反应慢、时间长的场合，如温度控制回路、大型储罐的液位控制等，若加上微分作用则构成比例积分微分三个叠加的控制作用，即PID控制。</p><p><b>总结：</b></p><ul><li>比例度（δ）：比例度越大比例作用越弱，比例度越小比例作用越强。</li><li>积分时间（Ti）：积分时间越长积分作用越弱，积分时间越短积分作用越强。</li><li>微分时间（Td）：微分时间越长微分作用越强，微分时间越短微分作用越弱。</li></ul><p>本文属于原创，转载请说明出处。</p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气工程及其自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19675907"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/63097532", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 1, 
+            "title": "PID是控制系统吗？控制系统由什么组成？控制系统与控制器的区别是什么？", 
+            "content": "<p><b>“PID是控制系统吗？控制系统由什么组成？控制系统与控制器的区别是什么？”</b></p><p><b>对这些问题，我们的回复如下：</b></p><p><u><b>问题一：PID是控制系统吗？</b></u></p><p>首先对“控制系统”一词做一下说明，通常情况下控制系统是指以微处理器为基础的控制装置（设备），但有时也指控制回路，指控制回路时一般在前面冠以被控参数，如温度控制系统、液位控制系统等。</p><p>PID是控制算法，分别是比例、积分和微分运算，是闭环控制回路中非常重要的一个环节，所以PID不是控制系统。</p><p><u><b>问题二：控制系统由什么组成？</b></u></p><p>通常情况下控制系统是指以微处理器为基础的控制装置，包括分散型控制系统、可编程控制系统、现场总线控制系统、计算机控制系统等。控制系统一般由三部分组成，即数据采集控制（一般称控制站）、数据监控（一般称操作站）和通信网络系统（完成控制站与操作站之间的数据通信）。</p><p>控制系统能实现数据采集、连续控制、间隙控制、顺序控制、逻辑运算、先进过程控制等控制功能，以及集中显示、操作和管理。控制系统规模可大可小（一套控制系统可控制几百上千个控制回路，也可控制十个、几十个控制回路），具有自诊断、多重冗余等安全措施，系统可靠性非常高。</p><p>控制系统指控制回路时，一般由检测单元（变送器）、控制单元（调节器）、执行机构（调节阀）、过程（对象）组成，简单控制回路方块图如下：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-577b8a9603620a0ed7d74e072c33af26_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1448\" data-rawheight=\"499\" class=\"origin_image zh-lightbox-thumb\" width=\"1448\" data-original=\"https://pic3.zhimg.com/v2-577b8a9603620a0ed7d74e072c33af26_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1448&#39; height=&#39;499&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1448\" data-rawheight=\"499\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1448\" data-original=\"https://pic3.zhimg.com/v2-577b8a9603620a0ed7d74e072c33af26_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-577b8a9603620a0ed7d74e072c33af26_b.jpg\"/></figure><p><u><b>问题三：控制系统与控制器的区别是什么？</b></u></p><p>控制器通常是指一台控制仪表，如电动III型调节器、可编程单回路调节器、YS-150多功能控制器等。一般情况下用来实现单回路控制，也可实现串级控制、比值控制等较复杂回路的控制。</p><p>所以控制系统与控制器是两种不同的控制设备，它们的构成、功能、用途差别很大。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气工程及其自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19675907"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62886596", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 3, 
+            "title": "新人如何自学DCS系统？", 
+            "content": "<p>最近有人问我们：新人应该如何自学DCS系统？这个问题我自认是比较有发言权的，因为我在上世纪70年代参与引进了国外某公司<b>首套</b>DCS系统在工程中的应用，并完成了某个车间的工程应用软件组态。此外，我也是国内第一本介绍DCS系统的书《分散型综合控制系统》的编译者之一，负责并指导了近百套DCS系统选型、软件组态、调试和成功运行，熟悉多个厂商生产的DCS系统。</p><p><b><u>关于DCS系统</u>：</b></p><p>DCS系统是以微处理器为基础，集控制技术、显示技术、计算机技术、通信技术等一体的控制装置（设备），一般由三部分组成，即数据采集控制（一般称控制站）、数据监控（一般称操作站）和通信网络系统（完成控制站与操作站之间的数据通信）。</p><p>DCS系统基本架构图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-69af3f553f701fd5b8aeb78c84836d24_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"860\" data-rawheight=\"705\" class=\"origin_image zh-lightbox-thumb\" width=\"860\" data-original=\"https://pic1.zhimg.com/v2-69af3f553f701fd5b8aeb78c84836d24_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;860&#39; height=&#39;705&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"860\" data-rawheight=\"705\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"860\" data-original=\"https://pic1.zhimg.com/v2-69af3f553f701fd5b8aeb78c84836d24_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-69af3f553f701fd5b8aeb78c84836d24_b.jpg\"/></figure><p>DCS系统能实现数据采集、连续控制、间隙控制、顺序控制、逻辑运算、先进过程控制等控制功能，以及集中显示、操作和管理。</p><p>DCS系统规模可大可小（一套DCS系统可控制几百上千个控制回路，也可控制十个、几十个控制回路），具有自诊断、多重冗余等安全措施，系统可靠性非常高。目前工业领域已广泛采用DCS系统实现生产过程控制、操作和管理。</p><p>国外生产DCS系统的厂家主要有：Honeywell、Yokogawa、Foxboro、Siemens、 ABB、Fisher-Rosemount、Westinghouse等。</p><p>国内生产DCS系统的厂家主要有：浙江中控、北京和利时、上海新华等。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><b><u>如何自学DCS系统</u>：</b></p><p>各厂家生产的DCS系统的架构基本类似，都是由三部分组成，但采用技术不尽相同，要学习DCS系统建议选择某一家生产的DCS系统入手，深入学习研究，之后再学习其它厂家生产的DCS系统就触类旁通了。</p><p>学习DCS系统，第一重点是根据工程应用需求会配置DCS系统，如：选何种类型I/O卡、配几个控制站和操作站等；第二重点是应用软件组态编程。</p><p>学习掌握DCS系统建议抓住以下几点：</p><p>1、首先了解DCS系统总体架构，有个总体概念，再分部分去学习。</p><p>2、控制站部分作为重点，了解掌握以下几方面：</p><ul><li>各种I/O卡类型；</li><li>一个控制站可控制的规模大小；</li><li>各软件模块的功能。</li></ul><p>３、操作站部分重点了解掌握显示画面种类、功能等。</p><p>４、通信系统重点了解网络拓扑结构、通信协议、网络可连接设备种类和数量等。</p><p>５、学习组态编程对应用好DCS系统也是非常重要的，除了掌握组态编程操作外，更重要的是了解掌握功能，灵活运用。</p><p>组态编程软件通常是订购了DCS系统之后，厂家才提供组态编程软件和培训，但也有厂家在未订购DCS系统情况下，可提供在个人电脑上能运行的试用版的组态编程软件，供学习用。</p><p><b><u>温馨提示</u>：</b>配置一套DCS系统时，要考虑其规模、容量的上限值，通常情况下控制单元负荷宜在50~75%；通信总线的负荷不应超过60%；I/O卡备用点数为实际应用点数的10~15%，输入输出卡件槽座（位）的备用空间为10~15%。</p><p>本文属于原创，转载请说明出处。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气工程及其自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19675907"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62768465", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 3, 
+            "title": "深度揭秘复杂控制系统（下）", 
+            "content": "<p><b>本文篇幅较长，考虑到阅读的舒适度，故分为上中下3篇。</b></p><p>复杂控制系统包含：串级控制系统、均匀控制系统、比值控制系统、分程控制系统、自动选择性控制系统、前馈控制系统和三冲量控制系统等。</p><p>我们在上篇和中篇分别介绍了串级控制系统、均匀控制系统、比值控制系统、分程控制系统和自动选择性控制系统。<b>本篇介绍前馈控制系统和三冲量控制系统。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;383&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_b.jpg\"/></figure><p><b>6）前馈控制系统：</b>前馈控制系统与反馈控制系统的不同点是：当扰动出现时，反馈控制系统是按照测量值与给定值的偏差进行调节的；而前馈控制系统是按照扰动作用的大小进行调节的。</p><p>反馈控制系统必须是被测参数出现偏差后，调节器才对调节参数进行调节，克服干扰对被调参数的影响。但在一些工艺流程中，往往具有滞后性，当扰动已经发生，而被调参数需要一定的时间发生变化，这段时间调节器就不会进行调节，它落后于扰动作用。</p><p>我们采用了前馈控制系统时，当扰动发生后，被调参数还没发生变化前，变送器已经检测到扰动的大小，调节器就进行了调节，这种及时的、恰到好处的调节，使得被测参数不会因为干扰作用产生偏差。</p><p>在实际的工艺对象控制应用中，很少用单纯的前馈控制系统来调节被调参数，一般根据具体的调节对象采用反馈调节加前馈调节，或比值调节加前馈调节等方案，下面的三冲量控制系统就是前馈调节加串级调节回路的例子。</p><p><b>7）三冲量控制系统：</b>三冲量控制系统最典型的运用是锅炉的给水系统，锅炉汽包的液位会随着蒸汽负荷增减等因素而变化。当蒸汽负荷突然大幅度增加时，由于汽包内蒸汽压力瞬间下降，水的沸腾加剧，汽泡量迅速增加，汽泡不仅出现于水的表面，而且出现于水面以下，由于汽泡的体积比水的体积大许多倍，结果形成汽包内液位升高的现象。因为这种升高的液位不代表汽包内储液量的真实情况，所以称为“假液位”。</p><p>如果不引入三冲量控制系统，液位控制器就会发送错误信息，关小进水阀，实际液位进一步降低，汽包中的水更加剧沸腾，汽泡量更进一步急速增加，锅炉就会有发生爆炸的危险。</p><p>三冲量控制系统就是针对锅炉汽包的液位控制所制定的方案，它引进了给水流量参数和蒸汽的输出流量参数，汽包液位被控变量，通过运算器，作为给水流量副环控制器的给定值，最终达到汽包液位、给水流量、蒸汽流量平衡。蒸汽流量作为前馈信号，给水流量副环控制回路，其实这是一个前馈+串级控制回路。</p><p>上面讲的只是三冲量控制系统的一个例子，在实际运用中，根据不同的工艺要求，有不同的三冲量控制方案，也有单冲量控制，双冲量控制，应根据需要制定恰当的控制方案。</p><p>                                             锅炉液位的三冲量控制示意图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-ea36af64daa848be099c4f8fdb776f8f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"261\" data-rawheight=\"184\" class=\"content_image\" width=\"261\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;261&#39; height=&#39;184&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"261\" data-rawheight=\"184\" class=\"content_image lazy\" width=\"261\" data-actualsrc=\"https://pic4.zhimg.com/v2-ea36af64daa848be099c4f8fdb776f8f_b.jpg\"/></figure><p>                                                  锅炉液位的三冲量控制方块图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-aeb67021d52ae335c2d150de2703778f_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1360\" data-rawheight=\"454\" class=\"origin_image zh-lightbox-thumb\" width=\"1360\" data-original=\"https://pic4.zhimg.com/v2-aeb67021d52ae335c2d150de2703778f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1360&#39; height=&#39;454&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1360\" data-rawheight=\"454\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1360\" data-original=\"https://pic4.zhimg.com/v2-aeb67021d52ae335c2d150de2703778f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-aeb67021d52ae335c2d150de2703778f_b.jpg\"/></figure><p>本文属于原创，转载请说明出处。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气工程及其自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19675907"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "姬昌 君", 
+                    "userLink": "https://www.zhihu.com/people/1bfa0a716c40b88289d79438a9b2c0d0", 
+                    "content": "深度还不够吧，三冲量有多种结构的，每种都有优缺点，不讲讲怎么叫深度？还没有教科书里面讲的深。", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "自控学堂邱老师", 
+                            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+                            "content": "我们讲的是最常用的三冲量系统，其它的三冲量系统以后会专题介绍", 
+                            "likes": 0, 
+                            "replyToAuthor": "姬昌 君"
+                        }, 
+                        {
+                            "userName": "姬昌 君", 
+                            "userLink": "https://www.zhihu.com/people/1bfa0a716c40b88289d79438a9b2c0d0", 
+                            "content": "好的，静候专题。", 
+                            "likes": 0, 
+                            "replyToAuthor": "自控学堂邱老师"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62664576", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 1, 
+            "title": "深度揭秘复杂控制系统（中）", 
+            "content": "<p><b>本文篇幅较长，考虑到阅读的舒适度，故分为上中下3篇。</b></p><p>复杂控制系统包含：串级控制系统、均匀控制系统、比值控制系统、分程控制系统、自动选择性控制系统、前馈控制系统和三冲量控制系统等。我们在上篇介绍了串级控制系统和均匀控制系统，<b>本篇主要介绍比值控制系统、分程控制系统和自动选择性控制系统。</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;383&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_b.jpg\"/></figure><p><b>3）比值控制系统：</b>在生产过程中，往往有两种或两种以上的物料需按精确比例（比值）混合进行生产加工，要求精确控制各种物料的比例，在实际应用中通常就采用比值控制系统。<br/></p><p>下面我们以单闭环比值控制系统为例：主动变量F1没有反馈控制，因而是可变的，F2是从动变量，是随着F1而变，在稳定时能保持F2=KF1(K为比例系数)，从方块图中可以看到F2形成的是一个闭环控制回路，所以我们称之为单闭环比值控制系统。</p><p>单闭环比值控制系统一般用在F1参数变化不大的场合，比如计量泵的输出流量。如果F1的变化影响下一个工序，那么就要采用双闭环比值控制系统，或根据工艺特定要求采用串级比值控制系统等。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-956691064181ed4c1b65660eb914e332_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"413\" data-rawheight=\"120\" class=\"content_image\" width=\"413\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;413&#39; height=&#39;120&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"413\" data-rawheight=\"120\" class=\"content_image lazy\" width=\"413\" data-actualsrc=\"https://pic3.zhimg.com/v2-956691064181ed4c1b65660eb914e332_b.jpg\"/></figure><p><b>4）分程控制系统：</b>设置分程控制系统的主要目的是扩大可调范围R，以能满足特殊调节系统的要求；改善调节品质，节省能源，改善调节阀的工作条件；满足开停车时小流量和正常生产时的大流量的要求，使之都能有较好的调节质量；满足正常生产和事故状态下的稳定性和安全性。</p><p>以下面的方块图为例，通过热水阀A与蒸汽阀B加热物料，要求热交换器出口的物料温度保持恒定。为了节省蒸汽，只有当热水阀A全开，温度还达不到我们要求的设定值时，才补充蒸汽，开蒸汽阀B。</p><p>从图中可以看到，热水阀A全部打开后，温度仍比给定值低，温控器输出高达60kPa以上，此时蒸汽阀打开，补充蒸汽，以使温度达到给定值。</p><p>这个例子是将调节器的输出分成两段，控制两个气开调节阀，还可根据工艺需求设计一个气开调节阀，一个气关调节阀或两个气关调节阀。为了满足工艺生产特殊要求，分程控制还可将控制器输出信号的全程分割成若干个信号段，每个信号段控制一个控制阀，每个控制阀仅在控制器输出信号整个范围里的某段内工作。<br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-2c8f48e75e1f97fa0e1d5fff6adf4f3a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"309\" data-rawheight=\"117\" class=\"content_image\" width=\"309\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;309&#39; height=&#39;117&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"309\" data-rawheight=\"117\" class=\"content_image lazy\" width=\"309\" data-actualsrc=\"https://pic3.zhimg.com/v2-2c8f48e75e1f97fa0e1d5fff6adf4f3a_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-b8636caaffcd8c05133bcb41169522ce_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"308\" data-rawheight=\"166\" class=\"content_image\" width=\"308\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;308&#39; height=&#39;166&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"308\" data-rawheight=\"166\" class=\"content_image lazy\" width=\"308\" data-actualsrc=\"https://pic3.zhimg.com/v2-b8636caaffcd8c05133bcb41169522ce_b.jpg\"/></figure><p><b>5）自动选择性控制系统：</b>当压缩机、泵、鼓风机等设备过载时，反应器反应到极限时，大型生产装置开停车等等紧急状况时，通常的自控系统已不能满足其控制要求，若由操作人员操作来解决这些问题，势必操作人员紧张繁忙，还容易出错，因此采用了自动选择性控制系统也称超驰控制系统来解决生产的安全保护和自动开停车的问题。</p><p>这种控制方式是把由工艺生产过程中的限制条件所构成逻辑关系叠加到通常的调节系统中，当生产过程趋向限制条件时，不安全状况出现以前，即切换到一个用于控制不安全情况的调节器，由不安全情况的调节器取代通常的调节系统工作，直到生产过程回到安全范围内，通常的调节系统工作又自动恢复工作，这种自动选择控制有时也称自动保护控制系统。</p><p>以下图为例：氨和空气的流量通过流量变送器将信号送入除法器进行比值计算后，输出比值信号分别作为KC比值调节器和KY超驰调节器的测量值，KC比值调节器和KY超驰调节器的输出信号接到LS低选择器后去控制阀。</p><p>正常生产时，KY超驰调节器的输出为100kPa，LS低选择器只通过KC比值调节器输出信号到控制阀。如果生产过程发生波动，氨气和空气流量比值大于允许的安全极限时，KY超驰调节器工作，输出减小，控制阀关小，直到氨气和空气流量比值回到正常范围，KC比值调节器自动恢复工作。（氨气管线上的控制阀一般选气开阀）</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-8d6c496a141960917de1d45577a2b485_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"704\" data-rawheight=\"284\" class=\"origin_image zh-lightbox-thumb\" width=\"704\" data-original=\"https://pic2.zhimg.com/v2-8d6c496a141960917de1d45577a2b485_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;704&#39; height=&#39;284&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"704\" data-rawheight=\"284\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"704\" data-original=\"https://pic2.zhimg.com/v2-8d6c496a141960917de1d45577a2b485_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-8d6c496a141960917de1d45577a2b485_b.jpg\"/></figure><p>未完待续。</p><p>本文属于原创，转载请说明出处。</p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62536546", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 4, 
+            "title": "自控仪表工程设计：深度揭秘复杂控制系统（上）", 
+            "content": "<p><b>本文篇幅较长，考虑到阅读的舒适度，故分为上中下3篇。</b></p><p>随着工业生产的发展，工艺不断革新，产品的品种不断翻新，操作条件更为复杂，对产品质量提出了更高的要求，单回路控制系统已不能满足生产过程的要求，因此，我们在工程设计中会采用复杂控制系统。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;900&#39; height=&#39;383&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"900\" data-rawheight=\"383\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"900\" data-original=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-1ed479309b45b5494fe5200983a206e1_b.jpg\"/></figure><p>什么是复杂控制系统？用最简单的语言表述就是：同时具有两个以上变送器、控制器或执行器所组成回路的控制系统，这种多变量控制系统被称为复杂控制系统，又称多回路控制系统。</p><p><b>复杂控制系统包含：串级控制系统、均匀控制系统、比值控制系统、分程控制系统、自动选择性控制系统、前馈控制系统和三冲量控制系统等。</b></p><p><b>本篇先介绍串级控制系统和均匀控制系统。</b></p><p><b>1）串级控制系统：</b>从以下的图例中可以看出，包含2个变送器，2个控制器，一个控制器的输出值是另一个控制器的给定值，2个控制器之间互相串接。</p><p>对于进入副环的干扰，T2C副环控制器具有较快、较强的克服干扰能力；可以改善主调节器的广义对象的特性，提高工作频率；消除调节阀等非线性特性的影响，更精确地控制操纵变量；具有一定的自适应能力，实现更灵活的控制方式。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-78821180089c9b938c591f3ccc6c5e33_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"510\" data-rawheight=\"189\" class=\"origin_image zh-lightbox-thumb\" width=\"510\" data-original=\"https://pic4.zhimg.com/v2-78821180089c9b938c591f3ccc6c5e33_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;510&#39; height=&#39;189&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"510\" data-rawheight=\"189\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"510\" data-original=\"https://pic4.zhimg.com/v2-78821180089c9b938c591f3ccc6c5e33_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-78821180089c9b938c591f3ccc6c5e33_b.jpg\"/></figure><p><b>2）均匀控制系统：</b>均匀控制是一种以功能来命名控制系统。当有扰动进入时，它是通过调节器整定的参数，使得被控参数不会发生剧烈变化，在一定的控制范围内缓慢而均匀的变化，而不是严格的控制在某一个给定值上。</p><p>均匀控制系统分为：简单均匀控制系统、串级均匀控制系统、双冲量均匀控制系统等。</p><p>均匀控制的基本任务是保持两个有互相矛盾的参数，在允许波动的范围内互相兼顾，平滑变化。但是均匀调节并不是前后被控参数平均分配，而是根据被调参数的重要性来确定均匀调节的主次及轻重缓急。</p><p>未完待续。</p><p>本文属于原创，转载请说明出处。</p><p><u><b>关于自控学堂</b></u>：</p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。关注“自控学堂”微信公众号获取更多知识信息。</b></p><p><b>让我们一起成为自控高手吧！现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62280650", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "自控仪表工程设计：智能阀门定位器有什么功能及特点？", 
+            "content": "<p>智能阀门定位器是智能型现场仪表，由于使用了微处理器和新型控制元件，阀门定位器的调校更为便捷，适用范围也大有改善，主要特点：</p><p>1）安装简便，组态灵活，可以通过软件进行组态以实现不同的功能，如自动调零点、自动修改控制参数实现指示报警、行程限定和分程控制，可非常便捷的设置调节阀的正反作用，流量特性等功能。</p><p>2）耗气量小:传统的电气阀门定位器的喷嘴，挡板是连续耗气型元件，而智能阀门定位器是采用脉冲压电阀代替传统的喷嘴，挡板系统。脉冲压电阀不仅使得控制方式更精确、更快速，而且大部分时间处于不耗气的状态，只有在智能阀门定位器减小输出时往外排气。</p><p>3）具有智能通讯及现场显示功能，便于现场维护及调校。</p><p>4）智能阀门定位器可以与调节阀分离式安装（传统的阀门定位器与执行机构需紧密安装）。</p><p>5）采用非接触式位置传感器代替传统的阀位开关，便于使用在环境恶劣的场所，如高温、辐射等。</p><p>6）具有自诊断功能：不仅对智能阀门定位器本身进行故障诊断，还可对调节阀体、执行机构的性能等进行诊断。</p><p>7）对调节阀动作要求极高的安全仪表系统，智能阀门定位器具有非常便捷的安全测试与试动作功能。</p><p><b>图：<u>智能阀门定位器分离式安装示意图</u></b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-43f8896486d5de74f56a1df8350fbe5a_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"869\" data-rawheight=\"290\" class=\"origin_image zh-lightbox-thumb\" width=\"869\" data-original=\"https://pic3.zhimg.com/v2-43f8896486d5de74f56a1df8350fbe5a_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;869&#39; height=&#39;290&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"869\" data-rawheight=\"290\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"869\" data-original=\"https://pic3.zhimg.com/v2-43f8896486d5de74f56a1df8350fbe5a_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-43f8896486d5de74f56a1df8350fbe5a_b.jpg\"/></figure><p><b>关于自控学堂：</b></p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于分享自控仪表工程设计领域的知识干货。</b></p><p><b>让我们一起成为自控高手吧！现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62138249", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 2, 
+            "title": "水塔水位监控自动化控制系统是如何控制和实现的？", 
+            "content": "<p>水塔一般用于居民区里的蓄水作用，有些还是工厂生产工艺的一个重要组成部分，用于储水和配水的高耸结构，用来保持和调节给水管网中的水量和水压。由于水塔一般安装在高处，巡检人员无法正常观测和操作水位，因此，水塔水位的自动控制和监测报警尤为重要。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-685a8e000f0bfa134a86393d31a5ab94_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb\" width=\"720\" data-original=\"https://pic1.zhimg.com/v2-685a8e000f0bfa134a86393d31a5ab94_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;720&#39; height=&#39;720&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"720\" data-rawheight=\"720\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"720\" data-original=\"https://pic1.zhimg.com/v2-685a8e000f0bfa134a86393d31a5ab94_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-685a8e000f0bfa134a86393d31a5ab94_b.jpg\"/></figure><p><b>水塔水位监控自动化控制系统又是如何实现的呢？我们介绍以下两个控制方案。</b></p><p>方案一：位式控制和报警</p><p>选用浮球液位开关，其输出4对接点，既高高限、高限、低限、低低限，高限和低限分别用于控制水塔液位，高高限和低低限分别用于远程液位报警。</p><p>控制过程；假如开关阀安装在进水管道，当液位达到高限时浮球液位开关输出信号关闭阀门，当液位达到低限时浮球液位开关输出信号开启阀门；如开关阀安装在出水管道，当液位达到低限时浮球液位开关输出信号关闭阀门，当液位达到高限时浮球液位开关输出信号关闭阀门；采用进水泵（相当于开关阀安装在进水管道）或出水泵（相当于开关阀安装在出水管道）控制液位时，其控制过程与采用开关阀类同，一般情况开关阀都是安装在进水管道上。</p><p>如果高、低限控制失灵就会出现高高限或低低限远程液位报警，可确保水塔运行安全。</p><p>方案二：连续控制和报警</p><p>选用浮球控制阀和浮球液位开关，浮球控制阀可连续控制水塔液位，保持水塔液位恒定； 浮球液位开关输出2对接点，既高限、低限分别用于远程液位报警。</p><p>控制过程；当水塔液位下降或上升时，浮球阀连续动作，水位可保持在某一水平位置，即可实现水塔的液位连续自动控制。若浮球阀控制阀失灵，浮球液位开关发出报警信号，实现远程监控。</p><p>前提：选用浮球控制阀和浮球液位开关报警这一方案的前提是水塔进水必须是由管网供水。</p><p>优点：因为浮球控制阀是自力式的，节省能源。</p><p>注意事项：浮球液位开关安装位置尽可能远离水塔的进水口。</p><p>图：浮球控制阀原理图</p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-47aee458a0b2c758a0829159ae502f1e_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"344\" data-rawheight=\"205\" class=\"content_image\" width=\"344\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;344&#39; height=&#39;205&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"344\" data-rawheight=\"205\" class=\"content_image lazy\" width=\"344\" data-actualsrc=\"https://pic3.zhimg.com/v2-47aee458a0b2c758a0829159ae502f1e_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "自动化专业", 
+                    "tagLink": "https://api.zhihu.com/topics/19776082"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "斯塔克电子科技", 
+                    "userLink": "https://www.zhihu.com/people/10169fc64f30e41bd09f094cf421b7bf", 
+                    "content": "水泵远程控制水位 18000306872", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/62015349", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 1, 
+            "title": "为什么调节回路中广泛使用阀门定位器？", 
+            "content": "<p>阀门定位器按照输入信号被分为电气阀门定位器与气动阀门定位器。若阀门定位器的输入为0～10mmA DC、4～20mmA DC标准信号，输出为20～100kPa标准信号，即为电气阀门定位器；若阀门定位器的输入为20～100kPa标准信号，输出为20～100kPa标准信号，即为气动阀门定位器。</p><p>阀门定位器是<a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E6%258E%25A7%25E5%2588%25B6%25E9%2598%2580\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">控制阀</a>的重要附件，它将阀杆位移信号作为输入的反馈测量信号,以控制器输出信号作为设定信号，进行比较，当两者有偏差时，改变其到执行机构的输出信号，使执行机构动作，建立了阀杆位移量与控制器输出信号之间的一一对应关系。因此，阀门定位器组成以阀杆位移为测量信号，以控制器输出为设定信号的<a href=\"https://link.zhihu.com/?target=https%3A//baike.baidu.com/item/%25E5%258F%258D%25E9%25A6%2588%25E6%258E%25A7%25E5%2588%25B6%25E7%25B3%25BB%25E7%25BB%259F\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">反馈控制系统</a>，由于具备了以下几大作用，因此在控制系统中成为重要的装备：</p><p>1）阀门定位器能够增大调节阀的输出功率，减小调节信号的传递滞后，提高阀杆的移动速度 。</p><p>2）在用于调节阀两端的压差大于1 MPa时，阀门定位器可以提高输出压力、克服不平衡力的作用。</p><p>3)阀门定位器可以改善调节阀的动态特性，减少调节信号的传递滞后。</p><p>4）阀门定位器的另一个重要作用就是可以用于消除执行器薄膜的不稳定性，以及各可动部分的干摩擦影响，从而提高调节阀的精确定位和可靠性。</p><p>5）阀门定位器可以改变阀门的流量特性，改变执行器的正、反作用。</p><p>6）利用阀门定位器可以使阀门在不同的控制信号段范围内作全行程移动实现分程控制。如：一个调节器输出控制两个阀门，可用两个阀门定位器分别接受低段输入信号（4~12mmA DC）和高段输入信号（12~20mmA DC），而阀门定位器输出阀门全行程动作信号，实现分程控制。也可将调节器输出信号分成若干段（两个以上），每个信号段对应一个阀门，实现多阀门的分程控制。</p><p><b>关于自控学堂:</b></p><p><b>自控学堂由具有30多年自控工程设计经验的教授级高工创办，专注于自控仪表工程设计领域的知识干货分享。</b></p><p><b>关注微信公众号“自控学堂”了解更多自控仪表工程设计领域的知识干货。现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61576807", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 2, 
+            "title": "设计院里的仪表自控工程师主要是做什么的？", 
+            "content": "<p>大家对设计院里的仪表自控工程师工作的了解也许只停留在图纸上，其实，图纸之外还有不少工作要做。一个工程项目是由多专业配合才能完成的工作，只有对工艺的深入了解，各专业的密切配合，才会做出优秀的设计作品。在此先介绍通常设计院里有哪些专业以及工作内容。</p><p>设计院里通常有工艺、管道、设备、自控（仪表）、电气、建筑结构（土建）、给排水、暖通空调、动力等专业岗位，工艺专业是核心，我们通常说的龙头专业，所有其它专业均围绕工艺专业开展工作，共同完成一个工程项目的设计，其中：</p><p>1) 工艺专业主要负责工艺流程、工艺参数、物料平衡计算、热量平衡计算、设备布置等设计。</p><p>2) 管道专业主要负责管道布置、应力计算、管道安装等设计。</p><p>3) 设备专业主要负责非标准设备计算、动设备选型等设计。</p><p>4) 自控（仪表）专业主要负责检测、控制仪表及装置选型、安装等设计。</p><p>5) 电气专业主要负责供配电、火灾报警、防雷、接地、通讯等设计。</p><p>6) 土建专业主要负责建（构）筑物设计、总图规划设计；</p><p>7) 给排水专业主要负责给水、排水、消防、污水处理等设计；</p><p>8) 暖通空调专业主要负责采暖、通风、工厂温湿度等设计；</p><p>9) 动力专业主要负责供气、供热、供冷等设计。</p><p>设计院的仪表自控工程师的任务是将工艺专业对生产过程参数的检测、控制等要求，通过仪表、自动化装置来实现在线实时监控，包括仪表、自动化装置选型设计，安装设计，现场施工安装、调试、开车等，<b>仪表自控工程师的主要设计工作包括：</b></p><p>1) 接受工艺等专业设计条件，并给有关专业提出本专业设计条件，如仪表安装接口、控制室环境条件、仪表用电、仪表用气、预留预埋、仪表投资概算等。</p><p>2) 根据实际情况出发，结合国外同类装置情况，确定自动化水平；</p><p>3) 配合工艺专业完成P&amp;ID设计，确定各种检测、控制参数,；</p><p>4) 选择检测、控制仪表或装置、执行器等自控设备；</p><p>5) 控制指示仪表、控制系统设计；</p><p>6) 信号报警、联锁系统设计；</p><p>7) 仪表盘、控制室、现场仪表平面图（包括配管配线）设计；</p><p>8) 现场仪表安装设计；</p><p>9) 仪表维修车间设计；</p><p>10) 配合现场施工安装、调试、开车等。</p><p><b>为了完成上述设计内容，仪表自控工程师应该熟练掌握以下几个方面的知识：</b></p><p>1) 了解并熟悉自动控制相关的国家标准、行业标准；</p><p>2) 了解所从事行业国内外自动控制技术应用的现状与发展趋势；</p><p>3) 掌握仪表（自控）设计工具软件的应用；</p><p>4) 了解仪表（自控）设计相关专业（工艺、管道、储运、动力、电气、土建等）的基本常识，特别是要深入了解工艺流程、运行操作、物性参数等。</p><p><b>如想了解更多自控设计方面的信息，欢迎关注我的微信公众号 “自控学堂”。现在关注微信公众号还可以赠送3本经典电子书哦。</b></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动控制", 
+                    "tagLink": "https://api.zhihu.com/topics/19589888"
+                }, 
+                {
+                    "tag": "工业自动化控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20038375"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61467171", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "自控工程设计：控制室总图位置应该如何选择？", 
+            "content": "<p><b>自控工程设计的时候应该如何选择控制室总图位置？以下三条原则非常重要：</b></p><p>1) 控制室的位置首先应符合相关设计规范的规定（比如：《石油化工企业设计防火规范》（GB50160）等），原则上应选择在非爆炸，无火灾危险的安全区域。</p><p>如受条件限制不能满足该要求时，也应采取有效的防护措施，防护措施包括将控制室建筑物背向装置，并具有抵御外部爆炸的能力，或进行控制室抗爆设计。</p><p>2) 对于易燃、易爆、有毒、粉尘、水雾、腐蚀的工艺介质的工艺装置，控制室应设置在本地区全年主导风向的上风侧或全年最小频率风向的下风侧。</p><p>如控制室处于危险区域，应防止可燃蒸汽、气体、灰尘等进入控制室。可采用清洁空气正压通风系统，控制室压力不低于25Pa。</p><p>3) 控制室的设置尽可能靠近主生产装置，尽可能坐北朝南，不宜靠近厂区主交通干道，不应与压缩机室和化学药品库房毗邻，应远离高噪声源、震动源、较大磁场、电场等场所。</p><p>以上三点可以帮助大家更好地在设计时选择控制室总图的位置，避免安全隐患。</p><p><b>自控学堂专注于分享自控工程设计领域的知识干货。如果大家觉得有用欢迎关注、评论或转发。</b></p><p>关注微信公众号“自控学堂”获取更多自控工程设计知识。</p><p>现在关注微信公众号还可以赠送3本经典电子书哦。</p>", 
+            "topic": [
+                {
+                    "tag": "自动化控制行业", 
+                    "tagLink": "https://api.zhihu.com/topics/19832178"
+                }, 
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "电气自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19772115"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/61355635", 
+            "userName": "自控学堂邱老师", 
+            "userLink": "https://www.zhihu.com/people/14b7279ef9d1865a4adad823198fa7bf", 
+            "upvote": 0, 
+            "title": "自控工程设计：电气转换器、电气阀门定位器、气动阀门定位器的特性和作用", 
+            "content": "<p><b>1）</b> <b>电-气转换器及电-气阀门定位器在控制系统中的作用</b></p><p>在过程控制系统中，调节器常常采用电动的，而执行器（调节阀）常常采用气动的，因此，必需将电信号转换为气信号，才能与气动执行器配合使用。电-气转换器是将电信号转换为相应的气信号的一种装置。</p><p>在控制系统中，如果所使用的控制器是电动控制器，其输出信号为0～10mmA DC或4～20mmA DC，而所选择的执行器为气动执行器，其输入信号一般为20～100kPa，这时就需要采用电-气转换器，先将控制器的输出电信号转换为相应气信号，才能为气动执行器所接受。</p><figure data-size=\"small\"><noscript><img src=\"https://pic1.zhimg.com/v2-fb629863e48d149b5c296eb1d7e500fc_b.jpg\" data-size=\"small\" data-rawwidth=\"600\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-fb629863e48d149b5c296eb1d7e500fc_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;600&#39; height=&#39;600&#39;&gt;&lt;/svg&gt;\" data-size=\"small\" data-rawwidth=\"600\" data-rawheight=\"600\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"600\" data-original=\"https://pic1.zhimg.com/v2-fb629863e48d149b5c296eb1d7e500fc_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-fb629863e48d149b5c296eb1d7e500fc_b.jpg\"/><figcaption>图：电-气转换器</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>但在实际应用中很少有电-气转换器的信号输出直接去气动执行器控制调节阀，因为电-气转换器没有定位功能，当管道压力作用于阀芯，推动阀杆时，电-气转换器无法克服管道压力的作用，会偏离调节阀所控制要求的位置。比如：电-气转换器输出一个50％的信号给气动执行器，气动执行器就应该是在行程50％的地方，可是因无法克服管道压力的作用，气动执行器就会偏离行程50％，造成调节阀误差大，调节精度降低。在一些特定的场所将电-气转换器与气动阀门定位器配合使用可完成对气动执行器的控制。</p><p>电-气阀门定位器除了能将电信号转换为气信号外，还能够使阀杆位移与输入信号大小保持线性关系，即实现控制器来的输入信号与阀门位置之间关系的准确定位，它将电气转换与阀门定位的功能组合在一起，故取名为电-气阀门定位器，在工程实际应用中也被广泛使用。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-8a8fe805447a11849c9bf11d0cf24e63_b.jpg\" data-size=\"normal\" data-rawwidth=\"535\" data-rawheight=\"535\" class=\"origin_image zh-lightbox-thumb\" width=\"535\" data-original=\"https://pic4.zhimg.com/v2-8a8fe805447a11849c9bf11d0cf24e63_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;535&#39; height=&#39;535&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"535\" data-rawheight=\"535\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"535\" data-original=\"https://pic4.zhimg.com/v2-8a8fe805447a11849c9bf11d0cf24e63_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-8a8fe805447a11849c9bf11d0cf24e63_b.jpg\"/><figcaption>图：电-气阀门定位器</figcaption></figure><p><b>2）</b> <b>气动阀门定位器有哪些特性？如何应用？</b></p><p>阀门定位器主要有两种类型：气动阀门定位器与电-气阀门定位器，设计选型时应根据不同的执行机构及能源选配不同的阀门定位器。前面我们已经讲过电-气阀门定位器的特性和作用，然而在很多特定的情况下我们需要选用气动阀门定位器作为阀门的定位器。</p><p>气动阀门定位器的输入信号一般来自电-气转换器或气动控制器，其输入信号一般为标准信号20～100kPa，它的特点是：工作可靠，抗环境温度、湿度、电磁干扰力强，本身就具有防火防爆的特点，便于维护，价格低；他的缺点是不宜远距离传输，反应速度慢，精度偏低，通常使用在一些特定的场合，如电-气阀门定位器不适合使用的场合，比如超过了电子元件使用的环境温度、湿度、震动幅度大等； 由于它便于维护，价格低，在我们国内许多中小企业还是被广泛使用。</p><p>在控制系统中，如果使用的控制器是电动仪表，输出的信号是0～10mmA DC或4～20mmA DC，我们应使用电气转换器，将0～10mmA DC或4～20mmA DC信号转换为20～100kPa输入到气动阀门定位器，由此来控制气动执行机构。</p><p>在控制系统中，如果使用的控制器是气动仪表，输出的信号为20～100kPa，我们可将20～100kPa信号输入到气动阀门定位器，由此来控制气动执行机构。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-32eff56fd3a8b6adf6036d3b385cb277_b.jpg\" data-size=\"normal\" data-rawwidth=\"242\" data-rawheight=\"242\" class=\"content_image\" width=\"242\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;242&#39; height=&#39;242&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"242\" data-rawheight=\"242\" class=\"content_image lazy\" width=\"242\" data-actualsrc=\"https://pic4.zhimg.com/v2-32eff56fd3a8b6adf6036d3b385cb277_b.jpg\"/><figcaption>图：气动阀门定位器</figcaption></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "自动化", 
+                    "tagLink": "https://api.zhihu.com/topics/19574232"
+                }, 
+                {
+                    "tag": "自动化专业", 
+                    "tagLink": "https://api.zhihu.com/topics/19776082"
+                }, 
+                {
+                    "tag": "自动化控制行业", 
+                    "tagLink": "https://api.zhihu.com/topics/19832178"
+                }
+            ], 
+            "comments": []
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1097090759538434048"
+}

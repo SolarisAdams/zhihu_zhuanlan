@@ -1,0 +1,282 @@
+{
+    "title": "自制Java虚拟机", 
+    "description": "自制Java虚拟机", 
+    "followers": [
+        "https://www.zhihu.com/people/wu-pin-40", 
+        "https://www.zhihu.com/people/tan-xiao-yang-95", 
+        "https://www.zhihu.com/people/bu-ding-long", 
+        "https://www.zhihu.com/people/tong-bai-75", 
+        "https://www.zhihu.com/people/liu-xiao-sheng-27", 
+        "https://www.zhihu.com/people/dong-sheng-91", 
+        "https://www.zhihu.com/people/ma-nong-ban-yun-gong", 
+        "https://www.zhihu.com/people/yang-yue-64-64-13", 
+        "https://www.zhihu.com/people/xu-yu-kuan-10", 
+        "https://www.zhihu.com/people/xie-tao-47-50", 
+        "https://www.zhihu.com/people/ggff-ss", 
+        "https://www.zhihu.com/people/liu-ai-ai-87", 
+        "https://www.zhihu.com/people/liqiong", 
+        "https://www.zhihu.com/people/linuxcpp", 
+        "https://www.zhihu.com/people/zhukovasky", 
+        "https://www.zhihu.com/people/sir-zhang-32", 
+        "https://www.zhihu.com/people/jungle0718", 
+        "https://www.zhihu.com/people/yang-shun-gang", 
+        "https://www.zhihu.com/people/zheng-jian-yang-56", 
+        "https://www.zhihu.com/people/zhou-wen-7-22", 
+        "https://www.zhihu.com/people/gu-du-zhe-87-42", 
+        "https://www.zhihu.com/people/qi-ji-26", 
+        "https://www.zhihu.com/people/chen-lun-zhe-38", 
+        "https://www.zhihu.com/people/rsysw", 
+        "https://www.zhihu.com/people/yan-lao-shi-89-58", 
+        "https://www.zhihu.com/people/raccoon", 
+        "https://www.zhihu.com/people/huang-xing-60", 
+        "https://www.zhihu.com/people/xu-ze-fan-37", 
+        "https://www.zhihu.com/people/dhr-35", 
+        "https://www.zhihu.com/people/xuan-yi-97-9", 
+        "https://www.zhihu.com/people/ju-chen-4", 
+        "https://www.zhihu.com/people/da-da-21-6-53", 
+        "https://www.zhihu.com/people/himejisyana", 
+        "https://www.zhihu.com/people/xi-yuan-qu-zhen", 
+        "https://www.zhihu.com/people/pin-cou-73", 
+        "https://www.zhihu.com/people/JeeGem", 
+        "https://www.zhihu.com/people/cha-na-yong-jiu", 
+        "https://www.zhihu.com/people/xiang-zao-ri-tuo-chi", 
+        "https://www.zhihu.com/people/xiao-wen-55-60", 
+        "https://www.zhihu.com/people/yanyanhohe-shuo-yan", 
+        "https://www.zhihu.com/people/henji5566", 
+        "https://www.zhihu.com/people/ace-98-79", 
+        "https://www.zhihu.com/people/bai-jian-kun-24", 
+        "https://www.zhihu.com/people/chen-mo-de-bluef", 
+        "https://www.zhihu.com/people/zhang-zhong-wei-49", 
+        "https://www.zhihu.com/people/sos2000", 
+        "https://www.zhihu.com/people/ren-hao-84-60", 
+        "https://www.zhihu.com/people/liam-zhang-92", 
+        "https://www.zhihu.com/people/zhaoxin-11", 
+        "https://www.zhihu.com/people/wang-xing-xiao-99", 
+        "https://www.zhihu.com/people/da-mao-93-15", 
+        "https://www.zhihu.com/people/niu-you-rou-87", 
+        "https://www.zhihu.com/people/shecanwin", 
+        "https://www.zhihu.com/people/bu-yan-94-50", 
+        "https://www.zhihu.com/people/ma-xiang-bin", 
+        "https://www.zhihu.com/people/don-18-80", 
+        "https://www.zhihu.com/people/wang-bing-cao", 
+        "https://www.zhihu.com/people/liu-bo-72-1", 
+        "https://www.zhihu.com/people/zorsting", 
+        "https://www.zhihu.com/people/dang-fu-yida-bai-59", 
+        "https://www.zhihu.com/people/zhe-ye-34-86", 
+        "https://www.zhihu.com/people/chen-tuo-11", 
+        "https://www.zhihu.com/people/xi-dong-yang", 
+        "https://www.zhihu.com/people/zhang-ji-hui-91-16", 
+        "https://www.zhihu.com/people/isunimp", 
+        "https://www.zhihu.com/people/Dxiaomianyang", 
+        "https://www.zhihu.com/people/wiggin-74", 
+        "https://www.zhihu.com/people/readgogogo", 
+        "https://www.zhihu.com/people/zuo-yan-2-8", 
+        "https://www.zhihu.com/people/xu-zai-15-84", 
+        "https://www.zhihu.com/people/openthedoors", 
+        "https://www.zhihu.com/people/qi-ye-59-20", 
+        "https://www.zhihu.com/people/fanliyong", 
+        "https://www.zhihu.com/people/verofess", 
+        "https://www.zhihu.com/people/baozhifei", 
+        "https://www.zhihu.com/people/qing-zheng-xian-yu", 
+        "https://www.zhihu.com/people/chen-ban-xian-er-52", 
+        "https://www.zhihu.com/people/chen-qi-14-72", 
+        "https://www.zhihu.com/people/wang-liao-52", 
+        "https://www.zhihu.com/people/wei-feng-xia-tian", 
+        "https://www.zhihu.com/people/patrick-simon-78", 
+        "https://www.zhihu.com/people/ceng-wei-han-93", 
+        "https://www.zhihu.com/people/quan-duo-ling", 
+        "https://www.zhihu.com/people/zhanghuidream", 
+        "https://www.zhihu.com/people/wusatosi", 
+        "https://www.zhihu.com/people/nai-you-wei-de-cong", 
+        "https://www.zhihu.com/people/a-bei-87", 
+        "https://www.zhihu.com/people/shijiaqi88", 
+        "https://www.zhihu.com/people/da-bai-sha-97-94", 
+        "https://www.zhihu.com/people/tra-sa", 
+        "https://www.zhihu.com/people/cos30", 
+        "https://www.zhihu.com/people/feiluotuo", 
+        "https://www.zhihu.com/people/jello-chen", 
+        "https://www.zhihu.com/people/luo-yu-31-80", 
+        "https://www.zhihu.com/people/he-wei-wu-he-wei-wo", 
+        "https://www.zhihu.com/people/yang-ze-hong-5", 
+        "https://www.zhihu.com/people/li-jia-ming-70", 
+        "https://www.zhihu.com/people/king-montain"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36429461", 
+            "userName": "kelthuzadx", 
+            "userLink": "https://www.zhihu.com/people/88eadbe06dacd1645280e4d826de939a", 
+            "upvote": 4, 
+            "title": "自制Java虚拟机 (3) 虚拟机运行时数据区", 
+            "content": "<p>上一篇文章我们解析Class并生成<code>JavaClass</code>，<code>JavaClass</code>里面包含了java的bytecode，这里都可以开始写代码执行引擎了。</p><p>没错，第一次我也是这么做的，结果失败了，因为后期没有良好的运行时数据组织根本写不下去。这次我学聪明了，先设计结构再写逻辑。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>运行时数据区</b></h2><p>运行时数据区在JVM8 中有一个指导性的定义，详细内容可以参见<a href=\"https://link.zhihu.com/?target=https%3A//docs.oracle.com/javase/specs/jvms/se8/html/jvms-2.html%23jvms-2.5\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Chapter 2. The Structure of the Java Virtual Machine</a>:</p><a href=\"https://link.zhihu.com/?target=https%3A//docs.oracle.com/javase/specs/jvms/se8/html/jvms-2.html%23jvms-2.5\" data-draft-node=\"block\" data-draft-type=\"link-card\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">Chapter 2. The Structure of the Java Virtual Machine</a><p>这里有个更直观的图示：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-f4d479e276ff106e429eadbb59d8ec51_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"617\" data-rawheight=\"365\" class=\"origin_image zh-lightbox-thumb\" width=\"617\" data-original=\"https://pic2.zhimg.com/v2-f4d479e276ff106e429eadbb59d8ec51_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;617&#39; height=&#39;365&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"617\" data-rawheight=\"365\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"617\" data-original=\"https://pic2.zhimg.com/v2-f4d479e276ff106e429eadbb59d8ec51_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-f4d479e276ff106e429eadbb59d8ec51_b.jpg\"/></figure><p>运行时结构是虚拟机的骨架，后面代码执行，算术运算，方法调用，异常处理等等都需要和运行时打交道，提前设计好它是非常重要的，免得后面缺一个结构补一个，最终破破烂烂运行不能。下面是我的虚拟机运行时结构，位于<a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm/blob/master/src/RuntimeEnv.h\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">RuntimeEnv.h</a></p><div class=\"highlight\"><pre><code class=\"language-cpp\"><span class=\"k\">struct</span> <span class=\"n\">RuntimeEnv</span> <span class=\"p\">{</span>\n    <span class=\"n\">MethodArea</span><span class=\"o\">*</span> <span class=\"n\">ma</span><span class=\"p\">;</span>\n    <span class=\"n\">JavaHeap</span><span class=\"o\">*</span> <span class=\"n\">jheap</span><span class=\"p\">;</span>\n    <span class=\"n\">std</span><span class=\"o\">::</span><span class=\"n\">unordered_map</span><span class=\"o\">&lt;</span><span class=\"n\">std</span><span class=\"o\">::</span><span class=\"n\">string</span><span class=\"p\">,</span> <span class=\"n\">JType</span><span class=\"o\">*</span><span class=\"p\">(</span><span class=\"o\">*</span><span class=\"p\">)(</span><span class=\"n\">RuntimeEnv</span><span class=\"o\">*</span> <span class=\"n\">env</span><span class=\"p\">)</span><span class=\"o\">&gt;</span> <span class=\"n\">nativeMethods</span><span class=\"p\">;</span>\n    <span class=\"n\">ConcurrentGC</span><span class=\"o\">*</span> <span class=\"n\">gc</span><span class=\"p\">;</span>\n<span class=\"p\">};</span>\n<span class=\"k\">extern</span> <span class=\"n\">RuntimeEnv</span> <span class=\"n\">yrt</span><span class=\"p\">;</span>\n<span class=\"k\">extern</span> <span class=\"k\">thread_local</span> <span class=\"n\">StackFrames</span> <span class=\"n\">frames</span><span class=\"p\">;</span>\n</code></pre></div><ul><li>MethodArea表示方法区</li><li>JavaHeap表示堆</li><li><code>nativeMethods</code>是已经注册的native方法，这里我为了方便放到了运行时。 </li></ul><p>所有线程公有的结构比如<b>方法区,堆，已注册的native方法，垃圾回收器</b>都放在RuntimeEnv里面。</p><p>每个执行线程私有的内容如<b>虚拟机栈，本地方法栈</b>这些位于接下来的t<a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm/blob/master/src/Frame.h\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">hreadlocal SackFrame</a>中：</p><div class=\"highlight\"><pre><code class=\"language-text\">struct Frame {\n    deque&lt;JType*&gt; locals;\n    deque&lt;JType*&gt; stack;\n};\n\nclass StackFrames {\npublic:\n    inline auto back() noexcept { lock_guard&lt;SpinLock&gt; lock(spinMtx);return frames.back();}\n    inline void push_back(Frame * f) { lock_guard&lt;SpinLock&gt; lock(spinMtx); frames.push_back(f); }\n    inline void pop_back() { lock_guard&lt;SpinLock&gt; lock(spinMtx); frames.pop_back(); }\n    inline bool empty() { lock_guard&lt;SpinLock&gt; lock(spinMtx); return frames.empty(); }\n    inline auto cbegin() noexcept{ lock_guard&lt;SpinLock&gt; lock(spinMtx); return frames.cbegin(); }\n    inline auto cend() noexcept { lock_guard&lt;SpinLock&gt; lock(spinMtx); return frames.cend(); }\nprivate:\n    deque&lt;Frame*&gt; frames;\n// deque&lt;Frame*&gt; nativeFrames; 本来可以有个native方法栈，但我这里是让它们共用一个frame\n    SpinLock spinMtx;\n};</code></pre></div><p><code>Frame</code> 表示java栈和native方法栈，包含局部变量栈和操作数栈，其中局部变量栈用于参数传递和局部变量，比如调用一个<code>void foo(int x,int y)</code>方法，实参x,y的值会从上一个Frame操作数栈pop，然后push到新Frame的局部变量栈</p><p><code>StackFrame</code>为了方便简单封装一下。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>说完线程私有区，剩下就是线程公有部分，本来有<b>方法区,堆，已注册的native方法，垃圾回收器，</b>由于这里讨论运行时数据区，垃圾回收和native方法就放到后面说了。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>1.方法区(Method Area)</b></h2><p>方法区内的数据由所有线程共享。它有点类似于进程中的.text段，储存了类的静态信息，最重要的是字节码，然后是有多少个字段，字段名是什么，接口是什么，父类是什么，etc。(Java反射最终也是用的这个区的数据)。</p><p>上次我们解析Class文件得到 JavaClass,这些JavaClass就位于方法区，统一由方法区负责加载链接初始化：</p><div class=\"highlight\"><pre><code class=\"language-text\">class MethodArea {\npublic:\n    JavaClass* findJavaClass(const char* jcName);\n    bool loadJavaClass(const char* jcName);\n    bool removeJavaClass(const char* jcName);\n    void linkJavaClass(const char* jcName);\n    void initJavaClass(CodeExecution&amp; exec, const char* jcName);\n\npublic:\n    JavaClass* loadClassIfAbsent(const char* jcName){...}\n    void linkClassIfAbsent(const char* jcName){...}\n    void initClassIfAbsent(CodeExecution&amp; exec, const char* jcName){...}\n\nprivate:\n    std::unordered_set&lt;const char *&gt; linkedClasses;//已经链接的Class\n    std::unordered_set&lt;const char *&gt; initedClasses;//已经初始化的Class\n    std::unordered_map&lt;std::string, JavaClass *&gt; classTable;//已经加载的Class\n};</code></pre></div><p>后面*_IfAbsent是辅助方法，表示如果未xx则xx。主要关注前面几个方法</p><p>1. bool loadJavaClass(const char* jcName); 负责加载指定的类，如果该类有父类则递归加载父类，如果有接口则递归加遍历加载接口，并把加载好的类放到classTable里 </p><div class=\"highlight\"><pre><code class=\"language-text\">bool MethodArea::loadJavaClass(const char* jcName) {\n    std::lock_guard&lt;std::recursive_mutex&gt; lockMA(maMutex);\n    auto path = parseNameToPath(jcName);\n\n    if (path.length() != 0 &amp;&amp; !findJavaClass(jcName)) {\n        JavaClass* jc = new JavaClass(path.c_str());\n//解析Class文件，填充JavaClass\n        jc-&gt;parseClassFile();\n//把填充后的JavaClass存放到classTable，表示该类已加载\n        classTable.insert(std::make_pair(std::string(jc-&gt;getClassName()), jc));\n//如果还有父类就递归加载父类\n        if (jc-&gt;getSuperClassName() &amp;&amp; !findJavaClass(jc-&gt;getSuperClassName())) {\n            this-&gt;loadJavaClass(jc-&gt;getSuperClassName());\n        }\n//如果还有接口就递归+遍历解析接口\n        std::vector&lt;u2&gt;&amp;&amp; interfacesIdx = jc-&gt;getInterfacesIndex();\n        if (jc-&gt;getInterfacesIndex().empty()) {\n            for (auto idx : interfacesIdx) {\n                this-&gt;loadJavaClass(jc-&gt;getString(idx));\n            }\n        }\n        return true;\n    }\n    return false;\n}</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>2.void linkJavaClass(const char* jcName); 负责链接类，链接的时候会初始化成员（因为Java每个类每个字段都要求有值，而这个要求就是由链接阶段完成的）</p><div class=\"highlight\"><pre><code class=\"language-text\">void MethodArea::linkJavaClass(const char* jcName) {\n    std::lock_guard&lt;std::recursive_mutex&gt; lockMA(maMutex);\n\n    JavaClass* javaClass = yrt.ma-&gt;findJavaClass(jcName);\n    FOR_EACH(fieldOffset, javaClass-&gt;raw.fieldsCount) {\n        const char* descriptor = javaClass-&gt;getString(javaClass-&gt;raw.fields[fieldOffset].descriptorIndex);\n//如果字段是对象，给它一个nullptr初始值\n        if (IS_FIELD_REF_CLASS(descriptor)) {\n            if (IS_FIELD_STATIC(javaClass-&gt;raw.fields[fieldOffset].accessFlags)) {\n                JObject* fieldObject = nullptr;\n                //如果它还是static final修饰，就更进一步确定一下它的值\n                FOR_EACH(fieldAttr, javaClass-&gt;raw.fields[fieldOffset].attributeCount) {\n                    if (typeid(*javaClass-&gt;raw.fields[fieldOffset].attributes[fieldAttr]) == typeid(ATTR_ConstantValue)\n                    ) {\n                        ...\n                        }\n                    }\n                }\n\n                javaClass-&gt;sfield.insert(std::make_pair(fieldOffset, fieldObject));\n            }\n        }\n//如果字段是数组，给它一个nullptr初始值\n        else if (IS_FIELD_REF_ARRAY(descriptor)) {\n            if (IS_FIELD_STATIC(javaClass-&gt;raw.fields[fieldOffset].accessFlags)) {\n                JArray* uninitializedArray = nullptr;\n                javaClass-&gt;sfield.insert(std::make_pair(fieldOffset, uninitializedArray));\n            }\n        }\n        else {\n//如果字段是基本类型，给它相应类型的初始值\n            if (IS_FIELD_STATIC(javaClass-&gt;raw.fields[fieldOffset].accessFlags)) {\n                JType* basicField = determineBasicType(descriptor);\n                //如果它还是static final修饰，就更进一步确定一下它的值\n                FOR_EACH(fieldAttr, javaClass-&gt;raw.fields[fieldOffset].attributeCount) {\n                    if (typeid(*javaClass-&gt;raw.fields[fieldOffset].attributes[fieldAttr]) == typeid(ATTR_ConstantValue)\n                    ) {\n                       ...\n                    }\n                }\n\n                javaClass-&gt;sfield.insert(std::make_pair(fieldOffset, basicField));\n            }\n        }\n    }\n//最后把加载好的JavaClass放入linkedClasses\n    linkedClasses.insert(javaClass-&gt;getClassName());\n}</code></pre></div><p>3.void initJavaClass(CodeExecution&amp; exec, const char* jcName);负责初始化类，即调用&lt;clinit&gt;方法（如果有的话）。既然这里已经调用方法了，光靠MethodArea是完不成的，因此参数多了一个CodeExecution </p><div class=\"highlight\"><pre><code class=\"language-text\">void MethodArea::initJavaClass(CodeExecution&amp; exec, const char* jcName) {\n    std::lock_guard&lt;std::recursive_mutex&gt; lockMA(maMutex);\n    initedClasses.insert(jcName);\n    exec.invokeByName(yrt.ma-&gt;findJavaClass(jcName), &#34;&lt;clinit&gt;&#34;, &#34;()V&#34;);\n}</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>2.Java堆</b></h2><p>讨论堆之前我们得说说<a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm/blob/master/src/JavaType.h\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">虚拟机对象</a>是怎么表示的：</p><div class=\"highlight\"><pre><code class=\"language-text\">struct JObject BASE_OF_JTYPE {\n    explicit JObject() = default;\n\n    std::size_t offset = 0; // Offset on java heap\n    const JavaClass* jc{}; // Reference to meta java class\n};\n\nstruct JArray BASE_OF_JTYPE {\n    explicit JArray() = default;\n\n    int length = 0; // Length of java array\n    std::size_t offset = 0; // Offset on java heap\n};</code></pre></div><p>offset是偏移地址，然后JObject.jc是指向JavaClass的指针；JArray.length是数组长度。</p><p class=\"ztext-empty-paragraph\"><br/></p><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm/blob/master/src/JavaHeap.h\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">JavaHeap.h</a>接口比较多，我摘要性说几个重要的，其他接口感兴趣的朋友请直接移步source code</p><div class=\"highlight\"><pre><code class=\"language-text\">class JavaHeap {\npublic:\n//创建对象，数组\n    JObject* createObject(const JavaClass&amp; javaClass);\n    JArray* createPODArray(int atype, int length);\n    JArray* createObjectArray(const JavaClass&amp; jc, int length);\n    JArray* createCharArray(const char* source, int length);\n\n//获取对象字段\n    JType* getObjectFieldByOffset(const JObject&amp; object, size_t fieldOffset);\n    void putObjectFieldByOffset(const JObject&amp; object, size_t fieldOffset, JType* value);\n//获取数组item\n    void putArrayItem(const JArray&amp; array, size_t index, JType* value);\n    JType* getArrayItem(const JArray&amp; array, size_t index);\n\n//创建，查找，检查对象锁（为了支持synchronized(){}）\n    bool hasObjectMonitor(const JType* ref);\n    void createObjectMonitor(const JType* ref);\n    ObjectMonitor* findObjectMonitor(const JType* ref);\nprivate:\n\n//对象堆\n    map&lt;size_t,\n        vector&lt;JType*&gt;,\n        less&lt;&gt;,\n        HeapAllocator&lt;pair&lt;const size_t,vector&lt;JType*&gt;&gt;&gt;&gt; objheap;\n    recursive_mutex objMtx;\n\n//数组堆\n    map&lt;size_t, \n        pair&lt;size_t, JType**&gt;, \n        less&lt;&gt;,\n        HeapAllocator&lt;pair&lt;const size_t, pair&lt;size_t, JType**&gt;&gt;&gt;&gt; arrheap;\n    recursive_mutex arrMtx;\n\n//对象锁堆（其实数组也可以作为对象锁，所以这里全名应该是对象锁AND数组锁堆。。。）\n    map&lt;size_t, \n        ObjectMonitor*, \n        less&lt;&gt;, \n        HeapAllocator&lt;pair&lt;const size_t, ObjectMonitor*&gt;&gt;&gt; monitorheap;\n    recursive_mutex monitorMtx;\n};\n\n</code></pre></div><p>1.<code>JObject* createObject(const JavaClass&amp; javaClass);</code> </p><div class=\"highlight\"><pre><code class=\"language-text\">JObject* JavaHeap::createObject(const JavaClass&amp; javaClass) {\n    std::lock_guard&lt;std::recursive_mutex&gt; lock(objMtx);\n\n    JObject* object = new JObject;//创建对象\n    object-&gt;jc = &amp;javaClass;//设置对象是对应哪个JavaClass\n    object-&gt;offset = objheap.empty() ? 0 : (--objheap.end())-&gt;first + 1;//设置偏移，这里直接粗暴放到最后即可\n   \n\n//创建对象字段并给它们初始值\n    std::vector&lt;JType*&gt; instanceFields; \n\n    FOR_EACH(fieldOffset, javaClass.raw.fieldsCount) {\n        const char* descriptor = javaClass.getString(javaClass.raw.fields[fieldOffset].descriptorIndex);\n\n        if (IS_FIELD_REF_CLASS(descriptor)) {\n            if (!IS_FIELD_STATIC(javaClass.raw.fields[fieldOffset].accessFlags)) {\n                JObject* fieldObject = nullptr;\n                instanceFields.push_back(fieldObject);\n            }\n        }\n        else if (IS_FIELD_REF_ARRAY(descriptor)) {\n            if (!IS_FIELD_STATIC(javaClass.raw.fields[fieldOffset].accessFlags)) {\n                JArray* uninitializedArray = nullptr;\n                instanceFields.push_back(uninitializedArray);\n            }\n        }\n        else {\n            if (!IS_FIELD_STATIC(javaClass.raw.fields[fieldOffset].accessFlags)) {\n                JType* basicField = determineBasicType(descriptor);\n                instanceFields.push_back(basicField);\n            }\n        }\n    }\n\n//把创建好的对象插入对象堆\n    objheap.insert(std::make_pair(object-&gt;offset, instanceFields));\n//如果有父类则递归创建父类字段\n    createSuperFields(javaClass, object);\n    return object;\n}</code></pre></div><p class=\"ztext-empty-paragraph\"><br/></p><p>2.<code>JArray* createPODArray(int atype, int length);</code>创建数组有多个方法，这里说一说创建基础类型数组 </p><div class=\"highlight\"><pre><code class=\"language-text\">JArray* JavaHeap::createPODArray(int atype, int length) {\n    std::lock_guard&lt;std::recursive_mutex&gt; lock(arrMtx);\n\n    JArray* arr = new JArray;//创建数组\n    arr-&gt;length = length;//指定数组大小\n    arr-&gt;offset = arrheap.empty() ? 0 : (--arrheap.end())-&gt;first + 1;//设置数组偏移，同上也是置于数组堆最后\n//创建数组items并赋初始值\n    JType** items = new JType*[arr-&gt;length];\n    switch (atype) {\n    case T_FLOAT:\n        FOR_EACH(i, length) {\n            items[i] = new JFloat;\n        }\n        arrheap.insert(std::make_pair(arr-&gt;offset, std::make_pair(length, items)));\n        return arr;\n    case T_DOUBLE:\n        FOR_EACH(i, length) {\n            items[i] = new JDouble;\n        }\n        arrheap.insert(std::make_pair(arr-&gt;offset, std::make_pair(length, items)));\n        return arr;\n    case T_BOOLEAN:\n    case T_CHAR:\n    case T_BYTE:\n    case T_SHORT:\n    case T_INT:\n        FOR_EACH(i, length) {\n            items[i] = new JInt;\n        }\n        arrheap.insert(std::make_pair(arr-&gt;offset, std::make_pair(length, items)));\n        return arr;\n    case T_LONG:\n        FOR_EACH(i, length) {\n            items[i] = new JLong;\n        }\n        arrheap.insert(std::make_pair(arr-&gt;offset, std::make_pair(length, items)));\n        return arr;\n    default:\n        return nullptr;\n    }\n}</code></pre></div><p>3.<code>void createObjectMonitor(const JType* ref);</code>直接创建对象锁</p><div class=\"highlight\"><pre><code class=\"language-text\">void JavaHeap::createObjectMonitor(const JType* ref) {\n    std::lock_guard&lt;std::recursive_mutex&gt; lock(monitorMtx);\n    if (typeid(*ref) == typeid(JObject)) {\n        monitorheap.insert(std::make_pair(dynamic_cast&lt;const JObject*&gt;(ref)-&gt;offset, new ObjectMonitor()));\n    }\n    else if (typeid(*ref) == typeid(JArray)) {\n        monitorheap.insert(std::make_pair(dynamic_cast&lt;const JArray*&gt;(ref)-&gt;offset, new ObjectMonitor()));\n    }\n    else {\n        SHOULD_NOT_REACH_HERE\n    }\n}</code></pre></div><p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm/blob/master/src/ObjectMonitor.h\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ObjectMonitor</a>结构是这样子的：</p><div class=\"highlight\"><pre><code class=\"language-text\">class ObjectMonitor {\npublic:\n    void enter(std::thread::id tid);\n    void exit();\n\nprivate:\n    std::mutex internalMtx;\n\n    volatile bool entered = false;\n    int32_t monitorCnt = 0;\n    std::thread::id owner;\n    std::condition_variable cv;\n};\n</code></pre></div><p><code>enter()和exit()</code>对应进入monitor加锁/解锁。</p>", 
+            "topic": [
+                {
+                    "tag": "Java", 
+                    "tagLink": "https://api.zhihu.com/topics/19561132"
+                }, 
+                {
+                    "tag": "Java 虚拟机（JVM）", 
+                    "tagLink": "https://api.zhihu.com/topics/19566470"
+                }, 
+                {
+                    "tag": "Java 编程", 
+                    "tagLink": "https://api.zhihu.com/topics/19582744"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "奶油味的葱", 
+                    "userLink": "https://www.zhihu.com/people/c6282e1492ddc95e372c2b2528cb7d4f", 
+                    "content": "<p>断更了??</p><p></p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/36213497", 
+            "userName": "kelthuzadx", 
+            "userLink": "https://www.zhihu.com/people/88eadbe06dacd1645280e4d826de939a", 
+            "upvote": 8, 
+            "title": "自制Java虚拟机 (2.2) Class文件解析", 
+            "content": "<p>规范(jvm specification 8)有对Class文件格式的详细介绍，我们所需要做的全部内容就是根据规范解析Class文件，然后以合理的方式组织起来。</p><p>对应的<a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm/blob/master/src/JavaClass.h\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">JavaClass</a>就负责读取Class文件并解析：</p><div class=\"highlight\"><pre><code class=\"language-text\">class JavaClass {\n...\npublic:\n    const char* getString(u2 index) const;\n\n    const char* getClassName() const;\n\n    const char* getSuperClassName() const;\n\n    bool hasSuperClass() const;\n\n    void parseClassFile();\n\n    std::vector&lt;u2&gt; getInterfacesIndex() const;\n\n    MethodInfo* getMethod(const char* methodName, const char* methodDescriptor) const;\n\n\nprivate:\n    bool parseConstantPool(u2 cpCount);\n    bool parseInterface(u2 interfaceCount);\n    bool parseField(u2 fieldCount);\n    bool parseMethod(u2 methodCount);\n    bool parseAttribute(AttributeInfo** (&amp;attrs), u2 attributeCount);\n...\nprivate:\n    ClassFile raw{};\n    FileReader reader;\n    std::map&lt;size_t, JType*&gt; sfield;\n};\n</code></pre></div><hr/><p>函数名几乎是自解释的，唯一多了个<a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm/blob/master/src/JavaClass.cpp%23L34\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">getMethod()</a>是为了跨距很长的后面的代码执行，它用于在该类中查找函数名（methodName），描述符（methodDescriptor）完全对应的函数：</p><div class=\"highlight\"><pre><code class=\"language-text\">MethodInfo* JavaClass::getMethod(const char* methodName, const char* methodDescriptor) const {\n    FOR_EACH(i, raw.methodsCount) {\n        assert(typeid(*raw.constPoolInfo[raw.methods[i].nameIndex]) == typeid(CONSTANT_Utf8));\n\n        const char* mn = (char*)getString(raw.methods[i].nameIndex);\n        const char* md = (char*)getString(raw.methods[i].descriptorIndex);\n        if (strcmp(mn, methodName) == 0 &amp;&amp; strcmp(md, methodDescriptor) == 0) {\n            return &amp;raw.methods[i];\n        }\n\n    }\n    return nullptr;\n}</code></pre></div><p>最后多说一点，由于这只是一个代码执行引擎的辅助方法，并不是负责完整的方法resolve，所以不需要查找父类，查找接口。</p><hr/><p><b>sfield</b>存放类的静态字段，因为静态字段是类公有，与实例无关的，所以无需存放到堆中。</p><p>sfield使用了map而不是unordered<i>map是因为虚拟机对字段顺序是有严格要求的。</i><a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm/blob/master/src/JavaType.h\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">JType</a>则是虚拟机内部用来表示Java类型的基类，这个后面会提到。（突然想起之前的一个问题 <a href=\"https://www.zhihu.com/question/274137101\" class=\"internal\">java中为为什么给float类型变量赋值需要加F，而给byte、short赋值的时候却不需要呢？</a>...可以看到虚拟机内部必要的存在可以只是int,long,float,double，其他byte,char,short,boolean都可以类型转换为int，这一点后面的虚拟机指令会提供佐证..）</p><p class=\"ztext-empty-paragraph\"><br/></p><hr/><p><b>raw</b>是一个<a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm/blob/master/src/ClassFile.h\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">ClassFile结构体</a>，用来实际存储class解析出的结果。它的结构如下：</p><div class=\"highlight\"><pre><code class=\"language-text\">struct ClassFile {\n    u4 magic;\n    u2 minorVersion;\n    u2 majorVersion;\n    u2 constPoolCount;\n    ConstantPoolInfo** constPoolInfo;\n    u2 accessFlags;\n    u2 thisClass;\n    u2 superClass;\n    u2 interfacesCount;\n    u2* interfaces;\n    u2 fieldsCount;\n    FieldInfo* fields;\n    u2 methodsCount;\n    MethodInfo* methods;\n    u2 attributesCount;\n    AttributeInfo** attributes;\n    ~ClassFile(){...}\n}</code></pre></div><p>这个结构体和规范表述完全对应。之前说的以合理的方式组织其实就是一一对应解析填充结构体，它的实现位于<a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm/blob/master/src/JavaClass.cpp\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">JavaClass.cpp</a>。然后就没了，Class文件解析是体力活，需要非常仔细，漏看一个byte都会直接造成虚拟机崩溃。</p>", 
+            "topic": [
+                {
+                    "tag": "Java 虚拟机（JVM）", 
+                    "tagLink": "https://api.zhihu.com/topics/19566470"
+                }, 
+                {
+                    "tag": "Java", 
+                    "tagLink": "https://api.zhihu.com/topics/19561132"
+                }, 
+                {
+                    "tag": "虚拟机", 
+                    "tagLink": "https://api.zhihu.com/topics/19575631"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "VeroFess", 
+                    "userLink": "https://www.zhihu.com/people/631bd61ec2f6f48a810cab639981048d", 
+                    "content": "有生之年的更新", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "kelthuzadx", 
+                            "userLink": "https://www.zhihu.com/people/88eadbe06dacd1645280e4d826de939a", 
+                            "content": "哈哈 居然还有人记得。。。我会继续更新的", 
+                            "likes": 0, 
+                            "replyToAuthor": "VeroFess"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/35350134", 
+            "userName": "kelthuzadx", 
+            "userLink": "https://www.zhihu.com/people/88eadbe06dacd1645280e4d826de939a", 
+            "upvote": 2, 
+            "title": "自制Java虚拟机 (2.1) Class文件存在的必要性", 
+            "content": "<h2><b># 2.1 为什么要有*.class文件</b></h2><p>二话不说就上代码太粗俗了，我想在写class解析器之前讨论一下class存在的必要性，为什么中间要加一个class文件啊？多加个class文件，虚拟机还得费时费力解析它，直接编译运行省时省力不好吗？为什么中间加个class文件就能实现跨平台呢？</p><p>众所周知，Java编译和运行是完全独立的。它通过编译生成class文件，然后再用JVM读取解析它并运行，籍此实现一次编译，到处运行。那么class文件到底是什么？</p><p>学过编译原理的朋友应该听说中间表示(intermediate representation):</p><blockquote>中间表示：对于推导出的被编译程序的全部知识，编译器需要一种表示，因而，几乎所有编译器都使用某种形式的中间表示，来堆被分析，转换和优化的代码进行建模</blockquote><p>class文件中就包含Java源代码的中间表示，也就是我们常说的字节码(bytecode)。</p><p>比如Java源码</p><div class=\"highlight\"><pre><code class=\"language-java\">    <span class=\"kd\">public</span> <span class=\"kd\">static</span> <span class=\"kt\">void</span> <span class=\"nf\">main</span><span class=\"o\">(</span><span class=\"n\">String</span><span class=\"o\">[]</span> <span class=\"n\">args</span><span class=\"o\">){</span>\n        <span class=\"kt\">int</span> <span class=\"n\">a</span> <span class=\"o\">=</span> <span class=\"n\">0</span><span class=\"o\">;</span>\n        <span class=\"k\">for</span><span class=\"o\">(</span><span class=\"kt\">int</span> <span class=\"n\">i</span><span class=\"o\">=</span><span class=\"n\">0</span><span class=\"o\">;</span><span class=\"n\">i</span><span class=\"o\">&lt;</span><span class=\"n\">10</span><span class=\"o\">;</span><span class=\"n\">i</span><span class=\"o\">++){</span>\n            <span class=\"n\">a</span><span class=\"o\">++;</span>\n        <span class=\"o\">}</span>\n        <span class=\"n\">System</span><span class=\"o\">.</span><span class=\"na\">out</span><span class=\"o\">.</span><span class=\"na\">println</span><span class=\"o\">(</span><span class=\"n\">a</span><span class=\"o\">);</span>\n    <span class=\"o\">}</span></code></pre></div><p>对应的字节码(可使用 <code>javap -verbose x.class</code>查看 )表示就是：</p><div class=\"highlight\"><pre><code class=\"language-text\">0: iconst_0\n1: istore_1\n2: iconst_0\n3: istore_2\n4: iload_2\n5: bipush        10\n7: if_icmpge     19\n10: iinc          1, 1\n13: iinc          2, 1\n16: goto          4\n19: getstatic     #2                  // Field java/lang/System.out:Ljava/io/PrintStream;\n22: iload_1\n23: invokevirtual #3                  // Method java/io/PrintStream.println:(I)V\n26: return</code></pre></div><p>现在可以回答上面的问题了，为什么要多加一个class才能实现一次编译到处运行？因为可以看到上面的字节码都是CPU/操作系统无关的，它不编码任何寄存器信息，不管你用什么CPU，操作系统，编译器编译出来的永远都是这样，对于<code>bipush</code>到底是把数据放到栈里面还是直接用寄存器存这可是你虚拟机的责任和议题。  而类似C++这些语言编译器还要考虑现在系统的寄存器对于这个函数局部变量够不够啊，不够怎么办啊，etc。</p><p>再浏览一下上面的字节码，<code>invokevirtual</code>是虚方法调用，它的操作数是<code>#3</code>，通过上面的注释我们已经知道了<code>#3</code> 是<code>Method java/io/PrintStream.println:(I)V</code>。很明显，它们两者的对应信息一定被编码在了class文件中，要不它是怎么知道的？学过编译原理的朋友现在肯定条件反射这不就是符号表嘛：</p><blockquote>符号表：作为转换过程的一部分，编译器需要推导与被转换程序操控的各种试题攸关的信息。它必须发现并存储许多不同种类的信息。它会遇到各式各样的名字：变量，已定义的常量，过程，函数，标号，结构和文件。</blockquote><p> 是的，class文件不光包括字节码，还包括类似符号表的东西，使得我们可以通过一个下标<code>#3</code>就能定位需要调用的方法，如果我们直接编码<code>invokevirtual  java/io/PrintStream.println:(I)V</code>这样虽然简单明了，但是如果后面再使用这个函数怎么办？再编码一次增加class体积不说还让JVM又花时间解析那么长的字符串得不偿失。</p><p>知道了class存在的必要性，那么我们解析class也就理所当然了。通过上面的论述解析器的任务也有了眉目：解析这个符号表和字节码，把它组织成合理的结构。</p><p></p><p></p>", 
+            "topic": [
+                {
+                    "tag": "Java 编程", 
+                    "tagLink": "https://api.zhihu.com/topics/19582744"
+                }, 
+                {
+                    "tag": "Java 虚拟机（JVM）", 
+                    "tagLink": "https://api.zhihu.com/topics/19566470"
+                }, 
+                {
+                    "tag": "虚拟机", 
+                    "tagLink": "https://api.zhihu.com/topics/19575631"
+                }
+            ], 
+            "comments": []
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/35349040", 
+            "userName": "kelthuzadx", 
+            "userLink": "https://www.zhihu.com/people/88eadbe06dacd1645280e4d826de939a", 
+            "upvote": 43, 
+            "title": "自制Java虚拟机 (1) 简介", 
+            "content": "<p><b>项目地址</b>：</p><a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm\" data-draft-node=\"block\" data-draft-type=\"link-card\" data-image=\"https://pic2.zhimg.com/v2-14822deded41f5ca89bca587bd994c0d_ipico.jpg\" data-image-width=\"371\" data-image-height=\"371\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">racaljk/yvm</a><p>本来我是想直接安利一下我的虚拟机项目<a href=\"https://link.zhihu.com/?target=https%3A//github.com/racaljk/yvm\" class=\" wrap external\" target=\"_blank\" rel=\"nofollow noreferrer\">racaljk/yvm</a>，但是这样投链接太没诚意了，清明假期也没太多事干，干脆写个教程，讲讲它的结构设计也想学学其它人的做法，与君共勉。最后希望oracle不要告我，我赔不起...</p><hr/><p class=\"ztext-empty-paragraph\"><br/></p><h2><b>#1.1 要做到什么程度</b></h2><p>这系列教程的目的是造一个四脏俱全的麻雀，缺一名为垃圾回收的脏。它至少支持如下功能：</p><ul><li>Java基本算数，逻辑运算，流程控制，迭代结构</li><li>静态函数调用，接口方法调用，虚方法调用，实例初始化方法调用</li><li>面向对象特性，继承，虚方法dispatch，运行时类型识别等</li><li>异常处理</li><li>native methods(不支持native方法基本没办法实现输入输出）</li></ul><p>更多特性这篇文章可能不会涉及，有兴趣的可以参见项目源码。</p><p>另外，由于JDK和JVM关系非常密切，JVM的一些指令如<code>ldc</code>,<code>athrow</code>会直接要求虚拟机处理指定的JDK类，所以为了让虚拟机可以运行我们还得重写少部分JDK类。好吧， 这个说起来比较夸张其实完全可以遵循一切从简的信条来重写，工作量并不大，需要重写的类有这些：</p><ul><li><code>java.lang.String</code> </li><li><code>java.lang.StringBuilder</code> </li><li><code>java.lang.Throwable</code> </li></ul><p class=\"ztext-empty-paragraph\"><br/></p><h2><b># 1.2 先有果，再成因</b></h2><p>现在容我因果倒置一下，放几张运行效果。当我们想放弃的时候想想我们的JVM真的能运行，而且工作良好，希望那份愉悦能砥砺我们继续向前 ：） </p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-c247664d5247f5d0d913132ca062a203_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"814\" class=\"origin_image zh-lightbox-thumb\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-c247664d5247f5d0d913132ca062a203_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;960&#39; height=&#39;814&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"960\" data-rawheight=\"814\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"960\" data-original=\"https://pic4.zhimg.com/v2-c247664d5247f5d0d913132ca062a203_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-c247664d5247f5d0d913132ca062a203_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-dc70d50ab4dbea336a69d37fe59fd515_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1223\" data-rawheight=\"639\" class=\"origin_image zh-lightbox-thumb\" width=\"1223\" data-original=\"https://pic2.zhimg.com/v2-dc70d50ab4dbea336a69d37fe59fd515_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1223&#39; height=&#39;639&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1223\" data-rawheight=\"639\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1223\" data-original=\"https://pic2.zhimg.com/v2-dc70d50ab4dbea336a69d37fe59fd515_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-dc70d50ab4dbea336a69d37fe59fd515_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-02172ee5dccb342334d2486bfda5df63_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1107\" data-rawheight=\"597\" class=\"origin_image zh-lightbox-thumb\" width=\"1107\" data-original=\"https://pic4.zhimg.com/v2-02172ee5dccb342334d2486bfda5df63_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1107&#39; height=&#39;597&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1107\" data-rawheight=\"597\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1107\" data-original=\"https://pic4.zhimg.com/v2-02172ee5dccb342334d2486bfda5df63_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-02172ee5dccb342334d2486bfda5df63_b.jpg\"/></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-e8f3cfda66c1124a66501fd44b32056d_b.jpg\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1223\" data-rawheight=\"639\" class=\"origin_image zh-lightbox-thumb\" width=\"1223\" data-original=\"https://pic2.zhimg.com/v2-e8f3cfda66c1124a66501fd44b32056d_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1223&#39; height=&#39;639&#39;&gt;&lt;/svg&gt;\" data-caption=\"\" data-size=\"normal\" data-rawwidth=\"1223\" data-rawheight=\"639\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1223\" data-original=\"https://pic2.zhimg.com/v2-e8f3cfda66c1124a66501fd44b32056d_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-e8f3cfda66c1124a66501fd44b32056d_b.jpg\"/></figure><p></p>", 
+            "topic": [
+                {
+                    "tag": "Java 编程", 
+                    "tagLink": "https://api.zhihu.com/topics/19582744"
+                }, 
+                {
+                    "tag": "Java 虚拟机（JVM）", 
+                    "tagLink": "https://api.zhihu.com/topics/19566470"
+                }, 
+                {
+                    "tag": "虚拟机", 
+                    "tagLink": "https://api.zhihu.com/topics/19575631"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "Flandia Yingman", 
+                    "userLink": "https://www.zhihu.com/people/9729a60f9bda100046664b105b35f04e", 
+                    "content": "<p>WithoutReasonException 笑尿了哈哈哈哈哈啊</p>", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "kelthuzadx", 
+                            "userLink": "https://www.zhihu.com/people/88eadbe06dacd1645280e4d826de939a", 
+                            "content": "该评论已删除", 
+                            "likes": 0, 
+                            "replyToAuthor": "Flandia Yingman"
+                        }, 
+                        {
+                            "userName": "Flandia Yingman", 
+                            "userLink": "https://www.zhihu.com/people/9729a60f9bda100046664b105b35f04e", 
+                            "content": "<p>这个东西底层是 c++ 实现的吗</p>", 
+                            "likes": 1, 
+                            "replyToAuthor": "kelthuzadx"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "借你宝地share一下我写的虚拟机：<a href=\"http://link.zhihu.com/?target=http%3A//github.com/richdyang/jago\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">github.com/richdyang/ja</span><span class=\"invisible\">go</span><span class=\"ellipsis\"></span></a> 另外完全可以不用重写任何JDK的，兼容oracle jdk就好了", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "kelthuzadx", 
+                            "userLink": "https://www.zhihu.com/people/88eadbe06dacd1645280e4d826de939a", 
+                            "content": "之前我也是兼容oracle jdk，后面写不下去了，太复杂，字段太多意义不明，还不如重写", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "自由患者", 
+                    "userLink": "https://www.zhihu.com/people/562b3d78b30d5faa268b3710317959ca", 
+                    "content": "都这么厉害👍", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>DQ8好评</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "科青玄阙", 
+                    "userLink": "https://www.zhihu.com/people/caca7e8499611a95e64feaea2a2e227c", 
+                    "content": "观摩大神如何立地羽化成仙", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/homemadejvm"
+}

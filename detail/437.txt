@@ -1,0 +1,538 @@
+{
+    "title": "Arduino菜鸟通俗版解读系列", 
+    "description": "", 
+    "followers": [
+        "https://www.zhihu.com/people/yz00", 
+        "https://www.zhihu.com/people/feng-xiao-yue-ming-97", 
+        "https://www.zhihu.com/people/luo-fa-xuan", 
+        "https://www.zhihu.com/people/shu-biao-98-70", 
+        "https://www.zhihu.com/people/yi-ge-ping-fan-de-ke-xue-mi", 
+        "https://www.zhihu.com/people/chi-diao-xiao-xian-nu-de-tang", 
+        "https://www.zhihu.com/people/heatherll", 
+        "https://www.zhihu.com/people/wo-bu-shi-yi-ge-shuai-ge", 
+        "https://www.zhihu.com/people/fang-ke-le", 
+        "https://www.zhihu.com/people/xwj-39-19", 
+        "https://www.zhihu.com/people/laixian", 
+        "https://www.zhihu.com/people/pure-jing", 
+        "https://www.zhihu.com/people/duome-80", 
+        "https://www.zhihu.com/people/yyfrank-34", 
+        "https://www.zhihu.com/people/xiao-ming-82-1", 
+        "https://www.zhihu.com/people/aafecn", 
+        "https://www.zhihu.com/people/ugly-21-34", 
+        "https://www.zhihu.com/people/mao-mou-ren-28-18", 
+        "https://www.zhihu.com/people/lan-se-shan-dian-72-3", 
+        "https://www.zhihu.com/people/chen-zhen-38-91-26", 
+        "https://www.zhihu.com/people/dong-fa-fu", 
+        "https://www.zhihu.com/people/xin-sheng-63-72", 
+        "https://www.zhihu.com/people/wang-meng-qi-55-83", 
+        "https://www.zhihu.com/people/freshpartner", 
+        "https://www.zhihu.com/people/zjfhand", 
+        "https://www.zhihu.com/people/su-yu-luo-56", 
+        "https://www.zhihu.com/people/liu-liang-98-20", 
+        "https://www.zhihu.com/people/wa-ha-ha-kuang-quan-shui-46", 
+        "https://www.zhihu.com/people/bing-ling-ying-zi-8", 
+        "https://www.zhihu.com/people/guan-hao-92", 
+        "https://www.zhihu.com/people/fxd-88", 
+        "https://www.zhihu.com/people/yao-ning-59", 
+        "https://www.zhihu.com/people/kba-123", 
+        "https://www.zhihu.com/people/hai-315", 
+        "https://www.zhihu.com/people/wo-bu-shi-bao-12", 
+        "https://www.zhihu.com/people/leecl", 
+        "https://www.zhihu.com/people/zzz-53-15-42", 
+        "https://www.zhihu.com/people/zheng-ling-feng-69", 
+        "https://www.zhihu.com/people/ufo-10-97", 
+        "https://www.zhihu.com/people/xiong-yu-cong-79", 
+        "https://www.zhihu.com/people/zhen-de-jiang-shan-zhen-de-mei-ren", 
+        "https://www.zhihu.com/people/serenity-3", 
+        "https://www.zhihu.com/people/hu-peng-jie-67", 
+        "https://www.zhihu.com/people/xuan-shan-74-42", 
+        "https://www.zhihu.com/people/travis-gan-r", 
+        "https://www.zhihu.com/people/song-tian-43", 
+        "https://www.zhihu.com/people/wu-de-sheng-76", 
+        "https://www.zhihu.com/people/li-bao-yong-89", 
+        "https://www.zhihu.com/people/sha-ye-bu-dong-29-19", 
+        "https://www.zhihu.com/people/zao-wan-du-chong-zao", 
+        "https://www.zhihu.com/people/cao-ding-19", 
+        "https://www.zhihu.com/people/ban-ping-cu-70-80", 
+        "https://www.zhihu.com/people/wu-sheng-cheng", 
+        "https://www.zhihu.com/people/xie-ling-qing-qiu", 
+        "https://www.zhihu.com/people/xia-e-20", 
+        "https://www.zhihu.com/people/zhi-zhi-wei-zhi-zhi-94-68", 
+        "https://www.zhihu.com/people/ye-gui-ren-20-20", 
+        "https://www.zhihu.com/people/qing-jing-22-16", 
+        "https://www.zhihu.com/people/huo-hao-47", 
+        "https://www.zhihu.com/people/xin-55-49", 
+        "https://www.zhihu.com/people/dx-yan-42", 
+        "https://www.zhihu.com/people/ni-zhao-hui-24", 
+        "https://www.zhihu.com/people/dds0201", 
+        "https://www.zhihu.com/people/qing-feng-25-1-45", 
+        "https://www.zhihu.com/people/lkadhf", 
+        "https://www.zhihu.com/people/qing-jiao-rou-si-55", 
+        "https://www.zhihu.com/people/guo-xiao-xiong-59", 
+        "https://www.zhihu.com/people/jack-zhang-32-46", 
+        "https://www.zhihu.com/people/zui-hou-de-qi-shi", 
+        "https://www.zhihu.com/people/lin-zhu-28-47", 
+        "https://www.zhihu.com/people/wyr-58-19", 
+        "https://www.zhihu.com/people/yanhui333666", 
+        "https://www.zhihu.com/people/yixie-zi-mo", 
+        "https://www.zhihu.com/people/zhao-yan-sheng-59", 
+        "https://www.zhihu.com/people/qiu-zhi-ze-hu-46", 
+        "https://www.zhihu.com/people/xiao-hao-68-6", 
+        "https://www.zhihu.com/people/zsx4mp", 
+        "https://www.zhihu.com/people/lao-er-hen-you-ai", 
+        "https://www.zhihu.com/people/cha-cha-80-73", 
+        "https://www.zhihu.com/people/2017440722", 
+        "https://www.zhihu.com/people/tiko-yoo", 
+        "https://www.zhihu.com/people/min-er-qiu-si", 
+        "https://www.zhihu.com/people/SimonZhihu", 
+        "https://www.zhihu.com/people/yang-yang-75-12-10", 
+        "https://www.zhihu.com/people/wang-lancewer", 
+        "https://www.zhihu.com/people/crosstyan", 
+        "https://www.zhihu.com/people/a-chen-zha-xue-xiao", 
+        "https://www.zhihu.com/people/tiao-66", 
+        "https://www.zhihu.com/people/codechangeworld", 
+        "https://www.zhihu.com/people/shiwen", 
+        "https://www.zhihu.com/people/huang-qi-ming-59-42", 
+        "https://www.zhihu.com/people/xiaomaidexianpitang", 
+        "https://www.zhihu.com/people/lao-na-86", 
+        "https://www.zhihu.com/people/yimi606", 
+        "https://www.zhihu.com/people/fei-xiang-de-cai-dao-34", 
+        "https://www.zhihu.com/people/swiftcai", 
+        "https://www.zhihu.com/people/sheng-lai-zi-you-81", 
+        "https://www.zhihu.com/people/33coffee", 
+        "https://www.zhihu.com/people/LuHuQ", 
+        "https://www.zhihu.com/people/jin-qi-22-14", 
+        "https://www.zhihu.com/people/ewen80", 
+        "https://www.zhihu.com/people/shu-sheng-zong-72", 
+        "https://www.zhihu.com/people/peng-shan-qing-7", 
+        "https://www.zhihu.com/people/qiu-qiu-55-35-58", 
+        "https://www.zhihu.com/people/yu-ke-87-23", 
+        "https://www.zhihu.com/people/zhang-xiao-yu-71-47", 
+        "https://www.zhihu.com/people/wu-wei-si-shi-39", 
+        "https://www.zhihu.com/people/bei-ta-89-92", 
+        "https://www.zhihu.com/people/run-lee-59", 
+        "https://www.zhihu.com/people/ryan-29-68-90", 
+        "https://www.zhihu.com/people/chris-49-41-64", 
+        "https://www.zhihu.com/people/shi-er-shui-he-liu-suan-yu", 
+        "https://www.zhihu.com/people/zhang-shuai-9-51", 
+        "https://www.zhihu.com/people/hou-ye-13-66", 
+        "https://www.zhihu.com/people/hellojinyun", 
+        "https://www.zhihu.com/people/gy-register", 
+        "https://www.zhihu.com/people/pu-gong-ying-de-chi-bang-4", 
+        "https://www.zhihu.com/people/liang-xi-si", 
+        "https://www.zhihu.com/people/cheng-xing-37-35", 
+        "https://www.zhihu.com/people/jing-a-5", 
+        "https://www.zhihu.com/people/huang-ke-24", 
+        "https://www.zhihu.com/people/yuchen-wei-94", 
+        "https://www.zhihu.com/people/HangFu", 
+        "https://www.zhihu.com/people/devins", 
+        "https://www.zhihu.com/people/elevenhours", 
+        "https://www.zhihu.com/people/liu-he-bin-76", 
+        "https://www.zhihu.com/people/xie-zi-97-20-69", 
+        "https://www.zhihu.com/people/fan-fu-93-59", 
+        "https://www.zhihu.com/people/xiao-xiao-wu-fan-42", 
+        "https://www.zhihu.com/people/rose-pan-12", 
+        "https://www.zhihu.com/people/da-xiao-chao-83", 
+        "https://www.zhihu.com/people/gao-qing-dong-84", 
+        "https://www.zhihu.com/people/ezio_pan", 
+        "https://www.zhihu.com/people/zhong-xin-zuo-ren-liao", 
+        "https://www.zhihu.com/people/huang-en-da-11", 
+        "https://www.zhihu.com/people/jie-jie", 
+        "https://www.zhihu.com/people/qing-jiao-wo-da-lei-shen", 
+        "https://www.zhihu.com/people/liu-mao-xing", 
+        "https://www.zhihu.com/people/xingguiyang", 
+        "https://www.zhihu.com/people/liang-qiu-zi", 
+        "https://www.zhihu.com/people/liu-lang-shi-ren-4", 
+        "https://www.zhihu.com/people/zheng-xiao-bin-0808", 
+        "https://www.zhihu.com/people/tonychen6666", 
+        "https://www.zhihu.com/people/zhang-david-43", 
+        "https://www.zhihu.com/people/sheldonsun", 
+        "https://www.zhihu.com/people/can19zhao", 
+        "https://www.zhihu.com/people/xin-xi-tian-xia-zhi-cun-gao-yuan-29", 
+        "https://www.zhihu.com/people/piu-piu-22", 
+        "https://www.zhihu.com/people/hegang-Wallace", 
+        "https://www.zhihu.com/people/chen-fei-37-9", 
+        "https://www.zhihu.com/people/rui-jia-33-6", 
+        "https://www.zhihu.com/people/zhang-xiao-kai-64", 
+        "https://www.zhihu.com/people/liuminrui", 
+        "https://www.zhihu.com/people/ai-nuo-zhou", 
+        "https://www.zhihu.com/people/liu-lang-yuan-zui", 
+        "https://www.zhihu.com/people/zhang-da-wen-17-72", 
+        "https://www.zhihu.com/people/yeu-yang", 
+        "https://www.zhihu.com/people/xiao-wu-ya-36-80", 
+        "https://www.zhihu.com/people/du-du-jiu-17", 
+        "https://www.zhihu.com/people/dijkstra-66", 
+        "https://www.zhihu.com/people/huang-chen-65-86", 
+        "https://www.zhihu.com/people/glitter-32", 
+        "https://www.zhihu.com/people/pi-pi-pi-pi-pi-xi", 
+        "https://www.zhihu.com/people/yong-hu-5136409168", 
+        "https://www.zhihu.com/people/andymaker", 
+        "https://www.zhihu.com/people/davi3119", 
+        "https://www.zhihu.com/people/yang-yun-long-26", 
+        "https://www.zhihu.com/people/robin-53-25", 
+        "https://www.zhihu.com/people/xiao-yu-zhou-35-9", 
+        "https://www.zhihu.com/people/feng-zheng-50-7", 
+        "https://www.zhihu.com/people/jian-zhi-jiu-tian-22", 
+        "https://www.zhihu.com/people/phily-2", 
+        "https://www.zhihu.com/people/zhao-qing-5-36", 
+        "https://www.zhihu.com/people/dai-min-biao", 
+        "https://www.zhihu.com/people/karoe-49", 
+        "https://www.zhihu.com/people/hardy-19-13", 
+        "https://www.zhihu.com/people/jie-wen-61-83", 
+        "https://www.zhihu.com/people/wang_yuanfeng", 
+        "https://www.zhihu.com/people/liu-sheng-han-72", 
+        "https://www.zhihu.com/people/huang-si-han-61", 
+        "https://www.zhihu.com/people/he-hong-xin-31", 
+        "https://www.zhihu.com/people/li-ke-90-49", 
+        "https://www.zhihu.com/people/zhu-hong-yu-80-35", 
+        "https://www.zhihu.com/people/qian-bi-86-60", 
+        "https://www.zhihu.com/people/ylren", 
+        "https://www.zhihu.com/people/ngls233", 
+        "https://www.zhihu.com/people/chang-deng-shang-de-madao", 
+        "https://www.zhihu.com/people/zou-shi-hao-59", 
+        "https://www.zhihu.com/people/vontuo", 
+        "https://www.zhihu.com/people/richpower", 
+        "https://www.zhihu.com/people/wang-kuan-57-47", 
+        "https://www.zhihu.com/people/xuyang-46", 
+        "https://www.zhihu.com/people/da-shuai-ge-93-78", 
+        "https://www.zhihu.com/people/huo-xing-shang-de-tang-mu-mao", 
+        "https://www.zhihu.com/people/shang-shang-81", 
+        "https://www.zhihu.com/people/xun-zhi-74", 
+        "https://www.zhihu.com/people/sun-jiu-73-21", 
+        "https://www.zhihu.com/people/tang-cu-yu-77", 
+        "https://www.zhihu.com/people/chen-xiao-shan-89", 
+        "https://www.zhihu.com/people/wo-men-chang-da-liao", 
+        "https://www.zhihu.com/people/houcruiser", 
+        "https://www.zhihu.com/people/zeng-yong-xin", 
+        "https://www.zhihu.com/people/Hao-Maus", 
+        "https://www.zhihu.com/people/bu-gao-su-ni-47-10", 
+        "https://www.zhihu.com/people/tao-sheng-yi-jiu-57-28", 
+        "https://www.zhihu.com/people/sai-30-77", 
+        "https://www.zhihu.com/people/juchun-tien-21", 
+        "https://www.zhihu.com/people/lifanjie", 
+        "https://www.zhihu.com/people/xu-zi-yi-77-97", 
+        "https://www.zhihu.com/people/liu-yin-xing", 
+        "https://www.zhihu.com/people/tian-jin-da-xue-xie-xu-dong", 
+        "https://www.zhihu.com/people/ymirsoft", 
+        "https://www.zhihu.com/people/hai-hai-hai-wei-xiao-de", 
+        "https://www.zhihu.com/people/da-pang-pang-de-rou", 
+        "https://www.zhihu.com/people/yuan-hou-de-pao-xiao", 
+        "https://www.zhihu.com/people/13456822884", 
+        "https://www.zhihu.com/people/zhao-wu-ming-10", 
+        "https://www.zhihu.com/people/xing-qing-26-38", 
+        "https://www.zhihu.com/people/ban-zui-ren-sheng", 
+        "https://www.zhihu.com/people/xuan-yi-45-69", 
+        "https://www.zhihu.com/people/brant-68-97", 
+        "https://www.zhihu.com/people/feng-san-jin-14", 
+        "https://www.zhihu.com/people/silentsummer1024", 
+        "https://www.zhihu.com/people/chen-xiao-jie-61-8", 
+        "https://www.zhihu.com/people/zhang-peng-99-61", 
+        "https://www.zhihu.com/people/cai-jun-85-35", 
+        "https://www.zhihu.com/people/xu-yifan-69", 
+        "https://www.zhihu.com/people/liu-xiao-81-15", 
+        "https://www.zhihu.com/people/li-yun-hai-2", 
+        "https://www.zhihu.com/people/cao-shi-xiang", 
+        "https://www.zhihu.com/people/zheng-si-rui-11", 
+        "https://www.zhihu.com/people/lao-bing-87-49", 
+        "https://www.zhihu.com/people/jin-yan-35-75", 
+        "https://www.zhihu.com/people/zhou-min-chuan-47", 
+        "https://www.zhihu.com/people/marcuspoon", 
+        "https://www.zhihu.com/people/xiao-mao-43-46-19", 
+        "https://www.zhihu.com/people/zhang-jun-37-79", 
+        "https://www.zhihu.com/people/da-xia-guo", 
+        "https://www.zhihu.com/people/yu-li-39-82", 
+        "https://www.zhihu.com/people/wang-xiong-96-73-67", 
+        "https://www.zhihu.com/people/zhangsan-97-39", 
+        "https://www.zhihu.com/people/shine-win", 
+        "https://www.zhihu.com/people/lu-zhou-35-80", 
+        "https://www.zhihu.com/people/hhh-52-35"
+    ], 
+    "article": [
+        {
+            "url": "https://zhuanlan.zhihu.com/p/42176015", 
+            "userName": "johnson", 
+            "userLink": "https://www.zhihu.com/people/f75938c9ea49b8623dcb13e2f21df18b", 
+            "upvote": 19, 
+            "title": "Arduino菜鸟通俗版解读系列（3）库与类", 
+            "content": "<p>通过上两次的介绍，大家应该对Arduino有了一个大致的概念。<b><i>Arduino无非就是读入一个模拟信号，然后按照你编制的程序给出一个对应的输出信号，这个输出信号又去驱动一个执行件。</i></b>那么好，这一篇我们暂时放开Arduino面板本身，来介绍一个叫做“库”的东西。为什么要说这个“库”呢？正是因为Arduino拥有很多“库”，所以它才会这么容易上手。</p><p>为了说清楚什么是“库”，这一篇我打算回答两个问题：</p><p>1）“库”是用来做什么的？</p><p>2）Arduino中有什么库？（举例）</p><p>先讲第一个问题，<b><i>“库”是用来做什么的？</i></b></p><p>        “库”这个概念其实广泛存在于各种编程语言中，有的编程语言本身就是一个大“库”。任何问题都讲究一个来龙去脉，先说为什么会出现这种概念，它是基于什么原因和背景而出现的。那么好，<b><i>先讲讲为什么会有“库”这种概念出现</i></b>。大家上学的时候应该基本都接触过C语言，C语言很多人说它很难，但是有的人说JAVA这种语言很难，其实我觉得这个难不难要看你处于什么阶段，C语言是上手容易精通难，JAVA是上手难精通容易。为啥？因为C语言内容相对少，基本上就是给你介绍数据结构，然后教你一个指针，剩下的你就自己运用这些简单工具去拼凑代码即可；而JAVA相反，JAVA一上来给你很多命令，一种命令对应解决一个特定问题，世界上问题千千万万，所以JAVA命令也千千万万。这样一来就会发现看书的时候C一下子看完了，但是轮到写代码的时候一头雾水，JAVA看了半天一半还没看完，不过好像用起来挺方便，遇到啥问题直接查有没有对应解决问题的命令即可。这就像C给了你一把锤子和一个锯子让你去盖楼，学着容易真正要盖楼那太难；JAVA是给你一整套工程机械，学起来巨痛苦，但是学会了以后各种效率高，摩天大厦也不在话下。</p><p>        OK，讲到这里有同学可能说：“这些尼玛和库有半毛钱关系？”，别急马上说到了。既然C这么难用，那我们不用C了呗，用好用的编程语言，比如Python，号称一周上手。但是我们看问题要从历史角度看，C是低级语言，又是最早发明的语言之一（我不知道是不是最早的那一个，但肯定属于最早的之一）那个年代人们没啥选择只能用低级语言，低级语言都一个样“难用”，于是有人就想：“<b><i>我可不可以采用类似”函数“的方式，在C语言的基础上创造一些新的命令，然后人们只需要直接调用这些命令而不需要自己从头去搭建算法？</i></b>”（相信看过上一篇文章的同学会很容易理解什么叫“函数”），当然可以啊，于是这帮人创造了一大批的“函数”这些函数能够直接解决某一领悟基本上所有问题，然后这帮人把这些“函数”打了个包，我们叫这一大包的函数为“库”。<b><i>所以“库”就是一堆函数的集合</i>。</b>概念就这么简单，不过按照惯例我还是要举个例子，以便更加通俗地解释一下。其实光看“库”这个名字就很形象，库就是工具库，例如我有一整套的厨具，然后这套厨具的分类非常细，里面的工具可以针对不同的刀工和食物，就拿做鱼来讲，可能去鳞会有专门的去鳞刨子，然后去内脏有专门的钩子，去骨又有专门的小弯刀，拔刺还会有专门的镊子，最后切鱼肉还有专门的刺身刀。这些工具组成了一个专门的库，叫“杀鱼库”；库里面全是有针对性的工具（函数），这些工具又是怎么做出来的呢？其实还是靠原始工具（相当于C语言）敲敲打打做出来的嘛。那么作为我们普通人，直接买一套“杀鱼库”就可以很方便的杀鱼了，杀起来搞不好比古代的专业厨师也不逊色，这就是“库”的意义。像Matlab，就可以看成一个巨大无比的库，Matlab本身就是一个美国教授为了让他的研究生更加快捷地进行数学计算，从而在C的基础上二次开发出来的一套函数命令集。例如，为了给一串数字1，2，3，4，5从小到大排序，C语言要写一堆代码来实现，然而Matlab可能就一个命令就完成了sort（1,2,3,4)，回车（意思下，语法可能不是这样写的），而在这个命令sort的背后则是打包好的一堆C语言指令，对你来说就是黑匣子，不必知道其运行原理，你只管用就可以了。所以库里面有很多很多的函数可以用。</p><p>        好了，讲完了“库”出现的背景和其意义，<b><i>接下来说一下Arduino里面有什么“库”。</i></b></p><p>举个例子来说，舵机控制在Arduino中就是通过一个“库”来完成的，如图1和图2。先看图1，大家注意看第一行命令：<b><i>#include&lt;Servo.h&gt;;</i></b>这句话的意思就是<b><i>调用伺服电机库，</i></b>所谓伺服电机就是舵机。因为伺服电机的运动方式是按照角度运动的，所以人们通常用它来当“舵”来控制飞机或船的方向，所以也叫“舵机”。当然，有的同学可能懂舵机的控制原理，其实舵机就是按照第一篇中讲的PWM控制方式来控制，按照不同的“占空比”来控制舵机旋转角度。所以如果你懂这个底层原理，你也可以不调用伺服电机库，完全通过自己写代码来控制“占空比”进而实现舵机旋转。但是你会发现如果使用“伺服电机库”，你会非常容易控制舵机，你要做的就是给出一个旋转角度，然后传给Arduino即可。当然图1中的代码我还添加了串口通信，能够通过电脑实时控制舵机转角，所以代码会复杂一些。</p><p class=\"ztext-empty-paragraph\"><br/></p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-6bfa445a6871c8e7f9e6e273360a6cf8_b.jpg\" data-rawwidth=\"498\" data-rawheight=\"599\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"498\" data-original=\"https://pic1.zhimg.com/v2-6bfa445a6871c8e7f9e6e273360a6cf8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;498&#39; height=&#39;599&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"498\" data-rawheight=\"599\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"498\" data-original=\"https://pic1.zhimg.com/v2-6bfa445a6871c8e7f9e6e273360a6cf8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-6bfa445a6871c8e7f9e6e273360a6cf8_b.jpg\"/><figcaption>图1</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-44a48a0898545f6f0d6705a4fa5697e7_b.jpg\" data-rawwidth=\"500\" data-rawheight=\"597\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-44a48a0898545f6f0d6705a4fa5697e7_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;597&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"500\" data-rawheight=\"597\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic4.zhimg.com/v2-44a48a0898545f6f0d6705a4fa5697e7_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-44a48a0898545f6f0d6705a4fa5697e7_b.jpg\"/><figcaption>图2</figcaption></figure><p>以伺服电机为例子，图1和图2中我只讲打了红框的几条语句，它们都属于伺服电机库中的语句，其余的语句有的属于串口通信，有的只是一些循环和赋值代码，纯粹是编程的一些逻辑问题就暂时先不讲了，后面有机会专开一篇来讲编程的逻辑。</p><p>1）#include&lt;Servo.h&gt;;------这句话前面讲了，意思就是调用“伺服电机库”；你只有调用了这个库，然后才能使用这个库里面的命令。</p><p>2）Servo servo1；------这句话可能会比较难解释一点。先说下含义，这句话是定义一个“类”，这个“类”的名字叫servo1。那么什么是“类”呢？类的概念其实和函数很相似，所以在很多书上讲解的非常让人费解，他们会说”类“是面向对象的一种方法，“函数”是面向过程的一种方法。我这里尝试着用自己的理解来说明。先说一下简单定义：<b><i>““类“就是一堆拥有特殊用途的“函数”，这些函数只能用在某一种特定的问题上。”</i></b> 有点抽象对吧，下面来举例说明。”类“就是种类的意思，比如“猫”我们说是一个种类，但是具体到描述猫的行为的时候，电脑需要你先指明是什么猫，比如我家的猫，小张家的猫等等，在指明了是哪儿来的猫以后才能够开始对猫进行操作。所以这里我们需要先把Servo这个类<b><i>实例化</i></b>，也就是指明现在有一个Servo类，它的名字叫servo1，然后才能够对它进行操作，当然你也可以随便取名，a,b,c,bike,plane都可以只要你自己过几天还知道啥意思就可以。在图1和图2 中，这就相当于你给你要控制的舵机取了一个名字，叫servo1。servo1 就是你要控制的舵机。不需要纠结为啥非要取个名字，反正你得取一个就是了。</p><p>3）servo1.attach（5）；servo1.write（angle);------这两句话我打算一起说，因为都是一个话题。上面我们说到给伺服电机取名字，好，现在取完名字了，接下去就可以开始对伺服电机进行操作了。servo1.attach（5）就是说把5号数字接口作为舵机的控制口；servo1.write(angle);意思就是往5号口里面写入angle这个角度值。这样舵机就会旋转一个等于angle的角度，当然在这代码背后，这个角度会被转化成相应的占空比然后才能操控舵机，不过这都是库帮你完成的，你不用管了，所以很方便。好，其实功能已经讲完了，舵机也可以运转了，不过结合这两条语句，我想再进一步讲解下“类”这个概念。类这个概念确实和函数很相似，以至于我觉得完全可以只有函数而不需要类，但是为什么还是出现了“函数”和“类”这两种概念呢？我猜可能基于以下这种发展过程：</p><p>        很久很久以前有一个智者，基于上一篇我讲过的酒吧点菜场景的缘由，他为了方便别人编程打算写一大堆函数。这些函数中有一些是简单的函数，可以实现自动排序功能，比如无论你给出1，2，3，4，5还是6，8，7，9，2，排序函数都可以完美地帮你排序，因为背后的算法是一样的，也就是说用一套统一的算法就可以完成所有场景下的排序问题。好，随着智者工作的深入，他开始写一些高级的函数了，其中有个函数叫climbTree函数，也就是爬树函数，这个函数可以让一只机器猫实现爬树的动作，而且用起来很方便，你只需要直接调用climbTree即可，背后怎么个爬法这位智者都写好了。然而第二天他发现一个问题，因为今天他想写另一个爬树函数，但是是控制机器昆虫的，由于机器昆虫的爬树机理和机器猫的机理不一样，所以他不能够用昨天那条climbTree命令，这个很好理解吧，机器猫爬树可能是通过四肢抱紧树干然后爬上去，机器昆虫可能根本就没有四条腿，它们可能只有两条触角，然后通过锋利的触角插入树干从而获得爬升力的。所以他必须重新写一个爬树函数，这个爬树函数是根据机器昆虫的爬树方式写的，写完后他想取个名字，为了区别他取名为Bug.climbTree, 也就是说这个爬树函数是给虫子用的，那么好昨天那个爬树程序他也干脆重新取了一个名字，叫cat.climbTree，用来和虫子的爬树函数进行区分。随着这位智者写的函数越来越多，他发现不同对象的同一种行为往往会有不同的机理，所以他不能够采用相同的函数一揽子全概括进去，也就是说虽然都叫爬树，但是虫子和猫的方式和机理是不同的，然后壁虎也会爬树并且壁虎的爬树机理又自成一体，也就是说它们的爬树方法背后的算法都是不同的，为了区别这些不同对象的爬树动作，于是这位智者发明了“类”这个概念，也就是说你先要讲清楚让谁爬树，然后我才能根据你的对象给你推荐算法。这就是我理解的“类”出现的原因。当然，按照这种解释，类其实可以完全用“一般函数”代替掉的，因为既然猫和虫子的爬树机理不同，那我也懒得去区分猫和虫子了，对于猫爬树我直接叫“攀登”；对于虫子爬树我叫“爬树”就好了，所以以后你想控制机器猫爬树，你就用“攀登”函数，你想让虫子爬树“你就用”爬树“函数。” 当然可以了，只不过世界上物种千千万，采用“类”这种方法还是最简洁最清晰的。</p><p>        讲了这么多，既有“库”也有“类”，你可以简单理解为“类”是一种特殊的函数，它和普通函数不同，它需要先对象化才能够使用（事实上“类”不仅仅有“类的函数”，“类”还有“属性”一说，不过对于Arduino编程来说你可以不用了解那么多），然后不管是特殊的函数“类”还是普通的函数，它们可以被打包成一个“库”。所以，在Arduino开发过程中，你要控制的所有传感器和集成芯片都可以有一个对应的库来帮你简化控制程序的编写，让你的编程更加贴近直观感受，所以Arduino才这么容易上手。最后说一句，这么多的库是哪儿来的呢？网上各种爱好者和大牛编写的，他们写好一个库，然后你可以下载下来，放到Arduino的目录中使用。这就是所谓的开源，Arduino是开源系统，谁都可以给它写“库”，这些库你可以直接上Arduino官网上下载或者上gitHub上下载。也正是这样，同样是控制舵机，你也会找到很多种不同的&#34;库&#34;,你可以选一个最容易使用的来用。</p>", 
+            "topic": [
+                {
+                    "tag": "编程", 
+                    "tagLink": "https://api.zhihu.com/topics/19554298"
+                }, 
+                {
+                    "tag": "Arduino", 
+                    "tagLink": "https://api.zhihu.com/topics/19581430"
+                }, 
+                {
+                    "tag": "嵌入式系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19565752"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "伺服电机这个有电路图吗？", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "johnson", 
+                            "userLink": "https://www.zhihu.com/people/f75938c9ea49b8623dcb13e2f21df18b", 
+                            "content": "没有诶。。。我自己用也是用一个功能，没有深究里面的电路。。。", 
+                            "likes": 0, 
+                            "replyToAuthor": "知乎用户"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/50398555", 
+            "userName": "johnson", 
+            "userLink": "https://www.zhihu.com/people/f75938c9ea49b8623dcb13e2f21df18b", 
+            "upvote": 68, 
+            "title": "Arduino菜鸟通俗版解读系列（10）PID控制（上）", 
+            "content": "<p>        终于要讲一个非常有用的东西了---比例积分微分控制（PID控制）。PID控制非常重要，重要到几乎所有现代化产品都有它的身影。在我看来牛顿力学构建了整个工业化的理论基础，而PID控制是让这个理论变成真实产品的基础。<i><b>PID这个主题主要讲两方面的问题：1.PID控制的原理；2.怎么调PID参数</b>。</i>本片现讲第一个问题，关于怎么调节PID参数在下一篇中将结合无人机进行介绍。</p><p><b><i>1.PID控制的原理</i></b></p><p>        关于PID到底是什么东西，网上有不少文章和视频，但是我觉得他们讲的都非常抽象，究其原因我觉得主要有两点没有讲好：</p><p>a.没有讲清楚PID这种东西出现的背景是什么？也就是为什么人类会莫名其妙地发明PID这个东西，牛顿力学难道还不够我们统治世界吗？</p><p>b.公式太多太杂。数学公式是一种精炼过的语言，对于初学者它不是一种可以很容易让人产生共鸣的语言。当然数学公式的好处在于它非常严谨，能够把所有特殊情况都包含进去，但是我还是打算用比喻和例子来讲解PID控制。</p><p>        如果大家看过我之前的文章，应该知道我通常会按照以下的顺序讲解问题： a.问题出现的背景；b.解决问题的思想；c.实现这种思想的具体方案。关于PID控制我们也可采用这样一种思路来讲：a.到底是什么现实问题让人们去寻觅一种控制方法？b.针对这种问题人们想出了什么样的一种方案？c.这种方案是怎么被具体实施的？（这种具体的实施办法就是PID控制）</p><p><i><b>a.什么样的现实问题让人们不得不去寻觅一种控制方法？</b></i></p><p>        这个问题简单的说就是PID控制出现的背景。我们知道整个现代科技的开端通常被认为是以牛顿的三大定理为起始点，也就是说我们目前所有的科技产品都是以牛顿三大力学定理为理论基础，比如说火箭，说白了就是运用牛顿第三定律的作用力和反作用力而制造出来的。但是真的这么简单吗？或者说在牛顿归纳出牛顿三大定律以后为什么过了那么久人类才能够真正制造出飞机，火箭？这就涉及到一个问题：理论和工程技术之间是有区别的。理论只是论证了一种可行性，而如何去实现则是工程问题。举个例子来说，牛三定律告诉我们如果我们把一个足够大质量的物质向下抛出去，那么我们可以获得一个向上的力，于是我们可以飞起来。很棒，但是问题是我们怎么才能把一个那么大质量的物质抛出去呢？以人类的力量似乎办不到。这就像阿基米德说过的一句话：“给我一个支点，我就能撬起地球。”但是你能找到这样一个支点吗？不能。所以理论上的东西始终只能停留在纸面上，缺少了工程技术它就无法变成现实。</p><p>        但是人类是不可能被这种问题难住的，在牛顿三大定律出现后近一个世纪，瓦特发明了第一台具有实用价值的动力机器---蒸汽机，在我看来蒸汽机出现的意义一点都不比牛顿三大定律小，因为蒸汽机的出现标志着燃机时代的来临，要知道直到今天我们整个人类文明的动力来源依然是构建的燃机之上的，唯一区别只是现在的内燃机效率比瓦特的蒸汽机高了许多。那么好，蒸汽机的出现解决了上面讲到的一个重大问题，即理论上我们可以运用机器的力量将一个足够大质量的物质抛出去了。借助于机器的力量我们可以迸发出超越人类自身的力量，这就让一个停留在纸面上的火箭构想能够出现在现实当中了。当然真正的火箭不可能用蒸汽机作为动力，因为蒸汽机的效率太低了，推重比也太小了，煤的能量密度也不够，但是这里的关键是后续的火箭发动机，说白了也是利用和蒸汽机一样的原理实现的。（这里不去过多介绍燃机的知识，因为严格地讲蒸汽机属于外燃机，而我们常见的汽车和飞机的发动机属于内燃机，类似的还有斯特林发动机也属于外燃机，外燃机目前已经很少见了，但是潜艇上依然在使用外燃机，潜艇用的是斯特林发动机，因为潜艇不可能像汽车一样排出尾气，所以斯特灵外燃机内部的动力气体是循环利用的，不像汽车内部的气体燃烧产生推力后就成为废气排出发动机体了）</p><p>        OK，有了理论基础，又有了动力装置，一切似乎已经呼之欲出了。那么我们是不是就可以造火箭了呢？残酷的现实再一次打击了我们：NO，我们还是不能造出真正可用的火箭。为什么？这儿就要提出一个问题了，而这个问题恰恰就是PID控制理论出现的原因。<i><b>这个问题就是：“当火箭飞上天的时候，我们怎么保证它不会被风吹翻呢？”</b></i>怎么样？是不是一个很现实的问题？当我们尝试着去真正实现一个工程问题的时候，我们会发现这背后有太多需要解决的问题，而这些现实的工程问题催生出了一门学科---控制理论。不仅仅是火箭，<i><b>几乎所有现代技术产品都面临这样一个问题：“如何保证它们不会受到外界干扰因素的影响。”而这就是控制理论要解决的问题。</b></i>飞机怎么能保证不被风刮跑？火车怎么保证刚好停靠在站点的那道黄线上？空调怎么保证能够在一个温度剧烈波动的环境下稳稳地把温度控制在25度？</p><p>        所以讲到这里，大家应该明白了PID控制之所以会出现的原因了吧？它其实是人类一步一步实现工程应用的过程：牛顿力学定律---蒸汽机的发明---PID控制理论的出现。而当PID控制理论出现后，人类才真正能够说我们终于能够将牛顿力学转化成科技产品了。</p><p><i><b>b.针对上述的现实问题，人们想到了什么样的方案来解决？</b></i></p><p>        这种解决方案就是PID控制，可是PID控制是什么东西？为了说明这个问题我打算用地铁停靠站点作为例子来讲解。其实可用的例子非常多，但是我觉得地铁停靠这个例子最容易理解。那么好，地铁停靠站点这个例子中，存在的现实问题是什么？就是：地铁怎么才能够刚刚好停在那个指定的点上？为什么非要停在一个指定的点上？坐过地铁的朋友肯定知道，地铁往往会有一个防护栏，而防护栏上的门的位置是固定的，假如地铁每次都随意停靠的话那么就会出现地铁的门和防护栏上的门对不上，于是会出现什么情况大家脑补一下吧。所以地铁必须每次都刚刚好停在一个固定位子上。那么为了让地铁每次都能停在同一个指定位置处，该怎么做呢？很简单：不断调整地铁的动力大小，假如离得太远就踩踩油门，假如冲的太快感觉要冲过头那就踩踩刹车。“啥？你忽悠我呢？”肯定会有朋友惊叫着想抽我。可是你没看错，所谓的解决方案就是这样的。这不就是老司机开车吗？老司机开车不就是这样来把控车子的位子的嘛？这就是所谓的高端大气上档次的PID控制？面对这样的质疑，我不得不说答案可能会让你失望，“对，这就是PID控制的基本思想！它其实就来源于我们天生的本能反应。而它所作出的仅有的一点点改进只是让机器代替人类来做这样一个调整工作。”</p><p><i><b>c.PID控制是怎么具体实施的？</b></i></p><p>        以地铁为例，上面我们说到PID控制的基本思想无非就是“根据地铁目前的运动状态，踩踩油门踩踩刹车”，那么具体它是怎么做到什么时候踩油门，什么时候踩刹车的呢？” 好，当你提出这个问题的时候，就是你真正意识到PID控制本质的时候了，那么前面那一大篇幅的引导也算不枉我费口舌了。</p><p>现在请跟着我的思路来，我将带你进入PID的世界。</p><p><b><i>1）比例控制项</i></b></p><p>        首先，让我们想象这样一个场景：你作为地铁司机，这时候地铁正在驶入地铁站，但是由于地面摩擦力的影响，地铁在不断减速而你觉得地铁可能没办法停到指定位置。这时候你会做什么？很简单，你会踩油门稍稍推那么一把，对不对？那么好，让我们进一步提炼一下这个操作，把它提炼成一个数学模型。我问：“你怎么样来把控油门的大小？”嗯，不要把问题想得太复杂，答案很简单，根据地铁和指定点之间的距离来设置油门大小。<b><i>换句话说就是：“离开指定点越远，油门给的越多；离指定点越近，油门给的越小；并且两者之间可以看作一个线性正比例关系”。</i></b>非常好，我们现在就已经在构建PID控制的公式了：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-6152aef5e7949248557b62353388ebba_b.jpg\" data-size=\"normal\" data-rawwidth=\"187\" data-rawheight=\"60\" class=\"content_image\" width=\"187\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;187&#39; height=&#39;60&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"187\" data-rawheight=\"60\" class=\"content_image lazy\" width=\"187\" data-actualsrc=\"https://pic3.zhimg.com/v2-6152aef5e7949248557b62353388ebba_b.jpg\"/><figcaption>图1</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>        如图1所示，Force代表油门大小，e代表当前位置与指定点的距离差（我们把这一项也称作“误差”，就是“当前状态”和“目标状态”之间的误差），ap是比例系数（这个比例系数需要我们自己来设定）。这就是P控制，也叫比例控制项。为啥叫比例控制项？很容易理解，因为Force和e成正比例关系嘛，e实际上就是“当前值”与“目标值”的误差。在地铁进站的例子中“当前值”就是当前地铁的位置，“目标值”就是指定点的位置，而当前地铁的位置离指定点的距离大小就是一个“误差”。怎么样？是不是很简单。这里需要提醒一点，图1中的公式左右两侧的物理含义是不一样的，它们只是数值上的相等关系。这个怎么理解呢？我们说距离的单位是“米”，油门的单位假设是“升／分钟&#34;，另外假设比例系数取0.01，好，假设现在我们距离目标点还有500米，这时候根据图1的计算公式，油门应该给0.01 x 500米=5 升／分钟。明白了没有？公式两端的单位是可以不一样的，我们想要的只是这样一个数值关系，也就是说按照数学关系，这个5的单位应该是“米”，但是我们不管这么多，我们强行把5当作油门大小来用，即“升／分钟”。</p><p><b><i>2）微分控制项</i></b></p><p>        前面我们解释了比例控制项的由来和含义，到目前为止，我们对于油门的控制完全来自于图1中的公式，即“油门=比例系数 x (指定点位置-地铁当前位置)=比例系数 x 距离误差值&#34;。但是仔细想一想，仅仅用比例来控制是否会出现什么问题？会的。由于“油门大小”是和“距离误差值”成正比的，那么就是只要“距离误差值”不为0，“油门”就不为0；只有当“距离误差值”等于0的时候，“油门”才会为0。换句话说就是，随着地铁逐渐逼近指定点，油门也会越来越小，但是只有当地铁运动到指定点上的时候，此时油门才会完全关闭。这意味着什么？学过一点点初中物理的朋友都应该知道“惯性”这一概念，正因为任何物质都具有“惯性”，所以单独采用比例控制项会导致地铁无法停在指定点上。因为当地铁刚好到达指定点的时候，此时油门虽然变为0，但是由于惯性地铁还是会往前冲一段距离，然后在摩擦力的作用下才会停下来，而这一点就是我们之所以要引入微分控制的原因。</p><p>        那么好，既然我们意识到“惯性”会对地铁产生影响，那么按照正常思维，我们怎么才能消除“惯性”的影响呢？很简单，提前减速嘛！而这其实就是微分控制的效果------提前判断并改变。当然，很多朋友会对这个名字感到费解，为什么微分就是提前判断呢？OK下面我来解释一下这个问题。我们高中都学过函数的导数，我们都知道导数其实就是斜率，而斜率代表了函数的变化速率。见图2:</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-731eba13218b68e9a3af320ff9f3f9c8_b.jpg\" data-size=\"normal\" data-rawwidth=\"620\" data-rawheight=\"446\" class=\"origin_image zh-lightbox-thumb\" width=\"620\" data-original=\"https://pic1.zhimg.com/v2-731eba13218b68e9a3af320ff9f3f9c8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;620&#39; height=&#39;446&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"620\" data-rawheight=\"446\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"620\" data-original=\"https://pic1.zhimg.com/v2-731eba13218b68e9a3af320ff9f3f9c8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-731eba13218b68e9a3af320ff9f3f9c8_b.jpg\"/><figcaption>图2</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>        图2中，点1处的斜率大于点2处的斜率大于点3处的斜率，而我们也可以从图2中清楚地看到函数从点1运动到点2，从点2运动到点3，其上升速率是不断变慢的。换句话来说：微分表示的是一个量的变化快慢。那么好，当我们知道这个量变化的快慢之后，我们是否就可以预判它达到某一个值的时间了？是的。以地铁进站为例子，比如当我们发现地铁正以100m/s的速度冲向指定点时，我们会下意识地踩一踩刹车，因为我们觉得100m/s的速度太快了，以至于我们可能会冲过头；并且我们踩刹车的力度可以认为是和地铁的速度成正比的，也就是说当地铁以100m/s的速度冲向终点时，我们会把刹车踩地多一点，而当地铁以50m/s的速度冲向终点的时候，我们会相对轻地踩刹车。<i><b>这就是一种朴素的微分思想：“通过对速度的判断（速度就是位移的微分，所以微分是一种变化，通过微分可以知道变量的变化趋势），预知未来的运动结果，从而提前改变动力来调整运动结果。&#34;  </b></i>所以你可以看到PID控制的原理其实深深扎根于我们的本能之中，我们的大脑中蕴藏着自然的奥秘，而我们需要做的只是从中发现并提炼出来。说到这我想到明代大儒王阳明说过的一句话：“人人皆可为圣人。”王阳明秉承的思想认为普通人也具有圣人的潜质，只是这种潜质被我们的七情六欲所掩盖，假如我们能够将我们的情绪化进行修炼控制，进而发现自己的本心，那么我们也就能够称为无所不知无所不晓的圣人了。通过学习PID控制，朋友们是不是也觉得这种观点确实有一点道理呢？</p><p>        好言归正传，上面说到为了消除“惯性”带来的影响，我们在比例控制的基础上增加了微分控制。这样一来图2中的公式将会增加一项，变为图3中所示：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-701156eb47a4bdcdf953d74866418527_b.jpg\" data-size=\"normal\" data-rawwidth=\"303\" data-rawheight=\"62\" class=\"content_image\" width=\"303\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;303&#39; height=&#39;62&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"303\" data-rawheight=\"62\" class=\"content_image lazy\" width=\"303\" data-actualsrc=\"https://pic4.zhimg.com/v2-701156eb47a4bdcdf953d74866418527_b.jpg\"/><figcaption>图3</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>而图3中就是PD控制，<b><i>这个公式说明了这样一个物理含义：当我们驾驶地铁进入站点的时候，我们会根据地铁和指定点的距离来控制油门大小，随着我们不断接近指定点，我们的油门会不断减小；同时我们也会根据地铁的速度，增加一个刹车的控制量，此时我们一边踩着油门，一边踩着刹车，不断调整两者之间的比例，当我们觉得地铁速度过快的时候，我们会增大刹车力度，当地铁速度变小的时候我们会减小刹车力度。</i></b>对比图3中的公式，让我们理解一下前面这段话。当我们距离指定点很远的时候，e这一项就会很大（e代表了地铁当前位置和指定点之间的距离差，也就是误差量），所以比例项就会很大，这意味着我们会给一个比较大的油门；但是如果此时地铁的速度非常快，那么de/dt这一项也会很大（de/dt是速度，距离的导数是速度，这个应该大家都懂吧？），于是微分项也会很大，这意味着我们同时会踩着一个比较大的刹车。<b><i>这时候注意：ad我们取的是负数，于是微分项会削弱比例项！并且地铁的速度越快，微分项对比例项的削弱效果越严重。</i></b>所以你们看，微分项实际上是在制衡比例项，换句话说微分项通过判断地铁的速度，来预判地铁是否会由于“惯性”而冲过头，进而通过削弱比例项来让地铁提前失去动力，从而保证地铁最终不会冲过头；而比例项则是通过判断距离终点还有多远来给油门，只要还没到终点，油门就不能松，所以比例项的目的只是要让地铁冲向目的地，过不过头它管不了。</p><p><i><b>3）积分控制项</b></i></p><p>        上面讲了“比例控制项”和微分控制项“，那么是否这样就够了呢？哈哈其实还是不够。为什么？我们接着上面讲的情况往下思考。比例控制项可以提供动力，让地铁疯狂冲向指定点，然后微分控制项会通过监视地铁的速度，从而不断回调比例控制项的大小，避免地铁冲过头，所以假如ap和ad两个参数我们设置的好的话，理论上地铁是不会冲过头的，它只可能出现两种情况，1.刚好在指定点处停下来；2.还没到指定点就停下来了。对于第1点本身就是我们的目标，所以不用担心；而第2点则是我们接下来要想办法避免的，因为微分项只能保证不冲过头，但是无法应对提前停车这一状况。怎么办？这就需要积分控制项登场了。好，按照惯例让我们来想一下，作为司机假如他发现地铁还没到达指定点就停了，他会怎么做？很简单，踩油门，让地铁继续前进啊。并且司机会根据地铁的反应来判断油门给的够不够。这是什么意思呢？就是说当司机把油门增大50%的时候，假如地铁这时候像蜗牛一样往前爬，那么司机就会认为油门给少了，于是会进一步增加油门到80%，如果地铁还是很慢，那就把油门增加到100%。好，让我们把这个过程的数学模型提炼出来，见图4:</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-aba5188ef71aa9214e0326f95958861f_b.jpg\" data-size=\"normal\" data-rawwidth=\"454\" data-rawheight=\"66\" class=\"origin_image zh-lightbox-thumb\" width=\"454\" data-original=\"https://pic4.zhimg.com/v2-aba5188ef71aa9214e0326f95958861f_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;454&#39; height=&#39;66&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"454\" data-rawheight=\"66\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"454\" data-original=\"https://pic4.zhimg.com/v2-aba5188ef71aa9214e0326f95958861f_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-aba5188ef71aa9214e0326f95958861f_b.jpg\"/><figcaption>图4</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>从图4中我们可以看到，积分控制项是一个累加项，也就是不断累加“误差”然后乘上一个系数。这一项的物理意义是什么呢？我们来想像这样一个场景：假如地铁在距离指定点10米的地方停了下来，然后此时图4中第二项即微分项为0，因为此时速度为0，这也就是前面说的微分项对于提前停车是无能为力的；图4中第一项比例项很小，因为误差e只有10，所以比例控制项不足以拉动地铁最终到达指定点；而此时第3项积分项要大显神威了，由于地铁一直停在10米位置，所以第三项会随着时间不断累加，即10+10+10......于是第三项的值会不断增大，于是Force就会增大，并且这样一直增加下去，直到地铁开始移动，一旦地铁开始移动，那么第三项的增长速率就会回落，即10+10+10+9+8+7......所以可以看到，只要误差一直存在，积分控制项就会一直存在并不断增大，直到误差被消除，当误差被消除的时候积分项的增长也会停止。</p><p>        讲到这，心细的朋友可能会问一个问题：“当误差被消除的时候，意味着地铁刚好达到指定点，那么此时积分项的增长停止了，但是积分项只是停止了增长但不为0啊，那么Force也就不为0，所以地铁还是会继续前进的？” 是的，但是别忘了我们还有微分项。因为随着地铁速度的增加，微分控制项会再次激活，从而牵制积分项的增长，所以微分项是一个很重要的因子，它不但牵制比例项，也牵制积分项，从而限制Force的大小，最终的效果就是地铁稳稳地停在指定点。(<b><i>微分项其实对应的就是物理概念中的“阻尼”，“阻尼”的一大特点就是“阻尼力”的大小和“速度“成正比例关系，而增加微分项其实就是增加系统的阻尼，所以对于无阻尼系统，我们往往需要增加微分项，但是对于本身阻尼就很大的系统我们一般不需要增加微分项，只需要用到PI控制即可，比如对于某些液压设备，就只需要用到PI控制</i></b>）</p><p><i><b>注：积分项存在一个超调的现象，也就是说如果误差存在时间过长，积分项会累积的非常大，以至于微分项无法快速将其抵消，这时候也会出现”冲过头“的现象，所以针对积分控制项，我们往往会限定一个上限值，一旦积分项累积达到上限值的时候，积分项将停止累加。</b></i></p><p>好了，PID控制的原理大致如上。总结一下以上过程：PID控制分别指比例控制（P），积分控制（I），微分控制（D），它们三者互相之间相互促进又相互牵制，最终让Force达到一个最佳值，进而控制我们的系统达到最终位置。而对于各种工业系统，并不一定要将三者全部用到，有时候我们只用PI控制，有时候我们只用PD控制，有时候PID我们全都用到。那么什么时候用PI，什么时候用PID呢？这就涉及到下面的内容了，如何调制PID控制参数。</p><p>最后说一句，PID控制是一个需要不断去思考领悟的东西，本身并不抽象但是由于P，I，D三项之间互相牵制，所以会比较搞脑子。尤其是在一些系统中用到的是两个控制环，也就是一个大的PID控制里面带着一个小的PID控制，这时候就会非常搞脑子，所以需要慢慢去思考每一个细节。</p>", 
+            "topic": [
+                {
+                    "tag": "Arduino", 
+                    "tagLink": "https://api.zhihu.com/topics/19581430"
+                }, 
+                {
+                    "tag": "PID Controller PID控制", 
+                    "tagLink": "https://api.zhihu.com/topics/20032309"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "YoKe", 
+                    "userLink": "https://www.zhihu.com/people/f3971536354e9cbf0dba47d882336a39", 
+                    "content": "这么好的文章没有评论，我来做第一个", 
+                    "likes": 5, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "期待下一篇文章", 
+                    "likes": 2, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "wyman lei", 
+                    "userLink": "https://www.zhihu.com/people/1e3e080846b6e82faed086f9e0525288", 
+                    "content": "提到pid，我觉得必须要提开环闭环", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "何不", 
+                    "userLink": "https://www.zhihu.com/people/a6cfbb99874bc1ed0151cc9572b481a3", 
+                    "content": "不错，以后可能会用到，占个位。", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "嗨嗨嗨韦小德", 
+                    "userLink": "https://www.zhihu.com/people/8bebb75b9f6d2c139ac8d8ba6cedcfd6", 
+                    "content": "<p>对于积分菜鸟来说真的是受益颇多，知乎处子赞赏就这样没了。加油！继续更，期待ing</p>", 
+                    "likes": 1, 
+                    "childComments": [
+                        {
+                            "userName": "johnson", 
+                            "userLink": "https://www.zhihu.com/people/f75938c9ea49b8623dcb13e2f21df18b", 
+                            "content": "多谢您的支持[握手]", 
+                            "likes": 2, 
+                            "replyToAuthor": "嗨嗨嗨韦小德"
+                        }, 
+                        {
+                            "userName": "嗨嗨嗨韦小德", 
+                            "userLink": "https://www.zhihu.com/people/8bebb75b9f6d2c139ac8d8ba6cedcfd6", 
+                            "content": "<p>快速更新哟</p>", 
+                            "likes": 2, 
+                            "replyToAuthor": "johnson"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "嗨嗨嗨韦小德", 
+                    "userLink": "https://www.zhihu.com/people/8bebb75b9f6d2c139ac8d8ba6cedcfd6", 
+                    "content": "<p>期待快速更新</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "图图", 
+                    "userLink": "https://www.zhihu.com/people/2ed3970f0de59f67bdae2168ea0bc0af", 
+                    "content": "期待下一篇[赞同][赞同][赞同][赞同][赞同]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "李伟", 
+                    "userLink": "https://www.zhihu.com/people/5fd9e3dab56792605565103e9674cd95", 
+                    "content": "<p>PD控制比喻的很好，I应该是用来控制外界干扰，提供系统稳定性的吧，如果用下坡，上坡来比喻会更好</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "Flamer", 
+                    "userLink": "https://www.zhihu.com/people/3aa0f932688bf59389435663bbe2546e", 
+                    "content": "[大哭][大哭][大哭]感动到哭 ", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "为谁流下潇湘去", 
+                    "userLink": "https://www.zhihu.com/people/bc804ce41f0310b9bbf6fc5480eaedce", 
+                    "content": "期待更新啊", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>简书上也是你写的么？好久还没有下集了。</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "wyr", 
+                    "userLink": "https://www.zhihu.com/people/9d25cb8d4c8c178265706dcc146524c5", 
+                    "content": "受益匪浅[赞]", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "下一篇在哪里🧐", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "johnson", 
+                            "userLink": "https://www.zhihu.com/people/f75938c9ea49b8623dcb13e2f21df18b", 
+                            "content": "下一篇其实不知道写啥[害羞]PID基本也就这些内容，理论好讲，关键在于实践。下一篇估计会讲讲编程", 
+                            "likes": 3, 
+                            "replyToAuthor": "知乎用户"
+                        }, 
+                        {
+                            "userName": "Lee NUDT", 
+                            "userLink": "https://www.zhihu.com/people/d949bc9b8231df56bf0d73e4d0c0666a", 
+                            "content": "哇哇哇跪求写一篇啊啊啊啊", 
+                            "likes": 0, 
+                            "replyToAuthor": "johnson"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>非常期待下一集</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "知乎用户", 
+                    "userLink": "https://www.zhihu.com/people/0", 
+                    "content": "<p>希望可以讲一讲比如PID在控制无人机、机器人小车之类的应用</p>", 
+                    "likes": 0, 
+                    "childComments": []
+                }, 
+                {
+                    "userName": "陈磊", 
+                    "userLink": "https://www.zhihu.com/people/0270e69ed0c79f531b5468d35c4af96f", 
+                    "content": "没学过自动化，不是这个专业，之前一直以为就是不停反馈纠错的意思", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/42176419", 
+            "userName": "johnson", 
+            "userLink": "https://www.zhihu.com/people/f75938c9ea49b8623dcb13e2f21df18b", 
+            "upvote": 28, 
+            "title": "Arduino菜鸟通俗版解读系列（4）串口通信USART", 
+            "content": "<p><a href=\"https://link.zhihu.com/?target=https%3A//v.youku.com/v_show/id_XMzc0NjQ2OTQxMg%3D%3D.html%3Fspm%3Da2hzp.8244740.0.0\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">v.youku.com/v_show/id_X</span><span class=\"invisible\">Mzc0NjQ2OTQxMg==.html?spm=a2hzp.8244740.0.0</span><span class=\"ellipsis\"></span></a></p><p>       这一篇来讲一个重要的知识点---串口通信。上面的视频是一个用到串口通信的例子，视频中的MPU6050惯性测量单元和Arduino之间就是通过串口通信进行数据传输的，另外，电脑对于Arduino的监控也是通过串口通信进行监控的。<b><i>（请大家注意区别：串口通信，串行通信，串行通信指的是一个大类，区别于并行通信；本系列中提到的串口通信一般指Arduino上面的USART通信模式，USART也是串行通信的一种，可以有硬串口，软串口两种实现方式，并且USART是一种异步串行通信，关于串行通信后面会有专门的一篇总结文章，以区分各种概念）</i></b></p><p>        由于串口通信个人感觉内容比较抽象，不知道如何讲起，所以打算从以下3方面来讲解：</p><p>1）串口通信是干什么的？为什么很重要？串口通信和串行通信的简单区别介绍？</p><p>2）Arduino上的串口通信是怎么工作的？</p><p>3）如何实现遥控？</p><p>        其中1）和2）部分会在这一篇讲解，3)遥控由于涉及到专门的NRF24L01模块，所以会在下一讲进行。</p><p>1）串口通信是干什么的？为什么很重要？串口通信的种类？</p><p><b><i>        串口通信是用来在不同电子设备之间交换数据用的技术，其实就是要实现不同电子设备之间的“通讯对话”。</i></b>试想在第2篇中讲到的LED小灯，如果我要通过电脑，实时传送一个亮度控制参数给Arduino，怎么实现呢？在之前几篇的讲解中，亮度控制参数都是直接写到程序中，然后随着程序烧入Arduino实现的。这就意味着我没有办法随时随地地去改变LED灯的亮度参数，因为如果我想改变这个亮度参数，我就需要在程序中进行修改并重新烧录程序进入Arduino。</p><p>        那怎么才能够通过Arduino“<b><i>实时</i></b>”地去控制LED小灯的亮度呢？想实现“实时”功能当然就得建立一个和Arduino的通信通道，这样才能随时随地的将我们的意图传达给Arduino，并让Arduino来执行。在此，我们通过电脑作为我们的指令发送装置，所以我们要在电脑和Arduino之间建立起这样一个通信通道，这样的通信通道就是串口通信。</p><p>        有了上面一段所讲的基本想法，那么具体到程序里面的形式又是怎样的呢？基本逻辑是我们在程序里预留一个变量,例如val，这个变量val用来存储LED灯的亮度值，在第一次烧录程序的时候我们并不给val赋上具体的值，而是通过后续的串口通信，把这个值传送给val，然后让Arduino直接用val来控制LED灯，随着我们通过电脑串口通信不断改变 val的值，从而起到实时控制Arduino的效果。具体程序可见图1：</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-38bd62a886579019dfb34de745b086de_b.jpg\" data-rawwidth=\"708\" data-rawheight=\"602\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"708\" data-original=\"https://pic3.zhimg.com/v2-38bd62a886579019dfb34de745b086de_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;708&#39; height=&#39;602&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"708\" data-rawheight=\"602\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"708\" data-original=\"https://pic3.zhimg.com/v2-38bd62a886579019dfb34de745b086de_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-38bd62a886579019dfb34de745b086de_b.jpg\"/></figure><p>图1</p><p>        图1中的程序用于点亮一个LED小灯，其中的变量val用来控制LED灯的亮度，可以看到在程序开头并没有对val赋值；那么什么时候赋的值呢？就是步骤1和步骤2。步骤1的作用是读取串口寄存器中的信息（<b><i>这个串口寄存器就是串口通信数据的暂存地，我们通过计算机输出的信息将会先到达串口寄存器，然后我们再从串口寄存器中转移信息到Arduino的内存</i></b>），并将这个信息存储入A数组；然后在步骤2中，将A数组中的信息转换成10进制的阿拉伯数字，并赋值给val。通过步骤1 和步骤2我们就完成了将信息从电脑传送到Arduino内存这样一个过程。好像明白了一些对吗？别急，这里面有两个重要点需要说一下：第一，在前面我们直接就开始读取串口寄存器中的数据了，但是计算机的信息到底是怎么通过USB线传送到串口寄存器的？数据在串口寄存器里又是怎么分布的？这是个很重要的问题，明白了这个问题也就明白了为什么我们需要在图1中的程序里加上delay(100)这条命令，如果不加这条命令我们将得到完全错误的结果；第二，为什么我们要加上val=strtol(A,NULL,10)这条命令？这条命令也非常重要。  OK，对于第一个问题，我们将在讲解“Arduino上USB端的串口通信是怎么工作的？”时给出答案，现在先讲讲为什么要加上val=strtol(A,NULL,10)这条命令？先说一下这条命令的功能：即将A信息转换成10进制的阿拉伯数字，然后赋值给val 。好，继续讲，还记得第一篇中我们讲到Arduino的编程环境中有一个按钮，叫做“串口通信监视窗口”吗？，见图2。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-7ddf440d392656aa18a60748a4c5f1f6_b.jpg\" data-rawwidth=\"1240\" data-rawheight=\"546\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1240\" data-original=\"https://pic3.zhimg.com/v2-7ddf440d392656aa18a60748a4c5f1f6_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1240&#39; height=&#39;546&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1240\" data-rawheight=\"546\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1240\" data-original=\"https://pic3.zhimg.com/v2-7ddf440d392656aa18a60748a4c5f1f6_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-7ddf440d392656aa18a60748a4c5f1f6_b.jpg\"/></figure><p>图2</p><p>        图2中，点击右上角的按钮可打开如左侧的对话框，这个对话框中可以输入你想传送给Arduino的信息（注意：一定要将对话框下面的波特率与右侧程序中设置的波特率保持一致），在这里我们想传送100这个数值给到Arduino。<i>但是！</i><b>在串口对话框中输入的任何信息都是字符型的信息，包括数字信息在内，都是以字符型存在的。所以在图2对话框中的100其实是三个字符，即‘1’，‘0’，‘0’。只不过它们看上去像阿拉伯数字100，但是它们绝对不能够直接用于数学运算。所以在程序中，我们需要增加一条命令来将字符信息转换成数字信息，然后才能传给val用以控制LED灯亮度。</b>所以我们需要val=strtol(A,NULL,10)这条命令，来完成字符向数字的转变。讲到这里我们应该大致了解到串口通信是干什么的了，简单说就是用来让Arduino和电脑或者其他芯片进行沟通的，所以串口通信很重要，如果没有串口通信，Arduino就成了哑巴和聋子，只能自己和自己玩（比如前面讲的LED灯项目，没有用到串口通信，所以其实只是一个封闭的项目），无法通过和外界沟通信息来完成更复杂的功能了。</p><p>        接着简单说说串口通信和串行通信的区别。是这样，串行通行是一个大类，下面包括好多种类型：SPI，I2C，USART等等。其中USART在Arduino上又叫串口通信，也叫同步／异步收发器。SPI，I2C，USART它们都属于串行通信方式，区别在于SPI，I2C为同步串行通信，它们通过时钟线来协调发送端和接收端的动作；USART（串口通信）属于异步串行通信，它需要通过设定波特率来协调发送端和接收端的动作。</p><p>2）Arduino上串口通信是怎么工作的？</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-43f3ff5bf91ad8510ca6b18378191a45_b.jpg\" data-rawwidth=\"1240\" data-rawheight=\"930\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1240\" data-original=\"https://pic2.zhimg.com/v2-43f3ff5bf91ad8510ca6b18378191a45_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1240&#39; height=&#39;930&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1240\" data-rawheight=\"930\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1240\" data-original=\"https://pic2.zhimg.com/v2-43f3ff5bf91ad8510ca6b18378191a45_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-43f3ff5bf91ad8510ca6b18378191a45_b.jpg\"/></figure><p>图3</p><p>        这是本讲的核心内容。首先看一下图3。图3中表示的场景是一台电脑正在通过USB串口通信传送信息给Arduino。在Arduino的USB接口连接一个串口寄存器，它是用来<b><i>暂时</i></b>存放电脑传过来的信息的（之后Arduino会根据开发者的程序，从串口寄存器中提取数据，保存到Arduino内存中），在和电脑通过USB串口通信时，默认分配给Arduino UNO的串口寄存器空间可存放63帧的信息（注意是Arduino UNO，如果是Arduino其他类型的板子可能这个空间大小会不一样）。注意图中电脑连接线上的一个个小点，每一个小点代表一帧信息，电脑就是这样像图3中所示一帧一帧地传送信息的。由于串口寄存器空间默认为63帧，所以如果数据很多，我又没能及时读取并清空寄存器中的信息的话，后来的信息会覆盖之前的信息，造成信息丢失。这个该怎么理解呢？首先讲一下什么是一帧信息？一帧你可以理解为一个数据包，这个数据包包含若干字节的内容，如图4所示。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-8e66be347548534174f9b30f1220fdaa_b.jpg\" data-rawwidth=\"1240\" data-rawheight=\"930\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1240\" data-original=\"https://pic3.zhimg.com/v2-8e66be347548534174f9b30f1220fdaa_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1240&#39; height=&#39;930&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1240\" data-rawheight=\"930\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1240\" data-original=\"https://pic3.zhimg.com/v2-8e66be347548534174f9b30f1220fdaa_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-8e66be347548534174f9b30f1220fdaa_b.jpg\"/></figure><p>图4</p><p class=\"ztext-empty-paragraph\"><br/></p><p>        一帧信息中第一个字节代表帧头，最后一个字节代表帧尾。帧头和帧尾是用来分辨一个完整帧信息的，假如没有帧头，Arduino将无法知道这一帧信息从何处开始，没有帧尾的话Arduino将无法知道这一帧信息在何处结束，在帧头和帧尾之间就是我们真正传送的信息,每一帧信息的大小在不同的串口设备上是不同的，例如在Arduino和电脑通信的USB串口上，一帧等于3个字节（帧头，信息，帧尾），而在MPU6050这款惯性测量单元芯片上，一帧等于10个字节，所以具体一帧多大要看你买的芯片的设置，这些信息在购买时卖家提供的网上资料里都会有说明。上面讲了帧头和帧尾以及一帧信息的构成，为什么要这样构成呢？为什么要加上所谓的帧头和帧尾呢？这其实也可以通过一个比喻来形象地说明：如图4中绘制的一群小人。这一群小人排队通过一个关卡，关卡有个管理员，这个管理员就相当于Arduino的处理器，而这一群小人就相当于从电脑端发送过来的信息。假设这些小人是从很远的一个营地跑过来的，那么营地就相当于一台电脑，他们在管理员面前暂时等待的区域就相当于串口通信寄存器。现在管理员要指挥这一排小人有秩序地通过关卡，这就相当于Arduino处理器要依次读取寄存器中的信息。好，我们可以看到每一组小人有一个排头兵和一个排尾兵，那么这个管理员会通过识别排头兵和排尾兵从而有秩序地让小人一队队地通过，每一队小人就相当于一帧信息，而管理员的通过规则是：每次看到排头兵就开始放行，一直到发现排尾兵为止则停止通行；然后隔一小会儿再让下一队通过。那么按照我们的常识就会知道，如果管理员放行的速率太慢，那么由于不断有后续的小人从营地跑过来，这个暂时等待的地方就会装不下这么多小人，这时候后面赶来的小人就会挤兑前面的小人，也就相当于刚才我们说的：后来的信息会覆盖前面的信息，造成信息丢失。</p><p>        那么这种由于放行速度过慢而导致信息被覆盖丢失的情况会出现在串口通信中吗？一般不会出现的，因为Arduino的主频有16M，也就是每秒运算160万次；而串口通信的速度（也就是前面讲到的波特率）最高一般用到115200，也就是每秒115200个比特，约为14400个字节(通信应该按照帧数来计量，此处用字节只是为了让读者直观感受115200比特的大小，请大家注意区分帧和字节的区别)。这样看来当后序的信息传送过来的时候，前面的信息早就被Arduino读取完毕了，所以不会出现挤兑的情况。<b><i>在此我给出一个乌龟赛跑的概念</i>：假如你把前面例子中的管理员换做你自己，一队小人换作一只乌龟，那么<i>串口传输信息的速度和Arduino运算的速度相比，相当于一排乌龟排队冲刺，然后你拿着一个钳子捉乌龟，每当一只乌龟到达你面前你就抓走一只；就算乌龟再努力地奔跑，对于你而言都是很慢的，所以不会出现乌龟来的太快导致你来不及抓而产生拥堵</i>。</b></p><p>        OK，上面讲了Arduino和电脑之间进行串口通信时，信息是以一帧一帧的形式来传送的，下面来看看这些信息在抵达Arduino的USB端口后是怎么进入到Arduino内部的。在图1中的程序里我们只是直接告诉你用Serial.read()命令就可以读取，但是其中的物理过程是怎么样的呢？先看一下图5，图5显示了电脑和Arduino之间串口通信时的接线方式，当然这些接线都集成在USB线内部，我们看到的只是一根完整的USB线。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-2826e1a883f605f031ea5cbff5f5063b_b.jpg\" data-rawwidth=\"1240\" data-rawheight=\"620\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1240\" data-original=\"https://pic4.zhimg.com/v2-2826e1a883f605f031ea5cbff5f5063b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1240&#39; height=&#39;620&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1240\" data-rawheight=\"620\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1240\" data-original=\"https://pic4.zhimg.com/v2-2826e1a883f605f031ea5cbff5f5063b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-2826e1a883f605f031ea5cbff5f5063b_b.jpg\"/></figure><p>图5</p><p class=\"ztext-empty-paragraph\"><br/></p><p>        图5中可见，电脑和Arduino之间的串口通信都需要一个专门的串口通信芯片（USB两端是否分别集成一个串口通信芯片不确定，但是可以这样理解，假定就是通过两端的串口芯片进行的串口通信），这两块串口芯片各自都有4个接口：5V，TX，RX，GND。两块芯片的5V口和GND口要接到一起，5V和GND这两个接口的作用是给芯片供电。TX接口是发送口，就是信息从这个口发送出去，RX接口是接受口，就是信息从这个口接收进来。所以对于电脑而言，电脑的TX口应该接Arduino的RX口，电脑的RX口应该接Arduino的TX口。另外提一句：<b><i>SPI通信模式不使用TX和RX这种写法，而是采用MOSI和MISO这样的写法，MOSI的意思就是master out slave in,MISO的意思就是master in slave out,从字面上理解MOSI就是主机输出从机接收，MISO就是主机接收从机输出。所以我们看到TX，RX那么基本上说明这个模块用的是USART，如果是MOSI和MISO，那么这个模块用的是SPI。</i></b></p><p>       了解完接线形式后，现在假设我们从电脑上发送了三个帧的数据给到Arduino，这三个帧的内容分别是&#39;a&#39;,&#39;b&#39;,&#39;c&#39;。那么这三个字母是怎么进入到Arduino内部的呢？看图6。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-f5cd9fa0ee329a05a70f5df0c3e97df2_b.jpg\" data-rawwidth=\"1159\" data-rawheight=\"723\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb\" width=\"1159\" data-original=\"https://pic3.zhimg.com/v2-f5cd9fa0ee329a05a70f5df0c3e97df2_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1159&#39; height=&#39;723&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1159\" data-rawheight=\"723\" data-size=\"normal\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1159\" data-original=\"https://pic3.zhimg.com/v2-f5cd9fa0ee329a05a70f5df0c3e97df2_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-f5cd9fa0ee329a05a70f5df0c3e97df2_b.jpg\"/></figure><p>图6</p><p class=\"ztext-empty-paragraph\"><br/></p><p>        图6中左侧给出的是对应的程序，右侧给出的是Arduino内部的物理过程。</p><p>        首先，右侧中步骤1至步骤4这段时间内，信息一帧一帧地进入串口寄存器中，假如我们想要一次性读取所有的信息，那么在步骤1到步骤4的这段时间内我们不能够对信息进行读取，因为这个时候信息还没有完全传送完毕，也就是说所有信息没有全部进入寄存器。假如我们在图6中的步骤2就开始读取寄存器中的信息，那么我们将只能获得&#39;a&#39;这个信息。这就是前面讲到的“乌龟理论”，对于Arduino来讲，串口信息的传送是很慢的，虽然串口通信1秒能传送上万个字节，对于我们人类来说是一眨眼的功夫，但是对于Arduino这个1秒钟运算160万次的芯片来说，这就是乌龟爬行的速度，所以我们必须在开头给Arduino设置一个等待时间，这个等待时间一般就设定100ms即可，这就是为什么要加上delay(100)这条命令的原因。</p><p>        然后，当等待时间结束，这时候我们认为信息已经完全传送完毕。当然，说实话这都是靠猜，我们估计100ms信息传送完毕了，可能信息早在10ms 的时候就传送完毕了，不过没关系，为了保险我们宁可多等待一会儿，反正是毫秒级的时间损失，对于我们来说多等几十毫秒根本感觉不出来，当然你觉得有把握的话也可以把等待时间缩短一些，比如50ms甚至20ms都可以，你可以尝试着用，假如没有出现信息丢失那你完全可以用更短的等待时间。信息完全传送完毕后，我们才开始要把信息从串口寄存器中都读取出来了，也即是步骤5到步骤7的过程。注意，图6中的黑线指向的那个“大箭头”是Arduino内部的一个指针，这个指针时刻监测着串口寄存器，我们随时可以使用命令Serial.available()来调动这个指针，获取传入信息的数量，当然如我们所说，要等信息全部传送完毕后再开始调用，假如我们在步骤2就调用Serial.available()的话，我们只能探测到一个数据。而在图6中的步骤4我们可以看到，总共有三个信息传入了寄存器，所以这个时候调用Serial.available()获得的值是3，然后我们把这个值赋给变量j，于是变量j就代表了寄存器中信息的数量。</p><p>        最后，还是这个指针，我们可以使用命令Serial.read()来调动这个指针来抓取数据，注意Serial.read()每次可以抓取一帧的信息，每次抓取走信息后，寄存器中原本存放这个信息的空间就空了出来，我的意思是：<b><i>Serial.read()命令不是复制信息而是剪切信息</i></b>。好，回过头来说，3个信息每次抓取1个，那么为了抓取寄存器中的所有信息，我们需要抓取3次，于是我们采用了一个 for循环，循环数设定为j，这样就可以自动抓取所有寄存器中的信息了。每次抓取的数据我们将会存储到数组A中，A是我们在程序开头就定义好的一个字符型数组。关于A数组要注意两点：1）必须定义为字符型数组，因为我们讲过电脑串口输入的所有信息都是字符形式传输的，就算是阿拉伯数字也只是一个字符，而不是真的阿拉伯数字；2）A数组的空间大小在定义的时候要给足，假如我们打算每次处理1帧的数据，那么A的空间就要给到1帧或更多；假如我们每次打算处理3帧的数据，那么A的空间就要大于等于3帧。然后我们把“帧”换算成字节来定义A的空间。关于“帧”和字节的关系本篇前半部分有讲。</p><p>        以上就是串口通信的的原理和内部传输过程。通常我们购买一些涉及到串口通信的芯片时，买家都会提供一些资料，这些资料里往往会有适用于这款芯片的“串口通信库”或者现成的串口通信程序，所以我们也不需要完全自己去编写串口通信的程序，但是本篇讲的通信原理是一定要了解的</p>", 
+            "topic": [
+                {
+                    "tag": "编程", 
+                    "tagLink": "https://api.zhihu.com/topics/19554298"
+                }, 
+                {
+                    "tag": "Arduino", 
+                    "tagLink": "https://api.zhihu.com/topics/19581430"
+                }, 
+                {
+                    "tag": "嵌入式系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19565752"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "猫科猿", 
+                    "userLink": "https://www.zhihu.com/people/962d4506b42634b7fce8b214bb831450", 
+                    "content": "串口115200的波特率每秒字节可不是14400，一般通讯是无奇偶验校，一个停止位，在加上一个开始位，会有10bit来传输一个byte，那么理论的速率是115200/10=11520个", 
+                    "likes": 0, 
+                    "childComments": [
+                        {
+                            "userName": "johnson", 
+                            "userLink": "https://www.zhihu.com/people/f75938c9ea49b8623dcb13e2f21df18b", 
+                            "content": "多谢，确实这部分写的不严谨。事实上严格的说应该按照帧数来计量，您讲的开始位和结束位实际上是指一个完整帧的结构。此处用字节来表述只是想有个直观概念不过似乎有点误导读者了。八个bit一个字节这一点没错，这个地方的问题其实出在，您讲的是帧，我这里讲的是字节。", 
+                            "likes": 1, 
+                            "replyToAuthor": "猫科猿"
+                        }, 
+                        {
+                            "userName": "johnson", 
+                            "userLink": "https://www.zhihu.com/people/f75938c9ea49b8623dcb13e2f21df18b", 
+                            "content": "之所以我才用字节而不是按照帧数来提现115200的大小，是因为帧的结构各不相同，帧数的多少不能很好地体现出数据量的大小，所以按照字节来看会更直观一点。不过还是非常感谢您的互动，点个赞！", 
+                            "likes": 0, 
+                            "replyToAuthor": "猫科猿"
+                        }
+                    ]
+                }, 
+                {
+                    "userName": "faith", 
+                    "userLink": "https://www.zhihu.com/people/9d82047df41a3185064094c83faaa3da", 
+                    "content": "为什么这么好的干货都没人赞[思考]<br>感谢作者为我答疑解惑[调皮]", 
+                    "likes": 0, 
+                    "childComments": []
+                }
+            ]
+        }, 
+        {
+            "url": "https://zhuanlan.zhihu.com/p/42177370", 
+            "userName": "johnson", 
+            "userLink": "https://www.zhihu.com/people/f75938c9ea49b8623dcb13e2f21df18b", 
+            "upvote": 20, 
+            "title": "Arduino菜鸟通俗版解读系列（5）NRF24L01模块", 
+            "content": "<p> 大家好，好多天没有更新文章了。前段时间一直在捣鼓四轴，各种焊接和调试，所以没有顾得上写文章。这一讲我们来讲一讲NRF24L01这个模块。随着这个系列讲解的深入，会涉及到越来越多的专业知识，有的我本人也无法讲解的非常清楚，因为都是基于实际项目而思考产生的一些个人理解，通过本人口语化的讲解希望能给读者带来不一样的感悟。但在系列的撰写过程中我也发现有的问题真要讲清楚，绝不是一两句口语能讲清楚的，因为其中涉及到一些专业概念，而这些专业概念如果采用非专业术语去讲解的话，可能会花费大量的篇幅，这也是为什么前面几片文章会有这么多字数的一个原因。所以我也在思考一个问题：<b><i>是不是所有问题都必须讲彻底，讲细致？</i></b>尤其是到了这一篇---NRF24L01，我发现有很多细节我自己也不是特别清楚，但是这并不影响我的使用，所以在<b><i>这一篇中我打算采用一个核心宗旨：以实用为基础，讲解那些实用的知识点，对于不影响使用的知识只进行定性的讲解。</i></b></p><p>  首先我们来看一下NRF24L01的样子，如图1。图1中红色框选的部分是8个针脚，这8个针脚是我们需要连接到Arduino上的。图2是这8个针脚的名称，它们按照图1中的对应位置排列，其中图1中带有白色框的引脚就是图2中的GND引脚。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-4a165e11551745168434d7f73ceadb0b_b.jpg\" data-size=\"normal\" data-rawwidth=\"282\" data-rawheight=\"471\" class=\"content_image\" width=\"282\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;282&#39; height=&#39;471&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"282\" data-rawheight=\"471\" class=\"content_image lazy\" width=\"282\" data-actualsrc=\"https://pic4.zhimg.com/v2-4a165e11551745168434d7f73ceadb0b_b.jpg\"/><figcaption>图1</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic3.zhimg.com/v2-c85a2abf15b610a0cbb1c604e28ebe76_b.jpg\" data-size=\"normal\" data-rawwidth=\"507\" data-rawheight=\"202\" class=\"origin_image zh-lightbox-thumb\" width=\"507\" data-original=\"https://pic3.zhimg.com/v2-c85a2abf15b610a0cbb1c604e28ebe76_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;507&#39; height=&#39;202&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"507\" data-rawheight=\"202\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"507\" data-original=\"https://pic3.zhimg.com/v2-c85a2abf15b610a0cbb1c604e28ebe76_r.jpg\" data-actualsrc=\"https://pic3.zhimg.com/v2-c85a2abf15b610a0cbb1c604e28ebe76_b.jpg\"/><figcaption>图2</figcaption></figure><p>        这一章我们就以一个遥控无人机电机转速为例，来说明NRF24L01怎么使用。通过NRF24L01我们可以实现遥控无人机电机转速，从而实现无人机的起飞降落，当然，真正的无人机控制还需要加入PID控制，否则一阵风过来可能无人机就会失去平衡。但是电机的转速遥控是最基本的功能。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-e321ea63466e7a2676c0344d3f27731c_b.jpg\" data-size=\"normal\" data-rawwidth=\"1240\" data-rawheight=\"930\" class=\"origin_image zh-lightbox-thumb\" width=\"1240\" data-original=\"https://pic1.zhimg.com/v2-e321ea63466e7a2676c0344d3f27731c_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1240&#39; height=&#39;930&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1240\" data-rawheight=\"930\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1240\" data-original=\"https://pic1.zhimg.com/v2-e321ea63466e7a2676c0344d3f27731c_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-e321ea63466e7a2676c0344d3f27731c_b.jpg\"/><figcaption>图3</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-b01f387d80b5900d28e3659315da1c17_b.jpg\" data-size=\"normal\" data-rawwidth=\"1240\" data-rawheight=\"930\" class=\"origin_image zh-lightbox-thumb\" width=\"1240\" data-original=\"https://pic4.zhimg.com/v2-b01f387d80b5900d28e3659315da1c17_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1240&#39; height=&#39;930&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1240\" data-rawheight=\"930\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1240\" data-original=\"https://pic4.zhimg.com/v2-b01f387d80b5900d28e3659315da1c17_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-b01f387d80b5900d28e3659315da1c17_b.jpg\"/><figcaption>图4</figcaption></figure><p>图3是一块我手焊的Arduino扩展版，这块扩展版下面插着一块Arduino。图3中间的芯片是作为接收端的NRF24L01模块，图4中的是遥控器端的NRF24L01模块。我们要做的事情是通过图4中的遥控器，把遥控杆（其实就是一个滑动变阻器）的控制数值通过遥控端的NRF24L01模块发送出去，然后在图3中接收端的NRF24L01接收这个数值，最后用这个数值来控制无人机上的四个无刷电机的转速。</p><p>下面是NRF24L01的接线方式，无论接收端还是发射端都这样接线，这些接线方式是基于文章后面下载的“库”而定的，是“库”里面默认好的设定，所以如果你采用其他版本的“库”文件，那么里面定义的接线方式可能是不一样的：</p><p><b><i>Arduino uno   </i></b>  ---     <b><i>nRF24L01</i></b></p><p>3.3V                  ---      VCC：模块供电引脚</p><p>GND                  ---      GND：模块接地引脚</p><p>7 号引脚                        ---      CSN：接收端选择引脚</p><p>8 号引脚                      ---        CE：发射／接受状态选择引脚</p><p>11号引脚                    ---      MOSI ：控制端输出，接收端输入引脚</p><p>13号引脚                      ---        SCK：时钟信号</p><p>12号引脚                      ---        MISO：控制端输入，接收端输出引脚</p><p>*IRQ引脚在本例中不需要接</p><p>        在硬件的连接上，严格按照上面的连接方式将NRF24L01和Arduino连接起来即可，千万别接错了。对于以上引脚的含义，可以做一个简单的说明，不过即使你不十分清楚也没关系，因为你只需要明白这样接上以后，遥控器发射端的NRF24L01就可以发射信号了，而接收端的NRF24L01就可以接受信号了。而对于发送什么数据，接收什么数据，接收到的数据怎么用来控制电机，这些都是软件程序上的问题，后面我们会说到。<i><b>所以你只要明白硬件的接法并且大致了解引脚含义即可，真正的数据处理要在软件程序中进行理解。</b></i>不过在这里我们还是对NRF24L01的引脚做一个简单说明，你了解大概用处就可以，如果一定想要搞清楚原理建议上网找视频看看。</p><p><b><i>VCC</i></b>和<b><i>GND</i></b>大家都明白，就跳过不讲；</p><p><b><i>CSN</i></b>是一个“片选择引脚”，即Chip Select N（N代表低电平有效），假如你想通过1个NRF24L01同多个NRF24L01进行通信的话，就需这个引脚了。一旦将想要通信的那个NRF24L01模块的CSN引脚置0，就代表你之后所有的信息传输对象针对的是这个NRF24L01模块。这就好比你是一个管理员，然后你要管理一群聋子，咋办呢？你喊他们名字肯定是不行的，于是你想出一个好办法，给每一个聋子身上挂一个双色牌，一面红色一面绿色，假如某个聋子身上的牌子翻成红色代表他处于被通信状态，假如是绿色就是不通信状态，那么好，这一群聋子中你只需要把任意一个人的牌子翻成红色，其他人翻成绿色，然后这群聋子就可以知道你到底想指挥的是哪一个人了，CSN就相当于NRF24L01的双色牌。</p><p><b><i>CE</i></b>是“模式选择引脚”，NRF24L01作为无线传输模块，必然有“接收”和“发送”两种状态，那么在决定这块NRF24L01模块是“接收”还是“发送”时，就是通过CE引脚来定义的。</p><p><b><i>MOSI</i></b>和<b><i>MISO</i></b>这两个引脚在前一篇讲过了，MOSI和MISO是串口通信中信息传输的通道，前者用于发送端传送信息给接收端的线，后者用于接收端反馈信息给接收端的线；通常在控制过程中MOSI用的多，但是有时候我们需要接收端反馈是否接收到信息的话也会需要MISO来传送反馈信息。</p><p><i><b>SCK</b></i>是“时钟引脚”，这个东西存在的意思是什么呢？我们知道NRF24L01传送数据的时候是一帧一帧的是传输的，那么好，在传输的时候我们总得有个节奏吧，发送端不能一会儿快一会儿慢的，否则接收端怎么接收呢？所以我们需要设定一个打节奏的装置，就是这个SCK时钟。SCK会打一个固定的节奏，然后传送端和接收端就可以按照这个固定的节奏有条不紊地收发信息了，否则接收端和发送端的节奏没有一个统一步调的话很容易出现信息丢失或者干脆接收不到。</p><p><i><b>IRQ</b></i>是“中断标志位”，说实话我也没深入取研究，因为没用过。</p><p>        以上是关于硬件方面的介绍和准备，下面来讲解程序方面的问题。关于本例中的程序我们同样要用到一个“库”，记住这不是从底层自己去写NRF24L01的控制，而是运用别人写好的“库”，所以你只需要知道“怎么用”和“怎么改”就可以，很多设置参数都是提前设置好的。</p><p>        在讲解程序之前，首先我们要对整个控制构想有一个了解，然后我们才能有目的地去写程序。所谓控制的构想指的是我们想要怎么样去控制电机，设置哪些开关和控制杆等等。在这个例子中的遥控装置上，我设计了一个遥控杆和一个安全按钮（见图4）。遥控杆用来控制电机的转速；安全按钮是一个总开关（图4中黄色按钮），一旦按下安全按钮遥控杆才能够起效果，否则遥控杆处于无效状态并且电机转速自动设置为0。之所以要设置安全按钮是因为无人机的螺旋桨转速极快因此非常危险，我们必须有一个安全按钮来保证我们不会误启动电机，导致我们在调试或者触摸无人机的时候发生危险。所以<i><b>控制器端有一个安全按钮，一个操控杆，当安全按钮按下时可以通过操控杆调整电机转速，当安全按钮松开时整个遥控器处于锁定状态并且电机转速设定为0。</b></i> <i>安全按钮的硬件连接如图5所示。当安全按钮断开时，pin2引脚通过下拉电阻接地，此时pin2输入的是低电平；当安全按钮闭合时，pin2引脚和5V端接通，此时pin2输入的是高电平。下拉电阻的存在是防止在安全按钮接通时5V与接地端短路。</i></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-5fbd48b137f8607854be2a36d4135d8b_b.jpg\" data-size=\"normal\" data-rawwidth=\"328\" data-rawheight=\"392\" class=\"content_image\" width=\"328\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;328&#39; height=&#39;392&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"328\" data-rawheight=\"392\" class=\"content_image lazy\" width=\"328\" data-actualsrc=\"https://pic4.zhimg.com/v2-5fbd48b137f8607854be2a36d4135d8b_b.jpg\"/><figcaption>图5</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>接下来设计接收端，接收端比较简单，就是接收到发送端的数据后，根据这个数据来设定电机的转速，注意有4个电机，所以我们需要在Arduino上分配4个接口用来控制电机。<i><b>接收端在接收到数据后，根据这个数据，通过Arduino上分配的4个接口来控制4个电机。</b></i>在有了整个系统运作的思路后我们就可以正式开始编写程序了。</p><p>发送端程序见图6。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/v2-b2ae1315cc48dad0749f1a962402f9ad_b.jpg\" data-size=\"normal\" data-rawwidth=\"478\" data-rawheight=\"643\" class=\"origin_image zh-lightbox-thumb\" width=\"478\" data-original=\"https://pic2.zhimg.com/v2-b2ae1315cc48dad0749f1a962402f9ad_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;478&#39; height=&#39;643&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"478\" data-rawheight=\"643\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"478\" data-original=\"https://pic2.zhimg.com/v2-b2ae1315cc48dad0749f1a962402f9ad_r.jpg\" data-actualsrc=\"https://pic2.zhimg.com/v2-b2ae1315cc48dad0749f1a962402f9ad_b.jpg\"/><figcaption>图6</figcaption></figure><p>图6为发送端程序，可以看到分为4大块内容：头文件，参数定义，setup主函数，loop主函数。基本上所有程序的架构都是这个样子的。下面我们分别来讲解一下：</p><p><b><i>头文件</i></b>---头文件就是“库”文件，这个“库”的概念我在前面第三篇专门用一整篇讲过了，不明白的朋友可以看一下，我就不再累述了。不过这里要说的是，既然是“库”文件，按照第三篇的说法就是别人二次开发的程序包，所以是需要我们自己上网下载源代码的，如果不下载源代码的话，那么我们是无法调用头文件的，这意味着我们在图5中那些#include ***的语句是不会产生作用的。本示例用到库的下载地址：<a href=\"https://link.zhihu.com/?target=https%3A//github.com/aaronds/arduino-nrf24l01\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">github.com/aaronds/ardu</span><span class=\"invisible\">ino-nrf24l01</span><span class=\"ellipsis\"></span></a>。把下载的Mirf文件夹解压到Arduino 安装文件夹里的 “libraries”路径里即可。这里的下载地址就是GitHub网站，一个开源的代码集散平台，上面是各路大神开发的“库”代码。在下载完上面链接里的“库”，并将其放入Arduino下面的“libraries&#34;路径中后，我们就可以使用这些“库”了。</p><p><b><i>定义相关参数</i></b>---在图6的例子中，我定义了三个参数：value[3],val,sw，其中val和sw是整型变量int，value[3]是整型数组。不过需要说一句的是value[3]其实在本例中并没有用到，因为本例中只是单纯控制电机的转速，并不需要让四个电机转速有所区别，所以只需要用到一个参数即可，所以我们在本例中只需要val这个参数来控制电机转速。但是事实上我们真正在控制无人机的时候是不可能用一个参数去控制全部四个电机转速的，因为还涉及到前进，后退，左行，右行，上升，下降等等。这些不同的状态要求四个电机之间的转速有一定差别，比如前进状态，要求前面两个电机转速稍慢，后面两个电机转速稍快，这样才能够让无人机产生一个向前的倾斜角，然后在达到倾斜平衡后，四个电机的转速需要保持恒定来保持这个倾斜状态，进而使无人机能够向前飞行。由于在真实的无人机控制中，有这么多不同的电机状态，所以我们需要多个控制变量来控制电机转速，在这个时候我们就需要通过数组来传送数据了。不过在本例中我们不会用到value[3], 我们只用到val和sw。那么好，val是直接控制电机转速的参数，所以我们在发送端发送的也就是val，接收端接收的参数也是val。sw是什么呢？正如前面我们讲到，我们需要一个安全按钮，当安全按钮按下去的时候，我们才能够控制电机转速，当安全按钮松开时，我们认为整个系统是锁死状态，此时电机转速为0；而这个sw其实就是用来监测安全按钮状态的参数。具体的逻辑在下面会讲到。</p><p><b><i>setup主函数</i></b>---这个函数内部写的是一些NRF24L01的设置参数，比如我们在通信的时候接收端和发送端之间总得有一些协议吧，这个很好理解。比如你作为发送端在讲中文，而接收端的人是个老外只懂英语，那你们俩就不是在一个频道上，没法沟通的。所以我们在通讯之前先要商量好，咱们通讯统一采用中文或者英文，这个就可以理解为频道的设定。另外还有地址的设定，这个就好比你在那儿嚷嚷，但是你是冲谁嚷嚷呢？世界那么大你总得有个对象，你得告诉对方我在和你说话呢，你听着点啊。对不对？我们在日常交流中也是一样的，你在沟通之前总得先问个好或者打个招呼，引起对方注意，然后大家开始交流，你不能直接站那儿说：“这事儿怎么办的？”那对方肯定会问一句：“你和我说话吗？”你看其实程序在很多方面和我们人类是一样的。所以在setup主程序中你必须设定这些参数，告诉发送端它对应的接收端是谁，它们之间用哪种频率通话等等。当然这些设置其实在图5中都已经设置好了，你大可不必去修改，而你需要添加或者修改的位置是我标蓝的部分。首先你要确认通信速率，图中是9600比特/s，这个数值你可以任意选（当然是IDE面板中有的数值，你可以通过下拉条来选择不同数值，IDE面板的构成在第一篇中就讲过了）但是你需要保证发送端和接收端的通信速率是一样的，也就是发送端你用了9600，那么在接收端的程序中也会有这一项并且你也要设置为9600。</p><p><b><i>loop主函数</i></b>---和setup主函数一样，里面默认的设定你都不需要更改，你需要做的就是在里面增加一些你需要的操作。图6中loop主函数内我增加了一段判断程序，<b><i>这个判断程序的逻辑是这样的：首先我读取2号引脚的值（这个2号引脚就是图5中的pin2,它的值按照图5所示，取决于安全开关的开闭状态)，并把这个值赋值给sw，当2号引脚输出低电平时，sw的值就会是0，当2号引脚输出为高电平时，sw的值就会是1。好，接下来我判断，当sw=0的时候，我把val强行定为0，当sw!=0的时候，我才允许对val进行赋值，然后这个赋值的内容来自于A5引脚的读数。</i></b>这样我们就完成了安全按钮和控制杆的程序编写，在运行过程中是这样运行的。当我按下安全按钮的时候，2号引脚输出高电平，sw赋值为1，这个时候程序会运行else if后面的语句，Arduino会读取A5引脚的数值，并将其赋值给val，而这个A5引脚是一个模拟输入引脚，它采集的是遥控杆的信号；当我们松开安全按钮的时候，2号引脚输出低电平，sw赋值为0，此时我们将val的值设定为0。这样一来我们就将遥控杆的信号，安全按钮的信号和val联系上了，当安全按钮激活后，通过拨动遥控杆val的数值会不断变化，然后val会被发送端发送给接收端，接收端再根据val值的大小对电机转速进行控制。</p><p>以上就是发送端的程序，下面来讲接收端的程序。</p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/v2-99a0a07f5819a468fa17bcc95a6533f8_b.jpg\" data-size=\"normal\" data-rawwidth=\"1022\" data-rawheight=\"744\" class=\"origin_image zh-lightbox-thumb\" width=\"1022\" data-original=\"https://pic1.zhimg.com/v2-99a0a07f5819a468fa17bcc95a6533f8_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1022&#39; height=&#39;744&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1022\" data-rawheight=\"744\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1022\" data-original=\"https://pic1.zhimg.com/v2-99a0a07f5819a468fa17bcc95a6533f8_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-99a0a07f5819a468fa17bcc95a6533f8_b.jpg\"/><figcaption>图7</figcaption></figure><p>图7为接收端程序，接收端程序的整体结构和发送端一致，也都有：头文件，参数定义，setup主函数和loop主函数。所以就不再累述整体结构了，只讲一些与发送端不同的部分，大概分这两点：1.加入了自定义函数，2.伺服电机的控制。下面我们一一讲解：</p><p><b><i>1.自定义函数-</i></b>--在接收端加入自定义函数的目的是为了让程序可读性更高。在图6的发送端程序中，我们可以看到有一大部分语句是在定义频道和地址这一类信息，这些东西都是重复性的信息并且也是我们不怎么会去修改和触碰的。在接收端也一样，同样存在这些默认的语句，那么为了让我们程序可读性更高，我们可以把这些默认的语句打包放到别的窗口中，在主窗口中只留下我们自己写的语句，这样就可以让我们的程序看起来干净很多。如图7中所示，我在主窗口之外又另开了两个窗口：一个取名为RevReading，一个取名为RevSetting,主窗口取名为NRF24L01 Receiving。RevReading和RevSetting是用来存放两个自定义函数的，那么这两个自定义函数是怎么构成的呢？其实很简单我们只需要在新窗口中给自定义函数命个名，例如：void RevReading() {...},然后把我们前面讲的那些默认语句和设定语句拷贝过来，放到{...}里面就可以了，是不是很简单？当然你在命名的时候可以取任何名字，没必要把函数名和窗口名用一样的名字，比如RevReading这个窗口中我采用了同样的名字来充当函数名，但是你也可以用a,b或者c等等来作为函数名void a() {...}或者void b() {...}诸如此类等。好了，自定义函数就是这么一回事，目的就是让程序更加简洁，明了。</p><p>2.<i><b>伺服电机控制-</b></i>--在这个例子中，我们所用到的电机是无刷直流电机，这种电机动力足转速快一般用在中等或者比较大的无人机上。前面几篇文章中讲到的空心杯电机是一种有刷直流电机，动力和转速都比较小，通常用在迷你无人机上。在讲解图7中关于电机的语句之前，我们先简单介绍一下什么是无刷直流电机。见图8。</p><p class=\"ztext-empty-paragraph\"><br/></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/v2-3ee5c05b9e316ab6ef69d5eb9166830b_b.jpg\" data-size=\"normal\" data-rawwidth=\"1240\" data-rawheight=\"581\" class=\"origin_image zh-lightbox-thumb\" width=\"1240\" data-original=\"https://pic4.zhimg.com/v2-3ee5c05b9e316ab6ef69d5eb9166830b_r.jpg\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1240&#39; height=&#39;581&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"1240\" data-rawheight=\"581\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1240\" data-original=\"https://pic4.zhimg.com/v2-3ee5c05b9e316ab6ef69d5eb9166830b_r.jpg\" data-actualsrc=\"https://pic4.zhimg.com/v2-3ee5c05b9e316ab6ef69d5eb9166830b_b.jpg\"/><figcaption>图8</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>图8中表示的是无刷直流电机接线方式。整个无刷电机的驱动分成四大部分：电机的本体，电调，Arduino控制版，电机电源。各部分的功能讲解如下：</p><p><i><b>无刷直流电机本体：</b></i>这种电机区别于传统有刷直流电机的点在于：它没有机械换向器，传统的有刷电机如果你拆开看的话，会发现在转轴上有两个小铁刷，这两个小铁刷是用来变换电流方向的，以保证电机可以连续地向着同一个方向旋转；无刷电机没有这两个小铁刷，而是采用电子换向的方法来周期性地改变电流方向，这样的好处在于更安静更耐磨，因此转速也可以设计的更快。</p><p><b><i>电调：</i></b>上面讲了无刷电机采用电子换向，那么这个电子换向是什么呢？就是这个电调，具体原理在这里就不讲了，反正记住一点：<b><i>无刷电机电调的角色就相当于有刷电机里面的电刷。</i></b>从图8中可以看到，无刷电机和电调之间有三根线连接起来，这三根线可以和电调任意搭配连接，如果想要改变电机转动方向，则将其中任意两根线对调即可。</p><p><i><b>Arduino控制板：</b></i>Arduino控制板和电调之间由三根线连接，一根5V，一个接地，一根PWM信号线。因为电调里面是有芯片的，所以需要5V和接地这两根线来给芯片供电，然后剩下的那根PWM信号线则是输出PWM信号给电调，控制电机转速的。我们在第一篇中讲到过PWM控制，PWM采用占空比来控制输出，而占空比就是在一个信号周期中高电平的时间比例，在一个具有特定周期的PWM信号中我们通过改变高电平的输出时间从而得到不同的占空比。在Arduino控制的无刷电机中，一个周期内高电平占据时间达到1000毫秒时电机转速为0，一个周期内高电平占据时间为2000毫秒时电机转速达到最高转速，在1000毫秒到2000毫秒之间电机转速由小到大，注意这个不是正比上升的关系，也就是说1500毫秒的占空比并不意味着中间速度，可能是比中间速度更快一点的速度，具体你可以通过自己尝试来找到这个关系。</p><p><i><b>电机电源</b></i>：这里我特地强调是电机的电源，为的就是和Arduino控制版上那个5V和接地线区分开来。由于无刷电机功率大所以无法用Arduino来驱动，因此需要单独给电机提供一个动力电源，而Arduino仅仅提供控制信号及控制信号的电源。</p><p>        好的，上面讲完了无刷电机的一些知识，下面就进入无刷电机的控制程序了。其实无刷电机的控制和舵机原理是一样的，舵机的控制我们在第三篇文章中有所提及，在第三篇文章中，我们在介绍采用“舵机库”控制舵机的时候说到：可以直接输入旋转角度，舵机就会自动转动相应角度；也可以通过设定PWM占空比，通过不同的占空比对应不同的转角来控制舵机。其实无刷电机原理和舵机一样，你可以把无刷电机当作舵机，然后可以用“舵机库”来控制无刷电机，唯一的区别是：<b><i>舵机中占空比对应的是旋转角度，无刷电机中的占空比对应的是转速。</i></b></p><p>  在图7中打红框的部分就是与无刷电机控制相关的语句，打蓝框的部分是NRF24L01的参数设置和信号接收部分语句。如前所述，NRF24L01的参数设置和信号接收部分的语句我打包成两个独立函数来调用了，所以我们只需要关注红色的电机控制部分内容即可，是不是清晰很多。好，接下来就是控制电机了，有这么几个步骤：</p><p>1.首先就是把类给对象化，也就是形如Servo servo1的这几条语句，关于“什么是类的对象化”，“为什么要对象化“，我在第三篇文章中做过详细的讲解，这里就不累述了。</p><p>2.在完成对象化以后servo1,servo2,servo3,servo4这四个对象就对应了我们的四个电机，然后我们需要给它们指派相应的控制引脚，分别为10，9，6，5这四个引脚，这四个引脚将会产生PWM信号给电调，进而控制电机转速，注意必须是Arduino上带有”～“标志的引脚才能够输出PWM信号。</p><p>3.把接收到的val映射成PWM中高电平的时间量。什么意思呢？我们结合图7中的程序来讲，if(val&gt;=0 and val&lt;=510) {val=map(val,0,510,1000,1200}这句话的意思是如果接收到的val的数值处于0～510之间的话，那么我们将0～510这个范围映射为1000～1200这个范围。然后下一句else if(val&gt;510 and val&lt;=1023) {val=map(val,511,1023,1201,2000)意味着如果接收到的val数值处于511～1023之间的话，则映射到1201～2000的范围内。1000，2000？是不是有点熟悉？对的，就是前面讲的PWM中高电平时间，也就是说在映射以后获得的val值将直接作为高电平的时间传送给电调来控制电机转速。另外还有一个问题，有的同学可能会问：“你为什么要分两段映射呢？”这个因为如果我直接将0～1023映射到1000～2000上，那么控制杆在平衡位置时A5引脚的输出数值510对应为1500，用1500来控制电机转速过快了，我希望在控制杆处于平衡位置时电机仅仅拥有一个较低的基础转速，所以我希望控制杆的平衡位置对应大约1200左右即可。</p><p>4.监控val的数值。Serial.print(Got Data:); Serial.println(val);这两句语句的作用是将val显示在电脑屏幕上。这一步可有可无，不过最好有，因为可以实时监控你的val值是否正常。正常来讲当val为0的时候电机转速为0， 当val为2000时电机转速为最大转速。</p><p>5.将val的值赋给电机，让电机转起来。servo1.writeMicroseconds(val)，这句语句的意思就是把val赋给电机servo1，servo1是电机的名字，就是程序开头“对象化”时候定义的。writeMicroseconds的意思是以毫秒为单位，意味着括号中val的单位是毫秒。那么当val为1000的时候，意思就是把1000毫秒赋给电机servo1,这个1000毫秒将会成为PWM信号中高电平的持续时间。</p><p>好了，至此无人机的电机遥控就讲完了，这只是最基础的部分，要想让无人机平稳地飞行还需要加入PID控制算法，这个在后续文章中再进行讲解。</p>", 
+            "topic": [
+                {
+                    "tag": "Arduino", 
+                    "tagLink": "https://api.zhihu.com/topics/19581430"
+                }, 
+                {
+                    "tag": "编程", 
+                    "tagLink": "https://api.zhihu.com/topics/19554298"
+                }, 
+                {
+                    "tag": "嵌入式系统", 
+                    "tagLink": "https://api.zhihu.com/topics/19565752"
+                }
+            ], 
+            "comments": [
+                {
+                    "userName": "学生", 
+                    "userLink": "https://www.zhihu.com/people/4d25e70f783caf0dcc50454481563312", 
+                    "content": "好认真", 
+                    "likes": 1, 
+                    "childComments": []
+                }
+            ]
+        }
+    ], 
+    "url": "https://zhuanlan.zhihu.com/c_1048229440416468992"
+}
